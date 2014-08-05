@@ -118,6 +118,35 @@ elsif($function eq 'loginIndividual'){
 	&paramCheck($email,$password);
     }
 }
+elsif($function eq 'addAdminUser'){
+    my $email = param('email');
+    my $password = param('password');
+    if(defined($email) && defined($password)){
+	my $result = &addAdminUser($email,$password);
+	my %result = ('successful' => 'false');
+	if($result == 1){
+	    $result{'successful'} = 'true';
+	}
+	print encode_json(\%result);
+    }
+    else{
+	&paramCheck($email,$password);
+    }
+}
+elsif($function eq 'removeAdminUser'){
+    my $email = param('email');
+    if(defined($email)){
+	my $result = &removeAdminUser($email);
+	my %result = ('successful' => 'false');
+	if($result == 1){
+	    $result{'successful'} = 'true';
+	}
+	print encode_json(\%result);
+    }
+    else{
+	&paramCheck($email);
+    }
+}
 elsif($function eq 'addRepresentative'){
     my $name = param('name');
     my $state = param('state');
@@ -125,11 +154,11 @@ elsif($function eq 'addRepresentative'){
     my $email = param('email');
     my $phone = param('phone');
     my $chamber = param('chamber');
-    if(defined($name) && defined($state) && defined($url) && defined($email) && defined ($phone) && defined('chamber')){
+    if(defined($name) && defined($state) && defined($url) && defined($email) && defined ($phone) && defined($chamber)){
 	my $result = &addRepresentative($name,$state,$url,$email,$phone);
 	my %result = ('successful' => 'false');
 	if($result == 1){
-	    $result{'successful'} => 'true';
+	    $result{'successful'} = 'true';
 	}
 	print encode_json(\%result);
     }
@@ -137,13 +166,13 @@ elsif($function eq 'addRepresentative'){
 	&paramCheck($name,$state,$url,$email,$phone,$chamber);
     }
 }
-elseif($function eq 'removeRepresentative'){
+elsif($function eq 'removeRepresentative'){
     my $email = param('email');
     if(defined($email)){
 	my $result = &removeRepresentative($email);
 	my %result = ('successful' => 'false');
 	if($result == 1){
-	    $result{'successful'} => 'true';
+	    $result{'successful'} = 'true';
 	}
 	print encode_json(\%result);
     }
@@ -160,7 +189,7 @@ elsif($function eq 'addBill'){
 	my $result = &addBill($title,$state,$url,$code);
 	my %result = ('successful' => 'false');
 	if($result == 1){
-	    $result{'successful'} => 'true';
+	    $result{'successful'} = 'true';
 	}
 	print encode_json(\%result);
     }
@@ -175,7 +204,7 @@ elsif($function eq 'closeBill'){
 	my $result = &closeBill($code,$open);
 	my %result = ('successful' => 'false');
 	if($result == 1){
-	    $result{'successful'} => 'true';
+	    $result{'successful'} = 'true';
 	}
 	print encode_json(\%result);
     }
@@ -223,7 +252,10 @@ elsif($function eq 'getActivatedIndividual'){
     my $email = param('email');
     if(defined($email)){
 	my $activated = &getActivatedIndividual($email);
-	my %result = ('activated' => $activated);
+	my %result = ('activated' => 'false');
+	if($activated == 1){
+	    $result{'activated'} = 'true';
+	}
 	print encode_json(\%result);
     }
     else{
@@ -255,7 +287,10 @@ elsif($function eq 'getVerifiedOrganization'){
     my $email = param('email');
     if(defined($email)){
 	my $verified = &getVerifiedOrganization($email);
-	my %result = ('verified' => $verified);
+	my %result = ('verified' => 'false');
+	if($verified == 1){
+	    $result{'verified'} = 'true';
+	}
 	print encode_json(\%result);
     }
     else{
@@ -286,15 +321,16 @@ elsif($function eq 'addOrganization'){
 	my $organizationExists = &getOrganizationNameExists($name);
 	if($organizationExists == 0){
 	    my $result = &addOrganization($name,$address,$city,$state,$zip,$phone,$legal_status,$cause_concerns, $join_reason,$individual_name,$title_in_organization,$personal_phone,$email,$password);
-	    my %resultOut = ('successful' => $result);
-	    # print encode_json(\%resultOut);
-	    print '[{"successful":"'.$result.'"}]';
+	    my %resultOut = ('successful' => 'false');
+	    if($result == 1){
+		$resultOut{'successful'} = 'true';
+	    }
+	    print encode_json(\%resultOut);
 	}
 	else{
 	    my %result = ('successful' => 'false',
 			  'name_taken' => 'true');
-	    #print encode_json(\%result);
-	    print '[{"name_taken":"true","successful":"false"}]';
+	    print encode_json(\%result);
 	}
 	
     }
@@ -320,15 +356,16 @@ elsif($function eq 'addIndividual'){
 	my $userNameExists = &getUserNameExists($username);
 	if($userNameExists == 0){
 	    my $result = &addIndividual($first,$last,$username,$birthDate,$gender,$address,$city,$state,$zip,$email,$password, $affiliation);
-	    my %resultOut = ('successful' => $result);
-	    #print encode_json(\%resultOut);
-	    print '[{"successful":"'.$result.'"}]';
+	    my %resultOut = ('successful' => 'false');
+	    if($result == 1){
+		$resultOut{'successful'} = 'true';
+	    }
+	    print encode_json(\%resultOut);
 	}
 	else{
 	    my %result = ('successful' => 'false',
 			  'name_taken' => 'true');
-	    #print encode_json(\%result);
-	    print '[{"name_taken":"true","successful":"false"}]';
+	    print encode_json(\%result);
 	}
     }
     else{
@@ -420,8 +457,8 @@ sub addBill{
     my $open = 'true';
     my $sql = "INSERT INTO bills (title,state,url,code,open) VALUES (?,?,?,?,?);";
     my $sth = $dbh->prepare($sql);
-    $sth->execute($title,$state,$url,$code,$open) or warn "SQL Error: $DBI::errstr\n" && return 'false';
-    return 'true';
+    $sth->execute($title,$state,$url,$code,$open) or warn "SQL Error: $DBI::errstr\n" && return 0;
+    return 1;
 }
 
 sub closeBill{
@@ -429,8 +466,8 @@ sub closeBill{
     my $open = $_[1];
     my $sql = "UPDATE bills SET open=? where code=?);";
     my $sth = $dbh->prepare($sql);
-    $sth->execute($open,$code) or warn "SQL Error: $DBI::errstr\n" && return 'false';
-    return 'true';
+    $sth->execute($open,$code) or warn "SQL Error: $DBI::errstr\n" && return 0;
+    return 1;
 
 }
 
@@ -443,17 +480,35 @@ sub addRepresentative{
     my $chamber = $_[5];
     my $sql = "INSERT INTO representatives (name, chamber,state,url ,email,phone) VALUES (?,?,?,?,?,?);";
     my $sth = $dbh->prepare($sql);
-    $sth->execute($name,$state,$url,$email,$phone,$chamber) or warn "SQL Error: $DBI::errstr\n" && return 'false';
-    return 'true';
+    $sth->execute($name,$state,$url,$email,$phone,$chamber) or warn "SQL Error: $DBI::errstr\n" && return 0;
+    return 1;
 }
 
 sub removeRepresentative{
     my $email = $_[0];
     my $sql = "DELETE FROM representatives where email=?;";
     my $sth = $dbh->prepare($sql);
-    $sth->execute($email) or warn "SQL Error: $DBI::errstr\n" && return 'false';
-    return 'true';
+    $sth->execute($email) or warn "SQL Error: $DBI::errstr\n" && return 0;
+    return 1;
 }
+
+sub addAdminUser{
+    my $email = $_[0];
+    my $password = $_[1];
+    my $sql = "INSERT INTO admins (email, password) VALUES (?,?);";
+    my $sth = $dbh->prepare($sql);
+    $sth->execute($email,$password) or warn "SQL Error: $DBI::errstr\n" && return 0;
+    return 1;
+}
+
+sub removeAdminUser{
+    my $email = $_[0];
+    my $sql = "DELETE FROM admins where email=?;";
+    my $sth = $dbh->prepare($sql);
+    $sth->execute($email) or warn "SQL Error: $DBI::errstr\n" && return 0;
+    return 1;
+}
+
 sub addIndividual{
     my $first = $_[0];
     my $last = $_[1];
@@ -470,8 +525,8 @@ sub addIndividual{
     my $activated = 'true';
     my $sql = "INSERT INTO individuals (first_name,last_name,username, birthdate,gender, address , city, state, zip ,email,password, political_affiliation, activated) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?);";
     my $sth = $dbh->prepare($sql);
-    $sth->execute($first,$last,$username,$birthDate,$gender,$address,$city,$state, $zip,$email,$password,$affiliation,$activated) or warn "SQL Error: $DBI::errstr\n" && return 'false';
-    return 'true';
+    $sth->execute($first,$last,$username,$birthDate,$gender,$address,$city,$state, $zip,$email,$password,$affiliation,$activated) or warn "SQL Error: $DBI::errstr\n" && return 0;
+    return 1;
 }
 
 
@@ -563,14 +618,17 @@ sub getVerifiedOrganization{
     my $email = $_[0];
     my $sql = "SELECT verified FROM organizations where email=?;";
     my $sth = $dbh->prepare($sql);
-    $sth->execute($email) or warn "SQL Error: $DBI::errstr\n" && return 'false';
+    $sth->execute($email) or warn "SQL Error: $DBI::errstr\n" && return 0;
     my $rows_retrieved = $sth->rows;
     if($rows_retrieved < 1){
-	return 'false';
+	return 0;
     }
     my @row = $sth->fetchrow_array;
     my $verified = $row[0];
-    return $verified;
+    if($verified eq 'true'){
+	return 1;
+    }
+    return 0;
 }
 
 sub setActivatedIndividual{
@@ -586,14 +644,17 @@ sub getActivatedIndividual{
     my $email = $_[0];
     my $sql = "SELECT activated FROM individuals where email=?;";
     my $sth = $dbh->prepare($sql);
-    $sth->execute($email) or warn "SQL Error: $DBI::errstr\n" && return 'false';
+    $sth->execute($email) or warn "SQL Error: $DBI::errstr\n" && return 0;
     my $rows_retrieved = $sth->rows;
     if($rows_retrieved < 1){
-	return 'false';
+	return 0;
     }
     my @row = $sth->fetchrow_array;
     my $activated = $row[0];
-    return $activated;
+    if($activated eq 'true'){
+	return 1;
+    }
+    return 0;
 }
 sub loginIndividual{
     my $email = $_[0];
@@ -612,6 +673,7 @@ sub loginIndividual{
     }
     return 0;
 }
+
 sub loginAdmin{
     my $email = $_[0];
     my $password = $_[1];
