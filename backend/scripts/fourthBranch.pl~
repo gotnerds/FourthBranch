@@ -1,0 +1,864 @@
+#!/usr/bin/perl -w
+# TODO: prepared mysql statments
+use warnings;
+use CGI::Carp 'fatalsToBrowser';
+use CGI qw/:standard/;
+use Cwd qw(cwd abs_path);
+use File::Basename 'dirname';
+use JSON::PP qw(encode_json decode_json);
+use lib dirname(abs_path $0);
+use HttpGcmServer;
+use strict;
+# Database info
+# user - goballScript
+# pass - goballScript
+
+# Users
+# --- Name 
+# --- Role 
+my $CREATE_USERS_TABLE ="create table users ( id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT, name VARCHAR(20) NOT NULL UNIQUE , role VARCHAR(30) NOT NULL, password VARCHAR(15) NOT NULL, age DECIMAL(2,0) NOT NULL,gcmid VARCHAR(4096),PRIMARY KEY (id));";
+
+# Forum
+# --- User_id 
+# --- Park_id 
+# --- Comment 
+# --- min_age
+my $CREATE_FORUM_TABLE = "create table forum (id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT,user_id MEDIUMINT NOT NULL, park_id MEDIUMINT NOT NULL, comment VARCHAR(80) NOT NULL, min_age DECIMAL(2,0) NOT NULL,PRIMARY KEY (id), FOREIGN KEY (user_id) REFERENCES users(id), FOREIGN KEY (park_id) REFERENCES parks(id));";
+
+# Forum Participants
+# User_id
+# Park _id
+my $CREATE_FORUM_PARTICIPANTS_TABLE = "create table forum_participants (id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT,user_id MEDIUMINT NOT NULL, park_id MEDIUMINT NOT NULL,entry_time DATETIME NOT NULL,PRIMARY KEY (id), FOREIGN KEY (user_id) REFERENCES users(id), FOREIGN KEY (park_id) REFERENCES parks(id));";
+
+# Park Information Listeners
+# User_id
+# Park _id
+my $CREATE_PARK_INFO_LISTENERS_TABLE = "create table park_information_listeners (id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT,user_id MEDIUMINT NOT NULL, park_id MEDIUMINT NOT NULL,entry_time DATETIME NOT NULL,PRIMARY KEY (id), FOREIGN KEY (user_id) REFERENCES users(id), FOREIGN KEY (park_id) REFERENCES parks(id));";
+
+# Parks
+# --- park(string)
+# --- rating (int)
+my $CREATE_PARKS_TABLE = "create table parks (id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT,name VARCHAR(200) NOT NULL UNIQUE, rating DECIMAL(1,0) NOT NULL,PRIMARY KEY (id));";
+
+# Review 
+# --- User 
+# --- Park
+# --- Comment
+# --- rating
+my $CREATE_REVIEWS_TABLE = "create table reviews (id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT,user_id MEDIUMINT NOT NULL, park_id MEDIUMINT NOT NULL, comment VARCHAR(80) NOT NULL, rating DECIMAL(1,0) NOT NULL, PRIMARY KEY (id), FOREIGN KEY (user_id) REFERENCES users(id), FOREIGN KEY (park_id) REFERENCES parks(id));";
+
+
+# Pick up Games
+# --- Proposed Time
+# --- park
+# --- attending
+my $CREATE_PICKUP_GAMES_TABLE = "create table pickup_games (id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT, time DATETIME NOT NULL, park_id MEDIUMINT NOT NULL, players VARCHAR(500) NOT NULL, game_type VARCHAR(3) NOT NULL,game_name VARCHAR(15) NOT NULL , age DECIMAL(2,0) NOT NULL,player_ids VARCHAR(80) NOT NULL,PRIMARY KEY (id), FOREIGN KEY (park_id) REFERENCES parks(id),UNIQUE KEY gamename_parkid (game_name,park_id));";
+
+# Friends
+# --- user1
+# --- user2
+my $CREATE_FRIENDS_TABLE = "create table friends (id INTEGER NOT NULL UNIQUE AUTO_INCREMENT, user1 MEDIUMINT, user2 MEDIUMINT, FOREIGN KEY (user1) REFERENCES users(id), FOREIGN KEY (user2) REFERENCES users(id));";
+
+# Shared Resources
+# --- resource_id
+# --- reservation_time
+# --- reservation_length
+# --- park_id
+# --- reserving_user
+# --- age
+my $CREATE_SHARED_RESOURCES_TABLE =  "create table shared_resources (id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT, reservation_time DATETIME NOT NULL, park_id MEDIUMINT NOT NULL, resource_id MEDIUMINT NOT NULL UNIQUE,reservation_length MEDIUMINT NOT NULL,reserving_user MEDIUMINT NOT NULL UNIQUE, age DECIMAL(2,0) NOT NULL,PRIMARY KEY (id), FOREIGN KEY (park_id) REFERENCES parks(id), FOREIGN KEY (reserving_user) REFERENCES users(id));";
+
+use DBI;
+###########################
+# Main
+my $VERSION_NUMBER = 1.0;
+my $curDir = cwd();
+my $hostname = `hostname`;
+my $dbh;
+if($hostname =~ /p3plcpnl0452/){
+    $dbh = DBI->connect('dbi:mysql:goball;'."mysql_read_default_file=$curDir/mysql.conf",'goballScript','goballScript') or die "Connection Error: $DBI::errstr\n";
+}
+else{
+    $dbh = DBI->connect('dbi:mysql:goball;' ."mysql_read_default_file=$curDir/mysql.conf",'root','root') or die "Connection Error: $DBI::errstr\n";
+}
+my @tables = ($CREATE_USERS_TABLE,$CREATE_PARKS_TABLE,$CREATE_FORUM_TABLE,$CREATE_REVIEWS_TABLE,$CREATE_PICKUP_GAMES_TABLE,$CREATE_FRIENDS_TABLE, $CREATE_FORUM_PARTICIPANTS_TABLE,$CREATE_PARK_INFO_LISTENERS_TABLE,$CREATE_SHARED_RESOURCES_TABLE);
+
+my @table_names = ("shared_resources", "park_information_listeners","forum_participants","forum","reviews", "pickup_games", "friends","users","parks");
+
+print header('text/html');
+print start_html('goball_api');
+#&printEnvironmentVariables();
+
+print "[";# Start the json array
+my $function = param('run');
+if($function eq 'version'){
+    print $VERSION_NUMBER
+}
+elsif($function eq 'getParkReview'){
+    my $parkId = param('parkid');
+    if(!($parkId == undef)){
+	&getParkReview($parkId);
+    }
+}
+elsif($function eq 'getParksList'){
+    &getParksList();
+}
+elsif($function eq 'getParkForum'){
+    my $parkId = param('parkid');
+    #if(!($parkId == undef)){
+	&getParkForum($parkId);
+    #}
+}
+elsif($function eq 'getParkRating'){
+    my $parkId = param('parkid');
+    if(!($parkId == undef)){
+	&getParkRating($parkId);
+    }
+}
+elsif($function eq 'getParkPickupGames'){
+    my $parkId = param('parkid');
+    if(!($parkId == undef)){
+	&getParkPickupGames($parkId);
+    }
+}
+elsif($function eq 'addParkReview'){
+    my $userId = param('userid');
+    my $parkId = param('parkid');
+    my $comment = param('comment');
+    my $parkRating = param('rating');
+    if(defined($parkId) && defined($userId) && defined($parkRating)){    
+	&addParkReview($userId,$parkId,$comment,$parkRating);
+    }
+}
+elsif($function eq 'addResourceReservation'){
+    my $reservationTime = param('reservationtime');
+    my $resourceId = param('resourceid');
+    my $parkId = param('parkid');
+    my $age = param('age');
+    my $reservationLength = param('length');
+    if(defined($reservationTime) && defined($resourceId) && defined($parkId) && defined($age) && defined($reservationLength)){
+	&addResourceReservation($reservationTime,$resourceId,$parkId,$age,$reservationLength);
+    }
+}
+elsif($function eq 'addResourceReservation'){
+    my $reservationTime = param('reservationtime');
+    my $resourceId = param('resourceid');
+    my $parkId = param('parkid');
+    my $age = param('age');
+    my $reservationLength = param('length');
+    if(defined($reservationTime) && defined($resourceId) && defined($parkId) && defined($age) && defined($reservationLength) && defined($resourceId) ){    
+	&addResourceReservation($reservationTime,$resourceId,$parkId,$age,$reservationLength);
+    }
+}
+elsif($function eq 'getResourceReservation'){
+    my $resourceId = param('resourceid');
+    my $parkId = param('parkid');
+    if(defined($resourceId) && defined($parkId) ){    
+	&getResourceReservation($resourceId,$parkId);
+    }
+}
+elsif($function eq 'addParkPickupGame'){
+    my $datetime = param('datetime');
+    my $park_id = param('parkid');
+    my $players = param('players');
+    my $game_type = param('type');
+    my $age = param('age');
+    my $game_name = param('gamename');
+    my $player_ids = param('playerids');
+    if(defined($datetime) && defined($park_id) && defined($players) && defined($game_type) && defined($age) && defined($game_name) && defined($player_ids)){
+	my $gameNameExists = &getGameNameExists_silent($game_name,$park_id);
+	if($gameNameExists == 0){
+	    &addParkPickupGame($datetime,$park_id,$players,$game_type,$age,$game_name,$player_ids);
+	}
+	else{
+	    	my %result = ('successful' => 'false',
+		   'name_taken' => 'true');
+		print encode_json(\%result);
+	}
+	
+    }
+    else{
+	&paramCheck($datetime,$park_id,$players,$game_type,$age,$game_name,$player_ids);
+    }
+}
+elsif($function eq 'addParkForum'){
+    my $parkId = param('parkid');
+    my $user_id = param('userid');
+    my $comment = param('comment');
+    my $min_age = param('age');
+    if(defined($parkId) && defined($user_id) && defined($comment) && defined($min_age)){
+	&addParkForum($parkId,$user_id,$comment,$min_age);
+    }
+    else{
+	&paramCheck($parkId,$user_id,$comment,$min_age);
+    }
+}
+elsif($function eq 'addUser'){
+    my $userName = param('name');
+    my $password = param('password');
+    my $role = param('role');
+    my $age = param('age');
+    my $gcmId = param('gcmid');
+    if(defined($userName) && defined($password) && defined($role) && defined($age) ){
+	my $userExists = &getUserNameExists_silent($userName);
+	if($userExists == 0){
+	    &addUser($userName,$password,$role,$age,$gcmId);
+	}
+	else{
+	    	my %result = ('successful' => 'false',
+		   'name_taken' => 'true');
+		print encode_json(\%result);
+	}
+    }
+}
+elsif($function eq 'getUserNameExists'){
+    my $userName = param('name');
+    if(!($userName == undef)){
+	&getUserNameExists($userName);
+    }
+}
+elsif($function eq 'getUserById'){
+    my $userId = param('userid');
+    if(!($userId == undef)){
+	&getUserById($userId);
+    }
+}
+elsif($function eq 'getFriends'){
+    my $userId = param('userid');
+    if(!($userId == undef)){
+	my $userExists = &getUserNameExists_silent($userId);
+	if($userExists == 1 ){
+	    &getFriends($userId);
+	}
+    }
+}
+elsif($function eq 'addFriends'){
+    my $userId = param('userid');
+    my $friend = param('add');
+    if(defined($userId) && defined($friend)){
+	my $userExists = &getUserNameExists_silent($userId);
+	my $friendExists = &getUserNameExists_silent($friend);
+	if($userExists == 1 && $friendExists == 1){
+	    &addFriend($userId,$friend);
+	}
+    }
+}
+elsif($function eq 'registerGcmId'){
+    my $userId = param('userid');
+    my $gcmId = param('gcmid');
+    if(defined($userId) && defined($gcmId)){
+	&registerGcmId($userId,$gcmId);
+    }
+    else{
+	&paramCheck($userId,$gcmId);
+    }
+}
+elsif($function eq 'addParkForumParticipant'){
+    my $parkId = param('parkid');
+    my $user_id = param('userid');
+    if(defined($parkId) && defined($user_id)){
+	&addParkForumParticipant($parkId,$user_id);
+    }
+    else{
+	&paramCheck($parkId,$user_id);
+    }
+}
+elsif($function eq 'removeParkForumParticipant'){
+    my $parkId = param('parkid');
+    my $user_id = param('userid');
+    if(defined($parkId) && defined($user_id)){
+	&removeParkForumParticipant($parkId,$user_id);
+    }
+    else{
+	&paramCheck($parkId,$user_id);
+    }
+}
+elsif($function eq 'addParkInformationListener'){
+    my $parkId = param('parkid');
+    my $user_id = param('userid');
+    if(defined($parkId) && defined($user_id)){
+	&addParkInformationListener($parkId,$user_id);
+    }
+    else{
+	&paramCheck($parkId,$user_id);
+    }
+}
+elsif($function eq 'removeParkInformationListener'){
+    my $parkId = param('parkid');
+    my $user_id = param('userid');
+    if(defined($parkId) && defined($user_id)){
+	&removeParkInformationListener($parkId,$user_id);
+    }
+    else{
+	&paramCheck($parkId,$user_id);
+    }
+}
+
+
+#&dropBackendTables();
+#&createBackendTables();
+#&loadTestData();
+
+print "]"; # print end of json array
+print end_html();
+$dbh->disconnect;
+########################
+########################
+# Functions
+sub createBackendTables{
+    for my $index (@tables){
+	my $sql = $index; 
+	print "Execute -->$sql\n\n";
+	my $sth = $dbh->prepare($sql);
+	$sth->execute or die "Create Backend Tables: SQL Error: $DBI::errstr\n";
+    }
+}
+
+sub dropBackendTables{
+    for my $table (@table_names){
+	my $sql = "DROP TABLE IF EXISTS ".$table.";";
+	print "Execute -->$sql\n\n";
+	my $sth = $dbh->prepare($sql);
+	$sth->execute or die "Drop Backend Tables: SQL Error: $DBI::errstr\n"; 
+    }
+    print "Tables dropped\n";
+}
+
+sub getParkReview{
+    my $parkId = $_[0];
+    my $columns = "user_id,park_id,comment,rating";
+    my $sql = "SELECT ".$columns." FROM reviews where park_id = ?;";
+    my $sth = $dbh->prepare($sql);
+    $sth->execute($parkId) or die "Get Park Review: SQL Error: $DBI::errstr\n";
+    my $rows_retrieved = $sth->rows;
+    my $printRowBreak = 0;
+    while(my @row = $sth->fetchrow_array){
+	if($printRowBreak == 1){
+	    print ","
+	}
+	$printRowBreak = 1;
+	my ($user_id,$park_id,$comment,$rating) = @row;
+	my $user = &getUserById_silent($user_id);
+	my %result = ('user_id' => $user_id,
+		   'park_id' => $park_id,
+		   'comment' => $comment,
+		   'rating' => $rating,
+	           'username' => $user->{'username'});
+	print encode_json(\%result);
+	
+    }
+}
+
+sub addParkReview{
+    my $userId = $_[0];
+    my $parkId = $_[1];
+    my $comment = $_[2];
+    my $parkRating = $_[3];
+
+    my $sql = "INSERT INTO reviews(user_id, park_id, comment, rating) VALUES (?,?,?,?);";
+    my $sth = $dbh->prepare($sql);
+    $sth->execute($userId,$parkId,$comment,$parkRating) or die "Add Park Review: SQL Error: $DBI::errstr\n";
+    my %result = ("successful" => "true",
+		  'metadata' => 'true');
+    print encode_json(\%result);
+    #my $pid = fork();
+    #if(defined($pid) && $pid == 0){
+    my $userIds_ref = &getParkInformationListeners($parkId);
+    my $deviceId_ref = &getDeviceIds(@$userIds_ref);
+    my $user = &getUserById_silent($userId);
+    HttpGcmServer::sendGcmReviewUpdate($parkId,$userId,$comment,$parkRating,$deviceId_ref,$user->{'username'});
+    #}    
+    
+    # TODO: update park rating after adding review
+}
+
+sub getParkForum{
+    my $parkId = $_[0];
+    my $columns="user_id, park_id, comment,min_age";
+    my $sql = "SELECT ".$columns." FROM forum where park_id=?;";
+    my $sth = $dbh->prepare($sql);
+    $sth->execute($parkId) or die "Get Park Review: SQL Error: $DBI::errstr\n";
+    my $rows_retrieved = $sth->rows;
+    my $printRowBreak = 1;
+    my %metadata = ('metadata' => 'true',
+		    'successful' => 'true');
+    print encode_json(\%metadata);
+    while(my @row = $sth->fetchrow_array){
+	if($printRowBreak == 1){
+	    print ","
+	}
+	$printRowBreak = 1;
+	my ($user_id,$park_id,$comment,$min_age) = @row;
+	my %result = ('user_id' => $user_id,
+		   'park_id' => $park_id,
+		   'comment' => $comment,
+		   'min_age' => $min_age);
+	print encode_json(\%result);
+    }
+}
+
+sub addParkForum{
+    my $parkId = $_[0];
+    my $user_id = $_[1];
+    my $comment = $_[2];
+    my $min_age = $_[3];
+    my $sql = "INSERT INTO forum (park_id,user_id,comment,min_age) VALUES (?,?,?,?);";
+    my $sth = $dbh->prepare($sql);
+    $sth->execute($parkId,$user_id,$comment,$min_age) or die "Add Park Forum: SQL Error: $DBI::errstr\n";
+    #my $pid = fork();
+    #if(defined($pid) && $pid == 0){
+	my $userIds_ref = &getForumParticipants($parkId);
+	my $deviceId_ref = &getDeviceIds(@$userIds_ref);
+	my $device = $deviceId_ref->[0];
+	my $commenter = &getUserById_silent($user_id);
+	#print "deviceId->> $device";
+	HttpGcmServer::sendGcmForumUpdate($parkId,$user_id,$comment,$min_age,$deviceId_ref,$commenter->{'username'} );
+    #}
+}
+
+sub getDeviceIds{
+    my @userIds = @_;
+    my @deviceIds;
+    foreach my $id (@userIds){
+	my $sql = "SELECT DISTINCT gcmid FROM users WHERE id=?;";
+	my $sth = $dbh->prepare($sql);
+	$sth->execute($id) or die "Get Device ids: SQL Error: $DBI::errstr\n";
+	my $device;
+	$sth->bind_columns(\$device);
+	DEVICELOOP: while($sth->fetch){
+	    foreach my $check (@deviceIds){
+		if($check eq $device){
+		    next DEVICELOOP;
+		}
+	    }
+	    push(@deviceIds,$device);
+	}
+    }
+    return \@deviceIds;
+
+}
+sub getForumParticipants{
+    my $parkId = $_[0];
+    my $sql = "SELECT DISTINCT user_id FROM forum_participants WHERE park_id=?;";
+    my $sth = $dbh->prepare($sql);
+    $sth->execute($parkId) or die "Get Forum Participants: SQL Error: $DBI::errstr\n";
+    my $userId;
+    $sth->bind_columns(\$userId);
+    my @participants;
+    while($sth->fetch){
+	push(@participants,$userId);
+    }
+    return \@participants;
+}
+sub addParkForumParticipant{
+    my $parkId = $_[0];
+    my $userId = $_[1];
+    my $sql = "INSERT INTO forum_participants (park_id,user_id,entry_time) VALUES (?,?,NOW());";
+    my $sth = $dbh->prepare($sql);
+    $sth->execute($parkId,$userId) or die "Add Park Forum Participant: SQL Error: $DBI::errstr\n";
+    my $rows_retrieved = $sth->rows;
+}
+
+sub removeParkForumParticipant{
+    my $parkId = $_[0];
+    my $userId = $_[1];
+    my $sql = "DELETE FROM forum_participants WHERE (park_id=? AND user_id=?);";
+    my $sth = $dbh->prepare($sql);
+    $sth->execute($parkId,$userId) or die "Remove Park Forum Participant: SQL Error: $DBI::errstr\n";
+    my $rows_retrieved = $sth->rows;
+}
+
+sub getParkInformationListeners{
+    my $parkId = $_[0];
+    my $sql = "SELECT DISTINCT user_id FROM park_information_listeners WHERE park_id=?;";
+    my $sth = $dbh->prepare($sql);
+    $sth->execute($parkId) or die "Get park information listeners: SQL Error: $DBI::errstr\n";
+    my $userId;
+    $sth->bind_columns(\$userId);
+    my @participants;
+    while($sth->fetch){
+	push(@participants,$userId);
+    }
+    return \@participants;
+}
+sub addParkInformationListener{
+    my $parkId = $_[0];
+    my $userId = $_[1];
+    my $sql = "INSERT INTO park_information_listeners (park_id,user_id,entry_time) VALUES (?,?,NOW());";
+    my $sth = $dbh->prepare($sql);
+    my $result = $sth->execute($parkId,$userId);
+    if(!$result){
+	warn "Add Park information listener: SQL Error: $DBI::errstr\n";
+	sendForceRegister();
+	return;
+    }
+    my $rows_retrieved = $sth->rows;
+}
+
+sub sendForceRegister{
+    my %result = ('registeruser' => 'true');
+    print encode_json(\%result);
+}
+
+sub removeParkInformationListener{
+    my $parkId = $_[0];
+    my $userId = $_[1];
+    my $sql = "DELETE FROM park_information_listeners WHERE (park_id=? AND user_id=?);";
+    my $sth = $dbh->prepare($sql);
+    $sth->execute($parkId,$userId) or die "Remove Park information listener: SQL Error: $DBI::errstr\n";
+    my $rows_retrieved = $sth->rows;
+}
+
+sub getParkRating{
+    my $parkId = $_[0];
+    my $sql = "SELECT rating FROM parks where id=?;";
+    my $sth = $dbh->prepare($sql);
+    $sth->execute($parkId) or die "Get Park Rating: SQL Error: $DBI::errstr\n";
+    my $printRowBreak = 0;
+    while(my @row = $sth->fetchrow_array){
+	if($printRowBreak == 1){
+	    print ","
+	}
+	$printRowBreak = 1;
+	my %result = ('rating' => $row[0]);
+	print encode_json(\%result);
+    }
+}
+
+sub getParkPickupGames{
+    my $parkId = $_[0];
+    my $columns = "UNIX_TIMESTAMP(time),park_id,players,game_type,age,game_name,player_ids";
+    my $sql = "SELECT ".$columns." FROM pickup_games where park_id=?;";
+    my $sth = $dbh->prepare($sql);
+    $sth->execute($parkId) or die "Get Park Scheduled Games: SQL Error: $DBI::errstr\n";
+    my $rows_retrieved = $sth->rows;
+    my $printRowBreak = 0;
+    while(my @row = $sth->fetchrow_array){
+	if($printRowBreak == 1){
+	    print ","
+	}
+	$printRowBreak = 1;
+	my ($time,$park_id,$players,$game_type,$age,$game_name,$player_ids) = @row;
+	
+	my %result = ('datetime' => $time,
+		   'park_id' => $park_id,
+		   'players' => $players,
+		   'game_type' => $game_type,
+		   'age' => $age,
+	           'game_name' => $game_name,
+	           'player_ids' => $player_ids);
+	print encode_json(\%result);
+    }
+}
+
+sub addParkPickupGame{
+    my $datetime = $_[0];
+    my $park_id = $_[1];
+    my $players =$_[2];
+    my $game_type = $_[3];
+    my $age = $_[4];
+    my $game_name = $_[5];
+    my $player_ids = $_[6];
+    my $sql = "INSERT INTO pickup_games (time,park_id,players,game_type,age,game_name,player_ids) VALUES (FROM_UNIXTIME(?), ?, ?, ?, ?,?,?);";
+    #print "Execute--> $sql\n";
+    my $sth = $dbh->prepare($sql);
+    $sth->execute($datetime,$park_id,$players,$game_type,$age,$game_name,$player_ids) or die "Add Park Pickup Game: SQL Error: $DBI::errstr\n";
+    #my $pid = fork();
+    #if(defined($pid) && $pid == 0){
+	my $userIds_ref = &getParkInformationListeners($park_id);
+	my $deviceId_ref = &getDeviceIds(@$userIds_ref);
+	HttpGcmServer::sendGcmPickupGameUpdate($datetime,$park_id,$players,$game_type,$age,$game_name,$player_ids,$deviceId_ref);
+    #}
+}
+
+sub getFriends{
+    my $user_id = $_[0];
+    my $sql = "SELECT user2 FROM friends where (user1=$user_id) UNION SELECT user1 from friends where (user2=$user_id);";
+    my $sth = $dbh->prepare($sql);
+    $sth->execute or die "Get Friends: SQL Error: $DBI::errstr\n";
+    my $rows_retrieved = $sth->rows;
+    print "Rows: $rows_retrieved\n";
+    my @result = ();
+    while(my @row = $sth->fetchrow_array){
+	for my $elem (@row){
+	    push(@result,$elem);
+	}
+    }
+    print encode_json(\@result);
+}
+
+sub addFriends{
+    my $user_id = $_[0];
+    my $friendToAdd = $_[1];
+    my @currentFriends = &getFriends($user_id);
+    for my $elem (@currentFriends){
+	if($elem == $friendToAdd){
+	    return;
+	}
+    }
+    my $sql = "INSERT INTO friends (user1,user2) VALUES (?,?);";
+    my $sth = $dbh->prepare($sql);
+    $sth->execute($user_id,$friendToAdd) or die "Add Park Scheduled Games: SQL Error: $DBI::errstr\n";
+    my $rows_retrieved = $sth->rows;
+    print "Rows: $rows_retrieved\n";
+}
+
+sub addUser{
+    my $userName = $_[0];
+    my $password = $_[1];
+    my $role = $_[2];
+    my $age = $_[3];
+    my $gcmId = $_[4];
+    my $sql = "INSERT INTO users (name, role, password, age,gcmid) VALUES (?,?,?,?,?);";
+    my $sth = $dbh->prepare($sql);
+    $sth->execute($userName,$role,$password,$age,$gcmId) or die "Add Park Scheduled Games: SQL Error: $DBI::errstr\n";
+    my $user = &getUserByName_silent($userName);
+    my %result = ('successful' => 'true',
+	          'user_id' => $user->{'id'},
+	          'username' => $user->{'username'});
+    print encode_json(\%result);    
+}
+
+sub getGameNameExists_silent{
+    my $gameName = $_[0];
+    my $parkId = $_[1];
+    my $columns = "id , time , park_id , players, game_type ,game_name, age,player_ids";
+    my $sql = "SELECT ".$columns." FROM pickup_games where game_name=? AND park_id=?;";
+    my $sth = $dbh->prepare($sql);
+    $sth->execute($gameName,$parkId) or die "getGameNameExists_silent: SQL Error: $DBI::errstr\n";
+    my $rows_retrieved = $sth->rows;
+    my @row = $sth->fetchrow_array();
+    $sth->finish();
+    if(@row != 0){
+	return 1;
+    }
+    return 0;
+}
+
+sub getUserNameExists_silent{
+    my $userName = $_[0];
+    my $columns = "id, name, role , password, age";
+    my $sql = "SELECT ".$columns." FROM users where name=?;";
+    my $sth = $dbh->prepare($sql);
+    $sth->execute($userName) or die "getUserNameExists_silent: SQL Error: $DBI::errstr\n";
+    my $rows_retrieved = $sth->rows;
+    my @row = $sth->fetchrow_array();
+    $sth->finish();
+    if(@row != 0){
+	return 1;
+    }
+    return 0;
+}
+sub getUserNameExists{
+    my $userName = $_[0];
+    my $columns = "id, name, role , password, age";
+    my $sql = "SELECT ".$columns." FROM users where name=?;";
+    my $sth = $dbh->prepare($sql);
+    $sth->execute($userName) or die "getUserNameExists: SQL Error: $DBI::errstr\n";
+    my $rows_retrieved = $sth->rows;
+    my @row = $sth->fetchrow_array();
+    $sth->finish();
+    my %result = ( 'exists' => 0 );
+    if(@row != 0){
+	$result{'exists'} = 1;
+    }
+    print encode_json(\%result);
+}
+
+sub getUserByName{
+    my $userName = $_[0];
+    my $columns = "id, name, role , password, age";
+    my $sql = "SELECT ".$columns." FROM users where name=?;";
+    my $sth = $dbh->prepare($sql);
+    $sth->execute($userName) or die "getUserByName: SQL Error: $DBI::errstr\n";
+    my $rows_retrieved = $sth->rows;
+    my $printRowBreak = 0; 
+    while(my @row = $sth->fetchrow_array){
+	if($printRowBreak == 1){
+	    print ","
+	}
+	$printRowBreak = 1;
+	my ($id,$name,$role,$password,$age) = @row;
+	my %result = ('id' => $id,
+		   'username' => $name,
+		   'role' => $role,
+		   'password' => $password,
+		   'age' => $age);
+	print encode_json(\%result);
+    }      
+}
+
+sub getUserByName_silent{
+    my $userName = $_[0];
+    my $columns = "id, name, role , password, age";
+    my $sql = "SELECT ".$columns." FROM users where name=?;";
+    my $sth = $dbh->prepare($sql);
+    $sth->execute($userName) or die "getUserByName: SQL Error: $DBI::errstr\n";
+    my $rows_retrieved = $sth->rows;
+    my $printRowBreak = 0; 
+    while(my @row = $sth->fetchrow_array){
+	if($printRowBreak == 1){
+	    print ","
+	}
+	$printRowBreak = 1;
+	my ($id,$name,$role,$password,$age) = @row;
+	my %result = ('id' => $id,
+		      'username' => $name,
+		      'role' => $role,
+		      'password' => $password,
+		      'age' => $age);
+        return \%result;
+    }
+}
+
+sub getParksList{
+    my $columns = "id, name, rating";
+    my $sql = "SELECT ".$columns." FROM parks;";
+    my $sth = $dbh->prepare($sql);
+    $sth->execute() or die "getUserByName: SQL Error: $DBI::errstr\n";
+    my $rows_retrieved = $sth->rows;
+    my $printRowBreak = 0;
+    while(my @row = $sth->fetchrow_array){
+        if($printRowBreak == 1){
+            print ","
+        }
+	$printRowBreak = 1;
+        my ($id,$name,$rating) = @row;
+        my %result = ('park_id' => $id,
+                   'parkname' => $name,
+                   'rating' => $rating);
+        print encode_json(\%result);
+    }
+}
+
+sub getUserById{
+    my $userId = $_[0];
+    my $columns = "id, name, role , password, age";
+    my $sql = "SELECT ".$columns." FROM users where id=?;";
+    my $sth = $dbh->prepare($sql);
+    $sth->execute($userId) or die "getUserById: SQL Error: $DBI::errstr\n";
+    my $rows_retrieved = $sth->rows;
+    my $printRowBreak = 0;
+    while(my @row = $sth->fetchrow_array){
+	if($printRowBreak == 1){
+	    print ","
+	}
+	$printRowBreak = 1;
+	my ($id,$name,$role,$password,$age) = @row;
+	my %result = ('id' => $id,
+		   'username' => $name,
+		   'role' => $role,
+		   'password' => $password,
+		   'age' => $age);
+	print encode_json(\%result);
+    }   
+}
+
+sub getUserById_silent{
+    my $userId = $_[0];
+    my $columns = "id, name, role , password, age";
+    my $sql = "SELECT ".$columns." FROM users where id=?;";
+    my $sth = $dbh->prepare($sql);
+    $sth->execute($userId) or die "getUserById: SQL Error: $DBI::errstr\n";
+    my $rows_retrieved = $sth->rows;
+    my $printRowBreak = 0;
+    while(my @row = $sth->fetchrow_array){
+	if($printRowBreak == 1){
+	    print ","
+	}
+	$printRowBreak = 1;
+	my ($id,$name,$role,$password,$age) = @row;
+	my %result = ('id' => $id,
+		   'username' => $name,
+		   'role' => $role,
+		   'password' => $password,
+		   'age' => $age);
+	return \%result;
+    }   
+}
+
+sub loadTestData{
+    my $curDir = cwd();
+    my @tableFiles = (
+	[$curDir."/testData/parks.csv","parks"],
+	[$curDir."/testData/users.csv","users"],
+	[$curDir."/testData/forum.csv","forum"],
+	[$curDir."/testData/friends.csv","friends"],
+	[$curDir."/testData/pickup_games.csv","pickup_games"],
+	[$curDir."/testData/reviews.csv","reviews"]
+	);
+    for(my $index = 0; $index < @tableFiles;$index++){
+	my $fileName = $tableFiles[$index][0];
+	my $tableName = $tableFiles[$index][1];
+	my $sql = "LOAD DATA LOCAL INFILE '".$fileName."' INTO TABLE ".$tableName.
+	    " FIELDS TERMINATED BY ',' LINES TERMINATED BY '\\n' ".
+	    "IGNORE 1 LINES;";
+	print $sql."\n";
+	my $sth = $dbh->prepare($sql);
+	$sth->execute or die "Get Load Test Data: SQL Error: $DBI::errstr\n";
+    }
+
+    
+}
+
+sub registerGcmId{
+    my $userId = $_[0];
+    my $gcmId = $_[1];
+    my @userIdLookup;
+    $userIdLookup[0] = $userId;
+    my $deviceId_ref = &getDeviceIds(@userIdLookup);
+    my $device = $deviceId_ref->[0];
+   
+    if(!defined $device){
+	my %result = ('registeruser' => "true");
+	print encode_json(\%result);
+	return;
+    }
+    my $sql =  "UPDATE users SET gcmid=? WHERE id=$userId";
+    my $sth = $dbh->prepare($sql);
+    $sth->execute($gcmId) or die "registerGcmId: SQL Error: $DBI::errstr\n";
+    my $rows = $sth->rows;
+    if($rows != 0){
+	my %result = ('successful' => "true");
+	print encode_json(\%result);
+    }
+}
+
+sub printEnvironmentVariables{
+    print "<pre>\n";
+
+    foreach my $key (sort keys(%ENV)) {
+	print "$key = $ENV{$key}<p>";
+    }
+    print "</pre>\n";
+}
+sub addResourceReservation{
+   my $reservationTime = $_[0]; 
+   my $resourceId = $_[1];
+   my $parkId = $_[2];
+   my $age = $_[3];
+   my $reservationLength = $_[4];
+   my $resourceId = $_[5];   
+   my $sql = "INSERT INTO shared_resources (reservation_time, park_id, resource_id, reservation_length,reserving_user,age) VALUES (?,?,?,?,?);";
+   my $sth = $dbh->prepare($sql);
+   $sth->execute($reservationTime,$parkId,$resourceId,$reservationLength,$age) or die "Add Resource Reservation: SQL Error: $DBI::errstr\n";    
+
+}
+sub getResourceReservation{ 
+    my $resourceId = $_[0];
+    my $parkId = $_[1];
+    my $columns = 'reservation_time, park_id, resource_id, reservation_length,reserving_user,age';
+    my $sql = "select ".$columns." from shared_resources WHERE resource_id=?,park_id=?;";
+   my $sth = $dbh->prepare($sql);
+   $sth->execute($resourceId,$parkId) or die "get Resource Reservation: SQL Error: $DBI::errstr\n";    
+
+}
+sub paramCheck{
+    my $index = 0;
+    foreach my $param (@_){
+	if(!defined($param)){
+	    print "$index is not defined";
+	}
+	$index++;
+    }
+}
