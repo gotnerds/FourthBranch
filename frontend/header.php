@@ -8,7 +8,7 @@
   <title>The Fourth Branch</title>
   <meta name="description" content="Keeping you updated and involved in the ongoing political process.">
   <meta name="author" content="The Fourth branch">
-  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="css/styles.css" type="text/css">
   <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
   <script src="js/html5shiv.min.js"></script>
   <!--[if lt IE 9]>
