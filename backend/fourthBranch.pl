@@ -30,9 +30,29 @@ my $CREATE_BILL_LARGE_EXTENSION = "create table bills_extension (id MEDIUMINT NO
 # Representatives
 my $CREATE_REPRESENTATIVES_TABLE = "create table representatives (id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT, name VARCHAR(50) NOT NULL UNIQUE, state VARCHAR(50), url VARCHAR(500), email VARCHAR(50),phone VARCHAR(5),photo VARCHAR(60),chamber VARCHAR(10), PRIMARY KEY(id))";
 
-# TODO Individual Vote History
-# TODO Bill Vote History - reddit - google - facebook - linkedin - twitter
+# TODO Bill Vote History 
+# - reddit 
+# - google 
+# - facebook 
+# - linkedin 
+# - twitter
+# - BillId
+# - usercreated
+# - vote
+# - datecreated
+
+# Bill Vote comments
+# user
+# billId
+# comment 
+# date
+ 
 # TODO WallOfAmerica
+# - user
+# - dream
+# - wish
+# - date
+
 # TODO AppropiationBill
 # TODO Large Bill
 # TODO District Search
