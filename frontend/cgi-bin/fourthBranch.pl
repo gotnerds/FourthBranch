@@ -69,12 +69,11 @@ my $curDir = cwd();
 my $cgiQuery = CGI->new();
 my $hostname = `hostname`;
 my $dbh;
-print "Hostname: $^O\n";
 if($hostname =~ /spooky-Laptop/){
     $dbh = DBI->connect('dbi:mysql:fourthbranch;'."mysql_read_default_file=$curDir/mysql.conf",'root','root') or die "Connection Error: $DBI::errstr\n";
 }
 elsif($^O =~ /MSWin32/){
-     $dbh = DBI->connect('dbi:mysql:database=fourthbranch;host=127.0.0.1:3306;''."mysql_read_default_file=$curDir/mysql.conf",'root','root') or die "Connection Error: $DBI::errstr\n";   
+     $dbh = DBI->connect('dbi:mysql:database=fourthbranch;host=127.0.0.1:3306;'."mysql_read_default_file=$curDir/mysql.conf",'root','') or die "Connection Error: $DBI::errstr\n";   
 }
 else{
     #$dbh = DBI->connect('DBI:mysql:database=fourthbranch;host=fourthbranch.db.9192271.hostedresource.com;' ."mysql_read_default_file=$curDir/mysql.conf",'fourthbranch','G0tnerds!') or die "Connection Error: $DBI::errstr\n";
