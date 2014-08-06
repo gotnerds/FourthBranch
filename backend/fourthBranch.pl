@@ -1,4 +1,6 @@
 #!/usr/bin/perl -w
+###!C:/xampp/perl/bin/perl.exe
+
 use warnings;
 use CGI::Carp 'fatalsToBrowser';
 use CGI qw/:standard/;
@@ -9,57 +11,32 @@ use lib dirname(abs_path $0);
 use strict;
 
 # Individual Users
-# --- First 
-# --- Last
-# --- Username
-# --- BirthDate
-# --- Gender
-# --- Address
-# --- City
-# --- State
-# --- Zip
-# --- Email
-# --- Password
-# --- Political_Affiliation
 my $CREATE_INDIVIDUAL_USERS_TABLE ="create table individuals ( id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT, first_name VARCHAR(50) NOT NULL UNIQUE , last_name VARCHAR(50) NOT NULL,username VARCHAR(30) NOT NULL, birthdate DATE NOT NULL,gender CHAR(1), address VARCHAR(200), city VARCHAR(200), state VARCHAR(100), zip MEDIUMINT,email VARCHAR(100),password VARCHAR(100), political_affiliation VARCHAR(30), activated VARCHAR(5), PRIMARY KEY (id));";
 
 # Organization Users
-# --- Name 
-# --- Address
-# --- City
-# --- State
-# --- Zip
-# --- Phone
-# --- Legal Status
-# --- cause_concerns
-# --- join_reason
 my $CREATE_ORGANIZATION_USERS_TABLE ="create table organizations ( id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT, name VARCHAR(50) NOT NULL UNIQUE, address VARCHAR(200), city VARCHAR(200), state VARCHAR(100), zip MEDIUMINT,phone VARCHAR(100),legal_status VARCHAR(100), cause_concerns VARCHAR(30),join_reason VARCHAR(500),individual_name VARCHAR(300), title_in_organization VARCHAR(300), personal_phone VARCHAR(20), email VARCHAR(40), password VARCHAR(30), verified VARCHAR(5), PRIMARY KEY (id));";
 
 # Admin Users
-# Email
-# Password
-
 my $CREATE_ADMIN_USERS_TABLE ="create table admins ( id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT,email VARCHAR(50) NOT NULL UNIQUE, password VARCHAR(200), PRIMARY KEY (id))";
 
 
+
 # Bills
-# Bill Title
-# Related State
-# Url
-# Bill_Code
-# open
-# summary
 my $CREATE_BILL_TABLE = "create table bills (id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT, title VARCHAR(300) NOT NULL UNIQUE, state VARCHAR(50), url VARCHAR(500), code VARCHAR(50),open VARCHAR(5), PRIMARY KEY(id))";
 
+# Bills_Large_Extension
+my $CREATE_BILL_LARGE_EXTENSION = "create table bills_extension (id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT,num_sections MEDIUMINT, section_num MEDIUMINT, section_name VARCHAR(40), PRIMARY KEY(id))";
+ 
 # Representatives
-# Name
-# Chamber
-# State
-# Url
-# Email
-# Phone Number
-# Photo
 my $CREATE_REPRESENTATIVES_TABLE = "create table representatives (id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT, name VARCHAR(50) NOT NULL UNIQUE, state VARCHAR(50), url VARCHAR(500), email VARCHAR(50),phone VARCHAR(5),photo VARCHAR(60),chamber VARCHAR(10), PRIMARY KEY(id))";
+
+# TODO Individual Vote History
+# TODO Bill Vote History - reddit - google - facebook - linkedin - twitter
+# TODO WallOfAmerica
+# TODO AppropiationBill
+# TODO Large Bill
+# TODO District Search
+
 use DBI;
 ###########################
 # Main
@@ -70,6 +47,9 @@ my $hostname = `hostname`;
 my $dbh;
 if($hostname =~ /spooky-Laptop/){
     $dbh = DBI->connect('dbi:mysql:fourthbranch;'."mysql_read_default_file=$curDir/mysql.conf",'root','root') or die "Connection Error: $DBI::errstr\n";
+}
+elsif($^O =~ /MSWin32/){
+     $dbh = DBI->connect('dbi:mysql:database=fourthbranch;host=127.0.0.1:3306;'."mysql_read_default_file=$curDir/mysql.conf",'root','root') or die "Connection Error: $DBI::errstr\n";   
 }
 else{
     $dbh = DBI->connect('DBI:mysql:database=fourthbranch;host=fourthbranch.db.9192271.hostedresource.com;' ."mysql_read_default_file=$curDir/mysql.conf",'fourthbranch','G0tnerds!') or die "Connection Error: $DBI::errstr\n";
