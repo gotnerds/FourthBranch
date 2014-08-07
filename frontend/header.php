@@ -1,5 +1,29 @@
 <!doctype html>
-
+<!-- authentication info -->
+<?php
+    if (isset($_POST['login-button']))
+    {
+        exec("perl ./cgi-bin/fourthBranch.pl run=loginIndividual email=".$_POST['username']." password=".$_POST['password'], $output, $return_val);
+        print_r ($output);
+        $search_text = 'successful';
+        array_filter($output, function($el) use ($search_text) {
+        return ( strpos($el['text'], $search_text) !== false );
+    });
+        
+        if (in_array("successful", $output)){
+            if (find("true", $output)) {
+                echo "Yay! It worked!";
+            } else {
+                echo "Uh oh.. Try again!";
+            } 
+        } else {
+            echo "something's wrong";
+        }
+        echo 'output= '.array_values($output).' and return_val= '.$return_val;
+    }
+    
+    
+?>
 <html lang="en">
 <head>
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600' rel='stylesheet' type='text/css'>
@@ -77,11 +101,11 @@ RE-PASSWORD:<input type="text" name="repassword" value=""></br>
                 </div>
             </div>
         </section>
-        <script>
+        <script type="text/javascript">
 function toggleOverlay_new(){
             	document.body.className = document.body.className.indexOf('overlaid') != -1 ? '' : 'overlaid';
         			<?php 
-						if ($user_ok != true){
+					/*	if ($user_ok != true){
 							echo "
         						if(document.getElementById('a').style.display == 'block'){
 		    						document.getElementById('a').style.display = 'none';
@@ -89,7 +113,7 @@ function toggleOverlay_new(){
 		    						document.getElementById('a').style.display = 'block';
 		  						}";
 		  				}
-					?>
+					*/?>
                  document.getElementById('introduction').style.display = 'none';
 				
 			document.getElementById('organization').style.display = 'none';
@@ -168,32 +192,27 @@ function toggleOverlay_new(){
 <div class='overlay'>
 	<div class='wrap-outer'>
 		<div class='wrap' style="position:relative;float:left;">
-			<table cellpadding='2' bgcolor='#CC0000' id='a' style='position:fixed; top: 50%; left: 50%;margin-top:-100px;margin-left:-200px;'>
-				<td>
-					<table cellpadding='2' bgcolor='#2F68D1' >
-						<td>
-							<table cellpadding='2' bgcolor='#FFFFFF'>
-								<td>
+			<div class="double-border" id='a' style='position:fixed; top: 50%; left: 50%;margin-top:-100px;margin-left:-200px;'>
+
 									<div style='margin: 15px 15px 15px 15px'>
 										<div onclick='toggleOverlay_new();' style="cursor: pointer;float:right;background-image: url(http://thefourthbranch.co/TheFourthBranch/image/x.png);height:24px;width:24px;"></div>
 										<h2 style='text-align:center;clear:both;'>
 											Login or Sign Up
 										</h2>																				
-										<form action="#" name="llLogin" id="llLogin" method="post">
+										<form action="" name="llLogin" id="llLogin" method="post">
 											<input type='email' id="username" name="username" size='20' placeholder='Email' />
 											<input type='password' size='20' id="password" name="password" placeholder='Password' />
-										</form>
+									
 										<div style='overflow:hidden;'>
                                         
                                         
-											<button id='button' onclick='login1();' style='cursor: pointer;width:100px;float:left;margin-left:15px;font-size:larger;'>
+											<button id='button' name='login-button' type="submit" style='cursor: pointer;width:100px;float:left;margin-left:15px;font-size:larger;'>
 												Login
 											</button>
                                             
-                                            
 											<script type="text/javascript" >
 												function login1(){        
-														username=$("#user_name").val();
+														username=$("#username").val();
                                                         password=$("#password").val();
                                                         if((username == '') || (password == ''))
 														{
@@ -225,6 +244,7 @@ function toggleOverlay_new(){
 												Sign Up
 											</button>
 										</div>
+                                        </form>
 										<p style="float:left;cursor:hand;" onclick="javascript:forgotpwd();">
 											Forgot Password?
 										</p>
@@ -245,18 +265,8 @@ function toggleOverlay_new(){
 										}
 	                                    </script>
 									</div>
-								</td>
-							</table>
-						</td>
-					</table>
-				</td>
-			</table>
-			<table cellpadding='2' bgcolor='#CC0000' id='forgot' style='position:fixed; top: 50%; left: 50%;margin-top:-100px;margin-left:-200px;'>
-				<td>
-					<table cellpadding='2' bgcolor='#2F68D1'>
-						<td>
-							<table cellpadding='2' bgcolor='#FFFFFF'>
-								<td>
+							</div>
+			<div class="double-border" id='forgot' style='position:fixed; top: 50%; left: 50%;margin-top:-100px;margin-left:-200px;'>
 									<div style='margin: 15px 15px 15px 15px'>
 										<div onclick='toggleOverlay_new();' style="cursor: pointer;float:right;background-image: url(http://thefourthbranch.co/TheFourthBranch/image/x.png);height:24px;width:24px;"></div>
 										<br style="clear:both;" />
@@ -270,7 +280,7 @@ function toggleOverlay_new(){
     										<input type='text'  style="width:100%;" id="forgot" name="forgot">
     										<br />
     										<br />
-    										<button id='button' style="float:left;" onclick='forgotpass();'>
+    										<button id='button' name='forgot-button' type="submit"  style="float:left;">
     											Generate Temporary Log In Password
     										</button> 
     										<script type="text/javascript" >
@@ -317,18 +327,8 @@ function toggleOverlay_new(){
   										</button>
 										<br style="clear:both;" />  											
   									</div>
-								</td>
-							</table>
-						</td>
-					</table>
-				</td>
-			</table>
-			<table cellpadding='2' bgcolor='#CC0000' id='forgot2' style='position:fixed; top: 50%; left: 50%;margin-top:-100px;margin-left:-200px;'>
-				<td>
-					<table cellpadding='2' bgcolor='#2F68D1'>
-						<td>
-							<table cellpadding='2' bgcolor='#FFFFFF'>
-								<td>
+							</div>
+			<div class="double-border" id='forgot2' style='position:fixed; top: 50%; left: 50%;margin-top:-100px;margin-left:-200px;'>
 									<div style="margin: 15px 15px 15px 15px">
 										<div onclick='toggleOverlay_new();' style="cursor: pointer;float:right;background-image: url(http://thefourthbranch.co/TheFourthBranch/image/x.png);height:24px;width:24px;"></div>
 										<h3 style="clear:both;"align="center">
@@ -349,12 +349,7 @@ function toggleOverlay_new(){
 										</div>
 										<div style="clear:both;"></div>
 									</div>
-								</td>
-							</table>
-						</td>
-					</table>
-				</td>
-			</table>
+								</div>
              <div class='double-border' style='position:fixed; top: 50%; left: 50%;margin-top:-90px;margin-left:-225px;' id='introduction'>
 									<div style="margin: 15px 15px 15px 15px">
 										<div onclick='toggleOverlay_new();' style="cursor: pointer;float:right;background-image: url(http://thefourthbranch.co/TheFourthBranch/image/x.png);height:24px;width:24px;"></div>
@@ -375,15 +370,7 @@ function toggleOverlay_new(){
 										<div style="clear:both;" ></div>
 									</div>
                                 </div>
-			<table cellpadding='2' bgcolor='#CC0000' id='individual' style='position:fixed; top: 50%; left: 50%;margin-top:-200px;margin-left: -375px; '>
-			<tr>
-				<td>
-				<table cellpadding='2' bgcolor='#2F68D1'>
-				<tr>
-						<td>
-				<table cellpadding='2' bgcolor='#FFFFFF'>
-				<tr>
-								<td width="730">
+			<div class="double-border" id='individual' style='position:fixed; width:750px; top: 50%; left: 50%;margin-top:-200px;margin-left: -375px; '>
 									<div style="margin: 15px 15px 15px 15px">											
 										<div style="float:right;overflow:hidden;">
 											<div onclick='toggleOverlay_new();' style="cursor: pointer;float:right;background-image: url(http://thefourthbranch.co/TheFourthBranch/image/x.png);height:24px;width:24px;"></div>									
@@ -391,28 +378,24 @@ function toggleOverlay_new(){
 												Individual &nbsp; &nbsp; | &nbsp; &nbsp; <span style='color:grey;'>Organization</span>
 											</p>												
 										</div>
+                                        <form name="individualLogin" width="700">
 										<div style="clear:both;"></div>
-										<div style="margin-right:15px;font-size:14px;">
-											<div style='float:right;'>
-												<form name="names">
-													<table width="700">
-														<tr>
-														<td width="100" align="right">First Name:</td>
-															<td width="250" align="left">
-															<input type='text' style="width:150px;" name='fname' id='fname' maxlength='20'>
-															</td>
-															<td width="120" align="right">Last Name:</td>
-															<td width="230" align="left">
-																<input type='text' style="width:150px;" name='lname' id='lname' maxlength='20'>
-															</td>
-														</tr>
-													</table>										
-												</form>
-											</div>
+										<div style="margin-right:15px;font-size:14px;"> 
+                                                <table>
+					                           <div style='float:right;'>
+                                                    <tr>
+													<td width="100" align="right">First Name:</td>
+													<td width="250" align="left">
+											     		<input type='text' style="width:150px;" name='fname' id='fname' maxlength='20'>
+													</td>
+													<td width="120" align="right">Last Name:</td>
+													<td width="230" align="left">
+														<input type='text' style="width:150px;" name='lname' id='lname' maxlength='20'>
+													</td>	
+                                                    </tr>
+										      	</div>
 											<div style="clear:both;"></div>
 											<div style="float:right;margin-top:-10px;">
-												<form name="psu">
-													<table width="700">
 														<tr>
 														<td width="100" align="right">Username:</td>
 															<td width="250" align="left">
@@ -422,14 +405,10 @@ function toggleOverlay_new(){
 															<td width="230" align="left">
 																<input type='date' style="width:150px;" name='dob' id='dob' placeholder="mm/dd/yyyy">
 															</td>													
-														</tr>												
-													</table>
-												</form>
+														</tr>	
 											</div>
 											<div style="clear:both;"></div>
     										<div style="float:right;margin-top:-10px;">
-    											<form name="emailI">
-    												<table width="700">
 														<tr>
 															 <td width="100" align="right">
 																Email:
@@ -444,13 +423,9 @@ function toggleOverlay_new(){
 																<input type='email' name='emailI2' id='emalI2' style="width:150px;" />
 															</td>															
 														</tr>												
-													</table>	
-												</form>
 											</div>
 											<div style="clear:both;"></div>
 											<div style="float:right;margin-top:-10px;">
-    											<form name="passI">
-    												<table width="700">
 														<tr>
 															<td width="100" align="right">
 																Password:
@@ -464,14 +439,10 @@ function toggleOverlay_new(){
 															<td width="230" align="left">
 																<input type='password' name='passI2' id='passI2' style="width:150px;" />
 															</td>																
-														</tr>												
-													</table>	
-												</form>
+														</tr>	
 											</div>	
 											<div style="clear:both;"></div>
 											<div style="float:right;margin-top:-10px;">
-												<form name="gender">
-													<table width="700">
 														<tr>
 															<td width="100" align="right">
 																Gender: 
@@ -491,13 +462,9 @@ function toggleOverlay_new(){
 																	} 	
 																</script>
 															</td>													
-														</tr>												
-													</table>										
-												</form>												
+														</tr>										
 											</div>
 											<div style="float:right;margin-top:-10px;">
-												<form name="address">
-													<table width="700">
 														<tr>
 														<td width="100" align="right">
 																Address: 
@@ -505,14 +472,10 @@ function toggleOverlay_new(){
 															<td width="600" align="left">
 																<input style="width:600px;" type='text' name='address' id='address' /> 
 															</td>																											
-														</tr>												
-													</table>												
-												</form>
+														</tr>				
 											</div>
 											<div style="clear:both;"></div>
 											<div style="float:right;margin-top:-10px;">
-												<form name="city">
-													<table width="700">
 														<tr>
 														<td width="100" align="right">
 																City:
@@ -559,17 +522,14 @@ function toggleOverlay_new(){
 															<td width="100" align="left">
 																<input type='text' size='10' name='zip' id='zip' />
 															</td>													
-														</tr>												
-													</table>
-    											</form>
+														</tr>			
     										</div>
     																											
     										<div style="clear:both;margin-top:-10px;"></div>
     										<div style="overflow:hidden;margin-left:15px;">	
     											<div style="float:left">
     												Political Leaning:
-    											</div>
-    											<form name="political">
+    											</div>=
     												<div style="overflow:hidden">
     													<div style="float:left">
     														&nbsp;
@@ -633,8 +593,8 @@ function toggleOverlay_new(){
 															document.political.otherBox.style.display = 'block';
 														}
 													</script>
-    											</form>
     										</div>
+                                            </table>
     									</div>
     										<p>
     											By clicking sign up you agree to our 
@@ -776,20 +736,13 @@ function toggleOverlay_new(){
 												<button id='button' onclick='introduction();' style='cursor: pointer;width:100px;float: right;'>
 													Back
 												</button>
-											</div>											
+											</div>	
+                                            </form>										
 											<div style="clear:both;"></div>
 											<p id="istatus" style="color:red;text-align:center;" ></p>
 										</div>
-								</td>
-								</tr>
-								
-								</table>
-				   </td>
-				   </tr>
-						</table>
-				</td>
-				</tr>
-				</table>
+					     
+                            </div>
 				<table cellpadding='2' bgcolor='#CC0000' id='confirm' style='position:fixed; top: 50%; left: 50%;margin-top:-200px;margin-left:-290px;'>
 					<td>
 						<table cellpadding='2' bgcolor='#2F68D1'>
@@ -966,7 +919,7 @@ function toggleOverlay_new(){
 									  		</div>
 									  		<div style="height:10px;"></div>
 									  	</div>
-									  	<img id="blah" src="http://thefourthbranch.co/TheFourthBranch/image/avitar.png" alt="your image" width="103" height="125" style='width: 103px; height: 125px; float:left;' />
+									  	<img id="blah" src="http://thefourthbranch.co/TheFourthBranch/fourth/image/avitar.png" alt="your image" width="103" height="125" style='width: 103px; height: 125px; float:left;' />
 									  	<div style='float:right;overflow:hidden;'>
 									  		<form id="textarea" style="float:right;" name="textarea">
 									  			<textarea id='reason' name='reason' form="textarea" cols='35' rows='7' style='background-color: #E6E6E6; color:black;'></textarea>
