@@ -2,6 +2,7 @@
 <!-- authentication info -->
 <?php
 include "./inc/jsonencode.php";
+//print_r($_POST);
     if (isset($_POST['login-button'])) {
         $output = shell_exec("perl ./cgi-bin/fourthBranch.pl run=loginIndividual email=".$_POST['username']." password=".$_POST['password']);
         $jsonj = jsonarray($output);
@@ -9,12 +10,11 @@ include "./inc/jsonencode.php";
         //var_dump($jsonj);
         //statement to test for successful.
         if ($jsonj->successful == 'true'){
-            //create php user class for individual
+            //create php user session for individual
         } else {
         $output = shell_exec("perl ./cgi-bin/fourthBranch.pl run=loginOrganization email=".$_POST['username']." password=".$_POST['password']);
         $jsonj = jsonarray($output);
-        //echo "organization login: ";
-        //echo $jsonj->successful;
+            //create php user session for organization
         }
     }
     if (isset($_POST['addIndividual-button'])){
@@ -28,8 +28,10 @@ include "./inc/jsonencode.php";
             echo $jsonj->successful;        
         }
     }
-    if (isset($_POST['addOrganization-button'])){
-        $output = shell_exec("perl ./cgi-bin/fourthBranch.pl run=addOrganization first=".$_POST['nameOrganization']." address=".$_POST['addressOrganization']." city=".$_POST['cityOrganization']." state=".$_POST['stateOrganization']." zip=".$_POST['zipOrganization']." phone=".$_POST['phoneOrganization']." legalstatus=".$_POST['legal']." cause=".$_POST['cause']." joinreason=".$_POST['reason']." individualname=".$_POST['nameI']." titleorganization=".$_POST['titleI']." personalphone=".$_POST['phoneP']." email=".$_POST['emailO']." password=".$_POST['passS']);
+    if (isset($_POST['nameOrganization'])){
+        $output = shell_exec("perl ./cgi-bin/fourthBranch.pl run=addOrganization name=".$_POST['nameOrganization']." address=".$_POST['addressOrganization']." city=".$_POST['cityOrganization']." state=".$_POST['stateOrganization']." zip=".$_POST['zipOrganization']." phone=".$_POST['phoneOrganization']." legalstatus=".$_POST['legal']." cause=".$_POST['cause']." joinreason=".$_POST['reason']." individualname=".$_POST['nameI']." titleorganization=".$_POST['titleI']." personalphone=".$_POST['phoneP']." email=".$_POST['emailO']." password=".$_POST['passS']);
+        var_dump($jsonj);
+        print_r($output);
         $jsonj = jsonarray($output);
         if ($jsonj->successful == 'true'){
         //organization sign up worked
@@ -65,7 +67,8 @@ include "./inc/jsonencode.php";
 </script>
 <?php
 $jsonj = jsonarray($output);
-if ($jsonj->successful == 'true'){
+if ($_POST['username']){
+    if ($jsonj->successful == 'true'){
             echo "<script>$(document).ready(function(){";
             echo "$('body').addClass('loggedin');";
             echo "});</script>";
@@ -73,34 +76,42 @@ if ($jsonj->successful == 'true'){
         } else {
             echo "<script>$(document).ready(function(){";
             echo "$('body').addClass('overlaid');";
-            echo "$('#a').css('display','block');});</script>";
+            echo "$('#a').css('display','block').append('<div class=\'left\'><p style=\'color:red\'>Email or Password was incorrect. Please try again.</p></div>');});</script>";
         }
+}
+if (isset($_POST['nameOrganization'])){
+    if ($jsonj->successful == 'true'){
+            //Organization signup worked
+             echo "<script>$(document).ready(function(){";
+            echo "$('body').addClass('overlaid');";
+            echo "$('#confirm2').css('display','block');});</script>";           
+        }
+        if ($jsonj->name_taken == 'true'){
+            echo "<script>$(document).ready(function(){";
+            echo "$('body').addClass('overlaid');";
+            echo "$('#confirm2').css('display','block');});</script>";
+            } else {
+            echo "<script>$(document).ready(function(){";
+            echo "$('body').addClass('overlaid');";
+            echo "$('#organization').css('display','block').append('<div class=\'left\'><p style=\'color:red\'>Sorry, something went wrong. Please try again.</p></div>');});</script>";           
+        }
+}
+if (isset($_POST['addIndividual-button'])){
+    if ($jsonj->successful == 'true'){
+            //Organization signup worked
+            echo "<script>$(document).ready(function(){";
+            echo "$('body').addClass('overlaid');";
+            echo "$('#confirm').css('display','block');});</script>";           
+        } else {
+            echo "<script>$(document).ready(function(){";
+            echo "$('body').addClass('overlaid');";
+            echo "$('#individual').css('display','block').append('<div class='left'><p style='color:red'>Sorry, something went wrong. Please try again.</p></div>';});</script>";           
+        }
+}
+
 ?>
 </head>
 <body>
-<!-- <div id="lightboxx">
-<script>
-$('#lightbox').click(function(){
- $(this).css("display","none");
-});
-</script>
-<div class="signup-type">
-<h2>Are you an individual or an organization?</h2>
-<a href="#" onclick="toggle_visibility('signup-org');">Organization</a>
-<a href="#" onclick="toggle_visibility('signup-ind');">Individual</a>
-</div>
-<div id="inner-lightbox">
-<form name="registration" method="post" action="registration.php">
-we will create registration.php after registration.html
-USERNAME:<input type="text" name="name" value=""></br>
-EMAIL-ID:<input type="text" name="email" value=""></br>
-PASSWORD:<input type="text" name="password" value=""></br>
-RE-PASSWORD:<input type="text" name="repassword" value=""></br>
-<input type="submit" name="submit" value="submit">
-</form>
-</div>
-</div>
--->
     <div id="container">
         <section id="header-bar">
             <div class="left">
@@ -516,30 +527,27 @@ function toggleOverlay_new(){
 											<p id="istatus" style="color:red;text-align:center;" ></p>
 										</div>
                             </div>
-				<div class="double-border" id='confirm' style='position:fixed; top: 50%; left: 50%;margin-top:-200px;margin-left:-290px;'>
-								<table cellpadding='2'>
-									<td width="580">
-										<div style="margin: 15px 15px 15px 15px;">
+				<div class="double-border" id='confirm' style='position:fixed; top: 50%; left: 50%;margin-top:-200px;width:580px;margin-left:-290px;'>
+								<div style="margin: 15px 15px 15px 15px;">
 											<div style="cursor: pointer;float:right;background-image: url(http://thefourthbranch.co/TheFourthBranch/image/x.png);height:24px;width:24px;" class="xbut"></div>
 											<br style="clear:both" />
+                                            
 											<p align='center' >
 												<!-- A confirmation link has been sent to your email address. -->
 												You have activated your account and are now an active participant in your government.
-											</p>
+                                            </p>
 											<div style="float:right;overflow:hidden;">
 												<button class='button' 
 														  onclick='toggleOverlay_new();' 
 														  style='cursor: pointer;position:relative; float: right; width: 50px; margin-left: 25px;'>
 													OK
 												</button>
-												<button style="cursor: pointer;float:right;width: 50px;" onclick='a();' id="button">
+												<button class="button" style="cursor: pointer;float:right;width: 50px;" onclick='a();' id="button">
 													Login
 												</button>
 											</div>
 											<div style="clear:both;"></div>
 										</div>
-									</td>
-								</table>
                         </div>
 				<div class="double-border" id='organization' style='width:618px; position:fixed; top: 50%; left: 50%;margin-top:-200px;margin-left:-309px;'>
 										<div style="margin: 15px 15px 15px 15px;">
@@ -622,18 +630,18 @@ function toggleOverlay_new(){
 									  		</div>
                                               <div class="left">
 									  				Legal Status:
-									  				<input type='checkbox' value="corporate" name="legal" />Corporation 
+									  				<input type='checkbox' value="corporate" name="legal[]" />Corporation 
 									  				&nbsp; 
-									  				<input type='checkbox' value="nonprofit" name="legal" />Not-for-Profit 
+									  				<input type='checkbox' value="nonprofit" name="legal[]" />Not-for-Profit 
 									  				&nbsp; 
-									  				<input type='checkbox' value="other" name="legal" />Other
+									  				<input type='checkbox' value="other" name="legal[]" />Other
 									  				<input type='text' name="otherBox2" id='otherBox2' placeholder='If other, specify here' style="display:none;" />
 									  		   </div>
                                               <div class="left">
 									  				Your Cause Concerns:
-									  				<input type='checkbox' value="federal" name="cause"" />Federal Government 
+									  				<input type='checkbox' value="federal" name='cause[]' />Federal Government 
 									  				&nbsp; 
-									  				<input type='checkbox' value="state" name="cause"" />State
+									  				<input type='checkbox' value="state" name='cause[]' />State
 									  		</div>
                                             <div class="left" style="padding-top:23px;">
                                               <label for="imgInp">
@@ -678,7 +686,6 @@ function toggleOverlay_new(){
 													<span style='color:grey;'>Individual</span> &nbsp; &nbsp; | &nbsp; &nbsp; Organization
 												</p>												
 											</div>
-                                            </div>
                                             <form name="signupOrganization2" id="signupOrganization2" action="" method="POST" style="margin: 15px;">
                                             <div class="left">
 										<label for="nameI">
@@ -696,7 +703,7 @@ function toggleOverlay_new(){
 														Email:</label><input type='email' name='emailO' id='emailO' size='25' />
 												</div>
 											<div style="height:15px;"></div>
-											<div style="float:right;overflow:hidden">
+											<div style="clear:both;overflow:hidden">
 												<button class='button' type="button" onclick='organization3();' style='cursor: pointer;float: right; width: 100px; margin-left: 25px;'>
 													Next
 												</button>
@@ -705,7 +712,7 @@ function toggleOverlay_new(){
 												</button>												
 											</div>
                                             </form>
-                        </div>
+                        </div></div>
 				<div id='organization3' class="double-border" style='position:fixed; top: 50%; left: 50%;width:520px;margin-top:-150px;margin-left:-260px;'>
 										<div style="margin: 15px 15px 15px 15px;">
 											<div style="float:right;overflow:hidden;">
@@ -713,7 +720,7 @@ function toggleOverlay_new(){
 												<p style="float:right;margin-top:5px;margin-right:15px;">
 													<span style='color:grey;'>Individual</span> &nbsp; &nbsp; | &nbsp; &nbsp; Organization
 												</p>												
-											</div></div>
+											</div>
                                             <form name="signupOrganization3" id="signupOrganization3" action="" method="post">
 												<div class="left">
 													<span style="color:#FFFFFF;">Confirm </span><label for="emailS">Sign in Email:</label><input type='email' size='25' name='emailS' id='emailS' />
@@ -729,7 +736,7 @@ function toggleOverlay_new(){
 												<label for="passS2">
 													Confirm Password:</label><input type='password' name='passS2' id='passS2' size='25' />
 											</div>
-											<p class="left">
+											<div class="left"><p>
     											By clicking sign up you agree to our 
     											<a href="policy.php" target="_newtab" onclick="window.open('policy.php','_newtab');" style="color:red;">
     												The Fourth Branch Terms
@@ -742,25 +749,22 @@ function toggleOverlay_new(){
     											<a href="policy.php" target="_newtab" onclick="window.open('policy.php','_newtab');" style="color:red;">
     												cookie use
     											</a>
-    											.
-    										</p>
+    											.</p>
+    										</div>
 											<div style="overflow:hidden;float:right">	
-                                            <button class='button' type="submit" name='addOrganization-button' id='osignup' style='cursor: pointer;float: right; width: 100px; margin-left: 25px;'>
+                                            <button class='button' type="button" onclick="mergeForms('signupOrganization2', 'signupOrganization', 'signupOrganization3');" name='addOrganization-button' id='addOrganization-button' style='cursor: pointer;float: right; width: 100px; margin-left: 25px;'>
 													Sign Up
 												</button>
-												<button class='button' onclick='organization2();' style='cursor: pointer;float: right; width: 100px;'>
+												<button class='button' type="button" onclick='organization2();' style='cursor: pointer;float: right; width: 100px;'>
 													Back
 												</button>
 											</div>
 											<div style="clear:both;"></div>
 											<p style="color:red;text-align:center;" id='o3status'></p>
-										</div>
-									</td>
-								</table>
-							</td>
-						</table>
-					</td>
-				</table>
+										</form>
+                                        </div></div>
+                        <form name="toSubmit" id="toSubmit" action="" method="post">
+                        </form>
 				<table cellpadding='2' bgcolor='#CC0000' id='confirm2' style='position:fixed; top: 50%; left: 50%;margin-top:-200px;margin-left:-290px;'>
 					<td>
 						<table cellpadding='2' bgcolor='#2F68D1'>
@@ -771,13 +775,19 @@ function toggleOverlay_new(){
 										<div style="cursor: pointer;float:right;background-image: url(http://thefourthbranch.co/TheFourthBranch/image/x.png);height:24px;width:24px;" class="xbut"></div>
 											<br style="clear:both" />
 											<p align='center'>
+                                            <?php 
+                                            $jsonj = jsonarray($output);
+                                            if ($jsonj->name_taken == 'true'){ ?>
+                                            Sorry, something went wrong. Please try again.         
+                                            <?php } else { ?>
 												Thank you for your submission, our team will review your application at this time and if approved will notify you via email.
-											</p>
+											<?php } ?>
+                                            </p>
 											<div style="float:right;overflow:hidden;">
 												<button class='button' onclick='toggleOverlay_new();' style='cursor: pointer;position:relative; float: right; width: 50px; margin-left: 25px;'>
 													OK
 												</button>
-												<button style="cursor: pointer;float:right;width: 50px;" onclick='a();' id="button">
+												<button class="button" style="cursor: pointer;float:right;width: 50px;" onclick='a();' id="button">
 													Login
 												</button>
 											</div>
@@ -791,6 +801,37 @@ function toggleOverlay_new(){
 				</table>
 			</div>
 	<script type="text/javascript" >
+function mergeForms() {
+    var forms = [];
+    $.each($.makeArray(arguments), function(index, value) {
+        forms[index] = document.forms[value];
+    });
+    var targetForm = forms[0];
+    $.each(forms, function(i, f) {
+        if (i != 0) {
+            $(f).find('input, select, textarea')
+                .hide()
+                .appendTo($(targetForm));
+        }
+    });
+    $(targetForm).submit();
+}
+
+   // $('#addOrganization-button').click(function(){
+//    var form1content = $('#').html();
+ //   var form2content = $('#signupOrganization2').html();
+   // var form3content = $('#signupOrganization3').html();
+   // $('#toSubmit').html(form1content+form2content+form3content);
+   // $('#toSubmit').submit();
+//});
+function submitForms (){
+     var form1Content = document.getElementById("signupOrganization").innerHTML;
+     var form2Content = document.getElementById("signupOrganization2").innerHTML;
+     var form3Content = document.getElementById("signupOrganization3").innerHTML;
+     document.getElementById("toSubmit").innerHTML=form1Content+form2Content+form3Content;
+                 document.forms.toSubmit.submit();
+  }
+
 		document.getElementById('introduction').style.display = 'none';
   		document.getElementById('forgot').style.display = 'none';
   		document.getElementById('forgot2').style.display = 'none';
@@ -838,13 +879,13 @@ function toggleOverlay_new(){
   			document.getElementById('organization').style.display = 'block';
       }
    	function organization2() {
+       /* This will be verification later
    		var names = document.signupOrganization.nameOrganization.value;
     		var address = document.signupOrganization.addressOrganization.value;
 			var city = document.signupOrganization.cityOrganization.value;
 			var state = document.signupOrganization.stateOrganization.value;
 			var zip = document.signupOrganization.zipOrganization.value;
 			var phone = document.signupOrganization.phoneOrganization.value;
-/* This will be verification later
             if (document.signupOrganization.corporation.checked == true) {
 			var legal = document.signupOrganization.corporation.value;
 			}		
