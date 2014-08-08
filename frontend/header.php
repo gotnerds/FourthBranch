@@ -1,25 +1,42 @@
 <!doctype html>
 <!-- authentication info -->
 <?php
+include "./inc/jsonencode.php";
     if (isset($_POST['login-button'])) {
-        exec("perl ./cgi-bin/fourthBranch.pl run=loginIndividual email=".$_POST['username']." password=".$_POST['password'], $output, $return_val);
-        print_r ($output);
-        $jsonOutput = json_decode($output);
-        echo $jsonOutput;
-        echo 'output= '.array_values($output).' and return_val= '.$return_val;
-        //create if statement to test for successful. if not run loginOrganization as follows
-        //exec("perl ./cgi-bin/fourthBranch.pl run=loginOrganization email=".$_POST['username']." password=".$_POST['password'], $output, $return_val);
-        //print_r ($output);
-        //$jsonOutput = json_decode($output);
-        //echo $jsonOutput;
+        $output = shell_exec("perl ./cgi-bin/fourthBranch.pl run=loginIndividual email=".$_POST['username']." password=".$_POST['password']);
+        $jsonj = jsonarray($output);
+        //echo "individual: ";
+        //var_dump($jsonj);
+        //statement to test for successful.
+        if ($jsonj->successful == 'true'){
+            //create php user class for individual
+        } else {
+        $output = shell_exec("perl ./cgi-bin/fourthBranch.pl run=loginOrganization email=".$_POST['username']." password=".$_POST['password']);
+        $jsonj = jsonarray($output);
+        //echo "organization login: ";
+        //echo $jsonj->successful;
+        }
     }
     if (isset($_POST['addIndividual-button'])){
-        exec("perl ./cgi-bin/fourthBranch.pl run=addIndividual first=".$_POST['fname']." last=".$_POST['lname']." username=".$_POST['psu']." birthdate=".$_POST['dob']." gender=".$_POST['g']." address=".$_POST['adr']." city=".$_POST['city']." state=".$_POST['state']." zip=".$_POST['zip']." email=".$_POST['e']." password=".$_POST['p1']." affiliation=".$_POST['party'], $output, $return_val);
-        print_r ($output);
+        $output = shell_exec("perl ./cgi-bin/fourthBranch.pl run=addIndividual first=".$_POST['fname']." last=".$_POST['lname']." username=".$_POST['pseudonym']." birthdate=".$_POST['dob']." gender=".$_POST['g']." address=".$_POST['address']." city=".$_POST['city']." state=".$_POST['state']." zip=".$_POST['zip']." email=".$_POST['emailI']." password=".$_POST['passI']." affiliation=".$_POST['party']);
+        $jsonj = jsonarray($output);
+        if ($jsonj->successful == 'true'){
+            
+        //individual sign up worked
+            echo $jsonj->successful;
+    } else {
+            echo $jsonj->successful;        
+        }
     }
     if (isset($_POST['addOrganization-button'])){
-        exec("perl ./cgi-bin/fourthBranch.pl run=addOrganization first=".$_POST['fname']." address=".$_POST['adr']." city=".$_POST['city']." state=".$_POST['state']." zip=".$_POST['zip']." phone=".$_POST['phone']." legalstatus=".$_POST['legal']." cause=".$_POST['cause']." joinreason=".$_POST['reason']." individualname=".$_POST['nameI']." titleorganization=".$_POST['titleI']." personalphone=".$_POST['phoneP']." email=".$_POST['emailO']." password=".$_POST['passS'], $output, $return_val);
-        print_r ($output);
+        $output = shell_exec("perl ./cgi-bin/fourthBranch.pl run=addOrganization first=".$_POST['nameOrganization']." address=".$_POST['addressOrganization']." city=".$_POST['cityOrganization']." state=".$_POST['stateOrganization']." zip=".$_POST['zipOrganization']." phone=".$_POST['phoneOrganization']." legalstatus=".$_POST['legal']." cause=".$_POST['cause']." joinreason=".$_POST['reason']." individualname=".$_POST['nameI']." titleorganization=".$_POST['titleI']." personalphone=".$_POST['phoneP']." email=".$_POST['emailO']." password=".$_POST['passS']);
+        $jsonj = jsonarray($output);
+        if ($jsonj->successful == 'true'){
+        //organization sign up worked
+            echo $jsonj->successful;
+    } else {
+            echo $jsonj->successful;        
+        }
     }
 ?>
 <html lang="en">
@@ -46,6 +63,19 @@
     }
 //-->
 </script>
+<?php
+$jsonj = jsonarray($output);
+if ($jsonj->successful == 'true'){
+            echo "<script>$(document).ready(function(){";
+            echo "$('body').addClass('loggedin');";
+            echo "});</script>";
+            echo "Hello ".$_POST['username'].", you are now logged in!";
+        } else {
+            echo "<script>$(document).ready(function(){";
+            echo "$('body').addClass('overlaid');";
+            echo "$('#a').css('display','block');});</script>";
+        }
+?>
 </head>
 <body>
 <!-- <div id="lightboxx">
@@ -101,7 +131,7 @@ RE-PASSWORD:<input type="text" name="repassword" value=""></br>
 function toggleOverlay_new(){
                 document.body.className = document.body.className.indexOf('overlaid') != -1 ? '' : 'overlaid';
                  document.getElementById('introduction').style.display = 'none';
-			document.getElementById('organization').style.display = 'none';
+    		document.getElementById('organization').style.display = 'none';
 			document.getElementById('organization2').style.display = 'none';
 			document.getElementById('organization3').style.display = 'none';
 			document.getElementById('forgot').style.display = 'none';
@@ -344,19 +374,9 @@ function toggleOverlay_new(){
 															</div>	
                                                             <div class="left">
 																Gender: 
-																<input type='checkbox' name="male" value="m" onClick="genderMale();" />Male 
-																<script type="text/javascript" >
-																	function genderMale() {
-																		document.individualLogin.female.checked = false;
-																	}
-																</script>
+																<input type='checkbox' name="g[]" value="m" />Male 
 																&nbsp; 
-																<input type='checkbox' name="female" value="f" onClick="genderFemale();" />Female
-																<script type="text/javascript" >
-																	function genderFemale() {
-																		document.individualLogin.male.checked = false;
-																	} 	
-																</script>
+																<input type='checkbox' name="g[]" value="f" /> Female
                                                                 </div>
                                                                 <div class="left">Address: 
 																<input style="width:600px;" type='text' name='address' id='address' /> 
@@ -402,51 +422,14 @@ function toggleOverlay_new(){
                                                                   <div class="left">
     												Political Leaning:
     												<div style="overflow:hidden">
-  														<input type='checkbox' onClick="politicalRepublican();" value="r" name="republican" />Republican 
-    													<input type='checkbox' onClick="politicalDemocrat();" value="d" name="democrat" />Democrat 
-    													<input type='checkbox' onClick="politicalLibertarian();" value="l" name="libertarian" />Libertarian 
-    													<input type='checkbox' onClick="politicalIndependent();" value="i" name="independent" />Independent 
-    													<input type='checkbox' onClick="politicalOther();" value="o" name="other" style="margin-top:5px;" />Other
+  														<input type='checkbox' value="r" name="party[]" />Republican 
+    													<input type='checkbox' value="d" name="party[]" />Democrat 
+    													<input type='checkbox' value="l" name="party[]" />Libertarian 
+    													<input type='checkbox' value="i" name="party[]" />Independent 
+    													<input type='checkbox' value="o" name="party[]" style="margin-top:5px;" />Other
     												    <input type='text' style="width:150px;display:none;" name='otherBox' id='otherBox' placeholder='If other, please enter here' /> 
     												</div>
     												</div>
-    												<script type="text/javascript" >
-														function politicalRepublican() {
-															document.individualLogin.democrat.checked = false;
-															document.individualLogin.libertarian.checked = false;
-															document.individualLogin.independent.checked = false;
-															document.individualLogin.other.checked = false;
-															document.individualLogin.otherBox.style.display = 'none';
-														}
-														function politicalDemocrat() {
-															document.individualLogin.republican.checked = false;
-															document.individualLogin.libertarian.checked = false;
-															document.individualLogin.independent.checked = false;
-															document.individualLogin.other.checked = false;
-															document.individualLogin.otherBox.style.display = 'none';
-														} 
-														function politicalLibertarian() {
-															document.individualLogin.republican.checked = false;
-															document.individualLogin.democrat.checked = false;
-															document.individualLogin.independent.checked = false;
-															document.individualLogin.other.checked = false;
-															document.individualLogin.otherBox.style.display = 'none';
-														}
-														function politicalIndependent() {
-															document.individualLogin.republican.checked = false;
-															document.individualLogin.democrat.checked = false;
-															document.individualLogin.libertarian.checked = false;
-															document.individualLogin.other.checked = false;
-															document.individualLogin.otherBox.style.display = 'none';
-														}
-														function politicalOther() {
-															document.individualLogin.republican.checked = false;
-															document.individualLogin.democrat.checked = false;
-															document.individualLogin.libertarian.checked = false;
-															document.individualLogin.independent.checked = false;
-															document.individualLogin.otherBox.style.display = 'block';
-														}
-													</script>
     										</div>
     									</div><div class="left" style="margin:15px;">
     										<p>
@@ -462,8 +445,7 @@ function toggleOverlay_new(){
                                             </div>
     										<div style="float:right;overflow:hidden;margin:15px">
     											<button id='isignup'  class='button' name='addIndividual-button' type="submit"
-    													  onclick="individualSignup();" 
-    													  style='cursor: pointer;
+    													   style='cursor: pointer;
     													  			background-color: #2F68D1; 
     													  			color: #FFFFFF; 
     													  			text-align: center; 
@@ -475,45 +457,45 @@ function toggleOverlay_new(){
     											>
     												Sign Up
     											</button>
-    											<script>
+    										<!--	<script>
                                                     $('#addIndividual').submit(function( event ) {
                                                           event.preventDefault();  													
-    													var e = document.emailI.emailI.value;
-    													var e2 = document.emailI.emailI2.value;
-														var p1 = document.passI.passI.value;
-														var p2 = document.passI.passI2.value;
-														var state = document.city.state.value;
+    													var e = document.addIndividual.emailI.value;
+    													var e2 = document.addIndividual.emailI2.value;
+														var p1 = document.addIndividual.passI.value;
+														var p2 = document.addIndividual.passI2.value;
+														var state = document.addIndividual.state.value;
 														var g = "";
-														if (document.gender.male.checked == true) {
-															g = document.gender.male.value;
+														if (document.addIndividual.male.checked == true) {
+															g = document.addIndividual.male.value;
 														}		
-														if (document.gender.female.checked == true) {
-															g = document.gender.female.value;
+														if (document.addIndividual.female.checked == true) {
+															g = document.addIndividual.female.value;
 														}														
 														var party = '';
-														if (document.individualLogin.republican.checked == true) {
-															party = document.individualLogin.republican.value;
+														if (document.addIndividual.republican.checked == true) {
+															party = document.addIndividual.republican.value;
 														}
-														if (document.individualLogin.democrat.checked == true) {
-															party = document.individualLogin.democrat.value;
+														if (document.addIndividual.democrat.checked == true) {
+															party = document.addIndividual.democrat.value;
 														}
-														if (document.individualLogin.libertarian.checked == true) {
-															party = document.individualLogin.libertarian.value;
+														if (document.addIndividual.libertarian.checked == true) {
+															party = document.addIndividual.libertarian.value;
 														}
-														if (document.individualLogin.other.checked == true) {
-															party = document.individualLogin.other.value;
+														if (document.addIndividual.other.checked == true) {
+															party = document.addIndividual.other.value;
 														}
-														if (document.individualLogin.independent.checked == true) {
-															party = document.individualLogin.independent.value;
+														if (document.addIndividual.independent.checked == true) {
+															party = document.addIndividual.independent.value;
 														}
-														var psu = document.psu.pseudonym.value;
+														var psu = document.addIndividual.pseudonym.value;
 														var u = psu;
-														var adr = document.address.address.value;
-														var city = document.city.city.value;
-														var zip = document.city.zip.value;
-														var fname = document.names.fname.value;
-														var lname = document.names.lname.value;												
-														var dob = document.psu.dob.value;														
+														var adr = document.addIndividual.address.value;
+														var city = document.addIndividual.city.value;
+														var zip = document.addIndividual.zip.value;
+														var fname = document.addIndividual.fname.value;
+														var lname = document.addIndividual.lname.value;												
+														var dob = document.addIndividual.dob.value;														
     													if (e == '' || p1 == "" || state == "" || g == "" || psu == "" || adr == "" || city == "" || zip == "" || fname == "" || lname == "" || dob == "") {
     														document.getElementById('istatus').innerHTML = "Please, fill out all of the form data";
 														} else if (p1 != p2) {
@@ -521,11 +503,9 @@ function toggleOverlay_new(){
 														} else if (e != e2){
 															document.getElementById('istatus').innerHTML = "Your emails do not match";
 														} else {
-														    $( "#addIndividual" ).submit();
-												  
 															}
-														});	
-												</script>
+														}).trigger('submit');	
+												</script> -->
 												<button type="button" class='button' onclick='introduction();' style='cursor: pointer;width:100px;float: right;'>
 													Back
 												</button>
@@ -569,7 +549,7 @@ function toggleOverlay_new(){
 													<span style='color:grey;'>Individual</span> &nbsp; &nbsp; | &nbsp; &nbsp; Organization
 												</p>												
 											</div></div>
-                                            <form name="signupOrganization" style="margin: 15px;">
+                                            <form name="signupOrganization" id="signupOrganization" action='' method="POST" style="margin: 15px;">
 												<div class="left"><label for="nameOrganization">Name of Organization:</label>
 													<input type='text' style="width:400px;" name='nameOrganization' id='nameOrganization' />
 											</div>
@@ -642,43 +622,18 @@ function toggleOverlay_new(){
 									  		</div>
                                               <div class="left">
 									  				Legal Status:
-									  				<input type='checkbox' onClick="legalCorporation();" value="c" name="corporation" />Corporation 
+									  				<input type='checkbox' value="corporate" name="legal" />Corporation 
 									  				&nbsp; 
-									  				<input type='checkbox' onClick="legalNotForProfit();" value="n" name="nonProfit" />Not-for-Profit 
+									  				<input type='checkbox' value="nonprofit" name="legal" />Not-for-Profit 
 									  				&nbsp; 
-									  				<input type='checkbox' onClick="legalOther();" value="o" name="other" />Other
+									  				<input type='checkbox' value="other" name="legal" />Other
 									  				<input type='text' name="otherBox2" id='otherBox2' placeholder='If other, specify here' style="display:none;" />
-									  			<script type="text/javascript" >
-													function legalCorporation() {
-														document.signupOrganization.nonProfit.checked = false;
-														document.signupOrganization.other.checked = false;
-														document.signupOrganization.otherBox2.style.display = 'none';
-													}
-													function legalNotForProfit() {
-														document.signupOrganization.corporation.checked = false;
-														document.signupOrganization.other.checked = false;
-														document.signupOrganization.otherBox2.style.display = 'none';
-													}
-													function legalOther() {
-														document.loginOrganization.nonProfit.checked = false;
-														document.loginOrganization.corporation.checked = false;
-														document.loginOrganization.otherBox2.style.display = 'block';
-													}		
-												</script>
-									  		</div>
+									  		   </div>
                                               <div class="left">
 									  				Your Cause Concerns:
-									  				<input type='checkbox' value="f" name="federal" onClick="causeFederal();" />Federal Government 
+									  				<input type='checkbox' value="federal" name="cause"" />Federal Government 
 									  				&nbsp; 
-									  				<input type='checkbox' value="s" name="state" onClick="causeState();" />State
-									  			<script type="text/javascript" >
-													function causeFederal() {
-														document.loginOrganization.state.checked = false;
-													 }
-													function causeState() {
-														document.loginOrganization.federal.checked = false;
-													 }	
-												</script>
+									  				<input type='checkbox' value="state" name="cause"" />State
 									  		</div>
                                             <div class="left" style="padding-top:23px;">
                                               <label for="imgInp">
@@ -715,7 +670,7 @@ function toggleOverlay_new(){
 									  	<p style="color:red;text-align:center;" id='ostatus'></p>
                                         </form>
 									 </div>
-				<div id='organization2' style='position:fixed; width:420px; top: 50%; left: 50%;margin-top:-150px;margin-left:-210px;'>
+				<div id='organization2' class="double-border" style='position:fixed; width:420px; top: 50%; left: 50%;margin-top:-150px;margin-left:-210px;'>
 										<div style="margin: 15px 15px 15px 15px">
 											<div style="float:right;overflow:hidden;">
 												<div style="cursor: pointer;float:right;background-image: url(http://thefourthbranch.co/TheFourthBranch/image/x.png);height:24px;width:24px;" class="xbut"></div>											
@@ -724,17 +679,17 @@ function toggleOverlay_new(){
 												</p>												
 											</div>
                                             </div>
-                                            <form name="signupOrganization2" style="margin: 15px;">
+                                            <form name="signupOrganization2" id="signupOrganization2" action="" method="POST" style="margin: 15px;">
                                             <div class="left">
-										<label for="nameIndividual">
+										<label for="nameI">
 														Name of Individual:
-                                                        </label><input type='text' size='25' name='nameIndividual' id='nameIndividual' />
+                                                        </label><input type='text' size='25' name='nameI' id='nameI' />
 													</div>
                                                     <div class="left">
-													<label for="titleIndividual">
-														Title in Organization:</label><input type='text' size='25' name='titleIndividual' id='titleIndividual' />
+													<label for="titleI">
+														Title in Organization:</label><input type='text' size='25' name='titleI' id='titleI' />
 													</div><div class="left"><label for="phonePersonal">
-														Personal Phone:</label><input type='text' size='25' name='phonePersonal' id='phonePersonal' />
+														Personal Phone:</label><input type='text' size='25' name='phoneP' id='phoneP' />
     											     </div>
 												<div class="left">
 													<label for="emailO">
@@ -751,7 +706,7 @@ function toggleOverlay_new(){
 											</div>
                                             </form>
                         </div>
-				<div id='organization3' style='position:fixed; top: 50%; left: 50%;width:520px;margin-top:-150px;margin-left:-260px;'>
+				<div id='organization3' class="double-border" style='position:fixed; top: 50%; left: 50%;width:520px;margin-top:-150px;margin-left:-260px;'>
 										<div style="margin: 15px 15px 15px 15px;">
 											<div style="float:right;overflow:hidden;">
 												<div style="cursor: pointer;float:right;background-image: url(http://thefourthbranch.co/TheFourthBranch/image/x.png);height:24px;width:24px;" class="xbut"></div>											
@@ -759,7 +714,7 @@ function toggleOverlay_new(){
 													<span style='color:grey;'>Individual</span> &nbsp; &nbsp; | &nbsp; &nbsp; Organization
 												</p>												
 											</div></div>
-											<form name="signupOrganization3">
+                                            <form name="signupOrganization3" id="signupOrganization3" action="" method="post">
 												<div class="left">
 													<span style="color:#FFFFFF;">Confirm </span><label for="emailS">Sign in Email:</label><input type='email' size='25' name='emailS' id='emailS' />
 											</div>
@@ -790,110 +745,9 @@ function toggleOverlay_new(){
     											.
     										</p>
 											<div style="overflow:hidden;float:right">	
-												<button class='button' onclick="organizationSignup();" style='cursor: pointer;float: right; width: 100px; margin-left: 25px;'>
+                                            <button class='button' type="submit" name='addOrganization-button' id='osignup' style='cursor: pointer;float: right; width: 100px; margin-left: 25px;'>
 													Sign Up
 												</button>
-												<script type="text/javascript" >
-													function organizationSignup() {
-    													var names = document.signupOrganization.nameOrganization.value;
-    													var address = document.signupOrganization.addressOrganization.value;
-														var city = document.signupOrganization.cityOrganization.value;
-														var state = document.signupOrganization.stateOrganization.value;
-														var zip = document.signupOrganization.zipOrganization.value;
-														var phone = document.signupOrganization.phoneOrganization.value;
-														var legal = "";
-														if (document.signupOrganization.corporation.checked == true) {
-															var legal = document.signupOrganization.corporation.value;
-														}		
-														if (document.signupOrganization.nonProfit.checked == true) {
-															var legal = document.signupOrganization.nonProfit.value;
-														}
-														if (document.signupOrganization.other.checked == true) {
-															var legal = document.signupOrganization.other.value;
-														}
-														var cause = "";
-														if (document.signupOrganization.federal.checked == true) {
-															var cause = document.signupOrganization.federal.value;
-														}		
-														if (document.signupOrganization.state.checked == true) {
-															var cause = document.signupOrganization.state.value;
-														}
-														var reason = document.getElementById("reason").value;
-														var avi = document.signupOrganization.pic.value;
-														var nameI = document.signupOrganization2.nameIndividual.value;
-														var titleI = document.signupOrganization2.titleIndividual.value;
-														var phoneP = document.signupOrganization2.phonePersonal.value;
-														var emailO = document.signupOrganization2.emailO.value;
-														var emailS = document.signupOrganization3.emailS.value;
-														var emailS2 = document.signupOrganization3.emailS2.value;
-														var passS = document.signupOrganization3.passS.value;
-														var passS2 = document.signupOrganization3.passS2.value;
-    													if (names == "" || address == "" || city == "" || state == "" || zip == "" || phone == "" || legal == "" || reason == "" || nameI == "" || titleI == "" || phoneP == "" || emailO == "" || emailS == "" || passS == "" || cause == "") {
-    														document.getElementById('o3status').innerHTML = "Please, fill out all of the form data";
-														} else if (passS != passS2) {
-															document.getElementById('o3status').innerHTML ="Your password fields do not match";
-														} else if (emailS != emailS2){
-															document.getElementById('o3status').innerHTML ="Your Sign in Emails do not match";
-														} else {
-                                                         $.ajax({
-        type: "GET",
-        url: "cgi-bin/fourthBrancHTML.pl", // URL of the Perl script
-        dataType: "html",
-        // send username and password as parameters to the Perl script
-          data: "run=addOrganization&name="+names+"&address="+address+"&city="+city+"&state="+state+"&zip="+zip+"&phone="+phone+"&legalstatus="+legal+"&cause="+cause+"&joinreason="+reason+"&individualname="+nameI+"&titleorganization="+titleI+"&personalphone="+phoneP+"&email="+emailO+"&password="+passS,        
-        // script call was *not* successful
-        error: function(XMLHttpRequest, textStatus, errorThrown) { 
-        window.console&&console.log("responseText: " + XMLHttpRequest.responseText 
-            + ", textStatus: " + textStatus 
-            + ", errorThrown: " + errorThrown);
-          $('div#loginResult').text("responseText: " + XMLHttpRequest.responseText 
-            + ", textStatus: " + textStatus 
-            + ", errorThrown: " + errorThrown);
-          $('div#loginResult').addClass("error");
-        }, // error 
-        // script call was successful 
-        // data contains the JSON values returned by the Perl script 
-        success: function(data){
-          if (data.successful) { // script returned error
-                  window.console&&console.log(data);
-            $('div#loginResult').text("data.error: " + data.error);
-            $('div#loginResult').addClass("error");
-          } // if
-          else { // login was successful
-                  window.console&&console.log(data);
-            $('form#loginForm').hide();
-            $('div#loginResult').text("data.success: " + data.success 
-              + ", data.userid: " + data.userid);
-            $('div#loginResult').addClass("success");
-          } //else
-        } // success
-      }); // ajax
-																var dataString = "legal="+legal+"&name="+names+"&address="+address+"&city="+city+"&state="+state+"&zip="+zip+"&phone="+phone+"&reason="+reason+"&nameI="+nameI+"&titleI="+titleI+"&phoneP="+phoneP+"&emailO="+emailO+"&emailS="+emailS+"&passS="+passS+"&cause="+cause;							
-																	$.ajax({
-																		type: "POST",
-																		url: "#",
-																		data: dataString,
-																		success: function(data, textStatus, jqXHR)
-																		{
-																			   document.getElementById('confirm2').style.display = 'block';
-																				document.getElementById('individual').style.display = 'none';
-	   																		    document.getElementById('introduction').style.display = 'none';
-																				document.getElementById('organization').style.display = 'none';
-																				document.getElementById('organization2').style.display = 'none';
-																				document.getElementById('organization3').style.display = 'none';
-																				document.getElementById('forgot').style.display = 'none';
-  																				document.getElementById('forgot2').style.display = 'none';
-  																				document.getElementById('a').style.display = 'none';
-																				document.getElementById('confirm').style.display = 'none';
-																		},
-																		error: function (jqXHR, textStatus, errorThrown)
-																		{
-																			document.getElementById('o3status').innerHTML = "An Unknown Error Occurred";							
-																		}
-																  });																
-														}
-													}
-												</script>
 												<button class='button' onclick='organization2();' style='cursor: pointer;float: right; width: 100px;'>
 													Back
 												</button>
@@ -990,9 +844,9 @@ function toggleOverlay_new(){
 			var state = document.signupOrganization.stateOrganization.value;
 			var zip = document.signupOrganization.zipOrganization.value;
 			var phone = document.signupOrganization.phoneOrganization.value;
-			var legal = "";
-			if (document.signupOrganization.corporation.checked == true) {
-				var legal = document.signupOrganization.corporation.value;
+/* This will be verification later
+            if (document.signupOrganization.corporation.checked == true) {
+			var legal = document.signupOrganization.corporation.value;
 			}		
 			if (document.signupOrganization.nonProfit.checked == true) {
 				var signupOrganization = document.legal.nonProfit.value;
@@ -1007,10 +861,11 @@ function toggleOverlay_new(){
 			if (document.signupOrganization.state.checked == true) {
 				var cause = document.signupOrganization.state.value;
 			}
-			var reason = document.getElementById("reason").value;
+            var reason = document.getElementById("reason").value;
 			if (names == "" || address == "" || city == "" || state == "" || zip == "" || phone == "" || legal == "" || reason == "" || cause == "") {
-				document.getElementById('ostatus').innerHTML = 'Please fill out all of the form data.';
+				document.getElementById('ostatus').innerHTML = 'Please fill out all of the form data.'+names+' '+address+' '+city+' '+state+' '+zip+' '+phone+' '+legal+' '+reason+' '+cause;
 			} else {
+*/
 	   		document.getElementById('introduction').style.display = 'none';
 				document.getElementById('individual').style.display = 'none';
 				document.getElementById('organization').style.display = 'none';
@@ -1021,7 +876,7 @@ function toggleOverlay_new(){
   				document.getElementById('confirm').style.display = 'none';
 				document.getElementById('confirm2').style.display = 'none';
   				document.getElementById('organization2').style.display = 'block';
-  			}
+  			
       }
    	function organization3() {
 	   	document.getElementById('introduction').style.display = 'none';
