@@ -19,6 +19,8 @@ $VERSION     = 1.00;
 @EXPORT      = ();
 @EXPORT_OK   = qw(getUserRepresentativeWebPage findUserRepresentative);
 %EXPORT_TAGS = ( DEFAULT => [qw(&func1findUserRepresentative &getUserRepresentativeWebPage)]);
+
+
 my $mech = WWW::Mechanize->new();
 my $representativeSearchUrl = 'http://www.house.gov/htbin/findrep?ADDRLK31154111031154111&street=&city=&state=&ZIP=';
 
@@ -99,23 +101,38 @@ sub findUserRepresentative{
     $providedStreet =~ s/City(.*)//g;
     # Remove br tags
     $providedStreet =~ s@<br>@@g;
-    chomp($providedStreet);
+    $providedStreet =~ s@\n@@g;
+    $providedStreet =~ s/^\s+//;
+    $providedStreet =~ s/\s+$//;
     
     $content =~ m@.*City:(.*?)Zip@s;
     my $providedCity = $1;
-    chomp($providedCity);
+    $providedCity =~ s@<br>@@g;
+    $providedCity =~ s@\n@@g;
+    $providedCity =~ s/^\s+//;
+    $providedCity =~ s/\s+$//;
 
     $content =~ m@.*Zip Code:(.*?)<br>@s;
     my $providedZip = $1;
+    $providedZip =~ s@\n@@g;
+    $providedZip =~ s/^\s+//;
+    $providedZip =~ s/\s+$//;
+
     
     # Parsed district
     $content =~ m@.*is located in the (.*?)<p>@s;
     my $foundDistrict = $1;
+    $foundDistrict =~ s@\n@@g;
+    $foundDistrict =~ s/^\s+//;
+    $foundDistrict =~ s/\s+$//;
 
     # Parsed possible reps
     $content =~ m@.*?id="RepInfo">(.*?)</a>@s;
     my $possibleReps = $1;
     $possibleReps =~ s@.*>@@s;
+    $possibleReps =~ s@\n@@g;
+    $possibleReps =~ s/^\s+//;
+    $possibleReps =~ s/\s+$//;
 
     my @results = ($providedStreet,$providedCity,$providedZip,$foundDistrict,$possibleReps);
     return \@results;

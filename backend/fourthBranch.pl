@@ -54,7 +54,7 @@ if(defined($function)){
 	    if($result == 1){
 		$result{'successful'} = 'true';
 	    }
-	    print encode_json(\%result);
+	    print &encode_json(\%result);
 	}
 	else{
 	    &paramCheck($email,$password);
@@ -68,7 +68,13 @@ if(defined($function)){
 	if(defined($street) && defined($city) && defined($state) && defined($zip)){
 	    my $result_ref = HouseDotGov::findUserRepresentative($street,$city,$state,$zip);
 	    my @results = @$result_ref;
-	    
+	    my %result = ('successful' => 'true',
+			  'searchedStreet' => $results[0],
+			  'searchedCity' => $results[1],
+			  'searchedZip' => $results[2],
+			  'foundDistrict' => $results[3],
+			  'possibleReps' => $results[4]);
+	    print &encode_json(\%result);
 	}
 	
     }
@@ -81,7 +87,7 @@ if(defined($function)){
 	    if($result == 1){
 		$result{'successful'} = 'true';
 	    }
-	    print encode_json(\%result);
+	    print &encode_json(\%result);
 	}
 	else{
 	    &paramCheck($email,$password);
@@ -96,7 +102,7 @@ if(defined($function)){
 	    if($result == 1){
 		$result{'successful'} = 'true';
 	    }
-	    print encode_json(\%result);
+	    print &encode_json(\%result);
 	}
 	else{
 	    &paramCheck($email,$password);
@@ -110,7 +116,7 @@ if(defined($function)){
 	    if($result == 1){
 		$result{'successful'} = 'true';
 	    }
-	    print encode_json(\%result);
+	    print &encode_json(\%result);
 	}
 	else{
 	    &paramCheck($email);
@@ -129,7 +135,7 @@ if(defined($function)){
 	    if($result == 1){
 		$result{'successful'} = 'true';
 	    }
-	    print encode_json(\%result);
+	    print &encode_json(\%result);
 	}
 	else{
 	    &paramCheck($name,$state,$url,$email,$phone,$chamber);
@@ -143,7 +149,7 @@ if(defined($function)){
 	    if($result == 1){
 		$result{'successful'} = 'true';
 	    }
-	    print encode_json(\%result);
+	    print &encode_json(\%result);
 	}
 	else{
 	    &paramCheck($email);
@@ -160,7 +166,7 @@ if(defined($function)){
 	    if($result == 1){
 		$result{'successful'} = 'true';
 	    }
-	    print encode_json(\%result);
+	    print &encode_json(\%result);
 	}
 	else{
 	    &paramCheck($title,$state,$url,$code);
@@ -175,7 +181,7 @@ if(defined($function)){
 	    if($result == 1){
 		$result{'successful'} = 'true';
 	    }
-	    print encode_json(\%result);
+	    print &encode_json(\%result);
 	}
 	else{
 	    &paramCheck($code,$open);
@@ -190,7 +196,7 @@ if(defined($function)){
 	    if($result == 1){
 		$result{'successful'} = 'true';
 	    }
-	    print encode_json(\%result);
+	    print &encode_json(\%result);
 	}
 	else{
 	    &paramCheck($email,$password);
@@ -202,7 +208,7 @@ if(defined($function)){
 	if(defined($email) && defined($activate)){
 	    if($activate ne "true" && $activate ne "false"){
 		my %result = ('successful' => 'false');
-		print encode_json(\%result);
+		print &encode_json(\%result);
 	    }
 	    else{
 		my $result = &setActivatedIndividual($email,$activate);
@@ -210,7 +216,7 @@ if(defined($function)){
 		if($result == 1){
 		    $result{'successful'} = 'true';
 		}
-		print encode_json(\%result);
+		print &encode_json(\%result);
 	    }
 	}
 	else{
@@ -225,7 +231,7 @@ if(defined($function)){
 	    if($activated == 1){
 		$result{'activated'} = 'true';
 	    }
-	    print encode_json(\%result);
+	    print &encode_json(\%result);
 	}
 	else{
 	    &paramCheck($email);
@@ -237,7 +243,7 @@ if(defined($function)){
 	if(defined($email) && defined($verified)){
 	    if($verified ne "true" && $verified ne "false"){
 		my %result = ('successful' => 'false');
-		print encode_json(\%result);
+		print &encode_json(\%result);
 	    }
 	    else{
 		my $result = &setVerifiedOrganization($email,$verified);
@@ -245,7 +251,7 @@ if(defined($function)){
 		if($result == 1){
 		    $result{'successful'} = 'true';
 		}
-		print encode_json(\%result);
+		print &encode_json(\%result);
 	    }
 	}
 	else{
@@ -260,7 +266,7 @@ if(defined($function)){
 	    if($verified == 1){
 		$result{'verified'} = 'true';
 	    }
-	    print encode_json(\%result);
+	    print &encode_json(\%result);
 	}
 	else{
 	    &paramCheck($email);
@@ -294,12 +300,12 @@ if(defined($function)){
 		if($result == 1){
 		    $resultOut{'successful'} = 'true';
 		}
-		print encode_json(\%resultOut);
+		print &encode_json(\%resultOut);
 	    }
 	    else{
 		my %result = ('successful' => 'false',
 			      'name_taken' => 'true');
-		print encode_json(\%result);
+		print &encode_json(\%result);
 	    }
 	    
 	}
@@ -307,8 +313,7 @@ if(defined($function)){
 	    &paramCheck($name,$address,$city,$state,$zip,$phone,$legal_status,$cause_concerns,$join_reason, $individual_name,$title_in_organization,$personal_phone,$email,$password);
 	}
     }
-    elsif($function eq 'addIndividual'){
-	
+    elsif($function eq 'addIndividual'){	
 	my $first = param('first'); 
 	my $last = param('last');
 	my $username = param('username');
@@ -329,12 +334,12 @@ if(defined($function)){
 		if($result == 1){
 		    $resultOut{'successful'} = 'true';
 		}
-		print encode_json(\%resultOut);
+		print &encode_json(\%resultOut);
 	    }
 	    else{
 		my %result = ('successful' => 'false',
 			      'name_taken' => 'true');
-		print encode_json(\%result);
+		print &encode_json(\%result);
 	    }
 	}
 	else{
@@ -534,7 +539,7 @@ sub getOrganizationById{
 	           'legalstatus' => $legal_status,
 	           'cause_concerns' => $cause_concerns,
 	           'join_reason' => $join_reason);
-	#print encode_json(\%result);
+	#print &encode_json(\%result);
     }   
 }
 
@@ -668,7 +673,7 @@ sub getIndividualById{
 		      'email' => $email,
 		      'password' => $password, 
 		      'affiliation' => $political_affiliation);
-	#print encode_json(\%result);
+	print encode_json(\%result);
     }   
 }
 
@@ -679,7 +684,8 @@ sub commandLineToHtmlEncoded{
 	if($ARGV[$index] =~ /(.*)=(.*)/){
 	    my $key = $1;
 	    my $value = $2;
-	    $value =~ s/'"//g;
+	    $value =~ s/^'(.*)'$/$1/g; 
+	    $value =~ s/^"(.*)"$/$1/g;
 	    $cgiQuery->param(-name=>"$key",-value=>"$value");
 	}
     }
@@ -704,4 +710,24 @@ sub paramCheck{
 	}
 	$index++;
     }
+}
+
+sub encode_json{
+    my $hash_ref = $_[0];
+    my %myHash = %{$hash_ref};
+    my $output = "[{";
+    my $addComma = 0;
+    for my $key (keys (%myHash)){
+	if($addComma == 1){
+	    $output .= ',';
+	}
+	$addComma = 1;
+	my $replace = '\"';
+	$key =~ s/"/\\"/g;
+	my $value = $myHash{$key};
+	$value =~ s/"/\\"/g;
+	$output .= "\"$key\":\"".$value."\"";
+    }
+    $output .= "}]";
+    return $output;
 }
