@@ -1,5 +1,6 @@
 #!/usr/bin/perl -w
 ###!C:/xampp/perl/bin/perl.exe
+package HouseDotGov;
 
 use warnings;
 use CGI::Carp 'fatalsToBrowser';
@@ -8,10 +9,19 @@ use Cwd qw(cwd abs_path);
 use File::Basename 'dirname';
 use lib dirname(abs_path $0);
 use strict;
+use Exporter;
 use WWW::Mechanize;
 use URI::Escape;
+use vars qw($VERSION @ISA @EXPORT @EXPORT_OK %EXPORT_TAGS);
 
+$VERSION     = 1.00;
+@ISA         = qw(Exporter);
+@EXPORT      = ();
+@EXPORT_OK   = qw(getUserRepresentativeWebPage findUserRepresentative);
+%EXPORT_TAGS = ( DEFAULT => [qw(&func1findUserRepresentative &getUserRepresentativeWebPage)]);
 my $mech = WWW::Mechanize->new();
+my $representativeSearchUrl = 'http://www.house.gov/htbin/findrep?ADDRLK31154111031154111&street=&city=&state=&ZIP=';
+
 
 my %houseStateCode = (
     "Alabama" => "ALAlabama",
@@ -69,9 +79,9 @@ my %houseStateCode = (
     "West Virginia" => "WVWest Virginia",
     "Wisconsin" => "WIWisconsin",
     "Wyoming" => "WYWyoming",
-    );
+);
 
-my $answer = &findUserRepresentative('1143 Jefferson Ave','Brooklyn','New York','11221')."\n";
+
 
 sub findUserRepresentative{
     my $street = $_[0];
@@ -107,9 +117,6 @@ sub findUserRepresentative{
     my $possibleReps = $1;
     $possibleReps =~ s@.*>@@s;
 
-    
-
-    print "$possibleReps";
     my @results = ($providedStreet,$providedCity,$providedZip,$foundDistrict,$possibleReps);
     return \@results;
 }
@@ -121,8 +128,6 @@ sub getUserRepresentativeWebPage{
     $state = $houseStateCode{$state};
     $state = uri_escape($state);
     my $zip = uri_escape($_[3]);
-
-    my $representativeSearchUrl = 'http://www.house.gov/htbin/findrep?ADDRLK31154111031154111&street=&city=&state=&ZIP=';
 
     $representativeSearchUrl =~ s/street=/street=$street/;
     $representativeSearchUrl =~ s/city=/city=$city/;

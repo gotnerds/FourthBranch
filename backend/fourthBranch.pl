@@ -6,159 +6,16 @@ use CGI::Carp 'fatalsToBrowser';
 use CGI qw/:standard/;
 use Cwd qw(cwd abs_path);
 use File::Basename 'dirname';
-use JSON::PP qw(encode_json decode_json);
 use lib dirname(abs_path $0);
 use strict;
+use HouseDotGov qw(:DEFAULT);
+use Databases qw(:DEFAULT);
+use Data::Dump qw(pp);
 
-# Individual Users
-my $CREATE_INDIVIDUAL_USERS_TABLE ="create table individuals 
-( id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT, 
-  first_name VARCHAR(50) NOT NULL UNIQUE , 
-  last_name VARCHAR(50) NOT NULL,
-  username VARCHAR(30) NOT NULL, 
-  birthdate DATE NOT NULL,
-  gender CHAR(1), 
-  address VARCHAR(200), 
-  city VARCHAR(200), 
-  state VARCHAR(100), 
-  zip MEDIUMINT,
-  email VARCHAR(100),
-  password VARCHAR(100), 
-  political_affiliation VARCHAR(30), 
-  activated VARCHAR(5), 
-  PRIMARY KEY (id)
-);";
+#pp(\%INC);
 
-# Organization Users
-my $CREATE_ORGANIZATION_USERS_TABLE ="create table organizations 
-( id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT, 
-  name VARCHAR(50) NOT NULL UNIQUE, 
-  address VARCHAR(200), 
-  city VARCHAR(200),
-  state VARCHAR(100), 
-  zip MEDIUMINT,
-  phone VARCHAR(100),
-  legal_status VARCHAR(100), 
-  cause_concerns VARCHAR(30),
-  join_reason VARCHAR(500),
-  individual_name VARCHAR(300), 
-  title_in_organization VARCHAR(300), 
-  personal_phone VARCHAR(20), 
-  email VARCHAR(40), 
-  password VARCHAR(30), 
-  verified VARCHAR(5), 
-  PRIMARY KEY (id)
-);";
-
-# Admin Users
-my $CREATE_ADMIN_USERS_TABLE ="create table admins 
-( id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT,
-  email VARCHAR(50) NOT NULL UNIQUE, 
-  password VARCHAR(200), 
-  PRIMARY KEY (id)
-)";
-
-
-
-# Normal Bills
-my $CREATE_NORMAL_BILL_TABLE = "create table bills 
-(id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT, 
- title VARCHAR(300) NOT NULL UNIQUE, 
- state VARCHAR(50), 
- url VARCHAR(500), 
- code VARCHAR(50),
- open VARCHAR(5),
- PRIMARY KEY(id)
-)";
-
-# Large Bills Table
-my $CREATE_LARGE_BILL_TABLE = "create table large_bills 
-(id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT,
- title VARCHAR(300) NOT NULL UNIQUE, 
- state VARCHAR(50), 
- url VARCHAR(500), 
- code VARCHAR(50),
- open VARCHAR(5),
- num_sections MEDIUMINT, 
- section_num MEDIUMINT, 
- section_name VARCHAR(40),
- section_content VARCHAR(40),
- voteCountYes MEDIUMINT,
- voteCountNo MEDIUMINT,
- individualVote MEDIUMINT,
- PRIMARY KEY(id)
-)";
-
-# Appropriation Bills Table
-my $CREATE_APPROPRIATION_BILL_TABLE = "create table appropriation_bills 
-(id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT,
- title VARCHAR(300) NOT NULL UNIQUE, 
- state VARCHAR(50), 
- url VARCHAR(500), 
- code VARCHAR(50),
- open VARCHAR(5),
- num_sections MEDIUMINT,
- budget MEDIUMINT,
- num_sections MEDIUMINT,
- section_name MEDIUMINT,
- section_allocation MEDIUMINT,
- num_objects MEDIUMINT,
- object_name MEDIUMINT,
- object_allocation MEDIUMINT,
- PRIMARY KEY(id)
-)";
- 
-#
-# Representatives
-my $CREATE_REPRESENTATIVES_TABLE = "create table representatives 
-(id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT, 
- name VARCHAR(50) NOT NULL UNIQUE, 
- state VARCHAR(50), 
- url VARCHAR(500), 
- email VARCHAR(50),
- phone VARCHAR(5),
- photo VARCHAR(60),
- chamber VARCHAR(10), 
- PRIMARY KEY(id)
-)";
-
-# Bill Vote 
-my $CREATE_BILL_VOTE_TABLE = "create table bill_votes 
-(id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT, 
- billId MEDIUMINT NOT NULL, 
- reddit MEDIUMINT , 
- google MEDIUMINT, 
- facebook MEDIUMINT,
- twitter MEDIUMINT,
- PRIMARY KEY(id)
-)";
-
-# User Votes 
-my $CREATE_USER_VOTES_TABLE = "create table user_votes 
-(id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT, 
- billId MEDIUMINT NOT NULL, 
- user MEDIUMINT , 
- vote VARCHAR(200), 
- date DATE,
- PRIMARY KEY(id)
-)";
- 
-# WallOfAmerica
-my $CREATE_WALL_OF_AMERICA_TABLE = "create table wall_of_america 
-(id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT,  
- user MEDIUMINT , 
- dream VARCHAR(200),
- wish VARCHAR(200), 
- date DATE,
- PRIMARY KEY(id)
-)";
-
-
-my @tables = ( $CREATE_INDIVIDUAL_USERS_TABLE, $CREATE_ORGANIZATION_USERS_TABLE, $CREATE_ADMIN_USERS_TABLE,$CREATE_BILL_TABLE,$CREATE_REPRESENTATIVES_TABLE,$CREATE_WALL_OF_AMERICA_TABLE,$CREATE_BILL_VOTES_TABLE,$CREATE_USER_VOTES_TABLE,$CREATE_LARGE_BILLS_TABLE,$CREATE_APPROPRIATION_BILLS_TABLE);
-
-my @table_names = ("individuals", "organizations","admins","bills","representatives","bill_votes","user_votes","wall_of_america","large_bills","appropriation_bills");
 # TODO District Search
-
+ 
 use DBI;
 ###########################
 # Main
@@ -184,347 +41,341 @@ else{
 &commandLineToHtmlEncoded();
 print "[";# Start the json array
 my $function = param('run');
-if($function eq 'version'){
-    print $VERSION_NUMBER
-}
-elsif($function eq 'loginOrganization'){
-    my $email = param('email');
-    my $password = param('password');
-    if(defined($email) && defined($password)){
-	my $result = &loginOrganization($email,$password);
-	my %result = ('successful' => 'false');
-	if($result == 1){
-	    $result{'successful'} = 'true';
-	}
-	print encode_json(\%result);
+if(defined($function)){
+    if($function eq 'version'){
+	print $VERSION_NUMBER
     }
-    else{
-	&paramCheck($email,$password);
-    }
-}
-elsif($function eq 'loginIndividual'){
-    my $email = param('email');
-    my $password = param('password');
-    if(defined($email) && defined($password)){
-	my $result = &loginIndividual($email,$password);
-	my %result = ('successful' => 'false');
-	if($result == 1){
-	    $result{'successful'} = 'true';
-	}
-	print encode_json(\%result);
-    }
-    else{
-	&paramCheck($email,$password);
-    }
-}
-elsif($function eq 'addAdminUser'){
-    my $email = param('email');
-    my $password = param('password');
-    if(defined($email) && defined($password)){
-	my $result = &addAdminUser($email,$password);
-	my %result = ('successful' => 'false');
-	if($result == 1){
-	    $result{'successful'} = 'true';
-	}
-	print encode_json(\%result);
-    }
-    else{
-	&paramCheck($email,$password);
-    }
-}
-elsif($function eq 'removeAdminUser'){
-    my $email = param('email');
-    if(defined($email)){
-	my $result = &removeAdminUser($email);
-	my %result = ('successful' => 'false');
-	if($result == 1){
-	    $result{'successful'} = 'true';
-	}
-	print encode_json(\%result);
-    }
-    else{
-	&paramCheck($email);
-    }
-}
-elsif($function eq 'addRepresentative'){
-    my $name = param('name');
-    my $state = param('state');
-    my $url = param('url');
-    my $email = param('email');
-    my $phone = param('phone');
-    my $chamber = param('chamber');
-    if(defined($name) && defined($state) && defined($url) && defined($email) && defined ($phone) && defined($chamber)){
-	my $result = &addRepresentative($name,$state,$url,$email,$phone);
-	my %result = ('successful' => 'false');
-	if($result == 1){
-	    $result{'successful'} = 'true';
-	}
-	print encode_json(\%result);
-    }
-    else{
-	&paramCheck($name,$state,$url,$email,$phone,$chamber);
-    }
-}
-elsif($function eq 'removeRepresentative'){
-    my $email = param('email');
-    if(defined($email)){
-	my $result = &removeRepresentative($email);
-	my %result = ('successful' => 'false');
-	if($result == 1){
-	    $result{'successful'} = 'true';
-	}
-	print encode_json(\%result);
-    }
-    else{
-	&paramCheck($email);
-    }
-}
-elsif($function eq 'addBill'){
-    my $title = param('title');
-    my $state = param('state');
-    my $url = param('url');
-    my $code = param('code');
-    if(defined($title) && defined($state) && defined($url) && defined($code)){
-	my $result = &addBill($title,$state,$url,$code);
-	my %result = ('successful' => 'false');
-	if($result == 1){
-	    $result{'successful'} = 'true';
-	}
-	print encode_json(\%result);
-    }
-    else{
-	&paramCheck($title,$state,$url,$code);
-    }
-}
-elsif($function eq 'closeBill'){
-    my $code = param('code');
-    my $open = param('open');
-    if(defined($code) && defined($open)){
-	my $result = &closeBill($code,$open);
-	my %result = ('successful' => 'false');
-	if($result == 1){
-	    $result{'successful'} = 'true';
-	}
-	print encode_json(\%result);
-    }
-    else{
-	&paramCheck($code,$open);
-    }
-}
-elsif($function eq 'loginAdmin'){
-    my $email = param('email');
-    my $password = param('password');
-    if(defined($email) && defined($password)){
-	my $result = &loginAdmin($email,$password);
-	my %result = ('successful' => 'false');
-	if($result == 1){
-	    $result{'successful'} = 'true';
-	}
-	print encode_json(\%result);
-    }
-    else{
-	&paramCheck($email,$password);
-    }
-}
-elsif($function eq 'setActivatedIndividual'){
-    my $email = param('email');
-    my $activate = param('activate');
-    if(defined($email) && defined($activate)){
-	if($activate ne "true" && $activate ne "false"){
-	    my %result = ('successful' => 'false');
-	    print encode_json(\%result);
-	}
-	else{
-	    my $result = &setActivatedIndividual($email,$activate);
+    elsif($function eq 'loginOrganization'){
+	my $email = param('email');
+	my $password = param('password');
+	if(defined($email) && defined($password)){
+	    my $result = &loginOrganization($email,$password);
 	    my %result = ('successful' => 'false');
 	    if($result == 1){
 		$result{'successful'} = 'true';
 	    }
 	    print encode_json(\%result);
 	}
-    }
-    else{
-	&paramCheck($email,$activate);
-    }
-}
-elsif($function eq 'getActivatedIndividual'){
-    my $email = param('email');
-    if(defined($email)){
-	my $activated = &getActivatedIndividual($email);
-	my %result = ('activated' => 'false');
-	if($activated == 1){
-	    $result{'activated'} = 'true';
-	}
-	print encode_json(\%result);
-    }
-    else{
-	&paramCheck($email);
-    }
-}
-elsif($function eq 'setVerifiedOrganization'){
-    my $email = param('email');
-    my $verified = param('verified');
-    if(defined($email) && defined($verified)){
-	if($verified ne "true" && $verified ne "false"){
-	    my %result = ('successful' => 'false');
-	    print encode_json(\%result);
-	}
 	else{
-	    my $result = &setVerifiedOrganization($email,$verified);
+	    &paramCheck($email,$password);
+	}
+    }
+    elsif($function eq 'findUserRepresentative'){
+	my $street = param('street');
+	my $city = param('city');
+	my $state = param('state');
+	my $zip = param('zip');
+	if(defined($street) && defined($city) && defined($state) && defined($zip)){
+	    my $result_ref = HouseDotGov::findUserRepresentative($street,$city,$state,$zip);
+	    my @results = @$result_ref;
+	    
+	}
+	
+    }
+    elsif($function eq 'loginIndividual'){
+	my $email = param('email');
+	my $password = param('password');
+	if(defined($email) && defined($password)){
+	    my $result = &loginIndividual($email,$password);
 	    my %result = ('successful' => 'false');
 	    if($result == 1){
 		$result{'successful'} = 'true';
 	    }
 	    print encode_json(\%result);
 	}
-    }
-    else{
-	&paramCheck($email,$verified);
-    }
-}
-elsif($function eq 'getVerifiedOrganization'){
-    my $email = param('email');
-    if(defined($email)){
-	my $verified = &getVerifiedOrganization($email);
-	my %result = ('verified' => 'false');
-	if($verified == 1){
-	    $result{'verified'} = 'true';
+	else{
+	    &paramCheck($email,$password);
 	}
-	print encode_json(\%result);
     }
-    else{
-	&paramCheck($email);
+    elsif($function eq 'addAdminUser'){
+	my $email = param('email');
+	my $password = param('password');
+	if(defined($email) && defined($password)){
+	    my $result = &addAdminUser($email,$password);
+	    my %result = ('successful' => 'false');
+	    if($result == 1){
+		$result{'successful'} = 'true';
+	    }
+	    print encode_json(\%result);
+	}
+	else{
+	    &paramCheck($email,$password);
+	}
     }
-}
+    elsif($function eq 'removeAdminUser'){
+	my $email = param('email');
+	if(defined($email)){
+	    my $result = &removeAdminUser($email);
+	    my %result = ('successful' => 'false');
+	    if($result == 1){
+		$result{'successful'} = 'true';
+	    }
+	    print encode_json(\%result);
+	}
+	else{
+	    &paramCheck($email);
+	}
+    }
+    elsif($function eq 'addRepresentative'){
+	my $name = param('name');
+	my $state = param('state');
+	my $url = param('url');
+	my $email = param('email');
+	my $phone = param('phone');
+	my $chamber = param('chamber');
+	if(defined($name) && defined($state) && defined($url) && defined($email) && defined ($phone) && defined($chamber)){
+	    my $result = &addRepresentative($name,$state,$url,$email,$phone);
+	    my %result = ('successful' => 'false');
+	    if($result == 1){
+		$result{'successful'} = 'true';
+	    }
+	    print encode_json(\%result);
+	}
+	else{
+	    &paramCheck($name,$state,$url,$email,$phone,$chamber);
+	}
+    }
+    elsif($function eq 'removeRepresentative'){
+	my $email = param('email');
+	if(defined($email)){
+	    my $result = &removeRepresentative($email);
+	    my %result = ('successful' => 'false');
+	    if($result == 1){
+		$result{'successful'} = 'true';
+	    }
+	    print encode_json(\%result);
+	}
+	else{
+	    &paramCheck($email);
+	}
+    }
+    elsif($function eq 'addBill'){
+	my $title = param('title');
+	my $state = param('state');
+	my $url = param('url');
+	my $code = param('code');
+	if(defined($title) && defined($state) && defined($url) && defined($code)){
+	    my $result = &addBill($title,$state,$url,$code);
+	    my %result = ('successful' => 'false');
+	    if($result == 1){
+		$result{'successful'} = 'true';
+	    }
+	    print encode_json(\%result);
+	}
+	else{
+	    &paramCheck($title,$state,$url,$code);
+	}
+    }
+    elsif($function eq 'closeBill'){
+	my $code = param('code');
+	my $open = param('open');
+	if(defined($code) && defined($open)){
+	    my $result = &closeBill($code,$open);
+	    my %result = ('successful' => 'false');
+	    if($result == 1){
+		$result{'successful'} = 'true';
+	    }
+	    print encode_json(\%result);
+	}
+	else{
+	    &paramCheck($code,$open);
+	}
+    }
+    elsif($function eq 'loginAdmin'){
+	my $email = param('email');
+	my $password = param('password');
+	if(defined($email) && defined($password)){
+	    my $result = &loginAdmin($email,$password);
+	    my %result = ('successful' => 'false');
+	    if($result == 1){
+		$result{'successful'} = 'true';
+	    }
+	    print encode_json(\%result);
+	}
+	else{
+	    &paramCheck($email,$password);
+	}
+    }
+    elsif($function eq 'setActivatedIndividual'){
+	my $email = param('email');
+	my $activate = param('activate');
+	if(defined($email) && defined($activate)){
+	    if($activate ne "true" && $activate ne "false"){
+		my %result = ('successful' => 'false');
+		print encode_json(\%result);
+	    }
+	    else{
+		my $result = &setActivatedIndividual($email,$activate);
+		my %result = ('successful' => 'false');
+		if($result == 1){
+		    $result{'successful'} = 'true';
+		}
+		print encode_json(\%result);
+	    }
+	}
+	else{
+	    &paramCheck($email,$activate);
+	}
+    }
+    elsif($function eq 'getActivatedIndividual'){
+	my $email = param('email');
+	if(defined($email)){
+	    my $activated = &getActivatedIndividual($email);
+	    my %result = ('activated' => 'false');
+	    if($activated == 1){
+		$result{'activated'} = 'true';
+	    }
+	    print encode_json(\%result);
+	}
+	else{
+	    &paramCheck($email);
+	}
+    }
+    elsif($function eq 'setVerifiedOrganization'){
+	my $email = param('email');
+	my $verified = param('verified');
+	if(defined($email) && defined($verified)){
+	    if($verified ne "true" && $verified ne "false"){
+		my %result = ('successful' => 'false');
+		print encode_json(\%result);
+	    }
+	    else{
+		my $result = &setVerifiedOrganization($email,$verified);
+		my %result = ('successful' => 'false');
+		if($result == 1){
+		    $result{'successful'} = 'true';
+		}
+		print encode_json(\%result);
+	    }
+	}
+	else{
+	    &paramCheck($email,$verified);
+	}
+    }
+    elsif($function eq 'getVerifiedOrganization'){
+	my $email = param('email');
+	if(defined($email)){
+	    my $verified = &getVerifiedOrganization($email);
+	    my %result = ('verified' => 'false');
+	    if($verified == 1){
+		$result{'verified'} = 'true';
+	    }
+	    print encode_json(\%result);
+	}
+	else{
+	    &paramCheck($email);
+	}
+    }
 
-elsif($function eq 'addOrganization'){
+    elsif($function eq 'addOrganization'){
 # Organization Users
 # --- Legal Status
 # --- cause_concerns
 # --- join_reason
-    my $name = param('name');
-    my $address = param('address');
-    my $city = param('city');
-    my $state = param('state');
-    my $zip = param('zip');
-    my $phone = param('phone');
-    my $legal_status = param('legalstatus');
-    my $cause_concerns = param('cause');
-    my $join_reason = param('joinreason');
-    my $individual_name = param('individualname');
-    my $title_in_organization = param('titleorganization');
-    my $personal_phone = param('personalphone');
-    my $email = param('email');
-    my $password = param('password');
-    if(defined($name) && defined($address) && defined($city) && defined($state) && defined($zip) && defined($phone) && defined($legal_status) && defined($cause_concerns) && defined($join_reason) && defined($individual_name) && defined($title_in_organization) && defined($personal_phone) && defined($email) && defined($password)){
-	my $organizationExists = &getOrganizationNameExists($name);
-	if($organizationExists == 0){
-	    my $result = &addOrganization($name,$address,$city,$state,$zip,$phone,$legal_status,$cause_concerns, $join_reason,$individual_name,$title_in_organization,$personal_phone,$email,$password);
-	    my %resultOut = ('successful' => 'false');
-	    if($result == 1){
-		$resultOut{'successful'} = 'true';
+	my $name = param('name');
+	my $address = param('address');
+	my $city = param('city');
+	my $state = param('state');
+	my $zip = param('zip');
+	my $phone = param('phone');
+	my $legal_status = param('legalstatus');
+	my $cause_concerns = param('cause');
+	my $join_reason = param('joinreason');
+	my $individual_name = param('individualname');
+	my $title_in_organization = param('titleorganization');
+	my $personal_phone = param('personalphone');
+	my $email = param('email');
+	my $password = param('password');
+	if(defined($name) && defined($address) && defined($city) && defined($state) && defined($zip) && defined($phone) && defined($legal_status) && defined($cause_concerns) && defined($join_reason) && defined($individual_name) && defined($title_in_organization) && defined($personal_phone) && defined($email) && defined($password)){
+	    my $organizationExists = &getOrganizationNameExists($name);
+	    if($organizationExists == 0){
+		my $result = &addOrganization($name,$address,$city,$state,$zip,$phone,$legal_status,$cause_concerns, $join_reason,$individual_name,$title_in_organization,$personal_phone,$email,$password);
+		my %resultOut = ('successful' => 'false');
+		if($result == 1){
+		    $resultOut{'successful'} = 'true';
+		}
+		print encode_json(\%resultOut);
 	    }
-	    print encode_json(\%resultOut);
+	    else{
+		my %result = ('successful' => 'false',
+			      'name_taken' => 'true');
+		print encode_json(\%result);
+	    }
+	    
 	}
 	else{
-	    my %result = ('successful' => 'false',
-			  'name_taken' => 'true');
-	    print encode_json(\%result);
+	    &paramCheck($name,$address,$city,$state,$zip,$phone,$legal_status,$cause_concerns,$join_reason, $individual_name,$title_in_organization,$personal_phone,$email,$password);
 	}
+    }
+    elsif($function eq 'addIndividual'){
 	
-    }
-    else{
-	&paramCheck($name,$address,$city,$state,$zip,$phone,$legal_status,$cause_concerns,$join_reason, $individual_name,$title_in_organization,$personal_phone,$email,$password);
-    }
-}
-elsif($function eq 'addIndividual'){
-
-    my $first = param('first'); 
-    my $last = param('last');
-    my $username = param('username');
-    my $birthDate = param('birthdate');
-    my $gender = param('gender');
-    my $address = param('address');
-    my $city = param('city');
-    my $state = param('state');
-    my $zip = param('zip');
-    my $email = param('email');
-    my $password = param('password');
-    my $affiliation = param('affiliation');
-    if(defined($first) && defined($last) && defined($username) && defined($birthDate) && defined($gender) && defined($address) && defined($city) && defined($state) && defined($zip) && defined($email) && defined($password) && defined($affiliation)){
-	my $userNameExists = &getUserNameExists($username);
-	if($userNameExists == 0){
-	    my $result = &addIndividual($first,$last,$username,$birthDate,$gender,$address,$city,$state,$zip,$email,$password, $affiliation);
-	    my %resultOut = ('successful' => 'false');
-	    if($result == 1){
-		$resultOut{'successful'} = 'true';
+	my $first = param('first'); 
+	my $last = param('last');
+	my $username = param('username');
+	my $birthDate = param('birthdate');
+	my $gender = param('gender');
+	my $address = param('address');
+	my $city = param('city');
+	my $state = param('state');
+	my $zip = param('zip');
+	my $email = param('email');
+	my $password = param('password');
+	my $affiliation = param('affiliation');
+	if(defined($first) && defined($last) && defined($username) && defined($birthDate) && defined($gender) && defined($address) && defined($city) && defined($state) && defined($zip) && defined($email) && defined($password) && defined($affiliation)){
+	    my $userNameExists = &getUserNameExists($username);
+	    if($userNameExists == 0){
+		my $result = &addIndividual($first,$last,$username,$birthDate,$gender,$address,$city,$state,$zip,$email,$password, $affiliation);
+		my %resultOut = ('successful' => 'false');
+		if($result == 1){
+		    $resultOut{'successful'} = 'true';
+		}
+		print encode_json(\%resultOut);
 	    }
-	    print encode_json(\%resultOut);
+	    else{
+		my %result = ('successful' => 'false',
+			      'name_taken' => 'true');
+		print encode_json(\%result);
+	    }
 	}
 	else{
-	    my %result = ('successful' => 'false',
-			  'name_taken' => 'true');
-	    print encode_json(\%result);
+	    &paramCheck($first,$last,$username,$birthDate,$gender,$address,$city,$state,$zip,$email,$password,$affiliation);
 	}
     }
-    else{
-	&paramCheck($first,$last,$username,$birthDate,$gender,$address,$city,$state,$zip,$email,$password,$affiliation);
+    elsif($function eq 'getIndividualNameExists'){
+	my $userName = param('name');
+	if(!($userName == undef)){
+	    &getIndividualNameExists($userName);
+	}
+    }
+    elsif($function eq 'getIndividualById'){
+	my $userId = param('individualid');
+	if(!($userId == undef)){
+	    &getIndividualById($userId);
+	}
+    }
+    elsif($function eq 'getOrganizationNameExists'){
+	my $userName = param('name');
+	if(defined($userName)){
+	    &getOrganizationNameExists($userName);
+	}
+    }
+    elsif($function eq 'getOrganizationById'){
+	my $userId = param('organizationid');
+	if(defined($userId)){
+	    &getOrganizationById($userId);
+	}
+    }
+    elsif($function eq 'install'){
+	Databases::install($dbh);
     }
 }
-elsif($function eq 'getIndividualNameExists'){
-    my $userName = param('name');
-    if(!($userName == undef)){
-	&getIndividualNameExists($userName);
-    }
-}
-elsif($function eq 'getIndividualById'){
-    my $userId = param('individualid');
-    if(!($userId == undef)){
-	&getIndividualById($userId);
-    }
-}
-elsif($function eq 'getOrganizationNameExists'){
-    my $userName = param('name');
-    if(defined($userName)){
-	&getOrganizationNameExists($userName);
-    }
-}
-elsif($function eq 'getOrganizationById'){
-    my $userId = param('organizationid');
-    if(defined($userId)){
-	&getOrganizationById($userId);
-    }
-}
-elsif($function eq 'install'){
-    &dropBackendTables();
-    &createBackendTables();
-}
-#&loadTestData();
-
+    
 print "]"; # print end of json array
 #print end_html();
 $dbh->disconnect;
 ########################
 ########################
 # Functions
-sub createBackendTables{
-    for my $index (@tables){
-	my $sql = $index; 
-	print "Execute -->$sql\n\n";
-	my $sth = $dbh->prepare($sql);
-	$sth->execute or die "Create Backend Tables: SQL Error: $DBI::errstr\n";
-    }
-}
-
-sub dropBackendTables{
-    for my $table (@table_names){
-	my $sql = "DROP TABLE IF EXISTS ".$table.";";
-	print "Execute -->$sql\n\n";
-	my $sth = $dbh->prepare($sql);
-	$sth->execute or die "Drop Backend Tables: SQL Error: $DBI::errstr\n"; 
-    }
-    print "Tables dropped\n";
-}
 
 sub addOrganization{
     my $name = $_[0];
@@ -833,29 +684,7 @@ sub commandLineToHtmlEncoded{
 	}
     }
 }
-sub loadTestData{
-    my $curDir = cwd();
-    my @tableFiles = (
-	[$curDir."/testData/parks.csv","parks"],
-	[$curDir."/testData/users.csv","users"],
-	[$curDir."/testData/forum.csv","forum"],
-	[$curDir."/testData/friends.csv","friends"],
-	[$curDir."/testData/pickup_games.csv","pickup_games"],
-	[$curDir."/testData/reviews.csv","reviews"]
-	);
-    for(my $index = 0; $index < @tableFiles;$index++){
-	my $fileName = $tableFiles[$index][0];
-	my $tableName = $tableFiles[$index][1];
-	my $sql = "LOAD DATA LOCAL INFILE '".$fileName."' INTO TABLE ".$tableName.
-	    " FIELDS TERMINATED BY ',' LINES TERMINATED BY '\\n' ".
-	    "IGNORE 1 LINES;";
-	print $sql."\n";
-	my $sth = $dbh->prepare($sql);
-	$sth->execute or die "Get Load Test Data: SQL Error: $DBI::errstr\n";
-    }
 
-    
-}
 
 
 sub printEnvironmentVariables{
