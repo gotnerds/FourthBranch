@@ -5,3 +5,9 @@ documents/.~lock.technical_specifications_phase2.docx#
 documents/Fourth_Branch_Website_Design.docx
 documents/technical_specifications_phase2.docx
 frontend/cgi-bin/#*
+backend/#*
+backend/.#*
+backend/*~
+backend/tmp.pl
+documents/.~*
+documents/Resources.docx
