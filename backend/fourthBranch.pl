@@ -11,50 +11,152 @@ use lib dirname(abs_path $0);
 use strict;
 
 # Individual Users
-my $CREATE_INDIVIDUAL_USERS_TABLE ="create table individuals ( id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT, first_name VARCHAR(50) NOT NULL UNIQUE , last_name VARCHAR(50) NOT NULL,username VARCHAR(30) NOT NULL, birthdate DATE NOT NULL,gender CHAR(1), address VARCHAR(200), city VARCHAR(200), state VARCHAR(100), zip MEDIUMINT,email VARCHAR(100),password VARCHAR(100), political_affiliation VARCHAR(30), activated VARCHAR(5), PRIMARY KEY (id));";
+my $CREATE_INDIVIDUAL_USERS_TABLE ="create table individuals 
+( id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT, 
+  first_name VARCHAR(50) NOT NULL UNIQUE , 
+  last_name VARCHAR(50) NOT NULL,
+  username VARCHAR(30) NOT NULL, 
+  birthdate DATE NOT NULL,
+  gender CHAR(1), 
+  address VARCHAR(200), 
+  city VARCHAR(200), 
+  state VARCHAR(100), 
+  zip MEDIUMINT,
+  email VARCHAR(100),
+  password VARCHAR(100), 
+  political_affiliation VARCHAR(30), 
+  activated VARCHAR(5), 
+  PRIMARY KEY (id)
+);";
 
 # Organization Users
-my $CREATE_ORGANIZATION_USERS_TABLE ="create table organizations ( id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT, name VARCHAR(50) NOT NULL UNIQUE, address VARCHAR(200), city VARCHAR(200), state VARCHAR(100), zip MEDIUMINT,phone VARCHAR(100),legal_status VARCHAR(100), cause_concerns VARCHAR(30),join_reason VARCHAR(500),individual_name VARCHAR(300), title_in_organization VARCHAR(300), personal_phone VARCHAR(20), email VARCHAR(40), password VARCHAR(30), verified VARCHAR(5), PRIMARY KEY (id));";
+my $CREATE_ORGANIZATION_USERS_TABLE ="create table organizations 
+( id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT, 
+  name VARCHAR(50) NOT NULL UNIQUE, 
+  address VARCHAR(200), 
+  city VARCHAR(200),
+  state VARCHAR(100), 
+  zip MEDIUMINT,
+  phone VARCHAR(100),
+  legal_status VARCHAR(100), 
+  cause_concerns VARCHAR(30),
+  join_reason VARCHAR(500),
+  individual_name VARCHAR(300), 
+  title_in_organization VARCHAR(300), 
+  personal_phone VARCHAR(20), 
+  email VARCHAR(40), 
+  password VARCHAR(30), 
+  verified VARCHAR(5), 
+  PRIMARY KEY (id)
+);";
 
 # Admin Users
-my $CREATE_ADMIN_USERS_TABLE ="create table admins ( id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT,email VARCHAR(50) NOT NULL UNIQUE, password VARCHAR(200), PRIMARY KEY (id))";
+my $CREATE_ADMIN_USERS_TABLE ="create table admins 
+( id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT,
+  email VARCHAR(50) NOT NULL UNIQUE, 
+  password VARCHAR(200), 
+  PRIMARY KEY (id)
+)";
 
 
 
-# Bills
-my $CREATE_BILL_TABLE = "create table bills (id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT, title VARCHAR(300) NOT NULL UNIQUE, state VARCHAR(50), url VARCHAR(500), code VARCHAR(50),open VARCHAR(5), PRIMARY KEY(id))";
+# Normal Bills
+my $CREATE_NORMAL_BILL_TABLE = "create table bills 
+(id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT, 
+ title VARCHAR(300) NOT NULL UNIQUE, 
+ state VARCHAR(50), 
+ url VARCHAR(500), 
+ code VARCHAR(50),
+ open VARCHAR(5),
+ PRIMARY KEY(id)
+)";
 
-# Bills_Large_Extension
-my $CREATE_BILL_LARGE_EXTENSION = "create table bills_extension (id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT,num_sections MEDIUMINT, section_num MEDIUMINT, section_name VARCHAR(40), PRIMARY KEY(id))";
+# Large Bills Table
+my $CREATE_LARGE_BILL_TABLE = "create table large_bills 
+(id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT,
+ title VARCHAR(300) NOT NULL UNIQUE, 
+ state VARCHAR(50), 
+ url VARCHAR(500), 
+ code VARCHAR(50),
+ open VARCHAR(5),
+ num_sections MEDIUMINT, 
+ section_num MEDIUMINT, 
+ section_name VARCHAR(40),
+ section_content VARCHAR(40),
+ voteCountYes MEDIUMINT,
+ voteCountNo MEDIUMINT,
+ individualVote MEDIUMINT,
+ PRIMARY KEY(id)
+)";
+
+# Appropriation Bills Table
+my $CREATE_APPROPRIATION_BILL_TABLE = "create table appropriation_bills 
+(id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT,
+ title VARCHAR(300) NOT NULL UNIQUE, 
+ state VARCHAR(50), 
+ url VARCHAR(500), 
+ code VARCHAR(50),
+ open VARCHAR(5),
+ num_sections MEDIUMINT,
+ budget MEDIUMINT,
+ num_sections MEDIUMINT,
+ section_name MEDIUMINT,
+ section_allocation MEDIUMINT,
+ num_objects MEDIUMINT,
+ object_name MEDIUMINT,
+ object_allocation MEDIUMINT,
+ PRIMARY KEY(id)
+)";
  
+#
 # Representatives
-my $CREATE_REPRESENTATIVES_TABLE = "create table representatives (id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT, name VARCHAR(50) NOT NULL UNIQUE, state VARCHAR(50), url VARCHAR(500), email VARCHAR(50),phone VARCHAR(5),photo VARCHAR(60),chamber VARCHAR(10), PRIMARY KEY(id))";
+my $CREATE_REPRESENTATIVES_TABLE = "create table representatives 
+(id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT, 
+ name VARCHAR(50) NOT NULL UNIQUE, 
+ state VARCHAR(50), 
+ url VARCHAR(500), 
+ email VARCHAR(50),
+ phone VARCHAR(5),
+ photo VARCHAR(60),
+ chamber VARCHAR(10), 
+ PRIMARY KEY(id)
+)";
 
-# TODO Bill Vote History 
-# - reddit 
-# - google 
-# - facebook 
-# - linkedin 
-# - twitter
-# - BillId
-# - usercreated
-# - vote
-# - datecreated
+# Bill Vote 
+my $CREATE_BILL_VOTE_TABLE = "create table bill_votes 
+(id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT, 
+ billId MEDIUMINT NOT NULL, 
+ reddit MEDIUMINT , 
+ google MEDIUMINT, 
+ facebook MEDIUMINT,
+ twitter MEDIUMINT,
+ PRIMARY KEY(id)
+)";
 
-# Bill Vote comments
-# user
-# billId
-# comment 
-# date
+# User Votes 
+my $CREATE_USER_VOTES_TABLE = "create table user_votes 
+(id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT, 
+ billId MEDIUMINT NOT NULL, 
+ user MEDIUMINT , 
+ vote VARCHAR(200), 
+ date DATE,
+ PRIMARY KEY(id)
+)";
  
-# TODO WallOfAmerica
-# - user
-# - dream
-# - wish
-# - date
+# WallOfAmerica
+my $CREATE_WALL_OF_AMERICA_TABLE = "create table wall_of_america 
+(id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT,  
+ user MEDIUMINT , 
+ dream VARCHAR(200),
+ wish VARCHAR(200), 
+ date DATE,
+ PRIMARY KEY(id)
+)";
 
-# TODO AppropiationBill
-# TODO Large Bill
+
+my @tables = ( $CREATE_INDIVIDUAL_USERS_TABLE, $CREATE_ORGANIZATION_USERS_TABLE, $CREATE_ADMIN_USERS_TABLE,$CREATE_BILL_TABLE,$CREATE_REPRESENTATIVES_TABLE,$CREATE_WALL_OF_AMERICA_TABLE,$CREATE_BILL_VOTES_TABLE,$CREATE_USER_VOTES_TABLE,$CREATE_LARGE_BILLS_TABLE,$CREATE_APPROPRIATION_BILLS_TABLE);
+
+my @table_names = ("individuals", "organizations","admins","bills","representatives","bill_votes","user_votes","wall_of_america","large_bills","appropriation_bills");
 # TODO District Search
 
 use DBI;
@@ -74,9 +176,6 @@ elsif($^O =~ /MSWin32/){
 else{
     $dbh = DBI->connect('DBI:mysql:database=fourthbranch;host=fourthbranch.db.9192271.hostedresource.com;' ."mysql_read_default_file=$curDir/mysql.conf",'fourthbranch','G0tnerds!') or die "Connection Error: $DBI::errstr\n";
 }
-my @tables = ( $CREATE_INDIVIDUAL_USERS_TABLE, $CREATE_ORGANIZATION_USERS_TABLE, $CREATE_ADMIN_USERS_TABLE,$CREATE_BILL_TABLE,$CREATE_REPRESENTATIVES_TABLE);
-
-my @table_names = ("individuals", "organizations","admins","bills","representatives");
 
 #print header('text/html');
 #print start_html('goball_api');
