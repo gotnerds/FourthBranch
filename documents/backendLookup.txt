@@ -1,4 +1,3 @@
-
 function: version
 
 	./fourthBranch.pl run=version 
@@ -7,7 +6,7 @@ function: loginOrganization
 	email='input'
 	password='input'
 
-	./fourthBranch.pl run=loginOrganization email='input'password='input'
+	./fourthBranch.pl run=loginOrganization  email='input' password='input'
 
 function: findUserRepresentative
 	street='input'
@@ -15,24 +14,24 @@ function: findUserRepresentative
 	state='input'
 	zip='input'
 
-	./fourthBranch.pl run=findUserRepresentative street='input'city='input'&state='input'&zip='input'
+	./fourthBranch.pl run=findUserRepresentative  street='input' city='input' state='input' zip='input'
 
 function: loginIndividual
 	email='input'
 	password='input'
 
-	./fourthBranch.pl run=loginIndividual email='input'password='input'
+	./fourthBranch.pl run=loginIndividual  email='input' password='input'
 
 function: addAdminUser
 	email='input'
 	password='input'
 
-	./fourthBranch.pl run=addAdminUser email='input'password='input'
+	./fourthBranch.pl run=addAdminUser  email='input' password='input'
 
 function: removeAdminUser
 	email='input'
 
-	./fourthBranch.pl run=removeAdminUser email='input'
+	./fourthBranch.pl run=removeAdminUser  email='input'
 
 function: addRepresentative
 	name='input'
@@ -42,12 +41,12 @@ function: addRepresentative
 	phone='input'
 	chamber='input'
 
-	./fourthBranch.pl run=addRepresentative name='input'state='input'&url='input'&email='input'&phone='input'&chamber='input'
+	./fourthBranch.pl run=addRepresentative  name='input' state='input' url='input' email='input' phone='input' chamber='input'
 
-function: 
+function: removeRepresentative
 	email='input'
 
-	./fourthBranch.pl run= email='input'
+	./fourthBranch.pl run=removeRepresentative  email='input'
 
 function: addBill
 	title='input'
@@ -55,41 +54,41 @@ function: addBill
 	url='input'
 	code='input'
 
-	./fourthBranch.pl run=addBill title='input'state='input'&url='input'&code='input'
+	./fourthBranch.pl run=addBill  title='input' state='input' url='input' code='input'
 
 function: closeBill
 	code='input'
 	open='input'
 
-	./fourthBranch.pl run=closeBill code='input'open='input'
+	./fourthBranch.pl run=closeBill  code='input' open='input'
 
 function: loginAdmin
 	email='input'
 	password='input'
 
-	./fourthBranch.pl run=loginAdmin email='input'password='input'
+	./fourthBranch.pl run=loginAdmin  email='input' password='input'
 
 function: setActivatedIndividual
 	email='input'
 	activate='input'
 
-	./fourthBranch.pl run=setActivatedIndividual email='input'activate='input'
+	./fourthBranch.pl run=setActivatedIndividual  email='input' activate='input'
 
 function: getActivatedIndividual
 	email='input'
 
-	./fourthBranch.pl run= email='input'
+	./fourthBranch.pl run=getActivatedIndividual  email='input'
 
 function: setVerifiedOrganization
 	email='input'
 	verified='input'
 
-	./fourthBranch.pl run=setVerifiedOrganization email='input'verified='input'
+	./fourthBranch.pl run=setVerifiedOrganization  email='input' verified='input'
 
 function: getVerifiedOrganization
 	email='input'
 
-	./fourthBranch.pl run= email='input'
+	./fourthBranch.pl run=getVerifiedOrganization  email='input'
 
 function: addOrganization
 	name='input'
@@ -107,7 +106,7 @@ function: addOrganization
 	email='input'
 	password='input'
 
-	./fourthBranch.pl run=addOrganization name='input'address='input'&city='input'&state='input'&zip='input'&phone='input'&legal_status='input'&cause_concerns='input'&join_reason='input'&individual_name='input'&title_in_organization='input'&personal_phone='input'&email='input'&password='input'
+	./fourthBranch.pl run=addOrganization  name='input' address='input' city='input' state='input' zip='input' phone='input' legal_status='input' cause_concerns='input' join_reason='input' individual_name='input' title_in_organization='input' personal_phone='input' email='input' password='input'
 
 function: addIndividual
 	first='input'
@@ -123,24 +122,24 @@ function: addIndividual
 	password='input'
 	affiliation='input'
 
-	./fourthBranch.pl run=addIndividual first='input'last='input'&username='input'&birthDate='input'&gender='input'&address='input'&city='input'&state='input'&zip='input'&email='input'&password='input'&affiliation='input'
+	./fourthBranch.pl run=addIndividual  first='input' last='input' username='input' birthDate='input' gender='input' address='input' city='input' state='input' zip='input' email='input' password='input' affiliation='input'
 
 function: getIndividualNameExists
 	userName='input'
 
-	./fourthBranch.pl run=getIndividualNameExists userName='input'
+	./fourthBranch.pl run=getIndividualNameExists  userName='input'
 
 function: getIndividualById
 	userId='input'
 
-	./fourthBranch.pl run=getIndividualById userId='input'
+	./fourthBranch.pl run=getIndividualById  userId='input'
 
 function: getOrganizationNameExists
 	userName='input'
 
-	./fourthBranch.pl run=getOrganizationNameExists userName='input'
+	./fourthBranch.pl run=getOrganizationNameExists  userName='input'
 
 function: getOrganizationById
 	userId='input'
 
-	./fourthBranch.pl run=getOrganizationById userId='input'
+	./fourthBranch.pl run=getOrganizationById  userId='input'
