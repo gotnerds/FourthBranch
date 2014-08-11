@@ -12,26 +12,22 @@ my $functionName = '';
 my @params = ();
 my $outputString = "";
 my $appendToOutput="";
-my $appendParam = 0;
 while(<INPUT>){
-    
-    my $recognizeFunction = '$function eq';
-    if(m@.*if\(\$function eq(.*)$@){
-	$appendToOutput .= "\n\n\t./fourthBranch.pl run=$functionName ";
+    if(m@.*if\(\$function eq.*'(.*)'@){
+	my $newFunctionName = $1;
+	$appendToOutput .= "\n\n\t./fourthBranch.pl run=$functionName";
 	for my $param (@params){
-	    $appendToOutput .= "${param}='input'";
-	    if($appendParam == 1){
-		$appendToOutput .= '&';
-	    }
-	    $appendParam = 1;
+	    $appendToOutput .= " ${param}='input'";
 	}
 	$appendToOutput =~ s/\&$//;
 	$outputString .= $appendToOutput."\n";
 	
-	$functionName = $1;
+	$functionName = $newFunctionName;
+	if(!defined($functionName)){
+	    print "Couldn't find functionName: $_\n";
+	}
 	$functionName =~ s/\s//g;
 	$functionName =~ s/\W//g;
-	$appendParam = 0;
 	@params = ();
 	$appendToOutput = "\nfunction: $functionName";
     }
