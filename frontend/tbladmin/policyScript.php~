@@ -1,0 +1,9 @@
+<?php
+	include("../inc/check_login_status.php"); 
+
+	$result = mysqli_query($db_conx,"SELECT admin.policy FROM admin;");
+	$results = array();
+	while($row = mysqli_fetch_array($result)) {
+	  $results[] = $row;
+	}
+?>
