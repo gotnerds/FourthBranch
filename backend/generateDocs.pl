@@ -1,5 +1,6 @@
-#!/usr/bin/perl -w
-###!C:/xampp/perl/bin/perl.exe
+#!C:/xampp/perl/bin/perl.exe
+###!/usr/bin/perl -w
+
 
 use strict;
 use warnings;
@@ -21,7 +22,9 @@ while(<INPUT>){
 	}
 	$appendToOutput =~ s/\&$//;
 	$outputString .= $appendToOutput."\n";
-	
+	my $php = &generatePhp($functionName,\@params);
+    $outputString .= "\n".$php."\n\n";
+    
 	$functionName = $newFunctionName;
 	if(!defined($functionName)){
 	    print "Couldn't find functionName: $_\n";
@@ -43,3 +46,32 @@ while(<INPUT>){
 }
 
 print OUTPUT $outputString;
+
+
+sub generatePhp{
+    my $functionName = $_[0];
+    my $parameters_ref = $_[1];
+    my @parameters = @$parameters_ref;
+ 
+my $output = <<'END';
+if (isset($_POST['#functionName#-button'])){
+        $output = shell_exec("perl ./cgi-bin/fourthBranch.pl run=#functionName# #paramList# );
+        $jsonj = jsonarray($output);
+}
+END
+ 
+ 
+ 
+ $output =~ s@#functionName#@$functionName@g;
+ my $paramList = ""; 
+ my $appendParam = 0;
+ for my $param (@parameters){
+    if($appendParam == 1){
+        $paramList .= '." ';
+    }
+    $paramList .= $param.'=".$_POST['."'$param']";
+    $appendParam = 1;
+ }
+ $output =~ s/#paramList#/$paramList/;
+ return $output;
+ }
