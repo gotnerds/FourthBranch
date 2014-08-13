@@ -1,6 +1,5 @@
-#!C:/xampp/perl/bin/perl.exe
-###!/usr/bin/perl -w
-
+#!/usr/bin/perl -w
+###!C:/xampp/perl/bin/perl.exe
 
 use strict;
 use warnings;
@@ -23,7 +22,8 @@ while(<INPUT>){
 	$appendToOutput =~ s/\&$//;
 	$outputString .= $appendToOutput."\n";
 	my $php = &generatePhp($functionName,\@params);
-    $outputString .= "\n".$php."\n\n";
+	$outputString .= "\n".$php."\n\n";
+	$outputString .= "*************************************\n";
     
 	$functionName = $newFunctionName;
 	if(!defined($functionName)){
@@ -32,7 +32,8 @@ while(<INPUT>){
 	$functionName =~ s/\s//g;
 	$functionName =~ s/\W//g;
 	@params = ();
-	$appendToOutput = "\nfunction: $functionName";
+	$appendToOutput = "\n*************************************\n";
+	$appendToOutput = "function: $functionName";
     }
     elsif(/(.*)=.*param\('(.*)'\)/){
 	my $paramName = $1;
@@ -54,10 +55,10 @@ sub generatePhp{
     my @parameters = @$parameters_ref;
  
 my $output = <<'END';
-if (isset($_POST['#functionName#-button'])){
-        $output = shell_exec("perl ./cgi-bin/fourthBranch.pl run=#functionName# #paramList# );
-        $jsonj = jsonarray($output);
-}
+        if (isset($_POST['#functionName#-button'])){
+            $output = shell_exec("perl ./cgi-bin/fourthBranch.pl run=#functionName# #paramList# );
+            $jsonj = jsonarray($output);
+        }
 END
  
  
