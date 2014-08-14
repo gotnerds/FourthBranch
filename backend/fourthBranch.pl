@@ -211,12 +211,19 @@ if(defined($function)){
 		print &encode_json(\%result);
 	    }
 	    else{
-		my $result = &setActivatedIndividual($email,$activate);
-		my %result = ('successful' => 'false');
-		if($result == 1){
-		    $result{'successful'} = 'true';
+		my $userExists = &getUserExistsByEmail($email);
+		if($userExists == 0){
+		    my %result = ('successful' => 'false', 'userExists' => 'false');
+		    print &encode_json(\%result);
 		}
-		print &encode_json(\%result);
+		else{
+		    my $result = &setActivatedIndividual($email,$activate);
+		    my %result = ('successful' => 'false');
+		    if($result == 1){
+			$result{'successful'} = 'true';
+		    }
+		    print &encode_json(\%result);
+		}
 	    }
 	}
 	else{
@@ -650,9 +657,9 @@ sub loginAdmin{
 sub getIndividualById{
     my $id = $_[0];
     my $columns = "first_name,last_name,username, birthdate,gender, address , city, state, zip ,email,password, political_affiliation";
-    my $sql = "SELECT ".$columns." FROM organizations where id=?;";
+    my $sql = "SELECT ".$columns." FROM individuals where id=?;";
     my $sth = $dbh->prepare($sql);
-    $sth->execute($id) or die "getIndividualById: SQL Error: $DBI::errstr\n";
+    $sth->execute($id) or die "SQL Error: $DBI::errstr\n";
     my $rows_retrieved = $sth->rows;
     my $printRowBreak = 0;
     while(my @row = $sth->fetchrow_array){
@@ -675,6 +682,19 @@ sub getIndividualById{
 		      'affiliation' => $political_affiliation);
 	print encode_json(\%result);
     }   
+}
+
+sub getIndividualExistsByEmail{
+    my $email = $_[0];
+    my $columns = "first_name";
+    my $sql = "SELECT ".$columns." FROM individuals where email=?;";
+    my $sth = $dbh->prepare($sql);
+    $sth->execute($id) or die "SQL Error: $DBI::errstr\n";
+    my $rows_retrieved = $sth->rows;
+    if ($rows_retrieved > 0){
+	return 1;
+    }
+    return 0;
 }
 
 

@@ -11,3 +11,4 @@ backend/*~
 backend/tmp*
 documents/.~*
 documents/Resources.docx
+*.DS_Store
