@@ -1,0 +1,1423 @@
+[22-Feb-2014 05:01:59 America/Chicago] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/include/dbcon.php on line 3
+[22-Feb-2014 05:01:59 America/Chicago] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/include/dbcon.php on line 7
+[22-Feb-2014 05:01:59 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/dashboard.php on line 6
+[22-Feb-2014 05:01:59 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/dashboard.php on line 107
+[22-Feb-2014 05:02:00 America/Chicago] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/include/dbcon.php on line 3
+[22-Feb-2014 05:02:00 America/Chicago] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/include/dbcon.php on line 7
+[22-Feb-2014 05:02:00 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/dashboard.php on line 6
+[22-Feb-2014 05:02:00 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/dashboard.php on line 107
+[22-Feb-2014 05:05:10 America/Chicago] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/include/dbcon.php on line 3
+[22-Feb-2014 05:05:10 America/Chicago] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/include/dbcon.php on line 7
+[22-Feb-2014 05:05:10 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/dashboard.php on line 6
+[22-Feb-2014 05:05:10 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/dashboard.php on line 107
+[22-Feb-2014 05:05:19 America/Chicago] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/include/dbcon.php on line 3
+[22-Feb-2014 05:05:19 America/Chicago] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/include/dbcon.php on line 7
+[22-Feb-2014 05:05:19 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/dashboard.php on line 6
+[22-Feb-2014 05:05:19 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/dashboard.php on line 107
+[22-Feb-2014 05:05:25 America/Chicago] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/include/dbcon.php on line 3
+[22-Feb-2014 05:05:25 America/Chicago] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/include/dbcon.php on line 7
+[22-Feb-2014 05:05:25 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/dashboard.php on line 6
+[22-Feb-2014 05:05:25 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/dashboard.php on line 107
+[22-Feb-2014 05:06:50 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/dashboard.php on line 6
+[22-Feb-2014 05:06:50 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/dashboard.php on line 107
+[22-Feb-2014 05:10:23 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/view.bill.php on line 9
+[22-Feb-2014 05:32:54 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/view.profile.php on line 10
+[22-Feb-2014 09:05:06 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/edit.bill.php on line 9
+[23-Feb-2014 05:59:22 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/view.profile.php on line 10
+[23-Feb-2014 05:59:33 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/view.bill.php on line 9
+[24-Feb-2014 19:44:39 America/Chicago] PHP Warning:  Unterminated comment starting line 7 in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/comment.php on line 7
+[24-Feb-2014 19:45:01 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/comment.php on line 105
+[24-Feb-2014 22:55:55 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/add.bill.php on line 28
+[25-Feb-2014 01:33:01 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/bod.php on line 64
+[25-Feb-2014 01:34:05 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/bod.php on line 64
+[25-Feb-2014 01:34:49 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/bod.php on line 8
+[25-Feb-2014 01:35:42 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/bod.php on line 8
+[25-Feb-2014 01:36:01 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/bod.php on line 8
+[25-Feb-2014 01:36:50 America/Chicago] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'tbldev1'@'localhost' (using password: NO) in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/bod.php on line 7
+[25-Feb-2014 01:36:50 America/Chicago] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/bod.php on line 7
+[25-Feb-2014 01:36:50 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/bod.php on line 8
+[25-Feb-2014 01:37:27 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/bod.php on line 8
+[25-Feb-2014 01:37:40 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/bod.php on line 8
+[25-Feb-2014 01:41:19 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/bod.php on line 8
+[25-Feb-2014 05:13:08 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/bill.php on line 99
+[25-Feb-2014 05:13:13 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/bill.php on line 99
+[25-Feb-2014 05:22:30 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/bill.php on line 105
+[25-Feb-2014 05:24:57 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/bill.php on line 105
+[25-Feb-2014 05:25:05 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/bill.php on line 106
+[25-Feb-2014 05:55:20 America/Chicago] PHP Parse error:  syntax error, unexpected T_ELSE in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/bill.php on line 140
+[25-Feb-2014 16:46:06 America/Chicago] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (HY000/1040): Too many connections in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/include/dbcon.php on line 4
+[25-Feb-2014 17:07:41 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/bill.php on line 168
+[26-Feb-2014 03:28:44 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/index.php:2) in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/include/dbcon.php on line 2
+[26-Feb-2014 03:29:30 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/index.php:2) in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/include/dbcon.php on line 2
+[26-Feb-2014 03:29:47 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/index.php:2) in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/index.php on line 3
+[26-Feb-2014 03:31:16 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/index.php:2) in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/index.php on line 3
+[26-Feb-2014 03:32:00 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/index.php:2) in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/index.php on line 6
+[26-Feb-2014 03:33:09 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/index.php:2) in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/include/dbcon.php on line 2
+[26-Feb-2014 03:33:16 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/index.php:2) in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/include/dbcon.php on line 2
+[26-Feb-2014 03:35:27 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/index.php:2) in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/index.php on line 6
+[26-Feb-2014 03:36:00 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/index.php:2) in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/index.php on line 6
+[26-Feb-2014 03:38:12 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/index.php:2) in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/index.php on line 6
+[26-Feb-2014 03:40:23 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/index.php:2) in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/index.php on line 4
+[26-Feb-2014 03:41:39 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/index.php:2) in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/index.php on line 3
+[26-Feb-2014 03:42:00 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/index.php:2) in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/index.php on line 3
+[26-Feb-2014 03:42:22 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/index.php:2) in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/index.php on line 3
+[26-Feb-2014 03:42:22 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/index.php:2) in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/include/dbcon.php on line 3
+[26-Feb-2014 03:42:42 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/index.php:2) in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/index.php on line 3
+[26-Feb-2014 03:43:21 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/index.php:2) in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/index.php on line 3
+[26-Feb-2014 03:44:13 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/index.php:2) in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/index.php on line 3
+[26-Feb-2014 03:45:43 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/include/dbcon.php:2) in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/include/dbcon.php on line 3
+[26-Feb-2014 03:45:57 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/include/dbcon.php:2) in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/include/dbcon.php on line 3
+[26-Feb-2014 03:47:12 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/include/dbcon.php:2) in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/include/dbcon.php on line 3
+[26-Feb-2014 03:47:18 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/include/dbcon.php:2) in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/include/dbcon.php on line 3
+[26-Feb-2014 03:47:20 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/include/dbcon.php:2) in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/include/dbcon.php on line 3
+[26-Feb-2014 03:47:25 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/include/dbcon.php:2) in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/include/dbcon.php on line 3
+[26-Feb-2014 03:47:28 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/include/dbcon.php:2) in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/include/dbcon.php on line 3
+[26-Feb-2014 05:23:34 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/add.news.php:2) in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/include/dbcon.php on line 3
+[28-Feb-2014 12:16:34 America/Chicago] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/include/dbcon.php on line 6
+[28-Feb-2014 12:33:56 America/Chicago] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/include/dbcon.php on line 6
+[01-Mar-2014 17:33:16 America/Chicago] PHP Parse error:  syntax error, unexpected T_STRING in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/add.vdo.php on line 20
+[01-Mar-2014 22:25:28 America/Chicago] PHP Warning:  mysql_query() expects parameter 1 to be string, object given in /home4/tbldev1/public_html/tbldevfirm.com/fourth/tbladmin/bod.comment.php on line 12
+[07-Mar-2014 11:24:32] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[07-Mar-2014 11:24:32] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[07-Mar-2014 11:24:44] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[07-Mar-2014 11:24:44] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[07-Mar-2014 11:25:04] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[07-Mar-2014 11:25:04] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[07-Mar-2014 11:31:58] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[07-Mar-2014 11:31:58] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[07-Mar-2014 11:33:35] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[07-Mar-2014 11:33:35] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[07-Mar-2014 11:34:06] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[07-Mar-2014 11:34:06] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[07-Mar-2014 11:40:14] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[07-Mar-2014 11:40:14] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[07-Mar-2014 11:51:01] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[07-Mar-2014 11:51:01] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[07-Mar-2014 12:13:25] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[07-Mar-2014 12:13:25] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[07-Mar-2014 12:14:07] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[07-Mar-2014 12:14:07] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[07-Mar-2014 12:33:31] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[07-Mar-2014 12:33:31] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[07-Mar-2014 12:34:28] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[07-Mar-2014 12:34:28] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[07-Mar-2014 12:34:46] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[07-Mar-2014 12:34:46] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[07-Mar-2014 12:36:00] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[07-Mar-2014 12:36:00] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[07-Mar-2014 12:36:24] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[07-Mar-2014 12:36:24] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[07-Mar-2014 12:37:35] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[07-Mar-2014 12:37:35] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[07-Mar-2014 12:47:36] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[07-Mar-2014 12:47:36] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[07-Mar-2014 12:48:29] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[07-Mar-2014 12:48:29] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[07-Mar-2014 20:54:25] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[07-Mar-2014 20:54:25] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[07-Mar-2014 21:03:01] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[07-Mar-2014 21:03:01] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[07-Mar-2014 22:42:45] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[07-Mar-2014 22:42:45] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[07-Mar-2014 22:43:02] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[07-Mar-2014 22:43:02] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Mar-2014 07:14:26] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Mar-2014 07:14:26] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Mar-2014 07:49:57] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Mar-2014 07:49:57] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Mar-2014 07:55:06] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Mar-2014 07:55:06] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Mar-2014 08:40:17] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Mar-2014 08:40:17] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Mar-2014 10:21:09] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Mar-2014 10:21:09] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Mar-2014 10:22:04] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Mar-2014 10:22:04] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Mar-2014 10:22:53] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Mar-2014 10:22:53] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Mar-2014 11:02:53] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Mar-2014 11:02:53] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Mar-2014 11:40:27] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Mar-2014 11:40:27] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Mar-2014 11:51:15] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Mar-2014 11:51:15] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Mar-2014 12:03:36] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Mar-2014 12:03:36] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Mar-2014 12:23:23] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[08-Mar-2014 12:23:23] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 05:00:26] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 05:00:26] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 05:02:09] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 05:02:09] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 05:02:31] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 05:02:31] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 05:04:02] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 05:04:02] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 05:05:06] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 05:05:06] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 05:05:23] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 05:05:23] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 05:05:27] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 05:05:27] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 05:05:53] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 05:05:53] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 05:05:57] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 05:05:57] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 05:06:14] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 05:06:14] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 05:07:33] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 05:07:33] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 05:08:45] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 05:08:45] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 05:09:03] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 05:09:03] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 05:09:14] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 05:09:14] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 05:09:16] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 05:09:16] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 05:09:23] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 05:09:23] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 05:09:32] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 05:09:32] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 05:09:48] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 05:09:48] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 05:12:58] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 05:12:58] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 05:15:47] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 05:15:47] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 06:15:17] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 06:15:17] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 10:34:08] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 10:34:08] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 10:35:36] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 10:35:36] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 10:37:34] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 10:37:34] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 10:44:00] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 10:44:00] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 10:50:03] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 10:50:03] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 11:06:32] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 11:06:32] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 11:07:18] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[09-Mar-2014 11:07:18] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[10-Mar-2014 01:16:09] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[10-Mar-2014 01:16:09] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[10-Mar-2014 01:17:37] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[10-Mar-2014 01:17:37] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[10-Mar-2014 01:21:11] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[10-Mar-2014 01:21:11] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[10-Mar-2014 01:38:01] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[10-Mar-2014 01:38:01] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[10-Mar-2014 02:32:13] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[10-Mar-2014 02:32:13] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[10-Mar-2014 02:41:14] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[10-Mar-2014 02:41:14] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[10-Mar-2014 02:52:59] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[10-Mar-2014 02:52:59] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[10-Mar-2014 03:09:28] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[10-Mar-2014 03:09:28] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[10-Mar-2014 03:09:45] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[10-Mar-2014 03:09:45] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[10-Mar-2014 03:12:32] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[10-Mar-2014 03:12:32] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[10-Mar-2014 03:14:25] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[10-Mar-2014 03:14:25] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[10-Mar-2014 03:14:38] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[10-Mar-2014 03:14:38] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[10-Mar-2014 03:16:03] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[10-Mar-2014 03:16:03] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[10-Mar-2014 03:17:35] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[10-Mar-2014 03:17:35] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[10-Mar-2014 03:18:09] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[10-Mar-2014 03:18:09] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[10-Mar-2014 03:21:53] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[10-Mar-2014 03:21:53] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[10-Mar-2014 04:16:20] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[10-Mar-2014 04:16:21] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[10-Mar-2014 04:16:42] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[10-Mar-2014 04:16:42] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[10-Mar-2014 04:42:26] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[10-Mar-2014 04:42:26] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[10-Mar-2014 04:44:26] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[10-Mar-2014 04:44:26] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[10-Mar-2014 04:45:24] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[10-Mar-2014 04:45:24] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[10-Mar-2014 06:01:30] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[10-Mar-2014 06:01:30] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[10-Mar-2014 06:06:11] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[10-Mar-2014 06:06:11] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[10-Mar-2014 06:06:51] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[10-Mar-2014 06:06:51] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[10-Mar-2014 06:09:42] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[10-Mar-2014 06:09:42] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[10-Mar-2014 06:20:54] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[10-Mar-2014 06:20:54] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[11-Mar-2014 05:13:05] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[11-Mar-2014 05:13:05] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[12-Mar-2014 06:58:03] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[12-Mar-2014 06:58:03] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[12-Mar-2014 06:59:19] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[12-Mar-2014 06:59:19] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[12-Mar-2014 06:59:54] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[12-Mar-2014 06:59:54] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[12-Mar-2014 07:00:20] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[12-Mar-2014 07:00:20] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[12-Mar-2014 07:04:31] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[12-Mar-2014 07:04:31] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[12-Mar-2014 07:26:56] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[12-Mar-2014 07:26:56] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[13-Mar-2014 10:41:25] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[13-Mar-2014 10:41:25] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[13-Mar-2014 10:41:46] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[13-Mar-2014 10:41:46] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[13-Mar-2014 10:42:02] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[13-Mar-2014 10:42:02] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[13-Mar-2014 10:43:32] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[13-Mar-2014 10:43:32] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[13-Mar-2014 11:20:47] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[13-Mar-2014 11:20:47] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[13-Mar-2014 11:26:03] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[13-Mar-2014 11:26:03] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[13-Mar-2014 11:30:02] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[13-Mar-2014 11:30:02] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[13-Mar-2014 12:06:56] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[13-Mar-2014 12:06:56] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[13-Mar-2014 13:01:13] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[13-Mar-2014 13:01:13] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[13-Mar-2014 13:12:29] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[13-Mar-2014 13:12:29] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[13-Mar-2014 13:13:15] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[13-Mar-2014 13:13:15] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[13-Mar-2014 13:13:23] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[13-Mar-2014 13:13:23] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[13-Mar-2014 13:14:27] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[13-Mar-2014 13:14:27] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[13-Mar-2014 13:18:27] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[13-Mar-2014 13:18:27] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[13-Mar-2014 13:20:16] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[13-Mar-2014 13:20:16] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[13-Mar-2014 13:29:07] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[13-Mar-2014 13:29:07] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[13-Mar-2014 13:54:23] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[13-Mar-2014 13:54:23] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[13-Mar-2014 13:54:41] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[13-Mar-2014 13:54:41] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[14-Mar-2014 01:30:07] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[14-Mar-2014 01:30:07] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[14-Mar-2014 01:30:18] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[14-Mar-2014 01:30:18] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[14-Mar-2014 01:32:43] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[14-Mar-2014 01:32:43] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[14-Mar-2014 01:38:28] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[14-Mar-2014 01:38:28] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[14-Mar-2014 01:38:52] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[14-Mar-2014 01:38:52] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[14-Mar-2014 01:40:44] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[14-Mar-2014 01:40:44] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[15-Mar-2014 11:11:21] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[15-Mar-2014 11:11:21] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[15-Mar-2014 11:13:19] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[15-Mar-2014 11:13:19] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[15-Mar-2014 11:23:23] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[15-Mar-2014 11:23:23] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[15-Mar-2014 11:24:52] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[15-Mar-2014 11:24:52] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[15-Mar-2014 11:25:09] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[15-Mar-2014 11:25:09] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[15-Mar-2014 11:31:20] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[15-Mar-2014 11:31:20] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[15-Mar-2014 11:36:01] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[15-Mar-2014 11:36:01] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[15-Mar-2014 12:46:16] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[15-Mar-2014 12:46:16] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[15-Mar-2014 12:46:32] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[15-Mar-2014 12:46:32] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[15-Mar-2014 12:47:57] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[15-Mar-2014 12:47:57] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[15-Mar-2014 12:48:32] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[15-Mar-2014 12:48:32] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[15-Mar-2014 12:48:55] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[15-Mar-2014 12:48:55] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[15-Mar-2014 12:51:04] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[15-Mar-2014 12:51:04] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[15-Mar-2014 13:01:28] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[15-Mar-2014 13:01:28] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[15-Mar-2014 13:56:38 America/Chicago] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (HY000/2005): Unknown MySQL server host 'tbldev_fourthxen' (0) in /home4/tbldev1/public_html/tbldevfirm.com/fourth/fourthxen/tbladmin/include/dbcon.php on line 6
+[15-Mar-2014 13:56:52 America/Chicago] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'tbldev_fourthxen'@'localhost' (using password: YES) in /home4/tbldev1/public_html/tbldevfirm.com/fourth/fourthxen/tbladmin/include/dbcon.php on line 6
+[15-Mar-2014 13:56:53 America/Chicago] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'tbldev_fourthxen'@'localhost' (using password: YES) in /home4/tbldev1/public_html/tbldevfirm.com/fourth/fourthxen/tbladmin/include/dbcon.php on line 6
+[15-Mar-2014 14:10:32 America/Chicago] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'tbldev1_fourthxen'@'localhost' (using password: YES) in /home4/tbldev1/public_html/tbldevfirm.com/fourth/fourthxen/tbladmin/include/dbcon.php on line 6
+[15-Mar-2014 14:11:05 America/Chicago] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'tbldev1_fourthxen'@'localhost' (using password: YES) in /home4/tbldev1/public_html/tbldevfirm.com/fourth/fourthxen/tbladmin/include/dbcon.php on line 6
+[03-Apr-2014 16:21:13 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home4/tbldev1/public_html/tbldevfirm.com/fourth/fourthxen/tbladmin/view.proposal.php on line 105
+[03-Apr-2014 16:26:16 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home4/tbldev1/public_html/tbldevfirm.com/fourth/fourthxen/tbladmin/view.proposal.php on line 105
+[03-Apr-2014 16:27:22 America/Chicago] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home4/tbldev1/public_html/tbldevfirm.com/fourth/fourthxen/tbladmin/view.proposal.php on line 105
+[03-Apr-2014 16:27:58 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home4/tbldev1/public_html/tbldevfirm.com/fourth/fourthxen/tbladmin/view.proposal.php on line 105
+[03-Apr-2014 16:28:32 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home4/tbldev1/public_html/tbldevfirm.com/fourth/fourthxen/tbladmin/view.proposal.php on line 105
+[03-Apr-2014 16:29:48 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/tbldev1/public_html/tbldevfirm.com/fourth/fourthxen/tbladmin/view.proposal.php on line 105
+[03-Apr-2014 16:31:41 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/tbldev1/public_html/tbldevfirm.com/fourth/fourthxen/tbladmin/view.proposal.php on line 105
+[03-Apr-2014 16:33:41 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home4/tbldev1/public_html/tbldevfirm.com/fourth/fourthxen/tbladmin/view.proposal.php on line 105
+[03-Apr-2014 16:35:42 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home4/tbldev1/public_html/tbldevfirm.com/fourth/fourthxen/tbladmin/view.proposal.php on line 106
