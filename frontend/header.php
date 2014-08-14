@@ -1,90 +1,4 @@
 <!doctype html>
-
-<!-- authentication info -->
-
-<?php
-
-include "./inc/jsonencode.php";
-print_r($_POST);
-
-    if (isset($_POST['login-button'])) {
-
-        $output = shell_exec("perl ./cgi-bin/fourthBranch.pl run=loginIndividual email=".$_POST['username']." password=".$_POST['password']);
-
-        $jsonj = jsonarray($output);
-
-        //echo "individual: ";
-
-        //var_dump($jsonj);
-
-        //statement to test for successful.
-
-        if ($jsonj->successful == 'true'){
-
-            //create php user session for individual
-
-        } else {
-
-        $output = shell_exec("perl ./cgi-bin/fourthBranch.pl run=loginOrganization email=".$_POST['username']." password=".$_POST['password']);
-
-        $jsonj = jsonarray($output);
-
-            //create php user session for organization
-
-        }
-
-    }
-
-    if (isset($_POST['addIndividual-button'])){
-
-        $output = shell_exec("perl ./cgi-bin/fourthBranch.pl run=addIndividual first=".$_POST['fname']." last=".$_POST['lname']." username=".$_POST['pseudonym']." birthdate=".$_POST['dob']." gender=".$_POST['g']." address=".$_POST['address']." city=".$_POST['city']." state=".$_POST['state']." zip=".$_POST['zip']." email=".$_POST['emailI']." password=".$_POST['passI']." affiliation=".$_POST['party']);
-
-        $jsonj = jsonarray($output);
-
-        if ($jsonj->successful == 'true'){
-
-            
-
-        //individual sign up worked
-
-            echo $jsonj->successful;
-
-    } else {
-
-            echo $jsonj->successful;        
-
-        }
-
-    }
-
-    if (isset($_POST['nameOrganization'])){
-
-        $output = shell_exec("perl ./cgi-bin/fourthBranch.pl run=addOrganization name=".$_POST['nameOrganization']." address=".$_POST['addressOrganization']." city=".$_POST['cityOrganization']." state=".$_POST['stateOrganization']." zip=".$_POST['zipOrganization']." phone=".$_POST['phoneOrganization']." legalstatus=".$_POST['legal']." cause=".$_POST['cause']." joinreason=".$_POST['reason']." individualname=".$_POST['nameI']." titleorganization=".$_POST['titleI']." personalphone=".$_POST['phoneP']." email=".$_POST['emailO']." password=".$_POST['passS']);
-
-        var_dump($jsonj);
-
-        print_r($output);
-
-        $jsonj = jsonarray($output);
-
-        if ($jsonj->successful == 'true'){
-
-        //organization sign up worked
-
-            echo $jsonj->successful;
-
-    } else {
-
-            echo $jsonj->successful;        
-
-        }
-
-    }
-var_dump($jsonj);
-print_r($output);
-
-?>
-
 <html lang="en">
 
 <head>
@@ -102,7 +16,7 @@ print_r($output);
   <link rel="stylesheet" href="css/styles.css" type="text/css" />
 
   <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-
+  <script src="js/jquery.js" type="text/javascript"></script>
   <script src="js/html5shiv.min.js"></script>
 
   <!--[if lt IE 9]>
@@ -111,173 +25,47 @@ print_r($output);
 
   <![endif]-->
 
-  <script type="text/javascript">
-
-<!--
-
-    function toggle_visibility(id) {
-
-       var e = document.getElementById(id);
-
-       if(e.style.display == 'block')
-
-          e.style.display = 'none';
-
-       else
-
-          e.style.display = 'block';
-
-    }
-
-//-->
-
-</script>
+<!-- authentication info -->
 
 <?php
 
-$jsonj = jsonarray($output);
-
-if ($_POST['username']){
-
-    if ($jsonj->successful == 'true'){
-
-            echo "<script>$(document).ready(function(){";
-
-            echo "$('body').addClass('loggedin');";
-
-            echo "});</script>";
-
-            echo "Hello ".$_POST['username'].", you are now logged in!";
-
-        } else {
-
-            echo "<script>$(document).ready(function(){";
-
-            echo "$('body').addClass('overlaid');";
-
-            echo "$('#a').css('display','block').append('<div class=\'left\'><p style=\'color:red\'>Email or Password was incorrect. Please try again.</p></div>');});</script>";
-
-        }
-
+include "./inc/jsonencode.php";
+if (isset($_POST)) {
+    include "./inc/functions.php";
+    print_r($_POST);
 }
-
-if (isset($_POST['nameOrganization'])){
-
-    if ($jsonj->successful == 'true'){
-
-            //Organization signup worked
-
-             echo "<script>$(document).ready(function(){";
-
-            echo "$('body').addClass('overlaid');";
-
-            echo "$('#confirm2').css('display','block');});</script>";           
-
-        }
-
-        if ($jsonj->name_taken == 'true'){
-
-            echo "<script>$(document).ready(function(){";
-
-            echo "$('body').addClass('overlaid');";
-
-            echo "$('#confirm2').css('display','block');});</script>";
-
-            } else {
-
-            echo "<script>$(document).ready(function(){";
-
-            echo "$('body').addClass('overlaid');";
-
-            echo "$('#organization').css('display','block').append('<div class=\'left\'><p style=\'color:red\'>Sorry, something went wrong. Please try again.</p></div>');});</script>";           
-
-        }
-
-}
-
-if (isset($_POST['addIndividual-button'])){
-
-    if ($jsonj->successful == 'true'){
-
-            //Organization signup worked
-
-            echo "<script>$(document).ready(function(){";
-
-            echo "$('body').addClass('overlaid');";
-
-            echo "$('#confirm').css('display','block');});</script>";           
-
-        } else {
-
-            echo "<script>$(document).ready(function(){";
-
-            echo "$('body').addClass('overlaid');";
-
-            echo "$('#individual').css('display','block').append('<div class='left'><p style='color:red'>Sorry, something went wrong. Please try again.</p></div>';});</script>";           
-
-        }
-
-}
-
-
-
 ?>
-
 </head>
 
 <body>
 
-    <div id="container">
-
         <section id="header-bar">
-
-            <div class="left">
-
-                <a href="#">ABOUT</a>
-
-                <a href="#">CONTACT</a>
-
-                <a href="#">DONATE</a>
-
-            </div>
-
-            <div class="right">
-
-                <a id="signbut" style="cursor: pointer;">SIGN UP</a>
-
-                <a id="logbut" style="cursor:pointer;">LOGIN</a>
-
-            </div>
-
-            <div id="header">
-
-                <header id="logo">
-
-                    The Fouth Branch
-
-                </header>
+                <div id="login">
+                    <form action="" name="llLogin" id="llLogin" method="post" style="display:inline-block;">
+                        <input type="email" id="username" name="username" placeholder="Email" size="20" /> 
+                        <input type="password" placeholder="Password" id="password" name="password" size="20" />
+                        <input type="hidden" name="login-button" />
+                        <a id="login-button" style="cursor: pointer;" onclick="loginbutton();">Login</a> | 
+                    </form>
+                    <a id="signup-button" onclick="introduction();" style="cursor:pointer;">Signup</a>
+                </div>
+            <header id="logo">
+                The Fourth Branch
+            </header>
 
                 <nav id="nav">
-
-                    <a href="/home">HOME</a>
-
-                    <a href="/vote">VOTE</a>
-
-                    <a href="/proposal">PROPOSAL</a>
-
-                    <a href="/news">NEWS</a>
-
+                    <a href="/home">Home</a> | 
+                    <a href="/vote">Vote</a> | 
+                    <a href="/proposal">Proposal</a> | 
+                    <a href="/news">News</a> | 
+                    <a href="/news">Contribute</a> | 
+                    <a href="/wallofamerica">Wall of America</a> | 
+                    <a href="/about">About</a> | 
+                    <a href="/contact">Contact</a>
                 </nav>
 
-                <div id="search">
-
-                    <input type="search" placeholder="Search..." results="5" name="s"><span>&rsaquo;&rsaquo;</span>
-
-                </div>
-
-            </div>
-
         </section>
+<div id="container">
 
         <script type="text/javascript">
 
@@ -431,21 +219,21 @@ function toggleOverlay_new(){
 
 											<input type='password' size='20' id="password" name="password" placeholder='Password' />
 
-										<div style='overflow:hidden;'>
-
-											<button class='button' name='login-button' type="submit" style='cursor: pointer;width:100px;float:left;margin-left:15px;font-size:larger;'>
-
-												Login
-
-											</button>
-
-											<button class='button' onclick='introduction();' style='cursor: pointer;width:100px;float:right;margin-right:20px;font-size:larger;'>
-
-												Sign Up
-
-											</button>
-
-										</div>
+    										<div style='overflow:hidden;'>
+    
+    											<button class='button' name='login-button' type="submit" style='cursor: pointer;width:100px;float:left;margin-left:15px;font-size:larger;'>
+    
+    												Login
+    
+    											</button>
+    
+    											<button class='button' onclick='introduction();' style='cursor: pointer;width:100px;float:right;margin-right:20px;font-size:larger;'>
+    
+    												Sign Up
+    
+    											</button>
+    
+    										</div>
 
                                         </form>
 
@@ -715,31 +503,31 @@ function toggleOverlay_new(){
 
                                         <div style="margin: 15px;">
 
-                                                     <div class="left">First Name:
+                                                     <div class="left"><label for="fname">First Name:</label>
 
 											     		<input type='text' style="width:150px;" name='fname' id='fname' maxlength='20'>
 
 													</div>
 
-                                                    <div class="right">Last Name:
+                                                    <div class="right"><label for="lname">Last Name:</label>
 
 														<input type='text' style="width:150px;" name='lname' id='lname' maxlength='20'>
 
 													</div>	
 
-                                                    <div class="left">Username:
+                                                    <div class="left"><label for="pseudonym">Username:</label>
 
 													   <input type='text' style="width:150px;" name='pseudonym' id='pseudonym' maxlength='20'> 
 
 													</div>
 
-                                                    <div class="right">Date of Birth:
+                                                    <div class="right"><label for="dob">Date of Birth:</label>
 
 													   <input type='date' style="width:150px;" name='dob' id='dob' placeholder="mm/dd/yyyy">
 
 													</div>	
 
-                                                    <div class="left">Email:
+                                                    <div class="left"><label for="emailI">Email:</label>
 
 															<input type='email' name='emailI' id='emalI' style="width:150px;" />	
 
@@ -747,7 +535,7 @@ function toggleOverlay_new(){
 
                                                         <div class="right">
 
-																Confirm Email:
+																<label for="emailI2">Confirm Email:</label>
 
 																<input type='email' name='emailI2' id='emalI2' style="width:150px;" />
 
@@ -755,7 +543,7 @@ function toggleOverlay_new(){
 
                                                         <div class="left">
 
-																Password:
+																<label for="passI">Password:</label>
 
 																<input type='password' name='passI' id='passI' style="width:150px;" />
 
@@ -763,7 +551,7 @@ function toggleOverlay_new(){
 
                                                              <div class="right">
 
-																Confirm Password:
+																<label for="passI2">Confirm Password:</label>
 
 																<input type='password' name='passI2' id='passI2' style="width:150px;" />
 
@@ -771,7 +559,7 @@ function toggleOverlay_new(){
 
                                                             <div class="left">
 
-																Gender: 
+																<label for="g[]">Gender:</label>
 
 																<input type='checkbox' name="g[]" value="m" />Male 
 
@@ -781,23 +569,23 @@ function toggleOverlay_new(){
 
                                                                 </div>
 
-                                                                <div class="left">Address: 
+                                                                <div class="full"><label for="address">Address:</label> 
 
 																<input style="width:600px;" type='text' name='address' id='address' /> 
 
 																</div>
 
-								            		<div class="left">
+								            	               	<div class="left">
 
-																City:
+																<label for="city">City:</label>
 
 																<input type='text' style="width:150px;" name='city' id='city' />  
 
 															</div>
 
-                                                            <div style="float:left;">
+                                                            <div style="float:left;padding-left:70px;">
 
-																State:
+																<label for="state">State:</label>
 
 																<select id='state' name="state">
 
@@ -857,17 +645,15 @@ function toggleOverlay_new(){
 
 															</div><div class="right">
 
-																Zip:
+																<label for="zip">Zip:</label>
 
 																<input type='text' size='10' name='zip' id='zip' />
 
                           										</div>
 
-                                                                  <div class="left">
+                                                                  <div class="full" style="padding-top: 20px;">
 
-    												Political Leaning:
-
-    												<div style="overflow:hidden">
+    												<i>(optional) </i>Political Leaning:
 
   														<input type='checkbox' value="r" name="party[]" />Republican 
 
@@ -880,8 +666,6 @@ function toggleOverlay_new(){
     													<input type='checkbox' value="o" name="party[]" style="margin-top:5px;" />Other
 
     												    <input type='text' style="width:150px;display:none;" name='otherBox' id='otherBox' placeholder='If other, please enter here' /> 
-
-    												</div>
 
     												</div>
 
@@ -1069,9 +853,9 @@ function toggleOverlay_new(){
 
 											<p align='center' >
 
-												<!-- A confirmation link has been sent to your email address. -->
+												A confirmation link has been sent to your email address.
 
-												You have activated your account and are now an active participant in your government.
+												Please activate your account to become an active participant in your government.
 
                                             </p>
 
@@ -1119,13 +903,13 @@ function toggleOverlay_new(){
 
                                             <form name="signupOrganization" id="signupOrganization" action='' method="POST" style="margin: 15px;">
 
-												<div class="left"><label for="nameOrganization">Name of Organization:</label>
+												<div class="full"><label for="nameOrganization">Name of Organization:</label>
 
 													<input type='text' style="width:400px;" name='nameOrganization' id='nameOrganization' />
 
 											</div>
 
-											<div class="left">
+											<div class="full">
 
 												<label for="addressOrganization">Address:</label>
 
@@ -1253,13 +1037,13 @@ function toggleOverlay_new(){
 
     												<div class="right">Zip:&nbsp;&nbsp;<input type='text' size='5' name='zipOrganization' id='zipOrganization' />
 
-    										</div><div class="left">
+    										</div><div class="full">
 
 									  			<label for="phoneOrganization">Organization Phone:</label><input type='text' size='20' name='phoneOrganization' id='phoneOrganization' />
 
 									  		</div>
 
-                                              <div class="left">
+                                              <div class="full">
 
 									  				Legal Status:
 
@@ -1277,7 +1061,7 @@ function toggleOverlay_new(){
 
 									  		   </div>
 
-                                              <div class="left">
+                                              <div class="full">
 
 									  				Your Cause Concerns:
 
@@ -1377,7 +1161,7 @@ function toggleOverlay_new(){
 
                                             <form name="signupOrganization2" id="signupOrganization2" action="" method="POST" style="margin: 15px;">
 
-                                            <div class="left">
+                                            <div class="full">
 
 										<label for="nameI">
 
@@ -1387,19 +1171,19 @@ function toggleOverlay_new(){
 
 													</div>
 
-                                                    <div class="left">
+                                                    <div class="full">
 
 													<label for="titleI">
 
 														Title in Organization:</label><input type='text' size='25' name='titleI' id='titleI' />
 
-													</div><div class="left"><label for="phonePersonal">
+													</div><div class="full"><label for="phonePersonal">
 
 														Personal Phone:</label><input type='text' size='25' name='phoneP' id='phoneP' />
 
     											     </div>
 
-												<div class="left">
+												<div class="full">
 
 													<label for="emailO">
 
@@ -1447,13 +1231,13 @@ function toggleOverlay_new(){
 
                                             <form name="signupOrganization3" id="signupOrganization3" action="" method="post">
 
-												<div class="left">
+												<div class="full">
 
 													<span style="color:#FFFFFF;">Confirm </span><label for="emailS">Sign in Email:</label><input type='email' size='25' name='emailS' id='emailS' />
 
 											</div>
 
-											<div class="left">
+											<div class="full">
 
 												<label for="emailS2">
 
@@ -1461,13 +1245,13 @@ function toggleOverlay_new(){
 
     										  </div>
 
-											<div class="left">
+											<div class="full">
 
 													<span style="color:#FFFFFF;">Confirm </span><label for="passS">Password:</label><input type='password' size='25' name='passS' id='passS' />
 
 											</div>
 
-											<div class="left">
+											<div class="full">
 
 												<label for="passS2">
 
@@ -1475,7 +1259,7 @@ function toggleOverlay_new(){
 
 											</div>
 
-											<div class="left"><p>
+											<div class="full"><p>
 
     											By clicking sign up you agree to our 
 
@@ -1634,39 +1418,6 @@ function mergeForms() {
     $(targetForm).submit();
 
 }
-
-
-
-   // $('#addOrganization-button').click(function(){
-
-//    var form1content = $('#').html();
-
- //   var form2content = $('#signupOrganization2').html();
-
-   // var form3content = $('#signupOrganization3').html();
-
-   // $('#toSubmit').html(form1content+form2content+form3content);
-
-   // $('#toSubmit').submit();
-
-//});
-
-function submitForms (){
-
-     var form1Content = document.getElementById("signupOrganization").innerHTML;
-
-     var form2Content = document.getElementById("signupOrganization2").innerHTML;
-
-     var form3Content = document.getElementById("signupOrganization3").innerHTML;
-
-     document.getElementById("toSubmit").innerHTML=form1Content+form2Content+form3Content;
-
-                 document.forms.toSubmit.submit();
-
-  }
-
-
-
 		document.getElementById('introduction').style.display = 'none';
 
   		document.getElementById('forgot').style.display = 'none';
@@ -1686,9 +1437,16 @@ function submitForms (){
 		document.getElementById('organization2').style.display = 'none';
 
 		document.getElementById('organization3').style.display = 'none';
+        
+        function loginbutton() {
+            $('#llLogin').submit();
+        }
 
 		function introduction() {
-
+		  if ($('body').hasClass('overlaid')) {
+          } else {
+            	  $('body').toggleClass('overlaid');
+          }
 	   	document.getElementById('individual').style.display = 'none';
 
 			document.getElementById('organization').style.display = 'none';
