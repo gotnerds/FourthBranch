@@ -1,0 +1,37 @@
+<bill session="113" type="hr" number="651" updated="2014-08-14T12:50:10-04:00">
+  <state datetime="2014-06-26">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-26"/>
+  </status>
+  <introduced datetime="2014-06-26"/>
+  <titles>
+    <title type="official" as="introduced">Expressing support for the network of experienced and accredited wildlife rehabilitation centers across the United States and honoring their important work in protecting native wildlife.</title>
+  </titles>
+  <sponsor thomas_id="01075"/>
+  <cosponsors>
+    <cosponsor thomas_id="02196" joined="2014-06-26"/>
+    <cosponsor thomas_id="00279" joined="2014-06-26"/>
+    <cosponsor thomas_id="00281" joined="2014-06-26"/>
+    <cosponsor thomas_id="01976" joined="2014-07-22"/>
+    <cosponsor thomas_id="02036" joined="2014-06-26"/>
+    <cosponsor thomas_id="02101" joined="2014-06-26"/>
+    <cosponsor thomas_id="02169" joined="2014-07-22"/>
+    <cosponsor thomas_id="02014" joined="2014-06-26"/>
+    <cosponsor thomas_id="02053" joined="2014-06-26"/>
+    <cosponsor thomas_id="00832" joined="2014-06-26"/>
+    <cosponsor thomas_id="00912" joined="2014-06-26"/>
+    <cosponsor thomas_id="01222" joined="2014-06-26"/>
+    <cosponsor thomas_id="02115" joined="2014-06-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-26" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

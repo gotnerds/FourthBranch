@@ -1,0 +1,186 @@
+<bill session="113" type="h" number="4984" updated="2014-08-14T13:34:00-04:00">
+  <state datetime="2014-07-24T15:39:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-07-24T15:39:00-04:00"/>
+  </status>
+  <introduced datetime="2014-06-26"/>
+  <titles>
+    <title type="short" as="introduced">Empowering Students Through Enhanced Financial Counseling Act</title>
+    <title type="official" as="introduced">To amend the loan counseling requirements under the Higher Education Act of 1965, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01922"/>
+  <cosponsors>
+    <cosponsor thomas_id="02092" joined="2014-07-14"/>
+    <cosponsor thomas_id="02129" joined="2014-07-09"/>
+    <cosponsor thomas_id="02018" joined="2014-07-09"/>
+    <cosponsor thomas_id="01676" joined="2014-07-14"/>
+    <cosponsor thomas_id="02040" joined="2014-07-09"/>
+    <cosponsor thomas_id="02140" joined="2014-06-26"/>
+    <cosponsor thomas_id="02051" joined="2014-07-09"/>
+    <cosponsor thomas_id="00635" joined="2014-07-17"/>
+    <cosponsor thomas_id="01733" joined="2014-06-26"/>
+    <cosponsor thomas_id="02130" joined="2014-07-09"/>
+    <cosponsor thomas_id="00808" joined="2014-07-17"/>
+    <cosponsor thomas_id="01954" joined="2014-07-09"/>
+    <cosponsor thomas_id="02017" joined="2014-07-09"/>
+    <cosponsor thomas_id="02158" joined="2014-07-14"/>
+    <cosponsor thomas_id="00998" joined="2014-07-17"/>
+    <cosponsor thomas_id="01962" joined="2014-07-17"/>
+    <cosponsor thomas_id="01952" joined="2014-07-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-26" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2014-07-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-07-10" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+    <action datetime="2014-07-17T13:07:00-04:00">
+      <text>Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 113-531.</text>
+    </action>
+    <calendar datetime="2014-07-17T13:07:00-04:00" calendar="Union" number="397">
+      <text>Placed on the Union Calendar, Calendar No. 397.</text>
+    </calendar>
+    <action datetime="2014-07-22T19:40:00-04:00">
+      <text>Rules Committee Resolution H. Res. 677 Reported to House. The rules provides a structured rule for H.R. 3136 and H.R. 4984. Both bills are debatable for one hour with or without instructions.</text>
+    </action>
+    <action datetime="2014-07-23T14:46:00-04:00">
+      <text>Rule H. Res. 677 passed House.</text>
+    </action>
+    <action datetime="2014-07-24T12:40:00-04:00">
+      <text>Considered under the provisions of rule H. Res. 677.</text>
+      <reference ref="CR H6758-6767" label="consideration"/>
+      <reference ref="CR H6761-6763" label="text of amendment in the nature of a substitute"/>
+    </action>
+    <action datetime="2014-07-24T12:40:00-04:00">
+      <text>House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 677 and Rule XVIII.</text>
+    </action>
+    <action datetime="2014-07-24T12:40:00-04:00">
+      <text>The Speaker designated the Honorable Diane Black to act as Chairwoman of the Committee.</text>
+    </action>
+    <action datetime="2014-07-24T12:40:00-04:00">
+      <text>GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 4984.</text>
+    </action>
+    <action datetime="2014-07-24T13:03:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 677, the Committee of the Whole proceeded with 10 minutes of debate on the Kline Part B amendment No. 1.</text>
+    </action>
+    <action datetime="2014-07-24T13:09:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 677, the Committee of the Whole proceeded with 10 minutes of debate on the Kilmer part B amendment No. 2.</text>
+    </action>
+    <action datetime="2014-07-24T13:17:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Kilmer amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Kilmer demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2014-07-24T13:18:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 677, the Committee of the Whole proceeded with 10 minutes of debate on the Murphy (FL) part B amendment No. 3.</text>
+    </action>
+    <action datetime="2014-07-24T13:23:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 677, the Committee of the Whole proceeded with 10 minutes of debate on the Loretta Sanchez part B amendment No. 4.</text>
+    </action>
+    <action datetime="2014-07-24T13:28:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 677, the Committee of the Whole proceeded with 10 minutes of debate on the part B Cohen amendment No. 5.</text>
+    </action>
+    <action datetime="2014-07-24T13:35:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 677, the Committee of the Whole proceeded with 10 minutes of debate on the Hahn part B amendment No. 6.</text>
+    </action>
+    <action datetime="2014-07-24T13:39:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 677, the Committee of the Whole proceeded with 10 minutes of debate on the Peters (MI) part B amendment No. 7.</text>
+    </action>
+    <action datetime="2014-07-24T13:42:00-04:00">
+      <text>Mr. Kline moved that the Committee rise.</text>
+    </action>
+    <action datetime="2014-07-24T13:42:00-04:00">
+      <text>On motion that the Committee rise Agreed to by voice vote.</text>
+    </action>
+    <action datetime="2014-07-24T13:42:00-04:00">
+      <text>Committee of the Whole House on the state of the Union rises leaving H.R. 4984 as unfinished business.</text>
+    </action>
+    <action datetime="2014-07-24T15:10:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H6775-6778" label="consideration"/>
+    </action>
+    <action datetime="2014-07-24T15:10:00-04:00">
+      <text>The House resolved into Committee of the Whole House on the state of the Union for further consideration.</text>
+    </action>
+    <action datetime="2014-07-24T15:10:00-04:00">
+      <text>UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the adoption of the Kilmer amendment No. 2, which was debated earlier and on which further proceedings had been postponed.</text>
+    </action>
+    <action datetime="2014-07-24T15:17:00-04:00">
+      <text>The House rose from the Committee of the Whole House on the state of the Union to report H.R. 4984.</text>
+    </action>
+    <action datetime="2014-07-24T15:18:00-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H6776" label="consideration"/>
+    </action>
+    <action datetime="2014-07-24T15:18:00-04:00">
+      <text>The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.</text>
+      <reference ref="CR H6761-6763" label="text of amendment in the nature of a substitute"/>
+    </action>
+    <action datetime="2014-07-24T15:18:00-04:00">
+      <text>Mr. Tierney moved to recommit with instructions to the Committee on Education and the Workforce.</text>
+      <reference ref="CR H6776-6777" label="consideration"/>
+      <reference ref="CR H6776" label="text"/>
+    </action>
+    <action datetime="2014-07-24T15:20:00-04:00">
+      <text>DEBATE - The House proceeded with 10 minutes of debate on the motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to require that borrowers be informed of the amount of money they would pay if they were able to refinance their loans.</text>
+    </action>
+    <action datetime="2014-07-24T15:25:00-04:00">
+      <text>The previous question on the motion to recommit with instructions was ordered without objection.</text>
+      <reference ref="CR H6777" label="consideration"/>
+    </action>
+    <action datetime="2014-07-24T15:33:00-04:00">
+      <text>On motion to recommit with instructions Failed by recorded vote: 193 - 220 (Roll no. 445).</text>
+    </action>
+    <vote how="roll" type="vote" roll="446" datetime="2014-07-24T15:39:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by recorded vote: 405 - 11 (Roll no. 446).</text>
+    </vote>
+    <action datetime="2014-07-24T15:39:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-07-28">
+      <text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral, Markup, Reporting"/>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="113" relation="rule" number="677"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Consumer affairs"/>
+    <term name="Government information and archives"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Higher education"/>
+    <term name="Interest, dividends, interest rates"/>
+    <term name="School administration"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments>
+    <amendment number="h1116"/>
+    <amendment number="h1117"/>
+    <amendment number="h1118"/>
+    <amendment number="h1119"/>
+    <amendment number="h1120"/>
+    <amendment number="h1121"/>
+    <amendment number="h1122"/>
+  </amendments>
+  <summary>6/26/2014--Introduced.
+Empowering Students Through Enhanced Financial Counseling Act - Amends title IV (Student Assistance) of the Higher Education Act of 1965 to require institutions of higher education (IHEs) to provide annual (currently, entrance) counseling to student borrowers under the William D. Ford Federal Direct Loan program, beginning at or prior to the student's acceptance of the loan. Requires that counseling to be conducted in person, online, or through the use of an online counseling tool maintained by the Secretary of Education.
+
+Adds to the information such counseling shall provide:
+
+ an explanation that the borrower is not required to accept the full amount of the loan; an explanation that the borrower should consider accepting any grant, scholarship, or state or federal work-study jobs for which the borrower is eligible before accepting federal student loans; a recommendation to exhaust the borrower's federal student loan options prior to taking out private loans which may not offer as favorable terms and repayment options as federal student loans; an explanation of the educational expenses Direct Loans cover; information on the annual and aggregate limits on such loans; and information regarding the borrower's outstanding balance and anticipated monthly payment amount. Requires the exit counseling IHEs provide to student borrowers of loans under the Federal Family Education Loan (FFEL), Direct Loan, and Federal Perkins Loan programs to be conducted through: (1) the use of an interactive program, (2) during an in-person or online session, or (3) through the use of an online counseling tool maintained by the Secretary.
+
+Adds to the information such counseling shall provide:
+
+ the outstanding principal and interest due on the loans; an explanation of the grace period preceding repayment and the expected date the borrower will enter repayment; an explanation that the borrower has the option to pay any interest that accrued while the borrower was in school or that may accrue during grace, deferment, or forbearance periods, prior to the capitalization of the interest; information showing the borrower's anticipated monthly payments under different repayment plans; and contact information for the loan servicer and a link to such servicer's website. Requires IHEs to provide annual counseling to Federal Pell Grant recipients that is conducted in person, online, or through the use of an online counseling tool maintained by the Secretary.
+
+Requires such counseling to include an explanation of:
+
+ the Pell Grant; the educational expenses such Grants cover; why the student may have to repay the Grant; the maximum number of semesters or equivalent periods for which the student may be eligible for the Grant and the amount of time remaining on such eligibility; how the student may budget for typical educational expenses; and how the student may seek additional financial assistance from the IHE's financial aid office due to changes in the student's financial circumstances, including contact information for that office. Directs the Secretary to maintain a consumer tested online counseling tool to help students understand their rights and obligations in borrowing Direct Loans and receiving Pell Grants.</summary>
+</bill>

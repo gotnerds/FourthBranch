@@ -1,0 +1,59 @@
+<bill session="113" type="hr" number="702" updated="2014-08-14T12:50:36-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="official" as="introduced">Affirming that private equity plays an important role in growing and strengthening United States businesses throughout all sectors of the economy and in every State and congressional district and that it has fostered significant investment in the United States economy.</title>
+  </titles>
+  <sponsor thomas_id="01805"/>
+  <cosponsors>
+    <cosponsor thomas_id="01780" joined="2014-07-31"/>
+    <cosponsor thomas_id="00062" joined="2014-07-31"/>
+    <cosponsor thomas_id="01787" joined="2014-07-31"/>
+    <cosponsor thomas_id="01752" joined="2014-07-31"/>
+    <cosponsor thomas_id="02151" joined="2014-07-31"/>
+    <cosponsor thomas_id="01989" joined="2014-07-31"/>
+    <cosponsor thomas_id="02067" joined="2014-07-31"/>
+    <cosponsor thomas_id="02064" joined="2014-07-31"/>
+    <cosponsor thomas_id="02065" joined="2014-07-31"/>
+    <cosponsor thomas_id="01737" joined="2014-07-31"/>
+    <cosponsor thomas_id="01801" joined="2014-07-31"/>
+    <cosponsor thomas_id="00484" joined="2014-07-31"/>
+    <cosponsor thomas_id="02140" joined="2014-07-31"/>
+    <cosponsor thomas_id="02069" joined="2014-07-31"/>
+    <cosponsor thomas_id="01931" joined="2014-07-31"/>
+    <cosponsor thomas_id="01806" joined="2014-07-31"/>
+    <cosponsor thomas_id="01804" joined="2014-07-31"/>
+    <cosponsor thomas_id="01792" joined="2014-07-31"/>
+    <cosponsor thomas_id="01758" joined="2014-07-31"/>
+    <cosponsor thomas_id="01955" joined="2014-07-31"/>
+    <cosponsor thomas_id="01738" joined="2014-07-31"/>
+    <cosponsor thomas_id="02017" joined="2014-07-31"/>
+    <cosponsor thomas_id="01916" joined="2014-07-31"/>
+    <cosponsor thomas_id="01892" joined="2014-07-31"/>
+    <cosponsor thomas_id="02009" joined="2014-07-31"/>
+    <cosponsor thomas_id="01525" joined="2014-07-31"/>
+    <cosponsor thomas_id="01075" joined="2014-07-31"/>
+    <cosponsor thomas_id="02000" joined="2014-07-31"/>
+    <cosponsor thomas_id="02047" joined="2014-07-31"/>
+    <cosponsor thomas_id="01114" joined="2014-07-31"/>
+    <cosponsor thomas_id="01981" joined="2014-07-31"/>
+    <cosponsor thomas_id="01155" joined="2014-07-31"/>
+    <cosponsor thomas_id="01779" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>7/31/2014--Introduced.
+Affirms that: (1) private equity plays an important role in growing and strengthening U.S. businesses throughout all sectors of the economy and in every state and congressional district, and (2) has fostered significant investment in the U.S. economy.</summary>
+</bill>

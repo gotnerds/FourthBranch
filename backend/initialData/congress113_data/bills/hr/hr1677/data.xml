@@ -1,0 +1,68 @@
+<bill session="113" type="h" number="1677" updated="2014-08-14T13:05:00-04:00">
+  <state datetime="2013-04-23">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-23"/>
+  </status>
+  <introduced datetime="2013-04-23"/>
+  <titles>
+    <title type="short" as="introduced">Yosemite National Park Boundary Expansion Act of 2013</title>
+    <title type="official" as="introduced">To modify the boundary of Yosemite National Park, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01774"/>
+  <cosponsors>
+    <cosponsor thomas_id="02107" joined="2013-04-23"/>
+    <cosponsor thomas_id="02159" joined="2013-04-23"/>
+    <cosponsor thomas_id="01970" joined="2013-04-23"/>
+    <cosponsor thomas_id="01857" joined="2013-08-01"/>
+    <cosponsor thomas_id="02125" joined="2014-05-02"/>
+    <cosponsor thomas_id="01708" joined="2013-06-10"/>
+    <cosponsor thomas_id="02089" joined="2014-05-02"/>
+    <cosponsor thomas_id="01634" joined="2013-04-23"/>
+    <cosponsor thomas_id="02101" joined="2013-04-23"/>
+    <cosponsor thomas_id="01498" joined="2014-05-02"/>
+    <cosponsor thomas_id="01501" joined="2013-04-23"/>
+    <cosponsor thomas_id="00701" joined="2013-06-10"/>
+    <cosponsor thomas_id="02111" joined="2013-04-23"/>
+    <cosponsor thomas_id="01832" joined="2013-06-10"/>
+    <cosponsor thomas_id="00850" joined="2014-05-02"/>
+    <cosponsor thomas_id="01602" joined="2013-07-19"/>
+    <cosponsor thomas_id="02113" joined="2013-10-04"/>
+    <cosponsor thomas_id="02171" joined="2013-08-01"/>
+    <cosponsor thomas_id="00930" joined="2014-05-02"/>
+    <cosponsor thomas_id="01635" joined="2013-04-23"/>
+    <cosponsor thomas_id="02110" joined="2013-08-01"/>
+    <cosponsor thomas_id="01942" joined="2014-05-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-23">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H2168"/>
+    </action>
+    <action datetime="2013-04-23" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-05-01">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee subcommittee="Public Lands and Environmental Regulation" code="HSII10" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="781"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="California"/>
+    <term name="Land transfers"/>
+    <term name="Parks, recreation areas, trails"/>
+  </subjects>
+  <amendments/>
+  <summary>4/23/2013--Introduced.
+Yosemite National Park Boundary Expansion Act of 2013 - Authorizes the Secretary of the Interior to acquire the approximately 1,575 acres of identified land that is adjacent to Yosemite National Park in California for addition to the Park.
+
+Permits an acquisition of such land to be made by donation, purchase from a willing seller, or exchange and revises the boundary of the Park to reflect the acquisition.
+
+Requires the Secretary to administer any acquired land as part of the Park.</summary>
+</bill>

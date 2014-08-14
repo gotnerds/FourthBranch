@@ -1,0 +1,48 @@
+<bill session="113" type="h" number="4638" updated="2014-08-14T13:30:55-04:00">
+  <state datetime="2014-05-09">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-09"/>
+  </status>
+  <introduced datetime="2014-05-09"/>
+  <titles>
+    <title type="official" as="introduced">To designate Union Station in Washington, DC, as the "Harry S. Truman Union Station".</title>
+  </titles>
+  <sponsor thomas_id="01790"/>
+  <cosponsors>
+    <cosponsor thomas_id="01654" joined="2014-05-09"/>
+    <cosponsor thomas_id="01656" joined="2014-05-09"/>
+    <cosponsor thomas_id="02032" joined="2014-05-09"/>
+    <cosponsor thomas_id="02101" joined="2014-05-09"/>
+    <cosponsor thomas_id="02033" joined="2014-05-09"/>
+    <cosponsor thomas_id="01931" joined="2014-05-09"/>
+    <cosponsor thomas_id="00868" joined="2014-05-09"/>
+    <cosponsor thomas_id="02191" joined="2014-05-09"/>
+    <cosponsor thomas_id="02137" joined="2014-05-09"/>
+    <cosponsor thomas_id="02021" joined="2014-05-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-09" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2014-05-12">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Economic Development, Public Buildings and Emergency Management" code="HSPW13" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="2308"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Congressional tributes"/>
+    <term name="District of Columbia"/>
+    <term name="Presidents and presidential powers"/>
+    <term name="Railroads"/>
+  </subjects>
+  <amendments/>
+  <summary>5/9/2014--Introduced.
+Designates Union Station, located at 405 [sic] Massachusetts Avenue, NE., Washington, DC, as the "Harry S. Truman Union Station."</summary>
+</bill>

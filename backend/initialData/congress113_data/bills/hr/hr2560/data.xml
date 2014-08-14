@@ -1,0 +1,98 @@
+<bill session="113" type="h" number="2560" updated="2014-08-14T13:13:19-04:00">
+  <state datetime="2013-06-27">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-27"/>
+  </status>
+  <introduced datetime="2013-06-27"/>
+  <titles>
+    <title type="short" as="introduced">Community College to Career Fund Act</title>
+    <title type="official" as="introduced">To amend the Workforce Investment Act of 1998 to support community college and industry partnerships, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00808"/>
+  <cosponsors>
+    <cosponsor thomas_id="02153" joined="2013-07-10"/>
+    <cosponsor thomas_id="02092" joined="2013-12-19"/>
+    <cosponsor thomas_id="01723" joined="2013-06-27"/>
+    <cosponsor thomas_id="01471" joined="2013-06-27"/>
+    <cosponsor thomas_id="01564" joined="2013-11-20"/>
+    <cosponsor thomas_id="02107" joined="2013-06-27"/>
+    <cosponsor thomas_id="02159" joined="2013-07-09"/>
+    <cosponsor thomas_id="01970" joined="2013-12-12"/>
+    <cosponsor thomas_id="02055" joined="2013-06-28"/>
+    <cosponsor thomas_id="00229" joined="2013-06-27"/>
+    <cosponsor thomas_id="02096" joined="2013-07-08"/>
+    <cosponsor thomas_id="00299" joined="2013-06-27"/>
+    <cosponsor thomas_id="02123" joined="2014-01-09"/>
+    <cosponsor thomas_id="02125" joined="2013-06-28"/>
+    <cosponsor thomas_id="02114" joined="2013-06-27"/>
+    <cosponsor thomas_id="02119" joined="2013-12-12"/>
+    <cosponsor thomas_id="01490" joined="2013-06-27"/>
+    <cosponsor thomas_id="01634" joined="2013-12-19"/>
+    <cosponsor thomas_id="02101" joined="2013-12-19"/>
+    <cosponsor thomas_id="01663" joined="2013-06-27"/>
+    <cosponsor thomas_id="00588" joined="2013-06-27"/>
+    <cosponsor thomas_id="01668" joined="2014-03-06"/>
+    <cosponsor thomas_id="01675" joined="2013-06-27"/>
+    <cosponsor thomas_id="01501" joined="2013-07-10"/>
+    <cosponsor thomas_id="01846" joined="2013-12-12"/>
+    <cosponsor thomas_id="02111" joined="2013-12-09"/>
+    <cosponsor thomas_id="01686" joined="2014-01-13"/>
+    <cosponsor thomas_id="00766" joined="2014-03-26"/>
+    <cosponsor thomas_id="01504" joined="2013-06-27"/>
+    <cosponsor thomas_id="02148" joined="2013-12-19"/>
+    <cosponsor thomas_id="00832" joined="2013-06-27"/>
+    <cosponsor thomas_id="01602" joined="2013-06-27"/>
+    <cosponsor thomas_id="02108" joined="2013-06-27"/>
+    <cosponsor thomas_id="00868" joined="2013-06-27"/>
+    <cosponsor thomas_id="02162" joined="2013-06-28"/>
+    <cosponsor thomas_id="02097" joined="2013-07-15"/>
+    <cosponsor thomas_id="02171" joined="2014-02-03"/>
+    <cosponsor thomas_id="00930" joined="2013-10-09"/>
+    <cosponsor thomas_id="00944" joined="2013-11-19"/>
+    <cosponsor thomas_id="01756" joined="2013-06-27"/>
+    <cosponsor thomas_id="01962" joined="2013-06-27"/>
+    <cosponsor thomas_id="01588" joined="2013-06-27"/>
+    <cosponsor thomas_id="02124" joined="2013-12-19"/>
+    <cosponsor thomas_id="01535" joined="2013-06-27"/>
+    <cosponsor thomas_id="01940" joined="2013-12-04"/>
+    <cosponsor thomas_id="01884" joined="2013-06-28"/>
+    <cosponsor thomas_id="01729" joined="2013-08-02"/>
+    <cosponsor thomas_id="02004" joined="2013-06-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-27" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2013-09-13">
+      <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee subcommittee="Higher Education and Workforce Training" code="HSED13" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="798"/>
+    <bill type="s" session="113" relation="unknown" number="1269"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Business investment and capital"/>
+    <term name="Economic development"/>
+    <term name="Education programs funding"/>
+    <term name="Employee hiring"/>
+    <term name="Employment and training programs"/>
+    <term name="Higher education"/>
+    <term name="Labor-management relations"/>
+    <term name="Performance measurement"/>
+    <term name="Small business"/>
+    <term name="State and local finance"/>
+    <term name="Unemployment"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Wages and earnings"/>
+    <term name="Women in business"/>
+  </subjects>
+  <amendments/>
+  <summary>6/27/2013--Introduced.
+Community College to Career Fund Act - Amends the Workforce Investment Act of 1998 to direct the Secretary of Labor and the Secretary of Education to award competitive grants to: (1) institutions of higher education for educational or career training programs for workers, (2) state or local organizations in partnership with community colleges and other training providers for pay-for-performance projects and pay-for-success job training projects, (3) state or local governments to provide job training or recruiting activities necessary to provide skilled workers for businesses that have relocated or are considering relocating operations outside the United States but may instead relocate them to areas served by those governments, and (4) institutions of higher education in partnership with local or regional economic development entities to provide training in starting a small business and entrepreneurship.</summary>
+</bill>

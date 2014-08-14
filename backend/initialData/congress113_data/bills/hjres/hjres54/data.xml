@@ -1,0 +1,44 @@
+<bill session="113" type="hj" number="54" updated="2014-08-14T13:38:01-04:00">
+  <state datetime="2013-07-24">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-24"/>
+  </status>
+  <introduced datetime="2013-07-24"/>
+  <titles>
+    <title type="official" as="introduced">Proposing an amendment to the Constitution of the United States relating to the use of foreign law as authority in Federal courts.</title>
+  </titles>
+  <sponsor thomas_id="01670"/>
+  <cosponsors>
+    <cosponsor thomas_id="01753" joined="2013-07-24"/>
+    <cosponsor thomas_id="02058" joined="2013-07-24"/>
+    <cosponsor thomas_id="00603" joined="2013-07-24"/>
+    <cosponsor thomas_id="02059" joined="2013-07-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-24" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-09-13">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Constitution and Civil Justice" code="HSJU10" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+    <term name="Constitution and constitutional amendments"/>
+    <term name="Federal appellate courts"/>
+    <term name="Federal district courts"/>
+    <term name="International law and treaties"/>
+    <term name="Judicial procedure and administration"/>
+    <term name="Religion"/>
+    <term name="State and local courts"/>
+    <term name="Supreme Court"/>
+  </subjects>
+  <amendments/>
+  <summary>7/24/2013--Introduced.
+Constitutional Amendment - Prohibits U.S. courts, including the Supreme Court, from basing opinions or rulings on international laws, treaties, or religious laws. Makes any action of a court in violation of such prohibition null and void.</summary>
+</bill>

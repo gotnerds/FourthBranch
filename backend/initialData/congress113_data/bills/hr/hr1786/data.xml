@@ -1,0 +1,106 @@
+<bill session="113" type="h" number="1786" updated="2014-08-14T13:05:57-04:00">
+  <state datetime="2014-07-14T15:37:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-07-14T15:37:00-04:00"/>
+  </status>
+  <introduced datetime="2013-04-26"/>
+  <titles>
+    <title type="short" as="introduced">National Windstorm Impact Reduction Act Reauthorization of 2013</title>
+    <title type="short" as="passed house">National Windstorm Impact Reduction Act Reauthorization of 2014</title>
+    <title type="official" as="introduced">To reauthorize the National Windstorm Impact Reduction Program, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01758"/>
+  <cosponsors>
+    <cosponsor thomas_id="01487" joined="2013-06-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-26" state="REFERRED">
+      <text>Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-04-26">
+      <text>Referred to House Science, Space, and Technology</text>
+    </action>
+    <action datetime="2013-04-26">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2013-04-29">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+    </action>
+    <action datetime="2013-06-24">
+      <text>Referred to the Subcommittee on Research and Technology.</text>
+    </action>
+    <action datetime="2013-06-28">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2013-06-28" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+    <action datetime="2014-02-28">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-02-28">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2014-03-13T16:59:00-04:00">
+      <text>Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 113-380, Part I.</text>
+    </action>
+    <action datetime="2014-03-13T16:59:00-04:00">
+      <text>Committee on Transportation discharged.</text>
+    </action>
+    <calendar datetime="2014-03-13T16:59:00-04:00" calendar="Union" number="282">
+      <text>Placed on the Union Calendar, Calendar No. 282.</text>
+    </calendar>
+    <action datetime="2014-07-14T15:26:00-04:00">
+      <text>Mr. Smith (TX) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2014-07-14T15:26:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref=" CR H6144-6147" label="consideration"/>
+    </action>
+    <action datetime="2014-07-14T15:26:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1786.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-07-14T15:37:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H6144-6145" label="text"/>
+    </vote>
+    <action datetime="2014-07-14T15:38:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-07-15">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSSY" name="House Science, Space, and Technology" activity="Referral, Markup, Reporting, In Committee"/>
+    <committee subcommittee="Research and Technology" code="HSSY15" name="House Science, Space, and Technology" activity="Referral"/>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Discharged, In Committee"/>
+    <committee subcommittee="Economic Development, Public Buildings and Emergency Management" code="HSPW13" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="" code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Advisory bodies"/>
+    <term name="Atmospheric science and weather"/>
+    <term name="Building construction"/>
+    <term name="Department of Commerce"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Emergency planning and evacuation"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal Emergency Management Agency (FEMA)"/>
+    <term name="National Science Foundation"/>
+    <term name="Natural disasters"/>
+    <term name="Research administration and funding"/>
+    <term name="Research and development"/>
+  </subjects>
+  <amendments/>
+  <summary>4/26/2013--Introduced.
+National Windstorm Impact Reduction Reauthorization Act of 2013 - Amends the National Windstorm Impact Reduction Act of 2004 to revise provisions governing the National Windstorm Impact Reduction Program. Designates the National Institute of Standards and Technology (NIST) as the entity with primary responsibility for Program planning and coordination.
+
+Replaces provisions establishing an Interagency Working Group with provisions establishing the Interagency Coordinating Committee on Windstorm Impact Reduction. Directs the Committee to submit a Strategic Plan for the Program that includes: (1) prioritized goals that will mitigate against the loss of life and property from future windstorms; (2) research objectives to achieve those goals; (3) a description of the role of each Program agency in achieving such goals; (4) the methods by which progress will be assessed; and (5) an explanation of how the Program will foster the transfer of research results into outcomes, such as improved model building codes. Requires the Committee to submit a progress report and to develop a coordinated budget for the Program, to be submitted at the time of the President's annual budget submission.
+
+Revises provisions providing for the establishment of an Advisory Committee on Windstorm Impact Reduction (currently, the National Advisory Committee on Windstorm Impact Reduction) to offer assessments of the Program, including assessments of the priorities of the Strategic Plan. Terminates the Committee on September 30, 2016.
+
+Authorizes appropriations to the agencies carrying out the Program for FY2014-FY2016.</summary>
+</bill>

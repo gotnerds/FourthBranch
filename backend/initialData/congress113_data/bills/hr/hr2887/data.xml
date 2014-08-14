@@ -1,0 +1,57 @@
+<bill session="113" type="h" number="2887" updated="2014-08-14T13:16:05-04:00">
+  <state datetime="2013-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-31"/>
+  </status>
+  <introduced datetime="2013-07-31"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act to provide assistance for condominiums and housing cooperatives damaged by a major disaster, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01663"/>
+  <cosponsors>
+    <cosponsor thomas_id="02153" joined="2013-11-18"/>
+    <cosponsor thomas_id="01564" joined="2013-09-11"/>
+    <cosponsor thomas_id="01864" joined="2013-07-31"/>
+    <cosponsor thomas_id="01604" joined="2013-07-31"/>
+    <cosponsor thomas_id="00344" joined="2013-07-31"/>
+    <cosponsor thomas_id="00371" joined="2013-08-02"/>
+    <cosponsor thomas_id="01913" joined="2013-09-30"/>
+    <cosponsor thomas_id="01580" joined="2013-10-07"/>
+    <cosponsor thomas_id="02149" joined="2013-07-31"/>
+    <cosponsor thomas_id="00635" joined="2013-07-31"/>
+    <cosponsor thomas_id="00729" joined="2013-07-31"/>
+    <cosponsor thomas_id="01503" joined="2013-07-31"/>
+    <cosponsor thomas_id="02148" joined="2013-07-31"/>
+    <cosponsor thomas_id="00850" joined="2013-07-31"/>
+    <cosponsor thomas_id="00887" joined="2013-07-31"/>
+    <cosponsor thomas_id="01510" joined="2013-07-31"/>
+    <cosponsor thomas_id="01818" joined="2013-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-31" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2013-08-01">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Economic Development, Public Buildings and Emergency Management" code="HSPW13" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="1480"/>
+    <bill type="s" session="113" relation="unknown" number="1480"/>
+  </relatedbills>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Cooperative and condominium housing"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Housing and community development funding"/>
+  </subjects>
+  <amendments/>
+  <summary>7/31/2013--Introduced.
+Amends the Robert T. Stafford Disaster Relief and Emergency Assistance Act to include a condominium or housing cooperative association as an "individual" or "household" for purposes of the provision of federal disaster assistance (thus authorizing assistance for condominiums and housing cooperatives damaged by a major disaster).
+
+Requires the President to determine the maximum amount of assistance that any such association may receive under such Act for a single disaster.</summary>
+</bill>

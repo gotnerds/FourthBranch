@@ -1,0 +1,126 @@
+<bill session="113" type="h" number="3323" updated="2014-08-14T13:19:46-04:00">
+  <state datetime="2013-10-23">REFERRED</state>
+  <status>
+    <introduced datetime="2013-10-23"/>
+  </status>
+  <introduced datetime="2013-10-23"/>
+  <titles>
+    <title type="short" as="introduced">Children in Families First Act of 2013</title>
+    <title type="official" as="introduced">To realign structures and reallocate resources in the Federal Government, in keeping with the core American belief that families are the best protection for children and the bedrock of any society, to bolster United States diplomacy and assistance targeted at ensuring that every child can grow up in a permanent, safe, nurturing, and loving family, and to strengthen intercountry adoption to the United States and around the world and ensure that it becomes a viable and fully developed option for providing families for children in need, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01487"/>
+  <cosponsors>
+    <cosponsor thomas_id="01858" joined="2013-10-23"/>
+    <cosponsor thomas_id="01996" joined="2013-10-23"/>
+    <cosponsor thomas_id="01740" joined="2013-12-11"/>
+    <cosponsor thomas_id="02063" joined="2013-10-23"/>
+    <cosponsor thomas_id="02092" joined="2013-10-23"/>
+    <cosponsor thomas_id="01845" joined="2013-10-23"/>
+    <cosponsor thomas_id="02129" joined="2013-10-23"/>
+    <cosponsor thomas_id="01676" joined="2013-11-20"/>
+    <cosponsor thomas_id="01878" joined="2013-12-09"/>
+    <cosponsor thomas_id="00231" joined="2013-10-23"/>
+    <cosponsor thomas_id="01717" joined="2013-10-23"/>
+    <cosponsor thomas_id="00303" joined="2013-10-23"/>
+    <cosponsor thomas_id="01707" joined="2013-10-23"/>
+    <cosponsor thomas_id="01663" joined="2013-10-23"/>
+    <cosponsor thomas_id="00588" joined="2013-10-23"/>
+    <cosponsor thomas_id="00599" joined="2013-10-23"/>
+    <cosponsor thomas_id="02172" joined="2013-12-12"/>
+    <cosponsor thomas_id="01668" joined="2013-10-23"/>
+    <cosponsor thomas_id="01504" joined="2013-12-03"/>
+    <cosponsor thomas_id="02117" joined="2013-10-23"/>
+    <cosponsor thomas_id="02162" joined="2013-10-28"/>
+    <cosponsor thomas_id="01955" joined="2013-10-23"/>
+    <cosponsor thomas_id="02023" joined="2013-10-28"/>
+    <cosponsor thomas_id="02017" joined="2013-12-09"/>
+    <cosponsor thomas_id="01635" joined="2013-10-28"/>
+    <cosponsor thomas_id="01798" joined="2013-11-12"/>
+    <cosponsor thomas_id="01041" joined="2013-10-23"/>
+    <cosponsor thomas_id="01818" joined="2013-10-23"/>
+    <cosponsor thomas_id="02110" joined="2013-10-23"/>
+    <cosponsor thomas_id="02004" joined="2013-11-12"/>
+    <cosponsor thomas_id="01238" joined="2013-11-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-10-23" state="REFERRED">
+      <text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-10-23">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2013-10-23">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2014-01-09">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+    <action datetime="2014-01-09">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Immigration and Border Security" code="HSJU01" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="4143"/>
+    <bill type="s" session="113" relation="unknown" number="1530"/>
+    <bill type="s" session="113" relation="unknown" number="2475"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Adoption and foster care"/>
+    <term name="Child care and development"/>
+    <term name="Child health"/>
+    <term name="Child safety and welfare"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Department of State"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Domestic violence and child abuse"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Family relationships"/>
+    <term name="Family services"/>
+    <term name="Federal officials"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Human rights"/>
+    <term name="Human trafficking"/>
+    <term name="Immigration status and procedures"/>
+    <term name="International law and treaties"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Military assistance, sales, and agreements"/>
+    <term name="Nutrition and diet"/>
+    <term name="Public-private cooperation"/>
+    <term name="U.S. Agency for International Development (USAID)"/>
+    <term name="United Nations"/>
+    <term name="Visas and passports"/>
+  </subjects>
+  <amendments/>
+  <summary>10/23/2013--Introduced.
+Children in Families First Act of 2013 - Establishes within the Department of State the Bureau of Vulnerable Children and Family Security which shall: (1) support the implementation in foreign countries of child welfare laws and policies; and (2) establish within the Bureau a Senior Coordinator for Permanence who shall lead the implementation of policies to ensure permanent family care for children living without families, including refugee and stateless children.
+
+States that the Bureau shall be headed by an Assistant Secretary and have lead responsibility for representing the U.S. government in diplomatic contacts pertaining to intercountry adoptions.
+
+	Amends the Intercountry Adoption Act of 2000 to direct the Secretary of Homeland Security (DHS), through U.S. Citizenship and Immigration Services (USCIS), to carry out the functions prescribed by the Convention regarding the accreditation of U.S. adoption services providers.
+
+Establishes data bases for: (1) internationally adopted children, and (2) adoption service providers.
+
+Transfers from the Secretary of State to the Field Operations Directorate of USCIS specified adoption-related functions, including accreditation of agencies and approval of persons to provide adoption services and oversight of provider investigations.
+
+Requires the Secretary of Homeland Security (DHS), through USCIS, to: (1) be responsible for processing and case-specific decision making on all intercountry adoption cases, (2) ensure that all intercountry adoption suitability and eligibility determinations of prospective adoptive parents are made in accordance with criteria that comply with the Hague Adoption Convention, (3) ensure that all non-Convention adoption cases undergo specified preprocessing, and (4) be responsible for all case processing steps in Convention and non-Convention adoption petitions on behalf of children whom U.S. parents propose to immigrate to the United States.
+
+Directs the Secretary of State to submit an annual report to Congress regarding children living without families.
+
+Establishes within the U.S. Agency for International Development (USAID) a Center of Excellence on Children in Adversity.
+
+Authorizes the President to provide assistance for programs in developing countries for nutrition, education, care, and protection of children.
+
+Requires USAID to carry out a priority country demonstration program implementing the (December 2012) Action Plan for Children in Adversity over a period of five years in at least six countries.
+
+Prohibits: (1) the authorization of appropriations to carry out this Act, and (2) funds from being awarded to the United Nations (U.N.) or any of its subsidiaries.</summary>
+</bill>

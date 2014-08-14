@@ -1,0 +1,82 @@
+<bill session="113" type="h" number="2734" updated="2014-08-14T13:14:46-04:00">
+  <state datetime="2013-07-18">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-18"/>
+  </status>
+  <introduced datetime="2013-07-18"/>
+  <titles>
+    <title type="short" as="introduced">Garrett Lee Smith Memorial Act Reauthorization of 2013</title>
+    <title type="official" as="introduced">To revise and extend provisions under the Garrett Lee Smith Memorial Act.</title>
+  </titles>
+  <sponsor thomas_id="01925"/>
+  <cosponsors>
+    <cosponsor thomas_id="00099" joined="2014-07-08"/>
+    <cosponsor thomas_id="01889" joined="2013-10-16"/>
+    <cosponsor thomas_id="02159" joined="2014-01-08"/>
+    <cosponsor thomas_id="01970" joined="2013-10-03"/>
+    <cosponsor thomas_id="02055" joined="2014-01-09"/>
+    <cosponsor thomas_id="01654" joined="2013-10-03"/>
+    <cosponsor thomas_id="01477" joined="2013-07-18"/>
+    <cosponsor thomas_id="02126" joined="2013-12-12"/>
+    <cosponsor thomas_id="02123" joined="2013-11-14"/>
+    <cosponsor thomas_id="01857" joined="2013-10-08"/>
+    <cosponsor thomas_id="02043" joined="2014-05-06"/>
+    <cosponsor thomas_id="02041" joined="2014-06-24"/>
+    <cosponsor thomas_id="02010" joined="2013-10-29"/>
+    <cosponsor thomas_id="02170" joined="2014-03-05"/>
+    <cosponsor thomas_id="01580" joined="2014-01-08"/>
+    <cosponsor thomas_id="01921" joined="2013-10-02"/>
+    <cosponsor thomas_id="00599" joined="2013-09-26"/>
+    <cosponsor thomas_id="00688" joined="2013-10-08"/>
+    <cosponsor thomas_id="01781" joined="2013-12-12"/>
+    <cosponsor thomas_id="00701" joined="2013-12-03"/>
+    <cosponsor thomas_id="02111" joined="2013-10-10"/>
+    <cosponsor thomas_id="00766" joined="2013-10-29"/>
+    <cosponsor thomas_id="01504" joined="2014-01-08"/>
+    <cosponsor thomas_id="01505" joined="2014-05-20"/>
+    <cosponsor thomas_id="00832" joined="2013-10-29"/>
+    <cosponsor thomas_id="02108" joined="2014-07-31"/>
+    <cosponsor thomas_id="00868" joined="2013-10-08"/>
+    <cosponsor thomas_id="02162" joined="2013-10-10"/>
+    <cosponsor thomas_id="00930" joined="2013-10-10"/>
+    <cosponsor thomas_id="01728" joined="2013-10-16"/>
+    <cosponsor thomas_id="01890" joined="2013-10-02"/>
+    <cosponsor thomas_id="01942" joined="2013-10-08"/>
+    <cosponsor thomas_id="01256" joined="2013-10-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-18" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-07-19">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="3717"/>
+    <bill type="s" session="113" relation="unknown" number="116"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Child health"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Higher education"/>
+    <term name="Mental health"/>
+    <term name="Public-private cooperation"/>
+  </subjects>
+  <amendments/>
+  <summary>7/18/2013--Introduced.
+Garrett Lee Smith Memorial Act Reauthorization of 2013 - Amends the Public Health Service Act to reauthorize and revise a research, training, and technical assistance resource center to prevent suicides (the Suicide Prevention Resource Center). Expands the program's focus from youth suicides to suicides among all ages, particularly among groups that are at high risk for suicide. Repeals authority for grants to establish research, training, and technical assistance centers related to mental health, substance abuse and the justice system.
+
+Reauthorizes a program of grants for the development of state or tribal youth suicide early intervention and prevention strategies.
+
+Reauthorizes and revises a grant program to enhance services for students with mental health or substance use disorders at institutions of higher education. Requires the Secretary of Health and Human Services (HHS) (who currently is merely authorized), acting through the Director of the Center for Mental Health Services, to award grants to enhance such services and to develop best practices for the delivery of such services. Permits grant funds to be used for the provision of such services to students and to employ appropriately trained staff. Requires the Secretary to give special consideration to applications for grants that describe programs that demonstrate the greatest need for new or additional mental and substance use disorder services and the greatest potential for replication.</summary>
+</bill>

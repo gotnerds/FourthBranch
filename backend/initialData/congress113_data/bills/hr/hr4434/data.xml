@@ -1,0 +1,84 @@
+<bill session="113" type="h" number="4434" updated="2014-08-14T13:29:12-04:00">
+  <state datetime="2014-04-09">REFERRED</state>
+  <status>
+    <introduced datetime="2014-04-09"/>
+  </status>
+  <introduced datetime="2014-04-09"/>
+  <titles>
+    <title type="short" as="introduced">Africa Counter Terrorism Initiative Act</title>
+    <title type="official" as="introduced">To require the Secretary of Defense to develop a plan to move United States Africa Command (AFRICOM) back to the continental United States, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01710"/>
+  <cosponsors>
+    <cosponsor thomas_id="02063" joined="2014-04-09"/>
+    <cosponsor thomas_id="01787" joined="2014-04-09"/>
+    <cosponsor thomas_id="01468" joined="2014-04-09"/>
+    <cosponsor thomas_id="00165" joined="2014-04-09"/>
+    <cosponsor thomas_id="00166" joined="2014-04-09"/>
+    <cosponsor thomas_id="01956" joined="2014-04-09"/>
+    <cosponsor thomas_id="01912" joined="2014-04-09"/>
+    <cosponsor thomas_id="01742" joined="2014-04-09"/>
+    <cosponsor thomas_id="02103" joined="2014-04-09"/>
+    <cosponsor thomas_id="01774" joined="2014-04-09"/>
+    <cosponsor thomas_id="01989" joined="2014-04-09"/>
+    <cosponsor thomas_id="02126" joined="2014-04-09"/>
+    <cosponsor thomas_id="01995" joined="2014-04-09"/>
+    <cosponsor thomas_id="01717" joined="2014-04-09"/>
+    <cosponsor thomas_id="02057" joined="2014-04-09"/>
+    <cosponsor thomas_id="01707" joined="2014-04-09"/>
+    <cosponsor thomas_id="01743" joined="2014-04-09"/>
+    <cosponsor thomas_id="02143" joined="2014-04-09"/>
+    <cosponsor thomas_id="01640" joined="2014-04-09"/>
+    <cosponsor thomas_id="00612" joined="2014-04-09"/>
+    <cosponsor thomas_id="02025" joined="2014-04-09"/>
+    <cosponsor thomas_id="02014" joined="2014-04-09"/>
+    <cosponsor thomas_id="02100" joined="2014-04-09"/>
+    <cosponsor thomas_id="01834" joined="2014-04-09"/>
+    <cosponsor thomas_id="00666" joined="2014-04-09"/>
+    <cosponsor thomas_id="00699" joined="2014-04-09"/>
+    <cosponsor thomas_id="01806" joined="2014-04-09"/>
+    <cosponsor thomas_id="00979" joined="2014-04-09"/>
+    <cosponsor thomas_id="00985" joined="2014-04-09"/>
+    <cosponsor thomas_id="01525" joined="2014-04-09"/>
+    <cosponsor thomas_id="01988" joined="2014-04-09"/>
+    <cosponsor thomas_id="01681" joined="2014-04-09"/>
+    <cosponsor thomas_id="02047" joined="2014-04-09"/>
+    <cosponsor thomas_id="01566" joined="2014-04-09"/>
+    <cosponsor thomas_id="01593" joined="2014-04-09"/>
+    <cosponsor thomas_id="01664" joined="2014-04-09"/>
+    <cosponsor thomas_id="02105" joined="2014-04-09"/>
+    <cosponsor thomas_id="01779" joined="2014-04-09"/>
+    <cosponsor thomas_id="01688" joined="2014-04-09"/>
+    <cosponsor thomas_id="02019" joined="2014-04-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-04-09" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional oversight"/>
+    <term name="Europe"/>
+    <term name="Germany"/>
+    <term name="Military assistance, sales, and agreements"/>
+    <term name="Military command and structure"/>
+    <term name="Military facilities and property"/>
+    <term name="Military readiness"/>
+    <term name="Portugal"/>
+    <term name="Spain"/>
+  </subjects>
+  <amendments/>
+  <summary>4/9/2014--Introduced.
+Africa Counter Terrorism Initiative Act - Directs the Secretary of Defense (DOD) to develop, submit to Congress, and implement within one year after enactment of this Act a plan to transfer the headquarters of AFRICOM from Stuttgart, Germany, to a location in the continental United States.
+
+Requires the plan to provide for: (1) the 65th Air Base Wing to be an AFRICOM asset; (2) AFRICOM permanent assets to be located at Lajes Field, Azores, Portugal; (3) the transfer of U.S. assets at Lajes Field from United States European Command to AFRICOM for purposes of being the forward operating location, logistical hub, and location of AFRICOM assets; and (4) the relocation of the Special-Purpose Marine Air-Ground Task Force Crisis Response (SP-MAGTF CR) from Moron Air Base, Spain, to Lajes Field.
+
+Directs the Secretary to conduct a review of the Agreement on Cooperation and Defense Between the United States and Portugal, signed at Lisbon on June 1, 1995, to ensure that such Agreement accurately reflects and accounts for such plan.
+
+Requires Lajes Field to continue operating 24 hours a day, at or above its 2012 levels of readiness, effective until at least the date of completion of the 2018 quadrennial defense review.</summary>
+</bill>

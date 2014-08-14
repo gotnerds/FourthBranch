@@ -1,0 +1,82 @@
+<bill session="113" type="h" number="2675" updated="2014-08-14T13:14:16-04:00">
+  <state datetime="2013-07-11">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-11"/>
+  </status>
+  <introduced datetime="2013-07-11"/>
+  <titles>
+    <title type="short" as="introduced">Government Transformation Act</title>
+    <title type="official" as="introduced">To establish the Commission on Government Transformation to make recommendations to improve the economy, efficiency, and effectiveness, of Federal programs, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02127"/>
+  <cosponsors>
+    <cosponsor thomas_id="01780" joined="2013-07-16"/>
+    <cosponsor thomas_id="02102" joined="2013-07-16"/>
+    <cosponsor thomas_id="00091" joined="2013-07-16"/>
+    <cosponsor thomas_id="01845" joined="2013-07-16"/>
+    <cosponsor thomas_id="02106" joined="2013-07-17"/>
+    <cosponsor thomas_id="02107" joined="2013-07-16"/>
+    <cosponsor thomas_id="01889" joined="2013-10-23"/>
+    <cosponsor thomas_id="02055" joined="2013-07-11"/>
+    <cosponsor thomas_id="01912" joined="2013-07-11"/>
+    <cosponsor thomas_id="00231" joined="2013-07-16"/>
+    <cosponsor thomas_id="01799" joined="2013-07-11"/>
+    <cosponsor thomas_id="02072" joined="2013-07-11"/>
+    <cosponsor thomas_id="02125" joined="2013-07-16"/>
+    <cosponsor thomas_id="00371" joined="2013-07-17"/>
+    <cosponsor thomas_id="01797" joined="2013-07-11"/>
+    <cosponsor thomas_id="02122" joined="2013-07-17"/>
+    <cosponsor thomas_id="02120" joined="2013-10-30"/>
+    <cosponsor thomas_id="02043" joined="2013-07-17"/>
+    <cosponsor thomas_id="00462" joined="2013-09-19"/>
+    <cosponsor thomas_id="02101" joined="2013-07-16"/>
+    <cosponsor thomas_id="01907" joined="2013-07-19"/>
+    <cosponsor thomas_id="02145" joined="2013-10-04"/>
+    <cosponsor thomas_id="01781" joined="2013-07-16"/>
+    <cosponsor thomas_id="01846" joined="2013-07-11"/>
+    <cosponsor thomas_id="02111" joined="2013-07-17"/>
+    <cosponsor thomas_id="01943" joined="2013-07-11"/>
+    <cosponsor thomas_id="02150" joined="2013-07-16"/>
+    <cosponsor thomas_id="01671" joined="2013-07-11"/>
+    <cosponsor thomas_id="02117" joined="2013-07-11"/>
+    <cosponsor thomas_id="00867" joined="2013-07-16"/>
+    <cosponsor thomas_id="01974" joined="2013-07-19"/>
+    <cosponsor thomas_id="02113" joined="2013-07-16"/>
+    <cosponsor thomas_id="02109" joined="2013-07-11"/>
+    <cosponsor thomas_id="01950" joined="2013-07-11"/>
+    <cosponsor thomas_id="02099" joined="2013-07-16"/>
+    <cosponsor thomas_id="01879" joined="2013-07-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-11" state="REFERRED">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-07-11">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2013-07-11">
+      <text>Referred to House Rules</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee subcommittee="" code="HSRU" name="House Rules" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1297"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Advisory bodies"/>
+    <term name="Congressional oversight"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Legislative rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>7/11/2013--Introduced.
+Government Transformation Act - Establishes the Commission on Government Transformation. Directs the Commission to: (1) review work done by governmental and non-governmental entities and conduct research on the organizational practices, operations, and reform efforts of federal agencies; (2) analyze organizational practices and management challenges of federal agencies; (3) assess federal programs for economy, efficiency, and effectiveness and identify best practices; (4) upon request, provide information on Commission activities to the Government Accountability Office (GAO), the Congressional Budget Office (CBO), the Office of Management and Budget (OMB), other federal agency heads, and the Office of Inspector General of each federal agency; and (5) serve as a repository for best practices for federal agencies. Requires the Commission to make interim and annual reports on its activities to the President and Congress and make such reports available to the public.
+
+Provides for expedited congressional consideration of legislation to implement recommendations of the Commission.</summary>
+</bill>

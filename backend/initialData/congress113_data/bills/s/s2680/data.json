@@ -1,0 +1,91 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-29", 
+      "committees": [
+        "SSFI"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Finance.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2680-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Finance", 
+      "committee_id": "SSFI"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Walsh, John E.", 
+      "sponsored_at": "2014-07-29", 
+      "state": "MT", 
+      "thomas_id": "02198", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-07-29", 
+  "number": "2680", 
+  "official_title": "A bill to direct the Secretary of Commerce to establish a voluntary program under which manufacturers may have products certified as meeting the standards of labels that indicate to consumers the extent to which the products are manufactured in the United States, to amend the Internal Revenue Code of 1986 to allow a credit against income tax for equity investments in small business concerns, to establish small business savings accounts, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr4931-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2497-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Buy it in America Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Pryor, Mark L.", 
+    "state": "AR", 
+    "thomas_id": "01701", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-07-29", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Buy it in America Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to direct the Secretary of Commerce to establish a voluntary program under which manufacturers may have products certified as meeting the standards of labels that indicate to consumers the extent to which the products are manufactured in the United States, to amend the Internal Revenue Code of 1986 to allow a credit against income tax for equity investments in small business concerns, to establish small business savings accounts, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T14:07:38-04:00"
+}

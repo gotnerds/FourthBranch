@@ -1,0 +1,52 @@
+<bill session="113" type="hc" number="10" updated="2014-08-14T13:38:40-04:00">
+  <state datetime="2013-01-25">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-25"/>
+  </status>
+  <introduced datetime="2013-01-25"/>
+  <titles>
+    <title type="official" as="introduced">Supporting the goals and ideals of No Name-Calling Week in bringing attention to name-calling of all kinds and providing schools with the tools and inspiration to launch an on-going dialogue about ways to eliminate name-calling and bullying in their communities.</title>
+  </titles>
+  <sponsor thomas_id="00985"/>
+  <cosponsors>
+    <cosponsor thomas_id="02055" joined="2013-01-25"/>
+    <cosponsor thomas_id="01857" joined="2013-05-09"/>
+    <cosponsor thomas_id="01580" joined="2013-01-29"/>
+    <cosponsor thomas_id="01634" joined="2013-01-25"/>
+    <cosponsor thomas_id="01498" joined="2013-01-25"/>
+    <cosponsor thomas_id="01504" joined="2013-02-01"/>
+    <cosponsor thomas_id="00832" joined="2013-01-25"/>
+    <cosponsor thomas_id="00868" joined="2013-01-25"/>
+    <cosponsor thomas_id="02171" joined="2013-01-25"/>
+    <cosponsor thomas_id="01910" joined="2013-01-25"/>
+    <cosponsor thomas_id="01962" joined="2013-01-25"/>
+    <cosponsor thomas_id="01757" joined="2013-02-05"/>
+    <cosponsor thomas_id="01588" joined="2013-01-25"/>
+    <cosponsor thomas_id="02099" joined="2013-01-25"/>
+    <cosponsor thomas_id="01818" joined="2013-01-25"/>
+    <cosponsor thomas_id="01890" joined="2013-01-25"/>
+    <cosponsor thomas_id="01777" joined="2013-02-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-25" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Assault and harassment offenses"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Sex, gender, sexual orientation discrimination"/>
+    <term name="Teaching, teachers, curricula"/>
+  </subjects>
+  <amendments/>
+  <summary>1/25/2013--Introduced.
+Expresses support for the goals and ideals of No Name-Calling Week (an annual week of educational activities to bring attention to name-calling and provide schools with tools to launch an on-going dialogue about ways to eliminate name-calling and bullying in their communities).
+
+Encourages the people of the United States to observe such week with appropriate ceremonies, programs, and activities.</summary>
+</bill>

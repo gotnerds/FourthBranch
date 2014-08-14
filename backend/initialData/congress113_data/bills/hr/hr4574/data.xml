@@ -1,0 +1,183 @@
+<bill session="113" type="h" number="4574" updated="2014-08-14T13:30:23-04:00">
+  <state datetime="2014-05-06">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-06"/>
+  </status>
+  <introduced datetime="2014-05-06"/>
+  <titles>
+    <title type="short" as="introduced">Strengthening Mental Health in Our Communities Act of 2014</title>
+    <title type="short" as="introduced" partial="1">Native American Psychiatric and Mental Health Care Improvement Act</title>
+    <title type="official" as="introduced">To maximize the access of individuals with mental illness to community-based services, to strengthen the impact of such services, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02093"/>
+  <cosponsors>
+    <cosponsor thomas_id="00099" joined="2014-07-22"/>
+    <cosponsor thomas_id="02106" joined="2014-05-28"/>
+    <cosponsor thomas_id="01761" joined="2014-05-28"/>
+    <cosponsor thomas_id="01471" joined="2014-05-28"/>
+    <cosponsor thomas_id="01839" joined="2014-05-28"/>
+    <cosponsor thomas_id="02055" joined="2014-07-29"/>
+    <cosponsor thomas_id="01864" joined="2014-05-28"/>
+    <cosponsor thomas_id="01654" joined="2014-06-09"/>
+    <cosponsor thomas_id="00229" joined="2014-05-28"/>
+    <cosponsor thomas_id="01604" joined="2014-05-28"/>
+    <cosponsor thomas_id="01479" joined="2014-05-06"/>
+    <cosponsor thomas_id="02096" joined="2014-06-09"/>
+    <cosponsor thomas_id="01894" joined="2014-05-28"/>
+    <cosponsor thomas_id="00344" joined="2014-05-28"/>
+    <cosponsor thomas_id="00355" joined="2014-05-28"/>
+    <cosponsor thomas_id="02114" joined="2014-05-28"/>
+    <cosponsor thomas_id="00371" joined="2014-07-10"/>
+    <cosponsor thomas_id="01888" joined="2014-06-17"/>
+    <cosponsor thomas_id="01973" joined="2014-06-09"/>
+    <cosponsor thomas_id="00462" joined="2014-05-28"/>
+    <cosponsor thomas_id="01708" joined="2014-05-28"/>
+    <cosponsor thomas_id="01663" joined="2014-05-28"/>
+    <cosponsor thomas_id="01843" joined="2014-05-29"/>
+    <cosponsor thomas_id="00616" joined="2014-05-28"/>
+    <cosponsor thomas_id="00683" joined="2014-05-28"/>
+    <cosponsor thomas_id="01846" joined="2014-05-28"/>
+    <cosponsor thomas_id="02111" joined="2014-06-09"/>
+    <cosponsor thomas_id="00709" joined="2014-05-28"/>
+    <cosponsor thomas_id="02146" joined="2014-07-22"/>
+    <cosponsor thomas_id="01939" joined="2014-05-28"/>
+    <cosponsor thomas_id="01814" joined="2014-05-06"/>
+    <cosponsor thomas_id="01503" joined="2014-05-28"/>
+    <cosponsor thomas_id="01653" joined="2014-07-24"/>
+    <cosponsor thomas_id="01504" joined="2014-05-28"/>
+    <cosponsor thomas_id="01506" joined="2014-05-28"/>
+    <cosponsor thomas_id="02148" joined="2014-05-28"/>
+    <cosponsor thomas_id="01811" joined="2014-05-28"/>
+    <cosponsor thomas_id="00850" joined="2014-05-29"/>
+    <cosponsor thomas_id="01602" joined="2014-05-06"/>
+    <cosponsor thomas_id="02108" joined="2014-07-31"/>
+    <cosponsor thomas_id="00868" joined="2014-07-16"/>
+    <cosponsor thomas_id="00887" joined="2014-05-28"/>
+    <cosponsor thomas_id="00893" joined="2014-05-29"/>
+    <cosponsor thomas_id="01835" joined="2014-05-28"/>
+    <cosponsor thomas_id="02171" joined="2014-07-10"/>
+    <cosponsor thomas_id="00944" joined="2014-05-28"/>
+    <cosponsor thomas_id="01756" joined="2014-05-28"/>
+    <cosponsor thomas_id="01588" joined="2014-05-28"/>
+    <cosponsor thomas_id="01950" joined="2014-05-28"/>
+    <cosponsor thomas_id="01037" joined="2014-05-28"/>
+    <cosponsor thomas_id="01042" joined="2014-05-28"/>
+    <cosponsor thomas_id="02099" joined="2014-05-28"/>
+    <cosponsor thomas_id="01818" joined="2014-06-09"/>
+    <cosponsor thomas_id="01593" joined="2014-05-28"/>
+    <cosponsor thomas_id="01942" joined="2014-05-06"/>
+    <cosponsor thomas_id="02112" joined="2014-06-10"/>
+    <cosponsor thomas_id="01184" joined="2014-05-28"/>
+    <cosponsor thomas_id="01209" joined="2014-05-28"/>
+    <cosponsor thomas_id="01879" joined="2014-06-09"/>
+    <cosponsor thomas_id="01853" joined="2014-05-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-06" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, the Judiciary, Armed Services, Veterans' Affairs, Education and the Workforce, and Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-05-06">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2014-05-06">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2014-05-06">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2014-05-06">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2014-05-06">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2014-05-06">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2014-05-06">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2014-05-09">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2014-05-16">
+      <text>Referred to the Subcommittee Indian and Alaska Native Affairs.</text>
+    </action>
+    <action datetime="2014-06-13">
+      <text>Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.</text>
+    </action>
+    <action datetime="2014-07-21">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee subcommittee="Early Childhood, Elementary, and Secondary Education" code="HSED14" name="House Education and the Workforce" activity="Referral"/>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Indian and Alaska Native Affairs" code="HSII24" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="401"/>
+    <bill type="h" session="113" relation="unknown" number="628"/>
+    <bill type="h" session="113" relation="unknown" number="1037"/>
+    <bill type="h" session="113" relation="unknown" number="1725"/>
+    <bill type="h" session="113" relation="unknown" number="3662"/>
+    <bill type="h" session="113" relation="unknown" number="4234"/>
+    <bill type="s" session="113" relation="unknown" number="162"/>
+    <bill type="s" session="113" relation="unknown" number="195"/>
+    <bill type="s" session="113" relation="unknown" number="1815"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Advisory bodies"/>
+    <term name="Aging"/>
+    <term name="Allied health services"/>
+    <term name="Child health"/>
+    <term name="Congressional oversight"/>
+    <term name="Correctional facilities and imprisonment"/>
+    <term name="Disability and health-based discrimination"/>
+    <term name="Domestic violence and child abuse"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Executive Office of the President"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal officials"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Health information and medical records"/>
+    <term name="Health personnel"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Homelessness and emergency shelter"/>
+    <term name="Hospital care"/>
+    <term name="Indian social and development programs"/>
+    <term name="Juvenile crime and gang violence"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Lawyers and legal services"/>
+    <term name="Medicaid"/>
+    <term name="Medical education"/>
+    <term name="Medical research"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Medicare"/>
+    <term name="Mental health"/>
+    <term name="Military medicine"/>
+    <term name="Minority health"/>
+    <term name="Performance measurement"/>
+    <term name="Poverty and welfare assistance"/>
+    <term name="Prescription drugs"/>
+    <term name="Research administration and funding"/>
+    <term name="Student aid and college costs"/>
+    <term name="Teaching, teachers, curricula"/>
+    <term name="Veterans' medical care"/>
+    <term name="Violent crime"/>
+  </subjects>
+  <amendments/>
+</bill>

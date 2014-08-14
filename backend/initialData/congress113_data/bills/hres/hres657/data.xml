@@ -1,0 +1,226 @@
+<bill session="113" type="hr" number="657" updated="2014-08-14T12:50:13-04:00">
+  <state datetime="2014-07-11T10:59:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2014-07-11T10:59:00-04:00"/>
+  </status>
+  <introduced datetime="2014-07-08"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the House of Representatives regarding United States support for the State of Israel as it defends itself against unprovoked rocket attacks from the Hamas terrorist organization.</title>
+  </titles>
+  <sponsor thomas_id="01663"/>
+  <cosponsors>
+    <cosponsor thomas_id="01460" joined="2014-07-10"/>
+    <cosponsor thomas_id="02093" joined="2014-07-09"/>
+    <cosponsor thomas_id="02054" joined="2014-07-11"/>
+    <cosponsor thomas_id="01780" joined="2014-07-09"/>
+    <cosponsor thomas_id="01838" joined="2014-07-11"/>
+    <cosponsor thomas_id="00091" joined="2014-07-11"/>
+    <cosponsor thomas_id="01740" joined="2014-07-09"/>
+    <cosponsor thomas_id="01469" joined="2014-07-10"/>
+    <cosponsor thomas_id="01845" joined="2014-07-10"/>
+    <cosponsor thomas_id="02155" joined="2014-07-10"/>
+    <cosponsor thomas_id="01987" joined="2014-07-10"/>
+    <cosponsor thomas_id="00132" joined="2014-07-10"/>
+    <cosponsor thomas_id="02106" joined="2014-07-09"/>
+    <cosponsor thomas_id="01840" joined="2014-07-09"/>
+    <cosponsor thomas_id="02127" joined="2014-07-09"/>
+    <cosponsor thomas_id="01676" joined="2014-07-11"/>
+    <cosponsor thomas_id="00186" joined="2014-07-10"/>
+    <cosponsor thomas_id="02055" joined="2014-07-09"/>
+    <cosponsor thomas_id="02196" joined="2014-07-10"/>
+    <cosponsor thomas_id="01864" joined="2014-07-10"/>
+    <cosponsor thomas_id="02200" joined="2014-07-10"/>
+    <cosponsor thomas_id="01878" joined="2014-07-09"/>
+    <cosponsor thomas_id="01742" joined="2014-07-08"/>
+    <cosponsor thomas_id="02151" joined="2014-07-10"/>
+    <cosponsor thomas_id="01959" joined="2014-07-09"/>
+    <cosponsor thomas_id="02103" joined="2014-07-09"/>
+    <cosponsor thomas_id="01774" joined="2014-07-09"/>
+    <cosponsor thomas_id="01836" joined="2014-07-10"/>
+    <cosponsor thomas_id="01604" joined="2014-07-09"/>
+    <cosponsor thomas_id="01807" joined="2014-07-09"/>
+    <cosponsor thomas_id="01477" joined="2014-07-11"/>
+    <cosponsor thomas_id="02126" joined="2014-07-10"/>
+    <cosponsor thomas_id="01641" joined="2014-07-10"/>
+    <cosponsor thomas_id="00281" joined="2014-07-10"/>
+    <cosponsor thomas_id="01799" joined="2014-07-10"/>
+    <cosponsor thomas_id="01976" joined="2014-07-09"/>
+    <cosponsor thomas_id="01717" joined="2014-07-10"/>
+    <cosponsor thomas_id="02123" joined="2014-07-09"/>
+    <cosponsor thomas_id="02036" joined="2014-07-10"/>
+    <cosponsor thomas_id="00344" joined="2014-07-10"/>
+    <cosponsor thomas_id="02125" joined="2014-07-09"/>
+    <cosponsor thomas_id="02114" joined="2014-07-09"/>
+    <cosponsor thomas_id="02067" joined="2014-07-10"/>
+    <cosponsor thomas_id="01797" joined="2014-07-11"/>
+    <cosponsor thomas_id="01683" joined="2014-07-11"/>
+    <cosponsor thomas_id="02119" joined="2014-07-10"/>
+    <cosponsor thomas_id="00414" joined="2014-07-10"/>
+    <cosponsor thomas_id="01895" joined="2014-07-11"/>
+    <cosponsor thomas_id="02122" joined="2014-07-09"/>
+    <cosponsor thomas_id="02164" joined="2014-07-09"/>
+    <cosponsor thomas_id="02120" joined="2014-07-09"/>
+    <cosponsor thomas_id="01998" joined="2014-07-10"/>
+    <cosponsor thomas_id="01737" joined="2014-07-09"/>
+    <cosponsor thomas_id="02043" joined="2014-07-10"/>
+    <cosponsor thomas_id="00462" joined="2014-07-09"/>
+    <cosponsor thomas_id="01990" joined="2014-07-10"/>
+    <cosponsor thomas_id="02070" joined="2014-07-10"/>
+    <cosponsor thomas_id="02089" joined="2014-07-10"/>
+    <cosponsor thomas_id="02010" joined="2014-07-11"/>
+    <cosponsor thomas_id="02044" joined="2014-07-09"/>
+    <cosponsor thomas_id="02026" joined="2014-07-11"/>
+    <cosponsor thomas_id="00511" joined="2014-07-10"/>
+    <cosponsor thomas_id="01794" joined="2014-07-09"/>
+    <cosponsor thomas_id="01913" joined="2014-07-09"/>
+    <cosponsor thomas_id="01490" joined="2014-07-10"/>
+    <cosponsor thomas_id="01580" joined="2014-07-11"/>
+    <cosponsor thomas_id="02147" joined="2014-07-10"/>
+    <cosponsor thomas_id="02101" joined="2014-07-09"/>
+    <cosponsor thomas_id="02028" joined="2014-07-11"/>
+    <cosponsor thomas_id="02149" joined="2014-07-09"/>
+    <cosponsor thomas_id="01921" joined="2014-07-10"/>
+    <cosponsor thomas_id="01868" joined="2014-07-10"/>
+    <cosponsor thomas_id="02154" joined="2014-07-10"/>
+    <cosponsor thomas_id="02051" joined="2014-07-09"/>
+    <cosponsor thomas_id="02172" joined="2014-07-09"/>
+    <cosponsor thomas_id="00635" joined="2014-07-09"/>
+    <cosponsor thomas_id="02014" joined="2014-07-10"/>
+    <cosponsor thomas_id="01907" joined="2014-07-09"/>
+    <cosponsor thomas_id="02145" joined="2014-07-09"/>
+    <cosponsor thomas_id="01834" joined="2014-07-10"/>
+    <cosponsor thomas_id="01936" joined="2014-07-09"/>
+    <cosponsor thomas_id="01668" joined="2014-07-09"/>
+    <cosponsor thomas_id="02050" joined="2014-07-10"/>
+    <cosponsor thomas_id="01583" joined="2014-07-10"/>
+    <cosponsor thomas_id="00683" joined="2014-07-09"/>
+    <cosponsor thomas_id="00699" joined="2014-07-10"/>
+    <cosponsor thomas_id="01846" joined="2014-07-10"/>
+    <cosponsor thomas_id="02111" joined="2014-07-09"/>
+    <cosponsor thomas_id="00709" joined="2014-07-09"/>
+    <cosponsor thomas_id="00711" joined="2014-07-10"/>
+    <cosponsor thomas_id="01931" joined="2014-07-11"/>
+    <cosponsor thomas_id="01943" joined="2014-07-09"/>
+    <cosponsor thomas_id="00729" joined="2014-07-10"/>
+    <cosponsor thomas_id="02150" joined="2014-07-10"/>
+    <cosponsor thomas_id="02053" joined="2014-07-10"/>
+    <cosponsor thomas_id="01671" joined="2014-07-09"/>
+    <cosponsor thomas_id="02195" joined="2014-07-10"/>
+    <cosponsor thomas_id="01503" joined="2014-07-09"/>
+    <cosponsor thomas_id="01804" joined="2014-07-11"/>
+    <cosponsor thomas_id="02052" joined="2014-07-11"/>
+    <cosponsor thomas_id="02148" joined="2014-07-09"/>
+    <cosponsor thomas_id="01730" joined="2014-07-11"/>
+    <cosponsor thomas_id="02156" joined="2014-07-10"/>
+    <cosponsor thomas_id="02117" joined="2014-07-09"/>
+    <cosponsor thomas_id="01744" joined="2014-07-09"/>
+    <cosponsor thomas_id="00850" joined="2014-07-09"/>
+    <cosponsor thomas_id="02034" joined="2014-07-10"/>
+    <cosponsor thomas_id="01955" joined="2014-07-10"/>
+    <cosponsor thomas_id="01974" joined="2014-07-09"/>
+    <cosponsor thomas_id="00887" joined="2014-07-11"/>
+    <cosponsor thomas_id="01835" joined="2014-07-09"/>
+    <cosponsor thomas_id="02157" joined="2014-07-10"/>
+    <cosponsor thomas_id="01929" joined="2014-07-10"/>
+    <cosponsor thomas_id="02113" joined="2014-07-09"/>
+    <cosponsor thomas_id="00910" joined="2014-07-09"/>
+    <cosponsor thomas_id="01802" joined="2014-07-11"/>
+    <cosponsor thomas_id="01910" joined="2014-07-09"/>
+    <cosponsor thomas_id="02022" joined="2014-07-10"/>
+    <cosponsor thomas_id="01778" joined="2014-07-09"/>
+    <cosponsor thomas_id="01967" joined="2014-07-09"/>
+    <cosponsor thomas_id="00940" joined="2014-07-09"/>
+    <cosponsor thomas_id="01982" joined="2014-07-11"/>
+    <cosponsor thomas_id="02048" joined="2014-07-10"/>
+    <cosponsor thomas_id="02023" joined="2014-07-10"/>
+    <cosponsor thomas_id="02068" joined="2014-07-11"/>
+    <cosponsor thomas_id="01954" joined="2014-07-10"/>
+    <cosponsor thomas_id="00985" joined="2014-07-09"/>
+    <cosponsor thomas_id="01848" joined="2014-07-09"/>
+    <cosponsor thomas_id="02109" joined="2014-07-09"/>
+    <cosponsor thomas_id="01756" joined="2014-07-09"/>
+    <cosponsor thomas_id="01757" joined="2014-07-09"/>
+    <cosponsor thomas_id="01522" joined="2014-07-10"/>
+    <cosponsor thomas_id="01012" joined="2014-07-11"/>
+    <cosponsor thomas_id="01854" joined="2014-07-11"/>
+    <cosponsor thomas_id="01588" joined="2014-07-09"/>
+    <cosponsor thomas_id="01635" joined="2014-07-09"/>
+    <cosponsor thomas_id="02124" joined="2014-07-09"/>
+    <cosponsor thomas_id="01950" joined="2014-07-09"/>
+    <cosponsor thomas_id="01798" joined="2014-07-11"/>
+    <cosponsor thomas_id="01994" joined="2014-07-10"/>
+    <cosponsor thomas_id="01042" joined="2014-07-10"/>
+    <cosponsor thomas_id="01525" joined="2014-07-10"/>
+    <cosponsor thomas_id="01526" joined="2014-07-10"/>
+    <cosponsor thomas_id="01527" joined="2014-07-10"/>
+    <cosponsor thomas_id="02099" joined="2014-07-09"/>
+    <cosponsor thomas_id="01818" joined="2014-07-10"/>
+    <cosponsor thomas_id="02047" joined="2014-07-09"/>
+    <cosponsor thomas_id="02104" joined="2014-07-09"/>
+    <cosponsor thomas_id="02110" joined="2014-07-09"/>
+    <cosponsor thomas_id="01952" joined="2014-07-11"/>
+    <cosponsor thomas_id="01664" joined="2014-07-11"/>
+    <cosponsor thomas_id="01940" joined="2014-07-09"/>
+    <cosponsor thomas_id="02105" joined="2014-07-10"/>
+    <cosponsor thomas_id="02166" joined="2014-07-10"/>
+    <cosponsor thomas_id="01184" joined="2014-07-10"/>
+    <cosponsor thomas_id="02137" joined="2014-07-10"/>
+    <cosponsor thomas_id="01596" joined="2014-07-10"/>
+    <cosponsor thomas_id="02128" joined="2014-07-10"/>
+    <cosponsor thomas_id="01777" joined="2014-07-09"/>
+    <cosponsor thomas_id="01209" joined="2014-07-09"/>
+    <cosponsor thomas_id="02161" joined="2014-07-10"/>
+    <cosponsor thomas_id="02004" joined="2014-07-11"/>
+    <cosponsor thomas_id="01238" joined="2014-07-10"/>
+    <cosponsor thomas_id="01991" joined="2014-07-10"/>
+    <cosponsor thomas_id="02021" joined="2014-07-10"/>
+    <cosponsor thomas_id="01256" joined="2014-07-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-08">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H5833-5834"/>
+    </action>
+    <action datetime="2014-07-08" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2014-07-11T10:58:00-04:00">
+      <text>Mr. Royce asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <action datetime="2014-07-11T10:59:00-04:00">
+      <text>Committee on Foreign Affairs discharged.</text>
+    </action>
+    <action datetime="2014-07-11T10:59:00-04:00">
+      <text>Considered by unanimous consent.</text>
+    </action>
+    <vote how="without objection" type="vote" datetime="2014-07-11T10:59:00-04:00" where="h" result="pass" state="PASSED:SIMPLERES">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+    </vote>
+    <action datetime="2014-07-11T11:01:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill type="sr" session="113" relation="unknown" number="498"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Arab-Israeli relations"/>
+    <term name="Conflicts and wars"/>
+    <term name="Gaza Strip"/>
+    <term name="Israel"/>
+    <term name="Middle East"/>
+    <term name="Palestinians"/>
+    <term name="Sovereignty, recognition, national governance and status"/>
+  </subjects>
+  <amendments>
+    <amendment number="h1051"/>
+  </amendments>
+  <summary>7/11/2014--Passed House without amendment.
+Reaffirms the support of the House of Representatives for Israel's right to defend its citizens and ensure Israel's survival.
+
+ Condemns the unprovoked rocket fire at Israel and calls on Hamas to cease all rocket and other attacks against Israel.</summary>
+</bill>

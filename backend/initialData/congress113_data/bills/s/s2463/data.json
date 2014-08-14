@@ -1,0 +1,147 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-11", 
+      "references": [
+        {
+          "reference": "CR S3605-3606", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-11", 
+      "committees": [
+        "SSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2463-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Boozman, John", 
+      "sponsored_at": "2014-06-25", 
+      "state": "AR", 
+      "thomas_id": "01687", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cruz, Ted", 
+      "sponsored_at": "2014-06-11", 
+      "state": "TX", 
+      "thomas_id": "02175", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Grassley, Chuck", 
+      "sponsored_at": "2014-06-11", 
+      "state": "IA", 
+      "thomas_id": "00457", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Sessions, Jeff", 
+      "sponsored_at": "2014-06-11", 
+      "state": "AL", 
+      "thomas_id": "01548", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Vitter, David", 
+      "sponsored_at": "2014-06-11", 
+      "state": "LA", 
+      "thomas_id": "01609", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-06-11", 
+  "number": "2463", 
+  "official_title": "A bill to amend the Immigration and Nationality Act to provide for extensions of detention of certain aliens ordered removed, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1901-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Keep Our Communities Safe Act of 2014", 
+  "sponsor": {
+    "district": null, 
+    "name": "Inhofe, James M.", 
+    "state": "OK", 
+    "thomas_id": "00583", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-06-11", 
+  "subjects": [
+    "Administrative remedies", 
+    "Border security and unlawful immigration", 
+    "Criminal procedure and sentencing", 
+    "Department of Homeland Security", 
+    "Department of Justice", 
+    "Detention of persons", 
+    "Due process and equal protection", 
+    "Homeland security", 
+    "Immigration", 
+    "Immigration status and procedures", 
+    "Infectious and parasitic diseases", 
+    "Mental health", 
+    "Violent crime"
+  ], 
+  "subjects_top_term": "Immigration", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Keep Our Communities Safe Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to amend the Immigration and Nationality Act to provide for extensions of detention of certain aliens ordered removed, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T14:05:49-04:00"
+}

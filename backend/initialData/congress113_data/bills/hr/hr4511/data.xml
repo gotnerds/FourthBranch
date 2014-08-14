@@ -1,0 +1,66 @@
+<bill session="113" type="h" number="4511" updated="2014-08-14T13:29:51-04:00">
+  <state datetime="2014-04-29">REFERRED</state>
+  <status>
+    <introduced datetime="2014-04-29"/>
+  </status>
+  <introduced datetime="2014-04-29"/>
+  <titles>
+    <title type="short" as="introduced">Protecting Students From Automatic Default Act of 2014</title>
+    <title type="official" as="introduced">To amend the Truth in Lending Act to establish requirements for the treatment of a private education loan upon the death or bankruptcy of a cosigner of the loan.</title>
+  </titles>
+  <sponsor thomas_id="01740"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2014-04-29"/>
+    <cosponsor thomas_id="02092" joined="2014-04-29"/>
+    <cosponsor thomas_id="01564" joined="2014-05-19"/>
+    <cosponsor thomas_id="01864" joined="2014-04-30"/>
+    <cosponsor thomas_id="00229" joined="2014-04-29"/>
+    <cosponsor thomas_id="01836" joined="2014-04-30"/>
+    <cosponsor thomas_id="00256" joined="2014-04-29"/>
+    <cosponsor thomas_id="01641" joined="2014-05-06"/>
+    <cosponsor thomas_id="00281" joined="2014-07-23"/>
+    <cosponsor thomas_id="02125" joined="2014-05-19"/>
+    <cosponsor thomas_id="00371" joined="2014-04-29"/>
+    <cosponsor thomas_id="01973" joined="2014-05-19"/>
+    <cosponsor thomas_id="01794" joined="2014-05-06"/>
+    <cosponsor thomas_id="01490" joined="2014-04-29"/>
+    <cosponsor thomas_id="01668" joined="2014-07-16"/>
+    <cosponsor thomas_id="01846" joined="2014-04-29"/>
+    <cosponsor thomas_id="00729" joined="2014-05-06"/>
+    <cosponsor thomas_id="01503" joined="2014-04-29"/>
+    <cosponsor thomas_id="01504" joined="2014-05-06"/>
+    <cosponsor thomas_id="00832" joined="2014-04-29"/>
+    <cosponsor thomas_id="01835" joined="2014-06-20"/>
+    <cosponsor thomas_id="02113" joined="2014-05-21"/>
+    <cosponsor thomas_id="01927" joined="2014-04-30"/>
+    <cosponsor thomas_id="00944" joined="2014-04-30"/>
+    <cosponsor thomas_id="01069" joined="2014-05-06"/>
+    <cosponsor thomas_id="02110" joined="2014-04-29"/>
+    <cosponsor thomas_id="01535" joined="2014-05-19"/>
+    <cosponsor thomas_id="01940" joined="2014-04-30"/>
+    <cosponsor thomas_id="01879" joined="2014-04-29"/>
+    <cosponsor thomas_id="01853" joined="2014-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-04-29" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Bankruptcy"/>
+    <term name="Consumer affairs"/>
+    <term name="Consumer credit"/>
+    <term name="Higher education"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+  <summary>4/29/2014--Introduced.
+Protecting Students From Automatic Default Act of 2014 - Amends the Truth in Lending Act to require a private educational lender to notify a borrower immediately if, upon receiving notification of the death or bankruptcy of a cosigner jointly liable for the private education loan, the lender deems the borrower to be in default, changes the terms of the loan, or accelerates the loan's repayment terms.
+
+Requires a private educational lender to give a borrower at least 90 days after such a notification to identify a new cosigner for that loan. Retains the lender's right to renegotiate loan terms based on the creditworthiness of the new cosigner.</summary>
+</bill>

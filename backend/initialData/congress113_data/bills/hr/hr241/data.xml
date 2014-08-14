@@ -1,0 +1,68 @@
+<bill session="113" type="h" number="241" updated="2014-08-14T12:52:45-04:00">
+  <state datetime="2013-01-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-14"/>
+  </status>
+  <introduced datetime="2013-01-14"/>
+  <titles>
+    <title type="short" as="introduced">Veterans Timely Access to Health Care Act</title>
+    <title type="official" as="introduced">To direct the Secretary of Veterans Affairs to establish standards of access to care for veterans seeking health care from Department of Veterans Affairs medical facilities, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02003"/>
+  <cosponsors>
+    <cosponsor thomas_id="02093" joined="2013-05-06"/>
+    <cosponsor thomas_id="02135" joined="2013-01-23"/>
+    <cosponsor thomas_id="00211" joined="2013-05-24"/>
+    <cosponsor thomas_id="01742" joined="2013-05-15"/>
+    <cosponsor thomas_id="01989" joined="2013-05-16"/>
+    <cosponsor thomas_id="01979" joined="2013-04-09"/>
+    <cosponsor thomas_id="02070" joined="2013-03-04"/>
+    <cosponsor thomas_id="02015" joined="2013-10-29"/>
+    <cosponsor thomas_id="00612" joined="2013-02-06"/>
+    <cosponsor thomas_id="01733" joined="2013-07-30"/>
+    <cosponsor thomas_id="02100" joined="2013-09-18"/>
+    <cosponsor thomas_id="01584" joined="2013-06-03"/>
+    <cosponsor thomas_id="02156" joined="2013-05-17"/>
+    <cosponsor thomas_id="02060" joined="2013-11-20"/>
+    <cosponsor thomas_id="02034" joined="2013-05-20"/>
+    <cosponsor thomas_id="00893" joined="2013-02-06"/>
+    <cosponsor thomas_id="01915" joined="2013-05-14"/>
+    <cosponsor thomas_id="02068" joined="2013-05-08"/>
+    <cosponsor thomas_id="01861" joined="2014-05-19"/>
+    <cosponsor thomas_id="02099" joined="2013-06-03"/>
+    <cosponsor thomas_id="02047" joined="2013-05-14"/>
+    <cosponsor thomas_id="02105" joined="2013-05-21"/>
+    <cosponsor thomas_id="01222" joined="2013-02-14"/>
+    <cosponsor thomas_id="01886" joined="2013-02-12"/>
+    <cosponsor thomas_id="02115" joined="2013-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-14" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-02-08">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2013-05-21">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSVR03" name="House Veterans' Affairs" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional oversight"/>
+    <term name="Health care coverage and access"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>1/14/2013--Introduced.
+Veterans Timely Access to Health Care Act - Directs the Secretary of Veterans Affairs to ensure that the standard for access to care for a veteran seeking hospital care and medical services from the Department of Veterans Affairs (VA) is 30 days from the date the veteran contacts the VA.
+
+Directs the Secretary to periodically review the performance of VA medical facilities in meeting such standard.
+
+Requires quarterly reports from the Secretary to the congressional veterans' committees on the VA's experience with respect to appointment waiting times.</summary>
+</bill>

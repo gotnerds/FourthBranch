@@ -1,0 +1,42 @@
+<bill session="113" type="h" number="4141" updated="2014-08-14T13:26:44-04:00">
+  <state datetime="2014-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="2014-03-04"/>
+  </status>
+  <introduced datetime="2014-03-04"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to enter into enhanced-use leases for excess property of the National Cemetery Administration that is unsuitable for burial purposes.</title>
+  </titles>
+  <sponsor thomas_id="01643"/>
+  <cosponsors>
+    <cosponsor thomas_id="00132" joined="2014-03-04"/>
+    <cosponsor thomas_id="02116" joined="2014-03-04"/>
+    <cosponsor thomas_id="00322" joined="2014-03-24"/>
+    <cosponsor thomas_id="00612" joined="2014-03-24"/>
+    <cosponsor thomas_id="00800" joined="2014-03-04"/>
+    <cosponsor thomas_id="02115" joined="2014-03-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-03-04" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2014-03-07">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Disability Assistance and Memorial Affairs" code="HSVR09" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Cemeteries and funerals"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Veterans' loans, housing, homeless programs"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/2014--Introduced.
+Authorizes the Secretary of Veterans Affairs (VA) to enter into enhanced-use leases for excess property of the National Cemetery Administration that is unsuitable for burial purposes.</summary>
+</bill>

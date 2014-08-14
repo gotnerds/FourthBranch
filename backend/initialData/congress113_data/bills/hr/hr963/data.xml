@@ -1,0 +1,90 @@
+<bill session="113" type="h" number="963" updated="2014-08-14T12:58:54-04:00">
+  <state datetime="2013-03-05">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-05"/>
+  </status>
+  <introduced datetime="2013-03-05"/>
+  <titles>
+    <title type="short" as="introduced">Coordination of Pro Bono Medically Recommended Dental Care Act</title>
+    <title type="official" as="introduced">To assist low-income individuals in obtaining medically recommended dental care.</title>
+  </titles>
+  <sponsor thomas_id="01479"/>
+  <cosponsors>
+    <cosponsor thomas_id="02153" joined="2013-10-16"/>
+    <cosponsor thomas_id="00099" joined="2014-04-28"/>
+    <cosponsor thomas_id="02092" joined="2013-06-04"/>
+    <cosponsor thomas_id="01845" joined="2013-04-09"/>
+    <cosponsor thomas_id="01839" joined="2013-03-15"/>
+    <cosponsor thomas_id="01654" joined="2013-03-12"/>
+    <cosponsor thomas_id="01912" joined="2013-04-09"/>
+    <cosponsor thomas_id="01959" joined="2013-03-12"/>
+    <cosponsor thomas_id="00229" joined="2014-04-10"/>
+    <cosponsor thomas_id="02133" joined="2014-06-24"/>
+    <cosponsor thomas_id="02096" joined="2014-07-28"/>
+    <cosponsor thomas_id="01976" joined="2014-04-28"/>
+    <cosponsor thomas_id="00344" joined="2014-05-19"/>
+    <cosponsor thomas_id="02119" joined="2013-06-18"/>
+    <cosponsor thomas_id="01663" joined="2014-05-19"/>
+    <cosponsor thomas_id="01498" joined="2014-04-28"/>
+    <cosponsor thomas_id="01501" joined="2013-03-19"/>
+    <cosponsor thomas_id="00683" joined="2013-03-15"/>
+    <cosponsor thomas_id="00701" joined="2014-05-19"/>
+    <cosponsor thomas_id="02111" joined="2014-05-19"/>
+    <cosponsor thomas_id="01503" joined="2014-06-10"/>
+    <cosponsor thomas_id="01504" joined="2013-05-15"/>
+    <cosponsor thomas_id="02148" joined="2014-05-19"/>
+    <cosponsor thomas_id="01730" joined="2013-03-12"/>
+    <cosponsor thomas_id="01811" joined="2013-04-09"/>
+    <cosponsor thomas_id="01835" joined="2013-06-11"/>
+    <cosponsor thomas_id="00910" joined="2014-04-28"/>
+    <cosponsor thomas_id="01927" joined="2013-04-09"/>
+    <cosponsor thomas_id="02171" joined="2014-05-06"/>
+    <cosponsor thomas_id="01910" joined="2013-05-22"/>
+    <cosponsor thomas_id="01915" joined="2014-04-08"/>
+    <cosponsor thomas_id="00940" joined="2014-05-06"/>
+    <cosponsor thomas_id="01722" joined="2014-04-09"/>
+    <cosponsor thomas_id="01861" joined="2013-05-22"/>
+    <cosponsor thomas_id="01590" joined="2013-05-07"/>
+    <cosponsor thomas_id="01818" joined="2013-05-15"/>
+    <cosponsor thomas_id="01069" joined="2014-04-30"/>
+    <cosponsor thomas_id="01071" joined="2013-05-15"/>
+    <cosponsor thomas_id="02047" joined="2013-03-05"/>
+    <cosponsor thomas_id="01940" joined="2013-07-09"/>
+    <cosponsor thomas_id="01942" joined="2014-04-09"/>
+    <cosponsor thomas_id="02112" joined="2013-05-16"/>
+    <cosponsor thomas_id="01209" joined="2014-04-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-05" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-03-08">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="466"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Child health"/>
+    <term name="Dental care"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health personnel"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Medicaid"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>3/5/2013--Introduced.
+Coordination of Pro Bono Medically Recommended Dental Care Act - Amends the Public Health Service Act to direct the Secretary of Health and Human Services (HHS) to award competitive grants to, or enter into contracts with, eligible entities to maximize the number of eligible low-income individuals receiving dental care.
+
+Requires an entity to use amounts received under a grant or contract to fund the employment costs of a program to: (1) coordinate the provision of free, medically recommended dental care to eligible low-income individuals by volunteer dentists in a manner consistent with state licensing laws; and (2) verify the medical, dental, and financial needs of individuals who may be eligible for such dental services.
+
+Requires an eligible: (1) entity to be tax-exempt and provide for the participation of eligible individuals in a free dental services program; and (2) individual to be entitled to benefits or be enrolled under Medicare, Medicaid, or a state plan or waiver under the State Children's Health Insurance Program (CHIP).</summary>
+</bill>

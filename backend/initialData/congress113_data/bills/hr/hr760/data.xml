@@ -1,0 +1,60 @@
+<bill session="113" type="h" number="760" updated="2014-08-14T12:57:12-04:00">
+  <state datetime="2013-02-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-15"/>
+  </status>
+  <introduced datetime="2013-02-15"/>
+  <titles>
+    <title type="short" as="introduced">Readable Legislation Act of 2013</title>
+    <title type="official" as="introduced">To amend chapter 2 of title I of the United States Code to establish the style for amending laws.</title>
+  </titles>
+  <sponsor thomas_id="02029"/>
+  <cosponsors>
+    <cosponsor thomas_id="02135" joined="2013-03-15"/>
+    <cosponsor thomas_id="02155" joined="2013-03-15"/>
+    <cosponsor thomas_id="01882" joined="2013-03-15"/>
+    <cosponsor thomas_id="02107" joined="2013-06-05"/>
+    <cosponsor thomas_id="02159" joined="2013-05-22"/>
+    <cosponsor thomas_id="01774" joined="2013-07-24"/>
+    <cosponsor thomas_id="02144" joined="2013-03-15"/>
+    <cosponsor thomas_id="02116" joined="2013-02-28"/>
+    <cosponsor thomas_id="02125" joined="2013-03-21"/>
+    <cosponsor thomas_id="01737" joined="2013-02-28"/>
+    <cosponsor thomas_id="02101" joined="2013-05-08"/>
+    <cosponsor thomas_id="00612" joined="2013-02-28"/>
+    <cosponsor thomas_id="02011" joined="2013-04-18"/>
+    <cosponsor thomas_id="02100" joined="2013-02-28"/>
+    <cosponsor thomas_id="02111" joined="2013-04-11"/>
+    <cosponsor thomas_id="01960" joined="2013-02-28"/>
+    <cosponsor thomas_id="02094" joined="2013-04-11"/>
+    <cosponsor thomas_id="01804" joined="2013-03-21"/>
+    <cosponsor thomas_id="02108" joined="2013-06-27"/>
+    <cosponsor thomas_id="01738" joined="2013-02-28"/>
+    <cosponsor thomas_id="01910" joined="2013-03-21"/>
+    <cosponsor thomas_id="02118" joined="2013-04-11"/>
+    <cosponsor thomas_id="00985" joined="2013-04-18"/>
+    <cosponsor thomas_id="01861" joined="2013-07-10"/>
+    <cosponsor thomas_id="02191" joined="2013-07-09"/>
+    <cosponsor thomas_id="02168" joined="2013-02-28"/>
+    <cosponsor thomas_id="01981" joined="2013-02-28"/>
+    <cosponsor thomas_id="02115" joined="2013-02-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-15" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Legislative rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>2/15/2013--Introduced.
+Readable Legislation Act of 2013 - Prohibits an Act of Congress from being revised or amended by mere reference to it.
+
+Requires every bill or joint resolution that amends an existing section, subsection, or other subdivision of any Act to set forth the section, subsection, or other subdivision sufficiently to enable the intent and effect of the legislation to be clearly understood. Requires proposed omissions and insertions to be shown by appropriate typographical devices.</summary>
+</bill>

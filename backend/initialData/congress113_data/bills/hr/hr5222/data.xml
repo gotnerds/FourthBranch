@@ -1,0 +1,26 @@
+<bill session="113" type="h" number="5222" updated="2014-08-14T13:36:02-04:00">
+  <state datetime="2014-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-28"/>
+  </status>
+  <introduced datetime="2014-07-28"/>
+  <titles>
+    <title type="short" as="introduced">Rental Assistance Housing Preservation and Rehabilitation Act of 2014</title>
+    <title type="official" as="introduced">To increase the unit cap on the rental assistance demonstration of the Department of Housing and Urban Development, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02190"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-28" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1243"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

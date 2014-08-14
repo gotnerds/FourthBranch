@@ -1,0 +1,61 @@
+<bill session="113" type="h" number="988" updated="2014-08-14T12:59:07-04:00">
+  <state datetime="2013-03-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-06"/>
+  </status>
+  <introduced datetime="2013-03-06"/>
+  <titles>
+    <title type="short" as="introduced">Bulletproof Vest Partnership Grant Act of 2013</title>
+    <title type="official" as="introduced">To amend title I of the Omnibus Crime Control and Safe Streets Act of 1968 to extend the authorization of the Bulletproof Vest Partnership Grant Program through fiscal year 2017.</title>
+  </titles>
+  <sponsor thomas_id="00699"/>
+  <cosponsors>
+    <cosponsor thomas_id="02103" joined="2014-07-14"/>
+    <cosponsor thomas_id="02144" joined="2014-04-09"/>
+    <cosponsor thomas_id="02125" joined="2014-06-30"/>
+    <cosponsor thomas_id="01797" joined="2014-03-12"/>
+    <cosponsor thomas_id="01580" joined="2013-04-11"/>
+    <cosponsor thomas_id="00588" joined="2014-07-09"/>
+    <cosponsor thomas_id="02046" joined="2014-02-11"/>
+    <cosponsor thomas_id="00616" joined="2013-04-26"/>
+    <cosponsor thomas_id="00635" joined="2013-06-04"/>
+    <cosponsor thomas_id="01653" joined="2014-07-09"/>
+    <cosponsor thomas_id="01505" joined="2014-06-24"/>
+    <cosponsor thomas_id="01730" joined="2013-04-24"/>
+    <cosponsor thomas_id="02108" joined="2014-07-09"/>
+    <cosponsor thomas_id="00868" joined="2014-07-09"/>
+    <cosponsor thomas_id="01510" joined="2013-04-11"/>
+    <cosponsor thomas_id="01930" joined="2014-06-26"/>
+    <cosponsor thomas_id="01738" joined="2014-07-14"/>
+    <cosponsor thomas_id="01810" joined="2014-05-15"/>
+    <cosponsor thomas_id="01728" joined="2014-07-15"/>
+    <cosponsor thomas_id="02124" joined="2014-04-04"/>
+    <cosponsor thomas_id="01069" joined="2014-05-21"/>
+    <cosponsor thomas_id="01188" joined="2013-03-06"/>
+    <cosponsor thomas_id="02002" joined="2014-07-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-06" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-04-08">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, And Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="933"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Law enforcement officers"/>
+    <term name="Worker safety and health"/>
+  </subjects>
+  <amendments/>
+  <summary>3/6/2013--Introduced.
+Bulletproof Vest Partnership Grant Act of 2013 - Amends the Omnibus Crime Control and Safe Streets Act of 1968 to extend through FY2017 the grant program for armor vests for law enforcement officers.</summary>
+</bill>

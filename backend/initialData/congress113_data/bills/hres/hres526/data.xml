@@ -1,0 +1,81 @@
+<bill session="113" type="hr" number="526" updated="2014-08-14T12:49:05-04:00">
+  <state datetime="2014-03-27">REFERRED</state>
+  <status>
+    <introduced datetime="2014-03-27"/>
+  </status>
+  <introduced datetime="2014-03-27"/>
+  <titles>
+    <title type="official" as="introduced">Recognizing the important work of the Meals On Wheels Association of America and its member programs throughout the country in addressing senior hunger and improving the quality of life for millions of our nation's seniors each year.</title>
+  </titles>
+  <sponsor thomas_id="01846"/>
+  <cosponsors>
+    <cosponsor thomas_id="02092" joined="2014-03-27"/>
+    <cosponsor thomas_id="01845" joined="2014-04-01"/>
+    <cosponsor thomas_id="00132" joined="2014-03-27"/>
+    <cosponsor thomas_id="01840" joined="2014-04-04"/>
+    <cosponsor thomas_id="01676" joined="2014-04-04"/>
+    <cosponsor thomas_id="02107" joined="2014-03-27"/>
+    <cosponsor thomas_id="01864" joined="2014-03-27"/>
+    <cosponsor thomas_id="01790" joined="2014-03-27"/>
+    <cosponsor thomas_id="01878" joined="2014-05-06"/>
+    <cosponsor thomas_id="00229" joined="2014-03-27"/>
+    <cosponsor thomas_id="02126" joined="2014-03-27"/>
+    <cosponsor thomas_id="00281" joined="2014-03-27"/>
+    <cosponsor thomas_id="01976" joined="2014-03-27"/>
+    <cosponsor thomas_id="02125" joined="2014-03-27"/>
+    <cosponsor thomas_id="00511" joined="2014-05-30"/>
+    <cosponsor thomas_id="02101" joined="2014-04-10"/>
+    <cosponsor thomas_id="00588" joined="2014-03-27"/>
+    <cosponsor thomas_id="01921" joined="2014-04-28"/>
+    <cosponsor thomas_id="01843" joined="2014-03-27"/>
+    <cosponsor thomas_id="02154" joined="2014-03-27"/>
+    <cosponsor thomas_id="00616" joined="2014-04-28"/>
+    <cosponsor thomas_id="01885" joined="2014-03-27"/>
+    <cosponsor thomas_id="01501" joined="2014-03-27"/>
+    <cosponsor thomas_id="02146" joined="2014-04-01"/>
+    <cosponsor thomas_id="01653" joined="2014-03-27"/>
+    <cosponsor thomas_id="01504" joined="2014-03-27"/>
+    <cosponsor thomas_id="01730" joined="2014-03-27"/>
+    <cosponsor thomas_id="00850" joined="2014-03-27"/>
+    <cosponsor thomas_id="02108" joined="2014-03-27"/>
+    <cosponsor thomas_id="00868" joined="2014-03-27"/>
+    <cosponsor thomas_id="01510" joined="2014-03-27"/>
+    <cosponsor thomas_id="02171" joined="2014-03-27"/>
+    <cosponsor thomas_id="00940" joined="2014-03-27"/>
+    <cosponsor thomas_id="00944" joined="2014-03-27"/>
+    <cosponsor thomas_id="01982" joined="2014-03-27"/>
+    <cosponsor thomas_id="01588" joined="2014-03-27"/>
+    <cosponsor thomas_id="01861" joined="2014-03-27"/>
+    <cosponsor thomas_id="01527" joined="2014-03-27"/>
+    <cosponsor thomas_id="02000" joined="2014-04-01"/>
+    <cosponsor thomas_id="02047" joined="2014-04-01"/>
+    <cosponsor thomas_id="01729" joined="2014-03-27"/>
+    <cosponsor thomas_id="02167" joined="2014-03-27"/>
+    <cosponsor thomas_id="01879" joined="2014-04-04"/>
+    <cosponsor thomas_id="01238" joined="2014-03-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-03-27" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Aging"/>
+    <term name="Congressional tributes"/>
+    <term name="Food assistance and relief"/>
+    <term name="Members of Congress"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+  </subjects>
+  <amendments/>
+  <summary>3/27/2014--Introduced.
+Recognizes the important work of the Meals On Wheels Association of America and its member programs in addressing senior hunger, increasing awareness of the need for senior nutrition programs, and in raising non-federal funds and soliciting volunteers to support these programs.
+
+ Honors the Meals On Wheels Association of America and senior nutrition programs around the country.
+
+ Encourages Members of Congress to support their local senior nutrition programs by participating in their local March For Meals events and delivering meals to home bound seniors in a community within their district or state.</summary>
+</bill>

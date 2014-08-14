@@ -1,0 +1,23 @@
+<bill session="113" type="h" number="5341" updated="2014-08-14T13:37:04-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="official" as="introduced">To delay for 1 year the application of Revenue Ruling 2012-18 with respect to the characterization of payments as tips or service charges.</title>
+  </titles>
+  <sponsor thomas_id="02164"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

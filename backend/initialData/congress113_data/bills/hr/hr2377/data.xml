@@ -1,0 +1,95 @@
+<bill session="113" type="h" number="2377" updated="2014-08-14T13:11:39-04:00">
+  <state datetime="2013-06-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-14"/>
+  </status>
+  <introduced datetime="2013-06-14"/>
+  <titles>
+    <title type="short" as="introduced">Encourage New Legalized Immigrants to Start Training Act</title>
+    <title type="short" as="introduced">ENLIST Act</title>
+    <title type="official" as="introduced">To amend title 10, United States Code, to authorize the enlistment in the Armed Forces of certain aliens who are unlawfully present in the United States and were younger than 15 years of age when they initially entered the United States, but who are otherwise qualified for enlistment, and to provide a mechanism by which such aliens, by reason of their honorable service in the Armed Forces, may be lawfully admitted to the United States for permanent residence.</title>
+  </titles>
+  <sponsor thomas_id="01995"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2013-06-14"/>
+    <cosponsor thomas_id="00062" joined="2014-05-29"/>
+    <cosponsor thomas_id="02102" joined="2014-05-29"/>
+    <cosponsor thomas_id="01845" joined="2014-04-10"/>
+    <cosponsor thomas_id="02106" joined="2013-12-05"/>
+    <cosponsor thomas_id="00165" joined="2014-03-13"/>
+    <cosponsor thomas_id="01889" joined="2014-03-14"/>
+    <cosponsor thomas_id="02163" joined="2014-04-04"/>
+    <cosponsor thomas_id="02055" joined="2014-05-29"/>
+    <cosponsor thomas_id="00231" joined="2014-03-11"/>
+    <cosponsor thomas_id="02126" joined="2014-06-09"/>
+    <cosponsor thomas_id="02133" joined="2014-03-14"/>
+    <cosponsor thomas_id="01799" joined="2014-03-13"/>
+    <cosponsor thomas_id="01717" joined="2013-06-14"/>
+    <cosponsor thomas_id="02125" joined="2014-03-27"/>
+    <cosponsor thomas_id="02067" joined="2013-06-28"/>
+    <cosponsor thomas_id="00368" joined="2013-06-14"/>
+    <cosponsor thomas_id="02122" joined="2013-06-14"/>
+    <cosponsor thomas_id="02120" joined="2013-10-22"/>
+    <cosponsor thomas_id="02058" joined="2014-03-12"/>
+    <cosponsor thomas_id="00478" joined="2014-03-14"/>
+    <cosponsor thomas_id="02010" joined="2013-07-11"/>
+    <cosponsor thomas_id="02040" joined="2014-03-06"/>
+    <cosponsor thomas_id="01909" joined="2014-03-05"/>
+    <cosponsor thomas_id="01640" joined="2014-03-13"/>
+    <cosponsor thomas_id="02014" joined="2014-03-06"/>
+    <cosponsor thomas_id="01781" joined="2013-06-28"/>
+    <cosponsor thomas_id="00701" joined="2013-07-11"/>
+    <cosponsor thomas_id="02111" joined="2014-04-08"/>
+    <cosponsor thomas_id="01814" joined="2014-06-19"/>
+    <cosponsor thomas_id="01833" joined="2014-03-14"/>
+    <cosponsor thomas_id="00778" joined="2013-06-14"/>
+    <cosponsor thomas_id="01832" joined="2014-04-08"/>
+    <cosponsor thomas_id="01730" joined="2013-06-14"/>
+    <cosponsor thomas_id="00832" joined="2014-05-29"/>
+    <cosponsor thomas_id="02059" joined="2014-03-13"/>
+    <cosponsor thomas_id="01710" joined="2013-06-14"/>
+    <cosponsor thomas_id="01916" joined="2013-07-11"/>
+    <cosponsor thomas_id="00985" joined="2013-11-20"/>
+    <cosponsor thomas_id="02109" joined="2014-04-08"/>
+    <cosponsor thomas_id="02039" joined="2013-11-20"/>
+    <cosponsor thomas_id="01003" joined="2014-04-28"/>
+    <cosponsor thomas_id="01950" joined="2014-03-12"/>
+    <cosponsor thomas_id="02009" joined="2014-03-13"/>
+    <cosponsor thomas_id="01528" joined="2014-04-28"/>
+    <cosponsor thomas_id="02000" joined="2013-06-14"/>
+    <cosponsor thomas_id="02047" joined="2014-03-12"/>
+    <cosponsor thomas_id="02104" joined="2014-04-08"/>
+    <cosponsor thomas_id="02110" joined="2014-05-29"/>
+    <cosponsor thomas_id="01593" joined="2013-06-14"/>
+    <cosponsor thomas_id="01940" joined="2014-05-29"/>
+    <cosponsor thomas_id="02105" joined="2013-06-14"/>
+    <cosponsor thomas_id="02112" joined="2013-06-14"/>
+    <cosponsor thomas_id="02166" joined="2014-03-12"/>
+    <cosponsor thomas_id="01856" joined="2013-06-14"/>
+    <cosponsor thomas_id="02152" joined="2014-03-12"/>
+    <cosponsor thomas_id="01685" joined="2013-06-14" withdrawn="2014-06-17"/>
+    <cosponsor thomas_id="02057" joined="2013-06-14" withdrawn="2014-04-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-14" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Border security and unlawful immigration"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Military personnel and dependents"/>
+  </subjects>
+  <amendments/>
+  <summary>6/14/2013--Introduced.
+Encourage New Legalized Immigrants to Start Training Act or the ENLIST Act - Authorizes the enlistment in the armed forces of aliens unlawfully present in the United States on December 31, 2011, who: (1) have been continuously present in the United States since such date; (2) were younger than 15 years of age when they initially entered the United States; and (3) are otherwise eligible for original enlistment in a regular component of the Army, Navy, Air Force, Marine Corps, or Coast Guard.
+
+Requires the Secretary of Homeland Security (DHS) to adjust the status of an alien enlisted under such authority to the status of an alien lawfully admitted for permanent residence under provisions of the Immigration and Nationality Act applicable to aliens who entered the United States prior to January 1, 1972.
+
+Rescinds such lawful permanent resident status if the alien is separated from the armed forces under other than honorable conditions before serving the term of enlistment.</summary>
+</bill>

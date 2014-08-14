@@ -1,0 +1,59 @@
+<bill session="113" type="h" number="1619" updated="2014-08-14T13:04:28-04:00">
+  <state datetime="2013-04-18">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-18"/>
+  </status>
+  <introduced datetime="2013-04-18"/>
+  <titles>
+    <title type="short" as="introduced">Making Investments Now for Dementia Act of 2013</title>
+    <title type="official" as="introduced">To authorize the issuance of United States bonds to fund Alzheimer's research.</title>
+  </titles>
+  <sponsor thomas_id="01751"/>
+  <cosponsors>
+    <cosponsor thomas_id="01752" joined="2013-04-18"/>
+    <cosponsor thomas_id="01857" joined="2014-04-28"/>
+    <cosponsor thomas_id="01797" joined="2013-05-23"/>
+    <cosponsor thomas_id="01663" joined="2013-06-17"/>
+    <cosponsor thomas_id="00635" joined="2013-04-18"/>
+    <cosponsor thomas_id="01806" joined="2014-02-26"/>
+    <cosponsor thomas_id="00735" joined="2013-04-18"/>
+    <cosponsor thomas_id="00868" joined="2013-04-18"/>
+    <cosponsor thomas_id="01848" joined="2013-04-18"/>
+    <cosponsor thomas_id="01071" joined="2013-04-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-18" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-04-18">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-04-18">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-04-19">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Medical research"/>
+    <term name="Neurological disorders"/>
+    <term name="Research administration and funding"/>
+    <term name="Securities"/>
+  </subjects>
+  <amendments/>
+  <summary>4/18/2013--Introduced.
+Making Investments Now for Dementia Act of 2013 - Authorizes the Secretary of the Treasury to issue bonds to aid in the funding of Alzheimer's research.
+
+Authorizes appropriations to the Director of the National Institutes of Health (NIH) for such research.
+
+Expresses the sense of Congress that any funds collected pursuant to this Act are in addition to yearly appropriated funds and are not to be used to supplement current funding.</summary>
+</bill>

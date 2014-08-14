@@ -1,0 +1,61 @@
+<bill session="113" type="h" number="4296" updated="2014-08-14T13:28:03-04:00">
+  <state datetime="2014-05-29">REPORTED</state>
+  <status>
+    <unknown datetime="2014-05-29"/>
+  </status>
+  <introduced datetime="2014-03-25"/>
+  <titles>
+    <title type="official" as="introduced">To amend Public Law 94-241 with respect to the Northern Mariana Islands.</title>
+  </titles>
+  <sponsor thomas_id="01962"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-03-25" state="REFERRED">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-03-25">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2014-03-25">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2014-03-28">
+      <text>Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.</text>
+    </action>
+    <action datetime="2014-04-23">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+    <action datetime="2014-04-29">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2014-05-29">
+      <text>Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs Discharged.</text>
+    </action>
+    <action datetime="2014-05-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-05-29" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral, Markup"/>
+    <committee subcommittee="Fisheries, Wildlife, Oceans, and Insular Affairs" code="HSII22" name="House Natural Resources" activity="Referral, Hearings, Discharged"/>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Immigration and Border Security" code="HSJU01" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1237"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Foreign labor"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Northern Mariana Islands"/>
+    <term name="U.S. territories and protectorates"/>
+    <term name="Visas and passports"/>
+  </subjects>
+  <amendments/>
+  <summary>3/25/2014--Introduced.
+Amends federal law to extend the federal immigration law transition period for the Commonwealth of the Northern Mariana Islands through December 31, 2019, including the annual reduction of nonimmigrant workers who may be admitted during such period.</summary>
+</bill>

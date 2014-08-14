@@ -1,0 +1,44 @@
+<bill session="113" type="s" number="2592" updated="2014-08-14T14:06:54-04:00">
+  <state datetime="2014-07-10">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-10"/>
+  </status>
+  <introduced datetime="2014-07-10"/>
+  <titles>
+    <title type="short" as="introduced">North Atlantic Energy Security Act</title>
+    <title type="short" as="introduced" partial="1">BLM Live Internet Auctions Act</title>
+    <title type="short" as="introduced" partial="1">Natural Gas Gathering Enhancement Act</title>
+    <title type="short" as="introduced" partial="1">Streamlining Permitting of American Energy Act of 2014</title>
+    <title type="official" as="introduced">A bill to promote energy production and security, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02079"/>
+  <cosponsors>
+    <cosponsor thomas_id="01881" joined="2014-07-10"/>
+    <cosponsor thomas_id="00754" joined="2014-07-10"/>
+    <cosponsor thomas_id="01694" joined="2014-07-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-10">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S4414-4415, S4416, S4417"/>
+    </action>
+    <action datetime="2014-07-10" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2014-07-21">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S4646-4647"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="555"/>
+    <bill type="h" session="113" relation="unknown" number="4293"/>
+    <bill type="s" session="113" relation="unknown" number="2112"/>
+    <bill type="s" session="113" relation="unknown" number="2638"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

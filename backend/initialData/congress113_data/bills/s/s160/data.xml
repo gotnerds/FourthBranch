@@ -1,0 +1,42 @@
+<bill session="113" type="s" number="160" updated="2014-08-14T13:46:07-04:00">
+  <state datetime="2013-01-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-28"/>
+  </status>
+  <introduced datetime="2013-01-28"/>
+  <titles>
+    <title type="short" as="introduced">Medical Debt Responsibility Act of 2013</title>
+    <title type="official" as="introduced">A bill to exclude from consumer credit reports medical debt that has been in collection and has been fully paid or settled, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01900"/>
+  <cosponsors>
+    <cosponsor thomas_id="02076" joined="2013-01-28"/>
+    <cosponsor thomas_id="00136" joined="2013-01-28"/>
+    <cosponsor thomas_id="00326" joined="2013-01-28"/>
+    <cosponsor thomas_id="01332" joined="2013-06-24"/>
+    <cosponsor thomas_id="00501" joined="2013-01-28"/>
+    <cosponsor thomas_id="00735" joined="2013-11-19"/>
+    <cosponsor thomas_id="00791" joined="2013-01-28"/>
+    <cosponsor thomas_id="02173" joined="2014-05-20"/>
+    <cosponsor thomas_id="01036" joined="2013-01-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-28" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="1767"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Consumer credit"/>
+    <term name="Health care costs and insurance"/>
+  </subjects>
+  <amendments/>
+  <summary>1/28/2013--Introduced.
+Medical Debt Responsibility Act of 2013 - Amends the Fair Credit Reporting Act to prohibit a consumer reporting agency from making any report containing information related to a fully paid or settled medical debt that had been characterized as delinquent, charged off, or in collection which, from the date of payment or settlement, antedates the report by more than 45 days.</summary>
+</bill>

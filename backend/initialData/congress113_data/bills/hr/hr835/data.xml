@@ -1,0 +1,51 @@
+<bill session="113" type="h" number="835" updated="2014-08-14T12:57:49-04:00">
+  <state datetime="2013-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-26"/>
+  </status>
+  <introduced datetime="2013-02-26"/>
+  <titles>
+    <title type="short" as="introduced">Energy Assistance for American Families Act</title>
+    <title type="official" as="introduced">To reauthorize the Low-Income Home Energy Assistance Program for fiscal years 2014 through 2018, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00735"/>
+  <cosponsors>
+    <cosponsor thomas_id="00281" joined="2013-02-26"/>
+    <cosponsor thomas_id="01583" joined="2013-02-26"/>
+    <cosponsor thomas_id="01504" joined="2013-02-26"/>
+    <cosponsor thomas_id="01879" joined="2013-02-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-26" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-02-26">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-02-26">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2013-03-01">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+    </action>
+    <action datetime="2013-04-23">
+      <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Energy and Power" code="HSIF03" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+    <committee subcommittee="Higher Education and Workforce Training" code="HSED13" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Energy assistance for the poor and aged"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/2013--Introduced.
+Energy Assistance for American Families Act - Amends the Low-Income Home Energy Assistance Act of 1981 to authorize appropriations for FY2014-FY2018.
+
+Permits a state to use any allotment from such appropriations to assist households whose income does not exceed 75% of the state median income.</summary>
+</bill>

@@ -1,0 +1,17 @@
+<amendment session="113" chamber="h" number="1047" updated="2014-08-14T13:40:17-04:00">
+  <amends type="h" number="4923" sequence="76"/>
+  <status datetime="2014-07-10T19:28:00-04:00">pass</status>
+  <sponsor thomas_id="02051"/>
+  <offered datetime="2014-07-10"/>
+  <description>An amendment to prohibit use of funds in contravention of the Water Resources Development Act of 1986.</description>
+  <actions>
+    <action datetime="2014-07-10T19:23:00-04:00">
+      <text>Amendment (A076) offered by Mr. Kelly (PA).</text>
+      <reference ref="CR H6090-6091" label="consideration"/>
+      <reference ref="CR H6090" label="text"/>
+    </action>
+    <vote datetime="2014-07-10T19:28:00-04:00" how="by voice vote" result="pass">
+      <text>On agreeing to the Kelly (PA) amendment (A076) Agreed to by voice vote.</text>
+    </vote>
+  </actions>
+</amendment>

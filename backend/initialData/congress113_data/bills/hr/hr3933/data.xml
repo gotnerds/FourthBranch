@@ -1,0 +1,50 @@
+<bill session="113" type="h" number="3933" updated="2014-08-14T13:24:59-04:00">
+  <state datetime="2014-01-27">REFERRED</state>
+  <status>
+    <introduced datetime="2014-01-27"/>
+  </status>
+  <introduced datetime="2014-01-27"/>
+  <titles>
+    <title type="short" as="introduced">Protecting Gun Owners in Bankruptcy Act of 2014</title>
+    <title type="official" as="introduced">To amend title 11 of the United States Code to include firearms in the types of property allowable under the alternative provision for exempting property from the estate.</title>
+  </titles>
+  <sponsor thomas_id="02151"/>
+  <cosponsors>
+    <cosponsor thomas_id="01858" joined="2014-02-11"/>
+    <cosponsor thomas_id="02135" joined="2014-04-07"/>
+    <cosponsor thomas_id="00186" joined="2014-02-05"/>
+    <cosponsor thomas_id="02126" joined="2014-02-11"/>
+    <cosponsor thomas_id="02064" joined="2014-02-05"/>
+    <cosponsor thomas_id="01720" joined="2014-02-05"/>
+    <cosponsor thomas_id="01992" joined="2014-06-30"/>
+    <cosponsor thomas_id="01990" joined="2014-02-05"/>
+    <cosponsor thomas_id="01921" joined="2014-02-04"/>
+    <cosponsor thomas_id="01936" joined="2014-02-05"/>
+    <cosponsor thomas_id="01885" joined="2014-02-21"/>
+    <cosponsor thomas_id="01731" joined="2014-02-05"/>
+    <cosponsor thomas_id="02022" joined="2014-02-11"/>
+    <cosponsor thomas_id="02161" joined="2014-02-05"/>
+    <cosponsor thomas_id="01256" joined="2014-02-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-01-27" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2014-03-20">
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Regulatory Reform, Commercial And Antitrust Law" code="HSJU05" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Bankruptcy"/>
+    <term name="Firearms and explosives"/>
+  </subjects>
+  <amendments/>
+  <summary>1/27/2014--Introduced.
+Protecting Gun Owners in Bankruptcy Act of 2014 - Amends federal bankruptcy law to permit an individual debtor to exempt from the property of the estate in bankruptcy the debtor's aggregate interest, not to exceed $3,000, in a single firearm or firearms.</summary>
+</bill>

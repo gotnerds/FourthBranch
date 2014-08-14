@@ -1,0 +1,33 @@
+<bill session="113" type="s" number="2755" updated="2014-08-14T14:08:16-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="short" as="introduced">Overdose Prevention Act</title>
+    <title type="official" as="introduced">A bill to prevent deaths occurring from drug overdoses.</title>
+  </titles>
+  <sponsor thomas_id="00949"/>
+  <cosponsors>
+    <cosponsor thomas_id="00326" joined="2014-07-31"/>
+    <cosponsor thomas_id="01383" joined="2014-07-31"/>
+    <cosponsor thomas_id="00735" joined="2014-07-31"/>
+    <cosponsor thomas_id="01823" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-31">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S5233-5234"/>
+    </action>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

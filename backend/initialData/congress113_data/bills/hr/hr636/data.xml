@@ -1,0 +1,118 @@
+<bill session="113" type="h" number="636" updated="2014-08-14T12:56:09-04:00">
+  <state datetime="2013-02-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-13"/>
+  </status>
+  <introduced datetime="2013-02-13"/>
+  <titles>
+    <title type="official" as="introduced">To prohibit Members of Congress from receiving any automatic pay adjustments through the end of the One Hundred Thirteenth Congress.</title>
+  </titles>
+  <sponsor thomas_id="01959"/>
+  <cosponsors>
+    <cosponsor thomas_id="00021" joined="2013-02-13"/>
+    <cosponsor thomas_id="02093" joined="2013-02-14"/>
+    <cosponsor thomas_id="02102" joined="2013-02-13"/>
+    <cosponsor thomas_id="02092" joined="2013-02-13"/>
+    <cosponsor thomas_id="01723" joined="2013-02-15"/>
+    <cosponsor thomas_id="02106" joined="2013-02-15"/>
+    <cosponsor thomas_id="02127" joined="2013-02-13"/>
+    <cosponsor thomas_id="01471" joined="2013-02-13"/>
+    <cosponsor thomas_id="02159" joined="2013-02-15"/>
+    <cosponsor thomas_id="01474" joined="2013-03-05"/>
+    <cosponsor thomas_id="02055" joined="2013-02-13"/>
+    <cosponsor thomas_id="00229" joined="2013-02-13"/>
+    <cosponsor thomas_id="00231" joined="2013-07-16"/>
+    <cosponsor thomas_id="00256" joined="2013-02-13"/>
+    <cosponsor thomas_id="00279" joined="2013-02-13"/>
+    <cosponsor thomas_id="02096" joined="2013-02-14"/>
+    <cosponsor thomas_id="01894" joined="2013-02-13"/>
+    <cosponsor thomas_id="02125" joined="2013-03-14"/>
+    <cosponsor thomas_id="00355" joined="2013-03-05"/>
+    <cosponsor thomas_id="02114" joined="2013-02-13"/>
+    <cosponsor thomas_id="01888" joined="2013-02-15"/>
+    <cosponsor thomas_id="02119" joined="2013-02-15"/>
+    <cosponsor thomas_id="02122" joined="2013-02-13"/>
+    <cosponsor thomas_id="02164" joined="2013-03-05"/>
+    <cosponsor thomas_id="02120" joined="2013-02-15"/>
+    <cosponsor thomas_id="02089" joined="2013-02-13"/>
+    <cosponsor thomas_id="02170" joined="2013-02-14"/>
+    <cosponsor thomas_id="02147" joined="2013-09-30"/>
+    <cosponsor thomas_id="02101" joined="2013-02-14"/>
+    <cosponsor thomas_id="01663" joined="2013-02-13"/>
+    <cosponsor thomas_id="00588" joined="2013-03-05"/>
+    <cosponsor thomas_id="02025" joined="2013-03-05"/>
+    <cosponsor thomas_id="02172" joined="2013-03-12"/>
+    <cosponsor thomas_id="02134" joined="2013-02-13"/>
+    <cosponsor thomas_id="02169" joined="2013-02-14"/>
+    <cosponsor thomas_id="01498" joined="2013-02-15"/>
+    <cosponsor thomas_id="01907" joined="2013-02-13"/>
+    <cosponsor thomas_id="02145" joined="2013-02-13"/>
+    <cosponsor thomas_id="01668" joined="2013-02-14"/>
+    <cosponsor thomas_id="00683" joined="2013-02-14"/>
+    <cosponsor thomas_id="01846" joined="2013-02-13"/>
+    <cosponsor thomas_id="02111" joined="2013-02-14"/>
+    <cosponsor thomas_id="00709" joined="2013-02-15"/>
+    <cosponsor thomas_id="01939" joined="2013-02-13"/>
+    <cosponsor thomas_id="01686" joined="2013-02-13"/>
+    <cosponsor thomas_id="01943" joined="2013-02-15"/>
+    <cosponsor thomas_id="00729" joined="2013-02-13"/>
+    <cosponsor thomas_id="02150" joined="2013-03-14"/>
+    <cosponsor thomas_id="00735" joined="2013-02-15"/>
+    <cosponsor thomas_id="01503" joined="2013-02-13"/>
+    <cosponsor thomas_id="00766" joined="2013-02-15"/>
+    <cosponsor thomas_id="01505" joined="2013-02-14"/>
+    <cosponsor thomas_id="00832" joined="2013-02-13"/>
+    <cosponsor thomas_id="02117" joined="2013-02-14"/>
+    <cosponsor thomas_id="00868" joined="2013-02-13"/>
+    <cosponsor thomas_id="02162" joined="2013-02-14"/>
+    <cosponsor thomas_id="01974" joined="2013-02-13"/>
+    <cosponsor thomas_id="02097" joined="2013-03-05"/>
+    <cosponsor thomas_id="01835" joined="2013-02-13"/>
+    <cosponsor thomas_id="01929" joined="2013-02-14"/>
+    <cosponsor thomas_id="02113" joined="2013-02-13"/>
+    <cosponsor thomas_id="01927" joined="2013-02-13"/>
+    <cosponsor thomas_id="01910" joined="2013-02-15"/>
+    <cosponsor thomas_id="00930" joined="2013-02-13"/>
+    <cosponsor thomas_id="00940" joined="2013-02-13"/>
+    <cosponsor thomas_id="01728" joined="2013-02-13"/>
+    <cosponsor thomas_id="01962" joined="2013-03-12"/>
+    <cosponsor thomas_id="01635" joined="2013-02-14"/>
+    <cosponsor thomas_id="01798" joined="2013-02-13"/>
+    <cosponsor thomas_id="01861" joined="2013-02-13"/>
+    <cosponsor thomas_id="02099" joined="2013-03-12"/>
+    <cosponsor thomas_id="01890" joined="2013-03-05"/>
+    <cosponsor thomas_id="02104" joined="2013-03-05"/>
+    <cosponsor thomas_id="02110" joined="2013-02-15"/>
+    <cosponsor thomas_id="01593" joined="2013-02-13"/>
+    <cosponsor thomas_id="01940" joined="2013-02-14"/>
+    <cosponsor thomas_id="01884" joined="2013-02-13"/>
+    <cosponsor thomas_id="01729" joined="2013-02-13"/>
+    <cosponsor thomas_id="02112" joined="2013-02-14"/>
+    <cosponsor thomas_id="01879" joined="2013-02-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-13" state="REFERRED">
+      <text>Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-02-13">
+      <text>Referred to House House Administration</text>
+    </action>
+    <action datetime="2013-02-13">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Inflation and prices"/>
+    <term name="Members of Congress"/>
+  </subjects>
+  <amendments/>
+  <summary>2/13/2013--Introduced.
+Eliminates automatic cost of living adjustments for Members of Congress during the 113th Congress.</summary>
+</bill>

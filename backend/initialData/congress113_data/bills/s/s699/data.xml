@@ -1,0 +1,61 @@
+<bill session="113" type="s" number="699" updated="2014-08-14T13:50:42-04:00">
+  <state datetime="2013-04-10">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-10"/>
+  </status>
+  <introduced datetime="2013-04-10"/>
+  <titles>
+    <title type="short" as="introduced">Court Efficiency Act of 2013</title>
+    <title type="official" as="introduced">A bill to reallocate Federal judgeships for the courts of appeals, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00457"/>
+  <cosponsors>
+    <cosponsor thomas_id="01695" joined="2013-10-29"/>
+    <cosponsor thomas_id="02075" joined="2013-10-31"/>
+    <cosponsor thomas_id="01881" joined="2013-10-30"/>
+    <cosponsor thomas_id="01464" joined="2013-06-04"/>
+    <cosponsor thomas_id="02192" joined="2013-09-18"/>
+    <cosponsor thomas_id="00213" joined="2013-10-04"/>
+    <cosponsor thomas_id="01541" joined="2013-05-23"/>
+    <cosponsor thomas_id="01692" joined="2013-04-10"/>
+    <cosponsor thomas_id="02175" joined="2013-04-10"/>
+    <cosponsor thomas_id="01633" joined="2013-04-10"/>
+    <cosponsor thomas_id="00452" joined="2013-04-10"/>
+    <cosponsor thomas_id="01351" joined="2013-04-10"/>
+    <cosponsor thomas_id="02079" joined="2013-11-19"/>
+    <cosponsor thomas_id="00583" joined="2013-10-11"/>
+    <cosponsor thomas_id="02080" joined="2013-04-10"/>
+    <cosponsor thomas_id="00924" joined="2013-10-28"/>
+    <cosponsor thomas_id="02084" joined="2013-06-11"/>
+    <cosponsor thomas_id="02056" joined="2013-11-06"/>
+    <cosponsor thomas_id="01548" joined="2013-04-10"/>
+    <cosponsor thomas_id="01609" joined="2013-09-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-10">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S2566"/>
+    </action>
+    <action datetime="2013-04-10" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S2566-2567" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="2239"/>
+    <bill type="h" session="113" relation="identical" number="3632"/>
+  </relatedbills>
+  <subjects>
+    <term name="Law"/>
+    <term name="Federal appellate courts"/>
+    <term name="Judges"/>
+  </subjects>
+  <amendments/>
+  <summary>4/10/2013--Introduced.
+Court Efficiency Act of 2013 - Directs the President to appoint, by and with the advice and consent of the Senate, one additional circuit judge for the second circuit court of appeals and one additional circuit judge for the eleventh circuit court of appeals.
+
+Reduces from 11 to 8 the number of circuit judges appointed to the District of Columbia circuit court of appeals.</summary>
+</bill>

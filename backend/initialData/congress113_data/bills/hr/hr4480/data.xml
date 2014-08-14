@@ -1,0 +1,86 @@
+<bill session="113" type="h" number="4480" updated="2014-08-14T13:29:35-04:00">
+  <state datetime="2014-04-10">REFERRED</state>
+  <status>
+    <introduced datetime="2014-04-10"/>
+  </status>
+  <introduced datetime="2014-04-10"/>
+  <titles>
+    <title type="short" as="introduced">Protecting Educational Loans for Underserved Students Act</title>
+    <title type="official" as="introduced">To amend adverse credit history determinations for purposes of Federal Direct PLUS Loan eligibility.</title>
+  </titles>
+  <sponsor thomas_id="02023"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2014-04-10"/>
+    <cosponsor thomas_id="02153" joined="2014-04-10"/>
+    <cosponsor thomas_id="00091" joined="2014-04-10"/>
+    <cosponsor thomas_id="00132" joined="2014-04-10"/>
+    <cosponsor thomas_id="01761" joined="2014-04-10"/>
+    <cosponsor thomas_id="01889" joined="2014-04-10"/>
+    <cosponsor thomas_id="01474" joined="2014-04-10"/>
+    <cosponsor thomas_id="01864" joined="2014-04-10"/>
+    <cosponsor thomas_id="01654" joined="2014-04-10"/>
+    <cosponsor thomas_id="01790" joined="2014-04-10"/>
+    <cosponsor thomas_id="00208" joined="2014-04-10"/>
+    <cosponsor thomas_id="00229" joined="2014-04-10"/>
+    <cosponsor thomas_id="00256" joined="2014-04-10"/>
+    <cosponsor thomas_id="01477" joined="2014-04-10"/>
+    <cosponsor thomas_id="01857" joined="2014-04-10"/>
+    <cosponsor thomas_id="00371" joined="2014-04-10"/>
+    <cosponsor thomas_id="01895" joined="2014-04-10"/>
+    <cosponsor thomas_id="01803" joined="2014-04-10"/>
+    <cosponsor thomas_id="00511" joined="2014-04-10"/>
+    <cosponsor thomas_id="00588" joined="2014-04-10"/>
+    <cosponsor thomas_id="02149" joined="2014-04-10"/>
+    <cosponsor thomas_id="00599" joined="2014-04-10"/>
+    <cosponsor thomas_id="01843" joined="2014-04-10"/>
+    <cosponsor thomas_id="02190" joined="2014-04-10"/>
+    <cosponsor thomas_id="01501" joined="2014-04-10"/>
+    <cosponsor thomas_id="00688" joined="2014-05-20"/>
+    <cosponsor thomas_id="01506" joined="2014-04-10"/>
+    <cosponsor thomas_id="01811" joined="2014-04-10"/>
+    <cosponsor thomas_id="00868" joined="2014-04-10"/>
+    <cosponsor thomas_id="02097" joined="2014-04-10"/>
+    <cosponsor thomas_id="00944" joined="2014-05-20"/>
+    <cosponsor thomas_id="01003" joined="2014-04-10"/>
+    <cosponsor thomas_id="01722" joined="2014-04-10"/>
+    <cosponsor thomas_id="01037" joined="2014-05-20"/>
+    <cosponsor thomas_id="01988" joined="2014-04-10"/>
+    <cosponsor thomas_id="01151" joined="2014-04-10"/>
+    <cosponsor thomas_id="02166" joined="2014-04-10"/>
+    <cosponsor thomas_id="01205" joined="2014-04-10"/>
+    <cosponsor thomas_id="02004" joined="2014-04-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-04-10" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2014-06-13">
+      <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee subcommittee="Higher Education and Workforce Training" code="HSED13" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Consumer credit"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Higher education"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+  <summary>4/10/2014--Introduced.
+Protecting Educational Loans for Underserved Students Act - Amends title IV (Student Assistance) of the Higher Education Act of 1965 to establish criteria for the Secretary of Education to use in determining whether the credit history of applicants for William D. Ford Federal Direct PLUS loans renders them ineligible for such loans. (Federal Direct PLUS loans are provided to graduate or professional degree students and the parents of dependent undergraduate students.)
+
+Directs the Secretary to consider an applicant to have an adverse credit history on the basis of his or her credit report, absent a determination that the applicant has extenuating circumstances, if : (1) the applicant is 90 or more days delinquent on the repayment of a debt exceeding $2,000; or (2) during the three years before the credit report date, the applicant has been subject to a default determination, bankruptcy discharge, foreclosure, repossession, tax lien, wage garnishment, or write-off of a title IV debt.
+
+Requires applicants that have been subject to such actions to participate in loan counseling provided by the applicable institution of higher education before becoming eligible for Federal Direct PLUS loans.
+
+Prohibits the Secretary from: (1) denying a Federal Direct PLUS loan to an applicant for having debt that is unrelated to title IV loans and is in collection or has been charged off, provided the applicant participates in such loan counseling; or (2) using the applicant's lack of a credit history as a reason to deny a Federal Direct PLUS loan to such applicant.
+
+Requires the Secretary to retain a record of the Secretary's basis for determining that an applicant has extenuating circumstances that make the applicant eligible for a Federal Direct PLUS loan despite having an adverse credit history.
+
+Makes the Secretary's determination that an applicant does not have an adverse credit history effective for the two years following such determination.</summary>
+</bill>

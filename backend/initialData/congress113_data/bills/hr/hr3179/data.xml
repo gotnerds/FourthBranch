@@ -1,0 +1,113 @@
+<bill session="113" type="h" number="3179" updated="2014-08-14T13:18:33-04:00">
+  <state datetime="2013-09-25">REFERRED</state>
+  <status>
+    <introduced datetime="2013-09-25"/>
+  </status>
+  <introduced datetime="2013-09-25"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Fair Labor Standards Act of 1938 to provide a specific limited exemption from the overtime pay requirements of such Act for work related to disaster or catastrophe claims adjustment after a major disaster.</title>
+  </titles>
+  <sponsor thomas_id="02140"/>
+  <cosponsors>
+    <cosponsor thomas_id="01460" joined="2014-04-10"/>
+    <cosponsor thomas_id="00021" joined="2013-09-25"/>
+    <cosponsor thomas_id="00038" joined="2013-09-25"/>
+    <cosponsor thomas_id="00091" joined="2014-01-27"/>
+    <cosponsor thomas_id="01740" joined="2013-09-25"/>
+    <cosponsor thomas_id="01987" joined="2014-04-10"/>
+    <cosponsor thomas_id="02129" joined="2014-01-07"/>
+    <cosponsor thomas_id="01840" joined="2013-10-30"/>
+    <cosponsor thomas_id="02018" joined="2014-02-25"/>
+    <cosponsor thomas_id="02197" joined="2014-01-14"/>
+    <cosponsor thomas_id="00165" joined="2014-01-07"/>
+    <cosponsor thomas_id="01676" joined="2013-10-22"/>
+    <cosponsor thomas_id="01752" joined="2013-11-12"/>
+    <cosponsor thomas_id="02163" joined="2013-12-04"/>
+    <cosponsor thomas_id="01790" joined="2013-11-13"/>
+    <cosponsor thomas_id="01742" joined="2013-09-25"/>
+    <cosponsor thomas_id="02103" joined="2013-10-07"/>
+    <cosponsor thomas_id="01807" joined="2013-10-22"/>
+    <cosponsor thomas_id="02138" joined="2013-12-05"/>
+    <cosponsor thomas_id="02133" joined="2014-02-11"/>
+    <cosponsor thomas_id="02062" joined="2014-02-11"/>
+    <cosponsor thomas_id="01717" joined="2013-09-30"/>
+    <cosponsor thomas_id="02036" joined="2014-05-01"/>
+    <cosponsor thomas_id="02125" joined="2013-09-25"/>
+    <cosponsor thomas_id="02067" joined="2014-03-27"/>
+    <cosponsor thomas_id="02064" joined="2014-04-08"/>
+    <cosponsor thomas_id="02061" joined="2013-11-12"/>
+    <cosponsor thomas_id="02119" joined="2014-02-05"/>
+    <cosponsor thomas_id="02120" joined="2013-09-25"/>
+    <cosponsor thomas_id="01998" joined="2013-10-28"/>
+    <cosponsor thomas_id="00462" joined="2013-12-02"/>
+    <cosponsor thomas_id="01922" joined="2014-01-29"/>
+    <cosponsor thomas_id="02044" joined="2014-03-13"/>
+    <cosponsor thomas_id="01933" joined="2013-10-30"/>
+    <cosponsor thomas_id="00511" joined="2013-09-25"/>
+    <cosponsor thomas_id="02040" joined="2013-10-16"/>
+    <cosponsor thomas_id="01909" joined="2013-09-25"/>
+    <cosponsor thomas_id="02025" joined="2013-11-12"/>
+    <cosponsor thomas_id="02172" joined="2013-11-18"/>
+    <cosponsor thomas_id="02134" joined="2014-01-27"/>
+    <cosponsor thomas_id="00636" joined="2013-10-16"/>
+    <cosponsor thomas_id="02100" joined="2013-10-30"/>
+    <cosponsor thomas_id="01806" joined="2014-01-16"/>
+    <cosponsor thomas_id="01792" joined="2013-10-23"/>
+    <cosponsor thomas_id="01505" joined="2013-09-25"/>
+    <cosponsor thomas_id="00778" joined="2013-09-25"/>
+    <cosponsor thomas_id="01506" joined="2013-12-11"/>
+    <cosponsor thomas_id="00800" joined="2014-04-02"/>
+    <cosponsor thomas_id="01685" joined="2014-03-26"/>
+    <cosponsor thomas_id="02117" joined="2013-09-26"/>
+    <cosponsor thomas_id="01955" joined="2013-10-10"/>
+    <cosponsor thomas_id="02035" joined="2014-03-26"/>
+    <cosponsor thomas_id="00887" joined="2013-10-14"/>
+    <cosponsor thomas_id="02097" joined="2013-09-25"/>
+    <cosponsor thomas_id="01835" joined="2013-11-13"/>
+    <cosponsor thomas_id="01929" joined="2014-01-15"/>
+    <cosponsor thomas_id="01802" joined="2013-11-12"/>
+    <cosponsor thomas_id="01910" joined="2013-11-13"/>
+    <cosponsor thomas_id="01778" joined="2013-10-04"/>
+    <cosponsor thomas_id="02023" joined="2013-09-25"/>
+    <cosponsor thomas_id="01704" joined="2014-01-08"/>
+    <cosponsor thomas_id="02017" joined="2013-10-30"/>
+    <cosponsor thomas_id="01916" joined="2013-09-25"/>
+    <cosponsor thomas_id="01009" joined="2013-09-25"/>
+    <cosponsor thomas_id="01892" joined="2013-11-18"/>
+    <cosponsor thomas_id="01988" joined="2013-12-02"/>
+    <cosponsor thomas_id="01075" joined="2013-10-10"/>
+    <cosponsor thomas_id="01981" joined="2013-10-22"/>
+    <cosponsor thomas_id="01952" joined="2014-03-24"/>
+    <cosponsor thomas_id="01741" joined="2013-12-05"/>
+    <cosponsor thomas_id="02166" joined="2013-12-02"/>
+    <cosponsor thomas_id="01777" joined="2013-09-25"/>
+    <cosponsor thomas_id="02004" joined="2013-09-25"/>
+    <cosponsor thomas_id="01688" joined="2013-09-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-25" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2014-01-22">
+      <text>Referred to the Subcommittee on Workforce Protections.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee subcommittee="Workforce Protections" code="HSED10" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="1001"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Insurance industry and regulation"/>
+    <term name="Labor standards"/>
+    <term name="Life, casualty, property insurance"/>
+    <term name="Natural disasters"/>
+  </subjects>
+  <amendments/>
+  <summary>9/25/2013--Introduced.
+Amends the Fair Labor Standards Act of 1938 to exempt from maximum hours requirements any employee who: (1) adjusts or evaluates claims resulting from or relating to a major disaster for at least $591 per week (or any minimum weekly amount established by the Secretary of Labor, whichever is greater) during the 2-year period after the disaster; and (2) is employed as an adjuster or evaluator by an employer not itself engaged, directly or through an affiliate, in underwriting, selling, or marketing property, casualty, or liability insurance policies or contracts.</summary>
+</bill>

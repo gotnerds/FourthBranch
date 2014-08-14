@@ -1,0 +1,26 @@
+<bill session="113" type="sr" number="531" updated="2014-08-14T13:44:19-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="official" as="introduced">A resolution honoring the life, accomplishments, and legacy of Louis Zamperini and expressing condolences on his passing.</title>
+  </titles>
+  <sponsor thomas_id="01332"/>
+  <cosponsors>
+    <cosponsor thomas_id="00754" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S5234" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

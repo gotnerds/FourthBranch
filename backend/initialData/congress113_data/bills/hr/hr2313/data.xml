@@ -1,0 +1,51 @@
+<bill session="113" type="h" number="2313" updated="2014-08-14T13:11:06-04:00">
+  <state datetime="2013-06-11">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-11"/>
+  </status>
+  <introduced datetime="2013-06-11"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to issue regulations covering the practice of enrolled agents before the Internal Revenue Service.</title>
+  </titles>
+  <sponsor thomas_id="01787"/>
+  <cosponsors>
+    <cosponsor thomas_id="00070" joined="2013-06-11"/>
+    <cosponsor thomas_id="01740" joined="2013-06-11"/>
+    <cosponsor thomas_id="01761" joined="2014-05-28"/>
+    <cosponsor thomas_id="01959" joined="2014-07-08"/>
+    <cosponsor thomas_id="01836" joined="2013-09-10"/>
+    <cosponsor thomas_id="02120" joined="2014-05-28"/>
+    <cosponsor thomas_id="01913" joined="2014-05-28"/>
+    <cosponsor thomas_id="01498" joined="2014-07-25"/>
+    <cosponsor thomas_id="01806" joined="2014-06-17"/>
+    <cosponsor thomas_id="00868" joined="2013-06-11"/>
+    <cosponsor thomas_id="01810" joined="2013-12-12"/>
+    <cosponsor thomas_id="01848" joined="2013-06-26"/>
+    <cosponsor thomas_id="01757" joined="2014-02-10"/>
+    <cosponsor thomas_id="01151" joined="2013-06-14"/>
+    <cosponsor thomas_id="01884" joined="2014-05-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-11" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1134"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Administrative remedies"/>
+    <term name="Department of the Treasury"/>
+    <term name="Internal Revenue Service (IRS)"/>
+    <term name="Licensing and registrations"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <summary>6/11/2013--Introduced.
+Amends the Internal Revenue Code to authorize the Secretary of the Treasury to prescribe regulations to regulate the conduct of enrolled agents in their practice before the Internal Revenue Service (IRS). Allows properly licensed enrolled agents to use the credentials or designation as "enrolled agent," "EA," or "E.A."</summary>
+</bill>

@@ -1,0 +1,249 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-08-01", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-04-09", 
+      "committees": [
+        "SSCM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s1468-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Ayotte, Kelly", 
+      "sponsored_at": "2014-04-09", 
+      "state": "NH", 
+      "thomas_id": "02075", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Blunt, Roy", 
+      "sponsored_at": "2013-08-01", 
+      "state": "MO", 
+      "thomas_id": "01464", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Boozman, John", 
+      "sponsored_at": "2014-03-31", 
+      "state": "AR", 
+      "thomas_id": "01687", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Collins, Susan M.", 
+      "sponsored_at": "2014-03-24", 
+      "state": "ME", 
+      "thomas_id": "01541", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Coons, Christopher A.", 
+      "sponsored_at": "2014-02-25", 
+      "state": "DE", 
+      "thomas_id": "01984", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Graham, Lindsey", 
+      "sponsored_at": "2014-01-07", 
+      "state": "SC", 
+      "thomas_id": "00452", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "King, Angus S. Jr.", 
+      "sponsored_at": "2014-03-24", 
+      "state": "ME", 
+      "thomas_id": "02185", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Kirk, Mark Steven", 
+      "sponsored_at": "2014-02-12", 
+      "state": "IL", 
+      "thomas_id": "01647", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Levin, Carl", 
+      "sponsored_at": "2014-03-26", 
+      "state": "MI", 
+      "thomas_id": "01384", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Reed, Jack", 
+      "sponsored_at": "2014-03-26", 
+      "state": "RI", 
+      "thomas_id": "00949", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Rockefeller, John D., IV", 
+      "sponsored_at": "2014-04-09", 
+      "state": "WV", 
+      "thomas_id": "01424", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Schumer, Charles E.", 
+      "sponsored_at": "2014-01-07", 
+      "state": "NY", 
+      "thomas_id": "01036", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Stabenow, Debbie", 
+      "sponsored_at": "2014-01-07", 
+      "state": "MI", 
+      "thomas_id": "01531", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Udall, Tom", 
+      "sponsored_at": "2014-04-10", 
+      "state": "NM", 
+      "thomas_id": "01567", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Wicker, Roger F.", 
+      "sponsored_at": "2014-03-26", 
+      "state": "MS", 
+      "thomas_id": "01226", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-08-01", 
+  "number": "1468", 
+  "official_title": "A bill to require the Secretary of Commerce to establish the Network for Manufacturing Innovation and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr2996-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Revitalize American Manufacturing and Innovation Act of 2013", 
+  "sponsor": {
+    "district": null, 
+    "name": "Brown, Sherrod", 
+    "state": "OH", 
+    "thomas_id": "00136", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2014-04-09", 
+  "subjects": [
+    "Advanced technology and technological innovations", 
+    "Asia", 
+    "China", 
+    "Commerce", 
+    "Competitiveness, trade promotion, trade deficits", 
+    "Congressional oversight", 
+    "Department of Commerce", 
+    "Economic performance and conditions", 
+    "Environmental technology", 
+    "Executive agency funding and structure", 
+    "Free trade and trade barriers", 
+    "Government studies and investigations", 
+    "Government trust funds", 
+    "Intellectual property", 
+    "Lighting and heating", 
+    "Manufacturing", 
+    "Metals", 
+    "Military procurement, research, weapons development", 
+    "Technology transfer and commercialization", 
+    "Trade agreements and negotiations"
+  ], 
+  "subjects_top_term": "Commerce", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2013-08-01", 
+    "text": "Revitalize American Manufacturing and Innovation Act of 2013 - Amends the National Institute of Standards and Technology Act to direct the Secretary of Commerce to establish within the Institute (NIST) a Network for Manufacturing Innovation Program. Includes among Program purposes to: (1) improve the competitiveness of U.S. manufacturing and increase domestic production; (2) stimulate U.S. leadership in advanced manufacturing research, innovation, and technology; and (3) accelerate the development of an advanced manufacturing workforce.\n\nRequires the Secretary to: (1) establish a network of centers for manufacturing innovation, to be known as the Network for Manufacturing Innovation; and (2) award financial assistance to assist in planning, establishing, or supporting such centers.\n\nDirects the Secretary to establish within NIST the National Office of the Network for Manufacturing Innovation Program to: (1) oversee the Program, (2) enter into memorandums of understanding with federal agencies whose missions contribute to or are affected by advanced manufacturing, (3) develop and periodically update a strategic plan for the Program, (4) establish procedures to maximize cooperation and coordinate Program activities with those of other federal agencies, (5) establish a clearinghouse of public information related to Program activities, and (6) act as a convener of the Network.\n\nRequires the Secretary to ensure that the Office incorporates the Hollings Manufacturing Extension Partnership into Program planning to ensure that the results of the Program reach small- and medium-sized entities.\n\nEstablishes in the Treasury a Network for Manufacturing Innovation Fund for carrying out the Program.\n\nRequires the Secretary to: (1) conduct a survey that measures the economic impact of China's rare earth monopoly on the United States and other affected nations and identifies technologies, industries, and defense systems that are now primarily produced in, or are likely to relocate to, China; and (2) report on survey results and on how the United States should initiate direct dialogue with affected nations to assess the economic consequences of such monopoly and related trade practices and promote cooperative resolutions to facilitate partnership structures that will offset imbalances caused by such monopoly."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Revitalize American Manufacturing and Innovation Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to require the Secretary of Commerce to establish the Network for Manufacturing Innovation and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T13:57:25-04:00"
+}

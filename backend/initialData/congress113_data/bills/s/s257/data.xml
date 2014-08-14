@@ -1,0 +1,43 @@
+<bill session="113" type="s" number="257" updated="2014-08-14T13:46:57-04:00">
+  <state datetime="2013-02-07">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-07"/>
+  </status>
+  <introduced datetime="2013-02-07"/>
+  <titles>
+    <title type="short" as="introduced">GI Bill Tuition Fairness Act of 2013</title>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to require courses of education provided by public institutions of higher education that are approved for purposes of the educational assistance programs administered by the Secretary of Veterans Affairs to charge veterans tuition and fees at the in-State tuition rate, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01687"/>
+  <cosponsors>
+    <cosponsor thomas_id="01898" joined="2013-04-25"/>
+    <cosponsor thomas_id="01464" joined="2014-03-11"/>
+    <cosponsor thomas_id="00326" joined="2013-02-07"/>
+    <cosponsor thomas_id="00583" joined="2014-02-06"/>
+    <cosponsor thomas_id="01694" joined="2014-05-07"/>
+    <cosponsor thomas_id="00859" joined="2013-02-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-07" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-06-12">
+      <text>Committee on Veterans' Affairs. Hearings held. Hearings printed: S.Hrg. 113-111.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Hearings, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="357"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Higher education"/>
+    <term name="Student aid and college costs"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+  </subjects>
+  <amendments/>
+  <summary>2/7/2013--Introduced.
+GI Bill Tuition Fairness Act of 2013 - Directs the Secretary of Veterans Affairs (VA), for purposes of the educational assistance programs administered by the Secretary, to disapprove courses of education provided by public institutions of higher education that do not charge tuition and fees for veterans at the same rate that is charged for in-state residents, regardless of the veteran's state of residence.</summary>
+</bill>

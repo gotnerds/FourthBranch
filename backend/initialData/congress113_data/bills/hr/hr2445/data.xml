@@ -1,0 +1,71 @@
+<bill session="113" type="h" number="2445" updated="2014-08-14T13:12:14-04:00">
+  <state datetime="2013-06-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-19"/>
+  </status>
+  <introduced datetime="2013-06-19"/>
+  <titles>
+    <title type="short" as="introduced">CAFE Standards Repeal Act of 2013</title>
+    <title type="official" as="introduced">To repeal the corporate average fuel economy standards.</title>
+  </titles>
+  <sponsor thomas_id="02165"/>
+  <cosponsors>
+    <cosponsor thomas_id="01468" joined="2013-07-10"/>
+    <cosponsor thomas_id="02155" joined="2013-07-10"/>
+    <cosponsor thomas_id="01987" joined="2013-07-10"/>
+    <cosponsor thomas_id="01752" joined="2013-07-10"/>
+    <cosponsor thomas_id="01805" joined="2013-07-11"/>
+    <cosponsor thomas_id="01670" joined="2013-07-17"/>
+    <cosponsor thomas_id="02067" joined="2013-07-10"/>
+    <cosponsor thomas_id="02065" joined="2013-07-10"/>
+    <cosponsor thomas_id="01707" joined="2013-07-10"/>
+    <cosponsor thomas_id="01801" joined="2013-07-10"/>
+    <cosponsor thomas_id="01487" joined="2013-07-11"/>
+    <cosponsor thomas_id="02070" joined="2013-12-04"/>
+    <cosponsor thomas_id="02026" joined="2013-07-17"/>
+    <cosponsor thomas_id="00603" joined="2013-06-28"/>
+    <cosponsor thomas_id="02051" joined="2013-07-16"/>
+    <cosponsor thomas_id="02100" joined="2013-07-10"/>
+    <cosponsor thomas_id="02050" joined="2013-07-09"/>
+    <cosponsor thomas_id="01804" joined="2013-07-11"/>
+    <cosponsor thomas_id="01908" joined="2013-07-10"/>
+    <cosponsor thomas_id="02156" joined="2013-07-09"/>
+    <cosponsor thomas_id="02059" joined="2013-07-10"/>
+    <cosponsor thomas_id="01758" joined="2013-07-10"/>
+    <cosponsor thomas_id="01955" joined="2013-07-19"/>
+    <cosponsor thomas_id="02157" joined="2013-07-25"/>
+    <cosponsor thomas_id="01009" joined="2013-07-10"/>
+    <cosponsor thomas_id="02168" joined="2013-07-10"/>
+    <cosponsor thomas_id="01114" joined="2013-07-16"/>
+    <cosponsor thomas_id="02161" joined="2013-07-19"/>
+    <cosponsor thomas_id="02152" joined="2013-08-01"/>
+    <cosponsor thomas_id="01779" joined="2013-07-16"/>
+    <cosponsor thomas_id="02115" joined="2013-08-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-19" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-06-21">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+    </action>
+    <action datetime="2013-06-28">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H4148"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Energy and Power" code="HSIF03" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Energy efficiency and conservation"/>
+    <term name="Motor fuels"/>
+    <term name="Motor vehicles"/>
+  </subjects>
+  <amendments/>
+  <summary>6/19/2013--Introduced.
+CAFE Standards Repeal Act of 2013 - Repeals the corporate average fuel economy standards.</summary>
+</bill>

@@ -1,0 +1,39 @@
+<bill session="113" type="s" number="2650" updated="2014-08-14T14:07:23-04:00">
+  <state datetime="2014-07-23">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-23"/>
+  </status>
+  <introduced datetime="2014-07-23"/>
+  <titles>
+    <title type="short" as="introduced">Iran Nuclear Negotiations Act of 2014</title>
+    <title type="official" as="introduced">A bill to provide for congressional review of agreements relating to Iran's nuclear program, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01825"/>
+  <cosponsors>
+    <cosponsor thomas_id="01881" joined="2014-07-24"/>
+    <cosponsor thomas_id="00452" joined="2014-07-23"/>
+    <cosponsor thomas_id="01351" joined="2014-07-29"/>
+    <cosponsor thomas_id="02079" joined="2014-07-24"/>
+    <cosponsor thomas_id="02086" joined="2014-07-23"/>
+    <cosponsor thomas_id="00754" joined="2014-07-23"/>
+    <cosponsor thomas_id="01507" joined="2014-07-31"/>
+    <cosponsor thomas_id="01896" joined="2014-07-23"/>
+    <cosponsor thomas_id="00968" joined="2014-07-24"/>
+    <cosponsor thomas_id="02084" joined="2014-07-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-23">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S4767, S4768-4769, S4769-4770"/>
+    </action>
+    <action datetime="2014-07-23" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

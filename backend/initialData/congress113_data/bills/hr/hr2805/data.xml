@@ -1,0 +1,96 @@
+<bill session="113" type="h" number="2805" updated="2014-08-14T13:15:24-04:00">
+  <state datetime="2013-07-24">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-24"/>
+  </status>
+  <introduced datetime="2013-07-24"/>
+  <titles>
+    <title type="short" as="introduced">End Sex Trafficking Act of 2013</title>
+    <title type="official" as="introduced">To amend title 18, United States Code, to clarify the range of conduct punished as sex trafficking, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01802"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2014-03-12"/>
+    <cosponsor thomas_id="02063" joined="2013-11-13"/>
+    <cosponsor thomas_id="01840" joined="2013-07-30"/>
+    <cosponsor thomas_id="01752" joined="2013-07-25"/>
+    <cosponsor thomas_id="01912" joined="2014-04-08"/>
+    <cosponsor thomas_id="01805" joined="2013-07-25"/>
+    <cosponsor thomas_id="01774" joined="2013-07-26"/>
+    <cosponsor thomas_id="01670" joined="2013-07-25"/>
+    <cosponsor thomas_id="02096" joined="2013-09-11"/>
+    <cosponsor thomas_id="00303" joined="2013-09-09"/>
+    <cosponsor thomas_id="02067" joined="2013-07-31"/>
+    <cosponsor thomas_id="01797" joined="2013-09-09"/>
+    <cosponsor thomas_id="02065" joined="2013-07-25"/>
+    <cosponsor thomas_id="01707" joined="2013-07-30"/>
+    <cosponsor thomas_id="00414" joined="2014-04-10"/>
+    <cosponsor thomas_id="01720" joined="2013-07-30"/>
+    <cosponsor thomas_id="01992" joined="2013-10-28"/>
+    <cosponsor thomas_id="01487" joined="2013-07-24"/>
+    <cosponsor thomas_id="00484" joined="2013-11-21"/>
+    <cosponsor thomas_id="01749" joined="2013-07-25"/>
+    <cosponsor thomas_id="02071" joined="2013-11-15"/>
+    <cosponsor thomas_id="00603" joined="2013-07-25"/>
+    <cosponsor thomas_id="00612" joined="2014-04-09"/>
+    <cosponsor thomas_id="02111" joined="2013-10-30"/>
+    <cosponsor thomas_id="00729" joined="2013-07-24"/>
+    <cosponsor thomas_id="01804" joined="2013-09-09"/>
+    <cosponsor thomas_id="02142" joined="2013-09-09"/>
+    <cosponsor thomas_id="01731" joined="2013-07-31"/>
+    <cosponsor thomas_id="00832" joined="2013-09-09"/>
+    <cosponsor thomas_id="01758" joined="2013-07-25"/>
+    <cosponsor thomas_id="02060" joined="2013-07-31"/>
+    <cosponsor thomas_id="00867" joined="2013-07-24"/>
+    <cosponsor thomas_id="00868" joined="2013-12-16"/>
+    <cosponsor thomas_id="01955" joined="2013-08-02"/>
+    <cosponsor thomas_id="01930" joined="2013-11-21"/>
+    <cosponsor thomas_id="02141" joined="2013-09-09"/>
+    <cosponsor thomas_id="02171" joined="2013-08-01"/>
+    <cosponsor thomas_id="00944" joined="2013-09-09"/>
+    <cosponsor thomas_id="01848" joined="2013-09-18"/>
+    <cosponsor thomas_id="02158" joined="2014-04-10"/>
+    <cosponsor thomas_id="01525" joined="2013-07-25"/>
+    <cosponsor thomas_id="01071" joined="2013-08-01"/>
+    <cosponsor thomas_id="01114" joined="2013-07-25"/>
+    <cosponsor thomas_id="02104" joined="2013-07-31"/>
+    <cosponsor thomas_id="01155" joined="2013-07-25"/>
+    <cosponsor thomas_id="02112" joined="2013-07-25"/>
+    <cosponsor thomas_id="02166" joined="2013-07-31"/>
+    <cosponsor thomas_id="02137" joined="2013-08-02"/>
+    <cosponsor thomas_id="02128" joined="2013-07-31"/>
+    <cosponsor thomas_id="02161" joined="2013-07-25"/>
+    <cosponsor thomas_id="02165" joined="2013-07-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-24" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-08-01">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H5274-5275"/>
+    </action>
+    <action datetime="2013-09-13">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="1354"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Human trafficking"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Sex offenses"/>
+  </subjects>
+  <amendments/>
+  <summary>7/24/2013--Introduced.
+End Sex Trafficking Act of 2013 - Amends: (1) the federal criminal code to expand the scope of prohibitions against sex trafficking to include patronizing or soliciting a commercial sex act with a victim of sex trafficking, and (2) the Trafficking Victims Protection Act of 2000 to expand the definition of "sex trafficking" to include patronizing or soliciting a person for the purpose of a commercial sex act.
+
+Directs the Attorney General to ensure that all task forces and working groups within the Innocence Lost National Initiative engage in activities, programs, or operations to increase the investigative capabilities of state and local law enforcement officers in the detection, investigation, and prosecution of persons who patronize or solicit children for sex.</summary>
+</bill>

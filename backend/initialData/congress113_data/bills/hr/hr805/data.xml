@@ -1,0 +1,80 @@
+<bill session="113" type="h" number="805" updated="2014-08-14T12:57:34-04:00">
+  <state datetime="2013-02-25">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-25"/>
+  </status>
+  <introduced datetime="2013-02-25"/>
+  <titles>
+    <title type="short" as="introduced">Quality Improvement Organization Program Restoration Act</title>
+    <title type="official" as="introduced">To repeal certain changes to contracts with Medicare Quality Improvement Organizations, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01778"/>
+  <cosponsors>
+    <cosponsor thomas_id="01780" joined="2013-05-23"/>
+    <cosponsor thomas_id="00062" joined="2013-05-23"/>
+    <cosponsor thomas_id="02135" joined="2013-07-09"/>
+    <cosponsor thomas_id="01748" joined="2013-04-18"/>
+    <cosponsor thomas_id="01787" joined="2013-04-18"/>
+    <cosponsor thomas_id="01987" joined="2013-04-18"/>
+    <cosponsor thomas_id="01751" joined="2013-05-23"/>
+    <cosponsor thomas_id="01654" joined="2013-04-09"/>
+    <cosponsor thomas_id="01912" joined="2013-04-18"/>
+    <cosponsor thomas_id="02098" joined="2013-07-08"/>
+    <cosponsor thomas_id="01989" joined="2013-06-25"/>
+    <cosponsor thomas_id="00344" joined="2013-03-12"/>
+    <cosponsor thomas_id="02043" joined="2013-06-05"/>
+    <cosponsor thomas_id="01656" joined="2013-03-12"/>
+    <cosponsor thomas_id="01990" joined="2013-05-23"/>
+    <cosponsor thomas_id="00484" joined="2013-04-09"/>
+    <cosponsor thomas_id="02032" joined="2013-06-05"/>
+    <cosponsor thomas_id="01921" joined="2013-03-12"/>
+    <cosponsor thomas_id="01498" joined="2013-02-25"/>
+    <cosponsor thomas_id="01733" joined="2013-03-12"/>
+    <cosponsor thomas_id="01668" joined="2013-06-03"/>
+    <cosponsor thomas_id="01583" joined="2013-05-23"/>
+    <cosponsor thomas_id="00666" joined="2013-09-17"/>
+    <cosponsor thomas_id="00688" joined="2013-06-04"/>
+    <cosponsor thomas_id="01931" joined="2013-05-23"/>
+    <cosponsor thomas_id="02156" joined="2013-06-06"/>
+    <cosponsor thomas_id="00944" joined="2013-10-15"/>
+    <cosponsor thomas_id="01954" joined="2013-03-12"/>
+    <cosponsor thomas_id="01991" joined="2013-07-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-25" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-02-25">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-02-25">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-03-01">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2013-03-04">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSWM02" name="House Ways and Means" activity="Referral"/>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health care quality"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Medicare"/>
+    <term name="Public contracts and procurement"/>
+  </subjects>
+  <amendments/>
+  <summary>2/25/2013--Introduced.
+Quality Improvement Organization Program Restoration Act - Amends the Trade Adjustment Assistance Extension Act of 2011 to repeal its revisions to requirements for contracts with Medicare Quality Improvement Organizations (QIOs).
+
+Amends title XI of the Social Security Act to specify expenditures or funding for: (1) 3-year QIO contracts for contract periods beginning on or after August 1, 2014, and ending on or before July 31, 2021, but with a certain reduction in aggregate funds payable after October 1, 2014; and (2) contracts with utilization and quality control peer review organizations for any contract period beginning on or after August 1, 2014.</summary>
+</bill>

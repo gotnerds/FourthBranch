@@ -1,0 +1,49 @@
+<bill session="113" type="h" number="1143" updated="2014-08-14T13:00:26-04:00">
+  <state datetime="2013-03-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-13"/>
+  </status>
+  <introduced datetime="2013-03-13"/>
+  <titles>
+    <title type="short" as="introduced">Federal Correctional Workers Safety Act of 2013</title>
+    <title type="official" as="introduced">To amend title 18, United States Code, to require the Bureau of Prisons to provide secure storage areas on institution grounds outside the secure perimeter for employees authorized to carry a firearm.</title>
+  </titles>
+  <sponsor thomas_id="01114"/>
+  <cosponsors>
+    <cosponsor thomas_id="01751" joined="2013-08-02"/>
+    <cosponsor thomas_id="00211" joined="2013-04-11"/>
+    <cosponsor thomas_id="01742" joined="2014-01-09"/>
+    <cosponsor thomas_id="02057" joined="2014-01-09"/>
+    <cosponsor thomas_id="02070" joined="2013-04-11"/>
+    <cosponsor thomas_id="02143" joined="2013-05-22"/>
+    <cosponsor thomas_id="02050" joined="2013-05-22"/>
+    <cosponsor thomas_id="00711" joined="2013-04-26"/>
+    <cosponsor thomas_id="02074" joined="2013-09-19"/>
+    <cosponsor thomas_id="02001" joined="2013-05-08"/>
+    <cosponsor thomas_id="01952" joined="2013-08-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-13" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-04-08">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, And Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Correctional facilities and imprisonment"/>
+    <term name="Department of Justice"/>
+    <term name="Firearms and explosives"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Law enforcement officers"/>
+  </subjects>
+  <amendments/>
+  <summary>3/13/2013--Introduced.
+Federal Correctional Workers Safety Act of 2013 - Amends the federal criminal code to require the Director of the Bureau of Prisons to: (1) ensure that each prison facility provides a secure firearms storage area for use by all employees who are authorized to carry a firearm, or (2) allow such employees to store their firearm in a Bureau-approved vehicle lockbox.</summary>
+</bill>

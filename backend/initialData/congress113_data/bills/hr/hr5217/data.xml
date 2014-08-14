@@ -1,0 +1,36 @@
+<bill session="113" type="h" number="5217" updated="2014-08-14T13:36:00-04:00">
+  <state datetime="2014-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-28"/>
+  </status>
+  <introduced datetime="2014-07-28"/>
+  <titles>
+    <title type="short" as="introduced">Supporting Afterschool STEM Act</title>
+    <title type="official" as="introduced">To support afterschool and out-of-school-time science, technology, engineering, and mathematics programs, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02163"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-28" state="REFERRED">
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2543"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Education of the disadvantaged"/>
+    <term name="Education programs funding"/>
+    <term name="Educational technology and distance education"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Minority education"/>
+    <term name="Science and engineering education"/>
+    <term name="Teaching, teachers, curricula"/>
+    <term name="Women's education"/>
+  </subjects>
+  <amendments/>
+</bill>

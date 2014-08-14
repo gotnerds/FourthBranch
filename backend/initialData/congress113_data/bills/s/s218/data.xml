@@ -1,0 +1,76 @@
+<bill session="113" type="s" number="218" updated="2014-08-14T13:46:37-04:00">
+  <state datetime="2013-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-04"/>
+  </status>
+  <introduced datetime="2013-02-04"/>
+  <titles>
+    <title type="short" as="introduced">Harbor Maintenance Act of 2013</title>
+    <title type="official" as="introduced">A bill to ensure that amounts credited to the Harbor Maintenance Trust Fund are used for harbor maintenance.</title>
+  </titles>
+  <sponsor thomas_id="01384"/>
+  <cosponsors>
+    <cosponsor thomas_id="02075" joined="2013-04-17"/>
+    <cosponsor thomas_id="01558" joined="2013-02-14"/>
+    <cosponsor thomas_id="01898" joined="2013-02-04"/>
+    <cosponsor thomas_id="02076" joined="2013-02-04"/>
+    <cosponsor thomas_id="01464" joined="2013-02-04"/>
+    <cosponsor thomas_id="00116" joined="2013-02-04"/>
+    <cosponsor thomas_id="00136" joined="2013-02-04"/>
+    <cosponsor thomas_id="00174" joined="2013-02-04"/>
+    <cosponsor thomas_id="01828" joined="2013-02-04"/>
+    <cosponsor thomas_id="00188" joined="2013-02-04"/>
+    <cosponsor thomas_id="00209" joined="2013-03-22"/>
+    <cosponsor thomas_id="00212" joined="2013-02-04"/>
+    <cosponsor thomas_id="01541" joined="2013-02-04"/>
+    <cosponsor thomas_id="01984" joined="2013-02-04"/>
+    <cosponsor thomas_id="01692" joined="2013-02-04"/>
+    <cosponsor thomas_id="01850" joined="2013-03-12"/>
+    <cosponsor thomas_id="01969" joined="2013-02-04"/>
+    <cosponsor thomas_id="01866" joined="2013-02-04"/>
+    <cosponsor thomas_id="00452" joined="2013-02-04"/>
+    <cosponsor thomas_id="01351" joined="2013-02-04"/>
+    <cosponsor thomas_id="01608" joined="2013-02-04"/>
+    <cosponsor thomas_id="02086" joined="2013-02-04"/>
+    <cosponsor thomas_id="02185" joined="2013-03-04"/>
+    <cosponsor thomas_id="01647" joined="2013-02-04"/>
+    <cosponsor thomas_id="01826" joined="2013-02-04"/>
+    <cosponsor thomas_id="01546" joined="2013-02-04"/>
+    <cosponsor thomas_id="01900" joined="2013-02-04"/>
+    <cosponsor thomas_id="00859" joined="2013-02-07"/>
+    <cosponsor thomas_id="00924" joined="2013-02-04"/>
+    <cosponsor thomas_id="00968" joined="2013-02-04"/>
+    <cosponsor thomas_id="01424" joined="2013-02-07"/>
+    <cosponsor thomas_id="02084" joined="2013-03-13"/>
+    <cosponsor thomas_id="01036" joined="2013-02-04"/>
+    <cosponsor thomas_id="01531" joined="2013-02-04"/>
+    <cosponsor thomas_id="01897" joined="2013-02-04"/>
+    <cosponsor thomas_id="01247" joined="2013-02-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="335"/>
+    <bill type="s" session="113" relation="unknown" number="601"/>
+    <bill type="s" session="113" relation="unknown" number="601"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Appropriations"/>
+    <term name="Government trust funds"/>
+    <term name="Navigation, waterways, harbors"/>
+    <term name="Sales and excise taxes"/>
+    <term name="Transportation programs funding"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/2013--Introduced.
+Harbor Maintenance Act of 2013 - Requires the total budget resources for expenditures from the Harbor Maintenance Trust Fund for harbor maintenance programs to equal the level of receipts plus interest credited to such Fund for that fiscal year. Limits the use of such resources to such programs only.
+
+Declares that it shall be out of order in the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report that would cause total budget resources for the Fund in a fiscal year for harbor maintenance programs to be less than the level of receipts plus interest credited to the Fund for that fiscal year.</summary>
+</bill>

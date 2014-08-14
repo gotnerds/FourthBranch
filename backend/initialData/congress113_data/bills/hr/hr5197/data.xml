@@ -1,0 +1,27 @@
+<bill session="113" type="h" number="5197" updated="2014-08-14T13:35:50-04:00">
+  <state datetime="2014-07-24">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-24"/>
+  </status>
+  <introduced datetime="2014-07-24"/>
+  <titles>
+    <title type="short" as="introduced">Transparency in Reporting to Protect American Workers and Prevent Human Trafficking Act</title>
+    <title type="official" as="introduced">To amend section 214(c)(8) of the Immigration and Nationality Act to modify the data reporting requirements relating to nonimmigrant employees, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02119"/>
+  <cosponsors>
+    <cosponsor thomas_id="01976" joined="2014-07-24"/>
+    <cosponsor thomas_id="01913" joined="2014-07-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-24" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

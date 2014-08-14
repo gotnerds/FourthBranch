@@ -1,0 +1,203 @@
+<bill session="113" type="h" number="4631" updated="2014-08-14T13:30:51-04:00">
+  <state datetime="2014-08-08">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2014-08-08"/>
+  </status>
+  <introduced datetime="2014-05-09"/>
+  <titles>
+    <title type="short" as="introduced">Combating Autism Reauthorization Act of 2014</title>
+    <title type="short" as="reported to house">Autism CARES Act of 2014</title>
+    <title type="short" as="reported to house">Autism Collaboration, Accountability, Research, Education, and Support Act of 2014</title>
+    <title type="short" as="passed house">Autism CARES Act of 2014</title>
+    <title type="short" as="passed house">Autism Collaboration, Accountability, Research, Education, and Support Act of 2014</title>
+    <title type="short" as="passed senate">Autism CARES Act of 2014</title>
+    <title type="short" as="passed senate">Autism Collaboration, Accountability, Research, Education, and Support Act of 2014</title>
+    <title type="official" as="introduced">To reauthorize certain provisions of the Public Health Service Act relating to autism, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01071"/>
+  <cosponsors>
+    <cosponsor thomas_id="01460" joined="2014-05-09"/>
+    <cosponsor thomas_id="00038" joined="2014-05-09"/>
+    <cosponsor thomas_id="02054" joined="2014-06-23"/>
+    <cosponsor thomas_id="01996" joined="2014-06-23"/>
+    <cosponsor thomas_id="01838" joined="2014-05-21"/>
+    <cosponsor thomas_id="00091" joined="2014-05-15"/>
+    <cosponsor thomas_id="01748" joined="2014-05-09"/>
+    <cosponsor thomas_id="01845" joined="2014-05-23"/>
+    <cosponsor thomas_id="01751" joined="2014-05-22"/>
+    <cosponsor thomas_id="02127" joined="2014-06-23"/>
+    <cosponsor thomas_id="01676" joined="2014-05-21"/>
+    <cosponsor thomas_id="01999" joined="2014-06-09"/>
+    <cosponsor thomas_id="01889" joined="2014-05-19"/>
+    <cosponsor thomas_id="02138" joined="2014-05-19"/>
+    <cosponsor thomas_id="00281" joined="2014-05-09"/>
+    <cosponsor thomas_id="01976" joined="2014-05-09"/>
+    <cosponsor thomas_id="00316" joined="2014-05-09"/>
+    <cosponsor thomas_id="02123" joined="2014-06-23"/>
+    <cosponsor thomas_id="01857" joined="2014-05-19"/>
+    <cosponsor thomas_id="00355" joined="2014-06-10"/>
+    <cosponsor thomas_id="02114" joined="2014-06-10"/>
+    <cosponsor thomas_id="00371" joined="2014-05-21"/>
+    <cosponsor thomas_id="01797" joined="2014-05-09"/>
+    <cosponsor thomas_id="01793" joined="2014-05-15"/>
+    <cosponsor thomas_id="01743" joined="2014-05-22"/>
+    <cosponsor thomas_id="02043" joined="2014-05-09"/>
+    <cosponsor thomas_id="01990" joined="2014-05-28"/>
+    <cosponsor thomas_id="02041" joined="2014-05-15"/>
+    <cosponsor thomas_id="01933" joined="2014-05-09"/>
+    <cosponsor thomas_id="02040" joined="2014-05-29"/>
+    <cosponsor thomas_id="02143" joined="2014-05-22"/>
+    <cosponsor thomas_id="01580" joined="2014-06-23"/>
+    <cosponsor thomas_id="02101" joined="2014-05-21"/>
+    <cosponsor thomas_id="01663" joined="2014-05-13"/>
+    <cosponsor thomas_id="00588" joined="2014-05-09"/>
+    <cosponsor thomas_id="01921" joined="2014-05-13"/>
+    <cosponsor thomas_id="02154" joined="2014-06-12"/>
+    <cosponsor thomas_id="00616" joined="2014-05-27"/>
+    <cosponsor thomas_id="02051" joined="2014-05-09"/>
+    <cosponsor thomas_id="02172" joined="2014-06-11"/>
+    <cosponsor thomas_id="00635" joined="2014-05-09"/>
+    <cosponsor thomas_id="01733" joined="2014-06-19"/>
+    <cosponsor thomas_id="01936" joined="2014-05-09"/>
+    <cosponsor thomas_id="01583" joined="2014-05-09"/>
+    <cosponsor thomas_id="01781" joined="2014-05-21"/>
+    <cosponsor thomas_id="00729" joined="2014-05-22"/>
+    <cosponsor thomas_id="02053" joined="2014-05-09"/>
+    <cosponsor thomas_id="01671" joined="2014-05-09"/>
+    <cosponsor thomas_id="01503" joined="2014-06-09"/>
+    <cosponsor thomas_id="01504" joined="2014-05-13"/>
+    <cosponsor thomas_id="01505" joined="2014-05-21"/>
+    <cosponsor thomas_id="00778" joined="2014-05-30"/>
+    <cosponsor thomas_id="01809" joined="2014-05-09"/>
+    <cosponsor thomas_id="02142" joined="2014-05-09"/>
+    <cosponsor thomas_id="02052" joined="2014-05-09"/>
+    <cosponsor thomas_id="01731" joined="2014-05-09"/>
+    <cosponsor thomas_id="01685" joined="2014-05-09"/>
+    <cosponsor thomas_id="00832" joined="2014-05-09"/>
+    <cosponsor thomas_id="01744" joined="2014-05-09"/>
+    <cosponsor thomas_id="00868" joined="2014-05-19"/>
+    <cosponsor thomas_id="00910" joined="2014-05-21"/>
+    <cosponsor thomas_id="02022" joined="2014-05-09"/>
+    <cosponsor thomas_id="01967" joined="2014-05-20"/>
+    <cosponsor thomas_id="01954" joined="2014-05-13"/>
+    <cosponsor thomas_id="01916" joined="2014-05-09"/>
+    <cosponsor thomas_id="01848" joined="2014-05-22"/>
+    <cosponsor thomas_id="00997" joined="2014-05-19"/>
+    <cosponsor thomas_id="01635" joined="2014-05-23"/>
+    <cosponsor thomas_id="01920" joined="2014-05-19"/>
+    <cosponsor thomas_id="01798" joined="2014-05-22"/>
+    <cosponsor thomas_id="01722" joined="2014-05-15"/>
+    <cosponsor thomas_id="01041" joined="2014-06-11"/>
+    <cosponsor thomas_id="01525" joined="2014-05-09"/>
+    <cosponsor thomas_id="01861" joined="2014-05-09"/>
+    <cosponsor thomas_id="01527" joined="2014-05-22"/>
+    <cosponsor thomas_id="01069" joined="2014-05-13"/>
+    <cosponsor thomas_id="02047" joined="2014-05-09"/>
+    <cosponsor thomas_id="01566" joined="2014-05-09"/>
+    <cosponsor thomas_id="01729" joined="2014-05-09"/>
+    <cosponsor thomas_id="02112" joined="2014-05-13"/>
+    <cosponsor thomas_id="02128" joined="2014-05-09"/>
+    <cosponsor thomas_id="01856" joined="2014-06-20"/>
+    <cosponsor thomas_id="01879" joined="2014-06-09"/>
+    <cosponsor thomas_id="01238" joined="2014-05-09"/>
+    <cosponsor thomas_id="02021" joined="2014-05-09"/>
+    <cosponsor thomas_id="01256" joined="2014-05-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-09" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2014-05-16">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2014-06-09">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2014-06-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-06-10" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2014-06-23T15:24:00-04:00">
+      <text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 113-490.</text>
+    </action>
+    <calendar datetime="2014-06-23T15:24:00-04:00" calendar="Union" number="365">
+      <text>Placed on the Union Calendar, Calendar No. 365.</text>
+    </calendar>
+    <action datetime="2014-06-24T18:19:00-04:00">
+      <text>Mr. Pitts moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2014-06-24T18:20:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5688-5693" label="consideration"/>
+    </action>
+    <action datetime="2014-06-24T18:20:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4631.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-06-24T18:40:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5688-5690" label="text"/>
+    </vote>
+    <action datetime="2014-06-25">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote2" datetime="2014-07-31" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2014-08-01">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2014-08-04">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2014-08-08" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="113-157" type="public" datetime="2014-08-08">
+      <text>Became Public Law No: 113-157.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2449"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Advisory bodies"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Disability assistance"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government studies and investigations"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Hereditary and development disorders"/>
+    <term name="Housing for the elderly and disabled"/>
+    <term name="Medical research"/>
+    <term name="Neurological disorders"/>
+    <term name="Research administration and funding"/>
+    <term name="Vocational education"/>
+  </subjects>
+  <amendments/>
+  <summary>7/31/2014--Passed Senate without amendment.
+Autism Collaboration, Accountability, Research, Education, and Support Act of 2014 or the Autism CARES Act of 2014 - (Sec. 2) Requires the Secretary of Health and Human Services (HHS) to designate an official to oversee national autism spectrum disorder (ASD) research, services, and support activities. Directs the official to implement such activities taking into account the strategic plan developed by the Interagency Autism Coordinating Committee (the Interagency Committee) and ensure that duplication of activities by federal agencies is minimized.
+
+Extends through FY2019: (1) the developmental disabilities surveillance and research program; (2) the autism education, early detection, and intervention program; and (3) the Interagency Committee.
+
+(Sec. 3) Includes support for regional centers of excellence in ASD and other developmental disabilities epidemiology as a purpose of grants or cooperative agreements.
+
+(Sec. 4) Requires information and education activities to be culturally competent. Allows a lead agency coordinating activities at the state level to include respite care for caregivers. Allows the use of research centers or networks for the provision of training in respite care and for research to determine practices for interventions to improve the health of individuals with ASD.
+
+(Sec. 5) Revises responsibilities of the Interagency Committee concerning:
+
+ inclusion of school- and community-based interventions in the Committee summary of advances, monitoring of ASD research and federal services and support activities, recommendations to the Director of the National Institutes of Health regarding the strategic plan, recommendations regarding the process by which public feedback can be better integrated into ASD decisions, strategic plan updates and recommendations to minimize duplication, and reports to the President and Congress. Revises Interagency Committee membership requirements to specify additional federal agencies that might be represented and to modify the non-federal membership.
+
+(Sec. 6) Modifies requirements for reports by the Secretary on ASD activities. Adds a requirement for a report to Congress concerning young adults with ASD and the challenges related to the transition from existing school-based services to those available during adulthood.
+
+(Sec. 7) Authorizes appropriations to carry out the developmental disabilities surveillance and research program, the education, early detection, and intervention program, and the Interagency Committee for FY2015-FY2019.</summary>
+</bill>

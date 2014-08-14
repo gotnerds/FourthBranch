@@ -1,0 +1,28 @@
+<bill session="113" type="h" number="5042" updated="2014-08-14T13:34:31-04:00">
+  <state datetime="2014-07-09">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-09"/>
+  </status>
+  <introduced datetime="2014-07-09"/>
+  <titles>
+    <title type="short" as="introduced">Jumpstart VA Construction Act</title>
+    <title type="official" as="introduced">To direct the Secretary of Veterans Affairs to carry out a pilot program under which the Secretary enters into partnership agreements with non-Federal entities for the construction of major medical facility projects.</title>
+  </titles>
+  <sponsor thomas_id="01832"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-09" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2014-07-18">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Health" code="HSVR03" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

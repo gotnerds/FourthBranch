@@ -1,0 +1,31 @@
+<bill session="113" type="h" number="5180" updated="2014-08-14T13:35:40-04:00">
+  <state datetime="2014-07-23">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-23"/>
+  </status>
+  <introduced datetime="2014-07-23"/>
+  <titles>
+    <title type="short" as="introduced">Financial Stability Oversight Council Improvement Act of 2014</title>
+    <title type="official" as="introduced">To amend the Financial Stability Act of 2010 to improve the transparency of the Financial Stability Oversight Council, to improve the SIFI designation process, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02003"/>
+  <cosponsors>
+    <cosponsor thomas_id="00038" joined="2014-07-23"/>
+    <cosponsor thomas_id="02131" joined="2014-08-01"/>
+    <cosponsor thomas_id="02133" joined="2014-07-23"/>
+    <cosponsor thomas_id="01931" joined="2014-07-23"/>
+    <cosponsor thomas_id="02117" joined="2014-07-23"/>
+    <cosponsor thomas_id="02099" joined="2014-07-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-23" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

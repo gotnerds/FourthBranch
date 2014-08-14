@@ -1,0 +1,77 @@
+<bill session="113" type="h" number="2907" updated="2014-08-14T13:16:15-04:00">
+  <state datetime="2013-08-01">REFERRED</state>
+  <status>
+    <introduced datetime="2013-08-01"/>
+  </status>
+  <introduced datetime="2013-08-01"/>
+  <titles>
+    <title type="short" as="introduced">National Guardsmen and Reservists Parity for Patriots Act</title>
+    <title type="official" as="introduced">To amend title 10, United States Code, to ensure that members of the reserve components of the Armed Forces who have served on active duty or performed active service since September 11, 2001, in support of a contingency operation or in other emergency situations receive credit for such service in determining eligibility for early receipt of non-regular service retired pay, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01688"/>
+  <cosponsors>
+    <cosponsor thomas_id="01838" joined="2013-09-11"/>
+    <cosponsor thomas_id="01753" joined="2013-10-28"/>
+    <cosponsor thomas_id="02092" joined="2013-12-02"/>
+    <cosponsor thomas_id="01723" joined="2013-08-02"/>
+    <cosponsor thomas_id="01676" joined="2013-10-04"/>
+    <cosponsor thomas_id="01790" joined="2014-02-21"/>
+    <cosponsor thomas_id="01836" joined="2013-09-11"/>
+    <cosponsor thomas_id="02144" joined="2013-09-11"/>
+    <cosponsor thomas_id="02125" joined="2013-10-04"/>
+    <cosponsor thomas_id="02064" joined="2013-09-11"/>
+    <cosponsor thomas_id="01990" joined="2013-10-04"/>
+    <cosponsor thomas_id="01749" joined="2013-10-04"/>
+    <cosponsor thomas_id="01663" joined="2013-12-03"/>
+    <cosponsor thomas_id="00612" joined="2013-09-11"/>
+    <cosponsor thomas_id="02145" joined="2014-01-28"/>
+    <cosponsor thomas_id="00666" joined="2014-02-03"/>
+    <cosponsor thomas_id="01846" joined="2013-08-02"/>
+    <cosponsor thomas_id="00701" joined="2013-09-25"/>
+    <cosponsor thomas_id="02150" joined="2013-10-28"/>
+    <cosponsor thomas_id="02094" joined="2014-04-28"/>
+    <cosponsor thomas_id="01504" joined="2013-10-04"/>
+    <cosponsor thomas_id="02001" joined="2013-09-11"/>
+    <cosponsor thomas_id="02034" joined="2014-02-28"/>
+    <cosponsor thomas_id="02162" joined="2013-12-05"/>
+    <cosponsor thomas_id="02035" joined="2013-09-11"/>
+    <cosponsor thomas_id="00940" joined="2013-10-04"/>
+    <cosponsor thomas_id="01986" joined="2013-10-04"/>
+    <cosponsor thomas_id="01954" joined="2013-09-11"/>
+    <cosponsor thomas_id="02039" joined="2013-08-02"/>
+    <cosponsor thomas_id="01798" joined="2014-01-08"/>
+    <cosponsor thomas_id="01861" joined="2014-05-19"/>
+    <cosponsor thomas_id="01071" joined="2013-11-14"/>
+    <cosponsor thomas_id="02047" joined="2013-09-11"/>
+    <cosponsor thomas_id="01535" joined="2013-09-25"/>
+    <cosponsor thomas_id="01779" joined="2013-09-11"/>
+    <cosponsor thomas_id="01886" joined="2013-10-28"/>
+    <cosponsor thomas_id="01853" joined="2013-11-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-08-01" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2013-08-29">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee subcommittee="Military Personnel" code="HSAS02" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Afghanistan"/>
+    <term name="Asia"/>
+    <term name="Iraq"/>
+    <term name="Middle East"/>
+    <term name="Military operations and strategy"/>
+    <term name="National Guard and reserves"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>8/1/2013--Introduced.
+National Guardsmen and Reservists Parity for Patriots Act - Amends the National Defense Authorization Act for Fiscal Year 2008 to back-date to September 11, 2001, the period of active duty or performed active service, in support of a contingency operation or in other emergency situations, for which members of Ready Reserve components of the armed forces shall receive credit in determining eligibility for early receipt of non-regular service retired pay.</summary>
+</bill>

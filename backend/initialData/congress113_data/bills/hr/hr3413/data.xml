@@ -1,0 +1,125 @@
+<bill session="113" type="h" number="3413" updated="2014-08-14T13:20:32-04:00">
+  <state datetime="2013-10-30">REFERRED</state>
+  <status>
+    <introduced datetime="2013-10-30"/>
+  </status>
+  <introduced datetime="2013-10-30"/>
+  <titles>
+    <title type="short" as="introduced">TRUE Safety Act</title>
+    <title type="short" as="introduced">True Understanding of the Economy and Safety Act</title>
+    <title type="official" as="introduced">To require a study and report by the Comptroller General regarding the restart provision of the Hours of Service Rules for Commercial Truck Drivers, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02044"/>
+  <cosponsors>
+    <cosponsor thomas_id="02029" joined="2014-01-07"/>
+    <cosponsor thomas_id="01858" joined="2013-12-03"/>
+    <cosponsor thomas_id="02054" joined="2013-11-12"/>
+    <cosponsor thomas_id="02131" joined="2013-11-14"/>
+    <cosponsor thomas_id="01780" joined="2013-11-18"/>
+    <cosponsor thomas_id="01753" joined="2014-02-11"/>
+    <cosponsor thomas_id="01748" joined="2013-12-04"/>
+    <cosponsor thomas_id="02018" joined="2013-11-14"/>
+    <cosponsor thomas_id="01676" joined="2013-11-12"/>
+    <cosponsor thomas_id="00186" joined="2013-12-02"/>
+    <cosponsor thomas_id="00211" joined="2013-11-20"/>
+    <cosponsor thomas_id="01912" joined="2014-05-09"/>
+    <cosponsor thomas_id="02151" joined="2013-12-02"/>
+    <cosponsor thomas_id="02098" joined="2014-01-08"/>
+    <cosponsor thomas_id="02144" joined="2013-11-12"/>
+    <cosponsor thomas_id="01989" joined="2013-11-12"/>
+    <cosponsor thomas_id="02126" joined="2013-11-20"/>
+    <cosponsor thomas_id="02064" joined="2013-11-18"/>
+    <cosponsor thomas_id="01998" joined="2014-02-11"/>
+    <cosponsor thomas_id="02049" joined="2013-11-14"/>
+    <cosponsor thomas_id="00446" joined="2013-12-03"/>
+    <cosponsor thomas_id="01656" joined="2013-11-12"/>
+    <cosponsor thomas_id="01990" joined="2013-11-14"/>
+    <cosponsor thomas_id="02070" joined="2013-12-02"/>
+    <cosponsor thomas_id="01933" joined="2014-01-09"/>
+    <cosponsor thomas_id="02026" joined="2014-06-12"/>
+    <cosponsor thomas_id="02032" joined="2013-11-15"/>
+    <cosponsor thomas_id="01749" joined="2014-04-01"/>
+    <cosponsor thomas_id="02071" joined="2013-11-18"/>
+    <cosponsor thomas_id="02020" joined="2013-11-18"/>
+    <cosponsor thomas_id="02028" joined="2013-11-15"/>
+    <cosponsor thomas_id="01909" joined="2013-11-15"/>
+    <cosponsor thomas_id="01921" joined="2013-11-12"/>
+    <cosponsor thomas_id="01868" joined="2014-02-25"/>
+    <cosponsor thomas_id="01885" joined="2013-12-03"/>
+    <cosponsor thomas_id="00699" joined="2013-12-02"/>
+    <cosponsor thomas_id="02033" joined="2013-11-15"/>
+    <cosponsor thomas_id="01931" joined="2013-12-03"/>
+    <cosponsor thomas_id="02195" joined="2014-01-16"/>
+    <cosponsor thomas_id="01730" joined="2013-10-30"/>
+    <cosponsor thomas_id="02156" joined="2013-11-15"/>
+    <cosponsor thomas_id="02059" joined="2014-05-07"/>
+    <cosponsor thomas_id="02117" joined="2014-04-28"/>
+    <cosponsor thomas_id="02060" joined="2013-11-14"/>
+    <cosponsor thomas_id="02034" joined="2013-11-20"/>
+    <cosponsor thomas_id="01930" joined="2013-12-19"/>
+    <cosponsor thomas_id="02157" joined="2014-05-28"/>
+    <cosponsor thomas_id="00910" joined="2013-11-12"/>
+    <cosponsor thomas_id="02141" joined="2014-05-06"/>
+    <cosponsor thomas_id="02118" joined="2013-11-12"/>
+    <cosponsor thomas_id="02073" joined="2013-11-12"/>
+    <cosponsor thomas_id="02160" joined="2013-10-30"/>
+    <cosponsor thomas_id="01954" joined="2013-11-21"/>
+    <cosponsor thomas_id="02017" joined="2013-11-15"/>
+    <cosponsor thomas_id="02158" joined="2013-11-15"/>
+    <cosponsor thomas_id="01012" joined="2013-12-02"/>
+    <cosponsor thomas_id="01920" joined="2013-12-12"/>
+    <cosponsor thomas_id="01041" joined="2013-11-15"/>
+    <cosponsor thomas_id="01525" joined="2014-02-18"/>
+    <cosponsor thomas_id="02191" joined="2013-11-15"/>
+    <cosponsor thomas_id="02168" joined="2014-01-08"/>
+    <cosponsor thomas_id="01151" joined="2013-11-21"/>
+    <cosponsor thomas_id="01952" joined="2013-11-12"/>
+    <cosponsor thomas_id="01155" joined="2013-11-12"/>
+    <cosponsor thomas_id="01997" joined="2013-12-03"/>
+    <cosponsor thomas_id="02161" joined="2014-02-28"/>
+    <cosponsor thomas_id="01779" joined="2014-01-27"/>
+    <cosponsor thomas_id="01222" joined="2013-11-18"/>
+    <cosponsor thomas_id="02165" joined="2013-11-21"/>
+    <cosponsor thomas_id="01886" joined="2013-11-20"/>
+    <cosponsor thomas_id="01991" joined="2013-12-12"/>
+    <cosponsor thomas_id="01256" joined="2013-11-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-10-30" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2013-10-31">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Highways and Transit" code="HSPW12" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1891"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Transportation"/>
+    <term name="Government studies and investigations"/>
+    <term name="Labor standards"/>
+    <term name="Motor carriers"/>
+    <term name="Transportation employees"/>
+    <term name="Transportation safety and security"/>
+    <term name="Worker safety and health"/>
+  </subjects>
+  <amendments/>
+  <summary>10/30/2013--Introduced.
+True Understanding of the Economy and Safety Act or TRUE Safety Act - Directs the Comptroller General (GAO), after the Administrator of the Federal Motor Carrier Safety Administration (FMCSA) reports to Congress on an hours of service field study, to assess the methodology followed by the Secretary of Transportation (DOT) in carrying out the efficacy of the restart rule ("Hours of Service of Drivers") published on December 27, 2011, which applies to operators of commercial motor vehicles of property subject to maximum DOT driving time requirements.
+
+Requires the assessment to evaluate the extent to which that methodology meets the requirements of the Moving Ahead for Progress in the 21st Century Act (MAP-21) that: (1) the data collected is representative of the drivers subject to the restart rule, (2) the methodology is statistically valid, and (3) the study followed the FMCSA plan for the "Scheduling and Fatigue Recovery Project."
+
+Directs GAO to assess the Regulatory Impact Analysis that accompanied the final 2011 restart rule.
+
+Nullifies the 2011 restart rule until six months after the study report required by this Act has been submitted to Congress.
+
+Prohibits the Secretary from applying the restart rule if the conclusions of the field study completed pursuant to MAP-21 do not support or concur with the conclusions of the laboratory study on which the rule was based.</summary>
+</bill>

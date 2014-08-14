@@ -1,0 +1,47 @@
+<bill session="113" type="h" number="4693" updated="2014-08-14T13:31:27-04:00">
+  <state datetime="2014-05-20">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-20"/>
+  </status>
+  <introduced datetime="2014-05-20"/>
+  <titles>
+    <title type="short" as="introduced">U.S. Air Forces Escape and Evasion Society Recognition Act of 2014</title>
+    <title type="official" as="introduced">To award a gold medal on behalf of the Congress to the U.S. Air Forces Escape and Evasion Society, in recognition of the ceaseless efforts of American aircrew members to escape captivity and evade capture by the enemy forces in occupied countries during our foreign wars, and the brave resistance organizations and patriotic nationals of those foreign countries who assisted them.</title>
+  </titles>
+  <sponsor thomas_id="01884"/>
+  <cosponsors>
+    <cosponsor thomas_id="01973" joined="2014-06-12"/>
+    <cosponsor thomas_id="00603" joined="2014-05-20"/>
+    <cosponsor thomas_id="02025" joined="2014-07-14"/>
+    <cosponsor thomas_id="01504" joined="2014-05-20"/>
+    <cosponsor thomas_id="01593" joined="2014-07-14"/>
+    <cosponsor thomas_id="01664" joined="2014-05-20"/>
+    <cosponsor thomas_id="02002" joined="2014-07-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-20" state="REFERRED">
+      <text>Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-05-20">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2014-05-20">
+      <text>Referred to House House Administration</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee subcommittee="" code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional tributes"/>
+    <term name="Military operations and strategy"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Museums, exhibitions, cultural centers"/>
+  </subjects>
+  <amendments/>
+  <summary>5/20/2014--Introduced.
+U.S. Air Forces Escape and Evasion Society Recognition Act of 2014 - Directs the Speaker of the House of Representatives and the President pro tempore of the Senate to arrange for the presentation of a gold medal to the U.S. Air Forces Escape and Evasion Society, in recognition of the ceaseless efforts of American aircrew members to escape captivity and evade capture and the resistance organizations and nationals who assisted them.</summary>
+</bill>

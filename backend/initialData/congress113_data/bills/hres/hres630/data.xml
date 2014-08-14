@@ -1,0 +1,38 @@
+<bill session="113" type="hr" number="630" updated="2014-08-14T12:49:58-04:00">
+  <state datetime="2014-06-18">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-18"/>
+  </status>
+  <introduced datetime="2014-06-18"/>
+  <titles>
+    <title type="official" as="introduced">Recognizing the benefits and importance of music making as an essential form of creative expression and expressing support for designating the Summer Solstice, June 21, 2014, as Make Music Day.</title>
+  </titles>
+  <sponsor thomas_id="01635"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2014-06-18"/>
+    <cosponsor thomas_id="01864" joined="2014-06-18"/>
+    <cosponsor thomas_id="02089" joined="2014-06-18"/>
+    <cosponsor thomas_id="02145" joined="2014-06-19"/>
+    <cosponsor thomas_id="00701" joined="2014-06-24"/>
+    <cosponsor thomas_id="01506" joined="2014-06-18"/>
+    <cosponsor thomas_id="00850" joined="2014-06-18"/>
+    <cosponsor thomas_id="01927" joined="2014-06-19"/>
+    <cosponsor thomas_id="02171" joined="2014-07-09"/>
+    <cosponsor thomas_id="01588" joined="2014-06-19"/>
+    <cosponsor thomas_id="01069" joined="2014-06-20"/>
+    <cosponsor thomas_id="01184" joined="2014-06-20"/>
+    <cosponsor thomas_id="01856" joined="2014-06-24"/>
+    <cosponsor thomas_id="01209" joined="2014-06-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-18" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,30 @@
+<bill session="113" type="h" number="5348" updated="2014-08-14T13:37:08-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="short" as="introduced">FTO Reform Act of 2014</title>
+    <title type="official" as="introduced">To require the Secretary of Homeland Security to collaborate on foreign terrorist organization designations.</title>
+  </titles>
+  <sponsor thomas_id="00635"/>
+  <cosponsors>
+    <cosponsor thomas_id="01804" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2014-08-01">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1298-1299"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

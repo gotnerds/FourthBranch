@@ -1,0 +1,75 @@
+<bill session="113" type="h" number="4240" updated="2014-08-14T13:27:35-04:00">
+  <state datetime="2014-03-13">REFERRED</state>
+  <status>
+    <introduced datetime="2014-03-13"/>
+  </status>
+  <introduced datetime="2014-03-13"/>
+  <titles>
+    <title type="short" as="introduced">HEAL Immigrant Women and Families Act of 2014</title>
+    <title type="short" as="introduced">Health Equity and Access under the Law for Immigrant Women and Families Act of 2014</title>
+    <title type="official" as="introduced">To expand access to health care services, including sexual, reproductive, and maternal health services, for immigrant women, men, and families by removing legal barriers to health insurance coverage, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02146"/>
+  <cosponsors>
+    <cosponsor thomas_id="00132" joined="2014-03-13"/>
+    <cosponsor thomas_id="02107" joined="2014-03-13"/>
+    <cosponsor thomas_id="01474" joined="2014-03-13"/>
+    <cosponsor thomas_id="01970" joined="2014-07-25"/>
+    <cosponsor thomas_id="01895" joined="2014-03-13"/>
+    <cosponsor thomas_id="01708" joined="2014-03-13"/>
+    <cosponsor thomas_id="00478" joined="2014-03-13"/>
+    <cosponsor thomas_id="00511" joined="2014-03-13"/>
+    <cosponsor thomas_id="01634" joined="2014-05-19"/>
+    <cosponsor thomas_id="01843" joined="2014-03-14"/>
+    <cosponsor thomas_id="01501" joined="2014-03-13"/>
+    <cosponsor thomas_id="01602" joined="2014-03-13"/>
+    <cosponsor thomas_id="00868" joined="2014-03-13"/>
+    <cosponsor thomas_id="02162" joined="2014-03-21"/>
+    <cosponsor thomas_id="00893" joined="2014-03-14"/>
+    <cosponsor thomas_id="01927" joined="2014-03-13"/>
+    <cosponsor thomas_id="00944" joined="2014-06-12"/>
+    <cosponsor thomas_id="00997" joined="2014-03-13"/>
+    <cosponsor thomas_id="01757" joined="2014-03-13"/>
+    <cosponsor thomas_id="01522" joined="2014-06-18"/>
+    <cosponsor thomas_id="01588" joined="2014-03-13"/>
+    <cosponsor thomas_id="01069" joined="2014-05-22"/>
+    <cosponsor thomas_id="02112" joined="2014-03-13"/>
+    <cosponsor thomas_id="02166" joined="2014-03-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-03-13" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-03-13">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2014-03-13">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2014-03-14">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Child health"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Immigrant health and welfare"/>
+    <term name="Medicaid"/>
+    <term name="Poverty and welfare assistance"/>
+    <term name="Sex and reproductive health"/>
+    <term name="Women's health"/>
+  </subjects>
+  <amendments/>
+  <summary>3/13/2014--Introduced.
+Health Equity and Access under the Law for Immigrant Women and Families Act of 2014 or the HEAL Immigrant Women and Families Act of 2014 - Amends titles XIX (Medicaid) and XXI (Children's Health Insurance) (CHIP) of the Social Security Act to extend Medicaid and CHIP coverage to aliens lawfully present in the United States.
+
+Makes individuals granted deferred action under the Deferred Action for Childhood Arrivals process eligible for: (1) health care exchanges and reduced cost sharing under the Patient Protection and Affordable Care Act, (2) premium subsidies under the Internal Revenue Code, and (3) Medicaid and CHIP.</summary>
+</bill>

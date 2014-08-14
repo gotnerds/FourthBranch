@@ -1,0 +1,39 @@
+<bill session="113" type="h" number="5221" updated="2014-08-14T13:36:02-04:00">
+  <state datetime="2014-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-28"/>
+  </status>
+  <introduced datetime="2014-07-28"/>
+  <titles>
+    <title type="short" as="introduced">Border Health Security Act of 2014</title>
+    <title type="official" as="introduced">To establish grant programs to improve the health of border area residents and for all hazards preparedness in the border area including bioterrorism, infectious disease, and noncommunicable emerging threats, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01490"/>
+  <cosponsors>
+    <cosponsor thomas_id="01807" joined="2014-07-28"/>
+    <cosponsor thomas_id="01708" joined="2014-07-28"/>
+    <cosponsor thomas_id="00599" joined="2014-07-28"/>
+    <cosponsor thomas_id="01730" joined="2014-07-28"/>
+    <cosponsor thomas_id="02167" joined="2014-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-28" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-07-28">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2014-07-28">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2268"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

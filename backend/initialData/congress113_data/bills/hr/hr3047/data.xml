@@ -1,0 +1,42 @@
+<bill session="113" type="h" number="3047" updated="2014-08-14T13:17:27-04:00">
+  <state datetime="2013-08-02">REFERRED</state>
+  <status>
+    <introduced datetime="2013-08-02"/>
+  </status>
+  <introduced datetime="2013-08-02"/>
+  <titles>
+    <title type="official" as="introduced">To authorize borrowers of loans under the William D. Ford Federal Direct Loan Program to modify the interest rate of such loans to be equal to the interest rate for such loans at the time of modification.</title>
+  </titles>
+  <sponsor thomas_id="02171"/>
+  <cosponsors>
+    <cosponsor thomas_id="02159" joined="2014-01-08"/>
+    <cosponsor thomas_id="01498" joined="2014-03-11"/>
+    <cosponsor thomas_id="02111" joined="2013-11-20"/>
+    <cosponsor thomas_id="02004" joined="2013-09-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-08-02" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2013-09-13">
+      <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee subcommittee="Higher Education and Workforce Training" code="HSED13" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Higher education"/>
+    <term name="Interest, dividends, interest rates"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+  <summary>8/2/2013--Introduced.
+Amends title IV (Student Assistance) of the Higher Education Act of 1965 to allow a borrower of a loan under the William D. Ford Federal Direct Loan program to modify the interest rate on such a loan so that its interest rate is equal to the interest rate it would bear if first disbursed at the time of modification.
+
+Fixes that interest rate for the life of the loan, unless the borrower elects to modify it again.</summary>
+</bill>

@@ -1,0 +1,52 @@
+<bill session="113" type="h" number="969" updated="2014-08-14T12:58:57-04:00">
+  <state datetime="2013-03-05">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-05"/>
+  </status>
+  <introduced datetime="2013-03-05"/>
+  <titles>
+    <title type="short" as="introduced">Medical Practice Freedom Act of 2013</title>
+    <title type="official" as="introduced">To prohibit conditioning licensure of a health care provider upon participation in a health plan.</title>
+  </titles>
+  <sponsor thomas_id="01778"/>
+  <cosponsors>
+    <cosponsor thomas_id="01753" joined="2013-04-09"/>
+    <cosponsor thomas_id="01748" joined="2013-03-05"/>
+    <cosponsor thomas_id="01787" joined="2013-03-05"/>
+    <cosponsor thomas_id="01468" joined="2013-04-09"/>
+    <cosponsor thomas_id="01925" joined="2013-03-05"/>
+    <cosponsor thomas_id="01670" joined="2013-04-09"/>
+    <cosponsor thomas_id="02062" joined="2013-04-09"/>
+    <cosponsor thomas_id="01707" joined="2013-04-09"/>
+    <cosponsor thomas_id="00484" joined="2013-04-09"/>
+    <cosponsor thomas_id="00603" joined="2013-04-09"/>
+    <cosponsor thomas_id="01960" joined="2013-04-09"/>
+    <cosponsor thomas_id="01908" joined="2013-04-09"/>
+    <cosponsor thomas_id="01954" joined="2013-03-05"/>
+    <cosponsor thomas_id="02000" joined="2013-04-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-05" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-03-08">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health personnel"/>
+    <term name="Licensing and registrations"/>
+    <term name="Medicaid"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>3/5/2013--Introduced.
+Medical Practice Freedom Act of 2013 - Prohibits the Secretary of Health and Human Services (HHS) or any state from requiring any health care provider to participate in any health plan as a condition of the provider's licensure in any state.</summary>
+</bill>

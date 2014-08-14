@@ -1,0 +1,45 @@
+<bill session="113" type="hr" number="211" updated="2014-08-14T12:46:25-04:00">
+  <state datetime="2013-05-09">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-09"/>
+  </status>
+  <introduced datetime="2013-05-09"/>
+  <titles>
+    <title type="official" as="introduced">Expressing support for designation of the week of October 7 through October 13, 2013, as "Naturopathic Medicine Week" to recognize the value of naturopathic medicine in providing safe, effective, and affordable health care.</title>
+  </titles>
+  <sponsor thomas_id="00868"/>
+  <cosponsors>
+    <cosponsor thomas_id="00099" joined="2013-06-17"/>
+    <cosponsor thomas_id="01836" joined="2013-06-26"/>
+    <cosponsor thomas_id="00368" joined="2013-05-20"/>
+    <cosponsor thomas_id="01009" joined="2013-06-03"/>
+    <cosponsor thomas_id="01528" joined="2013-06-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-09" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-05-10">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="113" relation="identical" number="508"/>
+    <bill type="sr" session="113" relation="unknown" number="135"/>
+    <bill type="sr" session="113" relation="unknown" number="221"/>
+    <bill type="sr" session="113" relation="unknown" number="420"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Alternative treatments"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Health promotion and preventive care"/>
+  </subjects>
+  <amendments/>
+  <summary>5/9/2013--Introduced.
+Expresses support for the designation of Naturopathic Medicine Week. Recognizes the value of naturopathic medicine in providing safe, effective, and affordable health care.</summary>
+</bill>

@@ -1,0 +1,34 @@
+<bill session="113" type="s" number="2518" updated="2014-08-14T14:06:17-04:00">
+  <state datetime="2014-06-24">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-24"/>
+  </status>
+  <introduced datetime="2014-06-24"/>
+  <titles>
+    <title type="short" as="introduced">College Access Act of 2014</title>
+    <title type="official" as="introduced">A bill to establish a grant program to incentivize States to implement comprehensive reforms and innovative strategies to significantly improve postsecondary outcomes for low-income and first generation college students, including increasing postsecondary enrollment and graduation rates, to reduce the need of postsecondary students for remedial education, to increase alignment of elementary, secondary, and postsecondary education, and to promote innovation in postsecondary education, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01969"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-06-24" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Academic performance and assessments"/>
+    <term name="Education of the disadvantaged"/>
+    <term name="Education programs funding"/>
+    <term name="Educational technology and distance education"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Higher education"/>
+    <term name="Student aid and college costs"/>
+    <term name="Teaching, teachers, curricula"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,116 @@
+<bill session="113" type="h" number="1124" updated="2014-08-14T13:00:16-04:00">
+  <state datetime="2013-03-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-13"/>
+  </status>
+  <introduced datetime="2013-03-13"/>
+  <titles>
+    <title type="short" as="introduced">TIGER Grants for Job Creation Act</title>
+    <title type="official" as="introduced">Making supplemental appropriations for fiscal year 2013 for the TIGER Discretionary Grant program, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01205"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2013-03-13"/>
+    <cosponsor thomas_id="02153" joined="2013-11-19"/>
+    <cosponsor thomas_id="00099" joined="2013-03-13"/>
+    <cosponsor thomas_id="00132" joined="2013-03-13"/>
+    <cosponsor thomas_id="02106" joined="2013-03-13"/>
+    <cosponsor thomas_id="01761" joined="2013-03-13"/>
+    <cosponsor thomas_id="01889" joined="2013-03-13"/>
+    <cosponsor thomas_id="02159" joined="2013-03-14"/>
+    <cosponsor thomas_id="01839" joined="2013-03-14"/>
+    <cosponsor thomas_id="01474" joined="2013-03-13"/>
+    <cosponsor thomas_id="02055" joined="2013-03-13"/>
+    <cosponsor thomas_id="01864" joined="2013-04-10"/>
+    <cosponsor thomas_id="01654" joined="2013-03-13"/>
+    <cosponsor thomas_id="01790" joined="2013-03-13"/>
+    <cosponsor thomas_id="01878" joined="2013-03-14"/>
+    <cosponsor thomas_id="01959" joined="2013-04-10"/>
+    <cosponsor thomas_id="00229" joined="2013-03-13"/>
+    <cosponsor thomas_id="00279" joined="2013-03-13"/>
+    <cosponsor thomas_id="02133" joined="2013-03-13"/>
+    <cosponsor thomas_id="01976" joined="2013-03-13"/>
+    <cosponsor thomas_id="01894" joined="2013-03-13"/>
+    <cosponsor thomas_id="01857" joined="2013-03-13"/>
+    <cosponsor thomas_id="02125" joined="2013-03-13"/>
+    <cosponsor thomas_id="01895" joined="2013-04-10"/>
+    <cosponsor thomas_id="01803" joined="2013-03-13"/>
+    <cosponsor thomas_id="01708" joined="2013-03-13"/>
+    <cosponsor thomas_id="02089" joined="2013-03-13"/>
+    <cosponsor thomas_id="00511" joined="2013-03-13"/>
+    <cosponsor thomas_id="02170" joined="2013-03-13"/>
+    <cosponsor thomas_id="01794" joined="2013-03-13"/>
+    <cosponsor thomas_id="01490" joined="2013-03-13"/>
+    <cosponsor thomas_id="01634" joined="2013-03-13"/>
+    <cosponsor thomas_id="02101" joined="2013-03-13"/>
+    <cosponsor thomas_id="00588" joined="2013-03-13"/>
+    <cosponsor thomas_id="01843" joined="2013-03-13"/>
+    <cosponsor thomas_id="00616" joined="2013-03-13"/>
+    <cosponsor thomas_id="02025" joined="2013-03-13"/>
+    <cosponsor thomas_id="01501" joined="2013-03-13"/>
+    <cosponsor thomas_id="00688" joined="2013-03-13"/>
+    <cosponsor thomas_id="00701" joined="2013-03-13"/>
+    <cosponsor thomas_id="02111" joined="2013-03-13"/>
+    <cosponsor thomas_id="01653" joined="2013-03-13"/>
+    <cosponsor thomas_id="00766" joined="2013-03-13"/>
+    <cosponsor thomas_id="02148" joined="2013-03-13"/>
+    <cosponsor thomas_id="00850" joined="2013-03-13"/>
+    <cosponsor thomas_id="02108" joined="2013-03-13"/>
+    <cosponsor thomas_id="00868" joined="2013-03-13"/>
+    <cosponsor thomas_id="02097" joined="2013-03-13"/>
+    <cosponsor thomas_id="01927" joined="2013-03-13"/>
+    <cosponsor thomas_id="02171" joined="2013-03-13"/>
+    <cosponsor thomas_id="01967" joined="2013-03-13"/>
+    <cosponsor thomas_id="00940" joined="2013-03-13"/>
+    <cosponsor thomas_id="00944" joined="2013-03-13"/>
+    <cosponsor thomas_id="00997" joined="2013-03-13"/>
+    <cosponsor thomas_id="01003" joined="2013-03-13"/>
+    <cosponsor thomas_id="01756" joined="2013-03-13"/>
+    <cosponsor thomas_id="01588" joined="2013-03-13"/>
+    <cosponsor thomas_id="01635" joined="2013-03-13"/>
+    <cosponsor thomas_id="01037" joined="2013-03-13"/>
+    <cosponsor thomas_id="01988" joined="2013-03-13"/>
+    <cosponsor thomas_id="01818" joined="2013-03-13"/>
+    <cosponsor thomas_id="01069" joined="2013-03-13"/>
+    <cosponsor thomas_id="02104" joined="2013-03-15"/>
+    <cosponsor thomas_id="01942" joined="2013-03-13"/>
+    <cosponsor thomas_id="02112" joined="2013-03-13"/>
+    <cosponsor thomas_id="02166" joined="2013-05-17"/>
+    <cosponsor thomas_id="01777" joined="2013-03-13"/>
+    <cosponsor thomas_id="01207" joined="2013-03-13"/>
+    <cosponsor thomas_id="02004" joined="2013-03-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-13" state="REFERRED">
+      <text>Referred to the Committee on Appropriations, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-13">
+      <text>Referred to House Appropriations</text>
+    </action>
+    <action datetime="2013-03-13">
+      <text>Referred to House Budget</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAP" name="House Appropriations" activity="Referral, In Committee"/>
+    <committee subcommittee="" code="HSBU" name="House Budget" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="2944"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Appropriations"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Transportation"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Infrastructure development"/>
+    <term name="Public transit"/>
+    <term name="Roads and highways"/>
+    <term name="Transportation programs funding"/>
+  </subjects>
+  <amendments/>
+  <summary>3/13/2013--Introduced.
+TIGER Grants for Job Creation Act - Makes supplemental appropriations of $500 million for each of FY2013 and FY2014 for the Department of Transportation (DOT) for the Transportation Investment Generating Economic Recovery (TIGER) competitive grant program for national infrastructure investment projects for states, local governments, and transit agencies. Exempts such appropriations from sequestration under the Balanced Budget and Emergency Deficit Control Act of 1985.</summary>
+</bill>

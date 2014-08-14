@@ -1,0 +1,37 @@
+<bill session="113" type="h" number="4657" updated="2014-08-14T13:31:05-04:00">
+  <state datetime="2014-05-13">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-13"/>
+  </status>
+  <introduced datetime="2014-05-13"/>
+  <titles>
+    <title type="short" as="introduced">Timber Revitalization and Economic Enhancement Act of 2014</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to make permanent certain provisions of the Heartland, Habitat, Harvest, and Horticulture Act of 2008 relating to timber, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01990"/>
+  <cosponsors>
+    <cosponsor thomas_id="02098" joined="2014-05-13"/>
+    <cosponsor thomas_id="01989" joined="2014-05-13"/>
+    <cosponsor thomas_id="01991" joined="2014-05-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-13" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1544"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Capital gains tax"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Income tax rates"/>
+  </subjects>
+  <amendments/>
+  <summary>5/13/2014--Introduced.
+Timber Revitalization and Economic Enhancement Act of 2014 - Amends the Internal Revenue Code, with respect to the reduced tax rate on the net timber gains of corporations, to: (1) adjust the formula for calculating such rate, and (2) make such reduced rate permanent.</summary>
+</bill>

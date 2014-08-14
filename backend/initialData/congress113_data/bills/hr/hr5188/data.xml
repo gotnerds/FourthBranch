@@ -1,0 +1,23 @@
+<bill session="113" type="h" number="5188" updated="2014-08-14T13:35:44-04:00">
+  <state datetime="2014-07-24">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-24"/>
+  </status>
+  <introduced datetime="2014-07-24"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Consumer Financial Protection Act of 2010 to require the Bureau of Consumer Financial Protection to develop a model form for a disclosure notice that shall be used by depository institutions and credit unions, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01999"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-24" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

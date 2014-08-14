@@ -1,0 +1,43 @@
+<bill session="113" type="hr" number="584" updated="2014-08-14T12:49:34-04:00">
+  <state datetime="2014-05-13">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-13"/>
+  </status>
+  <introduced datetime="2014-05-13"/>
+  <titles>
+    <title type="official" as="introduced">Expressing support for the designation of May 11, 2014, through May 17, 2014, as Food Allergy Awareness Week.</title>
+  </titles>
+  <sponsor thomas_id="01663"/>
+  <cosponsors>
+    <cosponsor thomas_id="01804" joined="2014-05-13"/>
+    <cosponsor thomas_id="02117" joined="2014-06-02"/>
+    <cosponsor thomas_id="01756" joined="2014-05-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-13" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2014-05-16">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Allergies"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Food supply, safety, and labeling"/>
+    <term name="Health personnel"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Medical research"/>
+    <term name="Teaching, teachers, curricula"/>
+  </subjects>
+  <amendments/>
+  <summary>5/13/2014--Introduced.
+Supports the designation of Food Allergy Awareness Week.</summary>
+</bill>

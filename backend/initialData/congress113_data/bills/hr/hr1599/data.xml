@@ -1,0 +1,54 @@
+<bill session="113" type="h" number="1599" updated="2014-08-14T13:04:18-04:00">
+  <state datetime="2013-04-17">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-17"/>
+  </status>
+  <introduced datetime="2013-04-17"/>
+  <titles>
+    <title type="short" as="introduced">Native American Suicide Prevention Act of 2013</title>
+    <title type="official" as="introduced">To amend section 520E of the Public Health Service Act to require States and their designees receiving grants for development or implementation of statewide suicide early intervention and prevention strategies to consult with each Federally recognized Indian tribe, tribal organization, and urban Indian organization in the State.</title>
+  </titles>
+  <sponsor thomas_id="01708"/>
+  <cosponsors>
+    <cosponsor thomas_id="02093" joined="2014-02-25"/>
+    <cosponsor thomas_id="01845" joined="2014-05-06"/>
+    <cosponsor thomas_id="02107" joined="2013-06-25"/>
+    <cosponsor thomas_id="00279" joined="2014-03-04"/>
+    <cosponsor thomas_id="01907" joined="2014-03-04"/>
+    <cosponsor thomas_id="01939" joined="2014-02-25"/>
+    <cosponsor thomas_id="01653" joined="2013-10-16"/>
+    <cosponsor thomas_id="01504" joined="2014-02-27"/>
+    <cosponsor thomas_id="01584" joined="2013-04-17"/>
+    <cosponsor thomas_id="01811" joined="2013-12-23"/>
+    <cosponsor thomas_id="01602" joined="2013-04-17"/>
+    <cosponsor thomas_id="02108" joined="2013-06-14"/>
+    <cosponsor thomas_id="02171" joined="2013-06-25"/>
+    <cosponsor thomas_id="00944" joined="2013-06-25"/>
+    <cosponsor thomas_id="01942" joined="2014-02-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-17" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-04-19">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Child health"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Indian social and development programs"/>
+    <term name="Mental health"/>
+    <term name="Minority health"/>
+  </subjects>
+  <amendments/>
+  <summary>4/17/2013--Introduced.
+Native American Suicide Prevention Act of 2013 - Amends the Public Health Service Act to require a state or state-designated eligible entity, as a condition of receiving a grant or cooperative agreement for development or implementation of a statewide youth suicide early intervention and prevention strategy, to agree to consult with each federally recognized Indian tribe and tribal organization and each urban Indian organization regarding such development or implementation.</summary>
+</bill>

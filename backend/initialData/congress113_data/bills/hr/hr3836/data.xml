@@ -1,0 +1,152 @@
+<bill session="113" type="h" number="3836" updated="2014-08-14T13:24:10-04:00">
+  <state datetime="2014-01-09">REFERRED</state>
+  <status>
+    <introduced datetime="2014-01-09"/>
+  </status>
+  <introduced datetime="2014-01-09"/>
+  <titles>
+    <title type="short" as="introduced">Pat Summitt Congressional Gold Medal Act</title>
+    <title type="official" as="introduced">To award a Congressional Gold Medal to Pat Summitt, in recognition of her remarkable career as an unparalleled figure in women's team sports, and for her courage in speaking out openly and courageously about her battle with Alzheimer's.</title>
+  </titles>
+  <sponsor thomas_id="00322"/>
+  <cosponsors>
+    <cosponsor thomas_id="01460" joined="2014-04-28"/>
+    <cosponsor thomas_id="00038" joined="2014-04-02"/>
+    <cosponsor thomas_id="02093" joined="2014-06-12"/>
+    <cosponsor thomas_id="01780" joined="2014-03-25"/>
+    <cosponsor thomas_id="02063" joined="2014-01-09"/>
+    <cosponsor thomas_id="01748" joined="2014-01-09"/>
+    <cosponsor thomas_id="00099" joined="2014-05-22"/>
+    <cosponsor thomas_id="01723" joined="2014-04-02"/>
+    <cosponsor thomas_id="01787" joined="2014-05-22"/>
+    <cosponsor thomas_id="00132" joined="2014-05-22"/>
+    <cosponsor thomas_id="02106" joined="2014-04-03"/>
+    <cosponsor thomas_id="02127" joined="2014-05-20"/>
+    <cosponsor thomas_id="01564" joined="2014-05-22"/>
+    <cosponsor thomas_id="01999" joined="2014-06-17"/>
+    <cosponsor thomas_id="01752" joined="2014-05-22"/>
+    <cosponsor thomas_id="01925" joined="2014-04-08"/>
+    <cosponsor thomas_id="01839" joined="2014-03-25"/>
+    <cosponsor thomas_id="00186" joined="2014-05-07"/>
+    <cosponsor thomas_id="01474" joined="2014-04-01"/>
+    <cosponsor thomas_id="02196" joined="2014-05-20"/>
+    <cosponsor thomas_id="01878" joined="2014-01-09"/>
+    <cosponsor thomas_id="01959" joined="2014-04-09"/>
+    <cosponsor thomas_id="00231" joined="2014-01-09"/>
+    <cosponsor thomas_id="00256" joined="2014-05-22"/>
+    <cosponsor thomas_id="02133" joined="2014-04-30"/>
+    <cosponsor thomas_id="02062" joined="2014-01-09"/>
+    <cosponsor thomas_id="02057" joined="2014-05-22"/>
+    <cosponsor thomas_id="02036" joined="2014-04-01"/>
+    <cosponsor thomas_id="02125" joined="2014-04-02"/>
+    <cosponsor thomas_id="02114" joined="2014-06-12"/>
+    <cosponsor thomas_id="02064" joined="2014-01-09"/>
+    <cosponsor thomas_id="02061" joined="2014-01-09"/>
+    <cosponsor thomas_id="01683" joined="2014-05-22"/>
+    <cosponsor thomas_id="02049" joined="2014-05-22"/>
+    <cosponsor thomas_id="01487" joined="2014-02-26"/>
+    <cosponsor thomas_id="01656" joined="2014-04-08"/>
+    <cosponsor thomas_id="00462" joined="2014-04-08"/>
+    <cosponsor thomas_id="01933" joined="2014-02-26"/>
+    <cosponsor thomas_id="02032" joined="2014-04-28"/>
+    <cosponsor thomas_id="00511" joined="2014-05-22"/>
+    <cosponsor thomas_id="02040" joined="2014-05-22"/>
+    <cosponsor thomas_id="02147" joined="2014-05-22"/>
+    <cosponsor thomas_id="01663" joined="2014-06-12"/>
+    <cosponsor thomas_id="02149" joined="2014-06-17"/>
+    <cosponsor thomas_id="01921" joined="2014-03-13"/>
+    <cosponsor thomas_id="00599" joined="2014-04-01"/>
+    <cosponsor thomas_id="00612" joined="2014-04-09"/>
+    <cosponsor thomas_id="02051" joined="2014-05-22"/>
+    <cosponsor thomas_id="02190" joined="2014-05-22"/>
+    <cosponsor thomas_id="02172" joined="2014-04-02"/>
+    <cosponsor thomas_id="02014" joined="2014-05-22"/>
+    <cosponsor thomas_id="02145" joined="2014-04-28"/>
+    <cosponsor thomas_id="01936" joined="2014-05-22"/>
+    <cosponsor thomas_id="01583" joined="2014-05-28"/>
+    <cosponsor thomas_id="00683" joined="2014-04-30"/>
+    <cosponsor thomas_id="01781" joined="2014-04-01"/>
+    <cosponsor thomas_id="00699" joined="2014-05-22"/>
+    <cosponsor thomas_id="02033" joined="2014-05-07"/>
+    <cosponsor thomas_id="02111" joined="2014-05-22"/>
+    <cosponsor thomas_id="00709" joined="2014-04-01"/>
+    <cosponsor thomas_id="01686" joined="2014-02-26"/>
+    <cosponsor thomas_id="00729" joined="2014-05-22"/>
+    <cosponsor thomas_id="01671" joined="2014-02-26"/>
+    <cosponsor thomas_id="01814" joined="2014-05-19"/>
+    <cosponsor thomas_id="00766" joined="2014-04-02"/>
+    <cosponsor thomas_id="01505" joined="2014-04-03"/>
+    <cosponsor thomas_id="02142" joined="2014-05-22"/>
+    <cosponsor thomas_id="02130" joined="2014-04-01"/>
+    <cosponsor thomas_id="01685" joined="2014-05-22"/>
+    <cosponsor thomas_id="02156" joined="2014-05-22"/>
+    <cosponsor thomas_id="01744" joined="2014-05-22"/>
+    <cosponsor thomas_id="00850" joined="2014-05-22"/>
+    <cosponsor thomas_id="00854" joined="2014-03-13"/>
+    <cosponsor thomas_id="02108" joined="2014-05-28"/>
+    <cosponsor thomas_id="01758" joined="2014-05-22"/>
+    <cosponsor thomas_id="02001" joined="2014-05-22"/>
+    <cosponsor thomas_id="02034" joined="2014-05-22"/>
+    <cosponsor thomas_id="00893" joined="2014-04-03"/>
+    <cosponsor thomas_id="01738" joined="2014-05-22"/>
+    <cosponsor thomas_id="02157" joined="2014-05-22"/>
+    <cosponsor thomas_id="00912" joined="2014-04-01"/>
+    <cosponsor thomas_id="01802" joined="2014-05-22"/>
+    <cosponsor thomas_id="00944" joined="2014-04-02"/>
+    <cosponsor thomas_id="01810" joined="2014-05-22"/>
+    <cosponsor thomas_id="01954" joined="2014-01-09"/>
+    <cosponsor thomas_id="00977" joined="2014-05-22"/>
+    <cosponsor thomas_id="00979" joined="2014-05-22"/>
+    <cosponsor thomas_id="01916" joined="2014-05-22"/>
+    <cosponsor thomas_id="01757" joined="2014-04-01"/>
+    <cosponsor thomas_id="01950" joined="2014-04-02"/>
+    <cosponsor thomas_id="02009" joined="2014-03-25"/>
+    <cosponsor thomas_id="01722" joined="2014-04-09"/>
+    <cosponsor thomas_id="01037" joined="2014-05-22"/>
+    <cosponsor thomas_id="01988" joined="2014-04-01"/>
+    <cosponsor thomas_id="01069" joined="2014-04-08"/>
+    <cosponsor thomas_id="01071" joined="2014-05-06"/>
+    <cosponsor thomas_id="02000" joined="2014-05-22"/>
+    <cosponsor thomas_id="01890" joined="2014-01-09"/>
+    <cosponsor thomas_id="02110" joined="2014-04-30"/>
+    <cosponsor thomas_id="01566" joined="2014-02-26"/>
+    <cosponsor thomas_id="01952" joined="2014-05-22"/>
+    <cosponsor thomas_id="01155" joined="2014-05-22"/>
+    <cosponsor thomas_id="01664" joined="2014-04-03"/>
+    <cosponsor thomas_id="01535" joined="2014-05-22"/>
+    <cosponsor thomas_id="01741" joined="2014-03-13"/>
+    <cosponsor thomas_id="01177" joined="2014-05-22"/>
+    <cosponsor thomas_id="02112" joined="2014-04-28"/>
+    <cosponsor thomas_id="01856" joined="2014-05-22"/>
+    <cosponsor thomas_id="02002" joined="2014-05-22"/>
+    <cosponsor thomas_id="01779" joined="2014-05-22"/>
+    <cosponsor thomas_id="01688" joined="2014-05-22"/>
+    <cosponsor thomas_id="01238" joined="2014-04-08"/>
+    <cosponsor thomas_id="01991" joined="2014-02-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-01-09" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="1910"/>
+  </relatedbills>
+  <subjects>
+    <term name="Sports and recreation"/>
+    <term name="Athletes"/>
+    <term name="Congressional tributes"/>
+    <term name="Higher education"/>
+    <term name="Neurological disorders"/>
+    <term name="School athletics"/>
+    <term name="Tennessee"/>
+  </subjects>
+  <amendments/>
+  <summary>1/9/2014--Introduced.
+Pat Summitt Congressional Gold Medal Act - Directs the Speaker of the House of Representatives and the President pro tempore of the Senate to arrange for the presentation of a congressional gold medal to Pat Summitt in recognition of her career in women's team sports and her courage in speaking out about her battle with Alzheimer's disease.
+
+Authorizes the Secretary of the Treasury to strike and sell bronze duplicates of such medal at a price sufficient to cover the cost of both the gold and bronze medals.</summary>
+</bill>

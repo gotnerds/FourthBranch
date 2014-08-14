@@ -1,0 +1,48 @@
+<bill session="113" type="s" number="2401" updated="2014-08-14T14:05:18-04:00">
+  <state datetime="2014-05-22">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-22"/>
+  </status>
+  <introduced datetime="2014-05-22"/>
+  <titles>
+    <title type="short" as="introduced">Increasing Medical Oversight in the Department of Veterans Affairs Act of 2014</title>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to establish the Office of the Medical Inspector within the Office of the Under Secretary for Health of the Department of Veterans Affairs.</title>
+  </titles>
+  <sponsor thomas_id="01829"/>
+  <cosponsors>
+    <cosponsor thomas_id="01898" joined="2014-05-22"/>
+    <cosponsor thomas_id="02076" joined="2014-05-22"/>
+    <cosponsor thomas_id="01332" joined="2014-06-05"/>
+    <cosponsor thomas_id="01866" joined="2014-05-22"/>
+    <cosponsor thomas_id="00604" joined="2014-06-02"/>
+    <cosponsor thomas_id="01820" joined="2014-05-22"/>
+    <cosponsor thomas_id="01507" joined="2014-05-22"/>
+    <cosponsor thomas_id="02198" joined="2014-05-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSVA" name="Senate Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional oversight"/>
+    <term name="Crime prevention"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal officials"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Government studies and investigations"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health care quality"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Performance measurement"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+</bill>

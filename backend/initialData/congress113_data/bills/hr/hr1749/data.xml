@@ -1,0 +1,82 @@
+<bill session="113" type="h" number="1749" updated="2014-08-14T13:05:37-04:00">
+  <state datetime="2013-04-25">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-25"/>
+  </status>
+  <introduced datetime="2013-04-25"/>
+  <titles>
+    <title type="short" as="introduced">Assessing Progress in Haiti Act</title>
+    <title type="official" as="introduced">To measure the progress of recovery and development efforts in Haiti following the earthquake of January 12, 2010, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01501"/>
+  <cosponsors>
+    <cosponsor thomas_id="02153" joined="2013-04-25"/>
+    <cosponsor thomas_id="00091" joined="2013-05-08"/>
+    <cosponsor thomas_id="00132" joined="2013-04-25"/>
+    <cosponsor thomas_id="01564" joined="2013-04-25"/>
+    <cosponsor thomas_id="02159" joined="2013-07-25"/>
+    <cosponsor thomas_id="01474" joined="2013-04-25"/>
+    <cosponsor thomas_id="01864" joined="2013-04-25"/>
+    <cosponsor thomas_id="01654" joined="2013-04-25"/>
+    <cosponsor thomas_id="00229" joined="2013-04-25"/>
+    <cosponsor thomas_id="00367" joined="2013-06-03"/>
+    <cosponsor thomas_id="02119" joined="2013-06-04"/>
+    <cosponsor thomas_id="01803" joined="2013-04-25"/>
+    <cosponsor thomas_id="01708" joined="2013-04-25"/>
+    <cosponsor thomas_id="00511" joined="2013-04-25"/>
+    <cosponsor thomas_id="01843" joined="2013-04-25"/>
+    <cosponsor thomas_id="00688" joined="2013-05-22"/>
+    <cosponsor thomas_id="01504" joined="2013-04-25"/>
+    <cosponsor thomas_id="01506" joined="2013-04-25"/>
+    <cosponsor thomas_id="01811" joined="2013-04-25"/>
+    <cosponsor thomas_id="00868" joined="2013-04-25"/>
+    <cosponsor thomas_id="02171" joined="2013-06-03"/>
+    <cosponsor thomas_id="00944" joined="2013-04-25"/>
+    <cosponsor thomas_id="02023" joined="2013-04-25"/>
+    <cosponsor thomas_id="00997" joined="2013-04-25"/>
+    <cosponsor thomas_id="01003" joined="2013-04-25"/>
+    <cosponsor thomas_id="01588" joined="2013-04-25"/>
+    <cosponsor thomas_id="01861" joined="2013-06-28"/>
+    <cosponsor thomas_id="01151" joined="2013-04-25"/>
+    <cosponsor thomas_id="01535" joined="2013-11-14"/>
+    <cosponsor thomas_id="01777" joined="2013-04-25"/>
+    <cosponsor thomas_id="01205" joined="2013-04-25"/>
+    <cosponsor thomas_id="02004" joined="2013-04-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-25" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2013-06-07">
+      <text>Referred to the Subcommittee on the Western Hemisphere.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee subcommittee="Western Hemisphere" code="HSFA07" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1104"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Caribbean area"/>
+    <term name="Congressional oversight"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Food supply, safety, and labeling"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Government studies and investigations"/>
+    <term name="Haiti"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Infectious and parasitic diseases"/>
+    <term name="Latin America"/>
+    <term name="Natural disasters"/>
+    <term name="Performance measurement"/>
+    <term name="Reconstruction and stabilization"/>
+    <term name="World health"/>
+  </subjects>
+  <amendments/>
+  <summary>4/25/2013--Introduced.
+Assessing Progress in Haiti Act - Directs the Comptroller General (GAO) to report to Congress on the status of post-earthquake recovery and development efforts in Haiti, including efforts to prevent the spread of cholera and treat persons infected with the disease.</summary>
+</bill>

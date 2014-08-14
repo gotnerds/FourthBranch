@@ -1,0 +1,42 @@
+<bill session="113" type="h" number="5364" updated="2014-08-14T13:37:16-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="official" as="introduced">To amend title XXI of the Social Security Act to extend and improve the Children's Health Insurance Program, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00887"/>
+  <cosponsors>
+    <cosponsor thomas_id="01761" joined="2014-07-31"/>
+    <cosponsor thomas_id="01471" joined="2014-07-31"/>
+    <cosponsor thomas_id="01839" joined="2014-07-31"/>
+    <cosponsor thomas_id="01474" joined="2014-07-31"/>
+    <cosponsor thomas_id="00299" joined="2014-07-31"/>
+    <cosponsor thomas_id="00344" joined="2014-07-31"/>
+    <cosponsor thomas_id="00462" joined="2014-07-31"/>
+    <cosponsor thomas_id="01671" joined="2014-07-31"/>
+    <cosponsor thomas_id="01854" joined="2014-07-31"/>
+    <cosponsor thomas_id="01588" joined="2014-07-31"/>
+    <cosponsor thomas_id="01209" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Ways and Means</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

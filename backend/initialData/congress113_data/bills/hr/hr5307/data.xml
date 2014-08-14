@@ -1,0 +1,31 @@
+<bill session="113" type="h" number="5307" updated="2014-08-14T13:36:47-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="short" as="introduced">America's Energy Security Trust Fund Act of 2014</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to reduce carbon pollution in the United States, invest in the Nation's infrastructure, and cut taxes for working Americans.</title>
+  </titles>
+  <sponsor thomas_id="01583"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

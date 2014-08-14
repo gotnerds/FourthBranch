@@ -1,0 +1,39 @@
+<bill session="113" type="s" number="2505" updated="2014-08-14T14:06:10-04:00">
+  <state datetime="2014-06-19">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-19"/>
+  </status>
+  <introduced datetime="2014-06-19"/>
+  <titles>
+    <title type="short" as="introduced">Wi-Fi Innovation Act</title>
+    <title type="official" as="introduced">A bill to promote unlicensed spectrum use in the 5 GHz band, to maximize the use of the band for shared purposes in order to bolster innovation and economic development, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02084"/>
+  <cosponsors>
+    <cosponsor thomas_id="02194" joined="2014-06-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-19" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="5125"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Congressional oversight"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Federal Communications Commission (FCC)"/>
+    <term name="Government studies and investigations"/>
+    <term name="Internet and video services"/>
+    <term name="Licensing and registrations"/>
+    <term name="Poverty and welfare assistance"/>
+    <term name="Telephone and wireless communication"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,43 @@
+<bill session="113" type="hc" number="47" updated="2014-08-14T13:38:59-04:00">
+  <state datetime="2013-07-30">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-30"/>
+  </status>
+  <introduced datetime="2013-07-30"/>
+  <titles>
+    <title type="official" as="introduced">Calling for a democratically elected government for the people of the Federal Democratic Republic of Nepal.</title>
+  </titles>
+  <sponsor thomas_id="01675"/>
+  <cosponsors>
+    <cosponsor thomas_id="02096" joined="2014-01-16"/>
+    <cosponsor thomas_id="02170" joined="2013-07-30"/>
+    <cosponsor thomas_id="02169" joined="2013-07-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-30" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2013-08-16">
+      <text>Referred to the Subcommittee on Asia and the Pacific.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee subcommittee="Asia and the Pacific" code="HSFA05" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Asia"/>
+    <term name="Elections, voting, political campaign regulation"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Human rights"/>
+    <term name="Nepal"/>
+    <term name="Sovereignty, recognition, national governance and status"/>
+  </subjects>
+  <amendments/>
+  <summary>7/30/2013--Introduced.
+Welcomes the free and fair elections for the people of the Federal Democratic Republic of Nepal.
+
+ Joins with the international community in providing the resources necessary to hold such elections, facilitate a peaceful transition of power, and establish a government that will protect the rights of the people.</summary>
+</bill>

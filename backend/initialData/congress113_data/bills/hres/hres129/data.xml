@@ -1,0 +1,84 @@
+<bill session="113" type="hr" number="129" updated="2014-08-14T12:45:44-04:00">
+  <state datetime="2013-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-19"/>
+  </status>
+  <introduced datetime="2013-03-19"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the House of Representatives that the Congress should not pass any legislation that would tax or confiscate personal savings accounts, including retirement accounts such as Individual Retirement Accounts (IRAs) and 401k plans, certificates of deposit (CDs), or other personal savings to provide financial relief for private businesses.</title>
+  </titles>
+  <sponsor thomas_id="02033"/>
+  <cosponsors>
+    <cosponsor thomas_id="02135" joined="2013-04-12"/>
+    <cosponsor thomas_id="01987" joined="2013-03-21"/>
+    <cosponsor thomas_id="00165" joined="2013-03-21"/>
+    <cosponsor thomas_id="01816" joined="2013-03-21"/>
+    <cosponsor thomas_id="01752" joined="2013-03-21"/>
+    <cosponsor thomas_id="01742" joined="2013-03-21"/>
+    <cosponsor thomas_id="01717" joined="2013-03-21"/>
+    <cosponsor thomas_id="02072" joined="2013-03-21"/>
+    <cosponsor thomas_id="00322" joined="2013-03-21"/>
+    <cosponsor thomas_id="02036" joined="2013-03-21"/>
+    <cosponsor thomas_id="02061" joined="2013-03-21"/>
+    <cosponsor thomas_id="01924" joined="2013-03-21"/>
+    <cosponsor thomas_id="02065" joined="2013-03-21"/>
+    <cosponsor thomas_id="01707" joined="2013-03-21"/>
+    <cosponsor thomas_id="02043" joined="2013-03-21"/>
+    <cosponsor thomas_id="00446" joined="2013-06-27"/>
+    <cosponsor thomas_id="01992" joined="2013-03-21"/>
+    <cosponsor thomas_id="01990" joined="2013-03-21"/>
+    <cosponsor thomas_id="00484" joined="2013-03-21"/>
+    <cosponsor thomas_id="02044" joined="2013-03-21"/>
+    <cosponsor thomas_id="02026" joined="2013-03-21"/>
+    <cosponsor thomas_id="02020" joined="2013-03-21"/>
+    <cosponsor thomas_id="00612" joined="2013-03-21"/>
+    <cosponsor thomas_id="02051" joined="2013-03-21"/>
+    <cosponsor thomas_id="01936" joined="2013-03-21"/>
+    <cosponsor thomas_id="01908" joined="2013-04-09"/>
+    <cosponsor thomas_id="02074" joined="2013-03-21"/>
+    <cosponsor thomas_id="01685" joined="2013-03-21"/>
+    <cosponsor thomas_id="02060" joined="2013-03-21"/>
+    <cosponsor thomas_id="02034" joined="2013-03-21"/>
+    <cosponsor thomas_id="01778" joined="2013-03-21"/>
+    <cosponsor thomas_id="02073" joined="2013-03-21"/>
+    <cosponsor thomas_id="02160" joined="2013-03-21"/>
+    <cosponsor thomas_id="01954" joined="2013-03-21"/>
+    <cosponsor thomas_id="00979" joined="2013-03-21"/>
+    <cosponsor thomas_id="00985" joined="2013-03-21"/>
+    <cosponsor thomas_id="01920" joined="2013-03-21"/>
+    <cosponsor thomas_id="02047" joined="2013-03-21"/>
+    <cosponsor thomas_id="01741" joined="2013-03-21"/>
+    <cosponsor thomas_id="02137" joined="2013-04-09"/>
+    <cosponsor thomas_id="01855" joined="2013-03-21"/>
+    <cosponsor thomas_id="01779" joined="2013-03-21"/>
+    <cosponsor thomas_id="01238" joined="2013-03-21"/>
+    <cosponsor thomas_id="02115" joined="2013-03-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-19" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-19">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-03-19">
+      <text>Referred to House Financial Services</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Bank accounts, deposits, capital"/>
+    <term name="Business investment and capital"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Financial services and investments"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/2013--Introduced.
+Expresses the sense of the House of Representatives that Congress should refrain from considering or adopting any legislation that would: (1) tax or confiscate personal savings, including retirement accounts, certificates of deposit, or other personal savings and assets; or (2) provide financial relief to a private business or general sector of the American economy at taxpayer expense.</summary>
+</bill>

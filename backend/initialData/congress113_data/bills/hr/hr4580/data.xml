@@ -1,0 +1,41 @@
+<bill session="113" type="h" number="4580" updated="2014-08-14T13:30:26-04:00">
+  <state datetime="2014-05-06">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-06"/>
+  </status>
+  <introduced datetime="2014-05-06"/>
+  <titles>
+    <title type="short" as="introduced">Improving Clinical Care Workforce for Our Vets Act</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to modify authorities relating to the collective bargaining of employees in the Veterans Health Administration.</title>
+  </titles>
+  <sponsor thomas_id="01635"/>
+  <cosponsors>
+    <cosponsor thomas_id="00091" joined="2014-05-28"/>
+    <cosponsor thomas_id="01634" joined="2014-05-06"/>
+    <cosponsor thomas_id="01729" joined="2014-05-06"/>
+    <cosponsor thomas_id="01856" joined="2014-05-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-06" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1556"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Health personnel"/>
+    <term name="Labor-management relations"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>5/6/2014--Introduced.
+Improving Clinical Care Workforce for Our Vets Act - Repeals provisions excluding any matter or question concerning professional conduct or competence, peer review, or the establishment, determination, or adjustment of employee compensation from the applicability of collective bargaining rights for Veterans Health Administration employees.</summary>
+</bill>

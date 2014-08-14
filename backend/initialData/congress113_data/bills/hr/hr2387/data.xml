@@ -1,0 +1,70 @@
+<bill session="113" type="h" number="2387" updated="2014-08-14T13:11:44-04:00">
+  <state datetime="2013-06-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-14"/>
+  </status>
+  <introduced datetime="2013-06-14"/>
+  <titles>
+    <title type="short" as="introduced">Rabbi Arthur Schneier Congressional Gold Medal Act</title>
+    <title type="official" as="introduced">To award a Congressional Gold Medal to Rabbi Arthur Schneier in recognition of his pioneering role in promoting religious freedom and human rights throughout the world, for close to half a century.</title>
+  </titles>
+  <sponsor thomas_id="00729"/>
+  <cosponsors>
+    <cosponsor thomas_id="01838" joined="2013-08-01"/>
+    <cosponsor thomas_id="01740" joined="2014-03-13"/>
+    <cosponsor thomas_id="01469" joined="2013-07-30"/>
+    <cosponsor thomas_id="01864" joined="2014-02-04"/>
+    <cosponsor thomas_id="02151" joined="2014-02-04"/>
+    <cosponsor thomas_id="01604" joined="2014-02-04"/>
+    <cosponsor thomas_id="00344" joined="2013-06-14"/>
+    <cosponsor thomas_id="02119" joined="2014-04-10"/>
+    <cosponsor thomas_id="02043" joined="2014-02-04"/>
+    <cosponsor thomas_id="02041" joined="2013-06-14"/>
+    <cosponsor thomas_id="02044" joined="2014-02-04"/>
+    <cosponsor thomas_id="01794" joined="2013-06-14"/>
+    <cosponsor thomas_id="01663" joined="2013-07-10"/>
+    <cosponsor thomas_id="02149" joined="2014-05-07"/>
+    <cosponsor thomas_id="00635" joined="2014-03-26"/>
+    <cosponsor thomas_id="00709" joined="2013-06-14"/>
+    <cosponsor thomas_id="02150" joined="2014-04-10"/>
+    <cosponsor thomas_id="01503" joined="2014-02-04"/>
+    <cosponsor thomas_id="01506" joined="2014-02-04"/>
+    <cosponsor thomas_id="02148" joined="2014-02-04"/>
+    <cosponsor thomas_id="00850" joined="2013-06-14"/>
+    <cosponsor thomas_id="01974" joined="2014-05-07"/>
+    <cosponsor thomas_id="00944" joined="2013-06-14"/>
+    <cosponsor thomas_id="01982" joined="2013-07-17"/>
+    <cosponsor thomas_id="01916" joined="2014-02-04"/>
+    <cosponsor thomas_id="01042" joined="2014-04-10"/>
+    <cosponsor thomas_id="01526" joined="2014-05-07"/>
+    <cosponsor thomas_id="01069" joined="2014-04-10"/>
+    <cosponsor thomas_id="01942" joined="2014-02-27"/>
+    <cosponsor thomas_id="01184" joined="2014-02-27"/>
+    <cosponsor thomas_id="01596" joined="2013-08-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-14">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E886"/>
+    </action>
+    <action datetime="2013-06-14" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2013-06-17">
+      <text>Sponsor introductory remarks on measure.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Congressional tributes"/>
+    <term name="Human rights"/>
+    <term name="Religion"/>
+  </subjects>
+  <amendments/>
+  <summary>6/14/2013--Introduced.
+Rabbi Arthur Schneier Congressional Gold Medal Act - Directs the Speaker of the House of Representatives and the President pro tempore of the Senate to arrange for the presentation, on behalf of Congress, of a gold medal to Rabbi Arthur Schneier in recognition of his pioneering role in promoting religious freedom and human rights throughout the world.</summary>
+</bill>

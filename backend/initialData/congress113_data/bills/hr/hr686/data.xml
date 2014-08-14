@@ -1,0 +1,63 @@
+<bill session="113" type="h" number="686" updated="2014-08-14T12:56:35-04:00">
+  <state datetime="2013-02-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-14"/>
+  </status>
+  <introduced datetime="2013-02-14"/>
+  <titles>
+    <title type="short" as="introduced">Protect our Prairies Act</title>
+    <title type="official" as="introduced">To amend the Federal Crop Insurance Act to modify the ineligibility requirements for producers that produce an annual crop on native sod, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02060"/>
+  <cosponsors>
+    <cosponsor thomas_id="00099" joined="2013-02-14"/>
+    <cosponsor thomas_id="01845" joined="2013-02-26"/>
+    <cosponsor thomas_id="02127" joined="2013-05-06"/>
+    <cosponsor thomas_id="00211" joined="2013-05-23"/>
+    <cosponsor thomas_id="01836" joined="2013-05-21"/>
+    <cosponsor thomas_id="02126" joined="2013-04-12"/>
+    <cosponsor thomas_id="01857" joined="2013-05-21"/>
+    <cosponsor thomas_id="01793" joined="2013-02-14"/>
+    <cosponsor thomas_id="02049" joined="2013-04-12"/>
+    <cosponsor thomas_id="01656" joined="2013-05-21"/>
+    <cosponsor thomas_id="02044" joined="2013-04-09"/>
+    <cosponsor thomas_id="01498" joined="2013-07-31"/>
+    <cosponsor thomas_id="02145" joined="2013-04-09"/>
+    <cosponsor thomas_id="01885" joined="2013-02-14"/>
+    <cosponsor thomas_id="00867" joined="2013-04-16"/>
+    <cosponsor thomas_id="00910" joined="2013-02-14"/>
+    <cosponsor thomas_id="01566" joined="2013-05-21"/>
+    <cosponsor thomas_id="01151" joined="2013-02-14"/>
+    <cosponsor thomas_id="01856" joined="2013-02-14"/>
+    <cosponsor thomas_id="01886" joined="2013-02-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-14" state="REFERRED">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2013-03-01">
+      <text>Referred to the Subcommittee on General Farm Commodities and Risk Management.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee subcommittee="General Farm Commodities and Risk Management" code="HSAG16" name="House Agriculture" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="1947"/>
+    <bill type="s" session="113" relation="unknown" number="10"/>
+    <bill type="s" session="113" relation="unknown" number="801"/>
+    <bill type="s" session="113" relation="unknown" number="954"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural conservation and pollution"/>
+    <term name="Agricultural insurance"/>
+    <term name="Agricultural prices, subsidies, credit"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Land use and conservation"/>
+  </subjects>
+  <amendments/>
+  <summary>2/14/2013--Introduced.
+Protect our Prairies Act - Amends the Federal Crop Insurance Act to reduce crop insurance assistance and noninsured crop disaster assistance for crops grown on native sod acreage converted to cropland for the first four years.</summary>
+</bill>

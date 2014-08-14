@@ -1,0 +1,60 @@
+<bill session="113" type="h" number="1826" updated="2014-08-14T13:06:17-04:00">
+  <state datetime="2013-05-03">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-03"/>
+  </status>
+  <introduced datetime="2013-05-03"/>
+  <titles>
+    <title type="short" as="introduced">No Monuments to Me Act of 2013</title>
+    <title type="official" as="introduced">To prohibit the use of Federal funds for real property or for a project or program named for an individual then serving as a Member of Congress, including a Delegate or Resident Commissioner to Congress, or as President.</title>
+  </titles>
+  <sponsor thomas_id="01804"/>
+  <cosponsors>
+    <cosponsor thomas_id="02029" joined="2013-05-03"/>
+    <cosponsor thomas_id="01468" joined="2013-05-03"/>
+    <cosponsor thomas_id="01882" joined="2013-05-07"/>
+    <cosponsor thomas_id="01751" joined="2013-05-17"/>
+    <cosponsor thomas_id="01956" joined="2013-05-03"/>
+    <cosponsor thomas_id="02057" joined="2013-05-15"/>
+    <cosponsor thomas_id="02067" joined="2013-05-08"/>
+    <cosponsor thomas_id="01801" joined="2013-05-09"/>
+    <cosponsor thomas_id="00603" joined="2013-05-21"/>
+    <cosponsor thomas_id="02074" joined="2013-05-03"/>
+    <cosponsor thomas_id="02059" joined="2013-05-22"/>
+    <cosponsor thomas_id="01758" joined="2013-05-07"/>
+    <cosponsor thomas_id="01892" joined="2014-06-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-03" state="REFERRED">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-05-03">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2013-05-03">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2013-05-06">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+    <committee subcommittee="Economic Development, Public Buildings and Emergency Management" code="HSPW13" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="1689"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Appropriations"/>
+    <term name="Congressional tributes"/>
+    <term name="Members of Congress"/>
+    <term name="Monuments and memorials"/>
+    <term name="Presidential administrations"/>
+  </subjects>
+  <amendments/>
+  <summary>5/3/2013--Introduced.
+No Monuments to Me Act of 2013 - Prohibits the use of federal funds for any real property, project, or program named for an individual then serving as a Member of Congress (including a Delegate or Resident Commissioner) or as President. Excepts: (1) any presidential library; or (2) any project or program commenced, or any real property named, prior to the enactment of this Act.</summary>
+</bill>

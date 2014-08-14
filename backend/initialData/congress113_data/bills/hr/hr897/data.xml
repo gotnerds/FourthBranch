@@ -1,0 +1,76 @@
+<bill session="113" type="h" number="897" updated="2014-08-14T12:58:21-04:00">
+  <state datetime="2013-02-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-28"/>
+  </status>
+  <introduced datetime="2013-02-28"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 38, United States Code, to expand the definition of homeless veteran for purposes of benefits under the laws administered by the Secretary of Veterans Affairs.</title>
+  </titles>
+  <sponsor thomas_id="02089"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2013-03-15"/>
+    <cosponsor thomas_id="02027" joined="2013-04-09"/>
+    <cosponsor thomas_id="00091" joined="2013-06-13"/>
+    <cosponsor thomas_id="02092" joined="2013-03-15"/>
+    <cosponsor thomas_id="01469" joined="2013-04-09"/>
+    <cosponsor thomas_id="01471" joined="2013-04-09"/>
+    <cosponsor thomas_id="01889" joined="2014-05-06"/>
+    <cosponsor thomas_id="01970" joined="2013-03-15"/>
+    <cosponsor thomas_id="01654" joined="2013-03-15"/>
+    <cosponsor thomas_id="01790" joined="2014-05-06"/>
+    <cosponsor thomas_id="01912" joined="2013-06-13"/>
+    <cosponsor thomas_id="01878" joined="2013-04-09"/>
+    <cosponsor thomas_id="01959" joined="2013-03-15"/>
+    <cosponsor thomas_id="01836" joined="2013-04-09"/>
+    <cosponsor thomas_id="01479" joined="2013-12-09"/>
+    <cosponsor thomas_id="01894" joined="2013-03-15"/>
+    <cosponsor thomas_id="01857" joined="2013-04-09"/>
+    <cosponsor thomas_id="02125" joined="2014-05-09"/>
+    <cosponsor thomas_id="01803" joined="2014-02-05"/>
+    <cosponsor thomas_id="00511" joined="2013-03-15"/>
+    <cosponsor thomas_id="01580" joined="2013-06-13"/>
+    <cosponsor thomas_id="01843" joined="2013-06-13"/>
+    <cosponsor thomas_id="00616" joined="2014-05-06"/>
+    <cosponsor thomas_id="01675" joined="2013-03-15"/>
+    <cosponsor thomas_id="01653" joined="2013-03-15"/>
+    <cosponsor thomas_id="01505" joined="2014-05-06"/>
+    <cosponsor thomas_id="01811" joined="2013-03-15"/>
+    <cosponsor thomas_id="01602" joined="2014-05-06"/>
+    <cosponsor thomas_id="00868" joined="2013-04-09"/>
+    <cosponsor thomas_id="01929" joined="2013-03-15"/>
+    <cosponsor thomas_id="00940" joined="2014-05-09"/>
+    <cosponsor thomas_id="02039" joined="2013-02-28"/>
+    <cosponsor thomas_id="01003" joined="2013-03-15"/>
+    <cosponsor thomas_id="01756" joined="2013-06-13"/>
+    <cosponsor thomas_id="02099" joined="2013-06-13"/>
+    <cosponsor thomas_id="01069" joined="2013-03-15"/>
+    <cosponsor thomas_id="01209" joined="2014-05-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-28">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E227-228"/>
+    </action>
+    <action datetime="2013-02-28" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-03-08">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSVR03" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="287"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Veterans' loans, housing, homeless programs"/>
+  </subjects>
+  <amendments/>
+  <summary>2/28/2013--Introduced.
+Includes as a homeless veteran, for purposes of eligibility for benefits through the Department of Veterans Affairs (VA), a veteran or veteran's family fleeing domestic or dating violence, sexual assault, stalking, or other dangerous or life-threatening conditions in the current housing situation, including where the health and safety of children are jeopardized, there is no other residence, and there is a lack of resources or support networks to obtain other permanent housing.</summary>
+</bill>

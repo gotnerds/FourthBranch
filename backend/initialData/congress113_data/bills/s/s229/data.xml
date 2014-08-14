@@ -1,0 +1,45 @@
+<bill session="113" type="s" number="229" updated="2014-08-14T13:46:42-04:00">
+  <state datetime="2013-02-07">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-07"/>
+  </status>
+  <introduced datetime="2013-02-07"/>
+  <titles>
+    <title type="short" as="introduced">Corporal Michael J. Crescenz Act of 2013</title>
+    <title type="official" as="introduced">A bill to designate the medical center of the Department of Veterans Affairs located at 3900 Woodland Avenue in Philadelphia, Pennsylvania, as the "Corporal Michael J. Crescenz Department of Veterans Affairs Medical Center".</title>
+  </titles>
+  <sponsor thomas_id="02085"/>
+  <cosponsors>
+    <cosponsor thomas_id="01828" joined="2013-02-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-07" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-05-09">
+      <text>Committee on Veterans' Affairs. Hearings held. Hearings printed: S.Hrg. 113-203.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Hearings, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="454"/>
+    <bill type="s" session="113" relation="unknown" number="944"/>
+    <bill type="s" session="113" relation="unknown" number="1950"/>
+    <bill type="s" session="113" relation="unknown" number="1982"/>
+    <bill type="s" session="113" relation="unknown" number="2413"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Pennsylvania"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>2/7/2013--Introduced.
+Corporal Michael J. Crescenz Act of 2013 - Designates the Department of Veterans Affairs (VA) medical center at 3900 Woodland Avenue in Philadelphia, Pennsylvania, as the "Corporal Michael J. Crescenz Department of Veterans Affairs Medical Center."</summary>
+</bill>

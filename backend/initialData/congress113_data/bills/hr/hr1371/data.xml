@@ -1,0 +1,36 @@
+<bill session="113" type="h" number="1371" updated="2014-08-14T13:02:23-04:00">
+  <state datetime="2013-03-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-21"/>
+  </status>
+  <introduced datetime="2013-03-21"/>
+  <titles>
+    <title type="official" as="introduced">To restore to the Indian Health Service funds sequestered under section 251A of the Balanced Budget and Emergency Deficit Control Act of 1985 to the extent that the percentage reduction for that program exceeded 2 percent.</title>
+  </titles>
+  <sponsor thomas_id="01653"/>
+  <cosponsors>
+    <cosponsor thomas_id="01742" joined="2013-03-21"/>
+    <cosponsor thomas_id="02146" joined="2013-04-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-21" state="REFERRED">
+      <text>Referred to the House Committee on the Budget.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBU" name="House Budget" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Appropriations"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Budget process"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Indian social and development programs"/>
+    <term name="Minority health"/>
+  </subjects>
+  <amendments/>
+  <summary>3/21/2013--Introduced.
+Restores to the Indian Health Service that portion of its FY2013 funds that were sequestered under the Balanced Budget and Emergency Deficit Control Act of 1985 and that exceeded 2% of its FY2013 funding.</summary>
+</bill>

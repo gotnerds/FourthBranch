@@ -1,0 +1,99 @@
+<bill session="113" type="h" number="2772" updated="2014-08-14T13:15:07-04:00">
+  <state datetime="2013-07-22">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-22"/>
+  </status>
+  <introduced datetime="2013-07-22"/>
+  <titles>
+    <title type="short" as="introduced">Rape Survivor Child Custody Act</title>
+    <title type="official" as="introduced">To direct the Attorney General to make grants to States that have in place laws that terminate the parental rights of men who father children through rape.</title>
+  </titles>
+  <sponsor thomas_id="01777"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2014-05-19"/>
+    <cosponsor thomas_id="00038" joined="2014-03-06"/>
+    <cosponsor thomas_id="02054" joined="2013-09-09"/>
+    <cosponsor thomas_id="00132" joined="2013-09-09"/>
+    <cosponsor thomas_id="01889" joined="2013-10-22"/>
+    <cosponsor thomas_id="02055" joined="2013-08-02"/>
+    <cosponsor thomas_id="00211" joined="2014-05-22"/>
+    <cosponsor thomas_id="01878" joined="2013-10-11"/>
+    <cosponsor thomas_id="00229" joined="2014-07-10"/>
+    <cosponsor thomas_id="02096" joined="2013-09-20"/>
+    <cosponsor thomas_id="01976" joined="2013-10-22"/>
+    <cosponsor thomas_id="02067" joined="2014-03-05"/>
+    <cosponsor thomas_id="00368" joined="2013-09-09"/>
+    <cosponsor thomas_id="02119" joined="2013-09-20"/>
+    <cosponsor thomas_id="01707" joined="2014-05-19"/>
+    <cosponsor thomas_id="01895" joined="2013-07-25"/>
+    <cosponsor thomas_id="02122" joined="2013-08-02"/>
+    <cosponsor thomas_id="01743" joined="2013-09-09"/>
+    <cosponsor thomas_id="02089" joined="2013-07-30"/>
+    <cosponsor thomas_id="00511" joined="2013-09-09"/>
+    <cosponsor thomas_id="01634" joined="2013-09-09"/>
+    <cosponsor thomas_id="01663" joined="2013-12-05"/>
+    <cosponsor thomas_id="00588" joined="2013-07-31"/>
+    <cosponsor thomas_id="02149" joined="2013-11-12"/>
+    <cosponsor thomas_id="00599" joined="2013-09-09"/>
+    <cosponsor thomas_id="02154" joined="2013-07-25"/>
+    <cosponsor thomas_id="00616" joined="2013-08-02"/>
+    <cosponsor thomas_id="01498" joined="2014-02-26"/>
+    <cosponsor thomas_id="01675" joined="2013-09-18"/>
+    <cosponsor thomas_id="01501" joined="2013-09-09"/>
+    <cosponsor thomas_id="02111" joined="2013-09-12"/>
+    <cosponsor thomas_id="00729" joined="2013-07-30"/>
+    <cosponsor thomas_id="02053" joined="2013-07-22"/>
+    <cosponsor thomas_id="02052" joined="2013-07-25"/>
+    <cosponsor thomas_id="01506" joined="2013-09-18"/>
+    <cosponsor thomas_id="02148" joined="2014-06-09"/>
+    <cosponsor thomas_id="01811" joined="2013-07-25"/>
+    <cosponsor thomas_id="00850" joined="2013-08-02"/>
+    <cosponsor thomas_id="01602" joined="2013-09-09"/>
+    <cosponsor thomas_id="02171" joined="2014-06-25"/>
+    <cosponsor thomas_id="00930" joined="2013-11-14"/>
+    <cosponsor thomas_id="00944" joined="2013-07-30"/>
+    <cosponsor thomas_id="00997" joined="2013-09-09"/>
+    <cosponsor thomas_id="01037" joined="2013-08-02"/>
+    <cosponsor thomas_id="01041" joined="2014-05-22"/>
+    <cosponsor thomas_id="01861" joined="2013-09-12"/>
+    <cosponsor thomas_id="01528" joined="2013-07-31"/>
+    <cosponsor thomas_id="01075" joined="2014-03-14"/>
+    <cosponsor thomas_id="02110" joined="2013-08-02"/>
+    <cosponsor thomas_id="01940" joined="2013-09-30"/>
+    <cosponsor thomas_id="01942" joined="2013-08-02"/>
+    <cosponsor thomas_id="02002" joined="2013-09-25"/>
+    <cosponsor thomas_id="01256" joined="2013-09-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-22" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-09-13">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2443"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Assault and harassment offenses"/>
+    <term name="Crimes against women"/>
+    <term name="Evidence and witnesses"/>
+    <term name="Family relationships"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Separation, divorce, custody, support"/>
+    <term name="Sex offenses"/>
+  </subjects>
+  <amendments/>
+  <summary>7/22/2013--Introduced.
+Rape Survivor Child Custody Act - Directs the Attorney General to make grants to states that have in place a law that allows the mother of any child that was conceived through rape to seek court-ordered termination of the parental rights of her rapist with regard to that child, which the court shall grant upon clear and convincing evidence of rape.
+
+Limits such a grant to: (1) an amount that is not greater than 10% of the average of the total funding of the 3 most recent awards a state received under the STOP Violence Against Women Formula Grant Program and the Sexual Assault Services Program; and (2) a 1-year term, subject to renewal for not more than 3 additional years.
+
+Requires a state that receives such a grant to use: (1) 25% of grant funds for permissible uses under the STOP Violence Against Women Formula Grant Program, and (2) 75% of funds for permissible uses under the Sexual Assault Services Program.</summary>
+</bill>

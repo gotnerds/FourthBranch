@@ -1,0 +1,62 @@
+<bill session="113" type="h" number="911" updated="2014-08-14T12:58:28-04:00">
+  <state datetime="2013-02-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-28"/>
+  </status>
+  <introduced datetime="2013-02-28"/>
+  <titles>
+    <title type="short" as="introduced">Competitive Health Insurance Reform Act of 2013</title>
+    <title type="official" as="introduced">To restore the application of the Federal antitrust laws to the business of health insurance to protect competition and consumers.</title>
+  </titles>
+  <sponsor thomas_id="01992"/>
+  <cosponsors>
+    <cosponsor thomas_id="01987" joined="2013-09-18"/>
+    <cosponsor thomas_id="01836" joined="2013-09-12"/>
+    <cosponsor thomas_id="02138" joined="2013-05-21"/>
+    <cosponsor thomas_id="00303" joined="2013-05-15"/>
+    <cosponsor thomas_id="00322" joined="2013-05-17"/>
+    <cosponsor thomas_id="00612" joined="2013-05-15"/>
+    <cosponsor thomas_id="01671" joined="2013-04-26"/>
+    <cosponsor thomas_id="01730" joined="2013-05-15"/>
+    <cosponsor thomas_id="02156" joined="2013-07-25"/>
+    <cosponsor thomas_id="02113" joined="2013-05-17"/>
+    <cosponsor thomas_id="02171" joined="2013-10-16"/>
+    <cosponsor thomas_id="01778" joined="2013-06-03"/>
+    <cosponsor thomas_id="01590" joined="2013-04-24"/>
+    <cosponsor thomas_id="01071" joined="2013-05-17"/>
+    <cosponsor thomas_id="02112" joined="2013-05-17"/>
+    <cosponsor thomas_id="01188" joined="2013-09-10"/>
+    <cosponsor thomas_id="01255" joined="2013-05-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-28" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-04-08">
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee subcommittee="Regulatory Reform, Commercial And Antitrust Law" code="HSJU05" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="99"/>
+    <bill type="h" session="113" relation="unknown" number="344"/>
+    <bill type="h" session="113" relation="unknown" number="743"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Competition and antitrust"/>
+    <term name="Dental care"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Insurance industry and regulation"/>
+  </subjects>
+  <amendments/>
+  <summary>2/28/2013--Introduced.
+Competitive Health Insurance Reform Act of 2013 - Amends the McCarran-Ferguson Act to declare that nothing in that Act shall modify, impair, or supersede the operation of any of the antitrust laws with respect to the business of health insurance, including the business of dental insurance.
+
+Specifically excludes from the business of health (and dental) insurance covered by this Act the business of life insurance (including annuities) or of property or casualty insurance, including but not limited to: (1) accident only, or disability income insurance only, or any combination of them; (2) liability insurance, including supplemental insurance, general liability insurance, and automobile liability insurance; (3) workers' compensation or similar insurance; (4) automobile medical payment insurance; (5) credit-only insurance; (6) insurance coverage for on-site medical clinics; (7) other similar insurance coverage, specified in regulations, under which benefits for medical care are secondary or incidental to other insurance benefits; (8) insurance for long-term care, nursing home care, home health care, community-based care, or any combination of them; (9) insurance coverage only for a specified disease or illness offered as independent, noncoordinated benefits; and (10) hospital indemnity or other fixed indemnity insurance offered as independent, noncoordinated benefits.
+
+Applies prohibitions against using unfair methods of competition to the business of health insurance without regard to whether such business is carried on for profit.</summary>
+</bill>

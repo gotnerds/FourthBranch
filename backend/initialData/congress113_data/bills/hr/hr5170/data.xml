@@ -1,0 +1,32 @@
+<bill session="113" type="h" number="5170" updated="2014-08-14T13:35:35-04:00">
+  <state datetime="2014-07-24">REPORTED</state>
+  <status>
+    <unknown datetime="2014-07-24"/>
+  </status>
+  <introduced datetime="2014-07-23"/>
+  <titles>
+    <title type="short" as="introduced">Federal Records Accountability Act of 2014</title>
+    <title type="official" as="introduced">To improve Federal employee compliance with the Federal and Presidential recordkeeping requirements, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02142"/>
+  <cosponsors>
+    <cosponsor thomas_id="01640" joined="2014-07-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-23" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2014-07-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-07-24" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

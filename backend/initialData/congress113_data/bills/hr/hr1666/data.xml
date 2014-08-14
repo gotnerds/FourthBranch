@@ -1,0 +1,160 @@
+<bill session="113" type="h" number="1666" updated="2014-08-14T13:04:53-04:00">
+  <state datetime="2013-04-23">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-23"/>
+  </status>
+  <introduced datetime="2013-04-23"/>
+  <titles>
+    <title type="short" as="introduced">Patient Centered Quality Care for Life Act</title>
+    <title type="official" as="introduced">To create a patient-centered quality of care initiative for seriously ill patients through the establishment of a stakeholder strategic summit, quality of life education and awareness initiative, health care workforce training, an advisory committee, and palliative care focused research, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01790"/>
+  <cosponsors>
+    <cosponsor thomas_id="00021" joined="2013-07-22"/>
+    <cosponsor thomas_id="00038" joined="2013-04-23"/>
+    <cosponsor thomas_id="02153" joined="2013-12-05"/>
+    <cosponsor thomas_id="00091" joined="2013-09-11"/>
+    <cosponsor thomas_id="00099" joined="2013-09-17"/>
+    <cosponsor thomas_id="01469" joined="2014-03-24"/>
+    <cosponsor thomas_id="01845" joined="2013-10-10"/>
+    <cosponsor thomas_id="00132" joined="2013-04-26"/>
+    <cosponsor thomas_id="02106" joined="2014-02-10"/>
+    <cosponsor thomas_id="01676" joined="2014-07-25"/>
+    <cosponsor thomas_id="01889" joined="2014-04-01"/>
+    <cosponsor thomas_id="01970" joined="2013-09-30"/>
+    <cosponsor thomas_id="02055" joined="2013-06-18"/>
+    <cosponsor thomas_id="01654" joined="2013-07-30"/>
+    <cosponsor thomas_id="01878" joined="2013-07-10"/>
+    <cosponsor thomas_id="00229" joined="2013-10-07"/>
+    <cosponsor thomas_id="02103" joined="2013-09-11"/>
+    <cosponsor thomas_id="01836" joined="2013-09-12"/>
+    <cosponsor thomas_id="01807" joined="2013-09-11"/>
+    <cosponsor thomas_id="01477" joined="2013-07-11"/>
+    <cosponsor thomas_id="01641" joined="2014-06-09"/>
+    <cosponsor thomas_id="02133" joined="2013-10-30"/>
+    <cosponsor thomas_id="00281" joined="2014-05-29"/>
+    <cosponsor thomas_id="01976" joined="2013-09-10"/>
+    <cosponsor thomas_id="00303" joined="2014-01-27"/>
+    <cosponsor thomas_id="00316" joined="2013-09-25"/>
+    <cosponsor thomas_id="01894" joined="2014-08-01"/>
+    <cosponsor thomas_id="01857" joined="2014-03-14"/>
+    <cosponsor thomas_id="00344" joined="2013-06-25"/>
+    <cosponsor thomas_id="02125" joined="2013-06-11"/>
+    <cosponsor thomas_id="00355" joined="2013-11-19"/>
+    <cosponsor thomas_id="00368" joined="2013-09-12"/>
+    <cosponsor thomas_id="00371" joined="2014-06-25"/>
+    <cosponsor thomas_id="01797" joined="2013-07-10"/>
+    <cosponsor thomas_id="01973" joined="2013-12-19"/>
+    <cosponsor thomas_id="02043" joined="2014-04-28"/>
+    <cosponsor thomas_id="01914" joined="2014-06-17"/>
+    <cosponsor thomas_id="01803" joined="2013-11-12"/>
+    <cosponsor thomas_id="00462" joined="2013-06-25"/>
+    <cosponsor thomas_id="01922" joined="2013-10-28"/>
+    <cosponsor thomas_id="00511" joined="2013-08-02"/>
+    <cosponsor thomas_id="01794" joined="2013-06-11"/>
+    <cosponsor thomas_id="01490" joined="2013-09-10"/>
+    <cosponsor thomas_id="01580" joined="2013-09-10"/>
+    <cosponsor thomas_id="01634" joined="2013-10-15"/>
+    <cosponsor thomas_id="02147" joined="2013-12-02"/>
+    <cosponsor thomas_id="02101" joined="2013-09-19"/>
+    <cosponsor thomas_id="01663" joined="2013-11-18"/>
+    <cosponsor thomas_id="00588" joined="2014-04-01"/>
+    <cosponsor thomas_id="00599" joined="2013-09-17"/>
+    <cosponsor thomas_id="01843" joined="2013-09-17"/>
+    <cosponsor thomas_id="00612" joined="2013-09-26"/>
+    <cosponsor thomas_id="00616" joined="2013-06-04"/>
+    <cosponsor thomas_id="02025" joined="2013-10-07"/>
+    <cosponsor thomas_id="02172" joined="2013-09-18"/>
+    <cosponsor thomas_id="01498" joined="2014-06-10"/>
+    <cosponsor thomas_id="00635" joined="2013-09-11"/>
+    <cosponsor thomas_id="02145" joined="2014-01-31"/>
+    <cosponsor thomas_id="01668" joined="2014-04-28"/>
+    <cosponsor thomas_id="01583" joined="2014-01-31"/>
+    <cosponsor thomas_id="00666" joined="2013-05-17"/>
+    <cosponsor thomas_id="01501" joined="2013-09-11"/>
+    <cosponsor thomas_id="01781" joined="2013-11-19"/>
+    <cosponsor thomas_id="01846" joined="2013-06-04"/>
+    <cosponsor thomas_id="00701" joined="2013-09-18"/>
+    <cosponsor thomas_id="02146" joined="2013-11-19"/>
+    <cosponsor thomas_id="01939" joined="2014-05-20"/>
+    <cosponsor thomas_id="01814" joined="2014-01-16"/>
+    <cosponsor thomas_id="00766" joined="2013-10-16"/>
+    <cosponsor thomas_id="01504" joined="2014-07-23"/>
+    <cosponsor thomas_id="01506" joined="2013-10-10"/>
+    <cosponsor thomas_id="01730" joined="2013-09-11"/>
+    <cosponsor thomas_id="01811" joined="2013-06-04"/>
+    <cosponsor thomas_id="01744" joined="2014-07-28"/>
+    <cosponsor thomas_id="00867" joined="2014-07-29"/>
+    <cosponsor thomas_id="00868" joined="2014-07-23"/>
+    <cosponsor thomas_id="02162" joined="2013-09-18"/>
+    <cosponsor thomas_id="01955" joined="2014-06-17"/>
+    <cosponsor thomas_id="01974" joined="2014-01-08"/>
+    <cosponsor thomas_id="00893" joined="2013-09-17"/>
+    <cosponsor thomas_id="02097" joined="2013-10-30"/>
+    <cosponsor thomas_id="01835" joined="2013-06-20"/>
+    <cosponsor thomas_id="01927" joined="2013-12-02"/>
+    <cosponsor thomas_id="02171" joined="2013-09-18"/>
+    <cosponsor thomas_id="00944" joined="2013-09-26"/>
+    <cosponsor thomas_id="02109" joined="2013-12-02"/>
+    <cosponsor thomas_id="01003" joined="2013-09-19"/>
+    <cosponsor thomas_id="01756" joined="2013-12-16"/>
+    <cosponsor thomas_id="01588" joined="2014-01-13"/>
+    <cosponsor thomas_id="01635" joined="2013-10-22"/>
+    <cosponsor thomas_id="02124" joined="2013-12-11"/>
+    <cosponsor thomas_id="01950" joined="2014-01-15"/>
+    <cosponsor thomas_id="01798" joined="2014-02-21"/>
+    <cosponsor thomas_id="01722" joined="2013-09-18"/>
+    <cosponsor thomas_id="01042" joined="2013-12-11"/>
+    <cosponsor thomas_id="01861" joined="2013-09-17"/>
+    <cosponsor thomas_id="01069" joined="2013-06-11"/>
+    <cosponsor thomas_id="02047" joined="2014-01-28"/>
+    <cosponsor thomas_id="01151" joined="2014-06-05"/>
+    <cosponsor thomas_id="01593" joined="2013-11-12"/>
+    <cosponsor thomas_id="01940" joined="2013-07-10"/>
+    <cosponsor thomas_id="01942" joined="2013-09-25"/>
+    <cosponsor thomas_id="01884" joined="2013-09-12"/>
+    <cosponsor thomas_id="02167" joined="2013-07-10"/>
+    <cosponsor thomas_id="01777" joined="2014-07-31"/>
+    <cosponsor thomas_id="01205" joined="2013-07-22"/>
+    <cosponsor thomas_id="01879" joined="2014-05-29"/>
+    <cosponsor thomas_id="01222" joined="2013-09-17"/>
+    <cosponsor thomas_id="01853" joined="2014-06-10"/>
+    <cosponsor thomas_id="02021" joined="2013-09-26"/>
+    <cosponsor thomas_id="01256" joined="2013-09-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-23" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-04-26">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Advisory bodies"/>
+    <term name="Allied health services"/>
+    <term name="Computers and information technology"/>
+    <term name="Health care quality"/>
+    <term name="Health information and medical records"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Long-term, rehabilitative, and terminal care"/>
+    <term name="Medical education"/>
+    <term name="Medical research"/>
+    <term name="Mental health"/>
+  </subjects>
+  <amendments/>
+  <summary>4/23/2013--Introduced.
+Patient Centered Quality Care for Life Act - Directs the Secretary of Health and Human Services (HHS) to convene a Patient-Centered Health Care and Quality of Life Stakeholder Strategic Summit to: (1) analyze key health system barriers to providing patient-centered health care that integrates symptom management and other aspects of coordinated or palliative care; and (2) identify strategic solutions for collectively addressing quality of life concerns for the rapidly expanding population of patients and survivors facing serious, complex, and chronic illness in the United States and for the families of such patients and survivors. Requires the Secretary to establish a Summit Steering Committee, which shall draft a summary report detailing Summit recommendations for a national strategic action agenda to improve patient-centered care and quality of life.
+
+Amends the Public Health Service Act to require the Director of the Centers for Disease Control and Prevention (CDC) to establish a national quality of life education and awareness grants program initiative for seriously ill patients, their families, and health professionals who treat them for the purposes of encouraging an increased demand for and delivery of integrated and patient-centered care for managing their pain and symptoms and improving their quality of life. Requires the Director to award competitive grants to develop new and expand existing information, resources, and communication materials about symptom management and other aspects of patient-centered care as an integral part of quality care for serious illnesses.
+
+Directs the Administrator of the Health Resources and Services Administration (HRSA) to establish a health care professional workforce training grants program initiative for purposes of promoting and enhancing symptom assessment and management, communications skills, coordinated patient-centered care, and other quality of life focused clinical core competencies across all clinical specialties that serve seriously ill patients and patients with multiple or complex chronic diseases.
+
+Requires the Secretary: (1) to update and expand the September 2002 HRSA report, titled "The Supply, Demand and Use of Palliative Care Physicians in the United States"; (2) to establish a Quality of Life Cross-Agency Advisory Committee to assist the CDC and HRSA in conducting the national quality of life education and awareness initiative and the health care professional workforce training initiative and to disseminate initiative findings for cross agency implementation of best practices; and (3) acting through the Director of the National Institutes of Health (NIH), to develop and implement a strategy to be applied across NIH institutes and centers that is in accordance with the Advisory Committee's recommendations to expand national research programs in symptom management, palliative, psychosocial, and survivorship care.</summary>
+</bill>

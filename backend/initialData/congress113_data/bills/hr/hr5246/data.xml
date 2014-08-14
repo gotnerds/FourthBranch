@@ -1,0 +1,23 @@
+<bill session="113" type="h" number="5246" updated="2014-08-14T13:36:16-04:00">
+  <state datetime="2014-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-29"/>
+  </status>
+  <introduced datetime="2014-07-29"/>
+  <titles>
+    <title type="official" as="introduced">To require the United States attorney to bring the matter of an individual's contempt of Congress before a grand jury not later than 30 days after receiving a certification from the Speaker of the House of Representatives or the President of the Senate that the individual is in contempt.</title>
+  </titles>
+  <sponsor thomas_id="01868"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-29" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,99 @@
+<bill session="113" type="h" number="3108" updated="2014-08-14T13:17:57-04:00">
+  <state datetime="2013-09-17">REFERRED</state>
+  <status>
+    <introduced datetime="2013-09-17"/>
+  </status>
+  <introduced datetime="2013-09-17"/>
+  <titles>
+    <title type="short" as="introduced">Extend Not Cut SNAP Benefits Act</title>
+    <title type="official" as="introduced">To amend the American Recovery and Reinvestment Act of 2009 to extend the period during which supplemental nutrition assistance program benefits are temporarily increased.</title>
+  </titles>
+  <sponsor thomas_id="00229"/>
+  <cosponsors>
+    <cosponsor thomas_id="02153" joined="2013-10-23"/>
+    <cosponsor thomas_id="01723" joined="2013-09-18"/>
+    <cosponsor thomas_id="01469" joined="2013-10-22"/>
+    <cosponsor thomas_id="00132" joined="2013-09-18"/>
+    <cosponsor thomas_id="01761" joined="2013-10-22"/>
+    <cosponsor thomas_id="01564" joined="2013-09-27"/>
+    <cosponsor thomas_id="01889" joined="2013-10-22"/>
+    <cosponsor thomas_id="02159" joined="2013-10-22"/>
+    <cosponsor thomas_id="02055" joined="2013-09-20"/>
+    <cosponsor thomas_id="01864" joined="2013-09-18"/>
+    <cosponsor thomas_id="01654" joined="2013-09-18"/>
+    <cosponsor thomas_id="01790" joined="2013-10-22"/>
+    <cosponsor thomas_id="01878" joined="2013-09-20"/>
+    <cosponsor thomas_id="01959" joined="2013-09-18"/>
+    <cosponsor thomas_id="01477" joined="2013-10-03"/>
+    <cosponsor thomas_id="00281" joined="2013-10-22"/>
+    <cosponsor thomas_id="00316" joined="2013-09-20"/>
+    <cosponsor thomas_id="01857" joined="2013-09-18"/>
+    <cosponsor thomas_id="01895" joined="2013-09-18"/>
+    <cosponsor thomas_id="01803" joined="2013-10-08"/>
+    <cosponsor thomas_id="00462" joined="2013-09-18"/>
+    <cosponsor thomas_id="01708" joined="2013-09-18"/>
+    <cosponsor thomas_id="01580" joined="2013-10-22"/>
+    <cosponsor thomas_id="01634" joined="2013-09-20"/>
+    <cosponsor thomas_id="02101" joined="2013-09-20"/>
+    <cosponsor thomas_id="00588" joined="2013-09-18"/>
+    <cosponsor thomas_id="00599" joined="2013-09-18"/>
+    <cosponsor thomas_id="02145" joined="2013-10-23"/>
+    <cosponsor thomas_id="01668" joined="2013-09-20"/>
+    <cosponsor thomas_id="01501" joined="2013-09-17"/>
+    <cosponsor thomas_id="00688" joined="2013-09-18"/>
+    <cosponsor thomas_id="00729" joined="2013-10-30"/>
+    <cosponsor thomas_id="01504" joined="2013-09-18"/>
+    <cosponsor thomas_id="01811" joined="2013-09-18"/>
+    <cosponsor thomas_id="00850" joined="2013-09-18"/>
+    <cosponsor thomas_id="01602" joined="2013-10-22"/>
+    <cosponsor thomas_id="00868" joined="2013-09-18"/>
+    <cosponsor thomas_id="01927" joined="2013-09-18"/>
+    <cosponsor thomas_id="02171" joined="2013-10-08"/>
+    <cosponsor thomas_id="00944" joined="2013-09-18"/>
+    <cosponsor thomas_id="01003" joined="2013-09-18"/>
+    <cosponsor thomas_id="01757" joined="2013-10-23"/>
+    <cosponsor thomas_id="01588" joined="2013-09-27"/>
+    <cosponsor thomas_id="01042" joined="2013-09-18"/>
+    <cosponsor thomas_id="01861" joined="2013-10-03"/>
+    <cosponsor thomas_id="01069" joined="2013-09-27"/>
+    <cosponsor thomas_id="01528" joined="2013-09-20"/>
+    <cosponsor thomas_id="02110" joined="2013-10-08"/>
+    <cosponsor thomas_id="01151" joined="2013-10-08"/>
+    <cosponsor thomas_id="01535" joined="2013-10-23"/>
+    <cosponsor thomas_id="01940" joined="2013-09-18"/>
+    <cosponsor thomas_id="02112" joined="2013-09-18"/>
+    <cosponsor thomas_id="02167" joined="2013-10-10"/>
+    <cosponsor thomas_id="01205" joined="2013-09-20"/>
+    <cosponsor thomas_id="01209" joined="2013-11-12"/>
+    <cosponsor thomas_id="01879" joined="2013-10-04"/>
+    <cosponsor thomas_id="02004" joined="2013-10-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-17" state="REFERRED">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2013-10-04">
+      <text>Referred to the Subcommittee on Department Operations, Oversight, and Nutrition.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee subcommittee="Department Operations, Oversight, and Nutrition" code="HSAG22" name="House Agriculture" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="3353"/>
+    <bill type="s" session="113" relation="unknown" number="1635"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="American Samoa"/>
+    <term name="Caribbean area"/>
+    <term name="Food assistance and relief"/>
+    <term name="Poverty and welfare assistance"/>
+    <term name="Puerto Rico"/>
+    <term name="U.S. territories and protectorates"/>
+  </subjects>
+  <amendments/>
+  <summary>9/17/2013--Introduced.
+Extend Not Cut SNAP Benefits Act - Amends the American Recovery and Reinvestment Act of 2009 to extend the benefit calculation of 113.6 % of the June 2008 value of the thrifty food plan for the supplemental nutrition assistance program (SNAP, formerly known as food stamps) and the consolidated block grants for Puerto Rico and American Samoa until September 30, 2016, or the first date on which the value of the thrifty food plan equals or exceeds 113.6 % of the June 2008 value.</summary>
+</bill>

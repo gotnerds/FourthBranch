@@ -1,0 +1,31 @@
+<bill session="113" type="s" number="2646" updated="2014-08-14T14:07:21-04:00">
+  <state datetime="2014-07-23">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-23"/>
+  </status>
+  <introduced datetime="2014-07-23"/>
+  <titles>
+    <title type="short" as="introduced">Runaway and Homeless Youth and Trafficking Prevention Act</title>
+    <title type="official" as="introduced">A bill to reauthorize the Runaway and Homeless Youth Act, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01383"/>
+  <cosponsors>
+    <cosponsor thomas_id="01541" joined="2014-07-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-23">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S4764"/>
+    </action>
+    <action datetime="2014-07-23" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S4764-4766" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

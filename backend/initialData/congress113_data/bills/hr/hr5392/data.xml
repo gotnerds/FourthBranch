@@ -1,0 +1,26 @@
+<bill session="113" type="h" number="5392" updated="2014-08-14T13:37:30-04:00">
+  <state datetime="2014-08-01">REFERRED</state>
+  <status>
+    <introduced datetime="2014-08-01"/>
+  </status>
+  <introduced datetime="2014-08-01"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide for the determination of the employer mandate under the Patient Protection and Affordable Care Act without regard to alien agricultural seasonal workers.</title>
+  </titles>
+  <sponsor thomas_id="02036"/>
+  <cosponsors>
+    <cosponsor thomas_id="02140" joined="2014-08-01"/>
+    <cosponsor thomas_id="02142" joined="2014-08-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-08-01" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

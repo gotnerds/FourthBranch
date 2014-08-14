@@ -1,0 +1,17 @@
+<amendment session="113" chamber="h" number="1126" updated="2014-08-14T13:40:56-04:00">
+  <amends type="hr" number="562" sequence="2"/>
+  <status datetime="2014-07-25T13:03:00-04:00">pass</status>
+  <sponsor thomas_id="01071"/>
+  <offered datetime="2014-07-25"/>
+  <description>Strike the preamble and insert the following :    Whereas the United States has enjoyed good relations with the Republic of Moldova since the Republic of Moldova's independence in 1991; ***.</description>
+  <actions>
+    <action datetime="2014-07-25T13:03:00-04:00">
+      <text>Amendment (A002) offered by Mr. Smith (NJ).</text>
+      <reference ref="CR H6837" label="consideration"/>
+      <reference ref="CR H6837" label="text"/>
+    </action>
+    <vote datetime="2014-07-25T13:03:00-04:00" how="without objection" result="pass">
+      <text>On agreeing to the Smith (NJ) amendment (A002) Agreed to without objection.</text>
+    </vote>
+  </actions>
+</amendment>

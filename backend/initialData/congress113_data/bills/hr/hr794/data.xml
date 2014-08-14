@@ -1,0 +1,106 @@
+<bill session="113" type="h" number="794" updated="2014-08-14T12:57:29-04:00">
+  <state datetime="2013-02-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-15"/>
+  </status>
+  <introduced datetime="2013-02-15"/>
+  <titles>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to provide for treatment of clinical psychologists as physicians for purposes of furnishing clinical psychologist services under the Medicare Program.</title>
+  </titles>
+  <sponsor thomas_id="01588"/>
+  <cosponsors>
+    <cosponsor thomas_id="00021" joined="2013-06-03"/>
+    <cosponsor thomas_id="02093" joined="2013-05-09"/>
+    <cosponsor thomas_id="02153" joined="2013-10-09"/>
+    <cosponsor thomas_id="01753" joined="2013-08-02"/>
+    <cosponsor thomas_id="01740" joined="2014-04-09"/>
+    <cosponsor thomas_id="01723" joined="2014-04-09"/>
+    <cosponsor thomas_id="02159" joined="2013-09-10"/>
+    <cosponsor thomas_id="01839" joined="2013-06-14"/>
+    <cosponsor thomas_id="01474" joined="2013-02-15"/>
+    <cosponsor thomas_id="01970" joined="2013-02-15"/>
+    <cosponsor thomas_id="01878" joined="2013-06-03"/>
+    <cosponsor thomas_id="01959" joined="2013-02-26"/>
+    <cosponsor thomas_id="00231" joined="2013-07-08"/>
+    <cosponsor thomas_id="00279" joined="2013-02-15"/>
+    <cosponsor thomas_id="01857" joined="2013-02-15"/>
+    <cosponsor thomas_id="02125" joined="2013-07-08"/>
+    <cosponsor thomas_id="02043" joined="2014-07-28"/>
+    <cosponsor thomas_id="01914" joined="2013-04-25"/>
+    <cosponsor thomas_id="00462" joined="2014-04-09"/>
+    <cosponsor thomas_id="01990" joined="2013-09-10"/>
+    <cosponsor thomas_id="02010" joined="2014-03-11"/>
+    <cosponsor thomas_id="02044" joined="2013-06-14"/>
+    <cosponsor thomas_id="00511" joined="2013-04-10"/>
+    <cosponsor thomas_id="01634" joined="2013-02-15"/>
+    <cosponsor thomas_id="02101" joined="2014-02-26"/>
+    <cosponsor thomas_id="01663" joined="2013-11-18"/>
+    <cosponsor thomas_id="00612" joined="2013-09-10"/>
+    <cosponsor thomas_id="01907" joined="2013-03-13"/>
+    <cosponsor thomas_id="01668" joined="2013-05-09"/>
+    <cosponsor thomas_id="01501" joined="2013-06-03"/>
+    <cosponsor thomas_id="00701" joined="2013-07-31"/>
+    <cosponsor thomas_id="02111" joined="2013-03-12"/>
+    <cosponsor thomas_id="01653" joined="2013-04-10"/>
+    <cosponsor thomas_id="01504" joined="2013-06-04"/>
+    <cosponsor thomas_id="02148" joined="2014-07-28"/>
+    <cosponsor thomas_id="01811" joined="2013-02-15"/>
+    <cosponsor thomas_id="01602" joined="2013-06-04"/>
+    <cosponsor thomas_id="00868" joined="2014-04-09"/>
+    <cosponsor thomas_id="02162" joined="2013-12-12"/>
+    <cosponsor thomas_id="02097" joined="2013-03-20"/>
+    <cosponsor thomas_id="02113" joined="2013-07-30"/>
+    <cosponsor thomas_id="00910" joined="2013-09-10"/>
+    <cosponsor thomas_id="01953" joined="2013-02-15"/>
+    <cosponsor thomas_id="02171" joined="2013-07-30"/>
+    <cosponsor thomas_id="01967" joined="2013-03-06"/>
+    <cosponsor thomas_id="00940" joined="2014-05-29"/>
+    <cosponsor thomas_id="02023" joined="2014-07-09"/>
+    <cosponsor thomas_id="01003" joined="2013-03-12"/>
+    <cosponsor thomas_id="01756" joined="2013-03-15"/>
+    <cosponsor thomas_id="01798" joined="2013-05-15"/>
+    <cosponsor thomas_id="02047" joined="2014-04-09"/>
+    <cosponsor thomas_id="01593" joined="2014-04-09"/>
+    <cosponsor thomas_id="01942" joined="2013-06-03"/>
+    <cosponsor thomas_id="01729" joined="2014-05-29"/>
+    <cosponsor thomas_id="02004" joined="2013-05-09"/>
+    <cosponsor thomas_id="01886" joined="2013-03-05"/>
+    <cosponsor thomas_id="01853" joined="2013-05-22"/>
+    <cosponsor thomas_id="01256" joined="2013-07-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-15" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-02-15">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-02-15">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2013-02-15">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-02-19">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSWM02" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1064"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Health personnel"/>
+    <term name="Medicare"/>
+    <term name="Mental health"/>
+  </subjects>
+  <amendments/>
+  <summary>2/15/2013--Introduced.
+Amends title XVIII (Medicare) of the Social Security Act to treat as a physician, for Medicare purposes, a clinical psychologist acting within the scope of a psychologist's license (or other state law authorization), but only with respect to the furnishing of clinical psychologists services which the psychologist is legally authorized to perform by the state.</summary>
+</bill>

@@ -1,0 +1,65 @@
+<bill session="113" type="h" number="2509" updated="2014-08-14T13:12:52-04:00">
+  <state datetime="2013-06-26">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-26"/>
+  </status>
+  <introduced datetime="2013-06-26"/>
+  <titles>
+    <title type="short" as="introduced">Civil Justice Tax Fairness Act of 2013</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to exclude from gross income amounts received on account of claims based on certain unlawful discrimination and to allow income averaging for backpay and frontpay awards received on account of such claims, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00688"/>
+  <cosponsors>
+    <cosponsor thomas_id="02159" joined="2014-02-04"/>
+    <cosponsor thomas_id="01878" joined="2013-10-11"/>
+    <cosponsor thomas_id="00229" joined="2013-09-17"/>
+    <cosponsor thomas_id="00256" joined="2013-10-23"/>
+    <cosponsor thomas_id="01479" joined="2013-10-04"/>
+    <cosponsor thomas_id="00303" joined="2013-07-30"/>
+    <cosponsor thomas_id="01894" joined="2013-11-13"/>
+    <cosponsor thomas_id="01857" joined="2013-10-23"/>
+    <cosponsor thomas_id="01708" joined="2014-07-09"/>
+    <cosponsor thomas_id="01634" joined="2014-01-28"/>
+    <cosponsor thomas_id="01843" joined="2014-01-28"/>
+    <cosponsor thomas_id="01498" joined="2013-11-18"/>
+    <cosponsor thomas_id="01583" joined="2014-04-28"/>
+    <cosponsor thomas_id="01501" joined="2013-10-23"/>
+    <cosponsor thomas_id="00683" joined="2014-02-04"/>
+    <cosponsor thomas_id="01653" joined="2013-07-30"/>
+    <cosponsor thomas_id="01504" joined="2013-10-23"/>
+    <cosponsor thomas_id="01811" joined="2014-03-25"/>
+    <cosponsor thomas_id="00832" joined="2013-10-09"/>
+    <cosponsor thomas_id="00850" joined="2013-09-17"/>
+    <cosponsor thomas_id="02108" joined="2013-11-13"/>
+    <cosponsor thomas_id="00868" joined="2013-08-01"/>
+    <cosponsor thomas_id="02171" joined="2013-12-02"/>
+    <cosponsor thomas_id="01967" joined="2013-11-14"/>
+    <cosponsor thomas_id="01920" joined="2013-06-26"/>
+    <cosponsor thomas_id="01798" joined="2014-02-14"/>
+    <cosponsor thomas_id="01037" joined="2013-06-26"/>
+    <cosponsor thomas_id="01041" joined="2013-06-26"/>
+    <cosponsor thomas_id="01729" joined="2013-07-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-26" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1224"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Civil actions and liability"/>
+    <term name="Employment discrimination and employee rights"/>
+    <term name="Income tax exclusion"/>
+    <term name="Tax administration and collection, taxpayers"/>
+    <term name="Wages and earnings"/>
+  </subjects>
+  <amendments/>
+  <summary>6/26/2013--Introduced.
+Civil Justice Tax Fairness Act of 2013 - Amends the Internal Revenue Code to allow: (1) an exclusion from gross income for amounts received on account of a judgment or settlement resulting from a claim of unlawful discrimination, (2) income averaging for backpay and frontpay amounts received from such claims, and (3)&#160;an exemption from the&#160;alternative minimum tax (AMT) for any tax benefit resulting from the income averaging of amounts received from an unlawful discrimination claim.</summary>
+</bill>

@@ -1,0 +1,99 @@
+<bill session="113" type="h" number="858" updated="2014-08-14T12:58:01-04:00">
+  <state datetime="2013-02-27">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-27"/>
+  </status>
+  <introduced datetime="2013-02-27"/>
+  <titles>
+    <title type="short" as="introduced">Rural Housing Preservation Act of 2013</title>
+    <title type="official" as="introduced">To amend section 520 of the Housing Act of 1949 to revise the requirements for areas to be considered as rural areas for purposes of such Act.</title>
+  </titles>
+  <sponsor thomas_id="01793"/>
+  <cosponsors>
+    <cosponsor thomas_id="02054" joined="2013-03-21"/>
+    <cosponsor thomas_id="02131" joined="2013-04-19"/>
+    <cosponsor thomas_id="02092" joined="2013-03-21"/>
+    <cosponsor thomas_id="02106" joined="2013-03-21"/>
+    <cosponsor thomas_id="02127" joined="2013-05-09"/>
+    <cosponsor thomas_id="01676" joined="2013-02-27"/>
+    <cosponsor thomas_id="01471" joined="2013-03-14"/>
+    <cosponsor thomas_id="02055" joined="2013-03-21"/>
+    <cosponsor thomas_id="02151" joined="2013-05-09"/>
+    <cosponsor thomas_id="01836" joined="2013-02-27"/>
+    <cosponsor thomas_id="01989" joined="2013-03-21"/>
+    <cosponsor thomas_id="02126" joined="2013-09-10"/>
+    <cosponsor thomas_id="02096" joined="2013-08-02"/>
+    <cosponsor thomas_id="01995" joined="2013-03-14"/>
+    <cosponsor thomas_id="02125" joined="2013-03-14"/>
+    <cosponsor thomas_id="00368" joined="2013-03-14"/>
+    <cosponsor thomas_id="02122" joined="2013-11-13"/>
+    <cosponsor thomas_id="01998" joined="2013-04-19"/>
+    <cosponsor thomas_id="01992" joined="2013-03-14"/>
+    <cosponsor thomas_id="01990" joined="2013-03-14"/>
+    <cosponsor thomas_id="01708" joined="2013-03-14"/>
+    <cosponsor thomas_id="01922" joined="2013-04-19"/>
+    <cosponsor thomas_id="02010" joined="2013-03-21"/>
+    <cosponsor thomas_id="01933" joined="2013-03-14"/>
+    <cosponsor thomas_id="02026" joined="2013-03-21"/>
+    <cosponsor thomas_id="01490" joined="2013-02-27"/>
+    <cosponsor thomas_id="00612" joined="2013-03-14"/>
+    <cosponsor thomas_id="02025" joined="2013-03-14"/>
+    <cosponsor thomas_id="02169" joined="2013-06-04"/>
+    <cosponsor thomas_id="01668" joined="2013-03-14"/>
+    <cosponsor thomas_id="01675" joined="2013-03-14"/>
+    <cosponsor thomas_id="00699" joined="2013-03-14"/>
+    <cosponsor thomas_id="01846" joined="2013-03-14"/>
+    <cosponsor thomas_id="02033" joined="2013-03-14"/>
+    <cosponsor thomas_id="00711" joined="2013-06-04"/>
+    <cosponsor thomas_id="01504" joined="2013-03-21"/>
+    <cosponsor thomas_id="01505" joined="2013-03-14"/>
+    <cosponsor thomas_id="01832" joined="2013-03-14"/>
+    <cosponsor thomas_id="01730" joined="2013-03-14"/>
+    <cosponsor thomas_id="02117" joined="2013-04-19"/>
+    <cosponsor thomas_id="00854" joined="2013-03-14"/>
+    <cosponsor thomas_id="02060" joined="2013-03-14"/>
+    <cosponsor thomas_id="01710" joined="2013-03-14"/>
+    <cosponsor thomas_id="00893" joined="2013-03-14"/>
+    <cosponsor thomas_id="01738" joined="2013-03-14"/>
+    <cosponsor thomas_id="01953" joined="2013-03-14"/>
+    <cosponsor thomas_id="02073" joined="2013-06-04"/>
+    <cosponsor thomas_id="02109" joined="2013-03-21"/>
+    <cosponsor thomas_id="01756" joined="2013-04-19"/>
+    <cosponsor thomas_id="01920" joined="2013-06-04"/>
+    <cosponsor thomas_id="01861" joined="2013-05-09"/>
+    <cosponsor thomas_id="01566" joined="2013-03-14"/>
+    <cosponsor thomas_id="01151" joined="2013-03-14"/>
+    <cosponsor thomas_id="01593" joined="2013-09-10"/>
+    <cosponsor thomas_id="01997" joined="2013-04-19"/>
+    <cosponsor thomas_id="01884" joined="2014-01-15"/>
+    <cosponsor thomas_id="02105" joined="2013-03-14"/>
+    <cosponsor thomas_id="02112" joined="2013-03-14"/>
+    <cosponsor thomas_id="02167" joined="2013-04-19"/>
+    <cosponsor thomas_id="01856" joined="2013-02-27"/>
+    <cosponsor thomas_id="01879" joined="2013-03-14"/>
+    <cosponsor thomas_id="01991" joined="2013-02-27"/>
+    <cosponsor thomas_id="02008" joined="2013-04-19"/>
+    <cosponsor thomas_id="01256" joined="2013-03-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-27" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Census and government statistics"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Housing finance and home ownership"/>
+    <term name="Rural conditions and development"/>
+  </subjects>
+  <amendments/>
+  <summary>2/27/2013--Introduced.
+Rural Housing Preservation Act of 2013 - Amends the Housing Act of 1949 to revise the requirements for consideration as rural areas with respect to assistance for farm housing.
+
+ States that any area classified as "rural" or a "rural area" before October 1, 1990, and determined not to be "rural" or a "rural area" as a result of data received from or after the 1990, 2000, or 2010 (currently, only the 1990 or 2000) decennial census shall continue to be so classified until the receipt of data from the decennial census in the year 2020 (currently, 2010), if, as under current law, such area has a population of between 10,000 and 25,000, is rural in character, and has a serious lack of mortgage credit for lower and moderate-income families.</summary>
+</bill>

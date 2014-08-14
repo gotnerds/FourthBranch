@@ -1,0 +1,57 @@
+<bill session="113" type="h" number="3207" updated="2014-08-14T13:18:47-04:00">
+  <state datetime="2013-09-27">REFERRED</state>
+  <status>
+    <introduced datetime="2013-09-27"/>
+  </status>
+  <introduced datetime="2013-09-27"/>
+  <titles>
+    <title type="short" as="introduced">Benefits Fairness for Filipino Veterans Act of 2013</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to modify the method of determining whether Filipino veterans are United States residents for purposes of eligibility for receipt of the full-dollar rate of compensation under the laws administered by the Secretary of Veterans Affairs.</title>
+  </titles>
+  <sponsor thomas_id="00478"/>
+  <cosponsors>
+    <cosponsor thomas_id="01723" joined="2013-09-27"/>
+    <cosponsor thomas_id="02127" joined="2013-09-27"/>
+    <cosponsor thomas_id="02107" joined="2013-09-27"/>
+    <cosponsor thomas_id="01477" joined="2013-10-23"/>
+    <cosponsor thomas_id="02123" joined="2013-09-27"/>
+    <cosponsor thomas_id="02125" joined="2013-09-27"/>
+    <cosponsor thomas_id="00367" joined="2013-09-28"/>
+    <cosponsor thomas_id="01888" joined="2013-10-08"/>
+    <cosponsor thomas_id="02010" joined="2013-09-27"/>
+    <cosponsor thomas_id="01634" joined="2013-09-27"/>
+    <cosponsor thomas_id="01781" joined="2013-11-15"/>
+    <cosponsor thomas_id="02111" joined="2013-09-27"/>
+    <cosponsor thomas_id="02108" joined="2013-10-08"/>
+    <cosponsor thomas_id="01967" joined="2014-01-09"/>
+    <cosponsor thomas_id="01003" joined="2013-10-23"/>
+    <cosponsor thomas_id="01962" joined="2013-09-27"/>
+    <cosponsor thomas_id="01588" joined="2013-09-28"/>
+    <cosponsor thomas_id="02112" joined="2013-09-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-27" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-10-14">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Disability Assistance and Memorial Affairs" code="HSVR09" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="1559"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Asia"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Philippines"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>9/27/2013--Introduced.
+Benefits Fairness for Filipino Veterans Act of 2013 - Provides that, with respect to eligibility for benefits through the Department of Veterans Affairs (VA) of Filipino veterans who are lawful U.S. residents, the Secretary of Veterans Affairs may not determine that such a person is not an individual residing in the United States solely because the person is outside the United States for any period of less than one year.</summary>
+</bill>

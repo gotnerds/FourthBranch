@@ -1,0 +1,48 @@
+<bill session="113" type="h" number="4551" updated="2014-08-14T13:30:11-04:00">
+  <state datetime="2014-05-01">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-01"/>
+  </status>
+  <introduced datetime="2014-05-01"/>
+  <titles>
+    <title type="short" as="introduced">Forest Legacy Management Flexibility Act</title>
+    <title type="official" as="introduced">To amend the Forest Legacy Program of the Cooperative Forestry Assistance Act of 1978 to authorize States to allow certain entities to acquire, hold, and manage conservation easements under the program.</title>
+  </titles>
+  <sponsor thomas_id="02043"/>
+  <cosponsors>
+    <cosponsor thomas_id="01774" joined="2014-06-17"/>
+    <cosponsor thomas_id="00279" joined="2014-07-10"/>
+    <cosponsor thomas_id="01973" joined="2014-05-01"/>
+    <cosponsor thomas_id="00446" joined="2014-07-31"/>
+    <cosponsor thomas_id="02101" joined="2014-07-10"/>
+    <cosponsor thomas_id="02145" joined="2014-07-10"/>
+    <cosponsor thomas_id="01960" joined="2014-07-10"/>
+    <cosponsor thomas_id="01504" joined="2014-07-22"/>
+    <cosponsor thomas_id="01505" joined="2014-07-10"/>
+    <cosponsor thomas_id="01950" joined="2014-07-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-01" state="REFERRED">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2014-05-06">
+      <text>Referred to the Subcommittee on Conservation, Energy, and Forestry.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee subcommittee="Conservation, Energy, and Forestry" code="HSAG15" name="House Agriculture" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Land use and conservation"/>
+    <term name="Outdoor recreation"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+  <summary>5/1/2014--Introduced.
+Forest Legacy Management Flexibility Act - Amends the Cooperative Forestry Assistance Act of 1978 to authorize states to allow certain entities to acquire, hold, and manage conservation easements under the forest legacy program.</summary>
+</bill>

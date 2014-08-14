@@ -1,0 +1,63 @@
+<bill session="113" type="h" number="4897" updated="2014-08-14T13:33:14-04:00">
+  <state datetime="2014-06-18">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-18"/>
+  </status>
+  <introduced datetime="2014-06-18"/>
+  <titles>
+    <title type="short" as="introduced">Transparency in Education Act</title>
+    <title type="official" as="introduced">To require the Secretary of Education to complete a data analysis on the impact of the proposed rule on gainful employment prior to issuing a final rule on gainful employment.</title>
+  </titles>
+  <sponsor thomas_id="01009"/>
+  <cosponsors>
+    <cosponsor thomas_id="02054" joined="2014-06-23"/>
+    <cosponsor thomas_id="02197" joined="2014-06-20"/>
+    <cosponsor thomas_id="01889" joined="2014-06-23"/>
+    <cosponsor thomas_id="01807" joined="2014-07-31"/>
+    <cosponsor thomas_id="01976" joined="2014-07-11"/>
+    <cosponsor thomas_id="00344" joined="2014-06-23"/>
+    <cosponsor thomas_id="01707" joined="2014-06-18"/>
+    <cosponsor thomas_id="02120" joined="2014-06-18"/>
+    <cosponsor thomas_id="01914" joined="2014-06-18"/>
+    <cosponsor thomas_id="00511" joined="2014-06-18"/>
+    <cosponsor thomas_id="02140" joined="2014-06-18"/>
+    <cosponsor thomas_id="01909" joined="2014-06-18"/>
+    <cosponsor thomas_id="02051" joined="2014-06-18"/>
+    <cosponsor thomas_id="01907" joined="2014-06-18"/>
+    <cosponsor thomas_id="00666" joined="2014-06-20"/>
+    <cosponsor thomas_id="01671" joined="2014-06-18"/>
+    <cosponsor thomas_id="01503" joined="2014-06-18"/>
+    <cosponsor thomas_id="00778" joined="2014-06-18"/>
+    <cosponsor thomas_id="02117" joined="2014-06-18"/>
+    <cosponsor thomas_id="01954" joined="2014-06-18"/>
+    <cosponsor thomas_id="02017" joined="2014-06-18"/>
+    <cosponsor thomas_id="01522" joined="2014-06-18"/>
+    <cosponsor thomas_id="02099" joined="2014-06-18"/>
+    <cosponsor thomas_id="01818" joined="2014-06-18"/>
+    <cosponsor thomas_id="01952" joined="2014-06-18"/>
+    <cosponsor thomas_id="01942" joined="2014-06-18"/>
+    <cosponsor thomas_id="02137" joined="2014-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-18" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Department of Education"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Government studies and investigations"/>
+    <term name="Higher education"/>
+    <term name="Minority education"/>
+    <term name="Student aid and college costs"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Vocational education"/>
+  </subjects>
+  <amendments/>
+</bill>

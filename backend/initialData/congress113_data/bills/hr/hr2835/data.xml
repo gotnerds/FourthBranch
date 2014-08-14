@@ -1,0 +1,70 @@
+<bill session="113" type="h" number="2835" updated="2014-08-14T13:15:39-04:00">
+  <state datetime="2013-07-25">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-25"/>
+  </status>
+  <introduced datetime="2013-07-25"/>
+  <titles>
+    <title type="short" as="introduced">Restoring Access to Medication Act of 2013</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to repeal the amendments made by the Patient Protection and Affordable Care Act which disqualify expenses for over-the-counter drugs under health savings accounts and health flexible spending arrangements.</title>
+  </titles>
+  <sponsor thomas_id="01921"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2014-07-30"/>
+    <cosponsor thomas_id="01780" joined="2013-07-25"/>
+    <cosponsor thomas_id="02027" joined="2013-11-21"/>
+    <cosponsor thomas_id="02063" joined="2014-07-28"/>
+    <cosponsor thomas_id="01468" joined="2013-07-25"/>
+    <cosponsor thomas_id="01751" joined="2014-06-19"/>
+    <cosponsor thomas_id="01676" joined="2014-06-09"/>
+    <cosponsor thomas_id="02107" joined="2014-06-24"/>
+    <cosponsor thomas_id="00322" joined="2013-09-25"/>
+    <cosponsor thomas_id="02065" joined="2014-07-17"/>
+    <cosponsor thomas_id="01998" joined="2014-01-15"/>
+    <cosponsor thomas_id="01743" joined="2013-07-25"/>
+    <cosponsor thomas_id="01656" joined="2014-03-25"/>
+    <cosponsor thomas_id="01990" joined="2013-12-10"/>
+    <cosponsor thomas_id="01922" joined="2014-01-13"/>
+    <cosponsor thomas_id="02026" joined="2013-07-25"/>
+    <cosponsor thomas_id="00512" joined="2014-07-29"/>
+    <cosponsor thomas_id="02040" joined="2014-01-14"/>
+    <cosponsor thomas_id="02046" joined="2013-07-25"/>
+    <cosponsor thomas_id="00612" joined="2013-12-09"/>
+    <cosponsor thomas_id="01498" joined="2014-05-30"/>
+    <cosponsor thomas_id="00635" joined="2014-08-01"/>
+    <cosponsor thomas_id="01885" joined="2014-02-10"/>
+    <cosponsor thomas_id="02074" joined="2013-07-25"/>
+    <cosponsor thomas_id="01809" joined="2013-11-12"/>
+    <cosponsor thomas_id="01685" joined="2014-07-14"/>
+    <cosponsor thomas_id="02117" joined="2014-05-06"/>
+    <cosponsor thomas_id="02001" joined="2014-07-25"/>
+    <cosponsor thomas_id="01930" joined="2014-07-11"/>
+    <cosponsor thomas_id="01915" joined="2014-07-14"/>
+    <cosponsor thomas_id="01954" joined="2014-06-10"/>
+    <cosponsor thomas_id="02158" joined="2013-09-12"/>
+    <cosponsor thomas_id="02109" joined="2014-07-07"/>
+    <cosponsor thomas_id="01071" joined="2014-07-30"/>
+    <cosponsor thomas_id="01566" joined="2014-07-28"/>
+    <cosponsor thomas_id="01664" joined="2013-08-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-25" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="2688"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Income tax deductions"/>
+    <term name="Prescription drugs"/>
+  </subjects>
+  <amendments/>
+  <summary>7/25/2013--Introduced.
+Restoring Access to Medication Act of 2013 - Repeals provisions of the Internal Revenue Code, as added by the Patient Protection and Affordable Care Act, that limit payments for medications from health savings accounts, medical savings accounts, and health flexible spending arrangements to only prescription drugs or insulin (thus allowing distributions from such accounts for over-the-counter drugs).</summary>
+</bill>

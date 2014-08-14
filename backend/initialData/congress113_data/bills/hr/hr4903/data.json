@@ -1,0 +1,168 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-19T17:22:00-04:00", 
+      "committees": [
+        "HSAP"
+      ], 
+      "references": [], 
+      "text": "The House Committee on Appropriations reported an original measure, H. Rept. 113-481, by Mr. Carter.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-19T17:22:00-04:00", 
+      "calendar": "Union", 
+      "number": "357", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Placed on the Union Calendar, Calendar No. 357.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4903-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "origin", 
+        "reporting"
+      ], 
+      "committee": "House Appropriations", 
+      "committee_id": "HSAP"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-06-19", 
+  "number": "4903", 
+  "official_title": "Making appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2015, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr933-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr2217-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr3547-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2534-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Department of Homeland Security Appropriations Act, 2015", 
+  "sponsor": {
+    "district": "31", 
+    "name": "Carter, John R.", 
+    "state": "TX", 
+    "thomas_id": "01752", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2014-06-19T17:22:00-04:00", 
+  "subjects": [
+    "Abortion", 
+    "Accounting and auditing", 
+    "Appropriations", 
+    "Aviation and airports", 
+    "Border security and unlawful immigration", 
+    "Business ethics", 
+    "Buy American requirements", 
+    "Canada", 
+    "Caribbean area", 
+    "Child safety and welfare", 
+    "Coast guard", 
+    "Computers and information technology", 
+    "Congressional oversight", 
+    "Corporate finance and management", 
+    "Correctional facilities and imprisonment", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Criminal justice information and records", 
+    "Cuba", 
+    "Customs enforcement", 
+    "Department of Homeland Security", 
+    "Detention of persons", 
+    "Disaster relief and insurance", 
+    "Drug trafficking and controlled substances", 
+    "Emergency management", 
+    "Executive agency funding and structure", 
+    "Federal Emergency Management Agency (FEMA)", 
+    "Firearms and explosives", 
+    "Fires", 
+    "Floods and storm protection", 
+    "Food assistance and relief", 
+    "Foreign labor", 
+    "Government employee pay, benefits, personnel management", 
+    "Government lending and loan guarantees", 
+    "Homeland security", 
+    "Homelessness and emergency shelter", 
+    "Immigration status and procedures", 
+    "Intelligence activities, surveillance, classified information", 
+    "Latin America", 
+    "Law enforcement administration and funding", 
+    "Law enforcement officers", 
+    "Marine and inland water transportation", 
+    "Mexico", 
+    "Military facilities and property", 
+    "New Jersey", 
+    "Nuclear weapons", 
+    "Pornography", 
+    "Prescription drugs", 
+    "Protection of officials", 
+    "Public contracts and procurement", 
+    "Radioactive wastes and releases", 
+    "Religion", 
+    "Research administration and funding", 
+    "Research and development", 
+    "Tax administration and collection, taxpayers", 
+    "Terrorism", 
+    "Trade restrictions", 
+    "Transportation costs", 
+    "Transportation safety and security", 
+    "Travel and tourism", 
+    "User charges and fees"
+  ], 
+  "subjects_top_term": "Emergency management", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Department of Homeland Security Appropriations Act, 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Department of Homeland Security Appropriations Act, 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Making appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2015, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T13:33:17-04:00"
+}

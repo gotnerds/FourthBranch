@@ -1,0 +1,47 @@
+<bill session="113" type="hr" number="687" updated="2014-08-14T12:50:28-04:00">
+  <state datetime="2014-07-25">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-25"/>
+  </status>
+  <introduced datetime="2014-07-25"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the House of Representatives regarding the President's responsibility to address the border crisis.</title>
+  </titles>
+  <sponsor thomas_id="01707"/>
+  <cosponsors>
+    <cosponsor thomas_id="01748" joined="2014-07-25"/>
+    <cosponsor thomas_id="00211" joined="2014-07-29"/>
+    <cosponsor thomas_id="02121" joined="2014-07-29"/>
+    <cosponsor thomas_id="00446" joined="2014-07-28"/>
+    <cosponsor thomas_id="01868" joined="2014-07-29"/>
+    <cosponsor thomas_id="01724" joined="2014-07-29"/>
+    <cosponsor thomas_id="02011" joined="2014-07-29"/>
+    <cosponsor thomas_id="02033" joined="2014-07-29"/>
+    <cosponsor thomas_id="01908" joined="2014-07-29"/>
+    <cosponsor thomas_id="01075" joined="2014-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-25" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-07-25">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2014-07-25">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>7/25/2014--Introduced.
+Agrees with the President that there is a humanitarian crisis on the border that underscores the need to fix our immigration system.
+
+Calls upon the President to:
+
+ use the resources already at his disposal to gain operational control of the border; send a clear message that those who are seeking to enter the United States illegally will be returned to their home countries, and that subjecting children to the perilous migration to our border will no longer be tolerated; cease using his prosecutorial discretion authority to shield unlawful immigrants from prosecution; cease releasing convicted criminal aliens from detention; crack down on fraudulent asylum claims; implement tougher standards for credible fear claims; restore agreements with local law enforcement agencies to enforce immigration laws; give Border Patrol agents access to federal lands where drug traffickers, human smugglers, and unlawful immigrants hide; and employ diplomatic resources with Mexico, Honduras, Guatemala, and El Salvador to stop the border crisis. Stands ready to work with the President to realize such calls to action.</summary>
+</bill>

@@ -1,0 +1,126 @@
+<bill session="113" type="h" number="5137" updated="2014-08-14T13:35:19-04:00">
+  <state datetime="2014-07-17">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-17"/>
+  </status>
+  <introduced datetime="2014-07-17"/>
+  <titles>
+    <title type="short" as="introduced">Asylum Reform and Border Protection Act of 2014</title>
+    <title type="short" as="introduced" partial="1">National Security and Federal Lands Protection Act</title>
+    <title type="official" as="introduced">To modify the treatment of unaccompanied alien children who are in Federal custody by reason of their immigration status, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01956"/>
+  <cosponsors>
+    <cosponsor thomas_id="02054" joined="2014-07-28"/>
+    <cosponsor thomas_id="00062" joined="2014-07-28"/>
+    <cosponsor thomas_id="01838" joined="2014-07-24"/>
+    <cosponsor thomas_id="01753" joined="2014-07-22"/>
+    <cosponsor thomas_id="02063" joined="2014-07-30"/>
+    <cosponsor thomas_id="02155" joined="2014-07-22"/>
+    <cosponsor thomas_id="01751" joined="2014-07-31"/>
+    <cosponsor thomas_id="00165" joined="2014-07-22"/>
+    <cosponsor thomas_id="01752" joined="2014-07-22"/>
+    <cosponsor thomas_id="00186" joined="2014-07-17"/>
+    <cosponsor thomas_id="02200" joined="2014-07-22"/>
+    <cosponsor thomas_id="01670" joined="2014-07-24"/>
+    <cosponsor thomas_id="02062" joined="2014-07-22"/>
+    <cosponsor thomas_id="02067" joined="2014-07-17"/>
+    <cosponsor thomas_id="02061" joined="2014-07-22"/>
+    <cosponsor thomas_id="02049" joined="2014-07-30"/>
+    <cosponsor thomas_id="00446" joined="2014-07-17"/>
+    <cosponsor thomas_id="01992" joined="2014-07-24"/>
+    <cosponsor thomas_id="01933" joined="2014-07-28"/>
+    <cosponsor thomas_id="02026" joined="2014-07-22"/>
+    <cosponsor thomas_id="01749" joined="2014-07-24"/>
+    <cosponsor thomas_id="01909" joined="2014-07-22"/>
+    <cosponsor thomas_id="02199" joined="2014-07-22"/>
+    <cosponsor thomas_id="02154" joined="2014-07-22"/>
+    <cosponsor thomas_id="02051" joined="2014-07-31"/>
+    <cosponsor thomas_id="02100" joined="2014-07-24"/>
+    <cosponsor thomas_id="01834" joined="2014-07-24"/>
+    <cosponsor thomas_id="01931" joined="2014-07-22"/>
+    <cosponsor thomas_id="01908" joined="2014-07-22"/>
+    <cosponsor thomas_id="02074" joined="2014-07-22"/>
+    <cosponsor thomas_id="02141" joined="2014-07-22"/>
+    <cosponsor thomas_id="02022" joined="2014-07-24"/>
+    <cosponsor thomas_id="02068" joined="2014-07-24"/>
+    <cosponsor thomas_id="01954" joined="2014-07-22"/>
+    <cosponsor thomas_id="01704" joined="2014-07-24"/>
+    <cosponsor thomas_id="01009" joined="2014-07-24"/>
+    <cosponsor thomas_id="01041" joined="2014-07-24"/>
+    <cosponsor thomas_id="01075" joined="2014-07-17"/>
+    <cosponsor thomas_id="02047" joined="2014-07-24"/>
+    <cosponsor thomas_id="01664" joined="2014-07-22"/>
+    <cosponsor thomas_id="01779" joined="2014-07-22"/>
+    <cosponsor thomas_id="01238" joined="2014-07-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-17" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Foreign Affairs, Agriculture, Natural Resources, and Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-07-17">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2014-07-17">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2014-07-17">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2014-07-17">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2014-07-17">
+      <text>Referred to House Homeland Security</text>
+    </action>
+    <action datetime="2014-07-18">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+    </action>
+    <action datetime="2014-07-18">
+      <text>Provisions of H.R. 2398, as introduced, were included in Sec. 16 of H.R. 5137, as introduced. See also H.R. 2398 under Legislation Referred.</text>
+    </action>
+    <action datetime="2014-07-18">
+      <text>Referred to the Subcommittee on Border and Maritime Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee subcommittee="" code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Public Lands and Environmental Regulation" code="HSII10" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="" code="HSHM" name="House Homeland Security" activity="Referral"/>
+    <committee subcommittee="Border and Maritime Security" code="HSHM11" name="House Homeland Security" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="2398"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+  <summary>7/17/2014--Introduced.
+Asylum Reform and Border Protection Act of 2014 - Amends the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008 to direct the Secretary of State to negotiate agreements between the United States and other countries for the repatriation of children. Requires that such agreements protect children from severe forms of trafficking in persons and provide for their safe removal and repatriation. (Current law provides separate procedures for unaccompanied alien children from countries that are or are not contiguous to the United States.)
+
+Subjects all children who do not make a claim of asylum or fear of persecution to initial screening and expedited removal. (Maintains the exception for Cuban children arriving by air.)
+
+Prohibits the government from bearing any expense of counsel for any person in a removal or related appeal proceedings.
+
+Adds an additional requirement in order to establish a credible fear of persecution claim in an asylum interview.
+
+Limits humanitarian and public interest parole authority.
+
+Prohibits the Secretary of Homeland Security (DHS) from using parole authority for an alien who is ineligible for refugee status.
+
+Authorizes the DHS Secretary to designate groups as criminal street gangs. Requires detention for anyone found inadmissible or deportable for criminal street gang membership. Bars individuals found inadmissible or deportable for such membership from asylum, temporary protected status, or special immigrant juvenile status.
+
+Amends the Homeland Security Act of 2002 to revise the definition of "unaccompanied alien child."
+
+Prohibits an unaccompanied alien child from applying for asylum if such child: (1) may be removed to a safe third country, or (2) has not applied for asylum within one year after arrival in the United States.
+
+Provides for additional immigration judges and U.S. Immigration and Customs Enforcement (ICE) attorneys.
+
+National Security and Federal Lands Protection Act - Prohibits the Secretary of the Interior or the Secretary of Agriculture (USDA) from restricting specified U.S. Customs and Border Protection (CBP) activities on federal land within 100 miles of an international land border to: (1) execute search and rescue operations, and (2) prevent unlawful U.S. entries through the international land borders of the United States.
+
+Directs the Secretary of State to suspend all foreign assistance to certain countries that refuse to: (1) negotiate a child repatriation agreement, or (2) accept from the United States repatriated unaccompanied alien children who are nationals or residents of the sending country.
+
+Permits the use of foreign assistance for repatriation and reintegration purposes.</summary>
+</bill>

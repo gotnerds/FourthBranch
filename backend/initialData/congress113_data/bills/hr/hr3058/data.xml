@@ -1,0 +1,41 @@
+<bill session="113" type="h" number="3058" updated="2014-08-14T13:17:32-04:00">
+  <state datetime="2013-08-02">REFERRED</state>
+  <status>
+    <introduced datetime="2013-08-02"/>
+  </status>
+  <introduced datetime="2013-08-02"/>
+  <titles>
+    <title type="short" as="introduced">Central Valley Judicial Relief Act of 2013</title>
+    <title type="official" as="introduced">To provide for additional Federal district judgeships for the eastern district of California, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02105"/>
+  <cosponsors>
+    <cosponsor thomas_id="01774" joined="2013-08-02"/>
+    <cosponsor thomas_id="01833" joined="2013-08-02"/>
+    <cosponsor thomas_id="01710" joined="2013-08-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-08-02" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-09-13">
+      <text>Referred to the Subcommittee on Courts, Intellectual Property, and the Internet.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Courts, Intellectual Property, and the Internet" code="HSJU03" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+    <term name="California"/>
+    <term name="Federal district courts"/>
+    <term name="Judges"/>
+  </subjects>
+  <amendments/>
+  <summary>8/2/2013--Introduced.
+Central Valley Judicial Relief Act of 2013 - Directs the President to appoint, with advice and consent of the Senate, six additional district judges for the eastern district of California and one temporary judgeship for such district.
+
+Makes Bakersfield an additional place of holding court for the eastern district.</summary>
+</bill>

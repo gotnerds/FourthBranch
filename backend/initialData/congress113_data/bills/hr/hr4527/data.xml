@@ -1,0 +1,56 @@
+<bill session="113" type="h" number="4527" updated="2014-08-14T13:29:59-04:00">
+  <state datetime="2014-06-19">REPORTED</state>
+  <status>
+    <unknown datetime="2014-06-19"/>
+  </status>
+  <introduced datetime="2014-04-30"/>
+  <titles>
+    <title type="official" as="introduced">To remove a use restriction on land formerly a part of Acadia National Park that was transferred to the town of Tremont, Maine, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01730"/>
+  <cosponsors>
+    <cosponsor thomas_id="01927" joined="2014-04-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-04-30" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2014-05-02">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+    </action>
+    <action datetime="2014-06-10">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2014-06-19">
+      <text>Subcommittee on Public Lands and Environmental Regulation Discharged.</text>
+    </action>
+    <action datetime="2014-06-19">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-06-19" state="REPORTED">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+    </calendar>
+    <action datetime="2014-07-17T15:13:00-04:00">
+      <text>Reported by the Committee on Natural Resources. H. Rept. 113-535.</text>
+    </action>
+    <calendar datetime="2014-07-17T15:13:00-04:00" calendar="Union" number="401">
+      <text>Placed on the Union Calendar, Calendar No. 401.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee subcommittee="Public Lands and Environmental Regulation" code="HSII10" name="House Natural Resources" activity="Referral, Hearings, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Educational facilities and institutions"/>
+    <term name="Land transfers"/>
+    <term name="Land use and conservation"/>
+    <term name="Maine"/>
+    <term name="Parks, recreation areas, trails"/>
+  </subjects>
+  <amendments/>
+  <summary>4/30/2014--Introduced.
+Declares that specified lands in Acadia National Park in Maine, which were conveyed by the National Park Service to the town of Tremont, Maine, for school purposes, shall no longer be required to be used exclusively and perpetually for such purposes, and upon their discontinuance of such a use, shall no longer be required to revert to the United States.</summary>
+</bill>

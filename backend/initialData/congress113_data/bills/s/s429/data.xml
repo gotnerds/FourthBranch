@@ -1,0 +1,69 @@
+<bill session="113" type="s" number="429" updated="2014-08-14T13:48:23-04:00">
+  <state datetime="2014-04-09">REPORTED</state>
+  <status>
+    <unknown datetime="2014-04-09"/>
+  </status>
+  <introduced datetime="2013-02-28"/>
+  <titles>
+    <title type="short" as="introduced">Concrete Masonry Products Research, Education, and Promotion Act of 2013</title>
+    <title type="official" as="introduced">A bill to enable concrete masonry products manufacturers to establish, finance, and carry out a coordinated program of research, education, and promotion to improve, maintain, and develop markets for concrete masonry products.</title>
+  </titles>
+  <sponsor thomas_id="00859"/>
+  <cosponsors>
+    <cosponsor thomas_id="01558" joined="2013-09-12"/>
+    <cosponsor thomas_id="01464" joined="2013-02-28"/>
+    <cosponsor thomas_id="02194" joined="2014-08-05"/>
+    <cosponsor thomas_id="00153" joined="2013-04-08"/>
+    <cosponsor thomas_id="00172" joined="2014-05-14"/>
+    <cosponsor thomas_id="00174" joined="2013-09-23"/>
+    <cosponsor thomas_id="01828" joined="2013-07-29"/>
+    <cosponsor thomas_id="00188" joined="2013-04-08"/>
+    <cosponsor thomas_id="01984" joined="2013-03-04"/>
+    <cosponsor thomas_id="00250" joined="2013-07-10"/>
+    <cosponsor thomas_id="00326" joined="2014-04-07"/>
+    <cosponsor thomas_id="01902" joined="2013-04-08"/>
+    <cosponsor thomas_id="01826" joined="2013-06-19"/>
+    <cosponsor thomas_id="01384" joined="2013-09-17"/>
+    <cosponsor thomas_id="01983" joined="2013-02-28"/>
+    <cosponsor thomas_id="01820" joined="2013-02-28"/>
+    <cosponsor thomas_id="01507" joined="2013-07-18"/>
+    <cosponsor thomas_id="01409" joined="2014-06-03"/>
+    <cosponsor thomas_id="00968" joined="2013-10-16"/>
+    <cosponsor thomas_id="01531" joined="2013-09-30"/>
+    <cosponsor thomas_id="01897" joined="2014-07-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-28" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+    <calendar datetime="2014-04-09" state="REPORTED">
+      <text>Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="1563"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Administrative remedies"/>
+    <term name="Building construction"/>
+    <term name="Department of Commerce"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Judicial review and appeals"/>
+    <term name="Manufacturing"/>
+    <term name="Marketing and advertising"/>
+    <term name="Materials"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+  <summary>2/28/2013--Introduced.
+Concrete Masonry Products Research, Education, and Promotion Act of 2013 - Directs the Secretary of Commerce to issue orders applicable to manufacturers of concrete masonry products (concrete). Requires any such order to provide for the establishment of a Concrete Masonry Products Board, which shall carry out a program of promotion, research, and information regarding concrete products. Requires manufacturers and importers to maintain, and make available, specified records.
+
+Requires any such order to provide that assessments shall be paid by concrete manufacturers with respect to concrete manufactured and marketed in the United States. Provides assessment rates. Requires at least 50% of the assessments paid by a manufacturer to be used to support research, education, and promotion plans and projects in support of the geographic region of the manufacturer. Directs the Secretary, during the 60-day period preceding the proposed effective date of an order, to conduct a referendum for order approval among the manufacturers required to pay assessments under the order. Outlines referendum procedures.
+
+Provides for petition and review of an order, and order enforcement through U.S. district courts. Authorizes the Secretary to conduct appropriate investigations in order to administer this Act (with power of subpoena). Directs the Secretary to suspend or terminate any order or provision that obstructs or does not tend to effectuate the purposes of this Act, or that is not favored by persons voting in a referendum.</summary>
+</bill>

@@ -1,0 +1,121 @@
+<bill session="113" type="h" number="300" updated="2014-08-14T12:53:17-04:00">
+  <state datetime="2013-01-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-15"/>
+  </status>
+  <introduced datetime="2013-01-15"/>
+  <titles>
+    <title type="short" as="introduced">Visa Waiver for Israel Act of 2013</title>
+    <title type="official" as="introduced">To provide for the inclusion of Israel in the visa waiver program, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01526"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2013-01-15"/>
+    <cosponsor thomas_id="02135" joined="2013-01-23"/>
+    <cosponsor thomas_id="01753" joined="2013-02-06"/>
+    <cosponsor thomas_id="01723" joined="2013-02-04"/>
+    <cosponsor thomas_id="01469" joined="2013-01-15"/>
+    <cosponsor thomas_id="00132" joined="2013-01-15"/>
+    <cosponsor thomas_id="02106" joined="2013-02-04"/>
+    <cosponsor thomas_id="02159" joined="2013-01-15"/>
+    <cosponsor thomas_id="01970" joined="2013-01-15"/>
+    <cosponsor thomas_id="02055" joined="2013-01-15"/>
+    <cosponsor thomas_id="01959" joined="2013-01-15"/>
+    <cosponsor thomas_id="01641" joined="2013-02-12"/>
+    <cosponsor thomas_id="00279" joined="2013-03-25"/>
+    <cosponsor thomas_id="01976" joined="2013-01-15"/>
+    <cosponsor thomas_id="00316" joined="2013-03-14"/>
+    <cosponsor thomas_id="02036" joined="2013-01-15"/>
+    <cosponsor thomas_id="02067" joined="2013-02-04"/>
+    <cosponsor thomas_id="02064" joined="2013-02-04"/>
+    <cosponsor thomas_id="01888" joined="2013-02-04"/>
+    <cosponsor thomas_id="01707" joined="2013-01-15"/>
+    <cosponsor thomas_id="00414" joined="2013-03-05"/>
+    <cosponsor thomas_id="01973" joined="2013-02-26"/>
+    <cosponsor thomas_id="01737" joined="2013-01-15"/>
+    <cosponsor thomas_id="01801" joined="2013-02-12"/>
+    <cosponsor thomas_id="01914" joined="2013-01-15"/>
+    <cosponsor thomas_id="01803" joined="2013-01-15"/>
+    <cosponsor thomas_id="00462" joined="2013-01-15"/>
+    <cosponsor thomas_id="02041" joined="2013-01-15"/>
+    <cosponsor thomas_id="02089" joined="2013-01-15"/>
+    <cosponsor thomas_id="02044" joined="2013-01-15"/>
+    <cosponsor thomas_id="01580" joined="2013-01-15"/>
+    <cosponsor thomas_id="01634" joined="2013-01-15"/>
+    <cosponsor thomas_id="02015" joined="2013-01-15"/>
+    <cosponsor thomas_id="01663" joined="2013-01-15"/>
+    <cosponsor thomas_id="02149" joined="2013-01-15"/>
+    <cosponsor thomas_id="02046" joined="2013-01-15"/>
+    <cosponsor thomas_id="02025" joined="2013-01-15"/>
+    <cosponsor thomas_id="01834" joined="2013-01-15"/>
+    <cosponsor thomas_id="01936" joined="2013-01-15"/>
+    <cosponsor thomas_id="00688" joined="2013-05-22"/>
+    <cosponsor thomas_id="00701" joined="2013-01-15"/>
+    <cosponsor thomas_id="02111" joined="2013-01-15"/>
+    <cosponsor thomas_id="00729" joined="2013-01-15"/>
+    <cosponsor thomas_id="02150" joined="2013-03-05"/>
+    <cosponsor thomas_id="00735" joined="2013-01-15"/>
+    <cosponsor thomas_id="01804" joined="2013-01-15"/>
+    <cosponsor thomas_id="01504" joined="2013-01-15"/>
+    <cosponsor thomas_id="02142" joined="2013-03-25"/>
+    <cosponsor thomas_id="02148" joined="2014-04-28"/>
+    <cosponsor thomas_id="01730" joined="2013-01-15"/>
+    <cosponsor thomas_id="02117" joined="2013-02-26"/>
+    <cosponsor thomas_id="00850" joined="2013-01-15"/>
+    <cosponsor thomas_id="01974" joined="2013-01-23"/>
+    <cosponsor thomas_id="01510" joined="2013-01-15"/>
+    <cosponsor thomas_id="01802" joined="2013-01-15"/>
+    <cosponsor thomas_id="02118" joined="2013-02-04"/>
+    <cosponsor thomas_id="00944" joined="2013-01-15"/>
+    <cosponsor thomas_id="00985" joined="2013-01-15"/>
+    <cosponsor thomas_id="01848" joined="2013-02-05"/>
+    <cosponsor thomas_id="01009" joined="2013-02-06"/>
+    <cosponsor thomas_id="01588" joined="2013-01-15"/>
+    <cosponsor thomas_id="01635" joined="2013-01-15"/>
+    <cosponsor thomas_id="02124" joined="2013-01-15"/>
+    <cosponsor thomas_id="01920" joined="2013-02-04"/>
+    <cosponsor thomas_id="01798" joined="2013-01-15"/>
+    <cosponsor thomas_id="02047" joined="2013-02-06"/>
+    <cosponsor thomas_id="01114" joined="2013-01-15"/>
+    <cosponsor thomas_id="01997" joined="2013-03-05"/>
+    <cosponsor thomas_id="01940" joined="2013-01-15"/>
+    <cosponsor thomas_id="01729" joined="2013-01-15"/>
+    <cosponsor thomas_id="02112" joined="2013-01-15"/>
+    <cosponsor thomas_id="01184" joined="2013-02-04"/>
+    <cosponsor thomas_id="01777" joined="2013-01-15"/>
+    <cosponsor thomas_id="02161" joined="2013-01-15"/>
+    <cosponsor thomas_id="02004" joined="2013-01-15"/>
+    <cosponsor thomas_id="02021" joined="2013-04-17"/>
+    <cosponsor thomas_id="01256" joined="2013-01-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-15" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-02-28">
+      <text>Referred to the Subcommittee on Immigration And Border Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee subcommittee="Immigration and Border Security" code="HSJU01" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="266"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Homeland security"/>
+    <term name="International law and treaties"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Israel"/>
+    <term name="Middle East"/>
+    <term name="Terrorism"/>
+    <term name="Visas and passports"/>
+  </subjects>
+  <amendments/>
+  <summary>1/15/2013--Introduced.
+Visa Waiver for Israel Act of 2013 - Includes Israel in the visa waiver program upon the Secretary of Homeland Security's (DHS) determination that Israel: (1) has entered into an agreement with the United States to report, or make available through Interpol or other means, information about passport theft or loss; (2) has entered into an information sharing agreement with the United States regarding whether Israeli citizens and nationals traveling to the United States represent a U.S. security threat; (3) cooperates with the U.S. government on counterterrorism initiatives, information sharing, and preventing terrorist travel; (4) issues all new and reissued passports with biometric identifiers; and (5) has made every reasonable effort, without jeopardizing Israeli security, to ensure that reciprocal privileges are extended to all U.S. citizens.</summary>
+</bill>

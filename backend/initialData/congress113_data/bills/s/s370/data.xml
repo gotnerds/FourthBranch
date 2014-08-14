@@ -1,0 +1,70 @@
+<bill session="113" type="s" number="370" updated="2014-08-14T13:47:53-04:00">
+  <state datetime="2013-02-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-14"/>
+  </status>
+  <introduced datetime="2013-02-14"/>
+  <titles>
+    <title type="short" as="introduced">Teaching Geography Is Fundamental Act</title>
+    <title type="official" as="introduced">A bill to improve and expand geographic literacy among kindergarten through grade 12 students in the United States by improving professional development programs for kindergarten through grade 12 teachers offered through institutions of higher education.</title>
+  </titles>
+  <sponsor thomas_id="00213"/>
+  <cosponsors>
+    <cosponsor thomas_id="00066" joined="2013-03-05"/>
+    <cosponsor thomas_id="01898" joined="2013-03-05"/>
+    <cosponsor thomas_id="01965" joined="2013-03-05"/>
+    <cosponsor thomas_id="01464" joined="2013-03-11"/>
+    <cosponsor thomas_id="01687" joined="2013-03-19"/>
+    <cosponsor thomas_id="01541" joined="2013-05-09"/>
+    <cosponsor thomas_id="01984" joined="2013-03-07"/>
+    <cosponsor thomas_id="01332" joined="2014-03-24"/>
+    <cosponsor thomas_id="01937" joined="2014-02-27"/>
+    <cosponsor thomas_id="02174" joined="2013-03-11"/>
+    <cosponsor thomas_id="01899" joined="2013-03-11"/>
+    <cosponsor thomas_id="00604" joined="2013-03-14"/>
+    <cosponsor thomas_id="02185" joined="2013-03-05"/>
+    <cosponsor thomas_id="01826" joined="2014-05-06"/>
+    <cosponsor thomas_id="01383" joined="2013-03-05"/>
+    <cosponsor thomas_id="00791" joined="2014-03-06"/>
+    <cosponsor thomas_id="00802" joined="2013-02-14"/>
+    <cosponsor thomas_id="01507" joined="2013-02-28"/>
+    <cosponsor thomas_id="01694" joined="2013-02-28"/>
+    <cosponsor thomas_id="01901" joined="2013-07-25"/>
+    <cosponsor thomas_id="01226" joined="2013-02-28"/>
+    <cosponsor thomas_id="01247" joined="2013-03-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-14">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S786"/>
+    </action>
+    <action datetime="2013-02-14" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="822"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Academic performance and assessments"/>
+    <term name="Area studies and international education"/>
+    <term name="Earth sciences"/>
+    <term name="Education programs funding"/>
+    <term name="Educational technology and distance education"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Geography"/>
+    <term name="Higher education"/>
+    <term name="Teaching, teachers, curricula"/>
+  </subjects>
+  <amendments/>
+  <summary>2/14/2013--Introduced.
+Teaching Geography is Fundamental Act - Amends the Higher Education Act of 1965 to establish a geography education grant program under title II (Teacher Quality Enhancement).
+
+Authorizes the Secretary of Education to award a grant to a national nonprofit education organization or consortium, with 75% to be used for matching subgrants to institutions of higher education associated with state geographic alliances, nonprofit educational organizations, or state or local educational agencies.
+
+Requires program participants to use their grants and subgrants to enhance the geographic literacy of students in kindergarten through grade 12 by supporting specified activities, including: (1) educational research; (2) teacher training; (3) the development of effective teaching tools and learning materials; (4) the application of rigorous academic standards and assessment techniques; (5) comparative studies of world cultures, economies, and environments; and (6) the exchange of information regarding the state of geographic literacy and strategies for its improvement.</summary>
+</bill>

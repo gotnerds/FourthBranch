@@ -1,0 +1,54 @@
+<bill session="113" type="h" number="5026" updated="2014-08-14T13:34:22-04:00">
+  <state datetime="2014-07-30">REPORTED</state>
+  <status>
+    <unknown datetime="2014-07-30"/>
+  </status>
+  <introduced datetime="2014-07-08"/>
+  <titles>
+    <title type="short" as="introduced">Fish Hatchery Protection Act</title>
+    <title type="official" as="introduced">To prohibit closing or repurposing any propagation fish hatchery or aquatic species propagation program of the Department of the Interior unless such action is expressly authorized by an Act of Congress, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01992"/>
+  <cosponsors>
+    <cosponsor thomas_id="01761" joined="2014-07-22"/>
+    <cosponsor thomas_id="02121" joined="2014-07-08"/>
+    <cosponsor thomas_id="02098" joined="2014-07-29"/>
+    <cosponsor thomas_id="02144" joined="2014-07-08"/>
+    <cosponsor thomas_id="01989" joined="2014-07-08"/>
+    <cosponsor thomas_id="01990" joined="2014-07-22"/>
+    <cosponsor thomas_id="02040" joined="2014-07-15"/>
+    <cosponsor thomas_id="01907" joined="2014-07-17"/>
+    <cosponsor thomas_id="01730" joined="2014-07-08"/>
+    <cosponsor thomas_id="00940" joined="2014-07-22"/>
+    <cosponsor thomas_id="01954" joined="2014-07-08"/>
+    <cosponsor thomas_id="01590" joined="2014-07-24"/>
+    <cosponsor thomas_id="01991" joined="2014-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-08" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2014-07-10">
+      <text>Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.</text>
+    </action>
+    <action datetime="2014-07-23">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2014-07-30">
+      <text>Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs Discharged.</text>
+    </action>
+    <action datetime="2014-07-30">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-07-30" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 25 - 17.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral, Markup"/>
+    <committee subcommittee="Fisheries, Wildlife, Oceans, and Insular Affairs" code="HSII22" name="House Natural Resources" activity="Referral, Hearings, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

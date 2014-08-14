@@ -1,0 +1,43 @@
+<bill session="113" type="h" number="39" updated="2014-08-14T12:51:01-04:00">
+  <state datetime="2013-01-03">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-03"/>
+  </status>
+  <introduced datetime="2013-01-03"/>
+  <titles>
+    <title type="short" as="introduced">Multinational Species Conservation Funds Reauthorization Act of 2013</title>
+    <title type="official" as="introduced">To reauthorize the African Elephant Conservation Act, the Rhinoceros and Tiger Conservation Act of 1994, and the Asian Elephant Conservation Act of 1997.</title>
+  </titles>
+  <sponsor thomas_id="01256"/>
+  <cosponsors>
+    <cosponsor thomas_id="01840" joined="2013-07-18"/>
+    <cosponsor thomas_id="02041" joined="2013-01-15"/>
+    <cosponsor thomas_id="00808" joined="2013-03-21"/>
+    <cosponsor thomas_id="00832" joined="2013-04-09"/>
+    <cosponsor thomas_id="01953" joined="2013-03-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-03" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-01-31">
+      <text>Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee subcommittee="Fisheries, Wildlife, Oceans, and Insular Affairs" code="HSII22" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Animals"/>
+    <term name="Africa"/>
+    <term name="Asia"/>
+    <term name="Endangered and threatened species"/>
+    <term name="Mammals"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+  <summary>1/3/2013--Introduced.
+Multinational Species Conservation Funds Reauthorization Act of 2013 - Authorizes appropriations to carry out the African Elephant Conservation Act, the Rhinoceros and Tiger Conservation Act of 1994, and the Asian Elephant Conservation Act of 1997 for FY2014-FY2018.</summary>
+</bill>

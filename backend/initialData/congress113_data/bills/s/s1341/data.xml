@@ -1,0 +1,72 @@
+<bill session="113" type="s" number="1341" updated="2014-08-14T13:56:22-04:00">
+  <state datetime="2013-12-19">REPORTED</state>
+  <status>
+    <unknown datetime="2013-12-19"/>
+  </status>
+  <introduced datetime="2013-07-23"/>
+  <titles>
+    <title type="short" as="introduced">Cabin Fee Act of 2013</title>
+    <title type="short" as="reported to senate">Cabin Fee Act of 2013</title>
+    <title type="official" as="introduced">A bill to modify the Forest Service Recreation Residence Program as the program applies to units of the National Forest System derived from the public domain by implementing a simple, equitable, and predictable procedure for determining cabin user fees, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01829"/>
+  <cosponsors>
+    <cosponsor thomas_id="01881" joined="2013-07-23"/>
+    <cosponsor thomas_id="00066" joined="2013-07-23"/>
+    <cosponsor thomas_id="00250" joined="2013-07-23"/>
+    <cosponsor thomas_id="01542" joined="2013-07-23"/>
+    <cosponsor thomas_id="01332" joined="2013-07-23"/>
+    <cosponsor thomas_id="01633" joined="2013-12-18"/>
+    <cosponsor thomas_id="00457" joined="2013-07-23"/>
+    <cosponsor thomas_id="01896" joined="2013-07-29"/>
+    <cosponsor thomas_id="02198" joined="2014-06-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-23" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2013-11-20">
+      <text>Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.</text>
+    </action>
+    <calendar datetime="2013-12-19" state="REPORTED">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.</text>
+    </calendar>
+    <action datetime="2014-05-22">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Landrieu with an amendment and an amendment to the title. With written report No. 113-171.</text>
+    </action>
+    <calendar datetime="2014-05-22" calendar="Senate Legislative" under="General Orders" number="397">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 397.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee subcommittee="Public Lands, Forests, and Mining" code="SSEG03" name="Senate Energy and Natural Resources" activity="Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="4873"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Congressional oversight"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Land use and conservation"/>
+    <term name="Licensing and registrations"/>
+    <term name="Outdoor recreation"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+  <summary>7/23/2013--Introduced.
+Cabin Fee Act of 2013 - Directs the Secretary of Agriculture (USDA) to set an annual fee in accordance with this Act for the issuance of a special use permit for the use and occupancy of National Forest System land for recreational residence purposes.
+
+Requires the Secretary to: (1) complete the current appraisal cycle for such residences within two years after enactment of this Act, and (2) assess an interim annual fee for them according to a specified formula.
+
+Specifies the annual fee for each of 11 fee tiers, requiring annual adjustments to reflect the Implicit Price Deflator for the Gross Domestic Product of the Bureau of Economic Analysis of the Department of Commerce.
+
+Requires the Secretary to report after ten years on: (1) these annual fees in order to ensure that they reflect fair value for the use of System land, and (2) any recommendations to modify the fee system.
+
+Directs the Secretary to establish a transfer fee of $1,200 for the issuance of a new recreational residence permit due to a change in ownership of the recreational residence.
+
+Permits the Secretary, beginning in FY2023, to: (1) retain and expend any fees collected under this Act (including interim annual fees), and (2) use them to administer the recreational residence program and other recreation programs carried out on System land.
+
+Repeals the Cabin User Fees Fairness Act of 2000, effective on the date of the annual permit fees are first assessed under this Act.</summary>
+</bill>

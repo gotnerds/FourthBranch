@@ -1,0 +1,40 @@
+<bill session="113" type="s" number="2323" updated="2014-08-14T14:04:39-04:00">
+  <state datetime="2014-07-30">REPORTED</state>
+  <status>
+    <unknown datetime="2014-07-30"/>
+  </status>
+  <introduced datetime="2014-05-13"/>
+  <titles>
+    <title type="short" as="introduced">Gold Star Fathers Act of 2014</title>
+    <title type="official" as="introduced">A bill to amend chapter 21 of title 5, United States Code, to provide that fathers of certain permanently disabled or deceased veterans shall be included with mothers of such veterans as preference eligibles for treatment in the civil service.</title>
+  </titles>
+  <sponsor thomas_id="00136"/>
+  <cosponsors>
+    <cosponsor thomas_id="01247" joined="2014-07-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-13" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar datetime="2014-07-30" state="REPORTED">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="1832"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Conflicts and wars"/>
+    <term name="Disability and paralysis"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Marriage and family status"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>5/13/2014--Introduced.
+Gold Star Fathers Act of 2014 - Includes as a preference eligible for federal employment purposes a parent (currently, the mother only) of either an individual who lost his or her life under honorable conditions while serving in the Armed Forces during a war, in a campaign or expedition for which a campaign badge has been authorized, or during the period beginning April 28, 1952, and ending July 1, 1955, or a service-connected permanently and totally disabled veteran, if: (1) the spouse of such parent is totally and permanently disabled; or (2) such parent, when preference is claimed, is unmarried or legally separated from his or her spouse.</summary>
+</bill>

@@ -1,0 +1,68 @@
+<bill session="113" type="s" number="813" updated="2014-08-14T13:51:43-04:00">
+  <state datetime="2013-04-25">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-25"/>
+  </status>
+  <introduced datetime="2013-04-25"/>
+  <titles>
+    <title type="short" as="introduced">Peace Corps Equity Act of 2013</title>
+    <title type="official" as="introduced">A bill to require that Peace Corps volunteers be subject to the same limitations regarding coverage of abortion services as employees of the Peace Corps with respect to coverage of such services, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01381"/>
+  <cosponsors>
+    <cosponsor thomas_id="01898" joined="2013-06-13"/>
+    <cosponsor thomas_id="02076" joined="2013-05-07"/>
+    <cosponsor thomas_id="00116" joined="2013-04-25"/>
+    <cosponsor thomas_id="00136" joined="2013-05-07"/>
+    <cosponsor thomas_id="00172" joined="2013-05-14"/>
+    <cosponsor thomas_id="00174" joined="2013-10-02"/>
+    <cosponsor thomas_id="01541" joined="2013-05-06"/>
+    <cosponsor thomas_id="01984" joined="2013-05-07"/>
+    <cosponsor thomas_id="00326" joined="2013-05-08"/>
+    <cosponsor thomas_id="01332" joined="2013-05-15"/>
+    <cosponsor thomas_id="01969" joined="2013-07-08"/>
+    <cosponsor thomas_id="01866" joined="2013-04-25"/>
+    <cosponsor thomas_id="00501" joined="2013-05-13"/>
+    <cosponsor thomas_id="01937" joined="2013-05-16"/>
+    <cosponsor thomas_id="01844" joined="2013-05-16"/>
+    <cosponsor thomas_id="00604" joined="2013-05-16"/>
+    <cosponsor thomas_id="01546" joined="2013-05-07"/>
+    <cosponsor thomas_id="01383" joined="2013-05-16"/>
+    <cosponsor thomas_id="01900" joined="2014-03-06"/>
+    <cosponsor thomas_id="01837" joined="2013-04-25"/>
+    <cosponsor thomas_id="01409" joined="2013-04-25"/>
+    <cosponsor thomas_id="01010" joined="2013-05-16"/>
+    <cosponsor thomas_id="02173" joined="2013-05-16"/>
+    <cosponsor thomas_id="01901" joined="2013-04-25"/>
+    <cosponsor thomas_id="01531" joined="2013-07-25"/>
+    <cosponsor thomas_id="01829" joined="2013-05-06"/>
+    <cosponsor thomas_id="01595" joined="2013-06-11"/>
+    <cosponsor thomas_id="02182" joined="2013-04-25"/>
+    <cosponsor thomas_id="01823" joined="2013-05-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-25" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="4578"/>
+    <bill type="s" session="113" relation="unknown" number="2291"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Abortion"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Health care coverage and access"/>
+    <term name="National and community service"/>
+    <term name="Peace Corps"/>
+  </subjects>
+  <amendments/>
+  <summary>4/25/2013--Introduced.
+Peace Corps Equity Act of 2013 - Amends the Peace Corps Act to subject abortion service coverage by the Peace Corps for volunteers to the same limitations that apply to Peace Corps employees regarding coverage of abortion services.
+
+States that such provision shall not be construed to limit medical evacuation coverage.</summary>
+</bill>

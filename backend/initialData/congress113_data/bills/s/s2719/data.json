@@ -1,0 +1,80 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-31", 
+      "committees": [
+        "SSHR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2719-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Graham, Lindsey", 
+      "sponsored_at": "2014-07-31", 
+      "state": "SC", 
+      "thomas_id": "00452", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-07-31", 
+  "number": "2719", 
+  "official_title": "A bill to emphasize manufacturing in engineering programs by directing the National Institute of Standards and Technology, in coordination with other appropriate Federal agencies including the Department of Defense, Department of Energy, and National Science Foundation, to designate United States manufacturing universities.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Manufacturing Universities Act of 2014", 
+  "sponsor": {
+    "district": null, 
+    "name": "Coons, Christopher A.", 
+    "state": "DE", 
+    "thomas_id": "01984", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-07-31", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Manufacturing Universities Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to emphasize manufacturing in engineering programs by directing the National Institute of Standards and Technology, in coordination with other appropriate Federal agencies including the Department of Defense, Department of Energy, and National Science Foundation, to designate United States manufacturing universities.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T14:07:58-04:00"
+}

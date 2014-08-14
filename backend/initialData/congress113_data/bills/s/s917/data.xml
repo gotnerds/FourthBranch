@@ -1,0 +1,86 @@
+<bill session="113" type="s" number="917" updated="2014-08-14T13:52:35-04:00">
+  <state datetime="2013-05-09">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-09"/>
+  </status>
+  <introduced datetime="2013-05-09"/>
+  <titles>
+    <title type="short" as="introduced">Small Brewer Reinvestment and Expanding Workforce Act of 2013</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to provide a reduced rate of excise tax on beer produced domestically by certain qualifying producers.</title>
+  </titles>
+  <sponsor thomas_id="00174"/>
+  <cosponsors>
+    <cosponsor thomas_id="01695" joined="2013-08-01"/>
+    <cosponsor thomas_id="02075" joined="2014-02-24"/>
+    <cosponsor thomas_id="01558" joined="2013-05-09"/>
+    <cosponsor thomas_id="01898" joined="2013-05-09"/>
+    <cosponsor thomas_id="01965" joined="2013-05-13"/>
+    <cosponsor thomas_id="02076" joined="2013-05-13"/>
+    <cosponsor thomas_id="02194" joined="2014-07-29"/>
+    <cosponsor thomas_id="01687" joined="2013-07-17"/>
+    <cosponsor thomas_id="00172" joined="2014-03-24"/>
+    <cosponsor thomas_id="00179" joined="2013-05-09"/>
+    <cosponsor thomas_id="01828" joined="2013-06-17"/>
+    <cosponsor thomas_id="00213" joined="2013-05-09"/>
+    <cosponsor thomas_id="01541" joined="2013-05-09"/>
+    <cosponsor thomas_id="01984" joined="2013-05-09"/>
+    <cosponsor thomas_id="02189" joined="2013-05-09"/>
+    <cosponsor thomas_id="01866" joined="2013-06-17"/>
+    <cosponsor thomas_id="01902" joined="2013-12-10"/>
+    <cosponsor thomas_id="01937" joined="2014-05-08"/>
+    <cosponsor thomas_id="01844" joined="2013-11-13"/>
+    <cosponsor thomas_id="01899" joined="2014-05-08"/>
+    <cosponsor thomas_id="02185" joined="2013-05-09"/>
+    <cosponsor thomas_id="01647" joined="2014-04-10"/>
+    <cosponsor thomas_id="01826" joined="2013-06-27"/>
+    <cosponsor thomas_id="01546" joined="2013-11-12"/>
+    <cosponsor thomas_id="01383" joined="2013-05-13"/>
+    <cosponsor thomas_id="00735" joined="2014-05-12"/>
+    <cosponsor thomas_id="01820" joined="2013-07-15"/>
+    <cosponsor thomas_id="00791" joined="2013-05-09"/>
+    <cosponsor thomas_id="01900" joined="2013-05-09"/>
+    <cosponsor thomas_id="00802" joined="2013-05-09"/>
+    <cosponsor thomas_id="01507" joined="2013-05-15"/>
+    <cosponsor thomas_id="01694" joined="2013-05-22"/>
+    <cosponsor thomas_id="01837" joined="2013-05-15"/>
+    <cosponsor thomas_id="00924" joined="2013-05-09"/>
+    <cosponsor thomas_id="00968" joined="2014-05-20"/>
+    <cosponsor thomas_id="01010" joined="2013-05-09"/>
+    <cosponsor thomas_id="02173" joined="2014-03-31"/>
+    <cosponsor thomas_id="01036" joined="2013-05-09"/>
+    <cosponsor thomas_id="01901" joined="2013-05-15"/>
+    <cosponsor thomas_id="01531" joined="2013-05-20"/>
+    <cosponsor thomas_id="01829" joined="2013-05-09"/>
+    <cosponsor thomas_id="01595" joined="2013-12-19"/>
+    <cosponsor thomas_id="02198" joined="2014-06-02"/>
+    <cosponsor thomas_id="01897" joined="2013-09-09"/>
+    <cosponsor thomas_id="01226" joined="2013-05-09"/>
+    <cosponsor thomas_id="01247" joined="2013-05-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-09">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S3331-3332"/>
+    </action>
+    <action datetime="2013-05-09" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <reference ref="CR S3332" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="494"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Alcoholic beverages"/>
+    <term name="Food industry and services"/>
+    <term name="Sales and excise taxes"/>
+    <term name="Small business"/>
+  </subjects>
+  <amendments/>
+  <summary>5/9/2013--Introduced.
+Small Brewer Reinvestment and Expanding Workforce Act of 2013 - Amends the Internal Revenue Code to reduce the rate of the excise tax on beer produced within or imported into the United States for brewers who produce not more than 6 million barrels of beer a year.</summary>
+</bill>

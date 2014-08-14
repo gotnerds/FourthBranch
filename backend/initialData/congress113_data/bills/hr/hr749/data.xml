@@ -1,0 +1,132 @@
+<bill session="113" type="h" number="749" updated="2014-08-14T12:57:06-04:00">
+  <state datetime="2013-03-12T17:12:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2013-03-12T17:12:00-04:00"/>
+  </status>
+  <introduced datetime="2013-02-15"/>
+  <titles>
+    <title type="short" as="introduced">Eliminate Privacy Notice Confusion Act</title>
+    <title type="short" as="passed house">Eliminate Privacy Notice Confusion Act</title>
+    <title type="official" as="introduced">To amend the Gramm-Leach-Bliley Act to provide an exception to the annual privacy notice requirement.</title>
+  </titles>
+  <sponsor thomas_id="01931"/>
+  <cosponsors>
+    <cosponsor thomas_id="00038" joined="2013-03-11"/>
+    <cosponsor thomas_id="01838" joined="2013-03-07"/>
+    <cosponsor thomas_id="02063" joined="2013-03-12"/>
+    <cosponsor thomas_id="02127" joined="2013-03-11"/>
+    <cosponsor thomas_id="01999" joined="2013-03-11"/>
+    <cosponsor thomas_id="01889" joined="2013-03-11"/>
+    <cosponsor thomas_id="00186" joined="2013-03-12"/>
+    <cosponsor thomas_id="02123" joined="2013-03-06"/>
+    <cosponsor thomas_id="02072" joined="2013-03-12"/>
+    <cosponsor thomas_id="02125" joined="2013-03-06"/>
+    <cosponsor thomas_id="02064" joined="2013-03-06"/>
+    <cosponsor thomas_id="01797" joined="2013-03-11"/>
+    <cosponsor thomas_id="01924" joined="2013-03-12"/>
+    <cosponsor thomas_id="01793" joined="2013-03-12"/>
+    <cosponsor thomas_id="01888" joined="2013-03-11"/>
+    <cosponsor thomas_id="01992" joined="2013-02-15"/>
+    <cosponsor thomas_id="01656" joined="2013-02-15"/>
+    <cosponsor thomas_id="01979" joined="2013-02-28"/>
+    <cosponsor thomas_id="02010" joined="2013-02-28"/>
+    <cosponsor thomas_id="02032" joined="2013-02-27"/>
+    <cosponsor thomas_id="00511" joined="2013-02-15"/>
+    <cosponsor thomas_id="00512" joined="2013-03-06"/>
+    <cosponsor thomas_id="01490" joined="2013-02-15"/>
+    <cosponsor thomas_id="02101" joined="2013-03-12"/>
+    <cosponsor thomas_id="02028" joined="2013-02-15"/>
+    <cosponsor thomas_id="02015" joined="2013-03-12"/>
+    <cosponsor thomas_id="02069" joined="2013-02-26"/>
+    <cosponsor thomas_id="00612" joined="2013-03-05"/>
+    <cosponsor thomas_id="02169" joined="2013-03-11"/>
+    <cosponsor thomas_id="01724" joined="2013-03-05"/>
+    <cosponsor thomas_id="01583" joined="2013-03-06"/>
+    <cosponsor thomas_id="01885" joined="2013-03-07"/>
+    <cosponsor thomas_id="01781" joined="2013-03-11"/>
+    <cosponsor thomas_id="01846" joined="2013-02-26"/>
+    <cosponsor thomas_id="02033" joined="2013-03-05"/>
+    <cosponsor thomas_id="01939" joined="2013-02-15"/>
+    <cosponsor thomas_id="00729" joined="2013-03-11"/>
+    <cosponsor thomas_id="02150" joined="2013-03-12"/>
+    <cosponsor thomas_id="01503" joined="2013-02-15"/>
+    <cosponsor thomas_id="01506" joined="2013-02-15"/>
+    <cosponsor thomas_id="01730" joined="2013-02-15"/>
+    <cosponsor thomas_id="01731" joined="2013-03-05"/>
+    <cosponsor thomas_id="01584" joined="2013-03-11"/>
+    <cosponsor thomas_id="01685" joined="2013-03-12"/>
+    <cosponsor thomas_id="01811" joined="2013-03-07"/>
+    <cosponsor thomas_id="00832" joined="2013-03-11"/>
+    <cosponsor thomas_id="01602" joined="2013-03-07"/>
+    <cosponsor thomas_id="00868" joined="2013-02-15"/>
+    <cosponsor thomas_id="02001" joined="2013-03-06"/>
+    <cosponsor thomas_id="01974" joined="2013-02-15"/>
+    <cosponsor thomas_id="01930" joined="2013-02-26"/>
+    <cosponsor thomas_id="01835" joined="2013-02-27"/>
+    <cosponsor thomas_id="01929" joined="2013-02-15"/>
+    <cosponsor thomas_id="01927" joined="2013-02-26"/>
+    <cosponsor thomas_id="02141" joined="2013-03-12"/>
+    <cosponsor thomas_id="02171" joined="2013-03-12"/>
+    <cosponsor thomas_id="02048" joined="2013-02-15"/>
+    <cosponsor thomas_id="02003" joined="2013-02-28"/>
+    <cosponsor thomas_id="00998" joined="2013-02-15"/>
+    <cosponsor thomas_id="01920" joined="2013-02-28"/>
+    <cosponsor thomas_id="01950" joined="2013-03-12"/>
+    <cosponsor thomas_id="01041" joined="2013-02-28"/>
+    <cosponsor thomas_id="01861" joined="2013-03-12"/>
+    <cosponsor thomas_id="01526" joined="2013-02-15"/>
+    <cosponsor thomas_id="02047" joined="2013-02-15"/>
+    <cosponsor thomas_id="01884" joined="2013-03-05"/>
+    <cosponsor thomas_id="01855" joined="2013-02-27"/>
+    <cosponsor thomas_id="01777" joined="2013-03-06"/>
+    <cosponsor thomas_id="01879" joined="2013-03-05"/>
+    <cosponsor thomas_id="01779" joined="2013-02-15"/>
+    <cosponsor thomas_id="02004" joined="2013-03-12"/>
+    <cosponsor thomas_id="01688" joined="2013-02-15"/>
+    <cosponsor thomas_id="01256" joined="2013-02-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-15" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2013-03-12T17:02:00-04:00">
+      <text>Mr. Luetkemeyer moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2013-03-12T17:02:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1337-1339" label="consideration"/>
+    </action>
+    <action datetime="2013-03-12T17:02:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 749.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2013-03-12T17:12:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H1337" label="text"/>
+    </vote>
+    <action datetime="2013-03-12T17:12:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2013-03-13">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee subcommittee="" code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="4304"/>
+    <bill type="h" session="113" relation="unknown" number="4304"/>
+    <bill type="s" session="113" relation="unknown" number="635"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Consumer affairs"/>
+    <term name="Consumer credit"/>
+    <term name="Right of privacy"/>
+  </subjects>
+  <amendments/>
+  <summary>3/12/2013--Passed House without amendment.
+Eliminate Privacy Notice Confusion Act - Amends the Gramm-Leach-Bliley Act to exempt from its annual privacy policy notice requirement any financial institution which: (1) provides nonpublic personal information only in accordance with specified requirements, and (2) has not changed its policies and practices with regard to disclosing nonpublic personal information from those disclosed in the most recent disclosure sent to consumers.</summary>
+</bill>

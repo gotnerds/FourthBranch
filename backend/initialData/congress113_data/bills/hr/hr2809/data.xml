@@ -1,0 +1,208 @@
+<bill session="113" type="h" number="2809" updated="2014-08-14T13:15:26-04:00">
+  <state datetime="2013-07-24">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-24"/>
+  </status>
+  <introduced datetime="2013-07-24"/>
+  <titles>
+    <title type="official" as="introduced">To delay the application of the Patient Protection and Affordable Care Act.</title>
+  </titles>
+  <sponsor thomas_id="01748"/>
+  <cosponsors>
+    <cosponsor thomas_id="01460" joined="2013-08-02"/>
+    <cosponsor thomas_id="01727" joined="2013-08-02"/>
+    <cosponsor thomas_id="02090" joined="2013-09-26"/>
+    <cosponsor thomas_id="01858" joined="2013-08-02"/>
+    <cosponsor thomas_id="00062" joined="2013-09-18"/>
+    <cosponsor thomas_id="02135" joined="2013-08-02"/>
+    <cosponsor thomas_id="01838" joined="2013-09-12"/>
+    <cosponsor thomas_id="01753" joined="2013-08-01"/>
+    <cosponsor thomas_id="02063" joined="2013-07-30"/>
+    <cosponsor thomas_id="01787" joined="2013-08-02"/>
+    <cosponsor thomas_id="02155" joined="2013-09-20"/>
+    <cosponsor thomas_id="01987" joined="2013-08-02"/>
+    <cosponsor thomas_id="02129" joined="2013-09-12"/>
+    <cosponsor thomas_id="00165" joined="2013-09-27"/>
+    <cosponsor thomas_id="01676" joined="2013-09-25"/>
+    <cosponsor thomas_id="00186" joined="2013-09-17"/>
+    <cosponsor thomas_id="00211" joined="2013-08-02"/>
+    <cosponsor thomas_id="02098" joined="2013-08-02"/>
+    <cosponsor thomas_id="02144" joined="2013-09-26"/>
+    <cosponsor thomas_id="01643" joined="2013-09-27"/>
+    <cosponsor thomas_id="01670" joined="2013-08-02"/>
+    <cosponsor thomas_id="02138" joined="2013-09-19"/>
+    <cosponsor thomas_id="02126" joined="2013-09-19"/>
+    <cosponsor thomas_id="01995" joined="2013-09-27"/>
+    <cosponsor thomas_id="02062" joined="2013-08-02"/>
+    <cosponsor thomas_id="01717" joined="2013-09-25"/>
+    <cosponsor thomas_id="02057" joined="2013-08-02"/>
+    <cosponsor thomas_id="00322" joined="2013-08-02"/>
+    <cosponsor thomas_id="02036" joined="2013-08-02"/>
+    <cosponsor thomas_id="02067" joined="2013-08-02"/>
+    <cosponsor thomas_id="02064" joined="2013-09-12"/>
+    <cosponsor thomas_id="01797" joined="2013-09-19"/>
+    <cosponsor thomas_id="02061" joined="2013-08-02"/>
+    <cosponsor thomas_id="01924" joined="2013-08-02"/>
+    <cosponsor thomas_id="02065" joined="2013-09-12"/>
+    <cosponsor thomas_id="01683" joined="2013-09-30"/>
+    <cosponsor thomas_id="01793" joined="2013-09-26"/>
+    <cosponsor thomas_id="01707" joined="2013-08-02"/>
+    <cosponsor thomas_id="01998" joined="2013-09-27"/>
+    <cosponsor thomas_id="01737" joined="2013-09-19"/>
+    <cosponsor thomas_id="01743" joined="2013-09-20"/>
+    <cosponsor thomas_id="02049" joined="2013-09-26"/>
+    <cosponsor thomas_id="01720" joined="2013-09-12"/>
+    <cosponsor thomas_id="01801" joined="2013-08-02"/>
+    <cosponsor thomas_id="02058" joined="2013-09-19"/>
+    <cosponsor thomas_id="01656" joined="2013-09-19"/>
+    <cosponsor thomas_id="01979" joined="2013-09-25"/>
+    <cosponsor thomas_id="01990" joined="2013-08-02"/>
+    <cosponsor thomas_id="01922" joined="2013-09-12"/>
+    <cosponsor thomas_id="01933" joined="2013-09-12"/>
+    <cosponsor thomas_id="02026" joined="2013-07-24"/>
+    <cosponsor thomas_id="02032" joined="2013-09-12"/>
+    <cosponsor thomas_id="01749" joined="2013-09-12"/>
+    <cosponsor thomas_id="02028" joined="2013-09-18"/>
+    <cosponsor thomas_id="01909" joined="2013-09-26"/>
+    <cosponsor thomas_id="01921" joined="2013-08-02"/>
+    <cosponsor thomas_id="00603" joined="2013-08-02"/>
+    <cosponsor thomas_id="00612" joined="2013-09-19"/>
+    <cosponsor thomas_id="01868" joined="2013-09-18"/>
+    <cosponsor thomas_id="02051" joined="2013-09-25"/>
+    <cosponsor thomas_id="00636" joined="2013-08-02"/>
+    <cosponsor thomas_id="02100" joined="2013-08-02"/>
+    <cosponsor thomas_id="01834" joined="2013-09-17"/>
+    <cosponsor thomas_id="01936" joined="2013-09-12"/>
+    <cosponsor thomas_id="02050" joined="2013-09-17"/>
+    <cosponsor thomas_id="01885" joined="2013-09-19"/>
+    <cosponsor thomas_id="02033" joined="2013-09-18"/>
+    <cosponsor thomas_id="00711" joined="2013-08-02"/>
+    <cosponsor thomas_id="01960" joined="2013-09-19"/>
+    <cosponsor thomas_id="01806" joined="2013-08-02"/>
+    <cosponsor thomas_id="02053" joined="2013-09-18"/>
+    <cosponsor thomas_id="02094" joined="2013-08-02"/>
+    <cosponsor thomas_id="01804" joined="2013-09-25"/>
+    <cosponsor thomas_id="01908" joined="2013-08-02"/>
+    <cosponsor thomas_id="02074" joined="2013-08-02"/>
+    <cosponsor thomas_id="01809" joined="2013-09-27"/>
+    <cosponsor thomas_id="02142" joined="2013-07-24"/>
+    <cosponsor thomas_id="02130" joined="2013-09-18"/>
+    <cosponsor thomas_id="00800" joined="2013-09-20"/>
+    <cosponsor thomas_id="01731" joined="2013-09-19"/>
+    <cosponsor thomas_id="02059" joined="2013-08-02"/>
+    <cosponsor thomas_id="01744" joined="2013-09-27"/>
+    <cosponsor thomas_id="01758" joined="2013-10-01"/>
+    <cosponsor thomas_id="02060" joined="2013-09-27"/>
+    <cosponsor thomas_id="02001" joined="2013-09-25"/>
+    <cosponsor thomas_id="02034" joined="2013-09-12"/>
+    <cosponsor thomas_id="01955" joined="2013-08-02"/>
+    <cosponsor thomas_id="02035" joined="2013-08-02"/>
+    <cosponsor thomas_id="02141" joined="2013-09-26"/>
+    <cosponsor thomas_id="01802" joined="2013-08-02"/>
+    <cosponsor thomas_id="02022" joined="2013-09-27"/>
+    <cosponsor thomas_id="01915" joined="2013-09-18"/>
+    <cosponsor thomas_id="01778" joined="2013-07-24"/>
+    <cosponsor thomas_id="02048" joined="2013-09-26"/>
+    <cosponsor thomas_id="01954" joined="2013-08-02"/>
+    <cosponsor thomas_id="01704" joined="2013-08-02"/>
+    <cosponsor thomas_id="00979" joined="2013-08-02"/>
+    <cosponsor thomas_id="02017" joined="2013-09-18"/>
+    <cosponsor thomas_id="01848" joined="2013-09-19"/>
+    <cosponsor thomas_id="02003" joined="2013-09-18"/>
+    <cosponsor thomas_id="02158" joined="2013-08-02"/>
+    <cosponsor thomas_id="00998" joined="2013-09-25"/>
+    <cosponsor thomas_id="01009" joined="2013-09-18"/>
+    <cosponsor thomas_id="01012" joined="2013-09-25"/>
+    <cosponsor thomas_id="01920" joined="2013-09-26"/>
+    <cosponsor thomas_id="01994" joined="2013-08-02"/>
+    <cosponsor thomas_id="02009" joined="2013-09-18"/>
+    <cosponsor thomas_id="01527" joined="2013-08-02"/>
+    <cosponsor thomas_id="01681" joined="2013-09-26"/>
+    <cosponsor thomas_id="01590" joined="2013-09-12"/>
+    <cosponsor thomas_id="01071" joined="2013-08-02"/>
+    <cosponsor thomas_id="02191" joined="2013-09-26"/>
+    <cosponsor thomas_id="01075" joined="2013-09-20"/>
+    <cosponsor thomas_id="02000" joined="2013-08-02"/>
+    <cosponsor thomas_id="02168" joined="2013-09-19"/>
+    <cosponsor thomas_id="02047" joined="2013-08-02"/>
+    <cosponsor thomas_id="01114" joined="2013-09-27"/>
+    <cosponsor thomas_id="01981" joined="2013-09-12"/>
+    <cosponsor thomas_id="01664" joined="2013-11-12"/>
+    <cosponsor thomas_id="01997" joined="2013-09-12"/>
+    <cosponsor thomas_id="01177" joined="2013-09-19"/>
+    <cosponsor thomas_id="02137" joined="2013-09-20"/>
+    <cosponsor thomas_id="01855" joined="2013-09-18"/>
+    <cosponsor thomas_id="02128" joined="2013-09-25"/>
+    <cosponsor thomas_id="02161" joined="2013-08-02"/>
+    <cosponsor thomas_id="01779" joined="2013-08-02"/>
+    <cosponsor thomas_id="02165" joined="2013-09-27"/>
+    <cosponsor thomas_id="01688" joined="2013-07-24"/>
+    <cosponsor thomas_id="01886" joined="2013-09-18"/>
+    <cosponsor thomas_id="01991" joined="2013-09-17"/>
+    <cosponsor thomas_id="02008" joined="2013-09-25"/>
+    <cosponsor thomas_id="02021" joined="2013-07-24"/>
+    <cosponsor thomas_id="01256" joined="2013-09-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-24" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, Education and the Workforce, the Judiciary, Natural Resources, Rules, House Administration, and Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-07-24">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-07-24">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-07-24">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2013-07-24">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2013-07-24">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2013-07-24">
+      <text>Referred to House Rules</text>
+    </action>
+    <action datetime="2013-07-24">
+      <text>Referred to House House Administration</text>
+    </action>
+    <action datetime="2013-07-24">
+      <text>Referred to House Appropriations</text>
+    </action>
+    <action datetime="2013-07-26">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2013-07-31">
+      <text>Referred to the Subcommittee Indian and Alaska Native Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Indian and Alaska Native Affairs" code="HSII24" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="" code="HSRU" name="House Rules" activity="Referral"/>
+    <committee subcommittee="" code="HSHA" name="House Administration" activity="Referral"/>
+    <committee subcommittee="" code="HSAP" name="House Appropriations" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="1490"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Comprehensive health care"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Sales and excise taxes"/>
+  </subjects>
+  <amendments/>
+  <summary>7/24/2013--Introduced.
+Delays for one year the effective date of any provisions of the Patient Protection and Affordable Care Act or of any health care provisions of the Health Care and Education Reconciliation Act of 2011 that were scheduled to take effect on or after January 1, 2014.
+
+Suspends for one year, beginning January 1, 2014, any tax or tax increase imposed by such provisions if the tax or increase takes effect before that date.</summary>
+</bill>

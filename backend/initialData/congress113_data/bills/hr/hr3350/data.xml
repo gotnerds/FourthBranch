@@ -1,0 +1,285 @@
+<bill session="113" type="h" number="3350" updated="2014-08-14T13:19:59-04:00">
+  <state datetime="2013-11-15T13:35:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2013-11-15T13:35:00-05:00"/>
+  </status>
+  <introduced datetime="2013-10-28"/>
+  <titles>
+    <title type="short" as="introduced">Keep Your Health Plan Act of 2013</title>
+    <title type="short" as="passed house">Keep Your Health Plan Act of 2013</title>
+    <title type="official" as="introduced">To authorize health insurance issuers to continue to offer for sale current individual health insurance coverage in satisfaction of the minimum essential health insurance coverage requirement, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01177"/>
+  <cosponsors>
+    <cosponsor thomas_id="01460" joined="2013-11-12"/>
+    <cosponsor thomas_id="02090" joined="2013-10-30"/>
+    <cosponsor thomas_id="01858" joined="2013-10-30"/>
+    <cosponsor thomas_id="00038" joined="2013-10-30"/>
+    <cosponsor thomas_id="02054" joined="2013-11-12"/>
+    <cosponsor thomas_id="02131" joined="2013-10-30"/>
+    <cosponsor thomas_id="01780" joined="2013-11-12"/>
+    <cosponsor thomas_id="00062" joined="2013-10-28"/>
+    <cosponsor thomas_id="02027" joined="2013-10-29"/>
+    <cosponsor thomas_id="02135" joined="2013-10-30"/>
+    <cosponsor thomas_id="01838" joined="2013-10-28"/>
+    <cosponsor thomas_id="01753" joined="2013-11-12"/>
+    <cosponsor thomas_id="02063" joined="2013-10-30"/>
+    <cosponsor thomas_id="01748" joined="2013-10-28"/>
+    <cosponsor thomas_id="01987" joined="2013-11-12"/>
+    <cosponsor thomas_id="02129" joined="2013-11-12"/>
+    <cosponsor thomas_id="01840" joined="2013-10-29"/>
+    <cosponsor thomas_id="02018" joined="2013-10-29"/>
+    <cosponsor thomas_id="01751" joined="2013-10-28"/>
+    <cosponsor thomas_id="00165" joined="2013-11-12"/>
+    <cosponsor thomas_id="00166" joined="2013-10-30"/>
+    <cosponsor thomas_id="01816" joined="2013-11-12"/>
+    <cosponsor thomas_id="01676" joined="2013-10-29"/>
+    <cosponsor thomas_id="01752" joined="2013-10-30"/>
+    <cosponsor thomas_id="01925" joined="2013-10-28"/>
+    <cosponsor thomas_id="00186" joined="2013-10-30"/>
+    <cosponsor thomas_id="00211" joined="2013-11-14"/>
+    <cosponsor thomas_id="01912" joined="2013-11-12"/>
+    <cosponsor thomas_id="01742" joined="2013-11-12"/>
+    <cosponsor thomas_id="02151" joined="2013-11-12"/>
+    <cosponsor thomas_id="02103" joined="2013-10-30"/>
+    <cosponsor thomas_id="02098" joined="2013-10-30"/>
+    <cosponsor thomas_id="02144" joined="2013-10-30"/>
+    <cosponsor thomas_id="01989" joined="2013-10-30"/>
+    <cosponsor thomas_id="01670" joined="2013-11-14"/>
+    <cosponsor thomas_id="02138" joined="2013-10-30"/>
+    <cosponsor thomas_id="02126" joined="2013-11-12"/>
+    <cosponsor thomas_id="01995" joined="2013-10-30"/>
+    <cosponsor thomas_id="01799" joined="2013-11-12"/>
+    <cosponsor thomas_id="02072" joined="2013-11-12"/>
+    <cosponsor thomas_id="00322" joined="2013-10-30"/>
+    <cosponsor thomas_id="02036" joined="2013-10-28"/>
+    <cosponsor thomas_id="02067" joined="2013-11-12"/>
+    <cosponsor thomas_id="01797" joined="2013-10-29"/>
+    <cosponsor thomas_id="02061" joined="2013-11-12"/>
+    <cosponsor thomas_id="02065" joined="2013-10-29"/>
+    <cosponsor thomas_id="01683" joined="2013-11-13"/>
+    <cosponsor thomas_id="01791" joined="2013-10-30"/>
+    <cosponsor thomas_id="00414" joined="2013-11-12"/>
+    <cosponsor thomas_id="01998" joined="2013-10-28"/>
+    <cosponsor thomas_id="01743" joined="2013-11-12"/>
+    <cosponsor thomas_id="02049" joined="2013-11-12"/>
+    <cosponsor thomas_id="02043" joined="2013-10-30"/>
+    <cosponsor thomas_id="01720" joined="2013-10-28"/>
+    <cosponsor thomas_id="01801" joined="2013-11-12"/>
+    <cosponsor thomas_id="00446" joined="2013-11-12"/>
+    <cosponsor thomas_id="01992" joined="2013-11-12"/>
+    <cosponsor thomas_id="01656" joined="2013-11-12"/>
+    <cosponsor thomas_id="01990" joined="2013-11-12"/>
+    <cosponsor thomas_id="02070" joined="2013-10-28"/>
+    <cosponsor thomas_id="02041" joined="2013-11-12"/>
+    <cosponsor thomas_id="01922" joined="2013-10-28"/>
+    <cosponsor thomas_id="00484" joined="2013-10-28"/>
+    <cosponsor thomas_id="01933" joined="2013-10-28"/>
+    <cosponsor thomas_id="02026" joined="2013-10-29"/>
+    <cosponsor thomas_id="02032" joined="2013-11-12"/>
+    <cosponsor thomas_id="00512" joined="2013-11-12"/>
+    <cosponsor thomas_id="02040" joined="2013-11-12"/>
+    <cosponsor thomas_id="01749" joined="2013-10-29"/>
+    <cosponsor thomas_id="02143" joined="2013-11-12"/>
+    <cosponsor thomas_id="02140" joined="2013-11-12"/>
+    <cosponsor thomas_id="02020" joined="2013-11-12"/>
+    <cosponsor thomas_id="02028" joined="2013-10-29"/>
+    <cosponsor thomas_id="02015" joined="2013-10-29"/>
+    <cosponsor thomas_id="01909" joined="2013-11-12"/>
+    <cosponsor thomas_id="01921" joined="2013-11-12"/>
+    <cosponsor thomas_id="02046" joined="2013-10-28"/>
+    <cosponsor thomas_id="00612" joined="2013-10-30"/>
+    <cosponsor thomas_id="02154" joined="2013-10-30"/>
+    <cosponsor thomas_id="02051" joined="2013-10-30"/>
+    <cosponsor thomas_id="00635" joined="2013-11-12"/>
+    <cosponsor thomas_id="00636" joined="2013-10-29"/>
+    <cosponsor thomas_id="02014" joined="2013-10-28"/>
+    <cosponsor thomas_id="01733" joined="2013-11-12"/>
+    <cosponsor thomas_id="02011" joined="2013-10-30"/>
+    <cosponsor thomas_id="02100" joined="2013-11-12"/>
+    <cosponsor thomas_id="01834" joined="2013-11-12"/>
+    <cosponsor thomas_id="01936" joined="2013-10-28"/>
+    <cosponsor thomas_id="02050" joined="2013-10-30"/>
+    <cosponsor thomas_id="00666" joined="2013-10-29"/>
+    <cosponsor thomas_id="01885" joined="2013-10-28"/>
+    <cosponsor thomas_id="00699" joined="2013-11-12"/>
+    <cosponsor thomas_id="02033" joined="2013-10-28"/>
+    <cosponsor thomas_id="01960" joined="2013-10-29"/>
+    <cosponsor thomas_id="01806" joined="2013-11-12"/>
+    <cosponsor thomas_id="01804" joined="2013-11-12"/>
+    <cosponsor thomas_id="01792" joined="2013-10-29"/>
+    <cosponsor thomas_id="01505" joined="2013-11-12"/>
+    <cosponsor thomas_id="02074" joined="2013-10-28"/>
+    <cosponsor thomas_id="01809" joined="2013-10-28"/>
+    <cosponsor thomas_id="02142" joined="2013-11-12"/>
+    <cosponsor thomas_id="02052" joined="2013-10-29"/>
+    <cosponsor thomas_id="02130" joined="2013-11-12"/>
+    <cosponsor thomas_id="01731" joined="2013-10-29"/>
+    <cosponsor thomas_id="01685" joined="2013-11-12"/>
+    <cosponsor thomas_id="02059" joined="2013-11-12"/>
+    <cosponsor thomas_id="02117" joined="2013-11-13"/>
+    <cosponsor thomas_id="01744" joined="2013-10-28"/>
+    <cosponsor thomas_id="01758" joined="2013-11-13"/>
+    <cosponsor thomas_id="02001" joined="2013-11-12"/>
+    <cosponsor thomas_id="02034" joined="2013-10-29"/>
+    <cosponsor thomas_id="01955" joined="2013-10-28"/>
+    <cosponsor thomas_id="02035" joined="2013-11-12"/>
+    <cosponsor thomas_id="01930" joined="2013-11-12"/>
+    <cosponsor thomas_id="02141" joined="2013-11-12"/>
+    <cosponsor thomas_id="01514" joined="2013-10-28"/>
+    <cosponsor thomas_id="01802" joined="2013-11-12"/>
+    <cosponsor thomas_id="02022" joined="2013-10-28"/>
+    <cosponsor thomas_id="01915" joined="2013-10-29"/>
+    <cosponsor thomas_id="01778" joined="2013-10-29"/>
+    <cosponsor thomas_id="02118" joined="2013-11-12"/>
+    <cosponsor thomas_id="01982" joined="2013-10-30"/>
+    <cosponsor thomas_id="01810" joined="2013-11-12"/>
+    <cosponsor thomas_id="02048" joined="2013-11-12"/>
+    <cosponsor thomas_id="02073" joined="2013-11-12"/>
+    <cosponsor thomas_id="02160" joined="2013-10-30"/>
+    <cosponsor thomas_id="01986" joined="2013-11-12"/>
+    <cosponsor thomas_id="01954" joined="2013-10-29"/>
+    <cosponsor thomas_id="00977" joined="2013-11-12"/>
+    <cosponsor thomas_id="01704" joined="2013-10-30"/>
+    <cosponsor thomas_id="01651" joined="2013-10-28"/>
+    <cosponsor thomas_id="02017" joined="2013-10-29"/>
+    <cosponsor thomas_id="01916" joined="2013-10-30"/>
+    <cosponsor thomas_id="01848" joined="2013-11-12"/>
+    <cosponsor thomas_id="02039" joined="2013-10-30"/>
+    <cosponsor thomas_id="01560" joined="2013-11-13"/>
+    <cosponsor thomas_id="01009" joined="2013-11-12"/>
+    <cosponsor thomas_id="01892" joined="2013-10-28"/>
+    <cosponsor thomas_id="02009" joined="2013-11-12"/>
+    <cosponsor thomas_id="01525" joined="2013-10-30"/>
+    <cosponsor thomas_id="01527" joined="2013-10-28"/>
+    <cosponsor thomas_id="02099" joined="2013-11-14"/>
+    <cosponsor thomas_id="01075" joined="2013-10-30"/>
+    <cosponsor thomas_id="02000" joined="2013-11-12"/>
+    <cosponsor thomas_id="02168" joined="2013-11-12"/>
+    <cosponsor thomas_id="02047" joined="2013-10-30"/>
+    <cosponsor thomas_id="01114" joined="2013-11-12"/>
+    <cosponsor thomas_id="01566" joined="2013-10-28"/>
+    <cosponsor thomas_id="01664" joined="2013-11-12"/>
+    <cosponsor thomas_id="01741" joined="2013-11-12"/>
+    <cosponsor thomas_id="02105" joined="2013-11-12"/>
+    <cosponsor thomas_id="02137" joined="2013-11-12"/>
+    <cosponsor thomas_id="01855" joined="2013-10-29"/>
+    <cosponsor thomas_id="01596" joined="2013-10-28"/>
+    <cosponsor thomas_id="02128" joined="2013-10-29"/>
+    <cosponsor thomas_id="02161" joined="2013-11-13"/>
+    <cosponsor thomas_id="02002" joined="2013-10-29"/>
+    <cosponsor thomas_id="01779" joined="2013-11-12"/>
+    <cosponsor thomas_id="01222" joined="2013-10-28"/>
+    <cosponsor thomas_id="02165" joined="2013-11-12"/>
+    <cosponsor thomas_id="01688" joined="2013-10-30"/>
+    <cosponsor thomas_id="01991" joined="2013-10-29"/>
+    <cosponsor thomas_id="02021" joined="2013-10-29"/>
+    <cosponsor thomas_id="01256" joined="2013-10-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-10-28" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-10-28">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-10-28">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-11-01">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2013-11-14T19:10:00-05:00">
+      <text>Rules Committee Resolution H. Res. 413 Reported to House. Rule provides for consideration of H.R. 3350 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.</text>
+    </action>
+    <action datetime="2013-11-15T11:07:00-05:00">
+      <text>Rule H. Res. 413 passed House.</text>
+    </action>
+    <action datetime="2013-11-15T11:07:00-05:00">
+      <text>Considered under the provisions of rule H. Res. 413.</text>
+      <reference ref="CR H7128-7145" label="consideration"/>
+    </action>
+    <action datetime="2013-11-15T11:07:00-05:00">
+      <text>Rule provides for consideration of H.R. 3350 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. Measure will be considered read. Bill is closed to amendments.</text>
+    </action>
+    <action datetime="2013-11-15T11:08:00-05:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 3350.</text>
+    </action>
+    <action datetime="2013-11-15T12:31:00-05:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H7139" label="consideration"/>
+    </action>
+    <action datetime="2013-11-15T12:31:00-05:00">
+      <text>Mr. Andrews moved to recommit with instructions to Energy and Commerce.</text>
+      <reference ref="CR H7139-7142" label="consideration"/>
+      <reference ref="CR H7139-7140" label="text"/>
+    </action>
+    <action datetime="2013-11-15T12:33:00-05:00">
+      <text>DEBATE - The House proceeded with 10 minutes of debate on the Andrews motion to recommit with instructions, pending the reservation of a point of order. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to replace the underlying bill with an entire new text.</text>
+    </action>
+    <action datetime="2013-11-15T12:39:00-05:00">
+      <text>Mr. Upton raised a point of order against the motion to recommit with instructions. Mr. Upton stated that the amendment was not germane to the underlying bill. Sustained by the Chair.</text>
+    </action>
+    <action datetime="2013-11-15T12:39:00-05:00">
+      <text>Point of order sustained against the motion to recommit with instructions.</text>
+    </action>
+    <action datetime="2013-11-15T12:42:00-05:00">
+      <text>Mr. Andrews appealed the ruling of the chair. The question was then put on sustaining the ruling of the chair.</text>
+    </action>
+    <action datetime="2013-11-15T12:43:00-05:00">
+      <text>Mr. Upton moved to table the motion to appeal the ruling of the chair</text>
+      <reference ref="CR H7142" label="consideration"/>
+    </action>
+    <action datetime="2013-11-15T13:08:00-05:00">
+      <text>On motion to table the motion to appeal the ruling of the chair Agreed to by the Yeas and Nays: 229 - 191 (Roll no. 585).</text>
+    </action>
+    <action datetime="2013-11-15T13:08:00-05:00">
+      <text>Mr. Andrews moved to recommit with instructions to Energy and Commerce.</text>
+      <reference ref="CR H7142-7144" label="consideration"/>
+      <reference ref="CR H7142-7143" label="text"/>
+    </action>
+    <action datetime="2013-11-15T13:13:00-05:00">
+      <text>DEBATE - The House proceeded with 10 minutes of debate on the Andrews motion to recommit with instructions, pending the reservation of a point of order. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to give insurance companies the option to continue offering non-Affordable Care Act compliant plans through 2014 to current enrollees only, as long as those plans were in effect as of October 1, 2013. The motion also requires insurance companies to notify consumers of the differences between these extended plans and the options, credits, and subsidies available through the Affordable Care Acts exchanges, as well as instructions on how to receive them. Subsequently, the reservation of a point of order was withdrawn.</text>
+    </action>
+    <action datetime="2013-11-15T13:21:00-05:00">
+      <text>The previous question on the motion to recommit with instructions was ordered without objection.</text>
+      <reference ref="CR H7143" label="consideration"/>
+    </action>
+    <action datetime="2013-11-15T13:28:00-05:00">
+      <text>On motion to recommit with instructions Failed by the Yeas and Nays: 187 - 230 (Roll no. 586).</text>
+      <reference ref="CR H7143-7144" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="587" datetime="2013-11-15T13:35:00-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by recorded vote: 261 - 157 (Roll no. 587).</text>
+      <reference ref="CR H7128" label="text"/>
+    </vote>
+    <action datetime="2013-11-15T13:35:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2013-11-18">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2013-12-20">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="113" relation="rule" number="413"/>
+    <bill type="h" session="113" relation="unknown" number="3522"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Comprehensive health care"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+  </subjects>
+  <amendments/>
+  <summary>11/15/2013--Passed House without amendment.
+Keep Your Health Plan Act of 2013 - Permits a health insurance issuer that has in effect health insurance coverage in the individual market as of January 1, 2013, to continue offering such coverage for sale during 2014 outside of a health care exchange established under the Patient Protection and Affordable Care Act. Treats such coverage as a grandfathered health plan for purposes of an individual meeting the requirement to maintain minimum essential health coverage.</summary>
+</bill>

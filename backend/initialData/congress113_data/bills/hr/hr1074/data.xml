@@ -1,0 +1,206 @@
+<bill session="113" type="h" number="1074" updated="2014-08-14T12:59:51-04:00">
+  <state datetime="2013-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-12"/>
+  </status>
+  <introduced datetime="2013-03-12"/>
+  <titles>
+    <title type="short" as="introduced">National Diabetes Clinical Care Commission Act</title>
+    <title type="official" as="introduced">To amend the Public Health Service Act to foster more effective implementation and coordination of clinical care for people with pre-diabetes and diabetes.</title>
+  </titles>
+  <sponsor thomas_id="01955"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2013-07-30"/>
+    <cosponsor thomas_id="00038" joined="2014-07-11"/>
+    <cosponsor thomas_id="02054" joined="2014-06-23"/>
+    <cosponsor thomas_id="00062" joined="2014-07-11"/>
+    <cosponsor thomas_id="02153" joined="2014-02-25"/>
+    <cosponsor thomas_id="02027" joined="2013-05-08"/>
+    <cosponsor thomas_id="01838" joined="2013-05-08"/>
+    <cosponsor thomas_id="00091" joined="2013-11-21"/>
+    <cosponsor thomas_id="01740" joined="2013-04-17"/>
+    <cosponsor thomas_id="01748" joined="2013-04-09"/>
+    <cosponsor thomas_id="00099" joined="2014-06-23"/>
+    <cosponsor thomas_id="01723" joined="2014-06-23"/>
+    <cosponsor thomas_id="01845" joined="2013-03-20"/>
+    <cosponsor thomas_id="02129" joined="2014-07-11"/>
+    <cosponsor thomas_id="00132" joined="2014-06-18"/>
+    <cosponsor thomas_id="02106" joined="2014-02-25"/>
+    <cosponsor thomas_id="01840" joined="2013-04-09"/>
+    <cosponsor thomas_id="02018" joined="2014-06-10"/>
+    <cosponsor thomas_id="01751" joined="2013-03-21"/>
+    <cosponsor thomas_id="01761" joined="2013-04-26"/>
+    <cosponsor thomas_id="01676" joined="2013-05-21"/>
+    <cosponsor thomas_id="01889" joined="2014-06-18"/>
+    <cosponsor thomas_id="01752" joined="2014-05-07"/>
+    <cosponsor thomas_id="01925" joined="2013-04-09"/>
+    <cosponsor thomas_id="01864" joined="2013-11-21"/>
+    <cosponsor thomas_id="00211" joined="2014-04-09"/>
+    <cosponsor thomas_id="01878" joined="2013-12-11"/>
+    <cosponsor thomas_id="02151" joined="2014-06-10"/>
+    <cosponsor thomas_id="01959" joined="2013-06-25"/>
+    <cosponsor thomas_id="01643" joined="2013-05-08"/>
+    <cosponsor thomas_id="01670" joined="2013-05-14"/>
+    <cosponsor thomas_id="01641" joined="2014-06-10"/>
+    <cosponsor thomas_id="01479" joined="2013-08-01"/>
+    <cosponsor thomas_id="02133" joined="2014-03-26"/>
+    <cosponsor thomas_id="02096" joined="2014-06-18"/>
+    <cosponsor thomas_id="00303" joined="2013-11-14"/>
+    <cosponsor thomas_id="01894" joined="2013-12-11"/>
+    <cosponsor thomas_id="02036" joined="2014-06-18"/>
+    <cosponsor thomas_id="02125" joined="2014-03-13"/>
+    <cosponsor thomas_id="00355" joined="2014-07-31"/>
+    <cosponsor thomas_id="02067" joined="2013-12-11"/>
+    <cosponsor thomas_id="00371" joined="2013-12-11"/>
+    <cosponsor thomas_id="02065" joined="2014-06-10"/>
+    <cosponsor thomas_id="01683" joined="2013-07-30"/>
+    <cosponsor thomas_id="01793" joined="2014-07-28"/>
+    <cosponsor thomas_id="02119" joined="2014-04-28"/>
+    <cosponsor thomas_id="00414" joined="2014-02-25"/>
+    <cosponsor thomas_id="01743" joined="2013-10-16"/>
+    <cosponsor thomas_id="01720" joined="2013-11-14"/>
+    <cosponsor thomas_id="01801" joined="2013-04-26"/>
+    <cosponsor thomas_id="01992" joined="2013-03-20"/>
+    <cosponsor thomas_id="02058" joined="2013-05-08"/>
+    <cosponsor thomas_id="01487" joined="2014-07-30"/>
+    <cosponsor thomas_id="00462" joined="2013-04-17"/>
+    <cosponsor thomas_id="01990" joined="2014-04-10"/>
+    <cosponsor thomas_id="01708" joined="2013-04-09"/>
+    <cosponsor thomas_id="01922" joined="2013-05-08"/>
+    <cosponsor thomas_id="02089" joined="2013-11-21"/>
+    <cosponsor thomas_id="00484" joined="2013-05-08"/>
+    <cosponsor thomas_id="01933" joined="2013-11-21"/>
+    <cosponsor thomas_id="02026" joined="2013-10-01"/>
+    <cosponsor thomas_id="00511" joined="2014-06-18"/>
+    <cosponsor thomas_id="02040" joined="2013-04-09"/>
+    <cosponsor thomas_id="01794" joined="2014-06-18"/>
+    <cosponsor thomas_id="01913" joined="2013-12-11"/>
+    <cosponsor thomas_id="02143" joined="2014-04-09"/>
+    <cosponsor thomas_id="01580" joined="2013-07-08"/>
+    <cosponsor thomas_id="01634" joined="2014-01-16"/>
+    <cosponsor thomas_id="02101" joined="2013-10-16"/>
+    <cosponsor thomas_id="01663" joined="2014-04-01"/>
+    <cosponsor thomas_id="00588" joined="2013-12-11"/>
+    <cosponsor thomas_id="02046" joined="2013-12-11"/>
+    <cosponsor thomas_id="00599" joined="2013-12-11"/>
+    <cosponsor thomas_id="01843" joined="2013-04-09"/>
+    <cosponsor thomas_id="00603" joined="2014-02-25"/>
+    <cosponsor thomas_id="02154" joined="2014-04-28"/>
+    <cosponsor thomas_id="02172" joined="2014-05-07"/>
+    <cosponsor thomas_id="02134" joined="2013-12-11"/>
+    <cosponsor thomas_id="00635" joined="2014-07-11"/>
+    <cosponsor thomas_id="02014" joined="2014-07-30"/>
+    <cosponsor thomas_id="01907" joined="2013-05-23"/>
+    <cosponsor thomas_id="02145" joined="2013-05-08"/>
+    <cosponsor thomas_id="01936" joined="2013-04-26"/>
+    <cosponsor thomas_id="00666" joined="2013-04-26"/>
+    <cosponsor thomas_id="01885" joined="2014-02-25"/>
+    <cosponsor thomas_id="01501" joined="2014-06-10"/>
+    <cosponsor thomas_id="00683" joined="2014-05-07"/>
+    <cosponsor thomas_id="00688" joined="2014-04-28"/>
+    <cosponsor thomas_id="01781" joined="2014-03-13"/>
+    <cosponsor thomas_id="01846" joined="2013-04-09"/>
+    <cosponsor thomas_id="00701" joined="2014-03-26"/>
+    <cosponsor thomas_id="02033" joined="2014-05-07"/>
+    <cosponsor thomas_id="01939" joined="2014-02-25"/>
+    <cosponsor thomas_id="01943" joined="2013-03-12"/>
+    <cosponsor thomas_id="01806" joined="2013-04-09"/>
+    <cosponsor thomas_id="01814" joined="2013-12-12"/>
+    <cosponsor thomas_id="01503" joined="2013-11-21"/>
+    <cosponsor thomas_id="01653" joined="2014-06-25"/>
+    <cosponsor thomas_id="01504" joined="2013-04-09"/>
+    <cosponsor thomas_id="02074" joined="2014-06-10"/>
+    <cosponsor thomas_id="01809" joined="2014-04-28"/>
+    <cosponsor thomas_id="02052" joined="2013-11-21"/>
+    <cosponsor thomas_id="00832" joined="2013-03-12"/>
+    <cosponsor thomas_id="01744" joined="2013-07-08"/>
+    <cosponsor thomas_id="00854" joined="2013-03-21"/>
+    <cosponsor thomas_id="00868" joined="2014-07-22"/>
+    <cosponsor thomas_id="02001" joined="2014-02-25"/>
+    <cosponsor thomas_id="01510" joined="2014-05-07"/>
+    <cosponsor thomas_id="00893" joined="2014-04-10"/>
+    <cosponsor thomas_id="01929" joined="2013-05-21"/>
+    <cosponsor thomas_id="02113" joined="2014-06-25"/>
+    <cosponsor thomas_id="01953" joined="2013-04-26"/>
+    <cosponsor thomas_id="01927" joined="2013-11-21"/>
+    <cosponsor thomas_id="01915" joined="2013-07-08"/>
+    <cosponsor thomas_id="00930" joined="2013-11-14"/>
+    <cosponsor thomas_id="00944" joined="2013-04-09"/>
+    <cosponsor thomas_id="02073" joined="2014-04-03"/>
+    <cosponsor thomas_id="01954" joined="2013-03-12"/>
+    <cosponsor thomas_id="02003" joined="2014-04-28"/>
+    <cosponsor thomas_id="02039" joined="2013-10-08"/>
+    <cosponsor thomas_id="01728" joined="2013-11-21"/>
+    <cosponsor thomas_id="01003" joined="2013-11-21"/>
+    <cosponsor thomas_id="01962" joined="2014-06-10"/>
+    <cosponsor thomas_id="01757" joined="2013-10-08"/>
+    <cosponsor thomas_id="01635" joined="2014-03-26"/>
+    <cosponsor thomas_id="01798" joined="2013-03-20"/>
+    <cosponsor thomas_id="01722" joined="2014-06-25"/>
+    <cosponsor thomas_id="01037" joined="2013-11-21"/>
+    <cosponsor thomas_id="01041" joined="2013-10-16"/>
+    <cosponsor thomas_id="01042" joined="2014-08-01"/>
+    <cosponsor thomas_id="01525" joined="2013-03-12"/>
+    <cosponsor thomas_id="01861" joined="2014-04-28"/>
+    <cosponsor thomas_id="01527" joined="2014-04-09"/>
+    <cosponsor thomas_id="01681" joined="2014-04-28"/>
+    <cosponsor thomas_id="01069" joined="2014-06-25"/>
+    <cosponsor thomas_id="01071" joined="2014-07-11"/>
+    <cosponsor thomas_id="01075" joined="2014-04-10"/>
+    <cosponsor thomas_id="01890" joined="2013-04-09"/>
+    <cosponsor thomas_id="02047" joined="2013-06-25"/>
+    <cosponsor thomas_id="01114" joined="2014-04-28"/>
+    <cosponsor thomas_id="02110" joined="2013-04-17"/>
+    <cosponsor thomas_id="01566" joined="2014-02-11"/>
+    <cosponsor thomas_id="01155" joined="2014-04-28"/>
+    <cosponsor thomas_id="01664" joined="2014-07-31"/>
+    <cosponsor thomas_id="01535" joined="2014-06-10"/>
+    <cosponsor thomas_id="01940" joined="2013-07-18"/>
+    <cosponsor thomas_id="01942" joined="2013-10-30"/>
+    <cosponsor thomas_id="01884" joined="2013-03-12"/>
+    <cosponsor thomas_id="01741" joined="2014-07-11"/>
+    <cosponsor thomas_id="02166" joined="2013-05-21"/>
+    <cosponsor thomas_id="02167" joined="2013-05-14"/>
+    <cosponsor thomas_id="01184" joined="2014-04-09"/>
+    <cosponsor thomas_id="01205" joined="2014-07-30"/>
+    <cosponsor thomas_id="02152" joined="2014-04-09"/>
+    <cosponsor thomas_id="01222" joined="2013-05-08"/>
+    <cosponsor thomas_id="01688" joined="2014-04-09"/>
+    <cosponsor thomas_id="01886" joined="2013-04-09"/>
+    <cosponsor thomas_id="01853" joined="2014-04-28"/>
+    <cosponsor thomas_id="01255" joined="2013-03-21"/>
+    <cosponsor thomas_id="02019" joined="2014-07-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-12" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-03-15">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="539"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Advisory bodies"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Digestive and metabolic diseases"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Medical tests and diagnostic methods"/>
+  </subjects>
+  <amendments/>
+  <summary>3/12/2013--Introduced.
+National Diabetes Clinical Care Commission Act - Establishes within the Department of Health and Human Services (HHS) the National Diabetes Clinical Care Commission to evaluate and make recommendations regarding better coordination and leveraging of federal programs that relate in any way to supporting appropriate clinical care for people with pre-diabetes and diabetes.
+
+Sets forth the duties of the Commission, which shall include: (1) evaluating HHS programs, (2) identifying current activities and critical gaps in federal efforts to support clinicians in providing care to people with pre-diabetes and diabetes, (3) recommending how an outcomes-based registry may be developed and then used to evaluate various care models and methods, (4) evaluating and expanding education and awareness to health care professionals regarding clinical practices for the prevention of diabetes and the precursor conditions of diabetes, and (5) reviewing and recommending appropriate methods for outreach and dissemination of educational resources related to diabetes prevention and treatments.
+
+Requires the Commission to submit an operating plan to the Secretary and Congress within 90 days of its first meeting.</summary>
+</bill>

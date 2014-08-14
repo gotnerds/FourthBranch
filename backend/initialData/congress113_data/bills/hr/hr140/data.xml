@@ -1,0 +1,72 @@
+<bill session="113" type="h" number="140" updated="2014-08-14T12:51:54-04:00">
+  <state datetime="2013-01-03">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-03"/>
+  </status>
+  <introduced datetime="2013-01-03"/>
+  <titles>
+    <title type="short" as="introduced">Birthright Citizenship Act of 2013</title>
+    <title type="official" as="introduced">To amend section 301 of the Immigration and Nationality Act to clarify those classes of individuals born in the United States who are nationals and citizens of the United States at birth.</title>
+  </titles>
+  <sponsor thomas_id="01724"/>
+  <cosponsors>
+    <cosponsor thomas_id="02054" joined="2013-01-03"/>
+    <cosponsor thomas_id="02135" joined="2013-01-23"/>
+    <cosponsor thomas_id="02063" joined="2013-01-03"/>
+    <cosponsor thomas_id="01468" joined="2013-06-13"/>
+    <cosponsor thomas_id="01987" joined="2013-01-03"/>
+    <cosponsor thomas_id="01882" joined="2013-02-26"/>
+    <cosponsor thomas_id="01816" joined="2013-05-07"/>
+    <cosponsor thomas_id="01925" joined="2014-06-17"/>
+    <cosponsor thomas_id="02121" joined="2014-02-27"/>
+    <cosponsor thomas_id="01805" joined="2013-01-03"/>
+    <cosponsor thomas_id="01670" joined="2013-01-03"/>
+    <cosponsor thomas_id="02062" joined="2014-02-25"/>
+    <cosponsor thomas_id="02057" joined="2013-03-12"/>
+    <cosponsor thomas_id="01793" joined="2014-07-29"/>
+    <cosponsor thomas_id="01791" joined="2013-01-03"/>
+    <cosponsor thomas_id="01707" joined="2013-01-23"/>
+    <cosponsor thomas_id="01720" joined="2013-01-03"/>
+    <cosponsor thomas_id="01801" joined="2013-01-03"/>
+    <cosponsor thomas_id="01656" joined="2013-02-26"/>
+    <cosponsor thomas_id="01979" joined="2013-02-26"/>
+    <cosponsor thomas_id="00484" joined="2014-01-09"/>
+    <cosponsor thomas_id="00612" joined="2013-01-03"/>
+    <cosponsor thomas_id="00636" joined="2013-07-08"/>
+    <cosponsor thomas_id="01806" joined="2013-01-23"/>
+    <cosponsor thomas_id="01685" joined="2013-01-03"/>
+    <cosponsor thomas_id="01758" joined="2013-02-26"/>
+    <cosponsor thomas_id="02001" joined="2013-01-03"/>
+    <cosponsor thomas_id="02034" joined="2013-01-15"/>
+    <cosponsor thomas_id="02035" joined="2013-06-27"/>
+    <cosponsor thomas_id="01915" joined="2014-07-22"/>
+    <cosponsor thomas_id="01954" joined="2013-01-23"/>
+    <cosponsor thomas_id="01994" joined="2013-01-15"/>
+    <cosponsor thomas_id="02009" joined="2014-07-10"/>
+    <cosponsor thomas_id="01779" joined="2013-01-03"/>
+    <cosponsor thomas_id="02008" joined="2013-01-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-03" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-01-25">
+      <text>Referred to the Subcommittee on Immigration And Border Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee subcommittee="Immigration and Border Security" code="HSJU01" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="301"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Citizenship and naturalization"/>
+    <term name="Military personnel and dependents"/>
+  </subjects>
+  <amendments/>
+  <summary>1/3/2013--Introduced.
+Birthright Citizenship Act of 2013 - Amends the Immigration and Nationality Act to consider a person born in the United States "subject to the jurisdiction" of the United States for citizenship at birth purposes if the person is born in the United States of parents, one of whom is: (1) a U.S. citizen or national, (2) a lawful permanent resident alien whose residence is in the United States, or (3) an alien performing active service in the U.S. Armed Forces.</summary>
+</bill>

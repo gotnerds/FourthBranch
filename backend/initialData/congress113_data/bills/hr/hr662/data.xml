@@ -1,0 +1,59 @@
+<bill session="113" type="h" number="662" updated="2014-08-14T12:56:23-04:00">
+  <state datetime="2013-02-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-13"/>
+  </status>
+  <introduced datetime="2013-02-13"/>
+  <titles>
+    <title type="official" as="introduced">To prohibit United States contributions to the Intergovernmental Panel on Climate Change and the United Nations Framework Convention on Climate Change.</title>
+  </titles>
+  <sponsor thomas_id="01931"/>
+  <cosponsors>
+    <cosponsor thomas_id="02063" joined="2013-02-13"/>
+    <cosponsor thomas_id="01748" joined="2013-02-25"/>
+    <cosponsor thomas_id="01468" joined="2013-02-25"/>
+    <cosponsor thomas_id="02155" joined="2013-03-12"/>
+    <cosponsor thomas_id="01882" joined="2013-02-13"/>
+    <cosponsor thomas_id="01676" joined="2013-03-07"/>
+    <cosponsor thomas_id="02057" joined="2013-02-13"/>
+    <cosponsor thomas_id="00322" joined="2013-02-13"/>
+    <cosponsor thomas_id="01656" joined="2013-02-13"/>
+    <cosponsor thomas_id="02032" joined="2013-02-25"/>
+    <cosponsor thomas_id="02020" joined="2013-02-13"/>
+    <cosponsor thomas_id="02046" joined="2013-03-07"/>
+    <cosponsor thomas_id="01724" joined="2013-02-13"/>
+    <cosponsor thomas_id="00636" joined="2013-02-13"/>
+    <cosponsor thomas_id="01885" joined="2013-02-13"/>
+    <cosponsor thomas_id="02033" joined="2013-02-13"/>
+    <cosponsor thomas_id="01960" joined="2013-02-13"/>
+    <cosponsor thomas_id="01908" joined="2013-02-13"/>
+    <cosponsor thomas_id="02074" joined="2013-02-13"/>
+    <cosponsor thomas_id="02001" joined="2013-02-13"/>
+    <cosponsor thomas_id="01955" joined="2013-03-07"/>
+    <cosponsor thomas_id="01915" joined="2013-02-13"/>
+    <cosponsor thomas_id="01041" joined="2013-03-07"/>
+    <cosponsor thomas_id="01114" joined="2013-02-13"/>
+    <cosponsor thomas_id="02137" joined="2013-02-13"/>
+    <cosponsor thomas_id="01779" joined="2013-02-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-13" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Air quality"/>
+    <term name="Climate change and greenhouse gases"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="International organizations and cooperation"/>
+    <term name="United Nations"/>
+  </subjects>
+  <amendments/>
+  <summary>2/13/2013--Introduced.
+Prohibits federal department or agency funds from being used to make assessed or voluntary contributions to, or for, the Intergovernmental Panel on Climate Change (IPCC) or the United Nations Framework Convention on Climate Change (UNFCCC).</summary>
+</bill>

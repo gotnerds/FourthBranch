@@ -1,0 +1,30 @@
+<bill session="113" type="h" number="5037" updated="2014-08-14T13:34:29-04:00">
+  <state datetime="2014-07-09">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-09"/>
+  </status>
+  <introduced datetime="2014-07-09"/>
+  <titles>
+    <title type="short" as="introduced">The Office of Financial Research Accountability Act of 2014</title>
+    <title type="official" as="introduced">To amend the Dodd-Frank Wall Street Reform and Consumer Protection Act to improve the transparency, accountability, governance, and operations of the Office of Financial Research, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00998"/>
+  <cosponsors>
+    <cosponsor thomas_id="02117" joined="2014-07-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-09" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2014-07-15">
+      <text>Hearings Held by the Subcommittee on Financial Institutions and Consumer Credit Prior to Referral.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee subcommittee="Financial Institutions and Consumer Credit" code="HSBA15" name="House Financial Services" activity="Hearings"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

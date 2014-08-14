@@ -1,0 +1,17 @@
+<amendment session="113" chamber="s" number="671" updated="2014-08-14T13:05:12-04:00">
+  <amends type="sc" number="8" sequence=""/>
+  <status datetime="2013-03-23">pass</status>
+  <sponsor thomas_id="01647"/>
+  <offered datetime="2013-03-22"/>
+  <description>To establish a deficit-neutral reserve fund relating to sanctions with respect to Iran.</description>
+  <actions>
+    <action datetime="2013-03-23">
+      <text>Amendment SA 671 proposed by Senator Kirk.</text>
+      <reference ref="CR S2308-2311" label="consideration"/>
+      <reference ref="CR S2309" label="text"/>
+    </action>
+    <vote datetime="2013-03-23" how="Unanimous Consent" result="pass">
+      <text>Amendment SA 671 agreed to in Senate by Unanimous Consent.</text>
+    </vote>
+  </actions>
+</amendment>

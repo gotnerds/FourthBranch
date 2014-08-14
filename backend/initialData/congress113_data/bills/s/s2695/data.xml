@@ -1,0 +1,25 @@
+<bill session="113" type="s" number="2695" updated="2014-08-14T14:07:46-04:00">
+  <state datetime="2014-07-30">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-30"/>
+  </status>
+  <introduced datetime="2014-07-30"/>
+  <titles>
+    <title type="short" as="introduced">SOS Campus Act</title>
+    <title type="short" as="introduced">Survivor Outreach and Support Campus Act</title>
+    <title type="official" as="introduced">A bill to amend the Higher Education Act of 1965 to require institutions of higher education to have an independent advocate for campus sexual assault prevention and response.</title>
+  </titles>
+  <sponsor thomas_id="00116"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-30" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

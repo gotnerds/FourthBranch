@@ -1,0 +1,57 @@
+<bill session="113" type="h" number="4878" updated="2014-08-14T13:33:04-04:00">
+  <state datetime="2014-06-17">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-17"/>
+  </status>
+  <introduced datetime="2014-06-17"/>
+  <titles>
+    <title type="short" as="introduced">Facilitating Investments in Local Markets Act</title>
+    <title type="short" as="introduced">FILM Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to extend the special expensing rules for certain film and television productions and to provide for special expensing for live theatrical productions.</title>
+  </titles>
+  <sponsor thomas_id="02121"/>
+  <cosponsors>
+    <cosponsor thomas_id="01748" joined="2014-07-25"/>
+    <cosponsor thomas_id="01787" joined="2014-06-17"/>
+    <cosponsor thomas_id="01970" joined="2014-07-22"/>
+    <cosponsor thomas_id="01604" joined="2014-06-17"/>
+    <cosponsor thomas_id="01663" joined="2014-07-16"/>
+    <cosponsor thomas_id="02033" joined="2014-07-25"/>
+    <cosponsor thomas_id="01806" joined="2014-06-26"/>
+    <cosponsor thomas_id="00854" joined="2014-06-17"/>
+    <cosponsor thomas_id="01710" joined="2014-06-17"/>
+    <cosponsor thomas_id="01930" joined="2014-07-16"/>
+    <cosponsor thomas_id="02048" joined="2014-07-23"/>
+    <cosponsor thomas_id="02023" joined="2014-06-25"/>
+    <cosponsor thomas_id="01757" joined="2014-06-17"/>
+    <cosponsor thomas_id="01635" joined="2014-07-23"/>
+    <cosponsor thomas_id="01920" joined="2014-06-18"/>
+    <cosponsor thomas_id="01664" joined="2014-06-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-17">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1007-1008"/>
+    </action>
+    <action datetime="2014-06-17" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2180"/>
+    <bill type="s" session="113" relation="unknown" number="2260"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Business expenses"/>
+    <term name="Income tax deductions"/>
+    <term name="Intellectual property"/>
+    <term name="Performing arts"/>
+  </subjects>
+  <amendments/>
+  <summary>6/17/2014--Introduced.
+Facilitating Investments in Local Markets Act or the FILM Act - Amends the Internal Revenue Code, with respect to the expensing of the costs of qualified film and television productions, to: (1) extend through 2015 provisions allowing such expensing, and (2) allow such expensing for the costs of certain live theatrical productions.</summary>
+</bill>

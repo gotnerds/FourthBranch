@@ -1,0 +1,95 @@
+<bill session="113" type="hr" number="328" updated="2014-08-14T12:47:26-04:00">
+  <state datetime="2013-08-02">REFERRED</state>
+  <status>
+    <introduced datetime="2013-08-02"/>
+  </status>
+  <introduced datetime="2013-08-02"/>
+  <titles>
+    <title type="official" as="introduced">Condemning the discrimination, hate crimes, racism, bigotry, bullying, and brutal violence perpetrated against Sikh-Americans, and all acts of vandalism against Sikh Gurdwaras in the United States, and remembering the tragedy that occurred at the Sikh Gurdwara of Wisconsin one year ago.</title>
+  </titles>
+  <sponsor thomas_id="01604"/>
+  <cosponsors>
+    <cosponsor thomas_id="02102" joined="2013-08-02"/>
+    <cosponsor thomas_id="02106" joined="2013-08-02"/>
+    <cosponsor thomas_id="01564" joined="2013-08-02"/>
+    <cosponsor thomas_id="02159" joined="2013-08-02"/>
+    <cosponsor thomas_id="01878" joined="2013-08-02"/>
+    <cosponsor thomas_id="01959" joined="2013-08-02"/>
+    <cosponsor thomas_id="01836" joined="2013-08-02"/>
+    <cosponsor thomas_id="00279" joined="2013-08-02"/>
+    <cosponsor thomas_id="01976" joined="2013-08-02"/>
+    <cosponsor thomas_id="00316" joined="2013-08-02"/>
+    <cosponsor thomas_id="02122" joined="2013-08-02"/>
+    <cosponsor thomas_id="02120" joined="2013-08-02"/>
+    <cosponsor thomas_id="02089" joined="2013-08-02"/>
+    <cosponsor thomas_id="00511" joined="2013-08-02"/>
+    <cosponsor thomas_id="01490" joined="2013-08-02"/>
+    <cosponsor thomas_id="01634" joined="2013-08-02"/>
+    <cosponsor thomas_id="01663" joined="2013-08-02"/>
+    <cosponsor thomas_id="00588" joined="2013-08-02"/>
+    <cosponsor thomas_id="02172" joined="2013-08-02"/>
+    <cosponsor thomas_id="01498" joined="2013-08-02"/>
+    <cosponsor thomas_id="00688" joined="2013-08-02"/>
+    <cosponsor thomas_id="01939" joined="2013-08-02"/>
+    <cosponsor thomas_id="00729" joined="2013-08-02"/>
+    <cosponsor thomas_id="00766" joined="2013-08-02"/>
+    <cosponsor thomas_id="01504" joined="2013-08-02"/>
+    <cosponsor thomas_id="01506" joined="2013-08-02"/>
+    <cosponsor thomas_id="02148" joined="2013-08-02"/>
+    <cosponsor thomas_id="01811" joined="2013-08-02"/>
+    <cosponsor thomas_id="00832" joined="2013-08-02"/>
+    <cosponsor thomas_id="02117" joined="2013-08-02"/>
+    <cosponsor thomas_id="00850" joined="2013-08-02"/>
+    <cosponsor thomas_id="00868" joined="2013-08-02"/>
+    <cosponsor thomas_id="01510" joined="2013-08-02"/>
+    <cosponsor thomas_id="01929" joined="2013-08-02"/>
+    <cosponsor thomas_id="01953" joined="2013-08-02"/>
+    <cosponsor thomas_id="02171" joined="2013-08-02"/>
+    <cosponsor thomas_id="00930" joined="2013-08-02"/>
+    <cosponsor thomas_id="00944" joined="2013-08-02"/>
+    <cosponsor thomas_id="01003" joined="2013-08-02"/>
+    <cosponsor thomas_id="01757" joined="2013-08-02"/>
+    <cosponsor thomas_id="02124" joined="2013-08-02"/>
+    <cosponsor thomas_id="01042" joined="2013-08-02"/>
+    <cosponsor thomas_id="01818" joined="2013-08-02"/>
+    <cosponsor thomas_id="01069" joined="2013-08-02"/>
+    <cosponsor thomas_id="01890" joined="2013-08-02"/>
+    <cosponsor thomas_id="02104" joined="2013-08-02"/>
+    <cosponsor thomas_id="01151" joined="2013-08-02"/>
+    <cosponsor thomas_id="01729" joined="2013-08-02"/>
+    <cosponsor thomas_id="02112" joined="2013-08-02"/>
+    <cosponsor thomas_id="02167" joined="2013-08-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-08-02" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-09-13">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Constitution and Civil Justice" code="HSJU10" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Assault and harassment offenses"/>
+    <term name="Crime prevention"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Hate crimes"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="Religion"/>
+    <term name="Violent crime"/>
+  </subjects>
+  <amendments/>
+  <summary>8/2/2013--Introduced.
+Condemns: (1) the commission of hate crimes against all Americans, including Sikh-Americans; and (2) acts of violence, bigotry, and discrimination against Sikh-Americans.
+
+Urges educators, counselors, and others to support educational efforts to prevent the epidemic bullying of Sikh-American children and families.
+
+Expresses support for outreach efforts by federal and local law enforcement leaders to prevent violence and hate crimes against Sikh-Americans.
+
+Urges the Federal Bureau of Investigation (FBI) and Department of Justice (DOJ) to adopt and implement recommendations of the FBI Advisory Policy Board to track hate crimes against Sikh-Americans, Hindu-Americans, Arab-Americans, and other groups.</summary>
+</bill>

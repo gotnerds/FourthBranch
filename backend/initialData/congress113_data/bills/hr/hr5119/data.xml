@@ -1,0 +1,27 @@
+<bill session="113" type="h" number="5119" updated="2014-08-14T13:35:10-04:00">
+  <state datetime="2014-07-16">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-16"/>
+  </status>
+  <introduced datetime="2014-07-16"/>
+  <titles>
+    <title type="official" as="introduced">To authorize the Secretary of the Air Force to modernize C-130 aircraft using alternative communication, navigation, surveillance, and air traffic management program kits and to ensure that such aircraft meet applicable regulations of the Federal Aviation Administration.</title>
+  </titles>
+  <sponsor thomas_id="01999"/>
+  <cosponsors>
+    <cosponsor thomas_id="00211" joined="2014-07-22"/>
+    <cosponsor thomas_id="02151" joined="2014-07-17"/>
+    <cosponsor thomas_id="01960" joined="2014-07-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-16" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

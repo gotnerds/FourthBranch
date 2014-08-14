@@ -1,0 +1,262 @@
+<bill session="113" type="h" number="2019" updated="2014-08-14T13:05:24-04:00">
+  <state datetime="2014-04-03">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2014-04-03"/>
+  </status>
+  <introduced datetime="2013-05-16"/>
+  <titles>
+    <title type="short" as="introduced">Kids First Research Act of 2013</title>
+    <title type="short" as="passed house">Gabriella Miller Kids First Research Act</title>
+    <title type="short" as="passed senate">Gabriella Miller Kids First Research Act</title>
+    <title type="short" as="enacted">Gabriella Miller Kids First Research Act</title>
+    <title type="official" as="introduced">To eliminate taxpayer financing of presidential campaigns and party conventions and reprogram savings to provide for a 10-year pediatric research initiative through the Common Fund administered by the National Institutes of Health, and for other purposes.</title>
+    <title type="official" as="amended by house">To eliminate taxpayer financing of political party conventions and reprogram savings to provide for a 10-year pediatric research initiative through the Common Fund administered by the National Institutes of Health, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01933"/>
+  <cosponsors>
+    <cosponsor thomas_id="01460" joined="2013-07-11"/>
+    <cosponsor thomas_id="01727" joined="2013-06-14"/>
+    <cosponsor thomas_id="02090" joined="2013-07-09"/>
+    <cosponsor thomas_id="00038" joined="2013-05-16"/>
+    <cosponsor thomas_id="02054" joined="2013-05-16"/>
+    <cosponsor thomas_id="02131" joined="2013-07-11"/>
+    <cosponsor thomas_id="01780" joined="2013-06-27"/>
+    <cosponsor thomas_id="02027" joined="2013-06-12"/>
+    <cosponsor thomas_id="01838" joined="2013-06-18"/>
+    <cosponsor thomas_id="02063" joined="2013-06-03"/>
+    <cosponsor thomas_id="01748" joined="2013-06-05"/>
+    <cosponsor thomas_id="01703" joined="2013-06-14"/>
+    <cosponsor thomas_id="01723" joined="2013-08-02"/>
+    <cosponsor thomas_id="01787" joined="2013-06-14"/>
+    <cosponsor thomas_id="01468" joined="2013-07-24"/>
+    <cosponsor thomas_id="01987" joined="2013-07-24"/>
+    <cosponsor thomas_id="02129" joined="2013-06-17"/>
+    <cosponsor thomas_id="02018" joined="2013-06-06"/>
+    <cosponsor thomas_id="00165" joined="2013-07-11"/>
+    <cosponsor thomas_id="00166" joined="2013-07-19"/>
+    <cosponsor thomas_id="01676" joined="2013-05-22"/>
+    <cosponsor thomas_id="02159" joined="2013-07-30"/>
+    <cosponsor thomas_id="01925" joined="2013-06-14"/>
+    <cosponsor thomas_id="01912" joined="2013-05-16"/>
+    <cosponsor thomas_id="01742" joined="2013-05-16"/>
+    <cosponsor thomas_id="02151" joined="2013-05-16"/>
+    <cosponsor thomas_id="01805" joined="2013-06-06"/>
+    <cosponsor thomas_id="02103" joined="2013-07-22"/>
+    <cosponsor thomas_id="02144" joined="2013-07-11"/>
+    <cosponsor thomas_id="01989" joined="2013-07-09"/>
+    <cosponsor thomas_id="01643" joined="2013-06-06"/>
+    <cosponsor thomas_id="01807" joined="2013-06-12"/>
+    <cosponsor thomas_id="02138" joined="2013-06-19"/>
+    <cosponsor thomas_id="02126" joined="2013-06-14"/>
+    <cosponsor thomas_id="01995" joined="2013-06-05"/>
+    <cosponsor thomas_id="01799" joined="2013-06-05"/>
+    <cosponsor thomas_id="02062" joined="2013-07-11"/>
+    <cosponsor thomas_id="01717" joined="2013-06-14"/>
+    <cosponsor thomas_id="00316" joined="2013-06-05"/>
+    <cosponsor thomas_id="02057" joined="2013-07-11"/>
+    <cosponsor thomas_id="00322" joined="2013-05-22"/>
+    <cosponsor thomas_id="02036" joined="2013-06-14"/>
+    <cosponsor thomas_id="02125" joined="2013-06-03"/>
+    <cosponsor thomas_id="01797" joined="2013-05-22"/>
+    <cosponsor thomas_id="02061" joined="2013-06-06"/>
+    <cosponsor thomas_id="02065" joined="2013-06-18"/>
+    <cosponsor thomas_id="01683" joined="2013-05-23"/>
+    <cosponsor thomas_id="01793" joined="2013-05-22"/>
+    <cosponsor thomas_id="01707" joined="2013-06-06"/>
+    <cosponsor thomas_id="00414" joined="2013-12-05"/>
+    <cosponsor thomas_id="01743" joined="2013-06-05"/>
+    <cosponsor thomas_id="02049" joined="2013-07-17"/>
+    <cosponsor thomas_id="02043" joined="2013-06-18"/>
+    <cosponsor thomas_id="01720" joined="2013-06-06"/>
+    <cosponsor thomas_id="02058" joined="2013-06-14"/>
+    <cosponsor thomas_id="01990" joined="2013-05-22"/>
+    <cosponsor thomas_id="02070" joined="2013-06-14"/>
+    <cosponsor thomas_id="02041" joined="2013-06-03"/>
+    <cosponsor thomas_id="01922" joined="2013-05-23"/>
+    <cosponsor thomas_id="02044" joined="2013-06-05"/>
+    <cosponsor thomas_id="02026" joined="2013-06-05"/>
+    <cosponsor thomas_id="02032" joined="2013-06-27"/>
+    <cosponsor thomas_id="00512" joined="2013-06-06"/>
+    <cosponsor thomas_id="02040" joined="2013-05-23"/>
+    <cosponsor thomas_id="02071" joined="2013-07-17"/>
+    <cosponsor thomas_id="02143" joined="2013-07-17"/>
+    <cosponsor thomas_id="02140" joined="2013-07-30"/>
+    <cosponsor thomas_id="02028" joined="2013-06-05"/>
+    <cosponsor thomas_id="02015" joined="2013-05-16"/>
+    <cosponsor thomas_id="01909" joined="2013-06-03"/>
+    <cosponsor thomas_id="01640" joined="2013-06-19"/>
+    <cosponsor thomas_id="01921" joined="2013-05-16"/>
+    <cosponsor thomas_id="02046" joined="2013-06-27"/>
+    <cosponsor thomas_id="00612" joined="2013-07-24"/>
+    <cosponsor thomas_id="02154" joined="2013-07-11"/>
+    <cosponsor thomas_id="02051" joined="2013-06-06"/>
+    <cosponsor thomas_id="00635" joined="2013-06-06"/>
+    <cosponsor thomas_id="01724" joined="2013-07-24"/>
+    <cosponsor thomas_id="01733" joined="2013-05-16"/>
+    <cosponsor thomas_id="02100" joined="2013-07-24"/>
+    <cosponsor thomas_id="01834" joined="2013-06-19"/>
+    <cosponsor thomas_id="01936" joined="2013-05-22"/>
+    <cosponsor thomas_id="02050" joined="2013-06-14"/>
+    <cosponsor thomas_id="02033" joined="2013-08-02"/>
+    <cosponsor thomas_id="01931" joined="2013-05-22"/>
+    <cosponsor thomas_id="01960" joined="2013-05-22"/>
+    <cosponsor thomas_id="02053" joined="2013-09-30"/>
+    <cosponsor thomas_id="01671" joined="2013-05-22"/>
+    <cosponsor thomas_id="01833" joined="2013-09-18"/>
+    <cosponsor thomas_id="01804" joined="2013-06-14"/>
+    <cosponsor thomas_id="01792" joined="2013-06-14"/>
+    <cosponsor thomas_id="02074" joined="2013-06-19"/>
+    <cosponsor thomas_id="01809" joined="2013-05-16"/>
+    <cosponsor thomas_id="02142" joined="2013-07-24"/>
+    <cosponsor thomas_id="02052" joined="2013-05-16"/>
+    <cosponsor thomas_id="02130" joined="2013-05-16"/>
+    <cosponsor thomas_id="00800" joined="2013-07-24"/>
+    <cosponsor thomas_id="01731" joined="2013-05-16"/>
+    <cosponsor thomas_id="01685" joined="2013-05-23"/>
+    <cosponsor thomas_id="02156" joined="2013-07-09"/>
+    <cosponsor thomas_id="02059" joined="2013-06-27"/>
+    <cosponsor thomas_id="02060" joined="2013-07-17"/>
+    <cosponsor thomas_id="02034" joined="2013-06-14"/>
+    <cosponsor thomas_id="02035" joined="2013-06-06"/>
+    <cosponsor thomas_id="01930" joined="2013-06-12"/>
+    <cosponsor thomas_id="01738" joined="2013-07-19"/>
+    <cosponsor thomas_id="02157" joined="2013-07-24"/>
+    <cosponsor thomas_id="02141" joined="2013-06-14"/>
+    <cosponsor thomas_id="01802" joined="2013-07-11"/>
+    <cosponsor thomas_id="01915" joined="2013-06-06"/>
+    <cosponsor thomas_id="01982" joined="2013-06-05"/>
+    <cosponsor thomas_id="01810" joined="2013-06-03"/>
+    <cosponsor thomas_id="02048" joined="2013-06-03"/>
+    <cosponsor thomas_id="02160" joined="2013-07-31"/>
+    <cosponsor thomas_id="01986" joined="2013-06-19"/>
+    <cosponsor thomas_id="01954" joined="2013-06-06"/>
+    <cosponsor thomas_id="00977" joined="2013-05-22"/>
+    <cosponsor thomas_id="01704" joined="2013-06-14"/>
+    <cosponsor thomas_id="02017" joined="2013-05-22"/>
+    <cosponsor thomas_id="01916" joined="2013-06-03"/>
+    <cosponsor thomas_id="01848" joined="2013-06-05"/>
+    <cosponsor thomas_id="02003" joined="2013-07-17"/>
+    <cosponsor thomas_id="02109" joined="2013-06-14"/>
+    <cosponsor thomas_id="01920" joined="2013-06-17"/>
+    <cosponsor thomas_id="02009" joined="2013-06-05"/>
+    <cosponsor thomas_id="01041" joined="2013-06-14"/>
+    <cosponsor thomas_id="01525" joined="2013-05-22"/>
+    <cosponsor thomas_id="01590" joined="2013-07-18"/>
+    <cosponsor thomas_id="01075" joined="2013-06-12"/>
+    <cosponsor thomas_id="02000" joined="2013-06-05"/>
+    <cosponsor thomas_id="02047" joined="2013-06-06"/>
+    <cosponsor thomas_id="01981" joined="2013-06-18"/>
+    <cosponsor thomas_id="01566" joined="2013-06-06"/>
+    <cosponsor thomas_id="01952" joined="2013-07-11"/>
+    <cosponsor thomas_id="01664" joined="2013-06-06"/>
+    <cosponsor thomas_id="01997" joined="2013-05-23"/>
+    <cosponsor thomas_id="01177" joined="2013-06-18"/>
+    <cosponsor thomas_id="02105" joined="2013-07-11"/>
+    <cosponsor thomas_id="02137" joined="2013-07-09"/>
+    <cosponsor thomas_id="01855" joined="2013-05-23"/>
+    <cosponsor thomas_id="01596" joined="2013-05-23"/>
+    <cosponsor thomas_id="02128" joined="2013-05-16"/>
+    <cosponsor thomas_id="02002" joined="2013-05-16"/>
+    <cosponsor thomas_id="01879" joined="2013-05-16"/>
+    <cosponsor thomas_id="02152" joined="2013-07-31"/>
+    <cosponsor thomas_id="01222" joined="2013-07-18"/>
+    <cosponsor thomas_id="02165" joined="2013-06-12"/>
+    <cosponsor thomas_id="01688" joined="2013-06-20"/>
+    <cosponsor thomas_id="01238" joined="2013-11-13"/>
+    <cosponsor thomas_id="01991" joined="2013-07-17"/>
+    <cosponsor thomas_id="01256" joined="2013-07-11"/>
+    <cosponsor thomas_id="02019" joined="2013-09-11"/>
+    <cosponsor thomas_id="00832" joined="2013-06-03" withdrawn="2013-09-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-16" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on House Administration, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-05-16">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-05-16">
+      <text>Referred to House House Administration</text>
+    </action>
+    <action datetime="2013-05-16">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-05-17">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2013-12-11T14:36:00-05:00">
+      <text>Mr. Upton moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2013-12-11T14:36:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7653-7666" label="consideration"/>
+    </action>
+    <action datetime="2013-12-11T14:36:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2019.</text>
+    </action>
+    <action datetime="2013-12-11T15:09:00-05:00">
+      <text>DEBATE - The House resumed debate on H.R. 2019.</text>
+    </action>
+    <vote how="roll" type="vote" roll="632" datetime="2013-12-11T16:01:00-05:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 295 - 103 (Roll no. 632).</text>
+      <reference ref="CR H7653-7654" label="text"/>
+    </vote>
+    <action datetime="2013-12-11T16:09:00-05:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2013-12-12">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2013-12-20">
+      <text>Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+    </action>
+    <calendar datetime="2014-01-06" calendar="Senate Legislative" under="General Orders" number="289">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 289.</text>
+    </calendar>
+    <vote how="by Unanimous Consent" type="vote2" datetime="2014-03-11" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S1492" label="consideration"/>
+    </vote>
+    <action datetime="2014-03-11">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2014-03-25">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2014-04-03" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="113-94" type="public" datetime="2014-04-03">
+      <text>Became Public Law No: 113-94.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="1724"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Child health"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Elections, voting, political campaign regulation"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government trust funds"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Medical research"/>
+    <term name="National Institutes of Health (NIH)"/>
+    <term name="Research administration and funding"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <summary>4/3/2014--Public Law.
+Gabriella Miller Kids First Research Act - Amends the Internal Revenue Code to terminate the entitlement of any major or minor political party to a payment from the Presidential Election Campaign Fund for a presidential nominating convention. Transfers amounts in each account maintained for such purpose for the national committee of a party to a 10-Year Pediatric Research Initiative Fund, making them available only for allocation to national research institutes and national centers through the Common Fund for making grants for pediatric research under this Act.
+
+Amends the Public Health Service Act to require the Director of the National Institutes of Health (NIH), through the Division of Program Coordination, Planning, and Strategic Initiatives, to allocate funds appropriated under this Act to the national research institutes and national centers for making grants for pediatric research representing important areas of emerging scientific opportunities, rising public health challenges, or knowledge gaps that deserve special emphasis and would benefit from conducting or supporting additional research that involves collaboration between two or more national research institutes or national centers, or would otherwise benefit from strategic coordination and planning.
+
+Authorizes $12.6 million out of the 10-Year Pediatric Research Initiative Fund for each of FY2014-FY2023 for pediatric research through the Common Fund. Requires such funds to supplement, not supplant, funds otherwise allocated by NIH for pediatric research. Prohibits the use of such amounts for any purpose other than allocating funds for making grants for pediatric research described in this Act.</summary>
+</bill>

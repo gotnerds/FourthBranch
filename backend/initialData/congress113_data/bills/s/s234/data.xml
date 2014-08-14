@@ -1,0 +1,64 @@
+<bill session="113" type="s" number="234" updated="2014-08-14T13:46:45-04:00">
+  <state datetime="2013-02-07">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-07"/>
+  </status>
+  <introduced datetime="2013-02-07"/>
+  <titles>
+    <title type="short" as="introduced">Retired Pay Restoration Act of 2013</title>
+    <title type="official" as="introduced">A bill to amend title 10, United States Code, to permit certain retired members of the uniformed services who have a service-connected disability to receive both disability compensation from the Department of Veterans Affairs for their disability and either retired pay by reason of their years of military service or Combat-Related Special Compensation, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00952"/>
+  <cosponsors>
+    <cosponsor thomas_id="00066" joined="2013-02-14"/>
+    <cosponsor thomas_id="01898" joined="2013-02-26"/>
+    <cosponsor thomas_id="01687" joined="2014-07-29"/>
+    <cosponsor thomas_id="00116" joined="2013-02-27"/>
+    <cosponsor thomas_id="01969" joined="2014-07-31"/>
+    <cosponsor thomas_id="00501" joined="2013-02-12"/>
+    <cosponsor thomas_id="01937" joined="2013-04-10"/>
+    <cosponsor thomas_id="01863" joined="2013-02-12"/>
+    <cosponsor thomas_id="00604" joined="2013-02-14"/>
+    <cosponsor thomas_id="01546" joined="2014-07-29"/>
+    <cosponsor thomas_id="01381" joined="2013-02-25"/>
+    <cosponsor thomas_id="00791" joined="2013-03-11"/>
+    <cosponsor thomas_id="00802" joined="2013-02-25"/>
+    <cosponsor thomas_id="01694" joined="2013-07-16"/>
+    <cosponsor thomas_id="00859" joined="2014-07-29"/>
+    <cosponsor thomas_id="01701" joined="2013-02-11"/>
+    <cosponsor thomas_id="01010" joined="2013-07-09"/>
+    <cosponsor thomas_id="02173" joined="2013-02-11"/>
+    <cosponsor thomas_id="01901" joined="2013-07-23"/>
+    <cosponsor thomas_id="01531" joined="2013-03-18"/>
+    <cosponsor thomas_id="01829" joined="2013-02-25"/>
+    <cosponsor thomas_id="02182" joined="2013-06-17"/>
+    <cosponsor thomas_id="01823" joined="2013-02-11"/>
+    <cosponsor thomas_id="01247" joined="2013-02-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-07">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S521"/>
+    </action>
+    <action datetime="2013-02-07" state="REFERRED">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+      <reference ref="CR S521-522" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSAS" name="Senate Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="303"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Disability and paralysis"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>2/7/2013--Introduced.
+Retired Pay Restoration Act of 2013 - Allows the receipt of both military retired pay and veterans' disability compensation with respect to any service-connected disability (under current law, only a disability rated at 50% or more).
+
+Makes eligible for the full concurrent receipt of both veterans' disability compensation and either military retired pay or combat-related special pay those individuals who were retired or separated from military service due to a service-connected disability.</summary>
+</bill>

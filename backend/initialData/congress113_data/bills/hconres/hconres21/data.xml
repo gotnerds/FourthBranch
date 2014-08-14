@@ -1,0 +1,57 @@
+<bill session="113" type="hc" number="21" updated="2014-08-14T13:38:46-04:00">
+  <state datetime="2013-03-05">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-05"/>
+  </status>
+  <introduced datetime="2013-03-05"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of Congress that John Arthur "Jack" Johnson should receive a posthumous pardon for the racially motivated conviction in 1913 that diminished the athletic, cultural, and historic significance of Jack Johnson and unduly tarnished his reputation.</title>
+  </titles>
+  <sponsor thomas_id="00635"/>
+  <cosponsors>
+    <cosponsor thomas_id="01740" joined="2013-03-05"/>
+    <cosponsor thomas_id="01761" joined="2013-04-12"/>
+    <cosponsor thomas_id="01654" joined="2013-03-12"/>
+    <cosponsor thomas_id="01878" joined="2013-03-15"/>
+    <cosponsor thomas_id="00229" joined="2013-04-18"/>
+    <cosponsor thomas_id="01708" joined="2013-03-21"/>
+    <cosponsor thomas_id="02041" joined="2013-03-05"/>
+    <cosponsor thomas_id="00588" joined="2013-05-14"/>
+    <cosponsor thomas_id="00599" joined="2013-03-12"/>
+    <cosponsor thomas_id="00688" joined="2013-03-12"/>
+    <cosponsor thomas_id="01653" joined="2013-03-21"/>
+    <cosponsor thomas_id="01506" joined="2013-03-05"/>
+    <cosponsor thomas_id="01811" joined="2013-03-12"/>
+    <cosponsor thomas_id="00944" joined="2013-04-12"/>
+    <cosponsor thomas_id="01114" joined="2013-03-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-05" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-04-08">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, And Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="sc" session="113" relation="identical" number="5"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Athletes"/>
+    <term name="Congressional tributes"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Criminal procedure and sentencing"/>
+    <term name="Presidents and presidential powers"/>
+    <term name="Professional sports"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="U.S. history"/>
+  </subjects>
+  <amendments/>
+  <summary>3/5/2013--Introduced.
+Expresses the sense of Congress that Jack Johnson (the first African-American professional boxer to hold the title of Heavyweight Champion of the World) should receive a posthumous pardon to expunge from the annals of American criminal justice a racially motivated abuse of the federal government's prosecutorial authority and to recognize his athletic and cultural contributions to society.</summary>
+</bill>

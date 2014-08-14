@@ -1,0 +1,60 @@
+<bill session="113" type="s" number="364" updated="2014-08-14T13:47:50-04:00">
+  <state datetime="2013-11-21">REPORTED</state>
+  <status>
+    <unknown datetime="2013-11-21"/>
+  </status>
+  <introduced datetime="2013-02-14"/>
+  <titles>
+    <title type="short" as="introduced">Rocky Mountain Front Heritage Act of 2013</title>
+    <title type="short" as="reported to senate">Rocky Mountain Front Heritage Act of 2013</title>
+    <title type="official" as="introduced">A bill to establish the Rocky Mountain Front Conservation Management Area, to designate certain Federal land as wilderness, and to improve the management of noxious weeds in the Lewis and Clark National Forest, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00066"/>
+  <cosponsors>
+    <cosponsor thomas_id="01829" joined="2013-02-14"/>
+    <cosponsor thomas_id="02198" joined="2014-03-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-14" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2013-07-30">
+      <text>Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held. With printed Hearing: S.Hrg. 113-85.</text>
+    </action>
+    <calendar datetime="2013-11-21" state="REPORTED">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2014-06-02">
+      <text>Committee on Energy and Natural Resources. Reported by Senator Landrieu without amendment. With written report No. 113-177.</text>
+    </action>
+    <calendar datetime="2014-06-02" calendar="Senate Legislative" under="General Orders" number="404">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 404.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting, In Committee"/>
+    <committee subcommittee="Public Lands, Forests, and Mining" code="SSEG03" name="Senate Energy and Natural Resources" activity="Hearings"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Ecology"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Land transfers"/>
+    <term name="Montana"/>
+    <term name="Outdoor recreation"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="Pedestrians and bicycling"/>
+    <term name="Roads and highways"/>
+    <term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+  </subjects>
+  <amendments/>
+  <summary>2/14/2013--Introduced.
+Rocky Mountain Front Heritage Act of 2013 - Establishes the Rocky Mountain Front Conservation Management Area in Montana.
+
+Designates specified land within the Lewis and Clark National Forest in Montana as wilderness and as additions to existing components of the National Wilderness Preservation System.
+
+ Directs the Secretary of Agriculture (USDA) to prepare a comprehensive management strategy for the prevention, control, and eradication of noxious weeds in the Rocky Mountain Ranger District of Lewis and Clark National Forest.
+
+Authorizes such Secretary to conduct a study for improving nonmotorized recreation trail opportunities, including mountain bicycling, on land within the District that is not designated as wilderness.</summary>
+</bill>

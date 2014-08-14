@@ -1,0 +1,55 @@
+<bill session="113" type="h" number="2241" updated="2014-08-14T13:10:27-04:00">
+  <state datetime="2013-06-04">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-04"/>
+  </status>
+  <introduced datetime="2013-06-04"/>
+  <titles>
+    <title type="short" as="introduced">Disaster Savings and Resilient Construction Act of 2013</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide a credit for owning certain disaster resilient property.</title>
+  </titles>
+  <sponsor thomas_id="01717"/>
+  <cosponsors>
+    <cosponsor thomas_id="00038" joined="2013-09-25"/>
+    <cosponsor thomas_id="02131" joined="2013-09-30"/>
+    <cosponsor thomas_id="01740" joined="2013-08-02"/>
+    <cosponsor thomas_id="02159" joined="2013-07-11"/>
+    <cosponsor thomas_id="02121" joined="2013-11-15"/>
+    <cosponsor thomas_id="00279" joined="2013-06-14"/>
+    <cosponsor thomas_id="00322" joined="2013-08-01"/>
+    <cosponsor thomas_id="01922" joined="2013-10-11"/>
+    <cosponsor thomas_id="02026" joined="2013-06-04"/>
+    <cosponsor thomas_id="02028" joined="2013-10-11"/>
+    <cosponsor thomas_id="01931" joined="2013-07-08"/>
+    <cosponsor thomas_id="01806" joined="2013-10-23"/>
+    <cosponsor thomas_id="01671" joined="2013-06-27"/>
+    <cosponsor thomas_id="01804" joined="2013-10-04"/>
+    <cosponsor thomas_id="01915" joined="2013-08-02"/>
+    <cosponsor thomas_id="01818" joined="2014-07-31"/>
+    <cosponsor thomas_id="02021" joined="2013-08-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-04" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Building construction"/>
+    <term name="Housing industry and standards"/>
+    <term name="Income tax credits"/>
+    <term name="Income tax deductions"/>
+    <term name="Industrial facilities"/>
+    <term name="Natural disasters"/>
+    <term name="Residential rehabilitation and home repair"/>
+  </subjects>
+  <amendments/>
+  <summary>6/4/2013--Introduced.
+Disaster Savings and Resilient Construction Act of 2013 - Amends the Internal Revenue Code to allow a business-related tax credit for a specified portion of the cost of commercial and residential buildings&#160;that comply with resilient construction requirements in a federally-declared major disaster area. Defines "resilient construction requirements" as&#160;requirements that such&#160;buildings are designed and constructed to: (1) resist hazards brought&#160;on by a major disaster; (2) continue to provide their primary functions after a major disaster; (3) reduce the magnitude or duration of a disruptive event; and (4)&#160;have the absorptive capacity, adaptive capacity, and recoverability to withstand a potentially disruptive event.
+
+Terminates such credit for any any property for which a certificate of occupancy is issued after December 31, 2017.</summary>
+</bill>

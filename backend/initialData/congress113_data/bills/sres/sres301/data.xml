@@ -1,0 +1,59 @@
+<bill session="113" type="sr" number="301" updated="2014-08-14T13:42:23-04:00">
+  <state datetime="2013-11-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-11-19"/>
+  </status>
+  <introduced datetime="2013-11-19"/>
+  <titles>
+    <title type="official" as="introduced">A resolution recognizing and supporting the goals and implementation of the National Alzheimer's Project Act and the National Plan to Address Alzheimer's Disease.</title>
+  </titles>
+  <sponsor thomas_id="00326"/>
+  <cosponsors>
+    <cosponsor thomas_id="02076" joined="2013-11-21"/>
+    <cosponsor thomas_id="00188" joined="2013-11-20"/>
+    <cosponsor thomas_id="01541" joined="2013-11-19"/>
+    <cosponsor thomas_id="00604" joined="2013-11-19"/>
+    <cosponsor thomas_id="01647" joined="2013-11-20"/>
+    <cosponsor thomas_id="00735" joined="2013-11-19"/>
+    <cosponsor thomas_id="00791" joined="2013-11-19"/>
+    <cosponsor thomas_id="00802" joined="2013-11-19"/>
+    <cosponsor thomas_id="01507" joined="2013-11-19"/>
+    <cosponsor thomas_id="01897" joined="2013-11-20"/>
+    <cosponsor thomas_id="01226" joined="2013-11-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-11-19">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S8198-8199"/>
+    </action>
+    <action datetime="2013-11-19" state="REFERRED">
+      <text>Referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <reference ref="CR S8198" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Aging"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Health"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Medical research"/>
+    <term name="Motor carriers"/>
+    <term name="Motor vehicles"/>
+    <term name="Neurological disorders"/>
+    <term name="Research administration and funding"/>
+    <term name="Roads and highways"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>11/19/2013--Introduced.
+Recognizes that additional focus, research, and resources are needed to overcome Alzheimer's disease.
+
+Acknowledges the impact that Alzheimer's disease has on individuals with the disease, their caregivers and loved ones, and the United States.
+
+Expresses support for the goals and implementation of the National Alzheimer's Project Act and the National Plan to Address Alzheimer's Disease.</summary>
+</bill>

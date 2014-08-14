@@ -1,0 +1,61 @@
+<bill session="113" type="s" number="1234" updated="2014-08-14T13:55:27-04:00">
+  <state datetime="2013-06-26">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-26"/>
+  </status>
+  <introduced datetime="2013-06-26"/>
+  <titles>
+    <title type="short" as="introduced">Fracturing Regulations are Effective in State Hands Act</title>
+    <title type="official" as="introduced">A bill to clarify that a State has the sole authority to regulate hydraulic fracturing on Federal land within the boundaries of the State.</title>
+  </titles>
+  <sponsor thomas_id="00583"/>
+  <cosponsors>
+    <cosponsor thomas_id="01687" joined="2013-06-26"/>
+    <cosponsor thomas_id="00212" joined="2013-06-26"/>
+    <cosponsor thomas_id="01692" joined="2013-06-26"/>
+    <cosponsor thomas_id="00250" joined="2013-06-26"/>
+    <cosponsor thomas_id="02175" joined="2013-06-26"/>
+    <cosponsor thomas_id="01351" joined="2013-06-26"/>
+    <cosponsor thomas_id="02079" joined="2013-06-26"/>
+    <cosponsor thomas_id="02086" joined="2013-06-26"/>
+    <cosponsor thomas_id="02080" joined="2013-06-26"/>
+    <cosponsor thomas_id="02082" joined="2013-06-26"/>
+    <cosponsor thomas_id="00924" joined="2013-06-26"/>
+    <cosponsor thomas_id="01896" joined="2013-06-26"/>
+    <cosponsor thomas_id="00968" joined="2013-06-26"/>
+    <cosponsor thomas_id="02056" joined="2013-06-26"/>
+    <cosponsor thomas_id="01548" joined="2013-06-26"/>
+    <cosponsor thomas_id="01534" joined="2013-06-27"/>
+    <cosponsor thomas_id="01609" joined="2013-06-26"/>
+    <cosponsor thomas_id="01226" joined="2013-06-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-26" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="2513"/>
+    <bill type="h" session="113" relation="unknown" number="2513"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="General public lands matters"/>
+    <term name="Land use and conservation"/>
+    <term name="Licensing and registrations"/>
+    <term name="Oil and gas"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>6/26/2013--Introduced.
+Fracturing Regulations are Effective in State Hands Act - Grants any state sole authority to promulgate or enforce any regulation, guidance, or permit requirement regarding the treatment of a well by the application of fluids under pressure to which propping agents may be added for the expressly designed purpose of initiating or propagating fractures in a target geologic formation in order to enhance production of oil, gas, or geothermal production activities on or under land within the boundaries of that state.
+
+Subjects such a well treatment on federal land to state law as well.</summary>
+</bill>

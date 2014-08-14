@@ -1,0 +1,87 @@
+<bill session="113" type="h" number="342" updated="2014-08-14T12:53:38-04:00">
+  <state datetime="2013-01-22">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-22"/>
+  </status>
+  <introduced datetime="2013-01-22"/>
+  <titles>
+    <title type="short" as="introduced">Guarantee Paychecks for America's Military Families Act</title>
+    <title type="official" as="introduced">To prioritize certain Government obligations for continued payment in the event that the statutory debt limit is reached, to appropriate funds for the pay and allowances of all members of the Armed Forces, and for those civilian employees of the Department of Defense and the Coast Guard serving in a combat zone, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01909"/>
+  <cosponsors>
+    <cosponsor thomas_id="02027" joined="2013-01-22"/>
+    <cosponsor thomas_id="01469" joined="2013-01-22"/>
+    <cosponsor thomas_id="00211" joined="2013-01-22"/>
+    <cosponsor thomas_id="01912" joined="2013-01-22"/>
+    <cosponsor thomas_id="01805" joined="2013-01-22"/>
+    <cosponsor thomas_id="01670" joined="2013-01-22"/>
+    <cosponsor thomas_id="02125" joined="2013-02-04"/>
+    <cosponsor thomas_id="02065" joined="2013-01-23"/>
+    <cosponsor thomas_id="01683" joined="2013-02-04"/>
+    <cosponsor thomas_id="01707" joined="2013-01-22"/>
+    <cosponsor thomas_id="02049" joined="2013-01-23"/>
+    <cosponsor thomas_id="02058" joined="2013-01-22"/>
+    <cosponsor thomas_id="01990" joined="2013-01-22"/>
+    <cosponsor thomas_id="02041" joined="2013-01-22"/>
+    <cosponsor thomas_id="02032" joined="2013-01-22"/>
+    <cosponsor thomas_id="00612" joined="2013-01-22"/>
+    <cosponsor thomas_id="01868" joined="2013-03-14"/>
+    <cosponsor thomas_id="02014" joined="2013-01-22"/>
+    <cosponsor thomas_id="01733" joined="2013-02-04"/>
+    <cosponsor thomas_id="02011" joined="2013-10-01"/>
+    <cosponsor thomas_id="01885" joined="2013-02-04"/>
+    <cosponsor thomas_id="02033" joined="2013-02-15"/>
+    <cosponsor thomas_id="02053" joined="2013-03-14"/>
+    <cosponsor thomas_id="01584" joined="2013-02-15"/>
+    <cosponsor thomas_id="02001" joined="2013-01-22"/>
+    <cosponsor thomas_id="01955" joined="2013-02-15"/>
+    <cosponsor thomas_id="02035" joined="2013-01-22"/>
+    <cosponsor thomas_id="01916" joined="2013-01-22"/>
+    <cosponsor thomas_id="02000" joined="2013-03-14"/>
+    <cosponsor thomas_id="02168" joined="2013-02-04"/>
+    <cosponsor thomas_id="01952" joined="2013-01-22"/>
+    <cosponsor thomas_id="01741" joined="2013-01-22"/>
+    <cosponsor thomas_id="01779" joined="2013-01-22"/>
+    <cosponsor thomas_id="01688" joined="2013-01-22"/>
+    <cosponsor thomas_id="01886" joined="2013-02-04"/>
+    <cosponsor thomas_id="02021" joined="2013-01-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-22" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-01-22">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-01-22">
+      <text>Referred to House Appropriations</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee subcommittee="" code="HSAP" name="House Appropriations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Appropriations"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Coast guard"/>
+    <term name="Defense spending"/>
+    <term name="Department of Defense"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Military operations and strategy"/>
+    <term name="Military personnel and dependents"/>
+    <term name="National Guard and reserves"/>
+  </subjects>
+  <amendments/>
+  <summary>1/22/2013--Introduced.
+Guarantee Paychecks for America's Military Families Act - Prioritizes, in the event that the public debt of the U.S. government reaches the statutory limit, the following obligations over all other obligations: (1) the Secretary of the Treasury to pay with legal tender the principal and interest on debt held by the public; (2) the Secretary of Defense (DOD) and the Secretary of Homeland Security (DHS) to pay members of the Armed Forces the earned pay, allowances, and other compensation paid from military personnel accounts; and (3) the Secretary of Defense and the Secretary of Homeland Security to carry out a contingency operation (as defined in existing provisions of federal military law), including the pay earned by civilian employees of the DOD and the Coast Guard serving in a combat zone (as defined in existing provisions of the Internal Revenue Code of 1986).
+
+Appropriates to the Secretary of Defense and the Secretary of Homeland Security, for any period of lapsed appropriations, such amounts as may be necessary to allow such Secretaries to provide, during the period of lapsed appropriations and without interruption: (1) pay and allowances to members of Armed Forces, including reserve components thereof, who perform active service during the period of lapsed appropriations; and (2) pay to civilian employees of the DOD and the Coast Guard serving in a combat zone.
+
+ Defines "period of lapsed appropriations" as any period during which appropriations are not available due to the absence of the timely enactment of any Act or joint resolution (whether a general appropriations Act or an Act or joint resolution making continuing appropriations) appropriating funds for the payment of the pay and allowances of members of the Armed Forces or civilian employees of the DOD and Coast Guard.</summary>
+</bill>

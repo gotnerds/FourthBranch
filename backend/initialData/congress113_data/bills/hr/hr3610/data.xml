@@ -1,0 +1,151 @@
+<bill session="113" type="h" number="3610" updated="2014-08-14T13:22:17-04:00">
+  <state datetime="2014-05-20T16:04:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-05-20T16:04:00-04:00"/>
+  </status>
+  <introduced datetime="2013-11-21"/>
+  <titles>
+    <title type="short" as="introduced">Stop Exploitation Through Trafficking Act of 2013</title>
+    <title type="short" as="reported to house">Stop Exploitation Through Trafficking Act of 2014</title>
+    <title type="short" as="passed house">Stop Exploitation Through Trafficking Act of 2014</title>
+    <title type="official" as="introduced">To stop exploitation through trafficking.</title>
+  </titles>
+  <sponsor thomas_id="01930"/>
+  <cosponsors>
+    <cosponsor thomas_id="01858" joined="2014-05-08"/>
+    <cosponsor thomas_id="02063" joined="2014-04-28"/>
+    <cosponsor thomas_id="02129" joined="2014-05-06"/>
+    <cosponsor thomas_id="01864" joined="2014-04-09"/>
+    <cosponsor thomas_id="02098" joined="2014-05-01"/>
+    <cosponsor thomas_id="02144" joined="2014-04-28"/>
+    <cosponsor thomas_id="02126" joined="2014-05-01"/>
+    <cosponsor thomas_id="02133" joined="2014-04-30"/>
+    <cosponsor thomas_id="02096" joined="2014-04-28"/>
+    <cosponsor thomas_id="01976" joined="2014-04-08"/>
+    <cosponsor thomas_id="01717" joined="2014-05-07"/>
+    <cosponsor thomas_id="01857" joined="2014-04-09"/>
+    <cosponsor thomas_id="02114" joined="2014-05-01"/>
+    <cosponsor thomas_id="02067" joined="2014-04-09"/>
+    <cosponsor thomas_id="00414" joined="2014-05-08"/>
+    <cosponsor thomas_id="01992" joined="2014-05-09"/>
+    <cosponsor thomas_id="01708" joined="2014-04-08"/>
+    <cosponsor thomas_id="02071" joined="2014-04-28"/>
+    <cosponsor thomas_id="02143" joined="2014-04-28"/>
+    <cosponsor thomas_id="02169" joined="2014-05-09"/>
+    <cosponsor thomas_id="01907" joined="2014-04-30"/>
+    <cosponsor thomas_id="02145" joined="2014-04-29"/>
+    <cosponsor thomas_id="02050" joined="2014-05-07"/>
+    <cosponsor thomas_id="01885" joined="2014-04-28"/>
+    <cosponsor thomas_id="02111" joined="2014-04-28"/>
+    <cosponsor thomas_id="01814" joined="2014-04-30"/>
+    <cosponsor thomas_id="01811" joined="2013-11-21"/>
+    <cosponsor thomas_id="00832" joined="2014-04-28"/>
+    <cosponsor thomas_id="00850" joined="2014-04-30"/>
+    <cosponsor thomas_id="02060" joined="2014-01-15"/>
+    <cosponsor thomas_id="01955" joined="2014-05-06"/>
+    <cosponsor thomas_id="02113" joined="2014-05-08"/>
+    <cosponsor thomas_id="02141" joined="2014-04-02"/>
+    <cosponsor thomas_id="00944" joined="2014-04-08"/>
+    <cosponsor thomas_id="01848" joined="2013-12-11"/>
+    <cosponsor thomas_id="01890" joined="2014-04-08"/>
+    <cosponsor thomas_id="02047" joined="2014-05-01"/>
+    <cosponsor thomas_id="01940" joined="2014-05-07"/>
+    <cosponsor thomas_id="02112" joined="2014-04-29"/>
+    <cosponsor thomas_id="02137" joined="2014-01-15"/>
+    <cosponsor thomas_id="01856" joined="2014-04-10"/>
+    <cosponsor thomas_id="02161" joined="2014-03-27"/>
+    <cosponsor thomas_id="02004" joined="2014-05-08"/>
+    <cosponsor thomas_id="02115" joined="2014-04-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-11-21" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-11-21">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2013-11-21">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2014-01-09">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+    <action datetime="2014-01-22">
+      <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+    </action>
+    <action datetime="2014-04-29">
+      <text>Subcommittee on Crime, Terrorism, Homeland Security, and Investigations Discharged.</text>
+    </action>
+    <action datetime="2014-04-30">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-04-30" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2014-05-13T14:00:00-04:00">
+      <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 113-447, Part I.</text>
+    </action>
+    <action datetime="2014-05-13T14:00:00-04:00">
+      <text>Committee on Education and the Workforce discharged.</text>
+    </action>
+    <calendar datetime="2014-05-13T14:01:00-04:00" calendar="Union" number="330">
+      <text>Placed on the Union Calendar, Calendar No. 330.</text>
+    </calendar>
+    <action datetime="2014-05-20T15:24:00-04:00">
+      <text>Mr. Goodlatte moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2014-05-20T15:24:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4509-4515" label="consideration"/>
+    </action>
+    <action datetime="2014-05-20T15:24:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3610.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-05-20T16:04:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H4509" label="text"/>
+    </vote>
+    <action datetime="2014-05-21">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral, Discharged"/>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral, Discharged"/>
+    <committee subcommittee="Higher Education and Workforce Training" code="HSED13" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="1733"/>
+    <bill type="s" session="113" relation="unknown" number="2528"/>
+    <bill type="s" session="113" relation="unknown" number="2599"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Child safety and welfare"/>
+    <term name="Civil actions and liability"/>
+    <term name="Congressional oversight"/>
+    <term name="Crime prevention"/>
+    <term name="Crime victims"/>
+    <term name="Crimes against children"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Government information and archives"/>
+    <term name="Human trafficking"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Sex offenses"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>5/20/2014--Passed House amended.
+Stop Exploitation Through Trafficking Act of 2014 - (Sec. 2) Amends the Omnibus Crime Control and Safe Streets Act of 1968 to authorize the Attorney General to give preferential consideration in awarding Community Oriented Police Services (COPS) grants to an application for hiring and rehiring additional career law enforcement officers that involves a non-federal contribution exceeding the 25% minimum, or from an applicant in a state that has in effect a law that: (1) treats a minor who has engaged in, or has attempted to engage in, a commercial sex act as a victim of a severe form of trafficking in persons; (2) discourages the charging or prosecution of such individual for a prostitution or sex trafficking offense, based on such conduct; or (3) encourages the diversion of such an individual to appropriate service providers, including child welfare services, victim treatment programs, child advocacy centers, rape crisis centers, or other social services.
+
+ (Sec. 3) Amends the Victims of Trafficking and Violence Protection Act of 2000 (VTVPA) to require the Attorney General's annual report on federal agencies implementing provisions regarding the Interagency Task Force to Monitor and Combat Trafficking with respect to the number and amount of restitution orders for convictions of specified federal trafficking offenses to include the following offenses: (1) sex trafficking by force, fraud, or coercion or with a minor; (2) sexual exploitation of children; (3) the selling and buying of children; (4) transportation with intent that the victim engage in illegal sexual activity; (5) coercion or enticement to travel for illegal sexual activity; and (6) transportation of minors for illegal sexual activity. Requires such report to include the age, gender, race, country of origin, country of citizenship, and description of the role in the offense of individuals convicted under each offense.
+
+ (Sec. 4) Amends the VTVPA to require the Secretary of Health and Human Services (HHS), beginning in FY2017, to make grants annually for a national communication system to assist victims of severe forms of trafficking in persons in communicating with service providers. Directs the Secretary to give priority to grant applicants that have experience in providing telephone services to victims of severe forms of trafficking in persons.
+
+(Sec. 5) Amends the Workforce Investment Act of 1998 to include victims of a severe form of trafficking in persons among those eligible for the Job Corps without being required to demonstrate eligibility.
+
+(Sec. 6) Authorizes the United States Marshals Service to assist state, local, and other federal law enforcement agencies, upon the request of such an agency, in locating and recovering missing children.</summary>
+</bill>

@@ -1,0 +1,68 @@
+<bill session="113" type="h" number="3858" updated="2014-08-14T13:24:21-04:00">
+  <state datetime="2014-01-13">REFERRED</state>
+  <status>
+    <introduced datetime="2014-01-13"/>
+  </status>
+  <introduced datetime="2014-01-13"/>
+  <titles>
+    <title type="short" as="introduced">Veteran-Centered Access to Coordinated Health Care Act of 2014</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to enter into contracts with health care providers to improve health care access and care coordination for veterans, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02014"/>
+  <cosponsors>
+    <cosponsor thomas_id="02131" joined="2014-05-29"/>
+    <cosponsor thomas_id="02121" joined="2014-06-02"/>
+    <cosponsor thomas_id="02144" joined="2014-06-02"/>
+    <cosponsor thomas_id="02125" joined="2014-05-30"/>
+    <cosponsor thomas_id="02061" joined="2014-05-29"/>
+    <cosponsor thomas_id="02122" joined="2014-07-14"/>
+    <cosponsor thomas_id="02040" joined="2014-05-29"/>
+    <cosponsor thomas_id="01909" joined="2014-05-30"/>
+    <cosponsor thomas_id="00612" joined="2014-05-30"/>
+    <cosponsor thomas_id="01936" joined="2014-06-05"/>
+    <cosponsor thomas_id="02033" joined="2014-05-29"/>
+    <cosponsor thomas_id="01738" joined="2014-05-29"/>
+    <cosponsor thomas_id="01916" joined="2014-05-28"/>
+    <cosponsor thomas_id="01920" joined="2014-06-09"/>
+    <cosponsor thomas_id="01527" joined="2014-05-29"/>
+    <cosponsor thomas_id="02191" joined="2014-06-10"/>
+    <cosponsor thomas_id="01664" joined="2014-05-28"/>
+    <cosponsor thomas_id="01177" joined="2014-06-02"/>
+    <cosponsor thomas_id="01222" joined="2014-06-05"/>
+    <cosponsor thomas_id="01991" joined="2014-06-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-01-13" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2014-01-28">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Health" code="HSVR03" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1985"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health care quality"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Health information and medical records"/>
+    <term name="Performance measurement"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>1/13/2014--Introduced.
+Veteran-Centered Access to Coordinated Health Care Act of 2014 - Directs the Secretary of Veterans Affairs (VA) to provide certain enrolled veterans with health services (authorized hospital care or medical, rehabilitative, or preventive health services) that are provided by a non-VA provider with whom the Secretary enters into a contract if the Secretary determines that VA facilities are incapable of furnishing such services because of: (1) geographical inaccessibility; or (2) a lack of required personnel or ability to provide timely and reasonable access.
+
+Specifies the order of priority of locations for such non-VA providers.
+
+Sets forth requirements concerning VA care coordination with such providers and provider performance metrics.
+
+Amends the Veterans' Mental Health and Other Care Improvements Act of 2008 to reauthorize, for three years, a VA pilot program of contract care authority within each Veterans Integrated Service Network for the health care needs of veterans in highly rural areas.</summary>
+</bill>

@@ -1,0 +1,54 @@
+<bill session="113" type="s" number="583" updated="2014-08-14T13:49:42-04:00">
+  <state datetime="2013-03-18">REPORTED</state>
+  <status>
+    <unknown datetime="2013-03-18"/>
+  </status>
+  <introduced datetime="2013-03-14"/>
+  <titles>
+    <title type="official" as="introduced">A bill to implement equal protection under the 14th article of amendment to the Constitution for the right to life of each born and preborn human person.</title>
+  </titles>
+  <sponsor thomas_id="02082"/>
+  <cosponsors>
+    <cosponsor thomas_id="01881" joined="2013-03-14"/>
+    <cosponsor thomas_id="01687" joined="2013-03-14"/>
+    <cosponsor thomas_id="00153" joined="2013-03-14"/>
+    <cosponsor thomas_id="00209" joined="2013-03-14"/>
+    <cosponsor thomas_id="00212" joined="2013-03-14"/>
+    <cosponsor thomas_id="00213" joined="2013-12-12"/>
+    <cosponsor thomas_id="00250" joined="2013-12-18"/>
+    <cosponsor thomas_id="01542" joined="2013-03-14"/>
+    <cosponsor thomas_id="02179" joined="2013-03-14"/>
+    <cosponsor thomas_id="00452" joined="2014-02-04"/>
+    <cosponsor thomas_id="00457" joined="2013-03-14"/>
+    <cosponsor thomas_id="02079" joined="2013-03-14"/>
+    <cosponsor thomas_id="00583" joined="2013-03-14"/>
+    <cosponsor thomas_id="01899" joined="2013-03-14"/>
+    <cosponsor thomas_id="01507" joined="2013-03-14"/>
+    <cosponsor thomas_id="01896" joined="2013-03-14"/>
+    <cosponsor thomas_id="00968" joined="2013-10-10"/>
+    <cosponsor thomas_id="02056" joined="2013-11-19"/>
+    <cosponsor thomas_id="01534" joined="2013-03-14"/>
+    <cosponsor thomas_id="01609" joined="2013-11-14"/>
+    <cosponsor thomas_id="01226" joined="2013-03-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-14">
+      <text>Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+    </action>
+    <calendar datetime="2013-03-18" state="REPORTED" calendar="Senate Legislative" under="General Orders" number="30">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 30.</text>
+    </calendar>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="1091"/>
+  </relatedbills>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Abortion"/>
+    <term name="Constitution and constitutional amendments"/>
+  </subjects>
+  <amendments/>
+  <summary>3/14/2013--Introduced.
+Life at Conception Act of 2013 - Declares that the right to life guaranteed by the Constitution is vested in each human being beginning at the moment of fertilization, cloning, or other moment at which an individual comes into being. Prohibits construing this Act to require the prosecution of any woman for the death of her unborn child.</summary>
+</bill>

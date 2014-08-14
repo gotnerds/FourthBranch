@@ -1,0 +1,26 @@
+<bill session="113" type="s" number="2702" updated="2014-08-14T14:07:49-04:00">
+  <state datetime="2014-07-30">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-30"/>
+  </status>
+  <introduced datetime="2014-07-30"/>
+  <titles>
+    <title type="short" as="introduced">Education Tax Fraud Prevention Act</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to require the social security number of the student and the employer identification number of the educational institution for purposes of education tax credits.</title>
+  </titles>
+  <sponsor thomas_id="01609"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-30" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="856"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

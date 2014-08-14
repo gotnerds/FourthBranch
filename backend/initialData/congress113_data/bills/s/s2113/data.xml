@@ -1,0 +1,83 @@
+<bill session="113" type="s" number="2113" updated="2014-08-14T14:02:54-04:00">
+  <state datetime="2014-05-21">REPORTED</state>
+  <status>
+    <unknown datetime="2014-05-21"/>
+  </status>
+  <introduced datetime="2014-03-12"/>
+  <titles>
+    <title type="short" as="introduced">Taxpayers Right-To-Know Act</title>
+    <title type="official" as="introduced">A bill to provide taxpayers with an annual report disclosing the cost and performance of Government programs and areas of duplication among them, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00212"/>
+  <cosponsors>
+    <cosponsor thomas_id="01695" joined="2014-04-07"/>
+    <cosponsor thomas_id="02075" joined="2014-03-12"/>
+    <cosponsor thomas_id="01898" joined="2014-03-12"/>
+    <cosponsor thomas_id="01464" joined="2014-04-07"/>
+    <cosponsor thomas_id="01687" joined="2014-04-07"/>
+    <cosponsor thomas_id="00153" joined="2014-03-12"/>
+    <cosponsor thomas_id="00188" joined="2014-03-12"/>
+    <cosponsor thomas_id="00209" joined="2014-04-07"/>
+    <cosponsor thomas_id="00213" joined="2014-04-07"/>
+    <cosponsor thomas_id="01541" joined="2014-03-12"/>
+    <cosponsor thomas_id="01692" joined="2014-04-07"/>
+    <cosponsor thomas_id="00250" joined="2014-04-07"/>
+    <cosponsor thomas_id="02175" joined="2014-03-12"/>
+    <cosponsor thomas_id="01542" joined="2014-03-12"/>
+    <cosponsor thomas_id="01633" joined="2014-03-12"/>
+    <cosponsor thomas_id="00457" joined="2014-04-07"/>
+    <cosponsor thomas_id="01351" joined="2014-03-12"/>
+    <cosponsor thomas_id="00583" joined="2014-03-12"/>
+    <cosponsor thomas_id="02086" joined="2014-03-12"/>
+    <cosponsor thomas_id="02185" joined="2014-05-12"/>
+    <cosponsor thomas_id="02080" joined="2014-04-07"/>
+    <cosponsor thomas_id="01983" joined="2014-04-07"/>
+    <cosponsor thomas_id="00754" joined="2014-03-12"/>
+    <cosponsor thomas_id="01820" joined="2014-03-12"/>
+    <cosponsor thomas_id="01395" joined="2014-04-07"/>
+    <cosponsor thomas_id="02082" joined="2014-03-12"/>
+    <cosponsor thomas_id="00924" joined="2014-03-12"/>
+    <cosponsor thomas_id="01896" joined="2014-03-12"/>
+    <cosponsor thomas_id="00968" joined="2014-04-07"/>
+    <cosponsor thomas_id="02084" joined="2014-04-07"/>
+    <cosponsor thomas_id="02056" joined="2014-03-12"/>
+    <cosponsor thomas_id="01548" joined="2014-04-07"/>
+    <cosponsor thomas_id="01534" joined="2014-04-07"/>
+    <cosponsor thomas_id="02085" joined="2014-04-07"/>
+    <cosponsor thomas_id="01609" joined="2014-03-12"/>
+    <cosponsor thomas_id="01897" joined="2014-03-12"/>
+    <cosponsor thomas_id="01226" joined="2014-04-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-03-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar datetime="2014-05-21" state="REPORTED">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="1423"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Accounting and auditing"/>
+    <term name="Census and government statistics"/>
+    <term name="Congressional oversight"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Performance measurement"/>
+  </subjects>
+  <amendments/>
+  <summary>3/12/2014--Introduced.
+Taxpayers Right-To-Know Act - Sets forth additional information relating to a federal program that the Office of Management and Budget (OMB) is required to include on its website and update at least annually, including: (1) the total administrative expenses of the program and the expenditures for services for the program for the previous fiscal year; (2) an estimate of the number of clients served by the program and beneficiaries who received assistance under the program for the previous fiscal year; (3) an estimate, for the previous fiscal year, of the number of full-time federal employees who administer the program and the number of full-time employees whose salary is paid in part or full by the federal government through a grant or contract or other form of financial assistance; (4) an identification of the specific statute that authorizes the program and whether such authorization is expired; (5) any finding of duplication or overlap; and (6) any program performance reviews for such program.
+
+Amends the Statutory Pay-As-You-Go Act of 2010 to require the Comptroller General (GAO) to maintain and provide regular annual updates to a publicly available website that tracks the status of agency responses to recommendations by the Comptroller General for identifying duplicative government programs.
+
+Declares that nothing in this Act shall be construed to require the disclosure of classified information.</summary>
+</bill>

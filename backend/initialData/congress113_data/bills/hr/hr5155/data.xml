@@ -1,0 +1,23 @@
+<bill session="113" type="h" number="5155" updated="2014-08-14T13:35:28-04:00">
+  <state datetime="2014-07-17">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-17"/>
+  </status>
+  <introduced datetime="2014-07-17"/>
+  <titles>
+    <title type="official" as="introduced">To prohibit the National Endowment for the Humanities to provide funds to carry out the Popular Romance Project or any similar project relating to love or romance.</title>
+  </titles>
+  <sponsor thomas_id="01009"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-17" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

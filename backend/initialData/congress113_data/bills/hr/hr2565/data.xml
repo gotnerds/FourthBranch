@@ -1,0 +1,135 @@
+<bill session="113" type="h" number="2565" updated="2014-08-14T13:13:22-04:00">
+  <state datetime="2013-07-31T16:12:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2013-07-31T16:12:00-04:00"/>
+  </status>
+  <introduced datetime="2013-06-27"/>
+  <titles>
+    <title type="short" as="introduced">STOP IRS Act</title>
+    <title type="short" as="introduced">Stop Targeting Our Politics IRS Act</title>
+    <title type="short" as="passed house">STOP IRS Act</title>
+    <title type="short" as="passed house">Stop Targeting Our Politics IRS Act</title>
+    <title type="official" as="introduced">To provide for the termination of employment of employees of the Internal Revenue Service who take certain official actions for political purposes.</title>
+  </titles>
+  <sponsor thomas_id="02048"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2013-06-27"/>
+    <cosponsor thomas_id="02093" joined="2013-07-10"/>
+    <cosponsor thomas_id="02054" joined="2013-07-08"/>
+    <cosponsor thomas_id="02063" joined="2013-06-27"/>
+    <cosponsor thomas_id="01748" joined="2013-07-09"/>
+    <cosponsor thomas_id="01787" joined="2013-06-27"/>
+    <cosponsor thomas_id="01468" joined="2013-07-09"/>
+    <cosponsor thomas_id="01987" joined="2013-07-10"/>
+    <cosponsor thomas_id="00165" joined="2013-07-11"/>
+    <cosponsor thomas_id="01999" joined="2013-06-27"/>
+    <cosponsor thomas_id="00186" joined="2013-06-27"/>
+    <cosponsor thomas_id="01742" joined="2013-07-09"/>
+    <cosponsor thomas_id="02151" joined="2013-07-09"/>
+    <cosponsor thomas_id="02103" joined="2013-07-09"/>
+    <cosponsor thomas_id="02133" joined="2013-06-27"/>
+    <cosponsor thomas_id="02116" joined="2013-07-22"/>
+    <cosponsor thomas_id="02072" joined="2013-07-09"/>
+    <cosponsor thomas_id="02067" joined="2013-07-22"/>
+    <cosponsor thomas_id="02064" joined="2013-07-09"/>
+    <cosponsor thomas_id="01797" joined="2013-07-09"/>
+    <cosponsor thomas_id="01683" joined="2013-07-30"/>
+    <cosponsor thomas_id="02120" joined="2013-07-31"/>
+    <cosponsor thomas_id="01743" joined="2013-06-27"/>
+    <cosponsor thomas_id="02049" joined="2013-06-27"/>
+    <cosponsor thomas_id="02058" joined="2013-07-11"/>
+    <cosponsor thomas_id="01990" joined="2013-06-27"/>
+    <cosponsor thomas_id="02044" joined="2013-07-09"/>
+    <cosponsor thomas_id="02032" joined="2013-07-17"/>
+    <cosponsor thomas_id="02040" joined="2013-07-09"/>
+    <cosponsor thomas_id="01749" joined="2013-06-28"/>
+    <cosponsor thomas_id="02028" joined="2013-06-27"/>
+    <cosponsor thomas_id="01921" joined="2013-07-09"/>
+    <cosponsor thomas_id="02046" joined="2013-06-27"/>
+    <cosponsor thomas_id="00603" joined="2013-06-27"/>
+    <cosponsor thomas_id="01868" joined="2013-06-27"/>
+    <cosponsor thomas_id="02154" joined="2013-06-27"/>
+    <cosponsor thomas_id="02051" joined="2013-06-27"/>
+    <cosponsor thomas_id="00636" joined="2013-07-10"/>
+    <cosponsor thomas_id="01733" joined="2013-07-30"/>
+    <cosponsor thomas_id="02011" joined="2013-06-27"/>
+    <cosponsor thomas_id="01885" joined="2013-06-28"/>
+    <cosponsor thomas_id="01931" joined="2013-07-08"/>
+    <cosponsor thomas_id="01806" joined="2013-06-27"/>
+    <cosponsor thomas_id="02053" joined="2013-06-27"/>
+    <cosponsor thomas_id="02094" joined="2013-06-27"/>
+    <cosponsor thomas_id="01804" joined="2013-07-30"/>
+    <cosponsor thomas_id="01792" joined="2013-07-09"/>
+    <cosponsor thomas_id="02052" joined="2013-06-27"/>
+    <cosponsor thomas_id="01685" joined="2013-06-27"/>
+    <cosponsor thomas_id="02059" joined="2013-07-11"/>
+    <cosponsor thomas_id="02117" joined="2013-07-22"/>
+    <cosponsor thomas_id="01758" joined="2013-07-17"/>
+    <cosponsor thomas_id="02001" joined="2013-06-27"/>
+    <cosponsor thomas_id="02034" joined="2013-07-17"/>
+    <cosponsor thomas_id="01930" joined="2013-07-17"/>
+    <cosponsor thomas_id="01514" joined="2013-07-09"/>
+    <cosponsor thomas_id="01915" joined="2013-07-22"/>
+    <cosponsor thomas_id="02118" joined="2013-07-17"/>
+    <cosponsor thomas_id="01982" joined="2013-07-09"/>
+    <cosponsor thomas_id="01810" joined="2013-07-30"/>
+    <cosponsor thomas_id="02073" joined="2013-07-11"/>
+    <cosponsor thomas_id="02017" joined="2013-07-30"/>
+    <cosponsor thomas_id="01848" joined="2013-06-27"/>
+    <cosponsor thomas_id="02158" joined="2013-06-27"/>
+    <cosponsor thomas_id="01892" joined="2013-07-09"/>
+    <cosponsor thomas_id="02099" joined="2013-07-11"/>
+    <cosponsor thomas_id="02000" joined="2013-07-09"/>
+    <cosponsor thomas_id="02047" joined="2013-06-27"/>
+    <cosponsor thomas_id="01981" joined="2013-07-11"/>
+    <cosponsor thomas_id="01664" joined="2013-06-27"/>
+    <cosponsor thomas_id="01997" joined="2013-07-09"/>
+    <cosponsor thomas_id="01741" joined="2013-07-17"/>
+    <cosponsor thomas_id="02128" joined="2013-07-11"/>
+    <cosponsor thomas_id="02002" joined="2013-06-27"/>
+    <cosponsor thomas_id="02152" joined="2013-06-27"/>
+    <cosponsor thomas_id="01688" joined="2013-06-27"/>
+    <cosponsor thomas_id="02019" joined="2013-06-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-27" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2013-07-31T15:50:00-04:00">
+      <text>Mr. Renacci moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2013-07-31T15:50:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5212-5214" label="consideration"/>
+    </action>
+    <action datetime="2013-07-31T15:50:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2565.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2013-07-31T16:12:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H5212" label="text"/>
+    </vote>
+    <action datetime="2013-07-31T16:12:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2013-08-01">
+      <text>Received in the Senate and Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Department of the Treasury"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Internal Revenue Service (IRS)"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <summary>7/31/2013--Passed House without amendment.
+Stop Targeting Our Politics IRS Act or the STOP IRS Act - Amends the Internal Revenue Service Restructuring and Reform Act of 1998 to expand existing grounds for termination of the employment of an Internal Revenue Service (IRS) employee to include performing, delaying, or failing to perform (or threatening to perform, delay, or fail to perform) any official action (including any audit) with respect to a taxpayer for purpose of extracting personal gain or benefit or for a political purpose.</summary>
+</bill>

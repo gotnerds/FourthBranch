@@ -1,0 +1,32 @@
+<bill session="113" type="h" number="5144" updated="2014-08-14T13:35:22-04:00">
+  <state datetime="2014-07-17">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-17"/>
+  </status>
+  <introduced datetime="2014-07-17"/>
+  <titles>
+    <title type="short" as="introduced">EASY Voting Act</title>
+    <title type="short" as="introduced">Equal Access to Support Youth Voting Act</title>
+    <title type="official" as="introduced">To amend the Help America Vote Act of 2002 to require States which require individuals to present a photo identification as a condition of voting in elections for Federal office to accept a photo identification presented by a student which is issued by the school the student attends.</title>
+  </titles>
+  <sponsor thomas_id="01790"/>
+  <cosponsors>
+    <cosponsor thomas_id="01878" joined="2014-07-17"/>
+    <cosponsor thomas_id="00588" joined="2014-07-17"/>
+    <cosponsor thomas_id="02171" joined="2014-07-17"/>
+    <cosponsor thomas_id="01635" joined="2014-07-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-17" state="REFERRED">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>7/17/2014--Introduced.
+Equal Access to Support Youth Voting Act or the EASY Voting Act - Amends the Help America Vote Act of 2002 to require state and local election officials to accept a current and valid student photo identification issued by the institute of higher education the student attends when such identification is required to obtain a ballot or vote in a federal election.</summary>
+</bill>

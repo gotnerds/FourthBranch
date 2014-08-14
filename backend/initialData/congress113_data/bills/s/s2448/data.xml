@@ -1,0 +1,39 @@
+<bill session="113" type="s" number="2448" updated="2014-08-14T14:05:42-04:00">
+  <state datetime="2014-06-05">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-05"/>
+  </status>
+  <introduced datetime="2014-06-05"/>
+  <titles>
+    <title type="short" as="introduced">Servicemember Higher Education Protection Act</title>
+    <title type="official" as="introduced">A bill to protect servicemembers in higher education, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01902"/>
+  <cosponsors>
+    <cosponsor thomas_id="00501" joined="2014-06-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSVA" name="Senate Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Consumer affairs"/>
+    <term name="Department of Education"/>
+    <term name="Disability and paralysis"/>
+    <term name="Disability assistance"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government information and archives"/>
+    <term name="Interest, dividends, interest rates"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Student aid and college costs"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+  </subjects>
+  <amendments/>
+</bill>

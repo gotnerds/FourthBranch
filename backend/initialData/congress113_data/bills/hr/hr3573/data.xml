@@ -1,0 +1,57 @@
+<bill session="113" type="h" number="3573" updated="2014-08-14T13:21:59-04:00">
+  <state datetime="2013-11-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-11-21"/>
+  </status>
+  <introduced datetime="2013-11-21"/>
+  <titles>
+    <title type="official" as="introduced">To ensure that the percentage increase in rates of basic pay for prevailing wage employees shall be equal to the percentage increase received by other Federal employees in the same pay locality, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02159"/>
+  <cosponsors>
+    <cosponsor thomas_id="00021" joined="2013-12-02"/>
+    <cosponsor thomas_id="01753" joined="2013-11-21"/>
+    <cosponsor thomas_id="02127" joined="2013-11-21"/>
+    <cosponsor thomas_id="01742" joined="2013-11-21"/>
+    <cosponsor thomas_id="01959" joined="2013-11-21"/>
+    <cosponsor thomas_id="00256" joined="2013-11-21"/>
+    <cosponsor thomas_id="02133" joined="2014-01-07"/>
+    <cosponsor thomas_id="02125" joined="2013-12-05"/>
+    <cosponsor thomas_id="01797" joined="2013-11-21"/>
+    <cosponsor thomas_id="01895" joined="2014-05-19"/>
+    <cosponsor thomas_id="01973" joined="2013-12-05"/>
+    <cosponsor thomas_id="01846" joined="2013-11-21"/>
+    <cosponsor thomas_id="01686" joined="2013-11-21"/>
+    <cosponsor thomas_id="02150" joined="2014-01-10"/>
+    <cosponsor thomas_id="02053" joined="2013-12-02"/>
+    <cosponsor thomas_id="01504" joined="2014-01-14"/>
+    <cosponsor thomas_id="00868" joined="2013-12-02"/>
+    <cosponsor thomas_id="01835" joined="2013-11-21"/>
+    <cosponsor thomas_id="02039" joined="2013-11-21"/>
+    <cosponsor thomas_id="02009" joined="2013-11-21"/>
+    <cosponsor thomas_id="01861" joined="2013-12-03"/>
+    <cosponsor thomas_id="02168" joined="2013-12-05"/>
+    <cosponsor thomas_id="01942" joined="2013-12-16"/>
+    <cosponsor thomas_id="01886" joined="2013-11-21"/>
+    <cosponsor thomas_id="01238" joined="2013-11-21"/>
+    <cosponsor thomas_id="01256" joined="2014-01-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-11-21" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="5016"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+  </subjects>
+  <amendments/>
+  <summary>11/21/2013--Introduced.
+Prohibits any prevailing rate employee in a federal agency, between January 1 and September 30, 2014, from being paid an amount exceeding specified limits resulting from an applicable wage survey adjustment. Prohibits the percentage increase in wages paid to a prevailing wage employee in FY2014 from being less than the percentage increase in the basic pay of other federal employees in the same pay locality.</summary>
+</bill>

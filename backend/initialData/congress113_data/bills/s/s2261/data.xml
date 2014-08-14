@@ -1,0 +1,31 @@
+<bill session="113" type="s" number="2261" updated="2014-08-14T14:04:08-04:00">
+  <state datetime="2014-04-28">REPORTED</state>
+  <status>
+    <unknown datetime="2014-04-28"/>
+  </status>
+  <introduced datetime="2014-04-28"/>
+  <titles>
+    <title type="short" as="introduced">Tax Technical Corrections Act of 2014</title>
+    <title type="short" as="reported to senate">Tax Technical Corrections Act of 2014</title>
+    <title type="official" as="introduced">An original bill to amend the Internal Revenue Code of 1986 to make technical corrections, to remove provisions that are no longer applicable, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01247"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-04-28">
+      <text>Committee on Finance. Original measure reported to Senate by Senator Wyden. With written report No. 113-155.</text>
+    </action>
+    <calendar datetime="2014-04-28" state="REPORTED" calendar="Senate Legislative" under="General Orders" number="367">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 367.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="General taxation matters"/>
+  </subjects>
+  <amendments/>
+</bill>

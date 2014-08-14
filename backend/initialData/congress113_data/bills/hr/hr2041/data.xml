@@ -1,0 +1,76 @@
+<bill session="113" type="h" number="2041" updated="2014-08-14T13:08:39-04:00">
+  <state datetime="2013-05-17">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-17"/>
+  </status>
+  <introduced datetime="2013-05-17"/>
+  <titles>
+    <title type="official" as="introduced">To modify the definition of fiduciary under the Employee Retirement Income Security Act of 1974 to exclude appraisers of employee stock ownership plans.</title>
+  </titles>
+  <sponsor thomas_id="01922"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2013-07-08"/>
+    <cosponsor thomas_id="02131" joined="2013-07-08"/>
+    <cosponsor thomas_id="01740" joined="2013-08-02"/>
+    <cosponsor thomas_id="01787" joined="2013-05-23"/>
+    <cosponsor thomas_id="01845" joined="2014-05-27"/>
+    <cosponsor thomas_id="01816" joined="2013-08-01"/>
+    <cosponsor thomas_id="01676" joined="2013-09-26"/>
+    <cosponsor thomas_id="01999" joined="2013-10-30"/>
+    <cosponsor thomas_id="01805" joined="2013-07-08"/>
+    <cosponsor thomas_id="02098" joined="2013-09-16"/>
+    <cosponsor thomas_id="02144" joined="2014-05-29"/>
+    <cosponsor thomas_id="01989" joined="2014-04-04"/>
+    <cosponsor thomas_id="01797" joined="2014-06-23"/>
+    <cosponsor thomas_id="01990" joined="2013-07-08"/>
+    <cosponsor thomas_id="01921" joined="2013-05-17"/>
+    <cosponsor thomas_id="01724" joined="2013-06-05"/>
+    <cosponsor thomas_id="02145" joined="2014-05-09"/>
+    <cosponsor thomas_id="00666" joined="2013-06-12"/>
+    <cosponsor thomas_id="01885" joined="2013-06-05"/>
+    <cosponsor thomas_id="01846" joined="2013-05-17"/>
+    <cosponsor thomas_id="01943" joined="2013-09-23"/>
+    <cosponsor thomas_id="01503" joined="2013-08-02"/>
+    <cosponsor thomas_id="02117" joined="2013-07-31"/>
+    <cosponsor thomas_id="02060" joined="2013-07-18"/>
+    <cosponsor thomas_id="01930" joined="2014-05-20"/>
+    <cosponsor thomas_id="00910" joined="2013-07-18"/>
+    <cosponsor thomas_id="02048" joined="2013-07-08"/>
+    <cosponsor thomas_id="02017" joined="2013-09-18"/>
+    <cosponsor thomas_id="02124" joined="2014-01-13"/>
+    <cosponsor thomas_id="01920" joined="2013-10-23"/>
+    <cosponsor thomas_id="02009" joined="2014-03-25"/>
+    <cosponsor thomas_id="01526" joined="2013-08-02"/>
+    <cosponsor thomas_id="01860" joined="2014-05-30"/>
+    <cosponsor thomas_id="01952" joined="2013-10-28"/>
+    <cosponsor thomas_id="01593" joined="2013-08-02"/>
+    <cosponsor thomas_id="02112" joined="2013-12-02"/>
+    <cosponsor thomas_id="01855" joined="2013-11-13"/>
+    <cosponsor thomas_id="01991" joined="2013-07-08"/>
+    <cosponsor thomas_id="02019" joined="2013-07-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-17" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2013-07-08">
+      <text>Referred to the Subcommittee on Health, Employment, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health, Employment, Labor, and Pensions" code="HSED02" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="273"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Accounting and auditing"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Securities"/>
+  </subjects>
+  <amendments/>
+  <summary>5/17/2013--Introduced.
+Amends the Employee Retirement Income and Security Act of 1974 (ERISA) to exclude appraisers of employee stock ownership plans (ESOPs) from the meaning of a fiduciary subject to ERISA.</summary>
+</bill>

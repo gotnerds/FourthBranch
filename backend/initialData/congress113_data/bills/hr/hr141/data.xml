@@ -1,0 +1,96 @@
+<bill session="113" type="h" number="141" updated="2014-08-14T12:51:55-04:00">
+  <state datetime="2013-01-03">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-03"/>
+  </status>
+  <introduced datetime="2013-01-03"/>
+  <titles>
+    <title type="short" as="introduced">Gun Show Loophole Closing Act of 2013</title>
+    <title type="official" as="introduced">To require criminal background checks on all firearms transactions occurring at gun shows.</title>
+  </titles>
+  <sponsor thomas_id="01503"/>
+  <cosponsors>
+    <cosponsor thomas_id="01740" joined="2013-01-25"/>
+    <cosponsor thomas_id="00099" joined="2013-05-06"/>
+    <cosponsor thomas_id="01564" joined="2013-01-25"/>
+    <cosponsor thomas_id="01839" joined="2013-01-25"/>
+    <cosponsor thomas_id="01970" joined="2013-02-05"/>
+    <cosponsor thomas_id="02055" joined="2013-01-14"/>
+    <cosponsor thomas_id="00229" joined="2013-01-14"/>
+    <cosponsor thomas_id="00256" joined="2013-01-14"/>
+    <cosponsor thomas_id="01641" joined="2013-04-11"/>
+    <cosponsor thomas_id="01479" joined="2013-01-22"/>
+    <cosponsor thomas_id="00316" joined="2013-01-15"/>
+    <cosponsor thomas_id="00344" joined="2013-09-11"/>
+    <cosponsor thomas_id="00355" joined="2013-01-14"/>
+    <cosponsor thomas_id="02114" joined="2013-03-15"/>
+    <cosponsor thomas_id="02119" joined="2013-01-14"/>
+    <cosponsor thomas_id="01973" joined="2013-04-11"/>
+    <cosponsor thomas_id="01708" joined="2013-06-04"/>
+    <cosponsor thomas_id="02089" joined="2013-02-05"/>
+    <cosponsor thomas_id="01580" joined="2013-01-22"/>
+    <cosponsor thomas_id="00588" joined="2013-01-25"/>
+    <cosponsor thomas_id="01668" joined="2013-01-25"/>
+    <cosponsor thomas_id="01781" joined="2013-03-15"/>
+    <cosponsor thomas_id="00701" joined="2013-03-04"/>
+    <cosponsor thomas_id="00709" joined="2013-02-05"/>
+    <cosponsor thomas_id="01686" joined="2013-02-25"/>
+    <cosponsor thomas_id="00729" joined="2013-01-14"/>
+    <cosponsor thomas_id="00735" joined="2013-01-15"/>
+    <cosponsor thomas_id="01814" joined="2013-01-14"/>
+    <cosponsor thomas_id="01653" joined="2013-01-15"/>
+    <cosponsor thomas_id="01504" joined="2013-01-15"/>
+    <cosponsor thomas_id="02148" joined="2013-01-22"/>
+    <cosponsor thomas_id="01811" joined="2013-01-22"/>
+    <cosponsor thomas_id="00850" joined="2013-03-15"/>
+    <cosponsor thomas_id="00868" joined="2013-01-14"/>
+    <cosponsor thomas_id="00887" joined="2013-01-25"/>
+    <cosponsor thomas_id="00893" joined="2013-02-05"/>
+    <cosponsor thomas_id="01927" joined="2013-01-22"/>
+    <cosponsor thomas_id="02171" joined="2013-01-25"/>
+    <cosponsor thomas_id="00930" joined="2013-02-05"/>
+    <cosponsor thomas_id="01967" joined="2013-01-14"/>
+    <cosponsor thomas_id="01854" joined="2013-01-22"/>
+    <cosponsor thomas_id="01588" joined="2013-02-25"/>
+    <cosponsor thomas_id="01798" joined="2013-01-22"/>
+    <cosponsor thomas_id="01526" joined="2013-02-28"/>
+    <cosponsor thomas_id="01535" joined="2014-03-26"/>
+    <cosponsor thomas_id="01729" joined="2013-01-14"/>
+    <cosponsor thomas_id="01209" joined="2013-02-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-03" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-01-25">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, And Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Business records"/>
+    <term name="Congressional oversight"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Criminal procedure and sentencing"/>
+    <term name="Department of Justice"/>
+    <term name="Firearms and explosives"/>
+    <term name="Licensing and registrations"/>
+  </subjects>
+  <amendments/>
+  <summary>1/3/2013--Introduced.
+Gun Show Loophole Closing Act of 2013 - Amends the federal criminal code to make it unlawful for any person to operate a gun show unless such person: (1) has attained 21 years of age; (2) is not prohibited from transporting, shipping, or receiving firearms and has not violated any federal firearms requirements; (3) has registered with the Attorney General as a gun show operator and has provided a photograph and fingerprints; (4) has not concealed material information nor made false statements in connection with a gun show operator registration; and (5) notifies the Attorney General of the date, time, and duration of a gun show not later than 30 days before the commencement of such show and verifies the identity of each vendor at the gun show.
+
+Imposes recordkeeping requirements on gun show operators and criminal penalties for failure to register as a gun show operator and maintain required records.
+
+Grants the Attorney General authority to enter the business premises of any gun show operator, without a showing of reasonable cause or a warrant, to examine records and inventory to determine compliance with this Act.
+
+Increases criminal penalties for serious recordkeeping violations and violations of criminal background check requirements.
+
+Authorizes the Director of the Bureau of Alcohol, Tobacco, Firearms, and Explosives (ATF) to hire additional investigators to carry out inspections of gun shows.</summary>
+</bill>

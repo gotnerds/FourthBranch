@@ -1,0 +1,29 @@
+<bill session="113" type="h" number="5244" updated="2014-08-14T13:36:15-04:00">
+  <state datetime="2014-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-29"/>
+  </status>
+  <introduced datetime="2014-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Healthy Housing Council Act of 2014</title>
+    <title type="official" as="introduced">To establish the Council on Healthy Housing and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02114"/>
+  <cosponsors>
+    <cosponsor thomas_id="01469" joined="2014-07-29"/>
+    <cosponsor thomas_id="01069" joined="2014-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="291"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

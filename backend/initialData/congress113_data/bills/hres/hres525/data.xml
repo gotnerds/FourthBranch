@@ -1,0 +1,126 @@
+<bill session="113" type="hr" number="525" updated="2014-08-14T12:49:05-04:00">
+  <state datetime="2014-03-26">REFERRED</state>
+  <status>
+    <introduced datetime="2014-03-26"/>
+  </status>
+  <introduced datetime="2014-03-26"/>
+  <titles>
+    <title type="official" as="introduced">Supporting the goals and ideals of National Women's History Month.</title>
+  </titles>
+  <sponsor thomas_id="01593"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2014-03-26"/>
+    <cosponsor thomas_id="01723" joined="2014-04-02"/>
+    <cosponsor thomas_id="01676" joined="2014-03-26"/>
+    <cosponsor thomas_id="01564" joined="2014-07-14"/>
+    <cosponsor thomas_id="02196" joined="2014-03-26"/>
+    <cosponsor thomas_id="01864" joined="2014-03-26"/>
+    <cosponsor thomas_id="01654" joined="2014-05-28"/>
+    <cosponsor thomas_id="01878" joined="2014-05-19"/>
+    <cosponsor thomas_id="01959" joined="2014-05-28"/>
+    <cosponsor thomas_id="00229" joined="2014-04-02"/>
+    <cosponsor thomas_id="01774" joined="2014-04-04"/>
+    <cosponsor thomas_id="01641" joined="2014-05-09"/>
+    <cosponsor thomas_id="02133" joined="2014-07-28"/>
+    <cosponsor thomas_id="00281" joined="2014-03-26"/>
+    <cosponsor thomas_id="00303" joined="2014-07-10"/>
+    <cosponsor thomas_id="00316" joined="2014-06-25"/>
+    <cosponsor thomas_id="01894" joined="2014-03-26"/>
+    <cosponsor thomas_id="01857" joined="2014-04-02"/>
+    <cosponsor thomas_id="00355" joined="2014-03-26"/>
+    <cosponsor thomas_id="02114" joined="2014-05-07"/>
+    <cosponsor thomas_id="02067" joined="2014-04-09"/>
+    <cosponsor thomas_id="00368" joined="2014-04-09"/>
+    <cosponsor thomas_id="02119" joined="2014-07-14"/>
+    <cosponsor thomas_id="01895" joined="2014-05-06"/>
+    <cosponsor thomas_id="01973" joined="2014-03-26"/>
+    <cosponsor thomas_id="01487" joined="2014-03-26"/>
+    <cosponsor thomas_id="01914" joined="2014-05-01"/>
+    <cosponsor thomas_id="01708" joined="2014-04-04"/>
+    <cosponsor thomas_id="00511" joined="2014-05-06"/>
+    <cosponsor thomas_id="02170" joined="2014-05-30"/>
+    <cosponsor thomas_id="01794" joined="2014-04-28"/>
+    <cosponsor thomas_id="01913" joined="2014-06-25"/>
+    <cosponsor thomas_id="01490" joined="2014-03-26"/>
+    <cosponsor thomas_id="01580" joined="2014-05-01"/>
+    <cosponsor thomas_id="01634" joined="2014-04-02"/>
+    <cosponsor thomas_id="02101" joined="2014-03-26"/>
+    <cosponsor thomas_id="00588" joined="2014-03-26"/>
+    <cosponsor thomas_id="00599" joined="2014-06-10"/>
+    <cosponsor thomas_id="01843" joined="2014-05-30"/>
+    <cosponsor thomas_id="00616" joined="2014-05-06"/>
+    <cosponsor thomas_id="02025" joined="2014-05-28"/>
+    <cosponsor thomas_id="01498" joined="2014-06-10"/>
+    <cosponsor thomas_id="01675" joined="2014-04-09"/>
+    <cosponsor thomas_id="01583" joined="2014-05-30"/>
+    <cosponsor thomas_id="01501" joined="2014-03-26"/>
+    <cosponsor thomas_id="00683" joined="2014-05-09"/>
+    <cosponsor thomas_id="00688" joined="2014-03-26"/>
+    <cosponsor thomas_id="01846" joined="2014-03-26"/>
+    <cosponsor thomas_id="00701" joined="2014-06-20"/>
+    <cosponsor thomas_id="02111" joined="2014-04-09"/>
+    <cosponsor thomas_id="00729" joined="2014-04-04"/>
+    <cosponsor thomas_id="01814" joined="2014-03-26"/>
+    <cosponsor thomas_id="01503" joined="2014-06-10"/>
+    <cosponsor thomas_id="01653" joined="2014-04-02"/>
+    <cosponsor thomas_id="00766" joined="2014-05-28"/>
+    <cosponsor thomas_id="01504" joined="2014-05-19"/>
+    <cosponsor thomas_id="01809" joined="2014-03-26"/>
+    <cosponsor thomas_id="01832" joined="2014-05-09"/>
+    <cosponsor thomas_id="01506" joined="2014-05-30"/>
+    <cosponsor thomas_id="02148" joined="2014-06-20"/>
+    <cosponsor thomas_id="00808" joined="2014-04-08"/>
+    <cosponsor thomas_id="01811" joined="2014-03-26"/>
+    <cosponsor thomas_id="02117" joined="2014-07-14"/>
+    <cosponsor thomas_id="00850" joined="2014-05-28"/>
+    <cosponsor thomas_id="01602" joined="2014-04-08"/>
+    <cosponsor thomas_id="02108" joined="2014-04-02"/>
+    <cosponsor thomas_id="00868" joined="2014-06-10"/>
+    <cosponsor thomas_id="01710" joined="2014-03-26"/>
+    <cosponsor thomas_id="01835" joined="2014-05-30"/>
+    <cosponsor thomas_id="01929" joined="2014-07-31"/>
+    <cosponsor thomas_id="01927" joined="2014-06-20"/>
+    <cosponsor thomas_id="02171" joined="2014-04-09"/>
+    <cosponsor thomas_id="01802" joined="2014-03-26"/>
+    <cosponsor thomas_id="00944" joined="2014-03-26"/>
+    <cosponsor thomas_id="01522" joined="2014-03-26"/>
+    <cosponsor thomas_id="01635" joined="2014-03-26"/>
+    <cosponsor thomas_id="01722" joined="2014-06-10"/>
+    <cosponsor thomas_id="01042" joined="2014-05-28"/>
+    <cosponsor thomas_id="01069" joined="2014-03-26"/>
+    <cosponsor thomas_id="01528" joined="2014-03-26"/>
+    <cosponsor thomas_id="01890" joined="2014-03-26"/>
+    <cosponsor thomas_id="02104" joined="2014-03-26"/>
+    <cosponsor thomas_id="02110" joined="2014-05-28"/>
+    <cosponsor thomas_id="01940" joined="2014-04-30"/>
+    <cosponsor thomas_id="01884" joined="2014-06-20"/>
+    <cosponsor thomas_id="01729" joined="2014-07-10"/>
+    <cosponsor thomas_id="02112" joined="2014-04-08"/>
+    <cosponsor thomas_id="01205" joined="2014-04-28"/>
+    <cosponsor thomas_id="02004" joined="2014-06-20"/>
+    <cosponsor thomas_id="01853" joined="2014-05-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-03-26" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Higher education"/>
+    <term name="U.S. history"/>
+    <term name="Women's rights"/>
+  </subjects>
+  <amendments/>
+  <summary>3/26/2014--Introduced.
+Expresses support for the goals and ideals of National Women's History Month.
+
+Recognizes and honors the women and organizations in the United States that have fought for and continue to promote the teaching of women's history.</summary>
+</bill>

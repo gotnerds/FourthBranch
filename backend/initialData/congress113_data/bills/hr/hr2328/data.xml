@@ -1,0 +1,144 @@
+<bill session="113" type="h" number="2328" updated="2014-08-14T13:11:14-04:00">
+  <state datetime="2013-06-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-12"/>
+  </status>
+  <introduced datetime="2013-06-12"/>
+  <titles>
+    <title type="short" as="introduced">Access to Professional Health Insurance Advisors Act of 2013</title>
+    <title type="official" as="introduced">To amend title XXVII of the Public Health Service Act to preserve consumer and employer access to licensed independent insurance producers.</title>
+  </titles>
+  <sponsor thomas_id="01651"/>
+  <cosponsors>
+    <cosponsor thomas_id="00021" joined="2013-08-01"/>
+    <cosponsor thomas_id="01858" joined="2013-06-12"/>
+    <cosponsor thomas_id="02093" joined="2014-02-26"/>
+    <cosponsor thomas_id="02131" joined="2013-07-23"/>
+    <cosponsor thomas_id="01780" joined="2013-06-12"/>
+    <cosponsor thomas_id="02027" joined="2013-07-23"/>
+    <cosponsor thomas_id="01838" joined="2013-10-28"/>
+    <cosponsor thomas_id="00091" joined="2013-06-12"/>
+    <cosponsor thomas_id="01740" joined="2013-07-23"/>
+    <cosponsor thomas_id="01748" joined="2013-06-12"/>
+    <cosponsor thomas_id="02129" joined="2013-10-08"/>
+    <cosponsor thomas_id="01882" joined="2013-09-25"/>
+    <cosponsor thomas_id="02106" joined="2014-03-14"/>
+    <cosponsor thomas_id="01751" joined="2013-06-12"/>
+    <cosponsor thomas_id="01676" joined="2013-06-12"/>
+    <cosponsor thomas_id="01925" joined="2013-06-12"/>
+    <cosponsor thomas_id="01654" joined="2013-06-12"/>
+    <cosponsor thomas_id="01912" joined="2013-09-09"/>
+    <cosponsor thomas_id="01805" joined="2013-06-12"/>
+    <cosponsor thomas_id="00279" joined="2013-07-09"/>
+    <cosponsor thomas_id="01799" joined="2013-06-12"/>
+    <cosponsor thomas_id="02072" joined="2013-06-12"/>
+    <cosponsor thomas_id="02057" joined="2013-06-12"/>
+    <cosponsor thomas_id="02036" joined="2014-03-05"/>
+    <cosponsor thomas_id="01683" joined="2013-12-03"/>
+    <cosponsor thomas_id="01793" joined="2013-06-19"/>
+    <cosponsor thomas_id="00414" joined="2014-04-29"/>
+    <cosponsor thomas_id="01998" joined="2013-07-09"/>
+    <cosponsor thomas_id="01743" joined="2013-06-28"/>
+    <cosponsor thomas_id="02043" joined="2014-06-10"/>
+    <cosponsor thomas_id="01720" joined="2013-06-12"/>
+    <cosponsor thomas_id="00446" joined="2013-11-13"/>
+    <cosponsor thomas_id="01487" joined="2013-07-25"/>
+    <cosponsor thomas_id="01656" joined="2013-10-23"/>
+    <cosponsor thomas_id="01990" joined="2013-06-25"/>
+    <cosponsor thomas_id="02070" joined="2013-06-12"/>
+    <cosponsor thomas_id="02041" joined="2013-06-12"/>
+    <cosponsor thomas_id="01922" joined="2013-06-20"/>
+    <cosponsor thomas_id="01933" joined="2013-10-23"/>
+    <cosponsor thomas_id="02026" joined="2013-06-12"/>
+    <cosponsor thomas_id="02040" joined="2013-06-18"/>
+    <cosponsor thomas_id="01749" joined="2013-10-28"/>
+    <cosponsor thomas_id="02071" joined="2014-03-05"/>
+    <cosponsor thomas_id="02143" joined="2013-11-14"/>
+    <cosponsor thomas_id="02020" joined="2013-06-12"/>
+    <cosponsor thomas_id="01909" joined="2013-06-13"/>
+    <cosponsor thomas_id="02046" joined="2013-06-27"/>
+    <cosponsor thomas_id="00603" joined="2014-04-29"/>
+    <cosponsor thomas_id="02154" joined="2013-06-12"/>
+    <cosponsor thomas_id="02014" joined="2013-06-12"/>
+    <cosponsor thomas_id="01733" joined="2013-06-18"/>
+    <cosponsor thomas_id="02100" joined="2013-10-23"/>
+    <cosponsor thomas_id="01936" joined="2013-06-14"/>
+    <cosponsor thomas_id="01885" joined="2013-06-18"/>
+    <cosponsor thomas_id="00701" joined="2013-09-19"/>
+    <cosponsor thomas_id="02033" joined="2013-06-13"/>
+    <cosponsor thomas_id="01943" joined="2014-03-11"/>
+    <cosponsor thomas_id="01806" joined="2013-07-09"/>
+    <cosponsor thomas_id="01804" joined="2013-11-12"/>
+    <cosponsor thomas_id="01653" joined="2013-07-16"/>
+    <cosponsor thomas_id="01505" joined="2013-06-14"/>
+    <cosponsor thomas_id="02074" joined="2013-06-12"/>
+    <cosponsor thomas_id="01809" joined="2013-06-20"/>
+    <cosponsor thomas_id="02059" joined="2013-07-23"/>
+    <cosponsor thomas_id="01744" joined="2013-09-09"/>
+    <cosponsor thomas_id="02034" joined="2013-07-30"/>
+    <cosponsor thomas_id="01955" joined="2013-08-02"/>
+    <cosponsor thomas_id="01974" joined="2013-09-23"/>
+    <cosponsor thomas_id="02035" joined="2013-06-12"/>
+    <cosponsor thomas_id="01835" joined="2013-06-25"/>
+    <cosponsor thomas_id="02113" joined="2014-06-19"/>
+    <cosponsor thomas_id="00912" joined="2013-09-09"/>
+    <cosponsor thomas_id="01802" joined="2013-06-19"/>
+    <cosponsor thomas_id="02022" joined="2013-08-02"/>
+    <cosponsor thomas_id="00940" joined="2013-06-25"/>
+    <cosponsor thomas_id="02048" joined="2013-09-09"/>
+    <cosponsor thomas_id="02073" joined="2013-11-18"/>
+    <cosponsor thomas_id="01954" joined="2013-06-12"/>
+    <cosponsor thomas_id="00977" joined="2014-03-05"/>
+    <cosponsor thomas_id="02017" joined="2013-06-12"/>
+    <cosponsor thomas_id="02158" joined="2013-08-01"/>
+    <cosponsor thomas_id="01728" joined="2013-06-27"/>
+    <cosponsor thomas_id="01009" joined="2013-12-09"/>
+    <cosponsor thomas_id="01892" joined="2013-09-12"/>
+    <cosponsor thomas_id="01920" joined="2013-06-14"/>
+    <cosponsor thomas_id="01950" joined="2014-02-03"/>
+    <cosponsor thomas_id="01994" joined="2013-09-09"/>
+    <cosponsor thomas_id="02009" joined="2013-11-12"/>
+    <cosponsor thomas_id="01722" joined="2013-10-10"/>
+    <cosponsor thomas_id="01525" joined="2013-06-28"/>
+    <cosponsor thomas_id="01590" joined="2013-09-27"/>
+    <cosponsor thomas_id="01075" joined="2013-07-16"/>
+    <cosponsor thomas_id="02047" joined="2013-06-25"/>
+    <cosponsor thomas_id="01114" joined="2013-09-25"/>
+    <cosponsor thomas_id="01566" joined="2013-07-09"/>
+    <cosponsor thomas_id="01741" joined="2013-06-18"/>
+    <cosponsor thomas_id="01855" joined="2013-06-27"/>
+    <cosponsor thomas_id="01596" joined="2013-10-23"/>
+    <cosponsor thomas_id="01779" joined="2013-10-28"/>
+    <cosponsor thomas_id="01222" joined="2013-09-30"/>
+    <cosponsor thomas_id="01886" joined="2013-06-20"/>
+    <cosponsor thomas_id="01991" joined="2013-06-12"/>
+    <cosponsor thomas_id="02115" joined="2013-09-09"/>
+    <cosponsor thomas_id="01256" joined="2013-09-16"/>
+    <cosponsor thomas_id="02019" joined="2013-06-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-12" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-06-14">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Consumer affairs"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Insurance industry and regulation"/>
+  </subjects>
+  <amendments/>
+  <summary>6/12/2013--Introduced.
+Access to Professional Health Insurance Advisors Act of 2013 - Amends the Public Health Service Act to exclude remuneration paid for licensed independent insurance producers from administrative cost calculations for purposes of calculating the medical-loss ratio of a health insurance plan.
+
+Defines "independent insurance producer" to mean an insurance agent or broker, insurance consultant, benefit specialist, limited insurance representative, and any other person required to be licensed under the laws of the particular state to sell, solicit, negotiate, service, effect, procure, renew, or bind policies of insurance coverage or offer advice, counsel, opinions, or services related to insurance.</summary>
+</bill>

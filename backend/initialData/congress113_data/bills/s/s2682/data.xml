@@ -1,0 +1,28 @@
+<bill session="113" type="s" number="2682" updated="2014-08-14T14:07:39-04:00">
+  <state datetime="2014-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-29"/>
+  </status>
+  <introduced datetime="2014-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Made in the U.S.A. Act</title>
+    <title type="official" as="introduced">A bill to require certain Federal agencies to use iron, steel, wood products, cement and manufactured goods produced in the United States in public construction projects, to permanently extend the Build America Bonds program, to ensure that transportation and infrastructure projects carried out using Federal financial assistance are constructed with steel, iron, and manufactured goods that are produced in the United States, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01701"/>
+  <cosponsors>
+    <cosponsor thomas_id="02198" joined="2014-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-29" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="949"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,45 @@
+<bill session="113" type="h" number="1446" updated="2014-08-14T13:03:01-04:00">
+  <state datetime="2013-04-09">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-09"/>
+  </status>
+  <introduced datetime="2013-04-09"/>
+  <titles>
+    <title type="short" as="introduced">REAL Space Act</title>
+    <title type="short" as="introduced">Reasserting American Leadership in Space Act</title>
+    <title type="official" as="introduced">To direct the National Aeronautics and Space Administration to plan to return to the Moon and develop a sustained human presence on the Moon.</title>
+  </titles>
+  <sponsor thomas_id="01915"/>
+  <cosponsors>
+    <cosponsor thomas_id="01460" joined="2013-04-09"/>
+    <cosponsor thomas_id="01753" joined="2013-04-09"/>
+    <cosponsor thomas_id="02144" joined="2013-04-23"/>
+    <cosponsor thomas_id="01670" joined="2013-04-09"/>
+    <cosponsor thomas_id="00588" joined="2013-04-09"/>
+    <cosponsor thomas_id="01804" joined="2013-04-23"/>
+    <cosponsor thomas_id="01955" joined="2013-04-09"/>
+    <cosponsor thomas_id="01802" joined="2013-04-09"/>
+    <cosponsor thomas_id="01114" joined="2013-04-09"/>
+    <cosponsor thomas_id="01238" joined="2013-04-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-09" state="REFERRED">
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="2013-06-24">
+      <text>Referred to the Subcommittee on Space.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSSY" name="House Science, Space, and Technology" activity="Referral, In Committee"/>
+    <committee subcommittee="Space" code="HSSY16" name="House Science, Space, and Technology" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Space flight and exploration"/>
+  </subjects>
+  <amendments/>
+  <summary>4/9/2013--Introduced.
+Reasserting American Leadership in Space Act or REAL Space Act - Directs the National Aeronautics and Space Administration (NASA) to plan to return to the Moon by 2022 and to develop a sustained human presence there in order to promote exploration, commerce, science, and U.S. preeminence in space as a stepping stone for future exploration of Mars and other destinations.</summary>
+</bill>

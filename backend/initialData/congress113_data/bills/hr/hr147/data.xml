@@ -1,0 +1,89 @@
+<bill session="113" type="h" number="147" updated="2014-08-14T12:51:58-04:00">
+  <state datetime="2013-01-03">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-03"/>
+  </status>
+  <introduced datetime="2013-01-03"/>
+  <titles>
+    <title type="short" as="introduced">Death Tax Repeal Act</title>
+    <title type="official" as="introduced">To repeal the Federal estate and gift taxes.</title>
+  </titles>
+  <sponsor thomas_id="01155"/>
+  <cosponsors>
+    <cosponsor thomas_id="00038" joined="2013-01-03"/>
+    <cosponsor thomas_id="02131" joined="2013-02-13"/>
+    <cosponsor thomas_id="00062" joined="2013-01-03"/>
+    <cosponsor thomas_id="01753" joined="2014-02-21"/>
+    <cosponsor thomas_id="01882" joined="2013-01-03"/>
+    <cosponsor thomas_id="01912" joined="2014-02-05"/>
+    <cosponsor thomas_id="01805" joined="2013-01-03"/>
+    <cosponsor thomas_id="02144" joined="2013-12-23"/>
+    <cosponsor thomas_id="01670" joined="2013-01-03"/>
+    <cosponsor thomas_id="02138" joined="2013-04-26"/>
+    <cosponsor thomas_id="02057" joined="2013-04-26"/>
+    <cosponsor thomas_id="00322" joined="2013-01-03"/>
+    <cosponsor thomas_id="01707" joined="2013-01-03"/>
+    <cosponsor thomas_id="00414" joined="2013-02-08"/>
+    <cosponsor thomas_id="01998" joined="2013-03-07"/>
+    <cosponsor thomas_id="00446" joined="2013-03-19"/>
+    <cosponsor thomas_id="01992" joined="2014-07-22"/>
+    <cosponsor thomas_id="01979" joined="2013-01-03"/>
+    <cosponsor thomas_id="00484" joined="2013-01-03"/>
+    <cosponsor thomas_id="02032" joined="2013-02-25"/>
+    <cosponsor thomas_id="01749" joined="2013-02-08"/>
+    <cosponsor thomas_id="02015" joined="2013-02-08"/>
+    <cosponsor thomas_id="01640" joined="2013-01-03"/>
+    <cosponsor thomas_id="00612" joined="2013-01-03"/>
+    <cosponsor thomas_id="00666" joined="2013-03-19"/>
+    <cosponsor thomas_id="00711" joined="2013-03-12"/>
+    <cosponsor thomas_id="01931" joined="2013-02-12"/>
+    <cosponsor thomas_id="01671" joined="2013-03-12"/>
+    <cosponsor thomas_id="02074" joined="2013-01-03"/>
+    <cosponsor thomas_id="01685" joined="2013-02-08"/>
+    <cosponsor thomas_id="02001" joined="2013-01-03"/>
+    <cosponsor thomas_id="01955" joined="2013-01-03"/>
+    <cosponsor thomas_id="01802" joined="2013-03-19"/>
+    <cosponsor thomas_id="02022" joined="2013-08-02"/>
+    <cosponsor thomas_id="00940" joined="2013-01-03"/>
+    <cosponsor thomas_id="01954" joined="2013-01-03"/>
+    <cosponsor thomas_id="00977" joined="2013-01-03"/>
+    <cosponsor thomas_id="01704" joined="2013-01-03"/>
+    <cosponsor thomas_id="02017" joined="2013-01-03"/>
+    <cosponsor thomas_id="00985" joined="2013-04-10"/>
+    <cosponsor thomas_id="01041" joined="2013-01-03"/>
+    <cosponsor thomas_id="01525" joined="2013-01-03"/>
+    <cosponsor thomas_id="01681" joined="2013-04-16"/>
+    <cosponsor thomas_id="01075" joined="2013-01-03"/>
+    <cosponsor thomas_id="02047" joined="2013-03-12"/>
+    <cosponsor thomas_id="01114" joined="2013-03-07"/>
+    <cosponsor thomas_id="01741" joined="2013-01-03"/>
+    <cosponsor thomas_id="01222" joined="2013-02-08"/>
+    <cosponsor thomas_id="01688" joined="2013-01-03"/>
+    <cosponsor thomas_id="01991" joined="2013-01-03"/>
+    <cosponsor thomas_id="02021" joined="2013-01-03"/>
+    <cosponsor thomas_id="02115" joined="2013-02-25"/>
+    <cosponsor thomas_id="01255" joined="2013-01-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-03" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="177"/>
+    <bill type="h" session="113" relation="unknown" number="483"/>
+    <bill type="h" session="113" relation="unknown" number="1040"/>
+    <bill type="h" session="113" relation="unknown" number="2373"/>
+    <bill type="s" session="113" relation="identical" number="1402"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Transfer and inheritance taxes"/>
+  </subjects>
+  <amendments/>
+  <summary>1/3/2013--Introduced.
+Death Tax Repeal Act - Repeals the federal estate, gift, and generation-skipping transfer taxes.</summary>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="113" type="s" number="2536" updated="2014-08-14T14:06:26-04:00">
+  <state datetime="2014-06-26">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-26"/>
+  </status>
+  <introduced datetime="2014-06-26"/>
+  <titles>
+    <title type="short" as="introduced">SAVE Act</title>
+    <title type="short" as="introduced">Stop Advertising Victims of Exploitation Act of 2014</title>
+    <title type="official" as="introduced">A bill to amend title 18, United States Code, to provide for enhanced criminal and civil remedies in the protection of children and other victims of commercial sexual exploitation and related crimes.</title>
+  </titles>
+  <sponsor thomas_id="01647"/>
+  <cosponsors>
+    <cosponsor thomas_id="01332" joined="2014-06-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-26" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Business records"/>
+    <term name="Child safety and welfare"/>
+    <term name="Civil actions and liability"/>
+    <term name="Crime victims"/>
+    <term name="Crimes against children"/>
+    <term name="Department of Justice"/>
+    <term name="Domestic violence and child abuse"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Internet and video services"/>
+    <term name="Marketing and advertising"/>
+    <term name="Pornography"/>
+    <term name="Sex offenses"/>
+  </subjects>
+  <amendments/>
+</bill>

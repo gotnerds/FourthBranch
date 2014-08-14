@@ -1,0 +1,26 @@
+<bill session="113" type="h" number="5189" updated="2014-08-14T13:35:45-04:00">
+  <state datetime="2014-07-24">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-24"/>
+  </status>
+  <introduced datetime="2014-07-24"/>
+  <titles>
+    <title type="short" as="introduced">Energy and Water Research Integration Act of 2014</title>
+    <title type="official" as="introduced">To ensure consideration of water intensity in the Department of Energy's energy research, development, and demonstration programs to help guarantee efficient, reliable, and sustainable delivery of energy and clean water resources.</title>
+  </titles>
+  <sponsor thomas_id="00599"/>
+  <cosponsors>
+    <cosponsor thomas_id="00484" joined="2014-07-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-24" state="REFERRED">
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

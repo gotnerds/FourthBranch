@@ -1,0 +1,122 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-28", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5227-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "13", 
+      "name": "Davis, Rodney", 
+      "sponsored_at": "2014-07-30", 
+      "state": "IL", 
+      "thomas_id": "02126", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Kelly, Mike", 
+      "sponsored_at": "2014-08-01", 
+      "state": "PA", 
+      "thomas_id": "02051", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "Long, Billy", 
+      "sponsored_at": "2014-07-30", 
+      "state": "MO", 
+      "thomas_id": "02033", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Smith, Jason T.", 
+      "sponsored_at": "2014-08-01", 
+      "state": "MO", 
+      "thomas_id": "02191", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "10", 
+      "name": "Turner, Michael R.", 
+      "sponsored_at": "2014-07-28", 
+      "state": "OH", 
+      "thomas_id": "01741", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-07-28", 
+  "number": "5227", 
+  "official_title": "To enable hospital-based nursing programs that are affiliated with a hospital to maintain payments under the Medicare program to hospitals for the costs of such programs.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Making the Education of Nurses Dependable for Schools Act", 
+  "sponsor": {
+    "district": "18", 
+    "name": "Schock, Aaron", 
+    "state": "IL", 
+    "thomas_id": "01920", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-07-28", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Making the Education of Nurses Dependable for Schools Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "MEND Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To enable hospital-based nursing programs that are affiliated with a hospital to maintain payments under the Medicare program to hospitals for the costs of such programs.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T13:36:05-04:00"
+}

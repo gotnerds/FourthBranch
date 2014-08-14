@@ -1,0 +1,85 @@
+<bill session="113" type="h" number="2717" updated="2014-08-14T13:14:37-04:00">
+  <state datetime="2013-07-17">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-17"/>
+  </status>
+  <introduced datetime="2013-07-17"/>
+  <titles>
+    <title type="short" as="introduced">United States-Israel Missile Defense Cooperation Act of 2013</title>
+    <title type="official" as="introduced">To authorize further assistance to Israel for the Iron Dome anti-rocket defense system and authorization for cooperation on the David's Sling, Arrow, and Arrow 3 anti-missile defense systems.</title>
+  </titles>
+  <sponsor thomas_id="01848"/>
+  <cosponsors>
+    <cosponsor thomas_id="01858" joined="2013-07-22"/>
+    <cosponsor thomas_id="02135" joined="2013-08-02"/>
+    <cosponsor thomas_id="02155" joined="2013-07-31"/>
+    <cosponsor thomas_id="01882" joined="2013-07-31"/>
+    <cosponsor thomas_id="02121" joined="2013-07-31"/>
+    <cosponsor thomas_id="02098" joined="2013-07-30"/>
+    <cosponsor thomas_id="02126" joined="2013-07-18"/>
+    <cosponsor thomas_id="01641" joined="2013-07-22"/>
+    <cosponsor thomas_id="01799" joined="2013-07-30"/>
+    <cosponsor thomas_id="01976" joined="2013-07-17"/>
+    <cosponsor thomas_id="02057" joined="2014-01-13"/>
+    <cosponsor thomas_id="02119" joined="2013-07-31"/>
+    <cosponsor thomas_id="01707" joined="2013-08-01"/>
+    <cosponsor thomas_id="01487" joined="2013-07-31"/>
+    <cosponsor thomas_id="00462" joined="2014-05-07"/>
+    <cosponsor thomas_id="02070" joined="2013-07-31"/>
+    <cosponsor thomas_id="02041" joined="2013-07-18"/>
+    <cosponsor thomas_id="02010" joined="2013-09-17"/>
+    <cosponsor thomas_id="02044" joined="2013-10-11"/>
+    <cosponsor thomas_id="00512" joined="2013-11-18"/>
+    <cosponsor thomas_id="02143" joined="2013-07-18"/>
+    <cosponsor thomas_id="02046" joined="2013-07-22"/>
+    <cosponsor thomas_id="02154" joined="2013-07-30"/>
+    <cosponsor thomas_id="00635" joined="2013-07-18"/>
+    <cosponsor thomas_id="00636" joined="2013-07-30"/>
+    <cosponsor thomas_id="02014" joined="2013-12-02"/>
+    <cosponsor thomas_id="01733" joined="2013-07-22"/>
+    <cosponsor thomas_id="01834" joined="2013-07-18"/>
+    <cosponsor thomas_id="01936" joined="2013-07-22"/>
+    <cosponsor thomas_id="01885" joined="2013-07-31"/>
+    <cosponsor thomas_id="02033" joined="2013-07-24"/>
+    <cosponsor thomas_id="02034" joined="2013-07-24"/>
+    <cosponsor thomas_id="01955" joined="2013-08-02"/>
+    <cosponsor thomas_id="01738" joined="2013-07-25"/>
+    <cosponsor thomas_id="02022" joined="2013-07-25"/>
+    <cosponsor thomas_id="01778" joined="2013-07-18"/>
+    <cosponsor thomas_id="02118" joined="2013-09-09"/>
+    <cosponsor thomas_id="00944" joined="2013-09-28"/>
+    <cosponsor thomas_id="00985" joined="2013-09-09"/>
+    <cosponsor thomas_id="01009" joined="2013-08-01"/>
+    <cosponsor thomas_id="02124" joined="2013-07-22"/>
+    <cosponsor thomas_id="01920" joined="2013-07-18"/>
+    <cosponsor thomas_id="02191" joined="2013-09-25"/>
+    <cosponsor thomas_id="02047" joined="2013-07-18"/>
+    <cosponsor thomas_id="01664" joined="2013-07-22"/>
+    <cosponsor thomas_id="02112" joined="2013-09-25"/>
+    <cosponsor thomas_id="01777" joined="2013-09-18"/>
+    <cosponsor thomas_id="02161" joined="2013-07-18"/>
+    <cosponsor thomas_id="02152" joined="2014-01-09"/>
+    <cosponsor thomas_id="01779" joined="2013-07-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-17" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="1130"/>
+    <bill type="h" session="113" relation="unknown" number="2701"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Israel"/>
+    <term name="Middle East"/>
+    <term name="Military assistance, sales, and agreements"/>
+  </subjects>
+  <amendments/>
+  <summary>7/17/2013--Introduced.
+United States-Israel Missile Defense Cooperation Act of 2013 - Authorizes the President, acting through the Secretary of Defense (DOD) and the Secretary of State, to provide assistance, upon request of the Israeli government, for the procurement of the Iron Dome anti-rocket defense system, as well as authorization for cooperation on the development, maintenance, enhancement, and sustainment of the David's Sling, Arrow, and Arrow 3 anti-missile defense systems, for the purposes of intercepting rockets, missiles, and projectiles launched against Israel.</summary>
+</bill>

@@ -1,0 +1,24 @@
+<bill session="113" type="s" number="2751" updated="2014-08-14T14:08:14-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="short" as="introduced">Rural and Tribal Voter Rights Act</title>
+    <title type="official" as="introduced">A bill to provide payments to States for activities to expand early voting access, provide for an equitable distribution of early voting polling locations, including early voting polling locations on Indian tribal land, and to implement voter registration reforms for elections for Federal office, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02198"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Read twice and referred to the Committee on Rules and Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSRA" name="Senate Rules and Administration" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

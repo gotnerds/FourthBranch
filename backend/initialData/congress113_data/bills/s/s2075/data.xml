@@ -1,0 +1,45 @@
+<bill session="113" type="s" number="2075" updated="2014-08-14T14:02:35-04:00">
+  <state datetime="2014-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="2014-03-04"/>
+  </status>
+  <introduced datetime="2014-03-04"/>
+  <titles>
+    <title type="short" as="introduced">Military Commissary Sustainment Act</title>
+    <title type="official" as="introduced">A bill to prohibit a reduction in funding for the defense commissary system in fiscal year 2015 pending the report of the Military Compensation and Retirement Modernization Commission.</title>
+  </titles>
+  <sponsor thomas_id="01897"/>
+  <cosponsors>
+    <cosponsor thomas_id="01898" joined="2014-07-30"/>
+    <cosponsor thomas_id="01828" joined="2014-03-26"/>
+    <cosponsor thomas_id="00188" joined="2014-03-04"/>
+    <cosponsor thomas_id="00452" joined="2014-03-26"/>
+    <cosponsor thomas_id="01608" joined="2014-04-01"/>
+    <cosponsor thomas_id="01701" joined="2014-03-26"/>
+    <cosponsor thomas_id="02173" joined="2014-04-01"/>
+    <cosponsor thomas_id="01036" joined="2014-04-28"/>
+    <cosponsor thomas_id="02056" joined="2014-03-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-03-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSAS" name="Senate Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="4217"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Defense spending"/>
+    <term name="Department of Defense"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Military facilities and property"/>
+    <term name="Retail and wholesale trades"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/2014--Introduced.
+Military Commissary Sustainment Act - Prohibits reducing the monthly amount of funds made available by the Department of Defense (DOD) for the defense commissary system during FY2015 below the average monthly amount made available during FY2014 until the date of the report of the Military Compensation and Retirement Modernization Commission.</summary>
+</bill>

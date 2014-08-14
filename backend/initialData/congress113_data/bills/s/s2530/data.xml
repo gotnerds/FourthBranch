@@ -1,0 +1,36 @@
+<bill session="113" type="s" number="2530" updated="2014-08-14T14:06:23-04:00">
+  <state datetime="2014-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-25"/>
+  </status>
+  <introduced datetime="2014-06-25"/>
+  <titles>
+    <title type="short" as="introduced">PLAQ Act of 2014</title>
+    <title type="short" as="introduced">Protecting Lakes Against Quaggas Act of 2014</title>
+    <title type="official" as="introduced">A bill to amend title 18, United States Code, to prohibit the importation or exportation of mussels of certain genus, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01863"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-06-25" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <action datetime="2014-07-16">
+      <text>Committee on Environment and Public Works Subcommittee on Water and Wildlife. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+    <committee subcommittee="Water and Wildlife" code="SSEV15" name="Senate Environment and Public Works" activity="Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="1823"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Aquatic ecology"/>
+    <term name="Lakes and rivers"/>
+    <term name="Trade restrictions"/>
+  </subjects>
+  <amendments/>
+</bill>

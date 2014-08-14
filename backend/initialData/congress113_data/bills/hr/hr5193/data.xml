@@ -1,0 +1,29 @@
+<bill session="113" type="h" number="5193" updated="2014-08-14T13:35:48-04:00">
+  <state datetime="2014-07-24">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-24"/>
+  </status>
+  <introduced datetime="2014-07-24"/>
+  <titles>
+    <title type="short" as="introduced">Veterans' Credit Protection Act</title>
+    <title type="official" as="introduced">To direct the Secretary of Veterans Affairs to conduct outreach to veterans regarding the effect of delayed payments by the Veterans Integrated Service Networks and to direct the Secretary to submit to Congress an annual report regarding such delayed payments.</title>
+  </titles>
+  <sponsor thomas_id="01787"/>
+  <cosponsors>
+    <cosponsor thomas_id="01925" joined="2014-07-24"/>
+    <cosponsor thomas_id="02195" joined="2014-07-24"/>
+    <cosponsor thomas_id="02023" joined="2014-07-24"/>
+    <cosponsor thomas_id="01892" joined="2014-07-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-24" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,29 @@
+<bill session="113" type="h" number="5200" updated="2014-08-14T13:35:51-04:00">
+  <state datetime="2014-07-24">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-24"/>
+  </status>
+  <introduced datetime="2014-07-24"/>
+  <titles>
+    <title type="short" as="introduced">Care Coordination for Older Americans Act of 2014</title>
+    <title type="official" as="introduced">To amend the Older Americans Act of 1965 to define care coordination, include care coordination as a fully restorative service, and detail the care coordination functions of the Assistant Secretary, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01798"/>
+  <cosponsors>
+    <cosponsor thomas_id="01976" joined="2014-07-24"/>
+    <cosponsor thomas_id="01914" joined="2014-07-24"/>
+    <cosponsor thomas_id="01814" joined="2014-07-25"/>
+    <cosponsor thomas_id="00997" joined="2014-07-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-24" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

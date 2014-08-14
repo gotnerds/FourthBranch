@@ -1,0 +1,95 @@
+<bill session="113" type="hr" number="153" updated="2014-08-14T12:45:56-04:00">
+  <state datetime="2013-04-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-12"/>
+  </status>
+  <introduced datetime="2013-04-12"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the House of Representatives that the Patient Protection and Affordable Care Act of 2009 violates article I, section 7, clause 1 of the United States Constitution because it was a "Bill for raising Revenue'' that did not originate in the House of Representatives.</title>
+  </titles>
+  <sponsor thomas_id="01707"/>
+  <cosponsors>
+    <cosponsor thomas_id="01858" joined="2013-04-12"/>
+    <cosponsor thomas_id="00062" joined="2013-07-31"/>
+    <cosponsor thomas_id="02135" joined="2013-10-02"/>
+    <cosponsor thomas_id="01753" joined="2014-02-03"/>
+    <cosponsor thomas_id="01748" joined="2013-07-31"/>
+    <cosponsor thomas_id="01703" joined="2013-04-12"/>
+    <cosponsor thomas_id="02155" joined="2013-10-02"/>
+    <cosponsor thomas_id="01987" joined="2013-10-07"/>
+    <cosponsor thomas_id="01816" joined="2013-04-12"/>
+    <cosponsor thomas_id="01752" joined="2013-04-12"/>
+    <cosponsor thomas_id="00186" joined="2013-11-13"/>
+    <cosponsor thomas_id="00211" joined="2013-04-12"/>
+    <cosponsor thomas_id="01805" joined="2013-10-02"/>
+    <cosponsor thomas_id="02103" joined="2014-05-22"/>
+    <cosponsor thomas_id="02116" joined="2013-09-27"/>
+    <cosponsor thomas_id="02057" joined="2013-07-31"/>
+    <cosponsor thomas_id="00322" joined="2013-10-07"/>
+    <cosponsor thomas_id="01924" joined="2013-04-12"/>
+    <cosponsor thomas_id="01737" joined="2013-04-12"/>
+    <cosponsor thomas_id="02049" joined="2013-10-07"/>
+    <cosponsor thomas_id="01801" joined="2013-04-12"/>
+    <cosponsor thomas_id="02070" joined="2014-05-30"/>
+    <cosponsor thomas_id="02026" joined="2013-10-02"/>
+    <cosponsor thomas_id="02020" joined="2013-10-02"/>
+    <cosponsor thomas_id="01640" joined="2013-04-12"/>
+    <cosponsor thomas_id="00603" joined="2013-04-12"/>
+    <cosponsor thomas_id="00612" joined="2013-10-30"/>
+    <cosponsor thomas_id="01868" joined="2014-05-21"/>
+    <cosponsor thomas_id="01724" joined="2013-10-02"/>
+    <cosponsor thomas_id="02011" joined="2013-04-25"/>
+    <cosponsor thomas_id="02100" joined="2013-07-31"/>
+    <cosponsor thomas_id="01834" joined="2013-07-31"/>
+    <cosponsor thomas_id="01885" joined="2014-01-09"/>
+    <cosponsor thomas_id="02094" joined="2013-08-01"/>
+    <cosponsor thomas_id="01908" joined="2013-04-12"/>
+    <cosponsor thomas_id="02142" joined="2013-10-02"/>
+    <cosponsor thomas_id="01685" joined="2014-06-25"/>
+    <cosponsor thomas_id="02156" joined="2013-11-14"/>
+    <cosponsor thomas_id="01758" joined="2013-10-02"/>
+    <cosponsor thomas_id="01738" joined="2013-07-31"/>
+    <cosponsor thomas_id="02141" joined="2013-07-31"/>
+    <cosponsor thomas_id="01514" joined="2013-04-12"/>
+    <cosponsor thomas_id="01915" joined="2013-12-03"/>
+    <cosponsor thomas_id="02118" joined="2013-10-08"/>
+    <cosponsor thomas_id="01954" joined="2013-10-02"/>
+    <cosponsor thomas_id="02017" joined="2013-10-02"/>
+    <cosponsor thomas_id="01009" joined="2013-04-12"/>
+    <cosponsor thomas_id="01012" joined="2013-07-31"/>
+    <cosponsor thomas_id="01994" joined="2013-04-12"/>
+    <cosponsor thomas_id="01527" joined="2013-04-12"/>
+    <cosponsor thomas_id="01071" joined="2013-04-12"/>
+    <cosponsor thomas_id="01114" joined="2013-04-12"/>
+    <cosponsor thomas_id="01981" joined="2013-10-02"/>
+    <cosponsor thomas_id="01566" joined="2013-10-07"/>
+    <cosponsor thomas_id="01855" joined="2013-10-02"/>
+    <cosponsor thomas_id="02161" joined="2013-07-31"/>
+    <cosponsor thomas_id="02152" joined="2013-10-02"/>
+    <cosponsor thomas_id="01779" joined="2013-04-12"/>
+    <cosponsor thomas_id="02165" joined="2013-04-12"/>
+    <cosponsor thomas_id="02115" joined="2013-10-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-12" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Comprehensive health care"/>
+    <term name="Constitution and constitutional amendments"/>
+    <term name="General taxation matters"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="House of Representatives"/>
+    <term name="Legislative rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>4/12/2013--Introduced.
+Expresses the sense of the House of Representatives that the Patient Protection and Affordable Care Act of 2009: (1) was a "bill for raising revenue" as those words were intended to be understood in article I, section 7, clause 1 of the Constitution; and (2) did not originate in the House of Representatives.</summary>
+</bill>

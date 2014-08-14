@@ -1,0 +1,152 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-08-02", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-08-12", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Public Lands and Environmental Regulation.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-03-25", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-30", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Public Lands and Environmental Regulation Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-30", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-30", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Unanimous Consent.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3006-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "discharged"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Public Lands and Environmental Regulation", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "4", 
+      "name": "Gosar, Paul A.", 
+      "sponsored_at": "2013-08-02", 
+      "state": "AZ", 
+      "thomas_id": "01992", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Grijalva, Raul M.", 
+      "sponsored_at": "2013-08-02", 
+      "state": "AZ", 
+      "thomas_id": "01708", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "36", 
+      "name": "Ruiz, Raul", 
+      "sponsored_at": "2013-08-02", 
+      "state": "CA", 
+      "thomas_id": "02109", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-03-25", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-08-02", 
+  "number": "3006", 
+  "official_title": "To authorize a land exchange involving the acquisition of private land adjacent to the Cibola National Wildlife Refuge in Arizona for inclusion in the refuge in exchange for certain Bureau of Land Management lands in Riverside County, California, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "42", 
+    "name": "Calvert, Ken", 
+    "state": "CA", 
+    "thomas_id": "00165", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2014-07-30", 
+  "subjects": [
+    "Arizona", 
+    "California", 
+    "Land transfers", 
+    "Public lands and natural resources", 
+    "Wilderness and natural areas, wildlife refuges, wild rivers, habitats"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2013-08-02", 
+    "text": "Directs the Secretary of the Interior to convey to River Bottom Farms of La Paz County, Arizona, specified Bureau of Land Management (BLM) land in Riverside County, California, in exchange for two specified parcels of non-federal land in the county from River Bottoms Farms that are contiguous to the Cibola National Wildlife Refuge.\n\nSubjects the conveyed federal land to valid existing rights, including easements, rights-of-way, utility lines, and any other valid encumbrances on the such land as of the date of conveyance.\n\nRequires the values of the federal and non-federal lands to be exchanged to be equal, or equalized, by a cash payment to the Secretary or River Bottom Farms, as appropriate.\n\nRequires the acquired non-federal land to become a part of the Cibola National Wildlife Refuge."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To authorize a land exchange involving the acquisition of private land adjacent to the Cibola National Wildlife Refuge in Arizona for inclusion in the refuge in exchange for certain Bureau of Land Management lands in Riverside County, California, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T13:17:05-04:00"
+}

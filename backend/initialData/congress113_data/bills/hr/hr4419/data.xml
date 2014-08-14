@@ -1,0 +1,66 @@
+<bill session="113" type="h" number="4419" updated="2014-08-14T13:29:05-04:00">
+  <state datetime="2014-04-08">REFERRED</state>
+  <status>
+    <introduced datetime="2014-04-08"/>
+  </status>
+  <introduced datetime="2014-04-08"/>
+  <titles>
+    <title type="short" as="introduced">Sage-Grouse and Endangered Species Conservation and Protection Act</title>
+    <title type="official" as="introduced">To amend the Endangered Species Act of 1973 to require periodic review of listings of endangered species and threatened species under that Act, to support protection and conservation measures for endangered or threatened species under that Act and to alleviate the need to list a species as an endangered or threatened species, to convey small parcels of National Forest System land and Department of the Interior land to generate revenues for such protection and conservation measures, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02090"/>
+  <cosponsors>
+    <cosponsor thomas_id="02103" joined="2014-05-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-04-08" state="REFERRED">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committees on Agriculture, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-04-08">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2014-04-08">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2014-04-08">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2014-04-22">
+      <text>Referred to the Subcommittee on Conservation, Energy, and Forestry.</text>
+    </action>
+    <action datetime="2014-06-09">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="" code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee subcommittee="Conservation, Energy, and Forestry" code="HSAG15" name="House Agriculture" activity="Referral"/>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Constitution and Civil Justice" code="HSJU10" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Animals"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Department of Agriculture"/>
+    <term name="Department of the Interior"/>
+    <term name="Endangered and threatened species"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="General public lands matters"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Government trust funds"/>
+    <term name="Historical and cultural resources"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Land transfers"/>
+    <term name="Land use and conservation"/>
+    <term name="Pest management"/>
+    <term name="Property rights"/>
+    <term name="State and local finance"/>
+    <term name="State and local government operations"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+</bill>

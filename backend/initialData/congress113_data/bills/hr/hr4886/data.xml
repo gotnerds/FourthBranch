@@ -1,0 +1,64 @@
+<bill session="113" type="h" number="4886" updated="2014-08-14T13:33:08-04:00">
+  <state datetime="2014-06-18">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-18"/>
+  </status>
+  <introduced datetime="2014-06-18"/>
+  <titles>
+    <title type="short" as="introduced">National Forest System Trails Stewardship Act of 2014</title>
+    <title type="official" as="introduced">To direct the Secretary of Agriculture to publish in the Federal Register a strategy to significantly increase the role of volunteers and partners in National Forest System trail maintenance, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01960"/>
+  <cosponsors>
+    <cosponsor thomas_id="01970" joined="2014-07-30"/>
+    <cosponsor thomas_id="01989" joined="2014-07-15"/>
+    <cosponsor thomas_id="02138" joined="2014-07-31"/>
+    <cosponsor thomas_id="00279" joined="2014-07-30"/>
+    <cosponsor thomas_id="02096" joined="2014-07-11"/>
+    <cosponsor thomas_id="00446" joined="2014-07-30"/>
+    <cosponsor thomas_id="01979" joined="2014-07-11"/>
+    <cosponsor thomas_id="01908" joined="2014-07-25"/>
+    <cosponsor thomas_id="01505" joined="2014-07-15"/>
+    <cosponsor thomas_id="01832" joined="2014-07-24"/>
+    <cosponsor thomas_id="01602" joined="2014-08-01"/>
+    <cosponsor thomas_id="00867" joined="2014-07-30"/>
+    <cosponsor thomas_id="01738" joined="2014-07-24"/>
+    <cosponsor thomas_id="00910" joined="2014-07-30"/>
+    <cosponsor thomas_id="02073" joined="2014-07-24"/>
+    <cosponsor thomas_id="02168" joined="2014-07-25"/>
+    <cosponsor thomas_id="01856" joined="2014-06-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-18" state="REFERRED">
+      <text>Referred to the Committee on Agriculture, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-06-18">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2014-06-18">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2014-06-24">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+    </action>
+    <action datetime="2014-07-07">
+      <text>Referred to the Subcommittee on Conservation, Energy, and Forestry.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee subcommittee="Conservation, Energy, and Forestry" code="HSAG15" name="House Agriculture" activity="Referral"/>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Public Lands and Environmental Regulation" code="HSII10" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Licensing and registrations"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+</bill>

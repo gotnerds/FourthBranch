@@ -1,0 +1,126 @@
+<bill session="113" type="h" number="3555" updated="2014-08-14T13:21:50-04:00">
+  <state datetime="2013-11-20">REFERRED</state>
+  <status>
+    <introduced datetime="2013-11-20"/>
+  </status>
+  <introduced datetime="2013-11-20"/>
+  <titles>
+    <title type="short" as="introduced">Improper Payments Agency Cooperation Enhancement Act of 2013</title>
+    <title type="official" as="introduced">To amend the Improper Payments Elimination and Recovery Improvement Act of 2012, including making changes to the Do Not Pay initiative, for improved detection, prevention, and recovery of improper payments to deceased individuals, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02127"/>
+  <cosponsors>
+    <cosponsor thomas_id="02093" joined="2013-11-20"/>
+    <cosponsor thomas_id="01780" joined="2013-11-20"/>
+    <cosponsor thomas_id="00091" joined="2014-01-29"/>
+    <cosponsor thomas_id="01845" joined="2013-11-20"/>
+    <cosponsor thomas_id="02106" joined="2013-11-20"/>
+    <cosponsor thomas_id="01999" joined="2013-11-20"/>
+    <cosponsor thomas_id="01889" joined="2013-11-20"/>
+    <cosponsor thomas_id="01752" joined="2014-07-30"/>
+    <cosponsor thomas_id="01654" joined="2013-11-20"/>
+    <cosponsor thomas_id="01790" joined="2013-11-20"/>
+    <cosponsor thomas_id="01878" joined="2013-11-20"/>
+    <cosponsor thomas_id="01959" joined="2013-11-20"/>
+    <cosponsor thomas_id="00231" joined="2013-11-20"/>
+    <cosponsor thomas_id="01774" joined="2014-01-29"/>
+    <cosponsor thomas_id="01807" joined="2014-01-29"/>
+    <cosponsor thomas_id="00256" joined="2013-11-20"/>
+    <cosponsor thomas_id="02126" joined="2013-11-20"/>
+    <cosponsor thomas_id="01479" joined="2013-11-20"/>
+    <cosponsor thomas_id="02133" joined="2013-11-20"/>
+    <cosponsor thomas_id="01799" joined="2013-11-21"/>
+    <cosponsor thomas_id="01976" joined="2013-12-16"/>
+    <cosponsor thomas_id="00299" joined="2013-11-20"/>
+    <cosponsor thomas_id="02123" joined="2013-11-20"/>
+    <cosponsor thomas_id="02125" joined="2013-11-20"/>
+    <cosponsor thomas_id="01797" joined="2013-11-20"/>
+    <cosponsor thomas_id="01793" joined="2013-11-20"/>
+    <cosponsor thomas_id="02119" joined="2013-11-20"/>
+    <cosponsor thomas_id="02164" joined="2014-01-29"/>
+    <cosponsor thomas_id="01973" joined="2013-11-22"/>
+    <cosponsor thomas_id="02043" joined="2013-11-20"/>
+    <cosponsor thomas_id="00511" joined="2013-11-20"/>
+    <cosponsor thomas_id="01913" joined="2013-11-20"/>
+    <cosponsor thomas_id="01580" joined="2013-11-20"/>
+    <cosponsor thomas_id="01634" joined="2013-11-20"/>
+    <cosponsor thomas_id="02101" joined="2013-12-09"/>
+    <cosponsor thomas_id="02190" joined="2013-11-20"/>
+    <cosponsor thomas_id="01498" joined="2013-11-20"/>
+    <cosponsor thomas_id="01907" joined="2013-11-20"/>
+    <cosponsor thomas_id="02145" joined="2013-11-20"/>
+    <cosponsor thomas_id="01781" joined="2013-11-20"/>
+    <cosponsor thomas_id="01846" joined="2013-11-20"/>
+    <cosponsor thomas_id="02111" joined="2013-11-20"/>
+    <cosponsor thomas_id="02146" joined="2013-11-20"/>
+    <cosponsor thomas_id="01943" joined="2013-11-20"/>
+    <cosponsor thomas_id="01671" joined="2013-11-20"/>
+    <cosponsor thomas_id="01505" joined="2014-01-29"/>
+    <cosponsor thomas_id="02148" joined="2013-11-20"/>
+    <cosponsor thomas_id="01730" joined="2014-02-04"/>
+    <cosponsor thomas_id="01811" joined="2013-11-21"/>
+    <cosponsor thomas_id="00832" joined="2013-11-20"/>
+    <cosponsor thomas_id="02117" joined="2013-11-20"/>
+    <cosponsor thomas_id="00867" joined="2013-11-21"/>
+    <cosponsor thomas_id="01974" joined="2013-11-20"/>
+    <cosponsor thomas_id="01835" joined="2013-11-20"/>
+    <cosponsor thomas_id="01929" joined="2013-11-20"/>
+    <cosponsor thomas_id="02113" joined="2013-11-20"/>
+    <cosponsor thomas_id="01967" joined="2013-11-20"/>
+    <cosponsor thomas_id="02073" joined="2013-11-20"/>
+    <cosponsor thomas_id="02109" joined="2013-11-20"/>
+    <cosponsor thomas_id="01003" joined="2013-11-20"/>
+    <cosponsor thomas_id="01950" joined="2013-11-20"/>
+    <cosponsor thomas_id="01798" joined="2013-11-20"/>
+    <cosponsor thomas_id="01527" joined="2013-11-20"/>
+    <cosponsor thomas_id="02099" joined="2013-11-20"/>
+    <cosponsor thomas_id="01940" joined="2013-11-20"/>
+    <cosponsor thomas_id="01856" joined="2013-11-20"/>
+    <cosponsor thomas_id="01879" joined="2013-11-20"/>
+    <cosponsor thomas_id="01853" joined="2013-11-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-11-20" state="REFERRED">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-11-20">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2013-11-20">
+      <text>Referred to House Ways and Means</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="1360"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Accounting and auditing"/>
+    <term name="Census and government statistics"/>
+    <term name="Congressional oversight"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Health information and medical records"/>
+    <term name="Postal service"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Social security and elderly assistance"/>
+    <term name="State and local finance"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>11/20/2013--Introduced.
+Improper Payments Agency Cooperation Enhancement Act of 2013 - Amends the Improper Payments Elimination and Recovery Improvement Act of 2012 to require the Commissioner of the Social Security Administration (SSA) to: (1) establish and maintain the National Deaths Registry to provide information relating to the deaths of individuals for the purpose of supporting the Do Not Pay Initiative and otherwise preventing, identifying, or recovering improper payments; (2) enter into cooperative agreements with federal agencies, including Inspectors General, and states, local and tribal governments to provide information in the Registry to such agencies and entities to prevent and recover improper payments; and (3) implement procedures for identifying and correcting errors in the Registry.
+
+Directs the Director of the Office of Management and Budget (OMB) to identify each agency that operates or maintains a database relating to federal beneficiaries and annuity recipients. Requires each agency to establish: (1) a data matching procedure to compare agency information with information in the Registry, and (2) a procedure for prompt reporting to the Commissioner of information relating to the death of a recipient of federal benefits or a retirement annuity.
+
+Directs the Secretary of the Treasury to report to Congress on data analytics performed as part of the Do Not Pay Initiative and the metrics used in determining whether the analytic and investigatory efforts have reduced improper payments or awards.
+
+Directs OMB to convene a task force of agencies to: (1) identify ways to improve the sharing of information relating to deaths of individuals receiving a federal retirement annuity, (2) share best practices for identifying deceased annuitants, and (3) report to Congress on such efforts.
+
+Requires the U.S. Postal Service (USPS) to provide agencies access to information on delivery addresses, including Commercial Mail Receiving Agency lists of known locations of commercial mail boxes, for purposes of improved detection, prevention, and recovery of improper payments.</summary>
+</bill>

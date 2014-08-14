@@ -1,0 +1,60 @@
+<bill session="113" type="h" number="3330" updated="2014-08-14T13:19:50-04:00">
+  <state datetime="2013-10-23">REFERRED</state>
+  <status>
+    <introduced datetime="2013-10-23"/>
+  </status>
+  <introduced datetime="2013-10-23"/>
+  <titles>
+    <title type="short" as="introduced">Veterans' Independent Living Enhancement Act</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to repeal the limitation on the number of veterans authorized to be enrolled in programs of independent living services and assistance administered by the Secretary of Veterans Affairs.</title>
+  </titles>
+  <sponsor thomas_id="02146"/>
+  <cosponsors>
+    <cosponsor thomas_id="02106" joined="2013-11-15"/>
+    <cosponsor thomas_id="02159" joined="2013-10-23"/>
+    <cosponsor thomas_id="02055" joined="2014-05-07"/>
+    <cosponsor thomas_id="02125" joined="2013-10-23"/>
+    <cosponsor thomas_id="00371" joined="2014-03-04"/>
+    <cosponsor thomas_id="00511" joined="2013-10-23"/>
+    <cosponsor thomas_id="02147" joined="2013-10-23"/>
+    <cosponsor thomas_id="01663" joined="2013-11-15"/>
+    <cosponsor thomas_id="00588" joined="2013-10-23"/>
+    <cosponsor thomas_id="02149" joined="2013-10-23"/>
+    <cosponsor thomas_id="01907" joined="2013-12-10"/>
+    <cosponsor thomas_id="02145" joined="2013-10-23"/>
+    <cosponsor thomas_id="01939" joined="2013-10-23"/>
+    <cosponsor thomas_id="01504" joined="2013-10-23"/>
+    <cosponsor thomas_id="02108" joined="2013-10-23"/>
+    <cosponsor thomas_id="02162" joined="2013-10-23"/>
+    <cosponsor thomas_id="02073" joined="2013-10-23"/>
+    <cosponsor thomas_id="01635" joined="2013-10-23"/>
+    <cosponsor thomas_id="01037" joined="2013-10-23"/>
+    <cosponsor thomas_id="02099" joined="2013-11-15"/>
+    <cosponsor thomas_id="01884" joined="2013-10-23"/>
+    <cosponsor thomas_id="02021" joined="2013-10-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-10-23" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-10-28">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+    </action>
+    <action datetime="2013-11-14">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H7081"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Economic Opportunity" code="HSVR10" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+  </subjects>
+  <amendments/>
+  <summary>10/23/2013--Introduced.
+Veterans' Independent Living Enhancement Act - Repeals provisions that: (1) prohibit the initiation of Department of Veterans Affairs (VA) programs providing independent living services and assistance for greater than 2,700 veterans in each fiscal year; and (2) require giving first priority under such programs to veterans for whom the reasonable feasibility of achieving a vocational goal is precluded solely as a result of disability.</summary>
+</bill>

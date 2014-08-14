@@ -1,0 +1,35 @@
+<bill session="113" type="h" number="5049" updated="2014-08-14T13:34:35-04:00">
+  <state datetime="2014-07-09">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-09"/>
+  </status>
+  <introduced datetime="2014-07-09"/>
+  <titles>
+    <title type="short" as="introduced">Blackfoot River Land Exchange Act of 2014</title>
+    <title type="official" as="introduced">To exchange trust and fee land to resolve land disputes created by the realignment of the Blackfoot River along the boundary of the Fort Hall Indian Reservation, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01590"/>
+  <cosponsors>
+    <cosponsor thomas_id="01653" joined="2014-07-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-09" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2014-07-14">
+      <text>Referred to the Subcommittee Indian and Alaska Native Affairs.</text>
+    </action>
+    <action datetime="2014-07-29">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Indian and Alaska Native Affairs" code="HSII24" name="House Natural Resources" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="2040"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,57 @@
+<bill session="113" type="h" number="5120" updated="2014-08-14T13:35:10-04:00">
+  <state datetime="2014-07-22T16:07:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-07-22T16:07:00-04:00"/>
+  </status>
+  <introduced datetime="2014-07-16"/>
+  <titles>
+    <title type="short" as="introduced">Department of Energy Laboratory Modernization and Technology Transfer Act of 2014</title>
+    <title type="short" as="passed house">Department of Energy Laboratory Modernization and Technology Transfer Act of 2014</title>
+    <title type="official" as="introduced">To improve management of the National Laboratories, enhance technology commercialization, facilitate public-private partnerships, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02015"/>
+  <cosponsors>
+    <cosponsor thomas_id="00371" joined="2014-07-16"/>
+    <cosponsor thomas_id="00599" joined="2014-07-16"/>
+    <cosponsor thomas_id="02169" joined="2014-07-16"/>
+    <cosponsor thomas_id="01781" joined="2014-07-18"/>
+    <cosponsor thomas_id="01939" joined="2014-07-22"/>
+    <cosponsor thomas_id="01960" joined="2014-07-16"/>
+    <cosponsor thomas_id="02034" joined="2014-07-16"/>
+    <cosponsor thomas_id="01075" joined="2014-07-16"/>
+    <cosponsor thomas_id="02104" joined="2014-07-16"/>
+    <cosponsor thomas_id="02166" joined="2014-07-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-16" state="REFERRED">
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="2014-07-22T15:59:00-04:00">
+      <text>Mr. Hultgren moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2014-07-22T15:59:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6601-6604" label="consideration"/>
+    </action>
+    <action datetime="2014-07-22T15:59:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5120.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-07-22T16:07:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H6601-6603" label="text"/>
+    </vote>
+    <action datetime="2014-07-22T16:07:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-07-23">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+    <committee subcommittee="" code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

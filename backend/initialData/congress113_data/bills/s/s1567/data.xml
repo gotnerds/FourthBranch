@@ -1,0 +1,67 @@
+<bill session="113" type="s" number="1567" updated="2014-08-14T13:58:15-04:00">
+  <state datetime="2013-10-01">REFERRED</state>
+  <status>
+    <introduced datetime="2013-10-01"/>
+  </status>
+  <introduced datetime="2013-10-01"/>
+  <titles>
+    <title type="short" as="introduced">Federal Employee Retroactive Pay Fairness Act</title>
+    <title type="official" as="introduced">A bill to provide for the compensation of furloughed Federal employees.</title>
+  </titles>
+  <sponsor thomas_id="00174"/>
+  <cosponsors>
+    <cosponsor thomas_id="01558" joined="2013-10-04"/>
+    <cosponsor thomas_id="00066" joined="2013-10-02"/>
+    <cosponsor thomas_id="01898" joined="2013-10-04"/>
+    <cosponsor thomas_id="00116" joined="2013-10-01"/>
+    <cosponsor thomas_id="00136" joined="2013-10-01"/>
+    <cosponsor thomas_id="00172" joined="2013-10-03"/>
+    <cosponsor thomas_id="00179" joined="2013-10-01"/>
+    <cosponsor thomas_id="01828" joined="2013-10-02"/>
+    <cosponsor thomas_id="01541" joined="2013-10-05"/>
+    <cosponsor thomas_id="01332" joined="2013-10-01"/>
+    <cosponsor thomas_id="01969" joined="2013-10-05"/>
+    <cosponsor thomas_id="01866" joined="2013-10-03"/>
+    <cosponsor thomas_id="00501" joined="2013-10-01"/>
+    <cosponsor thomas_id="01937" joined="2013-10-01"/>
+    <cosponsor thomas_id="01844" joined="2013-10-01"/>
+    <cosponsor thomas_id="02176" joined="2013-10-01"/>
+    <cosponsor thomas_id="01383" joined="2013-10-01"/>
+    <cosponsor thomas_id="00735" joined="2013-10-04"/>
+    <cosponsor thomas_id="00802" joined="2013-10-01"/>
+    <cosponsor thomas_id="00859" joined="2013-10-04"/>
+    <cosponsor thomas_id="01010" joined="2013-10-01"/>
+    <cosponsor thomas_id="02173" joined="2013-10-03"/>
+    <cosponsor thomas_id="01036" joined="2013-10-01"/>
+    <cosponsor thomas_id="01901" joined="2013-10-03"/>
+    <cosponsor thomas_id="01567" joined="2013-10-01"/>
+    <cosponsor thomas_id="01897" joined="2013-10-01"/>
+    <cosponsor thomas_id="01823" joined="2013-10-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-10-01">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S7101-7102"/>
+    </action>
+    <action datetime="2013-10-01" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="3223"/>
+    <bill type="h" session="113" relation="unknown" number="3235"/>
+    <bill type="h" session="113" relation="unknown" number="3744"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Appropriations"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+  </subjects>
+  <amendments/>
+  <summary>10/1/2013--Introduced.
+Federal Employee Retroactive Pay Fairness Act - Provides for compensation of federal employees furloughed due to any lapse in appropriations that begins on or about October 1, 2013, for the period of such lapse in appropriations.</summary>
+</bill>

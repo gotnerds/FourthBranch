@@ -1,0 +1,25 @@
+<bill session="113" type="s" number="2582" updated="2014-08-14T14:06:49-04:00">
+  <state datetime="2014-07-10">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-10"/>
+  </status>
+  <introduced datetime="2014-07-10"/>
+  <titles>
+    <title type="short" as="introduced">ADAPT Act</title>
+    <title type="short" as="introduced">American Diversification and Progress in Trade Act of 2014</title>
+    <title type="official" as="introduced">A bill to establish a pilot program to assist in expanding and diversifying the business of small business concerns that rely on amounts awarded for Federal contracts and subcontracts.</title>
+  </titles>
+  <sponsor thomas_id="01567"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-10" state="REFERRED">
+      <text>Read twice and referred to the Committee on Small Business and Entrepreneurship.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSSB" name="Senate Small Business and Entrepreneurship" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

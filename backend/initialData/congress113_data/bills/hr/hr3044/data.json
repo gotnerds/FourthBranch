@@ -1,0 +1,177 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-08-02", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Transportation and Infrastructure.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-08-05", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Water Resources and Environment.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-07-16", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Water Resources and Environment Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-16", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-16", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-07-24T10:39:00-04:00", 
+      "committees": [
+        "HSPW"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-553.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-24T10:39:00-04:00", 
+      "calendar": "Union", 
+      "number": "413", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 413.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr3044-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "discharged"
+      ], 
+      "committee": "House Transportation and Infrastructure", 
+      "committee_id": "HSPW", 
+      "subcommittee": "Subcommittee on Water Resources and Environment", 
+      "subcommittee_id": "02"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "3", 
+      "name": "Harper, Gregg", 
+      "sponsored_at": "2013-08-02", 
+      "state": "MS", 
+      "thomas_id": "01933", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Palazzo, Steven M.", 
+      "sponsored_at": "2013-08-02", 
+      "state": "MS", 
+      "thomas_id": "02035", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Thompson, Bennie G.", 
+      "sponsored_at": "2013-08-02", 
+      "state": "MS", 
+      "thomas_id": "01151", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-07-16", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-08-02", 
+  "number": "3044", 
+  "official_title": "To approve the transfer of Yellow Creek Port properties in Iuka, Mississippi.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s212-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s212-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s212-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "1", 
+    "name": "Nunnelee, Alan", 
+    "state": "MS", 
+    "thomas_id": "02034", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2014-07-16", 
+  "subjects": [
+    "Land transfers", 
+    "Mississippi", 
+    "Navigation, waterways, harbors", 
+    "Public lands and natural resources"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2013-08-02", 
+    "text": "Approves the conveyance by the Tennessee Valley Authority (TVA) to the state of Mississippi of the federally-owned Yellow Creek Port properties in the custody of the TVA at Iuka, Mississippi."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To approve the transfer of Yellow Creek Port properties in Iuka, Mississippi.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T13:17:26-04:00"
+}

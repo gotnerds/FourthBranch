@@ -1,0 +1,35 @@
+<bill session="113" type="h" number="4889" updated="2014-08-14T13:33:10-04:00">
+  <state datetime="2014-06-18">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-18"/>
+  </status>
+  <introduced datetime="2014-06-18"/>
+  <titles>
+    <title type="short" as="introduced">Clean and Efficient Public Safety Vehicles Act of 2014</title>
+    <title type="official" as="introduced">To amend title 23, United States Code, to require States to dedicate 5 percent of certain funds to projects that reduce emission to public safety vehicles, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01878"/>
+  <cosponsors>
+    <cosponsor thomas_id="01970" joined="2014-06-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-18" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2014-06-19">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Highways and Transit" code="HSPW12" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Air quality"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Hybrid, electric, and advanced technology vehicles"/>
+  </subjects>
+  <amendments/>
+</bill>

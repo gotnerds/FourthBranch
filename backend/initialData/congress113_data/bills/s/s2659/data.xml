@@ -1,0 +1,30 @@
+<bill session="113" type="s" number="2659" updated="2014-08-14T14:07:28-04:00">
+  <state datetime="2014-07-24">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-24"/>
+  </status>
+  <introduced datetime="2014-07-24"/>
+  <titles>
+    <title type="short" as="introduced">Honor Flight Act</title>
+    <title type="official" as="introduced">A bill to amend title 49, United States Code, to require the Assistant Secretary of Homeland Security (Transportation Security Administration) to establish a process for providing expedited and dignified passenger screening services for veterans traveling to visit war memorials built and dedicated to honor their services, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01837"/>
+  <cosponsors>
+    <cosponsor thomas_id="02076" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-24" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+    <committee subcommittee="" code="HSHM" name="House Homeland Security" activity="Other Legislative Involvement"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="4812"/>
+    <bill type="s" session="113" relation="identical" number="2671"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

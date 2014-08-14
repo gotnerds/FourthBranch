@@ -1,0 +1,125 @@
+<bill session="113" type="hj" number="50" updated="2014-08-14T13:37:59-04:00">
+  <state datetime="2013-06-18">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-18"/>
+  </status>
+  <introduced datetime="2013-06-18"/>
+  <titles>
+    <title type="official" as="introduced">Proposing an amendment to the Constitution of the United States relating to parental rights.</title>
+  </titles>
+  <sponsor thomas_id="02142"/>
+  <cosponsors>
+    <cosponsor thomas_id="01858" joined="2013-06-18"/>
+    <cosponsor thomas_id="02054" joined="2014-04-28"/>
+    <cosponsor thomas_id="00062" joined="2013-06-18"/>
+    <cosponsor thomas_id="02027" joined="2014-04-10"/>
+    <cosponsor thomas_id="02135" joined="2013-07-16"/>
+    <cosponsor thomas_id="01753" joined="2013-08-01"/>
+    <cosponsor thomas_id="01703" joined="2013-06-18"/>
+    <cosponsor thomas_id="02155" joined="2013-06-18"/>
+    <cosponsor thomas_id="01882" joined="2013-06-18"/>
+    <cosponsor thomas_id="01840" joined="2013-07-16"/>
+    <cosponsor thomas_id="00165" joined="2013-12-19"/>
+    <cosponsor thomas_id="00166" joined="2013-08-01"/>
+    <cosponsor thomas_id="01752" joined="2013-12-19"/>
+    <cosponsor thomas_id="00211" joined="2013-06-18"/>
+    <cosponsor thomas_id="01912" joined="2013-07-16"/>
+    <cosponsor thomas_id="01742" joined="2013-06-18"/>
+    <cosponsor thomas_id="02121" joined="2013-06-18"/>
+    <cosponsor thomas_id="01670" joined="2013-07-16"/>
+    <cosponsor thomas_id="02057" joined="2013-06-18"/>
+    <cosponsor thomas_id="00322" joined="2013-07-16"/>
+    <cosponsor thomas_id="02064" joined="2013-08-01"/>
+    <cosponsor thomas_id="02061" joined="2013-08-01"/>
+    <cosponsor thomas_id="01683" joined="2013-06-18"/>
+    <cosponsor thomas_id="01793" joined="2013-06-18"/>
+    <cosponsor thomas_id="01707" joined="2013-06-18"/>
+    <cosponsor thomas_id="01720" joined="2013-06-18"/>
+    <cosponsor thomas_id="01979" joined="2013-06-18"/>
+    <cosponsor thomas_id="01922" joined="2013-07-16"/>
+    <cosponsor thomas_id="01933" joined="2013-07-16"/>
+    <cosponsor thomas_id="02026" joined="2013-06-18"/>
+    <cosponsor thomas_id="02032" joined="2013-10-15"/>
+    <cosponsor thomas_id="01749" joined="2014-06-09"/>
+    <cosponsor thomas_id="02140" joined="2013-06-18"/>
+    <cosponsor thomas_id="02020" joined="2013-06-18"/>
+    <cosponsor thomas_id="02028" joined="2013-06-18"/>
+    <cosponsor thomas_id="02015" joined="2013-12-19"/>
+    <cosponsor thomas_id="01909" joined="2013-06-18"/>
+    <cosponsor thomas_id="02046" joined="2013-06-18"/>
+    <cosponsor thomas_id="00612" joined="2013-07-16"/>
+    <cosponsor thomas_id="01868" joined="2013-06-18"/>
+    <cosponsor thomas_id="02051" joined="2014-06-17"/>
+    <cosponsor thomas_id="01724" joined="2013-10-15"/>
+    <cosponsor thomas_id="01733" joined="2013-07-16"/>
+    <cosponsor thomas_id="02100" joined="2013-07-16"/>
+    <cosponsor thomas_id="01834" joined="2013-06-18"/>
+    <cosponsor thomas_id="00666" joined="2013-07-16"/>
+    <cosponsor thomas_id="02033" joined="2013-12-19"/>
+    <cosponsor thomas_id="01960" joined="2014-03-11"/>
+    <cosponsor thomas_id="01806" joined="2013-06-18"/>
+    <cosponsor thomas_id="02053" joined="2014-03-14"/>
+    <cosponsor thomas_id="01908" joined="2013-06-18"/>
+    <cosponsor thomas_id="01685" joined="2013-06-18"/>
+    <cosponsor thomas_id="02059" joined="2013-06-18"/>
+    <cosponsor thomas_id="01758" joined="2013-06-18"/>
+    <cosponsor thomas_id="02060" joined="2013-07-16"/>
+    <cosponsor thomas_id="02001" joined="2013-06-18"/>
+    <cosponsor thomas_id="01710" joined="2013-07-16"/>
+    <cosponsor thomas_id="02141" joined="2013-06-18"/>
+    <cosponsor thomas_id="01514" joined="2013-06-18"/>
+    <cosponsor thomas_id="02022" joined="2014-05-20"/>
+    <cosponsor thomas_id="01704" joined="2013-07-16"/>
+    <cosponsor thomas_id="02017" joined="2013-10-15"/>
+    <cosponsor thomas_id="01848" joined="2013-08-01"/>
+    <cosponsor thomas_id="02003" joined="2014-06-17"/>
+    <cosponsor thomas_id="01009" joined="2013-06-18"/>
+    <cosponsor thomas_id="01920" joined="2013-12-19"/>
+    <cosponsor thomas_id="01071" joined="2013-06-18"/>
+    <cosponsor thomas_id="01981" joined="2013-06-18"/>
+    <cosponsor thomas_id="01664" joined="2013-07-16"/>
+    <cosponsor thomas_id="01177" joined="2013-06-18"/>
+    <cosponsor thomas_id="01855" joined="2013-06-18"/>
+    <cosponsor thomas_id="02152" joined="2013-06-18"/>
+    <cosponsor thomas_id="01779" joined="2013-06-18"/>
+    <cosponsor thomas_id="01688" joined="2013-06-18"/>
+    <cosponsor thomas_id="01886" joined="2013-07-16"/>
+    <cosponsor thomas_id="01238" joined="2013-06-18"/>
+    <cosponsor thomas_id="02115" joined="2014-05-13"/>
+    <cosponsor thomas_id="01256" joined="2013-07-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-18" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-07-15">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Constitution and Civil Justice" code="HSJU10" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="sj" session="113" relation="identical" number="37"/>
+  </relatedbills>
+  <subjects>
+    <term name="Families"/>
+    <term name="Child care and development"/>
+    <term name="Constitution and constitutional amendments"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Family relationships"/>
+    <term name="International law and treaties"/>
+  </subjects>
+  <amendments/>
+  <summary>6/18/2013--Introduced.
+Constitutional Amendment - States that the liberty of parents to direct the upbringing, education, and care of their children is a fundamental right.
+
+Declares further that the parental right to direct education includes the right to choose public, private, religious, or home schools, and the right to make reasonable choices within public schools for one's child.
+
+States that neither the United States nor any state shall infringe upon this right without demonstrating that its governmental interest, as applied to the person, is of the highest order and not otherwise served.
+
+Prohibits this article from being construed to apply to a parental action or decision that would end life.
+
+Declares that no treaty may be adopted nor shall any source of international law be employed to supersede, modify, interpret, or apply to the rights guaranteed by this amendment.</summary>
+</bill>

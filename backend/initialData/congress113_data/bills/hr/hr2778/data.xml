@@ -1,0 +1,50 @@
+<bill session="113" type="h" number="2778" updated="2014-08-14T13:15:10-04:00">
+  <state datetime="2013-07-22">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-22"/>
+  </status>
+  <introduced datetime="2013-07-22"/>
+  <titles>
+    <title type="short" as="introduced">Child Tax Credit Integrity Preservation Act of 2013</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to clarify eligibility for the child tax credit.</title>
+  </titles>
+  <sponsor thomas_id="00636"/>
+  <cosponsors>
+    <cosponsor thomas_id="01858" joined="2013-07-22"/>
+    <cosponsor thomas_id="00062" joined="2013-07-22"/>
+    <cosponsor thomas_id="01468" joined="2013-07-22"/>
+    <cosponsor thomas_id="01987" joined="2013-07-22"/>
+    <cosponsor thomas_id="01882" joined="2013-07-22"/>
+    <cosponsor thomas_id="02065" joined="2013-07-22"/>
+    <cosponsor thomas_id="01801" joined="2013-07-22"/>
+    <cosponsor thomas_id="00612" joined="2013-10-30"/>
+    <cosponsor thomas_id="02033" joined="2013-11-18"/>
+    <cosponsor thomas_id="01514" joined="2013-07-22"/>
+    <cosponsor thomas_id="01915" joined="2013-07-22"/>
+    <cosponsor thomas_id="00979" joined="2013-07-31"/>
+    <cosponsor thomas_id="01009" joined="2013-07-22"/>
+    <cosponsor thomas_id="01525" joined="2013-10-30"/>
+    <cosponsor thomas_id="01855" joined="2013-07-22"/>
+    <cosponsor thomas_id="01779" joined="2013-07-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-22" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="91"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Income tax credits"/>
+    <term name="Tax administration and collection, taxpayers"/>
+    <term name="Tax treatment of families"/>
+  </subjects>
+  <amendments/>
+  <summary>7/22/2013--Introduced.
+Child Tax Credit Integrity Preservation Act of 2013 - Amends the Internal Revenue Code to expand the identification requirements for the child tax credit to require taxpayers to provide valid identification numbers on their tax returns in addition to the names and identification numbers of each qualifying child.</summary>
+</bill>

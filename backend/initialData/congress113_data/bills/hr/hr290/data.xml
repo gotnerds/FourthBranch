@@ -1,0 +1,41 @@
+<bill session="113" type="h" number="290" updated="2014-08-14T12:53:12-04:00">
+  <state datetime="2013-01-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-15"/>
+  </status>
+  <introduced datetime="2013-01-15"/>
+  <titles>
+    <title type="short" as="introduced">Full Faith and Credit Act of 2013</title>
+    <title type="official" as="introduced">To amend title 31, United States Code, to eliminate the statutory cap on the public debt and to place limitations on the purposes for which public debt may be issued.</title>
+  </titles>
+  <sponsor thomas_id="00850"/>
+  <cosponsors>
+    <cosponsor thomas_id="00099" joined="2013-01-15"/>
+    <cosponsor thomas_id="01878" joined="2013-02-15"/>
+    <cosponsor thomas_id="01857" joined="2013-01-15"/>
+    <cosponsor thomas_id="01634" joined="2013-01-23"/>
+    <cosponsor thomas_id="01843" joined="2013-01-15"/>
+    <cosponsor thomas_id="01501" joined="2013-01-23"/>
+    <cosponsor thomas_id="01653" joined="2013-01-15"/>
+    <cosponsor thomas_id="00832" joined="2013-01-15"/>
+    <cosponsor thomas_id="02171" joined="2013-02-15"/>
+    <cosponsor thomas_id="01588" joined="2013-01-15"/>
+    <cosponsor thomas_id="01879" joined="2013-01-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-15" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Budget deficits and national debt"/>
+  </subjects>
+  <amendments/>
+  <summary>1/15/2013--Introduced.
+Full Faith and Credit Act of 2013 - Repeals public debt limit requirements. &#160;Limits the issuance of obligations for the public debt only to fund commitments incurred by the federal government that require current funding. (Thus eliminates the statutory cap on the public debt.)</summary>
+</bill>

@@ -1,0 +1,44 @@
+<bill session="113" type="h" number="4747" updated="2014-08-14T13:31:55-04:00">
+  <state datetime="2014-05-28">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-28"/>
+  </status>
+  <introduced datetime="2014-05-28"/>
+  <titles>
+    <title type="short" as="introduced">Global Health Worker Protection Act of 2014</title>
+    <title type="official" as="introduced">To prohibit the use of global health activities to collect foreign intelligence, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01653"/>
+  <cosponsors>
+    <cosponsor thomas_id="00229" joined="2014-06-10"/>
+    <cosponsor thomas_id="01634" joined="2014-06-13"/>
+    <cosponsor thomas_id="01501" joined="2014-06-10"/>
+    <cosponsor thomas_id="00766" joined="2014-06-10"/>
+    <cosponsor thomas_id="01504" joined="2014-06-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-28" state="REFERRED">
+      <text>Referred to the House Committee on Intelligence (Permanent Select).</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HLIG" name="House Intelligence (Permanent Select)" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Health personnel"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Infectious and parasitic diseases"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+    <term name="World health"/>
+  </subjects>
+  <amendments/>
+  <summary>5/28/2014--Introduced.
+Global Health Worker Protection Act of 2014 - Prohibits the Central Intelligence Agency (CIA) and any other agency from using health or humanitarian workers or activities (including immunization and vaccination campaigns, health education and surveillance, or direct health services) in countries outside the United States for the purpose of collecting foreign intelligence.
+
+Prohibits this Act from being construed to restrict the provision of medical services to individuals involved in authorized intelligence activities on behalf of the United States.</summary>
+</bill>

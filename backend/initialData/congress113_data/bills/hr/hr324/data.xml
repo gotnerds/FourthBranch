@@ -1,0 +1,427 @@
+<bill session="113" type="h" number="324" updated="2014-08-14T12:53:29-04:00">
+  <state datetime="2013-07-12">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2013-07-12"/>
+  </status>
+  <introduced datetime="2013-01-18"/>
+  <titles>
+    <title type="official" as="introduced">To grant the Congressional Gold Medal, collectively, to the First Special Service Force, in recognition of its superior service during World War II.</title>
+  </titles>
+  <sponsor thomas_id="01685"/>
+  <cosponsors>
+    <cosponsor thomas_id="01460" joined="2013-03-15"/>
+    <cosponsor thomas_id="01727" joined="2013-03-06"/>
+    <cosponsor thomas_id="02090" joined="2013-04-16"/>
+    <cosponsor thomas_id="00021" joined="2013-03-21"/>
+    <cosponsor thomas_id="01858" joined="2013-03-15"/>
+    <cosponsor thomas_id="00038" joined="2013-03-15"/>
+    <cosponsor thomas_id="02093" joined="2013-03-25"/>
+    <cosponsor thomas_id="02054" joined="2013-03-15"/>
+    <cosponsor thomas_id="01780" joined="2013-03-20"/>
+    <cosponsor thomas_id="00062" joined="2013-03-19"/>
+    <cosponsor thomas_id="01996" joined="2013-03-14"/>
+    <cosponsor thomas_id="02153" joined="2013-03-14"/>
+    <cosponsor thomas_id="02027" joined="2013-01-22"/>
+    <cosponsor thomas_id="02135" joined="2013-01-18"/>
+    <cosponsor thomas_id="01838" joined="2013-03-19"/>
+    <cosponsor thomas_id="01753" joined="2013-03-15"/>
+    <cosponsor thomas_id="00091" joined="2013-01-18"/>
+    <cosponsor thomas_id="02063" joined="2013-03-19"/>
+    <cosponsor thomas_id="01748" joined="2013-03-19"/>
+    <cosponsor thomas_id="01703" joined="2013-03-15"/>
+    <cosponsor thomas_id="01723" joined="2013-01-18"/>
+    <cosponsor thomas_id="01787" joined="2013-03-12"/>
+    <cosponsor thomas_id="01468" joined="2013-03-19"/>
+    <cosponsor thomas_id="01469" joined="2013-03-20"/>
+    <cosponsor thomas_id="01845" joined="2013-01-18"/>
+    <cosponsor thomas_id="02155" joined="2013-03-19"/>
+    <cosponsor thomas_id="01987" joined="2013-03-25"/>
+    <cosponsor thomas_id="02129" joined="2013-05-07"/>
+    <cosponsor thomas_id="01882" joined="2013-03-06"/>
+    <cosponsor thomas_id="00132" joined="2013-03-14"/>
+    <cosponsor thomas_id="02106" joined="2013-03-20"/>
+    <cosponsor thomas_id="01840" joined="2013-03-15"/>
+    <cosponsor thomas_id="02018" joined="2013-03-12"/>
+    <cosponsor thomas_id="01751" joined="2013-03-19"/>
+    <cosponsor thomas_id="01761" joined="2013-03-14"/>
+    <cosponsor thomas_id="00165" joined="2013-01-18"/>
+    <cosponsor thomas_id="00166" joined="2013-01-18"/>
+    <cosponsor thomas_id="01676" joined="2013-03-19"/>
+    <cosponsor thomas_id="01564" joined="2013-05-06"/>
+    <cosponsor thomas_id="02107" joined="2013-05-06"/>
+    <cosponsor thomas_id="01889" joined="2013-03-14"/>
+    <cosponsor thomas_id="01752" joined="2013-03-06"/>
+    <cosponsor thomas_id="02159" joined="2013-05-21"/>
+    <cosponsor thomas_id="01925" joined="2013-02-14"/>
+    <cosponsor thomas_id="01839" joined="2013-03-21"/>
+    <cosponsor thomas_id="02163" joined="2013-04-12"/>
+    <cosponsor thomas_id="00186" joined="2013-03-19"/>
+    <cosponsor thomas_id="01956" joined="2013-03-19"/>
+    <cosponsor thomas_id="01474" joined="2013-02-08"/>
+    <cosponsor thomas_id="02055" joined="2013-02-01"/>
+    <cosponsor thomas_id="01654" joined="2013-03-14"/>
+    <cosponsor thomas_id="01790" joined="2013-03-14"/>
+    <cosponsor thomas_id="00208" joined="2013-03-14"/>
+    <cosponsor thomas_id="00211" joined="2013-03-19"/>
+    <cosponsor thomas_id="01912" joined="2013-01-18"/>
+    <cosponsor thomas_id="01878" joined="2013-03-25"/>
+    <cosponsor thomas_id="01742" joined="2013-03-12"/>
+    <cosponsor thomas_id="02151" joined="2013-04-09"/>
+    <cosponsor thomas_id="02121" joined="2013-03-21"/>
+    <cosponsor thomas_id="01805" joined="2013-01-18"/>
+    <cosponsor thomas_id="01959" joined="2013-03-21"/>
+    <cosponsor thomas_id="02103" joined="2013-03-19"/>
+    <cosponsor thomas_id="00231" joined="2013-01-18"/>
+    <cosponsor thomas_id="02098" joined="2013-03-19"/>
+    <cosponsor thomas_id="02144" joined="2013-04-24"/>
+    <cosponsor thomas_id="01989" joined="2013-04-12"/>
+    <cosponsor thomas_id="01643" joined="2013-03-12"/>
+    <cosponsor thomas_id="01807" joined="2013-03-20"/>
+    <cosponsor thomas_id="01670" joined="2013-03-21"/>
+    <cosponsor thomas_id="00256" joined="2013-03-14"/>
+    <cosponsor thomas_id="02138" joined="2013-04-24"/>
+    <cosponsor thomas_id="01477" joined="2013-03-14"/>
+    <cosponsor thomas_id="02126" joined="2013-03-12"/>
+    <cosponsor thomas_id="01641" joined="2013-01-18"/>
+    <cosponsor thomas_id="00279" joined="2013-03-21"/>
+    <cosponsor thomas_id="02133" joined="2013-05-14"/>
+    <cosponsor thomas_id="01995" joined="2013-03-15"/>
+    <cosponsor thomas_id="01799" joined="2013-03-19"/>
+    <cosponsor thomas_id="02116" joined="2013-03-19"/>
+    <cosponsor thomas_id="02062" joined="2013-03-15"/>
+    <cosponsor thomas_id="01976" joined="2013-03-21"/>
+    <cosponsor thomas_id="01717" joined="2013-03-12"/>
+    <cosponsor thomas_id="00299" joined="2013-04-12"/>
+    <cosponsor thomas_id="00316" joined="2013-03-20"/>
+    <cosponsor thomas_id="02123" joined="2013-04-18"/>
+    <cosponsor thomas_id="02072" joined="2013-03-12"/>
+    <cosponsor thomas_id="02057" joined="2013-03-12"/>
+    <cosponsor thomas_id="00322" joined="2013-03-06"/>
+    <cosponsor thomas_id="01857" joined="2013-03-14"/>
+    <cosponsor thomas_id="02036" joined="2013-03-12"/>
+    <cosponsor thomas_id="02067" joined="2013-03-12"/>
+    <cosponsor thomas_id="00368" joined="2013-03-21"/>
+    <cosponsor thomas_id="00371" joined="2013-03-14"/>
+    <cosponsor thomas_id="02064" joined="2013-03-19"/>
+    <cosponsor thomas_id="01797" joined="2013-03-19"/>
+    <cosponsor thomas_id="02061" joined="2013-03-19"/>
+    <cosponsor thomas_id="01924" joined="2013-03-12"/>
+    <cosponsor thomas_id="02065" joined="2013-03-19"/>
+    <cosponsor thomas_id="01683" joined="2013-03-06"/>
+    <cosponsor thomas_id="01793" joined="2013-03-21"/>
+    <cosponsor thomas_id="02119" joined="2013-03-20"/>
+    <cosponsor thomas_id="01707" joined="2013-01-18"/>
+    <cosponsor thomas_id="00414" joined="2013-03-19"/>
+    <cosponsor thomas_id="01895" joined="2013-03-14"/>
+    <cosponsor thomas_id="02122" joined="2013-03-20"/>
+    <cosponsor thomas_id="01973" joined="2013-03-20"/>
+    <cosponsor thomas_id="02120" joined="2013-04-11"/>
+    <cosponsor thomas_id="01998" joined="2013-03-20"/>
+    <cosponsor thomas_id="01737" joined="2013-03-19"/>
+    <cosponsor thomas_id="01743" joined="2013-03-06"/>
+    <cosponsor thomas_id="02049" joined="2013-03-19"/>
+    <cosponsor thomas_id="02043" joined="2013-03-04"/>
+    <cosponsor thomas_id="01720" joined="2013-03-15"/>
+    <cosponsor thomas_id="01801" joined="2013-03-15"/>
+    <cosponsor thomas_id="00446" joined="2013-03-15"/>
+    <cosponsor thomas_id="01992" joined="2013-03-20"/>
+    <cosponsor thomas_id="02058" joined="2013-03-20"/>
+    <cosponsor thomas_id="01487" joined="2013-03-19"/>
+    <cosponsor thomas_id="01656" joined="2013-03-12"/>
+    <cosponsor thomas_id="01979" joined="2013-03-15"/>
+    <cosponsor thomas_id="01914" joined="2013-03-20"/>
+    <cosponsor thomas_id="01803" joined="2013-03-12"/>
+    <cosponsor thomas_id="00462" joined="2013-03-21"/>
+    <cosponsor thomas_id="01990" joined="2013-01-18"/>
+    <cosponsor thomas_id="02070" joined="2013-03-20"/>
+    <cosponsor thomas_id="01708" joined="2013-04-09"/>
+    <cosponsor thomas_id="02041" joined="2013-03-19"/>
+    <cosponsor thomas_id="01922" joined="2013-03-12"/>
+    <cosponsor thomas_id="02089" joined="2013-03-20"/>
+    <cosponsor thomas_id="00484" joined="2013-03-19"/>
+    <cosponsor thomas_id="02010" joined="2013-03-21"/>
+    <cosponsor thomas_id="02044" joined="2013-03-21"/>
+    <cosponsor thomas_id="01933" joined="2013-03-21"/>
+    <cosponsor thomas_id="02032" joined="2013-02-27"/>
+    <cosponsor thomas_id="00511" joined="2013-03-14"/>
+    <cosponsor thomas_id="02040" joined="2013-03-06"/>
+    <cosponsor thomas_id="02071" joined="2013-03-20"/>
+    <cosponsor thomas_id="01913" joined="2013-03-20"/>
+    <cosponsor thomas_id="01490" joined="2013-03-20"/>
+    <cosponsor thomas_id="02143" joined="2013-03-21"/>
+    <cosponsor thomas_id="02147" joined="2013-03-14"/>
+    <cosponsor thomas_id="02140" joined="2013-03-15"/>
+    <cosponsor thomas_id="02020" joined="2013-03-21"/>
+    <cosponsor thomas_id="02028" joined="2013-01-18"/>
+    <cosponsor thomas_id="02015" joined="2013-03-19"/>
+    <cosponsor thomas_id="01909" joined="2013-03-12"/>
+    <cosponsor thomas_id="02069" joined="2013-03-19"/>
+    <cosponsor thomas_id="01663" joined="2013-03-25"/>
+    <cosponsor thomas_id="01640" joined="2013-03-21"/>
+    <cosponsor thomas_id="00588" joined="2013-02-08"/>
+    <cosponsor thomas_id="01921" joined="2013-03-12"/>
+    <cosponsor thomas_id="02046" joined="2013-02-25"/>
+    <cosponsor thomas_id="00599" joined="2013-03-14"/>
+    <cosponsor thomas_id="01843" joined="2013-03-14"/>
+    <cosponsor thomas_id="00603" joined="2013-03-19"/>
+    <cosponsor thomas_id="00612" joined="2013-01-22"/>
+    <cosponsor thomas_id="01868" joined="2013-03-19"/>
+    <cosponsor thomas_id="02051" joined="2013-03-19"/>
+    <cosponsor thomas_id="02172" joined="2013-04-15"/>
+    <cosponsor thomas_id="02169" joined="2013-05-21"/>
+    <cosponsor thomas_id="01498" joined="2013-03-21"/>
+    <cosponsor thomas_id="00635" joined="2013-03-15"/>
+    <cosponsor thomas_id="01724" joined="2013-03-15"/>
+    <cosponsor thomas_id="00636" joined="2013-03-15"/>
+    <cosponsor thomas_id="02014" joined="2013-03-15"/>
+    <cosponsor thomas_id="01907" joined="2013-03-20"/>
+    <cosponsor thomas_id="01733" joined="2013-03-06"/>
+    <cosponsor thomas_id="02145" joined="2013-04-09"/>
+    <cosponsor thomas_id="02100" joined="2013-03-12"/>
+    <cosponsor thomas_id="01834" joined="2013-01-18"/>
+    <cosponsor thomas_id="01936" joined="2013-01-29"/>
+    <cosponsor thomas_id="01668" joined="2013-03-20"/>
+    <cosponsor thomas_id="02050" joined="2013-03-19"/>
+    <cosponsor thomas_id="01675" joined="2013-01-18"/>
+    <cosponsor thomas_id="01583" joined="2013-03-21"/>
+    <cosponsor thomas_id="00666" joined="2013-03-21"/>
+    <cosponsor thomas_id="01885" joined="2013-02-05"/>
+    <cosponsor thomas_id="01501" joined="2013-03-14"/>
+    <cosponsor thomas_id="00688" joined="2013-03-14"/>
+    <cosponsor thomas_id="00699" joined="2013-03-15"/>
+    <cosponsor thomas_id="01846" joined="2013-01-18"/>
+    <cosponsor thomas_id="02033" joined="2013-03-19"/>
+    <cosponsor thomas_id="00709" joined="2013-03-21"/>
+    <cosponsor thomas_id="00711" joined="2013-03-15"/>
+    <cosponsor thomas_id="01931" joined="2013-03-15"/>
+    <cosponsor thomas_id="01960" joined="2013-03-19"/>
+    <cosponsor thomas_id="01686" joined="2013-03-20"/>
+    <cosponsor thomas_id="00729" joined="2013-03-20"/>
+    <cosponsor thomas_id="01806" joined="2013-03-15"/>
+    <cosponsor thomas_id="02053" joined="2013-03-15"/>
+    <cosponsor thomas_id="01503" joined="2013-03-15"/>
+    <cosponsor thomas_id="01833" joined="2013-03-19"/>
+    <cosponsor thomas_id="01804" joined="2013-03-19"/>
+    <cosponsor thomas_id="01908" joined="2013-03-19"/>
+    <cosponsor thomas_id="00766" joined="2013-03-21"/>
+    <cosponsor thomas_id="01504" joined="2013-03-21"/>
+    <cosponsor thomas_id="01792" joined="2013-03-19"/>
+    <cosponsor thomas_id="01505" joined="2013-02-14"/>
+    <cosponsor thomas_id="00778" joined="2013-03-15"/>
+    <cosponsor thomas_id="01809" joined="2013-03-15"/>
+    <cosponsor thomas_id="02142" joined="2013-03-06"/>
+    <cosponsor thomas_id="02052" joined="2013-03-15"/>
+    <cosponsor thomas_id="01506" joined="2013-01-18"/>
+    <cosponsor thomas_id="00800" joined="2013-03-19"/>
+    <cosponsor thomas_id="01730" joined="2013-01-18"/>
+    <cosponsor thomas_id="01731" joined="2013-03-15"/>
+    <cosponsor thomas_id="01584" joined="2013-03-15"/>
+    <cosponsor thomas_id="01811" joined="2013-03-20"/>
+    <cosponsor thomas_id="00832" joined="2013-03-21"/>
+    <cosponsor thomas_id="02156" joined="2013-03-19"/>
+    <cosponsor thomas_id="02117" joined="2013-03-25"/>
+    <cosponsor thomas_id="01602" joined="2013-03-20"/>
+    <cosponsor thomas_id="02108" joined="2013-02-12"/>
+    <cosponsor thomas_id="01758" joined="2013-03-12"/>
+    <cosponsor thomas_id="02060" joined="2013-03-15"/>
+    <cosponsor thomas_id="00868" joined="2013-03-20"/>
+    <cosponsor thomas_id="02001" joined="2013-03-15"/>
+    <cosponsor thomas_id="01710" joined="2013-03-12"/>
+    <cosponsor thomas_id="02034" joined="2013-03-15"/>
+    <cosponsor thomas_id="02162" joined="2013-03-21"/>
+    <cosponsor thomas_id="01955" joined="2013-03-21"/>
+    <cosponsor thomas_id="02035" joined="2013-03-19"/>
+    <cosponsor thomas_id="00893" joined="2013-03-21"/>
+    <cosponsor thomas_id="01930" joined="2013-03-21"/>
+    <cosponsor thomas_id="02097" joined="2013-03-14"/>
+    <cosponsor thomas_id="01738" joined="2013-03-15"/>
+    <cosponsor thomas_id="01835" joined="2013-03-21"/>
+    <cosponsor thomas_id="01929" joined="2013-03-25"/>
+    <cosponsor thomas_id="02113" joined="2013-03-21"/>
+    <cosponsor thomas_id="00910" joined="2013-03-20"/>
+    <cosponsor thomas_id="00912" joined="2013-02-27"/>
+    <cosponsor thomas_id="02141" joined="2013-03-15"/>
+    <cosponsor thomas_id="01514" joined="2013-03-19"/>
+    <cosponsor thomas_id="01802" joined="2013-03-12"/>
+    <cosponsor thomas_id="02022" joined="2013-03-12"/>
+    <cosponsor thomas_id="01915" joined="2013-03-06"/>
+    <cosponsor thomas_id="00930" joined="2013-03-21"/>
+    <cosponsor thomas_id="01778" joined="2013-03-19"/>
+    <cosponsor thomas_id="02118" joined="2013-03-19"/>
+    <cosponsor thomas_id="01982" joined="2013-03-04"/>
+    <cosponsor thomas_id="01810" joined="2013-03-15"/>
+    <cosponsor thomas_id="02048" joined="2013-03-19"/>
+    <cosponsor thomas_id="02073" joined="2013-03-21"/>
+    <cosponsor thomas_id="02023" joined="2013-03-14"/>
+    <cosponsor thomas_id="02068" joined="2013-03-15"/>
+    <cosponsor thomas_id="01986" joined="2013-03-12"/>
+    <cosponsor thomas_id="01954" joined="2013-03-19"/>
+    <cosponsor thomas_id="00977" joined="2013-03-15"/>
+    <cosponsor thomas_id="01704" joined="2013-03-12"/>
+    <cosponsor thomas_id="01651" joined="2013-03-06"/>
+    <cosponsor thomas_id="00979" joined="2013-03-19"/>
+    <cosponsor thomas_id="02017" joined="2013-03-19"/>
+    <cosponsor thomas_id="01916" joined="2013-03-12"/>
+    <cosponsor thomas_id="00985" joined="2013-03-15"/>
+    <cosponsor thomas_id="01848" joined="2013-03-19"/>
+    <cosponsor thomas_id="02003" joined="2013-03-12"/>
+    <cosponsor thomas_id="02158" joined="2013-03-21"/>
+    <cosponsor thomas_id="02109" joined="2013-03-21"/>
+    <cosponsor thomas_id="02039" joined="2013-01-18"/>
+    <cosponsor thomas_id="01003" joined="2013-02-01"/>
+    <cosponsor thomas_id="01560" joined="2013-03-20"/>
+    <cosponsor thomas_id="01756" joined="2013-01-18"/>
+    <cosponsor thomas_id="01892" joined="2013-03-06"/>
+    <cosponsor thomas_id="01588" joined="2013-03-20"/>
+    <cosponsor thomas_id="01635" joined="2013-03-14"/>
+    <cosponsor thomas_id="02124" joined="2013-03-20"/>
+    <cosponsor thomas_id="01920" joined="2013-03-19"/>
+    <cosponsor thomas_id="01994" joined="2013-03-21"/>
+    <cosponsor thomas_id="02009" joined="2013-02-27"/>
+    <cosponsor thomas_id="01722" joined="2013-03-12"/>
+    <cosponsor thomas_id="01037" joined="2013-04-11"/>
+    <cosponsor thomas_id="01041" joined="2013-03-19"/>
+    <cosponsor thomas_id="01042" joined="2013-04-11"/>
+    <cosponsor thomas_id="01525" joined="2013-03-15"/>
+    <cosponsor thomas_id="01988" joined="2013-03-21"/>
+    <cosponsor thomas_id="01861" joined="2013-04-24"/>
+    <cosponsor thomas_id="01527" joined="2013-03-12"/>
+    <cosponsor thomas_id="01681" joined="2013-03-19"/>
+    <cosponsor thomas_id="01590" joined="2013-03-12"/>
+    <cosponsor thomas_id="01818" joined="2013-03-21"/>
+    <cosponsor thomas_id="01069" joined="2013-04-16"/>
+    <cosponsor thomas_id="01528" joined="2013-03-20"/>
+    <cosponsor thomas_id="01860" joined="2013-03-12"/>
+    <cosponsor thomas_id="01071" joined="2013-03-15"/>
+    <cosponsor thomas_id="01075" joined="2013-03-12"/>
+    <cosponsor thomas_id="02000" joined="2013-03-12"/>
+    <cosponsor thomas_id="02047" joined="2013-03-19"/>
+    <cosponsor thomas_id="01981" joined="2013-03-15"/>
+    <cosponsor thomas_id="02110" joined="2013-03-21"/>
+    <cosponsor thomas_id="01566" joined="2013-03-19"/>
+    <cosponsor thomas_id="01151" joined="2013-03-14"/>
+    <cosponsor thomas_id="01952" joined="2013-03-15"/>
+    <cosponsor thomas_id="01593" joined="2013-03-21"/>
+    <cosponsor thomas_id="01155" joined="2013-03-12"/>
+    <cosponsor thomas_id="01664" joined="2013-03-15"/>
+    <cosponsor thomas_id="01940" joined="2013-03-20"/>
+    <cosponsor thomas_id="01884" joined="2013-05-09"/>
+    <cosponsor thomas_id="01741" joined="2013-01-29"/>
+    <cosponsor thomas_id="01177" joined="2013-03-19"/>
+    <cosponsor thomas_id="01729" joined="2013-03-21"/>
+    <cosponsor thomas_id="02112" joined="2013-04-24"/>
+    <cosponsor thomas_id="02166" joined="2013-03-14"/>
+    <cosponsor thomas_id="02137" joined="2013-03-19"/>
+    <cosponsor thomas_id="01855" joined="2013-02-06"/>
+    <cosponsor thomas_id="01596" joined="2013-03-15"/>
+    <cosponsor thomas_id="02128" joined="2013-03-15"/>
+    <cosponsor thomas_id="01856" joined="2013-03-15"/>
+    <cosponsor thomas_id="01777" joined="2013-03-12"/>
+    <cosponsor thomas_id="01205" joined="2013-03-14"/>
+    <cosponsor thomas_id="01207" joined="2013-03-14"/>
+    <cosponsor thomas_id="02161" joined="2013-03-12"/>
+    <cosponsor thomas_id="02002" joined="2013-03-12"/>
+    <cosponsor thomas_id="01879" joined="2013-03-21"/>
+    <cosponsor thomas_id="02152" joined="2013-03-15"/>
+    <cosponsor thomas_id="01779" joined="2013-03-12"/>
+    <cosponsor thomas_id="01222" joined="2013-03-20"/>
+    <cosponsor thomas_id="02165" joined="2013-03-19"/>
+    <cosponsor thomas_id="02004" joined="2013-03-14"/>
+    <cosponsor thomas_id="01688" joined="2013-03-15"/>
+    <cosponsor thomas_id="01886" joined="2013-03-12"/>
+    <cosponsor thomas_id="01238" joined="2013-03-21"/>
+    <cosponsor thomas_id="01991" joined="2013-03-19"/>
+    <cosponsor thomas_id="02021" joined="2013-03-19"/>
+    <cosponsor thomas_id="02115" joined="2013-03-15"/>
+    <cosponsor thomas_id="01255" joined="2013-03-19"/>
+    <cosponsor thomas_id="01256" joined="2013-03-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-18" state="REFERRED">
+      <text>Referred to the Committee on Financial Services, and in addition to the Committee on House Administration, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-01-18">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2013-01-18">
+      <text>Referred to House House Administration</text>
+    </action>
+    <action datetime="2013-05-21T13:04:00-04:00">
+      <text>Mr. Cotton moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2013-05-21T13:04:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2817-2819" label="consideration"/>
+    </action>
+    <action datetime="2013-05-21T13:04:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 324.</text>
+    </action>
+    <action datetime="2013-05-21T13:17:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2013-05-21T14:59:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H2830-2831" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="165" datetime="2013-05-21T15:07:00-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 415 - 0 (Roll no. 165).</text>
+      <reference ref="CR H2817-2818" label="text"/>
+    </vote>
+    <action datetime="2013-05-21T15:07:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2013-05-22">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+    <action datetime="2013-06-27">
+      <text>Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.</text>
+      <reference ref="CR S5509-5510" label="consideration"/>
+    </action>
+    <vote how="by Unanimous Consent" type="vote2" datetime="2013-06-27" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2013-06-28">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2013-07-02">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2013-07-12" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="113-16" type="public" datetime="2013-07-12">
+      <text>Became Public Law No: 113-16.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee subcommittee="" code="HSHA" name="House Administration" activity="Referral"/>
+    <committee subcommittee="" code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, Discharged, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="789"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Canada"/>
+    <term name="Conflicts and wars"/>
+    <term name="Congressional tributes"/>
+    <term name="Military facilities and property"/>
+    <term name="Military history"/>
+    <term name="Montana"/>
+    <term name="Museums, exhibitions, cultural centers"/>
+    <term name="Smithsonian Institution"/>
+    <term name="Veterans' organizations and recognition"/>
+  </subjects>
+  <amendments/>
+  <summary>7/12/2013--Public Law.
+(This measure has not been amended since it was passed by the House on May 21, 2013. The summary of that version is repeated here.)
+
+Requires the Speaker of the House of Representatives and the President pro tempore of the Senate to make appropriate arrangements for the award, on behalf of Congress, of a single gold medal to the First Special Service Force (a joint American-Canadian volunteer unit), collectively, in recognition of their World War II service.
+
+Directs that the gold medal be given to the First Special Service Force Association in Helena, Montana, for display there and elsewhere, including Fort William Henry Harrison in Helena.
+
+Authorizes the Secretary of the Treasury to strike and sell bronze duplicates with proceeds deposited in the U.S. Mint Public Enterprise Fund.
+
+Declares that the medal struck under this Act is a national medal for purposes of specified coins and currency provisions.</summary>
+</bill>

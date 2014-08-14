@@ -1,0 +1,90 @@
+<bill session="113" type="h" number="2981" updated="2014-08-14T13:16:52-04:00">
+  <state datetime="2013-12-05">REPORTED</state>
+  <status>
+    <unknown datetime="2013-12-05"/>
+  </status>
+  <introduced datetime="2013-08-02"/>
+  <titles>
+    <title type="short" as="introduced">Technology and Research Accelerating National Security and Future Economic Resiliency Act of 2013</title>
+    <title type="short" as="introduced">TRANSFER Act of 2013</title>
+    <title type="official" as="introduced">To support innovative approaches to technology transfer, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02151"/>
+  <cosponsors>
+    <cosponsor thomas_id="02093" joined="2014-05-06"/>
+    <cosponsor thomas_id="01838" joined="2014-01-13"/>
+    <cosponsor thomas_id="01740" joined="2014-06-26"/>
+    <cosponsor thomas_id="00099" joined="2013-10-28"/>
+    <cosponsor thomas_id="02018" joined="2013-08-02"/>
+    <cosponsor thomas_id="01889" joined="2013-10-28"/>
+    <cosponsor thomas_id="02144" joined="2013-10-28"/>
+    <cosponsor thomas_id="02114" joined="2013-10-28"/>
+    <cosponsor thomas_id="00484" joined="2013-10-28"/>
+    <cosponsor thomas_id="02044" joined="2013-10-28"/>
+    <cosponsor thomas_id="02032" joined="2013-10-28"/>
+    <cosponsor thomas_id="02015" joined="2013-10-28"/>
+    <cosponsor thomas_id="00599" joined="2013-08-02"/>
+    <cosponsor thomas_id="02172" joined="2013-10-28"/>
+    <cosponsor thomas_id="02169" joined="2013-08-02"/>
+    <cosponsor thomas_id="01781" joined="2013-08-02"/>
+    <cosponsor thomas_id="00701" joined="2013-10-28"/>
+    <cosponsor thomas_id="01960" joined="2013-10-28"/>
+    <cosponsor thomas_id="01505" joined="2014-01-13"/>
+    <cosponsor thomas_id="01974" joined="2014-01-13"/>
+    <cosponsor thomas_id="02113" joined="2013-10-28"/>
+    <cosponsor thomas_id="01810" joined="2014-01-13"/>
+    <cosponsor thomas_id="01528" joined="2014-05-06"/>
+    <cosponsor thomas_id="01075" joined="2013-08-02"/>
+    <cosponsor thomas_id="02110" joined="2013-10-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-08-02" state="REFERRED">
+      <text>Referred to the Committee on Small Business, and in addition to the Committee on Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-08-02">
+      <text>Referred to House Small Business</text>
+    </action>
+    <action datetime="2013-08-02">
+      <text>Referred to House Science, Space, and Technology</text>
+    </action>
+    <action datetime="2013-09-24">
+      <text>Referred to the Subcommittee on Research and Technology.</text>
+    </action>
+    <action datetime="2013-12-05">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2013-12-05" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSSM" name="House Small Business" activity="Referral"/>
+    <committee subcommittee="" code="HSSY" name="House Science, Space, and Technology" activity="Referral, Markup"/>
+    <committee subcommittee="Research and Technology" code="HSSY15" name="House Science, Space, and Technology" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="4186"/>
+    <bill type="s" session="113" relation="unknown" number="2551"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Advanced technology and technological innovations"/>
+    <term name="Education programs funding"/>
+    <term name="Government information and archives"/>
+    <term name="Higher education"/>
+    <term name="Performance measurement"/>
+    <term name="Research administration and funding"/>
+    <term name="Research and development"/>
+    <term name="Small business"/>
+    <term name="Technology transfer and commercialization"/>
+  </subjects>
+  <amendments/>
+  <summary>8/2/2013--Introduced.
+Technology and Research Accelerating National Security and Future Economic Resiliency Act of 2013 or the TRANSFER Act of 2013 - Amends the Small Business Act to replace provisions requiring the Director of the National Institutes of Health to use funds for a Proof of Concept Partnership pilot program to accelerate the creation of small businesses and the commercialization of research innovations made by certain institutions with provisions directing each federal agency required to establish a small business technology transfer (STTR) program to carry out an Innovative Approaches to Technology Transfer Grant Program to support innovative approaches to technology transfer at institutions of higher education, nonprofit research institutions, and federal laboratories in order to accelerate the commercialization of federally funded research and technology by small businesses.
+
+Outlines activities eligible for funding, application requirements, and award procedures and amounts. Requires successful grant proposals to include a plan to assemble a program oversight board to establish award programs for individual projects and evaluate project applications. Provides the percentage of each agency's extramural budget to be expended on such Program for FY2014-FY2017.
+
+Directs each agency to: (1) develop a Program evaluation plan and collect information from grantees annually to evaluate the Program, and (2) submit a Program activities report to specified congressional committees.
+
+Requires the Administrator of the Small Business Administration (SBA) to include information on the Program on the public database of small businesses participating in STTR or Small Business Innovation Research programs.</summary>
+</bill>

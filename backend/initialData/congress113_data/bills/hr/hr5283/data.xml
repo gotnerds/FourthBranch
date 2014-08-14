@@ -1,0 +1,24 @@
+<bill session="113" type="h" number="5283" updated="2014-08-14T13:36:35-04:00">
+  <state datetime="2014-07-30">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-30"/>
+  </status>
+  <introduced datetime="2014-07-30"/>
+  <titles>
+    <title type="short" as="introduced">Land-Based Marine Debris Reduction Act</title>
+    <title type="official" as="introduced">To establish national goals for the reduction and recycling of municipal solid waste, to address the growing problem of marine debris, to require the Administrator of the Environmental Protection Agency to promulgate regulations to attain those goals, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01634"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-30" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

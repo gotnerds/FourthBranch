@@ -1,0 +1,45 @@
+<bill session="113" type="h" number="2995" updated="2014-08-14T13:16:59-04:00">
+  <state datetime="2013-08-02">REFERRED</state>
+  <status>
+    <introduced datetime="2013-08-02"/>
+  </status>
+  <introduced datetime="2013-08-02"/>
+  <titles>
+    <title type="short" as="introduced">Unnecessary Cap Act of 2013</title>
+    <title type="official" as="introduced">To amend the Patient Protection and Affordable Care Act to eliminate the limitation on deductibles for employer-sponsored health plans.</title>
+  </titles>
+  <sponsor thomas_id="01982"/>
+  <cosponsors>
+    <cosponsor thomas_id="01498" joined="2013-12-04"/>
+    <cosponsor thomas_id="02048" joined="2013-12-04"/>
+    <cosponsor thomas_id="01798" joined="2013-12-04"/>
+    <cosponsor thomas_id="02047" joined="2014-03-13"/>
+    <cosponsor thomas_id="01593" joined="2013-08-02"/>
+    <cosponsor thomas_id="01664" joined="2013-08-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-08-02" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-08-02">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="4302"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Comprehensive health care"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+  </subjects>
+  <amendments/>
+  <summary>8/2/2013--Introduced.
+Unnecessary Cap Act of 2013 - Amends the Patient Protection and Affordable Care Act to repeal the annual limitation on deductibles under the essential health benefits of employer-sponsored qualified health plans of: (1) $2,000 in the case of a plan covering a single individual, and (2) $4,000 in the case of any other plan.</summary>
+</bill>

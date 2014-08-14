@@ -1,0 +1,42 @@
+<bill session="113" type="h" number="4996" updated="2014-08-14T13:34:07-04:00">
+  <state datetime="2014-06-26">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-26"/>
+  </status>
+  <introduced datetime="2014-06-26"/>
+  <titles>
+    <title type="short" as="introduced">Energy Markets Emergency Act</title>
+    <title type="official" as="introduced">To require the Commodity Futures Trading Commission to take certain emergency action to eliminate excessive speculation in energy markets.</title>
+  </titles>
+  <sponsor thomas_id="00281"/>
+  <cosponsors>
+    <cosponsor thomas_id="02055" joined="2014-06-26"/>
+    <cosponsor thomas_id="01708" joined="2014-06-26"/>
+    <cosponsor thomas_id="01879" joined="2014-06-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-26" state="REFERRED">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2014-08-11">
+      <text>Referred to the Subcommittee on General Farm Commodities and Risk Management.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee subcommittee="General Farm Commodities and Risk Management" code="HSAG16" name="House Agriculture" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2548"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Commodities markets"/>
+    <term name="Commodity Futures Trading Commission"/>
+    <term name="Energy prices"/>
+    <term name="Energy storage, supplies, demand"/>
+    <term name="Oil and gas"/>
+  </subjects>
+  <amendments/>
+</bill>

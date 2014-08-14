@@ -1,0 +1,255 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-03-18", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Oversight and Government Reform.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-03-20", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2013-03-20", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-02-25T15:10:00-05:00", 
+      "committees": [
+        "HSGO"
+      ], 
+      "references": [], 
+      "text": "Reported by the Committee on Oversight and Government Reform. H. Rept. 113-359.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-02-25T15:10:00-05:00", 
+      "calendar": "Union", 
+      "number": "267", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 267.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2014-02-25T15:17:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1891", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Mr. Issa moved to suspend the rules and pass the bill, as amended.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-02-25T15:17:00-05:00", 
+      "references": [
+        {
+          "reference": "CR H1891-1902", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered under suspension of the rules.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-02-25T15:17:00-05:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with forty minutes of debate on H.R. 1232.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-02-25T15:42:00-05:00", 
+      "how": "by voice vote", 
+      "references": [
+        {
+          "reference": "CR H1891-1898", 
+          "type": "text"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-02-26", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-02-26", 
+      "committee": "Committee on Armed Services Subcommittee on Readiness and Management Support", 
+      "committees": [
+        "SSAS"
+      ], 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Committee on Armed Services Subcommittee on Readiness and Management Support. Hearings held.", 
+      "type": "hearings"
+    }, 
+    {
+      "acted_at": "2014-06-25", 
+      "committees": [
+        "SSGA"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr1232-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting", 
+        "in committee"
+      ], 
+      "committee": "House Oversight and Government Reform", 
+      "committee_id": "HSGO"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA"
+    }, 
+    {
+      "activity": [
+        "hearings"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA", 
+      "subcommittee": "Subcommittee on Readiness and Management Support"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "11", 
+      "name": "Connolly, Gerald E.", 
+      "sponsored_at": "2013-03-18", 
+      "state": "VA", 
+      "thomas_id": "01959", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2013-03-20", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-02-25T15:42:00-05:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-03-18", 
+  "number": "1232", 
+  "official_title": "To amend titles 40, 41, and 44, United States Code, to eliminate duplication and waste in information technology acquisition and management.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1960-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr4601-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1843-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Federal Information Technology Acquisition Reform Act", 
+  "sponsor": {
+    "district": "49", 
+    "name": "Issa, Darrell E.", 
+    "state": "CA", 
+    "thomas_id": "01640", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2014-02-25T15:42:00-05:00", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Computers and information technology", 
+    "Congressional oversight", 
+    "Energy efficiency and conservation", 
+    "Executive agency funding and structure", 
+    "Federal officials", 
+    "Government information and archives", 
+    "Government operations and politics", 
+    "Internet and video services", 
+    "Office of Management and Budget (OMB)", 
+    "Public contracts and procurement"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Passed House amended", 
+    "date": "2014-02-25", 
+    "text": "Federal Information Technology Acquisition Reform Act - Title I: Management of Information Technology Within Federal Government - (Sec. 101) Modifies the current framework governing the management of information technology (IT) within the federal government to require presidential appointment or designation of the Chief Information Officer (CIO) in the following federal agencies:\n\n Department of Agriculture (USDA), Department of Commerce, Department of Defense (DOD), Department of Education, Department of Energy (DOE), Department of Health and Human Services (HHS), Department of Homeland Security (DHS), Department of Housing and Urban Development (HUD), Department of the Interior, Department of Justice (DOJ), Department of Labor, Department of State, Department of Transportation (DOT), Department of the Treasury, Department of Veterans Affairs (VA), Environmental Protection Agency (EPA), and National Aeronautics and Space Administration (NASA). Requires such CIOs to report directly to the head of their respective agencies.\n\nRequires the heads of such agencies, as well as the heads of the U.S. Agency for International Development (USAID), General Services Administration (GSA), National Science Foundation (NSF), Nuclear Regulatory Commission (NRC), Office of Personnel Management (OPM), Small Business Administration (SBA), and Social Security Administration (SSA), to ensure that each agency's CIO is authorized to: (1) participate in technology-related budget planning, and (2) approve the hiring of technology personnel, and (3) require such technology personnel to report to the CIO.\n\nRequires specified agencies to have only one CIO, but permits offices within an agency to designate a deputy, associate, or assistant CIO.\n\n (Sec. 102) Designates the Chief Information Officers Council as the lead interagency forum for improving agency coordination of information resources investment. Requires the Council, annually over a six-year period, to report to the defense and oversight committees on its activities.\n\n(Sec. 103) Requires the Comptroller General (CG) to examine the effectiveness of the Council, and report examination results to such committees.\n\nTitle II: Data Center Optimization - (Sec. 203) Requires the Federal Chief Information Officer (FCIO) (defined as the Administrator of the Office of Electronic Government in the Office of Management and Budget [OMB]) to develop and implement the Federal Data Center Optimization Initiative to optimize the usage and efficiency of federal data centers. Directs the FCIO to develop and submit to Congress a plan for the Initiative.\n\n(Sec. 204) Sets forth permissible methods for agencies to consolidate data centers and achieve maximum server utilization and energy efficiency.\n\n(Sec. 205) Requires agencies to track costs resulting from implementation of the Initiative within each agency and to submit an annual report on such costs to the FCIO. Requires such agencies to also track realized and projected savings achieved. Directs the CG to examine methods for calculating savings from the Initiative and to report findings and recommendations to the FCIO.\n\n(Sec. 206) Requires: (1) each agency to report annually to the FCIO on Initiative implementation, and (2) the FCIO to report annually to such committees assessing agency progress in carrying out the Initiative.\n\nTitle III: Elimination of Duplication and Waste in Information Technology Acquisition - (Sec. 301) Requires the OMB Director to develop a plan for conducting a government-wide inventory of IT software assets and to submit such plan to Congress. Directs the CG to review such plan and submit review results to such committees.\n\n(Sec. 302) Directs the OMB Director to: (1) assess all publicly available websites of federal agencies, and (2) require agencies to eliminate or consolidate any duplicate or overlapping sites.\n\n(Sec. 303) Expresses the sense of Congress that transition to cloud computing offers significant potential benefits for the implementation of federal IT projects. Permits CIOs to establish cloud service working capital funds.\n\n(Sec. 304) Prohibits an executive agency from issuing a solicitation for a covered government-wide contract unless the agency performs a business case analysis and obtains approval from the Administrator for Federal Procurement Policy (FPP). Requires such Administrator to report to such committees on the implementation of this section.\n\nDefines \"covered government-wide contract,\" subject to specified exceptions, as a contract for IT or other goods or services that allows an indefinite number of orders to be placed and is established by one executive agency for use by multiple executive agencies. Excludes from such definition contracts of less than $10 million, determined on an average annual basis.\n\nTitle IV: Strengthening and Streamlining Information Technology Acquisition Management Practices - Subtitle A: Strengthening and Streamlining IT Program Management Practices - (Sec. 401) Requires the OMB Director to: (1) conduct a three-year pilot program to test alternative approaches for the management of commonly used IT by executive agencies; and (2) establish, for purposes of such program, a Federal Infrastructure and Common Application Collaboration Center.\n\nProvides for such Center to serve as a resource for federal agencies, on an optional-use basis, to: (1) assist and promote coordinated program management practices, and (2) develop and maintain requirements for the acquisition of IT infrastructure and applications commonly used by federal agencies.\n\nRequires: (1) the Director to report annually to such committees on the Center's organization, staff, and activities; and (2) the Center to compile a price list and catalogue containing current pricing information by vendor for each of its IT infrastructure and common applications categories. Provides deadlines for various Center activities.\n\n(Sec. 402) Requires the OMB Director, within one year after the enactment of this section and every three years thereafter, to designate, redesignate, or withdraw the designation of assisted acquisition centers of excellence (AACEs) to develop areas of specialized IT acquisition expertise within various executive agencies. Sets forth authority for AACEs to: (1) implement best practices; (2) assist agencies in expedient, strategic, and cost-effective interagency acquisitions by engaging in repeated and frequent acquisition of similar IT requirements; and (3) assist with IT workforce recruitment and training. Directs the CG to review and assess the use and management of fees received by the AACEs and report review results to such committees.\n\nSubtitle B: Strengthening IT Acquisition Workforce - (Sec. 411) Requires the Director to submit to such committees a five-year strategic plan to develop, strengthen, and solidify IT acquisition cadres. Requires: (1) the Director to report annually for five years after such plan's submission on progress made under the plan, (2) the CG to review such plan and report review results, and (3) the CG to independently assess the findings of the annual report and brief such committees thereafter. (According to H.Rept. 113-359, \"Director\" is the OMB Director.)\n\n(Sec. 412) Requires the OMB Director to submit to such committees a plan for improving management of IT programs and projects.\n\n(Sec. 413) Directs OPM to develop policies for agencies to develop a program to recognize excellent performance by federal employees and teams in the acquisition of information systems and IT. Requires such policies to include guidance regarding the award of cash bonuses and other incentives.\n\nTitle V: Additional Reforms - (Sec. 501) Directs the FPP Administrator to prescribe regulations requiring a comparative value analysis to be included in the contract file when the federal government purchases services and supplies offered under the Federal Strategic Sourcing Initiative from sources outside such Initiative.\n\n(Sec. 502) Requires GSA to identify and develop a strategic sourcing initiative to enhance government-wide acquisition, shared use, and dissemination of software, as well as compliance with end user license agreements.\n\n(Sec. 503) Requires the final negotiated price offered by an awardee of a blanket purchase agreement to be treated as public information. Requires additional information concerning blanket purchase agreements and IT investments to be made available to the public.\n\n(Sec. 504) Permits executive agencies to state in solicitations that awards will be made using a fixed price technical competition under which all offerors compete solely on non-price factors and the fixed award price is pre-announced in the solicitation.\n\n(Sec. 505) Requires the OMB Director to make publicly available the cost, schedule, and performance data for: (1) at least 80% of all IT investments government-wide, (2) at least 60% of all IT investments made by specified federal agencies, and (3) every IT investment in such agencies that OMB defines as a major IT investment. Allows for the waiver of such requirement in the interest of national security.\n\n(Sec. 506) Requires the Federal Acquisition Regulatory Council to prescribe a regulation making it clear that agency acquisition personnel are permitted and encouraged to engage in responsible and constructive exchanges with industry, so long as such exchanges are consistent with existing law and regulation and do not promote an unfair competitive advantage to particular firms.\n\n(Sec. 507) Establishes guidance for developing and evaluating software acquisition processes that promote procurement choices based on performance and value in a manner free of preconceived preferences based on how technology is developed, licensed, or distributed. Requires the OMB Director to issue guidance concerning the technology-neutral procurement and use of software within the federal government. Prohibits such guidance from modifying the federal policy of following technology-neutral principles when selecting and acquiring IT. Directs the CG to report to such committees on an assessment of the effectiveness of the guidance issued, an identification of barriers to widespread federal government use of specific software technologies, and appropriate recommendations."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Federal Information Technology Acquisition Reform Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Federal Information Technology Acquisition Reform Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "passed house", 
+      "is_for_portion": false, 
+      "title": "Federal Information Technology Acquisition Reform Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend titles 40, 41, and 44, United States Code, to eliminate duplication and waste in information technology acquisition and management.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T13:01:12-04:00"
+}

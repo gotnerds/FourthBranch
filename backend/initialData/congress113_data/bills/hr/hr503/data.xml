@@ -1,0 +1,202 @@
+<bill session="113" type="h" number="503" updated="2014-08-14T12:55:02-04:00">
+  <state datetime="2014-05-28T19:10:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-05-28T19:10:00-04:00"/>
+  </status>
+  <introduced datetime="2013-02-05"/>
+  <titles>
+    <title type="short" as="introduced">National Desert Storm and Desert Shield War Memorial Act</title>
+    <title type="short" as="reported to house">National Desert Storm and Desert Shield War Memorial Act</title>
+    <title type="short" as="passed house">National Desert Storm and Desert Shield War Memorial Act</title>
+    <title type="official" as="introduced">To authorize the National Desert Storm Memorial Association to establish the National Desert Storm and Desert Shield Memorial as a commemorative work in the District of Columbia, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01954"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2013-11-20"/>
+    <cosponsor thomas_id="00021" joined="2013-12-19"/>
+    <cosponsor thomas_id="01858" joined="2013-12-04"/>
+    <cosponsor thomas_id="02131" joined="2013-02-08"/>
+    <cosponsor thomas_id="00062" joined="2013-12-12"/>
+    <cosponsor thomas_id="02153" joined="2013-12-03"/>
+    <cosponsor thomas_id="02135" joined="2013-11-21"/>
+    <cosponsor thomas_id="01838" joined="2013-11-20"/>
+    <cosponsor thomas_id="00091" joined="2014-02-10"/>
+    <cosponsor thomas_id="01740" joined="2013-02-05"/>
+    <cosponsor thomas_id="01748" joined="2013-11-21"/>
+    <cosponsor thomas_id="01468" joined="2013-11-12"/>
+    <cosponsor thomas_id="02155" joined="2013-04-10"/>
+    <cosponsor thomas_id="02129" joined="2013-05-06"/>
+    <cosponsor thomas_id="01882" joined="2013-02-06"/>
+    <cosponsor thomas_id="01761" joined="2013-02-14"/>
+    <cosponsor thomas_id="01889" joined="2013-02-12"/>
+    <cosponsor thomas_id="01752" joined="2013-12-04"/>
+    <cosponsor thomas_id="02159" joined="2014-01-07"/>
+    <cosponsor thomas_id="00186" joined="2013-11-21"/>
+    <cosponsor thomas_id="00211" joined="2013-12-11"/>
+    <cosponsor thomas_id="01912" joined="2013-11-20"/>
+    <cosponsor thomas_id="01742" joined="2013-11-21"/>
+    <cosponsor thomas_id="00229" joined="2013-12-03"/>
+    <cosponsor thomas_id="02103" joined="2013-02-05"/>
+    <cosponsor thomas_id="02098" joined="2013-05-17"/>
+    <cosponsor thomas_id="02144" joined="2013-02-12"/>
+    <cosponsor thomas_id="01989" joined="2013-11-20"/>
+    <cosponsor thomas_id="01670" joined="2013-03-18"/>
+    <cosponsor thomas_id="00279" joined="2013-03-04"/>
+    <cosponsor thomas_id="02116" joined="2013-11-21"/>
+    <cosponsor thomas_id="02062" joined="2013-11-21"/>
+    <cosponsor thomas_id="02057" joined="2013-11-21"/>
+    <cosponsor thomas_id="00322" joined="2013-02-05"/>
+    <cosponsor thomas_id="02125" joined="2013-04-09"/>
+    <cosponsor thomas_id="02064" joined="2013-11-20"/>
+    <cosponsor thomas_id="02061" joined="2013-11-21"/>
+    <cosponsor thomas_id="01924" joined="2013-11-21"/>
+    <cosponsor thomas_id="02065" joined="2013-11-21"/>
+    <cosponsor thomas_id="01707" joined="2013-12-04"/>
+    <cosponsor thomas_id="02164" joined="2013-10-22"/>
+    <cosponsor thomas_id="02043" joined="2013-11-20"/>
+    <cosponsor thomas_id="01990" joined="2013-11-15"/>
+    <cosponsor thomas_id="02041" joined="2013-05-22"/>
+    <cosponsor thomas_id="01922" joined="2013-11-20"/>
+    <cosponsor thomas_id="00484" joined="2013-02-05"/>
+    <cosponsor thomas_id="02026" joined="2013-05-17"/>
+    <cosponsor thomas_id="02040" joined="2013-11-20"/>
+    <cosponsor thomas_id="01580" joined="2013-12-11"/>
+    <cosponsor thomas_id="02140" joined="2014-02-10"/>
+    <cosponsor thomas_id="02046" joined="2013-02-25"/>
+    <cosponsor thomas_id="00612" joined="2013-02-05"/>
+    <cosponsor thomas_id="02154" joined="2013-02-05"/>
+    <cosponsor thomas_id="01907" joined="2013-07-26"/>
+    <cosponsor thomas_id="02100" joined="2013-11-21"/>
+    <cosponsor thomas_id="01834" joined="2013-12-11"/>
+    <cosponsor thomas_id="00666" joined="2014-03-25"/>
+    <cosponsor thomas_id="00699" joined="2013-10-30"/>
+    <cosponsor thomas_id="01960" joined="2013-11-21"/>
+    <cosponsor thomas_id="02195" joined="2013-12-04"/>
+    <cosponsor thomas_id="02142" joined="2013-02-05"/>
+    <cosponsor thomas_id="02130" joined="2013-06-12"/>
+    <cosponsor thomas_id="01685" joined="2013-03-19"/>
+    <cosponsor thomas_id="02059" joined="2013-11-21"/>
+    <cosponsor thomas_id="01744" joined="2013-05-13"/>
+    <cosponsor thomas_id="02001" joined="2013-04-26"/>
+    <cosponsor thomas_id="02162" joined="2013-05-06"/>
+    <cosponsor thomas_id="01955" joined="2013-11-20"/>
+    <cosponsor thomas_id="02035" joined="2013-02-05"/>
+    <cosponsor thomas_id="02097" joined="2013-12-11"/>
+    <cosponsor thomas_id="01738" joined="2013-12-04"/>
+    <cosponsor thomas_id="01835" joined="2013-02-06"/>
+    <cosponsor thomas_id="02157" joined="2013-04-09"/>
+    <cosponsor thomas_id="02141" joined="2013-02-06"/>
+    <cosponsor thomas_id="01514" joined="2013-11-21"/>
+    <cosponsor thomas_id="01802" joined="2013-03-12"/>
+    <cosponsor thomas_id="01910" joined="2013-03-11"/>
+    <cosponsor thomas_id="02022" joined="2013-11-20"/>
+    <cosponsor thomas_id="00940" joined="2013-06-11"/>
+    <cosponsor thomas_id="02160" joined="2013-12-04"/>
+    <cosponsor thomas_id="01986" joined="2013-11-20"/>
+    <cosponsor thomas_id="02017" joined="2013-02-14"/>
+    <cosponsor thomas_id="02003" joined="2013-05-13"/>
+    <cosponsor thomas_id="01962" joined="2013-11-20"/>
+    <cosponsor thomas_id="01009" joined="2013-11-21"/>
+    <cosponsor thomas_id="02009" joined="2013-12-11"/>
+    <cosponsor thomas_id="01525" joined="2013-03-05"/>
+    <cosponsor thomas_id="01861" joined="2013-12-03"/>
+    <cosponsor thomas_id="02168" joined="2013-04-15"/>
+    <cosponsor thomas_id="02047" joined="2013-03-05"/>
+    <cosponsor thomas_id="02104" joined="2013-11-12"/>
+    <cosponsor thomas_id="02110" joined="2013-12-12"/>
+    <cosponsor thomas_id="01664" joined="2013-04-10"/>
+    <cosponsor thomas_id="02166" joined="2013-07-16"/>
+    <cosponsor thomas_id="01855" joined="2013-12-04"/>
+    <cosponsor thomas_id="01596" joined="2013-02-05"/>
+    <cosponsor thomas_id="02128" joined="2013-12-11"/>
+    <cosponsor thomas_id="02152" joined="2013-12-04"/>
+    <cosponsor thomas_id="01222" joined="2013-02-05"/>
+    <cosponsor thomas_id="01688" joined="2013-11-20"/>
+    <cosponsor thomas_id="01886" joined="2013-04-12"/>
+    <cosponsor thomas_id="01238" joined="2013-02-05"/>
+    <cosponsor thomas_id="01991" joined="2013-05-22"/>
+    <cosponsor thomas_id="01853" joined="2013-12-11"/>
+    <cosponsor thomas_id="02115" joined="2013-11-21"/>
+    <cosponsor thomas_id="01256" joined="2013-02-05"/>
+    <cosponsor thomas_id="02019" joined="2013-04-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-05" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-02-15">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+    </action>
+    <action datetime="2014-02-26">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2014-04-09">
+      <text>Subcommittee on Public Lands and Environmental Regulation Discharged.</text>
+    </action>
+    <action datetime="2014-04-09">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-04-09" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+    </calendar>
+    <action datetime="2014-05-06T17:26:00-04:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-437.</text>
+    </action>
+    <calendar datetime="2014-05-06T17:26:00-04:00" calendar="Union" number="325">
+      <text>Placed on the Union Calendar, Calendar No. 325.</text>
+    </calendar>
+    <action datetime="2014-05-28T17:25:00-04:00">
+      <text>Mr. Hastings (WA) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2014-05-28T17:26:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4858-4860" label="consideration"/>
+    </action>
+    <action datetime="2014-05-28T17:26:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 503.</text>
+    </action>
+    <action datetime="2014-05-28T17:34:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2014-05-28T19:02:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H4867-4868" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="242" datetime="2014-05-28T19:10:00-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 370 - 0 (Roll no. 242).</text>
+      <reference ref="CR H4858" label="text"/>
+    </vote>
+    <calendar datetime="2014-06-02" calendar="Senate Legislative" under="General Orders" number="403">
+      <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 403.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting, In Committee"/>
+    <committee subcommittee="Public Lands and Environmental Regulation" code="HSII10" name="House Natural Resources" activity="Referral, Hearings, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="995"/>
+    <bill type="s" session="113" relation="unknown" number="995"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Conflicts and wars"/>
+    <term name="District of Columbia"/>
+    <term name="Iraq"/>
+    <term name="Kuwait"/>
+    <term name="Middle East"/>
+    <term name="Military history"/>
+    <term name="Military operations and strategy"/>
+    <term name="Monuments and memorials"/>
+    <term name="Saudi Arabia"/>
+  </subjects>
+  <amendments/>
+  <summary>5/28/2014--Passed House amended.
+National Desert Storm and Desert Shield War Memorial Act - Authorizes the National Desert Storm Memorial Association to establish a commemorative work on federal land in the District of Columbia to commemorate and honor those who, as members of the Armed Forces, served on active duty in support of Operation Desert Storm or Operation Desert Shield.
+
+Prohibits the use of federal funds to pay any expense to establish the commemorative work.
+
+Requires the Association, upon payment of all expenses for the memorial's establishment (including perpetual maintenance and preservation expenses), to transmit any remaining balance to the Secretary of the Interior for deposit in the separate account with the National Park Foundation (NPF) established for crediting money provided by a sponsor of a commemorative work.
+
+Requires any remaining balance transmitted to the separate NPF account upon expiration of the authority to establish the commemorative work to be available to the Secretary or to the Administrator of the General Services Administration (GSA), as appropriate, following a specified process.</summary>
+</bill>

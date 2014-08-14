@@ -1,0 +1,82 @@
+<bill session="113" type="h" number="1084" updated="2014-08-14T12:59:56-04:00">
+  <state datetime="2013-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-12"/>
+  </status>
+  <introduced datetime="2013-03-12"/>
+  <titles>
+    <title type="official" as="introduced">To authorize the President to award a gold medal on behalf of Congress to Muhammad Ali in recognition of his contributions to the Nation.</title>
+  </titles>
+  <sponsor thomas_id="01889"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2014-02-27"/>
+    <cosponsor thomas_id="02153" joined="2014-02-11"/>
+    <cosponsor thomas_id="00091" joined="2014-02-27"/>
+    <cosponsor thomas_id="00132" joined="2014-02-11"/>
+    <cosponsor thomas_id="01761" joined="2014-02-11"/>
+    <cosponsor thomas_id="02107" joined="2014-03-06"/>
+    <cosponsor thomas_id="01474" joined="2014-02-11"/>
+    <cosponsor thomas_id="02055" joined="2014-02-25"/>
+    <cosponsor thomas_id="01864" joined="2014-02-27"/>
+    <cosponsor thomas_id="01654" joined="2014-02-11"/>
+    <cosponsor thomas_id="01790" joined="2014-02-11"/>
+    <cosponsor thomas_id="00208" joined="2014-02-27"/>
+    <cosponsor thomas_id="01878" joined="2014-02-11"/>
+    <cosponsor thomas_id="00229" joined="2014-02-11"/>
+    <cosponsor thomas_id="00256" joined="2014-03-11"/>
+    <cosponsor thomas_id="01477" joined="2014-02-27"/>
+    <cosponsor thomas_id="01894" joined="2014-02-11"/>
+    <cosponsor thomas_id="02125" joined="2014-03-13"/>
+    <cosponsor thomas_id="01895" joined="2014-02-25"/>
+    <cosponsor thomas_id="01708" joined="2014-02-11"/>
+    <cosponsor thomas_id="02041" joined="2014-02-11"/>
+    <cosponsor thomas_id="00511" joined="2014-02-11"/>
+    <cosponsor thomas_id="02147" joined="2014-02-11"/>
+    <cosponsor thomas_id="01640" joined="2013-03-15"/>
+    <cosponsor thomas_id="00588" joined="2014-02-25"/>
+    <cosponsor thomas_id="00599" joined="2014-02-11"/>
+    <cosponsor thomas_id="01843" joined="2014-02-11"/>
+    <cosponsor thomas_id="00616" joined="2014-06-11"/>
+    <cosponsor thomas_id="02190" joined="2014-02-27"/>
+    <cosponsor thomas_id="01501" joined="2014-02-27"/>
+    <cosponsor thomas_id="00688" joined="2014-02-27"/>
+    <cosponsor thomas_id="01846" joined="2014-02-11"/>
+    <cosponsor thomas_id="01653" joined="2014-02-11"/>
+    <cosponsor thomas_id="01506" joined="2014-02-11"/>
+    <cosponsor thomas_id="01811" joined="2014-02-27"/>
+    <cosponsor thomas_id="00832" joined="2014-03-06"/>
+    <cosponsor thomas_id="00868" joined="2014-02-11"/>
+    <cosponsor thomas_id="02097" joined="2014-02-27"/>
+    <cosponsor thomas_id="00944" joined="2014-02-25"/>
+    <cosponsor thomas_id="01003" joined="2014-02-11"/>
+    <cosponsor thomas_id="01588" joined="2014-02-27"/>
+    <cosponsor thomas_id="01037" joined="2014-02-27"/>
+    <cosponsor thomas_id="01042" joined="2014-02-11"/>
+    <cosponsor thomas_id="01151" joined="2014-02-27"/>
+    <cosponsor thomas_id="02112" joined="2014-02-25"/>
+    <cosponsor thomas_id="01188" joined="2014-02-25"/>
+    <cosponsor thomas_id="01205" joined="2014-02-11"/>
+    <cosponsor thomas_id="01853" joined="2014-04-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-12">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E271"/>
+    </action>
+    <action datetime="2013-03-12" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Athletes"/>
+    <term name="Congressional tributes"/>
+  </subjects>
+  <amendments/>
+  <summary>3/12/2013--Introduced.
+Directs the Speaker of the House of Representatives and the President Pro Tempore of the Senate to make arrangements for the presentation of a congressional gold medal to Muhammad Ali in recognition of his contributions to the nation.</summary>
+</bill>

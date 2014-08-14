@@ -1,0 +1,51 @@
+<bill session="113" type="h" number="4541" updated="2014-08-14T13:30:06-04:00">
+  <state datetime="2014-05-01">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-01"/>
+  </status>
+  <introduced datetime="2014-05-01"/>
+  <titles>
+    <title type="short" as="introduced">Skills Gap Strategy Act of 2014</title>
+    <title type="official" as="introduced">To direct the Secretary of Labor to develop a strategy report to address the skills gap by providing recommendations to increase on-the-job training and apprenticeship opportunities, increase employer participation in education and workforce training, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02159"/>
+  <cosponsors>
+    <cosponsor thomas_id="02106" joined="2014-05-09"/>
+    <cosponsor thomas_id="01970" joined="2014-06-11"/>
+    <cosponsor thomas_id="01797" joined="2014-05-01"/>
+    <cosponsor thomas_id="01501" joined="2014-06-25"/>
+    <cosponsor thomas_id="00868" joined="2014-05-01"/>
+    <cosponsor thomas_id="02171" joined="2014-06-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-01" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2014-06-13">
+      <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee subcommittee="Higher Education and Workforce Training" code="HSED13" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="4591"/>
+    <bill type="s" session="113" relation="unknown" number="1619"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Congressional oversight"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Employment and training programs"/>
+    <term name="Higher education"/>
+    <term name="Public-private cooperation"/>
+    <term name="Teaching, teachers, curricula"/>
+    <term name="Vocational education"/>
+  </subjects>
+  <amendments/>
+  <summary>5/1/2014--Introduced.
+Skills Gap Strategy Act of 2014 - Directs the Secretary of Labor to develop a strategy report to address the skills gap by providing analysis and recommendations to increase on-the-job training and apprenticeship opportunities, identify industry-recognized postsecondary credentials that are nationally portable and aligned with in-demand occupations in industries such as construction, manufacturing, and others that are emerging, and increase employer participation in education and workforce training.
+
+Defines the term "skills gap" as the difference, or gap, between the current supply of labor and skills of the workforce and that which is desired by employers.</summary>
+</bill>

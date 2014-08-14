@@ -1,0 +1,80 @@
+<bill session="113" type="sr" number="313" updated="2014-08-14T13:42:29-04:00">
+  <state datetime="2013-12-09">REFERRED</state>
+  <status>
+    <introduced datetime="2013-12-09"/>
+  </status>
+  <introduced datetime="2013-12-09"/>
+  <titles>
+    <title type="official" as="introduced">A resolution designating November 30, 2013, as "Small Business Saturday" and supporting efforts to increase awareness of the value of locally owned small business.</title>
+  </titles>
+  <sponsor thomas_id="01546"/>
+  <cosponsors>
+    <cosponsor thomas_id="02075" joined="2013-12-09"/>
+    <cosponsor thomas_id="01881" joined="2013-12-09"/>
+    <cosponsor thomas_id="00066" joined="2013-12-09"/>
+    <cosponsor thomas_id="01898" joined="2013-12-09"/>
+    <cosponsor thomas_id="01965" joined="2013-12-09"/>
+    <cosponsor thomas_id="01687" joined="2013-12-09"/>
+    <cosponsor thomas_id="00116" joined="2013-12-09"/>
+    <cosponsor thomas_id="00172" joined="2013-12-09"/>
+    <cosponsor thomas_id="00174" joined="2013-12-09"/>
+    <cosponsor thomas_id="00179" joined="2013-12-09"/>
+    <cosponsor thomas_id="00188" joined="2013-12-09"/>
+    <cosponsor thomas_id="01984" joined="2013-12-09"/>
+    <cosponsor thomas_id="00250" joined="2013-12-09"/>
+    <cosponsor thomas_id="01542" joined="2013-12-09"/>
+    <cosponsor thomas_id="01332" joined="2013-12-09"/>
+    <cosponsor thomas_id="02179" joined="2013-12-09"/>
+    <cosponsor thomas_id="01902" joined="2013-12-09"/>
+    <cosponsor thomas_id="01351" joined="2013-12-09"/>
+    <cosponsor thomas_id="02174" joined="2013-12-09"/>
+    <cosponsor thomas_id="01844" joined="2013-12-09"/>
+    <cosponsor thomas_id="02079" joined="2013-12-09"/>
+    <cosponsor thomas_id="02086" joined="2013-12-09"/>
+    <cosponsor thomas_id="00604" joined="2013-12-09"/>
+    <cosponsor thomas_id="02176" joined="2013-12-09"/>
+    <cosponsor thomas_id="02185" joined="2013-12-09"/>
+    <cosponsor thomas_id="01647" joined="2013-12-09"/>
+    <cosponsor thomas_id="01384" joined="2013-12-09"/>
+    <cosponsor thomas_id="01983" joined="2013-12-09"/>
+    <cosponsor thomas_id="00791" joined="2013-12-09"/>
+    <cosponsor thomas_id="01409" joined="2013-12-09"/>
+    <cosponsor thomas_id="00924" joined="2013-12-09"/>
+    <cosponsor thomas_id="01701" joined="2013-12-09"/>
+    <cosponsor thomas_id="01896" joined="2013-12-09"/>
+    <cosponsor thomas_id="00968" joined="2013-12-09"/>
+    <cosponsor thomas_id="02084" joined="2013-12-09"/>
+    <cosponsor thomas_id="02173" joined="2013-12-09"/>
+    <cosponsor thomas_id="02056" joined="2013-12-09"/>
+    <cosponsor thomas_id="01901" joined="2013-12-09"/>
+    <cosponsor thomas_id="01829" joined="2013-12-09"/>
+    <cosponsor thomas_id="01534" joined="2013-12-09"/>
+    <cosponsor thomas_id="01567" joined="2013-12-09"/>
+    <cosponsor thomas_id="01897" joined="2013-12-09"/>
+    <cosponsor thomas_id="01823" joined="2013-12-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-12-09" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S8573" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="113" relation="unknown" number="410"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Economic performance and conditions"/>
+    <term name="Retail and wholesale trades"/>
+    <term name="Small business"/>
+  </subjects>
+  <amendments/>
+  <summary>12/9/2013--Introduced.
+Designates November 30, 2013, as Small Business Saturday.
+
+Expresses support for efforts to: (1) encourage consumers to shop locally, and (2) increase awareness of the value of locally owned small businesses and the impact of such businesses on the U.S. economy.</summary>
+</bill>

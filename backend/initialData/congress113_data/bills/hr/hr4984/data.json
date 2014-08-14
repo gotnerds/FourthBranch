@@ -1,0 +1,599 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-26", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and the Workforce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-07-10", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-10", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by Voice Vote.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-07-17T13:07:00-04:00", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 113-531.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-17T13:07:00-04:00", 
+      "calendar": "Union", 
+      "number": "397", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 397.", 
+      "type": "calendar", 
+      "under": null
+    }, 
+    {
+      "acted_at": "2014-07-22T19:40:00-04:00", 
+      "bill_ids": [
+        "hres677-113", 
+        "hr3136-113"
+      ], 
+      "committees": [
+        "HSRU"
+      ], 
+      "references": [], 
+      "text": "Rules Committee Resolution H. Res. 677 Reported to House. The rules provides a structured rule for H.R. 3136 and H.R. 4984. Both bills are debatable for one hour with or without instructions.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-23T14:46:00-04:00", 
+      "bill_ids": [
+        "hres677-113"
+      ], 
+      "references": [], 
+      "text": "Rule H. Res. 677 passed House.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-24T12:40:00-04:00", 
+      "bill_ids": [
+        "hres677-113"
+      ], 
+      "references": [
+        {
+          "reference": "CR H6758-6767", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6761-6763", 
+          "type": "text of amendment in the nature of a substitute"
+        }
+      ], 
+      "text": "Considered under the provisions of rule H. Res. 677.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-24T12:40:00-04:00", 
+      "bill_ids": [
+        "hres677-113"
+      ], 
+      "references": [], 
+      "text": "House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 677 and Rule XVIII.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-24T12:40:00-04:00", 
+      "references": [], 
+      "text": "The Speaker designated the Honorable Diane Black to act as Chairwoman of the Committee.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-24T12:40:00-04:00", 
+      "references": [], 
+      "text": "GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 4984.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-24T13:03:00-04:00", 
+      "bill_ids": [
+        "hres677-113"
+      ], 
+      "references": [], 
+      "text": "DEBATE - Pursuant to the provisions of H. Res. 677, the Committee of the Whole proceeded with 10 minutes of debate on the Kline Part B amendment No. 1.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-24T13:09:00-04:00", 
+      "bill_ids": [
+        "hres677-113"
+      ], 
+      "references": [], 
+      "text": "DEBATE - Pursuant to the provisions of H. Res. 677, the Committee of the Whole proceeded with 10 minutes of debate on the Kilmer part B amendment No. 2.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-24T13:17:00-04:00", 
+      "references": [], 
+      "text": "POSTPONED PROCEEDINGS - At the conclusion of debate on the Kilmer amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Kilmer demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-24T13:18:00-04:00", 
+      "bill_ids": [
+        "hres677-113"
+      ], 
+      "references": [], 
+      "text": "DEBATE - Pursuant to the provisions of H. Res. 677, the Committee of the Whole proceeded with 10 minutes of debate on the Murphy (FL) part B amendment No. 3.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-24T13:23:00-04:00", 
+      "bill_ids": [
+        "hres677-113"
+      ], 
+      "references": [], 
+      "text": "DEBATE - Pursuant to the provisions of H. Res. 677, the Committee of the Whole proceeded with 10 minutes of debate on the Loretta Sanchez part B amendment No. 4.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-24T13:28:00-04:00", 
+      "bill_ids": [
+        "hres677-113"
+      ], 
+      "references": [], 
+      "text": "DEBATE - Pursuant to the provisions of H. Res. 677, the Committee of the Whole proceeded with 10 minutes of debate on the part B Cohen amendment No. 5.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-24T13:35:00-04:00", 
+      "bill_ids": [
+        "hres677-113"
+      ], 
+      "references": [], 
+      "text": "DEBATE - Pursuant to the provisions of H. Res. 677, the Committee of the Whole proceeded with 10 minutes of debate on the Hahn part B amendment No. 6.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-24T13:39:00-04:00", 
+      "bill_ids": [
+        "hres677-113"
+      ], 
+      "references": [], 
+      "text": "DEBATE - Pursuant to the provisions of H. Res. 677, the Committee of the Whole proceeded with 10 minutes of debate on the Peters (MI) part B amendment No. 7.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-24T13:42:00-04:00", 
+      "references": [], 
+      "text": "Mr. Kline moved that the Committee rise.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-24T13:42:00-04:00", 
+      "references": [], 
+      "text": "On motion that the Committee rise Agreed to by voice vote.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-24T13:42:00-04:00", 
+      "references": [], 
+      "text": "Committee of the Whole House on the state of the Union rises leaving H.R. 4984 as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-24T15:10:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6775-6778", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "Considered as unfinished business.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-24T15:10:00-04:00", 
+      "references": [], 
+      "text": "The House resolved into Committee of the Whole House on the state of the Union for further consideration.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-24T15:10:00-04:00", 
+      "references": [], 
+      "text": "UNFINISHED BUSINESS - The Chair announced that the unfinished business was on the adoption of the Kilmer amendment No. 2, which was debated earlier and on which further proceedings had been postponed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-24T15:17:00-04:00", 
+      "references": [], 
+      "text": "The House rose from the Committee of the Whole House on the state of the Union to report H.R. 4984.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-24T15:18:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6776", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "The previous question was ordered pursuant to the rule.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-24T15:18:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6761-6763", 
+          "type": "text of amendment in the nature of a substitute"
+        }
+      ], 
+      "text": "The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-24T15:18:00-04:00", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [
+        {
+          "reference": "CR H6776-6777", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR H6776", 
+          "type": "text"
+        }
+      ], 
+      "text": "Mr. Tierney moved to recommit with instructions to the Committee on Education and the Workforce.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-24T15:20:00-04:00", 
+      "references": [], 
+      "text": "DEBATE - The House proceeded with 10 minutes of debate on the motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to require that borrowers be informed of the amount of money they would pay if they were able to refinance their loans.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-24T15:25:00-04:00", 
+      "references": [
+        {
+          "reference": "CR H6777", 
+          "type": "consideration"
+        }
+      ], 
+      "text": "The previous question on the motion to recommit with instructions was ordered without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-24T15:33:00-04:00", 
+      "references": [], 
+      "text": "On motion to recommit with instructions Failed by recorded vote: 193 - 220 (Roll no. 445).", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-24T15:39:00-04:00", 
+      "how": "roll", 
+      "references": [], 
+      "result": "pass", 
+      "roll": "446", 
+      "status": "PASS_OVER:HOUSE", 
+      "suspension": null, 
+      "text": "On passage Passed by recorded vote: 405 - 11 (Roll no. 446).", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "h"
+    }, 
+    {
+      "acted_at": "2014-07-24T15:39:00-04:00", 
+      "references": [], 
+      "text": "Motion to reconsider laid on the table Agreed to without objection.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-28", 
+      "committees": [
+        "SSHR"
+      ], 
+      "references": [], 
+      "text": "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "hamdt1116-113", 
+      "amendment_type": "hamdt", 
+      "chamber": "h", 
+      "number": "1116"
+    }, 
+    {
+      "amendment_id": "hamdt1117-113", 
+      "amendment_type": "hamdt", 
+      "chamber": "h", 
+      "number": "1117"
+    }, 
+    {
+      "amendment_id": "hamdt1118-113", 
+      "amendment_type": "hamdt", 
+      "chamber": "h", 
+      "number": "1118"
+    }, 
+    {
+      "amendment_id": "hamdt1119-113", 
+      "amendment_type": "hamdt", 
+      "chamber": "h", 
+      "number": "1119"
+    }, 
+    {
+      "amendment_id": "hamdt1120-113", 
+      "amendment_type": "hamdt", 
+      "chamber": "h", 
+      "number": "1120"
+    }, 
+    {
+      "amendment_id": "hamdt1121-113", 
+      "amendment_type": "hamdt", 
+      "chamber": "h", 
+      "number": "1121"
+    }, 
+    {
+      "amendment_id": "hamdt1122-113", 
+      "amendment_type": "hamdt", 
+      "chamber": "h", 
+      "number": "1122"
+    }
+  ], 
+  "bill_id": "hr4984-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "1", 
+      "name": "Bonamici, Suzanne", 
+      "sponsored_at": "2014-07-14", 
+      "state": "OR", 
+      "thomas_id": "02092", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Brooks, Susan W.", 
+      "sponsored_at": "2014-07-09", 
+      "state": "IN", 
+      "thomas_id": "02129", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Bucshon, Larry", 
+      "sponsored_at": "2014-07-09", 
+      "state": "IN", 
+      "thomas_id": "02018", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Capito, Shelley Moore", 
+      "sponsored_at": "2014-07-14", 
+      "state": "WV", 
+      "thomas_id": "01676", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Heck, Joseph J.", 
+      "sponsored_at": "2014-07-09", 
+      "state": "NV", 
+      "thomas_id": "02040", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Hudson, Richard", 
+      "sponsored_at": "2014-06-26", 
+      "state": "NC", 
+      "thomas_id": "02140", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Kelly, Mike", 
+      "sponsored_at": "2014-07-09", 
+      "state": "PA", 
+      "thomas_id": "02051", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "King, Peter T.", 
+      "sponsored_at": "2014-07-17", 
+      "state": "NY", 
+      "thomas_id": "00635", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Kline, John", 
+      "sponsored_at": "2014-06-26", 
+      "state": "MN", 
+      "thomas_id": "01733", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Messer, Luke", 
+      "sponsored_at": "2014-07-09", 
+      "state": "IN", 
+      "thomas_id": "02130", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "11", 
+      "name": "Miller, George", 
+      "sponsored_at": "2014-07-17", 
+      "state": "CA", 
+      "thomas_id": "00808", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "1", 
+      "name": "Roe, David P.", 
+      "sponsored_at": "2014-07-09", 
+      "state": "TN", 
+      "thomas_id": "01954", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Rokita, Todd", 
+      "sponsored_at": "2014-07-09", 
+      "state": "IN", 
+      "thomas_id": "02017", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Rothfus, Keith J.", 
+      "sponsored_at": "2014-07-14", 
+      "state": "PA", 
+      "thomas_id": "02158", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "39", 
+      "name": "Royce, Edward R.", 
+      "sponsored_at": "2014-07-17", 
+      "state": "CA", 
+      "thomas_id": "00998", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Sablan, Gregorio Kilili Camacho", 
+      "sponsored_at": "2014-07-17", 
+      "state": "MP", 
+      "thomas_id": "01962", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "5", 
+      "name": "Thompson, Glenn", 
+      "sponsored_at": "2014-07-09", 
+      "state": "PA", 
+      "thomas_id": "01952", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-07-10", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "house_passage_result": "pass", 
+    "house_passage_result_at": "2014-07-24T15:39:00-04:00", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-06-26", 
+  "number": "4984", 
+  "official_title": "To amend the loan counseling requirements under the Higher Education Act of 1965, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hres677-113", 
+      "reason": "rule", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Empowering Students Through Enhanced Financial Counseling Act", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Guthrie, Brett", 
+    "state": "KY", 
+    "thomas_id": "01922", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "PASS_OVER:HOUSE", 
+  "status_at": "2014-07-24T15:39:00-04:00", 
+  "subjects": [
+    "Consumer affairs", 
+    "Education", 
+    "Government information and archives", 
+    "Government lending and loan guarantees", 
+    "Higher education", 
+    "Interest, dividends, interest rates", 
+    "School administration", 
+    "Student aid and college costs"
+  ], 
+  "subjects_top_term": "Education", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-06-26", 
+    "text": "Empowering Students Through Enhanced Financial Counseling Act - Amends title IV (Student Assistance) of the Higher Education Act of 1965 to require institutions of higher education (IHEs) to provide annual (currently, entrance) counseling to student borrowers under the William D. Ford Federal Direct Loan program, beginning at or prior to the student's acceptance of the loan. Requires that counseling to be conducted in person, online, or through the use of an online counseling tool maintained by the Secretary of Education.\n\nAdds to the information such counseling shall provide:\n\n an explanation that the borrower is not required to accept the full amount of the loan; an explanation that the borrower should consider accepting any grant, scholarship, or state or federal work-study jobs for which the borrower is eligible before accepting federal student loans; a recommendation to exhaust the borrower's federal student loan options prior to taking out private loans which may not offer as favorable terms and repayment options as federal student loans; an explanation of the educational expenses Direct Loans cover; information on the annual and aggregate limits on such loans; and information regarding the borrower's outstanding balance and anticipated monthly payment amount. Requires the exit counseling IHEs provide to student borrowers of loans under the Federal Family Education Loan (FFEL), Direct Loan, and Federal Perkins Loan programs to be conducted through: (1) the use of an interactive program, (2) during an in-person or online session, or (3) through the use of an online counseling tool maintained by the Secretary.\n\nAdds to the information such counseling shall provide:\n\n the outstanding principal and interest due on the loans; an explanation of the grace period preceding repayment and the expected date the borrower will enter repayment; an explanation that the borrower has the option to pay any interest that accrued while the borrower was in school or that may accrue during grace, deferment, or forbearance periods, prior to the capitalization of the interest; information showing the borrower's anticipated monthly payments under different repayment plans; and contact information for the loan servicer and a link to such servicer's website. Requires IHEs to provide annual counseling to Federal Pell Grant recipients that is conducted in person, online, or through the use of an online counseling tool maintained by the Secretary.\n\nRequires such counseling to include an explanation of:\n\n the Pell Grant; the educational expenses such Grants cover; why the student may have to repay the Grant; the maximum number of semesters or equivalent periods for which the student may be eligible for the Grant and the amount of time remaining on such eligibility; how the student may budget for typical educational expenses; and how the student may seek additional financial assistance from the IHE's financial aid office due to changes in the student's financial circumstances, including contact information for that office. Directs the Secretary to maintain a consumer tested online counseling tool to help students understand their rights and obligations in borrowing Direct Loans and receiving Pell Grants."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Empowering Students Through Enhanced Financial Counseling Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the loan counseling requirements under the Higher Education Act of 1965, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T13:34:00-04:00"
+}

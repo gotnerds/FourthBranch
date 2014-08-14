@@ -1,0 +1,65 @@
+<bill session="113" type="h" number="4618" updated="2014-08-14T13:30:45-04:00">
+  <state datetime="2014-05-08">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-08"/>
+  </status>
+  <introduced datetime="2014-05-08"/>
+  <titles>
+    <title type="short" as="introduced">Solitary Confinement Study and Reform Act of 2014</title>
+    <title type="official" as="introduced">To develop and implement national standards for the use of solitary confinement in the Nation's prisons, jails, and juvenile detention facilities.</title>
+  </titles>
+  <sponsor thomas_id="02023"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2014-05-08"/>
+    <cosponsor thomas_id="02107" joined="2014-05-08"/>
+    <cosponsor thomas_id="01970" joined="2014-06-10"/>
+    <cosponsor thomas_id="00229" joined="2014-05-08"/>
+    <cosponsor thomas_id="01477" joined="2014-05-08"/>
+    <cosponsor thomas_id="01857" joined="2014-05-08"/>
+    <cosponsor thomas_id="02125" joined="2014-05-09"/>
+    <cosponsor thomas_id="01895" joined="2014-05-28"/>
+    <cosponsor thomas_id="01708" joined="2014-05-08"/>
+    <cosponsor thomas_id="00511" joined="2014-05-08"/>
+    <cosponsor thomas_id="01634" joined="2014-05-08"/>
+    <cosponsor thomas_id="00588" joined="2014-05-08"/>
+    <cosponsor thomas_id="01843" joined="2014-05-09"/>
+    <cosponsor thomas_id="00616" joined="2014-05-08"/>
+    <cosponsor thomas_id="02190" joined="2014-05-08"/>
+    <cosponsor thomas_id="01811" joined="2014-05-08"/>
+    <cosponsor thomas_id="00832" joined="2014-07-25"/>
+    <cosponsor thomas_id="00868" joined="2014-05-08"/>
+    <cosponsor thomas_id="02171" joined="2014-06-10"/>
+    <cosponsor thomas_id="01910" joined="2014-05-08"/>
+    <cosponsor thomas_id="00944" joined="2014-05-08"/>
+    <cosponsor thomas_id="01151" joined="2014-05-08"/>
+    <cosponsor thomas_id="02004" joined="2014-05-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-08" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2014-07-21">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Administrative remedies"/>
+    <term name="Advisory bodies"/>
+    <term name="Correctional facilities and imprisonment"/>
+    <term name="Department of Justice"/>
+    <term name="Detention of persons"/>
+    <term name="Government studies and investigations"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Mental health"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+</bill>

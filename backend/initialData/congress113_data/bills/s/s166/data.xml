@@ -1,0 +1,63 @@
+<bill session="113" type="s" number="166" updated="2014-08-14T13:46:10-04:00">
+  <state datetime="2013-03-11">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2013-03-11"/>
+  </status>
+  <introduced datetime="2013-01-28"/>
+  <titles>
+    <title type="official" as="introduced">A bill to designate the new Interstate Route 70 bridge over the Mississippi River connecting St. Louis, Missouri and southwestern Illinois as the "Stan Musial Memorial Bridge".</title>
+  </titles>
+  <sponsor thomas_id="01820"/>
+  <cosponsors>
+    <cosponsor thomas_id="01464" joined="2013-01-28"/>
+    <cosponsor thomas_id="00326" joined="2013-01-28"/>
+    <cosponsor thomas_id="01647" joined="2013-01-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-28" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <action datetime="2013-03-11">
+      <text>Senate Committee on Environment and Public Works discharged by Unanimous Consent.</text>
+      <reference ref="CR S1668" label="consideration"/>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2013-03-11" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S1668" label="text"/>
+    </vote>
+    <action datetime="2013-03-12">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2013-03-12T14:15:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2013-03-12">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2013-03-13">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEV" name="Senate Environment and Public Works" activity="Referral, Discharged"/>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+    <committee subcommittee="Highways and Transit" code="HSPW12" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="420"/>
+    <bill type="h" session="113" relation="unknown" number="420"/>
+    <bill type="h" session="113" relation="unknown" number="2383"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Athletes"/>
+    <term name="Congressional tributes"/>
+    <term name="Illinois"/>
+    <term name="Missouri"/>
+    <term name="Professional sports"/>
+    <term name="Roads and highways"/>
+  </subjects>
+  <amendments/>
+  <summary>3/11/2013--Passed Senate without amendment.
+Designates the new Interstate Route 70 bridge over the Mississippi River that connects St. Louis, Missouri, to southwestern Illinois as the "Stan Musial Memorial Bridge."</summary>
+</bill>

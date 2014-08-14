@@ -1,0 +1,79 @@
+<bill session="113" type="h" number="4347" updated="2014-08-14T13:28:29-04:00">
+  <state datetime="2014-06-26">REPORTED</state>
+  <status>
+    <unknown datetime="2014-06-26"/>
+  </status>
+  <introduced datetime="2014-03-28"/>
+  <titles>
+    <title type="short" as="introduced">Turkey Christian Churches Accountability Act</title>
+    <title type="official" as="introduced">To require the Secretary of State to provide an annual report to Congress regarding United States Government efforts to survey and secure the return, protection, and restoration of stolen, confiscated, or otherwise unreturned Christian properties in the Republic of Turkey and in those areas currently occupied by the Turkish military in northern Cyprus.</title>
+  </titles>
+  <sponsor thomas_id="00998"/>
+  <cosponsors>
+    <cosponsor thomas_id="01838" joined="2014-05-07"/>
+    <cosponsor thomas_id="01970" joined="2014-07-31"/>
+    <cosponsor thomas_id="02055" joined="2014-06-10"/>
+    <cosponsor thomas_id="02196" joined="2014-06-19"/>
+    <cosponsor thomas_id="01774" joined="2014-06-10"/>
+    <cosponsor thomas_id="00344" joined="2014-03-28"/>
+    <cosponsor thomas_id="00355" joined="2014-05-19"/>
+    <cosponsor thomas_id="02089" joined="2014-07-31"/>
+    <cosponsor thomas_id="01668" joined="2014-06-25"/>
+    <cosponsor thomas_id="02111" joined="2014-06-20"/>
+    <cosponsor thomas_id="00729" joined="2014-06-25"/>
+    <cosponsor thomas_id="01504" joined="2014-04-03"/>
+    <cosponsor thomas_id="02148" joined="2014-05-07"/>
+    <cosponsor thomas_id="01602" joined="2014-05-19"/>
+    <cosponsor thomas_id="02001" joined="2014-04-09"/>
+    <cosponsor thomas_id="00887" joined="2014-05-19"/>
+    <cosponsor thomas_id="01802" joined="2014-06-23"/>
+    <cosponsor thomas_id="01757" joined="2014-07-28"/>
+    <cosponsor thomas_id="01854" joined="2014-05-19"/>
+    <cosponsor thomas_id="01635" joined="2014-06-10"/>
+    <cosponsor thomas_id="01526" joined="2014-05-19"/>
+    <cosponsor thomas_id="01818" joined="2014-06-20"/>
+    <cosponsor thomas_id="01071" joined="2014-06-17"/>
+    <cosponsor thomas_id="01890" joined="2014-06-25"/>
+    <cosponsor thomas_id="01940" joined="2014-06-24"/>
+    <cosponsor thomas_id="01884" joined="2014-06-20"/>
+    <cosponsor thomas_id="01238" joined="2014-07-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-03-28" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2014-06-26">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-06-26" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Art, artists, authorship"/>
+    <term name="Congressional oversight"/>
+    <term name="Crimes against property"/>
+    <term name="Cyprus"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Europe"/>
+    <term name="Government information and archives"/>
+    <term name="Historical and cultural resources"/>
+    <term name="Human rights"/>
+    <term name="Middle East"/>
+    <term name="Military operations and strategy"/>
+    <term name="Religion"/>
+    <term name="Turkey"/>
+  </subjects>
+  <amendments/>
+  <summary>3/28/2014--Introduced.
+Turkey Christian Churches Accountability Act - Directs the Secretary of State to report annually to Congress until 2021 on the status and return of stolen, confiscated, or otherwise unreturned Christian churches, places of worship, and other properties in or from the Republic of Turkey and in the areas of northern Cyprus occupied by the Turkish military.
+
+Requires such report to: (1) list all the Christian churches, places of worship, and other religious properties, including movable properties such as artwork and other artifacts, in or from Turkey and in the territories of the Republic of Cyprus under military occupation by Turkey that are claimed as stolen, confiscated, or otherwise wrongfully removed from their Christian church owners; and (2) describe all engagement over the previous year on this issue by Department of State officials with representatives of the Republic of Turkey.
+
+ Requires that a summary of such information be included in the annual Country Reports on Human Rights Practices and the International Religious Freedom Reports.</summary>
+</bill>

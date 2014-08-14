@@ -1,0 +1,32 @@
+<bill session="113" type="h" number="5329" updated="2014-08-14T13:36:58-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="short" as="introduced">Accountable Recovery Act</title>
+    <title type="official" as="introduced">To amend the Endangered Species Act of 1973 to require establishment of objective numerical recovery goals for removal of species from lists of endangered species and threatened species under that Act, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01805"/>
+  <cosponsors>
+    <cosponsor thomas_id="01989" joined="2014-07-31"/>
+    <cosponsor thomas_id="00711" joined="2014-07-31"/>
+    <cosponsor thomas_id="01758" joined="2014-07-31"/>
+    <cosponsor thomas_id="01738" joined="2014-07-31"/>
+    <cosponsor thomas_id="02073" joined="2014-07-31"/>
+    <cosponsor thomas_id="01952" joined="2014-07-31"/>
+    <cosponsor thomas_id="01155" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

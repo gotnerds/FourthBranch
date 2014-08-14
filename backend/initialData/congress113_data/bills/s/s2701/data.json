@@ -1,0 +1,70 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-30", 
+      "committees": [
+        "SSFI"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Finance.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2701-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Finance", 
+      "committee_id": "SSFI"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-07-30", 
+  "number": "2701", 
+  "official_title": "A bill to require the Secretary of Health and Human Services to address certain inconsistencies between the self-attested information provided by an applicant in enrolling in a health plan on an Exchange and being determined eligible for premium tax credits and cost-sharing reductions or in being determined to be eligible for enrollment in a State Medicaid plan or a State child health plan under the State Children's Health Insurance Program and the data received through the Federal Data Services Hub or from other data sources.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Stopping Illegal Obamacare Subsidies Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Vitter, David", 
+    "state": "LA", 
+    "thomas_id": "01609", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-07-30", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Stopping Illegal Obamacare Subsidies Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to require the Secretary of Health and Human Services to address certain inconsistencies between the self-attested information provided by an applicant in enrolling in a health plan on an Exchange and being determined eligible for premium tax credits and cost-sharing reductions or in being determined to be eligible for enrollment in a State Medicaid plan or a State child health plan under the State Children's Health Insurance Program and the data received through the Federal Data Services Hub or from other data sources.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T14:07:49-04:00"
+}

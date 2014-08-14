@@ -1,0 +1,24 @@
+<bill session="113" type="s" number="2654" updated="2014-08-14T14:07:25-04:00">
+  <state datetime="2014-07-24">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-24"/>
+  </status>
+  <introduced datetime="2014-07-24"/>
+  <titles>
+    <title type="short" as="introduced">Veterans' Credit Protection Act</title>
+    <title type="official" as="introduced">A bill to require the Secretary of Veterans Affairs to conduct outreach to veterans regarding the effect of certain delayed payments by the Secretary, to require the Secretary to submit to Congress an annual report regarding such delayed payments, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01546"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-24" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSVA" name="Senate Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

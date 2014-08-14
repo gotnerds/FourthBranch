@@ -1,0 +1,140 @@
+<bill session="113" type="h" number="1070" updated="2014-08-14T12:59:49-04:00">
+  <state datetime="2013-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-12"/>
+  </status>
+  <introduced datetime="2013-03-12"/>
+  <titles>
+    <title type="short" as="introduced">Removing Barriers to Colorectal Cancer Screening Act of 2013</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to waive coinsurance under Medicare for colorectal cancer screening tests, regardless of whether therapeutic intervention is required during the screening.</title>
+  </titles>
+  <sponsor thomas_id="01799"/>
+  <cosponsors>
+    <cosponsor thomas_id="01858" joined="2014-05-09"/>
+    <cosponsor thomas_id="00038" joined="2013-05-14"/>
+    <cosponsor thomas_id="02153" joined="2014-06-25"/>
+    <cosponsor thomas_id="02027" joined="2014-05-23"/>
+    <cosponsor thomas_id="02102" joined="2013-05-14"/>
+    <cosponsor thomas_id="00091" joined="2013-06-20"/>
+    <cosponsor thomas_id="00099" joined="2014-03-24"/>
+    <cosponsor thomas_id="02092" joined="2013-04-11"/>
+    <cosponsor thomas_id="01723" joined="2013-06-20"/>
+    <cosponsor thomas_id="02129" joined="2014-04-07"/>
+    <cosponsor thomas_id="01761" joined="2014-07-30"/>
+    <cosponsor thomas_id="01471" joined="2013-04-11"/>
+    <cosponsor thomas_id="02159" joined="2014-04-07"/>
+    <cosponsor thomas_id="01839" joined="2013-10-07"/>
+    <cosponsor thomas_id="01878" joined="2013-11-21"/>
+    <cosponsor thomas_id="01959" joined="2013-03-21"/>
+    <cosponsor thomas_id="01836" joined="2013-03-12"/>
+    <cosponsor thomas_id="01643" joined="2014-01-17"/>
+    <cosponsor thomas_id="00256" joined="2014-01-15"/>
+    <cosponsor thomas_id="02126" joined="2014-06-09"/>
+    <cosponsor thomas_id="01976" joined="2014-01-16"/>
+    <cosponsor thomas_id="00316" joined="2014-07-16"/>
+    <cosponsor thomas_id="01857" joined="2013-06-20"/>
+    <cosponsor thomas_id="02125" joined="2014-04-28"/>
+    <cosponsor thomas_id="00368" joined="2014-06-19"/>
+    <cosponsor thomas_id="01797" joined="2013-03-12"/>
+    <cosponsor thomas_id="01793" joined="2013-04-26"/>
+    <cosponsor thomas_id="00414" joined="2014-02-04"/>
+    <cosponsor thomas_id="01743" joined="2014-03-14"/>
+    <cosponsor thomas_id="01656" joined="2013-03-21"/>
+    <cosponsor thomas_id="01914" joined="2013-04-26"/>
+    <cosponsor thomas_id="00462" joined="2013-03-21"/>
+    <cosponsor thomas_id="01708" joined="2014-07-16"/>
+    <cosponsor thomas_id="00511" joined="2013-04-11"/>
+    <cosponsor thomas_id="02040" joined="2014-02-05"/>
+    <cosponsor thomas_id="01794" joined="2013-11-21"/>
+    <cosponsor thomas_id="01580" joined="2014-07-24"/>
+    <cosponsor thomas_id="01634" joined="2014-05-19"/>
+    <cosponsor thomas_id="02101" joined="2013-07-10"/>
+    <cosponsor thomas_id="01663" joined="2014-04-28"/>
+    <cosponsor thomas_id="01843" joined="2014-01-16"/>
+    <cosponsor thomas_id="02051" joined="2014-07-17"/>
+    <cosponsor thomas_id="02172" joined="2013-04-11"/>
+    <cosponsor thomas_id="02169" joined="2014-03-24"/>
+    <cosponsor thomas_id="01936" joined="2014-06-25"/>
+    <cosponsor thomas_id="00666" joined="2014-07-24"/>
+    <cosponsor thomas_id="01501" joined="2013-06-20"/>
+    <cosponsor thomas_id="01781" joined="2013-10-07"/>
+    <cosponsor thomas_id="01846" joined="2014-07-23"/>
+    <cosponsor thomas_id="00701" joined="2014-05-07"/>
+    <cosponsor thomas_id="02146" joined="2013-06-20"/>
+    <cosponsor thomas_id="01943" joined="2013-04-11"/>
+    <cosponsor thomas_id="00729" joined="2013-04-11"/>
+    <cosponsor thomas_id="00735" joined="2013-05-14"/>
+    <cosponsor thomas_id="01814" joined="2014-06-17"/>
+    <cosponsor thomas_id="02195" joined="2014-07-09"/>
+    <cosponsor thomas_id="01653" joined="2013-04-11"/>
+    <cosponsor thomas_id="00766" joined="2014-05-07"/>
+    <cosponsor thomas_id="01504" joined="2013-03-21"/>
+    <cosponsor thomas_id="00778" joined="2014-04-10"/>
+    <cosponsor thomas_id="02052" joined="2014-07-29"/>
+    <cosponsor thomas_id="00832" joined="2013-04-26"/>
+    <cosponsor thomas_id="01602" joined="2013-04-26"/>
+    <cosponsor thomas_id="00868" joined="2013-04-11"/>
+    <cosponsor thomas_id="01510" joined="2014-07-23"/>
+    <cosponsor thomas_id="02097" joined="2013-03-12"/>
+    <cosponsor thomas_id="02113" joined="2014-06-17"/>
+    <cosponsor thomas_id="00910" joined="2014-04-28"/>
+    <cosponsor thomas_id="02171" joined="2014-04-28"/>
+    <cosponsor thomas_id="00930" joined="2013-06-20"/>
+    <cosponsor thomas_id="00940" joined="2013-03-21"/>
+    <cosponsor thomas_id="00944" joined="2014-06-12"/>
+    <cosponsor thomas_id="02039" joined="2013-03-21"/>
+    <cosponsor thomas_id="01588" joined="2014-07-23"/>
+    <cosponsor thomas_id="01635" joined="2013-03-21"/>
+    <cosponsor thomas_id="02124" joined="2013-04-11"/>
+    <cosponsor thomas_id="01950" joined="2014-03-24"/>
+    <cosponsor thomas_id="02009" joined="2013-07-23"/>
+    <cosponsor thomas_id="01722" joined="2013-11-21"/>
+    <cosponsor thomas_id="01861" joined="2013-06-20"/>
+    <cosponsor thomas_id="01818" joined="2014-07-30"/>
+    <cosponsor thomas_id="01071" joined="2014-07-30"/>
+    <cosponsor thomas_id="01890" joined="2013-04-11"/>
+    <cosponsor thomas_id="02047" joined="2013-06-20"/>
+    <cosponsor thomas_id="02110" joined="2013-05-14"/>
+    <cosponsor thomas_id="01593" joined="2014-07-25"/>
+    <cosponsor thomas_id="01535" joined="2013-10-07"/>
+    <cosponsor thomas_id="01729" joined="2014-03-24"/>
+    <cosponsor thomas_id="02128" joined="2013-11-21"/>
+    <cosponsor thomas_id="02152" joined="2014-04-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-12" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-12">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-03-12">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-03-15">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2013-04-10">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSWM02" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2348"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Cancer"/>
+    <term name="Digestive and metabolic diseases"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>3/12/2013--Introduced.
+Removing Barriers to Colorectal Cancer Screening Act of 2013 - Amends title XVIII (Medicare) of the Social Security Act to waive coinsurance for colorectal cancer screening tests (thus covering 100% of their cost under Medicare part B [Supplementary Medical Insurance Benefits for the Aged and Disabled]).</summary>
+</bill>

@@ -1,0 +1,32 @@
+<bill session="113" type="h" number="5068" updated="2014-08-14T13:34:44-04:00">
+  <state datetime="2014-07-10">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-10"/>
+  </status>
+  <introduced datetime="2014-07-10"/>
+  <titles>
+    <title type="short" as="introduced">United States Civil Rights Trail Special Resource Study Act of 2013</title>
+    <title type="official" as="introduced">To require the Secretary of the Interior to conduct a special resource study regarding the proposed United States Civil Rights Trail, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01654"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-10" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2014-07-16">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Public Lands and Environmental Regulation" code="HSII10" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="2416"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+  <summary>7/10/2014--Introduced.
+United States Civil Rights Trail Special Resource Study Act of 2013 [sic] - Directs the Secretary of the Interior to conduct a special resource study to evaluate a range of alternatives for the protection and interpretation of sites associated with the struggle for civil rights in the United States, including alternatives for potential addition of some or all of the sites to the National Trails System. Requires submission of a report to Congress that contains the results of such study and recommendations of the Secretary with respect to the route.</summary>
+</bill>

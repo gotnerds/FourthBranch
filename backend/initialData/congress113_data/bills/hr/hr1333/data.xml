@@ -1,0 +1,81 @@
+<bill session="113" type="h" number="1333" updated="2014-08-14T13:02:03-04:00">
+  <state datetime="2013-03-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-21"/>
+  </status>
+  <introduced datetime="2013-03-21"/>
+  <titles>
+    <title type="short" as="introduced">Military Family Leave Act of 2013</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to grant family of members of the uniformed services temporary annual leave during the deployment of such members, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02159"/>
+  <cosponsors>
+    <cosponsor thomas_id="02093" joined="2013-06-12"/>
+    <cosponsor thomas_id="00099" joined="2013-04-10"/>
+    <cosponsor thomas_id="01469" joined="2013-03-21"/>
+    <cosponsor thomas_id="01845" joined="2013-03-21"/>
+    <cosponsor thomas_id="00132" joined="2014-03-24"/>
+    <cosponsor thomas_id="01471" joined="2013-03-21"/>
+    <cosponsor thomas_id="02163" joined="2013-03-21"/>
+    <cosponsor thomas_id="01970" joined="2013-04-10"/>
+    <cosponsor thomas_id="00229" joined="2013-03-21"/>
+    <cosponsor thomas_id="02144" joined="2013-03-21"/>
+    <cosponsor thomas_id="00281" joined="2013-03-21"/>
+    <cosponsor thomas_id="00299" joined="2013-03-21"/>
+    <cosponsor thomas_id="02125" joined="2014-03-28"/>
+    <cosponsor thomas_id="00371" joined="2013-03-21"/>
+    <cosponsor thomas_id="02119" joined="2013-03-21"/>
+    <cosponsor thomas_id="02122" joined="2013-03-21"/>
+    <cosponsor thomas_id="01973" joined="2014-03-24"/>
+    <cosponsor thomas_id="01580" joined="2014-03-14"/>
+    <cosponsor thomas_id="01634" joined="2013-03-21"/>
+    <cosponsor thomas_id="00588" joined="2013-09-25"/>
+    <cosponsor thomas_id="00612" joined="2013-03-21"/>
+    <cosponsor thomas_id="02172" joined="2013-03-21"/>
+    <cosponsor thomas_id="01583" joined="2013-03-21"/>
+    <cosponsor thomas_id="01501" joined="2013-03-21"/>
+    <cosponsor thomas_id="02111" joined="2013-03-21"/>
+    <cosponsor thomas_id="00729" joined="2013-03-21"/>
+    <cosponsor thomas_id="01503" joined="2013-03-21"/>
+    <cosponsor thomas_id="01653" joined="2013-03-21"/>
+    <cosponsor thomas_id="01504" joined="2013-03-21"/>
+    <cosponsor thomas_id="00832" joined="2013-04-23"/>
+    <cosponsor thomas_id="00867" joined="2013-03-21"/>
+    <cosponsor thomas_id="00868" joined="2013-03-21"/>
+    <cosponsor thomas_id="02162" joined="2013-03-21"/>
+    <cosponsor thomas_id="02113" joined="2013-12-12"/>
+    <cosponsor thomas_id="01003" joined="2014-05-09"/>
+    <cosponsor thomas_id="01962" joined="2013-10-30"/>
+    <cosponsor thomas_id="01588" joined="2013-03-21"/>
+    <cosponsor thomas_id="01861" joined="2013-05-07"/>
+    <cosponsor thomas_id="01535" joined="2013-06-05"/>
+    <cosponsor thomas_id="02004" joined="2014-06-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-21" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-04-02">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee subcommittee="Economic Opportunity" code="HSVR10" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Employee leave"/>
+    <term name="Employment discrimination and employee rights"/>
+    <term name="Military operations and strategy"/>
+    <term name="Military personnel and dependents"/>
+  </subjects>
+  <amendments/>
+  <summary>3/21/2013--Introduced.
+Military Family Leave Act of 2013 - Entitles an employed family member of a member of the Armed Forces who receives notification of a call or order to active duty in support of a contingency operation, or who is deployed in connection with a contingency operation, to two workweeks of leave per year for each family member who is so called or deployed. Allows such leave to: (1) be taken intermittently or on a reduced leave schedule; and (2) consist of paid or unpaid leave, as the employer considers appropriate.
+
+Allows an employer to require certification of entitlement to such leave within a leave request.
+
+Provides employment and benefits protection for employees upon their return from such leave. Prohibits an employer from interfering with or otherwise denying the exercise of such leave rights.</summary>
+</bill>

@@ -1,0 +1,50 @@
+<bill session="113" type="h" number="4995" updated="2014-08-14T13:34:07-04:00">
+  <state datetime="2014-06-26">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-26"/>
+  </status>
+  <introduced datetime="2014-06-26"/>
+  <titles>
+    <title type="official" as="introduced">To designate the facility of the United States Postal Service located at 6531 Van Nuys Boulevard in Van Nuys, California, as the "Marilyn Monroe Post Office".</title>
+  </titles>
+  <sponsor thomas_id="02107"/>
+  <cosponsors>
+    <cosponsor thomas_id="00165" joined="2014-07-23"/>
+    <cosponsor thomas_id="02103" joined="2014-07-30"/>
+    <cosponsor thomas_id="01774" joined="2014-06-26"/>
+    <cosponsor thomas_id="00355" joined="2014-06-26"/>
+    <cosponsor thomas_id="00368" joined="2014-06-26"/>
+    <cosponsor thomas_id="00701" joined="2014-06-26"/>
+    <cosponsor thomas_id="02111" joined="2014-06-26"/>
+    <cosponsor thomas_id="01814" joined="2014-06-26"/>
+    <cosponsor thomas_id="00778" joined="2014-06-26"/>
+    <cosponsor thomas_id="01832" joined="2014-06-26"/>
+    <cosponsor thomas_id="02113" joined="2014-06-26"/>
+    <cosponsor thomas_id="00997" joined="2014-06-26"/>
+    <cosponsor thomas_id="02109" joined="2014-06-26"/>
+    <cosponsor thomas_id="01635" joined="2014-06-26"/>
+    <cosponsor thomas_id="01526" joined="2014-06-26"/>
+    <cosponsor thomas_id="02104" joined="2014-06-26"/>
+    <cosponsor thomas_id="01593" joined="2014-06-26"/>
+    <cosponsor thomas_id="01205" joined="2014-06-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-26" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="California"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Postal service"/>
+  </subjects>
+  <amendments/>
+  <summary>6/26/2014--Introduced.
+Designates the facility of the United States Postal Service located at 6531 Van Nuys Boulevard in Van Nuys, California, as the "Marilyn Monroe Post Office."</summary>
+</bill>

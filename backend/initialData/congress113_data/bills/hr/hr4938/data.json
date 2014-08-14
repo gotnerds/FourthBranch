@@ -1,0 +1,108 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-23", 
+      "committees": [
+        "HSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Armed Services.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4938-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Armed Services", 
+      "committee_id": "HSAS"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "17", 
+      "name": "Flores, Bill", 
+      "sponsored_at": "2014-06-23", 
+      "state": "TX", 
+      "thomas_id": "02065", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "4", 
+      "name": "Pompeo, Mike", 
+      "sponsored_at": "2014-06-23", 
+      "state": "KS", 
+      "thomas_id": "02022", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-06-23", 
+  "number": "4938", 
+  "official_title": "To establish a temporary limitation on the use of funds to transfer or release individuals detained at United States Naval Station, Guantanamo Bay, Cuba.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2510-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Guantanamo Bay Detainee Transfer Suspension Act of 2014", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Gohmert, Louie", 
+    "state": "TX", 
+    "thomas_id": "01801", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-06-23", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Caribbean area", 
+    "Civil actions and liability", 
+    "Congressional oversight", 
+    "Cuba", 
+    "Detention of persons", 
+    "Latin America", 
+    "Middle East", 
+    "Military facilities and property", 
+    "Presidents and presidential powers", 
+    "Qatar", 
+    "Terrorism"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Guantanamo Bay Detainee Transfer Suspension Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To establish a temporary limitation on the use of funds to transfer or release individuals detained at United States Naval Station, Guantanamo Bay, Cuba.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T13:33:36-04:00"
+}

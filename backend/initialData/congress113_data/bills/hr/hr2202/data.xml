@@ -1,0 +1,42 @@
+<bill session="113" type="h" number="2202" updated="2014-08-14T13:10:06-04:00">
+  <state datetime="2013-05-23">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-23"/>
+  </status>
+  <introduced datetime="2013-05-23"/>
+  <titles>
+    <title type="short" as="introduced">LNG Excise Tax Equalization Act of 2013</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide for the equalization of the excise tax on liquefied natural gas and per energy equivalent of diesel.</title>
+  </titles>
+  <sponsor thomas_id="01155"/>
+  <cosponsors>
+    <cosponsor thomas_id="02151" joined="2013-09-09"/>
+    <cosponsor thomas_id="01683" joined="2014-04-08"/>
+    <cosponsor thomas_id="00511" joined="2013-11-12"/>
+    <cosponsor thomas_id="01936" joined="2013-06-06"/>
+    <cosponsor thomas_id="01583" joined="2013-05-23"/>
+    <cosponsor thomas_id="01671" joined="2013-05-23"/>
+    <cosponsor thomas_id="01566" joined="2013-06-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-23" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="2081"/>
+    <bill type="s" session="113" relation="identical" number="1103"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Motor fuels"/>
+    <term name="Oil and gas"/>
+    <term name="Sales and excise taxes"/>
+  </subjects>
+  <amendments/>
+  <summary>5/23/2013--Introduced.
+LNG Excise Tax Equalization Act of 2013 - Amends the Internal Revenue Code to adjust the excise tax on liquefied natural gas to 24.3 cents per energy equivalent of a gallon of diesel.</summary>
+</bill>

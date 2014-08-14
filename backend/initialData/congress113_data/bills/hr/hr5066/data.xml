@@ -1,0 +1,28 @@
+<bill session="113" type="h" number="5066" updated="2014-08-14T13:34:43-04:00">
+  <state datetime="2014-07-10">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-10"/>
+  </status>
+  <introduced datetime="2014-07-10"/>
+  <titles>
+    <title type="short" as="introduced">Data Preservation Act of 2014</title>
+    <title type="official" as="introduced">To reauthorize the National Geological and Geophysical Data Preservation Program Act of 2005 through 2019.</title>
+  </titles>
+  <sponsor thomas_id="02027"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-10" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2014-07-17">
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Energy and Mineral Resources" code="HSII06" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

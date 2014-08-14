@@ -1,0 +1,92 @@
+<bill session="113" type="hr" number="620" updated="2014-08-14T12:49:53-04:00">
+  <state datetime="2014-06-11">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-11"/>
+  </status>
+  <introduced datetime="2014-06-11"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the House of Representatives that the Government of Mexico should immediately release United States Marine Sgt. Andrew Tahmooressi and provide for his swift return to the United States so Sgt. Tahmooressi can receive the appropriate medical assistance for his medical condition.</title>
+  </titles>
+  <sponsor thomas_id="01802"/>
+  <cosponsors>
+    <cosponsor thomas_id="01460" joined="2014-07-08"/>
+    <cosponsor thomas_id="01780" joined="2014-07-15"/>
+    <cosponsor thomas_id="01838" joined="2014-07-08"/>
+    <cosponsor thomas_id="01787" joined="2014-07-08"/>
+    <cosponsor thomas_id="01468" joined="2014-07-15"/>
+    <cosponsor thomas_id="01987" joined="2014-06-17"/>
+    <cosponsor thomas_id="01882" joined="2014-07-08"/>
+    <cosponsor thomas_id="01751" joined="2014-06-19"/>
+    <cosponsor thomas_id="00165" joined="2014-07-25"/>
+    <cosponsor thomas_id="01742" joined="2014-07-09"/>
+    <cosponsor thomas_id="02103" joined="2014-06-17"/>
+    <cosponsor thomas_id="02116" joined="2014-06-19"/>
+    <cosponsor thomas_id="02062" joined="2014-07-28"/>
+    <cosponsor thomas_id="01976" joined="2014-07-30"/>
+    <cosponsor thomas_id="01717" joined="2014-06-24"/>
+    <cosponsor thomas_id="00322" joined="2014-07-10"/>
+    <cosponsor thomas_id="02064" joined="2014-06-24"/>
+    <cosponsor thomas_id="01797" joined="2014-07-08"/>
+    <cosponsor thomas_id="02164" joined="2014-07-30"/>
+    <cosponsor thomas_id="02120" joined="2014-07-31"/>
+    <cosponsor thomas_id="01801" joined="2014-06-24"/>
+    <cosponsor thomas_id="02041" joined="2014-07-29"/>
+    <cosponsor thomas_id="02040" joined="2014-07-08"/>
+    <cosponsor thomas_id="02020" joined="2014-07-08"/>
+    <cosponsor thomas_id="01909" joined="2014-06-17"/>
+    <cosponsor thomas_id="01921" joined="2014-07-31"/>
+    <cosponsor thomas_id="02046" joined="2014-06-17"/>
+    <cosponsor thomas_id="00612" joined="2014-07-22"/>
+    <cosponsor thomas_id="02011" joined="2014-07-30"/>
+    <cosponsor thomas_id="01936" joined="2014-07-14"/>
+    <cosponsor thomas_id="01781" joined="2014-07-31"/>
+    <cosponsor thomas_id="00699" joined="2014-07-14"/>
+    <cosponsor thomas_id="01960" joined="2014-06-24"/>
+    <cosponsor thomas_id="01806" joined="2014-06-17"/>
+    <cosponsor thomas_id="02053" joined="2014-07-09"/>
+    <cosponsor thomas_id="02060" joined="2014-07-31"/>
+    <cosponsor thomas_id="02034" joined="2014-06-19"/>
+    <cosponsor thomas_id="01955" joined="2014-07-09"/>
+    <cosponsor thomas_id="02022" joined="2014-06-19"/>
+    <cosponsor thomas_id="01986" joined="2014-07-22"/>
+    <cosponsor thomas_id="00979" joined="2014-07-09"/>
+    <cosponsor thomas_id="00985" joined="2014-06-19"/>
+    <cosponsor thomas_id="01848" joined="2014-07-28"/>
+    <cosponsor thomas_id="01009" joined="2014-06-11"/>
+    <cosponsor thomas_id="01861" joined="2014-07-22"/>
+    <cosponsor thomas_id="01818" joined="2014-06-11"/>
+    <cosponsor thomas_id="01860" joined="2014-07-09"/>
+    <cosponsor thomas_id="01071" joined="2014-07-30"/>
+    <cosponsor thomas_id="02000" joined="2014-06-24"/>
+    <cosponsor thomas_id="01566" joined="2014-07-08"/>
+    <cosponsor thomas_id="01777" joined="2014-07-08"/>
+    <cosponsor thomas_id="02161" joined="2014-07-08"/>
+    <cosponsor thomas_id="02021" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-11" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="113" relation="unknown" number="612"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Correctional facilities and imprisonment"/>
+    <term name="Detention of persons"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Firearms and explosives"/>
+    <term name="Latin America"/>
+    <term name="Mental health"/>
+    <term name="Mexico"/>
+    <term name="Military medicine"/>
+    <term name="Military personnel and dependents"/>
+  </subjects>
+  <amendments/>
+  <summary>6/11/2014--Introduced.
+Expresses the sense of the House of Representatives that: (1) the government of Mexico should release U.S. Marine Sgt. Andrew Tahmooressi and provide for his return to the United States so he can receive appropriate medical assistance, and (2) the President should utilize the full powers and authorities of his office to secure Sgt. Tahmooressi's release.</summary>
+</bill>

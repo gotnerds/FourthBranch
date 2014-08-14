@@ -1,0 +1,334 @@
+<bill session="113" type="h" number="1771" updated="2014-08-14T13:05:49-04:00">
+  <state datetime="2014-07-28T15:42:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-07-28T15:42:00-04:00"/>
+  </status>
+  <introduced datetime="2013-04-26"/>
+  <titles>
+    <title type="short" as="introduced">North Korea Sanctions Enforcement Act of 2013</title>
+    <title type="official" as="introduced">To improve the enforcement of sanctions against the Government of North Korea, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00998"/>
+  <cosponsors>
+    <cosponsor thomas_id="01858" joined="2014-05-06"/>
+    <cosponsor thomas_id="01996" joined="2013-06-10"/>
+    <cosponsor thomas_id="02027" joined="2013-06-28"/>
+    <cosponsor thomas_id="02135" joined="2013-07-16"/>
+    <cosponsor thomas_id="02102" joined="2013-06-11"/>
+    <cosponsor thomas_id="01838" joined="2013-06-26"/>
+    <cosponsor thomas_id="01753" joined="2013-06-06"/>
+    <cosponsor thomas_id="02063" joined="2013-07-08"/>
+    <cosponsor thomas_id="01748" joined="2013-07-10"/>
+    <cosponsor thomas_id="01703" joined="2013-06-19"/>
+    <cosponsor thomas_id="01723" joined="2013-06-03"/>
+    <cosponsor thomas_id="02155" joined="2013-06-19"/>
+    <cosponsor thomas_id="01987" joined="2013-06-03"/>
+    <cosponsor thomas_id="01882" joined="2013-06-27"/>
+    <cosponsor thomas_id="01889" joined="2013-06-27"/>
+    <cosponsor thomas_id="02159" joined="2013-07-26"/>
+    <cosponsor thomas_id="00186" joined="2013-04-26"/>
+    <cosponsor thomas_id="02055" joined="2013-06-24"/>
+    <cosponsor thomas_id="00211" joined="2013-08-02"/>
+    <cosponsor thomas_id="01912" joined="2013-06-27"/>
+    <cosponsor thomas_id="01742" joined="2014-05-28"/>
+    <cosponsor thomas_id="02151" joined="2013-07-16"/>
+    <cosponsor thomas_id="02121" joined="2013-06-06"/>
+    <cosponsor thomas_id="01805" joined="2013-06-12"/>
+    <cosponsor thomas_id="01959" joined="2013-05-24"/>
+    <cosponsor thomas_id="02103" joined="2013-05-16"/>
+    <cosponsor thomas_id="02098" joined="2013-05-13"/>
+    <cosponsor thomas_id="02144" joined="2014-05-29"/>
+    <cosponsor thomas_id="02133" joined="2014-06-19"/>
+    <cosponsor thomas_id="02116" joined="2013-06-26"/>
+    <cosponsor thomas_id="02062" joined="2013-06-28"/>
+    <cosponsor thomas_id="01976" joined="2013-06-17"/>
+    <cosponsor thomas_id="02072" joined="2014-06-23"/>
+    <cosponsor thomas_id="02057" joined="2014-01-13"/>
+    <cosponsor thomas_id="00344" joined="2013-04-26"/>
+    <cosponsor thomas_id="02125" joined="2013-07-09"/>
+    <cosponsor thomas_id="00371" joined="2014-07-16"/>
+    <cosponsor thomas_id="02064" joined="2013-06-26"/>
+    <cosponsor thomas_id="01683" joined="2013-06-18"/>
+    <cosponsor thomas_id="01793" joined="2013-09-09"/>
+    <cosponsor thomas_id="02122" joined="2013-05-13"/>
+    <cosponsor thomas_id="01737" joined="2013-09-18"/>
+    <cosponsor thomas_id="01801" joined="2013-06-17"/>
+    <cosponsor thomas_id="02058" joined="2013-10-04"/>
+    <cosponsor thomas_id="01656" joined="2013-08-02"/>
+    <cosponsor thomas_id="00462" joined="2013-06-28"/>
+    <cosponsor thomas_id="01990" joined="2013-07-16"/>
+    <cosponsor thomas_id="02010" joined="2013-12-04"/>
+    <cosponsor thomas_id="02044" joined="2013-07-16"/>
+    <cosponsor thomas_id="01933" joined="2013-07-08"/>
+    <cosponsor thomas_id="00511" joined="2014-04-28"/>
+    <cosponsor thomas_id="02040" joined="2013-08-02"/>
+    <cosponsor thomas_id="01794" joined="2013-06-04"/>
+    <cosponsor thomas_id="02143" joined="2013-05-13"/>
+    <cosponsor thomas_id="02028" joined="2013-07-31"/>
+    <cosponsor thomas_id="01663" joined="2013-07-16"/>
+    <cosponsor thomas_id="01921" joined="2013-06-27"/>
+    <cosponsor thomas_id="02046" joined="2013-06-28"/>
+    <cosponsor thomas_id="00603" joined="2013-06-10"/>
+    <cosponsor thomas_id="00616" joined="2014-07-10"/>
+    <cosponsor thomas_id="02172" joined="2013-07-10"/>
+    <cosponsor thomas_id="00635" joined="2013-07-09"/>
+    <cosponsor thomas_id="01724" joined="2014-05-21"/>
+    <cosponsor thomas_id="00636" joined="2013-07-08"/>
+    <cosponsor thomas_id="02014" joined="2013-05-13"/>
+    <cosponsor thomas_id="01733" joined="2013-06-04"/>
+    <cosponsor thomas_id="02100" joined="2013-06-27"/>
+    <cosponsor thomas_id="01936" joined="2013-07-16"/>
+    <cosponsor thomas_id="00666" joined="2014-05-22"/>
+    <cosponsor thomas_id="01885" joined="2013-07-17"/>
+    <cosponsor thomas_id="02111" joined="2013-05-24"/>
+    <cosponsor thomas_id="01931" joined="2013-06-26"/>
+    <cosponsor thomas_id="02146" joined="2013-07-19"/>
+    <cosponsor thomas_id="01804" joined="2013-05-13"/>
+    <cosponsor thomas_id="00766" joined="2014-01-10"/>
+    <cosponsor thomas_id="01792" joined="2013-07-08"/>
+    <cosponsor thomas_id="02142" joined="2013-05-13"/>
+    <cosponsor thomas_id="02052" joined="2013-06-12"/>
+    <cosponsor thomas_id="02148" joined="2013-05-24"/>
+    <cosponsor thomas_id="02130" joined="2013-05-13"/>
+    <cosponsor thomas_id="00800" joined="2013-06-17"/>
+    <cosponsor thomas_id="01730" joined="2013-07-08"/>
+    <cosponsor thomas_id="01685" joined="2013-06-28"/>
+    <cosponsor thomas_id="00832" joined="2013-06-27"/>
+    <cosponsor thomas_id="02156" joined="2014-06-11"/>
+    <cosponsor thomas_id="02059" joined="2013-06-28"/>
+    <cosponsor thomas_id="01602" joined="2013-07-24"/>
+    <cosponsor thomas_id="01758" joined="2013-07-08"/>
+    <cosponsor thomas_id="02060" joined="2013-07-08"/>
+    <cosponsor thomas_id="02034" joined="2013-06-26"/>
+    <cosponsor thomas_id="01955" joined="2013-07-16"/>
+    <cosponsor thomas_id="01974" joined="2013-07-09"/>
+    <cosponsor thomas_id="01930" joined="2014-06-23"/>
+    <cosponsor thomas_id="01738" joined="2013-06-12"/>
+    <cosponsor thomas_id="02157" joined="2013-05-24"/>
+    <cosponsor thomas_id="01929" joined="2013-08-02"/>
+    <cosponsor thomas_id="02113" joined="2013-07-08"/>
+    <cosponsor thomas_id="00910" joined="2013-06-17"/>
+    <cosponsor thomas_id="02141" joined="2013-07-17"/>
+    <cosponsor thomas_id="01514" joined="2013-07-19"/>
+    <cosponsor thomas_id="01802" joined="2013-04-26"/>
+    <cosponsor thomas_id="02118" joined="2013-05-13"/>
+    <cosponsor thomas_id="00940" joined="2013-07-08"/>
+    <cosponsor thomas_id="01810" joined="2014-02-04"/>
+    <cosponsor thomas_id="00979" joined="2013-04-26"/>
+    <cosponsor thomas_id="00985" joined="2013-04-26"/>
+    <cosponsor thomas_id="01848" joined="2013-05-21"/>
+    <cosponsor thomas_id="02158" joined="2013-09-17"/>
+    <cosponsor thomas_id="01003" joined="2014-06-19"/>
+    <cosponsor thomas_id="01756" joined="2013-06-25"/>
+    <cosponsor thomas_id="01962" joined="2013-06-28"/>
+    <cosponsor thomas_id="01009" joined="2013-04-26"/>
+    <cosponsor thomas_id="01757" joined="2013-07-16"/>
+    <cosponsor thomas_id="01522" joined="2014-03-26"/>
+    <cosponsor thomas_id="02124" joined="2013-05-15"/>
+    <cosponsor thomas_id="01920" joined="2013-06-10"/>
+    <cosponsor thomas_id="02009" joined="2013-07-18"/>
+    <cosponsor thomas_id="01041" joined="2013-06-04"/>
+    <cosponsor thomas_id="01525" joined="2014-01-08"/>
+    <cosponsor thomas_id="01861" joined="2013-09-09"/>
+    <cosponsor thomas_id="01526" joined="2013-04-26"/>
+    <cosponsor thomas_id="01527" joined="2013-06-27"/>
+    <cosponsor thomas_id="01590" joined="2013-08-02"/>
+    <cosponsor thomas_id="01818" joined="2013-06-04"/>
+    <cosponsor thomas_id="01528" joined="2014-01-13"/>
+    <cosponsor thomas_id="01071" joined="2013-06-17"/>
+    <cosponsor thomas_id="02191" joined="2013-06-26"/>
+    <cosponsor thomas_id="02168" joined="2013-06-28"/>
+    <cosponsor thomas_id="02047" joined="2013-07-08"/>
+    <cosponsor thomas_id="01114" joined="2013-05-13"/>
+    <cosponsor thomas_id="01155" joined="2013-07-16"/>
+    <cosponsor thomas_id="01177" joined="2013-06-19"/>
+    <cosponsor thomas_id="02112" joined="2013-06-12"/>
+    <cosponsor thomas_id="02166" joined="2013-07-16"/>
+    <cosponsor thomas_id="02137" joined="2013-07-08"/>
+    <cosponsor thomas_id="01855" joined="2013-07-09"/>
+    <cosponsor thomas_id="02161" joined="2013-05-13"/>
+    <cosponsor thomas_id="02152" joined="2013-08-02"/>
+    <cosponsor thomas_id="01779" joined="2013-06-12"/>
+    <cosponsor thomas_id="02004" joined="2013-07-08"/>
+    <cosponsor thomas_id="01688" joined="2013-06-18"/>
+    <cosponsor thomas_id="01238" joined="2013-05-13"/>
+    <cosponsor thomas_id="01991" joined="2013-07-30"/>
+    <cosponsor thomas_id="02008" joined="2013-07-19"/>
+    <cosponsor thomas_id="02021" joined="2013-10-29"/>
+    <cosponsor thomas_id="01256" joined="2013-07-11"/>
+    <cosponsor thomas_id="02019" joined="2013-06-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-26" state="REFERRED">
+      <text>Referred to the Committee on Foreign Affairs, and in addition to the Committees on Ways and Means, the Judiciary, Financial Services, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-04-26">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2013-04-26">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-04-26">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2013-04-26">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2013-04-26">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2013-06-03">
+      <text>Referred to the Subcommittee on Trade.</text>
+    </action>
+    <action datetime="2013-06-14">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+    <action datetime="2014-05-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-05-29" state="REPORTED">
+      <text>Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.</text>
+    </calendar>
+    <action datetime="2014-07-28T15:00:00-04:00">
+      <text>Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 113-560, Part I.</text>
+    </action>
+    <action datetime="2014-07-28T15:00:00-04:00">
+      <text>Committee on Ways and Means discharged.</text>
+    </action>
+    <action datetime="2014-07-28T15:00:00-04:00">
+      <text>Committee on the Judiciary discharged.</text>
+    </action>
+    <action datetime="2014-07-28T15:00:00-04:00">
+      <text>Committee on Financial Services discharged.</text>
+    </action>
+    <action datetime="2014-07-28T15:00:00-04:00">
+      <text>Committee on Oversight and Government discharged.</text>
+    </action>
+    <calendar datetime="2014-07-28T15:01:00-04:00" calendar="Union" number="420">
+      <text>Placed on the Union Calendar, Calendar No. 420.</text>
+    </calendar>
+    <action datetime="2014-07-28T15:26:00-04:00">
+      <text>Mr. Royce moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2014-07-28T15:27:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6877-6886" label="consideration"/>
+    </action>
+    <action datetime="2014-07-28T15:27:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1771.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-07-28T15:42:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H6877-6883" label="text"/>
+    </vote>
+    <action datetime="2014-07-28T15:42:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-07-29">
+      <text>Received in the Senate and Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral, Markup, Reporting, In Committee"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, Discharged, In Committee"/>
+    <committee subcommittee="Trade" code="HSWM04" name="House Ways and Means" activity="Referral"/>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, Discharged, In Committee"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral, Discharged, In Committee"/>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral, Discharged, In Committee"/>
+    <committee subcommittee="" code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+    <committee subcommittee="" code="HSHM" name="House Homeland Security" activity="Other Legislative Involvement"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Arms control and nonproliferation"/>
+    <term name="Asia"/>
+    <term name="Bank accounts, deposits, capital"/>
+    <term name="Business ethics"/>
+    <term name="Business records"/>
+    <term name="Computers and information technology"/>
+    <term name="Congressional oversight"/>
+    <term name="Corporate finance and management"/>
+    <term name="Correctional facilities and imprisonment"/>
+    <term name="Crimes against property"/>
+    <term name="Currency"/>
+    <term name="Detention of persons"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Financial services and investments"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Foreign and international banking"/>
+    <term name="Foreign and international corporations"/>
+    <term name="Foreign property"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Government information and archives"/>
+    <term name="Government liability"/>
+    <term name="Government studies and investigations"/>
+    <term name="Government trust funds"/>
+    <term name="Human rights"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Judicial procedure and administration"/>
+    <term name="Licensing and registrations"/>
+    <term name="Military assistance, sales, and agreements"/>
+    <term name="Motor carriers"/>
+    <term name="Multilateral development programs"/>
+    <term name="News media and reporting"/>
+    <term name="North Korea"/>
+    <term name="Nuclear weapons"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Rule of law and government transparency"/>
+    <term name="Sanctions"/>
+    <term name="Securities"/>
+    <term name="Securities and Exchange Commission (SEC)"/>
+    <term name="Smuggling and trafficking"/>
+    <term name="State and local finance"/>
+    <term name="Technology transfer and commercialization"/>
+    <term name="Terrorism"/>
+    <term name="Trade restrictions"/>
+    <term name="U.S. and foreign investments"/>
+    <term name="United Nations"/>
+    <term name="Visas and passports"/>
+    <term name="War crimes, genocide, crimes against humanity"/>
+  </subjects>
+  <amendments/>
+  <summary>4/26/2013--Introduced.
+North Korea Sanctions Enforcement Act of 2013 - Directs the President to investigate credible information of sanctionable activities involving North Korea and to designate and apply sanctions with respect to any person (referred to as a "designated person" and includes business entities, nongovernmental organizations, and governmental entities operating as business enterprises) the President determines is knowingly:
+
+ contributing, through the export to or import from North Korea of any goods or technology, to the use, development, production, stockpiling, or acquisition of nuclear, radiological, chemical, or biological weapons, or any device or system designed to deliver such weapons; exporting, or facilitating the export of, defense articles and services to North Korea, or from North Korea to any other country; exporting, or facilitating the export of, any luxury goods to North Korea; providing, selling, leasing, registering, or reflagging a vessel, aircraft, or other conveyance, or providing insurance or any other shipping or transportation service used to transport goods to or from North Korea, for purposes of facilitating a specified unlawful activity or evading a regulation established under this Act or the International Emergency Economic Powers Act (IEEPA); transferring, paying, exporting, withdrawing, or otherwise dealing with any property or interest in property of the government of North Korea for purposes of facilitating such unlawful activity or evading such regulations; engaging in or facilitating censorship by North Korea; or committing or facilitating a serious human rights abuse by North Korea. Directs the President to designate and exercise IEEPA authorities with respect to the government of North Korea as well as any person or foreign government the President determines has been:
+
+ listed or sanctioned under any regulation, specified executive order, or the IEEPA for illicit activities or activities concerning North Korea's proliferation of weapons of mass destruction; sanctioned under U.N. Security Council resolutions concerning North Korea's proliferation of weapons of mass destruction; or convicted of a criminal offense for engaging in sanctionable activities. Authorizes the President to exercise IEEPA authorities with respect to any foreign government or financial institution the President determines to be:
+
+ engaging in sanctionable activities involving North Korea; failing to freeze funds, assets, or economic resources of a person designated pursuant to the requirements above or that could be used to facilitate sanctionable activities relating to imports or exports; failing to monitor import and export transactions appropriately; permitting any North Korean financial institution to open any new branches, offices, or joint ventures within its jurisdiction, or to take an ownership interest in, or establish or maintain a correspondent relationship with any bank in its jurisdiction, if it could be used to facilitate sanctionable import or export activities; failing to prohibit transfers of bulk cash to and from North Korea in facilitation of sanctionable import or export activities; providing public financial support for trade with North Korea to facilitate such import or export activities; or facilitating the use of any proceeds of the bribery of North Korean government officials, or the misappropriation, theft, or embezzlement of public funds by, or for the benefit of, such officials. Sets forth civil and criminal penalties under the IEEPA.
+
+Establishes the North Korea Enforcement and Humanitarian Fund in which assets subject to criminal, civil, or administrative forfeiture or penalties are to be deposited for the enforcement of this Act and to carry out humanitarian activities under the North Korea Human Rights Act of 2004.
+
+Expresses the sense of Congress that the government of North Korea should be treated as a primary money laundering concern that may be required to undertake special measures with respect to the recordkeeping and reporting of certain financial transactions as well as the identification of customers or retention of information relating to certain beneficial ownership, payable-through, or correspondent accounts. Directs the Secretary of the Treasury to require domestic financial institutions to apply special measures to certain designated entities.
+
+Directs domestic financial institutions to terminate various accounts maintained for persons, foreign governments, or financial institutions required to be designated as engaging in sanctionable activity under this Act and for foreign financial institutions providing services to such designated entities.
+
+Prohibits a designated person that is a domestic financial institution from serving as a primary dealer in U.S. debt instruments or as a repository for U.S. funds.
+
+Sets forth authority for the President to prohibit certain foreign exchange and banking transactions, revoke transaction licenses, and direct the Secretary of State to deny visas to designated aliens.
+
+Permits the President to impose sanctions against persons providing specialized financial messaging services to designated North Korean financial institutions.
+
+Requires a validated license for exports to North Korea under the Export Administration Act of 1979. Prohibits munitions and defense articles from being provided to North Korea under the Arms Export Control Act regardless of whether it is designated as a state sponsor of terrorism.
+
+Bars U.S. government contracts from being provided to designated persons.
+
+Authorizes the seizure or forfeiture of vessels or aircraft used to facilitate sanctionable activities.
+
+Directs the President to withhold assistance to the governments of countries providing defense articles or services to North Korea or receiving such articles or services from North Korea.
+
+Sets forth exceptions to designations under this Act and authorizes the President to waive designations and sanctions, for a period of up to one year, upon the President's submission to Congress of a determination that the waiver:
+
+ protects vital U.S. economic and national security interests, benefits entities cooperating with investigations, and addresses humanitarian aid considerations while meeting other specified standards. Permits the President to temporarily suspend sanctions with a certification to Congress under specified circumstances and to prescribe rules for removing sanctions. Directs issuers of financial securities regulated by the Securities and Exchange Commission (SEC) to disclose activities relating to North Korea in annual and quarterly reports.
+
+Authorizes state and local governments to divest assets and prohibit investments in companies that invest in North Korea.
+
+Exempts North Korea from the jurisdictional immunity of foreign states, thereby enabling plaintiffs to seek certain damages against North Korea regardless of whether it is designated as a state sponsor of terrorism.</summary>
+</bill>

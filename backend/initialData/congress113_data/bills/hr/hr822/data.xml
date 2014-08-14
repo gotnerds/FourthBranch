@@ -1,0 +1,118 @@
+<bill session="113" type="h" number="822" updated="2014-08-14T12:57:43-04:00">
+  <state datetime="2013-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-26"/>
+  </status>
+  <introduced datetime="2013-02-26"/>
+  <titles>
+    <title type="short" as="introduced">Teaching Geography is Fundamental Act</title>
+    <title type="official" as="introduced">To improve and expand geographic literacy among kindergarten through grade 12 students in the United States by improving professional development programs for kindergarten through grade 12 teachers offered through institutions of higher education.</title>
+  </titles>
+  <sponsor thomas_id="01729"/>
+  <cosponsors>
+    <cosponsor thomas_id="01460" joined="2013-03-11"/>
+    <cosponsor thomas_id="01996" joined="2014-03-06"/>
+    <cosponsor thomas_id="02153" joined="2014-03-14"/>
+    <cosponsor thomas_id="00099" joined="2013-03-11"/>
+    <cosponsor thomas_id="02092" joined="2013-03-25"/>
+    <cosponsor thomas_id="01845" joined="2013-05-13"/>
+    <cosponsor thomas_id="00132" joined="2014-02-28"/>
+    <cosponsor thomas_id="01564" joined="2014-03-06"/>
+    <cosponsor thomas_id="01889" joined="2013-03-25"/>
+    <cosponsor thomas_id="02159" joined="2014-03-06"/>
+    <cosponsor thomas_id="02196" joined="2014-03-12"/>
+    <cosponsor thomas_id="01654" joined="2013-03-04"/>
+    <cosponsor thomas_id="01790" joined="2014-03-12"/>
+    <cosponsor thomas_id="01878" joined="2013-04-12"/>
+    <cosponsor thomas_id="01742" joined="2013-03-11"/>
+    <cosponsor thomas_id="01959" joined="2013-03-04"/>
+    <cosponsor thomas_id="01774" joined="2013-04-12"/>
+    <cosponsor thomas_id="01836" joined="2013-03-15"/>
+    <cosponsor thomas_id="01477" joined="2013-03-25"/>
+    <cosponsor thomas_id="01641" joined="2014-03-12"/>
+    <cosponsor thomas_id="00279" joined="2014-02-28"/>
+    <cosponsor thomas_id="00281" joined="2013-05-23"/>
+    <cosponsor thomas_id="00299" joined="2014-02-28"/>
+    <cosponsor thomas_id="00322" joined="2013-03-04"/>
+    <cosponsor thomas_id="01857" joined="2013-03-11"/>
+    <cosponsor thomas_id="02114" joined="2013-05-13"/>
+    <cosponsor thomas_id="01793" joined="2014-02-28"/>
+    <cosponsor thomas_id="01895" joined="2014-03-04"/>
+    <cosponsor thomas_id="00462" joined="2013-03-11"/>
+    <cosponsor thomas_id="01708" joined="2013-06-26"/>
+    <cosponsor thomas_id="02010" joined="2013-03-25"/>
+    <cosponsor thomas_id="01913" joined="2013-03-04"/>
+    <cosponsor thomas_id="01490" joined="2013-09-19"/>
+    <cosponsor thomas_id="01580" joined="2014-03-12"/>
+    <cosponsor thomas_id="02101" joined="2014-03-12"/>
+    <cosponsor thomas_id="01907" joined="2013-03-25"/>
+    <cosponsor thomas_id="01668" joined="2014-02-28"/>
+    <cosponsor thomas_id="01583" joined="2013-03-15"/>
+    <cosponsor thomas_id="01846" joined="2013-04-26"/>
+    <cosponsor thomas_id="00701" joined="2014-03-26"/>
+    <cosponsor thomas_id="01939" joined="2013-03-11"/>
+    <cosponsor thomas_id="01943" joined="2014-03-06"/>
+    <cosponsor thomas_id="01503" joined="2013-03-15"/>
+    <cosponsor thomas_id="01653" joined="2013-03-04"/>
+    <cosponsor thomas_id="01504" joined="2013-03-04"/>
+    <cosponsor thomas_id="01832" joined="2013-07-24"/>
+    <cosponsor thomas_id="01730" joined="2013-03-11"/>
+    <cosponsor thomas_id="00832" joined="2013-03-04"/>
+    <cosponsor thomas_id="00854" joined="2013-04-12"/>
+    <cosponsor thomas_id="00887" joined="2013-04-12"/>
+    <cosponsor thomas_id="00893" joined="2013-03-25"/>
+    <cosponsor thomas_id="01835" joined="2013-04-12"/>
+    <cosponsor thomas_id="00910" joined="2014-03-04"/>
+    <cosponsor thomas_id="00912" joined="2013-02-26"/>
+    <cosponsor thomas_id="01927" joined="2013-03-25"/>
+    <cosponsor thomas_id="00930" joined="2013-07-09"/>
+    <cosponsor thomas_id="00940" joined="2014-03-26"/>
+    <cosponsor thomas_id="01950" joined="2013-03-15"/>
+    <cosponsor thomas_id="01037" joined="2013-03-11"/>
+    <cosponsor thomas_id="01988" joined="2013-03-04"/>
+    <cosponsor thomas_id="01861" joined="2013-03-15"/>
+    <cosponsor thomas_id="01069" joined="2013-04-12"/>
+    <cosponsor thomas_id="01566" joined="2014-03-06"/>
+    <cosponsor thomas_id="01593" joined="2014-03-26"/>
+    <cosponsor thomas_id="01535" joined="2014-03-06"/>
+    <cosponsor thomas_id="01940" joined="2013-03-15"/>
+    <cosponsor thomas_id="01942" joined="2013-03-04"/>
+    <cosponsor thomas_id="01177" joined="2014-06-17"/>
+    <cosponsor thomas_id="01856" joined="2013-02-26"/>
+    <cosponsor thomas_id="01853" joined="2013-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-26" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2013-04-23">
+      <text>Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+    <committee subcommittee="Early Childhood, Elementary, and Secondary Education" code="HSED14" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="370"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Academic performance and assessments"/>
+    <term name="Area studies and international education"/>
+    <term name="Earth sciences"/>
+    <term name="Education programs funding"/>
+    <term name="Educational technology and distance education"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Geography"/>
+    <term name="Higher education"/>
+    <term name="Teaching, teachers, curricula"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/2013--Introduced.
+Teaching Geography is Fundamental Act - Amends the Higher Education Act of 1965 to establish a geography education grant program under title II (Teacher Quality Enhancement).
+
+Authorizes the Secretary of Education to award a grant to a national nonprofit educational organization or consortium, with 75% to be used for matching subgrants to institutions of higher education associated with state geographic alliances, nonprofit educational organizations, or state or local educational agencies.
+
+Requires program participants to use their grants and subgrants to enhance the geographic literacy of students in kindergarten through grade 12 by supporting specified activities, including: (1) educational research; (2) teacher training; (3) the development of effective teaching tools and learning materials; (4) the application of rigorous academic standards and assessment techniques; (5) comparative studies of world cultures, economies, and environments; and (6) the exchange of information regarding the state of geographic literacy and strategies for its improvement.</summary>
+</bill>

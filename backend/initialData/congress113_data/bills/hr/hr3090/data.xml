@@ -1,0 +1,118 @@
+<bill session="113" type="h" number="3090" updated="2014-08-14T13:17:48-04:00">
+  <state datetime="2013-09-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-09-12"/>
+  </status>
+  <introduced datetime="2013-09-12"/>
+  <titles>
+    <title type="short" as="introduced">Elder Protection and Abuse Prevention Act</title>
+    <title type="official" as="introduced">To amend the Older Americans Act of 1965 to authorize Federal assistance to State adult protective services programs, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02159"/>
+  <cosponsors>
+    <cosponsor thomas_id="02093" joined="2013-09-12"/>
+    <cosponsor thomas_id="02106" joined="2013-10-11"/>
+    <cosponsor thomas_id="02107" joined="2013-09-12"/>
+    <cosponsor thomas_id="01889" joined="2013-10-23"/>
+    <cosponsor thomas_id="01959" joined="2013-09-12"/>
+    <cosponsor thomas_id="01836" joined="2013-09-12"/>
+    <cosponsor thomas_id="01604" joined="2013-09-12"/>
+    <cosponsor thomas_id="02138" joined="2013-09-25"/>
+    <cosponsor thomas_id="01976" joined="2013-09-12"/>
+    <cosponsor thomas_id="00303" joined="2013-09-12"/>
+    <cosponsor thomas_id="01857" joined="2013-09-25"/>
+    <cosponsor thomas_id="02125" joined="2013-09-25"/>
+    <cosponsor thomas_id="00355" joined="2013-09-12"/>
+    <cosponsor thomas_id="02114" joined="2013-09-25"/>
+    <cosponsor thomas_id="02119" joined="2013-09-12"/>
+    <cosponsor thomas_id="01895" joined="2013-09-25"/>
+    <cosponsor thomas_id="01914" joined="2013-09-12"/>
+    <cosponsor thomas_id="00462" joined="2013-09-12"/>
+    <cosponsor thomas_id="01708" joined="2013-09-12"/>
+    <cosponsor thomas_id="02089" joined="2013-09-12"/>
+    <cosponsor thomas_id="00511" joined="2014-03-24"/>
+    <cosponsor thomas_id="01794" joined="2013-09-25"/>
+    <cosponsor thomas_id="01634" joined="2014-03-14"/>
+    <cosponsor thomas_id="00588" joined="2013-09-12"/>
+    <cosponsor thomas_id="00599" joined="2013-09-12"/>
+    <cosponsor thomas_id="01843" joined="2013-09-25"/>
+    <cosponsor thomas_id="02025" joined="2013-10-04"/>
+    <cosponsor thomas_id="02190" joined="2014-01-07"/>
+    <cosponsor thomas_id="01668" joined="2013-09-12"/>
+    <cosponsor thomas_id="01501" joined="2013-09-25"/>
+    <cosponsor thomas_id="02111" joined="2013-09-25"/>
+    <cosponsor thomas_id="01814" joined="2014-03-14"/>
+    <cosponsor thomas_id="01602" joined="2013-09-12"/>
+    <cosponsor thomas_id="02108" joined="2013-09-12"/>
+    <cosponsor thomas_id="00867" joined="2013-09-25"/>
+    <cosponsor thomas_id="00868" joined="2013-09-12"/>
+    <cosponsor thomas_id="00887" joined="2013-09-12"/>
+    <cosponsor thomas_id="01510" joined="2013-09-12"/>
+    <cosponsor thomas_id="01929" joined="2013-09-12"/>
+    <cosponsor thomas_id="02113" joined="2013-12-02"/>
+    <cosponsor thomas_id="02171" joined="2013-09-25"/>
+    <cosponsor thomas_id="01910" joined="2013-09-25"/>
+    <cosponsor thomas_id="00940" joined="2013-09-12"/>
+    <cosponsor thomas_id="00944" joined="2013-09-12"/>
+    <cosponsor thomas_id="00997" joined="2013-09-25"/>
+    <cosponsor thomas_id="01003" joined="2013-09-12"/>
+    <cosponsor thomas_id="01588" joined="2013-09-25"/>
+    <cosponsor thomas_id="01798" joined="2013-09-12"/>
+    <cosponsor thomas_id="01861" joined="2013-09-12"/>
+    <cosponsor thomas_id="01942" joined="2013-09-12"/>
+    <cosponsor thomas_id="02112" joined="2013-09-12"/>
+    <cosponsor thomas_id="02004" joined="2014-06-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-12" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2014-01-22">
+      <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee subcommittee="Higher Education and Workforce Training" code="HSED13" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="1019"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Adult day care"/>
+    <term name="Aging"/>
+    <term name="Congressional oversight"/>
+    <term name="Consumer credit"/>
+    <term name="Crime prevention"/>
+    <term name="Crime victims"/>
+    <term name="Digestive and metabolic diseases"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Home and outpatient care"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Long-term, rehabilitative, and terminal care"/>
+    <term name="Medicaid"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>9/12/2013--Introduced.
+Elder Protection and Abuse Prevention Act - Amends the Older Americans Act of 1965 to direct the Assistant Secretary of Health and Human Services for Aging to: (1) ensure that all programs funded under such Act include appropriate training in elder abuse prevention and the provision of services that address elder justice and exploitation, and (2) update periodically the need for and benefit of such training related to prevention of abuse, neglect, and exploitation (including financial exploitation) of older adults.
+
+Makes it a duty and function of the Administration on Aging to: (1) establish priority information and assistance services for older individuals; (2) ensure full collaboration between all governmental information and assistance systems that serve older individuals; and (3) develop a National Eldercare Locator Service, with a nationwide toll free number.
+
+Directs the Assistant Secretary, by grant or contract with a national nonprofit entity, to establish a National Adult Protective Services Resources Center to improve the capacity of state and local adult protective services programs to: (1) respond effectively to abuse, neglect, and exploitation of vulnerable adults, including home care consumers and residents of long-term care facilities; and (2) coordinate with the Long-Term Care Ombudsman Program.
+
+Requires each area plan to provide that the area agency on aging: (1) increases public awareness of elder abuse and financial exploitation, and removes barriers to elder abuse education, prevention, investigation, and treatment; (2) coordinates elder justice activities of the area agency on aging, community health centers, other public agencies, and nonprofit private organizations; (3) develops standardized, coordinated, and reporting protocols with respect to elder abuse; and (4) reports instances of elder abuse.
+
+Directs the Assistant Secretary to make grants to states under approved state plans for elder abuse and neglect screening.
+
+Requires a state operating a nutrition project to encourage individuals who distribute nutrition services to distribute information on diabetes, elder abuse, neglect, financial exploitation, and the annual Medicare wellness exam.
+
+Requires a state, an area agency on aging, a nonprofit organization, or a tribal organization that receives a grant for an older individuals' protection from violence project to use it to research and replicate successful models of elder abuse, neglect, and exploitation prevention and training.
+
+Directs the Assistant Secretary to award grants and enter into contracts with eligible organizations to carry out projects to engage volunteers over 50 years of age in providing support and information to older adults (and their families or caretakers) who have experienced or are at risk of elder abuse.
+
+Allows a state to use funds under the National Family Caregiver Support Program to support the Office of the State Long-Term Care Ombudsman.</summary>
+</bill>

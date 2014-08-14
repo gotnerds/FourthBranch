@@ -1,0 +1,77 @@
+<bill session="113" type="h" number="3240" updated="2014-08-14T13:19:03-04:00">
+  <state datetime="2014-07-29">REPORTED</state>
+  <status>
+    <unknown datetime="2014-07-29"/>
+  </status>
+  <introduced datetime="2013-10-03"/>
+  <titles>
+    <title type="short" as="introduced">Regulation D Study Act</title>
+    <title type="official" as="introduced">To instruct the Comptroller General of the United States to study the impact of Regulation D, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02141"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2014-03-04"/>
+    <cosponsor thomas_id="02103" joined="2014-02-26"/>
+    <cosponsor thomas_id="01774" joined="2014-03-14"/>
+    <cosponsor thomas_id="02098" joined="2013-11-13"/>
+    <cosponsor thomas_id="01995" joined="2014-03-25"/>
+    <cosponsor thomas_id="01797" joined="2013-11-18"/>
+    <cosponsor thomas_id="01888" joined="2013-11-19"/>
+    <cosponsor thomas_id="02040" joined="2014-03-06"/>
+    <cosponsor thomas_id="01634" joined="2014-02-26"/>
+    <cosponsor thomas_id="02101" joined="2014-03-05"/>
+    <cosponsor thomas_id="02169" joined="2014-01-08"/>
+    <cosponsor thomas_id="00635" joined="2013-11-13"/>
+    <cosponsor thomas_id="02111" joined="2014-04-28"/>
+    <cosponsor thomas_id="00711" joined="2013-11-18"/>
+    <cosponsor thomas_id="01931" joined="2014-02-26"/>
+    <cosponsor thomas_id="00729" joined="2013-10-03"/>
+    <cosponsor thomas_id="01730" joined="2013-11-13"/>
+    <cosponsor thomas_id="02117" joined="2013-11-18"/>
+    <cosponsor thomas_id="02108" joined="2014-03-05"/>
+    <cosponsor thomas_id="00868" joined="2014-03-05"/>
+    <cosponsor thomas_id="01929" joined="2013-11-18"/>
+    <cosponsor thomas_id="02003" joined="2013-11-18"/>
+    <cosponsor thomas_id="02158" joined="2013-12-12"/>
+    <cosponsor thomas_id="02109" joined="2014-03-04"/>
+    <cosponsor thomas_id="01722" joined="2013-11-18"/>
+    <cosponsor thomas_id="02047" joined="2013-11-14"/>
+    <cosponsor thomas_id="02104" joined="2014-04-07"/>
+    <cosponsor thomas_id="02112" joined="2014-03-12"/>
+    <cosponsor thomas_id="02166" joined="2013-11-18"/>
+    <cosponsor thomas_id="01779" joined="2013-11-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-10-03" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2014-07-15">
+      <text>Hearings Held by the Subcommittee on Financial Institutions and Consumer Credit Prior to Referral.</text>
+    </action>
+    <action datetime="2014-07-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-07-29" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral, Markup"/>
+    <committee subcommittee="Financial Institutions and Consumer Credit" code="HSBA15" name="House Financial Services" activity="Hearings"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Bank accounts, deposits, capital"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Congressional oversight"/>
+    <term name="Federal Reserve System"/>
+    <term name="Government studies and investigations"/>
+    <term name="Monetary policy"/>
+  </subjects>
+  <amendments/>
+  <summary>10/3/2013--Introduced.
+Regulation D Study Act - Directs the Comptroller General (GAO) to study the impact upon depository institutions, consumers, and monetary policy of the requirement that depository institutions maintain reserves in accordance with specified law (Regulation D).
+
+Requires such study to include: (1) a historic review of how the Board of Governors of the Federal Reserve System has used reserve requirements to conduct U.S. monetary policy, (2) the impact of the maintenance of reserves upon depository institutions, (3) the impact upon consumers in managing their accounts, and (4) alternatives available to the Board to maintain reserves to effect monetary policy.</summary>
+</bill>

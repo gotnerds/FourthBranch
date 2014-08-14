@@ -1,0 +1,65 @@
+<bill session="113" type="s" number="526" updated="2014-08-14T13:49:12-04:00">
+  <state datetime="2013-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-12"/>
+  </status>
+  <introduced datetime="2013-03-12"/>
+  <titles>
+    <title type="short" as="introduced">Rural Heritage Conservation Extension Act of 2013</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to make permanent the special rule for contributions of qualified conservation contributions, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00066"/>
+  <cosponsors>
+    <cosponsor thomas_id="01558" joined="2014-01-27"/>
+    <cosponsor thomas_id="01898" joined="2013-12-16"/>
+    <cosponsor thomas_id="01965" joined="2014-03-27"/>
+    <cosponsor thomas_id="02076" joined="2014-05-01"/>
+    <cosponsor thomas_id="00136" joined="2014-05-22"/>
+    <cosponsor thomas_id="00174" joined="2013-05-09"/>
+    <cosponsor thomas_id="00213" joined="2013-12-12"/>
+    <cosponsor thomas_id="01541" joined="2013-04-16"/>
+    <cosponsor thomas_id="01984" joined="2013-09-24"/>
+    <cosponsor thomas_id="01850" joined="2014-03-10"/>
+    <cosponsor thomas_id="00501" joined="2014-01-30"/>
+    <cosponsor thomas_id="01351" joined="2013-03-12"/>
+    <cosponsor thomas_id="01937" joined="2013-04-08"/>
+    <cosponsor thomas_id="01863" joined="2013-04-08"/>
+    <cosponsor thomas_id="02185" joined="2013-11-04"/>
+    <cosponsor thomas_id="01384" joined="2013-12-12"/>
+    <cosponsor thomas_id="01837" joined="2013-06-07"/>
+    <cosponsor thomas_id="00949" joined="2013-07-11"/>
+    <cosponsor thomas_id="01901" joined="2013-04-17"/>
+    <cosponsor thomas_id="01531" joined="2013-04-08"/>
+    <cosponsor thomas_id="01829" joined="2013-04-09"/>
+    <cosponsor thomas_id="01595" joined="2014-02-12"/>
+    <cosponsor thomas_id="01567" joined="2013-04-08"/>
+    <cosponsor thomas_id="02198" joined="2014-04-08"/>
+    <cosponsor thomas_id="01823" joined="2013-04-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-12">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S1711-1712"/>
+    </action>
+    <action datetime="2013-03-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="2807"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Income tax deductions"/>
+    <term name="Land transfers"/>
+    <term name="Land use and conservation"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+    <term name="Sports and recreation facilities"/>
+  </subjects>
+  <amendments/>
+  <summary>3/12/2013--Introduced.
+Rural Heritage Conservation Extension Act of 2013 - Amends the Internal Revenue Code to: (1) make permanent the tax deduction for charitable contributions by individuals and corporations of real property interests for conservation purposes; and (2) prohibit any such deduction for contributions of an easement for use on, or intended use on, a golf course.</summary>
+</bill>

@@ -1,0 +1,48 @@
+<bill session="113" type="h" number="2580" updated="2014-08-14T13:13:29-04:00">
+  <state datetime="2013-06-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-28"/>
+  </status>
+  <introduced datetime="2013-06-28"/>
+  <titles>
+    <title type="short" as="introduced">Right to Rent Act of 2013</title>
+    <title type="official" as="introduced">To allow homeowners of moderate-value homes who are subject to mortgage foreclosure proceedings to remain in their homes as renters.</title>
+  </titles>
+  <sponsor thomas_id="01708"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2013-07-16"/>
+    <cosponsor thomas_id="01889" joined="2013-06-28"/>
+    <cosponsor thomas_id="01864" joined="2013-06-28"/>
+    <cosponsor thomas_id="01654" joined="2013-06-28"/>
+    <cosponsor thomas_id="00229" joined="2013-06-28"/>
+    <cosponsor thomas_id="01857" joined="2013-06-28"/>
+    <cosponsor thomas_id="01490" joined="2013-06-28"/>
+    <cosponsor thomas_id="01580" joined="2013-06-28"/>
+    <cosponsor thomas_id="00588" joined="2013-06-28"/>
+    <cosponsor thomas_id="00616" joined="2013-06-28"/>
+    <cosponsor thomas_id="01501" joined="2013-06-28"/>
+    <cosponsor thomas_id="00868" joined="2013-06-28"/>
+    <cosponsor thomas_id="02097" joined="2013-06-28"/>
+    <cosponsor thomas_id="01003" joined="2013-06-28"/>
+    <cosponsor thomas_id="02004" joined="2013-06-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-28" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Government information and archives"/>
+    <term name="Housing finance and home ownership"/>
+  </subjects>
+  <amendments/>
+  <summary>6/28/2013--Introduced.
+Right to Rent Act of 2013 - Grants eligible mortgagors subject to foreclosure proceedings the right to continue to occupy foreclosed properties subject to the payment of fair market rent for a period of five years that begins upon the commencement of occupancy of such property.
+
+Instructs the Secretary of Housing and Urban Development (HUD) to: (1) monitor compliance with this Act, (2) provide assistance to eligible mortgagors in exercising their rights under this Act, and (3) conduct outreach activities to inform eligible mortgagors of this Act.</summary>
+</bill>

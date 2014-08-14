@@ -1,0 +1,117 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-19", 
+      "committees": [
+        "SSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Armed Services.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2510-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Armed Services", 
+      "committee_id": "SSAS"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Ayotte, Kelly", 
+      "sponsored_at": "2014-06-19", 
+      "state": "NH", 
+      "thomas_id": "02075", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Roberts, Pat", 
+      "sponsored_at": "2014-06-19", 
+      "state": "KS", 
+      "thomas_id": "00968", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Sessions, Jeff", 
+      "sponsored_at": "2014-06-24", 
+      "state": "AL", 
+      "thomas_id": "01548", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-06-19", 
+  "number": "2510", 
+  "official_title": "A bill to establish a temporary limitation on the use of funds to transfer or release individuals detained at United States Naval Station, Guantanamo Bay, Cuba.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr4938-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Guantanamo Bay Detainee Transfer Suspension Act of 2014", 
+  "sponsor": {
+    "district": null, 
+    "name": "Cruz, Ted", 
+    "state": "TX", 
+    "thomas_id": "02175", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-06-19", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Caribbean area", 
+    "Civil actions and liability", 
+    "Congressional oversight", 
+    "Cuba", 
+    "Detention of persons", 
+    "Latin America", 
+    "Middle East", 
+    "Military facilities and property", 
+    "Presidents and presidential powers", 
+    "Qatar", 
+    "Terrorism"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Guantanamo Bay Detainee Transfer Suspension Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to establish a temporary limitation on the use of funds to transfer or release individuals detained at United States Naval Station, Guantanamo Bay, Cuba.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T14:06:13-04:00"
+}

@@ -1,0 +1,33 @@
+<bill session="113" type="s" number="2773" updated="2014-08-14T14:08:25-04:00">
+  <state datetime="2014-08-01">REPORTED</state>
+  <status>
+    <unknown datetime="2014-08-01"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="short" as="introduced">Protecting Children and America's Homeland Act of 2014</title>
+    <title type="official" as="introduced">A bill making supplemental appropriations for the fiscal year ending September 30, 2014, for border security, law enforcement, humanitarian assistance, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01692"/>
+  <cosponsors>
+    <cosponsor thomas_id="00457" joined="2014-07-31"/>
+    <cosponsor thomas_id="01395" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-31">
+      <text>Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+    </action>
+    <calendar datetime="2014-08-01" state="REPORTED" calendar="Senate Legislative" under="General Orders" number="528">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 528.</text>
+    </calendar>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="5230"/>
+    <bill type="h" session="113" relation="unknown" number="5230"/>
+    <bill type="s" session="113" relation="identical" number="2743"/>
+    <bill type="s" session="113" relation="unknown" number="2772"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,30 @@
+<bill session="113" type="h" number="5245" updated="2014-08-14T13:36:16-04:00">
+  <state datetime="2014-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-29"/>
+  </status>
+  <introduced datetime="2014-07-29"/>
+  <titles>
+    <title type="official" as="introduced">To designate the facility of the United States Postal Service located at 314 Lennon Drive in Wilmington, North Carolina, as the "Meadowlark Lemon Post Office".</title>
+  </titles>
+  <sponsor thomas_id="00612"/>
+  <cosponsors>
+    <cosponsor thomas_id="01761" joined="2014-07-30"/>
+    <cosponsor thomas_id="00211" joined="2014-07-30"/>
+    <cosponsor thomas_id="02036" joined="2014-08-01"/>
+    <cosponsor thomas_id="00930" joined="2014-08-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>7/29/2014--Introduced.
+Designates the facility of the United States Postal Service located at 314 Lennon Drive in Wilmington, North Carolina, as the "Meadowlark Lemon Post Office."</summary>
+</bill>

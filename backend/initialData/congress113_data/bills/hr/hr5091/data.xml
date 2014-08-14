@@ -1,0 +1,41 @@
+<bill session="113" type="h" number="5091" updated="2014-08-14T13:34:56-04:00">
+  <state datetime="2014-07-11">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-11"/>
+  </status>
+  <introduced datetime="2014-07-11"/>
+  <titles>
+    <title type="short" as="introduced">Drone Reform Act</title>
+    <title type="official" as="introduced">To consolidate within the Department of Defense all executive authority regarding the use of armed unmanned aerial vehicles, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02115"/>
+  <cosponsors>
+    <cosponsor thomas_id="02029" joined="2014-07-11"/>
+    <cosponsor thomas_id="01882" joined="2014-07-11"/>
+    <cosponsor thomas_id="00229" joined="2014-07-11"/>
+    <cosponsor thomas_id="01580" joined="2014-07-11"/>
+    <cosponsor thomas_id="02011" joined="2014-07-11"/>
+    <cosponsor thomas_id="01501" joined="2014-07-11"/>
+    <cosponsor thomas_id="02094" joined="2014-07-11"/>
+    <cosponsor thomas_id="02059" joined="2014-07-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-11" state="REFERRED">
+      <text>Referred to the Committee on Armed Services, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-07-11">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2014-07-11">
+      <text>Referred to House Intelligence</text>
+      <reference ref="Permanent Select"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee subcommittee="" code="HLIG" name="House Intelligence (Permanent Select)" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,89 @@
+<bill session="113" type="hr" number="188" updated="2014-08-14T12:46:14-04:00">
+  <state datetime="2013-04-26">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-26"/>
+  </status>
+  <introduced datetime="2013-04-26"/>
+  <titles>
+    <title type="official" as="introduced">Calling upon the Government of Turkey to facilitate the reopening of the Ecumenical Patriarchate's Theological School of Halki without condition or further delay.</title>
+  </titles>
+  <sponsor thomas_id="01838"/>
+  <cosponsors>
+    <cosponsor thomas_id="01845" joined="2013-07-18"/>
+    <cosponsor thomas_id="02107" joined="2013-06-25"/>
+    <cosponsor thomas_id="00186" joined="2013-07-26"/>
+    <cosponsor thomas_id="01604" joined="2013-05-23"/>
+    <cosponsor thomas_id="01976" joined="2013-08-02"/>
+    <cosponsor thomas_id="02057" joined="2013-11-18"/>
+    <cosponsor thomas_id="01888" joined="2014-03-11"/>
+    <cosponsor thomas_id="01707" joined="2013-04-26"/>
+    <cosponsor thomas_id="02041" joined="2013-04-26"/>
+    <cosponsor thomas_id="01794" joined="2013-11-19"/>
+    <cosponsor thomas_id="02143" joined="2013-11-19"/>
+    <cosponsor thomas_id="00612" joined="2013-04-30"/>
+    <cosponsor thomas_id="02051" joined="2013-04-26"/>
+    <cosponsor thomas_id="01668" joined="2014-06-25"/>
+    <cosponsor thomas_id="00683" joined="2013-07-26"/>
+    <cosponsor thomas_id="00729" joined="2013-04-26"/>
+    <cosponsor thomas_id="02053" joined="2013-08-02"/>
+    <cosponsor thomas_id="01504" joined="2013-04-26"/>
+    <cosponsor thomas_id="02148" joined="2013-09-09"/>
+    <cosponsor thomas_id="01730" joined="2013-04-26"/>
+    <cosponsor thomas_id="01744" joined="2014-04-01"/>
+    <cosponsor thomas_id="00887" joined="2013-04-26"/>
+    <cosponsor thomas_id="01802" joined="2013-08-02"/>
+    <cosponsor thomas_id="01915" joined="2013-06-12"/>
+    <cosponsor thomas_id="00979" joined="2013-07-31"/>
+    <cosponsor thomas_id="01916" joined="2013-08-02"/>
+    <cosponsor thomas_id="00985" joined="2013-04-26"/>
+    <cosponsor thomas_id="01757" joined="2013-04-26"/>
+    <cosponsor thomas_id="01522" joined="2013-11-12"/>
+    <cosponsor thomas_id="01854" joined="2013-04-26"/>
+    <cosponsor thomas_id="01635" joined="2013-04-26"/>
+    <cosponsor thomas_id="01526" joined="2013-06-13"/>
+    <cosponsor thomas_id="01818" joined="2013-08-02"/>
+    <cosponsor thomas_id="01535" joined="2014-03-24"/>
+    <cosponsor thomas_id="01940" joined="2013-04-26"/>
+    <cosponsor thomas_id="01884" joined="2013-08-01"/>
+    <cosponsor thomas_id="01729" joined="2013-05-22"/>
+    <cosponsor thomas_id="01688" joined="2013-08-02"/>
+    <cosponsor thomas_id="01238" joined="2013-06-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-26" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2013-05-06">
+      <text>Referred to the Subcommittee on Europe, Eurasia, and Emerging Threats.</text>
+    </action>
+    <action datetime="2013-11-19">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2013-11-19">
+      <text>Forwarded by Subcommittee to Full Committee by Unanimous Consent .</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee subcommittee="Europe, Eurasia, and Emerging Threats" code="HSFA14" name="House Foreign Affairs" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Educational facilities and institutions"/>
+    <term name="Europe"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Land transfers"/>
+    <term name="Middle East"/>
+    <term name="Religion"/>
+    <term name="Turkey"/>
+  </subjects>
+  <amendments/>
+  <summary>4/26/2013--Introduced.
+Welcomes past and future meetings between Prime Minister of Turkey Recep Tayyip Erdogan and Ecumenical Patriarch Bartholomew I.
+
+Welcomes the positive gestures by the government of Turkey, including: (1) allowing the liturgical celebration by the Ecumenical Patriarch at the historic Sumela Monastery, (2) returning the former Greek Orphanage on Buyukada Island to the Ecumenical Patriarchate, and (3) returning the 190 hectares of forestland to the Greek Orthodox foundation listed as owner-of-record of the Theological School of Halki.
+
+ Urges the government of Turkey to facilitate the reopening of the Ecumenical Patriarchate's Theological School of Halki and to address other longstanding concerns relating to the Ecumenical Patriarchate.</summary>
+</bill>

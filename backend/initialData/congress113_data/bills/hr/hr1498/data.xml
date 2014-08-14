@@ -1,0 +1,63 @@
+<bill session="113" type="h" number="1498" updated="2014-08-14T13:03:27-04:00">
+  <state datetime="2013-04-11">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-11"/>
+  </status>
+  <introduced datetime="2013-04-11"/>
+  <titles>
+    <title type="official" as="introduced">To extend the interest rate for Federal Direct Stafford Loans.</title>
+  </titles>
+  <sponsor thomas_id="02149"/>
+  <cosponsors>
+    <cosponsor thomas_id="01723" joined="2013-05-14"/>
+    <cosponsor thomas_id="01864" joined="2013-05-14"/>
+    <cosponsor thomas_id="01857" joined="2013-05-14"/>
+    <cosponsor thomas_id="02125" joined="2013-05-14"/>
+    <cosponsor thomas_id="02147" joined="2013-05-14"/>
+    <cosponsor thomas_id="01501" joined="2013-05-14"/>
+    <cosponsor thomas_id="00688" joined="2013-05-14"/>
+    <cosponsor thomas_id="02146" joined="2013-04-11"/>
+    <cosponsor thomas_id="00729" joined="2013-05-14"/>
+    <cosponsor thomas_id="00766" joined="2013-04-11"/>
+    <cosponsor thomas_id="01506" joined="2013-05-15"/>
+    <cosponsor thomas_id="01811" joined="2013-04-11"/>
+    <cosponsor thomas_id="02108" joined="2013-05-14"/>
+    <cosponsor thomas_id="00868" joined="2013-05-08"/>
+    <cosponsor thomas_id="02171" joined="2013-04-11"/>
+    <cosponsor thomas_id="00944" joined="2013-05-14"/>
+    <cosponsor thomas_id="02109" joined="2013-05-14"/>
+    <cosponsor thomas_id="01003" joined="2013-05-08"/>
+    <cosponsor thomas_id="01069" joined="2013-05-23"/>
+    <cosponsor thomas_id="02110" joined="2013-05-08"/>
+    <cosponsor thomas_id="02004" joined="2013-05-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-11" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2013-07-08">
+      <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+    <committee subcommittee="Higher Education and Workforce Training" code="HSED13" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="1433"/>
+    <bill type="h" session="113" relation="unknown" number="1595"/>
+    <bill type="h" session="113" relation="unknown" number="1876"/>
+    <bill type="s" session="113" relation="unknown" number="682"/>
+    <bill type="s" session="113" relation="unknown" number="707"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Higher education"/>
+    <term name="Interest, dividends, interest rates"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+  <summary>4/11/2013--Introduced.
+Amends title IV (Student Assistance) of the Higher Education Act of 1965 to extend the 3.4% interest rate on Federal Direct Stafford loans to loans first disbursed to undergraduate students between July 1, 2011, and July 1, 2014.</summary>
+</bill>

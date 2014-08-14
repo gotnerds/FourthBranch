@@ -1,0 +1,39 @@
+<bill session="113" type="h" number="4548" updated="2014-08-14T13:30:10-04:00">
+  <state datetime="2014-05-01">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-01"/>
+  </status>
+  <introduced datetime="2014-05-01"/>
+  <titles>
+    <title type="short" as="introduced">Re-Integration of Ex-Offenders Through Technology Act</title>
+    <title type="official" as="introduced">To direct the Secretary of Labor to include programs that teach technology literacy in any job training program for ex-offenders offered under the Workforce Investment Act of 1998.</title>
+  </titles>
+  <sponsor thomas_id="01878"/>
+  <cosponsors>
+    <cosponsor thomas_id="00868" joined="2014-05-01"/>
+    <cosponsor thomas_id="00944" joined="2014-05-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-01" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2014-06-13">
+      <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee subcommittee="Higher Education and Workforce Training" code="HSED13" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Computers and information technology"/>
+    <term name="Correctional facilities and imprisonment"/>
+    <term name="Employment and training programs"/>
+    <term name="Science and engineering education"/>
+  </subjects>
+  <amendments/>
+  <summary>5/1/2014--Introduced.
+Re-Integration of Ex-Offenders Through Technology Act - Directs the Secretary of Labor to include programs that teach technology literacy in any job training programs for ex-offenders offered under the Workforce Investment Act of 1998.</summary>
+</bill>

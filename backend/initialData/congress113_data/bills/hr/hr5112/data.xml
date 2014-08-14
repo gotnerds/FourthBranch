@@ -1,0 +1,23 @@
+<bill session="113" type="h" number="5112" updated="2014-08-14T13:35:06-04:00">
+  <state datetime="2014-07-15">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-15"/>
+  </status>
+  <introduced datetime="2014-07-15"/>
+  <titles>
+    <title type="official" as="introduced">To provide eligibility for veterans benefits for individuals who served in the United States merchant marine in the Southeast Asia theater of operations during the Vietnam Era.</title>
+  </titles>
+  <sponsor thomas_id="00091"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-15" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

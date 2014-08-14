@@ -1,0 +1,32 @@
+<bill session="113" type="s" number="2586" updated="2014-08-14T14:06:51-04:00">
+  <state datetime="2014-07-10">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-10"/>
+  </status>
+  <introduced datetime="2014-07-10"/>
+  <titles>
+    <title type="short" as="introduced">Medicare Common Access Card Act of 2014</title>
+    <title type="official" as="introduced">A bill to establish a smart card pilot program under the Medicare program.</title>
+  </titles>
+  <sponsor thomas_id="01647"/>
+  <cosponsors>
+    <cosponsor thomas_id="02084" joined="2014-07-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-10" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="3024"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+  <summary>7/10/2014--Introduced.
+Medicare Common Access Card Act of 2014 - Establishes a pilot program under title XVIII (Medicare) of the Social Security Act (SSA) in order to utilize smart card technology for Medicare beneficiary and provider identification cards.
+
+Amends SSA title XI to extend through FY2029 funding for the Center for Medicare and Medicaid Innovation.</summary>
+</bill>

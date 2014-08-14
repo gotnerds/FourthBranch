@@ -1,0 +1,71 @@
+<bill session="113" type="h" number="3852" updated="2014-08-14T13:24:18-04:00">
+  <state datetime="2014-01-10">REFERRED</state>
+  <status>
+    <introduced datetime="2014-01-10"/>
+  </status>
+  <introduced datetime="2014-01-10"/>
+  <titles>
+    <title type="official" as="introduced">To repeal the Authorization for Use of Military Force Against Iraq Resolution of 2002.</title>
+  </titles>
+  <sponsor thomas_id="01501"/>
+  <cosponsors>
+    <cosponsor thomas_id="00099" joined="2014-04-29"/>
+    <cosponsor thomas_id="01845" joined="2014-06-26"/>
+    <cosponsor thomas_id="02159" joined="2014-07-30"/>
+    <cosponsor thomas_id="01970" joined="2014-03-25"/>
+    <cosponsor thomas_id="02196" joined="2014-07-30"/>
+    <cosponsor thomas_id="00229" joined="2014-01-14"/>
+    <cosponsor thomas_id="00281" joined="2014-05-08"/>
+    <cosponsor thomas_id="01894" joined="2014-05-29"/>
+    <cosponsor thomas_id="01857" joined="2014-01-10"/>
+    <cosponsor thomas_id="01973" joined="2014-01-10"/>
+    <cosponsor thomas_id="01914" joined="2014-03-27"/>
+    <cosponsor thomas_id="01708" joined="2014-01-16"/>
+    <cosponsor thomas_id="02089" joined="2014-04-02"/>
+    <cosponsor thomas_id="01580" joined="2014-04-09"/>
+    <cosponsor thomas_id="01634" joined="2014-05-30"/>
+    <cosponsor thomas_id="02101" joined="2014-07-22"/>
+    <cosponsor thomas_id="00588" joined="2014-07-29"/>
+    <cosponsor thomas_id="00612" joined="2014-02-10"/>
+    <cosponsor thomas_id="02145" joined="2014-07-29"/>
+    <cosponsor thomas_id="00688" joined="2014-03-26"/>
+    <cosponsor thomas_id="00766" joined="2014-01-10"/>
+    <cosponsor thomas_id="01504" joined="2014-04-02"/>
+    <cosponsor thomas_id="00850" joined="2014-01-10"/>
+    <cosponsor thomas_id="01602" joined="2014-05-29"/>
+    <cosponsor thomas_id="02171" joined="2014-01-28"/>
+    <cosponsor thomas_id="00944" joined="2014-03-27"/>
+    <cosponsor thomas_id="01003" joined="2014-01-16"/>
+    <cosponsor thomas_id="01588" joined="2014-04-01"/>
+    <cosponsor thomas_id="01950" joined="2014-05-19"/>
+    <cosponsor thomas_id="01069" joined="2014-04-02"/>
+    <cosponsor thomas_id="01528" joined="2014-03-27"/>
+    <cosponsor thomas_id="01890" joined="2014-01-10"/>
+    <cosponsor thomas_id="01188" joined="2014-04-07"/>
+    <cosponsor thomas_id="01209" joined="2014-03-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-01-10" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1919"/>
+    <bill type="s" session="113" relation="identical" number="2395"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Congressional oversight"/>
+    <term name="Iraq"/>
+    <term name="Middle East"/>
+    <term name="Military operations and strategy"/>
+    <term name="Presidents and presidential powers"/>
+    <term name="War and emergency powers"/>
+  </subjects>
+  <amendments/>
+  <summary>1/10/2014--Introduced.
+Repeals the Authorization for Use of Military Force Against Iraq Resolution of 2002.</summary>
+</bill>

@@ -1,0 +1,31 @@
+<bill session="113" type="h" number="5227" updated="2014-08-14T13:36:05-04:00">
+  <state datetime="2014-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-28"/>
+  </status>
+  <introduced datetime="2014-07-28"/>
+  <titles>
+    <title type="short" as="introduced">Making the Education of Nurses Dependable for Schools Act</title>
+    <title type="short" as="introduced">MEND Act</title>
+    <title type="official" as="introduced">To enable hospital-based nursing programs that are affiliated with a hospital to maintain payments under the Medicare program to hospitals for the costs of such programs.</title>
+  </titles>
+  <sponsor thomas_id="01920"/>
+  <cosponsors>
+    <cosponsor thomas_id="02126" joined="2014-07-30"/>
+    <cosponsor thomas_id="02051" joined="2014-08-01"/>
+    <cosponsor thomas_id="02033" joined="2014-07-30"/>
+    <cosponsor thomas_id="02191" joined="2014-08-01"/>
+    <cosponsor thomas_id="01741" joined="2014-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-28" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

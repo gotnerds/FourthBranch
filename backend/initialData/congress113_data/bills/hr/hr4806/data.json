@@ -1,0 +1,103 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-05", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-07-21", 
+      "committees": [
+        "HSHM"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4806-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Crime, Terrorism, Homeland Security, and Investigations", 
+      "subcommittee_id": "08"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-06-05", 
+  "number": "4806", 
+  "official_title": "To provide family members and close associates of an individual who they fear is a danger to himself, herself, or others new tools to prevent gun violence.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2445-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Pause for Safety Act of 2014", 
+  "sponsor": {
+    "district": "24", 
+    "name": "Capps, Lois", 
+    "state": "CA", 
+    "thomas_id": "01471", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-06-05", 
+  "subjects": [
+    "Crime and law enforcement", 
+    "Crime prevention", 
+    "Criminal justice information and records", 
+    "Firearms and explosives", 
+    "Law enforcement administration and funding", 
+    "State and local government operations", 
+    "Violent crime"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Pause for Safety Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To provide family members and close associates of an individual who they fear is a danger to himself, herself, or others new tools to prevent gun violence.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T13:32:24-04:00"
+}

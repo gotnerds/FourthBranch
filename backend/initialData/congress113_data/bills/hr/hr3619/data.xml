@@ -1,0 +1,46 @@
+<bill session="113" type="h" number="3619" updated="2014-08-14T13:22:21-04:00">
+  <state datetime="2013-11-22">REFERRED</state>
+  <status>
+    <introduced datetime="2013-11-22"/>
+  </status>
+  <introduced datetime="2013-11-22"/>
+  <titles>
+    <title type="short" as="introduced">STEP A Act of 2013</title>
+    <title type="official" as="introduced">To amend and extend The State Trade and Export Promotion Grant Program.</title>
+  </titles>
+  <sponsor thomas_id="01996"/>
+  <cosponsors>
+    <cosponsor thomas_id="01641" joined="2014-04-01"/>
+    <cosponsor thomas_id="00368" joined="2014-03-24"/>
+    <cosponsor thomas_id="01501" joined="2014-04-28"/>
+    <cosponsor thomas_id="01602" joined="2014-02-27"/>
+    <cosponsor thomas_id="02108" joined="2014-04-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-11-22" state="REFERRED">
+      <text>Referred to the House Committee on Small Business.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSSM" name="House Small Business" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="2333"/>
+    <bill type="h" session="113" relation="unknown" number="3115"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Africa"/>
+    <term name="Competitiveness, trade promotion, trade deficits"/>
+    <term name="Congressional oversight"/>
+    <term name="Government studies and investigations"/>
+    <term name="Minority and disadvantaged businesses"/>
+    <term name="Performance measurement"/>
+    <term name="Rural conditions and development"/>
+    <term name="Small business"/>
+    <term name="Women in business"/>
+  </subjects>
+  <amendments/>
+  <summary>11/22/2013--Introduced.
+STEP A Act of 2013 - Amends the Small Business Act to extend the three-year pilot State Trade and Export Promotion Grant Program originally established under the Small Business Jobs Act of 2010.</summary>
+</bill>

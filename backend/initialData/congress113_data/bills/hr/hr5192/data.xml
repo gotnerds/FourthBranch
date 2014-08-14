@@ -1,0 +1,32 @@
+<bill session="113" type="h" number="5192" updated="2014-08-14T13:35:47-04:00">
+  <state datetime="2014-07-24">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-24"/>
+  </status>
+  <introduced datetime="2014-07-24"/>
+  <titles>
+    <title type="short" as="introduced">THRIFT Act of 2014</title>
+    <title type="short" as="introduced">To Help Reduce Inefficient Federal Tendencies Act of 2014</title>
+    <title type="official" as="introduced">To provide for incentives for agencies and the judiciary to increase operating efficiency.</title>
+  </titles>
+  <sponsor thomas_id="02002"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-24" state="REFERRED">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-07-24">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2014-07-24">
+      <text>Referred to House Judiciary</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

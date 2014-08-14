@@ -1,0 +1,71 @@
+<bill session="113" type="s" number="862" updated="2014-08-14T13:52:07-04:00">
+  <state datetime="2013-05-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-06"/>
+  </status>
+  <introduced datetime="2013-05-06"/>
+  <titles>
+    <title type="short" as="introduced">EACH Act</title>
+    <title type="short" as="introduced">Equitable Access to Care and Health Act</title>
+    <title type="official" as="introduced">A bill to amend section 5000A of the Internal Revenue Code of 1986 to provide an additional religious exemption from the individual health coverage mandate.</title>
+  </titles>
+  <sponsor thomas_id="02075"/>
+  <cosponsors>
+    <cosponsor thomas_id="01695" joined="2013-05-06"/>
+    <cosponsor thomas_id="01558" joined="2013-07-31"/>
+    <cosponsor thomas_id="01898" joined="2013-08-01"/>
+    <cosponsor thomas_id="01965" joined="2013-10-07"/>
+    <cosponsor thomas_id="01464" joined="2013-05-06"/>
+    <cosponsor thomas_id="01687" joined="2013-05-08"/>
+    <cosponsor thomas_id="00136" joined="2013-12-11"/>
+    <cosponsor thomas_id="00179" joined="2014-02-24"/>
+    <cosponsor thomas_id="00212" joined="2013-05-08"/>
+    <cosponsor thomas_id="01541" joined="2014-03-11"/>
+    <cosponsor thomas_id="01984" joined="2014-01-30"/>
+    <cosponsor thomas_id="00250" joined="2013-05-08"/>
+    <cosponsor thomas_id="00326" joined="2013-11-13"/>
+    <cosponsor thomas_id="01351" joined="2013-11-21"/>
+    <cosponsor thomas_id="01844" joined="2013-05-06"/>
+    <cosponsor thomas_id="00583" joined="2013-05-14"/>
+    <cosponsor thomas_id="01608" joined="2013-07-31"/>
+    <cosponsor thomas_id="02176" joined="2013-12-19"/>
+    <cosponsor thomas_id="02185" joined="2013-05-06"/>
+    <cosponsor thomas_id="01647" joined="2013-07-31"/>
+    <cosponsor thomas_id="01820" joined="2013-08-01"/>
+    <cosponsor thomas_id="01507" joined="2013-05-06"/>
+    <cosponsor thomas_id="02082" joined="2013-05-06"/>
+    <cosponsor thomas_id="00924" joined="2013-11-20"/>
+    <cosponsor thomas_id="01701" joined="2014-01-15"/>
+    <cosponsor thomas_id="01896" joined="2013-05-13"/>
+    <cosponsor thomas_id="00968" joined="2013-11-05"/>
+    <cosponsor thomas_id="02173" joined="2013-05-06"/>
+    <cosponsor thomas_id="01548" joined="2014-03-26"/>
+    <cosponsor thomas_id="01901" joined="2014-02-26"/>
+    <cosponsor thomas_id="01567" joined="2013-12-19"/>
+    <cosponsor thomas_id="01897" joined="2013-11-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="1814"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Comprehensive health care"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Religion"/>
+    <term name="Sales and excise taxes"/>
+  </subjects>
+  <amendments/>
+  <summary>5/6/2013--Introduced.
+Equitable Access to Care and Health Act or the EACH Act - Amends the Internal Revenue Code, with respect to minimum essential health care coverage requirements added by the Patient Protection and Affordable Care Act, to allow an additional religious exemption from such requirements for individuals whose sincerely held religious beliefs would cause them to object to medical health care provided under such coverage.
+
+Defines "medical health care" to mean voluntary health treatment by or supervised by a medical doctor that would be covered under minimum essential coverage that: (1) includes voluntary acute care treatment at hospital emergency rooms, walk-in clinics, or similar facilities; and (2) excludes treatment not administered or supervised by a medical doctor, physical examinations or treatment required by law or third parties, and vaccinations.</summary>
+</bill>

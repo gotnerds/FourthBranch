@@ -1,0 +1,69 @@
+<bill session="113" type="h" number="4462" updated="2014-08-14T13:29:26-04:00">
+  <state datetime="2014-04-10">REFERRED</state>
+  <status>
+    <introduced datetime="2014-04-10"/>
+  </status>
+  <introduced datetime="2014-04-10"/>
+  <titles>
+    <title type="short" as="introduced">Housing Financial Literacy Act of 2014</title>
+    <title type="official" as="introduced">To require the Secretary of Housing and Urban Development to discount FHA single-family mortgage insurance premium payments for first-time homebuyers who complete a financial literacy housing counseling program.</title>
+  </titles>
+  <sponsor thomas_id="02153"/>
+  <cosponsors>
+    <cosponsor thomas_id="02107" joined="2014-04-10"/>
+    <cosponsor thomas_id="01654" joined="2014-04-10"/>
+    <cosponsor thomas_id="01959" joined="2014-04-10"/>
+    <cosponsor thomas_id="01894" joined="2014-04-10"/>
+    <cosponsor thomas_id="01895" joined="2014-04-10"/>
+    <cosponsor thomas_id="00478" joined="2014-04-10"/>
+    <cosponsor thomas_id="02089" joined="2014-07-08"/>
+    <cosponsor thomas_id="02170" joined="2014-04-10"/>
+    <cosponsor thomas_id="01490" joined="2014-04-10"/>
+    <cosponsor thomas_id="00588" joined="2014-04-10"/>
+    <cosponsor thomas_id="00599" joined="2014-04-10"/>
+    <cosponsor thomas_id="01843" joined="2014-04-10"/>
+    <cosponsor thomas_id="00616" joined="2014-04-29"/>
+    <cosponsor thomas_id="02190" joined="2014-04-29"/>
+    <cosponsor thomas_id="01583" joined="2014-07-10"/>
+    <cosponsor thomas_id="01501" joined="2014-04-10"/>
+    <cosponsor thomas_id="00729" joined="2014-04-10"/>
+    <cosponsor thomas_id="01503" joined="2014-06-26"/>
+    <cosponsor thomas_id="01506" joined="2014-04-10"/>
+    <cosponsor thomas_id="01811" joined="2014-06-26"/>
+    <cosponsor thomas_id="02117" joined="2014-07-10"/>
+    <cosponsor thomas_id="00868" joined="2014-06-26"/>
+    <cosponsor thomas_id="00944" joined="2014-04-10"/>
+    <cosponsor thomas_id="01756" joined="2014-04-10"/>
+    <cosponsor thomas_id="01757" joined="2014-04-10"/>
+    <cosponsor thomas_id="01988" joined="2014-04-10"/>
+    <cosponsor thomas_id="02047" joined="2014-04-10"/>
+    <cosponsor thomas_id="02104" joined="2014-04-10"/>
+    <cosponsor thomas_id="01205" joined="2014-04-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-04-10">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E570"/>
+    </action>
+    <action datetime="2014-04-10" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Financial literacy"/>
+    <term name="Housing finance and home ownership"/>
+    <term name="Life, casualty, property insurance"/>
+  </subjects>
+  <amendments/>
+  <summary>4/10/2014--Introduced.
+Housing Financial Literacy Act of 2014 - Amends the National Housing Act to revise the single insurance premium payment for a mortgage (secured by a one- to four-family dwelling that is an obligation of the Mutual Mortgage Insurance Fund) of a first-time homebuyer who completes a program of counseling on the responsibilities and financial management involved in homeownership that is approved by the Secretary of Housing and Urban Development (HUD).
+
+Repeals the current maximum premium payment of 2.75% of the amount of the mortgage's original insured principal obligation.
+
+Sets the single mortgage insurance premium payment at 25 basis points lower than the premium payment amount otherwise established.</summary>
+</bill>

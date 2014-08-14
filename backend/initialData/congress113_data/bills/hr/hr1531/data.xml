@@ -1,0 +1,148 @@
+<bill session="113" type="h" number="1531" updated="2014-08-14T13:03:43-04:00">
+  <state datetime="2013-04-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-12"/>
+  </status>
+  <introduced datetime="2013-04-12"/>
+  <titles>
+    <title type="short" as="introduced">Breast Cancer Patient Protection Act of 2013</title>
+    <title type="official" as="introduced">To require that health plans provide coverage for a minimum hospital stay for mastectomies, lumpectomies, and lymph node dissection for the treatment of breast cancer and coverage for secondary consultations.</title>
+  </titles>
+  <sponsor thomas_id="00281"/>
+  <cosponsors>
+    <cosponsor thomas_id="00091" joined="2013-04-12"/>
+    <cosponsor thomas_id="01723" joined="2013-04-12"/>
+    <cosponsor thomas_id="01845" joined="2013-04-12"/>
+    <cosponsor thomas_id="00132" joined="2013-04-12"/>
+    <cosponsor thomas_id="01471" joined="2013-04-12"/>
+    <cosponsor thomas_id="01889" joined="2013-04-12"/>
+    <cosponsor thomas_id="01839" joined="2013-04-12"/>
+    <cosponsor thomas_id="01970" joined="2013-04-12"/>
+    <cosponsor thomas_id="02055" joined="2013-07-17"/>
+    <cosponsor thomas_id="01864" joined="2013-08-02"/>
+    <cosponsor thomas_id="01654" joined="2013-04-12"/>
+    <cosponsor thomas_id="01878" joined="2013-04-12"/>
+    <cosponsor thomas_id="01959" joined="2013-04-12"/>
+    <cosponsor thomas_id="00229" joined="2013-04-12"/>
+    <cosponsor thomas_id="00231" joined="2013-04-12"/>
+    <cosponsor thomas_id="01479" joined="2013-04-12"/>
+    <cosponsor thomas_id="00299" joined="2013-04-12"/>
+    <cosponsor thomas_id="01894" joined="2013-04-12"/>
+    <cosponsor thomas_id="01857" joined="2013-04-12"/>
+    <cosponsor thomas_id="00344" joined="2013-04-12"/>
+    <cosponsor thomas_id="00368" joined="2013-04-12"/>
+    <cosponsor thomas_id="02119" joined="2013-08-02"/>
+    <cosponsor thomas_id="00414" joined="2013-07-23"/>
+    <cosponsor thomas_id="01895" joined="2013-04-12"/>
+    <cosponsor thomas_id="01708" joined="2013-04-12"/>
+    <cosponsor thomas_id="02089" joined="2013-05-06"/>
+    <cosponsor thomas_id="00511" joined="2013-04-12"/>
+    <cosponsor thomas_id="01794" joined="2013-04-12"/>
+    <cosponsor thomas_id="01913" joined="2013-04-12"/>
+    <cosponsor thomas_id="01490" joined="2013-08-02"/>
+    <cosponsor thomas_id="01580" joined="2013-04-12"/>
+    <cosponsor thomas_id="01663" joined="2013-04-12"/>
+    <cosponsor thomas_id="00588" joined="2013-04-12"/>
+    <cosponsor thomas_id="00599" joined="2013-04-12"/>
+    <cosponsor thomas_id="01843" joined="2013-04-12"/>
+    <cosponsor thomas_id="00616" joined="2013-04-12"/>
+    <cosponsor thomas_id="01668" joined="2013-04-12"/>
+    <cosponsor thomas_id="01583" joined="2013-04-12"/>
+    <cosponsor thomas_id="01501" joined="2013-04-12"/>
+    <cosponsor thomas_id="00683" joined="2013-04-12"/>
+    <cosponsor thomas_id="00688" joined="2013-04-12"/>
+    <cosponsor thomas_id="00699" joined="2013-04-12"/>
+    <cosponsor thomas_id="01846" joined="2013-04-12"/>
+    <cosponsor thomas_id="00701" joined="2013-04-12"/>
+    <cosponsor thomas_id="00709" joined="2013-04-12"/>
+    <cosponsor thomas_id="00729" joined="2013-04-12"/>
+    <cosponsor thomas_id="00735" joined="2013-04-12"/>
+    <cosponsor thomas_id="01504" joined="2013-04-12"/>
+    <cosponsor thomas_id="01505" joined="2013-04-12"/>
+    <cosponsor thomas_id="01811" joined="2013-04-12"/>
+    <cosponsor thomas_id="00832" joined="2013-04-12"/>
+    <cosponsor thomas_id="00850" joined="2013-04-12"/>
+    <cosponsor thomas_id="01602" joined="2013-04-12"/>
+    <cosponsor thomas_id="00854" joined="2013-04-12"/>
+    <cosponsor thomas_id="00893" joined="2013-04-12"/>
+    <cosponsor thomas_id="02097" joined="2013-04-12"/>
+    <cosponsor thomas_id="01927" joined="2013-04-12"/>
+    <cosponsor thomas_id="02171" joined="2013-08-02"/>
+    <cosponsor thomas_id="00930" joined="2013-04-12"/>
+    <cosponsor thomas_id="00940" joined="2013-04-12"/>
+    <cosponsor thomas_id="00944" joined="2013-04-12"/>
+    <cosponsor thomas_id="00997" joined="2013-04-12"/>
+    <cosponsor thomas_id="01728" joined="2013-04-12"/>
+    <cosponsor thomas_id="01003" joined="2013-04-12"/>
+    <cosponsor thomas_id="01756" joined="2013-04-12"/>
+    <cosponsor thomas_id="01962" joined="2013-04-12"/>
+    <cosponsor thomas_id="01757" joined="2013-04-12"/>
+    <cosponsor thomas_id="01854" joined="2013-04-12"/>
+    <cosponsor thomas_id="01588" joined="2013-04-12"/>
+    <cosponsor thomas_id="01635" joined="2013-04-12"/>
+    <cosponsor thomas_id="01798" joined="2013-04-12"/>
+    <cosponsor thomas_id="01722" joined="2013-04-12"/>
+    <cosponsor thomas_id="01042" joined="2013-04-12"/>
+    <cosponsor thomas_id="01526" joined="2013-04-12"/>
+    <cosponsor thomas_id="01069" joined="2013-04-12"/>
+    <cosponsor thomas_id="01890" joined="2013-04-12"/>
+    <cosponsor thomas_id="02110" joined="2013-08-02"/>
+    <cosponsor thomas_id="01884" joined="2013-04-12"/>
+    <cosponsor thomas_id="01729" joined="2013-04-12"/>
+    <cosponsor thomas_id="01777" joined="2013-04-12"/>
+    <cosponsor thomas_id="02004" joined="2013-04-12"/>
+    <cosponsor thomas_id="01853" joined="2013-08-02"/>
+    <cosponsor thomas_id="01256" joined="2013-04-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-12" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-04-12">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-04-12">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2013-04-12">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-04-12">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2013-04-23">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2013-07-08">
+      <text>Referred to the Subcommittee on Health, Employment, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSWM02" name="House Ways and Means" activity="Referral"/>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health, Employment, Labor, and Pensions" code="HSED02" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Cancer"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Hospital care"/>
+    <term name="Surgery and anesthesia"/>
+    <term name="Women's health"/>
+  </subjects>
+  <amendments/>
+  <summary>4/12/2013--Introduced.
+Breast Cancer Patient Protect Act of 2013 - Amends the Employee Retirement Income Security Act of 1974 (ERISA), the Public Health Service Act, and the Internal Revenue Code to require a group or individual health plan that provides medical and surgical benefits to ensure that inpatient (and in the case of a lumpectomy, outpatient) coverage and radiation therapy are provided for breast cancer treatment. Prohibits such a plan from: (1) restricting benefits for any hospital length of stay to less than 48 hours in connection with a mastectomy or breast conserving surgery or 24 hours in connection with a lymph node dissection, insofar as the attending physician, in consultation with the patient, determines such stay to be medically necessary; or (2) requiring that a provider obtain authorization from the plan for prescribing any such length of stay.
+
+Requires such a plan to: (1) provide notice to each participant and beneficiary regarding the coverage required under this Act, and (2) ensure that coverage is provided for secondary consultations.
+
+Prohibits a health plan from taking specified actions to avoid the requirements of this Act.
+
+Allows a health insurance issuer that provides individual health insurance coverage to nonrenew or discontinue an individual's coverage based on the intentional concealment of material facts regarding a health condition related to the condition for which coverage is being claimed.</summary>
+</bill>

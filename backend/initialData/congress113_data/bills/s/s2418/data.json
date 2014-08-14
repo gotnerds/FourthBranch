@@ -1,0 +1,92 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-03", 
+      "committees": [
+        "SSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2418-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Warren, Elizabeth", 
+      "sponsored_at": "2014-06-03", 
+      "state": "MA", 
+      "thomas_id": "02182", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-06-03", 
+  "number": "2418", 
+  "official_title": "A bill to amend title 11 and title 29, United States Code, to increase the amount of unsecured claims for salaries and wages given priority in bankruptcy, to provide for payments to retirees to compensate for lost health insurance benefits resulting from the bankruptcy of their former employer, to protect the health benefits of employees and retirees, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Bankruptcy Fairness and Employee Benefits Protection Act of 2014", 
+  "sponsor": {
+    "district": null, 
+    "name": "Rockefeller, John D., IV", 
+    "state": "WV", 
+    "thomas_id": "01424", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-06-03", 
+  "subjects": [
+    "Bankruptcy", 
+    "Civil actions and liability", 
+    "Congressional oversight", 
+    "Corporate finance and management", 
+    "Employee benefits and pensions", 
+    "Government studies and investigations", 
+    "Health care costs and insurance", 
+    "Labor and employment", 
+    "Labor-management relations", 
+    "State and local finance", 
+    "Wages and earnings"
+  ], 
+  "subjects_top_term": "Labor and employment", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Bankruptcy Fairness and Employee Benefits Protection Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to amend title 11 and title 29, United States Code, to increase the amount of unsecured claims for salaries and wages given priority in bankruptcy, to provide for payments to retirees to compensate for lost health insurance benefits resulting from the bankruptcy of their former employer, to protect the health benefits of employees and retirees, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T14:05:27-04:00"
+}

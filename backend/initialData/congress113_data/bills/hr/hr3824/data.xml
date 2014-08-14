@@ -1,0 +1,274 @@
+<bill session="113" type="h" number="3824" updated="2014-08-14T13:24:04-04:00">
+  <state datetime="2014-01-09">REFERRED</state>
+  <status>
+    <introduced datetime="2014-01-09"/>
+  </status>
+  <introduced datetime="2014-01-09"/>
+  <titles>
+    <title type="short" as="introduced">Emergency Unemployment Compensation Extension Act</title>
+    <title type="official" as="introduced">To provide for the extension of certain unemployment benefits, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01535"/>
+  <cosponsors>
+    <cosponsor thomas_id="00021" joined="2014-01-13"/>
+    <cosponsor thomas_id="02093" joined="2014-01-16"/>
+    <cosponsor thomas_id="01996" joined="2014-01-13"/>
+    <cosponsor thomas_id="02153" joined="2014-01-13"/>
+    <cosponsor thomas_id="00070" joined="2014-01-27"/>
+    <cosponsor thomas_id="02102" joined="2014-01-13"/>
+    <cosponsor thomas_id="00091" joined="2014-01-14"/>
+    <cosponsor thomas_id="01740" joined="2014-01-13"/>
+    <cosponsor thomas_id="00099" joined="2014-01-14"/>
+    <cosponsor thomas_id="02092" joined="2014-01-13"/>
+    <cosponsor thomas_id="01469" joined="2014-01-13"/>
+    <cosponsor thomas_id="01845" joined="2014-01-14"/>
+    <cosponsor thomas_id="00132" joined="2014-01-15"/>
+    <cosponsor thomas_id="02106" joined="2014-01-13"/>
+    <cosponsor thomas_id="02127" joined="2014-01-27"/>
+    <cosponsor thomas_id="01761" joined="2014-01-14"/>
+    <cosponsor thomas_id="01471" joined="2014-01-13"/>
+    <cosponsor thomas_id="01564" joined="2014-01-09"/>
+    <cosponsor thomas_id="02107" joined="2014-01-13"/>
+    <cosponsor thomas_id="01999" joined="2014-01-16"/>
+    <cosponsor thomas_id="01889" joined="2014-01-14"/>
+    <cosponsor thomas_id="02159" joined="2014-01-09"/>
+    <cosponsor thomas_id="01839" joined="2014-01-15"/>
+    <cosponsor thomas_id="02163" joined="2014-01-16"/>
+    <cosponsor thomas_id="01970" joined="2014-01-13"/>
+    <cosponsor thomas_id="02055" joined="2014-01-13"/>
+    <cosponsor thomas_id="02196" joined="2014-01-13"/>
+    <cosponsor thomas_id="01864" joined="2014-01-14"/>
+    <cosponsor thomas_id="01654" joined="2014-01-13"/>
+    <cosponsor thomas_id="01790" joined="2014-01-14"/>
+    <cosponsor thomas_id="00208" joined="2014-01-13"/>
+    <cosponsor thomas_id="01878" joined="2014-01-14"/>
+    <cosponsor thomas_id="01959" joined="2014-01-14"/>
+    <cosponsor thomas_id="00229" joined="2014-01-13"/>
+    <cosponsor thomas_id="00231" joined="2014-01-14"/>
+    <cosponsor thomas_id="01836" joined="2014-01-13"/>
+    <cosponsor thomas_id="01604" joined="2014-01-15"/>
+    <cosponsor thomas_id="01807" joined="2014-01-16"/>
+    <cosponsor thomas_id="00256" joined="2014-01-09"/>
+    <cosponsor thomas_id="01477" joined="2014-01-13"/>
+    <cosponsor thomas_id="01641" joined="2014-01-13"/>
+    <cosponsor thomas_id="00279" joined="2014-01-09"/>
+    <cosponsor thomas_id="01479" joined="2014-01-13"/>
+    <cosponsor thomas_id="00281" joined="2014-01-13"/>
+    <cosponsor thomas_id="02096" joined="2014-01-13"/>
+    <cosponsor thomas_id="01976" joined="2014-01-14"/>
+    <cosponsor thomas_id="00299" joined="2014-01-09"/>
+    <cosponsor thomas_id="00303" joined="2014-01-27"/>
+    <cosponsor thomas_id="00316" joined="2014-01-14"/>
+    <cosponsor thomas_id="01894" joined="2014-01-13"/>
+    <cosponsor thomas_id="01857" joined="2014-01-13"/>
+    <cosponsor thomas_id="00344" joined="2014-01-13"/>
+    <cosponsor thomas_id="02125" joined="2014-01-13"/>
+    <cosponsor thomas_id="00355" joined="2014-01-13"/>
+    <cosponsor thomas_id="02114" joined="2014-01-16"/>
+    <cosponsor thomas_id="00368" joined="2014-01-15"/>
+    <cosponsor thomas_id="00371" joined="2014-01-14"/>
+    <cosponsor thomas_id="01888" joined="2014-01-13"/>
+    <cosponsor thomas_id="02119" joined="2014-01-15"/>
+    <cosponsor thomas_id="01895" joined="2014-01-13"/>
+    <cosponsor thomas_id="02164" joined="2014-02-05"/>
+    <cosponsor thomas_id="01973" joined="2014-01-16"/>
+    <cosponsor thomas_id="02120" joined="2014-01-09"/>
+    <cosponsor thomas_id="01914" joined="2014-01-13"/>
+    <cosponsor thomas_id="01803" joined="2014-01-14"/>
+    <cosponsor thomas_id="00462" joined="2014-01-14"/>
+    <cosponsor thomas_id="01708" joined="2014-01-13"/>
+    <cosponsor thomas_id="00478" joined="2014-01-13"/>
+    <cosponsor thomas_id="02089" joined="2014-01-13"/>
+    <cosponsor thomas_id="02010" joined="2014-01-15"/>
+    <cosponsor thomas_id="00511" joined="2014-01-15"/>
+    <cosponsor thomas_id="02170" joined="2014-01-14"/>
+    <cosponsor thomas_id="01794" joined="2014-01-13"/>
+    <cosponsor thomas_id="01913" joined="2014-01-27"/>
+    <cosponsor thomas_id="01490" joined="2014-01-13"/>
+    <cosponsor thomas_id="01580" joined="2014-01-13"/>
+    <cosponsor thomas_id="01634" joined="2014-01-13"/>
+    <cosponsor thomas_id="02147" joined="2014-01-09"/>
+    <cosponsor thomas_id="00566" joined="2014-01-13"/>
+    <cosponsor thomas_id="02101" joined="2014-02-03"/>
+    <cosponsor thomas_id="01663" joined="2014-01-14"/>
+    <cosponsor thomas_id="00588" joined="2014-01-13"/>
+    <cosponsor thomas_id="02149" joined="2014-01-15"/>
+    <cosponsor thomas_id="00599" joined="2014-01-13"/>
+    <cosponsor thomas_id="01843" joined="2014-01-13"/>
+    <cosponsor thomas_id="00616" joined="2014-01-13"/>
+    <cosponsor thomas_id="02025" joined="2014-01-13"/>
+    <cosponsor thomas_id="02190" joined="2014-01-13"/>
+    <cosponsor thomas_id="02172" joined="2014-01-13"/>
+    <cosponsor thomas_id="02134" joined="2014-01-09"/>
+    <cosponsor thomas_id="02169" joined="2014-01-13"/>
+    <cosponsor thomas_id="01907" joined="2014-01-09"/>
+    <cosponsor thomas_id="02145" joined="2014-01-09"/>
+    <cosponsor thomas_id="01668" joined="2014-01-13"/>
+    <cosponsor thomas_id="01675" joined="2014-01-27"/>
+    <cosponsor thomas_id="01583" joined="2014-01-13"/>
+    <cosponsor thomas_id="01501" joined="2014-01-09"/>
+    <cosponsor thomas_id="00683" joined="2014-01-13"/>
+    <cosponsor thomas_id="00688" joined="2014-01-13"/>
+    <cosponsor thomas_id="01846" joined="2014-01-09"/>
+    <cosponsor thomas_id="00701" joined="2014-01-16"/>
+    <cosponsor thomas_id="02111" joined="2014-01-13"/>
+    <cosponsor thomas_id="00709" joined="2014-01-27"/>
+    <cosponsor thomas_id="02146" joined="2014-01-27"/>
+    <cosponsor thomas_id="01939" joined="2014-01-15"/>
+    <cosponsor thomas_id="01686" joined="2014-01-14"/>
+    <cosponsor thomas_id="01943" joined="2014-01-14"/>
+    <cosponsor thomas_id="00729" joined="2014-01-16"/>
+    <cosponsor thomas_id="02150" joined="2014-01-09"/>
+    <cosponsor thomas_id="01814" joined="2014-01-13"/>
+    <cosponsor thomas_id="01503" joined="2014-01-13"/>
+    <cosponsor thomas_id="01653" joined="2014-01-13"/>
+    <cosponsor thomas_id="00766" joined="2014-01-27"/>
+    <cosponsor thomas_id="01504" joined="2014-01-13"/>
+    <cosponsor thomas_id="01832" joined="2014-02-25"/>
+    <cosponsor thomas_id="01506" joined="2014-01-13"/>
+    <cosponsor thomas_id="02148" joined="2014-01-13"/>
+    <cosponsor thomas_id="01730" joined="2014-01-13"/>
+    <cosponsor thomas_id="00808" joined="2014-01-13"/>
+    <cosponsor thomas_id="01811" joined="2014-01-13"/>
+    <cosponsor thomas_id="00832" joined="2014-01-13"/>
+    <cosponsor thomas_id="00850" joined="2014-01-13"/>
+    <cosponsor thomas_id="01602" joined="2014-01-27"/>
+    <cosponsor thomas_id="00854" joined="2014-01-15"/>
+    <cosponsor thomas_id="02108" joined="2014-01-13"/>
+    <cosponsor thomas_id="00867" joined="2014-01-13"/>
+    <cosponsor thomas_id="00868" joined="2014-01-09"/>
+    <cosponsor thomas_id="02162" joined="2014-01-13"/>
+    <cosponsor thomas_id="01974" joined="2014-01-13"/>
+    <cosponsor thomas_id="00887" joined="2014-01-09"/>
+    <cosponsor thomas_id="01510" joined="2014-01-13"/>
+    <cosponsor thomas_id="00893" joined="2014-01-28"/>
+    <cosponsor thomas_id="02097" joined="2014-01-15"/>
+    <cosponsor thomas_id="01929" joined="2014-01-15"/>
+    <cosponsor thomas_id="02113" joined="2014-01-13"/>
+    <cosponsor thomas_id="01953" joined="2014-01-15"/>
+    <cosponsor thomas_id="01927" joined="2014-01-13"/>
+    <cosponsor thomas_id="02171" joined="2014-01-13"/>
+    <cosponsor thomas_id="00930" joined="2014-01-13"/>
+    <cosponsor thomas_id="01967" joined="2014-01-15"/>
+    <cosponsor thomas_id="00940" joined="2014-01-27"/>
+    <cosponsor thomas_id="00944" joined="2014-01-13"/>
+    <cosponsor thomas_id="02023" joined="2014-01-13"/>
+    <cosponsor thomas_id="00997" joined="2014-01-13"/>
+    <cosponsor thomas_id="02109" joined="2014-01-15"/>
+    <cosponsor thomas_id="01728" joined="2014-01-15"/>
+    <cosponsor thomas_id="01003" joined="2014-01-27"/>
+    <cosponsor thomas_id="01756" joined="2014-01-27"/>
+    <cosponsor thomas_id="01962" joined="2014-01-27"/>
+    <cosponsor thomas_id="01757" joined="2014-01-15"/>
+    <cosponsor thomas_id="01522" joined="2014-01-16"/>
+    <cosponsor thomas_id="01854" joined="2014-01-13"/>
+    <cosponsor thomas_id="01588" joined="2014-01-13"/>
+    <cosponsor thomas_id="01635" joined="2014-01-15"/>
+    <cosponsor thomas_id="02124" joined="2014-02-27"/>
+    <cosponsor thomas_id="01798" joined="2014-01-13"/>
+    <cosponsor thomas_id="01722" joined="2014-01-15"/>
+    <cosponsor thomas_id="01037" joined="2014-01-13"/>
+    <cosponsor thomas_id="01042" joined="2014-01-13"/>
+    <cosponsor thomas_id="01988" joined="2014-01-14"/>
+    <cosponsor thomas_id="01861" joined="2014-01-09"/>
+    <cosponsor thomas_id="01526" joined="2014-01-13"/>
+    <cosponsor thomas_id="02099" joined="2014-01-27"/>
+    <cosponsor thomas_id="01818" joined="2014-01-14"/>
+    <cosponsor thomas_id="01069" joined="2014-01-13"/>
+    <cosponsor thomas_id="01528" joined="2014-01-14"/>
+    <cosponsor thomas_id="01890" joined="2014-01-13"/>
+    <cosponsor thomas_id="02104" joined="2014-01-14"/>
+    <cosponsor thomas_id="02110" joined="2014-01-13"/>
+    <cosponsor thomas_id="01151" joined="2014-01-27"/>
+    <cosponsor thomas_id="01593" joined="2014-01-15"/>
+    <cosponsor thomas_id="01940" joined="2014-01-13"/>
+    <cosponsor thomas_id="01942" joined="2014-01-13"/>
+    <cosponsor thomas_id="01884" joined="2014-01-13"/>
+    <cosponsor thomas_id="01729" joined="2014-01-13"/>
+    <cosponsor thomas_id="02112" joined="2014-01-09"/>
+    <cosponsor thomas_id="02166" joined="2014-01-27"/>
+    <cosponsor thomas_id="01184" joined="2014-01-13"/>
+    <cosponsor thomas_id="01777" joined="2014-01-13"/>
+    <cosponsor thomas_id="01205" joined="2014-01-09"/>
+    <cosponsor thomas_id="01209" joined="2014-01-13"/>
+    <cosponsor thomas_id="01879" joined="2014-01-13"/>
+    <cosponsor thomas_id="02004" joined="2014-01-15"/>
+    <cosponsor thomas_id="01853" joined="2014-01-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-01-09" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-01-09">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2014-01-09">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2014-01-10">
+      <text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text>
+    </action>
+    <action datetime="2014-02-28">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H2068-2069"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Railroads, Pipelines, and Hazardous Materials" code="HSPW14" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="2821"/>
+    <bill type="h" session="113" relation="unknown" number="3546"/>
+    <bill type="h" session="113" relation="unknown" number="3773"/>
+    <bill type="h" session="113" relation="unknown" number="3813"/>
+    <bill type="h" session="113" relation="unknown" number="3936"/>
+    <bill type="h" session="113" relation="unknown" number="3979"/>
+    <bill type="h" session="113" relation="unknown" number="4415"/>
+    <bill type="h" session="113" relation="unknown" number="4415"/>
+    <bill type="h" session="113" relation="unknown" number="4550"/>
+    <bill type="h" session="113" relation="unknown" number="4970"/>
+    <bill type="s" session="113" relation="unknown" number="1747"/>
+    <bill type="s" session="113" relation="unknown" number="1797"/>
+    <bill type="s" session="113" relation="identical" number="1845"/>
+    <bill type="s" session="113" relation="unknown" number="1931"/>
+    <bill type="s" session="113" relation="unknown" number="2077"/>
+    <bill type="s" session="113" relation="unknown" number="2097"/>
+    <bill type="s" session="113" relation="unknown" number="2148"/>
+    <bill type="s" session="113" relation="unknown" number="2149"/>
+    <bill type="s" session="113" relation="unknown" number="2532"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Appropriations"/>
+    <term name="Department of Labor"/>
+    <term name="Employee hiring"/>
+    <term name="Employment taxes"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Railroads"/>
+    <term name="State and local finance"/>
+    <term name="Transportation employees"/>
+    <term name="Unemployment"/>
+  </subjects>
+  <amendments/>
+  <summary>1/9/2014--Introduced.
+Emergency Unemployment Compensation Extension Act - Amends the Supplemental Appropriations Act, 2008 to extend emergency unemployment compensation (EUC) payments for eligible individuals to weeks of employment ending on or before April 1, 2014.
+
+ Amends the Assistance for Unemployed Workers and Struggling Families Act to extend until March 31, 2014, requirements that federal payments to states cover 100% of EUC.
+
+ Amends the Unemployment Compensation Extension Act of 2008 to exempt weeks of unemployment between enactment of this Act and September 30, 2014, from the prohibition in the Federal-State Extended Unemployment Compensation Act of 1970 (FSEUCA of 1970) against federal matching payments to a state for the first week in an individual's eligibility period for which extended compensation or sharable regular compensation is paid if the state law provides for payment of regular compensation to an individual for his or her first week of otherwise compensable unemployment. (Thus allows temporary federal matching for the first week of extended benefits for states with no waiting period.)
+
+ Amends the FSEUCA of 1970 to postpone similarly from December 31, 2013, to March 31, 2014, termination of the period during which a state may determine its "on" and "off" indicators according to specified temporary substitutions in its formula.
+
+ Amends the Supplemental Appropriations Act, 2008 to appropriate funds out of the employment security administration account through the first quarter of FY2015 to assist states in providing reemployment and eligibility assessment activities.
+
+ Amends the Railroad Unemployment Insurance Act to extend through March 31, 2014, the temporary increase in extended unemployment benefits.
+
+Makes a change in application of a certain requirement (nonreduction rule) to a state that has: (1) entered a federal-state EUC agreement, under which the federal government would reimburse the state's unemployment compensation agency making EUC payments to individuals who have exhausted all rights to regular unemployment compensation under state or federal law and meet specified other criteria; and (2) enacted a law before December 1, 2013, that, upon taking effect, would violate the nonreduction rule.
+
+(Under the nonreduction rule such an agreement does not apply with respect to a state whose method for computing regular unemployment compensation under state law has been modified to make the average weekly unemployment compensation benefit paid on or after June 2, 2010, less than what would have been paid before June 2, 2010.)
+
+Declares that the nonreduction rule shall not apply to a state which has enacted a law before December 1, 2013, that, upon taking effect, would violate the nonreduction rule. Allows such a state, however, to enter into a subsequent federal-state EUC agreement on or after enactment of this Act if, taking into account this inapplicability of the nonreduction rule, it would otherwise meet the requirements for an EUC agreement. (Thus allows such a subsequent EUC agreement to permit payment of less than the average weekly unemployment compensation benefit paid on or after June 2, 2010.)</summary>
+</bill>

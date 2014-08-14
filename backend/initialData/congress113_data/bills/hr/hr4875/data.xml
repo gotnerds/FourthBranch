@@ -1,0 +1,38 @@
+<bill session="113" type="h" number="4875" updated="2014-08-14T13:33:03-04:00">
+  <state datetime="2014-06-17">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-17"/>
+  </status>
+  <introduced datetime="2014-06-17"/>
+  <titles>
+    <title type="short" as="introduced">Equalizing Transparency for Veterans Act</title>
+    <title type="official" as="introduced">To direct the Secretary of Veterans Affairs to publish information on the provision of health care by the Department of Veterans Affairs, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01787"/>
+  <cosponsors>
+    <cosponsor thomas_id="01954" joined="2014-06-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-17" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2014-06-27">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Health" code="HSVR03" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Government information and archives"/>
+    <term name="Health care quality"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Health information and medical records"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+</bill>

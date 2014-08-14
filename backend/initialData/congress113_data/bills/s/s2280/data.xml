@@ -1,0 +1,107 @@
+<bill session="113" type="s" number="2280" updated="2014-08-14T14:04:17-04:00">
+  <state datetime="2014-05-05">REPORTED</state>
+  <status>
+    <unknown datetime="2014-05-05"/>
+  </status>
+  <introduced datetime="2014-05-01"/>
+  <titles>
+    <title type="official" as="introduced">A bill to approve the Keystone XL Pipeline.</title>
+  </titles>
+  <sponsor thomas_id="02079"/>
+  <cosponsors>
+    <cosponsor thomas_id="01695" joined="2014-05-01"/>
+    <cosponsor thomas_id="02075" joined="2014-05-01"/>
+    <cosponsor thomas_id="01881" joined="2014-05-01"/>
+    <cosponsor thomas_id="01898" joined="2014-05-01"/>
+    <cosponsor thomas_id="01464" joined="2014-05-01"/>
+    <cosponsor thomas_id="01687" joined="2014-05-01"/>
+    <cosponsor thomas_id="00153" joined="2014-05-01"/>
+    <cosponsor thomas_id="00188" joined="2014-05-01"/>
+    <cosponsor thomas_id="00209" joined="2014-05-01"/>
+    <cosponsor thomas_id="00212" joined="2014-05-01"/>
+    <cosponsor thomas_id="00213" joined="2014-05-01"/>
+    <cosponsor thomas_id="01541" joined="2014-05-01"/>
+    <cosponsor thomas_id="01825" joined="2014-05-01"/>
+    <cosponsor thomas_id="01692" joined="2014-05-01"/>
+    <cosponsor thomas_id="00250" joined="2014-05-01"/>
+    <cosponsor thomas_id="02175" joined="2014-05-01"/>
+    <cosponsor thomas_id="01850" joined="2014-05-01"/>
+    <cosponsor thomas_id="01542" joined="2014-05-01"/>
+    <cosponsor thomas_id="02179" joined="2014-05-01"/>
+    <cosponsor thomas_id="01633" joined="2014-05-01"/>
+    <cosponsor thomas_id="00452" joined="2014-05-01"/>
+    <cosponsor thomas_id="00457" joined="2014-05-01"/>
+    <cosponsor thomas_id="01902" joined="2014-05-01"/>
+    <cosponsor thomas_id="01351" joined="2014-05-01"/>
+    <cosponsor thomas_id="02174" joined="2014-05-01"/>
+    <cosponsor thomas_id="01863" joined="2014-05-01"/>
+    <cosponsor thomas_id="00583" joined="2014-05-01"/>
+    <cosponsor thomas_id="01608" joined="2014-05-01"/>
+    <cosponsor thomas_id="01899" joined="2014-05-01"/>
+    <cosponsor thomas_id="02086" joined="2014-05-01"/>
+    <cosponsor thomas_id="01647" joined="2014-05-01"/>
+    <cosponsor thomas_id="01546" joined="2014-05-01"/>
+    <cosponsor thomas_id="02080" joined="2014-05-01"/>
+    <cosponsor thomas_id="01983" joined="2014-05-01"/>
+    <cosponsor thomas_id="00754" joined="2014-05-01"/>
+    <cosponsor thomas_id="01820" joined="2014-05-01"/>
+    <cosponsor thomas_id="01395" joined="2014-05-01"/>
+    <cosponsor thomas_id="01507" joined="2014-05-01"/>
+    <cosponsor thomas_id="01694" joined="2014-05-01"/>
+    <cosponsor thomas_id="02082" joined="2014-05-01"/>
+    <cosponsor thomas_id="00924" joined="2014-05-01"/>
+    <cosponsor thomas_id="01701" joined="2014-05-01"/>
+    <cosponsor thomas_id="01896" joined="2014-05-01"/>
+    <cosponsor thomas_id="00968" joined="2014-05-01"/>
+    <cosponsor thomas_id="02084" joined="2014-05-01"/>
+    <cosponsor thomas_id="02056" joined="2014-05-01"/>
+    <cosponsor thomas_id="01548" joined="2014-05-01"/>
+    <cosponsor thomas_id="01049" joined="2014-05-01"/>
+    <cosponsor thomas_id="01829" joined="2014-05-01"/>
+    <cosponsor thomas_id="01534" joined="2014-05-01"/>
+    <cosponsor thomas_id="02085" joined="2014-05-01"/>
+    <cosponsor thomas_id="01609" joined="2014-05-01"/>
+    <cosponsor thomas_id="02198" joined="2014-05-01"/>
+    <cosponsor thomas_id="01897" joined="2014-05-01"/>
+    <cosponsor thomas_id="01226" joined="2014-05-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-01">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S2615-2617"/>
+    </action>
+    <action datetime="2014-05-01">
+      <text>Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+    </action>
+    <calendar datetime="2014-05-05" state="REPORTED" calendar="Senate Legislative" under="General Orders" number="371">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 371.</text>
+    </calendar>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2314"/>
+    <bill type="s" session="113" relation="unknown" number="2554"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Canada"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Federal appellate courts"/>
+    <term name="Judicial review and appeals"/>
+    <term name="Licensing and registrations"/>
+    <term name="Nebraska"/>
+    <term name="Oil and gas"/>
+    <term name="Pipelines"/>
+  </subjects>
+  <amendments/>
+  <summary>5/1/2014--Introduced.
+Authorizes TransCanada Keystone Pipeline, L.P. to construct, connect, operate, and maintain the pipeline and cross-border facilities specified in an application filed by TransCanada Corporation to the Department of State on May 4, 2012.
+
+Deems the Final Supplemental Environmental Impact Statement regarding the pipeline issued by the Secretary of State in January 2014 to fully satisfy the National Environmental Policy Act of 1969, and any law that requires federal agency consultation or review, including the Endangered Species Act of 1973.
+
+Declares any applicable federal permit or authorization issued before enactment of this Act to remain in effect
+
+Restricts any legal challenges regarding a federal agency action and such facilities to judicial review on direct appeal to the U.S. Court of Appeals for the District of Columbia Circuit.
+
+Declares that this Act does not alter any federal, state, or local process or condition in effect on the date of enactment of this Act that is necessary to secure access from an owner of private property to construct the pipeline and cross-border facilities.</summary>
+</bill>

@@ -1,0 +1,118 @@
+<bill session="113" type="sj" number="19" updated="2014-08-14T13:39:41-04:00">
+  <state datetime="2014-07-10">REPORTED</state>
+  <status>
+    <unknown datetime="2014-07-10"/>
+  </status>
+  <introduced datetime="2013-06-18"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution proposing an amendment to the Constitution of the United States relating to contributions and expenditures intended to affect elections.</title>
+  </titles>
+  <sponsor thomas_id="01567"/>
+  <cosponsors>
+    <cosponsor thomas_id="01558" joined="2013-10-28"/>
+    <cosponsor thomas_id="01898" joined="2013-07-17"/>
+    <cosponsor thomas_id="01965" joined="2013-06-18"/>
+    <cosponsor thomas_id="02076" joined="2013-06-20"/>
+    <cosponsor thomas_id="02194" joined="2014-05-20"/>
+    <cosponsor thomas_id="00116" joined="2013-06-18"/>
+    <cosponsor thomas_id="00136" joined="2014-04-02"/>
+    <cosponsor thomas_id="00172" joined="2014-07-08"/>
+    <cosponsor thomas_id="00174" joined="2013-07-23"/>
+    <cosponsor thomas_id="00179" joined="2014-04-29"/>
+    <cosponsor thomas_id="01828" joined="2014-07-30"/>
+    <cosponsor thomas_id="01984" joined="2013-06-18"/>
+    <cosponsor thomas_id="00326" joined="2014-04-02"/>
+    <cosponsor thomas_id="01332" joined="2013-07-17"/>
+    <cosponsor thomas_id="01969" joined="2013-06-18"/>
+    <cosponsor thomas_id="01866" joined="2013-09-09"/>
+    <cosponsor thomas_id="01902" joined="2013-10-08"/>
+    <cosponsor thomas_id="00501" joined="2013-06-18"/>
+    <cosponsor thomas_id="01937" joined="2013-06-24"/>
+    <cosponsor thomas_id="02174" joined="2014-06-02"/>
+    <cosponsor thomas_id="01844" joined="2014-04-28"/>
+    <cosponsor thomas_id="00604" joined="2013-06-19"/>
+    <cosponsor thomas_id="02185" joined="2013-06-18"/>
+    <cosponsor thomas_id="01826" joined="2013-06-18"/>
+    <cosponsor thomas_id="01384" joined="2014-07-30"/>
+    <cosponsor thomas_id="01983" joined="2014-06-05"/>
+    <cosponsor thomas_id="00735" joined="2013-10-28"/>
+    <cosponsor thomas_id="01820" joined="2014-07-07"/>
+    <cosponsor thomas_id="00791" joined="2013-06-19"/>
+    <cosponsor thomas_id="01900" joined="2013-06-27"/>
+    <cosponsor thomas_id="00802" joined="2013-10-28"/>
+    <cosponsor thomas_id="01837" joined="2013-06-18"/>
+    <cosponsor thomas_id="01409" joined="2014-04-30"/>
+    <cosponsor thomas_id="00859" joined="2014-07-15"/>
+    <cosponsor thomas_id="00949" joined="2013-06-19"/>
+    <cosponsor thomas_id="00952" joined="2014-04-28"/>
+    <cosponsor thomas_id="01424" joined="2014-05-08"/>
+    <cosponsor thomas_id="01010" joined="2014-05-06"/>
+    <cosponsor thomas_id="02173" joined="2014-05-01"/>
+    <cosponsor thomas_id="01036" joined="2013-06-18"/>
+    <cosponsor thomas_id="01901" joined="2013-06-18"/>
+    <cosponsor thomas_id="01531" joined="2014-05-12"/>
+    <cosponsor thomas_id="01829" joined="2013-06-18"/>
+    <cosponsor thomas_id="01595" joined="2013-06-18"/>
+    <cosponsor thomas_id="02198" joined="2014-04-02"/>
+    <cosponsor thomas_id="02182" joined="2013-11-20"/>
+    <cosponsor thomas_id="01823" joined="2013-06-18"/>
+    <cosponsor thomas_id="01247" joined="2013-06-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-18" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2014-06-03">
+      <text>Committee on the Judiciary. Hearings held.</text>
+    </action>
+    <action datetime="2014-06-18">
+      <text>Committee on the Judiciary Subcommittee on the Constitution, Civil Rights and Human Rights. Approved for full committee consideration with an amendment in the nature of a substitute favorably.</text>
+    </action>
+    <calendar datetime="2014-07-10" state="REPORTED">
+      <text>Committee on the Judiciary. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2014-07-17">
+      <text>Committee on the Judiciary. Reported by Senator Leahy with an amendment in the nature of a substitute. Without written report.</text>
+    </action>
+    <calendar datetime="2014-07-17" calendar="Senate Legislative" under="General Orders" number="471">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 471.</text>
+    </calendar>
+    <action datetime="2014-07-23">
+      <text>Committee on Rules and Administration. Hearings held.</text>
+    </action>
+    <action datetime="2014-07-30">
+      <text>By Senator Leahy from Committee on the Judiciary filed written report. Report No. 113-223. Minority views filed.</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+      <reference ref="CR S5197" label="consideration"/>
+    </action>
+    <action datetime="2014-08-01">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+      <reference ref="CR S5317-5318, S5322-5323" label="consideration"/>
+    </action>
+    <action datetime="2014-08-01">
+      <text>Cloture motion on the motion to proceed presented in Senate.</text>
+      <reference ref="CR S5322-5323" label="consideration"/>
+      <reference ref="CR S5322-5323" label="text"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSJU" name="Senate Judiciary" activity="Referral, Hearings, Markup, Reporting"/>
+    <committee subcommittee="Constitution, Civil Rights and Human Rights" code="SSJU21" name="Senate Judiciary" activity="Markup, Reporting"/>
+    <committee subcommittee="" code="SSRA" name="Senate Rules and Administration" activity="Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill type="hj" session="113" relation="unknown" number="20"/>
+    <bill type="hj" session="113" relation="unknown" number="119"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Constitution and constitutional amendments"/>
+    <term name="Elections, voting, political campaign regulation"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>6/18/2013--Introduced.
+Constitutional Amendment - Grants Congress and the states the power to regulate the raising and spending of money and in-kind equivalents with respect to federal and state elections, respectively.</summary>
+</bill>

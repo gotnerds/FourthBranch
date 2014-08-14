@@ -1,0 +1,57 @@
+<bill session="113" type="h" number="2894" updated="2014-08-14T13:16:09-04:00">
+  <state datetime="2013-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-31"/>
+  </status>
+  <introduced datetime="2013-07-31"/>
+  <titles>
+    <title type="short" as="introduced">No Health Care for Life for Congress Act of 2013</title>
+    <title type="official" as="introduced">To discontinue eligibility of former Members of Congress and their dependents for coverage under the Federal Employees Health Benefit Program (FEHBP) if the Patient Protection and Affordable Care Act is repealed.</title>
+  </titles>
+  <sponsor thomas_id="02073"/>
+  <cosponsors>
+    <cosponsor thomas_id="02027" joined="2013-11-12"/>
+    <cosponsor thomas_id="01912" joined="2013-10-01"/>
+    <cosponsor thomas_id="02072" joined="2013-09-09"/>
+    <cosponsor thomas_id="01797" joined="2013-10-22"/>
+    <cosponsor thomas_id="02043" joined="2013-10-29"/>
+    <cosponsor thomas_id="01990" joined="2013-09-09"/>
+    <cosponsor thomas_id="02040" joined="2013-11-12"/>
+    <cosponsor thomas_id="02154" joined="2013-09-09"/>
+    <cosponsor thomas_id="00666" joined="2013-09-26"/>
+    <cosponsor thomas_id="01982" joined="2013-09-26"/>
+    <cosponsor thomas_id="02048" joined="2013-09-09"/>
+    <cosponsor thomas_id="02068" joined="2013-11-12"/>
+    <cosponsor thomas_id="02105" joined="2013-09-27"/>
+    <cosponsor thomas_id="02128" joined="2013-09-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-31" state="REFERRED">
+      <text>Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-07-31">
+      <text>Referred to House House Administration</text>
+    </action>
+    <action datetime="2013-07-31">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSHA" name="House Administration" activity="Referral"/>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Comprehensive health care"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Members of Congress"/>
+  </subjects>
+  <amendments/>
+  <summary>7/31/2013--Introduced.
+No Health Care for Life for Congress Act of 2013 - Discontinues eligibility of former Members of Congress for enrollment and continued coverage for them or their dependents in a health benefits plan under the Federal Employees Health Benefits Program (FEHBP) if the Patient Protection and Affordable Care Act is repealed.
+
+Applies this requirement only to coverage derived by virtue of service as a former Member.</summary>
+</bill>

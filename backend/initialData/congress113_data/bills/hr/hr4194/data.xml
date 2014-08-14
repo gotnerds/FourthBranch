@@ -1,0 +1,134 @@
+<bill session="113" type="h" number="4194" updated="2014-08-14T13:27:11-04:00">
+  <state datetime="2014-04-28T17:00:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-04-28T17:00:00-04:00"/>
+  </status>
+  <introduced datetime="2014-03-11"/>
+  <titles>
+    <title type="short" as="introduced">Government Reports Elimination Act of 2014</title>
+    <title type="short" as="reported to house">Government Reports Elimination Act of 2014</title>
+    <title type="short" as="passed house">Government Reports Elimination Act of 2014</title>
+    <title type="short" as="reported to senate">Government Reports Elimination Act of 2014</title>
+    <title type="official" as="introduced">To provide for the elimination or modification of Federal reporting requirements.</title>
+  </titles>
+  <sponsor thomas_id="01640"/>
+  <cosponsors>
+    <cosponsor thomas_id="01959" joined="2014-03-11"/>
+    <cosponsor thomas_id="02008" joined="2014-03-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-03-11" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2014-03-12">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-03-12" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+    <action datetime="2014-04-28T16:13:00-04:00">
+      <text>Reported by the Committee on Oversight and Government Reform. H. Rept. 113-419.</text>
+    </action>
+    <calendar datetime="2014-04-28T16:13:00-04:00" calendar="Union" number="309">
+      <text>Placed on the Union Calendar, Calendar No. 309.</text>
+    </calendar>
+    <action datetime="2014-04-28T16:53:00-04:00">
+      <text>Mr. Issa moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2014-04-28T16:53:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3209-3212" label="consideration"/>
+    </action>
+    <action datetime="2014-04-28T16:53:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4194.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-04-28T17:00:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H3209-3212" label="text"/>
+    </vote>
+    <action datetime="2014-04-29">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar datetime="2014-06-25">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="2014-07-31">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper with an amendment in the nature of a substitute. With written report No. 113-232.</text>
+    </action>
+    <calendar datetime="2014-07-31" calendar="Senate Legislative" under="General Orders" number="505">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 505.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup, Reporting"/>
+    <committee subcommittee="" code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2109"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Government information and archives"/>
+  </subjects>
+  <amendments/>
+  <summary>4/28/2014--Passed House amended.
+Government Reports Elimination Act of 2014 - Provides for the elimination or modification of reporting and notification requirements of specified federal agencies and departments.
+
+Title I: Department of Agriculture - Eliminates:
+
+ the annual report on information on administrative expenses for commodity promotion programs; the annual reports on subsidies and trade practices in foreign countries affecting agricultural exports to the United States; the annual report on farmland protection policy under the Agriculture and Food Act of 1981; peanut base acres and other base acres data collection and publication under the Food, Conservation, and Energy Act of 2008; the report on the beginning farmer and rancher individual development accounts pilot program; the report on broadband access in rural areas; the report on export credit guarantees to emerging markets; the quarterly report of the Commodity Credit Corporation on its expenditures; the evaluation of the rural development, business and industry guaranteed loan program financing of locally or regionally produced food products; the annual report on grain standards; the report listing areas rural in character for purposes of the Consolidated Farm and Rural Development Act; the notification requirement to the congressional agriculture committees of the names and addresses of producers participating in marketing agreements and orders; annual reports on plant pest and disease management and disaster prevention action plans; quarterly reports on export assistance provided by the Commodity Credit Corporation and the Secretary of Agriculture; annual progress reports in achieving benchmarks established in the regional investment strategy of the Rural Collaborative Investment Program; the President's annual report on the Food for Progress Program; the annual report on the foreign market development cooperator program; the annual report on factors affecting the export of specialty crops; and the annual report on timber supply and demand in southeastern Alaska. Title II: Department of Commerce - Eliminates: (1) the annual report on efforts and progress of colleges, universities, institutions, associations, and alliances to be designated as Sea Grant Colleges or Institutes; (2) the annual report on Enterprise Integration Standardization and Implementation activities under the Enterprise Integration Act of 2001; (3) the biennial report on efforts to ensure equal access to the Sea Grant Fellowship Program; (4) the annual reports on activities of the Technology Innovation Program (TIP) and on the Technology Innovation Program Advisory Board; and (5) the annual report on activities of the Northwest Atlantic Fisheries Commission and related entities.
+
+Title III: Corporation for National and Community Service - Eliminates: (1) the reporting requirements of federal agencies and departments to the Corporation for National and Community Service, and (2) the impact study and report on service-learning activities.
+
+Title IV: Department of Defense (DOD) - Eliminates: (1) the requirement for submission with the annual DOD budget of a display that covers all programs and activities of the Air Sovereignty Alert Mission of the Air Force, (2) the report on the reliability of DOD financial statements, (3) the report on DOD emergency and extraordinary expenses, (4) the report on assistance to foreign nations to account for missing U.S. government personnel, and (5) the requirement to include net floor area in requests to build, acquire, or improve military housing.
+
+Amends the Small Business Act, with respect to the Commercialization Readiness Program, to eliminate the authority of the DOD Secretary to require reporting by a prime contractor for contracts with a value of not less than $100 million.
+
+Title V: Department of Education - Eliminates the report of the Secretary of Education justifying the award of school facility emergency and modernization grants.
+
+Title VI Department of Energy (DOE) - Eliminates reports on: (1) the science and engineering education pilot program, (2) the development of strategic unconventional fuels, and (3) energy efficiency standards for industrial equipment.
+
+Title VII: Environmental Protection Agency (EPA) - Amends the Federal Water Pollution Control Act (commonly known as the Clean Water Act) to eliminate the comprehensive report on Great Lakes management.
+
+Title VIII: Executive Office of the President - Eliminates the notification requirement and the report on waivers of sanctions by the President against North Korea.
+
+Title IX: Government Accountability Office (GAO) - (Sec. 901) Eliminates reports on: (1) expenditures of local educational agencies under the Elementary and Secondary Education Act of 1965, and (2) the use of funds under the American Recovery and Reinvestment Act of 2009 by states and local governments.
+
+Amends the Help America Vote Act of 2002 to eliminate the mandatory audit of all funds provided by such Act.
+
+Amends the Small Business Jobs Act of 2010 to eliminate the audits and reports on the state small business credit initiative and the small business lending fund program.
+
+Amends the Food, Conservation, and Energy Act of 2008 to eliminate the audit and report on assistance to the Housing Assistance Council.
+
+(Sec. 902) Amends the Patient Protection and Affordable Care Act to make the Secretary of Health and Human Resources (HHS) (currently, the Secretary and the Comptroller General) responsible for surveying the public with respect to health and health care.
+
+Requires the Comptroller General to publish on the GAO website (currently, deliver to Congress) lists of GAO reports.
+
+Amends the Congressional Award Act to provide for a private auditor (currently, the Comptroller General) to conduct the annual audit of the financial records of the Congressional Award Board.
+
+Amends title XVIII (Medicare) of the Social Security Act to terminate at the end of 2014 the review by the Comptroller General of the threshold amount for injury-related liabilities under Medicare.
+
+Title X: Department of Homeland Security (DHS) - Eliminates: (1) reporting requirements under the Tariff Act of 1930 relating to the prohibition on importation of products made with dog or cat fur, (2) the biennial Port of Entry Infrastructure Assessment Study, (3) the biennial National Land Border Security Plan, (4) reporting requirements with respect to fees for customs services, and (5) the status report on the modernization of the National Distress and Response System.
+
+Title XI: Department of Housing and Urban Development (HUD) - Eliminates HUD reports on: (1) spending for information technology modernization, and (2) the use of sole source contracts.
+
+Title XII: Department of the Interior - Eliminates reporting requirements of the program on oil and gas royalties in-kind.
+
+Title XIII: Department of Labor - Amends the Older Americans Act to eliminate the report on service to minority individuals.
+
+Eliminates the continuing study by the Secretary of Labor on the impact of the Andean trade preference on U.S. labor.
+
+Title XIV: Office of the Director of National Intelligence (DNI) - Eliminates reports on: (1) the Treaty on Conventional Armed Forces in Europe; (2) commerce with, and assistance to, Cuba from other foreign countries; and (3) identifying countries of concern with respect to the diversion of goods, services, and technologies to Iran or through Iranian intermediaries.
+
+Title XV: Department of State - Eliminates the annual State Department report on nuclear proliferation in South Asia and efforts to achieve a regional agreement on nuclear non-proliferation.
+
+Amends the Tibetan Policy Act of 2002 to eliminate the periodic reporting requirement on efforts to encourage dialogue between China and the Dalai Lama on a negotiated agreement on Tibet.
+
+Title XVI: Department of Transportation (DOT) - (Sec. 1601) Eliminates: (1) the reporting requirements of the Air Traffic Services Committee, (2) the annual summaries of airport financial reports, (3) the annual report on pipeline safety information grants to communities, (4) the annual report on the pilot program for innovative financing of air traffic control equipment and the reports on justifications for air defense identification zones under the Vision 100 -- Century of Aviation Reauthorization Act, and (5) the annual report on the application of new standards or technologies to reduce aircraft noise levels under the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century.
+
+(Sec. 1602) Eliminates the requirement for an annual evaluation and audit of the programs and expenditures of the National Transportation Safety Board (NTSB), allowing such evaluation and audit to be conducted as determined necessary by the Comptroller General.
+
+Title XVII: Department of the Treasury - Eliminates: (1) the annual report on the North American Development Bank, (2) the annual report on loans considered by the Boards of Executive Directors of international financial institutions engaged in activities to promote the cause of human rights, (3) the report on new International Monetary Fund (IMF) borrowing arrangements regarding rates and maturities, and (4) the requirement for notification to Congress of any significant modifications in the auction process for issuing Treasury obligations.
+
+Title XVIII: Department of Veterans Affairs (VA) - Eliminates annual reports on: (1) activities and proposals involving contracting for performance by contractor personnel of work previously performed by Department of Veteran Affairs (VA) employees, (2) procurement of health care items, (3) staffing for nursing positions in VA facilities, and (4) the use of authorities to enhance retention of experienced VA nurses.</summary>
+</bill>

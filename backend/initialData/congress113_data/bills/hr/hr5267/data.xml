@@ -1,0 +1,33 @@
+<bill session="113" type="h" number="5267" updated="2014-08-14T13:36:27-04:00">
+  <state datetime="2014-07-30">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-30"/>
+  </status>
+  <introduced datetime="2014-07-30"/>
+  <titles>
+    <title type="short" as="introduced">Pet and Women Safety Act of 2014</title>
+    <title type="official" as="introduced">To protect the pets of victims of domestic violence, sexual assault, stalking, and dating violence.</title>
+  </titles>
+  <sponsor thomas_id="02196"/>
+  <cosponsors>
+    <cosponsor thomas_id="00985" joined="2014-07-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-30" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-07-30">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2014-07-30">
+      <text>Referred to House Agriculture</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="" code="HSAG" name="House Agriculture" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

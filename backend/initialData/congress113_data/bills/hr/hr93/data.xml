@@ -1,0 +1,106 @@
+<bill session="113" type="h" number="93" updated="2014-08-14T12:51:29-04:00">
+  <state datetime="2013-01-03">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-03"/>
+  </status>
+  <introduced datetime="2013-01-03"/>
+  <titles>
+    <title type="short" as="introduced">Fire Sale Loophole Closing Act</title>
+    <title type="official" as="introduced">To amend chapter 44 of title 18, United States Code, to restrict the ability of a person whose Federal license to import, manufacture, or deal in firearms has been revoked, whose application to renew such a license has been denied, or who has received a license revocation or renewal denial notice, to transfer business inventory firearms, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02055"/>
+  <cosponsors>
+    <cosponsor thomas_id="01740" joined="2013-01-23"/>
+    <cosponsor thomas_id="00099" joined="2013-01-14"/>
+    <cosponsor thomas_id="02092" joined="2013-01-15"/>
+    <cosponsor thomas_id="01469" joined="2013-04-09"/>
+    <cosponsor thomas_id="02106" joined="2013-01-23"/>
+    <cosponsor thomas_id="01471" joined="2013-01-14"/>
+    <cosponsor thomas_id="01564" joined="2013-01-14"/>
+    <cosponsor thomas_id="02159" joined="2013-09-19"/>
+    <cosponsor thomas_id="01839" joined="2013-01-14"/>
+    <cosponsor thomas_id="01970" joined="2013-01-14"/>
+    <cosponsor thomas_id="02196" joined="2014-03-14"/>
+    <cosponsor thomas_id="01654" joined="2013-01-14"/>
+    <cosponsor thomas_id="01878" joined="2013-02-15"/>
+    <cosponsor thomas_id="01479" joined="2013-01-14"/>
+    <cosponsor thomas_id="00281" joined="2013-02-15"/>
+    <cosponsor thomas_id="01976" joined="2013-01-04"/>
+    <cosponsor thomas_id="00316" joined="2013-01-14"/>
+    <cosponsor thomas_id="01894" joined="2013-01-14"/>
+    <cosponsor thomas_id="01857" joined="2013-01-15"/>
+    <cosponsor thomas_id="02114" joined="2013-03-04"/>
+    <cosponsor thomas_id="00368" joined="2013-01-14"/>
+    <cosponsor thomas_id="01895" joined="2013-01-14"/>
+    <cosponsor thomas_id="01973" joined="2013-04-11"/>
+    <cosponsor thomas_id="01708" joined="2013-01-04"/>
+    <cosponsor thomas_id="00478" joined="2013-01-15"/>
+    <cosponsor thomas_id="02089" joined="2013-01-14"/>
+    <cosponsor thomas_id="00511" joined="2013-01-14"/>
+    <cosponsor thomas_id="01913" joined="2013-01-23"/>
+    <cosponsor thomas_id="01580" joined="2013-01-15"/>
+    <cosponsor thomas_id="01663" joined="2013-02-05"/>
+    <cosponsor thomas_id="02025" joined="2013-01-04"/>
+    <cosponsor thomas_id="01668" joined="2013-01-04"/>
+    <cosponsor thomas_id="01675" joined="2013-02-15"/>
+    <cosponsor thomas_id="01501" joined="2013-01-14"/>
+    <cosponsor thomas_id="01781" joined="2013-03-15"/>
+    <cosponsor thomas_id="00701" joined="2013-01-14"/>
+    <cosponsor thomas_id="02111" joined="2013-03-15"/>
+    <cosponsor thomas_id="01686" joined="2013-03-12"/>
+    <cosponsor thomas_id="00735" joined="2013-01-04"/>
+    <cosponsor thomas_id="01814" joined="2013-01-04"/>
+    <cosponsor thomas_id="01653" joined="2013-01-14"/>
+    <cosponsor thomas_id="01504" joined="2013-01-23"/>
+    <cosponsor thomas_id="01506" joined="2013-01-14"/>
+    <cosponsor thomas_id="01811" joined="2013-01-04"/>
+    <cosponsor thomas_id="00832" joined="2013-01-04"/>
+    <cosponsor thomas_id="00850" joined="2013-01-14"/>
+    <cosponsor thomas_id="01602" joined="2013-04-09"/>
+    <cosponsor thomas_id="00868" joined="2013-01-04"/>
+    <cosponsor thomas_id="01510" joined="2013-02-15"/>
+    <cosponsor thomas_id="02113" joined="2013-03-15"/>
+    <cosponsor thomas_id="02171" joined="2013-01-23"/>
+    <cosponsor thomas_id="00930" joined="2013-02-05"/>
+    <cosponsor thomas_id="00944" joined="2013-01-15"/>
+    <cosponsor thomas_id="00997" joined="2013-01-15"/>
+    <cosponsor thomas_id="01854" joined="2013-01-23"/>
+    <cosponsor thomas_id="01588" joined="2013-01-04"/>
+    <cosponsor thomas_id="01635" joined="2013-01-15"/>
+    <cosponsor thomas_id="01798" joined="2013-01-14"/>
+    <cosponsor thomas_id="01042" joined="2013-01-14"/>
+    <cosponsor thomas_id="01861" joined="2013-03-04"/>
+    <cosponsor thomas_id="01069" joined="2013-01-04"/>
+    <cosponsor thomas_id="01890" joined="2013-01-14"/>
+    <cosponsor thomas_id="01535" joined="2013-02-05"/>
+    <cosponsor thomas_id="01884" joined="2013-01-04"/>
+    <cosponsor thomas_id="01729" joined="2013-01-04"/>
+    <cosponsor thomas_id="02112" joined="2013-02-15"/>
+    <cosponsor thomas_id="01209" joined="2013-02-15"/>
+    <cosponsor thomas_id="02004" joined="2013-02-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-03" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-01-25">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, And Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="238"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Firearms and explosives"/>
+    <term name="Licensing and registrations"/>
+    <term name="Retail and wholesale trades"/>
+  </subjects>
+  <amendments/>
+  <summary>1/3/2013--Introduced.
+Fire Sale Loophole Closing Act - Amends the federal criminal code to make it unlawful for: (1) anyone whose federal license to import, manufacture, or deal in firearms has been revoked, or whose license renewal application has been denied, to transfer business inventory firearms into a personal collection or to an employee of such person or to receive a firearm that was a business inventory firearm as of the date of a revocation or renewal denial notice; and (2) anyone who has received a license revocation or renewal denial notice to transfer to any other person a firearm that was a business inventory firearm. Imposes a fine and/or prison term of not more than one year (five years for willful violations) for violations of this Act.</summary>
+</bill>

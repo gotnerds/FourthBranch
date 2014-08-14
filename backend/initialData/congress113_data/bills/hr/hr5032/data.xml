@@ -1,0 +1,31 @@
+<bill session="113" type="h" number="5032" updated="2014-08-14T13:34:25-04:00">
+  <state datetime="2014-07-09">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-09"/>
+  </status>
+  <introduced datetime="2014-07-09"/>
+  <titles>
+    <title type="short" as="introduced">Wounded Warrior Employment Improvement Act</title>
+    <title type="official" as="introduced">To direct the Secretary of Veterans Affairs to develop and publish an action plan for improving the vocational rehabilitation services and assistance provided by the Department of Veterans Affairs.</title>
+  </titles>
+  <sponsor thomas_id="02150"/>
+  <cosponsors>
+    <cosponsor thomas_id="02156" joined="2014-07-09"/>
+    <cosponsor thomas_id="02110" joined="2014-07-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-09" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2014-07-18">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Economic Opportunity" code="HSVR10" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

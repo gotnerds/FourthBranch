@@ -1,0 +1,71 @@
+<bill session="113" type="h" number="4795" updated="2014-08-14T13:32:19-04:00">
+  <state datetime="2014-06-10">REPORTED</state>
+  <status>
+    <unknown datetime="2014-06-10"/>
+  </status>
+  <introduced datetime="2014-05-30"/>
+  <titles>
+    <title type="short" as="introduced">Promoting New Manufacturing Act</title>
+    <title type="short" as="reported to house">Promoting New Manufacturing Act</title>
+    <title type="official" as="introduced">To promote new manufacturing in the United States by providing for greater transparency and timeliness in obtaining necessary permits, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01892"/>
+  <cosponsors>
+    <cosponsor thomas_id="00062" joined="2014-05-30"/>
+    <cosponsor thomas_id="01838" joined="2014-05-30"/>
+    <cosponsor thomas_id="01925" joined="2014-05-30"/>
+    <cosponsor thomas_id="01922" joined="2014-06-09"/>
+    <cosponsor thomas_id="00484" joined="2014-05-30"/>
+    <cosponsor thomas_id="02014" joined="2014-05-30"/>
+    <cosponsor thomas_id="01885" joined="2014-05-30"/>
+    <cosponsor thomas_id="02074" joined="2014-05-30"/>
+    <cosponsor thomas_id="01955" joined="2014-05-30"/>
+    <cosponsor thomas_id="01514" joined="2014-05-30"/>
+    <cosponsor thomas_id="02022" joined="2014-05-30"/>
+    <cosponsor thomas_id="01566" joined="2014-06-02"/>
+    <cosponsor thomas_id="01222" joined="2014-05-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-30" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2014-06-06">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+    </action>
+    <action datetime="2014-06-09">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2014-06-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-06-10" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 30 - 19.</text>
+    </calendar>
+    <action datetime="2014-06-23T12:31:00-04:00">
+      <text>Reported by the Committee on Energy and Commerce. H. Rept. 113-488.</text>
+    </action>
+    <calendar datetime="2014-06-23T12:31:00-04:00" calendar="Union" number="363">
+      <text>Placed on the Union Calendar, Calendar No. 363.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee subcommittee="Energy and Power" code="HSIF03" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Administrative remedies"/>
+    <term name="Air quality"/>
+    <term name="Building construction"/>
+    <term name="Congressional oversight"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Government information and archives"/>
+    <term name="Licensing and registrations"/>
+    <term name="Manufacturing"/>
+  </subjects>
+  <amendments/>
+</bill>

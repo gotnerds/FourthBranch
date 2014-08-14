@@ -1,0 +1,110 @@
+<bill session="113" type="h" number="4490" updated="2014-08-14T13:29:40-04:00">
+  <state datetime="2014-07-28T15:57:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-07-28T15:57:00-04:00"/>
+  </status>
+  <introduced datetime="2014-04-28"/>
+  <titles>
+    <title type="short" as="introduced">United States International Communications Reform Act of 2014</title>
+    <title type="official" as="introduced">To enhance the missions, objectives, and effectiveness of United States international communications, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00998"/>
+  <cosponsors>
+    <cosponsor thomas_id="00186" joined="2014-04-28"/>
+    <cosponsor thomas_id="01959" joined="2014-04-28"/>
+    <cosponsor thomas_id="01976" joined="2014-04-29"/>
+    <cosponsor thomas_id="00344" joined="2014-04-28"/>
+    <cosponsor thomas_id="00612" joined="2014-07-09"/>
+    <cosponsor thomas_id="02025" joined="2014-04-28"/>
+    <cosponsor thomas_id="02111" joined="2014-04-30"/>
+    <cosponsor thomas_id="01804" joined="2014-04-29"/>
+    <cosponsor thomas_id="01802" joined="2014-04-29"/>
+    <cosponsor thomas_id="00979" joined="2014-04-28"/>
+    <cosponsor thomas_id="00985" joined="2014-04-28"/>
+    <cosponsor thomas_id="01009" joined="2014-04-28"/>
+    <cosponsor thomas_id="01526" joined="2014-04-28"/>
+    <cosponsor thomas_id="01818" joined="2014-04-29"/>
+    <cosponsor thomas_id="01114" joined="2014-04-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-04-28" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2014-04-30">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-04-30" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+    </calendar>
+    <action datetime="2014-07-18T11:11:00-04:00">
+      <text>Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 113-541.</text>
+    </action>
+    <calendar datetime="2014-07-18T11:11:00-04:00" calendar="Union" number="407">
+      <text>Placed on the Union Calendar, Calendar No. 407.</text>
+    </calendar>
+    <action datetime="2014-07-28T15:43:00-04:00">
+      <text>Mr. Royce moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2014-07-28T15:44:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6886-6895" label="consideration"/>
+    </action>
+    <action datetime="2014-07-28T15:44:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4490.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-07-28T15:57:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H6886-6893" label="text"/>
+    </vote>
+    <action datetime="2014-07-28T15:57:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-07-29">
+      <text>Received in the Senate and Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral, Markup, Reporting"/>
+    <committee subcommittee="" code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Africa"/>
+    <term name="Broadcasting Board of Governors"/>
+    <term name="Caribbean area"/>
+    <term name="Congressional oversight"/>
+    <term name="Cuba"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal officials"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government studies and investigations"/>
+    <term name="Human rights"/>
+    <term name="International exchange and broadcasting"/>
+    <term name="Internet and video services"/>
+    <term name="Latin America"/>
+    <term name="News media and reporting"/>
+    <term name="Political movements and philosophies"/>
+    <term name="Religion"/>
+    <term name="Sound recording"/>
+    <term name="Television and film"/>
+  </subjects>
+  <amendments/>
+  <summary>4/28/2014--Introduced.
+United States International Communications Reform Act of 2014 - Revises U.S. international broadcasting and communications structures, missions, and objectives.
+
+Repeals the United States International Broadcasting Act of 1994, and amends the United States Information and Educational Exchange Act of 1948.
+
+Replaces the Broadcasting Board of Governors with the United States International Communications Agency, and establishes in the Agency a Board of Directors and a Chief Executive Officer.
+
+Expresses the sense of Congress that the Voice of America (VOA): (1) has been an indispensable element of U.S. foreign policy and public diplomacy efforts and should remain the flagship brand of the Agency; and (2) would benefit from a recalibration of federal international broadcasting agencies and resources which would provide it with greater mission focus and flexibility.
+
+Expresses the sense of Congress that RFE/RL, Incorporated, Radio Free Asia, and the Middle East Broadcasting Network share a common mission with distinct geographic foci, and should therefore be merged into a single organization with distinct marketing brands to provide news and related programming and content in countries where free media are not established.
+
+Consolidates RFE/RL Incorporated, Radio Free Asia, and the Middle East Broadcasting Network into the (non-federal agency) Freedom News Network.
+
+States that RFE/RL, Incorporated, Radio Free Asia, and the Middle East Broadcasting Network shall remain brand names under which news and related programming and content may be disseminated by the Network.
+
+Sets forth Agency, VOA, and Network requirements regarding: (1) duties and authorities, (2) programming and policy objectives, (3) administration and reporting, and (4) coordination.</summary>
+</bill>

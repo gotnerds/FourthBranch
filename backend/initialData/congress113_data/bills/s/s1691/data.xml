@@ -1,0 +1,48 @@
+<bill session="113" type="s" number="1691" updated="2014-08-14T13:59:17-04:00">
+  <state datetime="2014-06-25">REPORTED</state>
+  <status>
+    <unknown datetime="2014-06-25"/>
+  </status>
+  <introduced datetime="2013-11-13"/>
+  <titles>
+    <title type="short" as="introduced">Border Patrol Agent Pay Reform Act of 2013</title>
+    <title type="official" as="introduced">A bill to amend title 5, United States Code, to improve the security of the United States border and to provide for reforms and rates of pay for border patrol agents.</title>
+  </titles>
+  <sponsor thomas_id="01829"/>
+  <cosponsors>
+    <cosponsor thomas_id="02075" joined="2014-05-20"/>
+    <cosponsor thomas_id="01633" joined="2014-06-25"/>
+    <cosponsor thomas_id="02174" joined="2014-02-25"/>
+    <cosponsor thomas_id="00754" joined="2013-11-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-11-13" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <action datetime="2014-06-09">
+      <text>Committee on Homeland Security and Governmental Affairs. Hearings held.</text>
+    </action>
+    <calendar datetime="2014-06-25" state="REPORTED">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Hearings, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="3463"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Border security and unlawful immigration"/>
+    <term name="Customs enforcement"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Labor standards"/>
+  </subjects>
+  <amendments/>
+  <summary>11/13/2013--Introduced.
+Border Patrol Agent Pay Reform Act of 2013 - Sets forth additional&#160;requirements relating to the rates of pay and terms of employment&#160;for U.S. Border Patrol agents (i.e., federal employees who detect and prevent illegal entry and smuggling of aliens, commercial goods, narcotics, weapons, or contraband into the United States).
+
+Requires Border Patrol agents to elect each year to: (1) be assigned to either a specified&#160;level one or level two border patrol rate of pay governing regular rates of pay&#160;and overtime work requirements,&#160;or (2) decline to be assigned to either level.&#160;Expresses the sense of Congress that U.S. Customs and Border Protection (CBP) should ensure that not more than 10% of agents stationed at a location decline to be assigned to either the level 1 or level 2 border patrol rate of pay. Empowers CBP, without limitation, to require agents to perform overtime work in accordance with agency needs, including if needed in the event of a local or national emergency.</summary>
+</bill>

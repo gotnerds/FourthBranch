@@ -1,0 +1,41 @@
+<bill session="113" type="s" number="273" updated="2014-08-14T13:47:05-04:00">
+  <state datetime="2013-02-11">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-11"/>
+  </status>
+  <introduced datetime="2013-02-11"/>
+  <titles>
+    <title type="official" as="introduced">A bill to modify the definition of fiduciary under the Employee Retirement Income Security Act of 1974 to exclude appraisers of employee stock ownership plans.</title>
+  </titles>
+  <sponsor thomas_id="02075"/>
+  <cosponsors>
+    <cosponsor thomas_id="01464" joined="2013-02-11"/>
+    <cosponsor thomas_id="01541" joined="2013-05-08"/>
+    <cosponsor thomas_id="01826" joined="2013-03-05"/>
+    <cosponsor thomas_id="01546" joined="2013-02-11"/>
+    <cosponsor thomas_id="01395" joined="2013-02-11"/>
+    <cosponsor thomas_id="02082" joined="2014-01-06"/>
+    <cosponsor thomas_id="01534" joined="2013-07-10"/>
+    <cosponsor thomas_id="02085" joined="2013-10-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="2041"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Accounting and auditing"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Securities"/>
+  </subjects>
+  <amendments/>
+  <summary>2/11/2013--Introduced.
+Amends the Employee Retirement Income and Security Act of 1974 (ERISA) to exclude appraisers of employee stock ownership plans (ESOPs) from the meaning of a fiduciary subject to ERISA.</summary>
+</bill>

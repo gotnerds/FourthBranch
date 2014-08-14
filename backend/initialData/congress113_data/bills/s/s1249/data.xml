@@ -1,0 +1,68 @@
+<bill session="113" type="s" number="1249" updated="2014-08-14T13:55:34-04:00">
+  <state datetime="2013-06-27">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-27"/>
+  </status>
+  <introduced datetime="2013-06-27"/>
+  <titles>
+    <title type="official" as="introduced">A bill to rename the Office to Monitor and Combat Trafficking of the Department of State the Bureau to Monitor and Combat Trafficking in Persons and to provide for an Assistant Secretary to head such Bureau, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02076"/>
+  <cosponsors>
+    <cosponsor thomas_id="02075" joined="2013-12-19"/>
+    <cosponsor thomas_id="01965" joined="2014-07-10"/>
+    <cosponsor thomas_id="01687" joined="2013-12-19"/>
+    <cosponsor thomas_id="00116" joined="2013-10-11"/>
+    <cosponsor thomas_id="00153" joined="2013-11-14"/>
+    <cosponsor thomas_id="01828" joined="2014-06-23"/>
+    <cosponsor thomas_id="00213" joined="2013-09-25"/>
+    <cosponsor thomas_id="01541" joined="2013-06-27"/>
+    <cosponsor thomas_id="01984" joined="2014-06-04"/>
+    <cosponsor thomas_id="00250" joined="2013-06-27"/>
+    <cosponsor thomas_id="01542" joined="2014-04-29"/>
+    <cosponsor thomas_id="01969" joined="2013-10-29"/>
+    <cosponsor thomas_id="01866" joined="2014-01-06"/>
+    <cosponsor thomas_id="01902" joined="2013-10-29"/>
+    <cosponsor thomas_id="01937" joined="2014-06-17"/>
+    <cosponsor thomas_id="02174" joined="2014-01-08"/>
+    <cosponsor thomas_id="01899" joined="2013-09-19"/>
+    <cosponsor thomas_id="02176" joined="2014-04-02"/>
+    <cosponsor thomas_id="01647" joined="2013-06-27"/>
+    <cosponsor thomas_id="01826" joined="2013-09-19"/>
+    <cosponsor thomas_id="01983" joined="2014-07-15"/>
+    <cosponsor thomas_id="00735" joined="2013-09-23"/>
+    <cosponsor thomas_id="01507" joined="2013-09-19"/>
+    <cosponsor thomas_id="00859" joined="2014-07-31"/>
+    <cosponsor thomas_id="00924" joined="2013-06-27"/>
+    <cosponsor thomas_id="00949" joined="2014-02-04"/>
+    <cosponsor thomas_id="01010" joined="2014-06-25"/>
+    <cosponsor thomas_id="02173" joined="2014-07-15"/>
+    <cosponsor thomas_id="01036" joined="2014-07-30"/>
+    <cosponsor thomas_id="01901" joined="2013-06-27"/>
+    <cosponsor thomas_id="01531" joined="2014-06-17"/>
+    <cosponsor thomas_id="01829" joined="2014-07-16"/>
+    <cosponsor thomas_id="02182" joined="2014-06-25"/>
+    <cosponsor thomas_id="01823" joined="2014-02-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-27" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="2283"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Department of State"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal officials"/>
+    <term name="Human trafficking"/>
+  </subjects>
+  <amendments/>
+  <summary>6/27/2013--Introduced.
+Amends the Trafficking Victims Protection Act of 2000 to: (1) redesignate the Department of State's Office to Monitor and Combat Trafficking as the Bureau to Monitor and Combat Trafficking in Persons, and (2) provide for an Assistant Secretary to head the Bureau.</summary>
+</bill>

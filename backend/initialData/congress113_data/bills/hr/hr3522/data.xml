@@ -1,0 +1,62 @@
+<bill session="113" type="h" number="3522" updated="2014-08-14T13:21:33-04:00">
+  <state datetime="2014-07-30">REPORTED</state>
+  <status>
+    <unknown datetime="2014-07-30"/>
+  </status>
+  <introduced datetime="2013-11-18"/>
+  <titles>
+    <title type="short" as="introduced">Employee Health Care Protection Act of 2013</title>
+    <title type="official" as="introduced">To authorize health insurance issuers to continue to offer for sale current group health insurance coverage in satisfaction of the minimum essential health insurance coverage requirement, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01925"/>
+  <cosponsors>
+    <cosponsor thomas_id="01838" joined="2013-12-12"/>
+    <cosponsor thomas_id="01748" joined="2013-11-21"/>
+    <cosponsor thomas_id="01933" joined="2013-11-21"/>
+    <cosponsor thomas_id="02014" joined="2013-11-21"/>
+    <cosponsor thomas_id="01744" joined="2013-11-21"/>
+    <cosponsor thomas_id="01738" joined="2014-02-04"/>
+    <cosponsor thomas_id="01779" joined="2013-12-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-11-18" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-11-18">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-11-18">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-11-22">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2014-07-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2014-07-30">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-07-30" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 27 - 20.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, Markup"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="3350"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Comprehensive health care"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+  </subjects>
+  <amendments/>
+  <summary>11/18/2013--Introduced.
+Employee Health Care Protection Act of 2013 - Permits a health insurance issuer that has in effect health insurance coverage in the group market on any date during 2013 to continue offering such coverage for sale during 2014 outside of a health care exchange established under the Patient Protection and Affordable Care Act. Treats such coverage as a grandfathered health plan for purposes of an individual meeting the requirement to maintain minimum essential health coverage.</summary>
+</bill>

@@ -1,0 +1,60 @@
+<bill session="113" type="h" number="5024" updated="2014-08-14T13:34:21-04:00">
+  <state datetime="2014-07-08">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-08"/>
+  </status>
+  <introduced datetime="2014-07-08"/>
+  <titles>
+    <title type="short" as="introduced">Social Security Caregiver Credit Act of 2014</title>
+    <title type="official" as="introduced">To amend title II of the Social Security Act to credit prospectively individuals serving as caregivers of dependent relatives with deemed wages for up to five years of such service.</title>
+  </titles>
+  <sponsor thomas_id="00709"/>
+  <cosponsors>
+    <cosponsor thomas_id="00132" joined="2014-07-31"/>
+    <cosponsor thomas_id="02106" joined="2014-07-31"/>
+    <cosponsor thomas_id="02159" joined="2014-07-31"/>
+    <cosponsor thomas_id="01864" joined="2014-07-15"/>
+    <cosponsor thomas_id="01477" joined="2014-07-31"/>
+    <cosponsor thomas_id="02133" joined="2014-07-11"/>
+    <cosponsor thomas_id="00281" joined="2014-07-08"/>
+    <cosponsor thomas_id="01894" joined="2014-07-31"/>
+    <cosponsor thomas_id="01857" joined="2014-07-11"/>
+    <cosponsor thomas_id="01973" joined="2014-07-31"/>
+    <cosponsor thomas_id="01708" joined="2014-07-08"/>
+    <cosponsor thomas_id="01490" joined="2014-07-31"/>
+    <cosponsor thomas_id="02147" joined="2014-07-31"/>
+    <cosponsor thomas_id="00588" joined="2014-07-31"/>
+    <cosponsor thomas_id="00616" joined="2014-07-08"/>
+    <cosponsor thomas_id="02145" joined="2014-07-08"/>
+    <cosponsor thomas_id="02111" joined="2014-07-31"/>
+    <cosponsor thomas_id="00729" joined="2014-07-31"/>
+    <cosponsor thomas_id="01814" joined="2014-07-15"/>
+    <cosponsor thomas_id="01653" joined="2014-07-31"/>
+    <cosponsor thomas_id="00766" joined="2014-07-08"/>
+    <cosponsor thomas_id="01504" joined="2014-07-31"/>
+    <cosponsor thomas_id="01832" joined="2014-07-25"/>
+    <cosponsor thomas_id="01811" joined="2014-07-08"/>
+    <cosponsor thomas_id="00850" joined="2014-07-11"/>
+    <cosponsor thomas_id="00868" joined="2014-07-11"/>
+    <cosponsor thomas_id="01974" joined="2014-07-31"/>
+    <cosponsor thomas_id="02171" joined="2014-07-17"/>
+    <cosponsor thomas_id="01588" joined="2014-07-08"/>
+    <cosponsor thomas_id="01635" joined="2014-07-25"/>
+    <cosponsor thomas_id="01798" joined="2014-07-08"/>
+    <cosponsor thomas_id="02099" joined="2014-07-31"/>
+    <cosponsor thomas_id="01940" joined="2014-07-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-08" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>7/8/2014--Introduced.
+Social Security Caregiver Credit Act of 2014 - Amends title II (Old Age, Survivors and Disability Insurance) (OASDI) of the Social Security Act with respect to determining entitlement to and the amount of any monthly benefit, including any lump-sum death payment, payable under OASDI on the basis of the wages and self-employment income of any individual. Deems such an individual to have been paid a wage (according to a specified formula) during each month during which the individual was engaged for at least 80 hours in providing care to a dependent relative without monetary compensation for up to five years of such service. Makes this Act inapplicable in the case of any monthly benefit or lump-sum death payment if a larger benefit or payment would be payable without its application.</summary>
+</bill>

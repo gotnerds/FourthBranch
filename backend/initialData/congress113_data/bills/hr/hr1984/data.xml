@@ -1,0 +1,75 @@
+<bill session="113" type="h" number="1984" updated="2014-08-14T13:08:11-04:00">
+  <state datetime="2013-05-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-15"/>
+  </status>
+  <introduced datetime="2013-05-15"/>
+  <titles>
+    <title type="short" as="introduced">Breast Cancer Patient Education Act of 2013</title>
+    <title type="official" as="introduced">To amend the Public Health Service Act to raise awareness of, and to educate breast cancer patients anticipating surgery, especially patients who are members of racial and ethnic minority groups, regarding the availability and coverage of breast reconstruction, prostheses, and other options.</title>
+  </titles>
+  <sponsor thomas_id="01936"/>
+  <cosponsors>
+    <cosponsor thomas_id="00021" joined="2013-09-26"/>
+    <cosponsor thomas_id="01748" joined="2014-01-15"/>
+    <cosponsor thomas_id="01474" joined="2013-05-15"/>
+    <cosponsor thomas_id="01959" joined="2013-09-26"/>
+    <cosponsor thomas_id="02036" joined="2013-12-10"/>
+    <cosponsor thomas_id="02043" joined="2014-07-22"/>
+    <cosponsor thomas_id="01922" joined="2014-01-29"/>
+    <cosponsor thomas_id="02014" joined="2013-12-12"/>
+    <cosponsor thomas_id="01501" joined="2013-09-26"/>
+    <cosponsor thomas_id="01846" joined="2013-08-02"/>
+    <cosponsor thomas_id="00729" joined="2014-07-14"/>
+    <cosponsor thomas_id="01814" joined="2014-07-09"/>
+    <cosponsor thomas_id="01503" joined="2013-11-13"/>
+    <cosponsor thomas_id="02074" joined="2014-01-15"/>
+    <cosponsor thomas_id="01809" joined="2013-11-12"/>
+    <cosponsor thomas_id="01730" joined="2013-09-26"/>
+    <cosponsor thomas_id="02097" joined="2013-10-28"/>
+    <cosponsor thomas_id="02141" joined="2013-10-22"/>
+    <cosponsor thomas_id="01920" joined="2014-06-18"/>
+    <cosponsor thomas_id="01798" joined="2014-02-25"/>
+    <cosponsor thomas_id="02047" joined="2013-05-17"/>
+    <cosponsor thomas_id="02110" joined="2014-02-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-15" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-05-17">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="931"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Cancer"/>
+    <term name="Congressional oversight"/>
+    <term name="Government information and archives"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Minority health"/>
+    <term name="Rural conditions and development"/>
+    <term name="Surgery and anesthesia"/>
+    <term name="Women's health"/>
+  </subjects>
+  <amendments/>
+  <summary>5/15/2013--Introduced.
+Breast Cancer Patient Education Act of 2013 - Amends the Public Health Service Act to direct the Secretary of Health and Human Services (HHS) to provide for the planning and implementation of an education campaign to inform breast cancer patients anticipating surgery regarding the availability and coverage of breast reconstruction, prostheses, and other options, with a focus on informing patients who are members of racial and ethnic minority groups.
+
+Requires such campaign to include dissemination of the following information: (1) breast reconstruction is possible at the time of breast cancer surgery or at a later time; (2) prostheses or breast forms may be available; (3) federal law mandates that both public and private health plans include coverage of breast reconstruction and prostheses; (4) the patient has a right to choose the provider of reconstructive care, including the potential transfer of care to a surgeon that provides breast reconstructive care; and (5) the patient may opt to undergo breast reconstruction at a time after surgery for personal or medical reasons during treatment or after completion of all other breast cancer treatments.
+
+Requires the information required to be disseminated by this Act to be be posted on the Internet websites of relevant federal agencies, including the Office of Women's Health, the Office of Minority Health, and the Office of Rural Health Policy.
+
+Prohibits such campaign from specifying, or being designed to serve as a tool to limit, the health care providers available to patients.
+
+Requires biennial reports to Congress describing and evaluating the activities carried out under this Act.</summary>
+</bill>

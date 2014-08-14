@@ -1,0 +1,43 @@
+<bill session="113" type="s" number="2510" updated="2014-08-14T14:06:13-04:00">
+  <state datetime="2014-06-19">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-19"/>
+  </status>
+  <introduced datetime="2014-06-19"/>
+  <titles>
+    <title type="short" as="introduced">Guantanamo Bay Detainee Transfer Suspension Act of 2014</title>
+    <title type="official" as="introduced">A bill to establish a temporary limitation on the use of funds to transfer or release individuals detained at United States Naval Station, Guantanamo Bay, Cuba.</title>
+  </titles>
+  <sponsor thomas_id="02175"/>
+  <cosponsors>
+    <cosponsor thomas_id="02075" joined="2014-06-19"/>
+    <cosponsor thomas_id="00968" joined="2014-06-19"/>
+    <cosponsor thomas_id="01548" joined="2014-06-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-19" state="REFERRED">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSAS" name="Senate Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="4938"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Caribbean area"/>
+    <term name="Civil actions and liability"/>
+    <term name="Congressional oversight"/>
+    <term name="Cuba"/>
+    <term name="Detention of persons"/>
+    <term name="Latin America"/>
+    <term name="Middle East"/>
+    <term name="Military facilities and property"/>
+    <term name="Presidents and presidential powers"/>
+    <term name="Qatar"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+</bill>

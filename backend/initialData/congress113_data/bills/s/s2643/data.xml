@@ -1,0 +1,29 @@
+<bill session="113" type="s" number="2643" updated="2014-08-14T14:07:20-04:00">
+  <state datetime="2014-07-22">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-22"/>
+  </status>
+  <introduced datetime="2014-07-22"/>
+  <titles>
+    <title type="official" as="introduced">A bill to require a report by the Federal Communications Commission on designated market areas.</title>
+  </titles>
+  <sponsor thomas_id="02194"/>
+  <cosponsors>
+    <cosponsor thomas_id="02179" joined="2014-07-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-22">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S4713-4714"/>
+    </action>
+    <action datetime="2014-07-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

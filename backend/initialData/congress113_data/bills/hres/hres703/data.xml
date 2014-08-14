@@ -1,0 +1,24 @@
+<bill session="113" type="hr" number="703" updated="2014-08-14T12:50:36-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="short" as="introduced">Robotics Competition Resolution of 2014</title>
+    <title type="official" as="introduced">Establishing an academic competition in the field of robotics among students in Congressional districts.</title>
+  </titles>
+  <sponsor thomas_id="02123"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

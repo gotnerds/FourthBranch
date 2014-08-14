@@ -1,0 +1,44 @@
+<bill session="113" type="h" number="5161" updated="2014-08-14T13:35:31-04:00">
+  <state datetime="2014-07-30">REPORTED</state>
+  <status>
+    <unknown datetime="2014-07-30"/>
+  </status>
+  <introduced datetime="2014-07-22"/>
+  <titles>
+    <title type="short" as="introduced">E-LABEL Act</title>
+    <title type="short" as="introduced">Enhance Labeling, Accessing, and Branding of Electronic Licenses Act of 2014</title>
+    <title type="official" as="introduced">To promote the non-exclusive use of electronic labeling for devices licensed by the Federal Communications Commission.</title>
+  </titles>
+  <sponsor thomas_id="01885"/>
+  <cosponsors>
+    <cosponsor thomas_id="01748" joined="2014-07-22"/>
+    <cosponsor thomas_id="00355" joined="2014-07-22"/>
+    <cosponsor thomas_id="01879" joined="2014-07-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-22" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2014-07-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2014-07-30">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-07-30" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="2583"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+  <summary>7/22/2014--Introduced.
+Enhance Labeling, Accessing, and Branding of Electronic Licenses Act of 2014 or the E-LABEL Act - Amends the Communications Act of 1934 to require the Federal Communications Commission (FCC) to promulgate regulations or take other appropriate action to allow manufacturers of radiofrequency devices with display the option to use electronic labeling for the equipment in place of affixing physical labels to the equipment.
+
+Defines "radiofrequency device with display" as any equipment or device that: (1) requires the FCC's authorization before the equipment or device may be marketed or sold within the United States, and (2) is capable of digitally displaying required labeling and regulatory information.</summary>
+</bill>

@@ -1,0 +1,75 @@
+<bill session="113" type="h" number="4839" updated="2014-08-14T13:32:43-04:00">
+  <state datetime="2014-06-11">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-11"/>
+  </status>
+  <introduced datetime="2014-06-11"/>
+  <titles>
+    <title type="short" as="introduced">Original Living Wage Act of 2014</title>
+    <title type="official" as="introduced">To amend the Fair Labor Standards Act to provide for the calculation of the minimum wage based on the Federal poverty threshold for a family of 4, as determined by the Bureau of the Census.</title>
+  </titles>
+  <sponsor thomas_id="01803"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2014-06-11"/>
+    <cosponsor thomas_id="00091" joined="2014-06-11"/>
+    <cosponsor thomas_id="00132" joined="2014-06-11"/>
+    <cosponsor thomas_id="01761" joined="2014-06-11"/>
+    <cosponsor thomas_id="01889" joined="2014-06-11"/>
+    <cosponsor thomas_id="01474" joined="2014-06-11"/>
+    <cosponsor thomas_id="01864" joined="2014-06-11"/>
+    <cosponsor thomas_id="01654" joined="2014-06-11"/>
+    <cosponsor thomas_id="01790" joined="2014-06-11"/>
+    <cosponsor thomas_id="00208" joined="2014-06-11"/>
+    <cosponsor thomas_id="00229" joined="2014-06-11"/>
+    <cosponsor thomas_id="00256" joined="2014-06-11"/>
+    <cosponsor thomas_id="01477" joined="2014-06-11"/>
+    <cosponsor thomas_id="01857" joined="2014-06-11"/>
+    <cosponsor thomas_id="01895" joined="2014-06-11"/>
+    <cosponsor thomas_id="01634" joined="2014-06-11"/>
+    <cosponsor thomas_id="00588" joined="2014-06-11"/>
+    <cosponsor thomas_id="02149" joined="2014-06-11"/>
+    <cosponsor thomas_id="00599" joined="2014-06-11"/>
+    <cosponsor thomas_id="01843" joined="2014-06-11"/>
+    <cosponsor thomas_id="02190" joined="2014-06-11"/>
+    <cosponsor thomas_id="01501" joined="2014-06-11"/>
+    <cosponsor thomas_id="00688" joined="2014-06-11"/>
+    <cosponsor thomas_id="01506" joined="2014-06-11"/>
+    <cosponsor thomas_id="01811" joined="2014-06-11"/>
+    <cosponsor thomas_id="00868" joined="2014-06-11"/>
+    <cosponsor thomas_id="02097" joined="2014-06-11"/>
+    <cosponsor thomas_id="00944" joined="2014-06-11"/>
+    <cosponsor thomas_id="02023" joined="2014-06-11"/>
+    <cosponsor thomas_id="01003" joined="2014-06-11"/>
+    <cosponsor thomas_id="01722" joined="2014-06-11"/>
+    <cosponsor thomas_id="01151" joined="2014-06-11"/>
+    <cosponsor thomas_id="02166" joined="2014-06-11"/>
+    <cosponsor thomas_id="01205" joined="2014-06-11"/>
+    <cosponsor thomas_id="02004" joined="2014-06-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-11" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="229"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Housing finance and home ownership"/>
+    <term name="Labor standards"/>
+    <term name="Wages and earnings"/>
+  </subjects>
+  <amendments/>
+  <summary>6/11/2014--Introduced.
+Original Living Wage Act of 2014 - Expresses the sense of Congress that: (1) the federal minimum wage should, as a minimum, be adjusted every four years so that a person working for it may earn an annual income at least 15% higher than the federal poverty threshold for a family of four; (2) it should be set at a level high enough to allow two full-time minimum wage workers to earn an income above the national housing wage; and (3) Congress, any of the several states, the District of Columbia, any U.S. territories or possessions, any Indian tribe, or local or state government may establish a higher minimum wage requirement than that established in this Act.
+
+Amends the Fair Labor Standards Act of 1938 to increase the federal minimum wage to at least the amount determined by the Secretary of Labor according to the formula prescribed by this Act beginning September 1, 2014.
+
+Requires the Secretary to determine such minimum wage rate by June 1, 2014, and once every four years thereafter. Prohibits any adjustment if the determination would result in a minimum wage lower than the current one.
+
+Requires the minimum wage so determined to be the minimum hourly wage sufficient for a person working for it 40 hours per week, 52 weeks per year, to earn an annual income 15% higher than the federal poverty threshold for a four-person household, with two children under age 18, and living in the 48 contiguous states, as published for each such year by the Census Bureau.</summary>
+</bill>

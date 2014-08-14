@@ -1,0 +1,49 @@
+<bill session="113" type="h" number="4137" updated="2014-08-14T13:26:42-04:00">
+  <state datetime="2014-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="2014-03-04"/>
+  </status>
+  <introduced datetime="2014-03-04"/>
+  <titles>
+    <title type="short" as="introduced">Preserving Welfare for Needs Not Weed Act</title>
+    <title type="official" as="introduced">To prohibit assistance provided under the program of block grants to States for temporary assistance for needy families from being accessed through the use of an electronic benefit transfer card at any store that offers marijuana for sale.</title>
+  </titles>
+  <sponsor thomas_id="01810"/>
+  <cosponsors>
+    <cosponsor thomas_id="02063" joined="2014-03-04"/>
+    <cosponsor thomas_id="02155" joined="2014-07-25"/>
+    <cosponsor thomas_id="01912" joined="2014-03-04"/>
+    <cosponsor thomas_id="01998" joined="2014-03-04"/>
+    <cosponsor thomas_id="01992" joined="2014-03-04"/>
+    <cosponsor thomas_id="01990" joined="2014-03-04"/>
+    <cosponsor thomas_id="02051" joined="2014-03-04"/>
+    <cosponsor thomas_id="01834" joined="2014-03-04"/>
+    <cosponsor thomas_id="01710" joined="2014-03-05"/>
+    <cosponsor thomas_id="01982" joined="2014-03-04"/>
+    <cosponsor thomas_id="01860" joined="2014-03-04"/>
+    <cosponsor thomas_id="01664" joined="2014-03-06"/>
+    <cosponsor thomas_id="01997" joined="2014-03-04"/>
+    <cosponsor thomas_id="02019" joined="2014-03-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-03-04" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="4142"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Drug trafficking and controlled substances"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Poverty and welfare assistance"/>
+    <term name="Retail and wholesale trades"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/2014--Introduced.
+Preserving Welfare for Needs Not Weed Act - Amends part A (Temporary Assistance for Needy Families) (TANF) of title IV of the Social Security Act (SSA) to require a state receiving a TANF grant to maintain policies and practices necessary to prevent assistance under the TANF program from being used in any electronic benefit transfer (via a card) at any establishment that offers marijuana for sale.</summary>
+</bill>

@@ -1,0 +1,41 @@
+<bill session="113" type="h" number="5065" updated="2014-08-14T13:34:43-04:00">
+  <state datetime="2014-07-10">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-10"/>
+  </status>
+  <introduced datetime="2014-07-10"/>
+  <titles>
+    <title type="short" as="introduced">SAFE Act</title>
+    <title type="short" as="introduced">Safeguarding America's Future and Environment Act</title>
+    <title type="official" as="introduced">To establish an integrated Federal program to respond to ongoing and expected impacts of extreme weather and climate change by protecting, restoring, and conserving the natural resources of the United States, and to maximize government efficiency and reduce costs, in cooperation with State, local, and tribal governments and other entities.</title>
+  </titles>
+  <sponsor thomas_id="02159"/>
+  <cosponsors>
+    <cosponsor thomas_id="01959" joined="2014-07-10"/>
+    <cosponsor thomas_id="01857" joined="2014-07-29"/>
+    <cosponsor thomas_id="01708" joined="2014-07-10"/>
+    <cosponsor thomas_id="01580" joined="2014-07-24"/>
+    <cosponsor thomas_id="01634" joined="2014-07-10"/>
+    <cosponsor thomas_id="02101" joined="2014-07-10"/>
+    <cosponsor thomas_id="01501" joined="2014-07-10"/>
+    <cosponsor thomas_id="02111" joined="2014-07-10"/>
+    <cosponsor thomas_id="01832" joined="2014-07-24"/>
+    <cosponsor thomas_id="00832" joined="2014-07-10"/>
+    <cosponsor thomas_id="02117" joined="2014-07-10"/>
+    <cosponsor thomas_id="00868" joined="2014-07-10"/>
+    <cosponsor thomas_id="02171" joined="2014-07-10"/>
+    <cosponsor thomas_id="01635" joined="2014-07-29"/>
+    <cosponsor thomas_id="01856" joined="2014-07-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-10" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

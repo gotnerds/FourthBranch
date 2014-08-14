@@ -1,0 +1,60 @@
+<bill session="113" type="h" number="3693" updated="2014-08-14T13:22:59-04:00">
+  <state datetime="2013-12-11">REFERRED</state>
+  <status>
+    <introduced datetime="2013-12-11"/>
+  </status>
+  <introduced datetime="2013-12-11"/>
+  <titles>
+    <title type="short" as="introduced">Flood Insurance Relief and Transparency Act of 2013</title>
+    <title type="official" as="introduced">To clarify the application of the Biggert-Waters Flood Insurance Reform Act of 2012 to premium rates for certain properties, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01925"/>
+  <cosponsors>
+    <cosponsor thomas_id="01838" joined="2013-12-11"/>
+    <cosponsor thomas_id="01840" joined="2013-12-11"/>
+    <cosponsor thomas_id="01839" joined="2013-12-11"/>
+    <cosponsor thomas_id="01643" joined="2013-12-11"/>
+    <cosponsor thomas_id="01933" joined="2013-12-12"/>
+    <cosponsor thomas_id="00511" joined="2013-12-11"/>
+    <cosponsor thomas_id="02046" joined="2013-12-11"/>
+    <cosponsor thomas_id="00612" joined="2013-12-12"/>
+    <cosponsor thomas_id="02053" joined="2013-12-11"/>
+    <cosponsor thomas_id="02094" joined="2014-01-16"/>
+    <cosponsor thomas_id="02074" joined="2014-01-07"/>
+    <cosponsor thomas_id="02001" joined="2013-12-11"/>
+    <cosponsor thomas_id="02034" joined="2013-12-12"/>
+    <cosponsor thomas_id="01955" joined="2014-01-16"/>
+    <cosponsor thomas_id="02035" joined="2013-12-11"/>
+    <cosponsor thomas_id="01704" joined="2013-12-11"/>
+    <cosponsor thomas_id="00985" joined="2013-12-11"/>
+    <cosponsor thomas_id="02003" joined="2013-12-11"/>
+    <cosponsor thomas_id="01892" joined="2013-12-11"/>
+    <cosponsor thomas_id="01950" joined="2013-12-12"/>
+    <cosponsor thomas_id="02000" joined="2013-12-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-12-11" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Floods and storm protection"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+  </subjects>
+  <amendments/>
+  <summary>12/11/2013--Introduced.
+Flood Insurance Relief and Transparency Act of 2013 - Delays until March 1, 2015, the effective date of specified changes in risk premium rates for flood insurance under the National Flood Insurance Program (NFIP).
+
+Directs the Administrator of the Federal Emergency Management Agency (FEMA) to make publicly available all data affecting any changes in such risk premium rates.
+
+Amends the Biggert-Waters Flood Insurance Reform Act of 2012 to remove the $750,000 restriction from the maximum amount of funds available to FEMA for the study of participation in and affordability of NFIP for certain flood insurance policyholders.
+
+Amends the National Flood Insurance Act of 1968 to require FEMA to provide policyholders with the option of paying chargeable risk premiums for flood insurance coverage on an annual (as under current law) or a monthly basis. Sets forth criteria for policyholder eligibility to exercise the monthly option.</summary>
+</bill>

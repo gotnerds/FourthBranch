@@ -1,0 +1,219 @@
+<bill session="113" type="h" number="2548" updated="2014-08-14T13:13:13-04:00">
+  <state datetime="2014-05-08T16:12:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-05-08T16:12:00-04:00"/>
+  </status>
+  <introduced datetime="2013-06-27"/>
+  <titles>
+    <title type="short" as="introduced">Electrify Africa Act of 2013</title>
+    <title type="short" as="reported to house">Electrify Africa Act of 2014</title>
+    <title type="short" as="passed house">Electrify Africa Act of 2014</title>
+    <title type="official" as="introduced">To establish a comprehensive United States government policy to assist countries in sub-Saharan Africa to develop an appropriate mix of power solutions for more broadly distributed electricity access in order to support poverty alleviation and drive economic growth, and for other purposes.</title>
+    <title type="official" as="amended by house">To establish a comprehensive United States Government policy to encourage the efforts of countries in sub-Saharan Africa to develop an appropriate mix of power solutions, including renewable energy, for more broadly distributed electricity access in order to support poverty reduction, promote development outcomes, and drive economic growth, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00998"/>
+  <cosponsors>
+    <cosponsor thomas_id="00021" joined="2013-07-30"/>
+    <cosponsor thomas_id="00038" joined="2014-03-24"/>
+    <cosponsor thomas_id="02131" joined="2014-03-14"/>
+    <cosponsor thomas_id="01996" joined="2013-06-27"/>
+    <cosponsor thomas_id="02102" joined="2014-02-11"/>
+    <cosponsor thomas_id="01740" joined="2014-03-26"/>
+    <cosponsor thomas_id="01748" joined="2014-03-24"/>
+    <cosponsor thomas_id="02092" joined="2013-12-02"/>
+    <cosponsor thomas_id="01845" joined="2014-04-29"/>
+    <cosponsor thomas_id="02127" joined="2014-02-25"/>
+    <cosponsor thomas_id="02055" joined="2013-12-02"/>
+    <cosponsor thomas_id="01878" joined="2013-09-09"/>
+    <cosponsor thomas_id="01959" joined="2013-10-30"/>
+    <cosponsor thomas_id="00229" joined="2014-02-26"/>
+    <cosponsor thomas_id="02103" joined="2014-04-29"/>
+    <cosponsor thomas_id="00231" joined="2013-10-30"/>
+    <cosponsor thomas_id="01836" joined="2014-04-09"/>
+    <cosponsor thomas_id="02144" joined="2014-04-30"/>
+    <cosponsor thomas_id="01643" joined="2014-03-24"/>
+    <cosponsor thomas_id="00281" joined="2014-04-01"/>
+    <cosponsor thomas_id="02096" joined="2014-04-28"/>
+    <cosponsor thomas_id="01799" joined="2014-03-04"/>
+    <cosponsor thomas_id="01976" joined="2014-02-25"/>
+    <cosponsor thomas_id="01717" joined="2014-03-24"/>
+    <cosponsor thomas_id="00303" joined="2013-07-30"/>
+    <cosponsor thomas_id="02072" joined="2014-04-04"/>
+    <cosponsor thomas_id="00344" joined="2013-06-27"/>
+    <cosponsor thomas_id="02114" joined="2014-03-04"/>
+    <cosponsor thomas_id="00371" joined="2014-03-04"/>
+    <cosponsor thomas_id="01793" joined="2014-05-02"/>
+    <cosponsor thomas_id="02119" joined="2013-12-02"/>
+    <cosponsor thomas_id="02122" joined="2014-05-02"/>
+    <cosponsor thomas_id="02043" joined="2014-05-01"/>
+    <cosponsor thomas_id="00462" joined="2014-04-09"/>
+    <cosponsor thomas_id="01990" joined="2013-09-09"/>
+    <cosponsor thomas_id="02041" joined="2014-04-28"/>
+    <cosponsor thomas_id="01922" joined="2014-02-25"/>
+    <cosponsor thomas_id="02010" joined="2013-12-02"/>
+    <cosponsor thomas_id="02032" joined="2014-05-02"/>
+    <cosponsor thomas_id="00511" joined="2014-01-27"/>
+    <cosponsor thomas_id="02071" joined="2014-03-14"/>
+    <cosponsor thomas_id="01794" joined="2014-02-26"/>
+    <cosponsor thomas_id="01634" joined="2014-04-01"/>
+    <cosponsor thomas_id="01663" joined="2013-07-30"/>
+    <cosponsor thomas_id="02025" joined="2013-12-09"/>
+    <cosponsor thomas_id="02172" joined="2014-02-26"/>
+    <cosponsor thomas_id="02134" joined="2013-12-02"/>
+    <cosponsor thomas_id="02169" joined="2014-03-04"/>
+    <cosponsor thomas_id="00635" joined="2014-03-26"/>
+    <cosponsor thomas_id="02014" joined="2013-12-04"/>
+    <cosponsor thomas_id="01936" joined="2014-04-01"/>
+    <cosponsor thomas_id="01668" joined="2014-04-09"/>
+    <cosponsor thomas_id="01583" joined="2013-12-02"/>
+    <cosponsor thomas_id="00688" joined="2014-02-25"/>
+    <cosponsor thomas_id="00699" joined="2014-03-26"/>
+    <cosponsor thomas_id="00701" joined="2014-04-29"/>
+    <cosponsor thomas_id="02033" joined="2013-09-09"/>
+    <cosponsor thomas_id="02111" joined="2014-04-09"/>
+    <cosponsor thomas_id="01960" joined="2014-05-02"/>
+    <cosponsor thomas_id="01943" joined="2014-02-10"/>
+    <cosponsor thomas_id="00729" joined="2014-04-08"/>
+    <cosponsor thomas_id="01503" joined="2014-03-26"/>
+    <cosponsor thomas_id="01804" joined="2014-01-27"/>
+    <cosponsor thomas_id="01653" joined="2013-10-30"/>
+    <cosponsor thomas_id="00766" joined="2013-12-02"/>
+    <cosponsor thomas_id="01504" joined="2013-09-09"/>
+    <cosponsor thomas_id="01809" joined="2014-02-26"/>
+    <cosponsor thomas_id="02142" joined="2014-03-04"/>
+    <cosponsor thomas_id="01506" joined="2013-12-02"/>
+    <cosponsor thomas_id="02148" joined="2014-04-08"/>
+    <cosponsor thomas_id="02130" joined="2014-05-02"/>
+    <cosponsor thomas_id="01730" joined="2014-04-29"/>
+    <cosponsor thomas_id="01811" joined="2013-10-30"/>
+    <cosponsor thomas_id="02117" joined="2014-04-29"/>
+    <cosponsor thomas_id="01602" joined="2014-05-02"/>
+    <cosponsor thomas_id="00867" joined="2014-02-11"/>
+    <cosponsor thomas_id="02162" joined="2014-01-27"/>
+    <cosponsor thomas_id="01930" joined="2013-11-12"/>
+    <cosponsor thomas_id="02097" joined="2013-12-02"/>
+    <cosponsor thomas_id="01835" joined="2014-03-04"/>
+    <cosponsor thomas_id="02157" joined="2014-01-28"/>
+    <cosponsor thomas_id="01927" joined="2013-12-02"/>
+    <cosponsor thomas_id="02171" joined="2013-10-30"/>
+    <cosponsor thomas_id="01910" joined="2014-04-01"/>
+    <cosponsor thomas_id="01967" joined="2014-02-26"/>
+    <cosponsor thomas_id="00944" joined="2014-04-28"/>
+    <cosponsor thomas_id="01810" joined="2013-11-12"/>
+    <cosponsor thomas_id="02073" joined="2014-03-26"/>
+    <cosponsor thomas_id="01651" joined="2014-04-29"/>
+    <cosponsor thomas_id="01916" joined="2014-05-01"/>
+    <cosponsor thomas_id="00985" joined="2014-02-26"/>
+    <cosponsor thomas_id="01848" joined="2013-09-18"/>
+    <cosponsor thomas_id="02039" joined="2014-04-01"/>
+    <cosponsor thomas_id="01003" joined="2013-09-18"/>
+    <cosponsor thomas_id="01757" joined="2014-02-27"/>
+    <cosponsor thomas_id="01588" joined="2014-04-08"/>
+    <cosponsor thomas_id="01635" joined="2013-10-04"/>
+    <cosponsor thomas_id="01920" joined="2013-09-09"/>
+    <cosponsor thomas_id="01041" joined="2014-03-12"/>
+    <cosponsor thomas_id="01861" joined="2013-12-02"/>
+    <cosponsor thomas_id="01526" joined="2014-02-25"/>
+    <cosponsor thomas_id="01590" joined="2014-02-10"/>
+    <cosponsor thomas_id="01818" joined="2013-12-02"/>
+    <cosponsor thomas_id="01528" joined="2014-05-02"/>
+    <cosponsor thomas_id="01071" joined="2013-06-27"/>
+    <cosponsor thomas_id="02047" joined="2014-03-25"/>
+    <cosponsor thomas_id="01114" joined="2013-07-30"/>
+    <cosponsor thomas_id="01940" joined="2014-04-29"/>
+    <cosponsor thomas_id="01729" joined="2014-01-27"/>
+    <cosponsor thomas_id="02112" joined="2014-02-25"/>
+    <cosponsor thomas_id="02137" joined="2014-04-28"/>
+    <cosponsor thomas_id="01777" joined="2014-04-29"/>
+    <cosponsor thomas_id="02161" joined="2013-07-30"/>
+    <cosponsor thomas_id="01879" joined="2013-10-30"/>
+    <cosponsor thomas_id="02004" joined="2013-10-30"/>
+    <cosponsor thomas_id="02021" joined="2014-03-24"/>
+    <cosponsor thomas_id="02115" joined="2014-03-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-27" state="REFERRED">
+      <text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-06-27">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2013-06-27">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2014-02-27">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-02-27" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+    </calendar>
+    <action datetime="2014-05-02T13:11:00-04:00">
+      <text>Reported (Amended) by the Committee on Foreign Affairs. H. Rept. 113-433, Part I.</text>
+    </action>
+    <action datetime="2014-05-02T13:12:00-04:00">
+      <text>Committee on Financial Services discharged.</text>
+    </action>
+    <calendar datetime="2014-05-02T13:12:00-04:00" calendar="Union" number="321">
+      <text>Placed on the Union Calendar, Calendar No. 321.</text>
+    </calendar>
+    <action datetime="2014-05-07T19:19:00-04:00">
+      <text>Mr. Royce moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2014-05-07T19:19:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H3923-3929" label="consideration"/>
+    </action>
+    <action datetime="2014-05-07T19:19:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2548.</text>
+    </action>
+    <action datetime="2014-05-07T19:42:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2014-05-08T16:03:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H3970-3971" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="208" datetime="2014-05-08T16:12:00-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 297 - 117 (Roll no. 208).</text>
+      <reference ref="CR 5/7/2014 H3923-3929" label="text"/>
+    </vote>
+    <action datetime="2014-05-12">
+      <text>Received in the Senate and Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral, Markup, Reporting"/>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral, Discharged"/>
+    <committee subcommittee="" code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Africa"/>
+    <term name="Congressional oversight"/>
+    <term name="Economic development"/>
+    <term name="Electric power generation and transmission"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Foreign loans and debt"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Multilateral development programs"/>
+    <term name="U.S. and foreign investments"/>
+  </subjects>
+  <amendments/>
+  <summary>5/8/2014--Passed House amended.
+Electrify Africa Act of 2014 - (Sec. 5) Directs the President to establish a multiyear policy, partnership, and funding strategy to assist countries in sub-Saharan Africa develop an appropriate mix of power solutions to provide sufficient electricity access to people living in rural and urban areas in order to alleviate poverty and drive economic growth.
+
+(Sec. 6) Expresses the sense of Congress that the U.S. Agency for International Development (USAID) should: (1) prioritize where loan guarantees to African financial institutions would facilitate involvement in African power projects, and where partnerships and grants would increase access to electricity; and (2) consider providing grants to develop national, regional, and local energy and electricity policy plans, and expand electricity access to the poorest.
+
+(Sec. 7) Urges the President to direct the U.S. representatives to appropriate international bodies to use U.S. influence to advocate that each such body: (1) increase efforts to promote investment in power sector and electrification projects in sub-Saharan Africa that increase energy access, (2) address energy needs of individuals and communities where access to an electricity grid is impractical or cost-prohibitive, (3) enhance private sector coordination in sub-Saharan Africa to increase access to electricity, (4) provide technical assistance to the regulatory authorities of sub-Saharan African governments to remove unnecessary investment barriers, and (5) utilize clear and metric-based targets to measure such projects' effectiveness.
+
+(Sec. 8) Urges the Overseas Private Investment Corporation (OPIC) to: (1) place a priority on supporting investment in the electricity sector of sub-Saharan Africa; (2) support investments in projects that will maximize the number of people with new access to electricity, improve electricity generation and distribution, provide reliable and low-cost electricity to rural and urban communities, and reduce energy-related impediments to business and investment; (3) encourage locally-owned, micro, small- and medium-sized enterprises and cooperative service providers to participate in investment activities in sub-Saharan Africa; and (4) publish in an accessible digital format development impacts of its investments.
+
+	Amends the Foreign Assistance Act of 1961 to require OPIC's Board of Directors to: (1) increase the loan, guarantee, and insurance programs, and financial commitments in sub-Saharan Africa, including through the use of an investment advisory council to assist the Board in developing and implementing policies, programs, and financial instruments with respect to sub-Saharan Africa; and (2) appoint an OPIC Inspector General.
+
+Terminates the investment advisory council on December 31, 2017.
+
+(Sec. 9) Urges the Director of the Trade and Development Agency to: (1) promote private sector participation in energy sector projects in sub-Saharan Africa, including through feasibility studies and pilot projects; and (2) seek opportunities to fund projects that increase access to electricity.
+
+(Sec. 10) Directs the President to report to Congress detailing progress towards achieving the policy goals set forth in this Act.</summary>
+</bill>

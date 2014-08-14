@@ -1,0 +1,52 @@
+<bill session="113" type="h" number="1632" updated="2014-08-14T13:04:34-04:00">
+  <state datetime="2013-04-18">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-18"/>
+  </status>
+  <introduced datetime="2013-04-18"/>
+  <titles>
+    <title type="short" as="introduced">Building Rural Communities Act</title>
+    <title type="official" as="introduced">To ensure that the Federal government is able to receive the maximum return on its investment in the rural essential community facilities loan and grant programs and effective services to rural communities.</title>
+  </titles>
+  <sponsor thomas_id="02000"/>
+  <cosponsors>
+    <cosponsor thomas_id="02057" joined="2013-04-18"/>
+    <cosponsor thomas_id="02125" joined="2013-04-18"/>
+    <cosponsor thomas_id="02049" joined="2013-05-09"/>
+    <cosponsor thomas_id="02032" joined="2013-04-18"/>
+    <cosponsor thomas_id="02011" joined="2013-05-16"/>
+    <cosponsor thomas_id="01505" joined="2013-04-18"/>
+    <cosponsor thomas_id="02074" joined="2013-05-20"/>
+    <cosponsor thomas_id="02073" joined="2013-04-18"/>
+    <cosponsor thomas_id="01954" joined="2013-04-18"/>
+    <cosponsor thomas_id="01114" joined="2013-04-18"/>
+    <cosponsor thomas_id="01256" joined="2013-04-18"/>
+    <cosponsor thomas_id="02019" joined="2013-04-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-18" state="REFERRED">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2013-05-03">
+      <text>Referred to the Subcommittee on Livestock, Rural Development, and Credit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee subcommittee="Livestock, Rural Development, and Credit" code="HSAG29" name="House Agriculture" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Infrastructure development"/>
+    <term name="Rural conditions and development"/>
+    <term name="Solid waste and recycling"/>
+    <term name="Water resources funding"/>
+    <term name="Water use and supply"/>
+  </subjects>
+  <amendments/>
+  <summary>4/18/2013--Introduced.
+Building Rural Communities Act - Amends the Consolidated Farm and Rural Development Act to authorize the Secretary of Agriculture (USDA) to make grants to rural area-serving public bodies and private nonprofit corporations for technical assistance and training to: (1) assist communities in identifying and planning for community facility needs; (2) identify public and private financial resources; (3) prepare financial assistance applications and related documents; (4) improve management, including financial management; or (5) assist with other areas of need identified by the Secretary.
+
+Gives priority to private nonprofit organizations that have experience in providing technical assistance and training to rural entities.</summary>
+</bill>

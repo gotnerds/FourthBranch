@@ -1,0 +1,106 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-23", 
+      "references": [
+        {
+          "reference": "CR S3899", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-23", 
+      "committees": [
+        "SSHR"
+      ], 
+      "references": [
+        {
+          "reference": "CR S3899", 
+          "type": "text of measure as introduced"
+        }
+      ], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2512-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Paul, Rand", 
+      "sponsored_at": "2014-06-23", 
+      "state": "KY", 
+      "thomas_id": "02082", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-06-23", 
+  "number": "2512", 
+  "official_title": "A bill to establish an emergency transportation safety fund for the reconstruction of bridges along the Interstate Highway System, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Emergency Interstate Bridge Safety Fund Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "McConnell, Mitch", 
+    "state": "KY", 
+    "thomas_id": "01395", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-06-23", 
+  "subjects": [
+    "Congressional oversight", 
+    "Government trust funds", 
+    "Labor standards", 
+    "Public contracts and procurement", 
+    "Roads and highways", 
+    "Transportation and public works", 
+    "Transportation programs funding", 
+    "Transportation safety and security", 
+    "Wages and earnings"
+  ], 
+  "subjects_top_term": "Transportation and public works", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Emergency Interstate Bridge Safety Fund Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to establish an emergency transportation safety fund for the reconstruction of bridges along the Interstate Highway System, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T14:06:14-04:00"
+}

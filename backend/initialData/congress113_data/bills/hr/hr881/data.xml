@@ -1,0 +1,45 @@
+<bill session="113" type="h" number="881" updated="2014-08-14T12:58:13-04:00">
+  <state datetime="2013-02-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-28"/>
+  </status>
+  <introduced datetime="2013-02-28"/>
+  <titles>
+    <title type="short" as="introduced">Cluster Munitions Civilian Protection Act of 2013</title>
+    <title type="official" as="introduced">To limit the use of cluster munitions.</title>
+  </titles>
+  <sponsor thomas_id="01504"/>
+  <cosponsors>
+    <cosponsor thomas_id="01787" joined="2013-02-28"/>
+    <cosponsor thomas_id="01634" joined="2013-04-25"/>
+    <cosponsor thomas_id="01640" joined="2013-02-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-28">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E219"/>
+    </action>
+    <action datetime="2013-02-28" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="2438"/>
+    <bill type="s" session="113" relation="identical" number="419"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Arms control and nonproliferation"/>
+    <term name="Congressional oversight"/>
+    <term name="Defense spending"/>
+    <term name="Military operations and strategy"/>
+  </subjects>
+  <amendments/>
+  <summary>2/28/2013--Introduced.
+Cluster Munitions Civilian Protection Act of 2013 - Places specified restrictions on the use of cluster munitions.
+
+Directs the President, within 90 days after the use of such munitions, to submit to the congressional defense, appropriations, and foreign relations committees a plan for cleaning up any such munitions or submunitions which fail to explode and continue to pose a hazard to civilians.</summary>
+</bill>

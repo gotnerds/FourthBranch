@@ -1,0 +1,206 @@
+<bill session="113" type="h" number="1276" updated="2014-08-14T13:01:34-04:00">
+  <state datetime="2013-03-20">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-20"/>
+  </status>
+  <introduced datetime="2013-03-20"/>
+  <titles>
+    <title type="short" as="introduced">Currency Reform for Fair Trade Act</title>
+    <title type="official" as="introduced">To amend title VII of the Tariff Act of 1930 to clarify that countervailing duties may be imposed to address subsidies relating to a fundamentally undervalued currency of any foreign country.</title>
+  </titles>
+  <sponsor thomas_id="00683"/>
+  <cosponsors>
+    <cosponsor thomas_id="01460" joined="2013-05-15"/>
+    <cosponsor thomas_id="02054" joined="2013-05-15"/>
+    <cosponsor thomas_id="02153" joined="2013-10-09"/>
+    <cosponsor thomas_id="01753" joined="2013-06-03"/>
+    <cosponsor thomas_id="00099" joined="2013-05-15"/>
+    <cosponsor thomas_id="02092" joined="2013-06-03"/>
+    <cosponsor thomas_id="01469" joined="2013-06-03"/>
+    <cosponsor thomas_id="01845" joined="2013-04-17"/>
+    <cosponsor thomas_id="01987" joined="2013-03-20"/>
+    <cosponsor thomas_id="00132" joined="2013-07-18"/>
+    <cosponsor thomas_id="02106" joined="2013-06-25"/>
+    <cosponsor thomas_id="02127" joined="2013-07-08"/>
+    <cosponsor thomas_id="01761" joined="2013-11-21"/>
+    <cosponsor thomas_id="01676" joined="2013-03-20"/>
+    <cosponsor thomas_id="01471" joined="2013-08-01"/>
+    <cosponsor thomas_id="01999" joined="2014-02-10"/>
+    <cosponsor thomas_id="01889" joined="2013-11-12"/>
+    <cosponsor thomas_id="02159" joined="2013-11-12"/>
+    <cosponsor thomas_id="02055" joined="2013-04-17"/>
+    <cosponsor thomas_id="01790" joined="2013-11-12"/>
+    <cosponsor thomas_id="00211" joined="2013-03-20"/>
+    <cosponsor thomas_id="01912" joined="2013-11-21"/>
+    <cosponsor thomas_id="01878" joined="2013-04-17"/>
+    <cosponsor thomas_id="02151" joined="2013-04-25"/>
+    <cosponsor thomas_id="01959" joined="2013-04-25"/>
+    <cosponsor thomas_id="00229" joined="2013-03-20"/>
+    <cosponsor thomas_id="00231" joined="2013-03-20"/>
+    <cosponsor thomas_id="01836" joined="2013-06-25"/>
+    <cosponsor thomas_id="01989" joined="2013-04-17"/>
+    <cosponsor thomas_id="00256" joined="2013-03-20"/>
+    <cosponsor thomas_id="00279" joined="2013-03-20"/>
+    <cosponsor thomas_id="02133" joined="2013-07-18"/>
+    <cosponsor thomas_id="00281" joined="2013-04-25"/>
+    <cosponsor thomas_id="01799" joined="2013-07-08"/>
+    <cosponsor thomas_id="00299" joined="2013-03-20"/>
+    <cosponsor thomas_id="00316" joined="2013-04-17"/>
+    <cosponsor thomas_id="02123" joined="2013-08-01"/>
+    <cosponsor thomas_id="00322" joined="2013-06-25"/>
+    <cosponsor thomas_id="01894" joined="2013-04-25"/>
+    <cosponsor thomas_id="01857" joined="2013-03-20"/>
+    <cosponsor thomas_id="02125" joined="2013-03-20"/>
+    <cosponsor thomas_id="02114" joined="2013-05-15"/>
+    <cosponsor thomas_id="00368" joined="2013-08-01"/>
+    <cosponsor thomas_id="01797" joined="2013-04-17"/>
+    <cosponsor thomas_id="01683" joined="2013-05-15"/>
+    <cosponsor thomas_id="01793" joined="2013-08-01"/>
+    <cosponsor thomas_id="01888" joined="2013-03-20"/>
+    <cosponsor thomas_id="01895" joined="2013-04-25"/>
+    <cosponsor thomas_id="01973" joined="2013-07-26"/>
+    <cosponsor thomas_id="01743" joined="2013-06-25"/>
+    <cosponsor thomas_id="02043" joined="2013-04-17"/>
+    <cosponsor thomas_id="00462" joined="2013-04-17"/>
+    <cosponsor thomas_id="02070" joined="2013-03-20"/>
+    <cosponsor thomas_id="01708" joined="2013-03-20"/>
+    <cosponsor thomas_id="02041" joined="2013-04-25"/>
+    <cosponsor thomas_id="00478" joined="2013-04-17"/>
+    <cosponsor thomas_id="02010" joined="2013-04-17"/>
+    <cosponsor thomas_id="01933" joined="2013-03-20"/>
+    <cosponsor thomas_id="00511" joined="2013-10-09"/>
+    <cosponsor thomas_id="01794" joined="2013-03-20"/>
+    <cosponsor thomas_id="01913" joined="2013-06-25"/>
+    <cosponsor thomas_id="01490" joined="2013-07-26"/>
+    <cosponsor thomas_id="01580" joined="2013-11-21"/>
+    <cosponsor thomas_id="02147" joined="2014-02-10"/>
+    <cosponsor thomas_id="01663" joined="2013-09-16"/>
+    <cosponsor thomas_id="02046" joined="2013-03-20"/>
+    <cosponsor thomas_id="00599" joined="2013-04-25"/>
+    <cosponsor thomas_id="01843" joined="2013-04-16"/>
+    <cosponsor thomas_id="00612" joined="2013-03-20"/>
+    <cosponsor thomas_id="02154" joined="2013-04-16"/>
+    <cosponsor thomas_id="00616" joined="2013-03-20"/>
+    <cosponsor thomas_id="02190" joined="2014-02-10"/>
+    <cosponsor thomas_id="02172" joined="2013-09-16"/>
+    <cosponsor thomas_id="02134" joined="2013-09-10"/>
+    <cosponsor thomas_id="02145" joined="2014-07-31"/>
+    <cosponsor thomas_id="01668" joined="2013-04-17"/>
+    <cosponsor thomas_id="01501" joined="2013-10-09"/>
+    <cosponsor thomas_id="00688" joined="2013-04-16"/>
+    <cosponsor thomas_id="01781" joined="2013-03-20"/>
+    <cosponsor thomas_id="01846" joined="2013-04-17"/>
+    <cosponsor thomas_id="02146" joined="2013-11-12"/>
+    <cosponsor thomas_id="01686" joined="2013-03-20"/>
+    <cosponsor thomas_id="01943" joined="2013-07-08"/>
+    <cosponsor thomas_id="02053" joined="2013-04-17"/>
+    <cosponsor thomas_id="00735" joined="2013-04-17"/>
+    <cosponsor thomas_id="01503" joined="2013-11-12"/>
+    <cosponsor thomas_id="01653" joined="2013-04-17"/>
+    <cosponsor thomas_id="00766" joined="2013-07-11"/>
+    <cosponsor thomas_id="01504" joined="2013-04-25"/>
+    <cosponsor thomas_id="01792" joined="2013-03-20"/>
+    <cosponsor thomas_id="01505" joined="2013-09-16"/>
+    <cosponsor thomas_id="02074" joined="2013-03-20"/>
+    <cosponsor thomas_id="01832" joined="2013-10-09"/>
+    <cosponsor thomas_id="02142" joined="2013-05-15"/>
+    <cosponsor thomas_id="02052" joined="2013-03-20"/>
+    <cosponsor thomas_id="01730" joined="2013-03-20"/>
+    <cosponsor thomas_id="01731" joined="2013-08-01"/>
+    <cosponsor thomas_id="00808" joined="2013-03-20"/>
+    <cosponsor thomas_id="01811" joined="2013-07-11"/>
+    <cosponsor thomas_id="00832" joined="2013-11-21"/>
+    <cosponsor thomas_id="01744" joined="2013-03-20"/>
+    <cosponsor thomas_id="00850" joined="2013-04-16"/>
+    <cosponsor thomas_id="01602" joined="2013-07-18"/>
+    <cosponsor thomas_id="00867" joined="2014-07-31"/>
+    <cosponsor thomas_id="00868" joined="2013-04-25"/>
+    <cosponsor thomas_id="02001" joined="2013-04-16"/>
+    <cosponsor thomas_id="01974" joined="2013-03-20"/>
+    <cosponsor thomas_id="01510" joined="2013-05-15"/>
+    <cosponsor thomas_id="02097" joined="2013-05-15"/>
+    <cosponsor thomas_id="01835" joined="2013-11-12"/>
+    <cosponsor thomas_id="01929" joined="2013-04-16"/>
+    <cosponsor thomas_id="00910" joined="2013-06-25"/>
+    <cosponsor thomas_id="02141" joined="2013-11-21"/>
+    <cosponsor thomas_id="01514" joined="2013-11-21"/>
+    <cosponsor thomas_id="02171" joined="2013-03-20"/>
+    <cosponsor thomas_id="00930" joined="2013-05-15"/>
+    <cosponsor thomas_id="01967" joined="2013-04-16"/>
+    <cosponsor thomas_id="00940" joined="2013-05-15"/>
+    <cosponsor thomas_id="00944" joined="2013-03-20"/>
+    <cosponsor thomas_id="02068" joined="2013-04-25"/>
+    <cosponsor thomas_id="01986" joined="2013-04-25"/>
+    <cosponsor thomas_id="00977" joined="2013-05-15"/>
+    <cosponsor thomas_id="01651" joined="2013-04-17"/>
+    <cosponsor thomas_id="00997" joined="2013-05-15"/>
+    <cosponsor thomas_id="01728" joined="2013-07-26"/>
+    <cosponsor thomas_id="01756" joined="2013-03-20"/>
+    <cosponsor thomas_id="01757" joined="2013-10-09"/>
+    <cosponsor thomas_id="01522" joined="2013-04-17"/>
+    <cosponsor thomas_id="01854" joined="2013-04-25"/>
+    <cosponsor thomas_id="01588" joined="2013-05-15"/>
+    <cosponsor thomas_id="02124" joined="2014-02-10"/>
+    <cosponsor thomas_id="01950" joined="2013-05-15"/>
+    <cosponsor thomas_id="01798" joined="2013-03-20"/>
+    <cosponsor thomas_id="01037" joined="2013-05-15"/>
+    <cosponsor thomas_id="01041" joined="2013-04-17"/>
+    <cosponsor thomas_id="01861" joined="2013-03-20"/>
+    <cosponsor thomas_id="01526" joined="2014-02-10"/>
+    <cosponsor thomas_id="01590" joined="2014-02-10"/>
+    <cosponsor thomas_id="01818" joined="2013-05-15"/>
+    <cosponsor thomas_id="01069" joined="2013-03-20"/>
+    <cosponsor thomas_id="02104" joined="2013-11-12"/>
+    <cosponsor thomas_id="01952" joined="2013-03-20"/>
+    <cosponsor thomas_id="01593" joined="2013-06-03"/>
+    <cosponsor thomas_id="01535" joined="2014-02-10"/>
+    <cosponsor thomas_id="01940" joined="2014-02-10"/>
+    <cosponsor thomas_id="01942" joined="2013-04-17"/>
+    <cosponsor thomas_id="01884" joined="2013-04-25"/>
+    <cosponsor thomas_id="01741" joined="2013-03-20"/>
+    <cosponsor thomas_id="01729" joined="2013-04-25"/>
+    <cosponsor thomas_id="02166" joined="2013-07-11"/>
+    <cosponsor thomas_id="01188" joined="2013-03-20"/>
+    <cosponsor thomas_id="01856" joined="2013-07-11"/>
+    <cosponsor thomas_id="01879" joined="2013-03-20"/>
+    <cosponsor thomas_id="01886" joined="2013-04-17"/>
+    <cosponsor thomas_id="01238" joined="2013-09-16"/>
+    <cosponsor thomas_id="01853" joined="2013-04-17"/>
+    <cosponsor thomas_id="01256" joined="2013-03-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-20" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2013-04-10">
+      <text>Referred to the Subcommittee on Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee subcommittee="Trade" code="HSWM04" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Canada"/>
+    <term name="Currency"/>
+    <term name="International monetary system and foreign exchange"/>
+    <term name="Latin America"/>
+    <term name="Mexico"/>
+    <term name="Tariffs"/>
+  </subjects>
+  <amendments/>
+  <summary>3/20/2013--Introduced.
+Currency Reform for Fair Trade Act - Amends the Tariff Act of 1930 to include as a "countervailable subsidy" requiring action under a countervailing duty or antidumping duty proceeding the benefit conferred on merchandise imported into the United States from foreign countries with fundamentally undervalued currency.
+
+Defines "benefit conferred," in cases where the currency of a foreign country is exchanged for foreign currency (i.e., U.S. dollars) obtained from export transactions, as the difference between: (1) the amount of currency provided by a foreign country in which the subject merchandise is produced, and (2) the amount of currency such country would have provided if the real effective exchange rate of its currency were not fundamentally undervalued.
+
+Declares that the fact that such a subsidy is also provided in circumstances not involving export shall not, for that reason alone, mean it cannot be considered export contingent and actionable under a countervailing duty and antidumping duty proceeding.
+
+Requires the administering authority to determine that the currency of a foreign country is fundamentally undervalued if for an 18-month period: (1) the government of the country engages in protracted, large-scale intervention in one or more foreign exchange markets; (2) the country's real effective exchange rate is undervalued by at least 5%; (3) the country has experienced significant and persistent global current account surpluses; and (4) the country's government has foreign asset reserves exceeding the amount necessary to repay all its debt obligations falling due within the coming 12 months, 20% percent of the country's money supply, and the value of the country's imports during the previous 4 months.
+
+Requires the use, for calculating a country's "real effective exchange rate undervaluation," of certain guidelines of the Consultative Group on Exchange Rate Issues of the International Monetary Fund (IMF) or, if those guidelines are not available, generally accepted economic and econometric techniques and methodologies. Requires the use, also, of inflation-adjusted, trade-weighted exchange rates.
+
+Applies the amendments made by this Act to goods from Canada and Mexico.</summary>
+</bill>

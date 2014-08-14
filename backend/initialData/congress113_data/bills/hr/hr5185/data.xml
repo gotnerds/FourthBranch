@@ -1,0 +1,46 @@
+<bill session="113" type="h" number="5185" updated="2014-08-14T13:35:43-04:00">
+  <state datetime="2014-07-24">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-24"/>
+  </status>
+  <introduced datetime="2014-07-24"/>
+  <titles>
+    <title type="short" as="introduced">EARLY Act Reauthorization of 2014</title>
+    <title type="official" as="introduced">To reauthorize the Young Women's Breast Health Education and Awareness Requires Learning Young Act of 2009.</title>
+  </titles>
+  <sponsor thomas_id="01777"/>
+  <cosponsors>
+    <cosponsor thomas_id="01676" joined="2014-07-30"/>
+    <cosponsor thomas_id="02036" joined="2014-07-24"/>
+    <cosponsor thomas_id="00511" joined="2014-07-30"/>
+    <cosponsor thomas_id="01580" joined="2014-07-30"/>
+    <cosponsor thomas_id="01634" joined="2014-07-30"/>
+    <cosponsor thomas_id="01501" joined="2014-07-30"/>
+    <cosponsor thomas_id="00683" joined="2014-07-30"/>
+    <cosponsor thomas_id="01814" joined="2014-07-30"/>
+    <cosponsor thomas_id="01503" joined="2014-07-30"/>
+    <cosponsor thomas_id="01731" joined="2014-07-30"/>
+    <cosponsor thomas_id="01811" joined="2014-07-30"/>
+    <cosponsor thomas_id="00850" joined="2014-07-30"/>
+    <cosponsor thomas_id="00868" joined="2014-07-30"/>
+    <cosponsor thomas_id="00944" joined="2014-07-30"/>
+    <cosponsor thomas_id="01916" joined="2014-07-30"/>
+    <cosponsor thomas_id="00985" joined="2014-07-30"/>
+    <cosponsor thomas_id="00997" joined="2014-07-30"/>
+    <cosponsor thomas_id="01722" joined="2014-07-30"/>
+    <cosponsor thomas_id="01861" joined="2014-07-30"/>
+    <cosponsor thomas_id="01890" joined="2014-07-30"/>
+    <cosponsor thomas_id="01593" joined="2014-07-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-24" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

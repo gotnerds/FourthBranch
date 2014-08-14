@@ -1,0 +1,60 @@
+<bill session="113" type="h" number="4460" updated="2014-08-14T13:29:25-04:00">
+  <state datetime="2014-04-10">REFERRED</state>
+  <status>
+    <introduced datetime="2014-04-10"/>
+  </status>
+  <introduced datetime="2014-04-10"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Immigration and Nationality Act to repeal the sunset of the special immigrant nonminister religious worker program.</title>
+  </titles>
+  <sponsor thomas_id="01634"/>
+  <cosponsors>
+    <cosponsor thomas_id="01970" joined="2014-06-20"/>
+    <cosponsor thomas_id="01857" joined="2014-04-10"/>
+    <cosponsor thomas_id="00355" joined="2014-07-24"/>
+    <cosponsor thomas_id="02122" joined="2014-05-09"/>
+    <cosponsor thomas_id="00478" joined="2014-04-28"/>
+    <cosponsor thomas_id="02149" joined="2014-06-20"/>
+    <cosponsor thomas_id="02199" joined="2014-04-28"/>
+    <cosponsor thomas_id="01846" joined="2014-04-10"/>
+    <cosponsor thomas_id="00701" joined="2014-04-10"/>
+    <cosponsor thomas_id="02111" joined="2014-04-10"/>
+    <cosponsor thomas_id="01504" joined="2014-04-28"/>
+    <cosponsor thomas_id="01832" joined="2014-05-08"/>
+    <cosponsor thomas_id="02148" joined="2014-04-10"/>
+    <cosponsor thomas_id="00832" joined="2014-04-10"/>
+    <cosponsor thomas_id="02113" joined="2014-04-10"/>
+    <cosponsor thomas_id="01756" joined="2014-07-24"/>
+    <cosponsor thomas_id="01588" joined="2014-04-28"/>
+    <cosponsor thomas_id="01920" joined="2014-06-20"/>
+    <cosponsor thomas_id="02104" joined="2014-04-28"/>
+    <cosponsor thomas_id="02166" joined="2014-05-08"/>
+    <cosponsor thomas_id="01188" joined="2014-06-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-04-10" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2014-06-09">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Immigration and Border Security" code="HSJU01" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="15"/>
+    <bill type="s" session="113" relation="unknown" number="744"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Foreign labor"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Religion"/>
+    <term name="Visas and passports"/>
+  </subjects>
+  <amendments/>
+  <summary>4/10/2014--Introduced.
+Amends the Immigration and Nationality Act to make the special immigrant non-minister religious worker program permanent.</summary>
+</bill>

@@ -1,0 +1,46 @@
+<bill session="113" type="s" number="720" updated="2014-08-14T13:50:53-04:00">
+  <state datetime="2013-04-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-15"/>
+  </status>
+  <introduced datetime="2013-04-15"/>
+  <titles>
+    <title type="short" as="introduced">Buffett Rule Act of 2013</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to provide for taxpayers making donations with their returns of income tax to the Federal Government to pay down the public debt.</title>
+  </titles>
+  <sponsor thomas_id="01534"/>
+  <cosponsors>
+    <cosponsor thomas_id="01881" joined="2013-04-15"/>
+    <cosponsor thomas_id="01687" joined="2013-04-15"/>
+    <cosponsor thomas_id="01692" joined="2013-04-16"/>
+    <cosponsor thomas_id="00250" joined="2013-04-15"/>
+    <cosponsor thomas_id="01542" joined="2013-04-15"/>
+    <cosponsor thomas_id="00457" joined="2013-04-15"/>
+    <cosponsor thomas_id="01351" joined="2013-04-16"/>
+    <cosponsor thomas_id="01863" joined="2013-04-18"/>
+    <cosponsor thomas_id="01608" joined="2013-04-16"/>
+    <cosponsor thomas_id="01395" joined="2013-04-15"/>
+    <cosponsor thomas_id="00924" joined="2013-04-15"/>
+    <cosponsor thomas_id="00968" joined="2013-04-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-15" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="1336"/>
+    <bill type="h" session="113" relation="identical" number="1571"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <summary>4/15/2013--Introduced.
+Buffett Rule Act of 2013 - Amends the Internal Revenue Code to allow taxpayers to donate an amount (not less than $1), in addition to any tax owed, which shall be deposited in the general fund of the Treasury and transferred to an account used to reduce the public debt.&#160; Requires such donation to be designated on&#160;a taxpayer's income tax return at the time such return is filed.</summary>
+</bill>

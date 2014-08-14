@@ -1,0 +1,69 @@
+<bill session="113" type="hr" number="522" updated="2014-08-14T12:49:03-04:00">
+  <state datetime="2014-03-14">REFERRED</state>
+  <status>
+    <introduced datetime="2014-03-14"/>
+  </status>
+  <introduced datetime="2014-03-14"/>
+  <titles>
+    <title type="official" as="introduced">Expressing support for designation of September 2014 as "National Brain Aneurysm Awareness Month".</title>
+  </titles>
+  <sponsor thomas_id="01664"/>
+  <cosponsors>
+    <cosponsor thomas_id="00091" joined="2014-05-07"/>
+    <cosponsor thomas_id="01469" joined="2014-05-13"/>
+    <cosponsor thomas_id="01564" joined="2014-07-14"/>
+    <cosponsor thomas_id="01959" joined="2014-05-07"/>
+    <cosponsor thomas_id="00316" joined="2014-05-28"/>
+    <cosponsor thomas_id="00371" joined="2014-05-13"/>
+    <cosponsor thomas_id="01797" joined="2014-05-07"/>
+    <cosponsor thomas_id="00462" joined="2014-05-07"/>
+    <cosponsor thomas_id="01913" joined="2014-07-29"/>
+    <cosponsor thomas_id="01634" joined="2014-04-28"/>
+    <cosponsor thomas_id="02154" joined="2014-05-07"/>
+    <cosponsor thomas_id="02025" joined="2014-05-13"/>
+    <cosponsor thomas_id="02172" joined="2014-05-07"/>
+    <cosponsor thomas_id="02169" joined="2014-07-30"/>
+    <cosponsor thomas_id="00635" joined="2014-05-13"/>
+    <cosponsor thomas_id="01675" joined="2014-07-25"/>
+    <cosponsor thomas_id="00666" joined="2014-05-07"/>
+    <cosponsor thomas_id="00683" joined="2014-07-22"/>
+    <cosponsor thomas_id="00729" joined="2014-05-15"/>
+    <cosponsor thomas_id="01503" joined="2014-07-14"/>
+    <cosponsor thomas_id="01504" joined="2014-05-15"/>
+    <cosponsor thomas_id="02130" joined="2014-07-22"/>
+    <cosponsor thomas_id="01685" joined="2014-07-17"/>
+    <cosponsor thomas_id="00832" joined="2014-05-07"/>
+    <cosponsor thomas_id="00854" joined="2014-03-14"/>
+    <cosponsor thomas_id="00912" joined="2014-05-07"/>
+    <cosponsor thomas_id="01861" joined="2014-05-15"/>
+    <cosponsor thomas_id="01593" joined="2014-05-13"/>
+    <cosponsor thomas_id="02019" joined="2014-05-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-03-14" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2014-03-21">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="sr" session="113" relation="unknown" number="353"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Cardiovascular and respiratory health"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Medical research"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Neurological disorders"/>
+  </subjects>
+  <amendments/>
+  <summary>3/14/2014--Introduced.
+Expresses support for: (1) the designation of National Brain Aneurysm Awareness Month; and (2) research to prevent, detect, and treat brain aneurysms.</summary>
+</bill>

@@ -1,0 +1,26 @@
+<bill session="113" type="h" number="5282" updated="2014-08-14T13:36:34-04:00">
+  <state datetime="2014-07-30">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-30"/>
+  </status>
+  <introduced datetime="2014-07-30"/>
+  <titles>
+    <title type="short" as="introduced">Medgar Wiley Evers Congressional Gold Medal Act</title>
+    <title type="official" as="introduced">To award posthumously a Congressional Gold Medal to Medgar Wiley Evers, in recognition of his contributions and ultimate sacrifice in the fight for racial equality in the United States.</title>
+  </titles>
+  <sponsor thomas_id="01933"/>
+  <cosponsors>
+    <cosponsor thomas_id="01151" joined="2014-07-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-30" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

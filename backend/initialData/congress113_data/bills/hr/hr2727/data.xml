@@ -1,0 +1,52 @@
+<bill session="113" type="h" number="2727" updated="2014-08-14T13:14:42-04:00">
+  <state datetime="2013-07-18">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-18"/>
+  </status>
+  <introduced datetime="2013-07-18"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Land and Water Conservation Fund Act of 1965 to provide that not less than 40 percent of amounts available from the fund under that Act shall be available for the Land and Water Conservation Fund State Assistance Program.</title>
+  </titles>
+  <sponsor thomas_id="02074"/>
+  <cosponsors>
+    <cosponsor thomas_id="00021" joined="2013-10-03"/>
+    <cosponsor thomas_id="02107" joined="2013-10-04"/>
+    <cosponsor thomas_id="01790" joined="2014-07-24"/>
+    <cosponsor thomas_id="01836" joined="2013-08-02"/>
+    <cosponsor thomas_id="02057" joined="2013-11-15"/>
+    <cosponsor thomas_id="02058" joined="2013-12-10"/>
+    <cosponsor thomas_id="01803" joined="2014-01-07"/>
+    <cosponsor thomas_id="00462" joined="2013-07-18"/>
+    <cosponsor thomas_id="00612" joined="2014-04-07"/>
+    <cosponsor thomas_id="02111" joined="2013-07-18"/>
+    <cosponsor thomas_id="01960" joined="2013-07-18"/>
+    <cosponsor thomas_id="01504" joined="2014-04-07"/>
+    <cosponsor thomas_id="01505" joined="2014-06-09"/>
+    <cosponsor thomas_id="02160" joined="2014-07-14"/>
+    <cosponsor thomas_id="01688" joined="2013-11-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-18" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-07-25">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Public Lands and Environmental Regulation" code="HSII10" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Appropriations"/>
+    <term name="Land transfers"/>
+    <term name="Land use and conservation"/>
+    <term name="Outdoor recreation"/>
+    <term name="Parks, recreation areas, trails"/>
+  </subjects>
+  <amendments/>
+  <summary>7/18/2013--Introduced.
+Amends the Land and Water Conservation Fund Act of 1965 to require that the comprehensive statement of estimated requirements submitted with the annual U.S. budget specify that not less than 40% of appropriations from the Land and Water Conservation Fund be made available for the Land and Water Conservation Fund State Assistance Program.</summary>
+</bill>

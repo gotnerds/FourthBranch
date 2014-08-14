@@ -1,0 +1,40 @@
+<bill session="113" type="h" number="4873" updated="2014-08-14T13:33:02-04:00">
+  <state datetime="2014-06-19">REPORTED</state>
+  <status>
+    <unknown datetime="2014-06-19"/>
+  </status>
+  <introduced datetime="2014-06-17"/>
+  <titles>
+    <title type="short" as="introduced">Cabin Fee Act of 2014</title>
+    <title type="official" as="introduced">To modify the Forest Service Recreation Residence Program as the program applies to units of the National Forest System derived from the public domain by implementing a simple, equitable, and predictable procedure for determining cabin user fees, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00512"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-06-17" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2014-06-19">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-06-19" state="REPORTED">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1341"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Congressional oversight"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Land use and conservation"/>
+    <term name="Licensing and registrations"/>
+    <term name="Outdoor recreation"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+</bill>

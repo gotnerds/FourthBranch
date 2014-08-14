@@ -1,0 +1,102 @@
+<bill session="113" type="h" number="1154" updated="2014-08-14T13:00:31-04:00">
+  <state datetime="2013-03-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-14"/>
+  </status>
+  <introduced datetime="2013-03-14"/>
+  <titles>
+    <title type="short" as="introduced">BREATHE Act</title>
+    <title type="short" as="introduced">Bringing Reductions to Energy's Airborne Toxic Health Effects Act</title>
+    <title type="official" as="introduced">To amend the Clean Air Act to eliminate the exemption for aggregation of emissions from oil and gas sources, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01910"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2013-07-31"/>
+    <cosponsor thomas_id="00099" joined="2013-03-14"/>
+    <cosponsor thomas_id="01471" joined="2013-11-15"/>
+    <cosponsor thomas_id="01564" joined="2013-03-14"/>
+    <cosponsor thomas_id="02159" joined="2013-03-14"/>
+    <cosponsor thomas_id="01970" joined="2013-03-14"/>
+    <cosponsor thomas_id="01864" joined="2013-06-03"/>
+    <cosponsor thomas_id="01878" joined="2013-04-11"/>
+    <cosponsor thomas_id="01959" joined="2013-03-14"/>
+    <cosponsor thomas_id="00256" joined="2013-04-24"/>
+    <cosponsor thomas_id="01641" joined="2013-10-15"/>
+    <cosponsor thomas_id="00279" joined="2013-04-25"/>
+    <cosponsor thomas_id="01894" joined="2013-03-14"/>
+    <cosponsor thomas_id="01857" joined="2013-03-14"/>
+    <cosponsor thomas_id="00355" joined="2013-04-25"/>
+    <cosponsor thomas_id="00368" joined="2013-03-14"/>
+    <cosponsor thomas_id="01914" joined="2013-05-09"/>
+    <cosponsor thomas_id="01708" joined="2013-03-14"/>
+    <cosponsor thomas_id="00511" joined="2013-03-14"/>
+    <cosponsor thomas_id="01580" joined="2013-03-14"/>
+    <cosponsor thomas_id="01634" joined="2013-03-14"/>
+    <cosponsor thomas_id="02101" joined="2013-03-14"/>
+    <cosponsor thomas_id="00599" joined="2013-05-20"/>
+    <cosponsor thomas_id="02025" joined="2013-03-14"/>
+    <cosponsor thomas_id="02145" joined="2013-06-05"/>
+    <cosponsor thomas_id="01668" joined="2013-03-14"/>
+    <cosponsor thomas_id="01501" joined="2013-03-14"/>
+    <cosponsor thomas_id="00688" joined="2014-01-27"/>
+    <cosponsor thomas_id="00701" joined="2013-03-14"/>
+    <cosponsor thomas_id="02111" joined="2013-03-14"/>
+    <cosponsor thomas_id="00709" joined="2013-03-14"/>
+    <cosponsor thomas_id="01943" joined="2014-02-05"/>
+    <cosponsor thomas_id="00729" joined="2013-03-14"/>
+    <cosponsor thomas_id="00766" joined="2013-03-14"/>
+    <cosponsor thomas_id="01504" joined="2013-06-03"/>
+    <cosponsor thomas_id="02148" joined="2013-03-14"/>
+    <cosponsor thomas_id="00832" joined="2013-03-14"/>
+    <cosponsor thomas_id="00850" joined="2013-03-14"/>
+    <cosponsor thomas_id="01602" joined="2013-09-10"/>
+    <cosponsor thomas_id="00868" joined="2013-03-14"/>
+    <cosponsor thomas_id="01929" joined="2013-03-14"/>
+    <cosponsor thomas_id="02113" joined="2013-05-15"/>
+    <cosponsor thomas_id="01927" joined="2013-03-14"/>
+    <cosponsor thomas_id="02171" joined="2013-03-14"/>
+    <cosponsor thomas_id="00930" joined="2013-03-14"/>
+    <cosponsor thomas_id="01967" joined="2013-03-14"/>
+    <cosponsor thomas_id="00944" joined="2013-03-15"/>
+    <cosponsor thomas_id="01854" joined="2013-03-14"/>
+    <cosponsor thomas_id="01588" joined="2013-03-14"/>
+    <cosponsor thomas_id="01635" joined="2014-05-02"/>
+    <cosponsor thomas_id="01798" joined="2013-06-13"/>
+    <cosponsor thomas_id="01037" joined="2014-05-02"/>
+    <cosponsor thomas_id="01861" joined="2013-06-04"/>
+    <cosponsor thomas_id="01069" joined="2013-03-14"/>
+    <cosponsor thomas_id="01528" joined="2013-03-14"/>
+    <cosponsor thomas_id="02104" joined="2014-05-02"/>
+    <cosponsor thomas_id="02110" joined="2013-03-18"/>
+    <cosponsor thomas_id="01942" joined="2013-03-14"/>
+    <cosponsor thomas_id="01884" joined="2013-03-14"/>
+    <cosponsor thomas_id="01729" joined="2013-03-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-14" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-03-15">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Energy and Power" code="HSIF03" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Air quality"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Oil and gas"/>
+  </subjects>
+  <amendments/>
+  <summary>3/14/2013--Introduced.
+Bringing Reductions to Energy's Airborne Toxic Health Effects Act or the BREATHE Act - Amends the Clean Air Act to repeal prohibitions against: (1) aggregating emissions from any oil or gas exploration or production well and emissions from any pipeline compressor or pump station with emissions from other similar units, whether or not such units are in a contiguous area or under common control, to determine whether such units or stations are major sources of listed toxic air pollutants under such Act; (2) aggregating such emissions for any purpose under such Act, in the case of any oil or gas exploration or production well; and (3) the Administrator of the Environmental Protection Agency (EPA) listing an oil and gas production well as an area source category of toxic air pollutants under such Act.
+
+Requires the Administrator to: (1) issue a final rule adding hydrogen sulfide to the list of hazardous air pollutants; and (2) revise such list within 365 days after issuing such rule to include categories and subcategories of major sources and area sources of hydrogen sulfide, including oil and gas wells.</summary>
+</bill>

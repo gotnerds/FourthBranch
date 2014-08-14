@@ -1,0 +1,40 @@
+<bill session="113" type="s" number="2061" updated="2014-08-14T14:02:28-04:00">
+  <state datetime="2014-06-25">REPORTED</state>
+  <status>
+    <unknown datetime="2014-06-25"/>
+  </status>
+  <introduced datetime="2014-02-27"/>
+  <titles>
+    <title type="short" as="introduced">Preventing Conflicts of Interest with Contractors Act</title>
+    <title type="official" as="introduced">A bill to prevent conflicts of interest relating to contractors providing background investigation fieldwork services and investigative support services.</title>
+  </titles>
+  <sponsor thomas_id="01829"/>
+  <cosponsors>
+    <cosponsor thomas_id="01898" joined="2014-02-27"/>
+    <cosponsor thomas_id="01820" joined="2014-02-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-02-27" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar datetime="2014-06-25" state="REPORTED">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Office of Personnel Management (OPM)"/>
+    <term name="Performance measurement"/>
+    <term name="Personnel records"/>
+    <term name="Public contracts and procurement"/>
+  </subjects>
+  <amendments/>
+  <summary>2/27/2014--Introduced.
+Preventing Conflicts of Interest with Contractors Act - Prohibits the Director of the Office of Personnel Management (OPM) from awarding a contract to an entity to conduct quality review processes for background investigation fieldwork services or background investigation support services that are being conducted by such entity as of the date of the contract.</summary>
+</bill>

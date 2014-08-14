@@ -1,0 +1,78 @@
+<bill session="113" type="sc" number="33" updated="2014-08-14T13:44:42-04:00">
+  <state datetime="2014-04-09">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2014-04-09"/>
+  </status>
+  <introduced datetime="2014-02-27"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution celebrating the 100th anniversary of the enactment of the Smith-Lever Act, which established the nationwide Cooperative Extension System.</title>
+  </titles>
+  <sponsor thomas_id="01531"/>
+  <cosponsors>
+    <cosponsor thomas_id="01898" joined="2014-04-09"/>
+    <cosponsor thomas_id="01464" joined="2014-03-12"/>
+    <cosponsor thomas_id="01687" joined="2014-03-12"/>
+    <cosponsor thomas_id="00136" joined="2014-03-12"/>
+    <cosponsor thomas_id="00188" joined="2014-03-12"/>
+    <cosponsor thomas_id="00213" joined="2014-02-27"/>
+    <cosponsor thomas_id="01850" joined="2014-03-12"/>
+    <cosponsor thomas_id="00457" joined="2014-03-13"/>
+    <cosponsor thomas_id="02174" joined="2014-03-12"/>
+    <cosponsor thomas_id="02079" joined="2014-03-12"/>
+    <cosponsor thomas_id="01899" joined="2014-03-12"/>
+    <cosponsor thomas_id="01383" joined="2014-04-03"/>
+    <cosponsor thomas_id="01384" joined="2014-04-09"/>
+    <cosponsor thomas_id="01395" joined="2014-03-13"/>
+    <cosponsor thomas_id="01694" joined="2014-04-07"/>
+    <cosponsor thomas_id="01701" joined="2014-03-12"/>
+    <cosponsor thomas_id="00968" joined="2014-03-12"/>
+    <cosponsor thomas_id="01534" joined="2014-03-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-02-27" state="REFERRED">
+      <text>Referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+      <reference ref="CR S1239" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2014-04-09">
+      <text>Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent.</text>
+      <reference ref="CR S2330" label="consideration"/>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2014-04-09" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2014-04-10T09:44:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2014-04-10">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2014-04-10T10:17:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill type="hc" session="113" relation="unknown" number="86"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural education"/>
+    <term name="Congressional tributes"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Higher education"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+    <term name="Teaching, teachers, curricula"/>
+  </subjects>
+  <amendments/>
+  <summary>4/9/2014--Passed Senate without amendment.
+Recognizes the significance of the Smith-Lever Act which established the Cooperative Extension System.
+
+ Honors the university faculty and local educators who provide educational programs to help people, families, youth, businesses, and communities solve problems, develop skills, and build a better future.
+
+ Thanks the volunteers who promote excellence for 4-H Clubs, the Master Gardeners program, the Family and Consumer Sciences program, and other Cooperative Extension System programs.
+
+ Encourages continued collaboration and cooperation among federal, state, and local governments to assure the sustainability of the Cooperative Extension System.</summary>
+</bill>

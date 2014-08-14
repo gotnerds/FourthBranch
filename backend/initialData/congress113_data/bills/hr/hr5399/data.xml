@@ -1,0 +1,32 @@
+<bill session="113" type="h" number="5399" updated="2014-08-14T13:37:33-04:00">
+  <state datetime="2014-08-01">REFERRED</state>
+  <status>
+    <introduced datetime="2014-08-01"/>
+  </status>
+  <introduced datetime="2014-08-01"/>
+  <titles>
+    <title type="official" as="introduced">To modify the grace period prior to the repayment period for certain Federal direct loans and to exclude from Federal income taxation certain employer-provided student loan assistance.</title>
+  </titles>
+  <sponsor thomas_id="02113"/>
+  <cosponsors>
+    <cosponsor thomas_id="02112" joined="2014-08-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-08-01" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-08-01">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2014-08-01">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

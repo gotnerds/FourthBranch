@@ -1,0 +1,61 @@
+<bill session="113" type="sr" number="348" updated="2014-08-14T13:42:47-04:00">
+  <state datetime="2014-02-06">REFERRED</state>
+  <status>
+    <introduced datetime="2014-02-06"/>
+  </status>
+  <introduced datetime="2014-02-06"/>
+  <titles>
+    <title type="official" as="introduced">A resolution expressing support for the internal rebuilding, resettlement, and reconciliation within Sri Lanka that are necessary to ensure a lasting peace.</title>
+  </titles>
+  <sponsor thomas_id="00153"/>
+  <cosponsors>
+    <cosponsor thomas_id="00116" joined="2014-02-06"/>
+    <cosponsor thomas_id="00136" joined="2014-02-06"/>
+    <cosponsor thomas_id="00174" joined="2014-03-10"/>
+    <cosponsor thomas_id="01828" joined="2014-02-06"/>
+    <cosponsor thomas_id="01984" joined="2014-03-24"/>
+    <cosponsor thomas_id="01692" joined="2014-02-06"/>
+    <cosponsor thomas_id="02175" joined="2014-02-25"/>
+    <cosponsor thomas_id="00326" joined="2014-03-11"/>
+    <cosponsor thomas_id="01866" joined="2014-02-24"/>
+    <cosponsor thomas_id="01383" joined="2014-02-06"/>
+    <cosponsor thomas_id="00735" joined="2014-02-12"/>
+    <cosponsor thomas_id="00802" joined="2014-03-12"/>
+    <cosponsor thomas_id="01837" joined="2014-03-05"/>
+    <cosponsor thomas_id="00924" joined="2014-02-25"/>
+    <cosponsor thomas_id="02182" joined="2014-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-02-06" state="REFERRED">
+      <text>Referred to the Committee on Foreign Relations.</text>
+      <reference ref="CR S825" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Asia"/>
+    <term name="Congressional tributes"/>
+    <term name="Detention of persons"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Human rights"/>
+    <term name="International organizations and cooperation"/>
+    <term name="News media and reporting"/>
+    <term name="Rule of law and government transparency"/>
+    <term name="Sri Lanka"/>
+    <term name="United Nations"/>
+    <term name="War crimes, genocide, crimes against humanity"/>
+  </subjects>
+  <amendments/>
+  <summary>2/6/2014--Introduced.
+Commends the U.S. representatives on their leadership on United Nations Human Rights Council Resolution (UNHRC) 22/1 which promotes reconciliation and accountability in Sri Lanka.
+
+ Calls on the United States and the international community to establish an independent international accountability mechanism to evaluate reports of war crimes and other human rights violations committed by both sides during and after the war in Sri Lanka.
+
+Urges the Government of Sri Lanka to: (1) allow access for media, international aid agencies, and human rights groups into all regions of the country and to detention sites; and (2) end its media restrictions.
+
+Calls upon the President to develop a comprehensive policy towards Sri Lanka that reflects U.S. interests, including respect for human rights, democracy and the rule of law, economic interests, and security interests.</summary>
+</bill>

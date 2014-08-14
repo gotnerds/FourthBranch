@@ -1,0 +1,134 @@
+<bill session="113" type="hr" number="282" updated="2014-08-14T12:47:02-04:00">
+  <state datetime="2013-06-27">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-27"/>
+  </status>
+  <introduced datetime="2013-06-27"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the House of Representatives on Nelson Mandela International Day.</title>
+  </titles>
+  <sponsor thomas_id="00688"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2013-06-27"/>
+    <cosponsor thomas_id="02153" joined="2013-06-27"/>
+    <cosponsor thomas_id="02102" joined="2013-07-18"/>
+    <cosponsor thomas_id="00091" joined="2013-06-27"/>
+    <cosponsor thomas_id="01723" joined="2013-06-27"/>
+    <cosponsor thomas_id="01469" joined="2013-06-28"/>
+    <cosponsor thomas_id="01845" joined="2013-06-27"/>
+    <cosponsor thomas_id="00132" joined="2013-06-27"/>
+    <cosponsor thomas_id="01471" joined="2013-07-08"/>
+    <cosponsor thomas_id="02107" joined="2013-07-17"/>
+    <cosponsor thomas_id="01889" joined="2013-06-27"/>
+    <cosponsor thomas_id="02159" joined="2013-06-27"/>
+    <cosponsor thomas_id="01474" joined="2013-06-27"/>
+    <cosponsor thomas_id="02055" joined="2013-06-27"/>
+    <cosponsor thomas_id="01864" joined="2013-06-27"/>
+    <cosponsor thomas_id="01654" joined="2013-07-17"/>
+    <cosponsor thomas_id="01790" joined="2013-06-28"/>
+    <cosponsor thomas_id="01878" joined="2013-06-27"/>
+    <cosponsor thomas_id="00229" joined="2013-06-27"/>
+    <cosponsor thomas_id="01774" joined="2013-06-27"/>
+    <cosponsor thomas_id="01604" joined="2013-06-27"/>
+    <cosponsor thomas_id="00256" joined="2013-06-27"/>
+    <cosponsor thomas_id="01477" joined="2013-06-28"/>
+    <cosponsor thomas_id="00279" joined="2013-06-27"/>
+    <cosponsor thomas_id="01479" joined="2013-06-27"/>
+    <cosponsor thomas_id="00281" joined="2013-06-27"/>
+    <cosponsor thomas_id="00299" joined="2013-07-17"/>
+    <cosponsor thomas_id="00303" joined="2013-06-28"/>
+    <cosponsor thomas_id="01894" joined="2013-06-28"/>
+    <cosponsor thomas_id="01857" joined="2013-06-27"/>
+    <cosponsor thomas_id="02125" joined="2013-06-27"/>
+    <cosponsor thomas_id="02114" joined="2013-06-28"/>
+    <cosponsor thomas_id="02119" joined="2013-07-09"/>
+    <cosponsor thomas_id="01895" joined="2013-07-09"/>
+    <cosponsor thomas_id="01708" joined="2013-06-28"/>
+    <cosponsor thomas_id="00478" joined="2013-06-28"/>
+    <cosponsor thomas_id="02089" joined="2013-06-27"/>
+    <cosponsor thomas_id="00511" joined="2013-06-27"/>
+    <cosponsor thomas_id="01490" joined="2013-07-17"/>
+    <cosponsor thomas_id="01634" joined="2013-06-28"/>
+    <cosponsor thomas_id="02147" joined="2013-06-27"/>
+    <cosponsor thomas_id="02101" joined="2013-07-18"/>
+    <cosponsor thomas_id="00588" joined="2013-06-27"/>
+    <cosponsor thomas_id="01921" joined="2013-07-17"/>
+    <cosponsor thomas_id="00599" joined="2013-06-27"/>
+    <cosponsor thomas_id="01843" joined="2013-06-27"/>
+    <cosponsor thomas_id="02190" joined="2013-06-27"/>
+    <cosponsor thomas_id="02134" joined="2013-06-27"/>
+    <cosponsor thomas_id="01668" joined="2013-07-17"/>
+    <cosponsor thomas_id="01583" joined="2013-07-17"/>
+    <cosponsor thomas_id="01501" joined="2013-06-27"/>
+    <cosponsor thomas_id="02111" joined="2013-06-28"/>
+    <cosponsor thomas_id="00729" joined="2013-06-27"/>
+    <cosponsor thomas_id="01653" joined="2013-06-27"/>
+    <cosponsor thomas_id="00766" joined="2013-06-28"/>
+    <cosponsor thomas_id="01504" joined="2013-06-27"/>
+    <cosponsor thomas_id="01506" joined="2013-06-27"/>
+    <cosponsor thomas_id="02148" joined="2013-06-27"/>
+    <cosponsor thomas_id="01811" joined="2013-06-27"/>
+    <cosponsor thomas_id="00832" joined="2013-06-28"/>
+    <cosponsor thomas_id="00850" joined="2013-06-27"/>
+    <cosponsor thomas_id="01602" joined="2013-07-17"/>
+    <cosponsor thomas_id="00868" joined="2013-06-27"/>
+    <cosponsor thomas_id="01510" joined="2013-06-28"/>
+    <cosponsor thomas_id="02097" joined="2013-06-27"/>
+    <cosponsor thomas_id="01927" joined="2013-06-28"/>
+    <cosponsor thomas_id="00930" joined="2013-06-27"/>
+    <cosponsor thomas_id="00944" joined="2013-06-27"/>
+    <cosponsor thomas_id="02023" joined="2013-06-27"/>
+    <cosponsor thomas_id="01003" joined="2013-06-27"/>
+    <cosponsor thomas_id="01757" joined="2013-06-27"/>
+    <cosponsor thomas_id="01588" joined="2013-06-28"/>
+    <cosponsor thomas_id="01635" joined="2013-06-27"/>
+    <cosponsor thomas_id="01920" joined="2013-06-27"/>
+    <cosponsor thomas_id="01798" joined="2013-07-17"/>
+    <cosponsor thomas_id="01818" joined="2013-07-09"/>
+    <cosponsor thomas_id="01069" joined="2013-06-28"/>
+    <cosponsor thomas_id="01528" joined="2013-06-28"/>
+    <cosponsor thomas_id="01890" joined="2013-06-27"/>
+    <cosponsor thomas_id="01151" joined="2013-06-27"/>
+    <cosponsor thomas_id="01942" joined="2013-06-27"/>
+    <cosponsor thomas_id="01729" joined="2013-07-17"/>
+    <cosponsor thomas_id="02166" joined="2013-06-28"/>
+    <cosponsor thomas_id="01777" joined="2013-06-28"/>
+    <cosponsor thomas_id="01205" joined="2013-06-28"/>
+    <cosponsor thomas_id="01207" joined="2013-06-27"/>
+    <cosponsor thomas_id="02004" joined="2013-06-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-27" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2013-07-09">
+      <text>Referred to the Subcommittee on Africa, Global Health, Global Human Rights and International Organizations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee subcommittee="Africa, Global Health, Global Human Rights and International Organizations" code="HSFA16" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Africa"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Human rights"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Political movements and philosophies"/>
+    <term name="South Africa"/>
+    <term name="United Nations"/>
+  </subjects>
+  <amendments/>
+  <summary>6/27/2013--Introduced.
+Applauds the U.N. General Assembly for honoring President Mandela's contribution to international peace and freedom.
+
+ Recognizes the global impact of President Mandela's legacy and commitment to nonviolence, respect, and dialogue.
+
+ Supports the international community's recognition of Nelson Mandela International Day.
+
+ Urges all U.S. citizens to reflect on the importance of peace, tolerance, democracy, human rights, and reconciliation in honor of Nelson Mandela International Day.</summary>
+</bill>

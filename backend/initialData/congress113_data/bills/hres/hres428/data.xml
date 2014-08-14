@@ -1,0 +1,46 @@
+<bill session="113" type="hr" number="428" updated="2014-08-14T12:48:16-04:00">
+  <state datetime="2013-12-02">REFERRED</state>
+  <status>
+    <introduced datetime="2013-12-02"/>
+  </status>
+  <introduced datetime="2013-12-02"/>
+  <titles>
+    <title type="official" as="introduced">Urging the president to release information regarding the September 11, 2001, terrorist attacks upon the United States.</title>
+  </titles>
+  <sponsor thomas_id="00612"/>
+  <cosponsors>
+    <cosponsor thomas_id="01882" joined="2014-03-13"/>
+    <cosponsor thomas_id="00322" joined="2014-07-31"/>
+    <cosponsor thomas_id="02041" joined="2014-01-31"/>
+    <cosponsor thomas_id="00511" joined="2014-02-11"/>
+    <cosponsor thomas_id="01686" joined="2013-12-02"/>
+    <cosponsor thomas_id="02094" joined="2014-02-04"/>
+    <cosponsor thomas_id="00944" joined="2014-07-24"/>
+    <cosponsor thomas_id="00979" joined="2014-01-31"/>
+    <cosponsor thomas_id="01114" joined="2014-02-05"/>
+    <cosponsor thomas_id="02115" joined="2014-07-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-12-02" state="REFERRED">
+      <text>Referred to the House Committee on Intelligence (Permanent Select).</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HLIG" name="House Intelligence (Permanent Select)" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Crime victims"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="New York City"/>
+    <term name="Pennsylvania"/>
+    <term name="Terrorism"/>
+    <term name="Virginia"/>
+  </subjects>
+  <amendments/>
+  <summary>12/2/2013--Introduced.
+Expresses the sense of the House of Representatives that: (1) the President should declassify a 28-page section of the Joint Inquiry into Intelligence Community Activities Before and After the Terrorist Attacks of September 2001, and (2) the families of the victims and the people of the United States deserve answers about the events and circumstances surrounding the September 11, 2001, attacks on the United States.</summary>
+</bill>

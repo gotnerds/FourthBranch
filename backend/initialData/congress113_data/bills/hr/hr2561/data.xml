@@ -1,0 +1,58 @@
+<bill session="113" type="h" number="2561" updated="2014-08-14T13:13:20-04:00">
+  <state datetime="2013-06-27">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-27"/>
+  </status>
+  <introduced datetime="2013-06-27"/>
+  <titles>
+    <title type="short" as="introduced">FAIR Student Credit Act of 2013</title>
+    <title type="short" as="introduced">Federal Adjustment in Reporting Student Credit Act of 2013</title>
+    <title type="official" as="introduced">To provide for the removal of default information from a borrower's credit report with respect to certain rehabilitated education loans.</title>
+  </titles>
+  <sponsor thomas_id="01929"/>
+  <cosponsors>
+    <cosponsor thomas_id="00038" joined="2013-06-27"/>
+    <cosponsor thomas_id="02153" joined="2013-06-27"/>
+    <cosponsor thomas_id="01676" joined="2013-06-27"/>
+    <cosponsor thomas_id="01564" joined="2013-07-23"/>
+    <cosponsor thomas_id="01999" joined="2013-07-23"/>
+    <cosponsor thomas_id="02159" joined="2013-09-12"/>
+    <cosponsor thomas_id="02133" joined="2013-07-23"/>
+    <cosponsor thomas_id="02072" joined="2013-06-28"/>
+    <cosponsor thomas_id="02041" joined="2013-06-27"/>
+    <cosponsor thomas_id="01501" joined="2013-08-02"/>
+    <cosponsor thomas_id="00729" joined="2013-06-27"/>
+    <cosponsor thomas_id="01506" joined="2013-07-23"/>
+    <cosponsor thomas_id="00912" joined="2013-06-27"/>
+    <cosponsor thomas_id="01910" joined="2013-06-27"/>
+    <cosponsor thomas_id="00944" joined="2013-07-23"/>
+    <cosponsor thomas_id="01981" joined="2013-06-27"/>
+    <cosponsor thomas_id="01177" joined="2013-09-25"/>
+    <cosponsor thomas_id="01184" joined="2013-06-27"/>
+    <cosponsor thomas_id="01855" joined="2013-08-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-27" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Congressional oversight"/>
+    <term name="Consumer credit"/>
+    <term name="Government studies and investigations"/>
+    <term name="Higher education"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+  <summary>6/27/2013--Introduced.
+Federal Adjustment in Reporting Student Credit Act of 2013 or the FAIR Student Credit Act of 2013 - Amends the Fair Credit Reporting Act, with respect to the responsibilities of furnishers of information to consumer reporting agencies, to provide for the removal of a previously reported default regarding a qualified education loan from a consumer report if the consumer of the loan meets the requirements of a loan rehabilitation program, where the number of consecutive on-time monthly payments are equal to the number of payments specified in a default reduction program under the Higher Education Act of 1965.
+
+Permits a consumer to obtain such rehabilitation benefits only once per loan.
+
+Requires the Comptroller General (GAO) to report on any hurdles borrowers experience with the private loan rehabilitation program.</summary>
+</bill>

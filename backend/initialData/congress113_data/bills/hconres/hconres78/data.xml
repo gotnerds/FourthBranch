@@ -1,0 +1,53 @@
+<bill session="113" type="hc" number="78" updated="2014-08-14T13:39:15-04:00">
+  <state datetime="2014-01-27">REFERRED</state>
+  <status>
+    <introduced datetime="2014-01-27"/>
+  </status>
+  <introduced datetime="2014-01-27"/>
+  <titles>
+    <title type="official" as="introduced">Recognizing the difficult challenges Black veterans faced when returning home after serving in the Armed Forces, their heroic military sacrifices, and their patriotism in fighting for equal rights and for the dignity of a people and a Nation.</title>
+  </titles>
+  <sponsor thomas_id="02153"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2014-03-24"/>
+    <cosponsor thomas_id="00132" joined="2014-02-03"/>
+    <cosponsor thomas_id="01864" joined="2014-01-27"/>
+    <cosponsor thomas_id="01878" joined="2014-03-04"/>
+    <cosponsor thomas_id="01708" joined="2014-01-27"/>
+    <cosponsor thomas_id="02150" joined="2014-02-03"/>
+    <cosponsor thomas_id="01832" joined="2014-02-18"/>
+    <cosponsor thomas_id="00944" joined="2014-02-10"/>
+    <cosponsor thomas_id="02023" joined="2014-01-27"/>
+    <cosponsor thomas_id="01003" joined="2014-01-27"/>
+    <cosponsor thomas_id="01798" joined="2014-01-27"/>
+    <cosponsor thomas_id="01042" joined="2014-01-28"/>
+    <cosponsor thomas_id="02112" joined="2014-01-28"/>
+    <cosponsor thomas_id="02004" joined="2014-06-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-01-27" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2014-01-28">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Disability Assistance and Memorial Affairs" code="HSVR09" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional tributes"/>
+    <term name="Minority health"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="Veterans' medical care"/>
+    <term name="Veterans' organizations and recognition"/>
+  </subjects>
+  <amendments/>
+  <summary>1/27/2014--Introduced.
+Recognizes the difficult challenges Black veterans faced when returning home after serving in the Armed Forces, their heroic military sacrifices, and their patriotism in fighting for equal rights and for the dignity of a people and a nation.
+
+Recognizes the need for the Department of Veterans Affairs (VA) to continue to work to eliminate any health and benefit disparities for minority veterans.</summary>
+</bill>

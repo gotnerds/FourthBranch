@@ -1,0 +1,169 @@
+{
+  "actions": [
+    {
+      "acted_at": "2013-06-27", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Natural Resources.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2013-07-08", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Public Lands and Environmental Regulation.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-02-26", 
+      "in_committee": null, 
+      "in_subcommittee": null, 
+      "references": [], 
+      "text": "Subcommittee Hearings Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-29", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Subcommittee on Public Lands and Environmental Regulation Discharged.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-29", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-29", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported (Amended) by Unanimous Consent.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-06-30T12:17:00-04:00", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-502.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-30T12:17:00-04:00", 
+      "calendar": "Union", 
+      "number": "375", 
+      "references": [], 
+      "text": "Placed on the Union Calendar, Calendar No. 375.", 
+      "type": "calendar", 
+      "under": null
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr2569-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral", 
+        "hearings", 
+        "discharged"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII", 
+      "subcommittee": "Subcommittee on Public Lands and Environmental Regulation", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-02-26", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2013-06-27", 
+  "number": "2569", 
+  "official_title": "To amend the Wild and Scenic Rivers Act to designate segments of the Missisquoi River and the Trout River in the State of Vermont, as components of the National Wild and Scenic Rivers System.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1252-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1252-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Upper Missisquoi and Trout Wild and Scenic Rivers Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Welch, Peter", 
+    "state": "VT", 
+    "thomas_id": "01879", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2014-05-29", 
+  "subjects": [
+    "Alternative and renewable resources", 
+    "Dams and canals", 
+    "Land transfers", 
+    "Land use and conservation", 
+    "Licensing and registrations", 
+    "Public lands and natural resources", 
+    "Vermont", 
+    "Wilderness and natural areas, wildlife refuges, wild rivers, habitats"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2013-06-27", 
+    "text": "Upper Missisquoi and Trout Wild and Scenic Rivers Act - Amends the Wild and Scenic Rivers Act to designate specified segments of the Missisquoi River and Trout River in Vermont as components of the National Wild and Scenic Rivers System.\n\nRequires the river segments designated by this Act to be managed in accordance with the Upper Missisquoi and Trout Rivers Management Plan and any amendments meeting certain criteria.\n\nRequires the Secretary of the Interior to coordinate the management responsibilities with the Upper Missisquoi and Trout Rivers Wild and Scenic Committee.\n\nDenies that the designation of such segments: (1) precludes the Federal Energy Regulatory Commission (FERC) from licensing, relicensing, or authorizing the operation or continued operation of the Troy Hydroelectric, North Troy, or Enosburg Falls hydroelectric projects; or (2) limits the modernization, upgrade, or other changes to such projects.\n\nProhibits consideration as project works under this Act any resource protection, mitigation, or enhancement measures required by FERC hydropower proceedings. Permits the location of such measures within such segments.\n\n Limits the authority of the Secretary to acquire lands under this Act to acquisition by donation or with the owner's consent, and subject to additional management plan criteria.\n\nBars the Missisquoi and Trout Rivers from being administered as part of the National Park System or being subject to System regulations."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Upper Missisquoi and Trout Wild and Scenic Rivers Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to house", 
+      "is_for_portion": false, 
+      "title": "Upper Missisquoi and Trout Wild and Scenic Rivers Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Wild and Scenic Rivers Act to designate segments of the Missisquoi River and the Trout River in the State of Vermont, as components of the National Wild and Scenic Rivers System.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T13:13:24-04:00"
+}

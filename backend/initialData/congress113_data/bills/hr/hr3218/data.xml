@@ -1,0 +1,65 @@
+<bill session="113" type="h" number="3218" updated="2014-08-14T13:18:52-04:00">
+  <state datetime="2013-09-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-09-28"/>
+  </status>
+  <introduced datetime="2013-09-28"/>
+  <titles>
+    <title type="short" as="introduced">Flood Insurance Fairness Act of 2013</title>
+    <title type="official" as="introduced">To delay increases in flood insurance premium rates under the national flood insurance program until completion of the pending study regarding the affordability of such rates and congressional consideration of reforms to make such rates affordable, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02001"/>
+  <cosponsors>
+    <cosponsor thomas_id="01838" joined="2013-09-28"/>
+    <cosponsor thomas_id="01839" joined="2013-09-28"/>
+    <cosponsor thomas_id="02119" joined="2013-10-11"/>
+    <cosponsor thomas_id="02120" joined="2013-09-28"/>
+    <cosponsor thomas_id="00612" joined="2013-10-16"/>
+    <cosponsor thomas_id="01505" joined="2013-10-11"/>
+    <cosponsor thomas_id="01685" joined="2013-09-28"/>
+    <cosponsor thomas_id="02117" joined="2013-10-23"/>
+    <cosponsor thomas_id="01915" joined="2013-09-28"/>
+    <cosponsor thomas_id="02118" joined="2013-10-11"/>
+    <cosponsor thomas_id="01916" joined="2013-09-28"/>
+    <cosponsor thomas_id="00985" joined="2013-09-28"/>
+    <cosponsor thomas_id="02003" joined="2013-09-28"/>
+    <cosponsor thomas_id="02000" joined="2013-10-11"/>
+    <cosponsor thomas_id="01114" joined="2013-10-16"/>
+    <cosponsor thomas_id="02161" joined="2013-11-12"/>
+    <cosponsor thomas_id="02002" joined="2013-09-28"/>
+    <cosponsor thomas_id="02115" joined="2013-09-28"/>
+    <cosponsor thomas_id="01255" joined="2013-09-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-28" state="REFERRED">
+      <text>Referred to the Committee on Financial Services, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-09-28">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2013-09-28">
+      <text>Referred to House Rules</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee subcommittee="" code="HSRU" name="House Rules" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Congressional oversight"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Floods and storm protection"/>
+    <term name="Government studies and investigations"/>
+    <term name="Insurance industry and regulation"/>
+    <term name="Legislative rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>9/28/2013--Introduced.
+Flood Insurance Fairness Act of 2013 - Prohibits the taking effect of specified flood insurance premium changes under the Biggert-Waters Flood Insurance Reform Act of 2012 and the National Flood Insurance Act of 1968 (which prohibit the estimating of flood insurance premium rates for severe repetitive loss and other specified properties or extending premium subsidies to new or lapsed flood insurance policies, and which also require certain flood insurance risk premium rate adjustments) until 180 days after both chambers of Congress have completed consideration of a qualified joint resolution providing for legislative changes to ensure that risk premium rates for flood insurance coverage under the national flood insurance program are substantially affordable for all homeowners.
+
+Directs the Administrator of the Federal Emergency Management Agency (FEMA) to submit to Congress and make publicly available a determination of whether the risk premium rates for flood insurance coverage under the national flood insurance program resulting from such legislative changes are substantially affordable for all homeowners.
+
+Sets forth procedures for expedited congressional consideration of the proposed joint resolution.</summary>
+</bill>

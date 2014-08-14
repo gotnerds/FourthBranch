@@ -1,0 +1,88 @@
+<bill session="113" type="h" number="320" updated="2014-08-14T12:53:27-04:00">
+  <state datetime="2013-01-18">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-18"/>
+  </status>
+  <introduced datetime="2013-01-18"/>
+  <titles>
+    <title type="short" as="introduced">Student Support Act</title>
+    <title type="official" as="introduced">To amend the Elementary and Secondary Education Act of 1965 to direct the Secretary of Education to make grants to States for assistance in hiring additional school-based mental health and student service providers.</title>
+  </titles>
+  <sponsor thomas_id="01501"/>
+  <cosponsors>
+    <cosponsor thomas_id="02153" joined="2013-04-25"/>
+    <cosponsor thomas_id="00099" joined="2013-05-07"/>
+    <cosponsor thomas_id="01723" joined="2013-02-13"/>
+    <cosponsor thomas_id="02106" joined="2013-02-05"/>
+    <cosponsor thomas_id="02159" joined="2013-03-15"/>
+    <cosponsor thomas_id="01970" joined="2013-01-18"/>
+    <cosponsor thomas_id="01864" joined="2013-02-13"/>
+    <cosponsor thomas_id="01878" joined="2013-03-15"/>
+    <cosponsor thomas_id="01959" joined="2013-05-07"/>
+    <cosponsor thomas_id="00229" joined="2013-01-23"/>
+    <cosponsor thomas_id="01857" joined="2013-02-05"/>
+    <cosponsor thomas_id="02125" joined="2013-02-05"/>
+    <cosponsor thomas_id="02114" joined="2013-03-15"/>
+    <cosponsor thomas_id="02122" joined="2013-02-15"/>
+    <cosponsor thomas_id="01914" joined="2013-09-26"/>
+    <cosponsor thomas_id="01708" joined="2013-01-23"/>
+    <cosponsor thomas_id="01794" joined="2013-02-05"/>
+    <cosponsor thomas_id="01490" joined="2013-02-13"/>
+    <cosponsor thomas_id="01580" joined="2013-02-15"/>
+    <cosponsor thomas_id="00588" joined="2013-02-05"/>
+    <cosponsor thomas_id="00599" joined="2013-01-23"/>
+    <cosponsor thomas_id="01843" joined="2013-01-23"/>
+    <cosponsor thomas_id="00616" joined="2013-01-18"/>
+    <cosponsor thomas_id="00688" joined="2013-02-05"/>
+    <cosponsor thomas_id="01781" joined="2013-10-28"/>
+    <cosponsor thomas_id="01846" joined="2013-02-05"/>
+    <cosponsor thomas_id="02111" joined="2013-02-13"/>
+    <cosponsor thomas_id="01653" joined="2013-05-07"/>
+    <cosponsor thomas_id="01504" joined="2013-02-05"/>
+    <cosponsor thomas_id="01730" joined="2013-02-13"/>
+    <cosponsor thomas_id="00854" joined="2013-07-31"/>
+    <cosponsor thomas_id="02108" joined="2013-09-09"/>
+    <cosponsor thomas_id="00868" joined="2013-01-23"/>
+    <cosponsor thomas_id="02162" joined="2013-04-25"/>
+    <cosponsor thomas_id="02097" joined="2013-03-15"/>
+    <cosponsor thomas_id="01967" joined="2013-02-05"/>
+    <cosponsor thomas_id="00944" joined="2013-01-18"/>
+    <cosponsor thomas_id="00997" joined="2013-02-05"/>
+    <cosponsor thomas_id="01003" joined="2013-01-23"/>
+    <cosponsor thomas_id="01588" joined="2013-03-15"/>
+    <cosponsor thomas_id="01037" joined="2013-02-05"/>
+    <cosponsor thomas_id="01818" joined="2013-02-13"/>
+    <cosponsor thomas_id="01205" joined="2013-02-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-18" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2013-04-23">
+      <text>Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+    <committee subcommittee="Early Childhood, Elementary, and Secondary Education" code="HSED14" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Child health"/>
+    <term name="Education of the disadvantaged"/>
+    <term name="Education programs funding"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Health personnel"/>
+    <term name="Mental health"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+    <term name="Teaching, teachers, curricula"/>
+  </subjects>
+  <amendments/>
+  <summary>1/18/2013--Introduced.
+Student Support Act - Amends the Elementary and Secondary Education Act of 1965 to require the Secretary of Education to make matching grants of at least $1 million to states for allocation to local educational agencies (LEAs) so that additional school-based mental health and student service providers may be hired, thereby reducing the student-to-provider ratios in elementary and secondary schools to specified minimum levels recommended by the leading counseling, guidance, and mental health organizations.
+
+Sets those minimum ratios at: (1) 1 school counselor for every 250 students, (2) 1 school psychologist for every 1,000 students, and (3) 1 school social worker for every 250 students.
+
+Requires grants to states and state allocations to LEAs to be made pursuant to specified formulas that take into account a state's and school district's share of children in poverty.</summary>
+</bill>

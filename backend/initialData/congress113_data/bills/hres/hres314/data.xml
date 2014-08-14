@@ -1,0 +1,54 @@
+<bill session="113" type="hr" number="314" updated="2014-08-14T12:47:18-04:00">
+  <state datetime="2013-07-22">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-22"/>
+  </status>
+  <introduced datetime="2013-07-22"/>
+  <titles>
+    <title type="official" as="introduced">Commending and supporting the United States delegation and the United States Deaf Sports Federation in their representation of the United States at the 2013 Summer Deaflympics in Sofia, Bulgaria.</title>
+  </titles>
+  <sponsor thomas_id="01668"/>
+  <cosponsors>
+    <cosponsor thomas_id="02131" joined="2013-07-23"/>
+    <cosponsor thomas_id="02107" joined="2013-07-22"/>
+    <cosponsor thomas_id="02055" joined="2013-07-22"/>
+    <cosponsor thomas_id="00229" joined="2013-07-22"/>
+    <cosponsor thomas_id="00368" joined="2013-07-22"/>
+    <cosponsor thomas_id="01913" joined="2013-08-01"/>
+    <cosponsor thomas_id="00635" joined="2013-07-22"/>
+    <cosponsor thomas_id="00688" joined="2013-07-22"/>
+    <cosponsor thomas_id="01846" joined="2013-07-22"/>
+    <cosponsor thomas_id="00701" joined="2013-07-24"/>
+    <cosponsor thomas_id="00832" joined="2013-07-22"/>
+    <cosponsor thomas_id="00850" joined="2013-07-22"/>
+    <cosponsor thomas_id="01710" joined="2013-07-22"/>
+    <cosponsor thomas_id="02110" joined="2013-08-02"/>
+    <cosponsor thomas_id="02166" joined="2013-07-31"/>
+    <cosponsor thomas_id="02021" joined="2013-07-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-22">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1112"/>
+    </action>
+    <action datetime="2013-07-22" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Sports and recreation"/>
+    <term name="Athletes"/>
+    <term name="Bulgaria"/>
+    <term name="Congressional tributes"/>
+    <term name="Disability and paralysis"/>
+    <term name="Europe"/>
+    <term name="Olympic games"/>
+  </subjects>
+  <amendments/>
+  <summary>7/22/2013--Introduced.
+Commends the United States Deaf Sports Federation for its efforts in sending athletes, coaches, and support staff to the 2013 Summer Deaflympics in Sofia, Bulgaria. Congratulates the members of the U.S. team representing the United States at the Deaflympics.</summary>
+</bill>

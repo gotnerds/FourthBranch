@@ -1,0 +1,86 @@
+<bill session="113" type="h" number="2030" updated="2014-08-14T13:08:33-04:00">
+  <state datetime="2013-05-16">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-16"/>
+  </status>
+  <introduced datetime="2013-05-16"/>
+  <titles>
+    <title type="short" as="introduced">Stop Deceptive Advertising for Women's Services Act</title>
+    <title type="official" as="introduced">To direct the Federal Trade Commission to prescribe rules prohibiting deceptive advertising of abortion services.</title>
+  </titles>
+  <sponsor thomas_id="00729"/>
+  <cosponsors>
+    <cosponsor thomas_id="02153" joined="2013-10-23"/>
+    <cosponsor thomas_id="02092" joined="2013-05-23"/>
+    <cosponsor thomas_id="01469" joined="2013-05-16"/>
+    <cosponsor thomas_id="01471" joined="2013-05-23"/>
+    <cosponsor thomas_id="01970" joined="2013-05-16"/>
+    <cosponsor thomas_id="01878" joined="2013-07-17"/>
+    <cosponsor thomas_id="01959" joined="2013-05-16"/>
+    <cosponsor thomas_id="00229" joined="2013-05-17"/>
+    <cosponsor thomas_id="01641" joined="2013-06-06"/>
+    <cosponsor thomas_id="00279" joined="2013-11-14"/>
+    <cosponsor thomas_id="01479" joined="2013-05-16"/>
+    <cosponsor thomas_id="00368" joined="2013-05-16"/>
+    <cosponsor thomas_id="02119" joined="2013-06-18"/>
+    <cosponsor thomas_id="01708" joined="2013-05-16"/>
+    <cosponsor thomas_id="02089" joined="2013-05-16"/>
+    <cosponsor thomas_id="01580" joined="2013-06-27"/>
+    <cosponsor thomas_id="02145" joined="2013-06-06"/>
+    <cosponsor thomas_id="01501" joined="2013-06-06"/>
+    <cosponsor thomas_id="00701" joined="2013-06-27"/>
+    <cosponsor thomas_id="02111" joined="2013-05-23"/>
+    <cosponsor thomas_id="01653" joined="2013-06-26"/>
+    <cosponsor thomas_id="01504" joined="2013-06-06"/>
+    <cosponsor thomas_id="01811" joined="2013-05-17"/>
+    <cosponsor thomas_id="00832" joined="2013-05-16"/>
+    <cosponsor thomas_id="00868" joined="2013-05-16"/>
+    <cosponsor thomas_id="02162" joined="2013-06-18"/>
+    <cosponsor thomas_id="02097" joined="2013-06-13"/>
+    <cosponsor thomas_id="00930" joined="2013-06-13"/>
+    <cosponsor thomas_id="01967" joined="2013-07-17"/>
+    <cosponsor thomas_id="00944" joined="2013-05-16"/>
+    <cosponsor thomas_id="01588" joined="2013-05-16"/>
+    <cosponsor thomas_id="01635" joined="2013-05-16"/>
+    <cosponsor thomas_id="01798" joined="2013-09-09"/>
+    <cosponsor thomas_id="01069" joined="2013-05-23"/>
+    <cosponsor thomas_id="01528" joined="2013-09-11"/>
+    <cosponsor thomas_id="02110" joined="2013-07-23"/>
+    <cosponsor thomas_id="01593" joined="2013-07-23"/>
+    <cosponsor thomas_id="01535" joined="2013-06-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-16">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E683"/>
+    </action>
+    <action datetime="2013-05-16" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-05-17">
+      <text>Referred to the Subcommittee on Commerce, Manufacturing, and Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Commerce, Manufacturing, and Trade" code="HSIF17" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="981"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Abortion"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Consumer affairs"/>
+    <term name="Federal Trade Commission (FTC)"/>
+    <term name="Marketing and advertising"/>
+  </subjects>
+  <amendments/>
+  <summary>5/16/2013--Introduced.
+Stop Deceptive Advertising for Women's Services Act - Requires the Federal Trade Commission (FTC) to promulgate rules to prohibit, as an unfair and deceptive act or practice, a person from advertising with the intent to deceptively create the impression that: (1) such person is a provider of abortion services if such person does not provide such services, or (2) such person is not a provider of abortion services if such person does provide such services.
+
+Defines "abortion services" as providing surgical and non-surgical procedures to terminate a pregnancy, or providing referrals for such procedures.
+
+Sets forth the enforcement authority of the FTC, including with respect to nonprofit organizations.</summary>
+</bill>

@@ -1,0 +1,246 @@
+<bill session="113" type="hr" number="36" updated="2014-08-14T12:44:57-04:00">
+  <state datetime="2013-01-18">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-18"/>
+  </status>
+  <introduced datetime="2013-01-18"/>
+  <titles>
+    <title type="official" as="introduced">Establishing a select committee to investigate and report on the attack on the United States consulate in Benghazi, Libya.</title>
+  </titles>
+  <sponsor thomas_id="01238"/>
+  <cosponsors>
+    <cosponsor thomas_id="01460" joined="2013-01-18"/>
+    <cosponsor thomas_id="01727" joined="2013-04-23"/>
+    <cosponsor thomas_id="02029" joined="2013-04-16"/>
+    <cosponsor thomas_id="02090" joined="2013-06-11"/>
+    <cosponsor thomas_id="01858" joined="2013-04-09"/>
+    <cosponsor thomas_id="00038" joined="2014-03-12"/>
+    <cosponsor thomas_id="02054" joined="2013-01-18"/>
+    <cosponsor thomas_id="02131" joined="2013-04-16"/>
+    <cosponsor thomas_id="00062" joined="2013-04-16"/>
+    <cosponsor thomas_id="02027" joined="2013-02-12"/>
+    <cosponsor thomas_id="02135" joined="2013-04-09"/>
+    <cosponsor thomas_id="01838" joined="2013-05-06"/>
+    <cosponsor thomas_id="01753" joined="2013-02-28"/>
+    <cosponsor thomas_id="02063" joined="2013-04-09"/>
+    <cosponsor thomas_id="01748" joined="2013-03-11"/>
+    <cosponsor thomas_id="01703" joined="2013-04-09"/>
+    <cosponsor thomas_id="01787" joined="2013-04-16"/>
+    <cosponsor thomas_id="01468" joined="2013-01-18"/>
+    <cosponsor thomas_id="02155" joined="2013-02-12"/>
+    <cosponsor thomas_id="01987" joined="2013-01-18"/>
+    <cosponsor thomas_id="02129" joined="2013-05-08"/>
+    <cosponsor thomas_id="01882" joined="2013-02-06"/>
+    <cosponsor thomas_id="01840" joined="2013-04-10"/>
+    <cosponsor thomas_id="01751" joined="2013-03-14"/>
+    <cosponsor thomas_id="02197" joined="2014-02-11"/>
+    <cosponsor thomas_id="00165" joined="2013-05-22"/>
+    <cosponsor thomas_id="01816" joined="2013-04-25"/>
+    <cosponsor thomas_id="01676" joined="2013-04-12"/>
+    <cosponsor thomas_id="01752" joined="2013-03-11"/>
+    <cosponsor thomas_id="01925" joined="2013-05-06"/>
+    <cosponsor thomas_id="00186" joined="2013-04-09"/>
+    <cosponsor thomas_id="01912" joined="2013-03-11"/>
+    <cosponsor thomas_id="01742" joined="2013-05-13"/>
+    <cosponsor thomas_id="02151" joined="2013-09-09"/>
+    <cosponsor thomas_id="02121" joined="2013-04-12"/>
+    <cosponsor thomas_id="02103" joined="2013-09-17"/>
+    <cosponsor thomas_id="02098" joined="2013-04-12"/>
+    <cosponsor thomas_id="02144" joined="2013-03-13"/>
+    <cosponsor thomas_id="01989" joined="2013-04-15"/>
+    <cosponsor thomas_id="01643" joined="2013-05-13"/>
+    <cosponsor thomas_id="01670" joined="2013-02-12"/>
+    <cosponsor thomas_id="02138" joined="2013-04-10"/>
+    <cosponsor thomas_id="01995" joined="2014-02-04"/>
+    <cosponsor thomas_id="01799" joined="2013-04-26"/>
+    <cosponsor thomas_id="02116" joined="2013-03-19"/>
+    <cosponsor thomas_id="02062" joined="2013-02-28"/>
+    <cosponsor thomas_id="01717" joined="2013-12-10"/>
+    <cosponsor thomas_id="02072" joined="2013-05-13"/>
+    <cosponsor thomas_id="02057" joined="2013-01-18"/>
+    <cosponsor thomas_id="00322" joined="2013-08-01"/>
+    <cosponsor thomas_id="02067" joined="2013-04-09"/>
+    <cosponsor thomas_id="02064" joined="2013-03-11"/>
+    <cosponsor thomas_id="01797" joined="2013-04-12"/>
+    <cosponsor thomas_id="02061" joined="2013-04-25"/>
+    <cosponsor thomas_id="01924" joined="2013-02-28"/>
+    <cosponsor thomas_id="02065" joined="2013-01-18"/>
+    <cosponsor thomas_id="01683" joined="2013-02-12"/>
+    <cosponsor thomas_id="01793" joined="2013-04-25"/>
+    <cosponsor thomas_id="01707" joined="2013-01-18"/>
+    <cosponsor thomas_id="00414" joined="2013-05-16"/>
+    <cosponsor thomas_id="01998" joined="2013-04-11"/>
+    <cosponsor thomas_id="01737" joined="2013-04-09"/>
+    <cosponsor thomas_id="01743" joined="2013-01-18"/>
+    <cosponsor thomas_id="02049" joined="2013-05-07"/>
+    <cosponsor thomas_id="02043" joined="2013-04-10"/>
+    <cosponsor thomas_id="01720" joined="2013-04-18"/>
+    <cosponsor thomas_id="01801" joined="2013-02-05"/>
+    <cosponsor thomas_id="01992" joined="2013-04-23"/>
+    <cosponsor thomas_id="02058" joined="2013-04-10"/>
+    <cosponsor thomas_id="01487" joined="2014-02-10"/>
+    <cosponsor thomas_id="01656" joined="2013-04-18"/>
+    <cosponsor thomas_id="01979" joined="2013-02-27"/>
+    <cosponsor thomas_id="01990" joined="2013-01-18"/>
+    <cosponsor thomas_id="02070" joined="2013-04-23"/>
+    <cosponsor thomas_id="02041" joined="2013-04-10"/>
+    <cosponsor thomas_id="01922" joined="2013-05-13"/>
+    <cosponsor thomas_id="00484" joined="2013-02-28"/>
+    <cosponsor thomas_id="02044" joined="2014-05-06"/>
+    <cosponsor thomas_id="02026" joined="2013-03-04"/>
+    <cosponsor thomas_id="02032" joined="2014-03-06"/>
+    <cosponsor thomas_id="02040" joined="2013-09-10"/>
+    <cosponsor thomas_id="02071" joined="2014-02-11"/>
+    <cosponsor thomas_id="02143" joined="2014-02-10"/>
+    <cosponsor thomas_id="02140" joined="2013-09-10"/>
+    <cosponsor thomas_id="02020" joined="2013-02-12"/>
+    <cosponsor thomas_id="02028" joined="2014-03-11"/>
+    <cosponsor thomas_id="02015" joined="2013-04-12"/>
+    <cosponsor thomas_id="01909" joined="2013-02-26"/>
+    <cosponsor thomas_id="02069" joined="2013-04-09"/>
+    <cosponsor thomas_id="01921" joined="2013-09-17"/>
+    <cosponsor thomas_id="02046" joined="2013-01-18"/>
+    <cosponsor thomas_id="00603" joined="2013-04-23"/>
+    <cosponsor thomas_id="00612" joined="2013-02-14"/>
+    <cosponsor thomas_id="01868" joined="2013-01-18"/>
+    <cosponsor thomas_id="02154" joined="2013-05-06"/>
+    <cosponsor thomas_id="00635" joined="2013-05-15"/>
+    <cosponsor thomas_id="01724" joined="2013-01-18"/>
+    <cosponsor thomas_id="00636" joined="2013-03-19"/>
+    <cosponsor thomas_id="02014" joined="2013-05-15"/>
+    <cosponsor thomas_id="02011" joined="2013-05-07"/>
+    <cosponsor thomas_id="02100" joined="2013-02-28"/>
+    <cosponsor thomas_id="01834" joined="2013-06-03"/>
+    <cosponsor thomas_id="01936" joined="2013-04-24"/>
+    <cosponsor thomas_id="00666" joined="2013-04-09"/>
+    <cosponsor thomas_id="01885" joined="2013-03-11"/>
+    <cosponsor thomas_id="00699" joined="2013-09-11"/>
+    <cosponsor thomas_id="00711" joined="2013-03-14"/>
+    <cosponsor thomas_id="01931" joined="2013-04-17"/>
+    <cosponsor thomas_id="01806" joined="2013-04-09"/>
+    <cosponsor thomas_id="02053" joined="2013-05-13"/>
+    <cosponsor thomas_id="02094" joined="2013-04-18"/>
+    <cosponsor thomas_id="02195" joined="2014-01-14"/>
+    <cosponsor thomas_id="01804" joined="2013-05-15"/>
+    <cosponsor thomas_id="01908" joined="2013-02-26"/>
+    <cosponsor thomas_id="02074" joined="2013-01-18"/>
+    <cosponsor thomas_id="02142" joined="2013-02-26"/>
+    <cosponsor thomas_id="02052" joined="2013-01-18"/>
+    <cosponsor thomas_id="02130" joined="2013-05-06"/>
+    <cosponsor thomas_id="01731" joined="2014-02-27"/>
+    <cosponsor thomas_id="01584" joined="2014-01-14"/>
+    <cosponsor thomas_id="02156" joined="2013-02-28"/>
+    <cosponsor thomas_id="02059" joined="2013-02-05"/>
+    <cosponsor thomas_id="01744" joined="2013-04-09"/>
+    <cosponsor thomas_id="01758" joined="2013-04-23"/>
+    <cosponsor thomas_id="02060" joined="2013-04-17"/>
+    <cosponsor thomas_id="02001" joined="2013-04-12"/>
+    <cosponsor thomas_id="02034" joined="2013-03-13"/>
+    <cosponsor thomas_id="01955" joined="2013-01-18"/>
+    <cosponsor thomas_id="02035" joined="2013-04-12"/>
+    <cosponsor thomas_id="01930" joined="2013-09-09"/>
+    <cosponsor thomas_id="01738" joined="2013-04-10"/>
+    <cosponsor thomas_id="02157" joined="2013-07-23"/>
+    <cosponsor thomas_id="00912" joined="2013-04-12"/>
+    <cosponsor thomas_id="02141" joined="2013-04-10"/>
+    <cosponsor thomas_id="01514" joined="2013-05-15"/>
+    <cosponsor thomas_id="01802" joined="2013-09-09"/>
+    <cosponsor thomas_id="01915" joined="2013-01-18"/>
+    <cosponsor thomas_id="01778" joined="2013-04-10"/>
+    <cosponsor thomas_id="01982" joined="2013-09-09"/>
+    <cosponsor thomas_id="01810" joined="2013-05-15"/>
+    <cosponsor thomas_id="02048" joined="2013-04-26"/>
+    <cosponsor thomas_id="02073" joined="2013-04-23"/>
+    <cosponsor thomas_id="02160" joined="2013-04-12"/>
+    <cosponsor thomas_id="02068" joined="2013-04-12"/>
+    <cosponsor thomas_id="01986" joined="2013-04-16"/>
+    <cosponsor thomas_id="01954" joined="2013-04-18"/>
+    <cosponsor thomas_id="01704" joined="2014-05-06"/>
+    <cosponsor thomas_id="00979" joined="2013-07-18"/>
+    <cosponsor thomas_id="02017" joined="2013-05-08"/>
+    <cosponsor thomas_id="01916" joined="2013-04-17"/>
+    <cosponsor thomas_id="00985" joined="2013-05-13"/>
+    <cosponsor thomas_id="02003" joined="2013-04-09"/>
+    <cosponsor thomas_id="02158" joined="2013-06-26"/>
+    <cosponsor thomas_id="02039" joined="2013-09-11"/>
+    <cosponsor thomas_id="01009" joined="2013-05-06"/>
+    <cosponsor thomas_id="01012" joined="2013-10-28"/>
+    <cosponsor thomas_id="01892" joined="2013-02-14"/>
+    <cosponsor thomas_id="01920" joined="2013-01-18"/>
+    <cosponsor thomas_id="01994" joined="2013-04-09"/>
+    <cosponsor thomas_id="02009" joined="2013-09-09"/>
+    <cosponsor thomas_id="01041" joined="2013-05-13"/>
+    <cosponsor thomas_id="01527" joined="2013-04-26"/>
+    <cosponsor thomas_id="01681" joined="2013-04-11"/>
+    <cosponsor thomas_id="01590" joined="2013-08-02"/>
+    <cosponsor thomas_id="01071" joined="2013-03-04"/>
+    <cosponsor thomas_id="02191" joined="2013-07-09"/>
+    <cosponsor thomas_id="01075" joined="2013-04-18"/>
+    <cosponsor thomas_id="02000" joined="2013-05-06"/>
+    <cosponsor thomas_id="02168" joined="2013-04-25"/>
+    <cosponsor thomas_id="02047" joined="2013-02-05"/>
+    <cosponsor thomas_id="01114" joined="2013-02-05"/>
+    <cosponsor thomas_id="01981" joined="2013-03-04"/>
+    <cosponsor thomas_id="01566" joined="2013-09-09"/>
+    <cosponsor thomas_id="01952" joined="2013-04-09"/>
+    <cosponsor thomas_id="01664" joined="2013-04-12"/>
+    <cosponsor thomas_id="01997" joined="2013-05-15"/>
+    <cosponsor thomas_id="02137" joined="2013-03-04"/>
+    <cosponsor thomas_id="01855" joined="2013-02-06"/>
+    <cosponsor thomas_id="02128" joined="2013-04-11"/>
+    <cosponsor thomas_id="02161" joined="2013-01-18"/>
+    <cosponsor thomas_id="02002" joined="2013-09-23"/>
+    <cosponsor thomas_id="02152" joined="2013-04-15"/>
+    <cosponsor thomas_id="01222" joined="2013-02-27"/>
+    <cosponsor thomas_id="02165" joined="2013-03-13"/>
+    <cosponsor thomas_id="01688" joined="2013-01-18"/>
+    <cosponsor thomas_id="01886" joined="2013-01-18"/>
+    <cosponsor thomas_id="01991" joined="2013-04-11"/>
+    <cosponsor thomas_id="02021" joined="2013-06-17"/>
+    <cosponsor thomas_id="02115" joined="2013-05-21"/>
+    <cosponsor thomas_id="01255" joined="2013-03-14"/>
+    <cosponsor thomas_id="01256" joined="2013-04-24"/>
+    <cosponsor thomas_id="00800" joined="2013-03-21" withdrawn="2013-05-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-18">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E41-42"/>
+    </action>
+    <action datetime="2013-01-18" state="REFERRED">
+      <text>Referred to the House Committee on Rules.</text>
+    </action>
+    <action datetime="2013-01-23">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H253-256"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSRU" name="House Rules" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="113" relation="rule" number="306"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Africa"/>
+    <term name="Congressional committees"/>
+    <term name="Congressional operations and organization"/>
+    <term name="Congressional oversight"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Government studies and investigations"/>
+    <term name="House of Representatives"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="Legislative rules and procedure"/>
+    <term name="Libya"/>
+    <term name="Middle East"/>
+    <term name="Military operations and strategy"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+  <summary>1/18/2013--Introduced.
+Establishes in the House of Representatives a select Committee to investigate and report to the House on:
+
+ any intelligence known to the United States relating to the attack on the U.S. consulate in Benghazi, Libya, on September 11, 2012; any requests for additional security, or actions taken by federal agencies to improve security at the consulate before the attack; a definitive timeline of it; how the relevant agencies and the executive branch responded to it and whether appropriate congressional notifications were made; any improper conduct by officials relating to the attack; recommendations on what steps Congress and the President should take to prevent future attacks; and any other relevant issues relating to the attack or the response to it.</summary>
+</bill>

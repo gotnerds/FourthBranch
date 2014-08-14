@@ -1,0 +1,44 @@
+<bill session="113" type="s" number="2289" updated="2014-08-14T14:04:22-04:00">
+  <state datetime="2014-05-05">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-05"/>
+  </status>
+  <introduced datetime="2014-05-05"/>
+  <titles>
+    <title type="short" as="introduced">National Defense Authorization Act for Fiscal Year 2015</title>
+    <title type="short" as="introduced" partial="1">Defense Base Closure and Realignment Act of 2014</title>
+    <title type="short" as="introduced" partial="1">Department of Defense Cooperative Threat Reduction Act</title>
+    <title type="short" as="introduced" partial="1">Military Construction Authorization Act for Fiscal Year 2015</title>
+    <title type="official" as="introduced">A bill to authorize appropriations for fiscal year 2015 for military activities of the Department of Defense and for military construction, to prescribe military personnel strengths for such fiscal year, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01384"/>
+  <cosponsors>
+    <cosponsor thomas_id="00583" joined="2014-05-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-05">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S2649"/>
+    </action>
+    <action datetime="2014-05-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSAS" name="Senate Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="4435"/>
+    <bill type="h" session="113" relation="unknown" number="4730"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Defense spending"/>
+    <term name="Department of Defense"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Military facilities and property"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Military procurement, research, weapons development"/>
+  </subjects>
+  <amendments/>
+</bill>

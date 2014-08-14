@@ -1,0 +1,49 @@
+<bill session="113" type="s" number="1312" updated="2014-08-14T13:56:07-04:00">
+  <state datetime="2013-07-17">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-17"/>
+  </status>
+  <introduced datetime="2013-07-17"/>
+  <titles>
+    <title type="short" as="introduced">Federal Employee Accountability Act of 2013</title>
+    <title type="official" as="introduced">A bill to amend title 5, United States Code, to limit the circumstances in which official time may be used by a Federal employee.</title>
+  </titles>
+  <sponsor thomas_id="00212"/>
+  <cosponsors>
+    <cosponsor thomas_id="01695" joined="2013-07-17"/>
+    <cosponsor thomas_id="01881" joined="2013-07-17"/>
+    <cosponsor thomas_id="00153" joined="2013-07-17"/>
+    <cosponsor thomas_id="01692" joined="2013-07-17"/>
+    <cosponsor thomas_id="01542" joined="2013-07-17"/>
+    <cosponsor thomas_id="00583" joined="2013-07-17"/>
+    <cosponsor thomas_id="01608" joined="2013-07-17"/>
+    <cosponsor thomas_id="02086" joined="2013-07-17"/>
+    <cosponsor thomas_id="02080" joined="2013-07-17"/>
+    <cosponsor thomas_id="00924" joined="2013-07-17"/>
+    <cosponsor thomas_id="01896" joined="2013-07-17"/>
+    <cosponsor thomas_id="02084" joined="2013-07-17"/>
+    <cosponsor thomas_id="02056" joined="2013-11-12"/>
+    <cosponsor thomas_id="01534" joined="2013-07-17"/>
+    <cosponsor thomas_id="01609" joined="2013-07-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-17" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="107"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Employee leave"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Labor-management relations"/>
+  </subjects>
+  <amendments/>
+  <summary>7/17/2013--Introduced.
+Federal Employee Accountability Act of 2013 - Repeals provisions: (1) authorizing a federal employee representing an exclusive representative in the negotiation of a collective bargaining agreement official time for such purpose during the time such employee otherwise would be in a duty status; and (2) requiring the Federal Labor Relations Authority (FLRA) to determine whether any employee participating for, or on behalf of, a labor organization in any phase of proceedings before it shall be authorized official time for that purpose.</summary>
+</bill>

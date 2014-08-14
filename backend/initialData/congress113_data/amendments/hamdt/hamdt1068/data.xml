@@ -1,0 +1,17 @@
+<amendment session="113" chamber="h" number="1068" updated="2014-08-14T13:40:27-04:00">
+  <amends type="h" number="5016" sequence="17"/>
+  <status datetime="2014-07-14T22:25:00-04:00">pass</status>
+  <sponsor thomas_id="01992"/>
+  <offered datetime="2014-07-14"/>
+  <description>An amendment to reduce salaries and expenses at SBA by $3,882,000 and to increase funding for entrepeneurial development programs by a similar amount.</description>
+  <actions>
+    <action datetime="2014-07-14T22:21:00-04:00">
+      <text>Amendment (A017) offered by Mr. Gosar.</text>
+      <reference ref="CR H6204-6205" label="consideration"/>
+      <reference ref="CR H6204" label="text"/>
+    </action>
+    <vote datetime="2014-07-14T22:25:00-04:00" how="by voice vote" result="pass">
+      <text>On agreeing to the Gosar amendment (A017) Agreed to by voice vote.</text>
+    </vote>
+  </actions>
+</amendment>

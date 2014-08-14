@@ -1,0 +1,47 @@
+<bill session="113" type="h" number="2103" updated="2014-08-14T13:09:13-04:00">
+  <state datetime="2013-05-22">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-22"/>
+  </status>
+  <introduced datetime="2013-05-22"/>
+  <titles>
+    <title type="official" as="introduced">To direct the Administrator of the Federal Emergency Management Agency to designate New Jersey Task Force 1 as part of the National Urban Search and Rescue System.</title>
+  </titles>
+  <sponsor thomas_id="00414"/>
+  <cosponsors>
+    <cosponsor thomas_id="00021" joined="2014-01-16"/>
+    <cosponsor thomas_id="01580" joined="2014-07-24"/>
+    <cosponsor thomas_id="01936" joined="2013-09-17"/>
+    <cosponsor thomas_id="00699" joined="2013-11-15"/>
+    <cosponsor thomas_id="00887" joined="2013-12-02"/>
+    <cosponsor thomas_id="01510" joined="2013-11-21"/>
+    <cosponsor thomas_id="02097" joined="2014-01-16"/>
+    <cosponsor thomas_id="02039" joined="2013-11-18"/>
+    <cosponsor thomas_id="01818" joined="2014-07-24"/>
+    <cosponsor thomas_id="01071" joined="2013-11-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-22" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2013-05-23">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+    <committee subcommittee="Economic Development, Public Buildings and Emergency Management" code="HSPW13" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Emergency medical services and trauma care"/>
+    <term name="Health personnel"/>
+    <term name="Intergovernmental relations"/>
+    <term name="New Jersey"/>
+  </subjects>
+  <amendments/>
+  <summary>5/22/2013--Introduced.
+Requires the Administrator of the Federal Emergency Management Agency (FEMA) to designate New Jersey Task Force 1 as part of the National Urban Search and Rescue System.</summary>
+</bill>

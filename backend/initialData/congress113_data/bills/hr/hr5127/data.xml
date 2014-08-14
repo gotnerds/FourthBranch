@@ -1,0 +1,38 @@
+<bill session="113" type="h" number="5127" updated="2014-08-14T13:35:14-04:00">
+  <state datetime="2014-07-16">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-16"/>
+  </status>
+  <introduced datetime="2014-07-16"/>
+  <titles>
+    <title type="short" as="introduced">Helping Schools Protect Our Children Act of 2014</title>
+    <title type="official" as="introduced">To allow funds under title II of the Elementary and Secondary Education Act of 1965 to be used to provide training to school personnel regarding how to recognize child sexual abuse.</title>
+  </titles>
+  <sponsor thomas_id="02110"/>
+  <cosponsors>
+    <cosponsor thomas_id="00588" joined="2014-07-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-16" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="756"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Child safety and welfare"/>
+    <term name="Crimes against children"/>
+    <term name="Domestic violence and child abuse"/>
+    <term name="Education programs funding"/>
+    <term name="Elementary and secondary education"/>
+    <term name="School administration"/>
+    <term name="Sex offenses"/>
+    <term name="Teaching, teachers, curricula"/>
+  </subjects>
+  <amendments/>
+</bill>

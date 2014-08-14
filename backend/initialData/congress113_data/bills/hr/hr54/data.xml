@@ -1,0 +1,83 @@
+<bill session="113" type="h" number="54" updated="2014-08-14T12:51:09-04:00">
+  <state datetime="2013-01-03">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-03"/>
+  </status>
+  <introduced datetime="2013-01-03"/>
+  <titles>
+    <title type="official" as="introduced">To provide that no pay adjustment for Members of Congress shall be made with respect to any pay period occurring during the One Hundred Thirteenth Congress.</title>
+  </titles>
+  <sponsor thomas_id="01797"/>
+  <cosponsors>
+    <cosponsor thomas_id="01838" joined="2013-01-03"/>
+    <cosponsor thomas_id="02063" joined="2013-01-03"/>
+    <cosponsor thomas_id="01787" joined="2013-01-03"/>
+    <cosponsor thomas_id="02018" joined="2013-01-03"/>
+    <cosponsor thomas_id="00211" joined="2013-01-03"/>
+    <cosponsor thomas_id="01912" joined="2013-01-29"/>
+    <cosponsor thomas_id="01805" joined="2013-01-14"/>
+    <cosponsor thomas_id="01670" joined="2013-01-03"/>
+    <cosponsor thomas_id="02065" joined="2013-01-03"/>
+    <cosponsor thomas_id="01998" joined="2013-01-14"/>
+    <cosponsor thomas_id="01737" joined="2013-01-03"/>
+    <cosponsor thomas_id="02049" joined="2013-01-03"/>
+    <cosponsor thomas_id="01656" joined="2013-01-03"/>
+    <cosponsor thomas_id="01990" joined="2013-01-03"/>
+    <cosponsor thomas_id="02044" joined="2013-01-03"/>
+    <cosponsor thomas_id="02032" joined="2013-01-03"/>
+    <cosponsor thomas_id="02028" joined="2013-01-03"/>
+    <cosponsor thomas_id="01921" joined="2013-01-03"/>
+    <cosponsor thomas_id="02199" joined="2014-04-28"/>
+    <cosponsor thomas_id="00612" joined="2013-01-03"/>
+    <cosponsor thomas_id="02051" joined="2013-01-03"/>
+    <cosponsor thomas_id="01936" joined="2013-01-03"/>
+    <cosponsor thomas_id="02050" joined="2013-01-03"/>
+    <cosponsor thomas_id="01846" joined="2013-02-13"/>
+    <cosponsor thomas_id="01931" joined="2013-01-03"/>
+    <cosponsor thomas_id="02053" joined="2013-01-03"/>
+    <cosponsor thomas_id="01671" joined="2013-01-03"/>
+    <cosponsor thomas_id="02074" joined="2013-01-03"/>
+    <cosponsor thomas_id="00800" joined="2013-01-03"/>
+    <cosponsor thomas_id="01730" joined="2013-01-03"/>
+    <cosponsor thomas_id="01731" joined="2013-01-03"/>
+    <cosponsor thomas_id="02059" joined="2013-01-03"/>
+    <cosponsor thomas_id="02001" joined="2013-01-03"/>
+    <cosponsor thomas_id="01955" joined="2013-01-03"/>
+    <cosponsor thomas_id="02035" joined="2013-01-03"/>
+    <cosponsor thomas_id="01910" joined="2013-01-03"/>
+    <cosponsor thomas_id="01915" joined="2013-01-03"/>
+    <cosponsor thomas_id="01994" joined="2013-01-03"/>
+    <cosponsor thomas_id="02047" joined="2013-01-03"/>
+    <cosponsor thomas_id="01566" joined="2013-01-03"/>
+    <cosponsor thomas_id="01664" joined="2013-01-03"/>
+    <cosponsor thomas_id="01997" joined="2013-01-03"/>
+    <cosponsor thomas_id="01855" joined="2013-01-14"/>
+    <cosponsor thomas_id="01886" joined="2013-01-03"/>
+    <cosponsor thomas_id="02021" joined="2013-01-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-03" state="REFERRED">
+      <text>Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-01-03">
+      <text>Referred to House House Administration</text>
+    </action>
+    <action datetime="2013-01-03">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Inflation and prices"/>
+    <term name="Members of Congress"/>
+  </subjects>
+  <amendments/>
+  <summary>1/3/2013--Introduced.
+Eliminates automatic cost of living adjustments to the rate of pay for Members of Congress during the 113th Congress.</summary>
+</bill>

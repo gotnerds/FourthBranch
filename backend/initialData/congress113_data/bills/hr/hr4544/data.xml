@@ -1,0 +1,47 @@
+<bill session="113" type="h" number="4544" updated="2014-08-14T13:30:08-04:00">
+  <state datetime="2014-05-01">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-01"/>
+  </status>
+  <introduced datetime="2014-05-01"/>
+  <titles>
+    <title type="short" as="introduced">Stop Penalizing Taxpayers for Sports Owner Fouls Act of 2014</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to disallow a deduction for any fine paid by an owner of professional sports franchise.</title>
+  </titles>
+  <sponsor thomas_id="02107"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2014-05-08"/>
+    <cosponsor thomas_id="02159" joined="2014-07-30"/>
+    <cosponsor thomas_id="01774" joined="2014-05-08"/>
+    <cosponsor thomas_id="01857" joined="2014-05-08"/>
+    <cosponsor thomas_id="02120" joined="2014-05-01"/>
+    <cosponsor thomas_id="01708" joined="2014-05-01"/>
+    <cosponsor thomas_id="02101" joined="2014-05-08"/>
+    <cosponsor thomas_id="02111" joined="2014-05-08"/>
+    <cosponsor thomas_id="01602" joined="2014-05-01"/>
+    <cosponsor thomas_id="02109" joined="2014-05-01"/>
+    <cosponsor thomas_id="01003" joined="2014-05-01"/>
+    <cosponsor thomas_id="02104" joined="2014-05-22"/>
+    <cosponsor thomas_id="01884" joined="2014-05-22"/>
+    <cosponsor thomas_id="02112" joined="2014-05-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-01" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Business expenses"/>
+    <term name="Civil actions and liability"/>
+    <term name="Income tax deductions"/>
+    <term name="Professional sports"/>
+  </subjects>
+  <amendments/>
+  <summary>5/1/2014--Introduced.
+Stop Penalizing Taxpayers for Sports Owner Fouls Act of 2014 - Amends the Internal Revenue Code to deny to an individual who owns a professional sports franchise a tax deduction for any fine or similar penalty paid by such owner&#160;to the professional sports league or association.</summary>
+</bill>

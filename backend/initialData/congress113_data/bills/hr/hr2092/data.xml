@@ -1,0 +1,53 @@
+<bill session="113" type="h" number="2092" updated="2014-08-14T13:09:05-04:00">
+  <state datetime="2013-05-22">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-22"/>
+  </status>
+  <introduced datetime="2013-05-22"/>
+  <titles>
+    <title type="short" as="introduced">Respecting the Institution of Congress Act</title>
+    <title type="official" as="introduced">To amend title 5, United States Code, to provide that retirement credit for service as a Member of Congress be denied in the case of a former Member convicted of a felony, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02129"/>
+  <cosponsors>
+    <cosponsor thomas_id="02131" joined="2013-06-11"/>
+    <cosponsor thomas_id="02155" joined="2013-06-05"/>
+    <cosponsor thomas_id="02036" joined="2013-06-04"/>
+    <cosponsor thomas_id="01921" joined="2013-05-22"/>
+    <cosponsor thomas_id="02094" joined="2013-05-23"/>
+    <cosponsor thomas_id="02130" joined="2013-05-22"/>
+    <cosponsor thomas_id="02060" joined="2013-06-04"/>
+    <cosponsor thomas_id="02162" joined="2013-06-05"/>
+    <cosponsor thomas_id="02017" joined="2013-06-04"/>
+    <cosponsor thomas_id="02137" joined="2013-06-03"/>
+    <cosponsor thomas_id="02128" joined="2013-05-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-22" state="REFERRED">
+      <text>Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-05-22">
+      <text>Referred to House House Administration</text>
+    </action>
+    <action datetime="2013-05-22">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="1547"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Members of Congress"/>
+    <term name="Presidents and presidential powers"/>
+  </subjects>
+  <amendments/>
+  <summary>5/22/2013--Introduced.
+Respecting the Institution of Congress Act - Denies retirement benefits under the Civil Service Retirement System (CSRS) and the Federal Employees' Retirement System (FERS) to a Member of Congress, former Member, former President, or former Vice President who is convicted of any crime that is a felony under federal or state law (currently, limited to specified felonies under federal law).</summary>
+</bill>

@@ -1,0 +1,81 @@
+<bill session="113" type="s" number="338" updated="2014-08-14T13:47:37-04:00">
+  <state datetime="2013-02-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-14"/>
+  </status>
+  <introduced datetime="2013-02-14"/>
+  <titles>
+    <title type="short" as="introduced">Land and Water Conservation Authorization and Funding Act of 2013</title>
+    <title type="official" as="introduced">A bill to amend the Land and Water Conservation Fund Act of 1965 to provide consistent and reliable authority for, and for the funding of, the land and water conservation fund to maximize the effectiveness of the fund for future generations, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00066"/>
+  <cosponsors>
+    <cosponsor thomas_id="01558" joined="2013-04-25"/>
+    <cosponsor thomas_id="01965" joined="2013-02-26"/>
+    <cosponsor thomas_id="02076" joined="2013-02-26"/>
+    <cosponsor thomas_id="00116" joined="2013-02-26"/>
+    <cosponsor thomas_id="00153" joined="2013-02-14"/>
+    <cosponsor thomas_id="00172" joined="2013-07-31"/>
+    <cosponsor thomas_id="00174" joined="2013-09-26"/>
+    <cosponsor thomas_id="01828" joined="2013-07-23"/>
+    <cosponsor thomas_id="01984" joined="2013-02-26"/>
+    <cosponsor thomas_id="01969" joined="2013-03-05"/>
+    <cosponsor thomas_id="01866" joined="2013-02-28"/>
+    <cosponsor thomas_id="00452" joined="2013-02-14"/>
+    <cosponsor thomas_id="01902" joined="2013-02-26"/>
+    <cosponsor thomas_id="00501" joined="2013-03-18"/>
+    <cosponsor thomas_id="01937" joined="2013-02-26"/>
+    <cosponsor thomas_id="01844" joined="2013-03-12"/>
+    <cosponsor thomas_id="00604" joined="2013-02-26"/>
+    <cosponsor thomas_id="02176" joined="2014-07-31"/>
+    <cosponsor thomas_id="02185" joined="2013-03-12"/>
+    <cosponsor thomas_id="01826" joined="2013-03-04"/>
+    <cosponsor thomas_id="01381" joined="2013-03-07"/>
+    <cosponsor thomas_id="01384" joined="2013-04-10"/>
+    <cosponsor thomas_id="01983" joined="2013-12-16"/>
+    <cosponsor thomas_id="00735" joined="2013-10-09"/>
+    <cosponsor thomas_id="00791" joined="2013-10-28"/>
+    <cosponsor thomas_id="01900" joined="2013-02-26"/>
+    <cosponsor thomas_id="01837" joined="2013-02-27"/>
+    <cosponsor thomas_id="01409" joined="2014-03-11"/>
+    <cosponsor thomas_id="00859" joined="2014-01-27"/>
+    <cosponsor thomas_id="01701" joined="2013-11-18"/>
+    <cosponsor thomas_id="01010" joined="2013-10-15"/>
+    <cosponsor thomas_id="02173" joined="2013-03-22"/>
+    <cosponsor thomas_id="01036" joined="2013-07-29"/>
+    <cosponsor thomas_id="01901" joined="2013-02-26"/>
+    <cosponsor thomas_id="01531" joined="2013-02-26"/>
+    <cosponsor thomas_id="01829" joined="2013-02-14"/>
+    <cosponsor thomas_id="01595" joined="2013-02-14"/>
+    <cosponsor thomas_id="01567" joined="2013-02-14"/>
+    <cosponsor thomas_id="02198" joined="2014-03-24"/>
+    <cosponsor thomas_id="02182" joined="2013-03-18"/>
+    <cosponsor thomas_id="01823" joined="2013-04-08"/>
+    <cosponsor thomas_id="01247" joined="2013-02-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-14" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Government trust funds"/>
+    <term name="Hunting and fishing"/>
+    <term name="Land transfers"/>
+    <term name="Land use and conservation"/>
+    <term name="Outdoor recreation"/>
+    <term name="Parks, recreation areas, trails"/>
+  </subjects>
+  <amendments/>
+  <summary>2/14/2013--Introduced.
+Land and Water Conservation Authorization and Funding Act of 2013 - Amends the Land and Water Conservation Fund Act of 1965 to make permanent the authorization for the Land and Water Conservation Fund.
+
+Makes monies covered into the Fund available for expenditure to carry out the purposes of the Act without further appropriation.
+
+Requires not less than 1.5% of the annual authorized funding amount to be made available for projects that secure recreational public access to existing federal public land for hunting, fishing, and other recreational purposes.</summary>
+</bill>

@@ -1,0 +1,24 @@
+<bill session="113" type="h" number="5251" updated="2014-08-14T13:36:19-04:00">
+  <state datetime="2014-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-29"/>
+  </status>
+  <introduced datetime="2014-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Incentivizing Foreign Investment to Upgrade America's Infrastructure Act of 2014</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to exempt foreign pensions from dispositions of investment in United States real property.</title>
+  </titles>
+  <sponsor thomas_id="01974"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

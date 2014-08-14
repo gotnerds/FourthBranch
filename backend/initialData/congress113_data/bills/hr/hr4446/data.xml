@@ -1,0 +1,71 @@
+<bill session="113" type="h" number="4446" updated="2014-08-14T13:29:18-04:00">
+  <state datetime="2014-04-10">REFERRED</state>
+  <status>
+    <introduced datetime="2014-04-10"/>
+  </status>
+  <introduced datetime="2014-04-10"/>
+  <titles>
+    <title type="short" as="introduced">Dignified Interment of Our Veterans Act of 2014</title>
+    <title type="official" as="introduced">To require the Secretary of Veterans Affairs to conduct a study on matters relating to the claiming and interring of unclaimed remains of veterans, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01681"/>
+  <cosponsors>
+    <cosponsor thomas_id="00091" joined="2014-04-10"/>
+    <cosponsor thomas_id="01723" joined="2014-05-19"/>
+    <cosponsor thomas_id="01469" joined="2014-07-28"/>
+    <cosponsor thomas_id="02159" joined="2014-04-10"/>
+    <cosponsor thomas_id="02103" joined="2014-04-10"/>
+    <cosponsor thomas_id="01643" joined="2014-06-12"/>
+    <cosponsor thomas_id="01670" joined="2014-04-10"/>
+    <cosponsor thomas_id="02067" joined="2014-07-29"/>
+    <cosponsor thomas_id="01973" joined="2014-07-10"/>
+    <cosponsor thomas_id="02089" joined="2014-07-24"/>
+    <cosponsor thomas_id="02046" joined="2014-06-11"/>
+    <cosponsor thomas_id="01733" joined="2014-04-30"/>
+    <cosponsor thomas_id="02100" joined="2014-07-09"/>
+    <cosponsor thomas_id="01834" joined="2014-07-29"/>
+    <cosponsor thomas_id="02053" joined="2014-04-29"/>
+    <cosponsor thomas_id="00766" joined="2014-07-10"/>
+    <cosponsor thomas_id="01504" joined="2014-05-19"/>
+    <cosponsor thomas_id="02052" joined="2014-04-10"/>
+    <cosponsor thomas_id="01584" joined="2014-07-09"/>
+    <cosponsor thomas_id="00854" joined="2014-06-17"/>
+    <cosponsor thomas_id="02001" joined="2014-07-22"/>
+    <cosponsor thomas_id="02035" joined="2014-05-28"/>
+    <cosponsor thomas_id="00944" joined="2014-06-09"/>
+    <cosponsor thomas_id="02068" joined="2014-05-19"/>
+    <cosponsor thomas_id="02003" joined="2014-07-22"/>
+    <cosponsor thomas_id="02158" joined="2014-04-30"/>
+    <cosponsor thomas_id="01920" joined="2014-06-18"/>
+    <cosponsor thomas_id="02000" joined="2014-06-17"/>
+    <cosponsor thomas_id="02047" joined="2014-06-17"/>
+    <cosponsor thomas_id="01952" joined="2014-04-10"/>
+    <cosponsor thomas_id="02115" joined="2014-07-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-04-10" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2014-05-05">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Disability Assistance and Memorial Affairs" code="HSVR09" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1755"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Cemeteries and funerals"/>
+    <term name="Congressional oversight"/>
+    <term name="Government studies and investigations"/>
+  </subjects>
+  <amendments/>
+  <summary>4/10/2014--Introduced.
+Dignified Interment of Our Veterans Act of 2014 - Requires the Secretary of Veterans Affairs (VA) to conduct a study on matters relating to the identification, claiming, and interring of unclaimed remains of veterans, including: (1) estimating the number of unclaimed remains; (2) assessing the effectiveness of VA procedures for claiming and interring unclaimed remains of veterans; (3) assessing state and local laws that affect the ability of the Secretary to identify, claim, and inter such remains; and (4) recommending appropriate legislative or administrative action.
+
+.</summary>
+</bill>

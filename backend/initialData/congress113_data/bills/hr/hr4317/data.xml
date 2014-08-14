@@ -1,0 +1,84 @@
+<bill session="113" type="h" number="4317" updated="2014-08-14T13:28:13-04:00">
+  <state datetime="2014-04-30">REPORTED</state>
+  <status>
+    <unknown datetime="2014-04-30"/>
+  </status>
+  <introduced datetime="2014-03-27"/>
+  <titles>
+    <title type="short" as="introduced">State, Tribal, and Local Species Transparency and Recovery Act</title>
+    <title type="short" as="reported to house">State, Tribal, and Local Species Transparency and Recovery Act</title>
+    <title type="official" as="introduced">To amend the Endangered Species Act of 1973 to require disclosure to States of the basis of determinations under such Act, to ensure use of information provided by State, tribal, and county governments in decisionmaking under such Act, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01758"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2014-03-27"/>
+    <cosponsor thomas_id="01753" joined="2014-03-27"/>
+    <cosponsor thomas_id="02121" joined="2014-03-27"/>
+    <cosponsor thomas_id="01805" joined="2014-05-29"/>
+    <cosponsor thomas_id="02098" joined="2014-04-28"/>
+    <cosponsor thomas_id="02144" joined="2014-04-28"/>
+    <cosponsor thomas_id="01707" joined="2014-05-20"/>
+    <cosponsor thomas_id="00446" joined="2014-05-19"/>
+    <cosponsor thomas_id="01992" joined="2014-04-28"/>
+    <cosponsor thomas_id="02026" joined="2014-03-27"/>
+    <cosponsor thomas_id="00512" joined="2014-03-27"/>
+    <cosponsor thomas_id="02020" joined="2014-05-19"/>
+    <cosponsor thomas_id="02028" joined="2014-03-27"/>
+    <cosponsor thomas_id="00612" joined="2014-05-19"/>
+    <cosponsor thomas_id="02050" joined="2014-03-27"/>
+    <cosponsor thomas_id="00711" joined="2014-04-09"/>
+    <cosponsor thomas_id="01931" joined="2014-03-27"/>
+    <cosponsor thomas_id="01960" joined="2014-03-27"/>
+    <cosponsor thomas_id="01908" joined="2014-04-29"/>
+    <cosponsor thomas_id="01738" joined="2014-06-17"/>
+    <cosponsor thomas_id="02022" joined="2014-05-06"/>
+    <cosponsor thomas_id="02191" joined="2014-05-20"/>
+    <cosponsor thomas_id="02000" joined="2014-03-27"/>
+    <cosponsor thomas_id="01952" joined="2014-03-27"/>
+    <cosponsor thomas_id="01155" joined="2014-04-09"/>
+    <cosponsor thomas_id="01664" joined="2014-05-19"/>
+    <cosponsor thomas_id="01997" joined="2014-04-30"/>
+    <cosponsor thomas_id="02105" joined="2014-03-27"/>
+    <cosponsor thomas_id="01596" joined="2014-04-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-03-27" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2014-04-08">
+      <text>Committee Hearings Held.</text>
+    </action>
+    <action datetime="2014-04-30">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-04-30" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 26 - 16.</text>
+    </calendar>
+    <action datetime="2014-07-17T17:03:00-04:00">
+      <text>Reported by the Committee on Natural Resources. H. Rept. 113-539.</text>
+    </action>
+    <calendar datetime="2014-07-17T17:03:00-04:00" calendar="Union" number="405">
+      <text>Placed on the Union Calendar, Calendar No. 405.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral, Hearings, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="2630"/>
+  </relatedbills>
+  <subjects>
+    <term name="Animals"/>
+    <term name="Endangered and threatened species"/>
+    <term name="Government information and archives"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Land transfers"/>
+    <term name="State and local government operations"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+  <summary>3/27/2014--Introduced.
+State, Tribal, and Local Species Transparency and Recovery Act - Amends the Endangered Species Act of 1973 to require the Secretary of the Interior or the Secretary of Commerce, as appropriate, to provide to affected states all data that is used as the basis of a determination on whether a species is an endangered species or a threatened species before making a determination.
+
+Requires the appropriate Secretary to use data submitted by a state, tribal, or county government in making such a determination.</summary>
+</bill>

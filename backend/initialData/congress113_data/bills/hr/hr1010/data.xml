@@ -1,0 +1,248 @@
+<bill session="113" type="h" number="1010" updated="2014-08-14T12:59:19-04:00">
+  <state datetime="2013-03-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-06"/>
+  </status>
+  <introduced datetime="2013-03-06"/>
+  <titles>
+    <title type="short" as="introduced">Fair Minimum Wage Act of 2013</title>
+    <title type="official" as="introduced">To provide for an increase in the Federal minimum wage.</title>
+  </titles>
+  <sponsor thomas_id="00808"/>
+  <cosponsors>
+    <cosponsor thomas_id="00021" joined="2013-03-06"/>
+    <cosponsor thomas_id="02093" joined="2013-03-06"/>
+    <cosponsor thomas_id="01996" joined="2013-03-06"/>
+    <cosponsor thomas_id="02153" joined="2013-03-06"/>
+    <cosponsor thomas_id="00070" joined="2013-03-06"/>
+    <cosponsor thomas_id="02102" joined="2014-02-26"/>
+    <cosponsor thomas_id="00091" joined="2014-01-10"/>
+    <cosponsor thomas_id="01740" joined="2013-03-06"/>
+    <cosponsor thomas_id="00099" joined="2013-03-06"/>
+    <cosponsor thomas_id="02092" joined="2013-03-06"/>
+    <cosponsor thomas_id="01469" joined="2013-03-06"/>
+    <cosponsor thomas_id="01845" joined="2013-03-06"/>
+    <cosponsor thomas_id="00132" joined="2013-03-06"/>
+    <cosponsor thomas_id="02106" joined="2013-03-06"/>
+    <cosponsor thomas_id="02127" joined="2014-01-07"/>
+    <cosponsor thomas_id="01761" joined="2013-03-06"/>
+    <cosponsor thomas_id="01471" joined="2013-03-06"/>
+    <cosponsor thomas_id="01564" joined="2013-03-06"/>
+    <cosponsor thomas_id="02107" joined="2013-03-06"/>
+    <cosponsor thomas_id="01999" joined="2014-01-08"/>
+    <cosponsor thomas_id="01889" joined="2013-04-24"/>
+    <cosponsor thomas_id="02159" joined="2014-01-09"/>
+    <cosponsor thomas_id="01839" joined="2013-03-06"/>
+    <cosponsor thomas_id="02163" joined="2014-01-27"/>
+    <cosponsor thomas_id="01474" joined="2013-03-06"/>
+    <cosponsor thomas_id="01970" joined="2013-03-06"/>
+    <cosponsor thomas_id="02055" joined="2013-03-06"/>
+    <cosponsor thomas_id="02196" joined="2014-01-14"/>
+    <cosponsor thomas_id="01864" joined="2013-03-06"/>
+    <cosponsor thomas_id="01654" joined="2013-03-06"/>
+    <cosponsor thomas_id="01790" joined="2013-03-06"/>
+    <cosponsor thomas_id="00208" joined="2013-03-06"/>
+    <cosponsor thomas_id="01878" joined="2013-03-06"/>
+    <cosponsor thomas_id="01959" joined="2014-02-25"/>
+    <cosponsor thomas_id="00229" joined="2013-03-06"/>
+    <cosponsor thomas_id="00231" joined="2014-01-28"/>
+    <cosponsor thomas_id="01774" joined="2014-01-13"/>
+    <cosponsor thomas_id="01836" joined="2013-03-06"/>
+    <cosponsor thomas_id="01604" joined="2014-01-08"/>
+    <cosponsor thomas_id="00256" joined="2013-03-06"/>
+    <cosponsor thomas_id="01477" joined="2013-03-06"/>
+    <cosponsor thomas_id="01641" joined="2013-03-06"/>
+    <cosponsor thomas_id="00279" joined="2013-03-06"/>
+    <cosponsor thomas_id="01479" joined="2013-03-06"/>
+    <cosponsor thomas_id="02133" joined="2013-04-24"/>
+    <cosponsor thomas_id="00281" joined="2013-03-06"/>
+    <cosponsor thomas_id="02096" joined="2013-11-22"/>
+    <cosponsor thomas_id="01976" joined="2013-03-06"/>
+    <cosponsor thomas_id="00299" joined="2013-03-06"/>
+    <cosponsor thomas_id="00303" joined="2014-01-27"/>
+    <cosponsor thomas_id="00316" joined="2013-03-06"/>
+    <cosponsor thomas_id="02123" joined="2014-01-28"/>
+    <cosponsor thomas_id="01894" joined="2013-03-06"/>
+    <cosponsor thomas_id="01857" joined="2013-03-06"/>
+    <cosponsor thomas_id="00344" joined="2013-03-06"/>
+    <cosponsor thomas_id="02125" joined="2013-03-06"/>
+    <cosponsor thomas_id="00355" joined="2013-03-06"/>
+    <cosponsor thomas_id="02114" joined="2013-03-06"/>
+    <cosponsor thomas_id="00368" joined="2013-03-06"/>
+    <cosponsor thomas_id="00371" joined="2013-03-06"/>
+    <cosponsor thomas_id="01888" joined="2013-10-15"/>
+    <cosponsor thomas_id="02119" joined="2014-01-07"/>
+    <cosponsor thomas_id="01895" joined="2013-03-06"/>
+    <cosponsor thomas_id="02122" joined="2014-01-16"/>
+    <cosponsor thomas_id="02164" joined="2014-01-29"/>
+    <cosponsor thomas_id="01973" joined="2013-03-06"/>
+    <cosponsor thomas_id="02120" joined="2014-01-27"/>
+    <cosponsor thomas_id="01914" joined="2013-03-06"/>
+    <cosponsor thomas_id="01803" joined="2013-03-06"/>
+    <cosponsor thomas_id="00462" joined="2013-03-06"/>
+    <cosponsor thomas_id="01708" joined="2013-03-06"/>
+    <cosponsor thomas_id="00478" joined="2013-03-06"/>
+    <cosponsor thomas_id="02089" joined="2013-03-06"/>
+    <cosponsor thomas_id="02010" joined="2013-10-08"/>
+    <cosponsor thomas_id="00511" joined="2013-03-06"/>
+    <cosponsor thomas_id="02170" joined="2013-12-03"/>
+    <cosponsor thomas_id="01794" joined="2013-03-06"/>
+    <cosponsor thomas_id="01913" joined="2013-11-20"/>
+    <cosponsor thomas_id="01490" joined="2013-03-06"/>
+    <cosponsor thomas_id="01580" joined="2013-03-06"/>
+    <cosponsor thomas_id="01634" joined="2013-03-06"/>
+    <cosponsor thomas_id="02147" joined="2014-01-16"/>
+    <cosponsor thomas_id="00566" joined="2013-04-24"/>
+    <cosponsor thomas_id="02101" joined="2013-03-06"/>
+    <cosponsor thomas_id="01663" joined="2013-04-24"/>
+    <cosponsor thomas_id="00588" joined="2013-03-06"/>
+    <cosponsor thomas_id="02149" joined="2014-01-27"/>
+    <cosponsor thomas_id="00599" joined="2013-03-06"/>
+    <cosponsor thomas_id="01843" joined="2013-03-06"/>
+    <cosponsor thomas_id="00616" joined="2013-03-06"/>
+    <cosponsor thomas_id="02025" joined="2013-03-06"/>
+    <cosponsor thomas_id="02190" joined="2013-09-25"/>
+    <cosponsor thomas_id="02172" joined="2013-03-06"/>
+    <cosponsor thomas_id="02134" joined="2013-03-06"/>
+    <cosponsor thomas_id="02169" joined="2014-01-08"/>
+    <cosponsor thomas_id="01498" joined="2013-12-12"/>
+    <cosponsor thomas_id="01907" joined="2014-01-10"/>
+    <cosponsor thomas_id="02145" joined="2013-09-26"/>
+    <cosponsor thomas_id="01668" joined="2013-03-06"/>
+    <cosponsor thomas_id="01675" joined="2014-01-07"/>
+    <cosponsor thomas_id="01583" joined="2013-03-06"/>
+    <cosponsor thomas_id="01501" joined="2013-03-06"/>
+    <cosponsor thomas_id="00683" joined="2013-03-06"/>
+    <cosponsor thomas_id="00688" joined="2013-03-06"/>
+    <cosponsor thomas_id="01846" joined="2013-03-06"/>
+    <cosponsor thomas_id="00701" joined="2013-03-06"/>
+    <cosponsor thomas_id="02111" joined="2013-03-06"/>
+    <cosponsor thomas_id="00709" joined="2014-01-09"/>
+    <cosponsor thomas_id="02146" joined="2013-03-06"/>
+    <cosponsor thomas_id="01939" joined="2014-02-11"/>
+    <cosponsor thomas_id="01686" joined="2013-03-06"/>
+    <cosponsor thomas_id="01943" joined="2014-01-14"/>
+    <cosponsor thomas_id="00729" joined="2013-03-06"/>
+    <cosponsor thomas_id="02150" joined="2014-01-10"/>
+    <cosponsor thomas_id="00735" joined="2013-03-06"/>
+    <cosponsor thomas_id="01814" joined="2013-03-06"/>
+    <cosponsor thomas_id="01503" joined="2013-03-06"/>
+    <cosponsor thomas_id="01653" joined="2013-03-06"/>
+    <cosponsor thomas_id="00766" joined="2013-03-06"/>
+    <cosponsor thomas_id="01504" joined="2013-03-06"/>
+    <cosponsor thomas_id="01832" joined="2013-03-06"/>
+    <cosponsor thomas_id="01506" joined="2014-01-09"/>
+    <cosponsor thomas_id="02148" joined="2013-05-24"/>
+    <cosponsor thomas_id="01730" joined="2013-03-18"/>
+    <cosponsor thomas_id="01811" joined="2013-03-06"/>
+    <cosponsor thomas_id="00832" joined="2013-03-06"/>
+    <cosponsor thomas_id="02117" joined="2014-02-04"/>
+    <cosponsor thomas_id="00850" joined="2013-03-06"/>
+    <cosponsor thomas_id="01602" joined="2013-03-06"/>
+    <cosponsor thomas_id="00854" joined="2013-03-06"/>
+    <cosponsor thomas_id="02108" joined="2013-03-06"/>
+    <cosponsor thomas_id="00867" joined="2013-03-06"/>
+    <cosponsor thomas_id="00868" joined="2013-03-06"/>
+    <cosponsor thomas_id="02162" joined="2013-12-09"/>
+    <cosponsor thomas_id="01974" joined="2014-01-09"/>
+    <cosponsor thomas_id="00887" joined="2013-03-06"/>
+    <cosponsor thomas_id="01510" joined="2013-03-06"/>
+    <cosponsor thomas_id="00893" joined="2013-03-06"/>
+    <cosponsor thomas_id="02097" joined="2013-03-06"/>
+    <cosponsor thomas_id="00905" joined="2013-03-18"/>
+    <cosponsor thomas_id="01835" joined="2014-02-26"/>
+    <cosponsor thomas_id="01929" joined="2013-03-06"/>
+    <cosponsor thomas_id="01953" joined="2013-12-05"/>
+    <cosponsor thomas_id="01927" joined="2013-03-06"/>
+    <cosponsor thomas_id="02171" joined="2013-03-06"/>
+    <cosponsor thomas_id="01910" joined="2014-01-29"/>
+    <cosponsor thomas_id="00930" joined="2013-10-10"/>
+    <cosponsor thomas_id="01967" joined="2013-12-12"/>
+    <cosponsor thomas_id="00940" joined="2014-01-07"/>
+    <cosponsor thomas_id="00944" joined="2013-03-06"/>
+    <cosponsor thomas_id="02023" joined="2014-02-25"/>
+    <cosponsor thomas_id="00997" joined="2013-03-06"/>
+    <cosponsor thomas_id="02109" joined="2014-02-06"/>
+    <cosponsor thomas_id="01728" joined="2014-01-13"/>
+    <cosponsor thomas_id="01003" joined="2013-03-06"/>
+    <cosponsor thomas_id="01756" joined="2013-03-06"/>
+    <cosponsor thomas_id="01962" joined="2013-03-06"/>
+    <cosponsor thomas_id="01757" joined="2013-03-06"/>
+    <cosponsor thomas_id="01522" joined="2013-03-06"/>
+    <cosponsor thomas_id="01854" joined="2013-03-06"/>
+    <cosponsor thomas_id="01588" joined="2013-03-06"/>
+    <cosponsor thomas_id="01635" joined="2013-03-06"/>
+    <cosponsor thomas_id="02124" joined="2014-02-25"/>
+    <cosponsor thomas_id="01798" joined="2013-07-09"/>
+    <cosponsor thomas_id="01722" joined="2014-01-27"/>
+    <cosponsor thomas_id="01037" joined="2013-03-06"/>
+    <cosponsor thomas_id="01042" joined="2013-03-06"/>
+    <cosponsor thomas_id="01988" joined="2013-03-06"/>
+    <cosponsor thomas_id="01861" joined="2013-04-17"/>
+    <cosponsor thomas_id="01526" joined="2013-03-06"/>
+    <cosponsor thomas_id="02099" joined="2014-02-05"/>
+    <cosponsor thomas_id="01818" joined="2013-03-06"/>
+    <cosponsor thomas_id="01069" joined="2013-03-06"/>
+    <cosponsor thomas_id="01528" joined="2013-06-03"/>
+    <cosponsor thomas_id="01890" joined="2013-03-06"/>
+    <cosponsor thomas_id="02104" joined="2013-03-06"/>
+    <cosponsor thomas_id="02110" joined="2013-03-06"/>
+    <cosponsor thomas_id="01151" joined="2013-03-18"/>
+    <cosponsor thomas_id="01593" joined="2013-03-06"/>
+    <cosponsor thomas_id="01535" joined="2013-03-06"/>
+    <cosponsor thomas_id="01940" joined="2014-02-25"/>
+    <cosponsor thomas_id="01942" joined="2013-03-06"/>
+    <cosponsor thomas_id="01884" joined="2013-03-06"/>
+    <cosponsor thomas_id="01729" joined="2013-03-06"/>
+    <cosponsor thomas_id="02112" joined="2013-03-06"/>
+    <cosponsor thomas_id="02166" joined="2013-03-06"/>
+    <cosponsor thomas_id="02167" joined="2014-01-13"/>
+    <cosponsor thomas_id="01184" joined="2013-03-06"/>
+    <cosponsor thomas_id="01188" joined="2013-03-06"/>
+    <cosponsor thomas_id="01856" joined="2013-03-06"/>
+    <cosponsor thomas_id="01777" joined="2014-01-09"/>
+    <cosponsor thomas_id="01205" joined="2013-03-06"/>
+    <cosponsor thomas_id="01209" joined="2013-03-06"/>
+    <cosponsor thomas_id="01879" joined="2013-03-06"/>
+    <cosponsor thomas_id="02004" joined="2013-03-06"/>
+    <cosponsor thomas_id="01853" joined="2014-02-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-06" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2013-04-23">
+      <text>Referred to the Subcommittee on Workforce Protections.</text>
+    </action>
+    <action datetime="2014-02-26T10:06:00-05:00">
+      <text>Motion to Discharge Committee filed by Mr. Bishop (NY). Petition No: 113-7.</text>
+      <reference ref="Discharge petition text with signatures."/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+    <committee subcommittee="Workforce Protections" code="HSED10" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="3746"/>
+    <bill type="h" session="113" relation="unknown" number="3939"/>
+    <bill type="s" session="113" relation="identical" number="460"/>
+    <bill type="s" session="113" relation="unknown" number="1737"/>
+    <bill type="s" session="113" relation="unknown" number="2223"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Department of Labor"/>
+    <term name="Inflation and prices"/>
+    <term name="Labor standards"/>
+    <term name="Wages and earnings"/>
+  </subjects>
+  <amendments/>
+  <summary>3/6/2013--Introduced.
+Fair Minimum Wage Act of 2013 - Amends the Fair Labor Standards Act of 1938 (FLSA) to increase the federal minimum wage for employees to: (1) $8.20 an hour on the first day of the third month after the enactment of this Act; (2) $9.15 an hour after one year; (3) $10.10 an hour after two years; and (4) the amount determined by the Secretary of Labor (based on increases in the Consumer Price Index) after three years, and annually thereafter.
+
+Increases the federal minimum wage for tipped employees to $3.00 an hour for one year on the first day of the third month after the enactment of this Act. Provides a formula for subsequent annual adjustments of the wage increase to ensure that it remains equal to 70% of the wage in effect under FLSA for other employees.
+
+Directs the Secretary of Labor, 60 days before any increase in the minimum wage, to publish it in the Federal Register and on the Department of Labor's website.</summary>
+</bill>

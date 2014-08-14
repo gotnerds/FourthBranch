@@ -1,0 +1,108 @@
+<bill session="113" type="hr" number="72" updated="2014-08-14T12:45:16-04:00">
+  <state datetime="2013-02-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-15"/>
+  </status>
+  <introduced datetime="2013-02-15"/>
+  <titles>
+    <title type="official" as="introduced">Supporting the goals and ideals of the Secondary School Student Athletes' Bill of Rights.</title>
+  </titles>
+  <sponsor thomas_id="01743"/>
+  <cosponsors>
+    <cosponsor thomas_id="02153" joined="2013-11-18"/>
+    <cosponsor thomas_id="01740" joined="2014-02-10"/>
+    <cosponsor thomas_id="00099" joined="2014-07-29"/>
+    <cosponsor thomas_id="00132" joined="2014-04-28"/>
+    <cosponsor thomas_id="01840" joined="2014-06-23"/>
+    <cosponsor thomas_id="02127" joined="2013-04-09"/>
+    <cosponsor thomas_id="00165" joined="2013-12-12"/>
+    <cosponsor thomas_id="02107" joined="2013-11-19"/>
+    <cosponsor thomas_id="02055" joined="2014-01-09"/>
+    <cosponsor thomas_id="01959" joined="2014-01-08"/>
+    <cosponsor thomas_id="01643" joined="2013-04-09"/>
+    <cosponsor thomas_id="02126" joined="2013-05-06"/>
+    <cosponsor thomas_id="01799" joined="2013-11-15"/>
+    <cosponsor thomas_id="01894" joined="2014-05-01"/>
+    <cosponsor thomas_id="02125" joined="2013-03-06"/>
+    <cosponsor thomas_id="01973" joined="2014-06-18"/>
+    <cosponsor thomas_id="00446" joined="2014-04-10"/>
+    <cosponsor thomas_id="01656" joined="2014-03-24"/>
+    <cosponsor thomas_id="01990" joined="2013-10-22"/>
+    <cosponsor thomas_id="02010" joined="2014-07-31"/>
+    <cosponsor thomas_id="02032" joined="2014-03-12"/>
+    <cosponsor thomas_id="02040" joined="2014-07-31"/>
+    <cosponsor thomas_id="01580" joined="2013-10-22"/>
+    <cosponsor thomas_id="02101" joined="2013-12-09"/>
+    <cosponsor thomas_id="02051" joined="2013-06-28"/>
+    <cosponsor thomas_id="01668" joined="2014-03-24"/>
+    <cosponsor thomas_id="01781" joined="2013-05-06"/>
+    <cosponsor thomas_id="01686" joined="2014-06-09"/>
+    <cosponsor thomas_id="00729" joined="2014-05-06"/>
+    <cosponsor thomas_id="01806" joined="2013-04-25"/>
+    <cosponsor thomas_id="01504" joined="2014-03-21"/>
+    <cosponsor thomas_id="01505" joined="2013-09-30"/>
+    <cosponsor thomas_id="02052" joined="2013-11-12"/>
+    <cosponsor thomas_id="01730" joined="2013-11-12"/>
+    <cosponsor thomas_id="01685" joined="2013-03-06"/>
+    <cosponsor thomas_id="00832" joined="2013-12-11"/>
+    <cosponsor thomas_id="01758" joined="2014-01-14"/>
+    <cosponsor thomas_id="00868" joined="2013-10-23"/>
+    <cosponsor thomas_id="01710" joined="2013-02-15"/>
+    <cosponsor thomas_id="01955" joined="2013-08-02"/>
+    <cosponsor thomas_id="00893" joined="2014-05-21"/>
+    <cosponsor thomas_id="02113" joined="2014-08-01"/>
+    <cosponsor thomas_id="00930" joined="2013-06-28"/>
+    <cosponsor thomas_id="02039" joined="2013-07-19"/>
+    <cosponsor thomas_id="01756" joined="2014-05-20"/>
+    <cosponsor thomas_id="02124" joined="2014-06-05"/>
+    <cosponsor thomas_id="01920" joined="2013-06-14"/>
+    <cosponsor thomas_id="01798" joined="2013-12-23"/>
+    <cosponsor thomas_id="01722" joined="2014-05-06"/>
+    <cosponsor thomas_id="01525" joined="2013-04-24"/>
+    <cosponsor thomas_id="01861" joined="2013-03-14"/>
+    <cosponsor thomas_id="01528" joined="2013-02-26"/>
+    <cosponsor thomas_id="02047" joined="2013-03-12"/>
+    <cosponsor thomas_id="01664" joined="2014-06-05"/>
+    <cosponsor thomas_id="01942" joined="2014-07-29"/>
+    <cosponsor thomas_id="01856" joined="2013-03-21"/>
+    <cosponsor thomas_id="02165" joined="2013-06-20"/>
+    <cosponsor thomas_id="01886" joined="2013-03-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-15" state="REFERRED">
+      <text>Referred to the Committee on Education and the Workforce, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-02-15">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2013-02-15">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-02-15">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="sr" session="113" relation="identical" number="372"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Athletes"/>
+    <term name="Child health"/>
+    <term name="Child safety and welfare"/>
+    <term name="Elementary and secondary education"/>
+    <term name="School athletics"/>
+  </subjects>
+  <amendments/>
+  <summary>2/15/2013--Introduced.
+Expresses support for: (1) the principles and values set forth in the Secondary School Student Athletes' Bill of Rights; and (2) secondary schools that have successfully implemented programs, policies, and practices to emphasize and encourage student athlete safety and well-being.
+
+Recognizes the importance of proper safety measures, timely medical assessments, and appropriate environmental conditions, and the role that teachers, parents, coaches, and athletic health care team members play, in ensuring the well-being of secondary school student athletes.
+
+Encourages secondary schools to continue to take all available and reasonable efforts to ensure student athlete safety.</summary>
+</bill>

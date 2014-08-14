@@ -1,0 +1,60 @@
+<bill session="113" type="h" number="535" updated="2014-08-14T12:55:18-04:00">
+  <state datetime="2013-02-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-06"/>
+  </status>
+  <introduced datetime="2013-02-06"/>
+  <titles>
+    <title type="short" as="introduced">Put America Back to Work Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to permanently extend the Build America Bonds program.</title>
+  </titles>
+  <sponsor thomas_id="01959"/>
+  <cosponsors>
+    <cosponsor thomas_id="02107" joined="2013-04-25"/>
+    <cosponsor thomas_id="01999" joined="2013-04-25"/>
+    <cosponsor thomas_id="01889" joined="2013-10-30"/>
+    <cosponsor thomas_id="02055" joined="2013-04-26"/>
+    <cosponsor thomas_id="00299" joined="2013-04-26"/>
+    <cosponsor thomas_id="01857" joined="2013-05-14"/>
+    <cosponsor thomas_id="02125" joined="2013-04-26"/>
+    <cosponsor thomas_id="01973" joined="2013-05-14"/>
+    <cosponsor thomas_id="02089" joined="2013-06-26"/>
+    <cosponsor thomas_id="02101" joined="2013-05-14"/>
+    <cosponsor thomas_id="02190" joined="2014-07-31"/>
+    <cosponsor thomas_id="01501" joined="2014-06-17"/>
+    <cosponsor thomas_id="01846" joined="2013-05-14"/>
+    <cosponsor thomas_id="02111" joined="2013-04-26"/>
+    <cosponsor thomas_id="02146" joined="2013-07-08"/>
+    <cosponsor thomas_id="01943" joined="2013-05-14"/>
+    <cosponsor thomas_id="00867" joined="2013-06-26"/>
+    <cosponsor thomas_id="00868" joined="2013-04-25"/>
+    <cosponsor thomas_id="02171" joined="2013-07-16"/>
+    <cosponsor thomas_id="01861" joined="2013-07-08"/>
+    <cosponsor thomas_id="02110" joined="2013-04-25"/>
+    <cosponsor thomas_id="01884" joined="2013-04-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-06" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="789"/>
+    <bill type="h" session="113" relation="unknown" number="3939"/>
+    <bill type="s" session="113" relation="unknown" number="2203"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Economic development"/>
+    <term name="Floods and storm protection"/>
+    <term name="Income tax credits"/>
+    <term name="Securities"/>
+    <term name="State and local finance"/>
+  </subjects>
+  <amendments/>
+  <summary>2/6/2013--Introduced.
+Put America Back to Work Act - Amends the Internal Revenue Code, with respect to the Build America Bond program, to: (1) extend permanently the authority to issue such bonds and the authority for payments to issuers of such bonds, (2) reduce the percentage rate of payments to issuers, (3) allow refundings of currently-issued Build America bonds, and (4) allow the use of such bonds to fund capital expenditures for levees and flood control projects.</summary>
+</bill>

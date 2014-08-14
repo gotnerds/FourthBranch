@@ -1,0 +1,86 @@
+<bill session="113" type="hr" number="201" updated="2014-08-14T12:46:20-04:00">
+  <state datetime="2013-05-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-06"/>
+  </status>
+  <introduced datetime="2013-05-06"/>
+  <titles>
+    <title type="official" as="introduced">Supporting the goals and ideals of National Nurses Week on May 6, 2013, through May 12, 2013.</title>
+  </titles>
+  <sponsor thomas_id="00599"/>
+  <cosponsors>
+    <cosponsor thomas_id="00099" joined="2013-05-06"/>
+    <cosponsor thomas_id="02092" joined="2013-05-06"/>
+    <cosponsor thomas_id="01723" joined="2013-05-06"/>
+    <cosponsor thomas_id="01845" joined="2013-05-06"/>
+    <cosponsor thomas_id="00132" joined="2013-05-06"/>
+    <cosponsor thomas_id="01471" joined="2013-05-06"/>
+    <cosponsor thomas_id="01889" joined="2013-05-06"/>
+    <cosponsor thomas_id="02159" joined="2013-07-10"/>
+    <cosponsor thomas_id="01970" joined="2013-05-06"/>
+    <cosponsor thomas_id="02055" joined="2013-05-06"/>
+    <cosponsor thomas_id="00211" joined="2013-05-06"/>
+    <cosponsor thomas_id="01912" joined="2013-05-06"/>
+    <cosponsor thomas_id="00229" joined="2013-05-06"/>
+    <cosponsor thomas_id="02126" joined="2013-05-06"/>
+    <cosponsor thomas_id="01976" joined="2013-05-06"/>
+    <cosponsor thomas_id="00299" joined="2013-05-06"/>
+    <cosponsor thomas_id="00303" joined="2013-05-13"/>
+    <cosponsor thomas_id="01857" joined="2013-05-06"/>
+    <cosponsor thomas_id="00367" joined="2013-05-06"/>
+    <cosponsor thomas_id="00368" joined="2013-05-06"/>
+    <cosponsor thomas_id="01743" joined="2013-05-06"/>
+    <cosponsor thomas_id="01708" joined="2013-05-06"/>
+    <cosponsor thomas_id="01922" joined="2013-05-06"/>
+    <cosponsor thomas_id="02044" joined="2013-05-06"/>
+    <cosponsor thomas_id="00511" joined="2013-05-06"/>
+    <cosponsor thomas_id="01580" joined="2013-05-06"/>
+    <cosponsor thomas_id="02101" joined="2013-05-06"/>
+    <cosponsor thomas_id="02154" joined="2013-05-06"/>
+    <cosponsor thomas_id="02172" joined="2013-05-06"/>
+    <cosponsor thomas_id="00635" joined="2013-05-06"/>
+    <cosponsor thomas_id="02145" joined="2013-05-06"/>
+    <cosponsor thomas_id="01668" joined="2013-05-06"/>
+    <cosponsor thomas_id="01501" joined="2013-05-06"/>
+    <cosponsor thomas_id="00683" joined="2013-05-13"/>
+    <cosponsor thomas_id="00688" joined="2013-05-06"/>
+    <cosponsor thomas_id="01846" joined="2013-05-06"/>
+    <cosponsor thomas_id="00701" joined="2013-05-06"/>
+    <cosponsor thomas_id="01504" joined="2013-05-06"/>
+    <cosponsor thomas_id="02148" joined="2013-05-06"/>
+    <cosponsor thomas_id="01811" joined="2013-05-06"/>
+    <cosponsor thomas_id="00944" joined="2013-05-06"/>
+    <cosponsor thomas_id="00997" joined="2013-05-06"/>
+    <cosponsor thomas_id="01003" joined="2013-05-06"/>
+    <cosponsor thomas_id="01950" joined="2013-05-06"/>
+    <cosponsor thomas_id="01798" joined="2013-05-06"/>
+    <cosponsor thomas_id="01890" joined="2013-05-06"/>
+    <cosponsor thomas_id="02110" joined="2013-05-06"/>
+    <cosponsor thomas_id="02004" joined="2013-05-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-06" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-05-10">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="113" relation="identical" number="540"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Health personnel"/>
+    <term name="Nursing"/>
+  </subjects>
+  <amendments/>
+  <summary>5/6/2013--Introduced.
+Expresses support for the goals and ideals of National Nurses Week. Recognizes the contributions of nurses to the U.S. health care system.</summary>
+</bill>

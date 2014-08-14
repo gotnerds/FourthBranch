@@ -1,0 +1,412 @@
+<bill session="113" type="h" number="3979" updated="2014-08-14T13:25:22-04:00">
+  <state datetime="2014-04-07">PASS_BACK:SENATE</state>
+  <status>
+    <unknown datetime="2014-04-07"/>
+  </status>
+  <introduced datetime="2014-01-31"/>
+  <titles>
+    <title type="short" as="introduced">Protecting Volunteer Firefighters and Emergency Responders Act</title>
+    <title type="short" as="reported to house">Protecting Volunteer Firefighters and Emergency Responders Act of 2014</title>
+    <title type="short" as="passed house">Protecting Volunteer Firefighters and Emergency Responders Act of 2014</title>
+    <title type="short" as="passed senate">Emergency Unemployment Compensation Extension Act of 2014</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to ensure that emergency services volunteers are not taken into account as employees under the shared responsibility requirements contained in the Patient Protection and Affordable Care Act.</title>
+  </titles>
+  <sponsor thomas_id="02054"/>
+  <cosponsors>
+    <cosponsor thomas_id="00038" joined="2014-01-31"/>
+    <cosponsor thomas_id="02093" joined="2014-02-11"/>
+    <cosponsor thomas_id="02131" joined="2014-01-31"/>
+    <cosponsor thomas_id="02027" joined="2014-02-06"/>
+    <cosponsor thomas_id="02135" joined="2014-02-11"/>
+    <cosponsor thomas_id="01740" joined="2014-02-18"/>
+    <cosponsor thomas_id="02092" joined="2014-02-03"/>
+    <cosponsor thomas_id="02155" joined="2014-02-05"/>
+    <cosponsor thomas_id="02129" joined="2014-02-05"/>
+    <cosponsor thomas_id="01676" joined="2014-02-05"/>
+    <cosponsor thomas_id="01999" joined="2014-02-06"/>
+    <cosponsor thomas_id="01889" joined="2014-02-18"/>
+    <cosponsor thomas_id="01752" joined="2014-02-03"/>
+    <cosponsor thomas_id="02151" joined="2014-01-31"/>
+    <cosponsor thomas_id="01959" joined="2014-02-03"/>
+    <cosponsor thomas_id="02098" joined="2014-01-31"/>
+    <cosponsor thomas_id="01836" joined="2014-02-04"/>
+    <cosponsor thomas_id="02144" joined="2014-02-03"/>
+    <cosponsor thomas_id="01989" joined="2014-02-05"/>
+    <cosponsor thomas_id="02138" joined="2014-02-05"/>
+    <cosponsor thomas_id="02126" joined="2014-01-31"/>
+    <cosponsor thomas_id="00279" joined="2014-02-05"/>
+    <cosponsor thomas_id="01799" joined="2014-02-04"/>
+    <cosponsor thomas_id="02114" joined="2014-02-05"/>
+    <cosponsor thomas_id="02064" joined="2014-01-31"/>
+    <cosponsor thomas_id="01797" joined="2014-01-31"/>
+    <cosponsor thomas_id="01683" joined="2014-02-06"/>
+    <cosponsor thomas_id="00414" joined="2014-02-03"/>
+    <cosponsor thomas_id="02120" joined="2014-02-11"/>
+    <cosponsor thomas_id="01998" joined="2014-01-31"/>
+    <cosponsor thomas_id="01743" joined="2014-01-31"/>
+    <cosponsor thomas_id="02049" joined="2014-02-11"/>
+    <cosponsor thomas_id="02043" joined="2014-02-05"/>
+    <cosponsor thomas_id="00446" joined="2014-02-11"/>
+    <cosponsor thomas_id="01992" joined="2014-02-11"/>
+    <cosponsor thomas_id="01656" joined="2014-02-03"/>
+    <cosponsor thomas_id="01990" joined="2014-01-31"/>
+    <cosponsor thomas_id="02070" joined="2014-02-03"/>
+    <cosponsor thomas_id="02041" joined="2014-01-31"/>
+    <cosponsor thomas_id="02044" joined="2014-01-31"/>
+    <cosponsor thomas_id="01933" joined="2014-02-05"/>
+    <cosponsor thomas_id="02026" joined="2014-02-03"/>
+    <cosponsor thomas_id="00512" joined="2014-02-18"/>
+    <cosponsor thomas_id="02020" joined="2014-02-04"/>
+    <cosponsor thomas_id="02028" joined="2014-01-31"/>
+    <cosponsor thomas_id="02069" joined="2014-02-05"/>
+    <cosponsor thomas_id="01663" joined="2014-02-04"/>
+    <cosponsor thomas_id="01921" joined="2014-01-31"/>
+    <cosponsor thomas_id="00603" joined="2014-01-31"/>
+    <cosponsor thomas_id="00612" joined="2014-01-31"/>
+    <cosponsor thomas_id="02154" joined="2014-01-31"/>
+    <cosponsor thomas_id="02051" joined="2014-01-31"/>
+    <cosponsor thomas_id="02169" joined="2014-02-05"/>
+    <cosponsor thomas_id="00635" joined="2014-02-03"/>
+    <cosponsor thomas_id="01936" joined="2014-01-31"/>
+    <cosponsor thomas_id="02050" joined="2014-02-03"/>
+    <cosponsor thomas_id="00666" joined="2014-02-04"/>
+    <cosponsor thomas_id="01885" joined="2014-02-03"/>
+    <cosponsor thomas_id="00699" joined="2014-01-31"/>
+    <cosponsor thomas_id="01960" joined="2014-02-03"/>
+    <cosponsor thomas_id="02053" joined="2014-01-31"/>
+    <cosponsor thomas_id="02094" joined="2014-02-03"/>
+    <cosponsor thomas_id="01804" joined="2014-02-05"/>
+    <cosponsor thomas_id="02074" joined="2014-01-31"/>
+    <cosponsor thomas_id="02142" joined="2014-01-31"/>
+    <cosponsor thomas_id="02052" joined="2014-01-31"/>
+    <cosponsor thomas_id="01730" joined="2014-02-03"/>
+    <cosponsor thomas_id="01731" joined="2014-01-31"/>
+    <cosponsor thomas_id="01744" joined="2014-02-05"/>
+    <cosponsor thomas_id="02034" joined="2014-02-03"/>
+    <cosponsor thomas_id="01930" joined="2014-02-03"/>
+    <cosponsor thomas_id="02157" joined="2014-01-31"/>
+    <cosponsor thomas_id="02141" joined="2014-02-03"/>
+    <cosponsor thomas_id="01514" joined="2014-01-31"/>
+    <cosponsor thomas_id="01802" joined="2014-02-14"/>
+    <cosponsor thomas_id="00940" joined="2014-02-03"/>
+    <cosponsor thomas_id="01982" joined="2014-01-31"/>
+    <cosponsor thomas_id="01810" joined="2014-01-31"/>
+    <cosponsor thomas_id="02048" joined="2014-01-31"/>
+    <cosponsor thomas_id="01986" joined="2014-02-03"/>
+    <cosponsor thomas_id="02017" joined="2014-02-03"/>
+    <cosponsor thomas_id="01848" joined="2014-02-04"/>
+    <cosponsor thomas_id="02158" joined="2014-02-03"/>
+    <cosponsor thomas_id="02039" joined="2014-01-31"/>
+    <cosponsor thomas_id="01525" joined="2014-02-04"/>
+    <cosponsor thomas_id="01527" joined="2014-02-03"/>
+    <cosponsor thomas_id="01681" joined="2014-01-31"/>
+    <cosponsor thomas_id="01590" joined="2014-01-31"/>
+    <cosponsor thomas_id="02047" joined="2014-02-03"/>
+    <cosponsor thomas_id="01952" joined="2014-01-31"/>
+    <cosponsor thomas_id="01664" joined="2014-01-31"/>
+    <cosponsor thomas_id="01741" joined="2014-02-03"/>
+    <cosponsor thomas_id="01729" joined="2014-02-04"/>
+    <cosponsor thomas_id="01855" joined="2014-02-06"/>
+    <cosponsor thomas_id="01596" joined="2014-02-03"/>
+    <cosponsor thomas_id="02128" joined="2014-02-05"/>
+    <cosponsor thomas_id="02002" joined="2014-02-04"/>
+    <cosponsor thomas_id="02152" joined="2014-02-03"/>
+    <cosponsor thomas_id="01779" joined="2014-02-03"/>
+    <cosponsor thomas_id="01222" joined="2014-02-03"/>
+    <cosponsor thomas_id="02165" joined="2014-02-03"/>
+    <cosponsor thomas_id="01688" joined="2014-02-05"/>
+    <cosponsor thomas_id="01886" joined="2014-02-03"/>
+    <cosponsor thomas_id="01991" joined="2014-02-04"/>
+    <cosponsor thomas_id="02021" joined="2014-02-05"/>
+    <cosponsor thomas_id="02019" joined="2014-01-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-01-31" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2014-02-04">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-02-04" state="REPORTED">
+      <text>Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 37 - 0.</text>
+    </calendar>
+    <action datetime="2014-02-25T17:44:00-05:00">
+      <text>Reported (Amended) by the Committee on Ways and Means. H. Rept. 113-360.</text>
+    </action>
+    <calendar datetime="2014-02-25T17:44:00-05:00" calendar="Union" number="268">
+      <text>Placed on the Union Calendar, Calendar No. 268.</text>
+    </calendar>
+    <action datetime="2014-03-11T17:11:00-04:00">
+      <text>Mr. Brady (TX) moved to suspend the rules and pass the bill, as amended.</text>
+      <reference ref="CR H2278" label="consideration"/>
+    </action>
+    <action datetime="2014-03-11T17:11:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2278-2280" label="consideration"/>
+    </action>
+    <action datetime="2014-03-11T17:11:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3979.</text>
+    </action>
+    <action datetime="2014-03-11T17:31:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2014-03-11T18:55:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H2285-2286" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="116" datetime="2014-03-11T19:03:00-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 0 (Roll no. 116).</text>
+      <reference ref="CR H2278" label="text"/>
+    </vote>
+    <action datetime="2014-03-12">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2014-03-13">
+      <text>Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+    </action>
+    <calendar datetime="2014-03-24" calendar="Senate Legislative" under="General Orders" number="333">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 333.</text>
+    </calendar>
+    <action datetime="2014-03-25">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+      <reference ref="CR S1720" label="consideration"/>
+    </action>
+    <action datetime="2014-03-26">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+      <reference ref="CR S1741-1744" label="consideration"/>
+      <reference ref="S1761-1770, S1770-1771"/>
+    </action>
+    <action datetime="2014-03-26">
+      <text>Cloture motion on the motion to proceed to the measure presented in Senate.</text>
+      <reference ref="CR S1770-1771" label="consideration"/>
+      <reference ref="CR S1770-1771" label="text"/>
+    </action>
+    <action datetime="2014-03-27">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+      <reference ref="CR S1781-1784, S1793, S1799-1800, S1800, S1803-1809" label="consideration"/>
+    </action>
+    <vote-aux how="roll" type="cloture" roll="90" datetime="2014-03-27" where="s" result="pass">
+      <text>Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 65 - 34. Record Vote Number: 90.</text>
+      <reference ref="CR S1799-1800" label="consideration"/>
+      <reference ref="CR S1799" label="text"/>
+    </vote-aux>
+    <action datetime="2014-03-31">
+      <text>Motion to proceed to consideration of measure agreed to in Senate by Voice Vote.</text>
+    </action>
+    <action datetime="2014-03-31">
+      <text>Measure laid before Senate by motion.</text>
+      <reference ref="CR S1859-1860" label="consideration"/>
+    </action>
+    <action datetime="2014-03-31">
+      <text>Motion by Senator Reid to commit to Senate Committee on Finance with instructions to report back forthwith with the following amendment (SA 2879) made in Senate.</text>
+      <reference ref="CR S1860" label="consideration"/>
+      <reference ref="CR S1860" label="text"/>
+    </action>
+    <action datetime="2014-03-31">
+      <text>Cloture motion on the measure presented in Senate.</text>
+      <reference ref="CR S1860" label="consideration"/>
+      <reference ref="CR S1860" label="text"/>
+    </action>
+    <action datetime="2014-04-01">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S1897" label="consideration"/>
+    </action>
+    <action datetime="2014-04-02">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S2044-2046, S2047-2081, S2082-2085" label="consideration"/>
+    </action>
+    <action datetime="2014-04-02">
+      <text>Motion by Senator Reid to commit to Senate Committee on Finance with instructions to report back forthwith with the following amendment (SA 2879) fell when cloture was invoked on SA 2874 in Senate.</text>
+      <reference ref="CR S2047" label="consideration"/>
+    </action>
+    <action datetime="2014-04-02">
+      <text>Senator Vitter moved to appeal the ruling of the chair that Amdt. No. 2931 is not in order to be proposed.</text>
+      <reference ref="CR S2081" label="consideration"/>
+    </action>
+    <action datetime="2014-04-02">
+      <text>Motion to table the motion to appeal the ruling of the chair agreed to in Senate by Yea-Nay Vote. 67 - 29. Record Vote Number: 98.</text>
+    </action>
+    <action datetime="2014-04-03">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S2137-2140, S2141-2144, S2145-2146, S2148, S2148-2149, S2149-2150, S2152" label="consideration"/>
+    </action>
+    <action datetime="2014-04-03">
+      <text>Cloture on the measure invoked in Senate by Yea-Nay Vote. 61 - 35. Record Vote Number: 100.</text>
+      <reference ref="CR S2150" label="consideration"/>
+      <reference ref="CR S2150" label="text"/>
+    </action>
+    <action datetime="2014-04-07">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S2175-2178" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote2" roll="101" datetime="2014-04-07" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with an amendment by Yea-Nay Vote. 59 - 38. Record Vote Number: 101.</text>
+      <reference ref="CR S2176-2178" label="text"/>
+    </vote>
+    <action datetime="2014-04-08">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="3685"/>
+    <bill type="h" session="113" relation="unknown" number="3824"/>
+    <bill type="h" session="113" relation="unknown" number="4415"/>
+    <bill type="h" session="113" relation="unknown" number="4415"/>
+    <bill type="h" session="113" relation="unknown" number="4550"/>
+    <bill type="h" session="113" relation="unknown" number="4970"/>
+    <bill type="s" session="113" relation="unknown" number="1798"/>
+    <bill type="s" session="113" relation="unknown" number="1845"/>
+    <bill type="s" session="113" relation="unknown" number="2148"/>
+    <bill type="s" session="113" relation="unknown" number="2149"/>
+    <bill type="s" session="113" relation="unknown" number="2532"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Accounting and auditing"/>
+    <term name="Appropriations"/>
+    <term name="Congressional oversight"/>
+    <term name="Customs enforcement"/>
+    <term name="Department of Labor"/>
+    <term name="Emergency medical services and trauma care"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Employee hiring"/>
+    <term name="Employment and training programs"/>
+    <term name="Employment taxes"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Fires"/>
+    <term name="First responders and emergency personnel"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Railroads"/>
+    <term name="Sales and excise taxes"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+    <term name="State and local finance"/>
+    <term name="Transportation employees"/>
+    <term name="Unemployment"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments>
+    <amendment number="s2874"/>
+    <amendment number="s2875"/>
+    <amendment number="s2876"/>
+    <amendment number="s2877"/>
+    <amendment number="s2878"/>
+    <amendment number="s2879"/>
+    <amendment number="s2880"/>
+    <amendment number="s2881"/>
+    <amendment number="s2882"/>
+    <amendment number="s2884"/>
+    <amendment number="s2885"/>
+    <amendment number="s2886"/>
+    <amendment number="s2887"/>
+    <amendment number="s2888"/>
+    <amendment number="s2889"/>
+    <amendment number="s2891"/>
+    <amendment number="s2892"/>
+    <amendment number="s2893"/>
+    <amendment number="s2894"/>
+    <amendment number="s2895"/>
+    <amendment number="s2896"/>
+    <amendment number="s2897"/>
+    <amendment number="s2898"/>
+    <amendment number="s2899"/>
+    <amendment number="s2900"/>
+    <amendment number="s2901"/>
+    <amendment number="s2902"/>
+    <amendment number="s2903"/>
+    <amendment number="s2904"/>
+    <amendment number="s2905"/>
+    <amendment number="s2906"/>
+    <amendment number="s2907"/>
+    <amendment number="s2908"/>
+    <amendment number="s2909"/>
+    <amendment number="s2910"/>
+    <amendment number="s2911"/>
+    <amendment number="s2912"/>
+    <amendment number="s2913"/>
+    <amendment number="s2914"/>
+    <amendment number="s2915"/>
+    <amendment number="s2916"/>
+    <amendment number="s2917"/>
+    <amendment number="s2918"/>
+    <amendment number="s2919"/>
+    <amendment number="s2920"/>
+    <amendment number="s2921"/>
+    <amendment number="s2922"/>
+    <amendment number="s2923"/>
+    <amendment number="s2924"/>
+    <amendment number="s2925"/>
+    <amendment number="s2926"/>
+    <amendment number="s2927"/>
+    <amendment number="s2928"/>
+    <amendment number="s2929"/>
+    <amendment number="s2930"/>
+    <amendment number="s2931"/>
+    <amendment number="s2932"/>
+    <amendment number="s2933"/>
+    <amendment number="s2934"/>
+    <amendment number="s2935"/>
+    <amendment number="s2936"/>
+    <amendment number="s2937"/>
+    <amendment number="s2938"/>
+    <amendment number="s2939"/>
+    <amendment number="s2940"/>
+    <amendment number="s2941"/>
+    <amendment number="s2942"/>
+    <amendment number="s2943"/>
+    <amendment number="s2944"/>
+    <amendment number="s2945"/>
+    <amendment number="s2946"/>
+    <amendment number="s2947"/>
+    <amendment number="s2948"/>
+    <amendment number="s2949"/>
+    <amendment number="s2950"/>
+    <amendment number="s2951"/>
+    <amendment number="s2952"/>
+    <amendment number="s2953"/>
+    <amendment number="s2954"/>
+    <amendment number="s2955"/>
+    <amendment number="s2958"/>
+    <amendment number="s2959"/>
+  </amendments>
+  <summary>4/7/2014--Passed Senate amended.
+Emergency Unemployment Compensation Extension Act of 2014 - (Sec. 2) Amends the Supplemental Appropriations Act, 2008 (SAA, 2008) to extend emergency unemployment compensation (EUC) payments for eligible individuals to weeks of employment ending on or before June 1, 2014. (Authority for payment of unemployment compensation expired on December 31, 2013. This amendment authorizes payment of compensation for the entire period between January 1, 2014, and June 1, 2014.)
+
+ (Sec. 3) Amends the Assistance for Unemployed Workers and Struggling Families Act to extend until May 31, 2014, requirements that federal payments to states cover 100% of EUC.
+
+ Amends the Unemployment Compensation Extension Act of 2008 to exempt weeks of unemployment between enactment of this Act and November 30, 2014, from the prohibition in the Federal-State Extended Unemployment Compensation Act of 1970 (FSEUCA of 1970) against federal matching payments to a state for the first week in an individual's eligibility period for which extended compensation or sharable regular compensation is paid if the state law provides for payment of regular compensation to an individual for his or her first week of otherwise compensable unemployment. (Thus allows temporary federal matching for the first week of extended benefits for states with no waiting period.)
+
+ Amends the FSEUCA of 1970 to postpone similarly from December 31, 2013, to May 31, 2014, termination of the period during which a state may determine its "on" and "off" indicators according to specified temporary substitutions in its formula.
+
+ (Sec. 4) Amends the SAA, 2008 to appropriate funds out of the employment security administration account through the first five months of FY2015 to assist states in providing reemployment and eligibility assessment activities.
+
+Requires the provision of such activities to an individual, at a minimum, within a time period after he or she begins to receive Tier-1 EUC benefits, and if applicable, again within a time period after he or she begins to receive Tier-3 EUC benefits. Requires the Secretary of Labor to determine appropriate time periods.
+
+Specifies the purposes of the activities, namely to:
+
+ better link the unemployed with the overall workforce system by bringing individuals receiving unemployment insurance benefits in for personalized assessments and referrals to reemployment services; and provide them with early access to specific strategies that can help get them back into the workforce faster, including through: (1) the development of a reemployment plan, (2) provision of access to relevant labor market information, (3) provision of access to information about industry-recognized credentials that are regionally relevant or nationally portable, (4) provision of referrals to reemployment services and training, and (5) an assessment of the individual's on-going eligibility for unemployment insurance benefits. (Sec. 5) Amends the Railroad Unemployment Insurance Act to extend through May 31, 2014, the temporary increase in extended unemployment benefits.
+
+(Sec. 6) Makes a change in application of a certain requirement (nonreduction rule) to a state that has entered a federal-state EUC agreement, under which the federal government would reimburse the state's unemployment compensation agency making EUC payments to individuals who have exhausted all rights to regular unemployment compensation under state or federal law and meet specified other criteria.
+
+ (Under the nonreduction rule such an agreement does not apply with respect to a state whose method for computing regular unemployment compensation under state law has been modified to make the average weekly unemployment compensation benefit paid on or after June 2, 2010, less than what would have been paid before June 2, 2010.)
+
+ Declares that the nonreduction rule shall not apply to a state which has enacted a law before December 1, 2013, that, upon taking effect, would violate the nonreduction rule. Allows a state whose agreement was terminated, however, to enter into a subsequent federal-state EUC agreement on or after enactment of this Act if, taking into account this inapplicability of the nonreduction rule, it would otherwise meet the requirements for an EUC agreement. (Thus allows such a subsequent EUC agreement to permit payment of less than the average weekly unemployment compensation benefit paid on or after June 2, 2010.)
+
+(Sec. 7) Prohibits the use of federal funds to: (1) make payments of unemployment compensation to any individual whose adjusted gross income in the preceding year was at least $1 million, or (2) determine whether or not this prohibition applies to an individual.
+
+(Sec. 8) Requires the Comptroller General (GAO) to:
+
+ study the use of work suitability requirements to strengthen them to ensure that unemployment insurance benefits are being provided to individuals who are actively looking for work and truly want to return to the labor force; and brief Congress on the ongoing study, including preliminary recommendations for appropriate legislation and administrative action. (Sec. 9) Amends the Employee Retirement Income Security Act of 1974 (ERISA) and the Internal Revenue Code to revise the applicable percentages for determining minimum funding standards for single-employer defined benefit pension plans (funding stabilization). Exempts plans providing accelerated benefit distributions from the application of such standards.
+
+(Sec. 10) Amends ERISA, with respect to pension insurance premiums paid by a designated payor (i.e., the contributing sponsor or plan administrator for a single employer pension plan and the plan administrator for the multiemployer plan) to the Pension Benefit Guaranty Corporation (PBGC). Allows a designated payor to elect to prepay, during any plan year, the applicable PBGC flat dollar insurance premium due for up to five consecutive subsequent plan years specified in the election.
+
+(Sec. 11) Amends the Consolidated Omnibus Budget Reconciliation Act of 1985 to extend through FY2024 the authority of the Secretary of the Treasury to collect customs user fees for the processing of certain merchandise.
+
+(Sec. 12) Amends the Internal Revenue Code to provide that a bona fide volunteer providing firefighting and prevention services, emergency medical services, or ambulance services to a state or local government or tax-exempt organization shall not be counted in determining the number of full-time employees of an employer for purposes of the employer mandate to provide minimum essential health care coverage under the Patient Protection and Affordable Care Act.
+
+Excludes services rendered as a bona fide volunteer to any governmental entity and any tax-exempt organization (specified employer) from the determination of the number of full-time employees of an employer for purposes of such mandate. Defines "bona fide volunteer" as an employee whose only compensation from a specified employer is in the form of: (1) reimbursement for (or reasonable allowance for) reasonable expenses incurred in the performances of volunteer services; or (2) reasonable benefits and nominal fees, customarily paid in connection with the performance of volunteer services.</summary>
+</bill>

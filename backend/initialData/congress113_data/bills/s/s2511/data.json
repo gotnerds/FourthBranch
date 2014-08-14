@@ -1,0 +1,91 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-19", 
+      "committees": [
+        "SSHR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-07-23", 
+      "committees": [
+        "SSHR"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2511-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Alexander, Lamar", 
+      "sponsored_at": "2014-06-19", 
+      "state": "TN", 
+      "thomas_id": "01695", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-06-19", 
+  "number": "2511", 
+  "official_title": "A bill to amend the Employee Retirement Income Security Act of 1974 to clarify the definition of substantial cessation of operations.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Harkin, Tom", 
+    "state": "IA", 
+    "thomas_id": "00501", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2014-07-23", 
+  "subjects": [
+    "Corporate finance and management", 
+    "Employee benefits and pensions", 
+    "Labor and employment", 
+    "Pension Benefit Guaranty Corporation"
+  ], 
+  "subjects_top_term": "Labor and employment", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to amend the Employee Retirement Income Security Act of 1974 to clarify the definition of substantial cessation of operations.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T14:06:13-04:00"
+}

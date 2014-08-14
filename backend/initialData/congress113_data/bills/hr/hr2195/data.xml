@@ -1,0 +1,98 @@
+<bill session="113" type="h" number="2195" updated="2014-08-14T13:10:03-04:00">
+  <state datetime="2013-05-23">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-23"/>
+  </status>
+  <introduced datetime="2013-05-23"/>
+  <titles>
+    <title type="short" as="introduced">Promise Neighborhoods Act of 2013</title>
+    <title type="official" as="introduced">To support Promise Neighborhoods.</title>
+  </titles>
+  <sponsor thomas_id="02097"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2013-05-23"/>
+    <cosponsor thomas_id="00091" joined="2013-05-23"/>
+    <cosponsor thomas_id="00132" joined="2013-06-18"/>
+    <cosponsor thomas_id="01761" joined="2013-05-23"/>
+    <cosponsor thomas_id="01889" joined="2013-05-23"/>
+    <cosponsor thomas_id="02055" joined="2013-07-19"/>
+    <cosponsor thomas_id="01864" joined="2013-05-23"/>
+    <cosponsor thomas_id="01654" joined="2013-05-23"/>
+    <cosponsor thomas_id="01790" joined="2013-06-28"/>
+    <cosponsor thomas_id="01878" joined="2013-12-11"/>
+    <cosponsor thomas_id="00256" joined="2013-06-28"/>
+    <cosponsor thomas_id="01477" joined="2013-05-23"/>
+    <cosponsor thomas_id="01641" joined="2013-11-14"/>
+    <cosponsor thomas_id="01857" joined="2013-05-23"/>
+    <cosponsor thomas_id="00371" joined="2013-05-23"/>
+    <cosponsor thomas_id="01895" joined="2013-05-23"/>
+    <cosponsor thomas_id="01803" joined="2013-05-23"/>
+    <cosponsor thomas_id="01708" joined="2013-05-23"/>
+    <cosponsor thomas_id="01794" joined="2013-05-23"/>
+    <cosponsor thomas_id="01490" joined="2013-05-23"/>
+    <cosponsor thomas_id="01580" joined="2013-11-14"/>
+    <cosponsor thomas_id="01634" joined="2013-05-23"/>
+    <cosponsor thomas_id="02147" joined="2013-05-23"/>
+    <cosponsor thomas_id="02101" joined="2014-01-15"/>
+    <cosponsor thomas_id="00588" joined="2013-05-23"/>
+    <cosponsor thomas_id="01501" joined="2013-05-23"/>
+    <cosponsor thomas_id="00688" joined="2013-06-18"/>
+    <cosponsor thomas_id="02111" joined="2013-06-18"/>
+    <cosponsor thomas_id="01939" joined="2014-01-15"/>
+    <cosponsor thomas_id="01653" joined="2013-10-22"/>
+    <cosponsor thomas_id="01504" joined="2013-05-23"/>
+    <cosponsor thomas_id="01832" joined="2013-11-14"/>
+    <cosponsor thomas_id="01506" joined="2013-05-23"/>
+    <cosponsor thomas_id="00868" joined="2013-05-23"/>
+    <cosponsor thomas_id="02171" joined="2013-06-18"/>
+    <cosponsor thomas_id="01910" joined="2013-05-23"/>
+    <cosponsor thomas_id="00944" joined="2013-05-23"/>
+    <cosponsor thomas_id="02023" joined="2013-12-11"/>
+    <cosponsor thomas_id="00997" joined="2014-01-15"/>
+    <cosponsor thomas_id="01635" joined="2013-11-21"/>
+    <cosponsor thomas_id="01037" joined="2013-05-23"/>
+    <cosponsor thomas_id="01818" joined="2013-07-19"/>
+    <cosponsor thomas_id="02110" joined="2014-01-29"/>
+    <cosponsor thomas_id="01151" joined="2013-05-23"/>
+    <cosponsor thomas_id="01942" joined="2013-06-18"/>
+    <cosponsor thomas_id="02112" joined="2013-07-30"/>
+    <cosponsor thomas_id="01777" joined="2013-05-23"/>
+    <cosponsor thomas_id="02004" joined="2013-05-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-23" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2013-07-08">
+      <text>Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+    <committee subcommittee="Early Childhood, Elementary, and Secondary Education" code="HSED14" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Academic performance and assessments"/>
+    <term name="Education of the disadvantaged"/>
+    <term name="Education programs funding"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Preschool education"/>
+    <term name="Special education"/>
+    <term name="Teaching, teachers, curricula"/>
+  </subjects>
+  <amendments/>
+  <summary>5/23/2013--Introduced.
+Promise Neighborhoods Act of 2013 - Directs the Secretary of Education to award competitive, matching Promise Neighborhood Partnership grants to nonprofit organizations that partner with a local educational agency (LEA) to implement a comprehensive continuum of supports and services that engage community partners in improving the academic achievement, health and social development, and college and career readiness of children that live in distressed neighborhoods with underperforming schools.
+
+Directs the Secretary to award competitive, matching Promise School grants to LEAs that partner with nonprofit organizations, and Indian or charter schools that partner with nonprofit organizations or institutions of higher education, to implement school-centered strategies and integrated student supports that leverage community partnerships to improve student achievement and development in schools with high concentrations of low-income children.
+
+Authorizes the Secretary to renew Promise Neighborhood Partnership grants and Promise School grants if the grantees demonstrate significant success in: (1) ensuring children's school readiness; (2) improving their academic outcomes; (3) increasing their college and career readiness; and (4) improving their health, mental health, and social and emotional well-being.
+
+Requires this Act's grantees to evaluate their programs continuously and improve them based on data and outcomes.
+
+Directs the Secretary to evaluate this Act's grant programs and disseminate research on best practices for improving the academic achievement of children living in our most distressed communities.
+
+Authorizes the Secretary to award matching planning grants to entities eligible for this Act's other grants.</summary>
+</bill>

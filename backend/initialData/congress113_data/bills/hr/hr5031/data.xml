@@ -1,0 +1,56 @@
+<bill session="113" type="h" number="5031" updated="2014-08-14T13:34:25-04:00">
+  <state datetime="2014-07-14T15:25:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-07-14T15:25:00-04:00"/>
+  </status>
+  <introduced datetime="2014-07-08"/>
+  <titles>
+    <title type="short" as="introduced">STEM Education Act of 2014</title>
+    <title type="short" as="passed house">STEM Education Act of 2014</title>
+    <title type="official" as="introduced">To define STEM education to include computer science, and to support existing STEM education programs at the National Science Foundation.</title>
+  </titles>
+  <sponsor thomas_id="01075"/>
+  <cosponsors>
+    <cosponsor thomas_id="02018" joined="2014-07-08"/>
+    <cosponsor thomas_id="02151" joined="2014-07-08"/>
+    <cosponsor thomas_id="02114" joined="2014-07-08"/>
+    <cosponsor thomas_id="02015" joined="2014-07-08"/>
+    <cosponsor thomas_id="00599" joined="2014-07-08"/>
+    <cosponsor thomas_id="02190" joined="2014-07-08"/>
+    <cosponsor thomas_id="02172" joined="2014-07-08"/>
+    <cosponsor thomas_id="01781" joined="2014-07-08"/>
+    <cosponsor thomas_id="02004" joined="2014-07-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-08" state="REFERRED">
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="2014-07-14T15:04:00-04:00">
+      <text>Mr. Smith (TX) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2014-07-14T15:04:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref=" CR H6141-6144" label="consideration"/>
+    </action>
+    <action datetime="2014-07-14T15:04:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5031.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-07-14T15:25:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H6141" label="text"/>
+    </vote>
+    <action datetime="2014-07-14T15:25:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-07-15">
+      <text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

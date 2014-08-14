@@ -1,0 +1,67 @@
+<bill session="113" type="hr" number="301" updated="2014-08-14T12:47:11-04:00">
+  <state datetime="2013-07-16">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-16"/>
+  </status>
+  <introduced datetime="2013-07-16"/>
+  <titles>
+    <title type="official" as="introduced">Expressing support for designation of September 2013 as National Ovarian Cancer Awareness Month.</title>
+  </titles>
+  <sponsor thomas_id="01663"/>
+  <cosponsors>
+    <cosponsor thomas_id="01740" joined="2013-09-11"/>
+    <cosponsor thomas_id="01723" joined="2013-09-25"/>
+    <cosponsor thomas_id="01839" joined="2013-09-27"/>
+    <cosponsor thomas_id="01959" joined="2013-09-25"/>
+    <cosponsor thomas_id="01479" joined="2013-07-16"/>
+    <cosponsor thomas_id="00281" joined="2013-07-16"/>
+    <cosponsor thomas_id="01797" joined="2013-07-16"/>
+    <cosponsor thomas_id="01743" joined="2013-09-11"/>
+    <cosponsor thomas_id="01708" joined="2013-09-27"/>
+    <cosponsor thomas_id="01794" joined="2013-09-23"/>
+    <cosponsor thomas_id="01913" joined="2013-07-18"/>
+    <cosponsor thomas_id="01580" joined="2013-11-13"/>
+    <cosponsor thomas_id="01640" joined="2013-07-16"/>
+    <cosponsor thomas_id="00635" joined="2013-09-11"/>
+    <cosponsor thomas_id="00666" joined="2013-09-23"/>
+    <cosponsor thomas_id="00683" joined="2013-09-11"/>
+    <cosponsor thomas_id="00729" joined="2013-09-25"/>
+    <cosponsor thomas_id="01653" joined="2013-09-25"/>
+    <cosponsor thomas_id="01504" joined="2013-09-26"/>
+    <cosponsor thomas_id="01731" joined="2013-08-01"/>
+    <cosponsor thomas_id="01811" joined="2013-09-27"/>
+    <cosponsor thomas_id="00832" joined="2013-09-25"/>
+    <cosponsor thomas_id="00868" joined="2013-09-25"/>
+    <cosponsor thomas_id="01861" joined="2013-08-02"/>
+    <cosponsor thomas_id="02099" joined="2013-07-16"/>
+    <cosponsor thomas_id="01069" joined="2013-09-27"/>
+    <cosponsor thomas_id="01942" joined="2013-09-27"/>
+    <cosponsor thomas_id="01884" joined="2013-09-25"/>
+    <cosponsor thomas_id="01777" joined="2013-09-27"/>
+    <cosponsor thomas_id="02004" joined="2013-10-24"/>
+    <cosponsor thomas_id="01255" joined="2013-09-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-16" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="113" relation="unknown" number="697"/>
+    <bill type="sr" session="113" relation="unknown" number="205"/>
+    <bill type="sr" session="113" relation="unknown" number="536"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Cancer"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Women's health"/>
+  </subjects>
+  <amendments/>
+  <summary>7/16/2013--Introduced.
+Expresses support for the designation of National Ovarian Cancer Awareness Month.</summary>
+</bill>

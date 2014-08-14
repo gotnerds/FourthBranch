@@ -1,0 +1,28 @@
+<bill session="113" type="h" number="5097" updated="2014-08-14T13:34:59-04:00">
+  <state datetime="2014-07-14">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-14"/>
+  </status>
+  <introduced datetime="2014-07-14"/>
+  <titles>
+    <title type="short" as="introduced">Local Care for Veterans Act</title>
+    <title type="official" as="introduced">To direct the Secretary of Veterans Affairs to allow certain veterans to participate in the Patient-Centered Community Care program.</title>
+  </titles>
+  <sponsor thomas_id="01787"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-14" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2014-07-18">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Health" code="HSVR03" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

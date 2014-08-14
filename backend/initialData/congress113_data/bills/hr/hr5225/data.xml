@@ -1,0 +1,28 @@
+<bill session="113" type="h" number="5225" updated="2014-08-14T13:36:04-04:00">
+  <state datetime="2014-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-28"/>
+  </status>
+  <introduced datetime="2014-07-28"/>
+  <titles>
+    <title type="short" as="introduced">Department of Energy Forrestal Complex Redevelopment Act of 2014</title>
+    <title type="official" as="introduced">To direct the Administrator of General Services to redevelop the Department of Energy Forrestal Complex in the District of Columbia, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00868"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-28">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1249"/>
+    </action>
+    <action datetime="2014-07-28" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

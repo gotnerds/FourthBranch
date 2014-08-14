@@ -1,0 +1,41 @@
+<bill session="113" type="s" number="2543" updated="2014-08-14T14:06:29-04:00">
+  <state datetime="2014-06-26">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-26"/>
+  </status>
+  <introduced datetime="2014-06-26"/>
+  <titles>
+    <title type="short" as="introduced">Supporting Afterschool STEM Act</title>
+    <title type="official" as="introduced">A bill to support afterschool and out-of-school-time science, technology, engineering, and mathematics programs, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01901"/>
+  <cosponsors>
+    <cosponsor thomas_id="01898" joined="2014-07-31"/>
+    <cosponsor thomas_id="01844" joined="2014-07-30"/>
+    <cosponsor thomas_id="01900" joined="2014-07-22"/>
+    <cosponsor thomas_id="01247" joined="2014-07-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-26" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="5217"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Education of the disadvantaged"/>
+    <term name="Education programs funding"/>
+    <term name="Educational technology and distance education"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Minority education"/>
+    <term name="Science and engineering education"/>
+    <term name="Teaching, teachers, curricula"/>
+    <term name="Women's education"/>
+  </subjects>
+  <amendments/>
+</bill>

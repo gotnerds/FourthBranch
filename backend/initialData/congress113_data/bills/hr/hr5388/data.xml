@@ -1,0 +1,30 @@
+<bill session="113" type="h" number="5388" updated="2014-08-14T13:37:28-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="official" as="introduced">To clarify the definition of nonadmitted insurer under the Nonadmitted and Reinsurance Reform Act of 2010, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01879"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Referred to the Committee on Financial Services, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Judiciary</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,120 @@
+<bill session="113" type="h" number="2579" updated="2014-08-14T13:13:29-04:00">
+  <state datetime="2013-07-24">REPORTED</state>
+  <status>
+    <unknown datetime="2013-07-24"/>
+  </status>
+  <introduced datetime="2013-06-28"/>
+  <titles>
+    <title type="short" as="introduced">Government Employee Accountability Act</title>
+    <title type="short" as="reported to house">Government Employee Accountability Act</title>
+    <title type="official" as="introduced">To amend title 5, United States Code, to provide for investigative leave requirements with respect to Senior Executive Service employees, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02051"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2013-06-28"/>
+    <cosponsor thomas_id="02054" joined="2013-06-28"/>
+    <cosponsor thomas_id="02027" joined="2013-06-28"/>
+    <cosponsor thomas_id="01748" joined="2013-06-28"/>
+    <cosponsor thomas_id="01468" joined="2013-07-31"/>
+    <cosponsor thomas_id="01987" joined="2013-06-28"/>
+    <cosponsor thomas_id="01882" joined="2013-07-19"/>
+    <cosponsor thomas_id="00165" joined="2013-06-28"/>
+    <cosponsor thomas_id="02151" joined="2013-07-09"/>
+    <cosponsor thomas_id="02144" joined="2013-07-18"/>
+    <cosponsor thomas_id="01989" joined="2013-07-19"/>
+    <cosponsor thomas_id="01995" joined="2013-06-28"/>
+    <cosponsor thomas_id="02067" joined="2013-06-28"/>
+    <cosponsor thomas_id="01797" joined="2013-07-30"/>
+    <cosponsor thomas_id="01743" joined="2013-06-28"/>
+    <cosponsor thomas_id="01720" joined="2013-07-30"/>
+    <cosponsor thomas_id="01992" joined="2013-06-28"/>
+    <cosponsor thomas_id="01990" joined="2013-06-28"/>
+    <cosponsor thomas_id="01749" joined="2013-06-28"/>
+    <cosponsor thomas_id="02046" joined="2013-06-28"/>
+    <cosponsor thomas_id="00636" joined="2013-07-10"/>
+    <cosponsor thomas_id="02050" joined="2013-07-30"/>
+    <cosponsor thomas_id="02053" joined="2013-06-28"/>
+    <cosponsor thomas_id="01804" joined="2013-07-19"/>
+    <cosponsor thomas_id="01908" joined="2013-07-10"/>
+    <cosponsor thomas_id="01731" joined="2013-07-19"/>
+    <cosponsor thomas_id="02156" joined="2013-07-22"/>
+    <cosponsor thomas_id="02001" joined="2013-07-18"/>
+    <cosponsor thomas_id="01930" joined="2013-06-28"/>
+    <cosponsor thomas_id="01738" joined="2013-07-19"/>
+    <cosponsor thomas_id="01982" joined="2013-06-28"/>
+    <cosponsor thomas_id="02048" joined="2013-06-28"/>
+    <cosponsor thomas_id="02017" joined="2013-07-30"/>
+    <cosponsor thomas_id="01848" joined="2013-06-28"/>
+    <cosponsor thomas_id="02009" joined="2013-06-28"/>
+    <cosponsor thomas_id="01952" joined="2013-06-28"/>
+    <cosponsor thomas_id="02128" joined="2013-07-30"/>
+    <cosponsor thomas_id="02002" joined="2013-07-30"/>
+    <cosponsor thomas_id="01779" joined="2013-07-17"/>
+    <cosponsor thomas_id="01991" joined="2013-07-09"/>
+    <cosponsor thomas_id="02019" joined="2013-06-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-28" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2013-07-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2013-07-24" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2013-07-31T12:26:00-04:00">
+      <text>Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 113-186.</text>
+    </action>
+    <calendar datetime="2013-07-31T12:26:00-04:00" calendar="Union" number="134">
+      <text>Placed on the Union Calendar, Calendar No. 134.</text>
+    </calendar>
+    <action datetime="2013-07-31T13:50:00-04:00">
+      <text>Mr. Meadows moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2013-07-31T13:50:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5196-5202" label="consideration"/>
+      <reference ref="CR H5196-5197" label="text of measure as reported in House"/>
+    </action>
+    <action datetime="2013-07-31T13:50:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2579.</text>
+    </action>
+    <action datetime="2013-07-31T14:36:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2013-08-01T17:53:00-04:00">
+      <text>Pursuant to the provisions of H. Res. 322, H.R. 2579 is laid on the table.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="113" relation="unknown" number="322"/>
+    <bill type="h" session="113" relation="unknown" number="2879"/>
+    <bill type="s" session="113" relation="unknown" number="1378"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Administrative remedies"/>
+    <term name="Congressional oversight"/>
+    <term name="Employee leave"/>
+    <term name="Federal officials"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Government studies and investigations"/>
+    <term name="Office of Personnel Management (OPM)"/>
+  </subjects>
+  <amendments/>
+  <summary>7/31/2013--Reported to House amended.
+Government Employee Accountability Act - Sets forth guidelines for placing career employees of the Senior Executive Service (SES) on investigative leave. Defines "investigative leave" as a temporary absence without duty for disciplinary reasons, of a period not greater than 90 days.
+
+Authorizes a federal agency to: (1) place an SES employee on investigative leave, without loss of pay and without charge to annual or sick leave, only for misconduct, neglect of duty, malfeasance, or misappropriation of funds; (2) place such employee on leave without pay if such employee's conduct is flagrant and such employee intentionally engaged in such conduct; or (3) remove such employee if such employee acted in a manner that endangers the interest of the agency mission and the removal is deemed necessary or advisable in the interests of the United States.
+
+Requires an agency head to periodically review the investigation into the conduct of an SES employee placed on investigative leave and take certain actions with respect to such employee at the end of a period of investigative leave, including removal, suspension without pay, or reinstatement to duty. Grants an employee placed on investigative leave certain rights, including: (1) advance written notice of, and the right to answer, charges; (2) the right to be represented by an attorney; and (3) the right to appeal to the Merit Systems Protection Board (MSPB).
+
+Includes misappropriation of funds as a ground in suspending or reinstating an SES employee or placing such employee in another civil service position.</summary>
+</bill>

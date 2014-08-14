@@ -1,0 +1,48 @@
+<bill session="113" type="h" number="2593" updated="2014-08-14T13:13:36-04:00">
+  <state datetime="2013-06-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-28"/>
+  </status>
+  <introduced datetime="2013-06-28"/>
+  <titles>
+    <title type="short" as="introduced">Cost-Benefit and Regulatory Transparency Enhancement Act of 2013</title>
+    <title type="official" as="introduced">To require reports on the results of and methods used to calculate any cost-benefit or regulatory impact analysis, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01909"/>
+  <cosponsors>
+    <cosponsor thomas_id="01670" joined="2013-07-16"/>
+    <cosponsor thomas_id="00940" joined="2013-06-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-28" state="REFERRED">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-06-28">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2013-06-28">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2013-07-15">
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Regulatory Reform, Commercial And Antitrust Law" code="HSJU05" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="2886"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Congressional oversight"/>
+    <term name="Government information and archives"/>
+    <term name="Public participation and lobbying"/>
+  </subjects>
+  <amendments/>
+  <summary>6/28/2013--Introduced.
+Cost-Benefit and Regulatory Transparency Enhancement Act of 2013 - Requires the head of a federal agency, after completing any cost-benefit or regulatory impact analysis used to promulgate rules or guidelines or to determine administrative actions, to: (1) submit to relevant congressional committees a report on the result of and methods used to calculate the cost-benefit or regulatory impact analysis, and (2) publish such report in the Federal Register.</summary>
+</bill>

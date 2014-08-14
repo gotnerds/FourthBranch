@@ -1,0 +1,37 @@
+<bill session="113" type="hr" number="656" updated="2014-08-14T12:50:13-04:00">
+  <state datetime="2014-07-07">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-07"/>
+  </status>
+  <introduced datetime="2014-07-07"/>
+  <titles>
+    <title type="official" as="introduced">Relating to the application of Article II, section 3, clause 5, of the Constitution of the United States.</title>
+  </titles>
+  <sponsor thomas_id="01640"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-07" state="REFERRED">
+      <text>Referred to the Committee on Rules, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-07-07">
+      <text>Referred to House Rules</text>
+    </action>
+    <action datetime="2014-07-07">
+      <text>Referred to House Judiciary</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSRU" name="House Rules" activity="Referral"/>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="113" relation="unknown" number="654"/>
+    <bill type="hr" session="113" relation="unknown" number="655"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+  <summary>7/7/2014--Introduced.
+Declares that the Secretary of Homeland Security (DHS) has failed to meet the specified requirement of the U.S. Constitution to take care that a law be faithfully executed, with respect to the departmental policy to exercise prosecutorial discretion with respect to individuals who came to the United States as children, as announced by DHS on June 15, 2012.
+
+Requires the House of Representatives to bring a civil action in the U.S. District Court for the District of Columbia for declaratory or injunctive relief to challenge the DHS policy.</summary>
+</bill>

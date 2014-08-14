@@ -1,0 +1,154 @@
+<bill session="113" type="h" number="1998" updated="2014-08-14T13:08:18-04:00">
+  <state datetime="2013-05-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-15"/>
+  </status>
+  <introduced datetime="2013-05-15"/>
+  <titles>
+    <title type="short" as="introduced">Big Cats and Public Safety Protection Act</title>
+    <title type="official" as="introduced">To amend the Lacey Act Amendments of 1981 to clarify provisions enacted by the Captive Wildlife Safety Act, to further the conservation of certain wildlife species, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00778"/>
+  <cosponsors>
+    <cosponsor thomas_id="00021" joined="2013-07-10"/>
+    <cosponsor thomas_id="01996" joined="2013-07-16"/>
+    <cosponsor thomas_id="01740" joined="2014-02-25"/>
+    <cosponsor thomas_id="00099" joined="2013-06-06"/>
+    <cosponsor thomas_id="01723" joined="2013-06-25"/>
+    <cosponsor thomas_id="01845" joined="2013-07-19"/>
+    <cosponsor thomas_id="02106" joined="2013-12-05"/>
+    <cosponsor thomas_id="02127" joined="2014-04-28"/>
+    <cosponsor thomas_id="01816" joined="2013-05-22"/>
+    <cosponsor thomas_id="01471" joined="2013-09-11"/>
+    <cosponsor thomas_id="01564" joined="2013-06-25"/>
+    <cosponsor thomas_id="02107" joined="2013-11-12"/>
+    <cosponsor thomas_id="01889" joined="2013-07-10"/>
+    <cosponsor thomas_id="01839" joined="2013-06-06"/>
+    <cosponsor thomas_id="01970" joined="2013-08-02"/>
+    <cosponsor thomas_id="02055" joined="2013-06-10"/>
+    <cosponsor thomas_id="02196" joined="2014-02-25"/>
+    <cosponsor thomas_id="01878" joined="2013-06-03"/>
+    <cosponsor thomas_id="01959" joined="2013-06-06"/>
+    <cosponsor thomas_id="00229" joined="2013-07-10"/>
+    <cosponsor thomas_id="01836" joined="2013-06-27"/>
+    <cosponsor thomas_id="01641" joined="2013-06-03"/>
+    <cosponsor thomas_id="00279" joined="2013-06-25"/>
+    <cosponsor thomas_id="00281" joined="2013-07-10"/>
+    <cosponsor thomas_id="02096" joined="2014-03-11"/>
+    <cosponsor thomas_id="01976" joined="2013-06-03"/>
+    <cosponsor thomas_id="00316" joined="2013-06-06"/>
+    <cosponsor thomas_id="00344" joined="2013-07-10"/>
+    <cosponsor thomas_id="00355" joined="2013-05-22"/>
+    <cosponsor thomas_id="02114" joined="2013-08-01"/>
+    <cosponsor thomas_id="02067" joined="2014-04-28"/>
+    <cosponsor thomas_id="00368" joined="2013-05-22"/>
+    <cosponsor thomas_id="00371" joined="2014-06-19"/>
+    <cosponsor thomas_id="00414" joined="2014-05-30"/>
+    <cosponsor thomas_id="00462" joined="2013-10-09"/>
+    <cosponsor thomas_id="01708" joined="2013-06-10"/>
+    <cosponsor thomas_id="02089" joined="2014-05-20"/>
+    <cosponsor thomas_id="02010" joined="2014-07-08"/>
+    <cosponsor thomas_id="00511" joined="2013-06-03"/>
+    <cosponsor thomas_id="01913" joined="2013-07-16"/>
+    <cosponsor thomas_id="01580" joined="2013-06-27"/>
+    <cosponsor thomas_id="01634" joined="2013-05-22"/>
+    <cosponsor thomas_id="01663" joined="2013-08-02"/>
+    <cosponsor thomas_id="00599" joined="2013-06-03"/>
+    <cosponsor thomas_id="02199" joined="2014-05-07"/>
+    <cosponsor thomas_id="00612" joined="2014-06-05"/>
+    <cosponsor thomas_id="00616" joined="2014-05-19"/>
+    <cosponsor thomas_id="02025" joined="2013-05-22"/>
+    <cosponsor thomas_id="02145" joined="2013-07-10"/>
+    <cosponsor thomas_id="01668" joined="2013-06-03"/>
+    <cosponsor thomas_id="01583" joined="2013-08-01"/>
+    <cosponsor thomas_id="01501" joined="2013-06-06"/>
+    <cosponsor thomas_id="00688" joined="2013-06-27"/>
+    <cosponsor thomas_id="01781" joined="2013-10-28"/>
+    <cosponsor thomas_id="00699" joined="2013-07-18"/>
+    <cosponsor thomas_id="00701" joined="2013-10-11"/>
+    <cosponsor thomas_id="02111" joined="2013-07-19"/>
+    <cosponsor thomas_id="00709" joined="2014-02-04"/>
+    <cosponsor thomas_id="02146" joined="2014-04-28"/>
+    <cosponsor thomas_id="01939" joined="2014-03-06"/>
+    <cosponsor thomas_id="01686" joined="2013-06-25"/>
+    <cosponsor thomas_id="00729" joined="2013-06-27"/>
+    <cosponsor thomas_id="00735" joined="2013-06-06"/>
+    <cosponsor thomas_id="01503" joined="2013-10-30"/>
+    <cosponsor thomas_id="01653" joined="2013-06-25"/>
+    <cosponsor thomas_id="01504" joined="2013-06-27"/>
+    <cosponsor thomas_id="01832" joined="2014-05-09"/>
+    <cosponsor thomas_id="02148" joined="2013-10-29"/>
+    <cosponsor thomas_id="01730" joined="2013-06-10"/>
+    <cosponsor thomas_id="00808" joined="2013-06-27"/>
+    <cosponsor thomas_id="01811" joined="2014-04-28"/>
+    <cosponsor thomas_id="00832" joined="2013-05-22"/>
+    <cosponsor thomas_id="00850" joined="2013-06-03"/>
+    <cosponsor thomas_id="01602" joined="2013-07-24"/>
+    <cosponsor thomas_id="00854" joined="2013-06-03"/>
+    <cosponsor thomas_id="00868" joined="2013-06-03"/>
+    <cosponsor thomas_id="01974" joined="2013-09-12"/>
+    <cosponsor thomas_id="00887" joined="2014-04-29"/>
+    <cosponsor thomas_id="01510" joined="2013-06-25"/>
+    <cosponsor thomas_id="02097" joined="2013-07-10"/>
+    <cosponsor thomas_id="01929" joined="2013-06-06"/>
+    <cosponsor thomas_id="02113" joined="2013-06-10"/>
+    <cosponsor thomas_id="01927" joined="2013-05-22"/>
+    <cosponsor thomas_id="01910" joined="2014-05-21"/>
+    <cosponsor thomas_id="00930" joined="2013-06-03"/>
+    <cosponsor thomas_id="01967" joined="2013-07-31"/>
+    <cosponsor thomas_id="00944" joined="2013-06-03"/>
+    <cosponsor thomas_id="00997" joined="2013-07-16"/>
+    <cosponsor thomas_id="01756" joined="2013-06-25"/>
+    <cosponsor thomas_id="01522" joined="2013-05-15"/>
+    <cosponsor thomas_id="01588" joined="2013-06-03"/>
+    <cosponsor thomas_id="01635" joined="2013-06-03"/>
+    <cosponsor thomas_id="01920" joined="2014-07-31"/>
+    <cosponsor thomas_id="01798" joined="2013-07-16"/>
+    <cosponsor thomas_id="01042" joined="2014-04-02"/>
+    <cosponsor thomas_id="01861" joined="2013-05-22"/>
+    <cosponsor thomas_id="01069" joined="2013-10-28"/>
+    <cosponsor thomas_id="01071" joined="2013-07-10"/>
+    <cosponsor thomas_id="01890" joined="2013-06-03"/>
+    <cosponsor thomas_id="01535" joined="2013-05-22"/>
+    <cosponsor thomas_id="01940" joined="2013-06-10"/>
+    <cosponsor thomas_id="01942" joined="2013-06-10"/>
+    <cosponsor thomas_id="01884" joined="2013-07-16"/>
+    <cosponsor thomas_id="01177" joined="2014-03-24"/>
+    <cosponsor thomas_id="02166" joined="2013-08-01"/>
+    <cosponsor thomas_id="01777" joined="2014-04-04"/>
+    <cosponsor thomas_id="01209" joined="2014-06-18"/>
+    <cosponsor thomas_id="02004" joined="2013-07-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-15" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-05-21">
+      <text>Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee subcommittee="Fisheries, Wildlife, Oceans, and Insular Affairs" code="HSII22" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1381"/>
+  </relatedbills>
+  <subjects>
+    <term name="Animals"/>
+    <term name="Animal protection and human-animal relationships"/>
+    <term name="Crimes against animals and natural resources"/>
+    <term name="Museums, exhibitions, cultural centers"/>
+    <term name="Trade restrictions"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+  <summary>5/15/2013--Introduced.
+Big Cats and Public Safety Protection Act - Amends the Lacey Act Amendments of 1981 to prohibit any person from importing, exporting, transporting, selling, receiving, acquiring, purchasing in interstate or foreign commerce, breeding, or possessing any prohibited wildlife species (current law prohibits importing, exporting, transporting, selling, receiving, acquiring, or purchasing such a species in interstate or foreign commerce). Includes among exemptions to such prohibition the breeding transportation, or possession of such species by authorized persons.
+
+Defines "breeding" as facilitating the propagation or reproduction (whether intentionally or negligently), or failing to prevent the propagation or reproduction, of a prohibited wildlife species or other animal.
+
+Removes from the list of persons authorized to import, export, transport, sell, receive, acquire, purchase, breed, or possess such species a person that is licensed or registered, and inspected, by the Animal and Plant Health Inspection Service (APHIS) or any other federal agency with respect to such species. Includes in such list:
+
+ an institution accredited by the Association of Zoos and Aquariums (AZA) or certified related facilities that coordinate with an AZA Species Survival Plan for breeding of species listed as threatened or endangered under the Endangered Species Act of 1973; a wildlife sanctuary that cares for such species, is a tax exempt corporation, does not commercially trade in or propagate such species, does not allow direct contact between the public and animals, and does not allow the transportation and display of such species off-site; a person that is in possession of animals of such species that were born before the date of this Act's enactment and that are registered with APHIS within 180 days after such regulations are promulgated; and a traveling circus that regularly travels in interstate commerce to conduct performances featuring live prohibited wildlife species and multiple trained human entertainers, that does not allow members of the public to be in direct contact with or unsafe proximity to a prohibited wildlife species of any age, and that, during the three years preceding this Act's enactment, has not been determined by the Secretary of Agriculture to have violated the Animal Welfare Act by reason of jeopardizing the health and well-being of a prohibited wildlife species. Establishes civil and criminal penalties and forfeiture requirements for violations of this Act.</summary>
+</bill>

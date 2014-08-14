@@ -1,0 +1,52 @@
+<bill session="113" type="s" number="2685" updated="2014-08-14T14:07:41-04:00">
+  <state datetime="2014-07-30">REPORTED</state>
+  <status>
+    <unknown datetime="2014-07-30"/>
+  </status>
+  <introduced datetime="2014-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Uniting and Strengthening America by Fulfilling Rights and Ensuring Effective Discipline Over Monitoring Act of 2014</title>
+    <title type="short" as="introduced">USA FREEDOM Act of 2014</title>
+    <title type="official" as="introduced">A bill to reform the authorities of the Federal Government to require the production of certain business records, conduct electronic surveillance, use pen registers and trap and trace devices, and use other forms of information gathering for foreign intelligence, counterterrorism, and criminal purposes, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01383"/>
+  <cosponsors>
+    <cosponsor thomas_id="02076" joined="2014-07-29"/>
+    <cosponsor thomas_id="02194" joined="2014-07-31"/>
+    <cosponsor thomas_id="00136" joined="2014-08-01"/>
+    <cosponsor thomas_id="01984" joined="2014-07-29"/>
+    <cosponsor thomas_id="02175" joined="2014-07-29"/>
+    <cosponsor thomas_id="00326" joined="2014-07-29"/>
+    <cosponsor thomas_id="01969" joined="2014-07-29"/>
+    <cosponsor thomas_id="01937" joined="2014-07-29"/>
+    <cosponsor thomas_id="01863" joined="2014-07-29"/>
+    <cosponsor thomas_id="01844" joined="2014-07-29"/>
+    <cosponsor thomas_id="01826" joined="2014-07-29"/>
+    <cosponsor thomas_id="02080" joined="2014-07-29"/>
+    <cosponsor thomas_id="00735" joined="2014-07-29"/>
+    <cosponsor thomas_id="00791" joined="2014-08-01"/>
+    <cosponsor thomas_id="01010" joined="2014-07-29"/>
+    <cosponsor thomas_id="01036" joined="2014-07-29"/>
+    <cosponsor thomas_id="01567" joined="2014-07-29"/>
+    <cosponsor thomas_id="01823" joined="2014-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-29">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S5053-5055"/>
+    </action>
+    <action datetime="2014-07-29">
+      <text>Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+      <reference ref="CR S5055-5065" label="text of measure as introduced"/>
+    </action>
+    <calendar datetime="2014-07-30" state="REPORTED" calendar="Senate Legislative" under="General Orders" number="499">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 499.</text>
+    </calendar>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="3361"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="113" type="s" number="2598" updated="2014-08-14T14:06:57-04:00">
+  <state datetime="2014-07-14">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-14"/>
+  </status>
+  <introduced datetime="2014-07-14"/>
+  <titles>
+    <title type="short" as="introduced">CEJA</title>
+    <title type="short" as="introduced">Civilian Extraterritorial Jurisdiction Act of 2014</title>
+    <title type="official" as="introduced">A bill to amend title 18, United States Code, to clarify and expand Federal criminal jurisdiction over Federal contractors and employees outside the United States, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01383"/>
+  <cosponsors>
+    <cosponsor thomas_id="02076" joined="2014-07-14"/>
+    <cosponsor thomas_id="00326" joined="2014-07-14"/>
+    <cosponsor thomas_id="01937" joined="2014-07-14"/>
+    <cosponsor thomas_id="02174" joined="2014-07-21"/>
+    <cosponsor thomas_id="01820" joined="2014-07-14"/>
+    <cosponsor thomas_id="01010" joined="2014-07-14"/>
+    <cosponsor thomas_id="01036" joined="2014-07-14"/>
+    <cosponsor thomas_id="01901" joined="2014-07-14"/>
+    <cosponsor thomas_id="01823" joined="2014-07-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-14">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S4456"/>
+    </action>
+    <action datetime="2014-07-14" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S4456-4458" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="5096"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,52 @@
+<bill session="113" type="h" number="2185" updated="2014-08-14T13:09:57-04:00">
+  <state datetime="2013-05-23">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-23"/>
+  </status>
+  <introduced datetime="2013-05-23"/>
+  <titles>
+    <title type="short" as="introduced">Veterans Day Moment of Silence Act</title>
+    <title type="official" as="introduced">To amend title 36, United States Code, to encourage the nationwide observance of two minutes of silence each Veterans Day.</title>
+  </titles>
+  <sponsor thomas_id="01686"/>
+  <cosponsors>
+    <cosponsor thomas_id="01864" joined="2013-05-23"/>
+    <cosponsor thomas_id="00229" joined="2013-05-23"/>
+    <cosponsor thomas_id="02164" joined="2014-07-31"/>
+    <cosponsor thomas_id="00511" joined="2013-05-23"/>
+    <cosponsor thomas_id="00588" joined="2013-05-23"/>
+    <cosponsor thomas_id="00612" joined="2013-05-23"/>
+    <cosponsor thomas_id="02025" joined="2013-06-14"/>
+    <cosponsor thomas_id="02172" joined="2013-05-23"/>
+    <cosponsor thomas_id="00735" joined="2013-05-23"/>
+    <cosponsor thomas_id="01504" joined="2013-05-23"/>
+    <cosponsor thomas_id="01730" joined="2013-05-23"/>
+    <cosponsor thomas_id="00854" joined="2013-05-23"/>
+    <cosponsor thomas_id="02171" joined="2013-05-23"/>
+    <cosponsor thomas_id="01884" joined="2013-05-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-23" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-06-11">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee subcommittee="Disability Assistance and Memorial Affairs" code="HSVR09" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="4435"/>
+    <bill type="s" session="113" relation="unknown" number="1648"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Veterans' organizations and recognition"/>
+  </subjects>
+  <amendments/>
+  <summary>5/23/2013--Introduced.
+Veterans Day Moment of Silence Act - Directs the President to issue an annual proclamation calling on the people of the United States to observe two minutes of silence on Veterans Day, beginning at 3:11 p.m. Atlantic standard time, in honor of the service and sacrifice of veterans throughout the history of the nation.</summary>
+</bill>

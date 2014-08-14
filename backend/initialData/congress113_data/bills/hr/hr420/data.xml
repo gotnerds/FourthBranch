@@ -1,0 +1,47 @@
+<bill session="113" type="h" number="420" updated="2014-08-14T12:54:19-04:00">
+  <state datetime="2013-01-25">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-25"/>
+  </status>
+  <introduced datetime="2013-01-25"/>
+  <titles>
+    <title type="official" as="introduced">To designate the new Interstate Route 70 bridge over the Mississippi River connecting St. Louis, Missouri and southwestern Illinois as the "Stan Musial Memorial Bridge".</title>
+  </titles>
+  <sponsor thomas_id="02126"/>
+  <cosponsors>
+    <cosponsor thomas_id="01781" joined="2013-01-25"/>
+    <cosponsor thomas_id="01931" joined="2013-02-06"/>
+    <cosponsor thomas_id="01527" joined="2013-01-25"/>
+    <cosponsor thomas_id="02137" joined="2013-01-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-25" state="REFERRED">
+      <text>Referred to the House Committee on Transportation.</text>
+    </action>
+    <action datetime="2013-01-28">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+    <committee subcommittee="Highways and Transit" code="HSPW12" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="2383"/>
+    <bill type="h" session="113" relation="unknown" number="2383"/>
+    <bill type="s" session="113" relation="identical" number="166"/>
+    <bill type="s" session="113" relation="unknown" number="166"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Athletes"/>
+    <term name="Congressional tributes"/>
+    <term name="Illinois"/>
+    <term name="Missouri"/>
+    <term name="Professional sports"/>
+    <term name="Roads and highways"/>
+  </subjects>
+  <amendments/>
+  <summary>1/25/2013--Introduced.
+Designates the new Interstate Route 70 bridge over the Mississippi River that connects St. Louis, Missouri, to southwestern Illinois as the "Stan Musial Memorial Bridge."</summary>
+</bill>

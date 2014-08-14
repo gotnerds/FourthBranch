@@ -1,0 +1,80 @@
+<bill session="113" type="hr" number="318" updated="2014-08-14T12:47:21-04:00">
+  <state datetime="2013-07-25">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-25"/>
+  </status>
+  <introduced datetime="2013-07-25"/>
+  <titles>
+    <title type="official" as="introduced">Expressing disapproval over the gun violence plaguing America's communities, and calling on the Congress to enact comprehensive gun reforms that reduce gun violence.</title>
+  </titles>
+  <sponsor thomas_id="02190"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2013-07-25"/>
+    <cosponsor thomas_id="00091" joined="2013-07-25"/>
+    <cosponsor thomas_id="00132" joined="2013-07-25"/>
+    <cosponsor thomas_id="01889" joined="2013-07-25"/>
+    <cosponsor thomas_id="01474" joined="2013-07-25"/>
+    <cosponsor thomas_id="01864" joined="2013-07-25"/>
+    <cosponsor thomas_id="01654" joined="2013-07-25"/>
+    <cosponsor thomas_id="01790" joined="2013-07-25"/>
+    <cosponsor thomas_id="00256" joined="2013-07-25"/>
+    <cosponsor thomas_id="01477" joined="2013-07-25"/>
+    <cosponsor thomas_id="01894" joined="2013-07-25"/>
+    <cosponsor thomas_id="01857" joined="2013-07-30"/>
+    <cosponsor thomas_id="01895" joined="2013-07-25"/>
+    <cosponsor thomas_id="00511" joined="2013-07-25"/>
+    <cosponsor thomas_id="00588" joined="2013-07-25"/>
+    <cosponsor thomas_id="02149" joined="2013-07-25"/>
+    <cosponsor thomas_id="00599" joined="2013-07-25"/>
+    <cosponsor thomas_id="01843" joined="2013-07-25"/>
+    <cosponsor thomas_id="01501" joined="2013-07-25"/>
+    <cosponsor thomas_id="00688" joined="2013-07-25"/>
+    <cosponsor thomas_id="01506" joined="2013-07-25"/>
+    <cosponsor thomas_id="01811" joined="2013-07-25"/>
+    <cosponsor thomas_id="00868" joined="2013-07-25"/>
+    <cosponsor thomas_id="02097" joined="2013-07-25"/>
+    <cosponsor thomas_id="00944" joined="2013-07-25"/>
+    <cosponsor thomas_id="02023" joined="2013-07-25"/>
+    <cosponsor thomas_id="01003" joined="2013-07-25"/>
+    <cosponsor thomas_id="01722" joined="2013-07-25"/>
+    <cosponsor thomas_id="01037" joined="2013-07-30"/>
+    <cosponsor thomas_id="01151" joined="2013-07-25"/>
+    <cosponsor thomas_id="01205" joined="2013-07-25"/>
+    <cosponsor thomas_id="02004" joined="2013-07-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-25">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H5053"/>
+    </action>
+    <action datetime="2013-07-25" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-09-13">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Business records"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Firearms and explosives"/>
+    <term name="Government information and archives"/>
+    <term name="Retail and wholesale trades"/>
+    <term name="State and local government operations"/>
+    <term name="Violent crime"/>
+  </subjects>
+  <amendments/>
+  <summary>7/25/2013--Introduced.
+Expresses support for the President's Plan to Reduce Gun Violence.
+
+Urges: (1) Congress to enact legislation based on the President's recommendations to reduce gun violence, (2) state legislatures to reject proposed stand-your-ground legislation, and (3) states to repeal enacted stand-your-ground laws.
+
+Condemns: (1) gun violence, (2) relevant parties for their roles in obstructing the ability of communities to be safe from gun violence and in proposing stand-your-ground legislation and similar legislation that compromises public safety and the integrity of the prosecutorial system, and (3) all efforts to weaken gun laws and proposals that stand in the way of comprehensive gun law reform.</summary>
+</bill>

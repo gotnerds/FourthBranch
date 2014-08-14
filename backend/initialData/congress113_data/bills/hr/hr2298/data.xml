@@ -1,0 +1,51 @@
+<bill session="113" type="h" number="2298" updated="2014-08-14T13:10:57-04:00">
+  <state datetime="2013-06-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-06"/>
+  </status>
+  <introduced datetime="2013-06-06"/>
+  <titles>
+    <title type="short" as="introduced">Petroleum Coke Transparency and Public Health Study Act</title>
+    <title type="official" as="introduced">To require the Secretary of Health and Human Services, in consultation with the Administrator of the Environmental Protection Agency, to conduct a study on the public health and environmental impacts of the production, transportation, storage, and use of petroleum coke, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01929"/>
+  <cosponsors>
+    <cosponsor thomas_id="00229" joined="2013-06-06"/>
+    <cosponsor thomas_id="00299" joined="2013-06-06"/>
+    <cosponsor thomas_id="02190" joined="2013-10-23"/>
+    <cosponsor thomas_id="02134" joined="2013-06-06"/>
+    <cosponsor thomas_id="00683" joined="2013-06-06"/>
+    <cosponsor thomas_id="01967" joined="2013-12-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-06" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-06-07">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1388"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Air quality"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Environmental health"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Medical research"/>
+    <term name="Oil and gas"/>
+    <term name="Solid waste and recycling"/>
+  </subjects>
+  <amendments/>
+  <summary>6/6/2013--Introduced.
+Petroleum Coke Transparency and Public Health Study Act - Requires the Secretary of Health and Human Services (HHS) to transmit to Congress, within 90 days after enactment of this Act, the results of a study regarding the public health and environmental impacts of the production, transportation, storage, and use of petroleum coke.
+
+Requires the Secretary to compile and make publicly available the results of all federally conducted research related to such impacts.</summary>
+</bill>

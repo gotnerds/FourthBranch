@@ -1,0 +1,26 @@
+<bill session="113" type="sc" number="42" updated="2014-08-14T13:44:46-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution recognizing caregiving as a profession and the extraordinary contributions of paid and family caregivers.</title>
+  </titles>
+  <sponsor thomas_id="01899"/>
+  <cosponsors>
+    <cosponsor thomas_id="02075" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <reference ref="CR S5235-5236" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

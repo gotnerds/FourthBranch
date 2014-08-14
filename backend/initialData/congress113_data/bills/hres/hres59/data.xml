@@ -1,0 +1,96 @@
+<bill session="113" type="hr" number="59" updated="2014-08-14T12:45:09-04:00">
+  <state datetime="2013-02-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-06"/>
+  </status>
+  <introduced datetime="2013-02-06"/>
+  <titles>
+    <title type="official" as="introduced">Supporting the goals and ideals of National Black HIV/AIDS Awareness Day.</title>
+  </titles>
+  <sponsor thomas_id="01501"/>
+  <cosponsors>
+    <cosponsor thomas_id="02153" joined="2013-02-06"/>
+    <cosponsor thomas_id="00091" joined="2013-02-06"/>
+    <cosponsor thomas_id="01723" joined="2013-02-06"/>
+    <cosponsor thomas_id="01761" joined="2013-02-06"/>
+    <cosponsor thomas_id="01889" joined="2013-02-08"/>
+    <cosponsor thomas_id="01839" joined="2013-02-06"/>
+    <cosponsor thomas_id="01474" joined="2013-02-06"/>
+    <cosponsor thomas_id="02055" joined="2013-02-06"/>
+    <cosponsor thomas_id="01864" joined="2014-02-10"/>
+    <cosponsor thomas_id="01654" joined="2013-02-06"/>
+    <cosponsor thomas_id="01878" joined="2013-02-08"/>
+    <cosponsor thomas_id="00229" joined="2013-02-06"/>
+    <cosponsor thomas_id="00256" joined="2013-02-06"/>
+    <cosponsor thomas_id="01477" joined="2013-02-06"/>
+    <cosponsor thomas_id="01894" joined="2013-02-06"/>
+    <cosponsor thomas_id="01857" joined="2013-02-06"/>
+    <cosponsor thomas_id="02119" joined="2013-02-06"/>
+    <cosponsor thomas_id="01895" joined="2013-02-06"/>
+    <cosponsor thomas_id="01803" joined="2013-02-06"/>
+    <cosponsor thomas_id="01708" joined="2013-02-06"/>
+    <cosponsor thomas_id="02089" joined="2013-02-06"/>
+    <cosponsor thomas_id="00511" joined="2013-02-06"/>
+    <cosponsor thomas_id="01913" joined="2013-02-06"/>
+    <cosponsor thomas_id="01634" joined="2013-02-06"/>
+    <cosponsor thomas_id="00588" joined="2013-02-06"/>
+    <cosponsor thomas_id="02149" joined="2013-02-06"/>
+    <cosponsor thomas_id="00599" joined="2013-02-06"/>
+    <cosponsor thomas_id="01843" joined="2013-02-06"/>
+    <cosponsor thomas_id="00688" joined="2013-02-06"/>
+    <cosponsor thomas_id="01653" joined="2013-02-06"/>
+    <cosponsor thomas_id="00766" joined="2013-02-06"/>
+    <cosponsor thomas_id="01506" joined="2013-02-08"/>
+    <cosponsor thomas_id="01811" joined="2013-02-06"/>
+    <cosponsor thomas_id="00868" joined="2013-02-06"/>
+    <cosponsor thomas_id="02171" joined="2014-02-11"/>
+    <cosponsor thomas_id="00944" joined="2013-02-06"/>
+    <cosponsor thomas_id="02023" joined="2013-02-06"/>
+    <cosponsor thomas_id="00997" joined="2013-02-06"/>
+    <cosponsor thomas_id="01003" joined="2013-02-06"/>
+    <cosponsor thomas_id="01588" joined="2014-02-10"/>
+    <cosponsor thomas_id="01798" joined="2013-02-06"/>
+    <cosponsor thomas_id="01042" joined="2013-02-06"/>
+    <cosponsor thomas_id="01988" joined="2013-02-06"/>
+    <cosponsor thomas_id="01069" joined="2013-02-06"/>
+    <cosponsor thomas_id="01528" joined="2013-02-06"/>
+    <cosponsor thomas_id="01777" joined="2013-02-06"/>
+    <cosponsor thomas_id="01205" joined="2013-02-06"/>
+    <cosponsor thomas_id="01207" joined="2013-02-06"/>
+    <cosponsor thomas_id="02004" joined="2013-02-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-06" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-02-08">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Correctional facilities and imprisonment"/>
+    <term name="Drug trafficking and controlled substances"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="HIV/AIDS"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Medical research"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Minority health"/>
+    <term name="Research administration and funding"/>
+    <term name="Sex, gender, sexual orientation discrimination"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+  </subjects>
+  <amendments/>
+  <summary>2/6/2013--Introduced.
+Expresses support for the goals and ideals of National Black HIV/AIDS Awareness Day.</summary>
+</bill>

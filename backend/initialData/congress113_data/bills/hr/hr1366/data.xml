@@ -1,0 +1,43 @@
+<bill session="113" type="h" number="1366" updated="2014-08-14T13:02:20-04:00">
+  <state datetime="2013-03-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-21"/>
+  </status>
+  <introduced datetime="2013-03-21"/>
+  <titles>
+    <title type="short" as="introduced">Stop Oxy Abuse Act of 2013</title>
+    <title type="official" as="introduced">To direct the Commissioner of Food and Drugs to modify the approval of any drug containing controlled-release oxycodone hydrochloride to limit such approval to use for the relief of severe-only instead of moderate-to-severe pain, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01686"/>
+  <cosponsors>
+    <cosponsor thomas_id="01840" joined="2013-04-09"/>
+    <cosponsor thomas_id="01797" joined="2013-03-21"/>
+    <cosponsor thomas_id="02025" joined="2013-03-21"/>
+    <cosponsor thomas_id="00940" joined="2013-03-21"/>
+    <cosponsor thomas_id="00977" joined="2013-03-21"/>
+    <cosponsor thomas_id="01588" joined="2013-05-13"/>
+    <cosponsor thomas_id="01069" joined="2013-03-21"/>
+    <cosponsor thomas_id="01238" joined="2013-03-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-21" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-03-22">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Drug safety, medical device, and laboratory regulation"/>
+    <term name="Prescription drugs"/>
+  </subjects>
+  <amendments/>
+  <summary>3/21/2013--Introduced.
+Stop Oxy Abuse Act of 2013 - Directs the Commissioner of Food and Drugs (FDA), within 90 days, to take such actions as may be necessary to modify the approval of, and limit any subsequent approval of, any drug containing controlled-release oxycodone hychloride to use for the relief of severe-only pain instead of moderate-to-severe pain.</summary>
+</bill>

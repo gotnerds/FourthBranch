@@ -1,0 +1,43 @@
+<bill session="113" type="h" number="5063" updated="2014-08-14T13:34:42-04:00">
+  <state datetime="2014-07-10">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-10"/>
+  </status>
+  <introduced datetime="2014-07-10"/>
+  <titles>
+    <title type="short" as="introduced">American Space Technology for Exploring Resource Opportunities In Deep Space Act</title>
+    <title type="short" as="introduced">ASTEROIDS Act</title>
+    <title type="official" as="introduced">To promote the development of a commercial asteroid resources industry for outer space in the United States and to increase the exploration and utilization of asteroid resources in outer space.</title>
+  </titles>
+  <sponsor thomas_id="01915"/>
+  <cosponsors>
+    <cosponsor thomas_id="02102" joined="2014-07-31"/>
+    <cosponsor thomas_id="02151" joined="2014-07-28"/>
+    <cosponsor thomas_id="02114" joined="2014-07-28"/>
+    <cosponsor thomas_id="02043" joined="2014-07-28"/>
+    <cosponsor thomas_id="02169" joined="2014-07-10"/>
+    <cosponsor thomas_id="00800" joined="2014-07-28"/>
+    <cosponsor thomas_id="00832" joined="2014-07-28"/>
+    <cosponsor thomas_id="00979" joined="2014-07-28"/>
+    <cosponsor thomas_id="01635" joined="2014-07-28"/>
+    <cosponsor thomas_id="01041" joined="2014-07-31"/>
+    <cosponsor thomas_id="01114" joined="2014-07-28"/>
+    <cosponsor thomas_id="02104" joined="2014-07-31"/>
+    <cosponsor thomas_id="02166" joined="2014-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-10" state="REFERRED">
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="2014-07-15">
+      <text>Referred to the Subcommittee on Space.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+    <committee subcommittee="Space" code="HSSY16" name="House Science, Space, and Technology" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

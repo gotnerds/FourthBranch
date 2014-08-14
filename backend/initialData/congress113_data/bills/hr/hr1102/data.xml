@@ -1,0 +1,90 @@
+<bill session="113" type="h" number="1102" updated="2014-08-14T13:00:05-04:00">
+  <state datetime="2013-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-12"/>
+  </status>
+  <introduced datetime="2013-03-12"/>
+  <titles>
+    <title type="short" as="introduced">Medicare Prescription Drug Price Negotiation Act of 2013</title>
+    <title type="official" as="introduced">To amend part D of title XVIII of the Social Security Act to require the Secretary of Health and Human Services to negotiate covered part D drug prices on behalf of Medicare beneficiaries.</title>
+  </titles>
+  <sponsor thomas_id="01879"/>
+  <cosponsors>
+    <cosponsor thomas_id="00021" joined="2013-03-14"/>
+    <cosponsor thomas_id="02102" joined="2013-03-19"/>
+    <cosponsor thomas_id="02106" joined="2013-06-04"/>
+    <cosponsor thomas_id="02127" joined="2013-07-08"/>
+    <cosponsor thomas_id="02159" joined="2013-06-04"/>
+    <cosponsor thomas_id="01839" joined="2013-03-12"/>
+    <cosponsor thomas_id="01970" joined="2013-03-19"/>
+    <cosponsor thomas_id="02055" joined="2013-03-12"/>
+    <cosponsor thomas_id="01654" joined="2013-03-12"/>
+    <cosponsor thomas_id="01878" joined="2014-03-14"/>
+    <cosponsor thomas_id="00229" joined="2013-03-12"/>
+    <cosponsor thomas_id="00279" joined="2013-03-13"/>
+    <cosponsor thomas_id="01976" joined="2013-12-12"/>
+    <cosponsor thomas_id="01857" joined="2013-03-12"/>
+    <cosponsor thomas_id="00368" joined="2013-03-15"/>
+    <cosponsor thomas_id="02119" joined="2013-03-19"/>
+    <cosponsor thomas_id="01708" joined="2013-03-14"/>
+    <cosponsor thomas_id="00511" joined="2013-03-14"/>
+    <cosponsor thomas_id="02145" joined="2013-03-19"/>
+    <cosponsor thomas_id="01675" joined="2013-06-14"/>
+    <cosponsor thomas_id="01781" joined="2013-03-14"/>
+    <cosponsor thomas_id="00701" joined="2013-03-13"/>
+    <cosponsor thomas_id="00709" joined="2013-05-06"/>
+    <cosponsor thomas_id="02146" joined="2013-03-14"/>
+    <cosponsor thomas_id="00766" joined="2013-09-10"/>
+    <cosponsor thomas_id="01730" joined="2013-03-12"/>
+    <cosponsor thomas_id="01811" joined="2013-03-12"/>
+    <cosponsor thomas_id="00850" joined="2013-11-21"/>
+    <cosponsor thomas_id="00868" joined="2013-03-13"/>
+    <cosponsor thomas_id="01974" joined="2013-03-14"/>
+    <cosponsor thomas_id="02109" joined="2013-06-04"/>
+    <cosponsor thomas_id="01588" joined="2013-03-12"/>
+    <cosponsor thomas_id="01037" joined="2013-03-14"/>
+    <cosponsor thomas_id="01861" joined="2013-06-18"/>
+    <cosponsor thomas_id="01069" joined="2013-03-12"/>
+    <cosponsor thomas_id="02110" joined="2013-03-14"/>
+    <cosponsor thomas_id="01535" joined="2013-06-18"/>
+    <cosponsor thomas_id="01188" joined="2013-03-15"/>
+    <cosponsor thomas_id="01853" joined="2013-03-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-12" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-12">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-03-12">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-03-15">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2013-04-11">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSWM02" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="117"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Inflation and prices"/>
+    <term name="Medicare"/>
+    <term name="Prescription drugs"/>
+    <term name="Public contracts and procurement"/>
+  </subjects>
+  <amendments/>
+  <summary>3/12/2013--Introduced.
+Medicare Prescription Drug Price Negotiation Act of 2013 - Amends part D (Voluntary Prescription Drug Benefit Program) of title XVIII (Medicare) of the Social Security Act to direct the Secretary of Health and Human Services (HHS) to negotiate with pharmaceutical manufacturers the prices that may be charged to Medicare part D prescription drug plan (PDP) sponsors and MedicareAdvantage (MA) organizations for covered part D drugs for part D eligible individuals who are enrolled under a PDP or under an MA-Prescription Drug (MA-PD) plan.</summary>
+</bill>

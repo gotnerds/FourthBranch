@@ -1,0 +1,43 @@
+<bill session="113" type="h" number="4670" updated="2014-08-14T13:31:15-04:00">
+  <state datetime="2014-05-21">REPORTED</state>
+  <status>
+    <unknown datetime="2014-05-21"/>
+  </status>
+  <introduced datetime="2014-05-19"/>
+  <titles>
+    <title type="short" as="introduced">Secure Delivery for America Act of 2014</title>
+    <title type="official" as="introduced">To amend title 39, United States Code, to enhance the security and efficiency of nationwide mail and parcel delivery.</title>
+  </titles>
+  <sponsor thomas_id="01640"/>
+  <cosponsors>
+    <cosponsor thomas_id="02067" joined="2014-05-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-19" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2014-05-21">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-05-21" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 18 - 13.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="2748"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Congressional oversight"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Postal service"/>
+    <term name="U.S. Postal Service"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+</bill>

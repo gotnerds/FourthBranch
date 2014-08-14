@@ -1,0 +1,28 @@
+<bill session="113" type="s" number="2629" updated="2014-08-14T14:07:12-04:00">
+  <state datetime="2014-07-17">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-17"/>
+  </status>
+  <introduced datetime="2014-07-17"/>
+  <titles>
+    <title type="short" as="introduced">Preventive Care Coverage Notification Act</title>
+    <title type="official" as="introduced">A bill to require employers to notify employees and prospective employees of exemptions from otherwise required coverage of health services under group health plans.</title>
+  </titles>
+  <sponsor thomas_id="00326"/>
+  <cosponsors>
+    <cosponsor thomas_id="01898" joined="2014-07-17"/>
+    <cosponsor thomas_id="01844" joined="2014-07-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-17" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <reference ref="CR S4622" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

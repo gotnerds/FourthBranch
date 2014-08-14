@@ -1,0 +1,99 @@
+<bill session="113" type="h" number="525" updated="2014-08-14T12:55:13-04:00">
+  <state datetime="2013-02-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-06"/>
+  </status>
+  <introduced datetime="2013-02-06"/>
+  <titles>
+    <title type="short" as="introduced">Industrial Hemp Farming Act of 2013</title>
+    <title type="official" as="introduced">To amend the Controlled Substances Act to exclude industrial hemp from the definition of marihuana, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02094"/>
+  <cosponsors>
+    <cosponsor thomas_id="02029" joined="2013-02-06"/>
+    <cosponsor thomas_id="02027" joined="2013-02-06"/>
+    <cosponsor thomas_id="02135" joined="2013-03-14"/>
+    <cosponsor thomas_id="00099" joined="2013-02-06"/>
+    <cosponsor thomas_id="02092" joined="2013-02-06"/>
+    <cosponsor thomas_id="01816" joined="2013-02-06"/>
+    <cosponsor thomas_id="02159" joined="2013-09-09"/>
+    <cosponsor thomas_id="01654" joined="2013-02-06"/>
+    <cosponsor thomas_id="01878" joined="2013-02-06"/>
+    <cosponsor thomas_id="02144" joined="2013-05-08"/>
+    <cosponsor thomas_id="02138" joined="2013-03-14"/>
+    <cosponsor thomas_id="00279" joined="2013-02-06"/>
+    <cosponsor thomas_id="01479" joined="2013-03-12"/>
+    <cosponsor thomas_id="02096" joined="2013-10-15"/>
+    <cosponsor thomas_id="01857" joined="2013-02-06"/>
+    <cosponsor thomas_id="00368" joined="2013-02-06"/>
+    <cosponsor thomas_id="02122" joined="2013-06-06"/>
+    <cosponsor thomas_id="01998" joined="2013-05-22"/>
+    <cosponsor thomas_id="01708" joined="2013-02-06"/>
+    <cosponsor thomas_id="02044" joined="2013-02-06"/>
+    <cosponsor thomas_id="01634" joined="2013-06-18"/>
+    <cosponsor thomas_id="02101" joined="2013-03-12"/>
+    <cosponsor thomas_id="01501" joined="2013-02-06"/>
+    <cosponsor thomas_id="00701" joined="2013-07-25"/>
+    <cosponsor thomas_id="01908" joined="2013-02-06"/>
+    <cosponsor thomas_id="01653" joined="2013-11-12"/>
+    <cosponsor thomas_id="00766" joined="2013-02-06"/>
+    <cosponsor thomas_id="00808" joined="2013-02-06"/>
+    <cosponsor thomas_id="00832" joined="2013-02-06"/>
+    <cosponsor thomas_id="00850" joined="2013-02-06"/>
+    <cosponsor thomas_id="00868" joined="2013-02-06"/>
+    <cosponsor thomas_id="02162" joined="2013-07-31"/>
+    <cosponsor thomas_id="01835" joined="2013-03-20"/>
+    <cosponsor thomas_id="00910" joined="2013-02-06"/>
+    <cosponsor thomas_id="01927" joined="2013-02-06"/>
+    <cosponsor thomas_id="02171" joined="2013-02-06"/>
+    <cosponsor thomas_id="01910" joined="2013-02-06"/>
+    <cosponsor thomas_id="02118" joined="2013-04-17"/>
+    <cosponsor thomas_id="00979" joined="2013-02-06"/>
+    <cosponsor thomas_id="01756" joined="2013-08-01"/>
+    <cosponsor thomas_id="01588" joined="2013-02-06"/>
+    <cosponsor thomas_id="01950" joined="2013-02-06"/>
+    <cosponsor thomas_id="02047" joined="2013-05-09"/>
+    <cosponsor thomas_id="01114" joined="2013-03-19"/>
+    <cosponsor thomas_id="01879" joined="2013-02-27"/>
+    <cosponsor thomas_id="01853" joined="2013-02-06"/>
+    <cosponsor thomas_id="02115" joined="2013-02-06"/>
+    <cosponsor thomas_id="01256" joined="2013-07-23"/>
+    <cosponsor thomas_id="02019" joined="2013-02-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-06" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-02-06">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-02-06">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2013-02-08">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2013-04-15">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, And Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="5226"/>
+    <bill type="s" session="113" relation="unknown" number="359"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Drug trafficking and controlled substances"/>
+    <term name="Horticulture and plants"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>2/6/2013--Introduced.
+Industrial Hemp Farming Act of 2013 - Amends the Controlled Substances Act to exclude industrial hemp from the definition of "marihuana." Defines "industrial hemp" to mean the plant Cannabis sativa L. and any part of such plant, whether growing or not, with a delta-nine tetrahydrocannabinol concentration of not more than 0.3 percent on a dry weight basis. Deems Cannabis sativa L. to meet that concentration limit if a person grows or processes it for purposes of making industrial hemp in accordance with state law.</summary>
+</bill>

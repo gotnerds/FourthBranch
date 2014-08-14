@@ -1,0 +1,54 @@
+<bill session="113" type="hr" number="414" updated="2014-08-14T12:48:09-04:00">
+  <state datetime="2013-11-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-11-14"/>
+  </status>
+  <introduced datetime="2013-11-14"/>
+  <titles>
+    <title type="official" as="introduced">Supporting the goals and ideals of American Education Week.</title>
+  </titles>
+  <sponsor thomas_id="02041"/>
+  <cosponsors>
+    <cosponsor thomas_id="02153" joined="2013-11-14"/>
+    <cosponsor thomas_id="01970" joined="2013-12-19"/>
+    <cosponsor thomas_id="01959" joined="2013-11-15"/>
+    <cosponsor thomas_id="00229" joined="2013-11-15"/>
+    <cosponsor thomas_id="02043" joined="2013-11-14"/>
+    <cosponsor thomas_id="02044" joined="2013-11-14"/>
+    <cosponsor thomas_id="01490" joined="2013-11-14"/>
+    <cosponsor thomas_id="00588" joined="2013-11-14"/>
+    <cosponsor thomas_id="00635" joined="2013-11-14"/>
+    <cosponsor thomas_id="00688" joined="2013-11-14"/>
+    <cosponsor thomas_id="01504" joined="2013-11-15"/>
+    <cosponsor thomas_id="02052" joined="2013-11-14"/>
+    <cosponsor thomas_id="02117" joined="2013-11-14"/>
+    <cosponsor thomas_id="00868" joined="2013-11-14"/>
+    <cosponsor thomas_id="01910" joined="2013-11-14"/>
+    <cosponsor thomas_id="02039" joined="2013-11-14"/>
+    <cosponsor thomas_id="02124" joined="2013-11-14"/>
+    <cosponsor thomas_id="02110" joined="2013-11-14"/>
+    <cosponsor thomas_id="01596" joined="2013-11-14"/>
+    <cosponsor thomas_id="01856" joined="2013-11-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-11-14" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Higher education"/>
+    <term name="School administration"/>
+    <term name="Teaching, teachers, curricula"/>
+  </subjects>
+  <amendments/>
+  <summary>11/14/2013--Introduced.
+Expresses support for the goals and ideals of American Education Week.</summary>
+</bill>

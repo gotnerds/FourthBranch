@@ -1,0 +1,37 @@
+<bill session="113" type="h" number="5129" updated="2014-08-14T13:35:15-04:00">
+  <state datetime="2014-07-17">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-17"/>
+  </status>
+  <introduced datetime="2014-07-17"/>
+  <titles>
+    <title type="short" as="introduced">UAC State Notification Act of 2014</title>
+    <title type="official" as="introduced">To require notification of a Governor of a State if an unaccompanied alien child is placed for custody and care in the State.</title>
+  </titles>
+  <sponsor thomas_id="01860"/>
+  <cosponsors>
+    <cosponsor thomas_id="01793" joined="2014-07-17"/>
+    <cosponsor thomas_id="01990" joined="2014-07-28"/>
+    <cosponsor thomas_id="02034" joined="2014-07-28"/>
+    <cosponsor thomas_id="01566" joined="2014-07-17"/>
+    <cosponsor thomas_id="01779" joined="2014-07-25"/>
+    <cosponsor thomas_id="01991" joined="2014-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-17" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2600"/>
+    <bill type="s" session="113" relation="unknown" number="2628"/>
+    <bill type="s" session="113" relation="unknown" number="2633"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+  <summary>7/17/2014--Introduced.
+UAC State Notification Act of 2014 - Amends the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008, with respect to an unaccompanied alien child in federal custody by reason of the child's immigration status, to require the Secretary of Health and Human Services (HHS) or the Secretary of Homeland Security (DHS) to notify the governor of a state within 48 hours before the child's placement in the care of a proposed custodian located in that state.</summary>
+</bill>

@@ -1,0 +1,128 @@
+<bill session="113" type="h" number="1249" updated="2014-08-14T13:01:20-04:00">
+  <state datetime="2013-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-19"/>
+  </status>
+  <introduced datetime="2013-03-19"/>
+  <titles>
+    <title type="short" as="introduced">Common Sense Nutrition Disclosure Act of 2013</title>
+    <title type="official" as="introduced">To amend section 403 of the Federal Food, Drug, and Cosmetic Act to improve and clarify certain disclosure requirements for restaurants, similar retail food establishments, and vending machines.</title>
+  </titles>
+  <sponsor thomas_id="01809"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2014-06-20"/>
+    <cosponsor thomas_id="02131" joined="2013-04-09"/>
+    <cosponsor thomas_id="01780" joined="2013-03-19"/>
+    <cosponsor thomas_id="00062" joined="2013-04-25"/>
+    <cosponsor thomas_id="02027" joined="2013-04-25"/>
+    <cosponsor thomas_id="01753" joined="2014-02-27"/>
+    <cosponsor thomas_id="02129" joined="2014-03-05"/>
+    <cosponsor thomas_id="02018" joined="2013-05-14"/>
+    <cosponsor thomas_id="00165" joined="2013-04-30"/>
+    <cosponsor thomas_id="01752" joined="2013-03-19"/>
+    <cosponsor thomas_id="00186" joined="2013-04-09"/>
+    <cosponsor thomas_id="00211" joined="2013-09-09"/>
+    <cosponsor thomas_id="01912" joined="2013-04-09"/>
+    <cosponsor thomas_id="02151" joined="2013-04-11"/>
+    <cosponsor thomas_id="02098" joined="2014-04-29"/>
+    <cosponsor thomas_id="01807" joined="2013-03-19"/>
+    <cosponsor thomas_id="01717" joined="2013-03-19"/>
+    <cosponsor thomas_id="02036" joined="2013-03-19"/>
+    <cosponsor thomas_id="01797" joined="2013-09-19"/>
+    <cosponsor thomas_id="02164" joined="2014-02-10"/>
+    <cosponsor thomas_id="02049" joined="2013-04-11"/>
+    <cosponsor thomas_id="01656" joined="2013-04-09"/>
+    <cosponsor thomas_id="01979" joined="2014-03-05"/>
+    <cosponsor thomas_id="01990" joined="2013-08-01"/>
+    <cosponsor thomas_id="02070" joined="2013-03-19"/>
+    <cosponsor thomas_id="01922" joined="2013-04-09"/>
+    <cosponsor thomas_id="02044" joined="2013-04-18"/>
+    <cosponsor thomas_id="02026" joined="2013-04-23"/>
+    <cosponsor thomas_id="00512" joined="2013-05-06"/>
+    <cosponsor thomas_id="02071" joined="2014-06-09"/>
+    <cosponsor thomas_id="01490" joined="2013-03-19"/>
+    <cosponsor thomas_id="02143" joined="2014-04-01"/>
+    <cosponsor thomas_id="02020" joined="2013-04-25"/>
+    <cosponsor thomas_id="02028" joined="2013-03-19"/>
+    <cosponsor thomas_id="02069" joined="2014-06-18"/>
+    <cosponsor thomas_id="01640" joined="2014-02-27"/>
+    <cosponsor thomas_id="00612" joined="2013-04-11"/>
+    <cosponsor thomas_id="02154" joined="2014-02-27"/>
+    <cosponsor thomas_id="02051" joined="2014-02-28"/>
+    <cosponsor thomas_id="00636" joined="2013-04-11"/>
+    <cosponsor thomas_id="01733" joined="2014-03-24"/>
+    <cosponsor thomas_id="02100" joined="2014-02-27"/>
+    <cosponsor thomas_id="01936" joined="2014-04-29"/>
+    <cosponsor thomas_id="00666" joined="2013-04-09"/>
+    <cosponsor thomas_id="01885" joined="2013-04-25"/>
+    <cosponsor thomas_id="00699" joined="2014-05-28"/>
+    <cosponsor thomas_id="01931" joined="2013-04-11"/>
+    <cosponsor thomas_id="01960" joined="2014-03-05"/>
+    <cosponsor thomas_id="00778" joined="2013-04-23"/>
+    <cosponsor thomas_id="01730" joined="2013-05-14"/>
+    <cosponsor thomas_id="01685" joined="2013-06-11"/>
+    <cosponsor thomas_id="02059" joined="2013-04-09"/>
+    <cosponsor thomas_id="00912" joined="2014-03-13"/>
+    <cosponsor thomas_id="01802" joined="2013-04-17"/>
+    <cosponsor thomas_id="01778" joined="2014-03-06"/>
+    <cosponsor thomas_id="02118" joined="2013-06-04"/>
+    <cosponsor thomas_id="00944" joined="2013-04-09"/>
+    <cosponsor thomas_id="02073" joined="2013-03-19"/>
+    <cosponsor thomas_id="00977" joined="2014-02-04"/>
+    <cosponsor thomas_id="01651" joined="2013-03-19"/>
+    <cosponsor thomas_id="02017" joined="2013-03-19"/>
+    <cosponsor thomas_id="02158" joined="2014-05-06"/>
+    <cosponsor thomas_id="01003" joined="2013-04-09"/>
+    <cosponsor thomas_id="01522" joined="2013-03-19"/>
+    <cosponsor thomas_id="01892" joined="2014-03-04"/>
+    <cosponsor thomas_id="01920" joined="2013-04-09"/>
+    <cosponsor thomas_id="01527" joined="2014-03-13"/>
+    <cosponsor thomas_id="01681" joined="2014-02-27"/>
+    <cosponsor thomas_id="01590" joined="2014-05-06"/>
+    <cosponsor thomas_id="01528" joined="2013-04-17"/>
+    <cosponsor thomas_id="01075" joined="2014-01-27"/>
+    <cosponsor thomas_id="01997" joined="2014-04-29"/>
+    <cosponsor thomas_id="02105" joined="2014-03-25"/>
+    <cosponsor thomas_id="02137" joined="2013-12-12"/>
+    <cosponsor thomas_id="01855" joined="2013-03-19"/>
+    <cosponsor thomas_id="02128" joined="2013-06-10"/>
+    <cosponsor thomas_id="02152" joined="2014-02-25"/>
+    <cosponsor thomas_id="01779" joined="2013-05-06"/>
+    <cosponsor thomas_id="01222" joined="2014-03-05"/>
+    <cosponsor thomas_id="01991" joined="2013-03-19"/>
+    <cosponsor thomas_id="02021" joined="2014-02-05"/>
+    <cosponsor thomas_id="02019" joined="2013-04-25"/>
+    <cosponsor thomas_id="00099" joined="2013-04-09" withdrawn="2013-06-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-19" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-03-22">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="1756"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Consumer affairs"/>
+    <term name="Food industry and services"/>
+    <term name="Food supply, safety, and labeling"/>
+    <term name="Nutrition and diet"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/2013--Introduced.
+Common Sense Nutrition Disclosure Act of 2013 - Amends the Federal Food, Drug, and Cosmetic Act to revise the nutritional information that restaurants and retail food establishments must disclose. Requires the nutrient content disclosure statement on the menu or menu board to include: (1) the number of calories contained in the whole product; (2) the number of servings and number of calories per serving; or (3) the number of calories per the common unit division of the product, such as for a multi-serving item that is typically divided before presentation to the consumer. Permits such information to be provided by a remote-access menu, such as through the internet, for food establishments where the majority of orders are placed by customers who are off-premises at the time the order is placed.
+
+Defines &#8220;reasonable basis&#8221; for a restaurant or similar food establishment&#8217;s nutrient content disclosures to mean that the nutrient disclosure is within acceptable allowances for variation in nutrient content, which include variations in serving size or ingredients, and inadvertent human error in formulation of menu items.
+
+Sets forth the methods a restaurant or similar food establishment may use to determine nutritional content for disclosure, including ranges, averages, individual labeling of flavors or components, or labeling of one preset standard build (i.e., the finished version of a menu item most commonly ordered by consumers).
+
+Applies the nutritional disclosure requirements to retail food establishments that derive more than 50% of their total revenue from the sale of food.</summary>
+</bill>

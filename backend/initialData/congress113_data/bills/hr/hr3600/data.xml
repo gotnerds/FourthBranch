@@ -1,0 +1,109 @@
+<bill session="113" type="h" number="3600" updated="2014-08-14T13:22:12-04:00">
+  <state datetime="2013-11-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-11-21"/>
+  </status>
+  <introduced datetime="2013-11-21"/>
+  <titles>
+    <title type="short" as="introduced">GI Education Benefit Fairness Act</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to provide for clarification regarding the children to whom entitlement to educational assistance may be transferred under the Post-9/11 Educational Assistance Program.</title>
+  </titles>
+  <sponsor thomas_id="01888"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2014-02-04"/>
+    <cosponsor thomas_id="01723" joined="2014-03-05"/>
+    <cosponsor thomas_id="00132" joined="2014-01-31"/>
+    <cosponsor thomas_id="02106" joined="2014-02-28"/>
+    <cosponsor thomas_id="01840" joined="2014-03-24"/>
+    <cosponsor thomas_id="02127" joined="2014-01-07"/>
+    <cosponsor thomas_id="01889" joined="2014-04-28"/>
+    <cosponsor thomas_id="02159" joined="2014-02-21"/>
+    <cosponsor thomas_id="01970" joined="2014-02-04"/>
+    <cosponsor thomas_id="01864" joined="2014-03-24"/>
+    <cosponsor thomas_id="01790" joined="2014-04-02"/>
+    <cosponsor thomas_id="01742" joined="2014-03-13"/>
+    <cosponsor thomas_id="01959" joined="2014-02-21"/>
+    <cosponsor thomas_id="00229" joined="2014-01-07"/>
+    <cosponsor thomas_id="02096" joined="2014-04-07"/>
+    <cosponsor thomas_id="01894" joined="2014-03-13"/>
+    <cosponsor thomas_id="02036" joined="2014-01-28"/>
+    <cosponsor thomas_id="02125" joined="2014-03-27"/>
+    <cosponsor thomas_id="02114" joined="2014-01-21"/>
+    <cosponsor thomas_id="02119" joined="2014-02-21"/>
+    <cosponsor thomas_id="02164" joined="2014-07-30"/>
+    <cosponsor thomas_id="01973" joined="2014-01-21"/>
+    <cosponsor thomas_id="02120" joined="2014-01-07"/>
+    <cosponsor thomas_id="01803" joined="2014-04-07"/>
+    <cosponsor thomas_id="01708" joined="2014-03-24"/>
+    <cosponsor thomas_id="02010" joined="2014-03-24"/>
+    <cosponsor thomas_id="00511" joined="2014-01-21"/>
+    <cosponsor thomas_id="01580" joined="2014-02-04"/>
+    <cosponsor thomas_id="01634" joined="2014-01-07"/>
+    <cosponsor thomas_id="00588" joined="2014-02-04"/>
+    <cosponsor thomas_id="01843" joined="2014-03-05"/>
+    <cosponsor thomas_id="00612" joined="2014-01-07"/>
+    <cosponsor thomas_id="02025" joined="2014-03-24"/>
+    <cosponsor thomas_id="02169" joined="2014-03-24"/>
+    <cosponsor thomas_id="01907" joined="2014-02-21"/>
+    <cosponsor thomas_id="01846" joined="2014-03-24"/>
+    <cosponsor thomas_id="00709" joined="2014-03-05"/>
+    <cosponsor thomas_id="02150" joined="2014-01-21"/>
+    <cosponsor thomas_id="02053" joined="2014-03-13"/>
+    <cosponsor thomas_id="00766" joined="2014-03-24"/>
+    <cosponsor thomas_id="01504" joined="2014-02-04"/>
+    <cosponsor thomas_id="01809" joined="2013-11-21"/>
+    <cosponsor thomas_id="01832" joined="2014-01-31"/>
+    <cosponsor thomas_id="01506" joined="2014-02-21"/>
+    <cosponsor thomas_id="01730" joined="2014-01-07"/>
+    <cosponsor thomas_id="01731" joined="2014-01-31"/>
+    <cosponsor thomas_id="02117" joined="2014-01-07"/>
+    <cosponsor thomas_id="02162" joined="2014-02-28"/>
+    <cosponsor thomas_id="01835" joined="2014-05-27"/>
+    <cosponsor thomas_id="02157" joined="2014-03-06"/>
+    <cosponsor thomas_id="02113" joined="2014-01-14"/>
+    <cosponsor thomas_id="01915" joined="2014-03-11"/>
+    <cosponsor thomas_id="00930" joined="2014-04-02"/>
+    <cosponsor thomas_id="00940" joined="2014-03-11"/>
+    <cosponsor thomas_id="00944" joined="2014-01-21"/>
+    <cosponsor thomas_id="01954" joined="2014-03-06"/>
+    <cosponsor thomas_id="02109" joined="2014-04-02"/>
+    <cosponsor thomas_id="01635" joined="2014-04-02"/>
+    <cosponsor thomas_id="01920" joined="2014-03-27"/>
+    <cosponsor thomas_id="01037" joined="2014-01-21"/>
+    <cosponsor thomas_id="01042" joined="2014-01-31"/>
+    <cosponsor thomas_id="01988" joined="2014-03-11"/>
+    <cosponsor thomas_id="02099" joined="2014-01-31"/>
+    <cosponsor thomas_id="01818" joined="2014-03-24"/>
+    <cosponsor thomas_id="01069" joined="2014-02-21"/>
+    <cosponsor thomas_id="02047" joined="2014-03-24"/>
+    <cosponsor thomas_id="02110" joined="2014-01-31"/>
+    <cosponsor thomas_id="01952" joined="2014-03-11"/>
+    <cosponsor thomas_id="01535" joined="2014-03-11"/>
+    <cosponsor thomas_id="01884" joined="2014-05-01"/>
+    <cosponsor thomas_id="02112" joined="2014-02-21"/>
+    <cosponsor thomas_id="02004" joined="2014-01-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-11-21" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-12-11">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Economic Opportunity" code="HSVR10" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2014"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Family relationships"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+  </subjects>
+  <amendments/>
+  <summary>11/21/2013--Introduced.
+GI Education Benefit Fairness Act - Expands the definition of "children," for purposes of provisions allowing members or former members of the uniformed services who served on active duty for specified periods beginning on or after September 11, 2001, to transfer their entitlement to educational assistance, to mean an unmarried person who: (1) is placed in the legal custody of a member or former member by court order for at least 12 consecutive months, (2) has not attained the age of 21, (3) has not attained the age of 23 and is enrolled in a full-time course of study at an institution of higher learning, (4) is incapable of self support due to a mental or physical incapacity that occurred while such person was a dependent of the member or former member, (5) is dependent on the member or former member for over one-half of his or her support, (6) resides with the member or former member unless separated due to military service or institutionalization for a disability or incapacitation, and (7) is not a dependent of a member or former member under any other provision defining dependent.</summary>
+</bill>

@@ -1,0 +1,57 @@
+<bill session="113" type="h" number="3224" updated="2014-08-14T13:18:55-04:00">
+  <state datetime="2013-09-30">REFERRED</state>
+  <status>
+    <introduced datetime="2013-09-30"/>
+  </status>
+  <introduced datetime="2013-09-30"/>
+  <titles>
+    <title type="short" as="introduced">No Government No Pay Act of 2013</title>
+    <title type="official" as="introduced">To withhold the pay of Members of Congress during periods in which a Government shutdown is in effect, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00867"/>
+  <cosponsors>
+    <cosponsor thomas_id="02106" joined="2013-10-23"/>
+    <cosponsor thomas_id="02127" joined="2013-10-01"/>
+    <cosponsor thomas_id="01471" joined="2013-10-04"/>
+    <cosponsor thomas_id="02159" joined="2013-10-04"/>
+    <cosponsor thomas_id="02114" joined="2013-10-01"/>
+    <cosponsor thomas_id="02122" joined="2013-10-01"/>
+    <cosponsor thomas_id="01846" joined="2013-10-02"/>
+    <cosponsor thomas_id="02146" joined="2013-10-04"/>
+    <cosponsor thomas_id="02148" joined="2013-10-23"/>
+    <cosponsor thomas_id="01730" joined="2013-10-02"/>
+    <cosponsor thomas_id="02117" joined="2013-10-02"/>
+    <cosponsor thomas_id="02162" joined="2013-10-01"/>
+    <cosponsor thomas_id="01927" joined="2013-10-02"/>
+    <cosponsor thomas_id="01942" joined="2013-10-02"/>
+    <cosponsor thomas_id="01884" joined="2013-10-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-30" state="REFERRED">
+      <text>Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-09-30">
+      <text>Referred to House House Administration</text>
+    </action>
+    <action datetime="2013-09-30">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSHA" name="House Administration" activity="Referral"/>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="3160"/>
+    <bill type="h" session="113" relation="unknown" number="3236"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Appropriations"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Members of Congress"/>
+  </subjects>
+  <amendments/>
+  <summary>9/30/2013--Introduced.
+No Government No Pay Act of 2013 - Requires the withholding of pay of a Member of Congress during a government shutdown equal to the product of 1 day's worth of pay under such annual rate and the number of 24-hour periods during which the government shutdown is in effect. Makes such withholding applicable to days occurring during the 114th and succeeding Congresses.</summary>
+</bill>

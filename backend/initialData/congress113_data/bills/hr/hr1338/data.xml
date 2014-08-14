@@ -1,0 +1,57 @@
+<bill session="113" type="h" number="1338" updated="2014-08-14T13:02:06-04:00">
+  <state datetime="2013-03-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-21"/>
+  </status>
+  <introduced datetime="2013-03-21"/>
+  <titles>
+    <title type="short" as="introduced">Restoring Confidence in Our Democracy Act</title>
+    <title type="official" as="introduced">To amend the Federal Election Campaign Act of 1971 to reassert the authority of Congress to restrict spending by corporations and labor organizations on campaigns for elections for Federal office, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00299"/>
+  <cosponsors>
+    <cosponsor thomas_id="02055" joined="2013-04-09"/>
+    <cosponsor thomas_id="00229" joined="2013-03-21"/>
+    <cosponsor thomas_id="01479" joined="2013-03-21"/>
+    <cosponsor thomas_id="00281" joined="2013-03-21"/>
+    <cosponsor thomas_id="01894" joined="2013-03-21"/>
+    <cosponsor thomas_id="01857" joined="2013-03-21"/>
+    <cosponsor thomas_id="01914" joined="2014-04-03"/>
+    <cosponsor thomas_id="01913" joined="2013-03-21"/>
+    <cosponsor thomas_id="00729" joined="2013-03-21"/>
+    <cosponsor thomas_id="01504" joined="2013-04-09"/>
+    <cosponsor thomas_id="00808" joined="2014-04-03"/>
+    <cosponsor thomas_id="00868" joined="2013-03-21"/>
+    <cosponsor thomas_id="01929" joined="2013-04-09"/>
+    <cosponsor thomas_id="01910" joined="2013-03-21"/>
+    <cosponsor thomas_id="01728" joined="2013-04-09"/>
+    <cosponsor thomas_id="01854" joined="2013-04-25"/>
+    <cosponsor thomas_id="01069" joined="2013-03-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-21" state="REFERRED">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional elections"/>
+    <term name="Corporate finance and management"/>
+    <term name="Elections, voting, political campaign regulation"/>
+    <term name="Labor-management relations"/>
+    <term name="Political advertising"/>
+  </subjects>
+  <amendments/>
+  <summary>3/21/2013--Introduced.
+Restoring Confidence in Our Democracy Act - Amends the Federal Election Campaign Act of 1971 to set forth special rules for electioneering communications, especially targeted communications, which national banks, corporations, and labor organizations are prohibited from paying for.
+
+Defines "targeted communications" as electioneering communications distributed from a television or radio broadcast station or provider of cable or satellite television service and, in the case of a communication which refers to a candidate for an office other than President or Vice President, is targeted to the relevant electorate.
+
+Prohibits independent expenditures by national banks, corporations, and labor organizations.
+
+Applies certain limitations on contributions made by any person to a political committee to any contribution to a political committee which accepts donations or contributions that do not comply with contribution or source prohibitions (or made to any account of a political committee established to accept such noncompliant donations or contributions).</summary>
+</bill>

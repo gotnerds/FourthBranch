@@ -1,0 +1,54 @@
+<bill session="113" type="h" number="1634" updated="2014-08-14T13:04:35-04:00">
+  <state datetime="2013-04-18">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-18"/>
+  </status>
+  <introduced datetime="2013-04-18"/>
+  <titles>
+    <title type="short" as="introduced">Medical FSA Improvement Act of 2013</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to increase participation in medical flexible spending arrangements.</title>
+  </titles>
+  <sponsor thomas_id="01787"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2013-07-30"/>
+    <cosponsor thomas_id="01840" joined="2013-07-08"/>
+    <cosponsor thomas_id="00165" joined="2013-06-26"/>
+    <cosponsor thomas_id="02126" joined="2013-04-18"/>
+    <cosponsor thomas_id="01990" joined="2013-07-16"/>
+    <cosponsor thomas_id="01913" joined="2013-07-22"/>
+    <cosponsor thomas_id="02014" joined="2013-04-26"/>
+    <cosponsor thomas_id="01583" joined="2013-04-18"/>
+    <cosponsor thomas_id="02117" joined="2013-05-17"/>
+    <cosponsor thomas_id="01974" joined="2013-06-26"/>
+    <cosponsor thomas_id="01930" joined="2013-06-12"/>
+    <cosponsor thomas_id="01910" joined="2013-07-24"/>
+    <cosponsor thomas_id="01778" joined="2013-06-05"/>
+    <cosponsor thomas_id="01848" joined="2013-04-25"/>
+    <cosponsor thomas_id="01920" joined="2013-04-18"/>
+    <cosponsor thomas_id="01890" joined="2013-05-03"/>
+    <cosponsor thomas_id="01566" joined="2013-10-28"/>
+    <cosponsor thomas_id="01664" joined="2013-04-25"/>
+    <cosponsor thomas_id="01886" joined="2013-05-22"/>
+    <cosponsor thomas_id="02019" joined="2013-04-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-18" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="966"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Income tax exclusion"/>
+  </subjects>
+  <amendments/>
+  <summary>4/18/2013--Introduced.
+Medical FSA Improvement Act of 2013 - Amends the Internal Revenue Code to allow amounts in a flexible spending arrangement (FSA) that are not spent for medical care to be distributed to the FSA participant as taxable income after the close of a plan year (currently, such unspent amounts are forfeited). Includes such FSAs in the definition of tax-exempt cafeteria plans.</summary>
+</bill>

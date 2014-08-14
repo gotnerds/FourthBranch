@@ -1,0 +1,117 @@
+<bill session="113" type="h" number="1962" updated="2014-08-14T13:07:30-04:00">
+  <state datetime="2013-05-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-14"/>
+  </status>
+  <introduced datetime="2013-05-14"/>
+  <titles>
+    <title type="short" as="introduced">Free Flow of Information Act of 2013</title>
+    <title type="official" as="introduced">To maintain the free flow of information to the public by providing conditions for the federally compelled disclosure of information by certain persons connected with the news media.</title>
+  </titles>
+  <sponsor thomas_id="01802"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2013-06-25"/>
+    <cosponsor thomas_id="02127" joined="2013-06-04"/>
+    <cosponsor thomas_id="02159" joined="2013-07-10"/>
+    <cosponsor thomas_id="00186" joined="2013-06-05"/>
+    <cosponsor thomas_id="01474" joined="2013-06-25"/>
+    <cosponsor thomas_id="01970" joined="2013-05-20"/>
+    <cosponsor thomas_id="02055" joined="2014-07-14"/>
+    <cosponsor thomas_id="00211" joined="2013-05-20"/>
+    <cosponsor thomas_id="01878" joined="2013-05-20"/>
+    <cosponsor thomas_id="00229" joined="2013-05-15"/>
+    <cosponsor thomas_id="01774" joined="2013-06-05"/>
+    <cosponsor thomas_id="02138" joined="2013-07-26"/>
+    <cosponsor thomas_id="02126" joined="2013-07-16"/>
+    <cosponsor thomas_id="02096" joined="2013-05-22"/>
+    <cosponsor thomas_id="01976" joined="2013-05-20"/>
+    <cosponsor thomas_id="02057" joined="2014-01-13"/>
+    <cosponsor thomas_id="02125" joined="2013-06-03"/>
+    <cosponsor thomas_id="00355" joined="2013-06-03"/>
+    <cosponsor thomas_id="02114" joined="2014-02-25"/>
+    <cosponsor thomas_id="02067" joined="2013-05-21"/>
+    <cosponsor thomas_id="01707" joined="2013-06-25"/>
+    <cosponsor thomas_id="01487" joined="2013-06-05"/>
+    <cosponsor thomas_id="02170" joined="2013-11-12"/>
+    <cosponsor thomas_id="01913" joined="2013-06-04"/>
+    <cosponsor thomas_id="00588" joined="2013-05-20"/>
+    <cosponsor thomas_id="02149" joined="2013-05-21"/>
+    <cosponsor thomas_id="01843" joined="2013-05-20"/>
+    <cosponsor thomas_id="01868" joined="2013-06-04"/>
+    <cosponsor thomas_id="02169" joined="2013-08-02"/>
+    <cosponsor thomas_id="02011" joined="2013-07-10"/>
+    <cosponsor thomas_id="01668" joined="2013-05-22"/>
+    <cosponsor thomas_id="00701" joined="2013-05-20"/>
+    <cosponsor thomas_id="02033" joined="2013-07-26"/>
+    <cosponsor thomas_id="00729" joined="2013-06-11"/>
+    <cosponsor thomas_id="01806" joined="2013-06-03"/>
+    <cosponsor thomas_id="00735" joined="2013-05-20"/>
+    <cosponsor thomas_id="01653" joined="2013-06-03"/>
+    <cosponsor thomas_id="02130" joined="2013-06-03"/>
+    <cosponsor thomas_id="00850" joined="2013-05-20"/>
+    <cosponsor thomas_id="01758" joined="2013-07-08"/>
+    <cosponsor thomas_id="00867" joined="2013-06-04"/>
+    <cosponsor thomas_id="02162" joined="2014-02-27"/>
+    <cosponsor thomas_id="01510" joined="2013-05-20"/>
+    <cosponsor thomas_id="02171" joined="2013-06-13"/>
+    <cosponsor thomas_id="01967" joined="2013-09-12"/>
+    <cosponsor thomas_id="02118" joined="2013-05-15"/>
+    <cosponsor thomas_id="02023" joined="2013-05-20"/>
+    <cosponsor thomas_id="02017" joined="2013-06-13"/>
+    <cosponsor thomas_id="01009" joined="2013-09-12"/>
+    <cosponsor thomas_id="01037" joined="2013-05-21"/>
+    <cosponsor thomas_id="01981" joined="2013-06-03"/>
+    <cosponsor thomas_id="01856" joined="2013-07-31"/>
+    <cosponsor thomas_id="01777" joined="2013-06-05"/>
+    <cosponsor thomas_id="01879" joined="2013-06-11"/>
+    <cosponsor thomas_id="01853" joined="2013-06-04"/>
+    <cosponsor thomas_id="02072" joined="2013-06-20" withdrawn="2013-07-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-14" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-06-14">
+      <text>Referred to the Subcommittee on Courts, Intellectual Property, and the Internet.</text>
+    </action>
+    <action datetime="2013-06-14">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee subcommittee="Courts, Intellectual Property, and the Internet" code="HSJU03" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="987"/>
+  </relatedbills>
+  <subjects>
+    <term name="Law"/>
+    <term name="Business records"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Evidence and witnesses"/>
+    <term name="First Amendment rights"/>
+    <term name="Health information and medical records"/>
+    <term name="Internet and video services"/>
+    <term name="Judicial procedure and administration"/>
+    <term name="News media and reporting"/>
+    <term name="Right of privacy"/>
+    <term name="Telephone and wireless communication"/>
+    <term name="Terrorism"/>
+    <term name="Trade secrets and economic espionage"/>
+  </subjects>
+  <amendments/>
+  <summary>5/14/2013--Introduced.
+Free Flow of Information Act of 2013 - Prohibits a federal entity (an entity or employee of the judicial or executive branch or an administrative agency of the federal government), in any matter arising under federal law, from compelling a covered person to testify or produce any document related to information obtained or created as part of engaging in journalism unless a court makes specified determinations by a preponderance of the evidence, including determinations that: (1) alternative sources have been exhausted; (2) the testimony or document sought is critical to the investigation, prosecution, or defense of a crime or the successful completion of a noncriminal matter; (3) disclosure of an information source's identity is necessary to prevent an act of terrorism, harm to national security, imminent death, significant bodily harm or to identify a person who has disclosed a trade secret, individually identifiable health information, or certain nonpublic personal information; and (4) the public interest in compelling disclosure of the information or document involved outweighs the public interest in gathering or disseminating news or information.
+
+Defines "covered person" as a person who, for financial gain or livelihood, is engaged in journalism, including a supervisor, employer, parent, subsidiary, or affiliate of such a person. Excludes from that definition foreign powers and their agents and certain designated foreign terrorist organizations.
+
+Defines "journalism" as the gathering, preparing, collecting, photographing, recording, writing, editing, reporting, or publishing of news or information that concerns local, national, or international events or other matters of public interest for dissemination to the public.
+
+Requires the content of compelled testimony or documents to be limited and narrowly tailored.
+
+Prohibits this Act from being construed as applying to civil defamation, slander, or libel claims or defenses under state law.
+
+Applies this Act to communications service providers with regard to testimony or any record, information, or other communication that relates to a business transaction between such providers and covered persons. Sets forth notice requirements. Permits a court to delay notice to a covered person upon determining that such notice would pose a substantial threat to the integrity of a criminal investigation.</summary>
+</bill>

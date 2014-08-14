@@ -1,0 +1,52 @@
+<bill session="113" type="s" number="190" updated="2014-08-14T13:46:23-04:00">
+  <state datetime="2013-01-31">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-31"/>
+  </status>
+  <introduced datetime="2013-01-31"/>
+  <titles>
+    <title type="short" as="introduced">Restoring the Constitutional Balance of Power Act of 2013</title>
+    <title type="official" as="introduced">A bill to prohibit the use of Federal funds for certain activities of the National Labor Relations Board and the Consumer Financial Protection Bureau.</title>
+  </titles>
+  <sponsor thomas_id="01899"/>
+  <cosponsors>
+    <cosponsor thomas_id="01695" joined="2013-01-31"/>
+    <cosponsor thomas_id="01881" joined="2013-02-07"/>
+    <cosponsor thomas_id="01464" joined="2013-01-31"/>
+    <cosponsor thomas_id="01687" joined="2013-02-07"/>
+    <cosponsor thomas_id="00153" joined="2013-01-31"/>
+    <cosponsor thomas_id="00188" joined="2013-01-31"/>
+    <cosponsor thomas_id="01692" joined="2013-01-31"/>
+    <cosponsor thomas_id="01542" joined="2013-01-31"/>
+    <cosponsor thomas_id="01351" joined="2013-02-25"/>
+    <cosponsor thomas_id="00583" joined="2013-02-04"/>
+    <cosponsor thomas_id="02080" joined="2013-01-31"/>
+    <cosponsor thomas_id="01896" joined="2013-02-07"/>
+    <cosponsor thomas_id="00968" joined="2013-01-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-31" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Consumer Financial Protection Bureau"/>
+    <term name="Consumer credit"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal Reserve System"/>
+    <term name="Federal officials"/>
+    <term name="Labor-management relations"/>
+    <term name="National Labor Relations Board (NLRB)"/>
+  </subjects>
+  <amendments/>
+  <summary>1/31/2013--Introduced.
+Restoring the Constitutional Balance of Power Act of 2013 - Prohibits the use of federal funds by the National Labor Relations Board (NLRB) to undertake or enforce activities commencing on or after January 4, 2012, that require authorization by a quorum of NLRB members.
+
+Prohibits any transfer of funds from the Federal Reserve for use by the Consumer Financial Protection Bureau (CFPB) to implement activities that are authorized only upon the confirmation of a CFPB Director.</summary>
+</bill>

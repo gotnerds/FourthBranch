@@ -1,0 +1,92 @@
+<bill session="113" type="h" number="3160" updated="2014-08-14T13:18:23-04:00">
+  <state datetime="2013-09-20">REFERRED</state>
+  <status>
+    <introduced datetime="2013-09-20"/>
+  </status>
+  <introduced datetime="2013-09-20"/>
+  <titles>
+    <title type="short" as="introduced">Government Shutdown Fairness Act</title>
+    <title type="official" as="introduced">To reduce the annual rate of pay of Members of Congress if a Government shutdown occurs during a year, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02151"/>
+  <cosponsors>
+    <cosponsor thomas_id="02027" joined="2013-09-28"/>
+    <cosponsor thomas_id="01882" joined="2013-10-04"/>
+    <cosponsor thomas_id="01840" joined="2013-09-28"/>
+    <cosponsor thomas_id="01912" joined="2013-09-25"/>
+    <cosponsor thomas_id="02103" joined="2013-10-02"/>
+    <cosponsor thomas_id="02138" joined="2013-10-08"/>
+    <cosponsor thomas_id="02126" joined="2013-09-30"/>
+    <cosponsor thomas_id="02072" joined="2013-09-25"/>
+    <cosponsor thomas_id="02064" joined="2013-10-04"/>
+    <cosponsor thomas_id="01797" joined="2013-09-25"/>
+    <cosponsor thomas_id="02065" joined="2013-10-01"/>
+    <cosponsor thomas_id="01683" joined="2013-10-04"/>
+    <cosponsor thomas_id="02043" joined="2013-10-01"/>
+    <cosponsor thomas_id="01720" joined="2013-10-01"/>
+    <cosponsor thomas_id="00484" joined="2013-10-01"/>
+    <cosponsor thomas_id="02044" joined="2013-09-30"/>
+    <cosponsor thomas_id="02140" joined="2013-10-08"/>
+    <cosponsor thomas_id="01921" joined="2013-10-01"/>
+    <cosponsor thomas_id="02046" joined="2013-09-28"/>
+    <cosponsor thomas_id="02154" joined="2013-09-25"/>
+    <cosponsor thomas_id="01936" joined="2013-10-01"/>
+    <cosponsor thomas_id="00666" joined="2013-10-01"/>
+    <cosponsor thomas_id="01806" joined="2013-09-30"/>
+    <cosponsor thomas_id="01804" joined="2013-10-04"/>
+    <cosponsor thomas_id="02059" joined="2013-10-01"/>
+    <cosponsor thomas_id="02157" joined="2013-10-02"/>
+    <cosponsor thomas_id="02141" joined="2013-09-30"/>
+    <cosponsor thomas_id="02048" joined="2013-09-30"/>
+    <cosponsor thomas_id="02073" joined="2013-10-01"/>
+    <cosponsor thomas_id="02068" joined="2013-09-25"/>
+    <cosponsor thomas_id="02039" joined="2013-09-28"/>
+    <cosponsor thomas_id="02009" joined="2013-10-01"/>
+    <cosponsor thomas_id="02191" joined="2013-10-04"/>
+    <cosponsor thomas_id="01075" joined="2013-10-02"/>
+    <cosponsor thomas_id="02000" joined="2013-09-30"/>
+    <cosponsor thomas_id="02047" joined="2013-10-01"/>
+    <cosponsor thomas_id="01952" joined="2013-10-02"/>
+    <cosponsor thomas_id="02105" joined="2013-09-25"/>
+    <cosponsor thomas_id="02128" joined="2013-09-30"/>
+    <cosponsor thomas_id="02161" joined="2013-10-01"/>
+    <cosponsor thomas_id="02152" joined="2013-10-01"/>
+    <cosponsor thomas_id="01779" joined="2013-10-01"/>
+    <cosponsor thomas_id="01688" joined="2013-10-01"/>
+    <cosponsor thomas_id="02021" joined="2013-10-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-20" state="REFERRED">
+      <text>Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-09-20">
+      <text>Referred to House House Administration</text>
+    </action>
+    <action datetime="2013-09-20">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2013-09-26">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H5844"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSHA" name="House Administration" activity="Referral"/>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="3224"/>
+    <bill type="h" session="113" relation="unknown" number="3236"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Appropriations"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Members of Congress"/>
+  </subjects>
+  <amendments/>
+  <summary>9/20/2013--Introduced.
+Government Shutdown Fairness Act - Requires a reduction in the annual rate of pay of a Member of Congress during a government shutdown equal to the product of 1 day's worth of pay under such annual rate and the number of 24-hour periods during which the government shutdown is in effect. Makes such reduction applicable to days occurring after the date of the general election for federal office held in November 2014.
+
+Requires any amount of pay of a Member of Congress in the 113th Congress that is reduced due to a government shutdown to be held in escrow until the last day of the 113th Congress and released for payment to Members at that time.</summary>
+</bill>

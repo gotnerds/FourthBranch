@@ -1,0 +1,49 @@
+<bill session="113" type="h" number="2324" updated="2014-08-14T13:11:11-04:00">
+  <state datetime="2013-06-11">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-11"/>
+  </status>
+  <introduced datetime="2013-06-11"/>
+  <titles>
+    <title type="short" as="introduced">Sunset to the Authorization for Use of Military Force Act</title>
+    <title type="official" as="introduced">To repeal the Authorization for Use of Military Force.</title>
+  </titles>
+  <sponsor thomas_id="01635"/>
+  <cosponsors>
+    <cosponsor thomas_id="00099" joined="2013-08-01"/>
+    <cosponsor thomas_id="01882" joined="2013-08-02"/>
+    <cosponsor thomas_id="02196" joined="2014-06-25"/>
+    <cosponsor thomas_id="01857" joined="2014-04-28"/>
+    <cosponsor thomas_id="02043" joined="2014-05-19"/>
+    <cosponsor thomas_id="01801" joined="2014-04-28"/>
+    <cosponsor thomas_id="00688" joined="2014-04-28"/>
+    <cosponsor thomas_id="00701" joined="2014-06-09"/>
+    <cosponsor thomas_id="02111" joined="2013-06-14"/>
+    <cosponsor thomas_id="00766" joined="2014-04-28"/>
+    <cosponsor thomas_id="00867" joined="2013-06-14"/>
+    <cosponsor thomas_id="02162" joined="2013-07-31"/>
+    <cosponsor thomas_id="01916" joined="2013-06-14"/>
+    <cosponsor thomas_id="01188" joined="2013-06-20"/>
+    <cosponsor thomas_id="01209" joined="2013-07-18"/>
+    <cosponsor thomas_id="01879" joined="2014-03-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-11" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Congressional oversight"/>
+    <term name="Presidents and presidential powers"/>
+    <term name="Terrorism"/>
+    <term name="War and emergency powers"/>
+  </subjects>
+  <amendments/>
+  <summary>6/11/2013--Introduced.
+Sunset to the Authorization for Use of Military Force Act - Repeals, effective December 31, 2014, the Authorization for Use of Military Force (authorized the President to use force against those nations, organizations, or persons that committed or aided the terrorist attacks that occurred on September 11, 2001, or that harbored such organizations or persons, in order to prevent any future acts of international terrorism against the United States).</summary>
+</bill>

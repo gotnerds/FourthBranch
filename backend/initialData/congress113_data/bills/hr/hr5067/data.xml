@@ -1,0 +1,23 @@
+<bill session="113" type="h" number="5067" updated="2014-08-14T13:34:44-04:00">
+  <state datetime="2014-07-10">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-10"/>
+  </status>
+  <introduced datetime="2014-07-10"/>
+  <titles>
+    <title type="official" as="introduced">To require the Federal Insurance Office to carry out a study on illegal steering and redlining in the insurance industry.</title>
+  </titles>
+  <sponsor thomas_id="01654"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-10" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

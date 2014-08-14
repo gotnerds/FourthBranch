@@ -1,0 +1,200 @@
+<bill session="113" type="h" number="3136" updated="2014-08-14T13:18:11-04:00">
+  <state datetime="2014-07-23T17:19:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-07-23T17:19:00-04:00"/>
+  </status>
+  <introduced datetime="2013-09-19"/>
+  <titles>
+    <title type="short" as="introduced">Advancing Competency-Based Education Demonstration Project Act of 2013</title>
+    <title type="short" as="reported to house">Advancing Competency-Based Education Demonstration Project Act of 2014</title>
+    <title type="short" as="passed house">Advancing Competency-Based Education Demonstration Project Act of 2014</title>
+    <title type="official" as="introduced">To establish a demonstration program for competency-based education.</title>
+  </titles>
+  <sponsor thomas_id="01009"/>
+  <cosponsors>
+    <cosponsor thomas_id="00021" joined="2013-09-19"/>
+    <cosponsor thomas_id="02129" joined="2013-09-19"/>
+    <cosponsor thomas_id="02018" joined="2014-02-25"/>
+    <cosponsor thomas_id="02133" joined="2014-07-16"/>
+    <cosponsor thomas_id="01733" joined="2014-07-17"/>
+    <cosponsor thomas_id="00808" joined="2014-07-17"/>
+    <cosponsor thomas_id="00912" joined="2014-02-10"/>
+    <cosponsor thomas_id="01910" joined="2013-09-19"/>
+    <cosponsor thomas_id="02017" joined="2014-01-15"/>
+    <cosponsor thomas_id="02158" joined="2014-07-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-19" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2014-01-22">
+      <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+    </action>
+    <action datetime="2014-07-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-07-10" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+    <action datetime="2014-07-17T12:58:00-04:00">
+      <text>Reported (Amended) by the Committee on Education and the Workforce. H. Rept. 113-529.</text>
+    </action>
+    <calendar datetime="2014-07-17T12:58:00-04:00" calendar="Union" number="395">
+      <text>Placed on the Union Calendar, Calendar No. 395.</text>
+    </calendar>
+    <action datetime="2014-07-22T19:40:00-04:00">
+      <text>Rules Committee Resolution H. Res. 677 Reported to House. The rules provides a structured rule for H.R. 3136 and H.R. 4984. Both bills are debatable for one hour with or without instructions.</text>
+    </action>
+    <action datetime="2014-07-23T14:46:00-04:00">
+      <text>Considered under the provisions of rule H. Res. 677.</text>
+      <reference ref="CR H6686-6695" label="consideration"/>
+    </action>
+    <action datetime="2014-07-23T14:46:00-04:00">
+      <text>The resolution provides a structured rule for H.R. 3136 and H.R. 4984. Both bills are debatable for one hour. The resolution provides for certain amendments to be in order. One motion to recommit with or without instructions is allowed for each bill.</text>
+    </action>
+    <action datetime="2014-07-23T14:47:00-04:00">
+      <text>House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 677 and Rule XVIII.</text>
+    </action>
+    <action datetime="2014-07-23T14:47:00-04:00">
+      <text>The Speaker designated the Honorable Mark E. Amodei to act as Chairman of the Committee.</text>
+    </action>
+    <action datetime="2014-07-23T14:47:00-04:00">
+      <text>GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 3136.</text>
+    </action>
+    <action datetime="2014-07-23T15:18:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 677, the Committee of the Whole proceeded with 10 minutes of debate on the Part A Kline amendment No. 1.</text>
+    </action>
+    <action datetime="2014-07-23T15:22:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 677, the Committee of the Whole proceeded with 10 minutes of debate on the Part A Polis amendment No. 2.</text>
+    </action>
+    <action datetime="2014-07-23T15:29:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 677, the Committee of the Whole proceeded with 10 minutes of debate on the Part A Walberg amendment No. 3.</text>
+    </action>
+    <action datetime="2014-07-23T15:33:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 677, the Committee of the Whole proceeded with 10 minutes of debate on the Part A Polis amendment No. 4.</text>
+    </action>
+    <action datetime="2014-07-23T15:40:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 677, the Committee of the Whole proceeded with 10 minutes of debate on the Part A Byrne amendment No. 5.</text>
+    </action>
+    <action datetime="2014-07-23T15:45:00-04:00">
+      <text>Mr. Kline moved that the Committee rise.</text>
+    </action>
+    <action datetime="2014-07-23T15:45:00-04:00">
+      <text>On motion that the Committee rise Agreed to by voice vote.</text>
+    </action>
+    <action datetime="2014-07-23T15:45:00-04:00">
+      <text>Committee of the Whole House on the state of the Union rises leaving H.R. 3136 as unfinished business.</text>
+    </action>
+    <action datetime="2014-07-23T15:47:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H6695-6702" label="consideration"/>
+    </action>
+    <action datetime="2014-07-23T15:48:00-04:00">
+      <text>The House resolved into Committee of the Whole House on the state of the Union for further consideration.</text>
+    </action>
+    <action datetime="2014-07-23T15:48:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 677, the Committee of the Whole proceeded with 10 minutes of debate on the Part A Langevin amendment No. 6.</text>
+    </action>
+    <action datetime="2014-07-23T15:54:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 677, the Committee of the Whole proceeded with 10 minutes of debate on the Part A Duffy amendment No. 7.</text>
+    </action>
+    <action datetime="2014-07-23T16:00:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 677, the Committee of the Whole proceeded with 10 minutes of debate on the Part A Gowdy amendment No. 8.</text>
+    </action>
+    <action datetime="2014-07-23T16:06:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Gowdy amendment No. 8, the Chair put the question on adoption of the amendment and by voice vote, announced the ayes had prevailed. Mr. Polis demanded a recorded vote and the Chair postponed further proceedings on the amendment until later in the legislative day.</text>
+    </action>
+    <action datetime="2014-07-23T16:07:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 677, the Committee of the Whole proceeded with 10 minutes of debate on the Part A Polis amendment No. 9.</text>
+    </action>
+    <action datetime="2014-07-23T16:09:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 677, the Committee of the Whole proceeded with 10 minutes of debate on the Part A Gowdy amendment No. 10.</text>
+    </action>
+    <action datetime="2014-07-23T16:17:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 677, the Committee of the Whole proceeded with 10 minutes of debate on the Part A Grayson amendment No. 11.</text>
+    </action>
+    <action datetime="2014-07-23T16:51:00-04:00">
+      <text>The House rose from the Committee of the Whole House on the state of the Union to report H.R. 3136.</text>
+    </action>
+    <action datetime="2014-07-23T16:52:00-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H6700" label="consideration"/>
+    </action>
+    <action datetime="2014-07-23T16:52:00-04:00">
+      <text>The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.</text>
+      <reference ref="CR H6690-6691" label="text of amendment in the nature of a substitute"/>
+    </action>
+    <action datetime="2014-07-23T16:53:00-04:00">
+      <text>Mr. Tierney moved to recommit with instructions to the Committee on Education and the Workforce.</text>
+      <reference ref="CR H6700-6702" label="consideration"/>
+      <reference ref="text:CR H6700"/>
+    </action>
+    <action datetime="2014-07-23T16:53:00-04:00">
+      <text>DEBATE - The House proceeded with 10 minutes of debate on the Tierney motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to add a new section allowing the Secretary of Education to provide rebates equal to the rates that new borrowers had available to them from July 1, 2013 to June 30, 2014. Those rebates are equal to the amount that would be saved from the lower interest rates.</text>
+    </action>
+    <action datetime="2014-07-23T17:00:00-04:00">
+      <text>The previous question on the motion to recommit with instructions was ordered without objection.</text>
+      <reference ref="CR H6701" label="consideration"/>
+    </action>
+    <action datetime="2014-07-23T17:08:00-04:00">
+      <text>On motion to recommit with instructions Failed by recorded vote: 194 - 221 (Roll no. 440).</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-07-23T17:08:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by voice vote.</text>
+    </vote>
+    <action datetime="2014-07-23T17:08:00-04:00">
+      <text>Subsequent to the announcement by the Chair that H.R. 3136 had passed by voice vote, Mr. Kline asked unanimous consent that it be in order to put the question of passage to a recorded vote. Agreed to without objection.</text>
+    </action>
+    <vote how="roll" type="vote" roll="441" datetime="2014-07-23T17:19:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by recorded vote: 414 - 0 (Roll no. 441).</text>
+    </vote>
+    <action datetime="2014-07-23T17:19:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-07-24">
+      <text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral, Markup, Reporting"/>
+    <committee subcommittee="Higher Education and Workforce Training" code="HSED13" name="House Education and the Workforce" activity="Referral"/>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="113" relation="unknown" number="677"/>
+    <bill type="hr" session="113" relation="rule" number="677"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Academic performance and assessments"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Department of Education"/>
+    <term name="Education programs funding"/>
+    <term name="Higher education"/>
+    <term name="School administration"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments>
+    <amendment number="h1105"/>
+    <amendment number="h1106"/>
+    <amendment number="h1107"/>
+    <amendment number="h1108"/>
+    <amendment number="h1109"/>
+    <amendment number="h1110"/>
+    <amendment number="h1111"/>
+    <amendment number="h1112"/>
+    <amendment number="h1113"/>
+    <amendment number="h1114"/>
+    <amendment number="h1115"/>
+  </amendments>
+  <summary>9/19/2013--Introduced.
+Advancing Competency-Based Education Demonstration Project Act of 2013 - Amends title IV (Student Assistance) of the Higher Education Act of 1965 to direct the Secretary of Education to select institutions of higher education (IHEs) for voluntary participation in Competency-Based Education Demonstration Programs that provide participating IHEs with the ability to offer competency-based education that does not meet certain statutory and regulatory requirements that would otherwise prevent them from participating in federal student aid programs.
+
+Defines "competency-based education" as an education process that is characterized by the direct assessment and measurement of student learning instead of, or in addition to, measuring students' credit or clock hours.
+
+Deems IHEs to be eligible to participate in a Program if they are eligible to participate in title IV programs or have been approved by the Secretary to offer programs that measure student learning through direct assessments rather than credit or clock hours.
+
+Requires Program applicants to provide the Secretary with a description of the statutory and regulatory requirements they would like waived and the reasons for seeking each waiver.
+
+Directs the Secretary to conduct an annual evaluation of each of the up to 20 Programs authorized by this Act.</summary>
+</bill>

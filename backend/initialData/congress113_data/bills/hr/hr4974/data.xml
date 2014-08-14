@@ -1,0 +1,39 @@
+<bill session="113" type="h" number="4974" updated="2014-08-14T13:33:55-04:00">
+  <state datetime="2014-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-25"/>
+  </status>
+  <introduced datetime="2014-06-25"/>
+  <titles>
+    <title type="short" as="introduced">DELIVER Act</title>
+    <title type="short" as="introduced">Doctors' Education Loans Impact VA Employee Retention Act</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to provide for the repayment of higher education loans for certain employees of the Department of Veterans Affairs.</title>
+  </titles>
+  <sponsor thomas_id="01861"/>
+  <cosponsors>
+    <cosponsor thomas_id="01846" joined="2014-06-25"/>
+    <cosponsor thomas_id="01535" joined="2014-06-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-25" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2014-07-18">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Economic Opportunity" code="HSVR10" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Higher education"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+</bill>

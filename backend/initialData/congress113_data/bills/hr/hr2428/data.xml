@@ -1,0 +1,71 @@
+<bill session="113" type="h" number="2428" updated="2014-08-14T13:12:04-04:00">
+  <state datetime="2013-06-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-19"/>
+  </status>
+  <introduced datetime="2013-06-19"/>
+  <titles>
+    <title type="short" as="introduced">SAFE Bridges Act of 2013</title>
+    <title type="short" as="introduced">Strengthen And Fortify Existing Bridges Act of 2013</title>
+    <title type="official" as="introduced">To direct the Secretary of Transportation to assist States to rehabilitate or replace certain bridges, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00940"/>
+  <cosponsors>
+    <cosponsor thomas_id="01740" joined="2013-06-19"/>
+    <cosponsor thomas_id="00132" joined="2013-06-19"/>
+    <cosponsor thomas_id="02127" joined="2013-06-19"/>
+    <cosponsor thomas_id="01564" joined="2013-06-19"/>
+    <cosponsor thomas_id="01889" joined="2013-06-19"/>
+    <cosponsor thomas_id="01878" joined="2013-06-19"/>
+    <cosponsor thomas_id="00256" joined="2013-06-19"/>
+    <cosponsor thomas_id="00279" joined="2013-06-19"/>
+    <cosponsor thomas_id="00281" joined="2013-07-08"/>
+    <cosponsor thomas_id="02096" joined="2014-03-11"/>
+    <cosponsor thomas_id="01894" joined="2013-06-19"/>
+    <cosponsor thomas_id="02114" joined="2013-06-19"/>
+    <cosponsor thomas_id="02119" joined="2013-06-19"/>
+    <cosponsor thomas_id="01973" joined="2013-06-19"/>
+    <cosponsor thomas_id="02089" joined="2013-06-19"/>
+    <cosponsor thomas_id="00599" joined="2013-06-19"/>
+    <cosponsor thomas_id="01907" joined="2013-06-19"/>
+    <cosponsor thomas_id="02145" joined="2014-07-14"/>
+    <cosponsor thomas_id="01675" joined="2013-06-19"/>
+    <cosponsor thomas_id="01781" joined="2013-06-19"/>
+    <cosponsor thomas_id="02150" joined="2013-07-08"/>
+    <cosponsor thomas_id="01730" joined="2013-06-19"/>
+    <cosponsor thomas_id="00850" joined="2013-06-19"/>
+    <cosponsor thomas_id="01602" joined="2013-06-19"/>
+    <cosponsor thomas_id="00867" joined="2013-06-19"/>
+    <cosponsor thomas_id="00868" joined="2013-06-19"/>
+    <cosponsor thomas_id="01818" joined="2013-06-19"/>
+    <cosponsor thomas_id="01856" joined="2013-06-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-19" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2013-06-20">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Highways and Transit" code="HSPW12" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2063"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Roads and highways"/>
+    <term name="Transportation programs funding"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>6/19/2013--Introduced.
+Strengthen And Fortify Existing Bridges Act of 2013 or SAFE Bridges Act of 2013 - Directs the Secretary of Transportation (DOT) to establish a program to assist states to rehabilitate or replace bridges found to be structurally deficient, functionally obsolete, or fracture critical.
+
+Requires states to use apportioned program funds for projects to rehabilitate and replace such bridges.
+
+Sets the federal share of project costs at 100%.</summary>
+</bill>

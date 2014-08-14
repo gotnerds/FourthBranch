@@ -1,0 +1,50 @@
+<bill session="113" type="sj" number="10" updated="2014-08-14T13:39:37-04:00">
+  <state datetime="2013-03-05">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-05"/>
+  </status>
+  <introduced datetime="2013-03-05"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution proposing an amendment to the Constitution of the United States relative to equal rights for men and women.</title>
+  </titles>
+  <sponsor thomas_id="00791"/>
+  <cosponsors>
+    <cosponsor thomas_id="01898" joined="2013-03-05"/>
+    <cosponsor thomas_id="02076" joined="2013-03-05"/>
+    <cosponsor thomas_id="00116" joined="2013-03-05"/>
+    <cosponsor thomas_id="00174" joined="2013-03-05"/>
+    <cosponsor thomas_id="01984" joined="2014-02-03"/>
+    <cosponsor thomas_id="00326" joined="2014-05-13"/>
+    <cosponsor thomas_id="01332" joined="2013-06-06"/>
+    <cosponsor thomas_id="01969" joined="2013-05-06"/>
+    <cosponsor thomas_id="01866" joined="2013-03-13"/>
+    <cosponsor thomas_id="00501" joined="2013-03-05"/>
+    <cosponsor thomas_id="01844" joined="2013-03-05"/>
+    <cosponsor thomas_id="01381" joined="2013-03-05"/>
+    <cosponsor thomas_id="01384" joined="2013-03-05"/>
+    <cosponsor thomas_id="01531" joined="2013-03-05"/>
+    <cosponsor thomas_id="02182" joined="2013-03-05"/>
+    <cosponsor thomas_id="01823" joined="2013-03-11"/>
+    <cosponsor thomas_id="01247" joined="2013-10-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="hj" session="113" relation="unknown" number="56"/>
+  </relatedbills>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Constitution and constitutional amendments"/>
+    <term name="Sex, gender, sexual orientation discrimination"/>
+    <term name="Women's rights"/>
+  </subjects>
+  <amendments/>
+  <summary>3/5/2013--Introduced.
+Constitutional Amendment - Prohibits denying or abridging equality of rights under the law by the United States or by any state on account of sex.</summary>
+</bill>

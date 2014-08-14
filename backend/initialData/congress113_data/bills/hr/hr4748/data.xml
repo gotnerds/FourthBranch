@@ -1,0 +1,49 @@
+<bill session="113" type="h" number="4748" updated="2014-08-14T13:31:55-04:00">
+  <state datetime="2014-05-28">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-28"/>
+  </status>
+  <introduced datetime="2014-05-28"/>
+  <titles>
+    <title type="short" as="introduced">Elimination of Tariffs on Education for Children's Act</title>
+    <title type="short" as="introduced">ETEACH Act</title>
+    <title type="official" as="introduced">To amend the Harmonized Tariff Schedule of the United States to eliminate tariffs on technological goods providing educational value for children, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02063"/>
+  <cosponsors>
+    <cosponsor thomas_id="00070" joined="2014-08-04"/>
+    <cosponsor thomas_id="01748" joined="2014-07-30"/>
+    <cosponsor thomas_id="01787" joined="2014-05-28"/>
+    <cosponsor thomas_id="01990" joined="2014-07-22"/>
+    <cosponsor thomas_id="02051" joined="2014-07-31"/>
+    <cosponsor thomas_id="01498" joined="2014-07-24"/>
+    <cosponsor thomas_id="01806" joined="2014-05-28"/>
+    <cosponsor thomas_id="00808" joined="2014-07-29"/>
+    <cosponsor thomas_id="00854" joined="2014-07-30"/>
+    <cosponsor thomas_id="02060" joined="2014-07-31"/>
+    <cosponsor thomas_id="01930" joined="2014-07-23"/>
+    <cosponsor thomas_id="01982" joined="2014-07-30"/>
+    <cosponsor thomas_id="01848" joined="2014-07-31"/>
+    <cosponsor thomas_id="01522" joined="2014-05-28"/>
+    <cosponsor thomas_id="01920" joined="2014-07-28"/>
+    <cosponsor thomas_id="01860" joined="2014-07-29"/>
+    <cosponsor thomas_id="01593" joined="2014-05-28"/>
+    <cosponsor thomas_id="02019" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-28" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Tariffs"/>
+  </subjects>
+  <amendments/>
+  <summary>5/28/2014--Introduced.
+Elimination of Tariffs on Education for Children's Act or the ETEACH Act - Amends the Harmonized Tariff Schedule of the United States to grant duty-free treatment to electronic educational devices designed or intended primarily for children.</summary>
+</bill>

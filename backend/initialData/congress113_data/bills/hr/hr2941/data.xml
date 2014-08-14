@@ -1,0 +1,52 @@
+<bill session="113" type="h" number="2941" updated="2014-08-14T13:16:32-04:00">
+  <state datetime="2013-08-01">REFERRED</state>
+  <status>
+    <introduced datetime="2013-08-01"/>
+  </status>
+  <introduced datetime="2013-08-01"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to make certain grants to assist nursing homes for veterans located on tribal lands.</title>
+  </titles>
+  <sponsor thomas_id="01907"/>
+  <cosponsors>
+    <cosponsor thomas_id="02093" joined="2013-08-01"/>
+    <cosponsor thomas_id="00165" joined="2013-11-13"/>
+    <cosponsor thomas_id="01742" joined="2013-08-01"/>
+    <cosponsor thomas_id="02103" joined="2013-08-01"/>
+    <cosponsor thomas_id="02125" joined="2013-10-28"/>
+    <cosponsor thomas_id="01708" joined="2013-08-01"/>
+    <cosponsor thomas_id="00588" joined="2013-10-28"/>
+    <cosponsor thomas_id="02162" joined="2013-08-01"/>
+    <cosponsor thomas_id="02109" joined="2013-10-28"/>
+    <cosponsor thomas_id="02099" joined="2013-08-01"/>
+    <cosponsor thomas_id="01940" joined="2013-08-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-08-01" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-08-13">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Health" code="HSVR03" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Building construction"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Indian social and development programs"/>
+    <term name="Long-term, rehabilitative, and terminal care"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>8/1/2013--Introduced.
+Defines "state homes" to include homes established by federally recognized Indian tribes for veterans who, by reason of disability, are incapable of earning a living.
+
+Requires the Secretary of Veterans Affairs (VA) to pay those tribes for the hospital, nursing home, domiciliary, and medical care they provide to veterans in those homes.
+
+Makes those tribes eligible for grants from the Secretary for the construction of state homes.</summary>
+</bill>

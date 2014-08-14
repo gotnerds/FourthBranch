@@ -1,0 +1,54 @@
+<bill session="113" type="s" number="2562" updated="2014-08-14T14:06:39-04:00">
+  <state datetime="2014-07-07">REPORTED</state>
+  <status>
+    <unknown datetime="2014-07-07"/>
+  </status>
+  <introduced datetime="2014-06-26"/>
+  <titles>
+    <title type="short" as="introduced">Bring Jobs Home Act</title>
+    <title type="official" as="introduced">A bill to provide an incentive to businesses to bring jobs back to America.</title>
+  </titles>
+  <sponsor thomas_id="01531"/>
+  <cosponsors>
+    <cosponsor thomas_id="01558" joined="2014-06-26"/>
+    <cosponsor thomas_id="02076" joined="2014-06-26"/>
+    <cosponsor thomas_id="01984" joined="2014-06-26"/>
+    <cosponsor thomas_id="00326" joined="2014-06-26"/>
+    <cosponsor thomas_id="01969" joined="2014-06-26"/>
+    <cosponsor thomas_id="01902" joined="2014-06-26"/>
+    <cosponsor thomas_id="01826" joined="2014-06-26"/>
+    <cosponsor thomas_id="00735" joined="2014-06-26"/>
+    <cosponsor thomas_id="01820" joined="2014-06-26"/>
+    <cosponsor thomas_id="01900" joined="2014-06-26"/>
+    <cosponsor thomas_id="01701" joined="2014-06-26"/>
+    <cosponsor thomas_id="00949" joined="2014-06-26"/>
+    <cosponsor thomas_id="01424" joined="2014-06-26"/>
+    <cosponsor thomas_id="02173" joined="2014-06-26"/>
+    <cosponsor thomas_id="01036" joined="2014-07-07"/>
+    <cosponsor thomas_id="01901" joined="2014-06-26"/>
+    <cosponsor thomas_id="01595" joined="2014-06-26"/>
+    <cosponsor thomas_id="01567" joined="2014-06-26"/>
+    <cosponsor thomas_id="02198" joined="2014-06-26"/>
+    <cosponsor thomas_id="01897" joined="2014-06-26"/>
+    <cosponsor thomas_id="01823" joined="2014-06-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-26">
+      <text>Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+    </action>
+    <calendar datetime="2014-07-07" state="REPORTED" calendar="Senate Legislative" under="General Orders" number="451">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 451.</text>
+    </calendar>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="851"/>
+    <bill type="s" session="113" relation="identical" number="337"/>
+    <bill type="s" session="113" relation="identical" number="2569"/>
+    <bill type="s" session="113" relation="unknown" number="2569"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+  <summary>6/26/2014--Introduced.
+Bring Jobs Home Act - Amends the Internal Revenue Code to: (1) grant business taxpayers a&#160;tax credit for up to 20% of insourcing expenses incurred for eliminating a&#160;business located outside the United States and&#160; relocating it within the United States, and (2) deny a tax deduction for outsourcing expenses incurred in relocating a U.S. business outside the United States. Requires an increase in the taxpayer's employment of full-time employees&#160;in the United States in order to claim the tax credit for insourcing expenses.</summary>
+</bill>

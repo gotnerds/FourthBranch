@@ -1,0 +1,60 @@
+<bill session="113" type="h" number="2349" updated="2014-08-14T13:11:24-04:00">
+  <state datetime="2013-06-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-13"/>
+  </status>
+  <introduced datetime="2013-06-13"/>
+  <titles>
+    <title type="short" as="introduced">Get Relief from Academic Debt Act of 2013</title>
+    <title type="short" as="introduced">GRAD Act of 2013</title>
+    <title type="official" as="introduced">To restore and extend the grace period of Federal Direct Stafford Loans and Federal Direct Unsubsidized Stafford Loans.</title>
+  </titles>
+  <sponsor thomas_id="02108"/>
+  <cosponsors>
+    <cosponsor thomas_id="01723" joined="2013-09-09"/>
+    <cosponsor thomas_id="02107" joined="2013-09-09"/>
+    <cosponsor thomas_id="02159" joined="2013-09-09"/>
+    <cosponsor thomas_id="00229" joined="2013-06-26"/>
+    <cosponsor thomas_id="01857" joined="2013-09-09"/>
+    <cosponsor thomas_id="02125" joined="2013-09-09"/>
+    <cosponsor thomas_id="00368" joined="2013-09-09"/>
+    <cosponsor thomas_id="01708" joined="2013-09-09"/>
+    <cosponsor thomas_id="02089" joined="2013-06-13"/>
+    <cosponsor thomas_id="00688" joined="2013-09-09"/>
+    <cosponsor thomas_id="01602" joined="2013-09-09"/>
+    <cosponsor thomas_id="00868" joined="2013-09-09"/>
+    <cosponsor thomas_id="02113" joined="2013-09-09"/>
+    <cosponsor thomas_id="01003" joined="2013-09-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-13" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2013-06-17">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H3658"/>
+    </action>
+    <action datetime="2013-07-08">
+      <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee subcommittee="Higher Education and Workforce Training" code="HSED13" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Higher education"/>
+    <term name="Interest, dividends, interest rates"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+  <summary>6/13/2013--Introduced.
+Get Relief from Academic Debt Act of 2013 or the GRAD Act of 2013 - Amends title IV (Student Assistance) of the Higher Education Act of 1965 to allow borrowers of Direct Stafford Loans to opt to extend the period before they must begin to repay such loans to one year after they cease to carry at least one-half the normal full-time academic workload. (Currently, the repayment period for Direct Stafford Loans begins six months after borrowers cease to carry at least one-half the normal full-time academic workload.)
+
+Subsidizes the interest that accrues on Direct Stafford Loans for the first six months of that extended grace period.
+
+Makes this Act applicable to Direct Stafford Loans first disbursed on or after July 1, 2013.</summary>
+</bill>

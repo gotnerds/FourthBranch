@@ -1,0 +1,33 @@
+<bill session="113" type="h" number="5038" updated="2014-08-14T13:34:29-04:00">
+  <state datetime="2014-07-09">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-09"/>
+  </status>
+  <introduced datetime="2014-07-09"/>
+  <titles>
+    <title type="short" as="introduced">Maritime Washington National Heritage Area Act</title>
+    <title type="official" as="introduced">To establish the Maritime Washington National Heritage Area in the State of Washington, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02169"/>
+  <cosponsors>
+    <cosponsor thomas_id="02096" joined="2014-07-29"/>
+    <cosponsor thomas_id="02170" joined="2014-07-09"/>
+    <cosponsor thomas_id="01675" joined="2014-07-11"/>
+    <cosponsor thomas_id="01528" joined="2014-07-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-09" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2014-07-14">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Public Lands and Environmental Regulation" code="HSII10" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

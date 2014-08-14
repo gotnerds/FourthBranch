@@ -1,0 +1,39 @@
+<bill session="113" type="s" number="1531" updated="2014-08-14T13:57:57-04:00">
+  <state datetime="2013-09-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-09-19"/>
+  </status>
+  <introduced datetime="2013-09-19"/>
+  <titles>
+    <title type="short" as="introduced">Cider Investment and Development through Excise Tax Reduction (CIDER) Act</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to modify the types of wines taxed as hard cider.</title>
+  </titles>
+  <sponsor thomas_id="01036"/>
+  <cosponsors>
+    <cosponsor thomas_id="01828" joined="2013-10-16"/>
+    <cosponsor thomas_id="01541" joined="2014-02-27"/>
+    <cosponsor thomas_id="01383" joined="2013-09-19"/>
+    <cosponsor thomas_id="01983" joined="2013-10-11"/>
+    <cosponsor thomas_id="01901" joined="2014-07-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-19" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="2921"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Alcoholic beverages"/>
+    <term name="Fruit and vegetables"/>
+    <term name="Sales and excise taxes"/>
+  </subjects>
+  <amendments/>
+  <summary>9/19/2013--Introduced.
+Cider Investment and Development through Excise Tax Reduction (CIDER) Act - Amends the Internal Revenue to revise the definition of "hard cider," for purposes of the excise tax on distilled spirits, wines, and beer, to mean a wine: (1) the carbonation level of which does not exceed 6.4 grams per liter; (2) which is derived primarily from apples, apple juice concentrate, pears, or pear juice concentrate, and water; (3) which contains no fruit product or fruit flavoring other than apple or pear; and (4) which contains at least one-half of 1% and less than 8.5% alcohol by volume.</summary>
+</bill>

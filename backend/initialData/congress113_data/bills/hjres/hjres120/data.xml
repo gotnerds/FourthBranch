@@ -1,0 +1,28 @@
+<bill session="113" type="hj" number="120" updated="2014-08-14T13:38:34-04:00">
+  <state datetime="2014-07-23">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-23"/>
+  </status>
+  <introduced datetime="2014-07-23"/>
+  <titles>
+    <title type="official" as="introduced">Approving the location of a memorial to commemorate the more than 5,000 slaves and free Black persons who fought for independence in the American Revolution.</title>
+  </titles>
+  <sponsor thomas_id="01761"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-23" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2014-07-30">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill type="sj" session="113" relation="identical" number="41"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

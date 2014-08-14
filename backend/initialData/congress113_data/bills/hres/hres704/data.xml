@@ -1,0 +1,27 @@
+<bill session="113" type="hr" number="704" updated="2014-08-14T12:50:37-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="official" as="introduced">Reaffirming the strong support of the United States Government for freedom of navigation and other internationally lawful uses of sea and airspace in the Asia-Pacific region, and for the peaceful diplomatic resolution of outstanding territorial and maritime claims and disputes.</title>
+  </titles>
+  <sponsor thomas_id="01683"/>
+  <cosponsors>
+    <cosponsor thomas_id="02010" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="sr" session="113" relation="unknown" number="412"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

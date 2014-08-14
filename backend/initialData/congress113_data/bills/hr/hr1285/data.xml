@@ -1,0 +1,108 @@
+<bill session="113" type="h" number="1285" updated="2014-08-14T13:01:38-04:00">
+  <state datetime="2013-03-20">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-20"/>
+  </status>
+  <introduced datetime="2013-03-20"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Controlled Substances Act to make any substance containing hydrocodone a schedule II drug.</title>
+  </titles>
+  <sponsor thomas_id="01840"/>
+  <cosponsors>
+    <cosponsor thomas_id="02027" joined="2013-03-20"/>
+    <cosponsor thomas_id="02063" joined="2013-03-20"/>
+    <cosponsor thomas_id="00132" joined="2013-03-20"/>
+    <cosponsor thomas_id="00166" joined="2013-04-16"/>
+    <cosponsor thomas_id="01676" joined="2013-03-20"/>
+    <cosponsor thomas_id="02159" joined="2013-06-26"/>
+    <cosponsor thomas_id="01839" joined="2013-03-20"/>
+    <cosponsor thomas_id="00231" joined="2013-03-20"/>
+    <cosponsor thomas_id="01643" joined="2013-03-20"/>
+    <cosponsor thomas_id="02126" joined="2013-03-20"/>
+    <cosponsor thomas_id="02062" joined="2013-03-20"/>
+    <cosponsor thomas_id="01976" joined="2013-03-20"/>
+    <cosponsor thomas_id="01717" joined="2013-03-20"/>
+    <cosponsor thomas_id="00322" joined="2013-03-20"/>
+    <cosponsor thomas_id="01894" joined="2013-03-20"/>
+    <cosponsor thomas_id="02064" joined="2013-03-20"/>
+    <cosponsor thomas_id="02120" joined="2013-04-16"/>
+    <cosponsor thomas_id="00511" joined="2013-03-20"/>
+    <cosponsor thomas_id="01794" joined="2013-03-20"/>
+    <cosponsor thomas_id="01640" joined="2013-03-20"/>
+    <cosponsor thomas_id="02025" joined="2013-03-20"/>
+    <cosponsor thomas_id="02172" joined="2013-03-20"/>
+    <cosponsor thomas_id="01781" joined="2013-05-14"/>
+    <cosponsor thomas_id="01686" joined="2013-03-20"/>
+    <cosponsor thomas_id="02053" joined="2013-03-20"/>
+    <cosponsor thomas_id="00735" joined="2013-03-20"/>
+    <cosponsor thomas_id="01503" joined="2013-04-16"/>
+    <cosponsor thomas_id="00800" joined="2013-03-20"/>
+    <cosponsor thomas_id="01731" joined="2013-03-20"/>
+    <cosponsor thomas_id="01685" joined="2013-03-20"/>
+    <cosponsor thomas_id="02117" joined="2013-03-20"/>
+    <cosponsor thomas_id="02001" joined="2013-03-20"/>
+    <cosponsor thomas_id="01738" joined="2013-03-20"/>
+    <cosponsor thomas_id="01915" joined="2013-03-20"/>
+    <cosponsor thomas_id="00940" joined="2013-03-20"/>
+    <cosponsor thomas_id="00944" joined="2013-04-16"/>
+    <cosponsor thomas_id="01954" joined="2013-03-20"/>
+    <cosponsor thomas_id="00977" joined="2013-03-20"/>
+    <cosponsor thomas_id="01916" joined="2013-03-20"/>
+    <cosponsor thomas_id="00985" joined="2013-03-20"/>
+    <cosponsor thomas_id="02003" joined="2013-03-20"/>
+    <cosponsor thomas_id="01588" joined="2013-05-14"/>
+    <cosponsor thomas_id="01920" joined="2013-03-20"/>
+    <cosponsor thomas_id="01681" joined="2013-03-20"/>
+    <cosponsor thomas_id="01069" joined="2013-03-20"/>
+    <cosponsor thomas_id="02000" joined="2013-03-20"/>
+    <cosponsor thomas_id="02047" joined="2013-03-20"/>
+    <cosponsor thomas_id="02104" joined="2013-05-14"/>
+    <cosponsor thomas_id="01664" joined="2013-03-20"/>
+    <cosponsor thomas_id="01997" joined="2013-03-20"/>
+    <cosponsor thomas_id="01779" joined="2013-03-20"/>
+    <cosponsor thomas_id="02004" joined="2013-03-20"/>
+    <cosponsor thomas_id="01238" joined="2013-04-16"/>
+    <cosponsor thomas_id="02019" joined="2013-04-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-20" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-20">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-03-20">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2013-03-22">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2013-04-15">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, And Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="621"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Drug trafficking and controlled substances"/>
+    <term name="Health care coverage and access"/>
+    <term name="Long-term, rehabilitative, and terminal care"/>
+    <term name="Prescription drugs"/>
+    <term name="Rural conditions and development"/>
+  </subjects>
+  <amendments/>
+  <summary>3/20/2013--Introduced.
+Amends the Controlled Substances Act to remove dihydrocodeinone (hydrocodone) from classification as a schedule III controlled substance.
+
+Directs the Attorney General to immediately allow manufacturers and distributors to store hydrocodone compound products in accordance with the physical security requirements for schedule III, IV, and V controlled substances for three years beginning on the date enactment of this Act.
+
+Requires the Comptroller General to submit a report on the reclassification of hydrocodone products under this Act, including: (1) an assessment of the degree to which the reclassification of such products under this Act impacts the ability of patients with legitimate medical needs, particularly those in rural areas and nursing home facilities, to access adequate pain management; and (2) recommendations necessary to address any issues relating to patient access to adequate pain management.</summary>
+</bill>

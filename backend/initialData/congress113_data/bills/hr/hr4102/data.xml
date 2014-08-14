@@ -1,0 +1,41 @@
+<bill session="113" type="h" number="4102" updated="2014-08-14T13:26:25-04:00">
+  <state datetime="2014-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="2014-02-26"/>
+  </status>
+  <introduced datetime="2014-02-26"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 38, United States Code, to clarify that the estate of a deceased veteran may receive certain accrued benefits upon the death of the veteran, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01685"/>
+  <cosponsors>
+    <cosponsor thomas_id="01889" joined="2014-04-28"/>
+    <cosponsor thomas_id="01912" joined="2014-03-14"/>
+    <cosponsor thomas_id="01927" joined="2014-04-28"/>
+    <cosponsor thomas_id="02128" joined="2014-02-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-02-26" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2014-03-07">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Disability Assistance and Memorial Affairs" code="HSVR09" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="4335"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/2014--Introduced.
+Provides for the payment of certain accrued benefits to the estate of a deceased veteran upon the veteran's death.
+
+Directs the Secretary of Veterans Affairs (VA) to pay to the estate of Shelton Hickerson, formerly of Indianapolis, Indiana, the amount that the Secretary awarded to Hickerson upon his death but that was not payable to any survivor, or to the estate, of Hickerson.</summary>
+</bill>

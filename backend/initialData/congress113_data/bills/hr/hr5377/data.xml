@@ -1,0 +1,25 @@
+<bill session="113" type="h" number="5377" updated="2014-08-14T13:37:22-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="official" as="introduced">To provide for certain safeguards with respect to the sale of historic postal facilities, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01042"/>
+  <cosponsors>
+    <cosponsor thomas_id="01501" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

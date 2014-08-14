@@ -1,0 +1,74 @@
+<bill session="113" type="h" number="3673" updated="2014-08-14T13:22:48-04:00">
+  <state datetime="2013-12-05">REFERRED</state>
+  <status>
+    <introduced datetime="2013-12-05"/>
+  </status>
+  <introduced datetime="2013-12-05"/>
+  <titles>
+    <title type="short" as="introduced">Family Cord Blood Banking Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to treat amounts paid for umbilical cord blood banking services as medical care expenses.</title>
+  </titles>
+  <sponsor thomas_id="01920"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2014-03-27"/>
+    <cosponsor thomas_id="01858" joined="2014-02-25"/>
+    <cosponsor thomas_id="02093" joined="2014-04-28"/>
+    <cosponsor thomas_id="02027" joined="2014-02-10"/>
+    <cosponsor thomas_id="01753" joined="2014-02-28"/>
+    <cosponsor thomas_id="01748" joined="2014-02-05"/>
+    <cosponsor thomas_id="02106" joined="2014-04-01"/>
+    <cosponsor thomas_id="01751" joined="2014-01-27"/>
+    <cosponsor thomas_id="00165" joined="2014-02-14"/>
+    <cosponsor thomas_id="01889" joined="2014-04-28"/>
+    <cosponsor thomas_id="01925" joined="2014-04-04"/>
+    <cosponsor thomas_id="01864" joined="2014-02-25"/>
+    <cosponsor thomas_id="01654" joined="2014-03-14"/>
+    <cosponsor thomas_id="01878" joined="2014-03-06"/>
+    <cosponsor thomas_id="01959" joined="2014-01-10"/>
+    <cosponsor thomas_id="00322" joined="2014-02-25"/>
+    <cosponsor thomas_id="02067" joined="2014-02-10"/>
+    <cosponsor thomas_id="01683" joined="2014-02-28"/>
+    <cosponsor thomas_id="00446" joined="2014-04-01"/>
+    <cosponsor thomas_id="02070" joined="2014-05-01"/>
+    <cosponsor thomas_id="02041" joined="2014-07-10"/>
+    <cosponsor thomas_id="01922" joined="2014-04-28"/>
+    <cosponsor thomas_id="02026" joined="2014-03-06"/>
+    <cosponsor thomas_id="00511" joined="2014-04-04"/>
+    <cosponsor thomas_id="02046" joined="2014-04-10"/>
+    <cosponsor thomas_id="00599" joined="2014-05-01"/>
+    <cosponsor thomas_id="01843" joined="2014-04-01"/>
+    <cosponsor thomas_id="01498" joined="2013-12-05"/>
+    <cosponsor thomas_id="00635" joined="2014-03-26"/>
+    <cosponsor thomas_id="01936" joined="2014-03-27"/>
+    <cosponsor thomas_id="00688" joined="2014-03-11"/>
+    <cosponsor thomas_id="01806" joined="2014-03-27"/>
+    <cosponsor thomas_id="00766" joined="2014-04-28"/>
+    <cosponsor thomas_id="01730" joined="2014-02-27"/>
+    <cosponsor thomas_id="01514" joined="2014-01-27"/>
+    <cosponsor thomas_id="00944" joined="2014-01-21"/>
+    <cosponsor thomas_id="01728" joined="2014-02-25"/>
+    <cosponsor thomas_id="01988" joined="2014-03-26"/>
+    <cosponsor thomas_id="01527" joined="2014-02-27"/>
+    <cosponsor thomas_id="01688" joined="2014-03-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-12-05" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Blood and blood diseases"/>
+    <term name="Cell biology and embryology"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Income tax deductions"/>
+    <term name="Organ and tissue donation and transplantation"/>
+  </subjects>
+  <amendments/>
+  <summary>12/5/2013--Introduced.
+Family Cord Blood Banking Act - Amends the Internal Revenue Code to treat the cost of private umbilical cord blood banking services as a medical care expense for purposes of the tax deduction for medical expenses.</summary>
+</bill>

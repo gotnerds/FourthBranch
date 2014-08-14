@@ -1,0 +1,134 @@
+<bill session="113" type="h" number="582" updated="2014-08-14T12:55:42-04:00">
+  <state datetime="2013-02-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-06"/>
+  </status>
+  <introduced datetime="2013-02-06"/>
+  <titles>
+    <title type="short" as="introduced">Healthcare Tax Relief and Mandate Repeal Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to repeal the individual and employer health insurance mandates.</title>
+  </titles>
+  <sponsor thomas_id="01741"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2013-02-25"/>
+    <cosponsor thomas_id="01858" joined="2013-02-08"/>
+    <cosponsor thomas_id="02131" joined="2013-02-26"/>
+    <cosponsor thomas_id="00062" joined="2013-02-06"/>
+    <cosponsor thomas_id="02135" joined="2013-03-14"/>
+    <cosponsor thomas_id="01838" joined="2013-02-28"/>
+    <cosponsor thomas_id="01748" joined="2013-02-06"/>
+    <cosponsor thomas_id="01703" joined="2013-02-25"/>
+    <cosponsor thomas_id="01987" joined="2013-02-26"/>
+    <cosponsor thomas_id="02129" joined="2013-03-13"/>
+    <cosponsor thomas_id="01882" joined="2013-02-06"/>
+    <cosponsor thomas_id="01751" joined="2013-03-15"/>
+    <cosponsor thomas_id="01752" joined="2013-02-27"/>
+    <cosponsor thomas_id="01925" joined="2013-02-06"/>
+    <cosponsor thomas_id="00186" joined="2013-02-06"/>
+    <cosponsor thomas_id="00211" joined="2013-02-06"/>
+    <cosponsor thomas_id="01912" joined="2013-02-06"/>
+    <cosponsor thomas_id="01742" joined="2013-02-26"/>
+    <cosponsor thomas_id="01805" joined="2013-02-06"/>
+    <cosponsor thomas_id="02098" joined="2013-02-25"/>
+    <cosponsor thomas_id="01989" joined="2013-03-13"/>
+    <cosponsor thomas_id="01643" joined="2013-02-08"/>
+    <cosponsor thomas_id="01670" joined="2013-02-06"/>
+    <cosponsor thomas_id="02062" joined="2013-02-06"/>
+    <cosponsor thomas_id="02072" joined="2013-02-25"/>
+    <cosponsor thomas_id="02057" joined="2013-03-13"/>
+    <cosponsor thomas_id="00322" joined="2013-02-14"/>
+    <cosponsor thomas_id="02036" joined="2013-02-25"/>
+    <cosponsor thomas_id="02067" joined="2013-02-25"/>
+    <cosponsor thomas_id="02065" joined="2013-02-12"/>
+    <cosponsor thomas_id="01683" joined="2013-02-25"/>
+    <cosponsor thomas_id="01707" joined="2013-02-06"/>
+    <cosponsor thomas_id="01737" joined="2013-03-13"/>
+    <cosponsor thomas_id="01720" joined="2013-02-06"/>
+    <cosponsor thomas_id="01801" joined="2013-03-13"/>
+    <cosponsor thomas_id="00446" joined="2013-02-06"/>
+    <cosponsor thomas_id="01992" joined="2013-02-13"/>
+    <cosponsor thomas_id="00484" joined="2013-02-14"/>
+    <cosponsor thomas_id="02044" joined="2013-03-13"/>
+    <cosponsor thomas_id="01933" joined="2013-02-06"/>
+    <cosponsor thomas_id="02032" joined="2013-02-08"/>
+    <cosponsor thomas_id="02040" joined="2013-02-06"/>
+    <cosponsor thomas_id="01749" joined="2013-06-04"/>
+    <cosponsor thomas_id="02028" joined="2013-03-13"/>
+    <cosponsor thomas_id="02046" joined="2013-02-06"/>
+    <cosponsor thomas_id="00612" joined="2013-02-06"/>
+    <cosponsor thomas_id="01868" joined="2013-02-13"/>
+    <cosponsor thomas_id="00635" joined="2013-02-06"/>
+    <cosponsor thomas_id="00636" joined="2013-04-09"/>
+    <cosponsor thomas_id="02014" joined="2013-02-06"/>
+    <cosponsor thomas_id="01733" joined="2013-04-09"/>
+    <cosponsor thomas_id="02011" joined="2013-02-06"/>
+    <cosponsor thomas_id="02100" joined="2013-02-27"/>
+    <cosponsor thomas_id="01936" joined="2013-02-06"/>
+    <cosponsor thomas_id="02050" joined="2013-02-06"/>
+    <cosponsor thomas_id="00666" joined="2013-07-10"/>
+    <cosponsor thomas_id="02033" joined="2013-02-06"/>
+    <cosponsor thomas_id="00711" joined="2013-04-12"/>
+    <cosponsor thomas_id="01931" joined="2013-02-28"/>
+    <cosponsor thomas_id="01804" joined="2013-02-13"/>
+    <cosponsor thomas_id="01908" joined="2013-02-12"/>
+    <cosponsor thomas_id="01792" joined="2013-03-19"/>
+    <cosponsor thomas_id="02074" joined="2013-03-14"/>
+    <cosponsor thomas_id="00800" joined="2013-02-06"/>
+    <cosponsor thomas_id="01731" joined="2013-02-06"/>
+    <cosponsor thomas_id="01685" joined="2013-02-08"/>
+    <cosponsor thomas_id="02156" joined="2013-02-08"/>
+    <cosponsor thomas_id="02059" joined="2013-02-25"/>
+    <cosponsor thomas_id="02034" joined="2013-02-06"/>
+    <cosponsor thomas_id="02035" joined="2013-02-06"/>
+    <cosponsor thomas_id="01738" joined="2013-02-06"/>
+    <cosponsor thomas_id="00912" joined="2013-02-27"/>
+    <cosponsor thomas_id="02141" joined="2013-03-13"/>
+    <cosponsor thomas_id="01514" joined="2013-02-25"/>
+    <cosponsor thomas_id="01802" joined="2013-03-19"/>
+    <cosponsor thomas_id="01915" joined="2013-02-14"/>
+    <cosponsor thomas_id="02118" joined="2013-03-13"/>
+    <cosponsor thomas_id="02073" joined="2013-04-09"/>
+    <cosponsor thomas_id="01986" joined="2013-02-26"/>
+    <cosponsor thomas_id="01954" joined="2013-02-25"/>
+    <cosponsor thomas_id="01704" joined="2013-03-19"/>
+    <cosponsor thomas_id="01651" joined="2013-03-13"/>
+    <cosponsor thomas_id="02017" joined="2013-02-12"/>
+    <cosponsor thomas_id="02158" joined="2013-03-14"/>
+    <cosponsor thomas_id="01041" joined="2013-02-13"/>
+    <cosponsor thomas_id="01525" joined="2013-02-06"/>
+    <cosponsor thomas_id="01590" joined="2013-02-06"/>
+    <cosponsor thomas_id="02000" joined="2013-02-06"/>
+    <cosponsor thomas_id="02168" joined="2013-02-25"/>
+    <cosponsor thomas_id="02047" joined="2013-02-06"/>
+    <cosponsor thomas_id="01114" joined="2013-02-28"/>
+    <cosponsor thomas_id="01566" joined="2013-02-06"/>
+    <cosponsor thomas_id="02128" joined="2013-02-06"/>
+    <cosponsor thomas_id="02161" joined="2013-03-06"/>
+    <cosponsor thomas_id="01779" joined="2013-02-06"/>
+    <cosponsor thomas_id="01886" joined="2013-02-06"/>
+    <cosponsor thomas_id="02115" joined="2013-02-25"/>
+    <cosponsor thomas_id="01255" joined="2013-03-19"/>
+    <cosponsor thomas_id="01256" joined="2013-03-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-06" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="903"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Sales and excise taxes"/>
+  </subjects>
+  <amendments/>
+  <summary>2/6/2013--Introduced.
+Healthcare Tax Relief and Mandate Repeal Act - Amends the Internal Revenue Code to: (1) terminate the requirement, added by the Patient Protection and Affordable Care Act (PPACA), that individuals maintain minimum essential health insurance coverage for themselves and dependents; and (2) repeal provisions added by PPACA requiring certain employers who have a workforce of 50 or more full-time employees to provide health insurance coverage for their employees.</summary>
+</bill>

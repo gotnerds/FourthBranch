@@ -1,0 +1,65 @@
+<bill session="113" type="h" number="1081" updated="2014-08-14T12:59:55-04:00">
+  <state datetime="2013-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-12"/>
+  </status>
+  <introduced datetime="2013-03-12"/>
+  <titles>
+    <title type="short" as="introduced">Military Tribunals for Terrorists Act of 2013</title>
+    <title type="official" as="introduced">To require that all foreign terrorists with links to terrorist networks who attack the United States or its Government be considered enemy combatants to be tried by military tribunals instead of civilian courts.</title>
+  </titles>
+  <sponsor thomas_id="01840"/>
+  <cosponsors>
+    <cosponsor thomas_id="00038" joined="2013-03-12"/>
+    <cosponsor thomas_id="01748" joined="2013-03-20"/>
+    <cosponsor thomas_id="02018" joined="2013-03-20"/>
+    <cosponsor thomas_id="01752" joined="2013-03-18"/>
+    <cosponsor thomas_id="01742" joined="2013-03-18"/>
+    <cosponsor thomas_id="01717" joined="2013-03-20"/>
+    <cosponsor thomas_id="00322" joined="2013-03-12"/>
+    <cosponsor thomas_id="01683" joined="2013-04-16"/>
+    <cosponsor thomas_id="01707" joined="2013-03-18"/>
+    <cosponsor thomas_id="02046" joined="2013-04-16"/>
+    <cosponsor thomas_id="01936" joined="2013-03-18"/>
+    <cosponsor thomas_id="01885" joined="2013-03-12"/>
+    <cosponsor thomas_id="01792" joined="2013-03-18"/>
+    <cosponsor thomas_id="02074" joined="2013-03-12"/>
+    <cosponsor thomas_id="01986" joined="2013-04-10"/>
+    <cosponsor thomas_id="01916" joined="2013-03-12"/>
+    <cosponsor thomas_id="01779" joined="2013-03-20"/>
+    <cosponsor thomas_id="01255" joined="2013-03-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-12" state="REFERRED">
+      <text>Referred to the Committee on Armed Services, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-12">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2013-03-12">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2013-04-08">
+      <text>Referred to the Subcommittee on the Constitution And Civil Justice.</text>
+    </action>
+    <action datetime="2013-04-08">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, And Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee subcommittee="Constitution and Civil Justice" code="HSJU10" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Criminal procedure and sentencing"/>
+    <term name="Military law"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+  <summary>3/12/2013--Introduced.
+Military Tribunals for Terrorists Act of 2013 - Requires trial only by a military commission for any foreign national who: (1) engages or has engaged in an offense relating to a terrorist attack against persons or property in the United States or U.S. government property or personnel outside the United States, and (2) is subject to trial for that offense by a military commission under the Uniform Code of Military Justice.</summary>
+</bill>

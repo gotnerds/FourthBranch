@@ -1,0 +1,23 @@
+<bill session="113" type="s" number="2763" updated="2014-08-14T14:08:20-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Older Americans Act of 1965 to create a collaborative network with a single point of entry for services and supports, to improve programs to prevent elder financial exploitation, to create a community care wrap-around support demonstration program, and to create a national campaign to raise awareness of the aging network and promote advance integrated long-term care planning, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01900"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

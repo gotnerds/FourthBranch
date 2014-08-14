@@ -1,0 +1,66 @@
+<bill session="113" type="h" number="2482" updated="2014-08-14T13:12:37-04:00">
+  <state datetime="2013-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-25"/>
+  </status>
+  <introduced datetime="2013-06-25"/>
+  <titles>
+    <title type="short" as="introduced">Artist-Museum Partnership Act of 2013</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide that a deduction equal to fair market value shall be allowed for charitable contributions of literary, musical, artistic, or scholarly compositions created by the donor.</title>
+  </titles>
+  <sponsor thomas_id="00688"/>
+  <cosponsors>
+    <cosponsor thomas_id="00099" joined="2013-09-26"/>
+    <cosponsor thomas_id="01469" joined="2013-06-25"/>
+    <cosponsor thomas_id="02159" joined="2013-10-15"/>
+    <cosponsor thomas_id="01970" joined="2014-07-09"/>
+    <cosponsor thomas_id="00229" joined="2013-09-10"/>
+    <cosponsor thomas_id="01836" joined="2014-07-15"/>
+    <cosponsor thomas_id="00303" joined="2013-06-25"/>
+    <cosponsor thomas_id="01791" joined="2013-09-26"/>
+    <cosponsor thomas_id="01708" joined="2013-06-25"/>
+    <cosponsor thomas_id="01794" joined="2014-01-09"/>
+    <cosponsor thomas_id="01634" joined="2013-10-23"/>
+    <cosponsor thomas_id="01843" joined="2013-11-14"/>
+    <cosponsor thomas_id="01501" joined="2014-07-09"/>
+    <cosponsor thomas_id="01846" joined="2013-09-28"/>
+    <cosponsor thomas_id="01939" joined="2013-11-14"/>
+    <cosponsor thomas_id="01653" joined="2013-09-26"/>
+    <cosponsor thomas_id="00766" joined="2013-11-14"/>
+    <cosponsor thomas_id="01504" joined="2013-06-25"/>
+    <cosponsor thomas_id="01730" joined="2013-11-18"/>
+    <cosponsor thomas_id="01811" joined="2013-06-25"/>
+    <cosponsor thomas_id="00850" joined="2013-06-25"/>
+    <cosponsor thomas_id="01510" joined="2013-06-28"/>
+    <cosponsor thomas_id="00910" joined="2013-06-28"/>
+    <cosponsor thomas_id="01927" joined="2013-11-21"/>
+    <cosponsor thomas_id="01635" joined="2013-09-10"/>
+    <cosponsor thomas_id="01798" joined="2014-02-25"/>
+    <cosponsor thomas_id="01861" joined="2014-01-08"/>
+    <cosponsor thomas_id="01590" joined="2013-09-12"/>
+    <cosponsor thomas_id="01069" joined="2013-07-09"/>
+    <cosponsor thomas_id="01593" joined="2014-05-09"/>
+    <cosponsor thomas_id="01940" joined="2013-06-26"/>
+    <cosponsor thomas_id="01853" joined="2013-06-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-25" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Art, artists, authorship"/>
+    <term name="Income tax deductions"/>
+    <term name="Literature"/>
+    <term name="Music"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+  </subjects>
+  <amendments/>
+  <summary>6/25/2013--Introduced.
+Artist-Museum Partnership Act of 2013 - Amends the Internal Revenue Code to allow taxpayers who create literary, musical, artistic, or scholarly compositions or similar property a fair market value (determined at the time of contribution) tax deduction for contributions of such properties, the copyrights thereon, or both, to certain tax-exempt organizations, if such properties are properly appraised and are donated no sooner than 18 months after their creation. Limits the amount of such deduction based upon the donor's artistic adjusted gross income, as defined by this Act.</summary>
+</bill>

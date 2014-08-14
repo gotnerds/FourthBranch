@@ -1,0 +1,38 @@
+<bill session="113" type="h" number="5368" updated="2014-08-14T13:37:18-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="official" as="introduced">To direct the Secretary of State to develop a strategy to address the factors driving large numbers of unaccompanied alien children from El Salvador, Honduras, and Guatemala to seek admission to the United States, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00997"/>
+  <cosponsors>
+    <cosponsor thomas_id="02107" joined="2014-07-31"/>
+    <cosponsor thomas_id="01970" joined="2014-07-31"/>
+    <cosponsor thomas_id="00368" joined="2014-07-31"/>
+    <cosponsor thomas_id="02111" joined="2014-07-31"/>
+    <cosponsor thomas_id="01504" joined="2014-07-31"/>
+    <cosponsor thomas_id="01910" joined="2014-07-31"/>
+    <cosponsor thomas_id="01818" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Judiciary</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

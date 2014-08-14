@@ -1,0 +1,41 @@
+<bill session="113" type="hr" number="166" updated="2014-08-14T12:46:03-04:00">
+  <state datetime="2013-04-17">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-17"/>
+  </status>
+  <introduced datetime="2013-04-17"/>
+  <titles>
+    <title type="official" as="introduced">Condemning any proposals for the arbitrary seizure of funds from federally insured deposit accounts in the United States by the Government without due process.</title>
+  </titles>
+  <sponsor thomas_id="00666"/>
+  <cosponsors>
+    <cosponsor thomas_id="02135" joined="2013-04-18"/>
+    <cosponsor thomas_id="00165" joined="2013-04-26"/>
+    <cosponsor thomas_id="01742" joined="2013-04-17"/>
+    <cosponsor thomas_id="02072" joined="2013-04-17"/>
+    <cosponsor thomas_id="01797" joined="2013-04-17"/>
+    <cosponsor thomas_id="01793" joined="2013-04-17"/>
+    <cosponsor thomas_id="02044" joined="2013-04-17"/>
+    <cosponsor thomas_id="01724" joined="2013-04-17"/>
+    <cosponsor thomas_id="02001" joined="2013-04-17"/>
+    <cosponsor thomas_id="01915" joined="2013-07-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-17" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Bank accounts, deposits, capital"/>
+    <term name="Due process and equal protection"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <summary>4/17/2013--Introduced.
+Condemns any proposals for the arbitrary seizure of funds from federally insured deposit accounts in the United States by the government without due process.</summary>
+</bill>

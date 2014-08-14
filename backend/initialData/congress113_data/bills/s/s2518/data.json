@@ -1,0 +1,80 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-24", 
+      "committees": [
+        "SSHR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2518-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-06-24", 
+  "number": "2518", 
+  "official_title": "A bill to establish a grant program to incentivize States to implement comprehensive reforms and innovative strategies to significantly improve postsecondary outcomes for low-income and first generation college students, including increasing postsecondary enrollment and graduation rates, to reduce the need of postsecondary students for remedial education, to increase alignment of elementary, secondary, and postsecondary education, and to promote innovation in postsecondary education, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "College Access Act of 2014", 
+  "sponsor": {
+    "district": null, 
+    "name": "Franken, Al", 
+    "state": "MN", 
+    "thomas_id": "01969", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-06-24", 
+  "subjects": [
+    "Academic performance and assessments", 
+    "Education", 
+    "Education of the disadvantaged", 
+    "Education programs funding", 
+    "Educational technology and distance education", 
+    "Elementary and secondary education", 
+    "Higher education", 
+    "Student aid and college costs", 
+    "Teaching, teachers, curricula"
+  ], 
+  "subjects_top_term": "Education", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "College Access Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to establish a grant program to incentivize States to implement comprehensive reforms and innovative strategies to significantly improve postsecondary outcomes for low-income and first generation college students, including increasing postsecondary enrollment and graduation rates, to reduce the need of postsecondary students for remedial education, to increase alignment of elementary, secondary, and postsecondary education, and to promote innovation in postsecondary education, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T14:06:17-04:00"
+}

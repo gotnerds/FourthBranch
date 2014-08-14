@@ -1,0 +1,163 @@
+<bill session="113" type="h" number="3469" updated="2014-08-14T13:21:01-04:00">
+  <state datetime="2013-11-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-11-13"/>
+  </status>
+  <introduced datetime="2013-11-13"/>
+  <titles>
+    <title type="short" as="introduced">SERV Act</title>
+    <title type="short" as="introduced">Support Earned Recognition for Veterans Act</title>
+    <title type="official" as="introduced">To amend titles 5 and 38, United States Code, to clarify the veteran status of an individual based on the attendance of the individual at a preparatory school of a service academy, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01640"/>
+  <cosponsors>
+    <cosponsor thomas_id="02135" joined="2013-11-13"/>
+    <cosponsor thomas_id="01753" joined="2013-11-13"/>
+    <cosponsor thomas_id="01740" joined="2013-11-19"/>
+    <cosponsor thomas_id="01748" joined="2014-02-27"/>
+    <cosponsor thomas_id="01723" joined="2013-11-13"/>
+    <cosponsor thomas_id="01469" joined="2013-11-13"/>
+    <cosponsor thomas_id="02129" joined="2014-02-26"/>
+    <cosponsor thomas_id="01882" joined="2013-11-21"/>
+    <cosponsor thomas_id="02106" joined="2013-11-13"/>
+    <cosponsor thomas_id="02018" joined="2014-02-27"/>
+    <cosponsor thomas_id="00165" joined="2013-11-13"/>
+    <cosponsor thomas_id="02107" joined="2013-11-13"/>
+    <cosponsor thomas_id="01889" joined="2013-12-23"/>
+    <cosponsor thomas_id="01839" joined="2013-11-19"/>
+    <cosponsor thomas_id="02055" joined="2013-11-13"/>
+    <cosponsor thomas_id="01864" joined="2013-11-13"/>
+    <cosponsor thomas_id="01878" joined="2013-12-10"/>
+    <cosponsor thomas_id="01742" joined="2013-11-13"/>
+    <cosponsor thomas_id="00229" joined="2013-11-21"/>
+    <cosponsor thomas_id="02103" joined="2013-11-13"/>
+    <cosponsor thomas_id="01836" joined="2013-11-13"/>
+    <cosponsor thomas_id="01989" joined="2013-11-13"/>
+    <cosponsor thomas_id="01604" joined="2013-11-13"/>
+    <cosponsor thomas_id="00256" joined="2013-11-13"/>
+    <cosponsor thomas_id="01477" joined="2013-11-13"/>
+    <cosponsor thomas_id="02126" joined="2013-11-13"/>
+    <cosponsor thomas_id="02116" joined="2014-02-26"/>
+    <cosponsor thomas_id="02123" joined="2013-11-13"/>
+    <cosponsor thomas_id="02036" joined="2013-11-19"/>
+    <cosponsor thomas_id="02125" joined="2013-11-13"/>
+    <cosponsor thomas_id="00368" joined="2014-02-26"/>
+    <cosponsor thomas_id="02065" joined="2014-02-26"/>
+    <cosponsor thomas_id="02164" joined="2013-11-15"/>
+    <cosponsor thomas_id="01992" joined="2013-11-21"/>
+    <cosponsor thomas_id="01803" joined="2013-11-13"/>
+    <cosponsor thomas_id="01990" joined="2013-11-15"/>
+    <cosponsor thomas_id="01708" joined="2013-11-13"/>
+    <cosponsor thomas_id="02041" joined="2013-11-13"/>
+    <cosponsor thomas_id="00478" joined="2013-11-13"/>
+    <cosponsor thomas_id="02010" joined="2013-11-13"/>
+    <cosponsor thomas_id="02026" joined="2014-02-26"/>
+    <cosponsor thomas_id="02032" joined="2014-02-26"/>
+    <cosponsor thomas_id="01634" joined="2013-11-13"/>
+    <cosponsor thomas_id="02147" joined="2013-11-13"/>
+    <cosponsor thomas_id="01909" joined="2013-11-21"/>
+    <cosponsor thomas_id="01663" joined="2013-12-05"/>
+    <cosponsor thomas_id="00588" joined="2013-11-13"/>
+    <cosponsor thomas_id="01843" joined="2013-12-05"/>
+    <cosponsor thomas_id="00612" joined="2013-11-21"/>
+    <cosponsor thomas_id="02154" joined="2014-02-28"/>
+    <cosponsor thomas_id="02025" joined="2013-11-15"/>
+    <cosponsor thomas_id="02190" joined="2013-11-13"/>
+    <cosponsor thomas_id="02134" joined="2013-11-13"/>
+    <cosponsor thomas_id="01724" joined="2014-02-26"/>
+    <cosponsor thomas_id="01733" joined="2013-11-21"/>
+    <cosponsor thomas_id="02100" joined="2013-11-13"/>
+    <cosponsor thomas_id="01668" joined="2013-11-13"/>
+    <cosponsor thomas_id="02050" joined="2013-11-21"/>
+    <cosponsor thomas_id="00688" joined="2013-11-13"/>
+    <cosponsor thomas_id="02111" joined="2013-11-13"/>
+    <cosponsor thomas_id="01806" joined="2014-02-26"/>
+    <cosponsor thomas_id="01671" joined="2013-11-13"/>
+    <cosponsor thomas_id="01792" joined="2013-11-21"/>
+    <cosponsor thomas_id="00778" joined="2013-11-21"/>
+    <cosponsor thomas_id="02148" joined="2013-11-13"/>
+    <cosponsor thomas_id="02156" joined="2013-11-21"/>
+    <cosponsor thomas_id="02117" joined="2013-11-13"/>
+    <cosponsor thomas_id="01602" joined="2013-11-13"/>
+    <cosponsor thomas_id="02060" joined="2013-11-13"/>
+    <cosponsor thomas_id="00867" joined="2013-11-13"/>
+    <cosponsor thomas_id="00868" joined="2013-11-13"/>
+    <cosponsor thomas_id="01710" joined="2013-11-21"/>
+    <cosponsor thomas_id="02034" joined="2013-11-21"/>
+    <cosponsor thomas_id="02162" joined="2013-11-15"/>
+    <cosponsor thomas_id="02035" joined="2013-11-15"/>
+    <cosponsor thomas_id="01738" joined="2014-02-26"/>
+    <cosponsor thomas_id="02157" joined="2013-11-21"/>
+    <cosponsor thomas_id="01929" joined="2013-12-05"/>
+    <cosponsor thomas_id="00910" joined="2013-11-13"/>
+    <cosponsor thomas_id="02171" joined="2013-11-19"/>
+    <cosponsor thomas_id="00944" joined="2013-11-13"/>
+    <cosponsor thomas_id="02023" joined="2013-11-13"/>
+    <cosponsor thomas_id="02068" joined="2013-11-13"/>
+    <cosponsor thomas_id="00998" joined="2014-02-26"/>
+    <cosponsor thomas_id="01009" joined="2014-02-26"/>
+    <cosponsor thomas_id="01588" joined="2013-11-13"/>
+    <cosponsor thomas_id="01635" joined="2013-11-13"/>
+    <cosponsor thomas_id="02009" joined="2014-02-26"/>
+    <cosponsor thomas_id="01037" joined="2013-11-21"/>
+    <cosponsor thomas_id="01861" joined="2013-11-13"/>
+    <cosponsor thomas_id="01681" joined="2013-11-13"/>
+    <cosponsor thomas_id="02099" joined="2013-11-13"/>
+    <cosponsor thomas_id="01069" joined="2013-11-13"/>
+    <cosponsor thomas_id="01528" joined="2013-11-13"/>
+    <cosponsor thomas_id="01890" joined="2013-11-13"/>
+    <cosponsor thomas_id="01981" joined="2014-02-28"/>
+    <cosponsor thomas_id="02104" joined="2013-11-13"/>
+    <cosponsor thomas_id="02110" joined="2013-11-13"/>
+    <cosponsor thomas_id="01566" joined="2013-11-21"/>
+    <cosponsor thomas_id="01884" joined="2013-11-13"/>
+    <cosponsor thomas_id="02105" joined="2013-11-21"/>
+    <cosponsor thomas_id="01729" joined="2013-11-19"/>
+    <cosponsor thomas_id="02112" joined="2013-11-21"/>
+    <cosponsor thomas_id="02166" joined="2013-11-19"/>
+    <cosponsor thomas_id="02167" joined="2013-11-19"/>
+    <cosponsor thomas_id="02128" joined="2013-11-13"/>
+    <cosponsor thomas_id="01205" joined="2013-11-13"/>
+    <cosponsor thomas_id="02152" joined="2014-02-26"/>
+    <cosponsor thomas_id="01688" joined="2013-11-21"/>
+    <cosponsor thomas_id="02021" joined="2014-02-26"/>
+    <cosponsor thomas_id="01256" joined="2014-02-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-11-13" state="REFERRED">
+      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-11-13">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2013-11-13">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2013-11-18">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Disability Assistance and Memorial Affairs" code="HSVR09" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1736"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Military education and training"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Small business"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Veterans' loans, housing, homeless programs"/>
+    <term name="Veterans' medical care"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>11/13/2013--Introduced.
+Support Earned Recognition for Veterans Act or the SERV Act - Excludes from the definitions of "active duty," "active duty for training," and "inactive duty training," for veteran benefit or employment preference purposes, any service performed at a preparatory school of a service academy by a student who is not otherwise a member of the Armed Forces.</summary>
+</bill>

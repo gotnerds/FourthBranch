@@ -1,0 +1,37 @@
+<bill session="113" type="h" number="5044" updated="2014-08-14T13:34:32-04:00">
+  <state datetime="2014-07-09">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-09"/>
+  </status>
+  <introduced datetime="2014-07-09"/>
+  <titles>
+    <title type="short" as="introduced">End Modern-Day Slavery Act</title>
+    <title type="official" as="introduced">To amend the Trafficking Victims Protection Act of 2000 to direct the Interagency Task Force to Monitor and Combat Trafficking to develop a comprehensive action plan to combat human trafficking.</title>
+  </titles>
+  <sponsor thomas_id="02113"/>
+  <cosponsors>
+    <cosponsor thomas_id="02133" joined="2014-07-25"/>
+    <cosponsor thomas_id="01634" joined="2014-07-18"/>
+    <cosponsor thomas_id="02169" joined="2014-07-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-09" state="REFERRED">
+      <text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-07-09">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2014-07-09">
+      <text>Referred to House Judiciary</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>7/9/2014--Introduced.
+End Modern-Day Slavery Act - Amends the Trafficking Victims Protection Act of 2000 to require the Interagency Task Force to Monitor and Combat Trafficking to develop a comprehensive action plan to combat human trafficking.</summary>
+</bill>

@@ -1,0 +1,70 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-28", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5218-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-07-28", 
+  "number": "5218", 
+  "official_title": "To amend the Public Health Service Act to establish a National Organ and Tissue Donor Registry Resource Center, to authorize grants for State organ and tissue donor registries, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Everson Walls and Ron Springs Gift for Life Act of 2014", 
+  "sponsor": {
+    "district": "1", 
+    "name": "Clay, Wm. Lacy", 
+    "state": "MO", 
+    "thomas_id": "01654", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-07-28", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Everson Walls and Ron Springs Gift for Life Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Public Health Service Act to establish a National Organ and Tissue Donor Registry Resource Center, to authorize grants for State organ and tissue donor registries, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T13:36:00-04:00"
+}

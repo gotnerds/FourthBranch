@@ -1,0 +1,78 @@
+<bill session="113" type="h" number="3334" updated="2014-08-14T13:19:52-04:00">
+  <state datetime="2013-10-23">REFERRED</state>
+  <status>
+    <introduced datetime="2013-10-23"/>
+  </status>
+  <introduced datetime="2013-10-23"/>
+  <titles>
+    <title type="short" as="introduced">Medicare Adult Day Services Act of 2013</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to provide for coverage of certified adult day services under the Medicare program.</title>
+  </titles>
+  <sponsor thomas_id="01757"/>
+  <cosponsors>
+    <cosponsor thomas_id="00099" joined="2013-10-23"/>
+    <cosponsor thomas_id="01723" joined="2013-10-23"/>
+    <cosponsor thomas_id="02106" joined="2013-12-03"/>
+    <cosponsor thomas_id="01889" joined="2013-10-23"/>
+    <cosponsor thomas_id="02159" joined="2013-10-23"/>
+    <cosponsor thomas_id="01864" joined="2013-10-23"/>
+    <cosponsor thomas_id="01878" joined="2013-12-11"/>
+    <cosponsor thomas_id="00229" joined="2013-10-23"/>
+    <cosponsor thomas_id="01477" joined="2013-10-23"/>
+    <cosponsor thomas_id="00279" joined="2014-01-10"/>
+    <cosponsor thomas_id="01894" joined="2013-12-03"/>
+    <cosponsor thomas_id="02119" joined="2013-10-23"/>
+    <cosponsor thomas_id="01973" joined="2013-12-03"/>
+    <cosponsor thomas_id="00588" joined="2013-10-23"/>
+    <cosponsor thomas_id="00599" joined="2013-10-23"/>
+    <cosponsor thomas_id="01843" joined="2013-12-03"/>
+    <cosponsor thomas_id="01907" joined="2013-12-03"/>
+    <cosponsor thomas_id="01668" joined="2013-10-23"/>
+    <cosponsor thomas_id="00688" joined="2014-01-10"/>
+    <cosponsor thomas_id="01846" joined="2013-10-23"/>
+    <cosponsor thomas_id="00701" joined="2014-01-29"/>
+    <cosponsor thomas_id="02111" joined="2013-10-23"/>
+    <cosponsor thomas_id="02146" joined="2013-10-23"/>
+    <cosponsor thomas_id="01730" joined="2013-10-23"/>
+    <cosponsor thomas_id="01602" joined="2013-10-23"/>
+    <cosponsor thomas_id="02108" joined="2013-12-03"/>
+    <cosponsor thomas_id="00868" joined="2013-10-23"/>
+    <cosponsor thomas_id="00910" joined="2014-04-28"/>
+    <cosponsor thomas_id="00944" joined="2013-10-23"/>
+    <cosponsor thomas_id="00997" joined="2013-10-23"/>
+    <cosponsor thomas_id="02109" joined="2013-12-11"/>
+    <cosponsor thomas_id="01588" joined="2013-10-23"/>
+    <cosponsor thomas_id="01798" joined="2013-10-23"/>
+    <cosponsor thomas_id="01940" joined="2014-01-29"/>
+    <cosponsor thomas_id="01205" joined="2013-10-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-10-23" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-10-23">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-10-23">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-10-25">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Adult day care"/>
+    <term name="Health care coverage and access"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>10/23/2013--Introduced.
+Medicare Adult Day Services Act of 2013 - Amends title XVIII (Medicare) of the Social Security Act to: (1) cover certified adult day services furnished in a certified adult day services center and meeting specified requirements; and (2) require the Secretary of Health and Human Services (HHS) to increase by 3% the payment amount otherwise effective for such services furnished in a rural area on or after January 1, 2014, and before January 1, 2016.</summary>
+</bill>

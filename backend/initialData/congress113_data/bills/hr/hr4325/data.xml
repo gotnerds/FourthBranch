@@ -1,0 +1,91 @@
+<bill session="113" type="h" number="4325" updated="2014-08-14T13:28:17-04:00">
+  <state datetime="2014-03-27">REFERRED</state>
+  <status>
+    <introduced datetime="2014-03-27"/>
+  </status>
+  <introduced datetime="2014-03-27"/>
+  <titles>
+    <title type="short" as="introduced">Protecting Children from Electronic Cigarette Advertising Act of 2014</title>
+    <title type="official" as="introduced">To prohibit the marketing of electronic cigarettes to children, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02114"/>
+  <cosponsors>
+    <cosponsor thomas_id="01740" joined="2014-03-27"/>
+    <cosponsor thomas_id="02127" joined="2014-03-27"/>
+    <cosponsor thomas_id="01471" joined="2014-04-09"/>
+    <cosponsor thomas_id="02107" joined="2014-07-14"/>
+    <cosponsor thomas_id="01999" joined="2014-05-22"/>
+    <cosponsor thomas_id="02055" joined="2014-05-29"/>
+    <cosponsor thomas_id="02196" joined="2014-07-11"/>
+    <cosponsor thomas_id="01836" joined="2014-05-02"/>
+    <cosponsor thomas_id="01479" joined="2014-03-27"/>
+    <cosponsor thomas_id="02133" joined="2014-06-19"/>
+    <cosponsor thomas_id="00281" joined="2014-04-28"/>
+    <cosponsor thomas_id="01976" joined="2014-07-14"/>
+    <cosponsor thomas_id="01857" joined="2014-05-06"/>
+    <cosponsor thomas_id="02119" joined="2014-07-11"/>
+    <cosponsor thomas_id="00462" joined="2014-04-28"/>
+    <cosponsor thomas_id="00511" joined="2014-07-14"/>
+    <cosponsor thomas_id="01580" joined="2014-06-25"/>
+    <cosponsor thomas_id="01634" joined="2014-04-30"/>
+    <cosponsor thomas_id="01663" joined="2014-06-24"/>
+    <cosponsor thomas_id="01843" joined="2014-06-30"/>
+    <cosponsor thomas_id="01583" joined="2014-07-16"/>
+    <cosponsor thomas_id="00683" joined="2014-04-10"/>
+    <cosponsor thomas_id="02111" joined="2014-07-28"/>
+    <cosponsor thomas_id="01504" joined="2014-07-14"/>
+    <cosponsor thomas_id="02148" joined="2014-06-18"/>
+    <cosponsor thomas_id="02113" joined="2014-07-15"/>
+    <cosponsor thomas_id="00944" joined="2014-06-24"/>
+    <cosponsor thomas_id="00997" joined="2014-04-09"/>
+    <cosponsor thomas_id="02109" joined="2014-03-27"/>
+    <cosponsor thomas_id="01003" joined="2014-05-06"/>
+    <cosponsor thomas_id="01588" joined="2014-03-27"/>
+    <cosponsor thomas_id="01069" joined="2014-07-31"/>
+    <cosponsor thomas_id="01890" joined="2014-06-23"/>
+    <cosponsor thomas_id="02104" joined="2014-04-30"/>
+    <cosponsor thomas_id="02110" joined="2014-06-12"/>
+    <cosponsor thomas_id="01593" joined="2014-07-11"/>
+    <cosponsor thomas_id="01729" joined="2014-06-30"/>
+    <cosponsor thomas_id="01777" joined="2014-06-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-03-27" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2014-03-28">
+      <text>Referred to the Subcommittee on Commerce, Manufacturing, and Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Commerce, Manufacturing, and Trade" code="HSIF17" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="5010"/>
+    <bill type="s" session="113" relation="identical" number="2047"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Child health"/>
+    <term name="Civil actions and liability"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Federal Trade Commission (FTC)"/>
+    <term name="Federal preemption"/>
+    <term name="Marketing and advertising"/>
+    <term name="Retail and wholesale trades"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>3/27/2014--Introduced.
+Protecting Children from Electronic Cigarette Advertising Act of 2014 - Prohibits advertisement, promotion, or marketing in commerce of electronic cigarettes in a manner that is known, or should be known, to increase the use of electronic cigarettes by children under the age of 18.
+
+Defines "electronic cigarette" as a battery-operated product designed to: (1) deliver nicotine, flavor, or other chemicals; and (2) turn chemicals, such as nicotine, into an aerosol that is inhaled by the user.
+
+Sets forth authority for: (1) the Federal Trade Commission (FTC) to enforce violations as an unfair or deceptive act or practice, and (2) states to bring civil actions on behalf of residents threatened or adversely affected by such a violation.
+
+Establishes a civil penalty to be available in state actions that is calculated by multiplying the number of days that a person is not in compliance with such prohibition by an amount up to $16,000, adjusted annually for inflation.
+
+Allows the FTC to intervene and appeal in state actions.</summary>
+</bill>

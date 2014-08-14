@@ -1,0 +1,45 @@
+<bill session="113" type="hr" number="299" updated="2014-08-14T12:47:10-04:00">
+  <state datetime="2013-07-11">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-11"/>
+  </status>
+  <introduced datetime="2013-07-11"/>
+  <titles>
+    <title type="official" as="introduced">Congratulating the Chicago Blackhawks on winning the 2013 Stanley Cup Championship.</title>
+  </titles>
+  <sponsor thomas_id="01967"/>
+  <cosponsors>
+    <cosponsor thomas_id="02127" joined="2013-07-11"/>
+    <cosponsor thomas_id="01477" joined="2013-07-11"/>
+    <cosponsor thomas_id="02126" joined="2013-07-11"/>
+    <cosponsor thomas_id="02123" joined="2013-07-11"/>
+    <cosponsor thomas_id="02125" joined="2013-07-11"/>
+    <cosponsor thomas_id="01888" joined="2013-07-11"/>
+    <cosponsor thomas_id="00478" joined="2013-07-11"/>
+    <cosponsor thomas_id="02190" joined="2013-07-11"/>
+    <cosponsor thomas_id="01781" joined="2013-07-11"/>
+    <cosponsor thomas_id="01003" joined="2013-07-11"/>
+    <cosponsor thomas_id="01588" joined="2013-07-11"/>
+    <cosponsor thomas_id="02124" joined="2013-07-11"/>
+    <cosponsor thomas_id="01920" joined="2013-07-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-11" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Sports and recreation"/>
+    <term name="Athletes"/>
+    <term name="Congressional tributes"/>
+    <term name="Illinois"/>
+    <term name="Professional sports"/>
+  </subjects>
+  <amendments/>
+  <summary>7/11/2013--Introduced.
+Congratulates the Chicago Blackhawks for winning the 2013 Stanley Cup Championship.</summary>
+</bill>

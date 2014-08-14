@@ -1,0 +1,36 @@
+<bill session="113" type="h" number="4898" updated="2014-08-14T13:33:14-04:00">
+  <state datetime="2014-06-18">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-18"/>
+  </status>
+  <introduced datetime="2014-06-18"/>
+  <titles>
+    <title type="short" as="introduced">Access to Veteran-Centered Community Care Act</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to provide hospital care and medical services in non-Department facilities for veterans waiting longer than 14 days for an appointment in a Department facility, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02099"/>
+  <cosponsors>
+    <cosponsor thomas_id="01009" joined="2014-06-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-18" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2014-06-27">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Health" code="HSVR03" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Health care coverage and access"/>
+    <term name="Hospital care"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+</bill>

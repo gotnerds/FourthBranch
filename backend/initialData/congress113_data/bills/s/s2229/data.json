@@ -1,0 +1,92 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-04-09", 
+      "committees": [
+        "SSHR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2229-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-04-09", 
+  "number": "2229", 
+  "official_title": "A bill to expand primary care access.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1759-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Expanding Primary Care Access and Workforce Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Sanders, Bernard", 
+    "state": "VT", 
+    "thomas_id": "01010", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-04-09", 
+  "subjects": [
+    "Advisory bodies", 
+    "Appropriations", 
+    "Congressional oversight", 
+    "Education programs funding", 
+    "Government information and archives", 
+    "Health", 
+    "Health care coverage and access", 
+    "Health information and medical records", 
+    "Health personnel", 
+    "Health programs administration and funding", 
+    "Medicaid", 
+    "Medical education", 
+    "Medicare", 
+    "Nursing", 
+    "Student aid and college costs"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Expanding Primary Care Access and Workforce Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to expand primary care access.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T14:03:52-04:00"
+}

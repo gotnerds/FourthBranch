@@ -1,0 +1,95 @@
+<bill session="113" type="h" number="1690" updated="2014-08-14T13:05:06-04:00">
+  <state datetime="2013-04-23">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-23"/>
+  </status>
+  <introduced datetime="2013-04-23"/>
+  <titles>
+    <title type="short" as="introduced">Child Protection Act of 2013</title>
+    <title type="short" as="introduced">Hazel's Law</title>
+    <title type="official" as="introduced">To amend title 18, United States Code, to remove knowledge of age as an element of the offense for the sex trafficking of children or by force, fraud, or coercion.</title>
+  </titles>
+  <sponsor thomas_id="02112"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2013-04-23"/>
+    <cosponsor thomas_id="02102" joined="2013-06-03"/>
+    <cosponsor thomas_id="02092" joined="2013-05-23"/>
+    <cosponsor thomas_id="02106" joined="2013-04-26"/>
+    <cosponsor thomas_id="02107" joined="2013-04-23"/>
+    <cosponsor thomas_id="01889" joined="2013-08-02"/>
+    <cosponsor thomas_id="02159" joined="2014-02-06"/>
+    <cosponsor thomas_id="00186" joined="2013-05-09"/>
+    <cosponsor thomas_id="01959" joined="2013-06-03"/>
+    <cosponsor thomas_id="01774" joined="2013-07-10"/>
+    <cosponsor thomas_id="02126" joined="2013-06-25"/>
+    <cosponsor thomas_id="01641" joined="2013-04-23"/>
+    <cosponsor thomas_id="00279" joined="2013-08-01"/>
+    <cosponsor thomas_id="00281" joined="2013-05-23"/>
+    <cosponsor thomas_id="02125" joined="2013-04-23"/>
+    <cosponsor thomas_id="00355" joined="2014-01-31"/>
+    <cosponsor thomas_id="01797" joined="2013-05-17"/>
+    <cosponsor thomas_id="00462" joined="2013-07-10"/>
+    <cosponsor thomas_id="00478" joined="2013-04-23"/>
+    <cosponsor thomas_id="02089" joined="2013-05-09"/>
+    <cosponsor thomas_id="00511" joined="2013-05-17"/>
+    <cosponsor thomas_id="02170" joined="2013-09-27"/>
+    <cosponsor thomas_id="01490" joined="2013-04-26"/>
+    <cosponsor thomas_id="01634" joined="2013-04-23"/>
+    <cosponsor thomas_id="02101" joined="2013-10-09"/>
+    <cosponsor thomas_id="00588" joined="2013-04-23"/>
+    <cosponsor thomas_id="01921" joined="2013-06-27"/>
+    <cosponsor thomas_id="02190" joined="2013-10-29"/>
+    <cosponsor thomas_id="02169" joined="2013-05-23"/>
+    <cosponsor thomas_id="02145" joined="2013-08-01"/>
+    <cosponsor thomas_id="02100" joined="2013-04-23"/>
+    <cosponsor thomas_id="02111" joined="2013-04-23"/>
+    <cosponsor thomas_id="00729" joined="2013-04-26"/>
+    <cosponsor thomas_id="01804" joined="2013-10-09"/>
+    <cosponsor thomas_id="01504" joined="2013-06-27"/>
+    <cosponsor thomas_id="01505" joined="2014-01-29"/>
+    <cosponsor thomas_id="02148" joined="2013-05-09"/>
+    <cosponsor thomas_id="01602" joined="2013-04-23"/>
+    <cosponsor thomas_id="02108" joined="2013-04-23"/>
+    <cosponsor thomas_id="00867" joined="2013-07-10"/>
+    <cosponsor thomas_id="00868" joined="2013-05-09"/>
+    <cosponsor thomas_id="02113" joined="2013-04-23"/>
+    <cosponsor thomas_id="01953" joined="2013-05-09"/>
+    <cosponsor thomas_id="01802" joined="2013-04-23"/>
+    <cosponsor thomas_id="01910" joined="2013-07-17"/>
+    <cosponsor thomas_id="01003" joined="2013-04-23"/>
+    <cosponsor thomas_id="01009" joined="2013-05-23"/>
+    <cosponsor thomas_id="01069" joined="2013-07-08"/>
+    <cosponsor thomas_id="01890" joined="2013-08-01"/>
+    <cosponsor thomas_id="02110" joined="2013-04-23"/>
+    <cosponsor thomas_id="01940" joined="2014-01-28"/>
+    <cosponsor thomas_id="02105" joined="2013-05-17"/>
+    <cosponsor thomas_id="02167" joined="2013-05-09"/>
+    <cosponsor thomas_id="02137" joined="2014-01-15"/>
+    <cosponsor thomas_id="02161" joined="2013-07-30"/>
+    <cosponsor thomas_id="02004" joined="2013-05-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-23" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-06-14">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Crimes against children"/>
+    <term name="Criminal procedure and sentencing"/>
+    <term name="Evidence and witnesses"/>
+    <term name="Human trafficking"/>
+    <term name="Sex offenses"/>
+  </subjects>
+  <amendments/>
+  <summary>4/23/2013--Introduced.
+Child Protection Act of 2013 or Hazel's Law - Amends federal criminal code provisions prohibiting sex trafficking of children or by force, fraud, or coercion to eliminate the requirement that the defendant had a reasonable opportunity to observe the victim in order to relieve the government of the need to prove that the defendant knew that the victim had not attained age 18.</summary>
+</bill>

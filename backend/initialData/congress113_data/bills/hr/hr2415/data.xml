@@ -1,0 +1,168 @@
+<bill session="113" type="h" number="2415" updated="2014-08-14T13:11:58-04:00">
+  <state datetime="2013-06-18">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-18"/>
+  </status>
+  <introduced datetime="2013-06-18"/>
+  <titles>
+    <title type="short" as="introduced">Treat and Reduce Obesity Act of 2013</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to include information on the coverage of intensive behavioral therapy for obesity in the Medicare and You Handbook and to provide for the coordination of programs to prevent and treat obesity, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01925"/>
+  <cosponsors>
+    <cosponsor thomas_id="01727" joined="2013-07-30"/>
+    <cosponsor thomas_id="02093" joined="2014-07-31"/>
+    <cosponsor thomas_id="02054" joined="2013-09-18"/>
+    <cosponsor thomas_id="02153" joined="2014-04-07"/>
+    <cosponsor thomas_id="02027" joined="2013-11-21"/>
+    <cosponsor thomas_id="01838" joined="2014-05-08"/>
+    <cosponsor thomas_id="01740" joined="2014-07-31"/>
+    <cosponsor thomas_id="02063" joined="2014-07-08"/>
+    <cosponsor thomas_id="01748" joined="2013-06-18"/>
+    <cosponsor thomas_id="00099" joined="2013-06-18"/>
+    <cosponsor thomas_id="02092" joined="2013-10-30"/>
+    <cosponsor thomas_id="01703" joined="2013-07-30"/>
+    <cosponsor thomas_id="01787" joined="2013-12-05"/>
+    <cosponsor thomas_id="01845" joined="2013-09-28"/>
+    <cosponsor thomas_id="01987" joined="2013-11-21"/>
+    <cosponsor thomas_id="02129" joined="2014-07-08"/>
+    <cosponsor thomas_id="00132" joined="2013-09-18"/>
+    <cosponsor thomas_id="01676" joined="2013-06-20"/>
+    <cosponsor thomas_id="01564" joined="2013-11-21"/>
+    <cosponsor thomas_id="02107" joined="2014-04-01"/>
+    <cosponsor thomas_id="02159" joined="2014-02-25"/>
+    <cosponsor thomas_id="01474" joined="2013-06-18"/>
+    <cosponsor thomas_id="02055" joined="2014-01-08"/>
+    <cosponsor thomas_id="01959" joined="2014-05-21"/>
+    <cosponsor thomas_id="01774" joined="2013-09-28"/>
+    <cosponsor thomas_id="01604" joined="2013-10-22"/>
+    <cosponsor thomas_id="01477" joined="2013-09-18"/>
+    <cosponsor thomas_id="02126" joined="2014-06-24"/>
+    <cosponsor thomas_id="01641" joined="2013-09-28"/>
+    <cosponsor thomas_id="00279" joined="2014-04-01"/>
+    <cosponsor thomas_id="02133" joined="2013-09-09"/>
+    <cosponsor thomas_id="00281" joined="2014-01-08"/>
+    <cosponsor thomas_id="00303" joined="2013-09-09"/>
+    <cosponsor thomas_id="01857" joined="2014-05-01"/>
+    <cosponsor thomas_id="02036" joined="2014-05-19"/>
+    <cosponsor thomas_id="02125" joined="2013-10-22"/>
+    <cosponsor thomas_id="00355" joined="2014-05-19"/>
+    <cosponsor thomas_id="02067" joined="2013-12-11"/>
+    <cosponsor thomas_id="01888" joined="2013-09-28"/>
+    <cosponsor thomas_id="01895" joined="2013-06-26"/>
+    <cosponsor thomas_id="01998" joined="2013-12-11"/>
+    <cosponsor thomas_id="01743" joined="2014-05-09"/>
+    <cosponsor thomas_id="02043" joined="2014-05-19"/>
+    <cosponsor thomas_id="00462" joined="2013-09-09"/>
+    <cosponsor thomas_id="01990" joined="2013-07-31"/>
+    <cosponsor thomas_id="01708" joined="2014-04-01"/>
+    <cosponsor thomas_id="02041" joined="2014-06-24"/>
+    <cosponsor thomas_id="01922" joined="2013-06-18"/>
+    <cosponsor thomas_id="00511" joined="2013-09-28"/>
+    <cosponsor thomas_id="01490" joined="2013-09-09"/>
+    <cosponsor thomas_id="02147" joined="2014-05-28"/>
+    <cosponsor thomas_id="02015" joined="2014-07-31"/>
+    <cosponsor thomas_id="01909" joined="2013-10-23"/>
+    <cosponsor thomas_id="01663" joined="2014-05-19"/>
+    <cosponsor thomas_id="01921" joined="2013-09-28"/>
+    <cosponsor thomas_id="02046" joined="2013-08-02"/>
+    <cosponsor thomas_id="00599" joined="2013-09-18"/>
+    <cosponsor thomas_id="01843" joined="2014-04-07"/>
+    <cosponsor thomas_id="02134" joined="2013-10-22"/>
+    <cosponsor thomas_id="01498" joined="2013-06-18"/>
+    <cosponsor thomas_id="02014" joined="2013-07-31"/>
+    <cosponsor thomas_id="01907" joined="2013-09-28"/>
+    <cosponsor thomas_id="01936" joined="2013-06-18"/>
+    <cosponsor thomas_id="00688" joined="2014-03-24"/>
+    <cosponsor thomas_id="01846" joined="2014-06-11"/>
+    <cosponsor thomas_id="00701" joined="2013-09-28"/>
+    <cosponsor thomas_id="01939" joined="2013-06-18"/>
+    <cosponsor thomas_id="01943" joined="2013-10-10"/>
+    <cosponsor thomas_id="01671" joined="2013-09-18"/>
+    <cosponsor thomas_id="01814" joined="2013-07-18"/>
+    <cosponsor thomas_id="01504" joined="2014-04-01"/>
+    <cosponsor thomas_id="01809" joined="2013-12-09"/>
+    <cosponsor thomas_id="01730" joined="2013-10-10"/>
+    <cosponsor thomas_id="01811" joined="2014-04-01"/>
+    <cosponsor thomas_id="01744" joined="2014-06-12"/>
+    <cosponsor thomas_id="01602" joined="2013-07-23"/>
+    <cosponsor thomas_id="00854" joined="2013-09-28"/>
+    <cosponsor thomas_id="02108" joined="2014-01-08"/>
+    <cosponsor thomas_id="00868" joined="2014-05-08"/>
+    <cosponsor thomas_id="01710" joined="2013-07-30"/>
+    <cosponsor thomas_id="01955" joined="2013-08-02"/>
+    <cosponsor thomas_id="01930" joined="2013-06-18"/>
+    <cosponsor thomas_id="02097" joined="2013-10-30"/>
+    <cosponsor thomas_id="02113" joined="2013-06-18"/>
+    <cosponsor thomas_id="01927" joined="2014-06-17"/>
+    <cosponsor thomas_id="02022" joined="2014-05-28"/>
+    <cosponsor thomas_id="00940" joined="2014-05-19"/>
+    <cosponsor thomas_id="00944" joined="2013-08-02"/>
+    <cosponsor thomas_id="01954" joined="2014-02-25"/>
+    <cosponsor thomas_id="01848" joined="2013-06-18"/>
+    <cosponsor thomas_id="02109" joined="2014-05-19"/>
+    <cosponsor thomas_id="01757" joined="2013-09-09"/>
+    <cosponsor thomas_id="01522" joined="2014-05-01"/>
+    <cosponsor thomas_id="02124" joined="2014-02-14"/>
+    <cosponsor thomas_id="01920" joined="2013-09-11"/>
+    <cosponsor thomas_id="01798" joined="2013-09-18"/>
+    <cosponsor thomas_id="01861" joined="2014-07-22"/>
+    <cosponsor thomas_id="01527" joined="2013-11-21"/>
+    <cosponsor thomas_id="01890" joined="2014-07-11"/>
+    <cosponsor thomas_id="02110" joined="2014-05-01"/>
+    <cosponsor thomas_id="01566" joined="2013-07-31"/>
+    <cosponsor thomas_id="01151" joined="2014-04-02"/>
+    <cosponsor thomas_id="01535" joined="2014-05-30"/>
+    <cosponsor thomas_id="01997" joined="2014-04-01"/>
+    <cosponsor thomas_id="02105" joined="2013-09-09"/>
+    <cosponsor thomas_id="02112" joined="2014-05-01"/>
+    <cosponsor thomas_id="02167" joined="2014-04-09"/>
+    <cosponsor thomas_id="01222" joined="2014-02-03"/>
+    <cosponsor thomas_id="01256" joined="2014-05-01"/>
+    <cosponsor thomas_id="02019" joined="2013-09-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-18" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-06-18">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-06-18">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-06-21">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1184"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Allied health services"/>
+    <term name="Behavioral sciences"/>
+    <term name="Digestive and metabolic diseases"/>
+    <term name="Drug and radiation therapy"/>
+    <term name="Government information and archives"/>
+    <term name="Health information and medical records"/>
+    <term name="Health personnel"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Medicare"/>
+    <term name="Nutrition and diet"/>
+    <term name="Physical fitness and lifestyle"/>
+    <term name="Prescription drugs"/>
+  </subjects>
+  <amendments/>
+  <summary>6/18/2013--Introduced.
+Treat and Reduce Obesity Act of 2013 - Amends title XVIII (Medicare) of the Social Security Act to include information on the coverage of intensive behavioral therapy for obesity in the "Medicare and You Handbook."
+
+Authorizes the Secretary of Health and Human Services (HHS) to allow other physicians, registered dietitians, certified diabetes educators, and instructors trained and certified by the National Diabetes Prevention Lifestyle Coach Training program of the Centers for Disease Control and Prevention (CDC) to provide, and be independently reimbursed for, intensive behavioral therapy for obesity furnished outside of the primary care setting, so long as any such nonphysician provider or instructor furnishing the therapy must communicate any recommendation or treatment plan for an individual to the individual's primary care physicians or practitioner.
+
+Authorizes the Secretary to cover under Medicare part D (Voluntary Prescription Drug Benefit Program) medication for treatment of obesity or for weight loss management for an overweight individual with one or more comorbidities.</summary>
+</bill>

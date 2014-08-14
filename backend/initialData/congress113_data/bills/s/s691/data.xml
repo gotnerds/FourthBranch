@@ -1,0 +1,73 @@
+<bill session="113" type="s" number="691" updated="2014-08-14T13:50:38-04:00">
+  <state datetime="2013-04-10">REPORTED</state>
+  <status>
+    <unknown datetime="2013-04-10"/>
+  </status>
+  <introduced datetime="2013-04-09"/>
+  <titles>
+    <title type="short" as="introduced">High-Capacity Ammunition Magazine Ban of 2013</title>
+    <title type="official" as="introduced">A bill to regulate large capacity ammunition feeding devices.</title>
+  </titles>
+  <sponsor thomas_id="01381"/>
+  <cosponsors>
+    <cosponsor thomas_id="02076" joined="2013-04-09"/>
+    <cosponsor thomas_id="00116" joined="2013-04-16"/>
+    <cosponsor thomas_id="00174" joined="2013-04-16"/>
+    <cosponsor thomas_id="00179" joined="2013-04-16"/>
+    <cosponsor thomas_id="02189" joined="2013-04-09"/>
+    <cosponsor thomas_id="00326" joined="2013-04-16"/>
+    <cosponsor thomas_id="01332" joined="2013-04-09"/>
+    <cosponsor thomas_id="01969" joined="2013-04-16"/>
+    <cosponsor thomas_id="01866" joined="2013-04-16"/>
+    <cosponsor thomas_id="00501" joined="2013-04-16"/>
+    <cosponsor thomas_id="01844" joined="2013-04-09"/>
+    <cosponsor thomas_id="02176" joined="2013-04-09"/>
+    <cosponsor thomas_id="01826" joined="2013-04-16"/>
+    <cosponsor thomas_id="01384" joined="2013-04-16"/>
+    <cosponsor thomas_id="00791" joined="2013-04-16"/>
+    <cosponsor thomas_id="01900" joined="2013-04-09"/>
+    <cosponsor thomas_id="01837" joined="2013-04-09"/>
+    <cosponsor thomas_id="01409" joined="2013-04-16"/>
+    <cosponsor thomas_id="00949" joined="2013-04-16"/>
+    <cosponsor thomas_id="01424" joined="2013-04-09"/>
+    <cosponsor thomas_id="01036" joined="2013-04-16"/>
+    <cosponsor thomas_id="02182" joined="2013-04-16"/>
+    <cosponsor thomas_id="01823" joined="2013-04-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-09">
+      <text>Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+    </action>
+    <calendar datetime="2013-04-10" state="REPORTED" calendar="Senate Legislative" under="General Orders" number="36">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 36.</text>
+    </calendar>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="138"/>
+    <bill type="h" session="113" relation="unknown" number="437"/>
+    <bill type="s" session="113" relation="unknown" number="33"/>
+    <bill type="s" session="113" relation="unknown" number="150"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Criminal procedure and sentencing"/>
+    <term name="Firearms and explosives"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Trade restrictions"/>
+    <term name="Violent crime"/>
+  </subjects>
+  <amendments/>
+  <summary>4/9/2013--Introduced.
+High-Capacity Ammunition Magazine Ban of 2013 - Amends the Brady Handgun Violence Prevention Act to prohibit the importation, sale, manufacture, transfer, or possession, in or affecting interstate or foreign commerce, of a large capacity ammunition feeding device.
+
+Defines a "large capacity ammunition feeding device" to: (1) mean a magazine, belt, drum, feed strip, or similar device that has an overall capacity of, or that can be readily changed to accept, more than 10 rounds of ammunition; and (2) exclude an attached tubular device designed to accept, and capable of operating only with, .22 caliber rimfire ammunition.
+
+Provides exemptions for: (1) devices lawfully possessed before this Act's enactment; (2) federal, state, and local agencies and law enforcement officers; (3) licensees under the Atomic Energy Act for on-site security, off-site training, and transportation of nuclear materials; and (4) authorized testing or experimentation by a licensed firearms manufacturer or importer.
+
+Requires a device manufactured after this Act's enactment to be identified by a serial number and the date it was manufactured conspicuously engraved or cast on the device.
+
+Sets penalties for violations. Subjects devices used or involved in knowing violation of such Act to seizure and forfeiture.
+
+Amends the Omnibus Crime Control and Safe Streets Act of 1968 to authorize the use of Edward Byrne Memorial Justice Assistance Grants for buy-back programs for surrendered large capacity ammunition feeding devices.</summary>
+</bill>

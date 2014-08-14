@@ -1,0 +1,35 @@
+<bill session="113" type="h" number="5058" updated="2014-08-14T13:34:39-04:00">
+  <state datetime="2014-07-10">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-10"/>
+  </status>
+  <introduced datetime="2014-07-10"/>
+  <titles>
+    <title type="short" as="introduced">Wild Horse Oversight Act</title>
+    <title type="official" as="introduced">To amend the Wild Free-Roaming Horses and Burros Act to provide for State and tribal management and protection of wild free-roaming horses and burros, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02168"/>
+  <cosponsors>
+    <cosponsor thomas_id="01753" joined="2014-07-10"/>
+    <cosponsor thomas_id="01908" joined="2014-07-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-10" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2014-07-15">
+      <text>Referred to the Subcommittee Indian and Alaska Native Affairs.</text>
+    </action>
+    <action datetime="2014-07-15">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Indian and Alaska Native Affairs" code="HSII24" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Public Lands and Environmental Regulation" code="HSII10" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

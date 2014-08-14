@@ -1,0 +1,38 @@
+<bill session="113" type="h" number="5105" updated="2014-08-14T13:35:03-04:00">
+  <state datetime="2014-07-14">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-14"/>
+  </status>
+  <introduced datetime="2014-07-14"/>
+  <titles>
+    <title type="short" as="introduced">Report of Alien Children's Safety Act of 2014</title>
+    <title type="official" as="introduced">To direct the Attorney General to report to Congress on the number of aliens unlawfully present in the United States who appear and fail to appear before immigration judges for proceedings under section 240 of the Immigration and Nationality Act, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01566"/>
+  <cosponsors>
+    <cosponsor thomas_id="02063" joined="2014-07-14"/>
+    <cosponsor thomas_id="01882" joined="2014-07-14"/>
+    <cosponsor thomas_id="02036" joined="2014-07-14"/>
+    <cosponsor thomas_id="01979" joined="2014-07-14"/>
+    <cosponsor thomas_id="01936" joined="2014-07-14"/>
+    <cosponsor thomas_id="01860" joined="2014-07-14"/>
+    <cosponsor thomas_id="01779" joined="2014-07-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-14" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="5118"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+  <summary>7/14/2014--Introduced.
+Report of Alien Children's Safety Act of 2014 - Directs the Attorney General to report monthly to Congress through March 30, 2017, on:
+
+ the number of aliens unlawfully present in the United States who have appeared before an immigration judge pursuant to removal proceedings; a state-by-state breakdown of the number of aliens unlawfully present in the United States who have appeared before an immigration judge for removal proceedings, who, in the case of unaccompanied alien children, have been placed in each state pending such proceedings, who have failed to appear after receiving written notice of a required appearance at such proceedings, and who are under 18 years old and have failed to appear after receiving written notice of a required appearance at such proceedings; and a state-by-state breakdown of the number of aliens unlawfully present in the United States who have failed to appear after receiving written notice of a required appearance at such proceedings, and who have failed to make two or more such appearances.</summary>
+</bill>

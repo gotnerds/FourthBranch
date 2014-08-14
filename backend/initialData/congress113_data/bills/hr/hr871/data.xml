@@ -1,0 +1,58 @@
+<bill session="113" type="h" number="871" updated="2014-08-14T12:58:08-04:00">
+  <state datetime="2013-02-27">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-27"/>
+  </status>
+  <introduced datetime="2013-02-27"/>
+  <titles>
+    <title type="short" as="introduced">Export Freedom to Cuba Act of 2013</title>
+    <title type="official" as="introduced">To allow travel between the United States and Cuba.</title>
+  </titles>
+  <sponsor thomas_id="00944"/>
+  <cosponsors>
+    <cosponsor thomas_id="01970" joined="2014-07-14"/>
+    <cosponsor thomas_id="01864" joined="2013-05-20"/>
+    <cosponsor thomas_id="01878" joined="2013-05-20"/>
+    <cosponsor thomas_id="00229" joined="2013-05-20"/>
+    <cosponsor thomas_id="01857" joined="2013-12-05"/>
+    <cosponsor thomas_id="00368" joined="2013-05-20"/>
+    <cosponsor thomas_id="01708" joined="2013-05-20"/>
+    <cosponsor thomas_id="02101" joined="2014-02-27"/>
+    <cosponsor thomas_id="00588" joined="2013-05-20"/>
+    <cosponsor thomas_id="01843" joined="2013-05-20"/>
+    <cosponsor thomas_id="01501" joined="2013-05-20"/>
+    <cosponsor thomas_id="01653" joined="2013-06-27"/>
+    <cosponsor thomas_id="00832" joined="2013-12-05"/>
+    <cosponsor thomas_id="00910" joined="2013-06-27"/>
+    <cosponsor thomas_id="02171" joined="2014-01-14"/>
+    <cosponsor thomas_id="01910" joined="2013-05-20"/>
+    <cosponsor thomas_id="01588" joined="2013-05-20"/>
+    <cosponsor thomas_id="01042" joined="2013-12-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-27" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2013-03-15">
+      <text>Referred to the Subcommittee on the Western Hemisphere.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee subcommittee="Western Hemisphere" code="HSFA07" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Caribbean area"/>
+    <term name="Cuba"/>
+    <term name="Latin America"/>
+    <term name="Travel and tourism"/>
+  </subjects>
+  <amendments/>
+  <summary>2/27/2013--Introduced.
+Export Freedom to Cuba Act of 2013 - Prohibits the President from regulating or prohibiting travel to or from Cuba by U.S. citizens or legal residents, or any of the transactions ordinarily incident to such travel relating to: (1) accompanied personal baggage; (2) payment of living expenses and the acquisition of personal-use goods or services; (3) travel arrangements; (4) nonscheduled air, sea, or land voyage transactions (such provision does not permit the carriage of articles other than accompanied baggage into Cuba or the United States); and (5) normal banking transactions.
+
+Prohibits the above provisions from: (1) restricting presidential authority in time of war or armed hostilities between the United States and Cuba, or of imminent danger to the public health or the physical safety of U.S. travelers; and (2) authorizing U.S. importation of personal consumption goods acquired in Cuba.</summary>
+</bill>

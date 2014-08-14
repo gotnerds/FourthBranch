@@ -1,0 +1,24 @@
+<bill session="113" type="h" number="5187" updated="2014-08-14T13:35:44-04:00">
+  <state datetime="2014-07-24">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-24"/>
+  </status>
+  <introduced datetime="2014-07-24"/>
+  <titles>
+    <title type="short" as="introduced">Catalyst Theory Restoration Act of 2014</title>
+    <title type="official" as="introduced">To clarify the meaning of the term "prevailing party" with regard to the recovery of attorneys' fees.</title>
+  </titles>
+  <sponsor thomas_id="02159"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-24" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

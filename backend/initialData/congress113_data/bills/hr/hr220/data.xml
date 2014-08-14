@@ -1,0 +1,56 @@
+<bill session="113" type="h" number="220" updated="2014-08-14T12:52:34-04:00">
+  <state datetime="2013-01-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-14"/>
+  </status>
+  <introduced datetime="2013-01-14"/>
+  <titles>
+    <title type="short" as="introduced">Stop the Coin Act</title>
+    <title type="official" as="introduced">To amend section 5112 of title 31, United States Code, to limit the face value of coins that the Secretary of the Treasury may issue, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01596"/>
+  <cosponsors>
+    <cosponsor thomas_id="01460" joined="2013-01-14"/>
+    <cosponsor thomas_id="01816" joined="2013-01-14"/>
+    <cosponsor thomas_id="01676" joined="2013-01-18"/>
+    <cosponsor thomas_id="01956" joined="2013-01-14"/>
+    <cosponsor thomas_id="01742" joined="2013-02-08"/>
+    <cosponsor thomas_id="02064" joined="2013-01-14"/>
+    <cosponsor thomas_id="02143" joined="2013-01-14"/>
+    <cosponsor thomas_id="02140" joined="2013-01-14"/>
+    <cosponsor thomas_id="00612" joined="2013-01-14"/>
+    <cosponsor thomas_id="02014" joined="2013-01-14"/>
+    <cosponsor thomas_id="01936" joined="2013-01-14"/>
+    <cosponsor thomas_id="01885" joined="2013-01-14"/>
+    <cosponsor thomas_id="01931" joined="2013-01-14"/>
+    <cosponsor thomas_id="01806" joined="2013-01-22"/>
+    <cosponsor thomas_id="01685" joined="2013-01-14"/>
+    <cosponsor thomas_id="02060" joined="2013-01-14"/>
+    <cosponsor thomas_id="02001" joined="2013-01-14"/>
+    <cosponsor thomas_id="02034" joined="2013-01-14"/>
+    <cosponsor thomas_id="02073" joined="2013-01-18"/>
+    <cosponsor thomas_id="01525" joined="2013-01-14"/>
+    <cosponsor thomas_id="01155" joined="2013-01-14"/>
+    <cosponsor thomas_id="01177" joined="2013-02-14"/>
+    <cosponsor thomas_id="01779" joined="2013-01-14"/>
+    <cosponsor thomas_id="02021" joined="2013-01-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-14" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Currency"/>
+    <term name="Monetary policy"/>
+  </subjects>
+  <amendments/>
+  <summary>1/14/2013--Introduced.
+Stop the Coin Act - Prohibits the Secretary of the Treasury from minting or issuing any coins, including proof platinum coins, having a nominal, or face, value exceeding $200.</summary>
+</bill>

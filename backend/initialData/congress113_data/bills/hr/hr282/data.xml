@@ -1,0 +1,73 @@
+<bill session="113" type="h" number="282" updated="2014-08-14T12:53:08-04:00">
+  <state datetime="2013-01-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-15"/>
+  </status>
+  <introduced datetime="2013-01-15"/>
+  <titles>
+    <title type="short" as="introduced">REFUND Act</title>
+    <title type="short" as="introduced">Returned Exclusively For Unpaid National Debt Act</title>
+    <title type="official" as="introduced">To rescind certain Federal funds identified by States as unwanted and use the funds to reduce the Federal debt.</title>
+  </titles>
+  <sponsor thomas_id="02061"/>
+  <cosponsors>
+    <cosponsor thomas_id="01727" joined="2013-06-26"/>
+    <cosponsor thomas_id="02027" joined="2013-02-06"/>
+    <cosponsor thomas_id="02135" joined="2013-02-13"/>
+    <cosponsor thomas_id="01748" joined="2013-02-13"/>
+    <cosponsor thomas_id="01882" joined="2013-03-04"/>
+    <cosponsor thomas_id="01751" joined="2013-02-04"/>
+    <cosponsor thomas_id="01925" joined="2013-02-04"/>
+    <cosponsor thomas_id="00186" joined="2013-03-12"/>
+    <cosponsor thomas_id="01956" joined="2013-06-26"/>
+    <cosponsor thomas_id="01742" joined="2013-02-13"/>
+    <cosponsor thomas_id="02116" joined="2013-02-13"/>
+    <cosponsor thomas_id="01791" joined="2013-02-12"/>
+    <cosponsor thomas_id="01998" joined="2013-02-13"/>
+    <cosponsor thomas_id="00446" joined="2013-02-25"/>
+    <cosponsor thomas_id="02058" joined="2013-07-11"/>
+    <cosponsor thomas_id="01749" joined="2013-06-11"/>
+    <cosponsor thomas_id="02028" joined="2013-03-14"/>
+    <cosponsor thomas_id="01724" joined="2013-03-12"/>
+    <cosponsor thomas_id="02100" joined="2013-02-13"/>
+    <cosponsor thomas_id="01834" joined="2013-02-13"/>
+    <cosponsor thomas_id="01960" joined="2013-02-13"/>
+    <cosponsor thomas_id="02142" joined="2013-02-25"/>
+    <cosponsor thomas_id="02130" joined="2013-03-12"/>
+    <cosponsor thomas_id="01685" joined="2013-03-12"/>
+    <cosponsor thomas_id="02001" joined="2013-02-04"/>
+    <cosponsor thomas_id="02034" joined="2013-07-22"/>
+    <cosponsor thomas_id="01738" joined="2013-03-12"/>
+    <cosponsor thomas_id="01915" joined="2013-03-12"/>
+    <cosponsor thomas_id="01954" joined="2013-02-13"/>
+    <cosponsor thomas_id="02047" joined="2013-02-06"/>
+    <cosponsor thomas_id="01596" joined="2013-02-12"/>
+    <cosponsor thomas_id="02161" joined="2013-03-12"/>
+    <cosponsor thomas_id="01779" joined="2013-02-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-15" state="REFERRED">
+      <text>Referred to the House Committee on Appropriations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAP" name="House Appropriations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="692"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Appropriations"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Intergovernmental relations"/>
+    <term name="State and local finance"/>
+  </subjects>
+  <amendments/>
+  <summary>1/15/2013--Introduced.
+Returned Exclusively For Unpaid National Debt Act or REFUND Act - Rescinds unwanted amounts, as identified by a state from a projected allocation, from any federal funds required to be allocated by formula among all states that agree to use them for a specified purpose.
+
+Prescribes a procedure by which a state legislature may identify a projected federal allocation as unwanted funds.
+
+ Requires such rescinded amounts to: (1) be deposited by the Secretary of the Treasury in the special fund account entitled "Gifts to Reduce Debt Held by the Public, Bureau of the Public Debt, Treasury"; and (2) be used to reduce the federal debt.</summary>
+</bill>

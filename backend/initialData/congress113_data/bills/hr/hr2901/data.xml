@@ -1,0 +1,149 @@
+<bill session="113" type="h" number="2901" updated="2014-08-14T13:16:12-04:00">
+  <state datetime="2013-08-01">REFERRED</state>
+  <status>
+    <introduced datetime="2013-08-01"/>
+  </status>
+  <introduced datetime="2013-08-01"/>
+  <titles>
+    <title type="short" as="introduced">Senator Paul Simon Water for the World Act of 2013</title>
+    <title type="official" as="introduced">To strengthen implementation of the Senator Paul Simon Water for the Poor Act of 2005 by improving the capacity of the United States Government to implement, leverage, and monitor and evaluate programs to provide first-time or improved access to safe drinking water, sanitation, and hygiene to the world's poorest on an equitable and sustainable basis, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00099"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2013-08-02"/>
+    <cosponsor thomas_id="02102" joined="2013-12-04"/>
+    <cosponsor thomas_id="02092" joined="2014-06-17"/>
+    <cosponsor thomas_id="01723" joined="2014-01-14"/>
+    <cosponsor thomas_id="02106" joined="2014-03-27"/>
+    <cosponsor thomas_id="02127" joined="2014-07-31"/>
+    <cosponsor thomas_id="01564" joined="2014-04-08"/>
+    <cosponsor thomas_id="01889" joined="2014-07-31"/>
+    <cosponsor thomas_id="02159" joined="2014-04-08"/>
+    <cosponsor thomas_id="00186" joined="2013-08-02"/>
+    <cosponsor thomas_id="01970" joined="2014-03-27"/>
+    <cosponsor thomas_id="02055" joined="2013-12-04"/>
+    <cosponsor thomas_id="02196" joined="2014-05-09"/>
+    <cosponsor thomas_id="01864" joined="2014-03-24"/>
+    <cosponsor thomas_id="01878" joined="2014-07-31"/>
+    <cosponsor thomas_id="01742" joined="2013-08-01"/>
+    <cosponsor thomas_id="01959" joined="2014-03-24"/>
+    <cosponsor thomas_id="02098" joined="2013-09-27"/>
+    <cosponsor thomas_id="01836" joined="2014-04-10"/>
+    <cosponsor thomas_id="01670" joined="2013-09-12"/>
+    <cosponsor thomas_id="01477" joined="2014-07-16"/>
+    <cosponsor thomas_id="01799" joined="2014-07-31"/>
+    <cosponsor thomas_id="00303" joined="2014-06-17"/>
+    <cosponsor thomas_id="00316" joined="2013-10-08"/>
+    <cosponsor thomas_id="01894" joined="2013-08-01"/>
+    <cosponsor thomas_id="01857" joined="2013-09-19"/>
+    <cosponsor thomas_id="00344" joined="2014-06-17"/>
+    <cosponsor thomas_id="02125" joined="2014-04-08"/>
+    <cosponsor thomas_id="00355" joined="2014-03-24"/>
+    <cosponsor thomas_id="02114" joined="2014-05-07"/>
+    <cosponsor thomas_id="02067" joined="2013-09-27"/>
+    <cosponsor thomas_id="00368" joined="2014-05-07"/>
+    <cosponsor thomas_id="02043" joined="2014-04-10"/>
+    <cosponsor thomas_id="01708" joined="2014-03-24"/>
+    <cosponsor thomas_id="00478" joined="2014-07-16"/>
+    <cosponsor thomas_id="02044" joined="2013-08-01"/>
+    <cosponsor thomas_id="00511" joined="2013-08-02"/>
+    <cosponsor thomas_id="02170" joined="2014-03-24"/>
+    <cosponsor thomas_id="01794" joined="2014-04-08"/>
+    <cosponsor thomas_id="01580" joined="2014-02-06"/>
+    <cosponsor thomas_id="01634" joined="2014-03-06"/>
+    <cosponsor thomas_id="01921" joined="2014-02-06"/>
+    <cosponsor thomas_id="00612" joined="2013-08-01"/>
+    <cosponsor thomas_id="02025" joined="2013-12-04"/>
+    <cosponsor thomas_id="02172" joined="2014-04-08"/>
+    <cosponsor thomas_id="01498" joined="2014-03-14"/>
+    <cosponsor thomas_id="02014" joined="2014-07-31"/>
+    <cosponsor thomas_id="01583" joined="2014-03-14"/>
+    <cosponsor thomas_id="01501" joined="2014-01-14"/>
+    <cosponsor thomas_id="00683" joined="2014-02-06"/>
+    <cosponsor thomas_id="00688" joined="2014-03-14"/>
+    <cosponsor thomas_id="00701" joined="2014-02-06"/>
+    <cosponsor thomas_id="02111" joined="2014-03-27"/>
+    <cosponsor thomas_id="02053" joined="2014-03-24"/>
+    <cosponsor thomas_id="01503" joined="2014-05-07"/>
+    <cosponsor thomas_id="01804" joined="2013-09-09"/>
+    <cosponsor thomas_id="01653" joined="2014-05-07"/>
+    <cosponsor thomas_id="00766" joined="2014-06-17"/>
+    <cosponsor thomas_id="01504" joined="2014-02-25"/>
+    <cosponsor thomas_id="00808" joined="2014-03-06"/>
+    <cosponsor thomas_id="00832" joined="2013-09-19"/>
+    <cosponsor thomas_id="01602" joined="2013-09-12"/>
+    <cosponsor thomas_id="02108" joined="2013-12-16"/>
+    <cosponsor thomas_id="00868" joined="2014-02-06"/>
+    <cosponsor thomas_id="00912" joined="2013-12-04"/>
+    <cosponsor thomas_id="02141" joined="2014-05-07"/>
+    <cosponsor thomas_id="01802" joined="2013-08-01"/>
+    <cosponsor thomas_id="01910" joined="2014-03-27"/>
+    <cosponsor thomas_id="01967" joined="2014-03-27"/>
+    <cosponsor thomas_id="00944" joined="2014-06-17"/>
+    <cosponsor thomas_id="01810" joined="2014-03-24"/>
+    <cosponsor thomas_id="02073" joined="2013-08-01"/>
+    <cosponsor thomas_id="00979" joined="2013-08-01"/>
+    <cosponsor thomas_id="01848" joined="2014-05-07"/>
+    <cosponsor thomas_id="01003" joined="2014-07-16"/>
+    <cosponsor thomas_id="01756" joined="2014-05-19"/>
+    <cosponsor thomas_id="01009" joined="2014-05-07"/>
+    <cosponsor thomas_id="01635" joined="2014-03-13"/>
+    <cosponsor thomas_id="01920" joined="2013-08-01"/>
+    <cosponsor thomas_id="01041" joined="2013-08-01"/>
+    <cosponsor thomas_id="01861" joined="2014-05-19"/>
+    <cosponsor thomas_id="01527" joined="2013-08-01"/>
+    <cosponsor thomas_id="01818" joined="2014-01-14"/>
+    <cosponsor thomas_id="01528" joined="2014-05-07"/>
+    <cosponsor thomas_id="01071" joined="2013-08-01"/>
+    <cosponsor thomas_id="02000" joined="2014-03-27"/>
+    <cosponsor thomas_id="01890" joined="2014-03-24"/>
+    <cosponsor thomas_id="01114" joined="2013-09-19"/>
+    <cosponsor thomas_id="01566" joined="2013-08-01"/>
+    <cosponsor thomas_id="01664" joined="2014-04-08"/>
+    <cosponsor thomas_id="01940" joined="2013-12-04"/>
+    <cosponsor thomas_id="01729" joined="2014-03-14"/>
+    <cosponsor thomas_id="02128" joined="2014-05-09"/>
+    <cosponsor thomas_id="01209" joined="2013-12-04"/>
+    <cosponsor thomas_id="01688" joined="2014-07-16"/>
+    <cosponsor thomas_id="01238" joined="2014-05-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-08-01">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H5265-5266, E1186-1187"/>
+    </action>
+    <action datetime="2013-08-01" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Department of State"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Food supply, safety, and labeling"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Government information and archives"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Performance measurement"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Solid waste and recycling"/>
+    <term name="U.S. Agency for International Development (USAID)"/>
+    <term name="Water quality"/>
+    <term name="Water use and supply"/>
+    <term name="World health"/>
+  </subjects>
+  <amendments/>
+  <summary>8/1/2013--Introduced.
+Senator Paul Simon Water for the World Act of 2013 - Expresses the sense of Congress that: (1) the initial U.S. Agency for International Development (USAID) Water and Development Strategy is a significant accomplishment and improves USAID's capacity to provide sustainable and effective water, sanitation, and hygiene assistance; and (2) the Secretary of State, through the Special Advisor for Water Resources, should develop a Global Water Resources Strategy relating to U.S. foreign policy water objectives.
+
+Amends the Foreign Assistance Act of 1961 to direct: (1) the Administrator to designate a Global Water Coordinator to coordinate and oversee water, sanitation, and hygiene assistance; and (2) the Secretary of State to designate a Special Advisor for Water Resources to coordinate and oversee policy relating to water, hygiene, and sanitation assistance.
+
+Sets forth principles to ensure that water, sanitation, and hygiene projects carried out under the Foreign Assistance Act of 1961 and the Senator Paul Simon Water for the Poor Act of 2005 achieve maximum impact.
+
+Amends the Senator Paul Simon Water for the Poor Act of 2005 to direct: (1) the President, through the Secretary, to develop a strategy every five years to further the U.S. foreign policy objective to provide affordable and equitable access to safe water and sanitation in developing countries; and (2) the Administrator, through the Global Water Coordinator, to develop a complementary strategy to further the U.S. foreign assistance objective to provide affordable and equitable drinking water, sanitation, and hygiene in developing countries.</summary>
+</bill>

@@ -1,0 +1,73 @@
+<bill session="113" type="h" number="793" updated="2014-08-14T12:57:28-04:00">
+  <state datetime="2013-02-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-15"/>
+  </status>
+  <introduced datetime="2013-02-15"/>
+  <titles>
+    <title type="short" as="introduced">Firearm Safety and Buyback Grant Act of 2013</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to impose an excise tax on concealable firearms and to require the Attorney General to establish a firearms buyback grant program.</title>
+  </titles>
+  <sponsor thomas_id="01757"/>
+  <cosponsors>
+    <cosponsor thomas_id="01740" joined="2013-02-15"/>
+    <cosponsor thomas_id="02107" joined="2013-02-15"/>
+    <cosponsor thomas_id="01864" joined="2013-05-15"/>
+    <cosponsor thomas_id="01654" joined="2013-02-15"/>
+    <cosponsor thomas_id="00281" joined="2013-02-15"/>
+    <cosponsor thomas_id="01894" joined="2013-02-15"/>
+    <cosponsor thomas_id="00355" joined="2013-02-26"/>
+    <cosponsor thomas_id="00368" joined="2013-02-26"/>
+    <cosponsor thomas_id="01708" joined="2013-02-15"/>
+    <cosponsor thomas_id="02089" joined="2013-02-15"/>
+    <cosponsor thomas_id="00511" joined="2013-02-26"/>
+    <cosponsor thomas_id="01501" joined="2013-02-15"/>
+    <cosponsor thomas_id="02111" joined="2013-02-26"/>
+    <cosponsor thomas_id="00729" joined="2013-02-15"/>
+    <cosponsor thomas_id="01814" joined="2013-02-15"/>
+    <cosponsor thomas_id="01504" joined="2013-02-15"/>
+    <cosponsor thomas_id="01506" joined="2013-04-18"/>
+    <cosponsor thomas_id="01602" joined="2013-02-15"/>
+    <cosponsor thomas_id="00868" joined="2013-02-15"/>
+    <cosponsor thomas_id="01510" joined="2013-02-15"/>
+    <cosponsor thomas_id="00944" joined="2013-02-26"/>
+    <cosponsor thomas_id="00997" joined="2013-02-15"/>
+    <cosponsor thomas_id="01003" joined="2013-02-15"/>
+    <cosponsor thomas_id="01818" joined="2013-02-15"/>
+    <cosponsor thomas_id="02112" joined="2013-02-15"/>
+    <cosponsor thomas_id="02004" joined="2013-04-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-15" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-02-15">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-02-15">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2013-04-08">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, And Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Crime prevention"/>
+    <term name="Firearms and explosives"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Sales and excise taxes"/>
+    <term name="Violent crime"/>
+  </subjects>
+  <amendments/>
+  <summary>2/15/2013--Introduced.
+Firearm Safety and Buyback Grant Act of 2013 - Amends the Internal Revenue Code to impose upon the seller of any concealable firearm an excise tax equal to 10% of its retail sales price. Exempts sales to federal, state, or local governments. Makes any person who uses a concealable firearm prior to its first retail sale liable for such tax as if such person sold such firearm at retail.
+
+Directs the Attorney General to award grants to states, Indian tribal governments, and local governments for their law enforcement agencies to carry out anti-violence and gun safety campaigns and firearms buyback programs.</summary>
+</bill>

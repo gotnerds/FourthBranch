@@ -1,0 +1,31 @@
+<bill session="113" type="s" number="2679" updated="2014-08-14T14:07:38-04:00">
+  <state datetime="2014-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-29"/>
+  </status>
+  <introduced datetime="2014-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Superfund Polluter Pays Restoration Act of 2014</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to reinstate the financing for the Hazardous Substance Superfund, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02194"/>
+  <cosponsors>
+    <cosponsor thomas_id="00116" joined="2014-07-29"/>
+    <cosponsor thomas_id="00791" joined="2014-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-29">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S5053"/>
+    </action>
+    <action datetime="2014-07-29" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

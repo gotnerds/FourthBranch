@@ -1,0 +1,26 @@
+<bill session="113" type="s" number="2706" updated="2014-08-14T14:07:51-04:00">
+  <state datetime="2014-07-30">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-30"/>
+  </status>
+  <introduced datetime="2014-07-30"/>
+  <titles>
+    <title type="short" as="introduced">Child Welfare Provider Inclusion Act of 2014</title>
+    <title type="official" as="introduced">A bill to ensure that organizations with religious or moral convictions are allowed to continue to provide services for children.</title>
+  </titles>
+  <sponsor thomas_id="01542"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-30" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="5285"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

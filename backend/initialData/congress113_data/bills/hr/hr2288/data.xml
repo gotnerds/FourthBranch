@@ -1,0 +1,105 @@
+<bill session="113" type="h" number="2288" updated="2014-08-14T13:10:51-04:00">
+  <state datetime="2013-06-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-06"/>
+  </status>
+  <introduced datetime="2013-06-06"/>
+  <titles>
+    <title type="short" as="introduced">Commuter Parity Act of 2013</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to modify the exclusion for transportation benefits.</title>
+  </titles>
+  <sponsor thomas_id="02041"/>
+  <cosponsors>
+    <cosponsor thomas_id="00099" joined="2013-06-06"/>
+    <cosponsor thomas_id="02092" joined="2013-06-18"/>
+    <cosponsor thomas_id="01471" joined="2013-06-17"/>
+    <cosponsor thomas_id="01564" joined="2013-06-25"/>
+    <cosponsor thomas_id="01889" joined="2013-06-27"/>
+    <cosponsor thomas_id="02159" joined="2013-12-04"/>
+    <cosponsor thomas_id="02055" joined="2013-07-08"/>
+    <cosponsor thomas_id="02196" joined="2014-04-08"/>
+    <cosponsor thomas_id="01959" joined="2013-06-11"/>
+    <cosponsor thomas_id="01836" joined="2013-08-02"/>
+    <cosponsor thomas_id="01604" joined="2013-06-18"/>
+    <cosponsor thomas_id="00281" joined="2013-06-14"/>
+    <cosponsor thomas_id="02096" joined="2013-12-12"/>
+    <cosponsor thomas_id="02123" joined="2013-12-04"/>
+    <cosponsor thomas_id="01894" joined="2013-12-12"/>
+    <cosponsor thomas_id="00355" joined="2013-06-25"/>
+    <cosponsor thomas_id="02114" joined="2013-06-27"/>
+    <cosponsor thomas_id="01888" joined="2014-01-10"/>
+    <cosponsor thomas_id="00511" joined="2013-10-30"/>
+    <cosponsor thomas_id="01913" joined="2013-09-26"/>
+    <cosponsor thomas_id="01580" joined="2013-12-09"/>
+    <cosponsor thomas_id="01634" joined="2013-06-20"/>
+    <cosponsor thomas_id="02101" joined="2013-10-15"/>
+    <cosponsor thomas_id="01663" joined="2013-09-10"/>
+    <cosponsor thomas_id="01498" joined="2013-09-30"/>
+    <cosponsor thomas_id="00635" joined="2013-06-06"/>
+    <cosponsor thomas_id="01936" joined="2013-09-25"/>
+    <cosponsor thomas_id="01501" joined="2013-07-24"/>
+    <cosponsor thomas_id="01781" joined="2013-09-19"/>
+    <cosponsor thomas_id="00701" joined="2013-06-14"/>
+    <cosponsor thomas_id="02111" joined="2014-01-03"/>
+    <cosponsor thomas_id="00709" joined="2014-01-16"/>
+    <cosponsor thomas_id="00729" joined="2014-01-10"/>
+    <cosponsor thomas_id="02150" joined="2013-06-25"/>
+    <cosponsor thomas_id="01814" joined="2013-06-18"/>
+    <cosponsor thomas_id="01503" joined="2013-10-23"/>
+    <cosponsor thomas_id="01653" joined="2013-06-25"/>
+    <cosponsor thomas_id="01504" joined="2013-06-06"/>
+    <cosponsor thomas_id="01506" joined="2013-12-11"/>
+    <cosponsor thomas_id="02148" joined="2013-11-12"/>
+    <cosponsor thomas_id="00808" joined="2013-10-04"/>
+    <cosponsor thomas_id="01811" joined="2013-09-26"/>
+    <cosponsor thomas_id="00832" joined="2013-06-14"/>
+    <cosponsor thomas_id="00850" joined="2013-06-11"/>
+    <cosponsor thomas_id="02108" joined="2014-01-16"/>
+    <cosponsor thomas_id="00868" joined="2013-06-14"/>
+    <cosponsor thomas_id="02162" joined="2014-01-14"/>
+    <cosponsor thomas_id="02097" joined="2014-03-11"/>
+    <cosponsor thomas_id="01910" joined="2014-01-14"/>
+    <cosponsor thomas_id="00930" joined="2013-06-11"/>
+    <cosponsor thomas_id="01967" joined="2014-01-14"/>
+    <cosponsor thomas_id="02039" joined="2013-11-20"/>
+    <cosponsor thomas_id="01728" joined="2013-10-30"/>
+    <cosponsor thomas_id="01757" joined="2013-12-09"/>
+    <cosponsor thomas_id="01588" joined="2013-12-09"/>
+    <cosponsor thomas_id="02124" joined="2014-04-10"/>
+    <cosponsor thomas_id="01798" joined="2013-09-17"/>
+    <cosponsor thomas_id="02099" joined="2013-06-12"/>
+    <cosponsor thomas_id="01818" joined="2013-06-11"/>
+    <cosponsor thomas_id="01890" joined="2013-06-14"/>
+    <cosponsor thomas_id="02104" joined="2013-07-25"/>
+    <cosponsor thomas_id="02110" joined="2013-09-17"/>
+    <cosponsor thomas_id="01593" joined="2013-06-20"/>
+    <cosponsor thomas_id="01535" joined="2013-12-19"/>
+    <cosponsor thomas_id="01884" joined="2013-06-25"/>
+    <cosponsor thomas_id="01729" joined="2014-01-03"/>
+    <cosponsor thomas_id="02004" joined="2013-11-12"/>
+    <cosponsor thomas_id="01886" joined="2013-07-31"/>
+    <cosponsor thomas_id="01256" joined="2013-09-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-06" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Commuting"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Income tax exclusion"/>
+    <term name="Inflation and prices"/>
+    <term name="Pedestrians and bicycling"/>
+    <term name="Public transit"/>
+    <term name="Transportation costs"/>
+  </subjects>
+  <amendments/>
+  <summary>6/6/2013--Introduced.
+Commuter Parity Act of 2013 - Amends the Internal Revenue Code to modify the exclusion from gross income, for income tax purposes, of certain transportation benefits provided by an employer to an employee, to allow a monthly exclusion amount of: (1) $220 for transportation in a commuter highway vehicle from home to work and any transit pass, (2) $220 for qualified parking, and (3) $35 for qualified bicycle commuting reimbursement. Allows an annual cost-of-living adjustment to such exclusion amounts after 2014.</summary>
+</bill>

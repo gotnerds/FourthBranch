@@ -1,0 +1,83 @@
+<bill session="113" type="h" number="2058" updated="2014-08-14T13:08:48-04:00">
+  <state datetime="2013-05-20">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-20"/>
+  </status>
+  <introduced datetime="2013-05-20"/>
+  <titles>
+    <title type="short" as="introduced">Childhood Cancer Survivors' Quality of Life Act of 2013</title>
+    <title type="official" as="introduced">To improve and enhance research and programs on childhood cancer survivorship, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01890"/>
+  <cosponsors>
+    <cosponsor thomas_id="00038" joined="2013-09-26"/>
+    <cosponsor thomas_id="02153" joined="2013-07-08"/>
+    <cosponsor thomas_id="01723" joined="2013-05-20"/>
+    <cosponsor thomas_id="02159" joined="2013-07-25"/>
+    <cosponsor thomas_id="02055" joined="2013-09-26"/>
+    <cosponsor thomas_id="01912" joined="2013-10-23"/>
+    <cosponsor thomas_id="01878" joined="2013-07-25"/>
+    <cosponsor thomas_id="01959" joined="2013-07-08"/>
+    <cosponsor thomas_id="01479" joined="2013-12-12"/>
+    <cosponsor thomas_id="00316" joined="2013-12-05"/>
+    <cosponsor thomas_id="00355" joined="2013-07-25"/>
+    <cosponsor thomas_id="01663" joined="2013-11-14"/>
+    <cosponsor thomas_id="00588" joined="2013-09-26"/>
+    <cosponsor thomas_id="00635" joined="2013-06-04"/>
+    <cosponsor thomas_id="01936" joined="2014-01-15"/>
+    <cosponsor thomas_id="01501" joined="2013-05-20"/>
+    <cosponsor thomas_id="01846" joined="2014-01-28"/>
+    <cosponsor thomas_id="00729" joined="2013-11-14"/>
+    <cosponsor thomas_id="01804" joined="2013-05-20"/>
+    <cosponsor thomas_id="01504" joined="2013-06-28"/>
+    <cosponsor thomas_id="00832" joined="2013-05-20"/>
+    <cosponsor thomas_id="00868" joined="2013-06-04"/>
+    <cosponsor thomas_id="01927" joined="2013-12-05"/>
+    <cosponsor thomas_id="02171" joined="2013-11-14"/>
+    <cosponsor thomas_id="01910" joined="2013-08-01"/>
+    <cosponsor thomas_id="01915" joined="2013-08-01"/>
+    <cosponsor thomas_id="00944" joined="2013-05-20"/>
+    <cosponsor thomas_id="01588" joined="2014-01-15"/>
+    <cosponsor thomas_id="01861" joined="2013-09-26"/>
+    <cosponsor thomas_id="01729" joined="2013-05-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-20" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-05-24">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1247"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Cancer"/>
+    <term name="Child health"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Health information and medical records"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Medical education"/>
+    <term name="Medical research"/>
+    <term name="Mental health"/>
+    <term name="Minority health"/>
+    <term name="Research administration and funding"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+  </subjects>
+  <amendments/>
+  <summary>5/20/2013--Introduced.
+Childhood Cancer Survivors' Quality of Life Act of 2013 - Amends the Public Health Service Act to require the Secretary of Health and Human Services (HHS) to make grants to eligible entities to establish pilot programs to develop, study, or evaluate model systems for monitoring and caring for childhood cancer survivors.
+
+Requires the Secretary to convene a Workforce Development Collaborative on Medical and Psychosocial Care for Pediatric Cancer to establish a plan to meet specified objectives relating to medical and psychosocial care workforce development, including: (1) disseminating to health care educators information relevant to providing medical and psychosocial services to persons with pediatric cancers, (2) adapting curricula for continuing education of the existing workforce, and (3) strengthening the emphasis on psychosocial health care in educational accreditation standards and professional licensing and certification.
+
+Reauthorizes and expands the National Cancer Institute's pediatric cancer research and awareness program to include research on: (1) pediatric cancer survivors within minority or other medically underserved populations, (2) health disparities in pediatric cancer survivorship outcomes, and (3) follow-up care for pediatric cancer survivors.
+
+Requires the Secretary to make grants to eligible entities to establish and operate a clinic for comprehensive long-term follow-up services for pediatric cancer survivors.</summary>
+</bill>

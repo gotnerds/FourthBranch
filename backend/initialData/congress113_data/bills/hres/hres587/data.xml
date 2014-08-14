@@ -1,0 +1,104 @@
+<bill session="113" type="hr" number="587" updated="2014-08-14T12:49:36-04:00">
+  <state datetime="2014-05-19">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-19"/>
+  </status>
+  <introduced datetime="2014-05-19"/>
+  <titles>
+    <title type="official" as="introduced">Expressing support for internal rebuilding, resettlement, accountability, and reconciliation within Sri Lanka so that Sri Lankans from all ethnic and religious communities may benefit from the end of the country's 26-year civil war.</title>
+  </titles>
+  <sponsor thomas_id="01580"/>
+  <cosponsors>
+    <cosponsor thomas_id="01564" joined="2014-07-29"/>
+    <cosponsor thomas_id="02055" joined="2014-06-09"/>
+    <cosponsor thomas_id="01959" joined="2014-07-29"/>
+    <cosponsor thomas_id="01477" joined="2014-06-19"/>
+    <cosponsor thomas_id="02133" joined="2014-06-24"/>
+    <cosponsor thomas_id="01976" joined="2014-06-09"/>
+    <cosponsor thomas_id="00344" joined="2014-05-28"/>
+    <cosponsor thomas_id="02122" joined="2014-05-28"/>
+    <cosponsor thomas_id="01914" joined="2014-06-09"/>
+    <cosponsor thomas_id="02041" joined="2014-07-25"/>
+    <cosponsor thomas_id="01794" joined="2014-06-19"/>
+    <cosponsor thomas_id="01634" joined="2014-07-24"/>
+    <cosponsor thomas_id="02046" joined="2014-05-19"/>
+    <cosponsor thomas_id="02025" joined="2014-07-22"/>
+    <cosponsor thomas_id="02172" joined="2014-07-22"/>
+    <cosponsor thomas_id="01936" joined="2014-05-20"/>
+    <cosponsor thomas_id="02111" joined="2014-06-20"/>
+    <cosponsor thomas_id="01504" joined="2014-05-28"/>
+    <cosponsor thomas_id="00808" joined="2014-06-18"/>
+    <cosponsor thomas_id="01811" joined="2014-07-24"/>
+    <cosponsor thomas_id="00850" joined="2014-07-29"/>
+    <cosponsor thomas_id="01756" joined="2014-07-24"/>
+    <cosponsor thomas_id="01588" joined="2014-07-08"/>
+    <cosponsor thomas_id="01526" joined="2014-06-09"/>
+    <cosponsor thomas_id="01818" joined="2014-06-12"/>
+    <cosponsor thomas_id="02047" joined="2014-05-22"/>
+    <cosponsor thomas_id="01664" joined="2014-07-24"/>
+    <cosponsor thomas_id="01535" joined="2014-05-19"/>
+    <cosponsor thomas_id="02112" joined="2014-07-30"/>
+    <cosponsor thomas_id="01209" joined="2014-06-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-19" state="REFERRED">
+      <text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-05-19">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2014-05-19">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2014-06-10">
+      <text>Referred to the Subcommittee on Asia and the Pacific.</text>
+    </action>
+    <action datetime="2014-07-21">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee subcommittee="Asia and the Pacific" code="HSFA05" name="House Foreign Affairs" activity="Referral"/>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Immigration and Border Security" code="HSJU01" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Arms control and nonproliferation"/>
+    <term name="Asia"/>
+    <term name="Conflicts and wars"/>
+    <term name="Congressional tributes"/>
+    <term name="Government studies and investigations"/>
+    <term name="Human rights"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Members of Congress"/>
+    <term name="News media and reporting"/>
+    <term name="Reconstruction and stabilization"/>
+    <term name="Religion"/>
+    <term name="Sanctions"/>
+    <term name="Sri Lanka"/>
+    <term name="Terrorism"/>
+    <term name="United Nations"/>
+    <term name="Visas and passports"/>
+    <term name="War crimes, genocide, crimes against humanity"/>
+  </subjects>
+  <amendments/>
+  <summary>5/19/2014--Introduced.
+Calls on the government of Sri Lanka to implement the recommendations of the Lessons Learnt and Reconciliation Commission (LLRC).
+
+Recognizes that the LLRC report has not adequately addressed accountability for possible war crimes and crimes against humanity that may have been committed by the government of Sri Lanka and the terrorist Liberation Tigers of Tamil Eelam (LTTE).
+
+Commends the U.S. representatives on their leadership on United Nations Human Rights Council Resolution (UNHRC) A/HRC/25/L.1.Rev.1 establishing an Office of the High Commissioner for Human Rights investigation into allegations of war crimes, crimes against humanity, and other human rights violations committed in Sri Lanka.
+
+Recommends that the Department of State restrict U.S. entry for anyone responsible for war crimes and crimes against humanity.
+
+Calls for the government of Sri Lanka to: (1) allow greater media and religious freedoms, and (2) prioritize the process of demilitarization.
+
+Urges the government of Sri Lanka to allow humanitarian organizations and human rights groups greater access to war-affected individuals.
+
+Calls on members of the Tamil National Alliance to acknowledge past relationships with the LTTE and make a commitment to reconciliation and a long-term political solution.
+
+Acknowledges the importance for all parties to reach a lasting political settlement on the devolution of power consistent with LLRC recommendations and acceptable to all sides.</summary>
+</bill>

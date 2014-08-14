@@ -1,0 +1,70 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-30", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5298-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-07-30", 
+  "number": "5298", 
+  "official_title": "To amend the Internal Revenue Code of 1986 to exempt student workers for purposes of determining a higher education institution's employer health care shared responsibility.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Student Job Protection Act of 2014", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Turner, Michael R.", 
+    "state": "OH", 
+    "thomas_id": "01741", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-07-30", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Student Job Protection Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Internal Revenue Code of 1986 to exempt student workers for purposes of determining a higher education institution's employer health care shared responsibility.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T13:36:42-04:00"
+}

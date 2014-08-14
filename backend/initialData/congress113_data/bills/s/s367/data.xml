@@ -1,0 +1,67 @@
+<bill session="113" type="s" number="367" updated="2014-08-14T13:47:52-04:00">
+  <state datetime="2013-02-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-14"/>
+  </status>
+  <introduced datetime="2013-02-14"/>
+  <titles>
+    <title type="short" as="introduced">Medicare Access to Rehabilitation Services Act of 2013</title>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to repeal the Medicare outpatient rehabilitation therapy caps.</title>
+  </titles>
+  <sponsor thomas_id="00174"/>
+  <cosponsors>
+    <cosponsor thomas_id="02075" joined="2014-01-08"/>
+    <cosponsor thomas_id="01965" joined="2013-08-01"/>
+    <cosponsor thomas_id="01464" joined="2013-02-26"/>
+    <cosponsor thomas_id="00136" joined="2013-07-25"/>
+    <cosponsor thomas_id="00172" joined="2013-03-13"/>
+    <cosponsor thomas_id="01828" joined="2013-04-17"/>
+    <cosponsor thomas_id="01541" joined="2013-02-14"/>
+    <cosponsor thomas_id="01984" joined="2013-11-12"/>
+    <cosponsor thomas_id="00326" joined="2013-03-05"/>
+    <cosponsor thomas_id="01969" joined="2013-03-12"/>
+    <cosponsor thomas_id="01866" joined="2014-04-10"/>
+    <cosponsor thomas_id="00452" joined="2013-05-13"/>
+    <cosponsor thomas_id="01902" joined="2013-09-09"/>
+    <cosponsor thomas_id="00501" joined="2013-03-04"/>
+    <cosponsor thomas_id="01937" joined="2013-04-25"/>
+    <cosponsor thomas_id="01863" joined="2013-11-07"/>
+    <cosponsor thomas_id="00604" joined="2013-03-13"/>
+    <cosponsor thomas_id="02185" joined="2013-06-18"/>
+    <cosponsor thomas_id="01647" joined="2013-12-16"/>
+    <cosponsor thomas_id="01826" joined="2013-06-24"/>
+    <cosponsor thomas_id="01546" joined="2013-05-08"/>
+    <cosponsor thomas_id="01383" joined="2013-04-15"/>
+    <cosponsor thomas_id="00802" joined="2013-09-24"/>
+    <cosponsor thomas_id="01507" joined="2013-04-11"/>
+    <cosponsor thomas_id="01837" joined="2013-06-12"/>
+    <cosponsor thomas_id="00949" joined="2013-02-26"/>
+    <cosponsor thomas_id="01036" joined="2013-04-18"/>
+    <cosponsor thomas_id="01901" joined="2013-12-10"/>
+    <cosponsor thomas_id="01531" joined="2013-09-18"/>
+    <cosponsor thomas_id="01829" joined="2013-12-10"/>
+    <cosponsor thomas_id="02182" joined="2013-05-15"/>
+    <cosponsor thomas_id="01823" joined="2013-04-09"/>
+    <cosponsor thomas_id="01226" joined="2013-05-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-14" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="713"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Home and outpatient care"/>
+    <term name="Long-term, rehabilitative, and terminal care"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>2/14/2013--Introduced.
+Medicare Access to Rehabilitation Services Act of 2013 - Amends title XVIII (Medicare) of the Social Security Act to repeal the caps on Medicare outpatient rehabilitation physical therapy services and speech-language pathology services.</summary>
+</bill>

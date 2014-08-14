@@ -1,0 +1,66 @@
+<bill session="113" type="s" number="1006" updated="2014-08-14T13:53:24-04:00">
+  <state datetime="2013-05-22">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-22"/>
+  </status>
+  <introduced datetime="2013-05-22"/>
+  <titles>
+    <title type="short" as="introduced">Preserve the Waters of the United States Act</title>
+    <title type="official" as="introduced">A bill to preserve existing rights and responsibilities with respect to waters of the United States.</title>
+  </titles>
+  <sponsor thomas_id="01881"/>
+  <cosponsors>
+    <cosponsor thomas_id="01464" joined="2013-05-22"/>
+    <cosponsor thomas_id="00153" joined="2013-05-22"/>
+    <cosponsor thomas_id="00188" joined="2013-05-22"/>
+    <cosponsor thomas_id="00209" joined="2013-05-22"/>
+    <cosponsor thomas_id="00212" joined="2013-05-22"/>
+    <cosponsor thomas_id="00213" joined="2013-05-23"/>
+    <cosponsor thomas_id="01692" joined="2013-05-22"/>
+    <cosponsor thomas_id="00250" joined="2013-05-22"/>
+    <cosponsor thomas_id="01542" joined="2013-05-22"/>
+    <cosponsor thomas_id="02179" joined="2013-05-22"/>
+    <cosponsor thomas_id="01633" joined="2013-05-22"/>
+    <cosponsor thomas_id="00457" joined="2013-05-22"/>
+    <cosponsor thomas_id="01351" joined="2013-05-22"/>
+    <cosponsor thomas_id="01863" joined="2013-05-22"/>
+    <cosponsor thomas_id="00583" joined="2013-05-22"/>
+    <cosponsor thomas_id="01608" joined="2013-05-22"/>
+    <cosponsor thomas_id="02086" joined="2013-05-22"/>
+    <cosponsor thomas_id="02080" joined="2013-05-22"/>
+    <cosponsor thomas_id="00754" joined="2013-05-22"/>
+    <cosponsor thomas_id="01694" joined="2013-05-22"/>
+    <cosponsor thomas_id="01896" joined="2013-05-22"/>
+    <cosponsor thomas_id="00968" joined="2013-05-22"/>
+    <cosponsor thomas_id="02084" joined="2013-05-22"/>
+    <cosponsor thomas_id="02056" joined="2013-05-22"/>
+    <cosponsor thomas_id="01548" joined="2013-05-22"/>
+    <cosponsor thomas_id="01609" joined="2013-05-22"/>
+    <cosponsor thomas_id="01226" joined="2013-05-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="1829"/>
+    <bill type="h" session="113" relation="unknown" number="5077"/>
+    <bill type="s" session="113" relation="unknown" number="861"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Army Corps of Engineers"/>
+    <term name="Department of Defense"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Water quality"/>
+  </subjects>
+  <amendments/>
+  <summary>5/22/2013--Introduced.
+Preserve the Waters of the United States Act - Prohibits the Secretary of the Army and the Administrator of the Environmental Protection Agency (EPA) from: (1) finalizing the proposed guidance described in the notice of availability and request for comments entitled "EPA and Army Corps of Engineers Guidance Regarding Identification of Waters Protected by the Clean Water Act"; or (2) using such guidance, or any substantially similar guidance, as the basis for any decision regarding the scope of the Federal Water Pollution Control Act (commonly known as the Clean Water Act) or any rulemaking. Provides that the use of such guidance as the basis for any rule shall be grounds for vacation of such rule.</summary>
+</bill>

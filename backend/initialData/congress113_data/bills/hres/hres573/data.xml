@@ -1,0 +1,223 @@
+<bill session="113" type="hr" number="573" updated="2014-08-14T12:49:29-04:00">
+  <state datetime="2014-05-20T19:22:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2014-05-20T19:22:00-04:00"/>
+  </status>
+  <introduced datetime="2014-05-06"/>
+  <titles>
+    <title type="official" as="introduced">Condemning the abduction of female students by armed militants from the terrorist group known as Boko Haram in northeastern provinces of the Federal Republic of Nigeria.</title>
+  </titles>
+  <sponsor thomas_id="02004"/>
+  <cosponsors>
+    <cosponsor thomas_id="01460" joined="2014-05-19"/>
+    <cosponsor thomas_id="01996" joined="2014-05-06"/>
+    <cosponsor thomas_id="02153" joined="2014-05-07"/>
+    <cosponsor thomas_id="02102" joined="2014-05-06"/>
+    <cosponsor thomas_id="00091" joined="2014-05-07"/>
+    <cosponsor thomas_id="02063" joined="2014-05-13"/>
+    <cosponsor thomas_id="00099" joined="2014-05-13"/>
+    <cosponsor thomas_id="00132" joined="2014-05-07"/>
+    <cosponsor thomas_id="01761" joined="2014-05-08"/>
+    <cosponsor thomas_id="01564" joined="2014-05-19"/>
+    <cosponsor thomas_id="01889" joined="2014-05-08"/>
+    <cosponsor thomas_id="01839" joined="2014-05-08"/>
+    <cosponsor thomas_id="01474" joined="2014-05-07"/>
+    <cosponsor thomas_id="01970" joined="2014-05-09"/>
+    <cosponsor thomas_id="02055" joined="2014-05-06"/>
+    <cosponsor thomas_id="02196" joined="2014-05-09"/>
+    <cosponsor thomas_id="01864" joined="2014-05-07"/>
+    <cosponsor thomas_id="01654" joined="2014-05-07"/>
+    <cosponsor thomas_id="01790" joined="2014-05-07"/>
+    <cosponsor thomas_id="00208" joined="2014-05-07"/>
+    <cosponsor thomas_id="01878" joined="2014-05-07"/>
+    <cosponsor thomas_id="02121" joined="2014-05-08"/>
+    <cosponsor thomas_id="01959" joined="2014-05-08"/>
+    <cosponsor thomas_id="00229" joined="2014-05-08"/>
+    <cosponsor thomas_id="02103" joined="2014-05-08"/>
+    <cosponsor thomas_id="01774" joined="2014-05-13"/>
+    <cosponsor thomas_id="00256" joined="2014-05-07"/>
+    <cosponsor thomas_id="01477" joined="2014-05-08"/>
+    <cosponsor thomas_id="02133" joined="2014-05-19"/>
+    <cosponsor thomas_id="00281" joined="2014-05-08"/>
+    <cosponsor thomas_id="01976" joined="2014-05-07"/>
+    <cosponsor thomas_id="00299" joined="2014-05-08"/>
+    <cosponsor thomas_id="02123" joined="2014-05-07"/>
+    <cosponsor thomas_id="02072" joined="2014-05-09"/>
+    <cosponsor thomas_id="01894" joined="2014-05-07"/>
+    <cosponsor thomas_id="01857" joined="2014-05-07"/>
+    <cosponsor thomas_id="02036" joined="2014-05-08"/>
+    <cosponsor thomas_id="00344" joined="2014-05-06"/>
+    <cosponsor thomas_id="02125" joined="2014-05-09"/>
+    <cosponsor thomas_id="02114" joined="2014-05-08"/>
+    <cosponsor thomas_id="00367" joined="2014-05-09"/>
+    <cosponsor thomas_id="01797" joined="2014-05-07"/>
+    <cosponsor thomas_id="02119" joined="2014-05-06"/>
+    <cosponsor thomas_id="01895" joined="2014-05-06"/>
+    <cosponsor thomas_id="02122" joined="2014-05-09"/>
+    <cosponsor thomas_id="01973" joined="2014-05-08"/>
+    <cosponsor thomas_id="02120" joined="2014-05-07"/>
+    <cosponsor thomas_id="01914" joined="2014-05-08"/>
+    <cosponsor thomas_id="01803" joined="2014-05-07"/>
+    <cosponsor thomas_id="01990" joined="2014-05-09"/>
+    <cosponsor thomas_id="02089" joined="2014-05-07"/>
+    <cosponsor thomas_id="02010" joined="2014-05-06"/>
+    <cosponsor thomas_id="00511" joined="2014-05-07"/>
+    <cosponsor thomas_id="02071" joined="2014-05-20"/>
+    <cosponsor thomas_id="01794" joined="2014-05-08"/>
+    <cosponsor thomas_id="01490" joined="2014-05-08"/>
+    <cosponsor thomas_id="01634" joined="2014-05-06"/>
+    <cosponsor thomas_id="02147" joined="2014-05-07"/>
+    <cosponsor thomas_id="00566" joined="2014-05-08"/>
+    <cosponsor thomas_id="01663" joined="2014-05-08"/>
+    <cosponsor thomas_id="00588" joined="2014-05-07"/>
+    <cosponsor thomas_id="02149" joined="2014-05-07"/>
+    <cosponsor thomas_id="02046" joined="2014-05-09"/>
+    <cosponsor thomas_id="00599" joined="2014-05-07"/>
+    <cosponsor thomas_id="01843" joined="2014-05-07"/>
+    <cosponsor thomas_id="00616" joined="2014-05-08"/>
+    <cosponsor thomas_id="02025" joined="2014-05-08"/>
+    <cosponsor thomas_id="02190" joined="2014-05-07"/>
+    <cosponsor thomas_id="02172" joined="2014-05-08"/>
+    <cosponsor thomas_id="02014" joined="2014-05-07"/>
+    <cosponsor thomas_id="02145" joined="2014-05-08"/>
+    <cosponsor thomas_id="01583" joined="2014-05-08"/>
+    <cosponsor thomas_id="01501" joined="2014-05-06"/>
+    <cosponsor thomas_id="00683" joined="2014-05-07"/>
+    <cosponsor thomas_id="00688" joined="2014-05-07"/>
+    <cosponsor thomas_id="02111" joined="2014-05-06"/>
+    <cosponsor thomas_id="02146" joined="2014-05-08"/>
+    <cosponsor thomas_id="01960" joined="2014-05-08"/>
+    <cosponsor thomas_id="01686" joined="2014-05-13"/>
+    <cosponsor thomas_id="00729" joined="2014-05-08"/>
+    <cosponsor thomas_id="01814" joined="2014-05-08"/>
+    <cosponsor thomas_id="01804" joined="2014-05-08"/>
+    <cosponsor thomas_id="01653" joined="2014-05-08"/>
+    <cosponsor thomas_id="00766" joined="2014-05-08"/>
+    <cosponsor thomas_id="01504" joined="2014-05-08"/>
+    <cosponsor thomas_id="01506" joined="2014-05-06"/>
+    <cosponsor thomas_id="02148" joined="2014-05-08"/>
+    <cosponsor thomas_id="01811" joined="2014-05-07"/>
+    <cosponsor thomas_id="02060" joined="2014-05-07"/>
+    <cosponsor thomas_id="00868" joined="2014-05-07"/>
+    <cosponsor thomas_id="02034" joined="2014-05-13"/>
+    <cosponsor thomas_id="01930" joined="2014-05-08"/>
+    <cosponsor thomas_id="02097" joined="2014-05-07"/>
+    <cosponsor thomas_id="01929" joined="2014-05-08"/>
+    <cosponsor thomas_id="02113" joined="2014-05-09"/>
+    <cosponsor thomas_id="01927" joined="2014-05-19"/>
+    <cosponsor thomas_id="01802" joined="2014-05-09"/>
+    <cosponsor thomas_id="00930" joined="2014-05-08"/>
+    <cosponsor thomas_id="00944" joined="2014-05-07"/>
+    <cosponsor thomas_id="02023" joined="2014-05-07"/>
+    <cosponsor thomas_id="00985" joined="2014-05-06"/>
+    <cosponsor thomas_id="02003" joined="2014-05-13"/>
+    <cosponsor thomas_id="00998" joined="2014-05-06"/>
+    <cosponsor thomas_id="01003" joined="2014-05-08"/>
+    <cosponsor thomas_id="01560" joined="2014-05-13"/>
+    <cosponsor thomas_id="01854" joined="2014-05-08"/>
+    <cosponsor thomas_id="01635" joined="2014-05-08"/>
+    <cosponsor thomas_id="02124" joined="2014-05-09"/>
+    <cosponsor thomas_id="01722" joined="2014-05-07"/>
+    <cosponsor thomas_id="01037" joined="2014-05-07"/>
+    <cosponsor thomas_id="01042" joined="2014-05-07"/>
+    <cosponsor thomas_id="01988" joined="2014-05-06"/>
+    <cosponsor thomas_id="01526" joined="2014-05-08"/>
+    <cosponsor thomas_id="02099" joined="2014-05-09"/>
+    <cosponsor thomas_id="01818" joined="2014-05-06"/>
+    <cosponsor thomas_id="01528" joined="2014-05-19"/>
+    <cosponsor thomas_id="01071" joined="2014-05-06"/>
+    <cosponsor thomas_id="01890" joined="2014-05-07"/>
+    <cosponsor thomas_id="01114" joined="2014-05-08"/>
+    <cosponsor thomas_id="01151" joined="2014-05-07"/>
+    <cosponsor thomas_id="01593" joined="2014-05-19"/>
+    <cosponsor thomas_id="01535" joined="2014-05-07"/>
+    <cosponsor thomas_id="01940" joined="2014-05-08"/>
+    <cosponsor thomas_id="01884" joined="2014-05-08"/>
+    <cosponsor thomas_id="01729" joined="2014-05-07"/>
+    <cosponsor thomas_id="02112" joined="2014-05-07"/>
+    <cosponsor thomas_id="02166" joined="2014-05-08"/>
+    <cosponsor thomas_id="02128" joined="2014-05-13"/>
+    <cosponsor thomas_id="01777" joined="2014-05-08"/>
+    <cosponsor thomas_id="01205" joined="2014-05-07"/>
+    <cosponsor thomas_id="01209" joined="2014-05-08"/>
+    <cosponsor thomas_id="02161" joined="2014-05-07"/>
+    <cosponsor thomas_id="01879" joined="2014-05-09"/>
+    <cosponsor thomas_id="01238" joined="2014-05-13"/>
+    <cosponsor thomas_id="02115" joined="2014-05-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-06" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2014-05-07">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H3457-3458"/>
+    </action>
+    <action datetime="2014-05-09">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-05-09" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+    </calendar>
+    <action datetime="2014-05-20T18:38:00-04:00">
+      <text>Mr. Royce moved to suspend the rules and agree to the resolution, as amended.</text>
+    </action>
+    <action datetime="2014-05-20T18:38:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4535-4541" label="consideration"/>
+    </action>
+    <action datetime="2014-05-20T18:38:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H. Res. 573.</text>
+    </action>
+    <action datetime="2014-05-20T19:15:00-04:00">
+      <text>DEBATE - The House continued with debate on H. Res. 573.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-05-20T19:22:00-04:00" where="h" result="pass" state="PASSED:SIMPLERES">
+      <text>On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H4535-4536" label="text"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="113" relation="unknown" number="617"/>
+    <bill type="sr" session="113" relation="unknown" number="433"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Africa"/>
+    <term name="Child safety and welfare"/>
+    <term name="Congressional tributes"/>
+    <term name="Crimes against children"/>
+    <term name="Crimes against women"/>
+    <term name="Educational facilities and institutions"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Human rights"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Military assistance, sales, and agreements"/>
+    <term name="Military operations and strategy"/>
+    <term name="Nigeria"/>
+    <term name="Sex, gender, sexual orientation discrimination"/>
+    <term name="Terrorism"/>
+    <term name="Women's rights"/>
+  </subjects>
+  <amendments/>
+  <summary>5/20/2014--Passed House amended.
+Supports the people of Nigeria, especially the parents and families of the girls abducted by Boko Haram in Borno state, and calls for their immediate and safe return.
+
+Condemns Boko Haram for its attacks on civilian targets, including schools, mosques, churches, villages, and agricultural centers.
+
+ Encourages the government of Nigeria to strengthen efforts to protect children seeking an education and to hold those who conduct such attacks accountable.
+
+ Commends U.S. efforts to hold terrorist organizations such as Boko Haram accountable, and supports U.S. offers to assist in the search for the abducted girls.
+
+Recognizes that every individual, regardless of gender, should have the opportunity to pursue an education without fear of discrimination.
+
+ Encourages the Department of State and the U.S. Agency for International Development (USDA) to continue supporting initiatives that promote the human rights of women and girls in Nigeria.
+
+Urges the President to strengthen U.S. security, law enforcement, and intelligence cooperation with Nigeria.
+
+Calls on the President to provide Congress with a comprehensive strategy to counter the growing threat posed by radical Islamist terrorist groups in West Africa, the Sahel, and North Africa.</summary>
+</bill>

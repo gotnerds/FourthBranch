@@ -1,0 +1,42 @@
+<bill session="113" type="s" number="2581" updated="2014-08-14T14:06:48-04:00">
+  <state datetime="2014-07-10">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-10"/>
+  </status>
+  <introduced datetime="2014-07-10"/>
+  <titles>
+    <title type="short" as="introduced">Child Nicotine Poisoning Prevention Act of 2014</title>
+    <title type="official" as="introduced">A bill to require the Consumer Product Safety Commission to promulgate a rule to require child safety packaging for liquid nicotine containers, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00859"/>
+  <cosponsors>
+    <cosponsor thomas_id="01965" joined="2014-07-10"/>
+    <cosponsor thomas_id="02076" joined="2014-07-10"/>
+    <cosponsor thomas_id="00116" joined="2014-07-10"/>
+    <cosponsor thomas_id="00136" joined="2014-07-10"/>
+    <cosponsor thomas_id="00326" joined="2014-07-10"/>
+    <cosponsor thomas_id="00501" joined="2014-07-10"/>
+    <cosponsor thomas_id="01826" joined="2014-07-22"/>
+    <cosponsor thomas_id="00735" joined="2014-07-10"/>
+    <cosponsor thomas_id="01900" joined="2014-07-10"/>
+    <cosponsor thomas_id="01701" joined="2014-07-10"/>
+    <cosponsor thomas_id="01424" joined="2014-07-28"/>
+    <cosponsor thomas_id="01036" joined="2014-07-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-10">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S4406"/>
+    </action>
+    <action datetime="2014-07-10" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+      <reference ref="CR S4406" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

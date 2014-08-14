@@ -1,0 +1,36 @@
+<bill session="113" type="h" number="5171" updated="2014-08-14T13:35:36-04:00">
+  <state datetime="2014-07-23T17:34:00-04:00">REPORTED</state>
+  <status>
+    <unknown datetime="2014-07-23T17:34:00-04:00"/>
+  </status>
+  <introduced datetime="2014-07-23"/>
+  <titles>
+    <title type="short" as="introduced">Department of the Interior, Environment, and Related Agencies Appropriations Act, 2015</title>
+    <title type="short" as="reported to house">Department of the Interior, Environment, and Related Agencies Appropriations Act, 2015</title>
+    <title type="official" as="introduced">Making appropriations for the Department of the Interior, environment, and related agencies for the fiscal year ending September 30, 2015, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00165"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-23T17:34:00-04:00">
+      <text>The House Committee on Appropriations reported an original measure, H. Rept. 113-551, by Mr. Calvert.</text>
+    </action>
+    <calendar datetime="2014-07-23T17:34:00-04:00" state="REPORTED" calendar="Union" number="412">
+      <text>Placed on the Union Calendar, Calendar No. 412.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAP" name="House Appropriations" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>7/23/2014--Introduced.
+Department of the Interior, Environment, and Related Agencies Appropriations Act, 2015 - Makes appropriations for FY2015 for the Department of the Interior for: (1) the Bureau of Land Management (BLM), (2) the U.S. Fish and Wildlife Service, (3) the National Park Service, (4) the U.S. Geological Survey, (5) the Bureau of Ocean Energy Management, (6) the Bureau of Safety and Environmental Enforcement, (7) the Office of Surface Mining Reclamation and Enforcement, (8) the Bureau of Indian Affairs and Bureau of Indian Education, (9) the Office of the Secretary, (10) departmental offices for insular affairs, (11) the Office of the Solicitor, (12) the Office of Inspector General, (13) the Office of the Special Trustee for American Indians, (14) wildland fire management, (15) the Central Hazardous Materials Fund, and (16) natural resource damage assessment and restoration.
+
+Makes appropriations for FY2015 for the Environmental Protection Agency (EPA), the Department of Agriculture (USDA) for the Forest Service, and the Department of Health and Human Services (HHS) for the Indian Health Service.
+
+Makes appropriations for FY2015 for specified related agencies, including: (1) the National Institutes of Health (NIH), (2) the Agency for Toxic Substances and Disease Registry, (3) the Executive Office of the President, (4) the Chemical Safety and Hazard Investigation Board, (5) the Office of Navajo and Hopi Indian Relocation, (6) the Institute of American Indian and Alaska Native Culture and Arts Development, (7) the Smithsonian Institution, (8) the National Gallery of Art, (9) the John F. Kennedy Center for the Performing Arts, (10) the Woodrow Wilson International Center for Scholars, (11) the National Foundation on the Arts and the Humanities, (12) the Commission of Fine Arts, (13) the Advisory Council on Historic Preservation, (14) the National Capital Planning Commission, and (15) the U.S. Holocaust Memorial Museum.
+
+Specifies authorized, restricted, and prohibited uses of appropriated funds.</summary>
+</bill>

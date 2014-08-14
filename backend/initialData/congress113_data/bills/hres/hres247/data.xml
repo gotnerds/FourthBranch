@@ -1,0 +1,73 @@
+<bill session="113" type="hr" number="247" updated="2014-08-14T12:46:44-04:00">
+  <state datetime="2013-06-04">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-04"/>
+  </status>
+  <introduced datetime="2013-06-04"/>
+  <titles>
+    <title type="official" as="introduced">Expressing support for internal rebuilding, resettlement, and reconciliation within Sri Lanka that are necessary to ensure a lasting peace.</title>
+  </titles>
+  <sponsor thomas_id="02041"/>
+  <cosponsors>
+    <cosponsor thomas_id="02055" joined="2013-12-09"/>
+    <cosponsor thomas_id="01477" joined="2013-06-04"/>
+    <cosponsor thomas_id="01976" joined="2013-12-11"/>
+    <cosponsor thomas_id="00344" joined="2013-10-04"/>
+    <cosponsor thomas_id="02122" joined="2013-11-21"/>
+    <cosponsor thomas_id="02170" joined="2013-11-14"/>
+    <cosponsor thomas_id="01794" joined="2014-03-25"/>
+    <cosponsor thomas_id="01580" joined="2013-06-04"/>
+    <cosponsor thomas_id="01634" joined="2014-01-10"/>
+    <cosponsor thomas_id="02046" joined="2013-06-04"/>
+    <cosponsor thomas_id="02025" joined="2013-10-09"/>
+    <cosponsor thomas_id="02172" joined="2014-01-10"/>
+    <cosponsor thomas_id="01936" joined="2013-06-04"/>
+    <cosponsor thomas_id="01504" joined="2013-06-04"/>
+    <cosponsor thomas_id="01811" joined="2013-07-23"/>
+    <cosponsor thomas_id="00930" joined="2013-11-14"/>
+    <cosponsor thomas_id="01756" joined="2013-10-23"/>
+    <cosponsor thomas_id="01588" joined="2013-11-12"/>
+    <cosponsor thomas_id="01526" joined="2013-09-25"/>
+    <cosponsor thomas_id="02047" joined="2013-06-28"/>
+    <cosponsor thomas_id="01535" joined="2013-06-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-04" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2013-07-09">
+      <text>Referred to the Subcommittee on Asia and the Pacific.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee subcommittee="Asia and the Pacific" code="HSFA05" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Asia"/>
+    <term name="Conflicts and wars"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Human rights"/>
+    <term name="International organizations and cooperation"/>
+    <term name="News media and reporting"/>
+    <term name="Reconstruction and stabilization"/>
+    <term name="Sovereignty, recognition, national governance and status"/>
+    <term name="Sri Lanka"/>
+    <term name="War crimes, genocide, crimes against humanity"/>
+  </subjects>
+  <amendments/>
+  <summary>6/4/2013--Introduced.
+Calls on the government of Sri Lanka to build on its establishment of the Lessons Learnt and Reconciliation Commission (LLRC).
+
+Recognizes that the LLRC report did not adequately address issues of accountability for both the government of Sri Lanka and the Liberation Tigers of Tamil Eelam (LTTE).
+
+Calls for the establishment of an independent international mechanism to look into allegations of war crimes and other human rights violations committed by all sides during and after the war in Sri Lanka.
+
+Encourages Sri Lanka to allow for greater media freedoms.
+
+Urges Sri Lanka to allow humanitarian organizations and international human rights groups greater access to the war-affected.
+
+Acknowledges the end of the war and the importance of reaching a power-sharing political settlement.</summary>
+</bill>

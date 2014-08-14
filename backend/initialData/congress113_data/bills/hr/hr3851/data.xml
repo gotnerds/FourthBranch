@@ -1,0 +1,52 @@
+<bill session="113" type="h" number="3851" updated="2014-08-14T13:24:18-04:00">
+  <state datetime="2014-01-10">REFERRED</state>
+  <status>
+    <introduced datetime="2014-01-10"/>
+  </status>
+  <introduced datetime="2014-01-10"/>
+  <titles>
+    <title type="short" as="introduced">No Bailouts for Insurance Industry Act of 2014</title>
+    <title type="official" as="introduced">To repeal sections 1341 and 1342 of the Patient Protection and Affordable Care Act, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01936"/>
+  <cosponsors>
+    <cosponsor thomas_id="02098" joined="2014-06-25"/>
+    <cosponsor thomas_id="01670" joined="2014-01-27"/>
+    <cosponsor thomas_id="02036" joined="2014-01-13"/>
+    <cosponsor thomas_id="00612" joined="2014-01-13"/>
+    <cosponsor thomas_id="02011" joined="2014-06-30"/>
+    <cosponsor thomas_id="01041" joined="2014-02-11"/>
+    <cosponsor thomas_id="01664" joined="2014-01-13"/>
+    <cosponsor thomas_id="01779" joined="2014-01-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-01-10" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2014-01-17">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="3812"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Comprehensive health care"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Insurance industry and regulation"/>
+  </subjects>
+  <amendments/>
+  <summary>1/10/2014--Introduced.
+No Bailouts for Insurance Industry Act of 2014 - Repeals requirements under the Patient Protection and Affordable Care Act for: (1) a transitional reinsurance program for the individual health insurance market in each state, and (2) a program of risk corridors for calendar years 2014-2016 under which a qualified health plan offered in the individual or small group market shall participate in a payment adjustment system based on the ratio of the allowable costs of the plan to the plan's aggregate premiums.
+
+Applies the repeal of the transitional reinsurance program to plan years beginning after enactment of this Act and provides rules for applying the provision before such date.
+
+Applies the repeal of the risk corridors program to calendar years beginning after enactment of this Act.</summary>
+</bill>

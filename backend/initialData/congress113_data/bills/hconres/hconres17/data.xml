@@ -1,0 +1,57 @@
+<bill session="113" type="hc" number="17" updated="2014-08-14T13:38:44-04:00">
+  <state datetime="2013-02-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-15"/>
+  </status>
+  <introduced datetime="2013-02-15"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of Congress that a day should be designated as "National Voting Rights Act Mobilization Day".</title>
+  </titles>
+  <sponsor thomas_id="01895"/>
+  <cosponsors>
+    <cosponsor thomas_id="02153" joined="2013-02-25"/>
+    <cosponsor thomas_id="00132" joined="2013-02-25"/>
+    <cosponsor thomas_id="01761" joined="2013-02-25"/>
+    <cosponsor thomas_id="01970" joined="2013-02-15"/>
+    <cosponsor thomas_id="00256" joined="2013-02-25"/>
+    <cosponsor thomas_id="01477" joined="2013-02-25"/>
+    <cosponsor thomas_id="01857" joined="2013-03-06"/>
+    <cosponsor thomas_id="00371" joined="2013-02-25"/>
+    <cosponsor thomas_id="01708" joined="2013-02-15"/>
+    <cosponsor thomas_id="00511" joined="2013-02-25"/>
+    <cosponsor thomas_id="01490" joined="2013-02-25"/>
+    <cosponsor thomas_id="00616" joined="2013-07-18"/>
+    <cosponsor thomas_id="01501" joined="2013-02-25"/>
+    <cosponsor thomas_id="00688" joined="2013-02-25"/>
+    <cosponsor thomas_id="01504" joined="2013-02-25"/>
+    <cosponsor thomas_id="01811" joined="2013-02-25"/>
+    <cosponsor thomas_id="00868" joined="2013-02-25"/>
+    <cosponsor thomas_id="02097" joined="2013-02-25"/>
+    <cosponsor thomas_id="00944" joined="2013-04-10"/>
+    <cosponsor thomas_id="02023" joined="2013-02-26"/>
+    <cosponsor thomas_id="01003" joined="2013-02-25"/>
+    <cosponsor thomas_id="01037" joined="2013-02-25"/>
+    <cosponsor thomas_id="01042" joined="2013-02-26"/>
+    <cosponsor thomas_id="01988" joined="2013-02-25"/>
+    <cosponsor thomas_id="02166" joined="2013-02-25"/>
+    <cosponsor thomas_id="01207" joined="2013-02-25"/>
+    <cosponsor thomas_id="02004" joined="2013-02-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-15" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Voting rights"/>
+  </subjects>
+  <amendments/>
+  <summary>2/15/2013--Introduced.
+Expresses the sense of Congress that a National Voting Rights Act Mobilization Day should be designated to remind all Americans of the critical role that the Voting Rights Act of 1965 continues to play in protecting the right to vote, and to be an occasion for them to voice their support for this landmark civil rights law.</summary>
+</bill>

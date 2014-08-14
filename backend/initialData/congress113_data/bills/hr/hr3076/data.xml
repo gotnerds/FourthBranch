@@ -1,0 +1,95 @@
+<bill session="113" type="h" number="3076" updated="2014-08-14T13:17:41-04:00">
+  <state datetime="2013-09-10">REFERRED</state>
+  <status>
+    <introduced datetime="2013-09-10"/>
+  </status>
+  <introduced datetime="2013-09-10"/>
+  <titles>
+    <title type="short" as="introduced">James Madison Congressional Accountability Act</title>
+    <title type="official" as="introduced">To amend the Patient Protection and Affordable Care Act with respect to health insurance coverage for certain congressional staff and political appointees in the executive branch, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02116"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2013-09-17"/>
+    <cosponsor thomas_id="02131" joined="2013-09-19"/>
+    <cosponsor thomas_id="01787" joined="2013-09-18"/>
+    <cosponsor thomas_id="01751" joined="2013-09-26"/>
+    <cosponsor thomas_id="01925" joined="2013-09-17"/>
+    <cosponsor thomas_id="00186" joined="2013-09-25"/>
+    <cosponsor thomas_id="02151" joined="2013-09-25"/>
+    <cosponsor thomas_id="02098" joined="2013-09-10"/>
+    <cosponsor thomas_id="02138" joined="2013-09-20"/>
+    <cosponsor thomas_id="02057" joined="2013-09-10"/>
+    <cosponsor thomas_id="02065" joined="2013-09-12"/>
+    <cosponsor thomas_id="02043" joined="2013-09-30"/>
+    <cosponsor thomas_id="01720" joined="2013-09-10"/>
+    <cosponsor thomas_id="01801" joined="2013-09-25"/>
+    <cosponsor thomas_id="02026" joined="2013-10-01"/>
+    <cosponsor thomas_id="01868" joined="2013-09-10"/>
+    <cosponsor thomas_id="00636" joined="2013-09-12"/>
+    <cosponsor thomas_id="01885" joined="2013-09-10"/>
+    <cosponsor thomas_id="01806" joined="2013-09-26"/>
+    <cosponsor thomas_id="02094" joined="2013-09-10"/>
+    <cosponsor thomas_id="02142" joined="2013-09-10"/>
+    <cosponsor thomas_id="02059" joined="2013-09-10"/>
+    <cosponsor thomas_id="02073" joined="2013-09-28"/>
+    <cosponsor thomas_id="02017" joined="2013-09-18"/>
+    <cosponsor thomas_id="02003" joined="2013-09-10"/>
+    <cosponsor thomas_id="02158" joined="2013-09-10"/>
+    <cosponsor thomas_id="01009" joined="2013-09-10"/>
+    <cosponsor thomas_id="01012" joined="2013-09-10"/>
+    <cosponsor thomas_id="01681" joined="2013-09-17"/>
+    <cosponsor thomas_id="01590" joined="2013-09-17"/>
+    <cosponsor thomas_id="02191" joined="2013-09-10"/>
+    <cosponsor thomas_id="02128" joined="2013-09-25"/>
+    <cosponsor thomas_id="02152" joined="2013-09-19"/>
+    <cosponsor thomas_id="01779" joined="2013-09-10"/>
+    <cosponsor thomas_id="02115" joined="2013-09-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-10" state="REFERRED">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on House Administration, Ways and Means, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-09-10">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2013-09-10">
+      <text>Referred to House House Administration</text>
+    </action>
+    <action datetime="2013-09-10">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-09-10">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-09-13">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee subcommittee="" code="HSHA" name="House Administration" activity="Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="1912"/>
+    <bill type="s" session="113" relation="unknown" number="902"/>
+    <bill type="s" session="113" relation="unknown" number="1497"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional committees"/>
+    <term name="Congressional leadership"/>
+    <term name="Congressional officers and employees"/>
+    <term name="Federal officials"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Presidents and presidential powers"/>
+  </subjects>
+  <amendments/>
+  <summary>9/10/2013--Introduced.
+James Madison Congressional Accountability Act - Amends the Patient Protection and Affordable Care Act (PPACA) to extend the requirement for participation in the American Health Benefit Exchange (a state health insurance exchange created by PPACA) to the President, Vice-President, executive branch political appointees, and employees of congressional committees and leadership offices of Congress (currently, this requirement applies to Members of Congress and their staff). Prohibits any government contribution to or subsidy for the health insurance coverage of such officials and employees.</summary>
+</bill>

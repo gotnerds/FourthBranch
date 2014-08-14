@@ -1,0 +1,27 @@
+<bill session="113" type="h" number="5153" updated="2014-08-14T13:35:27-04:00">
+  <state datetime="2014-07-17">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-17"/>
+  </status>
+  <introduced datetime="2014-07-17"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Act of September 16, 1922, to clarify the responsibility of Federal agencies to remove snow and ice for areas around Federal buildings in the District of Columbia.</title>
+  </titles>
+  <sponsor thomas_id="00868"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-17">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1192"/>
+    </action>
+    <action datetime="2014-07-17" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

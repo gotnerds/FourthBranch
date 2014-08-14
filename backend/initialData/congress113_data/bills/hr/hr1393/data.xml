@@ -1,0 +1,48 @@
+<bill session="113" type="h" number="1393" updated="2014-08-14T13:02:34-04:00">
+  <state datetime="2013-03-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-21"/>
+  </status>
+  <introduced datetime="2013-03-21"/>
+  <titles>
+    <title type="official" as="introduced">To designate the facility of the United States Postal Service located at 3700 Riverside Drive in Columbus, Ohio, as the "Master Sergeant Jeffery J. Rieck and Veterans Memorial Post Office".</title>
+  </titles>
+  <sponsor thomas_id="02047"/>
+  <cosponsors>
+    <cosponsor thomas_id="02153" joined="2013-03-21"/>
+    <cosponsor thomas_id="00186" joined="2013-03-21"/>
+    <cosponsor thomas_id="01895" joined="2013-03-21"/>
+    <cosponsor thomas_id="02049" joined="2013-03-21"/>
+    <cosponsor thomas_id="02046" joined="2013-03-21"/>
+    <cosponsor thomas_id="01868" joined="2013-03-21"/>
+    <cosponsor thomas_id="02154" joined="2013-03-21"/>
+    <cosponsor thomas_id="00616" joined="2013-03-21"/>
+    <cosponsor thomas_id="01885" joined="2013-03-21"/>
+    <cosponsor thomas_id="02048" joined="2013-03-21"/>
+    <cosponsor thomas_id="01756" joined="2013-03-21"/>
+    <cosponsor thomas_id="01664" joined="2013-03-21"/>
+    <cosponsor thomas_id="01741" joined="2013-03-21"/>
+    <cosponsor thomas_id="02152" joined="2013-03-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-21" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Ohio"/>
+    <term name="Postal service"/>
+    <term name="Veterans' organizations and recognition"/>
+  </subjects>
+  <amendments/>
+  <summary>3/21/2013--Introduced.
+Designates the facility of the United States Postal Service located at 3700 Riverside Drive in Columbus, Ohio, as the "Master Sergeant Jeffery J. Rieck and Veterans Memorial Post Office."</summary>
+</bill>

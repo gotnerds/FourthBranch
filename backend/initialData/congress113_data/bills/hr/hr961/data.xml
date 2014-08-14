@@ -1,0 +1,203 @@
+<bill session="113" type="h" number="961" updated="2014-08-14T12:58:53-04:00">
+  <state datetime="2013-03-05">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-05"/>
+  </status>
+  <introduced datetime="2013-03-05"/>
+  <titles>
+    <title type="short" as="introduced">United States Postal Service Stabilization Act of 2013</title>
+    <title type="official" as="introduced">To amend title 5, United States Code, to provide for the computation of normal-cost percentage for postal employees as a separate and distinct class, and to provide for the disposition of certain excess retirement contributions made by the United States Postal Service.</title>
+  </titles>
+  <sponsor thomas_id="01686"/>
+  <cosponsors>
+    <cosponsor thomas_id="00021" joined="2013-04-11"/>
+    <cosponsor thomas_id="01996" joined="2013-04-23"/>
+    <cosponsor thomas_id="02153" joined="2013-11-13"/>
+    <cosponsor thomas_id="02102" joined="2013-08-01"/>
+    <cosponsor thomas_id="00091" joined="2013-05-22"/>
+    <cosponsor thomas_id="01740" joined="2013-04-09"/>
+    <cosponsor thomas_id="00099" joined="2013-04-09"/>
+    <cosponsor thomas_id="01469" joined="2013-04-10"/>
+    <cosponsor thomas_id="01845" joined="2013-05-03"/>
+    <cosponsor thomas_id="00132" joined="2013-03-14"/>
+    <cosponsor thomas_id="02106" joined="2013-07-30"/>
+    <cosponsor thomas_id="02127" joined="2013-06-14"/>
+    <cosponsor thomas_id="01471" joined="2013-05-20"/>
+    <cosponsor thomas_id="01564" joined="2013-04-09"/>
+    <cosponsor thomas_id="02107" joined="2013-03-15"/>
+    <cosponsor thomas_id="01999" joined="2013-11-13"/>
+    <cosponsor thomas_id="01889" joined="2013-07-30"/>
+    <cosponsor thomas_id="02159" joined="2013-09-17"/>
+    <cosponsor thomas_id="01839" joined="2013-10-09"/>
+    <cosponsor thomas_id="01970" joined="2013-04-23"/>
+    <cosponsor thomas_id="02055" joined="2013-05-03"/>
+    <cosponsor thomas_id="02196" joined="2014-05-22"/>
+    <cosponsor thomas_id="01864" joined="2013-04-25"/>
+    <cosponsor thomas_id="01654" joined="2013-06-25"/>
+    <cosponsor thomas_id="01790" joined="2013-05-14"/>
+    <cosponsor thomas_id="01878" joined="2013-04-09"/>
+    <cosponsor thomas_id="01959" joined="2013-07-15"/>
+    <cosponsor thomas_id="00229" joined="2013-09-09"/>
+    <cosponsor thomas_id="01774" joined="2013-10-09"/>
+    <cosponsor thomas_id="01836" joined="2013-05-15"/>
+    <cosponsor thomas_id="01604" joined="2013-06-10"/>
+    <cosponsor thomas_id="00256" joined="2013-03-20"/>
+    <cosponsor thomas_id="01477" joined="2014-07-11"/>
+    <cosponsor thomas_id="01641" joined="2013-03-15"/>
+    <cosponsor thomas_id="00279" joined="2013-06-18"/>
+    <cosponsor thomas_id="01479" joined="2014-02-10"/>
+    <cosponsor thomas_id="02133" joined="2013-06-20"/>
+    <cosponsor thomas_id="00281" joined="2013-05-21"/>
+    <cosponsor thomas_id="02096" joined="2013-05-23"/>
+    <cosponsor thomas_id="01976" joined="2014-07-11"/>
+    <cosponsor thomas_id="00299" joined="2013-03-15"/>
+    <cosponsor thomas_id="00316" joined="2013-05-07"/>
+    <cosponsor thomas_id="02123" joined="2014-05-22"/>
+    <cosponsor thomas_id="01894" joined="2013-04-19"/>
+    <cosponsor thomas_id="01857" joined="2013-04-30"/>
+    <cosponsor thomas_id="00344" joined="2013-04-23"/>
+    <cosponsor thomas_id="02125" joined="2013-04-10"/>
+    <cosponsor thomas_id="00355" joined="2013-05-15"/>
+    <cosponsor thomas_id="02114" joined="2013-09-11"/>
+    <cosponsor thomas_id="00368" joined="2013-03-15"/>
+    <cosponsor thomas_id="00371" joined="2013-05-23"/>
+    <cosponsor thomas_id="01797" joined="2013-04-16"/>
+    <cosponsor thomas_id="01888" joined="2013-09-09"/>
+    <cosponsor thomas_id="02119" joined="2013-04-09"/>
+    <cosponsor thomas_id="01895" joined="2013-09-27"/>
+    <cosponsor thomas_id="02164" joined="2013-10-03"/>
+    <cosponsor thomas_id="01743" joined="2013-05-22"/>
+    <cosponsor thomas_id="01914" joined="2013-05-22"/>
+    <cosponsor thomas_id="01708" joined="2013-03-07"/>
+    <cosponsor thomas_id="02041" joined="2013-03-19"/>
+    <cosponsor thomas_id="02089" joined="2013-04-10"/>
+    <cosponsor thomas_id="02044" joined="2013-04-09"/>
+    <cosponsor thomas_id="00511" joined="2013-03-20"/>
+    <cosponsor thomas_id="02170" joined="2014-07-11"/>
+    <cosponsor thomas_id="01794" joined="2013-03-12"/>
+    <cosponsor thomas_id="01913" joined="2013-11-12"/>
+    <cosponsor thomas_id="01490" joined="2014-02-10"/>
+    <cosponsor thomas_id="01580" joined="2013-04-10"/>
+    <cosponsor thomas_id="01634" joined="2013-04-25"/>
+    <cosponsor thomas_id="02147" joined="2013-04-12"/>
+    <cosponsor thomas_id="02101" joined="2013-04-23"/>
+    <cosponsor thomas_id="01663" joined="2013-03-21"/>
+    <cosponsor thomas_id="02149" joined="2013-04-23"/>
+    <cosponsor thomas_id="02046" joined="2013-09-09"/>
+    <cosponsor thomas_id="00599" joined="2013-06-06"/>
+    <cosponsor thomas_id="01843" joined="2013-06-24"/>
+    <cosponsor thomas_id="02154" joined="2013-03-19"/>
+    <cosponsor thomas_id="00616" joined="2013-03-25"/>
+    <cosponsor thomas_id="02025" joined="2013-05-21"/>
+    <cosponsor thomas_id="02190" joined="2013-11-12"/>
+    <cosponsor thomas_id="02134" joined="2013-10-29"/>
+    <cosponsor thomas_id="02169" joined="2014-07-11"/>
+    <cosponsor thomas_id="00635" joined="2013-04-24"/>
+    <cosponsor thomas_id="01907" joined="2013-03-13"/>
+    <cosponsor thomas_id="02145" joined="2013-06-26"/>
+    <cosponsor thomas_id="01668" joined="2013-03-11"/>
+    <cosponsor thomas_id="01675" joined="2013-04-24"/>
+    <cosponsor thomas_id="01583" joined="2013-12-04"/>
+    <cosponsor thomas_id="01501" joined="2013-04-24"/>
+    <cosponsor thomas_id="00683" joined="2013-04-09"/>
+    <cosponsor thomas_id="00699" joined="2013-04-17"/>
+    <cosponsor thomas_id="01846" joined="2013-05-06"/>
+    <cosponsor thomas_id="00701" joined="2013-04-12"/>
+    <cosponsor thomas_id="02111" joined="2013-03-11"/>
+    <cosponsor thomas_id="00709" joined="2013-07-30"/>
+    <cosponsor thomas_id="02146" joined="2013-12-23"/>
+    <cosponsor thomas_id="01943" joined="2013-06-24"/>
+    <cosponsor thomas_id="00729" joined="2013-04-17"/>
+    <cosponsor thomas_id="02150" joined="2013-09-20"/>
+    <cosponsor thomas_id="01814" joined="2013-05-03"/>
+    <cosponsor thomas_id="01503" joined="2013-05-20"/>
+    <cosponsor thomas_id="01653" joined="2013-03-18"/>
+    <cosponsor thomas_id="00766" joined="2013-12-09"/>
+    <cosponsor thomas_id="01504" joined="2013-04-09"/>
+    <cosponsor thomas_id="02074" joined="2013-05-22"/>
+    <cosponsor thomas_id="01832" joined="2013-04-24"/>
+    <cosponsor thomas_id="01506" joined="2013-06-06"/>
+    <cosponsor thomas_id="02148" joined="2013-04-25"/>
+    <cosponsor thomas_id="01730" joined="2013-03-21"/>
+    <cosponsor thomas_id="01811" joined="2013-03-07"/>
+    <cosponsor thomas_id="02117" joined="2013-07-25"/>
+    <cosponsor thomas_id="00850" joined="2013-03-19"/>
+    <cosponsor thomas_id="01602" joined="2013-04-09"/>
+    <cosponsor thomas_id="00854" joined="2013-07-31"/>
+    <cosponsor thomas_id="02108" joined="2013-09-30"/>
+    <cosponsor thomas_id="00867" joined="2013-04-25"/>
+    <cosponsor thomas_id="00868" joined="2013-05-13"/>
+    <cosponsor thomas_id="02162" joined="2013-09-27"/>
+    <cosponsor thomas_id="01974" joined="2013-05-06"/>
+    <cosponsor thomas_id="00887" joined="2013-05-21"/>
+    <cosponsor thomas_id="01510" joined="2013-04-10"/>
+    <cosponsor thomas_id="00893" joined="2013-05-22"/>
+    <cosponsor thomas_id="02097" joined="2013-03-19"/>
+    <cosponsor thomas_id="01835" joined="2013-04-24"/>
+    <cosponsor thomas_id="01929" joined="2013-04-19"/>
+    <cosponsor thomas_id="01953" joined="2013-05-14"/>
+    <cosponsor thomas_id="02171" joined="2013-04-25"/>
+    <cosponsor thomas_id="01967" joined="2013-04-10"/>
+    <cosponsor thomas_id="00940" joined="2013-06-03"/>
+    <cosponsor thomas_id="00944" joined="2013-04-11"/>
+    <cosponsor thomas_id="00997" joined="2013-06-12"/>
+    <cosponsor thomas_id="02109" joined="2013-06-10"/>
+    <cosponsor thomas_id="02039" joined="2013-04-09"/>
+    <cosponsor thomas_id="01728" joined="2013-05-21"/>
+    <cosponsor thomas_id="01003" joined="2013-03-25"/>
+    <cosponsor thomas_id="01756" joined="2013-03-11"/>
+    <cosponsor thomas_id="01757" joined="2013-04-23"/>
+    <cosponsor thomas_id="01522" joined="2013-04-23"/>
+    <cosponsor thomas_id="01854" joined="2013-04-11"/>
+    <cosponsor thomas_id="01588" joined="2013-03-21"/>
+    <cosponsor thomas_id="01635" joined="2013-04-24"/>
+    <cosponsor thomas_id="02124" joined="2013-05-13"/>
+    <cosponsor thomas_id="01950" joined="2013-05-22"/>
+    <cosponsor thomas_id="01798" joined="2013-04-11"/>
+    <cosponsor thomas_id="01042" joined="2013-10-11"/>
+    <cosponsor thomas_id="01988" joined="2013-04-09"/>
+    <cosponsor thomas_id="01861" joined="2013-06-11"/>
+    <cosponsor thomas_id="02099" joined="2013-04-30"/>
+    <cosponsor thomas_id="01818" joined="2013-04-10"/>
+    <cosponsor thomas_id="01069" joined="2013-03-25"/>
+    <cosponsor thomas_id="01528" joined="2013-04-30"/>
+    <cosponsor thomas_id="01890" joined="2013-04-23"/>
+    <cosponsor thomas_id="02104" joined="2013-04-30"/>
+    <cosponsor thomas_id="02110" joined="2013-03-18"/>
+    <cosponsor thomas_id="01151" joined="2013-04-16"/>
+    <cosponsor thomas_id="01593" joined="2013-04-15"/>
+    <cosponsor thomas_id="01535" joined="2013-06-13"/>
+    <cosponsor thomas_id="01940" joined="2013-04-24"/>
+    <cosponsor thomas_id="01942" joined="2013-04-25"/>
+    <cosponsor thomas_id="02112" joined="2013-04-09"/>
+    <cosponsor thomas_id="02166" joined="2013-03-15"/>
+    <cosponsor thomas_id="02167" joined="2013-04-09"/>
+    <cosponsor thomas_id="01184" joined="2013-07-30"/>
+    <cosponsor thomas_id="01188" joined="2013-04-09"/>
+    <cosponsor thomas_id="01856" joined="2013-04-23"/>
+    <cosponsor thomas_id="01205" joined="2013-08-02"/>
+    <cosponsor thomas_id="01209" joined="2013-06-04"/>
+    <cosponsor thomas_id="01879" joined="2013-04-15"/>
+    <cosponsor thomas_id="01853" joined="2013-03-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-05" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="2690"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Postal service"/>
+    <term name="U.S. Postal Service"/>
+  </subjects>
+  <amendments/>
+  <summary>3/5/2013--Introduced.
+United States Postal Service Stabilization Act of 2013 - Amends provisions concerning the Federal Employees' Retirement System (FERS), with respect to employees of the U.S. Postal Service (USPS), to: (1) provide a new formula for calculating employee pension contributions using the normal-cost percentage method multiplied by the aggregate amount of basic pay payable to employees of USPS and the Postal Regulatory Commission, and (2) provide for the use of excess FERS contributions to pay USPS debt obligations and make pension contributions.</summary>
+</bill>

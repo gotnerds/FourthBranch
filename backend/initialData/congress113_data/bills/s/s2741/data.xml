@@ -1,0 +1,33 @@
+<bill session="113" type="s" number="2741" updated="2014-08-14T14:08:09-04:00">
+  <state datetime="2014-07-31">REPORTED</state>
+  <status>
+    <unknown datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="short" as="introduced">Intelligence Authorization Act for Fiscal Year 2015</title>
+    <title type="short" as="reported to senate">Intelligence Authorization Act for Fiscal Year 2015</title>
+    <title type="official" as="introduced">An original bill to authorize appropriations for fiscal year 2015 for intelligence and intelligence-related activities of the United States Government, the Community Management Account, and the Central Intelligence Agency Retirement and Disability System, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01332"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-31">
+      <text>Select Committee on Intelligence. Original measure reported to Senate by Senator Feinstein. With written report No. 113-233. Additional views filed.</text>
+    </action>
+    <calendar datetime="2014-07-31" state="REPORTED" calendar="Senate Legislative" under="General Orders" number="519">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 519.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SLIN" name="Senate Intelligence (Select)" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="3381"/>
+    <bill type="h" session="113" relation="unknown" number="3779"/>
+    <bill type="h" session="113" relation="unknown" number="4661"/>
+    <bill type="h" session="113" relation="unknown" number="4681"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

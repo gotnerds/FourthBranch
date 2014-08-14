@@ -1,0 +1,100 @@
+<bill session="113" type="h" number="5352" updated="2014-08-14T13:37:10-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="official" as="introduced">To strengthen and expand proven anti-poverty programs and initiatives.</title>
+  </titles>
+  <sponsor thomas_id="01501"/>
+  <cosponsors>
+    <cosponsor thomas_id="02153" joined="2014-07-31"/>
+    <cosponsor thomas_id="01761" joined="2014-07-31"/>
+    <cosponsor thomas_id="01889" joined="2014-07-31"/>
+    <cosponsor thomas_id="01474" joined="2014-07-31"/>
+    <cosponsor thomas_id="01970" joined="2014-07-31"/>
+    <cosponsor thomas_id="01864" joined="2014-07-31"/>
+    <cosponsor thomas_id="01790" joined="2014-07-31"/>
+    <cosponsor thomas_id="00208" joined="2014-07-31"/>
+    <cosponsor thomas_id="00229" joined="2014-07-31"/>
+    <cosponsor thomas_id="01604" joined="2014-07-31"/>
+    <cosponsor thomas_id="00256" joined="2014-07-31"/>
+    <cosponsor thomas_id="01857" joined="2014-07-31"/>
+    <cosponsor thomas_id="01895" joined="2014-07-31"/>
+    <cosponsor thomas_id="01803" joined="2014-07-31"/>
+    <cosponsor thomas_id="01708" joined="2014-07-31"/>
+    <cosponsor thomas_id="02089" joined="2014-07-31"/>
+    <cosponsor thomas_id="01490" joined="2014-07-31"/>
+    <cosponsor thomas_id="01634" joined="2014-07-31"/>
+    <cosponsor thomas_id="02101" joined="2014-07-31"/>
+    <cosponsor thomas_id="00588" joined="2014-07-31"/>
+    <cosponsor thomas_id="00599" joined="2014-07-31"/>
+    <cosponsor thomas_id="01843" joined="2014-08-01"/>
+    <cosponsor thomas_id="00616" joined="2014-07-31"/>
+    <cosponsor thomas_id="00688" joined="2014-07-31"/>
+    <cosponsor thomas_id="01506" joined="2014-07-31"/>
+    <cosponsor thomas_id="01811" joined="2014-07-31"/>
+    <cosponsor thomas_id="00868" joined="2014-07-31"/>
+    <cosponsor thomas_id="02097" joined="2014-07-31"/>
+    <cosponsor thomas_id="00944" joined="2014-07-31"/>
+    <cosponsor thomas_id="02023" joined="2014-07-31"/>
+    <cosponsor thomas_id="00997" joined="2014-07-31"/>
+    <cosponsor thomas_id="01003" joined="2014-07-31"/>
+    <cosponsor thomas_id="01588" joined="2014-07-31"/>
+    <cosponsor thomas_id="01037" joined="2014-07-31"/>
+    <cosponsor thomas_id="01042" joined="2014-08-01"/>
+    <cosponsor thomas_id="01988" joined="2014-07-31"/>
+    <cosponsor thomas_id="02166" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committees on House Administration, Education and the Workforce, Financial Services, Agriculture, Transportation and Infrastructure, Rules, the Budget, Oversight and Government Reform, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House House Administration</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Rules</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Budget</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Judiciary</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee subcommittee="" code="HSHA" name="House Administration" activity="Referral"/>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee subcommittee="" code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="" code="HSRU" name="House Rules" activity="Referral"/>
+    <committee subcommittee="" code="HSBU" name="House Budget" activity="Referral"/>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,110 @@
+<bill session="113" type="h" number="1389" updated="2014-08-14T13:02:32-04:00">
+  <state datetime="2013-03-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-21"/>
+  </status>
+  <introduced datetime="2013-03-21"/>
+  <titles>
+    <title type="short" as="introduced">MARCH for Military Women Act</title>
+    <title type="short" as="introduced">Military Access to Reproductive Care and Health for Military Women Act</title>
+    <title type="official" as="introduced">To amend title 10, United States Code, regarding restrictions on abortions at medical facilities of the Department of Defense.</title>
+  </titles>
+  <sponsor thomas_id="01069"/>
+  <cosponsors>
+    <cosponsor thomas_id="00099" joined="2013-03-21"/>
+    <cosponsor thomas_id="01469" joined="2013-04-25"/>
+    <cosponsor thomas_id="01471" joined="2013-03-21"/>
+    <cosponsor thomas_id="01564" joined="2013-03-21"/>
+    <cosponsor thomas_id="01839" joined="2013-03-21"/>
+    <cosponsor thomas_id="01970" joined="2013-03-21"/>
+    <cosponsor thomas_id="02055" joined="2013-04-19"/>
+    <cosponsor thomas_id="01864" joined="2013-04-19"/>
+    <cosponsor thomas_id="01654" joined="2013-03-21"/>
+    <cosponsor thomas_id="00229" joined="2013-03-21"/>
+    <cosponsor thomas_id="01641" joined="2013-03-21"/>
+    <cosponsor thomas_id="00279" joined="2013-04-26"/>
+    <cosponsor thomas_id="01479" joined="2013-03-21"/>
+    <cosponsor thomas_id="00281" joined="2013-03-21"/>
+    <cosponsor thomas_id="02096" joined="2014-07-23"/>
+    <cosponsor thomas_id="01976" joined="2013-09-17"/>
+    <cosponsor thomas_id="01894" joined="2013-03-21"/>
+    <cosponsor thomas_id="01857" joined="2013-03-21"/>
+    <cosponsor thomas_id="00355" joined="2013-05-09"/>
+    <cosponsor thomas_id="02114" joined="2013-08-01"/>
+    <cosponsor thomas_id="02119" joined="2013-08-01"/>
+    <cosponsor thomas_id="01708" joined="2013-03-21"/>
+    <cosponsor thomas_id="02089" joined="2013-04-19"/>
+    <cosponsor thomas_id="01794" joined="2013-03-21"/>
+    <cosponsor thomas_id="01580" joined="2013-03-21"/>
+    <cosponsor thomas_id="01634" joined="2013-03-21"/>
+    <cosponsor thomas_id="01843" joined="2013-03-21"/>
+    <cosponsor thomas_id="02025" joined="2013-06-17"/>
+    <cosponsor thomas_id="02172" joined="2013-05-20"/>
+    <cosponsor thomas_id="02145" joined="2013-06-28"/>
+    <cosponsor thomas_id="01501" joined="2013-03-21"/>
+    <cosponsor thomas_id="00688" joined="2013-09-17"/>
+    <cosponsor thomas_id="00701" joined="2013-03-21"/>
+    <cosponsor thomas_id="02111" joined="2013-05-09"/>
+    <cosponsor thomas_id="00729" joined="2013-03-21"/>
+    <cosponsor thomas_id="00735" joined="2013-03-21"/>
+    <cosponsor thomas_id="01814" joined="2013-03-21"/>
+    <cosponsor thomas_id="01503" joined="2013-05-09"/>
+    <cosponsor thomas_id="01653" joined="2013-05-09"/>
+    <cosponsor thomas_id="01504" joined="2013-10-09"/>
+    <cosponsor thomas_id="01832" joined="2013-03-21"/>
+    <cosponsor thomas_id="01811" joined="2013-03-21"/>
+    <cosponsor thomas_id="00832" joined="2013-04-19"/>
+    <cosponsor thomas_id="00850" joined="2013-09-17"/>
+    <cosponsor thomas_id="01602" joined="2013-03-21"/>
+    <cosponsor thomas_id="00868" joined="2013-03-21"/>
+    <cosponsor thomas_id="02097" joined="2013-04-10"/>
+    <cosponsor thomas_id="01929" joined="2013-04-25"/>
+    <cosponsor thomas_id="02113" joined="2013-12-12"/>
+    <cosponsor thomas_id="01927" joined="2013-03-21"/>
+    <cosponsor thomas_id="01967" joined="2013-03-21"/>
+    <cosponsor thomas_id="00944" joined="2013-03-21"/>
+    <cosponsor thomas_id="01757" joined="2013-04-19"/>
+    <cosponsor thomas_id="01588" joined="2013-03-21"/>
+    <cosponsor thomas_id="01635" joined="2013-06-06"/>
+    <cosponsor thomas_id="01798" joined="2013-04-19"/>
+    <cosponsor thomas_id="01528" joined="2013-09-30"/>
+    <cosponsor thomas_id="01890" joined="2013-03-21"/>
+    <cosponsor thomas_id="02110" joined="2013-06-06"/>
+    <cosponsor thomas_id="01593" joined="2013-07-24"/>
+    <cosponsor thomas_id="01535" joined="2013-04-19"/>
+    <cosponsor thomas_id="01940" joined="2013-04-25"/>
+    <cosponsor thomas_id="01942" joined="2013-05-09"/>
+    <cosponsor thomas_id="01884" joined="2013-03-21"/>
+    <cosponsor thomas_id="02166" joined="2013-09-17"/>
+    <cosponsor thomas_id="01209" joined="2013-04-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-21">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E360"/>
+    </action>
+    <action datetime="2013-03-21" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2013-04-08">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee subcommittee="Military Personnel" code="HSAS02" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="777"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Abortion"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Military facilities and property"/>
+    <term name="Military medicine"/>
+  </subjects>
+  <amendments/>
+  <summary>3/21/2013--Introduced.
+Military Access to Reproductive Care and Health for Military Women Act or MARCH for Military Women Act - Repeals a statutory restriction on using a medical treatment facility or other facility of the Department of Defense (DOD) to perform an abortion.</summary>
+</bill>

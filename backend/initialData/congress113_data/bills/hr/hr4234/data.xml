@@ -1,0 +1,98 @@
+<bill session="113" type="h" number="4234" updated="2014-08-14T13:27:32-04:00">
+  <state datetime="2014-03-13">REFERRED</state>
+  <status>
+    <introduced datetime="2014-03-13"/>
+  </status>
+  <introduced datetime="2014-03-13"/>
+  <titles>
+    <title type="short" as="introduced">Ensuring Veterans' Resiliency Act</title>
+    <title type="official" as="introduced">To direct the Secretary of Veterans Affairs to carry out a pilot program to reduce the shortage of psychiatrists in the Veterans Health Administration of the Department of Veterans Affairs by offering competitive employment incentives to certain psychiatrists, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02018"/>
+  <cosponsors>
+    <cosponsor thomas_id="02131" joined="2014-06-23"/>
+    <cosponsor thomas_id="02153" joined="2014-04-28"/>
+    <cosponsor thomas_id="02063" joined="2014-04-29"/>
+    <cosponsor thomas_id="02129" joined="2014-04-03"/>
+    <cosponsor thomas_id="01999" joined="2014-04-02"/>
+    <cosponsor thomas_id="02159" joined="2014-07-31"/>
+    <cosponsor thomas_id="01970" joined="2014-04-09"/>
+    <cosponsor thomas_id="01790" joined="2014-04-09"/>
+    <cosponsor thomas_id="01742" joined="2014-07-24"/>
+    <cosponsor thomas_id="02144" joined="2014-07-11"/>
+    <cosponsor thomas_id="01479" joined="2014-06-24"/>
+    <cosponsor thomas_id="02125" joined="2014-04-02"/>
+    <cosponsor thomas_id="00355" joined="2014-07-08"/>
+    <cosponsor thomas_id="02067" joined="2014-03-25"/>
+    <cosponsor thomas_id="02049" joined="2014-06-10"/>
+    <cosponsor thomas_id="01720" joined="2014-04-03"/>
+    <cosponsor thomas_id="01990" joined="2014-04-28"/>
+    <cosponsor thomas_id="01843" joined="2014-04-28"/>
+    <cosponsor thomas_id="00612" joined="2014-04-02"/>
+    <cosponsor thomas_id="01733" joined="2014-06-18"/>
+    <cosponsor thomas_id="01846" joined="2014-03-25"/>
+    <cosponsor thomas_id="00709" joined="2014-04-02"/>
+    <cosponsor thomas_id="02052" joined="2014-07-11"/>
+    <cosponsor thomas_id="00868" joined="2014-03-25"/>
+    <cosponsor thomas_id="02162" joined="2014-04-09"/>
+    <cosponsor thomas_id="00910" joined="2014-06-24"/>
+    <cosponsor thomas_id="01003" joined="2014-03-25"/>
+    <cosponsor thomas_id="01756" joined="2014-05-15"/>
+    <cosponsor thomas_id="01722" joined="2014-03-13"/>
+    <cosponsor thomas_id="01527" joined="2014-07-08"/>
+    <cosponsor thomas_id="02191" joined="2014-07-24"/>
+    <cosponsor thomas_id="02110" joined="2014-06-18"/>
+    <cosponsor thomas_id="01940" joined="2014-05-08"/>
+    <cosponsor thomas_id="01188" joined="2014-05-08"/>
+    <cosponsor thomas_id="02128" joined="2014-04-03"/>
+    <cosponsor thomas_id="01856" joined="2014-07-11"/>
+    <cosponsor thomas_id="01256" joined="2014-04-03"/>
+    <cosponsor thomas_id="02019" joined="2014-06-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-03-13" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2014-03-24">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Health" code="HSVR03" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="2590"/>
+    <bill type="h" session="113" relation="unknown" number="4574"/>
+    <bill type="h" session="113" relation="unknown" number="5048"/>
+    <bill type="s" session="113" relation="unknown" number="1296"/>
+    <bill type="s" session="113" relation="unknown" number="2182"/>
+    <bill type="s" session="113" relation="unknown" number="2425"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Government studies and investigations"/>
+    <term name="Health personnel"/>
+    <term name="Medical education"/>
+    <term name="Mental health"/>
+    <term name="Student aid and college costs"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>3/13/2014--Introduced.
+Ensuring Veterans' Resiliency Act - Directs the Secretary of Veterans Affairs to carry out a three-year pilot program to repay loans used to finance education regarding psychiatric medicine that are obtained from a governmental entity, private financial institution, school, or other authorized entity.
+
+Requires an individual, to be eligible to obtain such a loan repayment, to: (1) be either licensed (or eligible for licensure) to practice psychiatric medicine in the Veterans Health Administration (VHA) of the Department of Veterans Affairs (VA) or enrolled in the final year of a residency program leading to a specialty qualification in psychiatric medicine that is approved by the Accreditation Council for Graduate Medical Education; and (2) demonstrate a commitment to a long-term career as a psychiatrist in the VHA, including through a period of obligated service. Directs the Secretary to select at least 10 individuals to participate in each year of the program.
+
+ Allows a loan repayment to consist of payment of the principal, interest, and related expenses of such a loan. Prohibits the Secretary from paying more than $60,000 on behalf of the individual for each year of obligated service the individual agrees to serve.
+
+Makes an individual who participates in the pilot program who fails to satisfy the service commitment liable for prorated loan repayment.
+
+Prohibits an individual who is participating in any other federal program that repays his or her educational loans from participating in the program under this Act.
+
+Directs the Comptroller General (GAO) to conduct a study of pay disparities among VHA psychiatrists.</summary>
+</bill>

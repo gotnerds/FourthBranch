@@ -1,0 +1,92 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-21", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2372-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Portman, Rob", 
+      "sponsored_at": "2014-05-21", 
+      "state": "OH", 
+      "thomas_id": "00924", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-05-21", 
+  "number": "2372", 
+  "official_title": "A bill to provide additional oversight and guidance to the Department of Homeland Security.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2354-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Federal Cybersecurity Workforce Assessment Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Bennet, Michael F.", 
+    "state": "CO", 
+    "thomas_id": "01965", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-05-21", 
+  "subjects": [
+    "Computer security and identity theft", 
+    "Congressional oversight", 
+    "Government employee pay, benefits, personnel management", 
+    "Government operations and politics", 
+    "Government studies and investigations"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Federal Cybersecurity Workforce Assessment Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to provide additional oversight and guidance to the Department of Homeland Security.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T14:05:03-04:00"
+}

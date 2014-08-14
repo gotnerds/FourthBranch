@@ -1,0 +1,68 @@
+<bill session="113" type="s" number="336" updated="2014-08-14T13:47:36-04:00">
+  <state datetime="2013-02-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-14"/>
+  </status>
+  <introduced datetime="2013-02-14"/>
+  <titles>
+    <title type="short" as="introduced">Marketplace Fairness Act of 2013</title>
+    <title type="official" as="introduced">A bill to restore States' sovereign rights to enforce State and local sales and use tax laws, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01542"/>
+  <cosponsors>
+    <cosponsor thomas_id="01695" joined="2013-02-14"/>
+    <cosponsor thomas_id="01464" joined="2013-02-14"/>
+    <cosponsor thomas_id="01687" joined="2013-02-14"/>
+    <cosponsor thomas_id="00174" joined="2013-02-14"/>
+    <cosponsor thomas_id="00179" joined="2013-03-18"/>
+    <cosponsor thomas_id="01541" joined="2013-03-14"/>
+    <cosponsor thomas_id="01825" joined="2013-02-14"/>
+    <cosponsor thomas_id="02189" joined="2013-03-05"/>
+    <cosponsor thomas_id="00326" joined="2013-02-14"/>
+    <cosponsor thomas_id="01332" joined="2013-02-14"/>
+    <cosponsor thomas_id="01969" joined="2013-02-14"/>
+    <cosponsor thomas_id="00452" joined="2013-03-19"/>
+    <cosponsor thomas_id="00501" joined="2013-02-14"/>
+    <cosponsor thomas_id="02174" joined="2013-02-14"/>
+    <cosponsor thomas_id="01844" joined="2013-03-18"/>
+    <cosponsor thomas_id="00604" joined="2013-02-14"/>
+    <cosponsor thomas_id="02185" joined="2013-03-05"/>
+    <cosponsor thomas_id="01826" joined="2013-02-14"/>
+    <cosponsor thomas_id="01546" joined="2013-02-14"/>
+    <cosponsor thomas_id="01384" joined="2013-02-14"/>
+    <cosponsor thomas_id="01983" joined="2013-02-14"/>
+    <cosponsor thomas_id="01837" joined="2013-04-09"/>
+    <cosponsor thomas_id="01701" joined="2013-02-14"/>
+    <cosponsor thomas_id="00949" joined="2013-02-14"/>
+    <cosponsor thomas_id="01424" joined="2013-02-14"/>
+    <cosponsor thomas_id="01595" joined="2013-03-23"/>
+    <cosponsor thomas_id="01897" joined="2013-03-23"/>
+    <cosponsor thomas_id="02182" joined="2013-03-05"/>
+    <cosponsor thomas_id="01823" joined="2013-02-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-14" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="684"/>
+    <bill type="s" session="113" relation="identical" number="743"/>
+    <bill type="s" session="113" relation="unknown" number="2609"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Internet and video services"/>
+    <term name="Retail and wholesale trades"/>
+    <term name="Sales and excise taxes"/>
+    <term name="State and local government operations"/>
+    <term name="State and local taxation"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <summary>2/14/2013--Introduced.
+Marketplace Fairness Act of 2013 - Authorizes each member state under the Streamlined Sales and Use Tax Agreement (the multistate agreement for the administration and collection of sales and use taxes adopted on November 12, 2002) to require all sellers not qualifying for a small-seller exception (applicable to sellers with annual gross receipts in total U.S. remote sales not exceeding $1 million) to collect and remit sales and use taxes with respect to remote sales under provisions of the Agreement, but only if such Agreement includes minimum simplification requirements relating to the administration of the tax, audits, and streamlined filing. Defines "remote sale" as a sale of goods or services into a state in which the seller would not legally be required to pay, collect, or remit state or local sales and use taxes unless provided by this Act.</summary>
+</bill>

@@ -1,0 +1,31 @@
+<bill session="113" type="h" number="5104" updated="2014-08-14T13:35:02-04:00">
+  <state datetime="2014-07-14">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-14"/>
+  </status>
+  <introduced datetime="2014-07-14"/>
+  <titles>
+    <title type="short" as="introduced">Pay For Success Affordable Housing Energy Modernization Act of 2014</title>
+    <title type="official" as="introduced">To authorize the Secretary of Housing and Urban Development to carry out a demonstration program to enter into budget-neutral, performance-based contracts for energy and water conservation improvements for multifamily residential units.</title>
+  </titles>
+  <sponsor thomas_id="02003"/>
+  <cosponsors>
+    <cosponsor thomas_id="02159" joined="2014-07-23"/>
+    <cosponsor thomas_id="01790" joined="2014-07-14"/>
+    <cosponsor thomas_id="02133" joined="2014-07-14"/>
+    <cosponsor thomas_id="02072" joined="2014-07-14"/>
+    <cosponsor thomas_id="01913" joined="2014-07-14"/>
+    <cosponsor thomas_id="02137" joined="2014-07-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-14" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,59 @@
+<bill session="113" type="hr" number="360" updated="2014-08-14T12:47:42-04:00">
+  <state datetime="2013-09-26">REFERRED</state>
+  <status>
+    <introduced datetime="2013-09-26"/>
+  </status>
+  <introduced datetime="2013-09-26"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the House of Representatives that Congress should retain its authority to borrow money on the credit of the United States and not cede this power to the President.</title>
+  </titles>
+  <sponsor thomas_id="01924"/>
+  <cosponsors>
+    <cosponsor thomas_id="01858" joined="2013-09-26"/>
+    <cosponsor thomas_id="02027" joined="2013-10-03"/>
+    <cosponsor thomas_id="02155" joined="2013-10-03"/>
+    <cosponsor thomas_id="01987" joined="2013-10-03"/>
+    <cosponsor thomas_id="01751" joined="2013-11-13"/>
+    <cosponsor thomas_id="01752" joined="2013-09-26"/>
+    <cosponsor thomas_id="01925" joined="2013-09-26"/>
+    <cosponsor thomas_id="02144" joined="2013-10-03"/>
+    <cosponsor thomas_id="01670" joined="2013-09-26"/>
+    <cosponsor thomas_id="02064" joined="2013-10-10"/>
+    <cosponsor thomas_id="02061" joined="2013-10-03"/>
+    <cosponsor thomas_id="01707" joined="2013-10-09"/>
+    <cosponsor thomas_id="01801" joined="2013-09-26"/>
+    <cosponsor thomas_id="01992" joined="2013-09-26"/>
+    <cosponsor thomas_id="02100" joined="2013-09-26"/>
+    <cosponsor thomas_id="01960" joined="2013-09-26"/>
+    <cosponsor thomas_id="02053" joined="2013-09-26"/>
+    <cosponsor thomas_id="00778" joined="2013-10-03"/>
+    <cosponsor thomas_id="02130" joined="2013-10-03"/>
+    <cosponsor thomas_id="01685" joined="2013-10-03"/>
+    <cosponsor thomas_id="01738" joined="2013-10-03"/>
+    <cosponsor thomas_id="01915" joined="2013-09-26"/>
+    <cosponsor thomas_id="01954" joined="2013-09-26"/>
+    <cosponsor thomas_id="01009" joined="2013-10-03"/>
+    <cosponsor thomas_id="01114" joined="2013-09-26"/>
+    <cosponsor thomas_id="01981" joined="2013-09-26"/>
+    <cosponsor thomas_id="01855" joined="2013-10-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-26" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Congressional oversight"/>
+    <term name="Congressional-executive branch relations"/>
+    <term name="Presidents and presidential powers"/>
+  </subjects>
+  <amendments/>
+  <summary>9/26/2013--Introduced.
+Expresses the sense of the House of Representatives that Congress should retain its authority vested in the U.S. Constitution to borrow money on the credit of the United States and not surrender its authority to establish the debt limit of the United States to the executive branch or allow the President to raise the debt ceiling unilaterally.</summary>
+</bill>

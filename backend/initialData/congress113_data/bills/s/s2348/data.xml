@@ -1,0 +1,36 @@
+<bill session="113" type="s" number="2348" updated="2014-08-14T14:04:51-04:00">
+  <state datetime="2014-05-15">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-15"/>
+  </status>
+  <introduced datetime="2014-05-15"/>
+  <titles>
+    <title type="short" as="introduced">Removing Barriers to Colorectal Cancer Screening Act of 2014</title>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to waive coinsurance under Medicare for colorectal cancer screening tests, regardless of whether therapeutic intervention is required during the screening.</title>
+  </titles>
+  <sponsor thomas_id="00136"/>
+  <cosponsors>
+    <cosponsor thomas_id="00116" joined="2014-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-15" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="1070"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Cancer"/>
+    <term name="Digestive and metabolic diseases"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>5/15/2014--Introduced.
+Removing Barriers to Colorectal Cancer Screening Act of 2014 - Amends title XVIII (Medicare) of the Social Security Act to waive coinsurance for colorectal cancer screening tests (thus covering 100% of their cost under Medicare part B [Supplementary Medical Insurance Benefits for the Aged and Disabled]).</summary>
+</bill>

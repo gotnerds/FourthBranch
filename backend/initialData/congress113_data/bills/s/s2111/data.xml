@@ -1,0 +1,41 @@
+<bill session="113" type="s" number="2111" updated="2014-08-14T14:02:53-04:00">
+  <state datetime="2014-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2014-03-12"/>
+  </status>
+  <introduced datetime="2014-03-12"/>
+  <titles>
+    <title type="short" as="introduced">Yuma Crossing National Heritage Area Reauthorization Act</title>
+    <title type="official" as="introduced">A bill to reauthorize the Yuma Crossing National Heritage Area.</title>
+  </titles>
+  <sponsor thomas_id="00754"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-03-12">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S1586"/>
+    </action>
+    <action datetime="2014-03-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2014-07-23">
+      <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+    <committee subcommittee="National Parks" code="SSEG04" name="Senate Energy and Natural Resources" activity="Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="4218"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Arizona"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Lakes and rivers"/>
+  </subjects>
+  <amendments/>
+  <summary>3/12/2014--Introduced.
+Yuma Crossing National Heritage Area Reauthorization Act - Amends the Yuma Crossing National Heritage Area Act of 2000 to extend through FY2030 the authority of the Secretary of the Interior to make grants or provide assistance for the Yuma Crossing National Heritage Area.</summary>
+</bill>

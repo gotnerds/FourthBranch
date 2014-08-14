@@ -1,0 +1,37 @@
+<bill session="113" type="s" number="2184" updated="2014-08-14T14:03:29-04:00">
+  <state datetime="2014-03-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-03-31"/>
+  </status>
+  <introduced datetime="2014-03-31"/>
+  <titles>
+    <title type="official" as="introduced">A bill to designate the community based outpatient clinic of the Department of Veterans Affairs located in The Dalles, Oregon, as the "Loren R. Kaufman Memorial Veterans' Clinic".</title>
+  </titles>
+  <sponsor thomas_id="01247"/>
+  <cosponsors>
+    <cosponsor thomas_id="01900" joined="2014-03-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-03-31" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSVA" name="Senate Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="4273"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Home and outpatient care"/>
+    <term name="Oregon"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>3/31/2014--Introduced.
+Designates the Department of Veterans Affairs (VA) community-based outpatient clinic located at 704 Veterans Drive, The Dalles, Oregon, as the "Loren R. Kaufman Memorial Veterans' Clinic."</summary>
+</bill>

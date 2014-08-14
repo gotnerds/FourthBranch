@@ -1,0 +1,89 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-25", 
+      "committees": [
+        "SSHR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2531-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Booker, Cory A.", 
+      "sponsored_at": "2014-06-25", 
+      "state": "NJ", 
+      "thomas_id": "02194", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-06-25", 
+  "number": "2531", 
+  "official_title": "A bill to reward and incentivize evidence-based State policies that improve educational continuity and limit juvenile court involvement and incarceration for youth through a priority in awarding certain competitive grants offered by the Substance Abuse and Mental Health Services Administration.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Better Options for Kids Act of 2014", 
+  "sponsor": {
+    "district": null, 
+    "name": "Murphy, Christopher S.", 
+    "state": "CT", 
+    "thomas_id": "01837", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-06-25", 
+  "subjects": [
+    "Child health", 
+    "Correctional facilities and imprisonment", 
+    "Elementary and secondary education", 
+    "Health", 
+    "Health programs administration and funding", 
+    "Juvenile crime and gang violence", 
+    "Mental health", 
+    "School administration"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Better Options for Kids Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to reward and incentivize evidence-based State policies that improve educational continuity and limit juvenile court involvement and incarceration for youth through a priority in awarding certain competitive grants offered by the Substance Abuse and Mental Health Services Administration.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T14:06:23-04:00"
+}

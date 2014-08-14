@@ -1,0 +1,43 @@
+<bill session="113" type="sr" number="369" updated="2014-08-14T13:42:57-04:00">
+  <state datetime="2014-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="2014-03-04"/>
+  </status>
+  <introduced datetime="2014-03-04"/>
+  <titles>
+    <title type="official" as="introduced">A resolution to designate May 22, 2014 as "United States Foreign Service Day" in recognition of the men and women who have served, or are presently serving, in the Foreign Service of the United States, and to honor those in the Foreign Service who have given their lives in the line of duty.</title>
+  </titles>
+  <sponsor thomas_id="00791"/>
+  <cosponsors>
+    <cosponsor thomas_id="00174" joined="2014-03-27"/>
+    <cosponsor thomas_id="00326" joined="2014-04-09"/>
+    <cosponsor thomas_id="02176" joined="2014-04-07"/>
+    <cosponsor thomas_id="01383" joined="2014-05-13"/>
+    <cosponsor thomas_id="01897" joined="2014-04-02"/>
+    <cosponsor thomas_id="01823" joined="2014-03-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-03-04" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S1283" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="113" relation="unknown" number="582"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Department of State"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/2014--Introduced.
+Honors the men and women who have served, or are presently serving, in the Foreign Service for their dedicated and important service to country.
+
+ Designates May 22, 2014, as United States Foreign Service Day to commemorate the 90th anniversary of the Foreign Service.</summary>
+</bill>

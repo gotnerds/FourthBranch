@@ -1,0 +1,61 @@
+<bill session="113" type="hr" number="103" updated="2014-08-14T12:45:31-04:00">
+  <state datetime="2013-03-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-06"/>
+  </status>
+  <introduced datetime="2013-03-06"/>
+  <titles>
+    <title type="official" as="introduced">Congratulating the Penn State IFC/Panhellenic Dance Marathon on its continued success in support of the Four Diamonds Fund at Penn State Hershey Children's Hospital.</title>
+  </titles>
+  <sponsor thomas_id="01952"/>
+  <cosponsors>
+    <cosponsor thomas_id="02054" joined="2013-03-06"/>
+    <cosponsor thomas_id="01469" joined="2013-03-06"/>
+    <cosponsor thomas_id="02159" joined="2013-03-06"/>
+    <cosponsor thomas_id="01799" joined="2013-03-06"/>
+    <cosponsor thomas_id="00316" joined="2013-03-06"/>
+    <cosponsor thomas_id="00371" joined="2013-03-06"/>
+    <cosponsor thomas_id="01797" joined="2013-03-06"/>
+    <cosponsor thomas_id="01743" joined="2013-03-06"/>
+    <cosponsor thomas_id="02051" joined="2013-03-06"/>
+    <cosponsor thomas_id="02053" joined="2013-03-06"/>
+    <cosponsor thomas_id="02052" joined="2013-03-06"/>
+    <cosponsor thomas_id="01744" joined="2013-03-06"/>
+    <cosponsor thomas_id="02157" joined="2013-03-06"/>
+    <cosponsor thomas_id="01514" joined="2013-03-06"/>
+    <cosponsor thomas_id="02158" joined="2013-03-06"/>
+    <cosponsor thomas_id="01798" joined="2013-03-06"/>
+    <cosponsor thomas_id="01681" joined="2013-03-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-06" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="sr" session="113" relation="identical" number="68"/>
+    <bill type="sr" session="113" relation="unknown" number="379"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Cancer"/>
+    <term name="Child health"/>
+    <term name="Congressional tributes"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Higher education"/>
+    <term name="Medical research"/>
+    <term name="Pennsylvania"/>
+    <term name="Research administration and funding"/>
+    <term name="School athletics"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+  </subjects>
+  <amendments/>
+  <summary>3/6/2013--Introduced.
+Congratulates the Penn State IFC/Panhellenic Dance Marathon (THON) on its continued success in support of the Four Diamonds Fund at Penn State Hershey Children's Hospital.
+
+ Commends the school's students, volunteers, and supporting organizations for their hard work in organizing another record breaking THON.</summary>
+</bill>

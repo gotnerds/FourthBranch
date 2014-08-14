@@ -1,0 +1,242 @@
+<bill session="113" type="h" number="1750" updated="2014-08-14T13:05:38-04:00">
+  <state datetime="2013-04-25">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-25"/>
+  </status>
+  <introduced datetime="2013-04-25"/>
+  <titles>
+    <title type="short" as="introduced">CLEAR Relief Act of 2013</title>
+    <title type="short" as="introduced">Community Lending Enhancement and Regulatory Relief Act of 2013</title>
+    <title type="official" as="introduced">To enhance the ability of community financial institutions to foster economic growth and serve their communities, boost small businesses, increase individual savings, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01931"/>
+  <cosponsors>
+    <cosponsor thomas_id="01460" joined="2013-12-04"/>
+    <cosponsor thomas_id="01727" joined="2013-06-27"/>
+    <cosponsor thomas_id="02090" joined="2014-03-13"/>
+    <cosponsor thomas_id="01858" joined="2013-11-18"/>
+    <cosponsor thomas_id="00038" joined="2013-04-26"/>
+    <cosponsor thomas_id="02054" joined="2013-07-19"/>
+    <cosponsor thomas_id="02131" joined="2013-08-01"/>
+    <cosponsor thomas_id="01780" joined="2013-06-18"/>
+    <cosponsor thomas_id="02135" joined="2013-10-08"/>
+    <cosponsor thomas_id="02063" joined="2013-11-18"/>
+    <cosponsor thomas_id="01748" joined="2013-09-10"/>
+    <cosponsor thomas_id="01787" joined="2013-10-02"/>
+    <cosponsor thomas_id="02129" joined="2014-03-04"/>
+    <cosponsor thomas_id="02018" joined="2013-05-15"/>
+    <cosponsor thomas_id="01752" joined="2013-12-19"/>
+    <cosponsor thomas_id="01925" joined="2013-09-27"/>
+    <cosponsor thomas_id="00186" joined="2014-05-01"/>
+    <cosponsor thomas_id="01912" joined="2014-01-09"/>
+    <cosponsor thomas_id="01742" joined="2013-06-14"/>
+    <cosponsor thomas_id="02121" joined="2013-11-20"/>
+    <cosponsor thomas_id="01774" joined="2013-08-01"/>
+    <cosponsor thomas_id="02098" joined="2013-10-04"/>
+    <cosponsor thomas_id="01836" joined="2013-11-21"/>
+    <cosponsor thomas_id="02144" joined="2013-11-12"/>
+    <cosponsor thomas_id="01989" joined="2013-06-13"/>
+    <cosponsor thomas_id="01807" joined="2014-02-06"/>
+    <cosponsor thomas_id="02138" joined="2013-11-18"/>
+    <cosponsor thomas_id="02126" joined="2013-05-21"/>
+    <cosponsor thomas_id="02096" joined="2014-05-19"/>
+    <cosponsor thomas_id="01799" joined="2014-05-01"/>
+    <cosponsor thomas_id="02062" joined="2013-06-20"/>
+    <cosponsor thomas_id="00316" joined="2014-05-01"/>
+    <cosponsor thomas_id="02072" joined="2013-12-19"/>
+    <cosponsor thomas_id="02057" joined="2014-05-01"/>
+    <cosponsor thomas_id="00322" joined="2013-11-20"/>
+    <cosponsor thomas_id="02036" joined="2014-02-11"/>
+    <cosponsor thomas_id="02125" joined="2013-09-19"/>
+    <cosponsor thomas_id="02067" joined="2013-05-17"/>
+    <cosponsor thomas_id="02064" joined="2013-05-07"/>
+    <cosponsor thomas_id="01797" joined="2014-01-28"/>
+    <cosponsor thomas_id="02061" joined="2013-11-20"/>
+    <cosponsor thomas_id="01924" joined="2013-09-25"/>
+    <cosponsor thomas_id="02065" joined="2014-05-01"/>
+    <cosponsor thomas_id="01793" joined="2014-03-26"/>
+    <cosponsor thomas_id="01791" joined="2014-05-01"/>
+    <cosponsor thomas_id="02164" joined="2014-05-09"/>
+    <cosponsor thomas_id="01998" joined="2014-04-04"/>
+    <cosponsor thomas_id="01737" joined="2013-12-09"/>
+    <cosponsor thomas_id="01743" joined="2014-06-18"/>
+    <cosponsor thomas_id="02049" joined="2013-11-18"/>
+    <cosponsor thomas_id="02043" joined="2013-11-20"/>
+    <cosponsor thomas_id="01801" joined="2014-02-14"/>
+    <cosponsor thomas_id="00446" joined="2014-06-05"/>
+    <cosponsor thomas_id="01992" joined="2013-07-19"/>
+    <cosponsor thomas_id="01487" joined="2013-11-18"/>
+    <cosponsor thomas_id="01656" joined="2013-05-15"/>
+    <cosponsor thomas_id="01979" joined="2013-05-15"/>
+    <cosponsor thomas_id="01990" joined="2013-06-14"/>
+    <cosponsor thomas_id="01922" joined="2014-05-15"/>
+    <cosponsor thomas_id="00484" joined="2014-02-27"/>
+    <cosponsor thomas_id="02044" joined="2014-06-19"/>
+    <cosponsor thomas_id="01933" joined="2013-07-19"/>
+    <cosponsor thomas_id="02026" joined="2013-10-28"/>
+    <cosponsor thomas_id="02032" joined="2013-11-20"/>
+    <cosponsor thomas_id="02170" joined="2014-01-13"/>
+    <cosponsor thomas_id="02071" joined="2014-05-09"/>
+    <cosponsor thomas_id="02143" joined="2014-04-29"/>
+    <cosponsor thomas_id="02140" joined="2014-04-03"/>
+    <cosponsor thomas_id="02020" joined="2013-06-18"/>
+    <cosponsor thomas_id="02028" joined="2014-06-05"/>
+    <cosponsor thomas_id="02015" joined="2014-04-29"/>
+    <cosponsor thomas_id="02069" joined="2013-12-19"/>
+    <cosponsor thomas_id="01921" joined="2013-06-20"/>
+    <cosponsor thomas_id="00603" joined="2014-02-06"/>
+    <cosponsor thomas_id="02199" joined="2014-06-26"/>
+    <cosponsor thomas_id="00612" joined="2013-05-15"/>
+    <cosponsor thomas_id="02154" joined="2014-06-11"/>
+    <cosponsor thomas_id="02051" joined="2013-06-27"/>
+    <cosponsor thomas_id="02169" joined="2014-05-01"/>
+    <cosponsor thomas_id="00635" joined="2014-03-04"/>
+    <cosponsor thomas_id="01724" joined="2014-05-28"/>
+    <cosponsor thomas_id="02014" joined="2014-06-05"/>
+    <cosponsor thomas_id="01733" joined="2013-09-27"/>
+    <cosponsor thomas_id="02145" joined="2013-10-02"/>
+    <cosponsor thomas_id="01834" joined="2014-04-29"/>
+    <cosponsor thomas_id="02050" joined="2014-01-28"/>
+    <cosponsor thomas_id="01885" joined="2014-04-29"/>
+    <cosponsor thomas_id="01846" joined="2013-07-08"/>
+    <cosponsor thomas_id="02033" joined="2013-06-13"/>
+    <cosponsor thomas_id="00711" joined="2014-01-31"/>
+    <cosponsor thomas_id="02146" joined="2013-10-30"/>
+    <cosponsor thomas_id="01939" joined="2014-06-11"/>
+    <cosponsor thomas_id="01960" joined="2014-04-28"/>
+    <cosponsor thomas_id="01943" joined="2014-04-28"/>
+    <cosponsor thomas_id="02150" joined="2013-10-23"/>
+    <cosponsor thomas_id="01806" joined="2013-11-20"/>
+    <cosponsor thomas_id="02053" joined="2014-05-01"/>
+    <cosponsor thomas_id="01671" joined="2013-12-12"/>
+    <cosponsor thomas_id="02195" joined="2014-01-16"/>
+    <cosponsor thomas_id="01804" joined="2014-07-28"/>
+    <cosponsor thomas_id="01792" joined="2014-04-28"/>
+    <cosponsor thomas_id="01505" joined="2013-07-08"/>
+    <cosponsor thomas_id="02074" joined="2014-06-05"/>
+    <cosponsor thomas_id="02142" joined="2014-03-26"/>
+    <cosponsor thomas_id="02052" joined="2014-06-26"/>
+    <cosponsor thomas_id="01584" joined="2013-04-25"/>
+    <cosponsor thomas_id="01744" joined="2014-05-01"/>
+    <cosponsor thomas_id="01758" joined="2013-06-13"/>
+    <cosponsor thomas_id="02060" joined="2013-06-14"/>
+    <cosponsor thomas_id="00867" joined="2013-10-23"/>
+    <cosponsor thomas_id="02001" joined="2013-06-13"/>
+    <cosponsor thomas_id="02034" joined="2013-06-20"/>
+    <cosponsor thomas_id="01955" joined="2014-05-01"/>
+    <cosponsor thomas_id="01974" joined="2013-07-08"/>
+    <cosponsor thomas_id="02035" joined="2013-07-19"/>
+    <cosponsor thomas_id="01738" joined="2013-04-26"/>
+    <cosponsor thomas_id="01835" joined="2013-12-04"/>
+    <cosponsor thomas_id="02157" joined="2014-01-28"/>
+    <cosponsor thomas_id="00910" joined="2013-07-19"/>
+    <cosponsor thomas_id="00912" joined="2014-04-04"/>
+    <cosponsor thomas_id="02141" joined="2013-06-13"/>
+    <cosponsor thomas_id="01802" joined="2014-01-31"/>
+    <cosponsor thomas_id="02022" joined="2014-01-16"/>
+    <cosponsor thomas_id="01915" joined="2013-11-18"/>
+    <cosponsor thomas_id="01967" joined="2013-09-10"/>
+    <cosponsor thomas_id="02118" joined="2013-08-01"/>
+    <cosponsor thomas_id="00940" joined="2014-04-28"/>
+    <cosponsor thomas_id="01982" joined="2014-02-27"/>
+    <cosponsor thomas_id="02048" joined="2013-11-12"/>
+    <cosponsor thomas_id="02073" joined="2014-02-04"/>
+    <cosponsor thomas_id="02160" joined="2014-04-03"/>
+    <cosponsor thomas_id="02068" joined="2014-05-06"/>
+    <cosponsor thomas_id="01954" joined="2013-10-08"/>
+    <cosponsor thomas_id="01704" joined="2013-06-14"/>
+    <cosponsor thomas_id="02017" joined="2014-04-28"/>
+    <cosponsor thomas_id="02003" joined="2013-12-09"/>
+    <cosponsor thomas_id="02158" joined="2013-12-12"/>
+    <cosponsor thomas_id="01003" joined="2013-11-20"/>
+    <cosponsor thomas_id="01892" joined="2013-09-27"/>
+    <cosponsor thomas_id="01920" joined="2013-10-08"/>
+    <cosponsor thomas_id="01994" joined="2013-06-27"/>
+    <cosponsor thomas_id="01722" joined="2013-10-08"/>
+    <cosponsor thomas_id="01525" joined="2014-01-31"/>
+    <cosponsor thomas_id="01988" joined="2013-08-02"/>
+    <cosponsor thomas_id="01527" joined="2014-04-28"/>
+    <cosponsor thomas_id="01590" joined="2014-03-26"/>
+    <cosponsor thomas_id="01860" joined="2014-06-05"/>
+    <cosponsor thomas_id="02191" joined="2013-08-01"/>
+    <cosponsor thomas_id="01075" joined="2013-12-19"/>
+    <cosponsor thomas_id="02000" joined="2014-07-10"/>
+    <cosponsor thomas_id="02047" joined="2013-04-26"/>
+    <cosponsor thomas_id="01114" joined="2014-05-01"/>
+    <cosponsor thomas_id="01981" joined="2014-04-03"/>
+    <cosponsor thomas_id="01566" joined="2014-01-16"/>
+    <cosponsor thomas_id="01952" joined="2014-06-05"/>
+    <cosponsor thomas_id="01155" joined="2013-10-14"/>
+    <cosponsor thomas_id="01664" joined="2013-05-15"/>
+    <cosponsor thomas_id="01997" joined="2013-09-19"/>
+    <cosponsor thomas_id="02166" joined="2013-10-02"/>
+    <cosponsor thomas_id="02137" joined="2013-06-13"/>
+    <cosponsor thomas_id="01855" joined="2013-05-21"/>
+    <cosponsor thomas_id="01596" joined="2014-02-27"/>
+    <cosponsor thomas_id="01856" joined="2014-05-09"/>
+    <cosponsor thomas_id="01777" joined="2013-09-25"/>
+    <cosponsor thomas_id="01779" joined="2013-04-25"/>
+    <cosponsor thomas_id="01222" joined="2013-06-14"/>
+    <cosponsor thomas_id="02165" joined="2013-11-18"/>
+    <cosponsor thomas_id="01886" joined="2014-06-20"/>
+    <cosponsor thomas_id="01991" joined="2013-08-01"/>
+    <cosponsor thomas_id="02021" joined="2014-01-10"/>
+    <cosponsor thomas_id="01256" joined="2013-07-19"/>
+    <cosponsor thomas_id="02019" joined="2014-01-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-25" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="4304"/>
+    <bill type="h" session="113" relation="unknown" number="4304"/>
+    <bill type="h" session="113" relation="unknown" number="4521"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Accounting and auditing"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Bank accounts, deposits, capital"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Business records"/>
+    <term name="Consumer Financial Protection Bureau"/>
+    <term name="Consumer affairs"/>
+    <term name="Consumer credit"/>
+    <term name="Corporate finance and management"/>
+    <term name="Department of the Treasury"/>
+    <term name="Federal Deposit Insurance Corporation (FDIC)"/>
+    <term name="Federal Reserve System"/>
+    <term name="Financial services and investments"/>
+    <term name="Foreign and international banking"/>
+    <term name="Housing finance and home ownership"/>
+    <term name="National Credit Union Administration"/>
+    <term name="Real estate business"/>
+    <term name="Right of privacy"/>
+    <term name="Sanctions"/>
+    <term name="Securities"/>
+    <term name="Securities and Exchange Commission (SEC)"/>
+    <term name="Small business"/>
+  </subjects>
+  <amendments/>
+  <summary>4/25/2013--Introduced.
+Community Lending Enhancement and Regulatory Relief Act of 2013 or CLEAR Relief Act of 2013 - Directs the Board of Governors of the Federal Reserve System (Board) to publish in the Federal Register proposed revisions to the Small Bank Holding Company Policy Statement on the Assessment of Financial and Managerial Factors that: (1) apply the policy to bank holding companies having pro forma consolidated assets of less than $5 billion (adjusted annually), no engagement in nonbanking activities involving significant leverage, and no significant amount of outstanding debt; and (2) increase from 1.1 to 3.1 the debt-to-equity ratio allowable for a small bank holding company in order to retain its eligibility both to pay a corporate dividend and to implement expedited processing procedures under Regulation Y of the Board.
+
+Amends the Truth in Lending Act (TILA) to require the Board to exempt from certain escrow or impound requirements a loan secured by a first lien on a consumer's principal dwelling if the loan is held by a creditor with assets of $10 billion or less. Amends the Gramm-Leach-Bliley Act to exempt from its annual privacy policy notice requirement any financial institution which: (1) provides nonpublic personal information only in accordance with specified requirements, and (2) has not changed its policies and practices regarding disclosures of nonpublic personal information from those disclosed in the most recent disclosure sent to consumers.
+
+Amends the Securities Act of 1933 to direct the Securities and Exchange Commission (SEC) to conduct cost-benefit analyses of certain new or amended generally accepted accounting principles. Requires the SEC to determine, as a prerequisite to recognition of such new or amended principles, whether the benefits to investors significantly outweigh the costs.
+
+Amends the Sarbanes-Oxley Act of 2002 to exempt community banks having total assets on a consolidated basis of $10 billion or less from mandatory annual management assessment of internal controls.
+
+Amends TILA to: (1) add to the definition of a qualified residential mortgage loan that it is originated and retained in a portfolio for at least three years by a creditor having less than $10 billion total assets, and (2) redefine a balloon loan that is a "qualified mortgage" to specify a balloon loan extended by a creditor that originates and retains balloon loans in a portfolio for at least three years, and, together with all affiliates, has total assets of $10 billion or less.
+
+Amends the Real Estate Settlement Procedures Act of 1974 to direct the Consumer Financial Protection Bureau (CFPB) to provide either exemptions or adjustments from the mortgage loan servicing and escrow account administration requirements of the Act for servicers of 20,000 or fewer mortgage loans.
+
+Amends the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 to require federal financial institutions regulatory agencies to establish a $250,000 threshold level at or below which a certified or licensed appraiser is not required to perform appraisals in connection with federally related transactions.
+
+Declares that, if an order to request for the transfer of funds (entry) is received via an automate clearing house, a receiving depository financial institution shall not be required to verify that the entry is not a prohibited transaction if the originating depository financial institution has warranted its compliance with the sanctions programs administered by the Office of Foreign Assets Control in connection with the entry.</summary>
+</bill>

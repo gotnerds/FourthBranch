@@ -1,0 +1,127 @@
+<bill session="113" type="h" number="2856" updated="2014-08-14T13:15:50-04:00">
+  <state datetime="2013-07-30">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-30"/>
+  </status>
+  <introduced datetime="2013-07-30"/>
+  <titles>
+    <title type="short" as="introduced">Captive Primate Safety Act</title>
+    <title type="official" as="introduced">To amend the Lacey Act Amendments of 1981 to prohibit importation, exportation, transportation, sale, receipt, acquisition, and purchase in interstate or foreign commerce, or in a manner substantially affecting interstate or foreign commerce, of any live animal of any prohibited wildlife species.</title>
+  </titles>
+  <sponsor thomas_id="01797"/>
+  <cosponsors>
+    <cosponsor thomas_id="02153" joined="2013-12-19"/>
+    <cosponsor thomas_id="01740" joined="2014-07-28"/>
+    <cosponsor thomas_id="00099" joined="2013-07-30"/>
+    <cosponsor thomas_id="01845" joined="2014-08-01"/>
+    <cosponsor thomas_id="02106" joined="2014-07-28"/>
+    <cosponsor thomas_id="01840" joined="2014-07-28"/>
+    <cosponsor thomas_id="02127" joined="2014-07-31"/>
+    <cosponsor thomas_id="01471" joined="2014-07-31"/>
+    <cosponsor thomas_id="01564" joined="2014-07-23"/>
+    <cosponsor thomas_id="02107" joined="2014-07-23"/>
+    <cosponsor thomas_id="02196" joined="2014-07-22"/>
+    <cosponsor thomas_id="01864" joined="2014-07-28"/>
+    <cosponsor thomas_id="01959" joined="2014-05-28"/>
+    <cosponsor thomas_id="00229" joined="2013-07-30"/>
+    <cosponsor thomas_id="01836" joined="2014-07-09"/>
+    <cosponsor thomas_id="01604" joined="2014-07-28"/>
+    <cosponsor thomas_id="00256" joined="2014-08-01"/>
+    <cosponsor thomas_id="01641" joined="2014-07-23"/>
+    <cosponsor thomas_id="00279" joined="2014-07-23"/>
+    <cosponsor thomas_id="02133" joined="2014-07-28"/>
+    <cosponsor thomas_id="00281" joined="2014-07-09"/>
+    <cosponsor thomas_id="02096" joined="2014-07-08"/>
+    <cosponsor thomas_id="01976" joined="2014-07-23"/>
+    <cosponsor thomas_id="00303" joined="2014-07-28"/>
+    <cosponsor thomas_id="00316" joined="2014-07-23"/>
+    <cosponsor thomas_id="00344" joined="2014-05-28"/>
+    <cosponsor thomas_id="02114" joined="2014-07-09"/>
+    <cosponsor thomas_id="00368" joined="2013-07-30"/>
+    <cosponsor thomas_id="00371" joined="2014-06-19"/>
+    <cosponsor thomas_id="01888" joined="2014-07-08"/>
+    <cosponsor thomas_id="02119" joined="2014-07-31"/>
+    <cosponsor thomas_id="02043" joined="2014-07-31"/>
+    <cosponsor thomas_id="01708" joined="2014-07-23"/>
+    <cosponsor thomas_id="02089" joined="2014-07-28"/>
+    <cosponsor thomas_id="00511" joined="2014-07-08"/>
+    <cosponsor thomas_id="02170" joined="2014-07-23"/>
+    <cosponsor thomas_id="01913" joined="2014-05-28"/>
+    <cosponsor thomas_id="01580" joined="2014-07-28"/>
+    <cosponsor thomas_id="01663" joined="2014-07-28"/>
+    <cosponsor thomas_id="00599" joined="2014-07-28"/>
+    <cosponsor thomas_id="00612" joined="2014-07-22"/>
+    <cosponsor thomas_id="02169" joined="2014-07-24"/>
+    <cosponsor thomas_id="00635" joined="2014-07-09"/>
+    <cosponsor thomas_id="02145" joined="2014-07-28"/>
+    <cosponsor thomas_id="01936" joined="2014-07-31"/>
+    <cosponsor thomas_id="01668" joined="2014-07-23"/>
+    <cosponsor thomas_id="01583" joined="2014-07-09"/>
+    <cosponsor thomas_id="00699" joined="2014-07-28"/>
+    <cosponsor thomas_id="01846" joined="2014-07-28"/>
+    <cosponsor thomas_id="00701" joined="2014-07-22"/>
+    <cosponsor thomas_id="02111" joined="2013-10-08"/>
+    <cosponsor thomas_id="02150" joined="2014-07-28"/>
+    <cosponsor thomas_id="01504" joined="2014-07-28"/>
+    <cosponsor thomas_id="01832" joined="2014-08-01"/>
+    <cosponsor thomas_id="02148" joined="2014-07-31"/>
+    <cosponsor thomas_id="00832" joined="2013-07-30"/>
+    <cosponsor thomas_id="00850" joined="2014-07-23"/>
+    <cosponsor thomas_id="00868" joined="2014-07-23"/>
+    <cosponsor thomas_id="01510" joined="2014-08-01"/>
+    <cosponsor thomas_id="01929" joined="2014-07-28"/>
+    <cosponsor thomas_id="02113" joined="2014-07-22"/>
+    <cosponsor thomas_id="01910" joined="2014-05-28"/>
+    <cosponsor thomas_id="00930" joined="2014-07-28"/>
+    <cosponsor thomas_id="01967" joined="2014-07-28"/>
+    <cosponsor thomas_id="01728" joined="2014-07-31"/>
+    <cosponsor thomas_id="01757" joined="2014-07-23"/>
+    <cosponsor thomas_id="01588" joined="2013-10-22"/>
+    <cosponsor thomas_id="01635" joined="2014-07-08"/>
+    <cosponsor thomas_id="01798" joined="2013-10-16"/>
+    <cosponsor thomas_id="01861" joined="2014-01-07"/>
+    <cosponsor thomas_id="01818" joined="2014-07-23"/>
+    <cosponsor thomas_id="01069" joined="2014-07-31"/>
+    <cosponsor thomas_id="01071" joined="2014-07-28"/>
+    <cosponsor thomas_id="02104" joined="2014-08-01"/>
+    <cosponsor thomas_id="02110" joined="2014-07-28"/>
+    <cosponsor thomas_id="01535" joined="2014-07-22"/>
+    <cosponsor thomas_id="01940" joined="2013-09-17"/>
+    <cosponsor thomas_id="01942" joined="2014-07-28"/>
+    <cosponsor thomas_id="01884" joined="2014-08-01"/>
+    <cosponsor thomas_id="02112" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-30" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-08-06">
+      <text>Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Fisheries, Wildlife, Oceans, and Insular Affairs" code="HSII22" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="1463"/>
+  </relatedbills>
+  <subjects>
+    <term name="Animals"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Animal protection and human-animal relationships"/>
+    <term name="Crimes against animals and natural resources"/>
+    <term name="Department of the Interior"/>
+    <term name="Disability assistance"/>
+    <term name="Mammals"/>
+    <term name="Smuggling and trafficking"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+  <summary>7/30/2013--Introduced.
+Captive Primate Safety Act - Amends the Lacey Act Amendments of 1981 to add nonhuman primates to the definition of "prohibited wildlife species" for purposes of the prohibition against the sale or purchase of such species in interstate or foreign commerce.
+
+Makes it unlawful for a person to import, export, transport, sell, receive, acquire, or purchase a live animal of any prohibited wildlife species in interstate or foreign commerce (i.e., for pet trade purposes). Modifies exceptions to such prohibition, including by making it inapplicable to a person who is: (1) a licensed and inspected person who does not allow direct contact between the public and prohibited wildlife species, and (2) transporting a single primate of the genus Cebus that was obtained from and trained by a charitable organization to assist a permanently disabled individual with a severe mobility impairment.
+
+Sets forth civil and criminal penalties for violations of the requirements of this Act.</summary>
+</bill>

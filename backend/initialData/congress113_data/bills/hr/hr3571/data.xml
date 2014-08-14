@@ -1,0 +1,130 @@
+<bill session="113" type="h" number="3571" updated="2014-08-14T13:21:58-04:00">
+  <state datetime="2013-11-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-11-21"/>
+  </status>
+  <introduced datetime="2013-11-21"/>
+  <titles>
+    <title type="short" as="introduced">International Violence Against Women Act of 2013</title>
+    <title type="official" as="introduced">To prevent international violence against women, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01588"/>
+  <cosponsors>
+    <cosponsor thomas_id="02153" joined="2014-06-23"/>
+    <cosponsor thomas_id="02102" joined="2014-02-26"/>
+    <cosponsor thomas_id="01723" joined="2013-12-12"/>
+    <cosponsor thomas_id="01845" joined="2013-12-04"/>
+    <cosponsor thomas_id="02129" joined="2014-03-04"/>
+    <cosponsor thomas_id="02106" joined="2013-12-12"/>
+    <cosponsor thomas_id="02127" joined="2013-12-12"/>
+    <cosponsor thomas_id="02055" joined="2013-12-19"/>
+    <cosponsor thomas_id="02196" joined="2014-02-05"/>
+    <cosponsor thomas_id="02151" joined="2014-04-28"/>
+    <cosponsor thomas_id="00229" joined="2013-12-04"/>
+    <cosponsor thomas_id="01641" joined="2014-04-28"/>
+    <cosponsor thomas_id="02133" joined="2014-01-14"/>
+    <cosponsor thomas_id="02096" joined="2014-01-08"/>
+    <cosponsor thomas_id="01799" joined="2014-04-28"/>
+    <cosponsor thomas_id="00303" joined="2013-12-19"/>
+    <cosponsor thomas_id="01857" joined="2013-12-12"/>
+    <cosponsor thomas_id="00344" joined="2013-11-21"/>
+    <cosponsor thomas_id="02125" joined="2014-04-28"/>
+    <cosponsor thomas_id="02114" joined="2014-03-04"/>
+    <cosponsor thomas_id="00368" joined="2014-02-26"/>
+    <cosponsor thomas_id="01797" joined="2014-05-20"/>
+    <cosponsor thomas_id="02043" joined="2013-11-21"/>
+    <cosponsor thomas_id="01708" joined="2013-12-12"/>
+    <cosponsor thomas_id="02041" joined="2014-06-23"/>
+    <cosponsor thomas_id="02044" joined="2013-11-21"/>
+    <cosponsor thomas_id="02040" joined="2013-12-12"/>
+    <cosponsor thomas_id="01794" joined="2014-02-28"/>
+    <cosponsor thomas_id="01580" joined="2014-02-26"/>
+    <cosponsor thomas_id="01634" joined="2013-12-12"/>
+    <cosponsor thomas_id="02101" joined="2013-12-12"/>
+    <cosponsor thomas_id="01663" joined="2014-03-24"/>
+    <cosponsor thomas_id="01843" joined="2013-12-12"/>
+    <cosponsor thomas_id="02025" joined="2013-12-04"/>
+    <cosponsor thomas_id="01936" joined="2014-03-24"/>
+    <cosponsor thomas_id="01668" joined="2014-02-05"/>
+    <cosponsor thomas_id="01675" joined="2013-12-19"/>
+    <cosponsor thomas_id="01501" joined="2013-12-04"/>
+    <cosponsor thomas_id="00683" joined="2013-12-04"/>
+    <cosponsor thomas_id="00688" joined="2014-03-11"/>
+    <cosponsor thomas_id="02111" joined="2013-12-19"/>
+    <cosponsor thomas_id="00709" joined="2013-11-21"/>
+    <cosponsor thomas_id="01943" joined="2013-12-04"/>
+    <cosponsor thomas_id="02150" joined="2014-02-05"/>
+    <cosponsor thomas_id="02053" joined="2014-02-05"/>
+    <cosponsor thomas_id="01814" joined="2014-03-12"/>
+    <cosponsor thomas_id="01503" joined="2014-06-23"/>
+    <cosponsor thomas_id="01653" joined="2014-05-20"/>
+    <cosponsor thomas_id="00766" joined="2013-12-04"/>
+    <cosponsor thomas_id="01504" joined="2013-12-04"/>
+    <cosponsor thomas_id="02052" joined="2014-03-05"/>
+    <cosponsor thomas_id="01811" joined="2013-12-12"/>
+    <cosponsor thomas_id="02097" joined="2014-05-20"/>
+    <cosponsor thomas_id="01927" joined="2013-12-12"/>
+    <cosponsor thomas_id="01967" joined="2014-05-20"/>
+    <cosponsor thomas_id="01982" joined="2014-02-26"/>
+    <cosponsor thomas_id="01635" joined="2014-03-12"/>
+    <cosponsor thomas_id="01920" joined="2014-01-14"/>
+    <cosponsor thomas_id="01861" joined="2014-04-28"/>
+    <cosponsor thomas_id="01818" joined="2014-01-08"/>
+    <cosponsor thomas_id="01069" joined="2014-02-05"/>
+    <cosponsor thomas_id="01528" joined="2014-04-28"/>
+    <cosponsor thomas_id="02110" joined="2014-02-28"/>
+    <cosponsor thomas_id="01535" joined="2014-02-05"/>
+    <cosponsor thomas_id="01940" joined="2014-02-26"/>
+    <cosponsor thomas_id="01884" joined="2014-04-28"/>
+    <cosponsor thomas_id="01729" joined="2014-03-05"/>
+    <cosponsor thomas_id="01777" joined="2013-11-21"/>
+    <cosponsor thomas_id="01209" joined="2014-01-08"/>
+    <cosponsor thomas_id="01879" joined="2013-12-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-11-21" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2307"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Congressional oversight"/>
+    <term name="Crime prevention"/>
+    <term name="Crimes against children"/>
+    <term name="Crimes against women"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Department of State"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Government information and archives"/>
+    <term name="Human rights"/>
+    <term name="Human trafficking"/>
+    <term name="Law enforcement officers"/>
+    <term name="Marriage and family status"/>
+    <term name="Performance measurement"/>
+    <term name="Sex offenses"/>
+    <term name="U.S. Agency for International Development (USAID)"/>
+    <term name="Violent crime"/>
+    <term name="Women in business"/>
+    <term name="Women's education"/>
+    <term name="Women's rights"/>
+  </subjects>
+  <amendments/>
+  <summary>11/21/2013--Introduced.
+International Violence Against Women Act of 2013 - Directs the Secretary of State to establish an Office of Global Women's Issues which shall be headed by an Ambassador-at-Large for Global Women's Issues.
+
+Directs the Ambassador-at-Large to coordinate U.S. government efforts regarding gender integration and advancing the status of women and girls in U.S. foreign policy.
+
+ Establishes in the U.S. Agency for International Development (USAID) a Senior Coordinator for Gender Equality and Women's Empowerment who shall direct USAID activities, policies, programs, and funding relating to gender equality and women's empowerment.
+
+Directs the Ambassador-at-Large to develop or update annually for six years a U.S. global strategy to prevent and respond to violence against women and girls.
+
+Authorizes the Secretary and the Administrator of USAID to provide assistance to prevent and respond to violence against women and girls internationally.</summary>
+</bill>

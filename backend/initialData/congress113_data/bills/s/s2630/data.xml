@@ -1,0 +1,30 @@
+<bill session="113" type="s" number="2630" updated="2014-08-14T14:07:13-04:00">
+  <state datetime="2014-07-17">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-17"/>
+  </status>
+  <introduced datetime="2014-07-17"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Endangered Species Act of 1973 to require disclosure to States of the basis of determinations under such Act, to ensure use of information provided by State, tribal, and county governments in decisionmaking under such Act, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01542"/>
+  <cosponsors>
+    <cosponsor thomas_id="01881" joined="2014-07-17"/>
+    <cosponsor thomas_id="01692" joined="2014-07-21"/>
+    <cosponsor thomas_id="00968" joined="2014-07-17"/>
+    <cosponsor thomas_id="01534" joined="2014-07-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-17" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="4317"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

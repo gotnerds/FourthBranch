@@ -1,0 +1,89 @@
+<bill session="113" type="hj" number="25" updated="2014-08-14T13:37:46-04:00">
+  <state datetime="2013-02-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-06"/>
+  </status>
+  <introduced datetime="2013-02-06"/>
+  <titles>
+    <title type="official" as="introduced">Proposing an amendment to the Constitution of the United States to clarify the authority of Congress and the States to regulate the expenditure of funds for political activity by corporations.</title>
+  </titles>
+  <sponsor thomas_id="01894"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2013-02-06"/>
+    <cosponsor thomas_id="00099" joined="2013-02-06"/>
+    <cosponsor thomas_id="02106" joined="2013-03-14"/>
+    <cosponsor thomas_id="01564" joined="2013-02-06"/>
+    <cosponsor thomas_id="02055" joined="2013-02-06"/>
+    <cosponsor thomas_id="01878" joined="2013-02-06"/>
+    <cosponsor thomas_id="00229" joined="2013-02-06"/>
+    <cosponsor thomas_id="01641" joined="2013-02-06"/>
+    <cosponsor thomas_id="01857" joined="2013-02-26"/>
+    <cosponsor thomas_id="02125" joined="2014-04-07"/>
+    <cosponsor thomas_id="02114" joined="2013-02-06"/>
+    <cosponsor thomas_id="00368" joined="2013-02-12"/>
+    <cosponsor thomas_id="02122" joined="2013-02-14"/>
+    <cosponsor thomas_id="01914" joined="2013-02-06"/>
+    <cosponsor thomas_id="00462" joined="2013-03-05"/>
+    <cosponsor thomas_id="01708" joined="2013-02-06"/>
+    <cosponsor thomas_id="02089" joined="2013-02-06"/>
+    <cosponsor thomas_id="00511" joined="2013-03-14"/>
+    <cosponsor thomas_id="02170" joined="2014-03-04"/>
+    <cosponsor thomas_id="01913" joined="2013-02-06"/>
+    <cosponsor thomas_id="01634" joined="2013-12-11"/>
+    <cosponsor thomas_id="02101" joined="2013-02-06"/>
+    <cosponsor thomas_id="00599" joined="2013-02-06"/>
+    <cosponsor thomas_id="01843" joined="2013-02-06"/>
+    <cosponsor thomas_id="02025" joined="2013-02-12"/>
+    <cosponsor thomas_id="02145" joined="2013-07-11"/>
+    <cosponsor thomas_id="01583" joined="2013-03-15"/>
+    <cosponsor thomas_id="01501" joined="2013-02-06"/>
+    <cosponsor thomas_id="00709" joined="2014-05-06"/>
+    <cosponsor thomas_id="01686" joined="2013-03-14"/>
+    <cosponsor thomas_id="00735" joined="2013-02-06"/>
+    <cosponsor thomas_id="00766" joined="2013-02-06"/>
+    <cosponsor thomas_id="01504" joined="2013-02-06"/>
+    <cosponsor thomas_id="01506" joined="2013-02-06"/>
+    <cosponsor thomas_id="01730" joined="2014-02-03"/>
+    <cosponsor thomas_id="00832" joined="2013-02-12"/>
+    <cosponsor thomas_id="00850" joined="2013-07-11"/>
+    <cosponsor thomas_id="01602" joined="2013-02-14"/>
+    <cosponsor thomas_id="00867" joined="2014-04-07"/>
+    <cosponsor thomas_id="00868" joined="2013-02-06"/>
+    <cosponsor thomas_id="02113" joined="2013-02-12"/>
+    <cosponsor thomas_id="01927" joined="2013-02-06"/>
+    <cosponsor thomas_id="02171" joined="2013-02-13"/>
+    <cosponsor thomas_id="00944" joined="2014-02-03"/>
+    <cosponsor thomas_id="01003" joined="2013-02-06"/>
+    <cosponsor thomas_id="01854" joined="2013-02-06"/>
+    <cosponsor thomas_id="01861" joined="2013-02-06"/>
+    <cosponsor thomas_id="01069" joined="2013-02-06"/>
+    <cosponsor thomas_id="02104" joined="2013-03-05"/>
+    <cosponsor thomas_id="01535" joined="2013-02-26"/>
+    <cosponsor thomas_id="01729" joined="2013-02-06"/>
+    <cosponsor thomas_id="01209" joined="2013-02-06"/>
+    <cosponsor thomas_id="01879" joined="2013-02-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-06" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-02-28">
+      <text>Referred to the Subcommittee on the Constitution And Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee subcommittee="Constitution and Civil Justice" code="HSJU10" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Constitution and constitutional amendments"/>
+    <term name="Corporate finance and management"/>
+    <term name="Elections, voting, political campaign regulation"/>
+    <term name="Political advertising"/>
+  </subjects>
+  <amendments/>
+  <summary>2/6/2013--Introduced.
+Constitutional Amendment - States that nothing in the U.S. Constitution shall prohibit Congress and the states from imposing content-neutral regulations and restrictions on the expenditure of funds for political activity by any corporation, limited liability company, or other corporate entity, including but not limited to contributions in support of, or in opposition to, a candidate for public office.</summary>
+</bill>

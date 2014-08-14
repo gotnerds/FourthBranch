@@ -1,0 +1,101 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-02", 
+      "committees": [
+        "SSBK"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2411-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Banking, Housing, and Urban Affairs", 
+      "committee_id": "SSBK"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Brown, Sherrod", 
+      "sponsored_at": "2014-06-02", 
+      "state": "OH", 
+      "thomas_id": "00136", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Leahy, Patrick J.", 
+      "sponsored_at": "2014-06-02", 
+      "state": "VT", 
+      "thomas_id": "01383", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-06-02", 
+  "number": "2411", 
+  "official_title": "A bill to provide for the establishment of the United States Employee Ownership Bank, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "United States Employee Ownership Bank Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Sanders, Bernard", 
+    "state": "VT", 
+    "thomas_id": "01010", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-06-02", 
+  "subjects": [
+    "Bank accounts, deposits, capital", 
+    "Banking and financial institutions regulation", 
+    "Corporate finance and management", 
+    "Department of the Treasury", 
+    "Employee benefits and pensions", 
+    "Employment discrimination and employee rights", 
+    "Executive agency funding and structure", 
+    "Government lending and loan guarantees", 
+    "Labor and employment", 
+    "Labor-management relations", 
+    "Unemployment"
+  ], 
+  "subjects_top_term": "Labor and employment", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "United States Employee Ownership Bank Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to provide for the establishment of the United States Employee Ownership Bank, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T14:05:23-04:00"
+}

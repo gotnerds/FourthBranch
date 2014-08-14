@@ -1,0 +1,45 @@
+<bill session="113" type="s" number="2687" updated="2014-08-14T14:07:42-04:00">
+  <state datetime="2014-07-30">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-30"/>
+  </status>
+  <introduced datetime="2014-07-30"/>
+  <titles>
+    <title type="short" as="introduced">Access to Contraception for Women Servicemembers and Dependents Act of 2014</title>
+    <title type="official" as="introduced">A bill to amend title 10, United States Code, to ensure that women members of the Armed Forces and their families have access to the contraception they need in order to promote the health and readiness of all members of the Armed Forces, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01901"/>
+  <cosponsors>
+    <cosponsor thomas_id="01558" joined="2014-07-30"/>
+    <cosponsor thomas_id="01898" joined="2014-07-30"/>
+    <cosponsor thomas_id="02076" joined="2014-07-30"/>
+    <cosponsor thomas_id="00116" joined="2014-07-30"/>
+    <cosponsor thomas_id="00136" joined="2014-07-30"/>
+    <cosponsor thomas_id="00326" joined="2014-07-30"/>
+    <cosponsor thomas_id="01332" joined="2014-07-30"/>
+    <cosponsor thomas_id="01969" joined="2014-07-30"/>
+    <cosponsor thomas_id="01866" joined="2014-07-30"/>
+    <cosponsor thomas_id="01844" joined="2014-07-30"/>
+    <cosponsor thomas_id="00791" joined="2014-07-31"/>
+    <cosponsor thomas_id="01409" joined="2014-07-30"/>
+    <cosponsor thomas_id="00952" joined="2014-07-30"/>
+    <cosponsor thomas_id="01010" joined="2014-08-05"/>
+    <cosponsor thomas_id="02173" joined="2014-07-30"/>
+    <cosponsor thomas_id="01531" joined="2014-07-30"/>
+    <cosponsor thomas_id="01829" joined="2014-07-30"/>
+    <cosponsor thomas_id="01595" joined="2014-07-31"/>
+    <cosponsor thomas_id="02182" joined="2014-07-30"/>
+    <cosponsor thomas_id="01247" joined="2014-07-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-30" state="REFERRED">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSAS" name="Senate Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

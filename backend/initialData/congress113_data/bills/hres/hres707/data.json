@@ -1,0 +1,105 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-31", 
+      "committees": [
+        "HSFA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Foreign Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hres707-113", 
+  "bill_type": "hres", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Foreign Affairs", 
+      "committee_id": "HSFA"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "12", 
+      "name": "Bilirakis, Gus M.", 
+      "sponsored_at": "2014-08-01", 
+      "state": "FL", 
+      "thomas_id": "01838", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "12", 
+      "name": "Granger, Kay", 
+      "sponsored_at": "2014-08-01", 
+      "state": "TX", 
+      "thomas_id": "01487", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "17", 
+      "name": "Lowey, Nita M.", 
+      "sponsored_at": "2014-07-31", 
+      "state": "NY", 
+      "thomas_id": "00709", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "6", 
+      "name": "Roskam, Peter J.", 
+      "sponsored_at": "2014-07-31", 
+      "state": "IL", 
+      "thomas_id": "01848", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-07-31", 
+  "number": "707", 
+  "official_title": "Condemning all forms of anti-Semitism and rejecting attempts to justify anti-Jewish hatred or violent attacks as an acceptable expression of disapproval or frustration over political events in the Middle East or elsewhere.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": null, 
+  "sponsor": {
+    "district": "10", 
+    "name": "Nadler, Jerrold", 
+    "state": "NY", 
+    "thomas_id": "00850", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-07-31", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-31", 
+    "text": "Condemns: (1) all forms of anti-Semitism and rejects attempts to justify anti-Jewish hatred or violent attacks as an acceptable expression of disapproval over political events, and (2) the comparison of Israel to Nazis perpetrating a Holocaust or genocide.\n\n Applauds those foreign leaders, especially in France, Italy, and Germany, who have condemned anti-Semitic acts, and calls on those who have yet to take firm action against anti-Semitism in their countries to do so.\n\n Reaffirms support for the mandate of the United States Special Envoy to Monitor and Combat Anti-Semitism.\n\nSupports Holocaust educational programs at home and abroad.\n\nUrges the Secretary of State to:\n\n maintain the fight against anti-Semitism as a U.S. foreign policy priority, urge governments to ensure that adequate laws are in place to punish anti-Semitic violence and hate crimes as well as establish mechanisms to investigate and punish perpetrators, continue U.S. reporting on anti-Semitism as a human rights and religious freedom issue, provide training for diplomatic and law enforcement personnel posted abroad to report on anti-Semitic incidents, deepen engagement with the Organization for Security and Cooperation in Europe and support its specialized efforts to monitor and address anti-Semitism, and oppose efforts to prevent any individual from exercising his or her religion without fear of prosecution or violence."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Condemning all forms of anti-Semitism and rejecting attempts to justify anti-Jewish hatred or violent attacks as an acceptable expression of disapproval or frustration over political events in the Middle East or elsewhere.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T12:50:38-04:00"
+}

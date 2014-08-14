@@ -1,0 +1,63 @@
+<bill session="113" type="h" number="1759" updated="2014-08-14T13:05:42-04:00">
+  <state datetime="2013-04-25">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-25"/>
+  </status>
+  <introduced datetime="2013-04-25"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to submit to Congress quarterly reports on the timeliness in which the Department of Veterans Affairs receives certain information from other departments or agencies of the United States.</title>
+  </titles>
+  <sponsor thomas_id="02109"/>
+  <cosponsors>
+    <cosponsor thomas_id="02093" joined="2013-04-25"/>
+    <cosponsor thomas_id="02106" joined="2013-05-09"/>
+    <cosponsor thomas_id="02107" joined="2013-04-25"/>
+    <cosponsor thomas_id="02055" joined="2013-05-24"/>
+    <cosponsor thomas_id="02103" joined="2013-04-25"/>
+    <cosponsor thomas_id="01708" joined="2013-07-09"/>
+    <cosponsor thomas_id="01907" joined="2013-04-25"/>
+    <cosponsor thomas_id="02145" joined="2013-05-07"/>
+    <cosponsor thomas_id="01501" joined="2013-05-09"/>
+    <cosponsor thomas_id="01503" joined="2013-05-14"/>
+    <cosponsor thomas_id="01505" joined="2013-05-07"/>
+    <cosponsor thomas_id="01811" joined="2013-05-22"/>
+    <cosponsor thomas_id="02117" joined="2013-05-17"/>
+    <cosponsor thomas_id="02108" joined="2013-04-25"/>
+    <cosponsor thomas_id="02162" joined="2013-05-07"/>
+    <cosponsor thomas_id="01861" joined="2013-05-24"/>
+    <cosponsor thomas_id="02099" joined="2013-06-05"/>
+    <cosponsor thomas_id="02104" joined="2013-06-05"/>
+    <cosponsor thomas_id="02110" joined="2013-04-25"/>
+    <cosponsor thomas_id="01209" joined="2013-05-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-25" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-05-08">
+      <text>Referred to the Subcommittee on Oversight and Investigations.</text>
+    </action>
+    <action datetime="2013-06-21">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee subcommittee="Oversight and Investigations" code="HSVR08" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Disability Assistance and Memorial Affairs" code="HSVR09" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Administrative remedies"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Disability assistance"/>
+    <term name="Government information and archives"/>
+    <term name="Health information and medical records"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>4/25/2013--Introduced.
+Directs the Secretary of Veterans Affairs (VA) to submit to Congress quarterly reports on the number of, and average response time to, requests made by the Secretary to the head of another federal department or agency for information required in adjudicating a claim for veterans' disability compensation.</summary>
+</bill>

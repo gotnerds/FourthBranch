@@ -1,0 +1,29 @@
+<bill session="113" type="hr" number="705" updated="2014-08-14T12:50:37-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="official" as="introduced">Recommending the designation of a Presidential Special Envoy to the Balkans to evaluate the successes and shortcomings of the implementation of the Dayton Peace Accords in Bosnia and Herzegovina, to provide policy recommendations, and to report back to Congress within one year.</title>
+  </titles>
+  <sponsor thomas_id="02089"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-31">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1287"/>
+    </action>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="sr" session="113" relation="unknown" number="131"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

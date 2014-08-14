@@ -1,0 +1,56 @@
+<bill session="113" type="hr" number="509" updated="2014-08-14T12:48:57-04:00">
+  <state datetime="2014-03-06">REFERRED</state>
+  <status>
+    <introduced datetime="2014-03-06"/>
+  </status>
+  <introduced datetime="2014-03-06"/>
+  <titles>
+    <title type="official" as="introduced">Expressing support for designation of August 23 as "Black Ribbon Day" to recognize the victims of Soviet Communist and Nazi regimes.</title>
+  </titles>
+  <sponsor thomas_id="01527"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2014-04-02"/>
+    <cosponsor thomas_id="02155" joined="2014-04-03"/>
+    <cosponsor thomas_id="02107" joined="2014-04-03"/>
+    <cosponsor thomas_id="01959" joined="2014-04-02"/>
+    <cosponsor thomas_id="02126" joined="2014-04-03"/>
+    <cosponsor thomas_id="01717" joined="2014-04-03"/>
+    <cosponsor thomas_id="02154" joined="2014-04-03"/>
+    <cosponsor thomas_id="00616" joined="2014-04-08"/>
+    <cosponsor thomas_id="02025" joined="2014-04-02"/>
+    <cosponsor thomas_id="01885" joined="2014-04-03"/>
+    <cosponsor thomas_id="01781" joined="2014-04-02"/>
+    <cosponsor thomas_id="02111" joined="2014-04-02"/>
+    <cosponsor thomas_id="02157" joined="2014-04-03"/>
+    <cosponsor thomas_id="01514" joined="2014-04-03"/>
+    <cosponsor thomas_id="00998" joined="2014-04-08"/>
+    <cosponsor thomas_id="01635" joined="2014-04-02"/>
+    <cosponsor thomas_id="01920" joined="2014-04-07"/>
+    <cosponsor thomas_id="01729" joined="2014-04-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-03-06" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="113" relation="identical" number="302"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Europe"/>
+    <term name="Germany"/>
+    <term name="Human rights"/>
+    <term name="Political movements and philosophies"/>
+    <term name="U.S.S.R."/>
+    <term name="War crimes, genocide, crimes against humanity"/>
+    <term name="World history"/>
+  </subjects>
+  <amendments/>
+  <summary>3/6/2014--Introduced.
+Supports the designation of Black Ribbon Day to recognize the victims of Soviet Communist and Nazi regimes.</summary>
+</bill>

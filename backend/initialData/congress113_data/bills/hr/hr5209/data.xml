@@ -1,0 +1,31 @@
+<bill session="113" type="h" number="5209" updated="2014-08-14T13:35:56-04:00">
+  <state datetime="2014-07-25">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-25"/>
+  </status>
+  <introduced datetime="2014-07-25"/>
+  <titles>
+    <title type="short" as="introduced">Avonte's Law Act of 2014</title>
+    <title type="official" as="introduced">To establish a grant program to help State and local law enforcement agencies reduce the risk of injury and death relating to the wandering characteristics of some children with autism and other disabilities.</title>
+  </titles>
+  <sponsor thomas_id="00635"/>
+  <cosponsors>
+    <cosponsor thomas_id="02041" joined="2014-07-25"/>
+    <cosponsor thomas_id="01663" joined="2014-07-25"/>
+    <cosponsor thomas_id="01503" joined="2014-07-25"/>
+    <cosponsor thomas_id="02148" joined="2014-07-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-25" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="2386"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

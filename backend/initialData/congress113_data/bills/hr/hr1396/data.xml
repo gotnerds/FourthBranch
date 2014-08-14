@@ -1,0 +1,49 @@
+<bill session="113" type="h" number="1396" updated="2014-08-14T13:02:35-04:00">
+  <state datetime="2013-03-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-21"/>
+  </status>
+  <introduced datetime="2013-03-21"/>
+  <titles>
+    <title type="short" as="introduced">California Federal Milk Marketing Order Act</title>
+    <title type="official" as="introduced">To provide for the inclusion of the State of California as a separate Federal milk marketing order upon the petition and approval of California dairy producers of such inclusion.</title>
+  </titles>
+  <sponsor thomas_id="02105"/>
+  <cosponsors>
+    <cosponsor thomas_id="01774" joined="2013-03-21"/>
+    <cosponsor thomas_id="01995" joined="2013-03-21"/>
+    <cosponsor thomas_id="00368" joined="2013-04-09"/>
+    <cosponsor thomas_id="01973" joined="2013-04-09"/>
+    <cosponsor thomas_id="02101" joined="2013-09-10"/>
+    <cosponsor thomas_id="02100" joined="2013-03-21"/>
+    <cosponsor thomas_id="01833" joined="2013-03-21"/>
+    <cosponsor thomas_id="02108" joined="2013-04-09"/>
+    <cosponsor thomas_id="01710" joined="2013-03-21"/>
+    <cosponsor thomas_id="02112" joined="2013-04-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-21" state="REFERRED">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2013-04-23">
+      <text>Referred to the Subcommittee on Livestock, Rural Development, and Credit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee subcommittee="Livestock, Rural Development, and Credit" code="HSAG29" name="House Agriculture" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="663"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural marketing and promotion"/>
+    <term name="California"/>
+  </subjects>
+  <amendments/>
+  <summary>3/21/2013--Introduced.
+California Federal Milk Marketing Order Act - Directs the Secretary of Agriculture (USDA), upon the petition and approval of California dairy producers, to designate California as a separate federal milk marketing order.
+
+Provides that if so designated, the order covering California shall have the right to reblend and distribute order receipts to recognize quota value.</summary>
+</bill>

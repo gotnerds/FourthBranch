@@ -1,0 +1,85 @@
+<bill session="113" type="hr" number="319" updated="2014-08-14T12:47:21-04:00">
+  <state datetime="2013-07-30">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-30"/>
+  </status>
+  <introduced datetime="2013-07-30"/>
+  <titles>
+    <title type="official" as="introduced">Recognizing Bayard Rustin for his lifelong leadership in the civil rights, labor, and lesbian, gay, bisexual, and transgender (LGBT) rights movements and for his exemplary dedication to realizing true equality and freedom in the United States.</title>
+  </titles>
+  <sponsor thomas_id="00688"/>
+  <cosponsors>
+    <cosponsor thomas_id="02153" joined="2013-09-10"/>
+    <cosponsor thomas_id="00091" joined="2013-08-02"/>
+    <cosponsor thomas_id="00099" joined="2013-07-30"/>
+    <cosponsor thomas_id="01469" joined="2013-07-30"/>
+    <cosponsor thomas_id="02159" joined="2013-08-02"/>
+    <cosponsor thomas_id="02055" joined="2013-09-10"/>
+    <cosponsor thomas_id="01654" joined="2013-08-02"/>
+    <cosponsor thomas_id="01790" joined="2013-08-02"/>
+    <cosponsor thomas_id="01878" joined="2013-07-30"/>
+    <cosponsor thomas_id="00229" joined="2013-07-30"/>
+    <cosponsor thomas_id="01604" joined="2013-09-10"/>
+    <cosponsor thomas_id="01477" joined="2013-07-30"/>
+    <cosponsor thomas_id="00299" joined="2013-09-10"/>
+    <cosponsor thomas_id="02125" joined="2013-09-10"/>
+    <cosponsor thomas_id="00371" joined="2013-07-30"/>
+    <cosponsor thomas_id="02089" joined="2013-07-30"/>
+    <cosponsor thomas_id="00511" joined="2013-08-02"/>
+    <cosponsor thomas_id="02147" joined="2013-09-12"/>
+    <cosponsor thomas_id="00588" joined="2013-07-30"/>
+    <cosponsor thomas_id="01501" joined="2013-07-30"/>
+    <cosponsor thomas_id="02111" joined="2013-07-30"/>
+    <cosponsor thomas_id="00766" joined="2013-07-30"/>
+    <cosponsor thomas_id="01506" joined="2013-09-10"/>
+    <cosponsor thomas_id="01811" joined="2013-07-30"/>
+    <cosponsor thomas_id="00832" joined="2013-08-02"/>
+    <cosponsor thomas_id="00850" joined="2013-08-02"/>
+    <cosponsor thomas_id="00868" joined="2013-07-30"/>
+    <cosponsor thomas_id="02097" joined="2013-08-02"/>
+    <cosponsor thomas_id="02171" joined="2013-07-30"/>
+    <cosponsor thomas_id="00930" joined="2013-07-30"/>
+    <cosponsor thomas_id="00944" joined="2013-07-30"/>
+    <cosponsor thomas_id="01003" joined="2013-09-10"/>
+    <cosponsor thomas_id="01756" joined="2013-09-10"/>
+    <cosponsor thomas_id="01588" joined="2013-07-30"/>
+    <cosponsor thomas_id="01798" joined="2013-07-30"/>
+    <cosponsor thomas_id="01037" joined="2013-07-30"/>
+    <cosponsor thomas_id="01528" joined="2013-07-30"/>
+    <cosponsor thomas_id="02110" joined="2013-07-30"/>
+    <cosponsor thomas_id="02112" joined="2013-09-10"/>
+    <cosponsor thomas_id="01207" joined="2013-07-30"/>
+    <cosponsor thomas_id="02004" joined="2013-07-30"/>
+    <cosponsor thomas_id="00512" joined="2013-07-30" withdrawn="2013-08-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-30" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-07-30">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2013-07-30">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2013-09-13">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Constitution and Civil Justice" code="HSJU10" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Congressional tributes"/>
+    <term name="Employment discrimination and employee rights"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="Sex, gender, sexual orientation discrimination"/>
+  </subjects>
+  <amendments/>
+  <summary>7/30/2013--Introduced.
+Recognizes Bayard Rustin for his leadership in the civil rights, labor, and lesbian, gay, bisexual, and transgender rights movements and for his dedication to realizing equality and freedom in the United States.</summary>
+</bill>

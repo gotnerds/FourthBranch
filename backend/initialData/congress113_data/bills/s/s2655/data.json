@@ -1,0 +1,89 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-24", 
+      "committees": [
+        "SSHR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2655-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Franken, Al", 
+      "sponsored_at": "2014-07-30", 
+      "state": "MN", 
+      "thomas_id": "01969", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Vitter, David", 
+      "sponsored_at": "2014-07-24", 
+      "state": "LA", 
+      "thomas_id": "01609", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-07-24", 
+  "number": "2655", 
+  "official_title": "A bill to reauthorize the Young Women's Breast Health Education and Awareness Requires Learning Young Act of 2009.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "EARLY Act Reauthorization of 2014", 
+  "sponsor": {
+    "district": null, 
+    "name": "Klobuchar, Amy", 
+    "state": "MN", 
+    "thomas_id": "01826", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-07-24", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "EARLY Act Reauthorization of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to reauthorize the Young Women's Breast Health Education and Awareness Requires Learning Young Act of 2009.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T14:07:26-04:00"
+}

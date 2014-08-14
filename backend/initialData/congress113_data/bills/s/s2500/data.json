@@ -1,0 +1,87 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-19", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2500-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Wyden, Ron", 
+      "sponsored_at": "2014-07-09", 
+      "state": "OR", 
+      "thomas_id": "01247", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-06-19", 
+  "number": "2500", 
+  "official_title": "A bill to restrict the ability of the Federal Government to undermine privacy and encryption technology in commercial products and in NIST computer security and encryption standards.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "American Digital Security and Commerce Act of 2014", 
+  "sponsor": {
+    "district": null, 
+    "name": "Walsh, John E.", 
+    "state": "MT", 
+    "thomas_id": "02198", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-06-19", 
+  "subjects": [
+    "Civil actions and liability", 
+    "Computer security and identity theft", 
+    "Computers and information technology", 
+    "Intelligence activities, surveillance, classified information", 
+    "Right of privacy", 
+    "Science, technology, communications"
+  ], 
+  "subjects_top_term": "Science, technology, communications", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "American Digital Security and Commerce Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to restrict the ability of the Federal Government to undermine privacy and encryption technology in commercial products and in NIST computer security and encryption standards.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T14:06:08-04:00"
+}

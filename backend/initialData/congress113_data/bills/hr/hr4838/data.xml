@@ -1,0 +1,100 @@
+<bill session="113" type="h" number="4838" updated="2014-08-14T13:32:43-04:00">
+  <state datetime="2014-08-08">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2014-08-08"/>
+  </status>
+  <introduced datetime="2014-06-11"/>
+  <titles>
+    <title type="official" as="introduced">To redesignate the railroad station located at 2955 Market Street in Philadelphia, Pennsylvania, commonly known as "30th Street Station", as the "William H. Gray III 30th Street Station".</title>
+  </titles>
+  <sponsor thomas_id="00371"/>
+  <cosponsors>
+    <cosponsor thomas_id="02054" joined="2014-06-11"/>
+    <cosponsor thomas_id="01469" joined="2014-06-11"/>
+    <cosponsor thomas_id="00132" joined="2014-06-20"/>
+    <cosponsor thomas_id="02159" joined="2014-06-11"/>
+    <cosponsor thomas_id="00256" joined="2014-06-20"/>
+    <cosponsor thomas_id="01799" joined="2014-06-11"/>
+    <cosponsor thomas_id="00316" joined="2014-06-11"/>
+    <cosponsor thomas_id="01894" joined="2014-06-20"/>
+    <cosponsor thomas_id="01797" joined="2014-06-11"/>
+    <cosponsor thomas_id="01743" joined="2014-06-11"/>
+    <cosponsor thomas_id="02051" joined="2014-06-11"/>
+    <cosponsor thomas_id="02053" joined="2014-06-11"/>
+    <cosponsor thomas_id="02052" joined="2014-06-11"/>
+    <cosponsor thomas_id="01744" joined="2014-06-11"/>
+    <cosponsor thomas_id="00868" joined="2014-06-20"/>
+    <cosponsor thomas_id="02157" joined="2014-06-11"/>
+    <cosponsor thomas_id="01514" joined="2014-06-11"/>
+    <cosponsor thomas_id="02158" joined="2014-06-11"/>
+    <cosponsor thomas_id="01798" joined="2014-06-11"/>
+    <cosponsor thomas_id="01681" joined="2014-06-11"/>
+    <cosponsor thomas_id="01952" joined="2014-06-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-11" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2014-06-12">
+      <text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text>
+    </action>
+    <action datetime="2014-07-28T14:21:00-04:00">
+      <text>Mr. Shuster moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2014-07-28T14:21:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6868-6870" label="consideration"/>
+    </action>
+    <action datetime="2014-07-28T14:21:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4838.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-07-28T14:33:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H6868" label="text"/>
+    </vote>
+    <action datetime="2014-07-28T14:33:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-07-29">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote2" datetime="2014-07-31" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2014-08-01">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2014-08-04">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2014-08-08" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="113-158" type="public" datetime="2014-08-08">
+      <text>Became Public Law No: 113-158.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Railroads, Pipelines, and Hazardous Materials" code="HSPW14" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="" code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2594"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Members of Congress"/>
+    <term name="Pennsylvania"/>
+    <term name="Railroads"/>
+    <term name="Senate"/>
+  </subjects>
+  <amendments/>
+  <summary>7/31/2014--Passed Senate without amendment.
+Designates the railroad station located at 2955 Market Street in Philadelphia, Pennsylvania, commonly known as 30th Street Station, as the "William H. Gray III 30th Street Station."</summary>
+</bill>

@@ -1,0 +1,66 @@
+<bill session="113" type="s" number="470" updated="2014-08-14T13:48:44-04:00">
+  <state datetime="2013-03-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-06"/>
+  </status>
+  <introduced datetime="2013-03-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 10, United States Code, to require that the Purple Heart occupy a position of precedence above the new Distinguished Warfare Medal.</title>
+  </titles>
+  <sponsor thomas_id="01829"/>
+  <cosponsors>
+    <cosponsor thomas_id="02075" joined="2013-03-11"/>
+    <cosponsor thomas_id="00066" joined="2013-03-06"/>
+    <cosponsor thomas_id="01898" joined="2013-03-07"/>
+    <cosponsor thomas_id="01687" joined="2013-03-06"/>
+    <cosponsor thomas_id="00153" joined="2013-03-07"/>
+    <cosponsor thomas_id="00179" joined="2013-03-18"/>
+    <cosponsor thomas_id="00188" joined="2013-03-13"/>
+    <cosponsor thomas_id="00212" joined="2013-04-15"/>
+    <cosponsor thomas_id="01541" joined="2013-03-13"/>
+    <cosponsor thomas_id="01692" joined="2013-03-13"/>
+    <cosponsor thomas_id="01850" joined="2013-03-11"/>
+    <cosponsor thomas_id="01969" joined="2013-03-19"/>
+    <cosponsor thomas_id="00457" joined="2013-04-08"/>
+    <cosponsor thomas_id="02174" joined="2013-03-07"/>
+    <cosponsor thomas_id="01863" joined="2013-03-06"/>
+    <cosponsor thomas_id="02079" joined="2013-04-15"/>
+    <cosponsor thomas_id="01899" joined="2013-06-03"/>
+    <cosponsor thomas_id="00604" joined="2013-03-11"/>
+    <cosponsor thomas_id="01826" joined="2013-03-11"/>
+    <cosponsor thomas_id="01546" joined="2013-03-07"/>
+    <cosponsor thomas_id="01383" joined="2013-03-07"/>
+    <cosponsor thomas_id="01983" joined="2013-03-06"/>
+    <cosponsor thomas_id="01820" joined="2013-03-11"/>
+    <cosponsor thomas_id="01395" joined="2013-03-12"/>
+    <cosponsor thomas_id="01507" joined="2013-03-18"/>
+    <cosponsor thomas_id="01694" joined="2013-03-12"/>
+    <cosponsor thomas_id="01837" joined="2013-03-07"/>
+    <cosponsor thomas_id="02082" joined="2013-03-22"/>
+    <cosponsor thomas_id="01548" joined="2013-03-12"/>
+    <cosponsor thomas_id="01531" joined="2013-03-11"/>
+    <cosponsor thomas_id="01534" joined="2013-03-13"/>
+    <cosponsor thomas_id="02085" joined="2013-03-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSAS" name="Senate Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="833"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Conflicts and wars"/>
+    <term name="Department of Defense"/>
+    <term name="Military personnel and dependents"/>
+  </subjects>
+  <amendments/>
+  <summary>3/6/2013--Introduced.
+Requires the Purple Heart to be placed in precedence above the Distinguished Warfare Medal.</summary>
+</bill>

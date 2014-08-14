@@ -1,0 +1,117 @@
+<bill session="113" type="h" number="346" updated="2014-08-14T12:53:40-04:00">
+  <state datetime="2013-01-22">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-22"/>
+  </status>
+  <introduced datetime="2013-01-22"/>
+  <titles>
+    <title type="short" as="introduced">SAFE Act</title>
+    <title type="short" as="introduced">Stop Abortion Funding in Multi-state Exchange Plans Act</title>
+    <title type="official" as="introduced">To amend title I of the Patient Protection and Affordable Care Act to ensure that the coverage offered under multi-State qualified health plans offered in Exchanges is consistent with the Federal abortion funding ban.</title>
+  </titles>
+  <sponsor thomas_id="02034"/>
+  <cosponsors>
+    <cosponsor thomas_id="01460" joined="2013-02-04"/>
+    <cosponsor thomas_id="01727" joined="2013-02-04"/>
+    <cosponsor thomas_id="02027" joined="2013-02-04"/>
+    <cosponsor thomas_id="02135" joined="2013-05-15"/>
+    <cosponsor thomas_id="01838" joined="2013-02-15"/>
+    <cosponsor thomas_id="01753" joined="2013-05-15"/>
+    <cosponsor thomas_id="01748" joined="2013-05-15"/>
+    <cosponsor thomas_id="01787" joined="2013-02-04"/>
+    <cosponsor thomas_id="01468" joined="2013-04-16"/>
+    <cosponsor thomas_id="02155" joined="2013-03-19"/>
+    <cosponsor thomas_id="01882" joined="2013-02-15"/>
+    <cosponsor thomas_id="01840" joined="2013-02-04"/>
+    <cosponsor thomas_id="01925" joined="2013-04-16"/>
+    <cosponsor thomas_id="00186" joined="2013-02-04"/>
+    <cosponsor thomas_id="01805" joined="2013-04-16"/>
+    <cosponsor thomas_id="02144" joined="2013-03-05"/>
+    <cosponsor thomas_id="01989" joined="2013-04-16"/>
+    <cosponsor thomas_id="02126" joined="2013-04-16"/>
+    <cosponsor thomas_id="02057" joined="2013-02-04"/>
+    <cosponsor thomas_id="00322" joined="2013-02-04"/>
+    <cosponsor thomas_id="02064" joined="2013-02-04"/>
+    <cosponsor thomas_id="01924" joined="2013-04-16"/>
+    <cosponsor thomas_id="01683" joined="2013-03-19"/>
+    <cosponsor thomas_id="01793" joined="2013-02-04"/>
+    <cosponsor thomas_id="01707" joined="2013-04-16"/>
+    <cosponsor thomas_id="01990" joined="2013-05-15"/>
+    <cosponsor thomas_id="01933" joined="2013-02-04"/>
+    <cosponsor thomas_id="02026" joined="2013-05-15"/>
+    <cosponsor thomas_id="02032" joined="2013-02-15"/>
+    <cosponsor thomas_id="02020" joined="2013-02-04"/>
+    <cosponsor thomas_id="02028" joined="2013-02-15"/>
+    <cosponsor thomas_id="02015" joined="2013-02-04"/>
+    <cosponsor thomas_id="02046" joined="2013-02-15"/>
+    <cosponsor thomas_id="00612" joined="2013-02-04"/>
+    <cosponsor thomas_id="01868" joined="2013-03-05"/>
+    <cosponsor thomas_id="02051" joined="2013-04-16"/>
+    <cosponsor thomas_id="00636" joined="2013-02-15"/>
+    <cosponsor thomas_id="01733" joined="2013-03-05"/>
+    <cosponsor thomas_id="02011" joined="2013-03-05"/>
+    <cosponsor thomas_id="01885" joined="2013-02-15"/>
+    <cosponsor thomas_id="01781" joined="2013-02-04"/>
+    <cosponsor thomas_id="02033" joined="2013-02-15"/>
+    <cosponsor thomas_id="01931" joined="2013-02-15"/>
+    <cosponsor thomas_id="01908" joined="2013-02-04"/>
+    <cosponsor thomas_id="01505" joined="2013-02-04"/>
+    <cosponsor thomas_id="02130" joined="2013-03-19"/>
+    <cosponsor thomas_id="00800" joined="2014-06-18"/>
+    <cosponsor thomas_id="01685" joined="2013-02-15"/>
+    <cosponsor thomas_id="02156" joined="2013-02-04"/>
+    <cosponsor thomas_id="02059" joined="2013-02-15"/>
+    <cosponsor thomas_id="01758" joined="2013-02-04"/>
+    <cosponsor thomas_id="01738" joined="2013-02-04"/>
+    <cosponsor thomas_id="00910" joined="2013-09-26"/>
+    <cosponsor thomas_id="01802" joined="2013-03-19"/>
+    <cosponsor thomas_id="02022" joined="2013-04-16"/>
+    <cosponsor thomas_id="00940" joined="2013-03-19"/>
+    <cosponsor thomas_id="01986" joined="2013-02-15"/>
+    <cosponsor thomas_id="01954" joined="2013-02-04"/>
+    <cosponsor thomas_id="01704" joined="2013-09-26"/>
+    <cosponsor thomas_id="02017" joined="2013-05-15"/>
+    <cosponsor thomas_id="01916" joined="2013-03-05"/>
+    <cosponsor thomas_id="01994" joined="2013-02-15"/>
+    <cosponsor thomas_id="01041" joined="2013-04-16"/>
+    <cosponsor thomas_id="02191" joined="2013-09-26"/>
+    <cosponsor thomas_id="02000" joined="2013-04-16"/>
+    <cosponsor thomas_id="02047" joined="2013-02-15"/>
+    <cosponsor thomas_id="01952" joined="2013-02-04"/>
+    <cosponsor thomas_id="02137" joined="2013-02-04"/>
+    <cosponsor thomas_id="02152" joined="2013-03-05"/>
+    <cosponsor thomas_id="01779" joined="2013-02-04"/>
+    <cosponsor thomas_id="01688" joined="2013-02-15"/>
+    <cosponsor thomas_id="02115" joined="2013-03-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-22" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-01-25">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="154"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Abortion"/>
+    <term name="Comprehensive health care"/>
+    <term name="Federal preemption"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Public contracts and procurement"/>
+  </subjects>
+  <amendments/>
+  <summary>1/22/2013--Introduced.
+Stop Abortion Funding in Multi-state Exchange Plans Act or SAFE Act - Amends the Patient Protection and Affordable Care Act to require the Director of the Office of Personnel Management (OPM), in entering into contracts with health insurance issuers, to ensure that no multi-state qualified health plan offered in a health benefit exchange provides coverage of abortion. Excepts from such limitation: (1) a pregnancy that results from rape or incest; or (2) a case where a woman suffers from a physical disorder, injury, or illness that would place the her in danger of death unless an abortion is performed, including a life-endangering physical condition caused by or arising from the pregnancy itself.
+
+Preempts any state law requiring coverage of or funding for abortions in multi-state health plans.</summary>
+</bill>

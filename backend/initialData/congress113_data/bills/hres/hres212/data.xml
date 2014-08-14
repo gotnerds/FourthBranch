@@ -1,0 +1,131 @@
+<bill session="113" type="hr" number="212" updated="2014-08-14T12:46:26-04:00">
+  <state datetime="2013-05-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-13"/>
+  </status>
+  <introduced datetime="2013-05-13"/>
+  <titles>
+    <title type="official" as="introduced">Expressing support for designation of May 2013 as Mental Health Month.</title>
+  </titles>
+  <sponsor thomas_id="01744"/>
+  <cosponsors>
+    <cosponsor thomas_id="02093" joined="2013-05-13"/>
+    <cosponsor thomas_id="02153" joined="2013-05-13"/>
+    <cosponsor thomas_id="02027" joined="2013-05-15"/>
+    <cosponsor thomas_id="01748" joined="2013-05-13"/>
+    <cosponsor thomas_id="02092" joined="2013-05-13"/>
+    <cosponsor thomas_id="01723" joined="2013-05-13"/>
+    <cosponsor thomas_id="00132" joined="2013-05-13"/>
+    <cosponsor thomas_id="02106" joined="2013-05-13"/>
+    <cosponsor thomas_id="01840" joined="2013-05-13"/>
+    <cosponsor thomas_id="01761" joined="2013-05-13"/>
+    <cosponsor thomas_id="02107" joined="2013-05-13"/>
+    <cosponsor thomas_id="01889" joined="2013-05-13"/>
+    <cosponsor thomas_id="02159" joined="2013-05-13"/>
+    <cosponsor thomas_id="01925" joined="2013-05-13"/>
+    <cosponsor thomas_id="01474" joined="2013-05-13"/>
+    <cosponsor thomas_id="01970" joined="2013-05-13"/>
+    <cosponsor thomas_id="02055" joined="2013-05-13"/>
+    <cosponsor thomas_id="01864" joined="2013-05-13"/>
+    <cosponsor thomas_id="01959" joined="2013-05-13"/>
+    <cosponsor thomas_id="00229" joined="2013-05-13"/>
+    <cosponsor thomas_id="02072" joined="2013-05-13"/>
+    <cosponsor thomas_id="01857" joined="2013-05-13"/>
+    <cosponsor thomas_id="02036" joined="2013-05-13"/>
+    <cosponsor thomas_id="02114" joined="2013-05-13"/>
+    <cosponsor thomas_id="00368" joined="2013-05-13"/>
+    <cosponsor thomas_id="00371" joined="2013-05-13"/>
+    <cosponsor thomas_id="01797" joined="2013-05-13"/>
+    <cosponsor thomas_id="01973" joined="2013-05-13"/>
+    <cosponsor thomas_id="01743" joined="2013-05-13"/>
+    <cosponsor thomas_id="01990" joined="2013-05-13"/>
+    <cosponsor thomas_id="01708" joined="2013-05-13"/>
+    <cosponsor thomas_id="02089" joined="2013-05-13"/>
+    <cosponsor thomas_id="00511" joined="2013-05-13"/>
+    <cosponsor thomas_id="02040" joined="2013-05-13"/>
+    <cosponsor thomas_id="01634" joined="2013-05-13"/>
+    <cosponsor thomas_id="00588" joined="2013-05-13"/>
+    <cosponsor thomas_id="01921" joined="2013-05-15"/>
+    <cosponsor thomas_id="02046" joined="2013-06-18"/>
+    <cosponsor thomas_id="00599" joined="2013-05-13"/>
+    <cosponsor thomas_id="00616" joined="2013-05-13"/>
+    <cosponsor thomas_id="01907" joined="2013-05-13"/>
+    <cosponsor thomas_id="02145" joined="2013-05-13"/>
+    <cosponsor thomas_id="01936" joined="2013-05-13"/>
+    <cosponsor thomas_id="01501" joined="2013-05-13"/>
+    <cosponsor thomas_id="00683" joined="2013-05-13"/>
+    <cosponsor thomas_id="01846" joined="2013-05-13"/>
+    <cosponsor thomas_id="02033" joined="2013-05-15"/>
+    <cosponsor thomas_id="02111" joined="2013-05-13"/>
+    <cosponsor thomas_id="01939" joined="2013-05-13"/>
+    <cosponsor thomas_id="01814" joined="2013-05-13"/>
+    <cosponsor thomas_id="01503" joined="2013-05-13"/>
+    <cosponsor thomas_id="01653" joined="2013-05-13"/>
+    <cosponsor thomas_id="00766" joined="2013-05-13"/>
+    <cosponsor thomas_id="01504" joined="2013-05-13"/>
+    <cosponsor thomas_id="02074" joined="2013-05-13"/>
+    <cosponsor thomas_id="01584" joined="2013-05-13"/>
+    <cosponsor thomas_id="01811" joined="2013-05-13"/>
+    <cosponsor thomas_id="01602" joined="2013-05-13"/>
+    <cosponsor thomas_id="00868" joined="2013-05-13"/>
+    <cosponsor thomas_id="02157" joined="2013-05-20"/>
+    <cosponsor thomas_id="01929" joined="2013-05-13"/>
+    <cosponsor thomas_id="02113" joined="2013-05-13"/>
+    <cosponsor thomas_id="00930" joined="2013-05-13"/>
+    <cosponsor thomas_id="00940" joined="2013-05-13"/>
+    <cosponsor thomas_id="00944" joined="2013-05-13"/>
+    <cosponsor thomas_id="01986" joined="2013-05-13"/>
+    <cosponsor thomas_id="01651" joined="2013-05-13"/>
+    <cosponsor thomas_id="00997" joined="2013-05-13"/>
+    <cosponsor thomas_id="01003" joined="2013-05-13"/>
+    <cosponsor thomas_id="01756" joined="2013-05-13"/>
+    <cosponsor thomas_id="01962" joined="2013-05-13"/>
+    <cosponsor thomas_id="01757" joined="2013-05-13"/>
+    <cosponsor thomas_id="01588" joined="2013-05-13"/>
+    <cosponsor thomas_id="01037" joined="2013-05-13"/>
+    <cosponsor thomas_id="01069" joined="2013-05-13"/>
+    <cosponsor thomas_id="01528" joined="2013-05-13"/>
+    <cosponsor thomas_id="01890" joined="2013-05-13"/>
+    <cosponsor thomas_id="02110" joined="2013-05-13"/>
+    <cosponsor thomas_id="01952" joined="2013-05-13"/>
+    <cosponsor thomas_id="01593" joined="2013-05-13"/>
+    <cosponsor thomas_id="01942" joined="2013-05-13"/>
+    <cosponsor thomas_id="01729" joined="2013-05-13"/>
+    <cosponsor thomas_id="02112" joined="2013-05-13"/>
+    <cosponsor thomas_id="02167" joined="2013-05-13"/>
+    <cosponsor thomas_id="02004" joined="2013-05-13"/>
+    <cosponsor thomas_id="02115" joined="2013-05-13"/>
+    <cosponsor thomas_id="01255" joined="2013-05-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-13" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-05-17">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Health information and medical records"/>
+    <term name="Health personnel"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Mental health"/>
+  </subjects>
+  <amendments/>
+  <summary>5/13/2013--Introduced.
+Expresses support for: (1) the designation of Mental Health Month, and (2) the finding of the President's Commission on Mental Health that the nation's failure to prioritize mental health is a national tragedy.
+
+Recognizes that mental well-being is as important as physical well-being for citizens, communities, businesses, and the economy.
+
+Applauds the coalescing of national and community organizations in working to promote public awareness of mental health and in providing critical information and support to the people and families affected by mental illness.
+
+Encourages organizations and health practitioners to use Mental Health Month as an opportunity to promote mental well-being and awareness, ensure access to appropriate services, and support overall quality of life for those living with mental illness.</summary>
+</bill>

@@ -1,0 +1,49 @@
+<bill session="113" type="s" number="1807" updated="2014-08-14T14:00:18-04:00">
+  <state datetime="2013-12-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-12-12"/>
+  </status>
+  <introduced datetime="2013-12-12"/>
+  <titles>
+    <title type="short" as="introduced">Corn Ethanol Mandate Elimination Act of 2013</title>
+    <title type="official" as="introduced">A bill to amend the Clean Air Act to eliminate the corn ethanol mandate for renewable fuel, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01332"/>
+  <cosponsors>
+    <cosponsor thomas_id="00153" joined="2013-12-12"/>
+    <cosponsor thomas_id="00212" joined="2013-12-12"/>
+    <cosponsor thomas_id="01541" joined="2013-12-12"/>
+    <cosponsor thomas_id="01825" joined="2013-12-12"/>
+    <cosponsor thomas_id="01633" joined="2013-12-12"/>
+    <cosponsor thomas_id="01902" joined="2013-12-12"/>
+    <cosponsor thomas_id="01983" joined="2013-12-12"/>
+    <cosponsor thomas_id="01896" joined="2013-12-12"/>
+    <cosponsor thomas_id="02085" joined="2013-12-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-12-12">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S8773-8774"/>
+    </action>
+    <action datetime="2013-12-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+      <reference ref="CR S8774" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Air quality"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Motor fuels"/>
+  </subjects>
+  <amendments/>
+  <summary>12/12/2013--Introduced.
+Corn Ethanol Mandate Elimination Act of 2013 - Amends the Clean Air Act to eliminate the volume standards under the renewable fuel program applicable to corn-starch ethanol.</summary>
+</bill>

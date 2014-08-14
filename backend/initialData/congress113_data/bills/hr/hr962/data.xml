@@ -1,0 +1,106 @@
+<bill session="113" type="h" number="962" updated="2014-08-14T12:58:54-04:00">
+  <state datetime="2013-03-05">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-05"/>
+  </status>
+  <introduced datetime="2013-03-05"/>
+  <titles>
+    <title type="short" as="introduced">Medicare Diabetes Prevention Act of 2013</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to reduce the incidence of diabetes among Medicare beneficiaries.</title>
+  </titles>
+  <sponsor thomas_id="01641"/>
+  <cosponsors>
+    <cosponsor thomas_id="02153" joined="2014-01-07"/>
+    <cosponsor thomas_id="00091" joined="2013-04-09"/>
+    <cosponsor thomas_id="01564" joined="2014-01-28"/>
+    <cosponsor thomas_id="01889" joined="2013-04-09"/>
+    <cosponsor thomas_id="01864" joined="2013-04-11"/>
+    <cosponsor thomas_id="01878" joined="2014-06-09"/>
+    <cosponsor thomas_id="01479" joined="2013-04-23"/>
+    <cosponsor thomas_id="01857" joined="2013-04-12"/>
+    <cosponsor thomas_id="01797" joined="2014-02-26"/>
+    <cosponsor thomas_id="00462" joined="2013-12-04"/>
+    <cosponsor thomas_id="01708" joined="2013-04-09"/>
+    <cosponsor thomas_id="00511" joined="2013-04-09"/>
+    <cosponsor thomas_id="02170" joined="2014-03-13"/>
+    <cosponsor thomas_id="01913" joined="2014-06-09"/>
+    <cosponsor thomas_id="01490" joined="2013-04-09"/>
+    <cosponsor thomas_id="01580" joined="2014-07-16"/>
+    <cosponsor thomas_id="02147" joined="2013-04-09"/>
+    <cosponsor thomas_id="02101" joined="2013-10-28"/>
+    <cosponsor thomas_id="00635" joined="2013-09-27"/>
+    <cosponsor thomas_id="00666" joined="2013-09-25"/>
+    <cosponsor thomas_id="00701" joined="2013-04-15"/>
+    <cosponsor thomas_id="02111" joined="2014-04-29"/>
+    <cosponsor thomas_id="01943" joined="2014-03-13"/>
+    <cosponsor thomas_id="01653" joined="2013-10-28"/>
+    <cosponsor thomas_id="00832" joined="2014-07-11"/>
+    <cosponsor thomas_id="02097" joined="2013-04-09"/>
+    <cosponsor thomas_id="02113" joined="2013-04-17"/>
+    <cosponsor thomas_id="01927" joined="2013-12-04"/>
+    <cosponsor thomas_id="02171" joined="2014-05-08"/>
+    <cosponsor thomas_id="01910" joined="2014-06-09"/>
+    <cosponsor thomas_id="00944" joined="2013-04-09"/>
+    <cosponsor thomas_id="01982" joined="2014-04-29"/>
+    <cosponsor thomas_id="02073" joined="2013-12-04"/>
+    <cosponsor thomas_id="01635" joined="2014-04-29"/>
+    <cosponsor thomas_id="01041" joined="2013-10-10"/>
+    <cosponsor thomas_id="01861" joined="2013-04-09"/>
+    <cosponsor thomas_id="01071" joined="2014-07-11"/>
+    <cosponsor thomas_id="02110" joined="2013-04-09"/>
+    <cosponsor thomas_id="01942" joined="2013-10-28"/>
+    <cosponsor thomas_id="02167" joined="2013-03-05"/>
+    <cosponsor thomas_id="01205" joined="2013-10-28"/>
+    <cosponsor thomas_id="01879" joined="2013-04-15"/>
+    <cosponsor thomas_id="02004" joined="2013-04-09"/>
+    <cosponsor thomas_id="01853" joined="2014-04-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-05" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-05">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-03-05">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-03-08">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2013-03-12">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSWM02" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="452"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Congressional oversight"/>
+    <term name="Digestive and metabolic diseases"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Health information and medical records"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Medicaid"/>
+    <term name="Medicare"/>
+    <term name="Nursing"/>
+  </subjects>
+  <amendments/>
+  <summary>3/5/2013--Introduced.
+Medicare Diabetes Prevention Act of 2013 - Amends title XVIII (Medicare) of the Social Security Act to provide coverage of diabetes prevention program services to an eligible diabetes prevention program individual.
+
+Directs the Secretary of Health and Human Services (HHS) to establish the criteria for a diabetes prevention program in accordance with the standards under the National Diabetes Prevention Program established by the Centers for Disease Control and Prevention (CDC).
+
+Excludes items and services under a diabetes prevention program from the skilled nursing facility prospective payment system.
+
+Includes: (1) items and services under a diabetes prevention programs among federally qualified health center services, (2) rates of referrals of eligible individuals to diabetes prevention programs among the quality measures for covered professional services in the Medicare physician quality reporting system, and (3) an individual's diabetes risk assessment in the individual's Medicare personalized prevention plan.
+
+Expresses the sense of the House that the National Diabetes Prevention Program presents an opportunity for states to reduce the incidence of diabetes among individuals enrolled in their Medicaid programs.</summary>
+</bill>

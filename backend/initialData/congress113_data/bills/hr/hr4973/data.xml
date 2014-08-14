@@ -1,0 +1,34 @@
+<bill session="113" type="h" number="4973" updated="2014-08-14T13:33:55-04:00">
+  <state datetime="2014-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-25"/>
+  </status>
+  <introduced datetime="2014-06-25"/>
+  <titles>
+    <title type="short" as="introduced">Spurring Teacher Education Movement for STEM Act</title>
+    <title type="short" as="introduced">STEM for STEM Act</title>
+    <title type="official" as="introduced">To amend the rural and low-income program under the Elementary and Secondary Education Act of 1965 to include professional development in STEM education, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01738"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-06-25" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Education of the disadvantaged"/>
+    <term name="Education programs funding"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Higher education"/>
+    <term name="Rural conditions and development"/>
+    <term name="Science and engineering education"/>
+    <term name="Teaching, teachers, curricula"/>
+  </subjects>
+  <amendments/>
+</bill>

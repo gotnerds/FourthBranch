@@ -1,0 +1,54 @@
+<bill session="113" type="h" number="5196" updated="2014-08-14T13:35:49-04:00">
+  <state datetime="2014-07-24">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-24"/>
+  </status>
+  <introduced datetime="2014-07-24"/>
+  <titles>
+    <title type="short" as="introduced">Unified Savings and Accountability Act</title>
+    <title type="short" as="introduced">USA Act</title>
+    <title type="official" as="introduced">To reduce waste and implement cost savings and revenue enhancement for the Federal Government.</title>
+  </titles>
+  <sponsor thomas_id="01912"/>
+  <cosponsors>
+    <cosponsor thomas_id="02099" joined="2014-07-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-24" state="REFERRED">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Energy and Commerce, Ways and Means, Foreign Affairs, Financial Services, House Administration, and Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-07-24">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2014-07-24">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2014-07-24">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2014-07-24">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2014-07-24">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2014-07-24">
+      <text>Referred to House House Administration</text>
+    </action>
+    <action datetime="2014-07-24">
+      <text>Referred to House Rules</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee subcommittee="" code="HSHA" name="House Administration" activity="Referral"/>
+    <committee subcommittee="" code="HSRU" name="House Rules" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

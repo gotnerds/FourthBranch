@@ -1,0 +1,87 @@
+<bill session="113" type="s" number="411" updated="2014-08-14T13:48:14-04:00">
+  <state datetime="2013-02-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-28"/>
+  </status>
+  <introduced datetime="2013-02-28"/>
+  <titles>
+    <title type="short" as="introduced">Short Line Railroad Rehabilitation and Investment Act of 2013</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to extend and modify the railroad track maintenance credit.</title>
+  </titles>
+  <sponsor thomas_id="01424"/>
+  <cosponsors>
+    <cosponsor thomas_id="01695" joined="2013-10-31"/>
+    <cosponsor thomas_id="02075" joined="2013-12-16"/>
+    <cosponsor thomas_id="01558" joined="2013-12-09"/>
+    <cosponsor thomas_id="01898" joined="2013-07-10"/>
+    <cosponsor thomas_id="02076" joined="2013-03-18"/>
+    <cosponsor thomas_id="01464" joined="2013-11-12"/>
+    <cosponsor thomas_id="01687" joined="2013-07-17"/>
+    <cosponsor thomas_id="00136" joined="2014-02-26"/>
+    <cosponsor thomas_id="00172" joined="2013-03-12"/>
+    <cosponsor thomas_id="00174" joined="2013-07-24"/>
+    <cosponsor thomas_id="01828" joined="2013-07-29"/>
+    <cosponsor thomas_id="00188" joined="2014-05-14"/>
+    <cosponsor thomas_id="00213" joined="2013-10-09"/>
+    <cosponsor thomas_id="01541" joined="2013-09-11"/>
+    <cosponsor thomas_id="01984" joined="2013-09-12"/>
+    <cosponsor thomas_id="00250" joined="2013-02-28"/>
+    <cosponsor thomas_id="01850" joined="2013-12-19"/>
+    <cosponsor thomas_id="01969" joined="2013-07-17"/>
+    <cosponsor thomas_id="01866" joined="2013-07-29"/>
+    <cosponsor thomas_id="00501" joined="2013-03-05"/>
+    <cosponsor thomas_id="01863" joined="2013-04-25"/>
+    <cosponsor thomas_id="00583" joined="2013-10-28"/>
+    <cosponsor thomas_id="01608" joined="2013-10-09"/>
+    <cosponsor thomas_id="00604" joined="2013-07-11"/>
+    <cosponsor thomas_id="02185" joined="2013-03-21"/>
+    <cosponsor thomas_id="01647" joined="2014-03-12"/>
+    <cosponsor thomas_id="01826" joined="2013-06-10"/>
+    <cosponsor thomas_id="01546" joined="2013-09-16"/>
+    <cosponsor thomas_id="01383" joined="2013-04-11"/>
+    <cosponsor thomas_id="01384" joined="2013-06-13"/>
+    <cosponsor thomas_id="00735" joined="2014-03-25"/>
+    <cosponsor thomas_id="01900" joined="2013-07-23"/>
+    <cosponsor thomas_id="00802" joined="2013-12-12"/>
+    <cosponsor thomas_id="01507" joined="2013-02-28"/>
+    <cosponsor thomas_id="01694" joined="2013-09-11"/>
+    <cosponsor thomas_id="01837" joined="2013-12-10"/>
+    <cosponsor thomas_id="01409" joined="2014-02-04"/>
+    <cosponsor thomas_id="00859" joined="2013-06-19"/>
+    <cosponsor thomas_id="01701" joined="2013-03-05"/>
+    <cosponsor thomas_id="01896" joined="2013-03-19"/>
+    <cosponsor thomas_id="00968" joined="2013-07-11"/>
+    <cosponsor thomas_id="01036" joined="2013-12-09"/>
+    <cosponsor thomas_id="01901" joined="2013-06-27"/>
+    <cosponsor thomas_id="01531" joined="2013-04-25"/>
+    <cosponsor thomas_id="01829" joined="2013-09-09"/>
+    <cosponsor thomas_id="01534" joined="2013-09-23"/>
+    <cosponsor thomas_id="01567" joined="2014-01-07"/>
+    <cosponsor thomas_id="02198" joined="2014-03-27"/>
+    <cosponsor thomas_id="01226" joined="2013-09-09"/>
+    <cosponsor thomas_id="01247" joined="2013-02-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-28">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S1019"/>
+    </action>
+    <action datetime="2013-02-28" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="721"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Income tax credits"/>
+    <term name="Railroads"/>
+  </subjects>
+  <amendments/>
+  <summary>2/28/2013--Introduced.
+Short Line Railroad Rehabilitation and Investment Act of 2013 - Amends the Internal Revenue Code, with respect to the tax credit for railroad track maintenance, to: (1) expand the types of maintenance expenditures eligible for such credit, and (2) extend such credit through 2016.</summary>
+</bill>

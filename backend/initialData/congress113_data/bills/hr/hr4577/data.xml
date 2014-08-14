@@ -1,0 +1,105 @@
+<bill session="113" type="h" number="4577" updated="2014-08-14T13:30:24-04:00">
+  <state datetime="2014-05-06">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-06"/>
+  </status>
+  <introduced datetime="2014-05-06"/>
+  <titles>
+    <title type="short" as="introduced">Ensuring Seniors Access to Local Pharmacies Act of 2014</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to ensure equal access of Medicare beneficiaries to community pharmacies in underserved areas as network pharmacies under Medicare prescription drug coverage, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02070"/>
+  <cosponsors>
+    <cosponsor thomas_id="02054" joined="2014-07-22"/>
+    <cosponsor thomas_id="02153" joined="2014-07-31"/>
+    <cosponsor thomas_id="00091" joined="2014-05-19"/>
+    <cosponsor thomas_id="01740" joined="2014-07-25"/>
+    <cosponsor thomas_id="01845" joined="2014-05-21"/>
+    <cosponsor thomas_id="02127" joined="2014-07-23"/>
+    <cosponsor thomas_id="01676" joined="2014-06-18"/>
+    <cosponsor thomas_id="02159" joined="2014-07-29"/>
+    <cosponsor thomas_id="01864" joined="2014-07-30"/>
+    <cosponsor thomas_id="01742" joined="2014-05-29"/>
+    <cosponsor thomas_id="02151" joined="2014-06-18"/>
+    <cosponsor thomas_id="02121" joined="2014-05-21"/>
+    <cosponsor thomas_id="02098" joined="2014-05-28"/>
+    <cosponsor thomas_id="01836" joined="2014-07-22"/>
+    <cosponsor thomas_id="01989" joined="2014-06-20"/>
+    <cosponsor thomas_id="02126" joined="2014-07-08"/>
+    <cosponsor thomas_id="00279" joined="2014-07-16"/>
+    <cosponsor thomas_id="01976" joined="2014-07-14"/>
+    <cosponsor thomas_id="00322" joined="2014-06-17"/>
+    <cosponsor thomas_id="02036" joined="2014-07-14"/>
+    <cosponsor thomas_id="02061" joined="2014-07-08"/>
+    <cosponsor thomas_id="01683" joined="2014-05-30"/>
+    <cosponsor thomas_id="01793" joined="2014-06-09"/>
+    <cosponsor thomas_id="02164" joined="2014-06-17"/>
+    <cosponsor thomas_id="00446" joined="2014-06-12"/>
+    <cosponsor thomas_id="01922" joined="2014-07-25"/>
+    <cosponsor thomas_id="01933" joined="2014-05-21"/>
+    <cosponsor thomas_id="01490" joined="2014-06-09"/>
+    <cosponsor thomas_id="00612" joined="2014-05-19"/>
+    <cosponsor thomas_id="02051" joined="2014-06-17"/>
+    <cosponsor thomas_id="01781" joined="2014-06-20"/>
+    <cosponsor thomas_id="01846" joined="2014-05-29"/>
+    <cosponsor thomas_id="02094" joined="2014-05-09"/>
+    <cosponsor thomas_id="02195" joined="2014-06-24"/>
+    <cosponsor thomas_id="02074" joined="2014-07-16"/>
+    <cosponsor thomas_id="02060" joined="2014-06-11"/>
+    <cosponsor thomas_id="01955" joined="2014-07-23"/>
+    <cosponsor thomas_id="01974" joined="2014-07-29"/>
+    <cosponsor thomas_id="00910" joined="2014-07-28"/>
+    <cosponsor thomas_id="02160" joined="2014-06-18"/>
+    <cosponsor thomas_id="01954" joined="2014-05-19"/>
+    <cosponsor thomas_id="01704" joined="2014-05-28"/>
+    <cosponsor thomas_id="01728" joined="2014-06-17"/>
+    <cosponsor thomas_id="01003" joined="2014-07-29"/>
+    <cosponsor thomas_id="01756" joined="2014-05-19"/>
+    <cosponsor thomas_id="01854" joined="2014-06-17"/>
+    <cosponsor thomas_id="02009" joined="2014-05-29"/>
+    <cosponsor thomas_id="01722" joined="2014-06-24"/>
+    <cosponsor thomas_id="01681" joined="2014-05-22"/>
+    <cosponsor thomas_id="01069" joined="2014-07-08"/>
+    <cosponsor thomas_id="02000" joined="2014-06-17"/>
+    <cosponsor thomas_id="01151" joined="2014-07-30"/>
+    <cosponsor thomas_id="01535" joined="2014-07-14"/>
+    <cosponsor thomas_id="01942" joined="2014-06-09"/>
+    <cosponsor thomas_id="01856" joined="2014-06-20"/>
+    <cosponsor thomas_id="01879" joined="2014-05-06"/>
+    <cosponsor thomas_id="01779" joined="2014-05-28"/>
+    <cosponsor thomas_id="01222" joined="2014-07-14"/>
+    <cosponsor thomas_id="01688" joined="2014-06-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-06" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-05-06">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2014-05-06">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2014-05-09">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Medicare"/>
+    <term name="Prescription drugs"/>
+    <term name="Retail and wholesale trades"/>
+  </subjects>
+  <amendments/>
+  <summary>5/6/2014--Introduced.
+Ensuring Seniors Access to Local Pharmacies Act of 2014 - Amends part D (Voluntary Prescription Drug Benefit Program) of title XVIII (Medicare) of the Social Security Act with respect to a prescription drug plan that has, in its network of pharmacies, one or more pharmacies located in a health professional shortage area, in a medically underserved area, or among a medically underserved population, and that provides a reduction in coinsurance or copayments for covered part D drugs dispensed through them.
+
+Declares that such a plan shall extend to any pharmacy located in that area or among that population the option to be an in-network pharmacy with respect to such plan under terms and conditions comparable to those the plan has agreed upon with other in-network pharmacies located in the area or among that population.</summary>
+</bill>

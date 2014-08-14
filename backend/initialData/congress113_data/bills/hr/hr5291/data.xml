@@ -1,0 +1,23 @@
+<bill session="113" type="h" number="5291" updated="2014-08-14T13:36:39-04:00">
+  <state datetime="2014-07-30">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-30"/>
+  </status>
+  <introduced datetime="2014-07-30"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Harmonized Tariff Schedule of the United States with respect to goods exported for processing abroad and reimported, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01974"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-30" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

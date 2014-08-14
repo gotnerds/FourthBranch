@@ -1,0 +1,182 @@
+<bill session="113" type="h" number="3471" updated="2014-08-14T13:21:02-04:00">
+  <state datetime="2013-11-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-11-13"/>
+  </status>
+  <introduced datetime="2013-11-13"/>
+  <titles>
+    <title type="short" as="introduced">Women's Health Protection Act of 2013</title>
+    <title type="official" as="introduced">To protect a woman's right to determine whether and when to bear a child or end a pregnancy by limiting restrictions on the provision of abortion services.</title>
+  </titles>
+  <sponsor thomas_id="01970"/>
+  <cosponsors>
+    <cosponsor thomas_id="02093" joined="2014-07-31"/>
+    <cosponsor thomas_id="01996" joined="2013-11-13"/>
+    <cosponsor thomas_id="02153" joined="2013-11-13"/>
+    <cosponsor thomas_id="02102" joined="2013-11-13"/>
+    <cosponsor thomas_id="00099" joined="2013-11-13"/>
+    <cosponsor thomas_id="02092" joined="2014-02-26"/>
+    <cosponsor thomas_id="01469" joined="2014-06-10"/>
+    <cosponsor thomas_id="01845" joined="2013-11-13"/>
+    <cosponsor thomas_id="00132" joined="2013-11-13"/>
+    <cosponsor thomas_id="02106" joined="2013-11-13"/>
+    <cosponsor thomas_id="01471" joined="2013-11-21"/>
+    <cosponsor thomas_id="01564" joined="2013-11-21"/>
+    <cosponsor thomas_id="02107" joined="2014-07-03"/>
+    <cosponsor thomas_id="01839" joined="2013-11-13"/>
+    <cosponsor thomas_id="01474" joined="2013-11-13"/>
+    <cosponsor thomas_id="02055" joined="2013-11-13"/>
+    <cosponsor thomas_id="02196" joined="2014-02-10"/>
+    <cosponsor thomas_id="01864" joined="2013-11-15"/>
+    <cosponsor thomas_id="01654" joined="2013-11-13"/>
+    <cosponsor thomas_id="01790" joined="2014-06-30"/>
+    <cosponsor thomas_id="01878" joined="2013-12-12"/>
+    <cosponsor thomas_id="01959" joined="2014-01-16"/>
+    <cosponsor thomas_id="00229" joined="2014-05-22"/>
+    <cosponsor thomas_id="01604" joined="2014-06-17"/>
+    <cosponsor thomas_id="01477" joined="2013-11-13"/>
+    <cosponsor thomas_id="01641" joined="2014-01-07"/>
+    <cosponsor thomas_id="00279" joined="2013-11-21"/>
+    <cosponsor thomas_id="01479" joined="2013-11-15"/>
+    <cosponsor thomas_id="00281" joined="2013-11-13"/>
+    <cosponsor thomas_id="02096" joined="2013-11-13"/>
+    <cosponsor thomas_id="01976" joined="2013-11-21"/>
+    <cosponsor thomas_id="00303" joined="2014-06-02"/>
+    <cosponsor thomas_id="01894" joined="2013-11-13"/>
+    <cosponsor thomas_id="01857" joined="2013-11-13"/>
+    <cosponsor thomas_id="00344" joined="2014-07-30"/>
+    <cosponsor thomas_id="00355" joined="2014-02-26"/>
+    <cosponsor thomas_id="02114" joined="2013-11-13"/>
+    <cosponsor thomas_id="00368" joined="2013-11-13"/>
+    <cosponsor thomas_id="01888" joined="2014-02-14"/>
+    <cosponsor thomas_id="02119" joined="2013-11-13"/>
+    <cosponsor thomas_id="01895" joined="2013-11-13"/>
+    <cosponsor thomas_id="02122" joined="2014-02-03"/>
+    <cosponsor thomas_id="00462" joined="2014-07-31"/>
+    <cosponsor thomas_id="01708" joined="2013-11-13"/>
+    <cosponsor thomas_id="00478" joined="2013-11-13"/>
+    <cosponsor thomas_id="02089" joined="2013-11-13"/>
+    <cosponsor thomas_id="02010" joined="2013-12-12"/>
+    <cosponsor thomas_id="00511" joined="2013-11-15"/>
+    <cosponsor thomas_id="01794" joined="2013-11-21"/>
+    <cosponsor thomas_id="01913" joined="2013-11-15"/>
+    <cosponsor thomas_id="01580" joined="2013-11-13"/>
+    <cosponsor thomas_id="01634" joined="2013-12-12"/>
+    <cosponsor thomas_id="02101" joined="2013-11-13"/>
+    <cosponsor thomas_id="01663" joined="2014-01-07"/>
+    <cosponsor thomas_id="00588" joined="2013-11-13"/>
+    <cosponsor thomas_id="00599" joined="2013-11-13"/>
+    <cosponsor thomas_id="01843" joined="2013-11-13"/>
+    <cosponsor thomas_id="02025" joined="2013-11-13"/>
+    <cosponsor thomas_id="02190" joined="2013-11-13"/>
+    <cosponsor thomas_id="02172" joined="2013-11-21"/>
+    <cosponsor thomas_id="02134" joined="2013-11-13"/>
+    <cosponsor thomas_id="02169" joined="2013-12-04"/>
+    <cosponsor thomas_id="01907" joined="2013-11-13"/>
+    <cosponsor thomas_id="02145" joined="2013-11-13"/>
+    <cosponsor thomas_id="01501" joined="2013-11-13"/>
+    <cosponsor thomas_id="00688" joined="2013-11-13"/>
+    <cosponsor thomas_id="01846" joined="2013-11-13"/>
+    <cosponsor thomas_id="00701" joined="2013-11-21"/>
+    <cosponsor thomas_id="02111" joined="2013-11-13"/>
+    <cosponsor thomas_id="00709" joined="2014-01-16"/>
+    <cosponsor thomas_id="02146" joined="2013-11-13"/>
+    <cosponsor thomas_id="01943" joined="2013-11-15"/>
+    <cosponsor thomas_id="00729" joined="2013-11-13"/>
+    <cosponsor thomas_id="02150" joined="2014-07-09"/>
+    <cosponsor thomas_id="01814" joined="2014-02-14"/>
+    <cosponsor thomas_id="01503" joined="2014-07-03"/>
+    <cosponsor thomas_id="01653" joined="2013-11-13"/>
+    <cosponsor thomas_id="00766" joined="2014-06-23"/>
+    <cosponsor thomas_id="01504" joined="2013-12-12"/>
+    <cosponsor thomas_id="01832" joined="2013-11-15"/>
+    <cosponsor thomas_id="02148" joined="2013-11-13"/>
+    <cosponsor thomas_id="00808" joined="2013-11-21"/>
+    <cosponsor thomas_id="01811" joined="2013-11-13"/>
+    <cosponsor thomas_id="00832" joined="2013-11-13"/>
+    <cosponsor thomas_id="02117" joined="2013-12-04"/>
+    <cosponsor thomas_id="00850" joined="2014-02-26"/>
+    <cosponsor thomas_id="02108" joined="2013-11-13"/>
+    <cosponsor thomas_id="00868" joined="2013-11-13"/>
+    <cosponsor thomas_id="02162" joined="2013-12-12"/>
+    <cosponsor thomas_id="00887" joined="2014-06-30"/>
+    <cosponsor thomas_id="00893" joined="2014-03-14"/>
+    <cosponsor thomas_id="02097" joined="2013-11-13"/>
+    <cosponsor thomas_id="01929" joined="2014-02-26"/>
+    <cosponsor thomas_id="02113" joined="2013-12-04"/>
+    <cosponsor thomas_id="01927" joined="2013-12-04"/>
+    <cosponsor thomas_id="02171" joined="2013-11-13"/>
+    <cosponsor thomas_id="00930" joined="2013-12-12"/>
+    <cosponsor thomas_id="01967" joined="2014-02-10"/>
+    <cosponsor thomas_id="00944" joined="2013-11-13"/>
+    <cosponsor thomas_id="02109" joined="2014-01-16"/>
+    <cosponsor thomas_id="01756" joined="2013-11-21"/>
+    <cosponsor thomas_id="01757" joined="2013-11-13"/>
+    <cosponsor thomas_id="01854" joined="2014-05-28"/>
+    <cosponsor thomas_id="01588" joined="2013-11-13"/>
+    <cosponsor thomas_id="01635" joined="2013-12-04"/>
+    <cosponsor thomas_id="02124" joined="2014-07-09"/>
+    <cosponsor thomas_id="01798" joined="2013-11-15"/>
+    <cosponsor thomas_id="01722" joined="2014-01-16"/>
+    <cosponsor thomas_id="01037" joined="2014-07-07"/>
+    <cosponsor thomas_id="01861" joined="2013-12-04"/>
+    <cosponsor thomas_id="01526" joined="2013-11-13"/>
+    <cosponsor thomas_id="02099" joined="2014-07-03"/>
+    <cosponsor thomas_id="01069" joined="2013-11-13"/>
+    <cosponsor thomas_id="01528" joined="2013-11-13"/>
+    <cosponsor thomas_id="01890" joined="2013-11-13"/>
+    <cosponsor thomas_id="02110" joined="2013-11-13"/>
+    <cosponsor thomas_id="01593" joined="2014-04-09"/>
+    <cosponsor thomas_id="01535" joined="2013-11-21"/>
+    <cosponsor thomas_id="01940" joined="2013-11-13"/>
+    <cosponsor thomas_id="01884" joined="2013-11-13"/>
+    <cosponsor thomas_id="01729" joined="2014-01-07"/>
+    <cosponsor thomas_id="02166" joined="2013-11-15"/>
+    <cosponsor thomas_id="01777" joined="2014-04-04"/>
+    <cosponsor thomas_id="01205" joined="2013-11-13"/>
+    <cosponsor thomas_id="01209" joined="2013-12-04"/>
+    <cosponsor thomas_id="01879" joined="2013-11-13"/>
+    <cosponsor thomas_id="02004" joined="2013-12-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-11-13" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-11-15">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="1696"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Abortion"/>
+    <term name="Civil actions and liability"/>
+    <term name="Federal preemption"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Health personnel"/>
+    <term name="Medical education"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Women's health"/>
+  </subjects>
+  <amendments/>
+  <summary>11/13/2013--Introduced.
+Women's Health Protection Act of 2013 - Makes the following limitations and requirements concerning abortion services unlawful and prohibits their imposition or application by any government:
+
+ a requirement that a medical professional perform specific tests or follow specific medical procedures, unless generally required in the case of medically comparable procedures; a limitation on an abortion provider's ability to delegate tasks, other than one applicable to medically comparable procedures; a limitation on an abortion provider's ability to prescribe or dispense drugs based on her or his good-faith medical judgment, other than one generally applicable; a limitation on an abortion provider's ability to provide abortion services via telemedicine, other than one generally applicable; a requirement or limitation concerning the physical plant, equipment, staffing, or hospital transfer arrangements of facilities where abortions are performed, or the credentials, hospital privileges, or status of personnel at such facilities that is not otherwise imposed where medically comparable procedures are performed; a requirement that, prior to obtaining an abortion, a woman make medically unnecessary visits to the provider of abortion services or to any individual or entity that does not provide such services; and a requirement or limitation that prohibits or restricts medical training for abortion procedures, other than one generally applicable to medically comparable procedures. Makes unlawful a measure or action that restricts the provision of abortion services, or the facilities that provide them, that is similar to any of those described above if it singles out abortion services or make abortion services more difficult to access and does not significantly advance women's health or the safety of abortion services.
+
+Provides standards for the making of a prima facie case in a civil action challenging such restrictions and factors to be considered by a court in determining whether a measure or action impedes access to abortion services.
+
+Makes the following other restrictions on the performance of abortion unlawful and prohibits their imposition or application by any government:
+
+ a prohibition or ban prior to fetal viability; a prohibition after fetal viability when, in the good-faith medical judgment of the treating physician, continuation of the pregnancy would pose a risk to the woman's life or health; a restriction that limits a woman's ability to obtain an immediate abortion when a health care professional believes, based on good-faith medical judgment, that delay would pose a risk to the woman's health; and a prohibition or restriction on obtaining an abortion prior to fetal viability based on a woman's reasons or perceived reasons or that requires her to state her reasons before obtaining an abortion prior to fetal viability. Requires courts to liberally construe the provisions of this Act.
+
+Authorizes the Attorney General or an individual or entity aggrieved by (or a health facility or medical professional adversely affected by) a violation of this Act, to commence a civil action for injunctive relief.
+
+Preempts any provision enacted by a state or subdivision having the force of law that conflicts with any provision of this Act.</summary>
+</bill>

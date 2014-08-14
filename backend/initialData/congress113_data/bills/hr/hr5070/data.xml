@@ -1,0 +1,27 @@
+<bill session="113" type="h" number="5070" updated="2014-08-14T13:34:45-04:00">
+  <state datetime="2014-07-10">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-10"/>
+  </status>
+  <introduced datetime="2014-07-10"/>
+  <titles>
+    <title type="short" as="introduced">EARN Act</title>
+    <title type="short" as="introduced">Earnings Advancement and Recovery Now Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide for improved compliance with the requirements of the earned income tax credit.</title>
+  </titles>
+  <sponsor thomas_id="01998"/>
+  <cosponsors>
+    <cosponsor thomas_id="02168" joined="2014-07-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-10" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

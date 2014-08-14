@@ -1,0 +1,62 @@
+<bill session="113" type="h" number="5082" updated="2014-08-14T13:34:51-04:00">
+  <state datetime="2014-07-11">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-11"/>
+  </status>
+  <introduced datetime="2014-07-11"/>
+  <titles>
+    <title type="short" as="introduced">National Disaster Tax Relief Act of 2014</title>
+    <title type="official" as="introduced">To provide tax relief for major disaster areas declared in 2012, 2013, and 2014, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01982"/>
+  <cosponsors>
+    <cosponsor thomas_id="01740" joined="2014-07-11"/>
+    <cosponsor thomas_id="01761" joined="2014-07-11"/>
+    <cosponsor thomas_id="01676" joined="2014-07-11"/>
+    <cosponsor thomas_id="01925" joined="2014-07-11"/>
+    <cosponsor thomas_id="01912" joined="2014-07-24"/>
+    <cosponsor thomas_id="01742" joined="2014-07-11"/>
+    <cosponsor thomas_id="01604" joined="2014-07-11"/>
+    <cosponsor thomas_id="02126" joined="2014-07-11"/>
+    <cosponsor thomas_id="00281" joined="2014-07-30"/>
+    <cosponsor thomas_id="02096" joined="2014-07-11"/>
+    <cosponsor thomas_id="01797" joined="2014-07-11"/>
+    <cosponsor thomas_id="01998" joined="2014-07-11"/>
+    <cosponsor thomas_id="01743" joined="2014-07-11"/>
+    <cosponsor thomas_id="02043" joined="2014-07-11"/>
+    <cosponsor thomas_id="01990" joined="2014-07-11"/>
+    <cosponsor thomas_id="01933" joined="2014-07-11"/>
+    <cosponsor thomas_id="01580" joined="2014-07-11"/>
+    <cosponsor thomas_id="01663" joined="2014-07-11"/>
+    <cosponsor thomas_id="02149" joined="2014-07-24"/>
+    <cosponsor thomas_id="00635" joined="2014-07-11"/>
+    <cosponsor thomas_id="01675" joined="2014-07-11"/>
+    <cosponsor thomas_id="01583" joined="2014-07-11"/>
+    <cosponsor thomas_id="02195" joined="2014-07-11"/>
+    <cosponsor thomas_id="01503" joined="2014-07-11"/>
+    <cosponsor thomas_id="00887" joined="2014-07-11"/>
+    <cosponsor thomas_id="01510" joined="2014-07-11"/>
+    <cosponsor thomas_id="01910" joined="2014-07-11"/>
+    <cosponsor thomas_id="00944" joined="2014-07-11"/>
+    <cosponsor thomas_id="02023" joined="2014-07-11"/>
+    <cosponsor thomas_id="02039" joined="2014-07-11"/>
+    <cosponsor thomas_id="01920" joined="2014-07-11"/>
+    <cosponsor thomas_id="01818" joined="2014-07-11"/>
+    <cosponsor thomas_id="01071" joined="2014-07-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-11" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="4497"/>
+    <bill type="s" session="113" relation="unknown" number="2233"/>
+    <bill type="s" session="113" relation="unknown" number="2634"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,32 @@
+<bill session="113" type="h" number="2007" updated="2014-08-14T13:08:22-04:00">
+  <state datetime="2013-05-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-15"/>
+  </status>
+  <introduced datetime="2013-05-15"/>
+  <titles>
+    <title type="official" as="introduced">To eliminate the limitation on the period for which borrowers are eligible for guaranteed assistance under the Consolidated Farm and Rural Development Act.</title>
+  </titles>
+  <sponsor thomas_id="01879"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-05-15" state="REFERRED">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2013-06-03">
+      <text>Referred to the Subcommittee on Livestock, Rural Development, and Credit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee subcommittee="Livestock, Rural Development, and Credit" code="HSAG29" name="House Agriculture" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural prices, subsidies, credit"/>
+  </subjects>
+  <amendments/>
+  <summary>5/15/2013--Introduced.
+Amends the Consolidated Farm and Rural Development Act to eliminate the 15-year limitation on the period for which borrowers of agricultural operating loans are eligible for guaranteed assistance.</summary>
+</bill>

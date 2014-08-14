@@ -1,0 +1,92 @@
+<bill session="113" type="h" number="4531" updated="2014-08-14T13:30:01-04:00">
+  <state datetime="2014-04-30">REFERRED</state>
+  <status>
+    <introduced datetime="2014-04-30"/>
+  </status>
+  <introduced datetime="2014-04-30"/>
+  <titles>
+    <title type="short" as="introduced">No Bonuses for Tax Delinquent IRS Employees Act of 2014</title>
+    <title type="official" as="introduced">To prohibit the provision of performance awards to employees of the Internal Revenue Service who owe back taxes.</title>
+  </titles>
+  <sponsor thomas_id="00603"/>
+  <cosponsors>
+    <cosponsor thomas_id="00062" joined="2014-05-07"/>
+    <cosponsor thomas_id="02063" joined="2014-04-30"/>
+    <cosponsor thomas_id="01748" joined="2014-05-07"/>
+    <cosponsor thomas_id="01787" joined="2014-04-30"/>
+    <cosponsor thomas_id="01468" joined="2014-04-30"/>
+    <cosponsor thomas_id="01751" joined="2014-05-06"/>
+    <cosponsor thomas_id="00165" joined="2014-05-28"/>
+    <cosponsor thomas_id="01752" joined="2014-05-07"/>
+    <cosponsor thomas_id="01742" joined="2014-05-07"/>
+    <cosponsor thomas_id="01805" joined="2014-05-07"/>
+    <cosponsor thomas_id="02057" joined="2014-05-07"/>
+    <cosponsor thomas_id="01924" joined="2014-05-07"/>
+    <cosponsor thomas_id="02065" joined="2014-05-07"/>
+    <cosponsor thomas_id="01683" joined="2014-05-30"/>
+    <cosponsor thomas_id="01743" joined="2014-04-30"/>
+    <cosponsor thomas_id="01801" joined="2014-05-07"/>
+    <cosponsor thomas_id="01487" joined="2014-05-07"/>
+    <cosponsor thomas_id="01990" joined="2014-04-30"/>
+    <cosponsor thomas_id="00484" joined="2014-05-07"/>
+    <cosponsor thomas_id="02032" joined="2014-05-08"/>
+    <cosponsor thomas_id="01749" joined="2014-05-07"/>
+    <cosponsor thomas_id="02020" joined="2014-05-07"/>
+    <cosponsor thomas_id="01921" joined="2014-04-30"/>
+    <cosponsor thomas_id="02154" joined="2014-05-07"/>
+    <cosponsor thomas_id="02051" joined="2014-04-30"/>
+    <cosponsor thomas_id="02050" joined="2014-05-07"/>
+    <cosponsor thomas_id="00711" joined="2014-07-17"/>
+    <cosponsor thomas_id="01931" joined="2014-06-18"/>
+    <cosponsor thomas_id="01960" joined="2014-05-29"/>
+    <cosponsor thomas_id="01806" joined="2014-04-30"/>
+    <cosponsor thomas_id="01804" joined="2014-05-06"/>
+    <cosponsor thomas_id="01758" joined="2014-05-07"/>
+    <cosponsor thomas_id="01955" joined="2014-05-13"/>
+    <cosponsor thomas_id="01930" joined="2014-04-30"/>
+    <cosponsor thomas_id="01802" joined="2014-05-07"/>
+    <cosponsor thomas_id="01915" joined="2014-05-07"/>
+    <cosponsor thomas_id="01778" joined="2014-05-07"/>
+    <cosponsor thomas_id="01810" joined="2014-04-30"/>
+    <cosponsor thomas_id="02048" joined="2014-04-30"/>
+    <cosponsor thomas_id="01954" joined="2014-05-07"/>
+    <cosponsor thomas_id="01848" joined="2014-04-30"/>
+    <cosponsor thomas_id="02158" joined="2014-05-28"/>
+    <cosponsor thomas_id="01009" joined="2014-05-07"/>
+    <cosponsor thomas_id="01920" joined="2014-04-30"/>
+    <cosponsor thomas_id="01525" joined="2014-05-13"/>
+    <cosponsor thomas_id="01075" joined="2014-05-13"/>
+    <cosponsor thomas_id="01114" joined="2014-05-13"/>
+    <cosponsor thomas_id="01155" joined="2014-05-07"/>
+    <cosponsor thomas_id="01664" joined="2014-04-30"/>
+    <cosponsor thomas_id="02161" joined="2014-05-07"/>
+    <cosponsor thomas_id="02165" joined="2014-05-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-04-30">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H3299-3300"/>
+    </action>
+    <action datetime="2014-04-30" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="2282"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Department of the Treasury"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Internal Revenue Service (IRS)"/>
+    <term name="Tax administration and collection, taxpayers"/>
+    <term name="Wages and earnings"/>
+  </subjects>
+  <amendments/>
+  <summary>4/30/2014--Introduced.
+No Bonuses for Tax Delinquent IRS Employees Act of 2014 - Prohibits the payment of&#160;any performance award (including, but not limited to, bonuses, step increases, and time off) to an employee of the Internal Revenue Service (IRS)&#160;who owes an outstanding federal tax debt.</summary>
+</bill>

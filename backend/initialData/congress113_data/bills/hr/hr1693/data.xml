@@ -1,0 +1,43 @@
+<bill session="113" type="h" number="1693" updated="2014-08-14T13:05:08-04:00">
+  <state datetime="2013-04-24">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-24"/>
+  </status>
+  <introduced datetime="2013-04-24"/>
+  <titles>
+    <title type="official" as="introduced">To provide an exemption for community banks from the application of Basel III capital standards.</title>
+  </titles>
+  <sponsor thomas_id="01990"/>
+  <cosponsors>
+    <cosponsor thomas_id="02129" joined="2013-06-03"/>
+    <cosponsor thomas_id="01989" joined="2013-04-24"/>
+    <cosponsor thomas_id="02049" joined="2013-05-08"/>
+    <cosponsor thomas_id="02020" joined="2013-05-06"/>
+    <cosponsor thomas_id="00636" joined="2013-05-14"/>
+    <cosponsor thomas_id="01960" joined="2013-05-13"/>
+    <cosponsor thomas_id="01861" joined="2013-04-25"/>
+    <cosponsor thomas_id="01155" joined="2013-04-25"/>
+    <cosponsor thomas_id="01991" joined="2013-04-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-24" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Bank accounts, deposits, capital"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Department of the Treasury"/>
+    <term name="Federal Deposit Insurance Corporation (FDIC)"/>
+    <term name="Federal Reserve System"/>
+  </subjects>
+  <amendments/>
+  <summary>4/24/2013--Introduced.
+Directs the Board of Governors of the Federal Reserve System, the Office of the Comptroller of the Currency, and the Federal Deposit Insurance Corporation (FDIC) to exempt from specified Basel III regulations community banks with consolidated assets of $50 billion or less.</summary>
+</bill>

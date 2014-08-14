@@ -1,0 +1,55 @@
+<bill session="113" type="s" number="427" updated="2014-08-14T13:48:22-04:00">
+  <state datetime="2013-02-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-28"/>
+  </status>
+  <introduced datetime="2013-02-28"/>
+  <titles>
+    <title type="short" as="introduced">Sensible School Lunch Act</title>
+    <title type="official" as="introduced">A bill to amend the Richard B. Russell National School Lunch Act to provide flexibility to school food authorities in meeting certain nutritional requirements for the school lunch and breakfast programs, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02079"/>
+  <cosponsors>
+    <cosponsor thomas_id="00066" joined="2013-04-17"/>
+    <cosponsor thomas_id="00209" joined="2013-02-28"/>
+    <cosponsor thomas_id="00250" joined="2013-04-17"/>
+    <cosponsor thomas_id="02174" joined="2013-03-07"/>
+    <cosponsor thomas_id="00583" joined="2013-02-28"/>
+    <cosponsor thomas_id="00604" joined="2013-03-05"/>
+    <cosponsor thomas_id="02185" joined="2013-05-08"/>
+    <cosponsor thomas_id="01546" joined="2013-03-05"/>
+    <cosponsor thomas_id="01507" joined="2013-02-28"/>
+    <cosponsor thomas_id="01701" joined="2013-02-28"/>
+    <cosponsor thomas_id="00968" joined="2013-02-28"/>
+    <cosponsor thomas_id="01534" joined="2013-02-28"/>
+    <cosponsor thomas_id="01567" joined="2013-06-12"/>
+    <cosponsor thomas_id="01226" joined="2013-03-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-28" state="REFERRED">
+      <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="1244"/>
+    <bill type="h" session="113" relation="unknown" number="1303"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Child health"/>
+    <term name="Department of Agriculture"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Food assistance and relief"/>
+    <term name="Grain"/>
+    <term name="Meat"/>
+    <term name="Nutrition and diet"/>
+    <term name="Poverty and welfare assistance"/>
+  </subjects>
+  <amendments/>
+  <summary>2/28/2013--Introduced.
+Sensible School Lunch Act - Amends the Richard B. Russell National School Lunch Act to prohibit the Secretary of Agriculture from promulgating rules and regulations applicable to the school lunch and breakfast programs that establish a maximum quantity of grains, meat, or meat alternates that may be served in any meal or during any period of time of any school year.</summary>
+</bill>

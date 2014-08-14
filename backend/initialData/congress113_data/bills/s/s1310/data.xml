@@ -1,0 +1,58 @@
+<bill session="113" type="s" number="1310" updated="2014-08-14T13:56:06-04:00">
+  <state datetime="2013-07-16">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-16"/>
+  </status>
+  <introduced datetime="2013-07-16"/>
+  <titles>
+    <title type="short" as="introduced">Bureau of Consumer Financial Protection-Inspector General Reform Act of 2013</title>
+    <title type="short" as="introduced">CFPB-IG Act of 2013</title>
+    <title type="official" as="introduced">A bill to require Senate confirmation of Inspector General of the Bureau of Consumer Financial Protection, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00924"/>
+  <cosponsors>
+    <cosponsor thomas_id="02075" joined="2013-07-16"/>
+    <cosponsor thomas_id="01881" joined="2013-07-18"/>
+    <cosponsor thomas_id="01464" joined="2013-07-16"/>
+    <cosponsor thomas_id="01687" joined="2013-07-17"/>
+    <cosponsor thomas_id="00188" joined="2013-07-31"/>
+    <cosponsor thomas_id="00213" joined="2013-07-24"/>
+    <cosponsor thomas_id="01541" joined="2013-07-16"/>
+    <cosponsor thomas_id="01825" joined="2013-07-16"/>
+    <cosponsor thomas_id="01692" joined="2013-09-17"/>
+    <cosponsor thomas_id="00250" joined="2013-07-16"/>
+    <cosponsor thomas_id="01542" joined="2013-07-16"/>
+    <cosponsor thomas_id="02179" joined="2013-07-16"/>
+    <cosponsor thomas_id="01633" joined="2013-11-06"/>
+    <cosponsor thomas_id="01863" joined="2013-07-16"/>
+    <cosponsor thomas_id="02079" joined="2013-07-17"/>
+    <cosponsor thomas_id="01608" joined="2013-07-17"/>
+    <cosponsor thomas_id="01899" joined="2013-07-16"/>
+    <cosponsor thomas_id="01694" joined="2013-07-17"/>
+    <cosponsor thomas_id="01534" joined="2013-09-09"/>
+    <cosponsor thomas_id="01609" joined="2013-07-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="3770"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Consumer Financial Protection Bureau"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal officials"/>
+    <term name="Government studies and investigations"/>
+  </subjects>
+  <amendments/>
+  <summary>7/16/2013--Introduced.
+Bureau of Consumer Financial Protection-Inspector General Reform Act of 2013 or CFPB-IG Act of 2013 - Amends the Inspector General Act of 1978 to repeal the authority of the Chairman of the Board of Governors of the Federal Reserve System to appoint the Inspector General of the Consumer Financial Protection Bureau (CFPB).
+
+Requires the CFPB Inspector General to be appointed by the President, by and with the advice and consent of the Senate.</summary>
+</bill>

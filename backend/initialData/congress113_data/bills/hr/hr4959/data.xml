@@ -1,0 +1,46 @@
+<bill session="113" type="h" number="4959" updated="2014-08-14T13:33:48-04:00">
+  <state datetime="2014-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-25"/>
+  </status>
+  <introduced datetime="2014-06-25"/>
+  <titles>
+    <title type="short" as="introduced">EEOC Transparency and Accountability Act</title>
+    <title type="official" as="introduced">To direct the Equal Employment Opportunity Commission to maintain up-to-date information on its website regarding charges and actions brought by the Commission, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02140"/>
+  <cosponsors>
+    <cosponsor thomas_id="00512" joined="2014-06-26"/>
+    <cosponsor thomas_id="01733" joined="2014-06-25"/>
+    <cosponsor thomas_id="02017" joined="2014-06-26"/>
+    <cosponsor thomas_id="01855" joined="2014-06-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-25" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Age discrimination"/>
+    <term name="Alternative dispute resolution, mediation, arbitration"/>
+    <term name="Civil actions and liability"/>
+    <term name="Congressional oversight"/>
+    <term name="Disability and health-based discrimination"/>
+    <term name="Employment discrimination and employee rights"/>
+    <term name="Government information and archives"/>
+    <term name="Government liability"/>
+    <term name="Government studies and investigations"/>
+    <term name="Judicial review and appeals"/>
+    <term name="Legal fees and court costs"/>
+    <term name="Performance measurement"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="Religion"/>
+    <term name="Sex, gender, sexual orientation discrimination"/>
+  </subjects>
+  <amendments/>
+</bill>

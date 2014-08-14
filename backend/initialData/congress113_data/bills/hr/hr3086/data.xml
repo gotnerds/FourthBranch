@@ -1,0 +1,306 @@
+<bill session="113" type="h" number="3086" updated="2014-08-14T13:17:46-04:00">
+  <state datetime="2014-07-15T13:21:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-07-15T13:21:00-04:00"/>
+  </status>
+  <introduced datetime="2013-09-12"/>
+  <titles>
+    <title type="short" as="introduced">Permanent Internet Tax Freedom Act</title>
+    <title type="short" as="reported to house">Permanent Internet Tax Freedom Act</title>
+    <title type="short" as="passed house">Permanent Internet Tax Freedom Act</title>
+    <title type="official" as="introduced">To permanently extend the Internet Tax Freedom Act.</title>
+  </titles>
+  <sponsor thomas_id="00446"/>
+  <cosponsors>
+    <cosponsor thomas_id="01460" joined="2014-06-10"/>
+    <cosponsor thomas_id="02090" joined="2013-11-21"/>
+    <cosponsor thomas_id="01858" joined="2013-10-22"/>
+    <cosponsor thomas_id="00038" joined="2013-09-12"/>
+    <cosponsor thomas_id="02131" joined="2014-03-05"/>
+    <cosponsor thomas_id="01780" joined="2013-11-21"/>
+    <cosponsor thomas_id="00062" joined="2014-05-09"/>
+    <cosponsor thomas_id="02153" joined="2014-06-18"/>
+    <cosponsor thomas_id="02102" joined="2014-06-10"/>
+    <cosponsor thomas_id="01838" joined="2014-02-06"/>
+    <cosponsor thomas_id="01740" joined="2014-04-04"/>
+    <cosponsor thomas_id="01748" joined="2014-04-04"/>
+    <cosponsor thomas_id="01787" joined="2013-11-21"/>
+    <cosponsor thomas_id="01468" joined="2014-02-25"/>
+    <cosponsor thomas_id="01469" joined="2013-12-05"/>
+    <cosponsor thomas_id="01845" joined="2013-12-05"/>
+    <cosponsor thomas_id="01987" joined="2013-10-22"/>
+    <cosponsor thomas_id="02129" joined="2014-04-04"/>
+    <cosponsor thomas_id="00132" joined="2014-04-29"/>
+    <cosponsor thomas_id="02106" joined="2014-04-10"/>
+    <cosponsor thomas_id="01761" joined="2013-11-12"/>
+    <cosponsor thomas_id="00165" joined="2014-03-06"/>
+    <cosponsor thomas_id="00166" joined="2014-04-01"/>
+    <cosponsor thomas_id="01816" joined="2014-06-17"/>
+    <cosponsor thomas_id="01676" joined="2014-06-17"/>
+    <cosponsor thomas_id="01471" joined="2013-11-12"/>
+    <cosponsor thomas_id="02107" joined="2013-11-21"/>
+    <cosponsor thomas_id="02159" joined="2014-02-11"/>
+    <cosponsor thomas_id="00186" joined="2013-09-12"/>
+    <cosponsor thomas_id="01956" joined="2014-02-11"/>
+    <cosponsor thomas_id="01474" joined="2013-11-14"/>
+    <cosponsor thomas_id="00211" joined="2013-10-22"/>
+    <cosponsor thomas_id="01878" joined="2013-09-12"/>
+    <cosponsor thomas_id="01742" joined="2013-12-19"/>
+    <cosponsor thomas_id="02151" joined="2013-10-22"/>
+    <cosponsor thomas_id="02121" joined="2013-10-30"/>
+    <cosponsor thomas_id="01805" joined="2014-01-21"/>
+    <cosponsor thomas_id="01959" joined="2014-02-25"/>
+    <cosponsor thomas_id="02103" joined="2014-02-11"/>
+    <cosponsor thomas_id="02098" joined="2014-04-04"/>
+    <cosponsor thomas_id="01836" joined="2014-06-17"/>
+    <cosponsor thomas_id="02144" joined="2014-02-11"/>
+    <cosponsor thomas_id="01643" joined="2013-10-30"/>
+    <cosponsor thomas_id="00256" joined="2014-03-27"/>
+    <cosponsor thomas_id="02138" joined="2014-03-13"/>
+    <cosponsor thomas_id="02126" joined="2014-05-23"/>
+    <cosponsor thomas_id="01641" joined="2014-04-29"/>
+    <cosponsor thomas_id="00279" joined="2014-04-01"/>
+    <cosponsor thomas_id="01995" joined="2014-04-01"/>
+    <cosponsor thomas_id="01799" joined="2014-06-17"/>
+    <cosponsor thomas_id="02116" joined="2014-01-31"/>
+    <cosponsor thomas_id="01717" joined="2013-11-14"/>
+    <cosponsor thomas_id="00299" joined="2014-03-27"/>
+    <cosponsor thomas_id="00316" joined="2013-10-22"/>
+    <cosponsor thomas_id="02072" joined="2014-05-23"/>
+    <cosponsor thomas_id="02036" joined="2014-05-23"/>
+    <cosponsor thomas_id="00344" joined="2014-02-25"/>
+    <cosponsor thomas_id="02125" joined="2014-02-11"/>
+    <cosponsor thomas_id="00355" joined="2013-09-12"/>
+    <cosponsor thomas_id="02114" joined="2014-06-18"/>
+    <cosponsor thomas_id="02067" joined="2013-10-04"/>
+    <cosponsor thomas_id="00368" joined="2014-06-11"/>
+    <cosponsor thomas_id="00371" joined="2014-01-10"/>
+    <cosponsor thomas_id="02064" joined="2014-03-05"/>
+    <cosponsor thomas_id="01797" joined="2013-12-05"/>
+    <cosponsor thomas_id="02065" joined="2014-05-23"/>
+    <cosponsor thomas_id="01683" joined="2013-10-30"/>
+    <cosponsor thomas_id="01888" joined="2013-11-12"/>
+    <cosponsor thomas_id="01791" joined="2013-12-19"/>
+    <cosponsor thomas_id="01707" joined="2013-10-04"/>
+    <cosponsor thomas_id="00414" joined="2014-04-10"/>
+    <cosponsor thomas_id="01895" joined="2014-04-29"/>
+    <cosponsor thomas_id="01998" joined="2014-02-06"/>
+    <cosponsor thomas_id="02049" joined="2013-11-12"/>
+    <cosponsor thomas_id="02043" joined="2014-02-27"/>
+    <cosponsor thomas_id="01801" joined="2014-06-18"/>
+    <cosponsor thomas_id="01992" joined="2014-02-27"/>
+    <cosponsor thomas_id="01487" joined="2014-05-23"/>
+    <cosponsor thomas_id="01656" joined="2013-10-30"/>
+    <cosponsor thomas_id="01979" joined="2014-02-11"/>
+    <cosponsor thomas_id="00462" joined="2014-04-08"/>
+    <cosponsor thomas_id="01990" joined="2014-04-04"/>
+    <cosponsor thomas_id="02070" joined="2014-02-25"/>
+    <cosponsor thomas_id="01708" joined="2013-11-14"/>
+    <cosponsor thomas_id="02041" joined="2014-03-27"/>
+    <cosponsor thomas_id="00484" joined="2014-02-11"/>
+    <cosponsor thomas_id="01933" joined="2014-01-29"/>
+    <cosponsor thomas_id="02026" joined="2013-12-19"/>
+    <cosponsor thomas_id="00511" joined="2013-12-19"/>
+    <cosponsor thomas_id="02040" joined="2014-04-04"/>
+    <cosponsor thomas_id="02071" joined="2014-03-27"/>
+    <cosponsor thomas_id="01913" joined="2014-03-06"/>
+    <cosponsor thomas_id="02143" joined="2013-10-30"/>
+    <cosponsor thomas_id="01580" joined="2014-03-05"/>
+    <cosponsor thomas_id="01634" joined="2014-01-31"/>
+    <cosponsor thomas_id="02147" joined="2014-04-29"/>
+    <cosponsor thomas_id="02015" joined="2014-02-27"/>
+    <cosponsor thomas_id="02069" joined="2014-03-13"/>
+    <cosponsor thomas_id="01663" joined="2014-03-27"/>
+    <cosponsor thomas_id="01640" joined="2014-03-27"/>
+    <cosponsor thomas_id="01921" joined="2014-03-13"/>
+    <cosponsor thomas_id="02046" joined="2013-10-04"/>
+    <cosponsor thomas_id="00599" joined="2014-05-23"/>
+    <cosponsor thomas_id="01843" joined="2014-02-11"/>
+    <cosponsor thomas_id="00603" joined="2014-02-06"/>
+    <cosponsor thomas_id="00612" joined="2013-11-14"/>
+    <cosponsor thomas_id="01868" joined="2013-11-21"/>
+    <cosponsor thomas_id="02154" joined="2014-02-11"/>
+    <cosponsor thomas_id="02051" joined="2014-02-06"/>
+    <cosponsor thomas_id="02190" joined="2014-04-04"/>
+    <cosponsor thomas_id="02172" joined="2014-06-18"/>
+    <cosponsor thomas_id="02169" joined="2014-04-08"/>
+    <cosponsor thomas_id="01498" joined="2014-05-09"/>
+    <cosponsor thomas_id="01724" joined="2013-10-30"/>
+    <cosponsor thomas_id="02014" joined="2013-12-05"/>
+    <cosponsor thomas_id="01907" joined="2014-04-08"/>
+    <cosponsor thomas_id="01733" joined="2013-11-12"/>
+    <cosponsor thomas_id="02145" joined="2014-01-29"/>
+    <cosponsor thomas_id="02100" joined="2014-02-11"/>
+    <cosponsor thomas_id="00666" joined="2014-02-06"/>
+    <cosponsor thomas_id="01885" joined="2014-03-05"/>
+    <cosponsor thomas_id="01846" joined="2014-02-25"/>
+    <cosponsor thomas_id="02033" joined="2013-10-04"/>
+    <cosponsor thomas_id="00711" joined="2013-11-21"/>
+    <cosponsor thomas_id="01931" joined="2014-02-27"/>
+    <cosponsor thomas_id="01943" joined="2014-03-13"/>
+    <cosponsor thomas_id="00729" joined="2014-04-01"/>
+    <cosponsor thomas_id="01806" joined="2014-02-25"/>
+    <cosponsor thomas_id="02053" joined="2014-02-11"/>
+    <cosponsor thomas_id="01671" joined="2013-10-22"/>
+    <cosponsor thomas_id="01814" joined="2014-06-10"/>
+    <cosponsor thomas_id="01804" joined="2013-11-12"/>
+    <cosponsor thomas_id="01908" joined="2014-02-11"/>
+    <cosponsor thomas_id="01653" joined="2014-02-27"/>
+    <cosponsor thomas_id="00778" joined="2014-03-05"/>
+    <cosponsor thomas_id="01809" joined="2014-05-23"/>
+    <cosponsor thomas_id="01832" joined="2014-01-10"/>
+    <cosponsor thomas_id="02142" joined="2013-11-21"/>
+    <cosponsor thomas_id="02052" joined="2014-02-27"/>
+    <cosponsor thomas_id="01506" joined="2014-03-27"/>
+    <cosponsor thomas_id="00800" joined="2014-03-27"/>
+    <cosponsor thomas_id="00808" joined="2014-06-17"/>
+    <cosponsor thomas_id="01685" joined="2014-01-10"/>
+    <cosponsor thomas_id="01811" joined="2013-12-19"/>
+    <cosponsor thomas_id="00832" joined="2014-03-27"/>
+    <cosponsor thomas_id="02156" joined="2013-11-14"/>
+    <cosponsor thomas_id="02117" joined="2014-03-27"/>
+    <cosponsor thomas_id="01744" joined="2013-12-05"/>
+    <cosponsor thomas_id="01758" joined="2014-03-27"/>
+    <cosponsor thomas_id="02060" joined="2014-02-27"/>
+    <cosponsor thomas_id="02001" joined="2014-06-10"/>
+    <cosponsor thomas_id="01710" joined="2014-03-27"/>
+    <cosponsor thomas_id="01955" joined="2014-06-10"/>
+    <cosponsor thomas_id="00887" joined="2014-06-10"/>
+    <cosponsor thomas_id="01930" joined="2014-02-27"/>
+    <cosponsor thomas_id="02097" joined="2014-04-10"/>
+    <cosponsor thomas_id="01738" joined="2014-06-19"/>
+    <cosponsor thomas_id="02113" joined="2014-06-17"/>
+    <cosponsor thomas_id="00912" joined="2013-10-30"/>
+    <cosponsor thomas_id="02141" joined="2014-02-27"/>
+    <cosponsor thomas_id="01802" joined="2013-10-30"/>
+    <cosponsor thomas_id="01910" joined="2014-06-10"/>
+    <cosponsor thomas_id="02022" joined="2014-01-31"/>
+    <cosponsor thomas_id="00930" joined="2014-02-25"/>
+    <cosponsor thomas_id="02118" joined="2013-10-04"/>
+    <cosponsor thomas_id="00940" joined="2014-01-29"/>
+    <cosponsor thomas_id="01982" joined="2014-03-13"/>
+    <cosponsor thomas_id="01810" joined="2014-01-10"/>
+    <cosponsor thomas_id="02073" joined="2014-02-11"/>
+    <cosponsor thomas_id="02160" joined="2014-03-27"/>
+    <cosponsor thomas_id="02023" joined="2014-05-23"/>
+    <cosponsor thomas_id="02068" joined="2014-01-17"/>
+    <cosponsor thomas_id="01954" joined="2014-03-27"/>
+    <cosponsor thomas_id="00977" joined="2014-02-11"/>
+    <cosponsor thomas_id="01651" joined="2014-02-27"/>
+    <cosponsor thomas_id="00979" joined="2014-01-21"/>
+    <cosponsor thomas_id="02017" joined="2014-01-17"/>
+    <cosponsor thomas_id="00985" joined="2014-03-27"/>
+    <cosponsor thomas_id="01848" joined="2014-02-06"/>
+    <cosponsor thomas_id="02003" joined="2013-12-19"/>
+    <cosponsor thomas_id="00998" joined="2014-05-09"/>
+    <cosponsor thomas_id="01003" joined="2014-04-04"/>
+    <cosponsor thomas_id="01560" joined="2014-06-18"/>
+    <cosponsor thomas_id="01756" joined="2013-10-22"/>
+    <cosponsor thomas_id="01009" joined="2014-02-25"/>
+    <cosponsor thomas_id="01522" joined="2014-03-05"/>
+    <cosponsor thomas_id="01892" joined="2014-04-01"/>
+    <cosponsor thomas_id="01920" joined="2013-10-30"/>
+    <cosponsor thomas_id="01950" joined="2014-06-10"/>
+    <cosponsor thomas_id="01798" joined="2013-11-21"/>
+    <cosponsor thomas_id="02009" joined="2013-11-14"/>
+    <cosponsor thomas_id="01722" joined="2014-03-27"/>
+    <cosponsor thomas_id="01041" joined="2014-01-17"/>
+    <cosponsor thomas_id="01525" joined="2013-09-19"/>
+    <cosponsor thomas_id="01861" joined="2013-10-04"/>
+    <cosponsor thomas_id="01527" joined="2014-04-29"/>
+    <cosponsor thomas_id="01590" joined="2014-06-10"/>
+    <cosponsor thomas_id="01528" joined="2014-04-01"/>
+    <cosponsor thomas_id="01860" joined="2013-11-21"/>
+    <cosponsor thomas_id="02191" joined="2014-02-11"/>
+    <cosponsor thomas_id="01075" joined="2013-12-19"/>
+    <cosponsor thomas_id="01890" joined="2014-02-25"/>
+    <cosponsor thomas_id="02047" joined="2014-04-04"/>
+    <cosponsor thomas_id="02104" joined="2014-01-21"/>
+    <cosponsor thomas_id="02110" joined="2013-12-19"/>
+    <cosponsor thomas_id="01566" joined="2014-04-29"/>
+    <cosponsor thomas_id="01151" joined="2014-04-04"/>
+    <cosponsor thomas_id="01593" joined="2014-03-13"/>
+    <cosponsor thomas_id="01155" joined="2014-02-06"/>
+    <cosponsor thomas_id="01664" joined="2013-12-05"/>
+    <cosponsor thomas_id="01997" joined="2014-01-17"/>
+    <cosponsor thomas_id="01884" joined="2014-04-29"/>
+    <cosponsor thomas_id="02112" joined="2014-04-10"/>
+    <cosponsor thomas_id="02166" joined="2013-12-19"/>
+    <cosponsor thomas_id="02137" joined="2013-11-14"/>
+    <cosponsor thomas_id="01855" joined="2014-05-09"/>
+    <cosponsor thomas_id="01596" joined="2013-10-22"/>
+    <cosponsor thomas_id="02002" joined="2014-06-17"/>
+    <cosponsor thomas_id="01779" joined="2013-12-05"/>
+    <cosponsor thomas_id="01222" joined="2014-04-29"/>
+    <cosponsor thomas_id="02165" joined="2014-06-19"/>
+    <cosponsor thomas_id="02004" joined="2014-03-05"/>
+    <cosponsor thomas_id="01688" joined="2014-03-05"/>
+    <cosponsor thomas_id="01886" joined="2014-02-11"/>
+    <cosponsor thomas_id="01991" joined="2014-05-09"/>
+    <cosponsor thomas_id="01853" joined="2014-04-10"/>
+    <cosponsor thomas_id="02021" joined="2014-03-13"/>
+    <cosponsor thomas_id="01256" joined="2014-02-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-12" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-10-15">
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+    </action>
+    <action datetime="2014-06-17">
+      <text>Subcommittee on Regulatory Reform, Commercial And Antitrust Law Discharged.</text>
+    </action>
+    <action datetime="2014-06-18">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-06-18" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 30 - 4.</text>
+    </calendar>
+    <action datetime="2014-07-03T13:36:00-04:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 113-510.</text>
+    </action>
+    <calendar datetime="2014-07-03T13:36:00-04:00" calendar="Union" number="382">
+      <text>Placed on the Union Calendar, Calendar No. 382.</text>
+    </calendar>
+    <action datetime="2014-07-15T12:37:00-04:00">
+      <text>Mr. Goodlatte moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2014-07-15T12:37:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6228-6234" label="consideration"/>
+    </action>
+    <action datetime="2014-07-15T12:38:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3086.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-07-15T13:21:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H6228" label="text"/>
+    </vote>
+    <action datetime="2014-07-15T13:21:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-07-16">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee subcommittee="Regulatory Reform, Commercial And Antitrust Law" code="HSJU05" name="House Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="434"/>
+    <bill type="s" session="113" relation="unknown" number="31"/>
+    <bill type="s" session="113" relation="unknown" number="1431"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Internet and video services"/>
+    <term name="Sales and excise taxes"/>
+    <term name="State and local taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>7/15/2014--Passed House without amendment.
+Permanent Internet Tax Freedom Act - Amends the Internet Tax Freedom Act to make permanent the ban on state and local taxation of Internet access and on multiple or discriminatory taxes on electronic commerce.</summary>
+</bill>

@@ -1,0 +1,51 @@
+<bill session="113" type="h" number="3611" updated="2014-08-14T13:22:17-04:00">
+  <state datetime="2013-11-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-11-21"/>
+  </status>
+  <introduced datetime="2013-11-21"/>
+  <titles>
+    <title type="short" as="introduced">DHS Immigration Accountability and Transparency Act of 2013</title>
+    <title type="official" as="introduced">To require the Secretary of Homeland Security to submit to Congress an annual report on immigration policy directives issued by the Department of Homeland Security, to ensure that each such policy directive is subject to the rule making process described in section 553 of title 5, United States Code, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02157"/>
+  <cosponsors>
+    <cosponsor thomas_id="01858" joined="2013-11-21"/>
+    <cosponsor thomas_id="02054" joined="2013-11-21"/>
+    <cosponsor thomas_id="01987" joined="2014-07-23"/>
+    <cosponsor thomas_id="02098" joined="2013-11-21"/>
+    <cosponsor thomas_id="01720" joined="2013-11-21"/>
+    <cosponsor thomas_id="01992" joined="2014-07-23"/>
+    <cosponsor thomas_id="02059" joined="2013-12-10"/>
+    <cosponsor thomas_id="01075" joined="2013-11-21"/>
+    <cosponsor thomas_id="02168" joined="2013-11-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-11-21" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2014-01-09">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Immigration and Border Security" code="HSJU01" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Border security and unlawful immigration"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Government information and archives"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Violent crime"/>
+  </subjects>
+  <amendments/>
+  <summary>11/21/2013--Introduced.
+DHS Immigration Accountability and Transparency Act of 2013 - Directs the Secretary of Homeland Security (DHS) to submit to Congress an annual report on DHS immigration policy directives.
+
+States that for specified purposes an immigration policy directive shall be treated as a rule.</summary>
+</bill>

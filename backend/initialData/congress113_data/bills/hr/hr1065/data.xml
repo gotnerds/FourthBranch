@@ -1,0 +1,48 @@
+<bill session="113" type="h" number="1065" updated="2014-08-14T12:59:47-04:00">
+  <state datetime="2013-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-12"/>
+  </status>
+  <introduced datetime="2013-03-12"/>
+  <titles>
+    <title type="short" as="introduced">STATE Act</title>
+    <title type="short" as="introduced">Surface Transportation and Taxation Equity Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to reduce the Federal tax on fuels by the amount of any increase in the rate of tax on such fuel by the States.</title>
+  </titles>
+  <sponsor thomas_id="01737"/>
+  <cosponsors>
+    <cosponsor thomas_id="02029" joined="2013-06-28"/>
+    <cosponsor thomas_id="01753" joined="2013-03-12"/>
+    <cosponsor thomas_id="01882" joined="2013-03-12"/>
+    <cosponsor thomas_id="01956" joined="2013-03-12"/>
+    <cosponsor thomas_id="02057" joined="2013-03-12"/>
+    <cosponsor thomas_id="01707" joined="2013-03-12"/>
+    <cosponsor thomas_id="01801" joined="2013-03-12"/>
+    <cosponsor thomas_id="02026" joined="2013-03-12"/>
+    <cosponsor thomas_id="02028" joined="2013-03-12"/>
+    <cosponsor thomas_id="02011" joined="2013-03-12"/>
+    <cosponsor thomas_id="02100" joined="2013-03-12"/>
+    <cosponsor thomas_id="01685" joined="2013-03-12"/>
+    <cosponsor thomas_id="02034" joined="2013-03-12"/>
+    <cosponsor thomas_id="01779" joined="2013-03-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-12" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Motor fuels"/>
+    <term name="Oil and gas"/>
+    <term name="Sales and excise taxes"/>
+    <term name="State and local taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>3/12/2013--Introduced.
+Surface Transportation and Taxation Equity Act or the STATE Act - Amends the Internal Revenue Code to reduce the federal excise tax on gasoline and special fuels (but not below two cents per gallon) by corresponding increases in fuel taxes imposed by states as of March 12, 2013 (the date of introduction of this Act).</summary>
+</bill>

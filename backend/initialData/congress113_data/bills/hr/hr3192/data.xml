@@ -1,0 +1,49 @@
+<bill session="113" type="h" number="3192" updated="2014-08-14T13:18:39-04:00">
+  <state datetime="2013-09-26">REFERRED</state>
+  <status>
+    <introduced datetime="2013-09-26"/>
+  </status>
+  <introduced datetime="2013-09-26"/>
+  <titles>
+    <title type="short" as="introduced">Bureau of Consumer Financial Protection Accountability Act of 2013</title>
+    <title type="official" as="introduced">To amend the Consumer Financial Protection Act of 2010 to bring the Bureau of Consumer Financial Protection into the regular appropriations process, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02072"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-09-26" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2013-10-29">
+      <text>Hearings Held by the Subcommittee on Financial Institutions and Consumer Credit Prior to Referral.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee subcommittee="Financial Institutions and Consumer Credit" code="HSBA15" name="House Financial Services" activity="Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="450"/>
+    <bill type="h" session="113" relation="unknown" number="3519"/>
+    <bill type="s" session="113" relation="unknown" number="18"/>
+    <bill type="s" session="113" relation="unknown" number="205"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Appropriations"/>
+    <term name="Consumer Financial Protection Bureau"/>
+    <term name="Consumer affairs"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal Reserve System"/>
+    <term name="Financial services and investments"/>
+  </subjects>
+  <amendments/>
+  <summary>9/26/2013--Introduced.
+Bureau of Consumer Financial Protection Accountability Act of 2013 - Amends the Consumer Financial Protection Act of 2010 to subject the Consumer Financial Protection Bureau (CFPB) to regular appropriations.
+
+Repeals the requirement of an annual transfer to the CFPB of funds from the Board of Governors of the Federal Reserve System. Subjects the CFPB to the regular authorization, budget, and appropriations process of the Department of the Treasury.
+
+Repeals establishment of the CFPB Fund.
+
+Replaces the authorization of appropriations for FY2010-FY2014 with an authorization for FY2015 only.</summary>
+</bill>

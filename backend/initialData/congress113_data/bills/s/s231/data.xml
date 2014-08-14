@@ -1,0 +1,69 @@
+<bill session="113" type="s" number="231" updated="2014-08-14T13:46:43-04:00">
+  <state datetime="2014-07-31">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2013-02-07"/>
+  <titles>
+    <title type="short" as="introduced">Multinational Species Conservation Funds Semipostal Stamp Reauthorization Act of 2013</title>
+    <title type="official" as="introduced">A bill to reauthorize the Multinational Species Conservation Funds Semipostal Stamp.</title>
+  </titles>
+  <sponsor thomas_id="00924"/>
+  <cosponsors>
+    <cosponsor thomas_id="01332" joined="2013-06-25"/>
+    <cosponsor thomas_id="01866" joined="2013-07-23"/>
+    <cosponsor thomas_id="01384" joined="2013-09-23"/>
+    <cosponsor thomas_id="01531" joined="2013-11-05"/>
+    <cosponsor thomas_id="01567" joined="2013-02-07"/>
+    <cosponsor thomas_id="02182" joined="2014-03-31"/>
+    <cosponsor thomas_id="01823" joined="2013-04-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-07" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar datetime="2014-06-25" state="REPORTED">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2014-07-31">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper without amendment. With written report No. 113-235.</text>
+    </action>
+    <calendar datetime="2014-07-31" calendar="Senate Legislative" under="General Orders" number="503">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 503.</text>
+    </calendar>
+    <vote how="by Unanimous Consent" type="vote" datetime="2014-07-31" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2014-08-01T10:52:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2014-08-01">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2014-08-01">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-08-01">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2014-08-01">
+      <text>Referred to House Natural Resources</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting, In Committee"/>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Endangered and threatened species"/>
+    <term name="Government trust funds"/>
+    <term name="Postal service"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+  <summary>2/7/2013--Introduced.
+Multinational Species Conservation Funds Semipostal Stamp Reauthorization Act of 2013 - Amends the Multinational Species Conservation Funds Semipostal Stamp Act of 2010 to require such stamp to be made available to the public for an additional four years.</summary>
+</bill>

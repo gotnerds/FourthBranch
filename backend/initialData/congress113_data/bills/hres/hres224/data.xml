@@ -1,0 +1,38 @@
+<bill session="113" type="hr" number="224" updated="2014-08-14T12:46:32-04:00">
+  <state datetime="2013-05-17">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-17"/>
+  </status>
+  <introduced datetime="2013-05-17"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the House of Representatives that a "Haitian-American Heritage Month" should be established in recognition of the contributions of the Haitian people to the history and culture of the United States.</title>
+  </titles>
+  <sponsor thomas_id="02004"/>
+  <cosponsors>
+    <cosponsor thomas_id="01864" joined="2013-05-17"/>
+    <cosponsor thomas_id="00229" joined="2013-05-17"/>
+    <cosponsor thomas_id="00588" joined="2013-05-17"/>
+    <cosponsor thomas_id="01205" joined="2013-05-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-17" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social sciences and history"/>
+    <term name="Caribbean area"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Haiti"/>
+    <term name="Latin America"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="U.S. history"/>
+  </subjects>
+  <amendments/>
+  <summary>5/17/2013--Introduced.
+Supports the designation and recognition of a Haitian-American Heritage Month.</summary>
+</bill>

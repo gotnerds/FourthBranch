@@ -1,0 +1,35 @@
+<bill session="113" type="s" number="2531" updated="2014-08-14T14:06:23-04:00">
+  <state datetime="2014-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-25"/>
+  </status>
+  <introduced datetime="2014-06-25"/>
+  <titles>
+    <title type="short" as="introduced">Better Options for Kids Act of 2014</title>
+    <title type="official" as="introduced">A bill to reward and incentivize evidence-based State policies that improve educational continuity and limit juvenile court involvement and incarceration for youth through a priority in awarding certain competitive grants offered by the Substance Abuse and Mental Health Services Administration.</title>
+  </titles>
+  <sponsor thomas_id="01837"/>
+  <cosponsors>
+    <cosponsor thomas_id="02194" joined="2014-06-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-25" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Child health"/>
+    <term name="Correctional facilities and imprisonment"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Juvenile crime and gang violence"/>
+    <term name="Mental health"/>
+    <term name="School administration"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,50 @@
+<bill session="113" type="h" number="3649" updated="2014-08-14T13:22:36-04:00">
+  <state datetime="2013-12-04">REFERRED</state>
+  <status>
+    <introduced datetime="2013-12-04"/>
+  </status>
+  <introduced datetime="2013-12-04"/>
+  <titles>
+    <title type="short" as="introduced">Jobs for Heroes Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to allow the work opportunity credit for hiring individuals who are veterans or members of the Ready Reserve or National Guard, to make permanent the work opportunity credit, and to expand and make permanent the employer wage credit for employees who are active duty members of the uniformed services.</title>
+  </titles>
+  <sponsor thomas_id="02127"/>
+  <cosponsors>
+    <cosponsor thomas_id="01845" joined="2013-12-10"/>
+    <cosponsor thomas_id="02107" joined="2014-01-09"/>
+    <cosponsor thomas_id="01889" joined="2014-01-28"/>
+    <cosponsor thomas_id="01634" joined="2014-02-26"/>
+    <cosponsor thomas_id="00588" joined="2014-02-26"/>
+    <cosponsor thomas_id="02190" joined="2014-05-08"/>
+    <cosponsor thomas_id="02162" joined="2014-02-10"/>
+    <cosponsor thomas_id="00910" joined="2014-06-24"/>
+    <cosponsor thomas_id="01861" joined="2014-05-19"/>
+    <cosponsor thomas_id="02110" joined="2014-01-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-12-04">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H7456"/>
+    </action>
+    <action datetime="2013-12-04" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Employee hiring"/>
+    <term name="Income tax credits"/>
+    <term name="National Guard and reserves"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Wages and earnings"/>
+  </subjects>
+  <amendments/>
+  <summary>12/4/2013--Introduced.
+Jobs for Heroes Act - Amends the Internal Revenue Code, with respect to the work opportunity tax credit, to: (1)&#160;revise the definition of "qualified veteran" to&#160;expand the eligibility of veterans for such credit,&#160;(2) allow such credit for the hiring of a qualified member of the Ready Reserve or National Guard, and (3) make such credit permanent.
+
+Revises the tax credit for differential wage&#160;payments made by employers on behalf of Members of the Uniformed Services to: (1)&#160;extend eligibility for such credit to an employer without regard to the size of such employer's workforce, and (2) make such credit permanent.</summary>
+</bill>

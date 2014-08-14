@@ -1,0 +1,89 @@
+<bill session="113" type="h" number="2511" updated="2014-08-14T13:12:53-04:00">
+  <state datetime="2013-06-26">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-26"/>
+  </status>
+  <introduced datetime="2013-06-26"/>
+  <titles>
+    <title type="short" as="introduced">Federal Land Freedom Act of 2013</title>
+    <title type="official" as="introduced">To achieve domestic energy independence by empowering States to control the development and production of all forms of energy on all available Federal land.</title>
+  </titles>
+  <sponsor thomas_id="02063"/>
+  <cosponsors>
+    <cosponsor thomas_id="01858" joined="2013-06-26"/>
+    <cosponsor thomas_id="02135" joined="2014-01-29"/>
+    <cosponsor thomas_id="01753" joined="2013-06-26"/>
+    <cosponsor thomas_id="01748" joined="2013-06-26"/>
+    <cosponsor thomas_id="02155" joined="2013-06-26"/>
+    <cosponsor thomas_id="01882" joined="2013-06-26"/>
+    <cosponsor thomas_id="01925" joined="2013-06-26"/>
+    <cosponsor thomas_id="01956" joined="2013-06-26"/>
+    <cosponsor thomas_id="02098" joined="2013-06-26"/>
+    <cosponsor thomas_id="02144" joined="2013-06-26"/>
+    <cosponsor thomas_id="02062" joined="2013-06-26"/>
+    <cosponsor thomas_id="02057" joined="2013-06-26"/>
+    <cosponsor thomas_id="00322" joined="2013-06-26"/>
+    <cosponsor thomas_id="02067" joined="2013-07-18"/>
+    <cosponsor thomas_id="02064" joined="2013-06-26"/>
+    <cosponsor thomas_id="02061" joined="2013-07-25"/>
+    <cosponsor thomas_id="01801" joined="2013-06-26"/>
+    <cosponsor thomas_id="01979" joined="2013-06-26"/>
+    <cosponsor thomas_id="02020" joined="2013-07-09"/>
+    <cosponsor thomas_id="01868" joined="2013-06-26"/>
+    <cosponsor thomas_id="00636" joined="2013-07-08"/>
+    <cosponsor thomas_id="02011" joined="2013-07-08"/>
+    <cosponsor thomas_id="02142" joined="2013-06-27"/>
+    <cosponsor thomas_id="02156" joined="2013-06-26"/>
+    <cosponsor thomas_id="02022" joined="2013-06-26"/>
+    <cosponsor thomas_id="02118" joined="2013-06-26"/>
+    <cosponsor thomas_id="01954" joined="2013-06-26"/>
+    <cosponsor thomas_id="01009" joined="2013-06-26"/>
+    <cosponsor thomas_id="01892" joined="2013-06-26"/>
+    <cosponsor thomas_id="02191" joined="2013-06-26"/>
+    <cosponsor thomas_id="02000" joined="2013-06-26"/>
+    <cosponsor thomas_id="02168" joined="2013-06-26"/>
+    <cosponsor thomas_id="01114" joined="2013-06-26"/>
+    <cosponsor thomas_id="01981" joined="2013-09-17"/>
+    <cosponsor thomas_id="01997" joined="2013-06-26"/>
+    <cosponsor thomas_id="01779" joined="2013-07-17"/>
+    <cosponsor thomas_id="02165" joined="2013-06-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-26" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-07-03">
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Energy and Mineral Resources" code="HSII06" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="4286"/>
+    <bill type="h" session="113" relation="unknown" number="4304"/>
+    <bill type="h" session="113" relation="unknown" number="4304"/>
+    <bill type="s" session="113" relation="identical" number="1233"/>
+    <bill type="s" session="113" relation="unknown" number="2170"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Endangered and threatened species"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Land use and conservation"/>
+    <term name="Licensing and registrations"/>
+    <term name="Oil and gas"/>
+  </subjects>
+  <amendments/>
+  <summary>6/26/2013--Introduced.
+Federal Land Freedom Act of 2013 - Authorizes a state to: (1) establish a program covering the leasing and permitting processes, regulatory requirements, and any other provisions by which the state would exercise its rights to develop all forms of energy resources on available federal land in the state; and (2) as a condition of certification, submit a declaration to the Departments of the Interior, Agriculture (USDA), and Energy (DOE) that such a program has been established or amended.
+
+ Considers each program certified under this Act as satisfying all applicable requirements of federal law and regulations, including: (1) the National Environmental Policy Act of 1969 (NEPA), (2) the Endangered Species Act of 1973, and (3) the National Historic Preservation Act.
+
+Requires, upon submission of a declaration by a state, the program to be certified, and the state to receive all rights from the federal government to develop all forms of energy resources covered by the program.
+
+Prohibits activities carried out in accordance with this Act from being subject to: (1) judicial review, and (2) the Administrative Procedure Act.</summary>
+</bill>

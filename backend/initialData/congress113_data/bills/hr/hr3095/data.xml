@@ -1,0 +1,166 @@
+<bill session="113" type="h" number="3095" updated="2014-08-14T13:17:50-04:00">
+  <state datetime="2013-10-15">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2013-10-15"/>
+  </status>
+  <introduced datetime="2013-09-12"/>
+  <titles>
+    <title type="official" as="introduced">To ensure that any new or revised requirement providing for the screening, testing, or treatment of individuals operating commercial motor vehicles for sleep disorders is adopted pursuant to a rulemaking proceeding, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02018"/>
+  <cosponsors>
+    <cosponsor thomas_id="02054" joined="2013-09-17"/>
+    <cosponsor thomas_id="01838" joined="2013-09-18"/>
+    <cosponsor thomas_id="01845" joined="2013-09-25"/>
+    <cosponsor thomas_id="00132" joined="2013-09-25"/>
+    <cosponsor thomas_id="02127" joined="2013-09-18"/>
+    <cosponsor thomas_id="01761" joined="2013-09-17"/>
+    <cosponsor thomas_id="01889" joined="2013-09-17"/>
+    <cosponsor thomas_id="01790" joined="2013-09-25"/>
+    <cosponsor thomas_id="00211" joined="2013-09-18"/>
+    <cosponsor thomas_id="02144" joined="2013-09-17"/>
+    <cosponsor thomas_id="01989" joined="2013-09-19"/>
+    <cosponsor thomas_id="02126" joined="2013-09-17"/>
+    <cosponsor thomas_id="00279" joined="2013-09-19"/>
+    <cosponsor thomas_id="01995" joined="2013-09-17"/>
+    <cosponsor thomas_id="02062" joined="2013-09-20"/>
+    <cosponsor thomas_id="02123" joined="2013-09-25"/>
+    <cosponsor thomas_id="00322" joined="2013-09-17"/>
+    <cosponsor thomas_id="02036" joined="2013-09-19"/>
+    <cosponsor thomas_id="02067" joined="2013-09-12"/>
+    <cosponsor thomas_id="01743" joined="2013-09-19"/>
+    <cosponsor thomas_id="02049" joined="2013-09-12"/>
+    <cosponsor thomas_id="02043" joined="2013-09-19"/>
+    <cosponsor thomas_id="01656" joined="2013-09-17"/>
+    <cosponsor thomas_id="02044" joined="2013-09-12"/>
+    <cosponsor thomas_id="02032" joined="2013-09-18"/>
+    <cosponsor thomas_id="02143" joined="2013-09-25"/>
+    <cosponsor thomas_id="02140" joined="2013-09-17"/>
+    <cosponsor thomas_id="02020" joined="2013-09-25"/>
+    <cosponsor thomas_id="01909" joined="2013-09-17"/>
+    <cosponsor thomas_id="01921" joined="2013-09-17"/>
+    <cosponsor thomas_id="00612" joined="2013-09-17"/>
+    <cosponsor thomas_id="01868" joined="2013-09-20"/>
+    <cosponsor thomas_id="02154" joined="2013-09-17"/>
+    <cosponsor thomas_id="00635" joined="2013-09-20"/>
+    <cosponsor thomas_id="01583" joined="2013-09-25"/>
+    <cosponsor thomas_id="00666" joined="2013-09-19"/>
+    <cosponsor thomas_id="01885" joined="2013-09-19"/>
+    <cosponsor thomas_id="01781" joined="2013-09-12"/>
+    <cosponsor thomas_id="00699" joined="2013-09-17"/>
+    <cosponsor thomas_id="02033" joined="2013-09-20"/>
+    <cosponsor thomas_id="02094" joined="2013-09-18"/>
+    <cosponsor thomas_id="02052" joined="2013-09-12"/>
+    <cosponsor thomas_id="01730" joined="2013-09-18"/>
+    <cosponsor thomas_id="02156" joined="2013-09-17"/>
+    <cosponsor thomas_id="01602" joined="2013-09-17"/>
+    <cosponsor thomas_id="02060" joined="2013-09-17"/>
+    <cosponsor thomas_id="00867" joined="2013-09-18"/>
+    <cosponsor thomas_id="01955" joined="2013-09-17"/>
+    <cosponsor thomas_id="00910" joined="2013-09-18"/>
+    <cosponsor thomas_id="02022" joined="2013-09-20"/>
+    <cosponsor thomas_id="02118" joined="2013-09-12"/>
+    <cosponsor thomas_id="02048" joined="2013-09-17"/>
+    <cosponsor thomas_id="02073" joined="2013-09-12"/>
+    <cosponsor thomas_id="01704" joined="2013-09-25"/>
+    <cosponsor thomas_id="01651" joined="2013-09-25"/>
+    <cosponsor thomas_id="01920" joined="2013-09-18"/>
+    <cosponsor thomas_id="02191" joined="2013-09-18"/>
+    <cosponsor thomas_id="02000" joined="2013-09-12"/>
+    <cosponsor thomas_id="02047" joined="2013-09-20"/>
+    <cosponsor thomas_id="01566" joined="2013-09-19"/>
+    <cosponsor thomas_id="01151" joined="2013-09-17"/>
+    <cosponsor thomas_id="01664" joined="2013-09-25"/>
+    <cosponsor thomas_id="01855" joined="2013-09-18"/>
+    <cosponsor thomas_id="01856" joined="2013-09-18"/>
+    <cosponsor thomas_id="02002" joined="2013-09-18"/>
+    <cosponsor thomas_id="02165" joined="2013-09-18"/>
+    <cosponsor thomas_id="01688" joined="2013-09-19"/>
+    <cosponsor thomas_id="01256" joined="2013-09-12"/>
+    <cosponsor thomas_id="02019" joined="2013-09-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-12" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2013-09-13">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+    <action datetime="2013-09-19">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2013-09-19" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+    <action datetime="2013-09-19">
+      <text>Subcommittee on Highways and Transit Discharged.</text>
+    </action>
+    <action datetime="2013-09-25T12:11:00-04:00">
+      <text>Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-225.</text>
+    </action>
+    <calendar datetime="2013-09-25T12:11:00-04:00" calendar="Union" number="165">
+      <text>Placed on the Union Calendar, Calendar No. 165.</text>
+    </calendar>
+    <action datetime="2013-09-25T17:48:00-04:00">
+      <text>Mr. Petri moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2013-09-25T17:48:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5815-5816" label="consideration"/>
+    </action>
+    <action datetime="2013-09-25T17:48:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3095.</text>
+    </action>
+    <action datetime="2013-09-25T17:57:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2013-09-26T12:39:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H5846-5847" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="486" datetime="2013-09-26T13:12:00-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 405 - 0 (Roll no. 486).</text>
+      <reference ref="CR 9/25/2013 H5815" label="text"/>
+    </vote>
+    <action datetime="2013-09-27">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote2" datetime="2013-10-04" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S7213" label="consideration"/>
+    </vote>
+    <action datetime="2013-10-05">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2013-10-07">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2013-10-15" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="113-45" type="public" datetime="2013-10-15">
+      <text>Became Public Law No: 113-45.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee subcommittee="Highways and Transit" code="HSPW12" name="House Transportation and Infrastructure" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="1537"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Department of Transportation"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Motor carriers"/>
+    <term name="Transportation employees"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>10/15/2013--Public Law.
+Authorizes the Secretary of Transportation (DOT) to implement or enforce a requirement providing for the screening, testing, or treatment of individuals operating commercial motor vehicles for sleep disorders (including obstructive sleep apnea) only if it is adopted pursuant to a rulemaking proceeding.
+
+Applies this Act only to a requirement adopted on or after September 1, 2013.</summary>
+</bill>

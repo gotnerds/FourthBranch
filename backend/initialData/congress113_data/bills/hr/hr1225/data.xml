@@ -1,0 +1,49 @@
+<bill session="113" type="h" number="1225" updated="2014-08-14T13:01:08-04:00">
+  <state datetime="2013-03-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-15"/>
+  </status>
+  <introduced datetime="2013-03-15"/>
+  <titles>
+    <title type="short" as="introduced">Samish Indian Nation Homelands Act of 2013</title>
+    <title type="official" as="introduced">To direct the Secretary of the Interior to place certain lands in Skagit and San Juan Counties, Washington, into trust for the Samish Indian Nation, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01675"/>
+  <cosponsors>
+    <cosponsor thomas_id="02027" joined="2014-07-14"/>
+    <cosponsor thomas_id="02107" joined="2014-07-08"/>
+    <cosponsor thomas_id="01742" joined="2014-03-04"/>
+    <cosponsor thomas_id="01708" joined="2014-06-24"/>
+    <cosponsor thomas_id="02156" joined="2014-06-24"/>
+    <cosponsor thomas_id="02109" joined="2014-06-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-15" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-03-26">
+      <text>Referred to the Subcommittee Indian and Alaska Native Affairs.</text>
+    </action>
+    <action datetime="2013-07-23">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee subcommittee="Indian and Alaska Native Affairs" code="HSII24" name="House Natural Resources" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Federal-Indian relations"/>
+    <term name="Gambling"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="Land transfers"/>
+    <term name="Washington State"/>
+  </subjects>
+  <amendments/>
+  <summary>3/15/2013--Introduced.
+Samish Indian Nation Homelands Act of 2013 - Directs the Secretary of the Interior to take into trust for the benefit of the Samish Indian Nation specified parcels of land owned by the Tribe in Skagit County and San Juan County, Washington, once the Tribe conveys that land to the Secretary and requests that it be taken into trust for the Tribe.
+
+Prohibits the Tribe from conducting gaming on such land.</summary>
+</bill>

@@ -1,0 +1,108 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-10", 
+      "references": [
+        {
+          "reference": "CR S3545-3546", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-10", 
+      "committees": [
+        "SSHR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2451-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Crapo, Mike", 
+      "sponsored_at": "2014-06-11", 
+      "state": "ID", 
+      "thomas_id": "00250", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-06-10", 
+  "number": "2451", 
+  "official_title": "A bill to support the local decisionmaking functions of local educational agencies by limiting the authority of the Secretary of Education to issue regulations, rules, grant conditions, and guidance materials, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr1386-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Local School Board Governance and Flexibility Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Inhofe, James M.", 
+    "state": "OK", 
+    "thomas_id": "00583", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-06-10", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Administrative remedies", 
+    "Department of Education", 
+    "Education", 
+    "Education programs funding", 
+    "Elementary and secondary education", 
+    "Government information and archives", 
+    "Intergovernmental relations", 
+    "School administration", 
+    "State and local government operations"
+  ], 
+  "subjects_top_term": "Education", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Local School Board Governance and Flexibility Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to support the local decisionmaking functions of local educational agencies by limiting the authority of the Secretary of Education to issue regulations, rules, grant conditions, and guidance materials, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T14:05:43-04:00"
+}

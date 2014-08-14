@@ -1,0 +1,84 @@
+<bill session="113" type="h" number="4139" updated="2014-08-14T13:26:43-04:00">
+  <state datetime="2014-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="2014-03-04"/>
+  </status>
+  <introduced datetime="2014-03-04"/>
+  <titles>
+    <title type="short" as="introduced">American Job Creation and Strategic Alliances LNG Act</title>
+    <title type="official" as="introduced">To promote United States economic growth and job creation and strengthen strategic partnerships with United States allies, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01741"/>
+  <cosponsors>
+    <cosponsor thomas_id="01838" joined="2014-03-04"/>
+    <cosponsor thomas_id="01753" joined="2014-03-04"/>
+    <cosponsor thomas_id="02155" joined="2014-03-13"/>
+    <cosponsor thomas_id="01987" joined="2014-03-04"/>
+    <cosponsor thomas_id="01882" joined="2014-03-04"/>
+    <cosponsor thomas_id="01676" joined="2014-03-13"/>
+    <cosponsor thomas_id="02151" joined="2014-03-27"/>
+    <cosponsor thomas_id="02098" joined="2014-03-05"/>
+    <cosponsor thomas_id="02144" joined="2014-03-05"/>
+    <cosponsor thomas_id="01799" joined="2014-03-04"/>
+    <cosponsor thomas_id="01924" joined="2014-03-06"/>
+    <cosponsor thomas_id="01743" joined="2014-03-04"/>
+    <cosponsor thomas_id="01720" joined="2014-03-05"/>
+    <cosponsor thomas_id="00484" joined="2014-03-05"/>
+    <cosponsor thomas_id="01909" joined="2014-03-13"/>
+    <cosponsor thomas_id="01921" joined="2014-03-04"/>
+    <cosponsor thomas_id="02046" joined="2014-03-05"/>
+    <cosponsor thomas_id="02051" joined="2014-03-04"/>
+    <cosponsor thomas_id="00635" joined="2014-03-04"/>
+    <cosponsor thomas_id="01834" joined="2014-03-04"/>
+    <cosponsor thomas_id="01885" joined="2014-03-25"/>
+    <cosponsor thomas_id="00711" joined="2014-03-04"/>
+    <cosponsor thomas_id="02053" joined="2014-03-04"/>
+    <cosponsor thomas_id="01804" joined="2014-03-05"/>
+    <cosponsor thomas_id="01908" joined="2014-03-04"/>
+    <cosponsor thomas_id="02142" joined="2014-03-26"/>
+    <cosponsor thomas_id="01685" joined="2014-03-06"/>
+    <cosponsor thomas_id="01744" joined="2014-03-04"/>
+    <cosponsor thomas_id="01955" joined="2014-03-04"/>
+    <cosponsor thomas_id="01738" joined="2014-03-04"/>
+    <cosponsor thomas_id="01810" joined="2014-03-04"/>
+    <cosponsor thomas_id="01651" joined="2014-03-04"/>
+    <cosponsor thomas_id="01560" joined="2014-03-06"/>
+    <cosponsor thomas_id="01756" joined="2014-03-04"/>
+    <cosponsor thomas_id="01041" joined="2014-03-04"/>
+    <cosponsor thomas_id="01527" joined="2014-03-04"/>
+    <cosponsor thomas_id="02047" joined="2014-03-04"/>
+    <cosponsor thomas_id="01952" joined="2014-03-04"/>
+    <cosponsor thomas_id="01779" joined="2014-03-04"/>
+    <cosponsor thomas_id="01688" joined="2014-03-04"/>
+    <cosponsor thomas_id="01991" joined="2014-03-04"/>
+    <cosponsor thomas_id="01256" joined="2014-03-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-03-04" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2014-03-07">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Energy and Power" code="HSIF03" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="6"/>
+    <bill type="s" session="113" relation="unknown" number="2083"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Federal Energy Regulatory Commission (FERC)"/>
+    <term name="Free trade and trade barriers"/>
+    <term name="Oil and gas"/>
+    <term name="Trade agreements and negotiations"/>
+    <term name="Trade restrictions"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/2014--Introduced.
+American Job Creation and Strategic Alliances LNG Act - Amends the Natural Gas Act to deem consistent with the public interest an expedited application and approval process for the importation or exportation of natural gas to a World Trade Organization country.</summary>
+</bill>

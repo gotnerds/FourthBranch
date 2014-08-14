@@ -1,0 +1,83 @@
+<bill session="113" type="h" number="78" updated="2014-08-14T12:51:21-04:00">
+  <state datetime="2014-07-24">REPORTED</state>
+  <status>
+    <unknown datetime="2014-07-24"/>
+  </status>
+  <introduced datetime="2013-01-03"/>
+  <titles>
+    <title type="official" as="introduced">To designate the facility of the United States Postal Service located at 4110 Almeda Road in Houston, Texas, as the "George Thomas 'Mickey' Leland Post Office Building".</title>
+  </titles>
+  <sponsor thomas_id="00588"/>
+  <cosponsors>
+    <cosponsor thomas_id="00038" joined="2014-04-07"/>
+    <cosponsor thomas_id="02131" joined="2014-04-07"/>
+    <cosponsor thomas_id="00062" joined="2014-04-07"/>
+    <cosponsor thomas_id="01468" joined="2014-04-07"/>
+    <cosponsor thomas_id="01751" joined="2014-04-07"/>
+    <cosponsor thomas_id="01752" joined="2014-04-07"/>
+    <cosponsor thomas_id="02163" joined="2014-04-07"/>
+    <cosponsor thomas_id="02151" joined="2014-04-07"/>
+    <cosponsor thomas_id="01805" joined="2014-04-07"/>
+    <cosponsor thomas_id="01807" joined="2014-04-07"/>
+    <cosponsor thomas_id="01670" joined="2014-04-07"/>
+    <cosponsor thomas_id="00303" joined="2014-04-07"/>
+    <cosponsor thomas_id="02067" joined="2014-04-07"/>
+    <cosponsor thomas_id="02065" joined="2014-04-07"/>
+    <cosponsor thomas_id="02164" joined="2014-04-07"/>
+    <cosponsor thomas_id="01973" joined="2014-04-07"/>
+    <cosponsor thomas_id="01801" joined="2014-04-07"/>
+    <cosponsor thomas_id="01487" joined="2014-04-07"/>
+    <cosponsor thomas_id="01803" joined="2014-04-07"/>
+    <cosponsor thomas_id="00462" joined="2014-04-07"/>
+    <cosponsor thomas_id="00484" joined="2014-04-07"/>
+    <cosponsor thomas_id="01749" joined="2014-04-07"/>
+    <cosponsor thomas_id="01490" joined="2014-04-07"/>
+    <cosponsor thomas_id="00566" joined="2014-04-07"/>
+    <cosponsor thomas_id="00599" joined="2014-04-07"/>
+    <cosponsor thomas_id="00603" joined="2014-04-07"/>
+    <cosponsor thomas_id="00616" joined="2014-04-07"/>
+    <cosponsor thomas_id="01806" joined="2014-04-07"/>
+    <cosponsor thomas_id="01804" joined="2014-04-07"/>
+    <cosponsor thomas_id="01758" joined="2014-04-07"/>
+    <cosponsor thomas_id="01955" joined="2014-04-07"/>
+    <cosponsor thomas_id="00893" joined="2014-04-07"/>
+    <cosponsor thomas_id="00905" joined="2014-04-07"/>
+    <cosponsor thomas_id="01802" joined="2014-04-07"/>
+    <cosponsor thomas_id="01525" joined="2014-04-07"/>
+    <cosponsor thomas_id="01075" joined="2014-04-07"/>
+    <cosponsor thomas_id="01114" joined="2014-04-07"/>
+    <cosponsor thomas_id="01155" joined="2014-04-07"/>
+    <cosponsor thomas_id="02166" joined="2014-04-07"/>
+    <cosponsor thomas_id="02167" joined="2014-04-07"/>
+    <cosponsor thomas_id="01205" joined="2014-04-07"/>
+    <cosponsor thomas_id="02161" joined="2014-04-07"/>
+    <cosponsor thomas_id="02165" joined="2014-04-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-03" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2014-07-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-07-24" state="REPORTED">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="House of Representatives"/>
+    <term name="Members of Congress"/>
+    <term name="Postal service"/>
+    <term name="Texas"/>
+  </subjects>
+  <amendments/>
+  <summary>1/3/2013--Introduced.
+Designates the facility of the United States Postal Service located at 4110 Almeda Road in Houston, Texas, as the "George Thomas 'Mickey' Leland Post Office Building."</summary>
+</bill>

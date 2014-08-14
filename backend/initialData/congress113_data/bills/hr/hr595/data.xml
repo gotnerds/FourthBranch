@@ -1,0 +1,86 @@
+<bill session="113" type="h" number="595" updated="2014-08-14T12:55:48-04:00">
+  <state datetime="2013-02-08">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-08"/>
+  </status>
+  <introduced datetime="2013-02-08"/>
+  <titles>
+    <title type="short" as="introduced">Veterans Education Equity Act of 2013</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to provide equity for tuition and fees for individuals entitled to educational assistance under the Post-9/11 Educational Assistance Program of the Department of Veterans Affairs who are pursuing programs of education at institutions of higher learning, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01761"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2013-02-08"/>
+    <cosponsor thomas_id="02153" joined="2013-02-28"/>
+    <cosponsor thomas_id="00091" joined="2013-02-08"/>
+    <cosponsor thomas_id="01469" joined="2013-02-08"/>
+    <cosponsor thomas_id="00132" joined="2013-02-08"/>
+    <cosponsor thomas_id="01889" joined="2013-02-28"/>
+    <cosponsor thomas_id="01474" joined="2013-02-08"/>
+    <cosponsor thomas_id="01864" joined="2013-02-08"/>
+    <cosponsor thomas_id="01654" joined="2013-02-28"/>
+    <cosponsor thomas_id="01790" joined="2013-02-08"/>
+    <cosponsor thomas_id="00208" joined="2013-02-08"/>
+    <cosponsor thomas_id="00211" joined="2013-02-12"/>
+    <cosponsor thomas_id="00229" joined="2013-02-08"/>
+    <cosponsor thomas_id="00256" joined="2013-02-08"/>
+    <cosponsor thomas_id="01477" joined="2013-02-28"/>
+    <cosponsor thomas_id="01641" joined="2013-06-03"/>
+    <cosponsor thomas_id="01894" joined="2013-02-08"/>
+    <cosponsor thomas_id="01857" joined="2013-02-08"/>
+    <cosponsor thomas_id="00371" joined="2013-02-28"/>
+    <cosponsor thomas_id="01895" joined="2013-02-12"/>
+    <cosponsor thomas_id="01803" joined="2013-02-08"/>
+    <cosponsor thomas_id="01708" joined="2013-02-08"/>
+    <cosponsor thomas_id="00511" joined="2013-02-08"/>
+    <cosponsor thomas_id="01634" joined="2013-02-25"/>
+    <cosponsor thomas_id="02147" joined="2013-02-28"/>
+    <cosponsor thomas_id="00588" joined="2013-02-28"/>
+    <cosponsor thomas_id="02149" joined="2013-02-08"/>
+    <cosponsor thomas_id="00599" joined="2013-02-12"/>
+    <cosponsor thomas_id="01843" joined="2013-02-25"/>
+    <cosponsor thomas_id="00612" joined="2013-02-08"/>
+    <cosponsor thomas_id="01501" joined="2013-02-08"/>
+    <cosponsor thomas_id="00688" joined="2013-02-08"/>
+    <cosponsor thomas_id="01505" joined="2013-02-08"/>
+    <cosponsor thomas_id="01506" joined="2013-02-08"/>
+    <cosponsor thomas_id="01811" joined="2013-02-28"/>
+    <cosponsor thomas_id="02097" joined="2013-02-08"/>
+    <cosponsor thomas_id="02113" joined="2013-05-22"/>
+    <cosponsor thomas_id="00944" joined="2013-02-28"/>
+    <cosponsor thomas_id="02023" joined="2013-02-28"/>
+    <cosponsor thomas_id="01003" joined="2013-02-08"/>
+    <cosponsor thomas_id="01757" joined="2014-07-25"/>
+    <cosponsor thomas_id="01588" joined="2013-03-04"/>
+    <cosponsor thomas_id="01722" joined="2013-02-28"/>
+    <cosponsor thomas_id="01988" joined="2013-02-28"/>
+    <cosponsor thomas_id="01151" joined="2013-02-28"/>
+    <cosponsor thomas_id="01205" joined="2013-03-18"/>
+    <cosponsor thomas_id="01207" joined="2013-02-08"/>
+    <cosponsor thomas_id="02004" joined="2013-02-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-08" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-02-22">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee subcommittee="Economic Opportunity" code="HSVR10" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="262"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Higher education"/>
+    <term name="Student aid and college costs"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+  </subjects>
+  <amendments/>
+  <summary>2/8/2013--Introduced.
+Veterans Education Equity Act of 2013 - Revises the formula for the payment by the Department of Veterans Affairs (VA) of tuition and fees for individuals entitled to educational assistance under the Post-9/11 Educational Assistance Program and pursuing programs of education at public institutions of higher learning to include, as an additional payment formula, the greater of: (1) the actual net costs for in-state tuition after applying the receipt of any tuition waivers, reductions, scholarships, or other assistance; or (2) $17,500 for the academic year beginning on August 1, 2011 (such amount to be increased each subsequent year by the average percentage increase in undergraduate tuition costs).</summary>
+</bill>

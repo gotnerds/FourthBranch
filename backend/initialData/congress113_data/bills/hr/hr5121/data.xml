@@ -1,0 +1,35 @@
+<bill session="113" type="h" number="5121" updated="2014-08-14T13:35:11-04:00">
+  <state datetime="2014-07-16">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-16"/>
+  </status>
+  <introduced datetime="2014-07-16"/>
+  <titles>
+    <title type="short" as="introduced">Restore Unalienable Rights Act of 2014</title>
+    <title type="official" as="introduced">To prohibit the indefinite detention of United States citizens and lawful resident aliens, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02135"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-16" state="REFERRED">
+      <text>Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, and Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-07-16">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2014-07-16">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2014-07-16">
+      <text>Referred to House Armed Services</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

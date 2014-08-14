@@ -1,0 +1,64 @@
+<bill session="113" type="h" number="2346" updated="2014-08-14T13:11:22-04:00">
+  <state datetime="2013-06-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-13"/>
+  </status>
+  <introduced datetime="2013-06-13"/>
+  <titles>
+    <title type="short" as="introduced">Secret Ballot Protection Act</title>
+    <title type="official" as="introduced">To amend the National Labor Relations Act to ensure the right of employees to a secret ballot election conducted by the National Labor Relations Board.</title>
+  </titles>
+  <sponsor thomas_id="01954"/>
+  <cosponsors>
+    <cosponsor thomas_id="02018" joined="2013-06-13"/>
+    <cosponsor thomas_id="01925" joined="2013-07-08"/>
+    <cosponsor thomas_id="01989" joined="2013-07-22"/>
+    <cosponsor thomas_id="02062" joined="2013-06-13"/>
+    <cosponsor thomas_id="00322" joined="2013-06-13"/>
+    <cosponsor thomas_id="02064" joined="2013-06-13"/>
+    <cosponsor thomas_id="02058" joined="2013-06-13"/>
+    <cosponsor thomas_id="01990" joined="2013-06-13"/>
+    <cosponsor thomas_id="01922" joined="2013-06-13"/>
+    <cosponsor thomas_id="02040" joined="2013-06-13"/>
+    <cosponsor thomas_id="02140" joined="2013-06-13"/>
+    <cosponsor thomas_id="01724" joined="2013-06-13"/>
+    <cosponsor thomas_id="01733" joined="2013-06-13"/>
+    <cosponsor thomas_id="02033" joined="2013-06-13"/>
+    <cosponsor thomas_id="01806" joined="2013-06-13"/>
+    <cosponsor thomas_id="00778" joined="2013-06-13"/>
+    <cosponsor thomas_id="01802" joined="2013-06-20"/>
+    <cosponsor thomas_id="02022" joined="2013-08-02"/>
+    <cosponsor thomas_id="01778" joined="2013-06-13"/>
+    <cosponsor thomas_id="01986" joined="2013-06-13"/>
+    <cosponsor thomas_id="02017" joined="2013-06-13"/>
+    <cosponsor thomas_id="01009" joined="2013-06-19"/>
+    <cosponsor thomas_id="01981" joined="2013-06-13"/>
+    <cosponsor thomas_id="01952" joined="2013-06-13"/>
+    <cosponsor thomas_id="01855" joined="2013-06-28"/>
+    <cosponsor thomas_id="01688" joined="2013-06-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-13" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2013-06-26">
+      <text>Subcommittee on Health, Employment, Labor, and Pensions hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee subcommittee="Health, Employment, Labor, and Pensions" code="HSED02" name="House Education and the Workforce" activity="Hearings"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Labor-management relations"/>
+    <term name="National Labor Relations Board (NLRB)"/>
+  </subjects>
+  <amendments/>
+  <summary>6/13/2013--Introduced.
+Secret Ballot Protection Act - Amends the National Labor Relations Act to make it an unfair labor practice for: (1) an employer to recognize or bargain collectively with a labor organization that has not been selected by a majority of the employees in a unit appropriate for such purposes in a secret ballot election conducted by the National Labor Relations Board (NLRB), and (2) a labor organization to cause or attempt to cause an employer to recognize or bargain collectively with a representative that has not been selected in such manner.
+
+Requires the NLRB to conduct a secret ballot election to determine whether a labor organization certified or recognized by an employer as the representative to bargain collectively is no longer the representative of a unit (decertification).</summary>
+</bill>

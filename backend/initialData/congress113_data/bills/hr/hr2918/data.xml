@@ -1,0 +1,129 @@
+<bill session="113" type="h" number="2918" updated="2014-08-14T13:16:21-04:00">
+  <state datetime="2013-08-01">REFERRED</state>
+  <status>
+    <introduced datetime="2013-08-01"/>
+  </status>
+  <introduced datetime="2013-08-01"/>
+  <titles>
+    <title type="short" as="introduced">Coal Healthcare and Pensions Protection Act of 2013</title>
+    <title type="official" as="introduced">To amend the Surface Mining Control and Reclamation Act of 1977 to transfer certain funds to the Multiemployer Health Benefit Plan and the 1974 United Mine Workers of America Pension Plan.</title>
+  </titles>
+  <sponsor thomas_id="02074"/>
+  <cosponsors>
+    <cosponsor thomas_id="01460" joined="2014-05-20"/>
+    <cosponsor thomas_id="00038" joined="2013-11-18"/>
+    <cosponsor thomas_id="02131" joined="2013-08-01"/>
+    <cosponsor thomas_id="02153" joined="2014-02-10"/>
+    <cosponsor thomas_id="01753" joined="2013-12-12"/>
+    <cosponsor thomas_id="00091" joined="2014-01-27"/>
+    <cosponsor thomas_id="01748" joined="2013-11-15"/>
+    <cosponsor thomas_id="01469" joined="2014-05-28"/>
+    <cosponsor thomas_id="02127" joined="2013-12-19"/>
+    <cosponsor thomas_id="02197" joined="2014-05-28"/>
+    <cosponsor thomas_id="01676" joined="2013-08-01"/>
+    <cosponsor thomas_id="01889" joined="2014-06-23"/>
+    <cosponsor thomas_id="01654" joined="2013-08-01"/>
+    <cosponsor thomas_id="01790" joined="2013-10-03"/>
+    <cosponsor thomas_id="01742" joined="2013-11-15"/>
+    <cosponsor thomas_id="02151" joined="2014-02-27"/>
+    <cosponsor thomas_id="01959" joined="2014-02-27"/>
+    <cosponsor thomas_id="02098" joined="2014-01-15"/>
+    <cosponsor thomas_id="02144" joined="2014-07-14"/>
+    <cosponsor thomas_id="02126" joined="2013-08-01"/>
+    <cosponsor thomas_id="01799" joined="2014-02-10"/>
+    <cosponsor thomas_id="00316" joined="2013-08-01"/>
+    <cosponsor thomas_id="02123" joined="2014-04-04"/>
+    <cosponsor thomas_id="02125" joined="2013-08-01"/>
+    <cosponsor thomas_id="00371" joined="2014-07-14"/>
+    <cosponsor thomas_id="01797" joined="2014-08-01"/>
+    <cosponsor thomas_id="01895" joined="2013-08-01"/>
+    <cosponsor thomas_id="02049" joined="2013-08-01"/>
+    <cosponsor thomas_id="02043" joined="2013-10-30"/>
+    <cosponsor thomas_id="02070" joined="2013-09-19"/>
+    <cosponsor thomas_id="02041" joined="2013-09-25"/>
+    <cosponsor thomas_id="01922" joined="2014-01-27"/>
+    <cosponsor thomas_id="02044" joined="2013-09-25"/>
+    <cosponsor thomas_id="02147" joined="2014-02-10"/>
+    <cosponsor thomas_id="02101" joined="2013-09-25"/>
+    <cosponsor thomas_id="02046" joined="2013-08-01"/>
+    <cosponsor thomas_id="02154" joined="2013-08-01"/>
+    <cosponsor thomas_id="00616" joined="2013-11-15"/>
+    <cosponsor thomas_id="00635" joined="2013-10-03"/>
+    <cosponsor thomas_id="02014" joined="2014-01-27"/>
+    <cosponsor thomas_id="01907" joined="2013-12-10"/>
+    <cosponsor thomas_id="01936" joined="2013-12-12"/>
+    <cosponsor thomas_id="02050" joined="2014-01-15"/>
+    <cosponsor thomas_id="02111" joined="2014-05-28"/>
+    <cosponsor thomas_id="02146" joined="2013-12-19"/>
+    <cosponsor thomas_id="02052" joined="2013-12-12"/>
+    <cosponsor thomas_id="00808" joined="2013-08-01"/>
+    <cosponsor thomas_id="00832" joined="2013-08-01"/>
+    <cosponsor thomas_id="01744" joined="2014-06-09"/>
+    <cosponsor thomas_id="00940" joined="2013-08-01"/>
+    <cosponsor thomas_id="01704" joined="2014-05-19"/>
+    <cosponsor thomas_id="02017" joined="2013-10-30"/>
+    <cosponsor thomas_id="02158" joined="2014-02-10"/>
+    <cosponsor thomas_id="02039" joined="2013-11-20"/>
+    <cosponsor thomas_id="01756" joined="2013-09-10"/>
+    <cosponsor thomas_id="01798" joined="2013-08-01"/>
+    <cosponsor thomas_id="01037" joined="2014-07-17"/>
+    <cosponsor thomas_id="01988" joined="2013-12-19"/>
+    <cosponsor thomas_id="01527" joined="2014-01-27"/>
+    <cosponsor thomas_id="01681" joined="2014-06-12"/>
+    <cosponsor thomas_id="02168" joined="2013-11-15"/>
+    <cosponsor thomas_id="02047" joined="2013-08-01"/>
+    <cosponsor thomas_id="01566" joined="2013-12-12"/>
+    <cosponsor thomas_id="01535" joined="2013-11-15"/>
+    <cosponsor thomas_id="01741" joined="2013-08-01"/>
+    <cosponsor thomas_id="02152" joined="2013-11-18"/>
+    <cosponsor thomas_id="01222" joined="2013-08-01"/>
+    <cosponsor thomas_id="02004" joined="2013-09-19"/>
+    <cosponsor thomas_id="01853" joined="2013-11-15"/>
+    <cosponsor thomas_id="02018" joined="2013-08-01" withdrawn="2013-09-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-08-01" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-08-01">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-08-01">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2013-08-07">
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Energy and Mineral Resources" code="HSII06" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="980"/>
+    <bill type="s" session="113" relation="unknown" number="468"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Bankruptcy"/>
+    <term name="Coal"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Employment taxes"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Mining"/>
+  </subjects>
+  <amendments/>
+  <summary>8/1/2013--Introduced.
+Coal Healthcare and Pensions Protection Act of 2013 - Amends the Surface Mining Control and Reclamation Act of 1977 to revise the formula for determining the amount of funds derived from coal mine operator-paid reclamation fees which shall be transferred each year from the Abandoned Mine Reclamation Fund to the Multiemployer Health Benefit Plan to pay health benefits to retired miners.
+
+Requires calculation of such amount by taking into account only those beneficiaries who are actually enrolled in the Plan as of enactment of this Act, as well as those retirees whose health benefits, payable directly by an employer in the bituminous coal industry under a coal wage agreement as a result of a bankruptcy proceeding commenced in 2012, would be denied or reduced.
+
+Requires the Secretary of the Treasury to transfer to the trustees of the 1974 United Mine Workers of America (UMWA) Pension Plan a certain additional amount of funds, to pay pension benefits required under that Plan, if the $490 million limitation on certain transfers to the UMWA Combined Benefit Fund and distributions to states and Indian tribes exceeds the aggregate amount required to be transferred to them.
+
+ Amends the Internal Revenue Code to prescribe a special rule that employer contributions to an employees' trust or annuity benefit plan providing supplemental benefits solely to participants in a pension plan are neither deductible nor nondeductible as such from the employer's gross income. Subjects such contributions, on the other hand, to deduction as an allowable trade or business expense.
+
+Treats a trust holding the assets of such a pension benefit plan as a tax-exempt organization.
+
+Excludes from taxable wages any payments made to, or on behalf of, an employee or his or her beneficiary under such a plan.</summary>
+</bill>

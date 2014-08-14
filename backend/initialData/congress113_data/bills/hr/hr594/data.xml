@@ -1,0 +1,224 @@
+<bill session="113" type="h" number="594" updated="2014-08-14T12:55:48-04:00">
+  <state datetime="2014-07-28T18:05:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-07-28T18:05:00-04:00"/>
+  </status>
+  <introduced datetime="2013-02-08"/>
+  <titles>
+    <title type="short" as="introduced">Paul D. Wellstone Muscular Dystrophy Community Assistance, Research and Education Amendments of 2013</title>
+    <title type="short" as="reported to house">Paul D. Wellstone Muscular Dystrophy Community Assistance, Research and Education Amendments of 2014</title>
+    <title type="short" as="passed house">Paul D. Wellstone Muscular Dystrophy Community Assistance, Research and Education Amendments of 2014</title>
+    <title type="official" as="introduced">To reauthorize and extend the Paul D. Wellstone Muscular Dystrophy Community Assistance, Research, and Education Amendments of 2008.</title>
+    <title type="official" as="amended by house">To amend the Public Health Service Act relating to Federal research on muscular dystrophy, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01751"/>
+  <cosponsors>
+    <cosponsor thomas_id="00021" joined="2013-02-25"/>
+    <cosponsor thomas_id="00038" joined="2013-02-25"/>
+    <cosponsor thomas_id="02027" joined="2014-06-13"/>
+    <cosponsor thomas_id="01753" joined="2014-07-11"/>
+    <cosponsor thomas_id="00091" joined="2013-02-25"/>
+    <cosponsor thomas_id="01740" joined="2013-04-18"/>
+    <cosponsor thomas_id="02106" joined="2013-02-25"/>
+    <cosponsor thomas_id="02107" joined="2013-12-09"/>
+    <cosponsor thomas_id="01889" joined="2014-03-10"/>
+    <cosponsor thomas_id="01956" joined="2014-07-17"/>
+    <cosponsor thomas_id="02196" joined="2014-02-26"/>
+    <cosponsor thomas_id="01864" joined="2013-04-24"/>
+    <cosponsor thomas_id="01912" joined="2013-03-12"/>
+    <cosponsor thomas_id="01878" joined="2013-06-03"/>
+    <cosponsor thomas_id="01959" joined="2014-02-26"/>
+    <cosponsor thomas_id="01670" joined="2013-04-26"/>
+    <cosponsor thomas_id="02138" joined="2014-03-05"/>
+    <cosponsor thomas_id="01479" joined="2013-03-12"/>
+    <cosponsor thomas_id="02133" joined="2014-04-30"/>
+    <cosponsor thomas_id="01976" joined="2014-06-09"/>
+    <cosponsor thomas_id="00316" joined="2014-02-26"/>
+    <cosponsor thomas_id="00322" joined="2013-06-28"/>
+    <cosponsor thomas_id="01857" joined="2013-02-25"/>
+    <cosponsor thomas_id="00344" joined="2013-02-08"/>
+    <cosponsor thomas_id="02125" joined="2013-06-28"/>
+    <cosponsor thomas_id="02064" joined="2014-03-05"/>
+    <cosponsor thomas_id="01797" joined="2013-05-23"/>
+    <cosponsor thomas_id="01683" joined="2013-03-21"/>
+    <cosponsor thomas_id="02119" joined="2014-04-28"/>
+    <cosponsor thomas_id="02120" joined="2014-04-01"/>
+    <cosponsor thomas_id="01998" joined="2013-03-12"/>
+    <cosponsor thomas_id="01743" joined="2013-03-06"/>
+    <cosponsor thomas_id="01656" joined="2013-02-25"/>
+    <cosponsor thomas_id="00462" joined="2013-02-25"/>
+    <cosponsor thomas_id="01990" joined="2013-04-09"/>
+    <cosponsor thomas_id="02041" joined="2014-06-24"/>
+    <cosponsor thomas_id="01922" joined="2013-03-12"/>
+    <cosponsor thomas_id="00484" joined="2013-02-25"/>
+    <cosponsor thomas_id="00511" joined="2014-07-10"/>
+    <cosponsor thomas_id="01794" joined="2013-04-09"/>
+    <cosponsor thomas_id="01913" joined="2013-03-21"/>
+    <cosponsor thomas_id="01580" joined="2013-02-25"/>
+    <cosponsor thomas_id="02140" joined="2013-04-09"/>
+    <cosponsor thomas_id="02101" joined="2013-05-07"/>
+    <cosponsor thomas_id="01663" joined="2013-09-10"/>
+    <cosponsor thomas_id="00588" joined="2013-05-07"/>
+    <cosponsor thomas_id="00603" joined="2013-03-05"/>
+    <cosponsor thomas_id="02025" joined="2014-02-26"/>
+    <cosponsor thomas_id="02172" joined="2014-03-13"/>
+    <cosponsor thomas_id="02169" joined="2013-02-25"/>
+    <cosponsor thomas_id="01498" joined="2013-03-05"/>
+    <cosponsor thomas_id="00635" joined="2013-02-25"/>
+    <cosponsor thomas_id="01907" joined="2013-07-30"/>
+    <cosponsor thomas_id="01936" joined="2014-02-26"/>
+    <cosponsor thomas_id="01675" joined="2014-02-04"/>
+    <cosponsor thomas_id="00666" joined="2014-07-23"/>
+    <cosponsor thomas_id="01501" joined="2013-07-11"/>
+    <cosponsor thomas_id="01781" joined="2013-03-12"/>
+    <cosponsor thomas_id="01846" joined="2013-03-05"/>
+    <cosponsor thomas_id="00701" joined="2013-06-28"/>
+    <cosponsor thomas_id="00709" joined="2013-02-25"/>
+    <cosponsor thomas_id="01931" joined="2013-03-05"/>
+    <cosponsor thomas_id="01686" joined="2014-03-27"/>
+    <cosponsor thomas_id="00729" joined="2013-02-25"/>
+    <cosponsor thomas_id="00735" joined="2013-02-25"/>
+    <cosponsor thomas_id="01671" joined="2013-06-14"/>
+    <cosponsor thomas_id="01814" joined="2013-02-25"/>
+    <cosponsor thomas_id="01503" joined="2013-06-20"/>
+    <cosponsor thomas_id="01653" joined="2013-03-19"/>
+    <cosponsor thomas_id="01504" joined="2014-07-16"/>
+    <cosponsor thomas_id="01809" joined="2014-06-18"/>
+    <cosponsor thomas_id="02052" joined="2014-02-25"/>
+    <cosponsor thomas_id="00800" joined="2014-07-22"/>
+    <cosponsor thomas_id="01730" joined="2013-03-12"/>
+    <cosponsor thomas_id="01685" joined="2014-07-22"/>
+    <cosponsor thomas_id="00832" joined="2014-03-24"/>
+    <cosponsor thomas_id="02001" joined="2014-04-28"/>
+    <cosponsor thomas_id="02162" joined="2013-04-09"/>
+    <cosponsor thomas_id="01955" joined="2013-04-09"/>
+    <cosponsor thomas_id="01974" joined="2013-02-25"/>
+    <cosponsor thomas_id="01510" joined="2014-03-13"/>
+    <cosponsor thomas_id="01835" joined="2013-03-12"/>
+    <cosponsor thomas_id="00910" joined="2013-02-25"/>
+    <cosponsor thomas_id="01927" joined="2013-04-09"/>
+    <cosponsor thomas_id="01802" joined="2013-02-25"/>
+    <cosponsor thomas_id="01910" joined="2013-03-06"/>
+    <cosponsor thomas_id="01915" joined="2013-05-17"/>
+    <cosponsor thomas_id="00940" joined="2014-06-09"/>
+    <cosponsor thomas_id="00944" joined="2013-04-09"/>
+    <cosponsor thomas_id="02048" joined="2013-03-19"/>
+    <cosponsor thomas_id="02068" joined="2013-03-19"/>
+    <cosponsor thomas_id="02039" joined="2013-02-25"/>
+    <cosponsor thomas_id="01003" joined="2013-02-25"/>
+    <cosponsor thomas_id="01588" joined="2013-04-09"/>
+    <cosponsor thomas_id="01798" joined="2013-02-25"/>
+    <cosponsor thomas_id="01041" joined="2014-03-10"/>
+    <cosponsor thomas_id="01525" joined="2013-02-25"/>
+    <cosponsor thomas_id="01861" joined="2013-02-25"/>
+    <cosponsor thomas_id="01818" joined="2014-02-26"/>
+    <cosponsor thomas_id="01069" joined="2013-02-25"/>
+    <cosponsor thomas_id="01528" joined="2013-03-05"/>
+    <cosponsor thomas_id="01071" joined="2014-05-28"/>
+    <cosponsor thomas_id="02168" joined="2014-07-22"/>
+    <cosponsor thomas_id="02047" joined="2013-06-28"/>
+    <cosponsor thomas_id="01535" joined="2013-03-05"/>
+    <cosponsor thomas_id="01942" joined="2013-06-03"/>
+    <cosponsor thomas_id="01741" joined="2014-06-10"/>
+    <cosponsor thomas_id="01729" joined="2013-04-26"/>
+    <cosponsor thomas_id="01879" joined="2013-02-25"/>
+    <cosponsor thomas_id="01688" joined="2014-04-28"/>
+    <cosponsor thomas_id="01886" joined="2013-03-05"/>
+    <cosponsor thomas_id="01238" joined="2014-03-05"/>
+    <cosponsor thomas_id="01256" joined="2013-03-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-08" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-02-08">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2014-06-19">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2014-06-19">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Unanimous Consent .</text>
+    </action>
+    <action datetime="2014-07-14">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2014-07-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-07-15" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2014-07-24T18:15:00-04:00">
+      <text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 113-556.</text>
+    </action>
+    <calendar datetime="2014-07-24T18:16:00-04:00" calendar="Union" number="416">
+      <text>Placed on the Union Calendar, Calendar No. 416.</text>
+    </calendar>
+    <action datetime="2014-07-28T17:53:00-04:00">
+      <text>Mr. Burgess moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2014-07-28T17:53:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6933-6935" label="consideration"/>
+    </action>
+    <action datetime="2014-07-28T17:53:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 594.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-07-28T18:05:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H6933" label="text"/>
+    </vote>
+    <action datetime="2014-07-28T18:05:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-07-28T18:05:00-04:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-07-28T18:19:00-04:00">
+      <text>The Speaker announced the title of H.R. 594 was amended in the form at the desk. Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-07-29">
+      <text>Received in the Senate.</text>
+    </action>
+    <calendar datetime="2014-08-01" calendar="Senate Legislative" under="General Orders" number="529">
+      <text>Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 529.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting, In Committee"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="315"/>
+    <bill type="s" session="113" relation="unknown" number="315"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Cardiovascular and respiratory health"/>
+    <term name="Child health"/>
+    <term name="Drug safety, medical device, and laboratory regulation"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Health information and medical records"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Medical education"/>
+    <term name="Medical research"/>
+    <term name="Minority health"/>
+    <term name="Musculoskeletal and skin diseases"/>
+    <term name="Research administration and funding"/>
+  </subjects>
+  <amendments/>
+  <summary>7/28/2014--Passed House amended.
+Paul D. Wellstone Muscular Dystrophy Community Assistance, Research and Education Amendments of 2014 - Amends the Public Health Service Act to revise the muscular dystrophy research program of the National Institutes of Health (NIH).
+
+Expands the range of forms of muscular dystrophy included within the program. Requires the research conducted through Paul D. Wellstone Muscular Dystrophy Cooperative Research Centers to include cardiac and pulmonary function research. Requires the Director of NIH to ensure the sharing of data between such centers.
+
+Revises the composition of the Muscular Dystrophy Coordinating Committee (MDCC) to include the Social Security Administration and the United States Administration for Community Living.
+
+Requires the MDCC to meet at least two times per year. Requires the MDCC Action Plan to provide for: (1) health economic studies to demonstrate the cost-effectiveness of providing independent living resources and support to patients with various forms of muscular dystrophy, (2) studies to determine optimal clinical care interventions for adults with various forms of muscular dystrophy, and (3) the development of clinical interventions to improve the health of adults with various forms of muscular dystrophy.
+
+Requires the Secretary of Health and Human Services (HHS), in carrying out epidemiological activities regarding Duchenne and other forms of muscular dystrophy, to ensure that data are representative of all affected populations and shared in a timely manner.
+
+Amends the Muscular Dystrophy Community Assistance, Research, and Education Amendments of 2001 to authorize the Secretary to cooperate with professional organizations and the patient community in the development and issuance of care considerations, including acute care considerations, for pediatric and adult muscular dystrophy patients. Authorizes the Secretary, in developing and updating care considerations, to incorporate strategies specifically responding to the findings of the national transitions survey of minority, young adult, and adult communities of muscular dystrophy patients.</summary>
+</bill>

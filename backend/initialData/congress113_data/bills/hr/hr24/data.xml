@@ -1,0 +1,283 @@
+<bill session="113" type="h" number="24" updated="2014-08-14T12:50:54-04:00">
+  <state datetime="2014-07-24">REPORTED</state>
+  <status>
+    <unknown datetime="2014-07-24"/>
+  </status>
+  <introduced datetime="2013-01-03"/>
+  <titles>
+    <title type="short" as="introduced">Federal Reserve Transparency Act of 2013</title>
+    <title type="official" as="introduced">To require a full audit of the Board of Governors of the Federal Reserve System and the Federal reserve banks by the Comptroller General of the United States, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01882"/>
+  <cosponsors>
+    <cosponsor thomas_id="01460" joined="2013-02-14"/>
+    <cosponsor thomas_id="01727" joined="2013-01-23"/>
+    <cosponsor thomas_id="02029" joined="2013-01-14"/>
+    <cosponsor thomas_id="02090" joined="2013-01-14"/>
+    <cosponsor thomas_id="01858" joined="2013-01-14"/>
+    <cosponsor thomas_id="02054" joined="2013-01-14"/>
+    <cosponsor thomas_id="02131" joined="2013-02-06"/>
+    <cosponsor thomas_id="01780" joined="2013-09-27"/>
+    <cosponsor thomas_id="00062" joined="2013-01-14"/>
+    <cosponsor thomas_id="02027" joined="2013-04-10"/>
+    <cosponsor thomas_id="02135" joined="2013-02-06"/>
+    <cosponsor thomas_id="01838" joined="2013-02-06"/>
+    <cosponsor thomas_id="01753" joined="2014-02-11"/>
+    <cosponsor thomas_id="02063" joined="2013-01-14"/>
+    <cosponsor thomas_id="01748" joined="2013-01-23"/>
+    <cosponsor thomas_id="01703" joined="2013-01-14"/>
+    <cosponsor thomas_id="01787" joined="2013-02-14"/>
+    <cosponsor thomas_id="01845" joined="2013-09-09"/>
+    <cosponsor thomas_id="02155" joined="2014-03-14"/>
+    <cosponsor thomas_id="01987" joined="2014-05-07"/>
+    <cosponsor thomas_id="01840" joined="2013-01-14"/>
+    <cosponsor thomas_id="02018" joined="2013-01-15"/>
+    <cosponsor thomas_id="01751" joined="2013-01-14"/>
+    <cosponsor thomas_id="00165" joined="2013-02-06"/>
+    <cosponsor thomas_id="00166" joined="2013-01-14"/>
+    <cosponsor thomas_id="01676" joined="2013-01-22"/>
+    <cosponsor thomas_id="01752" joined="2013-01-14"/>
+    <cosponsor thomas_id="01925" joined="2013-02-14"/>
+    <cosponsor thomas_id="00186" joined="2014-05-06"/>
+    <cosponsor thomas_id="01956" joined="2013-01-14"/>
+    <cosponsor thomas_id="00211" joined="2013-01-14"/>
+    <cosponsor thomas_id="01912" joined="2014-02-11"/>
+    <cosponsor thomas_id="01742" joined="2014-02-27"/>
+    <cosponsor thomas_id="02151" joined="2013-09-12"/>
+    <cosponsor thomas_id="02121" joined="2013-01-22"/>
+    <cosponsor thomas_id="01805" joined="2014-03-14"/>
+    <cosponsor thomas_id="02103" joined="2014-03-14"/>
+    <cosponsor thomas_id="02098" joined="2013-05-09"/>
+    <cosponsor thomas_id="02144" joined="2013-09-09"/>
+    <cosponsor thomas_id="01989" joined="2013-02-14"/>
+    <cosponsor thomas_id="01643" joined="2014-05-07"/>
+    <cosponsor thomas_id="01670" joined="2013-01-14"/>
+    <cosponsor thomas_id="02138" joined="2013-06-11"/>
+    <cosponsor thomas_id="02126" joined="2013-03-21"/>
+    <cosponsor thomas_id="00279" joined="2013-01-04"/>
+    <cosponsor thomas_id="01995" joined="2014-02-11"/>
+    <cosponsor thomas_id="02116" joined="2013-02-06"/>
+    <cosponsor thomas_id="02062" joined="2013-01-15"/>
+    <cosponsor thomas_id="01717" joined="2013-09-09"/>
+    <cosponsor thomas_id="02072" joined="2013-04-10"/>
+    <cosponsor thomas_id="02057" joined="2013-01-14"/>
+    <cosponsor thomas_id="00322" joined="2013-01-25"/>
+    <cosponsor thomas_id="02036" joined="2013-10-16"/>
+    <cosponsor thomas_id="02067" joined="2013-01-14"/>
+    <cosponsor thomas_id="02064" joined="2013-01-14"/>
+    <cosponsor thomas_id="01797" joined="2014-01-27"/>
+    <cosponsor thomas_id="02061" joined="2013-02-14"/>
+    <cosponsor thomas_id="01924" joined="2014-02-27"/>
+    <cosponsor thomas_id="02065" joined="2013-01-23"/>
+    <cosponsor thomas_id="01683" joined="2013-01-25"/>
+    <cosponsor thomas_id="01793" joined="2013-01-14"/>
+    <cosponsor thomas_id="01791" joined="2013-01-14"/>
+    <cosponsor thomas_id="01707" joined="2013-07-31"/>
+    <cosponsor thomas_id="00414" joined="2013-02-06"/>
+    <cosponsor thomas_id="01998" joined="2013-01-23"/>
+    <cosponsor thomas_id="01737" joined="2014-05-07"/>
+    <cosponsor thomas_id="01743" joined="2013-01-22"/>
+    <cosponsor thomas_id="02049" joined="2014-05-06"/>
+    <cosponsor thomas_id="02043" joined="2013-01-25"/>
+    <cosponsor thomas_id="01720" joined="2014-02-27"/>
+    <cosponsor thomas_id="01801" joined="2013-09-09"/>
+    <cosponsor thomas_id="00446" joined="2013-01-14"/>
+    <cosponsor thomas_id="01992" joined="2013-01-14"/>
+    <cosponsor thomas_id="02058" joined="2013-01-14"/>
+    <cosponsor thomas_id="01487" joined="2014-05-07"/>
+    <cosponsor thomas_id="01656" joined="2013-01-14"/>
+    <cosponsor thomas_id="01979" joined="2013-10-30"/>
+    <cosponsor thomas_id="01914" joined="2013-12-03"/>
+    <cosponsor thomas_id="00462" joined="2013-10-23"/>
+    <cosponsor thomas_id="01990" joined="2013-01-14"/>
+    <cosponsor thomas_id="02070" joined="2013-01-22"/>
+    <cosponsor thomas_id="02041" joined="2013-02-28"/>
+    <cosponsor thomas_id="01922" joined="2013-09-09"/>
+    <cosponsor thomas_id="00484" joined="2014-02-10"/>
+    <cosponsor thomas_id="02044" joined="2013-01-14"/>
+    <cosponsor thomas_id="01933" joined="2013-10-23"/>
+    <cosponsor thomas_id="02026" joined="2013-01-22"/>
+    <cosponsor thomas_id="02032" joined="2013-01-14"/>
+    <cosponsor thomas_id="00512" joined="2013-01-22"/>
+    <cosponsor thomas_id="02040" joined="2013-01-14"/>
+    <cosponsor thomas_id="02071" joined="2014-04-09"/>
+    <cosponsor thomas_id="02140" joined="2014-01-27"/>
+    <cosponsor thomas_id="02020" joined="2013-01-22"/>
+    <cosponsor thomas_id="02028" joined="2013-01-14"/>
+    <cosponsor thomas_id="01909" joined="2013-01-22"/>
+    <cosponsor thomas_id="02069" joined="2013-01-23"/>
+    <cosponsor thomas_id="01921" joined="2013-02-28"/>
+    <cosponsor thomas_id="02046" joined="2013-01-25"/>
+    <cosponsor thomas_id="00603" joined="2014-02-27"/>
+    <cosponsor thomas_id="02199" joined="2014-04-10"/>
+    <cosponsor thomas_id="00612" joined="2013-01-04"/>
+    <cosponsor thomas_id="01868" joined="2013-02-28"/>
+    <cosponsor thomas_id="02154" joined="2013-01-22"/>
+    <cosponsor thomas_id="02051" joined="2013-06-12"/>
+    <cosponsor thomas_id="01724" joined="2013-01-14"/>
+    <cosponsor thomas_id="00636" joined="2013-09-09"/>
+    <cosponsor thomas_id="01733" joined="2013-02-06"/>
+    <cosponsor thomas_id="02011" joined="2014-02-27"/>
+    <cosponsor thomas_id="02100" joined="2013-01-23"/>
+    <cosponsor thomas_id="01834" joined="2013-01-14"/>
+    <cosponsor thomas_id="01936" joined="2013-01-14"/>
+    <cosponsor thomas_id="02050" joined="2013-03-21"/>
+    <cosponsor thomas_id="00666" joined="2013-01-23"/>
+    <cosponsor thomas_id="01885" joined="2013-01-14"/>
+    <cosponsor thomas_id="01781" joined="2013-03-21"/>
+    <cosponsor thomas_id="00699" joined="2013-11-15"/>
+    <cosponsor thomas_id="01846" joined="2013-01-04"/>
+    <cosponsor thomas_id="00701" joined="2014-05-08"/>
+    <cosponsor thomas_id="02033" joined="2013-01-15"/>
+    <cosponsor thomas_id="00711" joined="2013-11-14"/>
+    <cosponsor thomas_id="01931" joined="2013-01-14"/>
+    <cosponsor thomas_id="01960" joined="2013-02-06"/>
+    <cosponsor thomas_id="01943" joined="2013-09-20"/>
+    <cosponsor thomas_id="01806" joined="2013-07-11"/>
+    <cosponsor thomas_id="02053" joined="2013-01-14"/>
+    <cosponsor thomas_id="02094" joined="2013-03-13"/>
+    <cosponsor thomas_id="02195" joined="2014-01-27"/>
+    <cosponsor thomas_id="01804" joined="2013-01-25"/>
+    <cosponsor thomas_id="01908" joined="2013-05-09"/>
+    <cosponsor thomas_id="01505" joined="2013-01-04"/>
+    <cosponsor thomas_id="02074" joined="2013-01-22"/>
+    <cosponsor thomas_id="02142" joined="2013-09-09"/>
+    <cosponsor thomas_id="02052" joined="2013-02-28"/>
+    <cosponsor thomas_id="00800" joined="2013-02-14"/>
+    <cosponsor thomas_id="01730" joined="2013-01-04"/>
+    <cosponsor thomas_id="01731" joined="2013-01-14"/>
+    <cosponsor thomas_id="01584" joined="2014-04-09"/>
+    <cosponsor thomas_id="01685" joined="2013-02-14"/>
+    <cosponsor thomas_id="02156" joined="2014-04-10"/>
+    <cosponsor thomas_id="02059" joined="2014-02-27"/>
+    <cosponsor thomas_id="01744" joined="2013-06-12"/>
+    <cosponsor thomas_id="01758" joined="2014-03-14"/>
+    <cosponsor thomas_id="02060" joined="2013-01-23"/>
+    <cosponsor thomas_id="02001" joined="2013-01-23"/>
+    <cosponsor thomas_id="02034" joined="2013-01-14"/>
+    <cosponsor thomas_id="01955" joined="2013-01-23"/>
+    <cosponsor thomas_id="01974" joined="2013-05-09"/>
+    <cosponsor thomas_id="02035" joined="2013-10-30"/>
+    <cosponsor thomas_id="01930" joined="2013-02-06"/>
+    <cosponsor thomas_id="01738" joined="2013-01-14"/>
+    <cosponsor thomas_id="02157" joined="2014-05-06"/>
+    <cosponsor thomas_id="00910" joined="2013-01-14"/>
+    <cosponsor thomas_id="00912" joined="2014-05-07"/>
+    <cosponsor thomas_id="01927" joined="2013-01-22"/>
+    <cosponsor thomas_id="02141" joined="2013-11-20"/>
+    <cosponsor thomas_id="01514" joined="2014-05-07"/>
+    <cosponsor thomas_id="01802" joined="2013-01-23"/>
+    <cosponsor thomas_id="01910" joined="2013-11-14"/>
+    <cosponsor thomas_id="02022" joined="2013-01-23"/>
+    <cosponsor thomas_id="01915" joined="2013-02-06"/>
+    <cosponsor thomas_id="01778" joined="2014-02-27"/>
+    <cosponsor thomas_id="02118" joined="2013-01-14"/>
+    <cosponsor thomas_id="01982" joined="2014-03-14"/>
+    <cosponsor thomas_id="02048" joined="2014-04-01"/>
+    <cosponsor thomas_id="02073" joined="2014-02-27"/>
+    <cosponsor thomas_id="02160" joined="2014-03-14"/>
+    <cosponsor thomas_id="02068" joined="2013-09-20"/>
+    <cosponsor thomas_id="01954" joined="2013-01-14"/>
+    <cosponsor thomas_id="01704" joined="2013-01-14"/>
+    <cosponsor thomas_id="00979" joined="2013-09-09"/>
+    <cosponsor thomas_id="02017" joined="2013-01-23"/>
+    <cosponsor thomas_id="01916" joined="2014-04-10"/>
+    <cosponsor thomas_id="00985" joined="2013-10-23"/>
+    <cosponsor thomas_id="01848" joined="2013-01-22"/>
+    <cosponsor thomas_id="02003" joined="2013-12-09"/>
+    <cosponsor thomas_id="02158" joined="2014-03-14"/>
+    <cosponsor thomas_id="02039" joined="2013-01-14"/>
+    <cosponsor thomas_id="01728" joined="2014-04-01"/>
+    <cosponsor thomas_id="01009" joined="2013-04-10"/>
+    <cosponsor thomas_id="01012" joined="2013-06-05"/>
+    <cosponsor thomas_id="01892" joined="2013-01-15"/>
+    <cosponsor thomas_id="01920" joined="2013-01-14"/>
+    <cosponsor thomas_id="01994" joined="2013-05-09"/>
+    <cosponsor thomas_id="02009" joined="2013-01-23"/>
+    <cosponsor thomas_id="01041" joined="2013-01-15"/>
+    <cosponsor thomas_id="01525" joined="2013-01-14"/>
+    <cosponsor thomas_id="01527" joined="2014-05-07"/>
+    <cosponsor thomas_id="01681" joined="2014-01-07"/>
+    <cosponsor thomas_id="01590" joined="2013-01-15"/>
+    <cosponsor thomas_id="01860" joined="2013-01-22"/>
+    <cosponsor thomas_id="01071" joined="2014-05-07"/>
+    <cosponsor thomas_id="02191" joined="2013-07-17"/>
+    <cosponsor thomas_id="01075" joined="2014-01-08"/>
+    <cosponsor thomas_id="02168" joined="2013-04-10"/>
+    <cosponsor thomas_id="02047" joined="2013-01-15"/>
+    <cosponsor thomas_id="01114" joined="2013-01-14"/>
+    <cosponsor thomas_id="01981" joined="2013-02-14"/>
+    <cosponsor thomas_id="01566" joined="2013-01-14"/>
+    <cosponsor thomas_id="01952" joined="2013-01-14"/>
+    <cosponsor thomas_id="01155" joined="2014-02-27"/>
+    <cosponsor thomas_id="01664" joined="2013-01-22"/>
+    <cosponsor thomas_id="01535" joined="2014-02-27"/>
+    <cosponsor thomas_id="01997" joined="2013-02-28"/>
+    <cosponsor thomas_id="01741" joined="2013-02-06"/>
+    <cosponsor thomas_id="01177" joined="2013-06-14"/>
+    <cosponsor thomas_id="02105" joined="2013-11-14"/>
+    <cosponsor thomas_id="01188" joined="2014-02-27"/>
+    <cosponsor thomas_id="02137" joined="2014-05-06"/>
+    <cosponsor thomas_id="01855" joined="2013-01-14"/>
+    <cosponsor thomas_id="01596" joined="2013-01-14"/>
+    <cosponsor thomas_id="02128" joined="2014-05-07"/>
+    <cosponsor thomas_id="02161" joined="2013-01-23"/>
+    <cosponsor thomas_id="02002" joined="2013-01-15"/>
+    <cosponsor thomas_id="01879" joined="2013-02-06"/>
+    <cosponsor thomas_id="02152" joined="2013-02-28"/>
+    <cosponsor thomas_id="01779" joined="2013-01-14"/>
+    <cosponsor thomas_id="01222" joined="2013-01-22"/>
+    <cosponsor thomas_id="02165" joined="2014-05-07"/>
+    <cosponsor thomas_id="01688" joined="2013-01-14"/>
+    <cosponsor thomas_id="01886" joined="2013-01-15"/>
+    <cosponsor thomas_id="01238" joined="2013-01-22"/>
+    <cosponsor thomas_id="01991" joined="2013-01-15"/>
+    <cosponsor thomas_id="02008" joined="2013-01-22"/>
+    <cosponsor thomas_id="02021" joined="2013-01-23"/>
+    <cosponsor thomas_id="02115" joined="2013-01-14"/>
+    <cosponsor thomas_id="01255" joined="2013-02-28"/>
+    <cosponsor thomas_id="01256" joined="2013-04-10"/>
+    <cosponsor thomas_id="02019" joined="2013-02-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-03" state="REFERRED">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-01-03">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2013-01-03">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2014-07-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-07-24" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup, In Committee"/>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="33"/>
+    <bill type="s" session="113" relation="unknown" number="209"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Accounting and auditing"/>
+    <term name="Bank accounts, deposits, capital"/>
+    <term name="Congressional oversight"/>
+    <term name="Federal Reserve System"/>
+    <term name="Government studies and investigations"/>
+    <term name="Housing finance and home ownership"/>
+  </subjects>
+  <amendments/>
+  <summary>1/3/2013--Introduced.
+Federal Reserve Transparency Act of 2013 - Directs the Comptroller General (GAO) to: (1) complete, within 12 months of enactment of this Act, the required audit of the Board of Governors of the Federal Reserve System (Board) and of the Federal Reserve Banks; and (2) submit to Congress, within 90 days of audit completion, a detailed report of audit findings and conclusions.
+
+Repeals certain limitations placed upon such audit.
+
+Instructs the Comptroller General to audit and report on the review of loan files of homeowners in foreclosure in 2009 or 2010, required as part of the enforcement actions taken by the Board against supervised financial institutions. Prescribes audit contents, including: (1) the guidance given by the Board to independent consultants retained by the supervised financial institutions regarding procedures to be followed in conducting the file reviews, (2) the factors considered by independent consultants when evaluating loan files and the results obtained pursuant to those reviews, and (3) the determinations made by such consultants regarding the nature and extent of financial injury sustained by each homeowner as well as the level and type of remediation offered.</summary>
+</bill>

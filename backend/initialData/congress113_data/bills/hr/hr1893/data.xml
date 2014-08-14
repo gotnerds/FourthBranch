@@ -1,0 +1,130 @@
+<bill session="113" type="h" number="1893" updated="2014-08-14T13:06:50-04:00">
+  <state datetime="2013-05-08">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-08"/>
+  </status>
+  <introduced datetime="2013-05-08"/>
+  <titles>
+    <title type="short" as="introduced">Keeping All Students Safe Act</title>
+    <title type="official" as="introduced">To prevent and reduce the use of physical restraint and seclusion in schools, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00808"/>
+  <cosponsors>
+    <cosponsor thomas_id="00099" joined="2014-07-22"/>
+    <cosponsor thomas_id="02092" joined="2013-05-08"/>
+    <cosponsor thomas_id="01564" joined="2014-07-09"/>
+    <cosponsor thomas_id="02055" joined="2013-05-08"/>
+    <cosponsor thomas_id="02196" joined="2014-04-28"/>
+    <cosponsor thomas_id="01654" joined="2014-06-19"/>
+    <cosponsor thomas_id="01790" joined="2014-07-11"/>
+    <cosponsor thomas_id="01878" joined="2014-07-11"/>
+    <cosponsor thomas_id="01959" joined="2014-07-11"/>
+    <cosponsor thomas_id="01643" joined="2014-04-28"/>
+    <cosponsor thomas_id="01641" joined="2014-07-15"/>
+    <cosponsor thomas_id="00279" joined="2014-07-08"/>
+    <cosponsor thomas_id="00316" joined="2014-06-20"/>
+    <cosponsor thomas_id="02123" joined="2013-07-30"/>
+    <cosponsor thomas_id="02125" joined="2013-06-25"/>
+    <cosponsor thomas_id="01895" joined="2014-07-16"/>
+    <cosponsor thomas_id="01708" joined="2013-05-08"/>
+    <cosponsor thomas_id="01933" joined="2013-05-08"/>
+    <cosponsor thomas_id="01913" joined="2013-06-04"/>
+    <cosponsor thomas_id="01580" joined="2013-11-12"/>
+    <cosponsor thomas_id="01634" joined="2013-06-27"/>
+    <cosponsor thomas_id="00588" joined="2014-04-28"/>
+    <cosponsor thomas_id="00599" joined="2014-07-11"/>
+    <cosponsor thomas_id="02145" joined="2013-06-25"/>
+    <cosponsor thomas_id="01668" joined="2013-06-12"/>
+    <cosponsor thomas_id="01501" joined="2014-07-09"/>
+    <cosponsor thomas_id="00683" joined="2013-06-27"/>
+    <cosponsor thomas_id="00688" joined="2014-07-15"/>
+    <cosponsor thomas_id="01846" joined="2014-07-08"/>
+    <cosponsor thomas_id="00701" joined="2014-04-28"/>
+    <cosponsor thomas_id="00709" joined="2014-07-09"/>
+    <cosponsor thomas_id="02150" joined="2014-06-17"/>
+    <cosponsor thomas_id="01503" joined="2014-06-30"/>
+    <cosponsor thomas_id="01653" joined="2013-05-08"/>
+    <cosponsor thomas_id="00766" joined="2014-06-17"/>
+    <cosponsor thomas_id="01504" joined="2013-09-09"/>
+    <cosponsor thomas_id="01730" joined="2013-06-03"/>
+    <cosponsor thomas_id="01685" joined="2014-03-13"/>
+    <cosponsor thomas_id="01811" joined="2013-05-08"/>
+    <cosponsor thomas_id="00832" joined="2013-05-08"/>
+    <cosponsor thomas_id="02108" joined="2014-07-31"/>
+    <cosponsor thomas_id="02162" joined="2014-03-21"/>
+    <cosponsor thomas_id="02097" joined="2013-05-08"/>
+    <cosponsor thomas_id="01929" joined="2013-05-21"/>
+    <cosponsor thomas_id="01953" joined="2014-07-09"/>
+    <cosponsor thomas_id="01927" joined="2014-06-18"/>
+    <cosponsor thomas_id="02171" joined="2014-04-30"/>
+    <cosponsor thomas_id="01910" joined="2013-05-08"/>
+    <cosponsor thomas_id="00930" joined="2014-07-28"/>
+    <cosponsor thomas_id="00944" joined="2014-07-09"/>
+    <cosponsor thomas_id="01962" joined="2013-05-21"/>
+    <cosponsor thomas_id="01588" joined="2013-09-09"/>
+    <cosponsor thomas_id="01635" joined="2014-07-11"/>
+    <cosponsor thomas_id="01037" joined="2014-07-15"/>
+    <cosponsor thomas_id="01861" joined="2013-05-08"/>
+    <cosponsor thomas_id="01818" joined="2014-07-09"/>
+    <cosponsor thomas_id="01069" joined="2013-05-08"/>
+    <cosponsor thomas_id="02110" joined="2013-09-09"/>
+    <cosponsor thomas_id="01593" joined="2014-06-25"/>
+    <cosponsor thomas_id="01535" joined="2014-07-15"/>
+    <cosponsor thomas_id="01942" joined="2014-06-18"/>
+    <cosponsor thomas_id="01209" joined="2013-07-15"/>
+    <cosponsor thomas_id="02004" joined="2013-05-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-08" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2013-05-09">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H2538"/>
+    </action>
+    <action datetime="2013-05-22">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H2843"/>
+    </action>
+    <action datetime="2013-07-08">
+      <text>Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+    <committee subcommittee="Early Childhood, Elementary, and Secondary Education" code="HSED14" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Appropriations"/>
+    <term name="Child health"/>
+    <term name="Child safety and welfare"/>
+    <term name="Department of Education"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Education programs funding"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Emergency medical services and trauma care"/>
+    <term name="Government studies and investigations"/>
+    <term name="Preschool education"/>
+    <term name="School administration"/>
+    <term name="Special education"/>
+    <term name="Teaching, teachers, curricula"/>
+  </subjects>
+  <amendments/>
+  <summary>5/8/2013--Introduced.
+Keeping All Students Safe Act - Directs the Secretary of Education (Secretary) to establish minimum standards that:
+
+ prohibit elementary and secondary school personnel from managing any student by using any mechanical or chemical restraint, physical restraint or escort that restricts breathing, or aversive behavioral intervention that compromises student health and safety; prohibit such personnel from using physical restraint or seclusion, unless such measures are required to eliminate an imminent danger of physical injury to the student or others and certain precautions are taken; require states and local educational agencies (LEAs) to ensure that a sufficient number of school personnel receive state-approved crisis intervention training and certification in first aid and certain safe and effective student management techniques; prohibit physical restraint or seclusion from being written into a student's education plan, individual safety plan, behavioral plan, or individual education program as a planned intervention; and require schools to establish procedures to notify parents in a timely manner if physical restraint or seclusion is imposed on their child. Authorizes the Secretary to award grants to states and, through them, competitive subgrants to LEAs to: (1) establish, implement, and enforce policies and procedures to meet such standards; (2) improve their capacity to collect and analyze data related to physical restraint and seclusion; and (3) implement school-wide positive behavior supports.
+
+Requires LEAs to allow private school personnel to participate, on an equitable basis, in activities supported by such grants and subgrants.
+
+Directs the Secretary to conduct a national assessment of this Act's effectiveness.
+
+Gives Protection and Advocacy Systems the authority provided under the Developmental Disabilities Assistance and Bill of Rights Act of 2000 to investigate, monitor, and enforce this Act's protections for students.
+
+Directs the Secretary of Health and Human Services (HHS) to establish standards for Head Start agencies that are consistent with the minimum standards for the management of elementary and secondary school students.
+
+Authorizes the Secretary to allocate funds to the Secretary of HHS to assist Head Start agencies in establishing, implementing, and enforcing policies and procedures to meet such standards.</summary>
+</bill>

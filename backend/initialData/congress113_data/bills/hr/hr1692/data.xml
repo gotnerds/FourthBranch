@@ -1,0 +1,206 @@
+<bill session="113" type="h" number="1692" updated="2014-08-14T13:05:07-04:00">
+  <state datetime="2013-04-24">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-24"/>
+  </status>
+  <introduced datetime="2013-04-24"/>
+  <titles>
+    <title type="short" as="introduced">Sudan Peace, Security, and Accountability Act of 2013</title>
+    <title type="official" as="introduced">To require the development of a comprehensive strategy to end serious human rights violations in Sudan, to create incentives for governments and persons to end support of and assistance to the Government of Sudan, to reinvigorate genuinely comprehensive peace efforts in Sudan, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01504"/>
+  <cosponsors>
+    <cosponsor thomas_id="00038" joined="2013-09-10"/>
+    <cosponsor thomas_id="01996" joined="2013-04-24"/>
+    <cosponsor thomas_id="02153" joined="2013-07-19"/>
+    <cosponsor thomas_id="00091" joined="2013-04-25"/>
+    <cosponsor thomas_id="01740" joined="2013-06-27"/>
+    <cosponsor thomas_id="00099" joined="2013-06-18"/>
+    <cosponsor thomas_id="02092" joined="2013-05-06"/>
+    <cosponsor thomas_id="00132" joined="2013-11-13"/>
+    <cosponsor thomas_id="02106" joined="2013-07-30"/>
+    <cosponsor thomas_id="00165" joined="2013-11-13"/>
+    <cosponsor thomas_id="01471" joined="2013-05-06"/>
+    <cosponsor thomas_id="01564" joined="2013-04-24"/>
+    <cosponsor thomas_id="01889" joined="2013-04-24"/>
+    <cosponsor thomas_id="01925" joined="2014-01-14"/>
+    <cosponsor thomas_id="02055" joined="2013-04-24"/>
+    <cosponsor thomas_id="02196" joined="2014-03-06"/>
+    <cosponsor thomas_id="01864" joined="2013-05-14"/>
+    <cosponsor thomas_id="01654" joined="2013-04-24"/>
+    <cosponsor thomas_id="01790" joined="2014-03-26"/>
+    <cosponsor thomas_id="01878" joined="2013-05-09"/>
+    <cosponsor thomas_id="01959" joined="2013-07-09"/>
+    <cosponsor thomas_id="00229" joined="2013-04-24"/>
+    <cosponsor thomas_id="01836" joined="2013-05-16"/>
+    <cosponsor thomas_id="01604" joined="2013-07-30"/>
+    <cosponsor thomas_id="00279" joined="2013-04-24"/>
+    <cosponsor thomas_id="00281" joined="2013-06-14"/>
+    <cosponsor thomas_id="01976" joined="2013-07-08"/>
+    <cosponsor thomas_id="00303" joined="2013-10-12"/>
+    <cosponsor thomas_id="00316" joined="2013-05-07"/>
+    <cosponsor thomas_id="01894" joined="2013-04-24"/>
+    <cosponsor thomas_id="00344" joined="2013-07-08"/>
+    <cosponsor thomas_id="02114" joined="2013-08-01"/>
+    <cosponsor thomas_id="00368" joined="2013-10-10"/>
+    <cosponsor thomas_id="02119" joined="2013-06-28"/>
+    <cosponsor thomas_id="01708" joined="2013-04-24"/>
+    <cosponsor thomas_id="02089" joined="2013-05-06"/>
+    <cosponsor thomas_id="01913" joined="2013-05-14"/>
+    <cosponsor thomas_id="01580" joined="2013-05-09"/>
+    <cosponsor thomas_id="01634" joined="2013-05-23"/>
+    <cosponsor thomas_id="00566" joined="2013-06-11"/>
+    <cosponsor thomas_id="02101" joined="2013-06-25"/>
+    <cosponsor thomas_id="01663" joined="2013-05-22"/>
+    <cosponsor thomas_id="00588" joined="2013-09-10"/>
+    <cosponsor thomas_id="02149" joined="2014-03-24"/>
+    <cosponsor thomas_id="00599" joined="2013-06-03"/>
+    <cosponsor thomas_id="01843" joined="2013-04-24"/>
+    <cosponsor thomas_id="02025" joined="2013-10-29"/>
+    <cosponsor thomas_id="02172" joined="2013-07-11"/>
+    <cosponsor thomas_id="01668" joined="2013-06-27"/>
+    <cosponsor thomas_id="01583" joined="2013-05-16"/>
+    <cosponsor thomas_id="01501" joined="2013-04-24"/>
+    <cosponsor thomas_id="00683" joined="2013-09-20"/>
+    <cosponsor thomas_id="00688" joined="2013-05-22"/>
+    <cosponsor thomas_id="00701" joined="2013-06-27"/>
+    <cosponsor thomas_id="02033" joined="2014-01-27"/>
+    <cosponsor thomas_id="02111" joined="2013-09-25"/>
+    <cosponsor thomas_id="02146" joined="2013-07-08"/>
+    <cosponsor thomas_id="00729" joined="2013-04-24"/>
+    <cosponsor thomas_id="00735" joined="2013-04-24"/>
+    <cosponsor thomas_id="01503" joined="2013-10-29"/>
+    <cosponsor thomas_id="01804" joined="2013-04-24"/>
+    <cosponsor thomas_id="01653" joined="2013-04-24"/>
+    <cosponsor thomas_id="00766" joined="2013-05-14"/>
+    <cosponsor thomas_id="01505" joined="2013-04-24"/>
+    <cosponsor thomas_id="02142" joined="2013-07-22"/>
+    <cosponsor thomas_id="01730" joined="2013-04-24"/>
+    <cosponsor thomas_id="00808" joined="2013-06-27"/>
+    <cosponsor thomas_id="01811" joined="2013-04-24"/>
+    <cosponsor thomas_id="00832" joined="2013-04-24"/>
+    <cosponsor thomas_id="02117" joined="2014-02-25"/>
+    <cosponsor thomas_id="00850" joined="2014-03-06"/>
+    <cosponsor thomas_id="01602" joined="2013-05-06"/>
+    <cosponsor thomas_id="00854" joined="2014-02-25"/>
+    <cosponsor thomas_id="02108" joined="2013-12-19"/>
+    <cosponsor thomas_id="00868" joined="2013-05-22"/>
+    <cosponsor thomas_id="02162" joined="2013-07-08"/>
+    <cosponsor thomas_id="02097" joined="2013-05-14"/>
+    <cosponsor thomas_id="01835" joined="2014-01-09"/>
+    <cosponsor thomas_id="01927" joined="2013-05-22"/>
+    <cosponsor thomas_id="01514" joined="2013-07-19"/>
+    <cosponsor thomas_id="02171" joined="2013-07-10"/>
+    <cosponsor thomas_id="01910" joined="2013-04-24"/>
+    <cosponsor thomas_id="00930" joined="2013-05-06"/>
+    <cosponsor thomas_id="00944" joined="2014-02-25"/>
+    <cosponsor thomas_id="00979" joined="2013-07-22"/>
+    <cosponsor thomas_id="01003" joined="2013-04-24"/>
+    <cosponsor thomas_id="01009" joined="2013-12-12"/>
+    <cosponsor thomas_id="01588" joined="2013-04-24"/>
+    <cosponsor thomas_id="01635" joined="2014-03-12"/>
+    <cosponsor thomas_id="02124" joined="2013-07-22"/>
+    <cosponsor thomas_id="01920" joined="2013-04-24"/>
+    <cosponsor thomas_id="01798" joined="2013-05-07"/>
+    <cosponsor thomas_id="01994" joined="2013-11-21"/>
+    <cosponsor thomas_id="01526" joined="2013-04-24"/>
+    <cosponsor thomas_id="02099" joined="2013-06-20"/>
+    <cosponsor thomas_id="01818" joined="2013-07-09"/>
+    <cosponsor thomas_id="01069" joined="2013-05-06"/>
+    <cosponsor thomas_id="01071" joined="2013-07-17"/>
+    <cosponsor thomas_id="01535" joined="2013-05-06"/>
+    <cosponsor thomas_id="01884" joined="2013-12-05"/>
+    <cosponsor thomas_id="01729" joined="2013-04-24"/>
+    <cosponsor thomas_id="02112" joined="2013-06-28"/>
+    <cosponsor thomas_id="01188" joined="2013-05-15"/>
+    <cosponsor thomas_id="01777" joined="2014-02-04"/>
+    <cosponsor thomas_id="01205" joined="2013-04-25"/>
+    <cosponsor thomas_id="01209" joined="2013-05-06"/>
+    <cosponsor thomas_id="01879" joined="2013-04-24"/>
+    <cosponsor thomas_id="02004" joined="2014-02-04"/>
+    <cosponsor thomas_id="01886" joined="2013-07-22"/>
+    <cosponsor thomas_id="01238" joined="2013-04-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-24" state="REFERRED">
+      <text>Referred to the Committee on Foreign Affairs, and in addition to the Committees on Financial Services, Oversight and Government Reform, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-04-24">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2013-04-24">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2013-04-24">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2013-04-24">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2013-06-14">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee subcommittee="Immigration and Border Security" code="HSJU01" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Accounting and auditing"/>
+    <term name="Africa"/>
+    <term name="Arms control and nonproliferation"/>
+    <term name="Aviation and airports"/>
+    <term name="Bank accounts, deposits, capital"/>
+    <term name="China"/>
+    <term name="Congressional oversight"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Cultural exchanges and relations"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Egypt"/>
+    <term name="Ethiopia"/>
+    <term name="Europe"/>
+    <term name="European Union"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Foreign and international banking"/>
+    <term name="Foreign loans and debt"/>
+    <term name="Human rights"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="International law and treaties"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Middle East"/>
+    <term name="Military assistance, sales, and agreements"/>
+    <term name="Military operations and strategy"/>
+    <term name="Oil and gas"/>
+    <term name="Political movements and philosophies"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Qatar"/>
+    <term name="Refugees, asylum, displaced persons"/>
+    <term name="Russia"/>
+    <term name="Sanctions"/>
+    <term name="South Sudan"/>
+    <term name="Sudan"/>
+    <term name="Trade restrictions"/>
+    <term name="Turkey"/>
+    <term name="United Nations"/>
+    <term name="Visas and passports"/>
+    <term name="War crimes, genocide, crimes against humanity"/>
+  </subjects>
+  <amendments/>
+  <summary>4/24/2013--Introduced.
+Sudan Peace, Security, and Accountability Act of 2013 - Directs the President to develop and transmit to Congress a comprehensive strategy to end serious human rights violations in Sudan and to promote comprehensive peace and democratic reform. Requires the strategy to include an interagency plan along with a description of the resources and additional personnel required for the diplomatic, economic, intelligence, and military activities to be undertaken to address and end human rights violations, strengthen democratic institutions, and expand democratic participation and governance, including capacity building of Sudanese civil society, political parties, and nongovernmental organizations seeking peaceful democratic change.
+
+Requires a description of: (1) the options for expanding U.S. diplomatic engagement with countries with close political or economic relations with Sudan, including China, Russia, Qatar, Egypt, and other traditional allies and multilateral organizations; and (2) the manner in which sanctions against Sudan or Sudanese individuals will be more effectively enforced, including by providing adequate resources and personnel to the Office of Foreign Assets Control (OFAC) within the Department of the Treasury, prioritizing the enforcement of Sudan sanctions within OFAC, and mandating increased collection of intelligence information on Sudanese targets of sanctions.
+
+Directs the President to impose specified visa, development assistance, security assistance, property, credit, financial assistance, export, cultural, or scientific sanctions on any person or government that: (1) supported or assisted Sudan in the commission of serious human rights violations in Sudan, including by selling, leasing, or otherwise transferring military equipment to Sudan or providing property, goods, technology, services, or other support in the amount of $500,000 or more that directly and significantly contributes to Sudan committing or assisting in the commission of serious human rights violations; (2) is interfering or has interfered with the delivery of humanitarian aid to Sudan; (3) is impeding the peace process or threatening the stability of any part of Sudan or the region; or (4) failed to execute an International Criminal Court arrest warrant against any Sudanese official if such person or government had the jurisdictional authority to execute the warrant and failed to make the arrest without reasonable justification.
+
+Prohibits the imposition of sanctions or other prohibitions on any government or person that is: (1) acting on behalf of the government of South Sudan in connection with the shipment or payment for oil from South Sudan or the advancement of peace between Sudan and South Sudan, or (2) providing humanitarian aid to Sudan.
+
+Amends: (1) the Comprehensive Peace in Sudan Act of 2004 to make its asset and visa sanctions applicable to Sudan, and (2) the Darfur Peace and Accountability Act of 2006 to impose such sanctions on Janjaweed commanders and coordinators threatening peace and stability in Sudan.
+
+Terminates sanctions upon certification by the President that specified conditions have been met.</summary>
+</bill>

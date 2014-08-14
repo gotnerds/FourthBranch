@@ -1,0 +1,24 @@
+<bill session="113" type="s" number="2753" updated="2014-08-14T14:08:15-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="short" as="introduced">Increasing Student Achievement by Increasing Student Support Act</title>
+    <title type="official" as="introduced">A bill to increase the recruitment and retention of school counselors, school social workers, and school psychologists by low-income local educational agencies.</title>
+  </titles>
+  <sponsor thomas_id="01829"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

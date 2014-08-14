@@ -1,0 +1,60 @@
+<bill session="113" type="h" number="4847" updated="2014-08-14T13:32:49-04:00">
+  <state datetime="2014-06-11">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-11"/>
+  </status>
+  <introduced datetime="2014-06-11"/>
+  <titles>
+    <title type="short" as="introduced">End Neglected Tropical Diseases Act</title>
+    <title type="official" as="introduced">To facilitate effective research on and treatment of neglected tropical diseases through coordinated domestic and international efforts.</title>
+  </titles>
+  <sponsor thomas_id="01071"/>
+  <cosponsors>
+    <cosponsor thomas_id="01807" joined="2014-07-30"/>
+    <cosponsor thomas_id="01843" joined="2014-06-11"/>
+    <cosponsor thomas_id="01506" joined="2014-06-11"/>
+    <cosponsor thomas_id="01009" joined="2014-06-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-11" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Foreign Affairs, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-06-11">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2014-06-11">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2014-06-11">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2014-06-13">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Advisory bodies"/>
+    <term name="Congressional oversight"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="HIV/AIDS"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Infectious and parasitic diseases"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Medical research"/>
+    <term name="Multilateral development programs"/>
+    <term name="Research administration and funding"/>
+    <term name="Research and development"/>
+    <term name="United Nations"/>
+    <term name="World health"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,41 @@
+<bill session="113" type="h" number="3276" updated="2014-08-14T13:19:21-04:00">
+  <state datetime="2013-10-08">REFERRED</state>
+  <status>
+    <introduced datetime="2013-10-08"/>
+  </status>
+  <introduced datetime="2013-10-08"/>
+  <titles>
+    <title type="official" as="introduced">To prohibit the operation of an exercise facility for Members of the House of Representatives during a Government shutdown.</title>
+  </titles>
+  <sponsor thomas_id="01888"/>
+  <cosponsors>
+    <cosponsor thomas_id="01780" joined="2013-10-11"/>
+    <cosponsor thomas_id="02127" joined="2014-07-30"/>
+    <cosponsor thomas_id="02117" joined="2013-10-08"/>
+    <cosponsor thomas_id="00867" joined="2013-10-11"/>
+    <cosponsor thomas_id="02171" joined="2013-10-11"/>
+    <cosponsor thomas_id="01861" joined="2013-10-11"/>
+    <cosponsor thomas_id="02099" joined="2014-07-29"/>
+    <cosponsor thomas_id="01535" joined="2014-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-10-08" state="REFERRED">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Appropriations"/>
+    <term name="Congressional operations and organization"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="House of Representatives"/>
+    <term name="Sports and recreation facilities"/>
+  </subjects>
+  <amendments/>
+  <summary>10/8/2013--Introduced.
+Shutdown Prioritization Act or the SPA Act - Prohibits the Architect of the Capitol from operating an exercise facility for Members of the House of Representatives during a government shutdown (defined as a lapse in appropriations for any federal agency or department as a result of a failure to enact a regular appropriations bill or continuing resolution).</summary>
+</bill>

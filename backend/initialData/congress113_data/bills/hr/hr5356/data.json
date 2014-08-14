@@ -1,0 +1,70 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-31", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on the Judiciary.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5356-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-07-31", 
+  "number": "5356", 
+  "official_title": "To amend section 3720D of title 31, United States Code, to prohibit wage garnishment by the Environmental Protection Agency.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Preventing the EPA from Garnishing Wages Act of 2014", 
+  "sponsor": {
+    "district": "5", 
+    "name": "McAllister, Vance M.", 
+    "state": "LA", 
+    "thomas_id": "02195", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-07-31", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Preventing the EPA from Garnishing Wages Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend section 3720D of title 31, United States Code, to prohibit wage garnishment by the Environmental Protection Agency.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T13:37:12-04:00"
+}

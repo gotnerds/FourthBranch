@@ -1,0 +1,86 @@
+<bill session="113" type="hr" number="208" updated="2014-08-14T12:46:24-04:00">
+  <state datetime="2013-05-08">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-08"/>
+  </status>
+  <introduced datetime="2013-05-08"/>
+  <titles>
+    <title type="official" as="introduced">Expressing opposition to the use of carbon monoxide, carbon dioxide, nitrogen, nitrous oxide, argon, or other gases to euthanize shelter animals and support for State laws that require the use of the more humane euthanasia by injection method.</title>
+  </titles>
+  <sponsor thomas_id="00832"/>
+  <cosponsors>
+    <cosponsor thomas_id="02153" joined="2013-10-23"/>
+    <cosponsor thomas_id="01740" joined="2013-06-27"/>
+    <cosponsor thomas_id="00099" joined="2013-07-30"/>
+    <cosponsor thomas_id="01723" joined="2013-08-02"/>
+    <cosponsor thomas_id="01469" joined="2013-07-16"/>
+    <cosponsor thomas_id="01564" joined="2014-07-31"/>
+    <cosponsor thomas_id="01889" joined="2014-07-31"/>
+    <cosponsor thomas_id="02159" joined="2013-06-27"/>
+    <cosponsor thomas_id="01970" joined="2013-09-18"/>
+    <cosponsor thomas_id="02055" joined="2013-06-05"/>
+    <cosponsor thomas_id="01878" joined="2014-07-17"/>
+    <cosponsor thomas_id="01959" joined="2013-08-02"/>
+    <cosponsor thomas_id="00256" joined="2013-07-18"/>
+    <cosponsor thomas_id="00279" joined="2013-06-05"/>
+    <cosponsor thomas_id="01976" joined="2013-10-23"/>
+    <cosponsor thomas_id="00316" joined="2014-07-30"/>
+    <cosponsor thomas_id="00344" joined="2014-04-28"/>
+    <cosponsor thomas_id="00355" joined="2013-06-05"/>
+    <cosponsor thomas_id="00368" joined="2013-05-23"/>
+    <cosponsor thomas_id="01708" joined="2013-06-05"/>
+    <cosponsor thomas_id="01913" joined="2013-10-23"/>
+    <cosponsor thomas_id="01580" joined="2014-07-25"/>
+    <cosponsor thomas_id="02101" joined="2013-10-09"/>
+    <cosponsor thomas_id="02025" joined="2013-06-05"/>
+    <cosponsor thomas_id="01668" joined="2013-06-27"/>
+    <cosponsor thomas_id="00701" joined="2013-06-27"/>
+    <cosponsor thomas_id="00709" joined="2014-07-22"/>
+    <cosponsor thomas_id="01653" joined="2013-07-18"/>
+    <cosponsor thomas_id="01504" joined="2013-08-02"/>
+    <cosponsor thomas_id="01832" joined="2014-07-31"/>
+    <cosponsor thomas_id="01730" joined="2013-06-12"/>
+    <cosponsor thomas_id="00850" joined="2014-07-30"/>
+    <cosponsor thomas_id="00868" joined="2013-06-05"/>
+    <cosponsor thomas_id="01510" joined="2013-06-27"/>
+    <cosponsor thomas_id="02113" joined="2013-06-27"/>
+    <cosponsor thomas_id="01910" joined="2013-08-02"/>
+    <cosponsor thomas_id="00930" joined="2013-10-10"/>
+    <cosponsor thomas_id="01967" joined="2013-06-27"/>
+    <cosponsor thomas_id="01522" joined="2013-06-05"/>
+    <cosponsor thomas_id="01588" joined="2013-06-27"/>
+    <cosponsor thomas_id="01635" joined="2013-09-18"/>
+    <cosponsor thomas_id="01798" joined="2013-06-27"/>
+    <cosponsor thomas_id="01861" joined="2014-07-17"/>
+    <cosponsor thomas_id="01069" joined="2013-10-23"/>
+    <cosponsor thomas_id="01528" joined="2013-06-05"/>
+    <cosponsor thomas_id="01535" joined="2013-06-12"/>
+    <cosponsor thomas_id="01940" joined="2013-06-12"/>
+    <cosponsor thomas_id="01884" joined="2013-07-16"/>
+    <cosponsor thomas_id="02004" joined="2013-06-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-08" state="REFERRED">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2013-05-22">
+      <text>Referred to the Subcommittee on Livestock, Rural Development, and Credit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee subcommittee="Livestock, Rural Development, and Credit" code="HSAG29" name="House Agriculture" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Animals"/>
+    <term name="Animal protection and human-animal relationships"/>
+    <term name="State and local government operations"/>
+    <term name="Veterinary medicine and animal diseases"/>
+  </subjects>
+  <amendments/>
+  <summary>5/8/2013--Introduced.
+Expresses: (1) disapproval of the use of gas chambers to euthanize shelter animals, and (2) support for the enactment of state laws requiring the use of euthanasia by injection with sodium pentobarbital as the standard method of euthanasia for all animal shelters.
+
+Encourages states to allow licensed shelters to purchase necessary euthanasia drugs, subject to appropriate training and certification.</summary>
+</bill>

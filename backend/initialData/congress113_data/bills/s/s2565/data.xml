@@ -1,0 +1,30 @@
+<bill session="113" type="s" number="2565" updated="2014-08-14T14:06:40-04:00">
+  <state datetime="2014-07-08">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-08"/>
+  </status>
+  <introduced datetime="2014-07-08"/>
+  <titles>
+    <title type="short" as="introduced">Helping Working Families Afford Child Care Act</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to enhance the dependent care tax credit, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01901"/>
+  <cosponsors>
+    <cosponsor thomas_id="00116" joined="2014-07-08"/>
+    <cosponsor thomas_id="01866" joined="2014-07-08"/>
+    <cosponsor thomas_id="00501" joined="2014-07-10"/>
+    <cosponsor thomas_id="00802" joined="2014-07-08"/>
+    <cosponsor thomas_id="01409" joined="2014-07-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-08" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

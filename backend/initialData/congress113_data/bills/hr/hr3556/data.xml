@@ -1,0 +1,82 @@
+<bill session="113" type="h" number="3556" updated="2014-08-14T13:21:50-04:00">
+  <state datetime="2013-11-20">REFERRED</state>
+  <status>
+    <introduced datetime="2013-11-20"/>
+  </status>
+  <introduced datetime="2013-11-20"/>
+  <titles>
+    <title type="short" as="introduced">Humane Care for Primates Act of 2013</title>
+    <title type="official" as="introduced">To establish a program to assist in the importation and care of abused, injured, or abandoned nonhuman primates.</title>
+  </titles>
+  <sponsor thomas_id="02036"/>
+  <cosponsors>
+    <cosponsor thomas_id="00099" joined="2013-12-19"/>
+    <cosponsor thomas_id="01723" joined="2014-02-10"/>
+    <cosponsor thomas_id="01816" joined="2014-02-03"/>
+    <cosponsor thomas_id="02107" joined="2014-02-26"/>
+    <cosponsor thomas_id="01970" joined="2014-02-26"/>
+    <cosponsor thomas_id="02196" joined="2014-06-18"/>
+    <cosponsor thomas_id="01654" joined="2014-02-10"/>
+    <cosponsor thomas_id="00211" joined="2014-06-18"/>
+    <cosponsor thomas_id="01959" joined="2013-12-05"/>
+    <cosponsor thomas_id="00279" joined="2013-11-20"/>
+    <cosponsor thomas_id="01976" joined="2014-02-10"/>
+    <cosponsor thomas_id="01894" joined="2014-02-26"/>
+    <cosponsor thomas_id="01857" joined="2014-03-05"/>
+    <cosponsor thomas_id="00344" joined="2014-03-11"/>
+    <cosponsor thomas_id="00368" joined="2014-02-03"/>
+    <cosponsor thomas_id="00414" joined="2014-02-10"/>
+    <cosponsor thomas_id="02043" joined="2014-07-29"/>
+    <cosponsor thomas_id="00462" joined="2014-06-12"/>
+    <cosponsor thomas_id="01708" joined="2013-12-03"/>
+    <cosponsor thomas_id="02041" joined="2013-12-03"/>
+    <cosponsor thomas_id="00511" joined="2014-02-26"/>
+    <cosponsor thomas_id="02046" joined="2014-06-19"/>
+    <cosponsor thomas_id="00612" joined="2014-07-08"/>
+    <cosponsor thomas_id="01781" joined="2014-07-17"/>
+    <cosponsor thomas_id="00699" joined="2013-12-05"/>
+    <cosponsor thomas_id="00701" joined="2014-02-26"/>
+    <cosponsor thomas_id="00709" joined="2014-02-26"/>
+    <cosponsor thomas_id="00766" joined="2014-02-10"/>
+    <cosponsor thomas_id="01832" joined="2014-02-26"/>
+    <cosponsor thomas_id="00832" joined="2013-12-03"/>
+    <cosponsor thomas_id="00850" joined="2013-12-03"/>
+    <cosponsor thomas_id="01602" joined="2014-02-10"/>
+    <cosponsor thomas_id="00854" joined="2013-12-05"/>
+    <cosponsor thomas_id="01910" joined="2014-02-11"/>
+    <cosponsor thomas_id="01967" joined="2013-12-05"/>
+    <cosponsor thomas_id="01756" joined="2014-02-10"/>
+    <cosponsor thomas_id="01588" joined="2014-01-08"/>
+    <cosponsor thomas_id="01861" joined="2013-12-05"/>
+    <cosponsor thomas_id="01069" joined="2013-12-03"/>
+    <cosponsor thomas_id="01535" joined="2014-03-05"/>
+    <cosponsor thomas_id="01222" joined="2014-03-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-11-20" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-11-22">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Animal and plant health"/>
+    <term name="Animal protection and human-animal relationships"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Mammals"/>
+    <term name="Trade restrictions"/>
+  </subjects>
+  <amendments/>
+  <summary>11/20/2013--Introduced.
+Humane Care for Primates Act of 2013 - Directs the Secretary of Health and Human Services (HHS) to promulgate a final rule revising federal regulations regarding the importation of nonhuman primates (i.e. chimpanzees, gorillas, orangutans, macaques, and numerous other species) to expand the categories of uses for which nonhuman primates may be imported and distributed to include live nonhuman primates imported into the United States by a certified primate sanctuary for purposes of providing lifetime shelter and care.
+
+Requires such rule to establish a process for the certification of facilities as primate sanctuaries for purposes of the importation, shelter, and care of nonhuman primates.</summary>
+</bill>

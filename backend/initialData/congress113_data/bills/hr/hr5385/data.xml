@@ -1,0 +1,33 @@
+<bill session="113" type="h" number="5385" updated="2014-08-14T13:37:26-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="official" as="introduced">To designate the facility of the United States Postal Service located at 55 Grasso Plaza in St. Louis, Missouri, as the "Sgt. Amanda N. Pinson Post Office".</title>
+  </titles>
+  <sponsor thomas_id="02137"/>
+  <cosponsors>
+    <cosponsor thomas_id="01654" joined="2014-07-31"/>
+    <cosponsor thomas_id="01790" joined="2014-07-31"/>
+    <cosponsor thomas_id="01656" joined="2014-07-31"/>
+    <cosponsor thomas_id="02032" joined="2014-07-31"/>
+    <cosponsor thomas_id="02033" joined="2014-07-31"/>
+    <cosponsor thomas_id="01931" joined="2014-07-31"/>
+    <cosponsor thomas_id="02191" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>7/31/2014--Introduced.
+Designates the facility of the United States Postal Service located at 55 Grasso Plaza in St. Louis, Missouri, as the "Sgt. Amanda N. Pinson Post Office."</summary>
+</bill>

@@ -1,0 +1,61 @@
+<bill session="113" type="h" number="4857" updated="2014-08-14T13:32:54-04:00">
+  <state datetime="2014-06-12">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-12"/>
+  </status>
+  <introduced datetime="2014-06-12"/>
+  <titles>
+    <title type="short" as="introduced">Ensuring Equal Access to Treatments Act of 2014</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to modify payment under the Medicare program for outpatient department procedures that utilize drugs as supplies, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01982"/>
+  <cosponsors>
+    <cosponsor thomas_id="01748" joined="2014-07-31"/>
+    <cosponsor thomas_id="01787" joined="2014-07-22"/>
+    <cosponsor thomas_id="01471" joined="2014-06-12"/>
+    <cosponsor thomas_id="01604" joined="2014-07-31"/>
+    <cosponsor thomas_id="01990" joined="2014-07-09"/>
+    <cosponsor thomas_id="01498" joined="2014-07-24"/>
+    <cosponsor thomas_id="02014" joined="2014-07-23"/>
+    <cosponsor thomas_id="01814" joined="2014-07-17"/>
+    <cosponsor thomas_id="00766" joined="2014-06-12"/>
+    <cosponsor thomas_id="01955" joined="2014-07-22"/>
+    <cosponsor thomas_id="01930" joined="2014-07-09"/>
+    <cosponsor thomas_id="01651" joined="2014-06-12"/>
+    <cosponsor thomas_id="01848" joined="2014-06-12"/>
+    <cosponsor thomas_id="01757" joined="2014-07-29"/>
+    <cosponsor thomas_id="02124" joined="2014-06-12"/>
+    <cosponsor thomas_id="01920" joined="2014-07-15"/>
+    <cosponsor thomas_id="02110" joined="2014-07-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-12" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-06-12">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2014-06-12">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2014-06-13">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Drug and radiation therapy"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Home and outpatient care"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>6/12/2014--Introduced.
+Ensuring Equal Access to Treatments Act of 2014 - Amends title XVIII (Medicare) of the Social Security Act, with respect to the prospective payment system for hospital outpatient department services (OPD), to direct the Secretary of Health and Human Services (HHS) to create certain additional groups of covered OPD services that classify separately, from those that do not utilize such a drug, procedures that utilize a drug (other than contrast agents and diagnostic radiopharmaceuticals) that both has a cost above the drug packaging threshold and functions as a supply when used in a diagnostic test or procedure.</summary>
+</bill>

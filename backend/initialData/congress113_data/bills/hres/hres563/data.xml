@@ -1,0 +1,54 @@
+<bill session="113" type="hr" number="563" updated="2014-08-14T12:49:24-04:00">
+  <state datetime="2014-05-01">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-01"/>
+  </status>
+  <introduced datetime="2014-05-01"/>
+  <titles>
+    <title type="official" as="introduced">Expressing support for designation of May as "National Asthma and Allergy Awareness Month".</title>
+  </titles>
+  <sponsor thomas_id="01861"/>
+  <cosponsors>
+    <cosponsor thomas_id="00091" joined="2014-05-01"/>
+    <cosponsor thomas_id="00132" joined="2014-05-01"/>
+    <cosponsor thomas_id="02106" joined="2014-05-06"/>
+    <cosponsor thomas_id="02107" joined="2014-05-01"/>
+    <cosponsor thomas_id="02159" joined="2014-05-01"/>
+    <cosponsor thomas_id="01925" joined="2014-05-01"/>
+    <cosponsor thomas_id="01864" joined="2014-05-01"/>
+    <cosponsor thomas_id="00344" joined="2014-05-01"/>
+    <cosponsor thomas_id="01708" joined="2014-05-01"/>
+    <cosponsor thomas_id="00588" joined="2014-05-01"/>
+    <cosponsor thomas_id="01843" joined="2014-05-01"/>
+    <cosponsor thomas_id="02145" joined="2014-05-01"/>
+    <cosponsor thomas_id="00930" joined="2014-05-01"/>
+    <cosponsor thomas_id="01042" joined="2014-05-01"/>
+    <cosponsor thomas_id="02112" joined="2014-05-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-01" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2014-05-02">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Allergies"/>
+    <term name="Cardiovascular and respiratory health"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Health information and medical records"/>
+    <term name="Health personnel"/>
+    <term name="Medical research"/>
+  </subjects>
+  <amendments/>
+  <summary>5/1/2014--Introduced.
+Supports the designation of National Asthma and Allergy Awareness Month.</summary>
+</bill>

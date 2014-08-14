@@ -1,0 +1,57 @@
+<bill session="113" type="h" number="4818" updated="2014-08-14T13:32:33-04:00">
+  <state datetime="2014-06-09">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-09"/>
+  </status>
+  <introduced datetime="2014-06-09"/>
+  <titles>
+    <title type="short" as="introduced">Military Spouse Career Advancement Act</title>
+    <title type="official" as="introduced">To amend title 10, United States Code, to codify the Military Spouse Career Advancement Account program conducted by the Department of Defense to assist spouses of members of the Armed Forces serving on active duty to pursue educational opportunities and career training, to ensure that such educational opportunities and training are available to all military spouses, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02117"/>
+  <cosponsors>
+    <cosponsor thomas_id="00132" joined="2014-07-31"/>
+    <cosponsor thomas_id="02106" joined="2014-07-22"/>
+    <cosponsor thomas_id="02159" joined="2014-07-31"/>
+    <cosponsor thomas_id="01474" joined="2014-07-25"/>
+    <cosponsor thomas_id="01970" joined="2014-07-25"/>
+    <cosponsor thomas_id="01878" joined="2014-07-25"/>
+    <cosponsor thomas_id="02144" joined="2014-06-09"/>
+    <cosponsor thomas_id="02133" joined="2014-07-24"/>
+    <cosponsor thomas_id="02164" joined="2014-07-30"/>
+    <cosponsor thomas_id="00511" joined="2014-07-29"/>
+    <cosponsor thomas_id="01634" joined="2014-07-31"/>
+    <cosponsor thomas_id="00588" joined="2014-07-23"/>
+    <cosponsor thomas_id="00612" joined="2014-07-29"/>
+    <cosponsor thomas_id="02146" joined="2014-08-01"/>
+    <cosponsor thomas_id="00766" joined="2014-07-29"/>
+    <cosponsor thomas_id="01832" joined="2014-07-31"/>
+    <cosponsor thomas_id="02148" joined="2014-07-23"/>
+    <cosponsor thomas_id="01974" joined="2014-07-29"/>
+    <cosponsor thomas_id="00887" joined="2014-07-29"/>
+    <cosponsor thomas_id="00944" joined="2014-07-30"/>
+    <cosponsor thomas_id="01003" joined="2014-07-29"/>
+    <cosponsor thomas_id="01722" joined="2014-07-31"/>
+    <cosponsor thomas_id="02166" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-09" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Education programs funding"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Higher education"/>
+    <term name="Licensing and registrations"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Student aid and college costs"/>
+    <term name="Vocational education"/>
+  </subjects>
+  <amendments/>
+</bill>

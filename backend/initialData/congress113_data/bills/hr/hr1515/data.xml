@@ -1,0 +1,68 @@
+<bill session="113" type="h" number="1515" updated="2014-08-14T13:03:35-04:00">
+  <state datetime="2013-04-11">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-11"/>
+  </status>
+  <introduced datetime="2013-04-11"/>
+  <titles>
+    <title type="short" as="introduced">21st Century Global Health Technology Act</title>
+    <title type="official" as="introduced">To amend the Foreign Assistance Act of 1961 to codify the cooperative agreement, known as the Health Technologies program, under which the United States Agency for International Development supports the development of technologies for global health, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01818"/>
+  <cosponsors>
+    <cosponsor thomas_id="01889" joined="2013-07-22"/>
+    <cosponsor thomas_id="01643" joined="2014-01-28"/>
+    <cosponsor thomas_id="02096" joined="2014-04-28"/>
+    <cosponsor thomas_id="01717" joined="2013-04-11"/>
+    <cosponsor thomas_id="00344" joined="2014-07-15"/>
+    <cosponsor thomas_id="01708" joined="2013-10-22"/>
+    <cosponsor thomas_id="02170" joined="2014-03-12"/>
+    <cosponsor thomas_id="02169" joined="2014-05-21"/>
+    <cosponsor thomas_id="01653" joined="2014-03-12"/>
+    <cosponsor thomas_id="01811" joined="2013-07-22"/>
+    <cosponsor thomas_id="00832" joined="2013-07-22"/>
+    <cosponsor thomas_id="00985" joined="2014-02-26"/>
+    <cosponsor thomas_id="01069" joined="2013-10-22"/>
+    <cosponsor thomas_id="01528" joined="2013-07-22"/>
+    <cosponsor thomas_id="02047" joined="2014-03-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-11" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2407"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Child health"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="HIV/AIDS"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Infectious and parasitic diseases"/>
+    <term name="Medical research"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Nutrition and diet"/>
+    <term name="Performance measurement"/>
+    <term name="Product development and innovation"/>
+    <term name="Public-private cooperation"/>
+    <term name="Research administration and funding"/>
+    <term name="Research and development"/>
+    <term name="Women's health"/>
+    <term name="World health"/>
+  </subjects>
+  <amendments/>
+  <summary>4/11/2013--Introduced.
+21st Century Global Health Technology Act - Amends the Foreign Assistance Act of 1961 to establish in the U.S. Agency for International Development (USAID) a program to develop technologies designed to: (1) improve the health and nutrition of populations in developing countries; (2) reduce maternal, newborn, and child mortality in such countries; and (3) improve the diagnosis, prevention, and reduction of disease, especially HIV/AIDS, malaria, tuberculosis, and other infectious diseases in such countries.
+
+States that such program shall: (1) be carried out under a cooperative agreement between USAID and one or more institutions with a successful record of advancing the technologies described in this Act and integrating practical field experience into the research and development process, and (2) codify the Health Technologies program under which USAID supports the development of technologies for global health.
+
+States that USAID's Center for Accelerating Innovation and Impact shall continue its work to speed the development, introduction, and scale-up of priority global health interventions.
+
+Directs USAID to report annually to Congress on USAID research and development activities.</summary>
+</bill>

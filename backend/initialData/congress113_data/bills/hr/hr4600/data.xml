@@ -1,0 +1,54 @@
+<bill session="113" type="h" number="4600" updated="2014-08-14T13:30:36-04:00">
+  <state datetime="2014-05-07">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-07"/>
+  </status>
+  <introduced datetime="2014-05-07"/>
+  <titles>
+    <title type="short" as="introduced">Tax Free Health Insurance Act of 2014</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to allow a deduction for premiums for insurance which constitutes medical care.</title>
+  </titles>
+  <sponsor thomas_id="01724"/>
+  <cosponsors>
+    <cosponsor thomas_id="01858" joined="2014-05-07"/>
+    <cosponsor thomas_id="01748" joined="2014-05-07"/>
+    <cosponsor thomas_id="01987" joined="2014-05-07"/>
+    <cosponsor thomas_id="01882" joined="2014-05-07"/>
+    <cosponsor thomas_id="01751" joined="2014-05-07"/>
+    <cosponsor thomas_id="00186" joined="2014-05-07"/>
+    <cosponsor thomas_id="02098" joined="2014-05-07"/>
+    <cosponsor thomas_id="02057" joined="2014-05-07"/>
+    <cosponsor thomas_id="01924" joined="2014-05-07"/>
+    <cosponsor thomas_id="01793" joined="2014-05-07"/>
+    <cosponsor thomas_id="01707" joined="2014-05-07"/>
+    <cosponsor thomas_id="01720" joined="2014-05-07"/>
+    <cosponsor thomas_id="02026" joined="2014-05-07"/>
+    <cosponsor thomas_id="02140" joined="2014-05-07"/>
+    <cosponsor thomas_id="02020" joined="2014-05-07"/>
+    <cosponsor thomas_id="01640" joined="2014-05-07"/>
+    <cosponsor thomas_id="00636" joined="2014-05-07"/>
+    <cosponsor thomas_id="01792" joined="2014-05-07"/>
+    <cosponsor thomas_id="02161" joined="2014-05-07"/>
+    <cosponsor thomas_id="01688" joined="2014-05-07"/>
+    <cosponsor thomas_id="02115" joined="2014-05-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-07" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="3121"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Income tax deductions"/>
+  </subjects>
+  <amendments/>
+  <summary>5/7/2014--Introduced.
+Tax Free Health Insurance Act of 2014 - Amends the Internal Revenue Code to allow an individual taxpayer a deduction from gross income of insurance premiums paid for the health care coverage of the taxpayer and the taxpayer's spouse and dependents. Makes such deduction available to taxpayers who do not otherwise itemize their deductions.</summary>
+</bill>

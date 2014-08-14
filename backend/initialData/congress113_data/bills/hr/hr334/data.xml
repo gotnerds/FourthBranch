@@ -1,0 +1,105 @@
+<bill session="113" type="h" number="334" updated="2014-08-14T12:53:34-04:00">
+  <state datetime="2013-01-22">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-22"/>
+  </status>
+  <introduced datetime="2013-01-22"/>
+  <titles>
+    <title type="short" as="introduced">Keystone For a Secure Tomorrow Act</title>
+    <title type="official" as="introduced">To approve the Keystone XL pipeline project permit.</title>
+  </titles>
+  <sponsor thomas_id="01802"/>
+  <cosponsors>
+    <cosponsor thomas_id="02054" joined="2013-04-09"/>
+    <cosponsor thomas_id="00062" joined="2013-01-23"/>
+    <cosponsor thomas_id="02063" joined="2013-02-12"/>
+    <cosponsor thomas_id="01748" joined="2013-01-22"/>
+    <cosponsor thomas_id="01987" joined="2013-01-23"/>
+    <cosponsor thomas_id="01752" joined="2013-03-20"/>
+    <cosponsor thomas_id="00186" joined="2013-01-22"/>
+    <cosponsor thomas_id="01956" joined="2013-01-23"/>
+    <cosponsor thomas_id="01805" joined="2013-01-22"/>
+    <cosponsor thomas_id="02144" joined="2013-02-12"/>
+    <cosponsor thomas_id="01670" joined="2013-01-22"/>
+    <cosponsor thomas_id="02062" joined="2013-01-29"/>
+    <cosponsor thomas_id="02057" joined="2013-01-22"/>
+    <cosponsor thomas_id="02067" joined="2013-01-22"/>
+    <cosponsor thomas_id="02064" joined="2013-01-23"/>
+    <cosponsor thomas_id="01683" joined="2013-04-09"/>
+    <cosponsor thomas_id="01707" joined="2013-02-12"/>
+    <cosponsor thomas_id="01801" joined="2013-01-23"/>
+    <cosponsor thomas_id="00446" joined="2013-02-06"/>
+    <cosponsor thomas_id="01487" joined="2013-01-29"/>
+    <cosponsor thomas_id="00484" joined="2013-01-22"/>
+    <cosponsor thomas_id="02032" joined="2013-04-09"/>
+    <cosponsor thomas_id="02028" joined="2013-02-05"/>
+    <cosponsor thomas_id="00603" joined="2013-02-06"/>
+    <cosponsor thomas_id="00612" joined="2013-01-29"/>
+    <cosponsor thomas_id="01724" joined="2013-01-22"/>
+    <cosponsor thomas_id="02033" joined="2013-02-06"/>
+    <cosponsor thomas_id="00711" joined="2013-02-13"/>
+    <cosponsor thomas_id="01804" joined="2013-02-15"/>
+    <cosponsor thomas_id="00800" joined="2013-02-25"/>
+    <cosponsor thomas_id="01731" joined="2013-01-22"/>
+    <cosponsor thomas_id="01584" joined="2013-02-15"/>
+    <cosponsor thomas_id="01758" joined="2013-01-23"/>
+    <cosponsor thomas_id="02118" joined="2013-02-04"/>
+    <cosponsor thomas_id="01525" joined="2013-01-23"/>
+    <cosponsor thomas_id="02168" joined="2013-01-29"/>
+    <cosponsor thomas_id="02047" joined="2013-03-05"/>
+    <cosponsor thomas_id="01114" joined="2013-01-29"/>
+    <cosponsor thomas_id="02137" joined="2013-02-25"/>
+    <cosponsor thomas_id="02161" joined="2013-01-22"/>
+    <cosponsor thomas_id="01779" joined="2013-04-09"/>
+    <cosponsor thomas_id="01255" joined="2013-03-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-22" state="REFERRED">
+      <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on Energy and Commerce, and Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-01-22">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2013-01-22">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-01-22">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2013-01-23">
+      <text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text>
+    </action>
+    <action datetime="2013-01-25">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+    </action>
+    <action datetime="2013-01-28">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+    <committee subcommittee="Railroads, Pipelines, and Hazardous Materials" code="HSPW14" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Energy and Power" code="HSIF03" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee subcommittee="Public Lands and Environmental Regulation" code="HSII10" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Canada"/>
+    <term name="Congressional oversight"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Licensing and registrations"/>
+    <term name="Nebraska"/>
+    <term name="Oil and gas"/>
+    <term name="Pipelines"/>
+    <term name="State and local government operations"/>
+    <term name="Water quality"/>
+    <term name="Watersheds"/>
+  </subjects>
+  <amendments/>
+  <summary>1/22/2013--Introduced.
+Keystone For a Secure Tomorrow Act - Approves a specified permit regarding certain energy-related facilities and land transportation crossings on the international boundaries of the United States for the Keystone XL pipeline project. Includes within such permit the Nebraska reroute evaluated in the Final Evaluation Report issued the Nebraska Department of Environmental Quality in January 2013. Prescribes permit requirements.</summary>
+</bill>

@@ -1,0 +1,94 @@
+<bill session="113" type="h" number="4903" updated="2014-08-14T13:33:17-04:00">
+  <state datetime="2014-06-19T17:22:00-04:00">REPORTED</state>
+  <status>
+    <unknown datetime="2014-06-19T17:22:00-04:00"/>
+  </status>
+  <introduced datetime="2014-06-19"/>
+  <titles>
+    <title type="short" as="introduced">Department of Homeland Security Appropriations Act, 2015</title>
+    <title type="short" as="reported to house">Department of Homeland Security Appropriations Act, 2015</title>
+    <title type="official" as="introduced">Making appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2015, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01752"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-06-19T17:22:00-04:00">
+      <text>The House Committee on Appropriations reported an original measure, H. Rept. 113-481, by Mr. Carter.</text>
+    </action>
+    <calendar datetime="2014-06-19T17:22:00-04:00" state="REPORTED" calendar="Union" number="357">
+      <text>Placed on the Union Calendar, Calendar No. 357.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAP" name="House Appropriations" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="933"/>
+    <bill type="h" session="113" relation="unknown" number="2217"/>
+    <bill type="h" session="113" relation="unknown" number="3547"/>
+    <bill type="s" session="113" relation="unknown" number="2534"/>
+  </relatedbills>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Abortion"/>
+    <term name="Accounting and auditing"/>
+    <term name="Appropriations"/>
+    <term name="Aviation and airports"/>
+    <term name="Border security and unlawful immigration"/>
+    <term name="Business ethics"/>
+    <term name="Buy American requirements"/>
+    <term name="Canada"/>
+    <term name="Caribbean area"/>
+    <term name="Child safety and welfare"/>
+    <term name="Coast guard"/>
+    <term name="Computers and information technology"/>
+    <term name="Congressional oversight"/>
+    <term name="Corporate finance and management"/>
+    <term name="Correctional facilities and imprisonment"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Cuba"/>
+    <term name="Customs enforcement"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Detention of persons"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Drug trafficking and controlled substances"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal Emergency Management Agency (FEMA)"/>
+    <term name="Firearms and explosives"/>
+    <term name="Fires"/>
+    <term name="Floods and storm protection"/>
+    <term name="Food assistance and relief"/>
+    <term name="Foreign labor"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Homeland security"/>
+    <term name="Homelessness and emergency shelter"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="Latin America"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Law enforcement officers"/>
+    <term name="Marine and inland water transportation"/>
+    <term name="Mexico"/>
+    <term name="Military facilities and property"/>
+    <term name="New Jersey"/>
+    <term name="Nuclear weapons"/>
+    <term name="Pornography"/>
+    <term name="Prescription drugs"/>
+    <term name="Protection of officials"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Radioactive wastes and releases"/>
+    <term name="Religion"/>
+    <term name="Research administration and funding"/>
+    <term name="Research and development"/>
+    <term name="Tax administration and collection, taxpayers"/>
+    <term name="Terrorism"/>
+    <term name="Trade restrictions"/>
+    <term name="Transportation costs"/>
+    <term name="Transportation safety and security"/>
+    <term name="Travel and tourism"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+</bill>

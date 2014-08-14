@@ -1,0 +1,55 @@
+<bill session="113" type="s" number="1542" updated="2014-08-14T13:58:02-04:00">
+  <state datetime="2013-09-24">REFERRED</state>
+  <status>
+    <introduced datetime="2013-09-24"/>
+  </status>
+  <introduced datetime="2013-09-24"/>
+  <titles>
+    <title type="short" as="introduced">RAISE Act</title>
+    <title type="short" as="introduced">Rewarding Achievement and Incentivizing Successful Employees Act</title>
+    <title type="official" as="introduced">A bill to amend the National Labor Relations Act to permit employers to pay higher wages to their employees.</title>
+  </titles>
+  <sponsor thomas_id="02084"/>
+  <cosponsors>
+    <cosponsor thomas_id="01695" joined="2013-09-24"/>
+    <cosponsor thomas_id="01464" joined="2013-09-24"/>
+    <cosponsor thomas_id="00212" joined="2013-09-24"/>
+    <cosponsor thomas_id="01692" joined="2013-09-24"/>
+    <cosponsor thomas_id="01542" joined="2013-09-24"/>
+    <cosponsor thomas_id="01633" joined="2013-09-24"/>
+    <cosponsor thomas_id="00452" joined="2013-09-24"/>
+    <cosponsor thomas_id="01351" joined="2013-09-24"/>
+    <cosponsor thomas_id="00583" joined="2013-09-24"/>
+    <cosponsor thomas_id="01608" joined="2013-09-24"/>
+    <cosponsor thomas_id="02086" joined="2013-09-24"/>
+    <cosponsor thomas_id="01395" joined="2013-09-24"/>
+    <cosponsor thomas_id="01507" joined="2013-09-24"/>
+    <cosponsor thomas_id="01896" joined="2013-09-24"/>
+    <cosponsor thomas_id="00968" joined="2013-09-24"/>
+    <cosponsor thomas_id="02056" joined="2013-09-24"/>
+    <cosponsor thomas_id="01534" joined="2013-09-24"/>
+    <cosponsor thomas_id="01226" joined="2013-09-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-24" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="3154"/>
+    <bill type="h" session="113" relation="unknown" number="4304"/>
+    <bill type="h" session="113" relation="unknown" number="4304"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Employment discrimination and employee rights"/>
+    <term name="Labor-management relations"/>
+    <term name="Wages and earnings"/>
+  </subjects>
+  <amendments/>
+  <summary>9/24/2013--Introduced.
+Rewarding Achievement and Incentivizing Successful Employees Act or RAISE Act - Amends the National Labor Relations Act to declare that neither its prohibition against interference by an employer with employees' right to bargain collectively, nor the terms of a collective bargaining agreement entered into between employees and an employer after enactment of this Act, shall prohibit an employer from paying an employee higher wages, pay, or other compensation than the agreement provides for.</summary>
+</bill>

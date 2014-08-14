@@ -1,0 +1,73 @@
+<bill session="113" type="sc" number="7" updated="2014-08-14T13:44:25-04:00">
+  <state datetime="2013-03-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-13"/>
+  </status>
+  <introduced datetime="2013-03-13"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution expressing the sense of Congress regarding conditions for the United States becoming a signatory to the United Nations Arms Trade Treaty, or to any similar agreement on the arms trade.</title>
+  </titles>
+  <sponsor thomas_id="01507"/>
+  <cosponsors>
+    <cosponsor thomas_id="01695" joined="2013-03-13"/>
+    <cosponsor thomas_id="02075" joined="2013-03-13"/>
+    <cosponsor thomas_id="01881" joined="2013-03-13"/>
+    <cosponsor thomas_id="00066" joined="2013-04-08"/>
+    <cosponsor thomas_id="01687" joined="2013-03-13"/>
+    <cosponsor thomas_id="00153" joined="2013-03-13"/>
+    <cosponsor thomas_id="00188" joined="2013-03-13"/>
+    <cosponsor thomas_id="00212" joined="2013-03-13"/>
+    <cosponsor thomas_id="00213" joined="2013-03-19"/>
+    <cosponsor thomas_id="01692" joined="2013-03-13"/>
+    <cosponsor thomas_id="00250" joined="2013-03-13"/>
+    <cosponsor thomas_id="02175" joined="2013-03-13"/>
+    <cosponsor thomas_id="01542" joined="2013-03-13"/>
+    <cosponsor thomas_id="02179" joined="2013-03-18"/>
+    <cosponsor thomas_id="01633" joined="2013-03-13"/>
+    <cosponsor thomas_id="00457" joined="2013-03-13"/>
+    <cosponsor thomas_id="01351" joined="2013-03-13"/>
+    <cosponsor thomas_id="01863" joined="2013-03-13"/>
+    <cosponsor thomas_id="02079" joined="2013-03-13"/>
+    <cosponsor thomas_id="00583" joined="2013-03-13"/>
+    <cosponsor thomas_id="01608" joined="2013-03-13"/>
+    <cosponsor thomas_id="01899" joined="2013-03-13"/>
+    <cosponsor thomas_id="02080" joined="2013-04-08"/>
+    <cosponsor thomas_id="01983" joined="2013-03-18"/>
+    <cosponsor thomas_id="01395" joined="2014-02-25"/>
+    <cosponsor thomas_id="02082" joined="2013-03-13"/>
+    <cosponsor thomas_id="00924" joined="2013-03-13"/>
+    <cosponsor thomas_id="01896" joined="2013-03-13"/>
+    <cosponsor thomas_id="00968" joined="2013-03-13"/>
+    <cosponsor thomas_id="02084" joined="2013-03-13"/>
+    <cosponsor thomas_id="02056" joined="2013-04-08"/>
+    <cosponsor thomas_id="01548" joined="2013-03-19"/>
+    <cosponsor thomas_id="01534" joined="2013-03-13"/>
+    <cosponsor thomas_id="02085" joined="2013-03-13"/>
+    <cosponsor thomas_id="01609" joined="2013-03-13"/>
+    <cosponsor thomas_id="01226" joined="2013-03-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-13" state="REFERRED">
+      <text>Referred to the Committee on Foreign Relations.</text>
+      <reference ref="CR S1793-1794" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="hc" session="113" relation="identical" number="23"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Arms control and nonproliferation"/>
+    <term name="Congressional oversight"/>
+    <term name="Firearms and explosives"/>
+    <term name="International law and treaties"/>
+    <term name="Military assistance, sales, and agreements"/>
+    <term name="Trade agreements and negotiations"/>
+  </subjects>
+  <amendments/>
+  <summary>3/13/2013--Introduced.
+Expresses the sense of Congress that: (1) the President should not sign the Arms Trade Treaty, and that, if he transmits the Treaty with his signature to the Senate, the Senate should not ratify it; and (2) until the Treaty has been signed by the President, received the advice and consent of the Senate, and has been the subject of implementing legislation by Congress, no federal funds should be appropriated or authorized to implement the Treaty, or any similar agreement, or to conduct activities relevant to the Treaty, or any similar agreement.</summary>
+</bill>

@@ -1,0 +1,155 @@
+<bill session="113" type="hr" number="131" updated="2014-08-14T12:45:45-04:00">
+  <state datetime="2013-06-27">REPORTED</state>
+  <status>
+    <unknown datetime="2013-06-27"/>
+  </status>
+  <introduced datetime="2013-03-21"/>
+  <titles>
+    <title type="official" as="introduced">Concerning the ongoing conflict in the Democratic Republic of the Congo and the need for international efforts toward long-term peace, stability, and observance of human rights.</title>
+  </titles>
+  <sponsor thomas_id="01996"/>
+  <cosponsors>
+    <cosponsor thomas_id="02153" joined="2013-03-21"/>
+    <cosponsor thomas_id="00091" joined="2013-03-21"/>
+    <cosponsor thomas_id="01740" joined="2013-05-14"/>
+    <cosponsor thomas_id="00099" joined="2013-03-25"/>
+    <cosponsor thomas_id="02092" joined="2013-05-13"/>
+    <cosponsor thomas_id="01564" joined="2013-03-21"/>
+    <cosponsor thomas_id="01889" joined="2013-04-25"/>
+    <cosponsor thomas_id="01474" joined="2013-03-21"/>
+    <cosponsor thomas_id="02055" joined="2013-03-21"/>
+    <cosponsor thomas_id="01864" joined="2013-03-21"/>
+    <cosponsor thomas_id="01790" joined="2013-03-21"/>
+    <cosponsor thomas_id="00208" joined="2013-03-21"/>
+    <cosponsor thomas_id="01878" joined="2013-05-16"/>
+    <cosponsor thomas_id="01959" joined="2013-03-21"/>
+    <cosponsor thomas_id="01477" joined="2013-03-21"/>
+    <cosponsor thomas_id="00281" joined="2013-07-08"/>
+    <cosponsor thomas_id="01976" joined="2013-03-21"/>
+    <cosponsor thomas_id="01894" joined="2013-03-21"/>
+    <cosponsor thomas_id="01857" joined="2013-03-21"/>
+    <cosponsor thomas_id="00344" joined="2013-05-13"/>
+    <cosponsor thomas_id="01895" joined="2013-03-21"/>
+    <cosponsor thomas_id="01990" joined="2013-10-07"/>
+    <cosponsor thomas_id="02089" joined="2013-03-21"/>
+    <cosponsor thomas_id="00511" joined="2013-03-21"/>
+    <cosponsor thomas_id="01634" joined="2013-03-21"/>
+    <cosponsor thomas_id="00588" joined="2013-03-21"/>
+    <cosponsor thomas_id="00599" joined="2013-03-21"/>
+    <cosponsor thomas_id="01843" joined="2013-03-21"/>
+    <cosponsor thomas_id="02025" joined="2013-03-21"/>
+    <cosponsor thomas_id="02190" joined="2013-10-29"/>
+    <cosponsor thomas_id="01675" joined="2013-03-21"/>
+    <cosponsor thomas_id="01501" joined="2013-03-21"/>
+    <cosponsor thomas_id="00688" joined="2013-03-21"/>
+    <cosponsor thomas_id="00701" joined="2013-09-06"/>
+    <cosponsor thomas_id="02111" joined="2013-03-21"/>
+    <cosponsor thomas_id="02146" joined="2013-07-10"/>
+    <cosponsor thomas_id="00729" joined="2013-03-21"/>
+    <cosponsor thomas_id="00766" joined="2013-03-21"/>
+    <cosponsor thomas_id="01504" joined="2013-03-21"/>
+    <cosponsor thomas_id="02142" joined="2013-05-14"/>
+    <cosponsor thomas_id="01506" joined="2013-03-21"/>
+    <cosponsor thomas_id="00808" joined="2013-10-22"/>
+    <cosponsor thomas_id="01811" joined="2013-03-21"/>
+    <cosponsor thomas_id="00832" joined="2013-03-21"/>
+    <cosponsor thomas_id="00868" joined="2013-03-21"/>
+    <cosponsor thomas_id="02097" joined="2013-03-21"/>
+    <cosponsor thomas_id="02141" joined="2013-09-09"/>
+    <cosponsor thomas_id="00944" joined="2013-03-21"/>
+    <cosponsor thomas_id="00998" joined="2013-06-27"/>
+    <cosponsor thomas_id="01003" joined="2013-03-21"/>
+    <cosponsor thomas_id="01588" joined="2013-03-21"/>
+    <cosponsor thomas_id="01798" joined="2013-07-08"/>
+    <cosponsor thomas_id="01722" joined="2013-03-21"/>
+    <cosponsor thomas_id="01037" joined="2013-03-21"/>
+    <cosponsor thomas_id="01526" joined="2013-06-25"/>
+    <cosponsor thomas_id="02099" joined="2013-06-25"/>
+    <cosponsor thomas_id="01818" joined="2013-03-21"/>
+    <cosponsor thomas_id="01528" joined="2013-03-21"/>
+    <cosponsor thomas_id="01071" joined="2013-03-21"/>
+    <cosponsor thomas_id="01890" joined="2013-03-21"/>
+    <cosponsor thomas_id="01114" joined="2013-05-16"/>
+    <cosponsor thomas_id="02110" joined="2013-03-21"/>
+    <cosponsor thomas_id="01151" joined="2013-03-21"/>
+    <cosponsor thomas_id="01729" joined="2013-07-08"/>
+    <cosponsor thomas_id="02112" joined="2013-03-21"/>
+    <cosponsor thomas_id="02166" joined="2013-03-21"/>
+    <cosponsor thomas_id="01205" joined="2013-03-21"/>
+    <cosponsor thomas_id="01207" joined="2013-03-21"/>
+    <cosponsor thomas_id="02161" joined="2013-05-15"/>
+    <cosponsor thomas_id="01879" joined="2013-06-25"/>
+    <cosponsor thomas_id="02004" joined="2013-03-21"/>
+    <cosponsor thomas_id="01238" joined="2013-05-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-21" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2013-05-06">
+      <text>Referred to the Subcommittee on Africa, Global Health, Global Human Rights and International Organizations.</text>
+    </action>
+    <action datetime="2013-05-15">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2013-05-15">
+      <text>Forwarded by Subcommittee to Full Committee in the Nature of a Substitute (Amended) by Unanimous Consent .</text>
+    </action>
+    <action datetime="2013-06-27">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2013-06-27" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral, Markup, In Committee"/>
+    <committee subcommittee="Africa, Global Health, Global Human Rights and International Organizations" code="HSFA16" name="House Foreign Affairs" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Africa"/>
+    <term name="Child safety and welfare"/>
+    <term name="Conflicts and wars"/>
+    <term name="Congressional tributes"/>
+    <term name="Crimes against children"/>
+    <term name="Crimes against women"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Democratic Republic of the Congo"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Federal officials"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Human rights"/>
+    <term name="International law and treaties"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Reconstruction and stabilization"/>
+    <term name="Rwanda"/>
+    <term name="Sex offenses"/>
+    <term name="Smuggling and trafficking"/>
+    <term name="Sovereignty, recognition, national governance and status"/>
+    <term name="United Nations"/>
+    <term name="Violent crime"/>
+    <term name="War crimes, genocide, crimes against humanity"/>
+    <term name="Youth employment and child labor"/>
+  </subjects>
+  <amendments/>
+  <summary>3/21/2013--Introduced.
+Asserts that the region's leaders and the international community should break the cycle of violence in the Democratic Republic of the Congo and surrounding region.
+
+ Calls on: (1) the signatories of the February 24, 2013, Peace, Security and Cooperation Framework for the Democratic Republic of the Congo and the Region to abide by the Framework's provisions; and (2) governments of the Great Lakes region of Africa to respect the national security and territorial integrity of the Democratic Republic of the Congo.
+
+ Recognizes efforts by the Democratic Republic of the Congo to end child recruitment into the armed forces and demands the cessation of militia recruitment and exploitation of children.
+
+Calls on the Obama Administration to: (1) mobilize a comprehensive response to prevent further deterioration of regional peace and stability and to ensure that humanitarian assistance be provided to populations in need, and (2) develop actionable recommendations to ensure accountability for violations of international humanitarian law and human rights abuses.
+
+Acknowledges the good work of the United States Special Advisor on the Great Lakes and the Democratic Republic of the Congo.
+
+Calls on all nations to increase cooperation to stop the trade of illegal goods that fuels violence in the Democratic Republic of the Congo.
+
+Urges the Democratic Republic of the Congo to investigate and prosecute those who have committed war crimes, crimes against humanity, and violations of international humanitarian law and human rights.
+
+Acknowledges the appointment by the United Nations (U.N.) of the Special Envoy for the Great Lakes region of Africa.
+
+Urges the U.N. Security Council to lead efforts to strengthen the United Nations Organization Stabilization Mission in the Democratic Republic of the Congo (MONUSCO).</summary>
+</bill>

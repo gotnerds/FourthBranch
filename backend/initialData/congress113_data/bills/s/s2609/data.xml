@@ -1,0 +1,52 @@
+<bill session="113" type="s" number="2609" updated="2014-08-14T14:07:02-04:00">
+  <state datetime="2014-07-16">REPORTED</state>
+  <status>
+    <unknown datetime="2014-07-16"/>
+  </status>
+  <introduced datetime="2014-07-15"/>
+  <titles>
+    <title type="short" as="introduced">Marketplace and Internet Tax Fairness Act</title>
+    <title type="official" as="introduced">A bill to restore States' sovereign rights to enforce State and local sales and use tax laws, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01542"/>
+  <cosponsors>
+    <cosponsor thomas_id="01695" joined="2014-07-15"/>
+    <cosponsor thomas_id="01464" joined="2014-07-16"/>
+    <cosponsor thomas_id="00174" joined="2014-07-16"/>
+    <cosponsor thomas_id="01541" joined="2014-07-15"/>
+    <cosponsor thomas_id="00326" joined="2014-07-15"/>
+    <cosponsor thomas_id="01969" joined="2014-07-16"/>
+    <cosponsor thomas_id="02174" joined="2014-07-15"/>
+    <cosponsor thomas_id="00604" joined="2014-07-16"/>
+    <cosponsor thomas_id="01826" joined="2014-07-16"/>
+    <cosponsor thomas_id="01546" joined="2014-07-16"/>
+    <cosponsor thomas_id="01983" joined="2014-07-31"/>
+    <cosponsor thomas_id="01701" joined="2014-07-15"/>
+    <cosponsor thomas_id="00949" joined="2014-07-16"/>
+    <cosponsor thomas_id="01823" joined="2014-07-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-15">
+      <text>Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+    </action>
+    <calendar datetime="2014-07-16" state="REPORTED" calendar="Senate Legislative" under="General Orders" number="467">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 467.</text>
+    </calendar>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="684"/>
+    <bill type="s" session="113" relation="unknown" number="336"/>
+    <bill type="s" session="113" relation="unknown" number="743"/>
+  </relatedbills>
+  <subjects/>
+  <amendments>
+    <amendment number="s3560"/>
+    <amendment number="s3561"/>
+    <amendment number="s3562"/>
+  </amendments>
+  <summary>7/15/2014--Introduced.
+Marketplace and Internet Tax Fairness Act - Authorizes each member state under the Streamlined Sales and Use Tax Agreement (the multistate agreement for the administration and collection of sales and use taxes adopted on November 12, 2002) to require all sellers not qualifying for a small-seller exception (applicable to sellers with annual gross receipts in total U.S. remote sales not exceeding $1 million) to collect and remit sales and use taxes with respect to remote sales under provisions of that Agreement, but only if changes to such Agreement made after the enactment of this Act are not in conflict with the minimum simplification requirements of this Act (providing for a single state entity for all tax administration, audits, and returns of remote sales sourced to the state). Defines "remote sale" as a sale of goods or services into a state in which the seller would not legally be required to pay, collect, or remit state or local sales and use taxes unless provided by this Act.
+
+Amends the Internet Tax Freedom Act to extend until November 1, 2024: (1) the ban on state and local taxation of Internet access and on multiple or discriminatory taxes on electronic commerce, and (2) the exemption from such ban for states that generally imposed and actually enforced a tax on internet access prior to October 1, 1998.</summary>
+</bill>

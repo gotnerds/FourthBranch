@@ -1,0 +1,126 @@
+<bill session="113" type="h" number="924" updated="2014-08-14T12:58:34-04:00">
+  <state datetime="2013-02-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-28"/>
+  </status>
+  <introduced datetime="2013-02-28"/>
+  <titles>
+    <title type="short" as="introduced">Incentivizing Offshore Wind Power Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide for an investment tax credit related to the production of electricity from offshore wind.</title>
+  </titles>
+  <sponsor thomas_id="01510"/>
+  <cosponsors>
+    <cosponsor thomas_id="00021" joined="2013-05-03"/>
+    <cosponsor thomas_id="02153" joined="2013-06-17"/>
+    <cosponsor thomas_id="00099" joined="2013-03-18"/>
+    <cosponsor thomas_id="01723" joined="2013-03-06"/>
+    <cosponsor thomas_id="02106" joined="2013-12-05"/>
+    <cosponsor thomas_id="01471" joined="2013-04-23"/>
+    <cosponsor thomas_id="01564" joined="2013-05-03"/>
+    <cosponsor thomas_id="01999" joined="2013-02-28"/>
+    <cosponsor thomas_id="02159" joined="2013-07-10"/>
+    <cosponsor thomas_id="01474" joined="2013-09-16"/>
+    <cosponsor thomas_id="01970" joined="2013-03-14"/>
+    <cosponsor thomas_id="02055" joined="2013-04-09"/>
+    <cosponsor thomas_id="02196" joined="2014-03-26"/>
+    <cosponsor thomas_id="01864" joined="2013-03-14"/>
+    <cosponsor thomas_id="01959" joined="2013-04-18"/>
+    <cosponsor thomas_id="00229" joined="2013-07-08"/>
+    <cosponsor thomas_id="02133" joined="2013-05-13"/>
+    <cosponsor thomas_id="02096" joined="2013-09-25"/>
+    <cosponsor thomas_id="00299" joined="2013-05-24"/>
+    <cosponsor thomas_id="01894" joined="2013-07-30"/>
+    <cosponsor thomas_id="01857" joined="2013-04-09"/>
+    <cosponsor thomas_id="00355" joined="2013-11-20"/>
+    <cosponsor thomas_id="00371" joined="2013-05-03"/>
+    <cosponsor thomas_id="01895" joined="2013-05-14"/>
+    <cosponsor thomas_id="02120" joined="2013-12-04"/>
+    <cosponsor thomas_id="01708" joined="2013-04-25"/>
+    <cosponsor thomas_id="02041" joined="2013-06-04"/>
+    <cosponsor thomas_id="02010" joined="2013-06-27"/>
+    <cosponsor thomas_id="00511" joined="2013-05-14"/>
+    <cosponsor thomas_id="01913" joined="2013-05-24"/>
+    <cosponsor thomas_id="01580" joined="2013-03-19"/>
+    <cosponsor thomas_id="01634" joined="2013-03-14"/>
+    <cosponsor thomas_id="02101" joined="2013-04-23"/>
+    <cosponsor thomas_id="01663" joined="2013-04-12"/>
+    <cosponsor thomas_id="00616" joined="2013-04-09"/>
+    <cosponsor thomas_id="02025" joined="2013-03-15"/>
+    <cosponsor thomas_id="02172" joined="2013-08-02"/>
+    <cosponsor thomas_id="02169" joined="2013-08-02"/>
+    <cosponsor thomas_id="01498" joined="2013-04-11"/>
+    <cosponsor thomas_id="02145" joined="2013-09-18"/>
+    <cosponsor thomas_id="01668" joined="2013-03-14"/>
+    <cosponsor thomas_id="01501" joined="2013-03-14"/>
+    <cosponsor thomas_id="00699" joined="2013-02-28"/>
+    <cosponsor thomas_id="02111" joined="2013-12-04"/>
+    <cosponsor thomas_id="01939" joined="2013-07-30"/>
+    <cosponsor thomas_id="01686" joined="2013-08-02"/>
+    <cosponsor thomas_id="00729" joined="2013-06-11"/>
+    <cosponsor thomas_id="00735" joined="2013-03-06"/>
+    <cosponsor thomas_id="01653" joined="2013-05-17"/>
+    <cosponsor thomas_id="00766" joined="2013-06-11"/>
+    <cosponsor thomas_id="01504" joined="2013-06-04"/>
+    <cosponsor thomas_id="01505" joined="2013-04-09"/>
+    <cosponsor thomas_id="01506" joined="2014-01-28"/>
+    <cosponsor thomas_id="02148" joined="2013-05-06"/>
+    <cosponsor thomas_id="01730" joined="2013-03-14"/>
+    <cosponsor thomas_id="01811" joined="2013-03-14"/>
+    <cosponsor thomas_id="00832" joined="2013-03-06"/>
+    <cosponsor thomas_id="00854" joined="2013-07-10"/>
+    <cosponsor thomas_id="00868" joined="2013-03-06"/>
+    <cosponsor thomas_id="00887" joined="2013-05-24"/>
+    <cosponsor thomas_id="02097" joined="2013-07-25"/>
+    <cosponsor thomas_id="01929" joined="2013-04-12"/>
+    <cosponsor thomas_id="01927" joined="2013-04-11"/>
+    <cosponsor thomas_id="02171" joined="2013-05-06"/>
+    <cosponsor thomas_id="01910" joined="2013-12-12"/>
+    <cosponsor thomas_id="00930" joined="2013-03-14"/>
+    <cosponsor thomas_id="01967" joined="2013-05-24"/>
+    <cosponsor thomas_id="00944" joined="2013-06-14"/>
+    <cosponsor thomas_id="01756" joined="2013-05-13"/>
+    <cosponsor thomas_id="01757" joined="2013-09-16"/>
+    <cosponsor thomas_id="01854" joined="2013-04-09"/>
+    <cosponsor thomas_id="01588" joined="2013-03-15"/>
+    <cosponsor thomas_id="01635" joined="2013-05-13"/>
+    <cosponsor thomas_id="01798" joined="2013-06-14"/>
+    <cosponsor thomas_id="01037" joined="2013-03-14"/>
+    <cosponsor thomas_id="01988" joined="2013-04-09"/>
+    <cosponsor thomas_id="01861" joined="2013-06-04"/>
+    <cosponsor thomas_id="01818" joined="2013-04-23"/>
+    <cosponsor thomas_id="02104" joined="2013-05-13"/>
+    <cosponsor thomas_id="02110" joined="2013-11-14"/>
+    <cosponsor thomas_id="01593" joined="2013-05-24"/>
+    <cosponsor thomas_id="01535" joined="2013-09-18"/>
+    <cosponsor thomas_id="01942" joined="2013-04-30"/>
+    <cosponsor thomas_id="01884" joined="2013-03-18"/>
+    <cosponsor thomas_id="01729" joined="2013-04-15"/>
+    <cosponsor thomas_id="01777" joined="2013-10-28"/>
+    <cosponsor thomas_id="01209" joined="2013-05-03"/>
+    <cosponsor thomas_id="02004" joined="2013-09-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-28" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="401"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Business investment and capital"/>
+    <term name="Great Lakes"/>
+    <term name="Income tax credits"/>
+    <term name="Marine and coastal resources, fisheries"/>
+  </subjects>
+  <amendments/>
+  <summary>2/28/2013--Introduced.
+Incentivizing Offshore Wind Power Act - Amends the Internal Revenue Code to: (1) &#160;allow a 30% tax credit for investment in a qualifying offshore wind facility (an offshore facility using wind to produce electricity), and (2)&#160;direct the Secretary of the Treasury to establish a qualifying credit for offshore wind facilities program to consider and award certifications for investments eligible for such a credit to qualifying offshore wind facility sponsors.
+
+Requires the Secretary to review credits allocated under this Act periodically and authorizes the Secretary to make additional allocations and reallocations of such credits upon determining that: (1) the limit on the total amount of megawatt capacity for offshore facilities with respect to which credits may be allocated under the program has not been attained, or (2) scheduled placed-in-service dates of previously certified facilities have been significantly delayed and the applicant will not meet the required timeline.</summary>
+</bill>

@@ -1,0 +1,201 @@
+<bill session="113" type="h" number="792" updated="2014-08-14T12:57:28-04:00">
+  <state datetime="2013-02-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-15"/>
+  </status>
+  <introduced datetime="2013-02-15"/>
+  <titles>
+    <title type="short" as="introduced">Traditional Cigar Manufacturing and Small Business Jobs Preservation Act of 2013</title>
+    <title type="official" as="introduced">To amend the Federal Food, Drug, and Cosmetic Act to clarify the Food and Drug Administration's jurisdiction over certain tobacco products, and to protect jobs and small businesses involved in the sale, manufacturing and distribution of traditional and premium cigars.</title>
+  </titles>
+  <sponsor thomas_id="01915"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2013-04-26"/>
+    <cosponsor thomas_id="01858" joined="2013-10-16"/>
+    <cosponsor thomas_id="02054" joined="2013-07-16"/>
+    <cosponsor thomas_id="02131" joined="2013-04-09"/>
+    <cosponsor thomas_id="02027" joined="2013-04-09"/>
+    <cosponsor thomas_id="02135" joined="2013-04-18"/>
+    <cosponsor thomas_id="01838" joined="2013-07-23"/>
+    <cosponsor thomas_id="00091" joined="2013-05-16"/>
+    <cosponsor thomas_id="01740" joined="2014-02-18"/>
+    <cosponsor thomas_id="02063" joined="2013-10-23"/>
+    <cosponsor thomas_id="01748" joined="2013-02-27"/>
+    <cosponsor thomas_id="01723" joined="2013-03-14"/>
+    <cosponsor thomas_id="01469" joined="2013-06-19"/>
+    <cosponsor thomas_id="01845" joined="2013-02-25"/>
+    <cosponsor thomas_id="01840" joined="2013-02-15"/>
+    <cosponsor thomas_id="02197" joined="2014-03-04"/>
+    <cosponsor thomas_id="00165" joined="2013-03-18"/>
+    <cosponsor thomas_id="02107" joined="2013-06-03"/>
+    <cosponsor thomas_id="01752" joined="2013-05-15"/>
+    <cosponsor thomas_id="01839" joined="2013-02-15"/>
+    <cosponsor thomas_id="00186" joined="2013-04-09"/>
+    <cosponsor thomas_id="01654" joined="2013-04-17"/>
+    <cosponsor thomas_id="00211" joined="2013-04-10"/>
+    <cosponsor thomas_id="01912" joined="2013-02-26"/>
+    <cosponsor thomas_id="01742" joined="2013-02-15"/>
+    <cosponsor thomas_id="02151" joined="2013-04-10"/>
+    <cosponsor thomas_id="02121" joined="2013-06-11"/>
+    <cosponsor thomas_id="01805" joined="2014-06-25"/>
+    <cosponsor thomas_id="01774" joined="2013-02-15"/>
+    <cosponsor thomas_id="02098" joined="2014-01-28"/>
+    <cosponsor thomas_id="01836" joined="2014-02-27"/>
+    <cosponsor thomas_id="02144" joined="2013-12-11"/>
+    <cosponsor thomas_id="01989" joined="2013-07-30"/>
+    <cosponsor thomas_id="01807" joined="2014-06-18"/>
+    <cosponsor thomas_id="02138" joined="2013-04-24"/>
+    <cosponsor thomas_id="02126" joined="2013-07-30"/>
+    <cosponsor thomas_id="01995" joined="2013-02-15"/>
+    <cosponsor thomas_id="02062" joined="2013-06-11"/>
+    <cosponsor thomas_id="01717" joined="2013-03-14"/>
+    <cosponsor thomas_id="02072" joined="2014-02-27"/>
+    <cosponsor thomas_id="02057" joined="2013-06-20"/>
+    <cosponsor thomas_id="02036" joined="2013-03-25"/>
+    <cosponsor thomas_id="02067" joined="2013-12-11"/>
+    <cosponsor thomas_id="02064" joined="2013-06-19"/>
+    <cosponsor thomas_id="02061" joined="2013-04-26"/>
+    <cosponsor thomas_id="02065" joined="2013-12-11"/>
+    <cosponsor thomas_id="01791" joined="2013-03-15"/>
+    <cosponsor thomas_id="00414" joined="2013-05-06"/>
+    <cosponsor thomas_id="02120" joined="2013-06-11"/>
+    <cosponsor thomas_id="01998" joined="2013-03-14"/>
+    <cosponsor thomas_id="02049" joined="2013-06-19"/>
+    <cosponsor thomas_id="02043" joined="2013-09-10"/>
+    <cosponsor thomas_id="00446" joined="2013-07-09"/>
+    <cosponsor thomas_id="02058" joined="2013-08-01"/>
+    <cosponsor thomas_id="01656" joined="2013-02-15"/>
+    <cosponsor thomas_id="01979" joined="2013-05-23"/>
+    <cosponsor thomas_id="01914" joined="2013-02-25"/>
+    <cosponsor thomas_id="01990" joined="2014-02-25"/>
+    <cosponsor thomas_id="02070" joined="2013-02-27"/>
+    <cosponsor thomas_id="02041" joined="2013-11-12"/>
+    <cosponsor thomas_id="01922" joined="2013-03-18"/>
+    <cosponsor thomas_id="00484" joined="2013-09-12"/>
+    <cosponsor thomas_id="02010" joined="2014-07-30"/>
+    <cosponsor thomas_id="02026" joined="2013-05-08"/>
+    <cosponsor thomas_id="00511" joined="2013-02-15"/>
+    <cosponsor thomas_id="02040" joined="2013-02-26"/>
+    <cosponsor thomas_id="02143" joined="2013-03-05"/>
+    <cosponsor thomas_id="02147" joined="2013-05-22"/>
+    <cosponsor thomas_id="02140" joined="2013-05-24"/>
+    <cosponsor thomas_id="02020" joined="2013-04-09"/>
+    <cosponsor thomas_id="02028" joined="2013-04-09"/>
+    <cosponsor thomas_id="02015" joined="2014-04-29"/>
+    <cosponsor thomas_id="01909" joined="2013-02-25"/>
+    <cosponsor thomas_id="01640" joined="2013-04-30"/>
+    <cosponsor thomas_id="01921" joined="2013-04-23"/>
+    <cosponsor thomas_id="02199" joined="2014-04-08"/>
+    <cosponsor thomas_id="00612" joined="2013-02-26"/>
+    <cosponsor thomas_id="01868" joined="2013-07-22"/>
+    <cosponsor thomas_id="02051" joined="2013-06-20"/>
+    <cosponsor thomas_id="00635" joined="2013-05-08"/>
+    <cosponsor thomas_id="00636" joined="2013-05-13"/>
+    <cosponsor thomas_id="02014" joined="2013-05-24"/>
+    <cosponsor thomas_id="01733" joined="2013-02-15"/>
+    <cosponsor thomas_id="01834" joined="2013-09-09"/>
+    <cosponsor thomas_id="02033" joined="2013-04-23"/>
+    <cosponsor thomas_id="01931" joined="2013-05-06"/>
+    <cosponsor thomas_id="01960" joined="2014-02-25"/>
+    <cosponsor thomas_id="01806" joined="2014-03-04"/>
+    <cosponsor thomas_id="02053" joined="2013-10-23"/>
+    <cosponsor thomas_id="02195" joined="2014-07-25"/>
+    <cosponsor thomas_id="01908" joined="2014-03-11"/>
+    <cosponsor thomas_id="01792" joined="2013-04-15"/>
+    <cosponsor thomas_id="01505" joined="2013-03-20"/>
+    <cosponsor thomas_id="02142" joined="2013-03-14"/>
+    <cosponsor thomas_id="00800" joined="2013-03-14"/>
+    <cosponsor thomas_id="01731" joined="2013-08-02"/>
+    <cosponsor thomas_id="01685" joined="2014-03-26"/>
+    <cosponsor thomas_id="02156" joined="2013-05-15"/>
+    <cosponsor thomas_id="02059" joined="2013-06-28"/>
+    <cosponsor thomas_id="02117" joined="2013-06-19"/>
+    <cosponsor thomas_id="01744" joined="2014-02-27"/>
+    <cosponsor thomas_id="02001" joined="2013-03-05"/>
+    <cosponsor thomas_id="01710" joined="2014-03-18"/>
+    <cosponsor thomas_id="01974" joined="2013-04-12"/>
+    <cosponsor thomas_id="02035" joined="2013-05-08"/>
+    <cosponsor thomas_id="01510" joined="2013-06-28"/>
+    <cosponsor thomas_id="01738" joined="2014-03-12"/>
+    <cosponsor thomas_id="01835" joined="2014-03-04"/>
+    <cosponsor thomas_id="02157" joined="2013-09-09"/>
+    <cosponsor thomas_id="00910" joined="2013-06-19"/>
+    <cosponsor thomas_id="00912" joined="2014-02-25"/>
+    <cosponsor thomas_id="02141" joined="2013-02-26"/>
+    <cosponsor thomas_id="02022" joined="2013-06-11"/>
+    <cosponsor thomas_id="01778" joined="2013-05-22"/>
+    <cosponsor thomas_id="02118" joined="2013-04-09"/>
+    <cosponsor thomas_id="00940" joined="2013-02-15"/>
+    <cosponsor thomas_id="01982" joined="2013-03-25"/>
+    <cosponsor thomas_id="02073" joined="2013-07-09"/>
+    <cosponsor thomas_id="02160" joined="2013-08-02"/>
+    <cosponsor thomas_id="01954" joined="2013-03-14"/>
+    <cosponsor thomas_id="00977" joined="2013-03-05"/>
+    <cosponsor thomas_id="01651" joined="2013-04-24"/>
+    <cosponsor thomas_id="02017" joined="2013-04-09"/>
+    <cosponsor thomas_id="01916" joined="2013-10-23"/>
+    <cosponsor thomas_id="00985" joined="2013-07-16"/>
+    <cosponsor thomas_id="01848" joined="2013-07-19"/>
+    <cosponsor thomas_id="02003" joined="2013-02-28"/>
+    <cosponsor thomas_id="02158" joined="2013-12-11"/>
+    <cosponsor thomas_id="00998" joined="2014-04-29"/>
+    <cosponsor thomas_id="01728" joined="2014-07-16"/>
+    <cosponsor thomas_id="01522" joined="2013-09-12"/>
+    <cosponsor thomas_id="01892" joined="2013-09-10"/>
+    <cosponsor thomas_id="01950" joined="2013-04-11"/>
+    <cosponsor thomas_id="01994" joined="2014-07-16"/>
+    <cosponsor thomas_id="02009" joined="2013-05-08"/>
+    <cosponsor thomas_id="01041" joined="2013-03-14"/>
+    <cosponsor thomas_id="01525" joined="2013-06-19"/>
+    <cosponsor thomas_id="01527" joined="2013-12-05"/>
+    <cosponsor thomas_id="01681" joined="2013-04-18"/>
+    <cosponsor thomas_id="02191" joined="2013-09-27"/>
+    <cosponsor thomas_id="02000" joined="2014-04-03"/>
+    <cosponsor thomas_id="01114" joined="2013-02-25"/>
+    <cosponsor thomas_id="01981" joined="2013-12-10"/>
+    <cosponsor thomas_id="01566" joined="2013-04-11"/>
+    <cosponsor thomas_id="01952" joined="2013-04-09"/>
+    <cosponsor thomas_id="01997" joined="2013-05-08"/>
+    <cosponsor thomas_id="01940" joined="2013-04-09"/>
+    <cosponsor thomas_id="01741" joined="2013-05-21"/>
+    <cosponsor thomas_id="01177" joined="2013-06-20"/>
+    <cosponsor thomas_id="02105" joined="2013-02-15"/>
+    <cosponsor thomas_id="01855" joined="2013-02-15"/>
+    <cosponsor thomas_id="01596" joined="2013-12-11"/>
+    <cosponsor thomas_id="01779" joined="2013-02-15"/>
+    <cosponsor thomas_id="02165" joined="2013-07-30"/>
+    <cosponsor thomas_id="02004" joined="2013-04-12"/>
+    <cosponsor thomas_id="01688" joined="2013-09-09"/>
+    <cosponsor thomas_id="01886" joined="2013-04-11"/>
+    <cosponsor thomas_id="01991" joined="2013-02-15"/>
+    <cosponsor thomas_id="02021" joined="2013-03-14"/>
+    <cosponsor thomas_id="02115" joined="2013-04-26"/>
+    <cosponsor thomas_id="01256" joined="2013-05-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-15" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-02-15">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="772"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Food and Drug Administration (FDA)"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+  <summary>2/15/2013--Introduced.
+Traditional Cigar Manufacturing and Small Business Jobs Preservation Act of 2013 - Amends the Federal Food, Drug, and Cosmetic Act to exempt traditional large and premium cigars from regulation by the Food and Drug Administration (FDA) and from user fees assessed on tobacco products by the FDA.</summary>
+</bill>

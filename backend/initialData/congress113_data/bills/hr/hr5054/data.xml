@@ -1,0 +1,30 @@
+<bill session="113" type="h" number="5054" updated="2014-08-14T13:34:37-04:00">
+  <state datetime="2014-07-10">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-10"/>
+  </status>
+  <introduced datetime="2014-07-10"/>
+  <titles>
+    <title type="short" as="introduced">Veterans' Whistleblower and Patient Protection Act of 2014</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to establish within the Department of Veterans Affairs an Office of Whistleblower and Patient Protection.</title>
+  </titles>
+  <sponsor thomas_id="01907"/>
+  <cosponsors>
+    <cosponsor thomas_id="00299" joined="2014-07-17"/>
+    <cosponsor thomas_id="02164" joined="2014-07-31"/>
+    <cosponsor thomas_id="00612" joined="2014-07-29"/>
+    <cosponsor thomas_id="02145" joined="2014-07-17"/>
+    <cosponsor thomas_id="02109" joined="2014-07-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-10" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

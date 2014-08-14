@@ -1,0 +1,94 @@
+<bill session="113" type="h" number="3921" updated="2014-08-14T13:24:53-04:00">
+  <state datetime="2014-01-16">REFERRED</state>
+  <status>
+    <introduced datetime="2014-01-16"/>
+  </status>
+  <introduced datetime="2014-01-16"/>
+  <titles>
+    <title type="short" as="introduced">IN STATE Act of 2014</title>
+    <title type="short" as="introduced">Investing in States to Achieve Tuition Equality for Dreamers Act of 2014</title>
+    <title type="official" as="introduced">To incentivize State support for postsecondary education and to promote increased access and affordability for higher education for students, including Dreamer students.</title>
+  </titles>
+  <sponsor thomas_id="01910"/>
+  <cosponsors>
+    <cosponsor thomas_id="02107" joined="2014-02-25"/>
+    <cosponsor thomas_id="02159" joined="2014-05-01"/>
+    <cosponsor thomas_id="01839" joined="2014-02-04"/>
+    <cosponsor thomas_id="02163" joined="2014-01-16"/>
+    <cosponsor thomas_id="02133" joined="2014-02-11"/>
+    <cosponsor thomas_id="02096" joined="2014-01-16"/>
+    <cosponsor thomas_id="01857" joined="2014-02-05"/>
+    <cosponsor thomas_id="02120" joined="2014-02-11"/>
+    <cosponsor thomas_id="01708" joined="2014-02-04"/>
+    <cosponsor thomas_id="00478" joined="2014-02-11"/>
+    <cosponsor thomas_id="02170" joined="2014-02-25"/>
+    <cosponsor thomas_id="01490" joined="2014-01-27"/>
+    <cosponsor thomas_id="01634" joined="2014-01-31"/>
+    <cosponsor thomas_id="00588" joined="2014-02-06"/>
+    <cosponsor thomas_id="01501" joined="2014-01-28"/>
+    <cosponsor thomas_id="00688" joined="2014-02-27"/>
+    <cosponsor thomas_id="02111" joined="2014-02-05"/>
+    <cosponsor thomas_id="00766" joined="2014-06-18"/>
+    <cosponsor thomas_id="01506" joined="2014-01-28"/>
+    <cosponsor thomas_id="01811" joined="2014-02-25"/>
+    <cosponsor thomas_id="02162" joined="2014-02-27"/>
+    <cosponsor thomas_id="01635" joined="2014-04-07"/>
+    <cosponsor thomas_id="01940" joined="2014-01-28"/>
+    <cosponsor thomas_id="02112" joined="2014-01-28"/>
+    <cosponsor thomas_id="02166" joined="2014-02-06"/>
+    <cosponsor thomas_id="02004" joined="2014-02-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-01-16" state="REFERRED">
+      <text>Referred to the Committee on Education and the Workforce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-01-16">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2014-01-16">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2014-03-20">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1943"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Administrative remedies"/>
+    <term name="Citizenship and naturalization"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Education programs funding"/>
+    <term name="Higher education"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Student aid and college costs"/>
+    <term name="User charges and fees"/>
+    <term name="Visas and passports"/>
+  </subjects>
+  <amendments/>
+  <summary>1/16/2014--Introduced.
+Investing in States to Achieve Tuition Equality for Dreamers Act of 2014 or the IN STATE Act of 2014 - Amends title IV (Student Assistance) of the Higher Education Act of 1965 to direct the Secretary of Education to allot grants to states to offer Dreamer students in-state tuition and expand their access to in-state financial aid.
+
+Defines a "Dreamer student" as an individual who:
+
+ was under age 16 upon entering this country; has provided a list of each secondary school the individual attended in this country; and has earned a high school diploma or certain similar credentials or is scheduled to complete the requirements for such a credential before the next academic year begins; has acquired a degree from an institution of higher education or has successfully completed at least 2 years of a program for a bachelor's or higher degree in this country; or has served honorably in the uniformed services for at least 4 years. Directs the Secretary to provide for a hardship exception to either or both of the first two of such requirements.
+
+Requires grant applicants to assure the Secretary that they: (1) have made significant progress in establishing a preschool through postsecondary education (P-16) longitudinal data system; and (2) will not discriminate against Dreamer students in awarding student aid or determining who is eligible for in-state tuition, if the student would otherwise be eligible for in-state financial aid as a state resident.
+
+Allots grants to each state based on its proportion of resident Dreamer students who are enrolled at least half-time in postsecondary education.
+
+Amends the Immigration and Nationality Act to direct the Secretary of Homeland Security (DHS) to collect a specified fee from recipients of F-1 visas, provided to nonimmigrant full-time students.
+
+Eliminates the prohibition on states offering unlawful aliens postsecondary benefits on the basis of their residence in the state that are more generous than those offered citizens or naturals of this country, without regard to their state residence.
+
+Allows individuals who have served honorably in the U.S. Armed Forces to be naturalized without having been lawfully admitted to this country for permanent residence.</summary>
+</bill>

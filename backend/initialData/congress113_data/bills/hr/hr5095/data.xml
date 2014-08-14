@@ -1,0 +1,79 @@
+<bill session="113" type="h" number="5095" updated="2014-08-14T13:34:58-04:00">
+  <state datetime="2014-07-14">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-14"/>
+  </status>
+  <introduced datetime="2014-07-14"/>
+  <titles>
+    <title type="official" as="introduced">To mandate all Members, Delegates, and the Resident Commissioner of the House of Representatives to complete annual ethics training conducted by the Committee on Ethics.</title>
+  </titles>
+  <sponsor thomas_id="02055"/>
+  <cosponsors>
+    <cosponsor thomas_id="02131" joined="2014-07-24"/>
+    <cosponsor thomas_id="01780" joined="2014-07-22"/>
+    <cosponsor thomas_id="02129" joined="2014-07-22"/>
+    <cosponsor thomas_id="02106" joined="2014-07-17"/>
+    <cosponsor thomas_id="02127" joined="2014-07-17"/>
+    <cosponsor thomas_id="02159" joined="2014-07-24"/>
+    <cosponsor thomas_id="01774" joined="2014-07-22"/>
+    <cosponsor thomas_id="00279" joined="2014-07-17"/>
+    <cosponsor thomas_id="02133" joined="2014-07-24"/>
+    <cosponsor thomas_id="02125" joined="2014-07-17"/>
+    <cosponsor thomas_id="00355" joined="2014-07-24"/>
+    <cosponsor thomas_id="02114" joined="2014-07-17"/>
+    <cosponsor thomas_id="00368" joined="2014-07-22"/>
+    <cosponsor thomas_id="00371" joined="2014-07-17"/>
+    <cosponsor thomas_id="01888" joined="2014-07-24"/>
+    <cosponsor thomas_id="02164" joined="2014-07-24"/>
+    <cosponsor thomas_id="02120" joined="2014-07-28"/>
+    <cosponsor thomas_id="01708" joined="2014-07-17"/>
+    <cosponsor thomas_id="02089" joined="2014-07-16"/>
+    <cosponsor thomas_id="01634" joined="2014-07-17"/>
+    <cosponsor thomas_id="02154" joined="2014-07-31"/>
+    <cosponsor thomas_id="00616" joined="2014-07-17"/>
+    <cosponsor thomas_id="02172" joined="2014-07-16"/>
+    <cosponsor thomas_id="01498" joined="2014-07-24"/>
+    <cosponsor thomas_id="01907" joined="2014-07-22"/>
+    <cosponsor thomas_id="02145" joined="2014-07-24"/>
+    <cosponsor thomas_id="01668" joined="2014-07-17"/>
+    <cosponsor thomas_id="01846" joined="2014-07-17"/>
+    <cosponsor thomas_id="02111" joined="2014-07-28"/>
+    <cosponsor thomas_id="00709" joined="2014-07-24"/>
+    <cosponsor thomas_id="02146" joined="2014-07-22"/>
+    <cosponsor thomas_id="00729" joined="2014-07-17"/>
+    <cosponsor thomas_id="02117" joined="2014-07-17"/>
+    <cosponsor thomas_id="01758" joined="2014-07-31"/>
+    <cosponsor thomas_id="00868" joined="2014-07-24"/>
+    <cosponsor thomas_id="01929" joined="2014-07-22"/>
+    <cosponsor thomas_id="02113" joined="2014-07-28"/>
+    <cosponsor thomas_id="02171" joined="2014-07-31"/>
+    <cosponsor thomas_id="01967" joined="2014-07-24"/>
+    <cosponsor thomas_id="02073" joined="2014-07-22"/>
+    <cosponsor thomas_id="02068" joined="2014-07-14"/>
+    <cosponsor thomas_id="01728" joined="2014-07-22"/>
+    <cosponsor thomas_id="01588" joined="2014-07-24"/>
+    <cosponsor thomas_id="02124" joined="2014-07-28"/>
+    <cosponsor thomas_id="01798" joined="2014-07-24"/>
+    <cosponsor thomas_id="01988" joined="2014-07-16"/>
+    <cosponsor thomas_id="01861" joined="2014-07-24"/>
+    <cosponsor thomas_id="02099" joined="2014-07-28"/>
+    <cosponsor thomas_id="01069" joined="2014-07-28"/>
+    <cosponsor thomas_id="01890" joined="2014-07-17"/>
+    <cosponsor thomas_id="01535" joined="2014-07-22"/>
+    <cosponsor thomas_id="01884" joined="2014-07-17"/>
+    <cosponsor thomas_id="02112" joined="2014-07-17"/>
+    <cosponsor thomas_id="01856" joined="2014-07-17"/>
+    <cosponsor thomas_id="02004" joined="2014-07-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-14" state="REFERRED">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,169 @@
+<bill session="113" type="h" number="833" updated="2014-08-14T12:57:48-04:00">
+  <state datetime="2013-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-26"/>
+  </status>
+  <introduced datetime="2013-02-26"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 10, United States Code, to require that the Purple Heart occupy a position of precedence above the new Distinguished Warfare Medal.</title>
+  </titles>
+  <sponsor thomas_id="01909"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2013-03-13"/>
+    <cosponsor thomas_id="00021" joined="2013-03-19"/>
+    <cosponsor thomas_id="01858" joined="2013-03-05"/>
+    <cosponsor thomas_id="02131" joined="2013-04-18"/>
+    <cosponsor thomas_id="02135" joined="2013-03-14"/>
+    <cosponsor thomas_id="01753" joined="2013-03-12"/>
+    <cosponsor thomas_id="01740" joined="2013-03-12"/>
+    <cosponsor thomas_id="02155" joined="2013-03-06"/>
+    <cosponsor thomas_id="02129" joined="2013-05-08"/>
+    <cosponsor thomas_id="01840" joined="2013-03-12"/>
+    <cosponsor thomas_id="01751" joined="2013-03-25"/>
+    <cosponsor thomas_id="00165" joined="2013-02-27"/>
+    <cosponsor thomas_id="01816" joined="2013-03-14"/>
+    <cosponsor thomas_id="01676" joined="2013-03-13"/>
+    <cosponsor thomas_id="01752" joined="2013-03-12"/>
+    <cosponsor thomas_id="02159" joined="2013-09-12"/>
+    <cosponsor thomas_id="00186" joined="2013-04-16"/>
+    <cosponsor thomas_id="01912" joined="2013-02-27"/>
+    <cosponsor thomas_id="01742" joined="2013-03-04"/>
+    <cosponsor thomas_id="01959" joined="2013-03-05"/>
+    <cosponsor thomas_id="02103" joined="2013-03-04"/>
+    <cosponsor thomas_id="02098" joined="2013-04-09"/>
+    <cosponsor thomas_id="01836" joined="2013-03-12"/>
+    <cosponsor thomas_id="01989" joined="2013-03-05"/>
+    <cosponsor thomas_id="01670" joined="2013-03-18"/>
+    <cosponsor thomas_id="02138" joined="2013-03-15"/>
+    <cosponsor thomas_id="02126" joined="2013-03-12"/>
+    <cosponsor thomas_id="02116" joined="2013-03-13"/>
+    <cosponsor thomas_id="00299" joined="2013-03-15"/>
+    <cosponsor thomas_id="00316" joined="2013-03-12"/>
+    <cosponsor thomas_id="02036" joined="2013-03-12"/>
+    <cosponsor thomas_id="02114" joined="2013-04-09"/>
+    <cosponsor thomas_id="01924" joined="2013-03-04"/>
+    <cosponsor thomas_id="01683" joined="2013-03-18"/>
+    <cosponsor thomas_id="01888" joined="2013-03-18"/>
+    <cosponsor thomas_id="01707" joined="2013-03-04"/>
+    <cosponsor thomas_id="00414" joined="2013-03-12"/>
+    <cosponsor thomas_id="01737" joined="2013-03-25"/>
+    <cosponsor thomas_id="02049" joined="2013-03-12"/>
+    <cosponsor thomas_id="02043" joined="2013-03-05"/>
+    <cosponsor thomas_id="01992" joined="2013-03-13"/>
+    <cosponsor thomas_id="00462" joined="2013-03-06"/>
+    <cosponsor thomas_id="01990" joined="2013-03-12"/>
+    <cosponsor thomas_id="01708" joined="2013-03-13"/>
+    <cosponsor thomas_id="02041" joined="2013-02-27"/>
+    <cosponsor thomas_id="02040" joined="2013-02-26"/>
+    <cosponsor thomas_id="01580" joined="2013-03-18"/>
+    <cosponsor thomas_id="01634" joined="2013-03-19"/>
+    <cosponsor thomas_id="02028" joined="2013-03-25"/>
+    <cosponsor thomas_id="01640" joined="2013-03-12"/>
+    <cosponsor thomas_id="02046" joined="2013-03-15"/>
+    <cosponsor thomas_id="02169" joined="2013-04-09"/>
+    <cosponsor thomas_id="00636" joined="2013-03-14"/>
+    <cosponsor thomas_id="02014" joined="2013-02-26"/>
+    <cosponsor thomas_id="01733" joined="2013-03-12"/>
+    <cosponsor thomas_id="02145" joined="2013-03-13"/>
+    <cosponsor thomas_id="02011" joined="2013-03-18"/>
+    <cosponsor thomas_id="02100" joined="2013-03-14"/>
+    <cosponsor thomas_id="01834" joined="2013-03-04"/>
+    <cosponsor thomas_id="01936" joined="2013-03-15"/>
+    <cosponsor thomas_id="01668" joined="2013-03-12"/>
+    <cosponsor thomas_id="00666" joined="2013-03-15"/>
+    <cosponsor thomas_id="01885" joined="2013-03-06"/>
+    <cosponsor thomas_id="00699" joined="2013-03-12"/>
+    <cosponsor thomas_id="01846" joined="2013-03-25"/>
+    <cosponsor thomas_id="02033" joined="2013-03-12"/>
+    <cosponsor thomas_id="01960" joined="2013-04-09"/>
+    <cosponsor thomas_id="01806" joined="2013-03-19"/>
+    <cosponsor thomas_id="02094" joined="2013-03-06"/>
+    <cosponsor thomas_id="01671" joined="2013-03-06"/>
+    <cosponsor thomas_id="00766" joined="2013-03-13"/>
+    <cosponsor thomas_id="01504" joined="2013-03-25"/>
+    <cosponsor thomas_id="01792" joined="2013-03-18"/>
+    <cosponsor thomas_id="01505" joined="2013-03-18"/>
+    <cosponsor thomas_id="02074" joined="2013-03-04"/>
+    <cosponsor thomas_id="02142" joined="2013-03-18"/>
+    <cosponsor thomas_id="02052" joined="2013-03-18"/>
+    <cosponsor thomas_id="01730" joined="2013-03-15"/>
+    <cosponsor thomas_id="01731" joined="2013-04-09"/>
+    <cosponsor thomas_id="01744" joined="2013-02-26"/>
+    <cosponsor thomas_id="00854" joined="2013-04-09"/>
+    <cosponsor thomas_id="02060" joined="2013-03-25"/>
+    <cosponsor thomas_id="02001" joined="2013-03-04"/>
+    <cosponsor thomas_id="02034" joined="2013-03-05"/>
+    <cosponsor thomas_id="02162" joined="2013-03-13"/>
+    <cosponsor thomas_id="02035" joined="2013-02-27"/>
+    <cosponsor thomas_id="00893" joined="2013-03-25"/>
+    <cosponsor thomas_id="01930" joined="2013-03-06"/>
+    <cosponsor thomas_id="02097" joined="2013-03-25"/>
+    <cosponsor thomas_id="01738" joined="2013-03-14"/>
+    <cosponsor thomas_id="02157" joined="2013-03-13"/>
+    <cosponsor thomas_id="01927" joined="2013-03-05"/>
+    <cosponsor thomas_id="02141" joined="2013-03-05"/>
+    <cosponsor thomas_id="02171" joined="2013-03-13"/>
+    <cosponsor thomas_id="01915" joined="2013-03-12"/>
+    <cosponsor thomas_id="02118" joined="2013-09-09"/>
+    <cosponsor thomas_id="00940" joined="2013-03-14"/>
+    <cosponsor thomas_id="01982" joined="2013-03-04"/>
+    <cosponsor thomas_id="02160" joined="2013-06-25"/>
+    <cosponsor thomas_id="02068" joined="2013-03-04"/>
+    <cosponsor thomas_id="01986" joined="2013-03-05"/>
+    <cosponsor thomas_id="01954" joined="2013-03-14"/>
+    <cosponsor thomas_id="01916" joined="2013-02-26"/>
+    <cosponsor thomas_id="02003" joined="2013-03-25"/>
+    <cosponsor thomas_id="02039" joined="2013-03-05"/>
+    <cosponsor thomas_id="01994" joined="2013-03-13"/>
+    <cosponsor thomas_id="01861" joined="2013-03-12"/>
+    <cosponsor thomas_id="01590" joined="2013-03-05"/>
+    <cosponsor thomas_id="02099" joined="2013-03-05"/>
+    <cosponsor thomas_id="01071" joined="2013-03-15"/>
+    <cosponsor thomas_id="01075" joined="2013-03-15"/>
+    <cosponsor thomas_id="02168" joined="2013-03-13"/>
+    <cosponsor thomas_id="02047" joined="2013-03-05"/>
+    <cosponsor thomas_id="01114" joined="2013-03-14"/>
+    <cosponsor thomas_id="02104" joined="2013-03-25"/>
+    <cosponsor thomas_id="01952" joined="2013-03-12"/>
+    <cosponsor thomas_id="01593" joined="2013-03-04"/>
+    <cosponsor thomas_id="01535" joined="2014-03-24"/>
+    <cosponsor thomas_id="01997" joined="2013-03-25"/>
+    <cosponsor thomas_id="01741" joined="2013-03-04"/>
+    <cosponsor thomas_id="01596" joined="2013-03-12"/>
+    <cosponsor thomas_id="01779" joined="2013-03-04"/>
+    <cosponsor thomas_id="01222" joined="2013-04-09"/>
+    <cosponsor thomas_id="01688" joined="2013-03-12"/>
+    <cosponsor thomas_id="01886" joined="2013-03-06"/>
+    <cosponsor thomas_id="01238" joined="2013-03-12"/>
+    <cosponsor thomas_id="01991" joined="2013-03-12"/>
+    <cosponsor thomas_id="02021" joined="2013-03-14"/>
+    <cosponsor thomas_id="02115" joined="2013-03-04"/>
+    <cosponsor thomas_id="01255" joined="2013-02-27"/>
+    <cosponsor thomas_id="02019" joined="2013-03-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-26" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2013-03-14">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee subcommittee="Military Personnel" code="HSAS02" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="470"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Conflicts and wars"/>
+    <term name="Department of Defense"/>
+    <term name="Military personnel and dependents"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/2013--Introduced.
+Requires the Purple Heart to be placed in precedence above the Distinguished Warfare Medal.</summary>
+</bill>

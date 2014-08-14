@@ -1,0 +1,41 @@
+<bill session="113" type="s" number="2605" updated="2014-08-14T14:07:00-04:00">
+  <state datetime="2014-07-15">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-15"/>
+  </status>
+  <introduced datetime="2014-07-15"/>
+  <titles>
+    <title type="short" as="introduced">Preserving Religious Freedom and a Woman's Access to Contraception Act</title>
+    <title type="official" as="introduced">A bill to preserve religious freedom and a woman's access to contraception.</title>
+  </titles>
+  <sponsor thomas_id="02075"/>
+  <cosponsors>
+    <cosponsor thomas_id="00153" joined="2014-07-15"/>
+    <cosponsor thomas_id="00188" joined="2014-07-15"/>
+    <cosponsor thomas_id="01692" joined="2014-07-15"/>
+    <cosponsor thomas_id="01542" joined="2014-07-16"/>
+    <cosponsor thomas_id="02179" joined="2014-07-15"/>
+    <cosponsor thomas_id="00452" joined="2014-07-15"/>
+    <cosponsor thomas_id="00457" joined="2014-07-15"/>
+    <cosponsor thomas_id="01351" joined="2014-07-15"/>
+    <cosponsor thomas_id="01608" joined="2014-07-15"/>
+    <cosponsor thomas_id="01899" joined="2014-07-15"/>
+    <cosponsor thomas_id="00754" joined="2014-07-15"/>
+    <cosponsor thomas_id="01395" joined="2014-07-15"/>
+    <cosponsor thomas_id="00924" joined="2014-07-15"/>
+    <cosponsor thomas_id="01896" joined="2014-07-15"/>
+    <cosponsor thomas_id="01534" joined="2014-07-15"/>
+    <cosponsor thomas_id="01226" joined="2014-07-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-15" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

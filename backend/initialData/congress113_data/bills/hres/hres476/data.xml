@@ -1,0 +1,109 @@
+<bill session="113" type="hr" number="476" updated="2014-08-14T12:48:40-04:00">
+  <state datetime="2014-02-11">REFERRED</state>
+  <status>
+    <introduced datetime="2014-02-11"/>
+  </status>
+  <introduced datetime="2014-02-11"/>
+  <titles>
+    <title type="official" as="introduced">Strongly supporting the restoration and protection of State authority and flexibility in establishing and defining challenging student academic standards and assessments, and strongly denouncing the President's coercion of States into adopting the Common Core State Standards by conferring preferences in Federal grants and flexibility waivers.</title>
+  </titles>
+  <sponsor thomas_id="02057"/>
+  <cosponsors>
+    <cosponsor thomas_id="02029" joined="2014-02-11"/>
+    <cosponsor thomas_id="01858" joined="2014-03-26"/>
+    <cosponsor thomas_id="02027" joined="2014-02-11"/>
+    <cosponsor thomas_id="02135" joined="2014-02-11"/>
+    <cosponsor thomas_id="01753" joined="2014-02-11"/>
+    <cosponsor thomas_id="02063" joined="2014-02-21"/>
+    <cosponsor thomas_id="01748" joined="2014-02-11"/>
+    <cosponsor thomas_id="01787" joined="2014-06-17"/>
+    <cosponsor thomas_id="02155" joined="2014-02-21"/>
+    <cosponsor thomas_id="01987" joined="2014-03-14"/>
+    <cosponsor thomas_id="01882" joined="2014-02-14"/>
+    <cosponsor thomas_id="00186" joined="2014-02-11"/>
+    <cosponsor thomas_id="01956" joined="2014-02-14"/>
+    <cosponsor thomas_id="02121" joined="2014-02-11"/>
+    <cosponsor thomas_id="02103" joined="2014-02-11"/>
+    <cosponsor thomas_id="02098" joined="2014-02-11"/>
+    <cosponsor thomas_id="02144" joined="2014-02-11"/>
+    <cosponsor thomas_id="01989" joined="2014-02-11"/>
+    <cosponsor thomas_id="02138" joined="2014-02-11"/>
+    <cosponsor thomas_id="02116" joined="2014-02-27"/>
+    <cosponsor thomas_id="02067" joined="2014-05-19"/>
+    <cosponsor thomas_id="01924" joined="2014-02-11"/>
+    <cosponsor thomas_id="02065" joined="2014-02-11"/>
+    <cosponsor thomas_id="01683" joined="2014-06-17"/>
+    <cosponsor thomas_id="01707" joined="2014-02-11"/>
+    <cosponsor thomas_id="02049" joined="2014-02-11"/>
+    <cosponsor thomas_id="02043" joined="2014-02-21"/>
+    <cosponsor thomas_id="01720" joined="2014-02-14"/>
+    <cosponsor thomas_id="01801" joined="2014-02-11"/>
+    <cosponsor thomas_id="00446" joined="2014-03-04"/>
+    <cosponsor thomas_id="01992" joined="2014-02-11"/>
+    <cosponsor thomas_id="02026" joined="2014-02-11"/>
+    <cosponsor thomas_id="02140" joined="2014-03-26"/>
+    <cosponsor thomas_id="02020" joined="2014-02-11"/>
+    <cosponsor thomas_id="02015" joined="2014-02-11"/>
+    <cosponsor thomas_id="01921" joined="2014-02-14"/>
+    <cosponsor thomas_id="00612" joined="2014-02-11"/>
+    <cosponsor thomas_id="01724" joined="2014-02-11"/>
+    <cosponsor thomas_id="00636" joined="2014-02-11"/>
+    <cosponsor thomas_id="02100" joined="2014-02-11"/>
+    <cosponsor thomas_id="01936" joined="2014-02-11"/>
+    <cosponsor thomas_id="02050" joined="2014-02-11"/>
+    <cosponsor thomas_id="01885" joined="2014-02-27"/>
+    <cosponsor thomas_id="01806" joined="2014-02-27"/>
+    <cosponsor thomas_id="02094" joined="2014-02-11"/>
+    <cosponsor thomas_id="02142" joined="2014-02-11"/>
+    <cosponsor thomas_id="02059" joined="2014-02-11"/>
+    <cosponsor thomas_id="01744" joined="2014-02-25"/>
+    <cosponsor thomas_id="02034" joined="2014-02-25"/>
+    <cosponsor thomas_id="01955" joined="2014-02-25"/>
+    <cosponsor thomas_id="02157" joined="2014-02-21"/>
+    <cosponsor thomas_id="02141" joined="2014-04-04"/>
+    <cosponsor thomas_id="01514" joined="2014-02-21"/>
+    <cosponsor thomas_id="02022" joined="2014-02-11"/>
+    <cosponsor thomas_id="01915" joined="2014-03-11"/>
+    <cosponsor thomas_id="02073" joined="2014-02-21"/>
+    <cosponsor thomas_id="01704" joined="2014-02-11"/>
+    <cosponsor thomas_id="01916" joined="2014-02-11"/>
+    <cosponsor thomas_id="02158" joined="2014-03-06"/>
+    <cosponsor thomas_id="01009" joined="2014-02-11"/>
+    <cosponsor thomas_id="01012" joined="2014-02-11"/>
+    <cosponsor thomas_id="01525" joined="2014-02-11"/>
+    <cosponsor thomas_id="01527" joined="2014-04-01"/>
+    <cosponsor thomas_id="01681" joined="2014-02-27"/>
+    <cosponsor thomas_id="01860" joined="2014-03-26"/>
+    <cosponsor thomas_id="02168" joined="2014-02-11"/>
+    <cosponsor thomas_id="01981" joined="2014-02-11"/>
+    <cosponsor thomas_id="01566" joined="2014-02-11"/>
+    <cosponsor thomas_id="02161" joined="2014-02-11"/>
+    <cosponsor thomas_id="02152" joined="2014-07-29"/>
+    <cosponsor thomas_id="01688" joined="2014-02-11"/>
+    <cosponsor thomas_id="02115" joined="2014-02-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-02-11" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="sr" session="113" relation="identical" number="345"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Education programs funding"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Intergovernmental relations"/>
+    <term name="State and local government operations"/>
+    <term name="Teaching, teachers, curricula"/>
+  </subjects>
+  <amendments/>
+  <summary>2/11/2014--Introduced.
+Expresses the sense of the House of Representatives that:
+
+ states and local educational agencies should maintain the right and responsibility of determining educational curricula, programs of instruction, and assessments for elementary and secondary education; the federal government should not incentivize the adoption of common education standards or the creation of a national assessment to align with such standards; and no application process for any federal grant funds or waivers issued by the Secretary of Education under the Elementary and Secondary Education Act of 1965 should award any additional points, or provide any preference, for the adoption of the Common Core State Standards or any other national common education standards.</summary>
+</bill>

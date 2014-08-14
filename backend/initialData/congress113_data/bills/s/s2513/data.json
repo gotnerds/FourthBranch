@@ -1,0 +1,125 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-23", 
+      "committees": [
+        "SSHR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2513-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Hagan, Kay", 
+      "sponsored_at": "2014-06-23", 
+      "state": "NC", 
+      "thomas_id": "01902", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Hatch, Orrin G.", 
+      "sponsored_at": "2014-06-23", 
+      "state": "UT", 
+      "thomas_id": "01351", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Isakson, Johnny", 
+      "sponsored_at": "2014-06-23", 
+      "state": "GA", 
+      "thomas_id": "01608", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Murphy, Christopher S.", 
+      "sponsored_at": "2014-06-23", 
+      "state": "CT", 
+      "thomas_id": "01837", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Enzi, Michael B.", 
+      "sponsored_at": "2014-06-23", 
+      "state": "WY", 
+      "thomas_id": "01542", 
+      "title": "Sen", 
+      "withdrawn_at": "2014-07-31"
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-06-23", 
+  "number": "2513", 
+  "official_title": "A bill to establish a demonstration project for competency-based education.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Advancing Competency-Based Education Demonstration Project Act of 2014", 
+  "sponsor": {
+    "district": null, 
+    "name": "Bennet, Michael F.", 
+    "state": "CO", 
+    "thomas_id": "01965", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-06-23", 
+  "subjects": [
+    "Academic performance and assessments", 
+    "Administrative law and regulatory procedures", 
+    "Department of Education", 
+    "Education", 
+    "Education programs funding", 
+    "Higher education", 
+    "Student aid and college costs", 
+    "Teaching, teachers, curricula"
+  ], 
+  "subjects_top_term": "Education", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Advancing Competency-Based Education Demonstration Project Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to establish a demonstration project for competency-based education.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T14:06:14-04:00"
+}

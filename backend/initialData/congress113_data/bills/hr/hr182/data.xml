@@ -1,0 +1,86 @@
+<bill session="113" type="h" number="182" updated="2014-08-14T12:52:15-04:00">
+  <state datetime="2013-01-04">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-04"/>
+  </status>
+  <introduced datetime="2013-01-04"/>
+  <titles>
+    <title type="short" as="introduced">Safe Skies Act of 2013</title>
+    <title type="official" as="introduced">To require the Secretary of Transportation to modify the final rule relating to flightcrew member duty and rest requirements for passenger operations of air carriers to apply to all-cargo operations of air carriers, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02041"/>
+  <cosponsors>
+    <cosponsor thomas_id="00091" joined="2014-03-27"/>
+    <cosponsor thomas_id="01740" joined="2013-01-04"/>
+    <cosponsor thomas_id="01723" joined="2013-02-05"/>
+    <cosponsor thomas_id="01845" joined="2014-07-14"/>
+    <cosponsor thomas_id="02106" joined="2013-02-25"/>
+    <cosponsor thomas_id="01564" joined="2013-02-25"/>
+    <cosponsor thomas_id="01970" joined="2013-06-05"/>
+    <cosponsor thomas_id="01959" joined="2013-06-06"/>
+    <cosponsor thomas_id="00229" joined="2013-02-04"/>
+    <cosponsor thomas_id="01479" joined="2013-09-25"/>
+    <cosponsor thomas_id="01976" joined="2013-02-12"/>
+    <cosponsor thomas_id="02123" joined="2013-03-12"/>
+    <cosponsor thomas_id="01857" joined="2013-06-27"/>
+    <cosponsor thomas_id="02125" joined="2014-06-17"/>
+    <cosponsor thomas_id="02122" joined="2013-04-26"/>
+    <cosponsor thomas_id="02043" joined="2013-02-04"/>
+    <cosponsor thomas_id="02010" joined="2013-04-10"/>
+    <cosponsor thomas_id="01794" joined="2013-03-05"/>
+    <cosponsor thomas_id="01580" joined="2013-02-14"/>
+    <cosponsor thomas_id="01634" joined="2013-04-16"/>
+    <cosponsor thomas_id="00599" joined="2013-06-18"/>
+    <cosponsor thomas_id="00612" joined="2013-02-12"/>
+    <cosponsor thomas_id="02145" joined="2013-05-14"/>
+    <cosponsor thomas_id="01846" joined="2013-05-06"/>
+    <cosponsor thomas_id="02111" joined="2013-04-10"/>
+    <cosponsor thomas_id="00709" joined="2013-05-13"/>
+    <cosponsor thomas_id="00735" joined="2013-06-11"/>
+    <cosponsor thomas_id="02074" joined="2014-03-13"/>
+    <cosponsor thomas_id="01832" joined="2013-11-14"/>
+    <cosponsor thomas_id="01730" joined="2013-01-22"/>
+    <cosponsor thomas_id="00808" joined="2013-02-14"/>
+    <cosponsor thomas_id="00832" joined="2013-09-30"/>
+    <cosponsor thomas_id="00850" joined="2013-02-12"/>
+    <cosponsor thomas_id="01602" joined="2013-02-12"/>
+    <cosponsor thomas_id="01835" joined="2014-06-05"/>
+    <cosponsor thomas_id="02113" joined="2013-10-23"/>
+    <cosponsor thomas_id="00910" joined="2014-04-01"/>
+    <cosponsor thomas_id="02171" joined="2013-02-04"/>
+    <cosponsor thomas_id="00930" joined="2014-06-20"/>
+    <cosponsor thomas_id="01588" joined="2013-04-10"/>
+    <cosponsor thomas_id="01635" joined="2013-03-05"/>
+    <cosponsor thomas_id="01722" joined="2013-04-26"/>
+    <cosponsor thomas_id="01861" joined="2014-06-23"/>
+    <cosponsor thomas_id="01818" joined="2013-08-01"/>
+    <cosponsor thomas_id="01535" joined="2013-02-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-04" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2013-01-05">
+      <text>Referred to the Subcommittee on Aviation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+    <committee subcommittee="Aviation" code="HSPW05" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="1692"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Aviation and airports"/>
+    <term name="Department of Transportation"/>
+    <term name="Labor standards"/>
+    <term name="Transportation employees"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>1/4/2013--Introduced.
+Safe Skies Act of 2013 - Directs the Secretary of Transportation (DOT), not later than 30 days after enactment of this Act, to modify a specified Department of Transportation (DOT) final rule relating to flightcrew member duty and rest requirements so that the requirements under that rule apply to all-cargo flightcrew members to the same extent they apply to air passenger flightcrew members.</summary>
+</bill>

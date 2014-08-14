@@ -1,0 +1,69 @@
+<bill session="113" type="h" number="4217" updated="2014-08-14T13:27:22-04:00">
+  <state datetime="2014-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2014-03-12"/>
+  </status>
+  <introduced datetime="2014-03-12"/>
+  <titles>
+    <title type="short" as="introduced">Military Commissary Sustainment Act</title>
+    <title type="official" as="introduced">To prohibit a reduction in funding for the defense commissary system in fiscal year 2015 pending the report of the Military Compensation and Retirement Modernization Commission.</title>
+  </titles>
+  <sponsor thomas_id="01683"/>
+  <cosponsors>
+    <cosponsor thomas_id="01753" joined="2014-06-24"/>
+    <cosponsor thomas_id="01882" joined="2014-05-22"/>
+    <cosponsor thomas_id="02106" joined="2014-04-02"/>
+    <cosponsor thomas_id="02127" joined="2014-07-31"/>
+    <cosponsor thomas_id="02159" joined="2014-05-06"/>
+    <cosponsor thomas_id="01959" joined="2014-04-29"/>
+    <cosponsor thomas_id="01643" joined="2014-04-09"/>
+    <cosponsor thomas_id="02126" joined="2014-04-04"/>
+    <cosponsor thomas_id="02133" joined="2014-05-06"/>
+    <cosponsor thomas_id="02125" joined="2014-05-06"/>
+    <cosponsor thomas_id="01973" joined="2014-04-02"/>
+    <cosponsor thomas_id="01487" joined="2014-08-01"/>
+    <cosponsor thomas_id="02010" joined="2014-04-02"/>
+    <cosponsor thomas_id="01634" joined="2014-03-26"/>
+    <cosponsor thomas_id="00612" joined="2014-04-02"/>
+    <cosponsor thomas_id="02025" joined="2014-07-31"/>
+    <cosponsor thomas_id="00635" joined="2014-04-04"/>
+    <cosponsor thomas_id="01834" joined="2014-05-06"/>
+    <cosponsor thomas_id="00699" joined="2014-05-06"/>
+    <cosponsor thomas_id="01931" joined="2014-06-09"/>
+    <cosponsor thomas_id="01929" joined="2014-05-22"/>
+    <cosponsor thomas_id="00944" joined="2014-04-02"/>
+    <cosponsor thomas_id="02068" joined="2014-04-04"/>
+    <cosponsor thomas_id="02003" joined="2014-06-19"/>
+    <cosponsor thomas_id="02124" joined="2014-05-06"/>
+    <cosponsor thomas_id="01037" joined="2014-03-26"/>
+    <cosponsor thomas_id="01075" joined="2014-04-29"/>
+    <cosponsor thomas_id="02104" joined="2014-04-09"/>
+    <cosponsor thomas_id="01952" joined="2014-05-22"/>
+    <cosponsor thomas_id="02166" joined="2014-04-09"/>
+    <cosponsor thomas_id="02167" joined="2014-04-09"/>
+    <cosponsor thomas_id="01886" joined="2014-03-26"/>
+    <cosponsor thomas_id="02115" joined="2014-04-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-03-12" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="2075"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Defense spending"/>
+    <term name="Department of Defense"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Military facilities and property"/>
+    <term name="Retail and wholesale trades"/>
+  </subjects>
+  <amendments/>
+  <summary>3/12/2014--Introduced.
+Military Commissary Sustainment Act - Prohibits reducing the monthly amount of funds made available by the Department of Defense (DOD) for the defense commissary system during FY2015 below the average monthly amount made available during FY2014 until the date of the report of the Military Compensation and Retirement Modernization Commission.</summary>
+</bill>

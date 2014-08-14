@@ -1,0 +1,36 @@
+<bill session="113" type="s" number="2667" updated="2014-08-14T14:07:32-04:00">
+  <state datetime="2014-07-24">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-24"/>
+  </status>
+  <introduced datetime="2014-07-24"/>
+  <titles>
+    <title type="short" as="introduced">Iranian Sanctions Relief Certification Act of 2014</title>
+    <title type="official" as="introduced">A bill to prohibit the exercise of any waiver of the imposition of certain sanctions with respect to Iran unless the President certifies to Congress that the waiver will not result in the provision of funds to the Government of Iran for activities in support of international terrorism, to develop nuclear weapons, or to violate the human rights of the people of Iran.</title>
+  </titles>
+  <sponsor thomas_id="01647"/>
+  <cosponsors>
+    <cosponsor thomas_id="02075" joined="2014-07-24"/>
+    <cosponsor thomas_id="01881" joined="2014-07-31"/>
+    <cosponsor thomas_id="01692" joined="2014-07-24"/>
+    <cosponsor thomas_id="01351" joined="2014-07-24"/>
+    <cosponsor thomas_id="01863" joined="2014-07-28"/>
+    <cosponsor thomas_id="02079" joined="2014-07-24"/>
+    <cosponsor thomas_id="00583" joined="2014-07-29"/>
+    <cosponsor thomas_id="01608" joined="2014-07-24"/>
+    <cosponsor thomas_id="01899" joined="2014-07-29"/>
+    <cosponsor thomas_id="00968" joined="2014-07-24"/>
+    <cosponsor thomas_id="02085" joined="2014-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-24" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

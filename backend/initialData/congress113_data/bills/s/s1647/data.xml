@@ -1,0 +1,50 @@
+<bill session="113" type="s" number="1647" updated="2014-08-14T13:58:55-04:00">
+  <state datetime="2013-11-05">REFERRED</state>
+  <status>
+    <introduced datetime="2013-11-05"/>
+  </status>
+  <introduced datetime="2013-11-05"/>
+  <titles>
+    <title type="short" as="introduced">Restoring Access to Medication Act</title>
+    <title type="official" as="introduced">A bill to amend the Patient Protection and Affordable Care Act to repeal distributions for medicine qualified only if for prescribed drug or insulin.</title>
+  </titles>
+  <sponsor thomas_id="00968"/>
+  <cosponsors>
+    <cosponsor thomas_id="01898" joined="2014-07-16"/>
+    <cosponsor thomas_id="01464" joined="2013-11-06"/>
+    <cosponsor thomas_id="01541" joined="2014-07-28"/>
+    <cosponsor thomas_id="01542" joined="2013-11-05"/>
+    <cosponsor thomas_id="01633" joined="2013-11-05"/>
+    <cosponsor thomas_id="01351" joined="2013-11-05"/>
+    <cosponsor thomas_id="02174" joined="2014-06-04"/>
+    <cosponsor thomas_id="01863" joined="2013-11-05"/>
+    <cosponsor thomas_id="00583" joined="2013-11-05"/>
+    <cosponsor thomas_id="01608" joined="2013-11-05"/>
+    <cosponsor thomas_id="01899" joined="2013-11-05"/>
+    <cosponsor thomas_id="01647" joined="2013-11-20"/>
+    <cosponsor thomas_id="01546" joined="2013-11-05"/>
+    <cosponsor thomas_id="02084" joined="2013-11-07"/>
+    <cosponsor thomas_id="02056" joined="2014-03-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-11-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="1248"/>
+    <bill type="s" session="113" relation="unknown" number="610"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Digestive and metabolic diseases"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Prescription drugs"/>
+  </subjects>
+  <amendments/>
+  <summary>11/5/2013--Introduced.
+Restoring Access to Medication Act - Repeals provisions of the Patient Protection and Affordable Care Act that restrict payments from health savings accounts, medical savings accounts, and health flexible spending arrangements for medications to prescription drugs and insulin only (thus allowing payments for over-the-counter medications).</summary>
+</bill>

@@ -1,0 +1,50 @@
+<bill session="113" type="h" number="4172" updated="2014-08-14T13:27:00-04:00">
+  <state datetime="2014-03-06">REFERRED</state>
+  <status>
+    <introduced datetime="2014-03-06"/>
+  </status>
+  <introduced datetime="2014-03-06"/>
+  <titles>
+    <title type="short" as="introduced">Student Testing Improvement and Accountability Act</title>
+    <title type="official" as="introduced">To amend the Elementary and Secondary Education Act of 1965 to clarify when certain academic assessments shall be administered.</title>
+  </titles>
+  <sponsor thomas_id="02043"/>
+  <cosponsors>
+    <cosponsor thomas_id="01740" joined="2014-07-31"/>
+    <cosponsor thomas_id="01564" joined="2014-05-22"/>
+    <cosponsor thomas_id="02159" joined="2014-07-29"/>
+    <cosponsor thomas_id="00462" joined="2014-04-29"/>
+    <cosponsor thomas_id="02154" joined="2014-04-10"/>
+    <cosponsor thomas_id="01936" joined="2014-07-29"/>
+    <cosponsor thomas_id="00867" joined="2014-07-29"/>
+    <cosponsor thomas_id="01982" joined="2014-04-29"/>
+    <cosponsor thomas_id="02099" joined="2014-03-06"/>
+    <cosponsor thomas_id="01818" joined="2014-05-13"/>
+    <cosponsor thomas_id="01940" joined="2014-07-30"/>
+    <cosponsor thomas_id="02105" joined="2014-07-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-03-06" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2014-06-13">
+      <text>Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee subcommittee="Early Childhood, Elementary, and Secondary Education" code="HSED14" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Academic performance and assessments"/>
+    <term name="Elementary and secondary education"/>
+  </subjects>
+  <amendments/>
+  <summary>3/6/2014--Introduced.
+Student Testing Improvement and Accountability Act - Amends the Elementary and Secondary Education Act of 1965 to eliminate the requirement that students be tested against state academic content and achievement standards in mathematics and reading or language arts in each of grades three through eight.
+
+Requires, instead, that those tests be administered at least once during: (1) grades 3 through 5, (2) grades 6 through 9, and 
+ (3) grades 10 through 12.</summary>
+</bill>

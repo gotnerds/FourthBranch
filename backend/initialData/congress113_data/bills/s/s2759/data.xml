@@ -1,0 +1,25 @@
+<bill session="113" type="s" number="2759" updated="2014-08-14T14:08:18-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="official" as="introduced">A bill to release the City of St. Clair, Missouri, from all restrictions, conditions, and limitations on the use, encumbrance, conveyance, and closure of the St. Clair Regional Airport.</title>
+  </titles>
+  <sponsor thomas_id="01820"/>
+  <cosponsors>
+    <cosponsor thomas_id="01464" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,59 @@
+<bill session="113" type="h" number="5130" updated="2014-08-14T13:35:15-04:00">
+  <state datetime="2014-07-17">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-17"/>
+  </status>
+  <introduced datetime="2014-07-17"/>
+  <titles>
+    <title type="short" as="introduced">Protecting Consumers from Unreasonable Credit Rates Act of 2014</title>
+    <title type="official" as="introduced">To amend the Truth in Lending Act to establish a national usury rate for consumer credit transactions.</title>
+  </titles>
+  <sponsor thomas_id="02159"/>
+  <cosponsors>
+    <cosponsor thomas_id="02055" joined="2014-07-30"/>
+    <cosponsor thomas_id="02196" joined="2014-07-17"/>
+    <cosponsor thomas_id="01654" joined="2014-07-17"/>
+    <cosponsor thomas_id="00208" joined="2014-07-17"/>
+    <cosponsor thomas_id="01878" joined="2014-07-17"/>
+    <cosponsor thomas_id="00229" joined="2014-07-30"/>
+    <cosponsor thomas_id="00256" joined="2014-07-17"/>
+    <cosponsor thomas_id="01477" joined="2014-07-17"/>
+    <cosponsor thomas_id="00279" joined="2014-07-24"/>
+    <cosponsor thomas_id="00303" joined="2014-07-17"/>
+    <cosponsor thomas_id="01894" joined="2014-07-17"/>
+    <cosponsor thomas_id="01857" joined="2014-07-17"/>
+    <cosponsor thomas_id="00371" joined="2014-07-17"/>
+    <cosponsor thomas_id="00588" joined="2014-07-17"/>
+    <cosponsor thomas_id="00599" joined="2014-07-17"/>
+    <cosponsor thomas_id="01843" joined="2014-07-29"/>
+    <cosponsor thomas_id="02146" joined="2014-07-17"/>
+    <cosponsor thomas_id="01730" joined="2014-07-30"/>
+    <cosponsor thomas_id="00808" joined="2014-07-17"/>
+    <cosponsor thomas_id="00868" joined="2014-07-30"/>
+    <cosponsor thomas_id="01927" joined="2014-07-17"/>
+    <cosponsor thomas_id="00944" joined="2014-07-17"/>
+    <cosponsor thomas_id="01798" joined="2014-07-30"/>
+    <cosponsor thomas_id="02110" joined="2014-07-22"/>
+    <cosponsor thomas_id="01942" joined="2014-07-22"/>
+    <cosponsor thomas_id="01884" joined="2014-07-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-17" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="673"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+  <summary>7/17/2014--Introduced.
+Protecting Consumers from Unreasonable Credit Rates Act of 2014 - Amends the Truth in Lending Act to prohibit a creditor from extending credit to a consumer under an open end consumer credit plan (credit card) for which the fee and interest rate exceeds 36%.
+
+Sets forth criminal penalties for violations of this Act. Empowers state Attorneys General to enforce this Act.
+
+Revises requirements for a periodic statement for each billing cycle with respect to where the total finance charge exceeds 50 cents for a monthly or longer billing cycle, or the pro rata part of 50 cents for a billing cycle shorter than monthly. Requires inclusion of the fee and interest rate, displayed as "FAIR," instead of the total finance charge expressed as an annual percentage rate (APR).</summary>
+</bill>

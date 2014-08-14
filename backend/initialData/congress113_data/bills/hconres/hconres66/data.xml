@@ -1,0 +1,65 @@
+<bill session="113" type="hc" number="66" updated="2014-08-14T13:39:09-04:00">
+  <state datetime="2013-11-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-11-21"/>
+  </status>
+  <introduced datetime="2013-11-21"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the Congress that children trafficked in the United States be treated as victims of crime, and not as perpetrators.</title>
+  </titles>
+  <sponsor thomas_id="01810"/>
+  <cosponsors>
+    <cosponsor thomas_id="02063" joined="2013-11-21"/>
+    <cosponsor thomas_id="01787" joined="2013-11-21"/>
+    <cosponsor thomas_id="02107" joined="2013-11-21"/>
+    <cosponsor thomas_id="01990" joined="2013-11-21"/>
+    <cosponsor thomas_id="01708" joined="2013-11-21"/>
+    <cosponsor thomas_id="02015" joined="2013-11-21"/>
+    <cosponsor thomas_id="02051" joined="2013-11-21"/>
+    <cosponsor thomas_id="02111" joined="2013-12-05"/>
+    <cosponsor thomas_id="00867" joined="2013-11-21"/>
+    <cosponsor thomas_id="01930" joined="2013-11-21"/>
+    <cosponsor thomas_id="01835" joined="2013-12-02"/>
+    <cosponsor thomas_id="01802" joined="2013-11-21"/>
+    <cosponsor thomas_id="00944" joined="2013-11-21"/>
+    <cosponsor thomas_id="01982" joined="2014-01-08"/>
+    <cosponsor thomas_id="02048" joined="2013-11-21"/>
+    <cosponsor thomas_id="02112" joined="2013-11-21"/>
+    <cosponsor thomas_id="02137" joined="2014-01-15"/>
+    <cosponsor thomas_id="02161" joined="2013-12-02"/>
+    <cosponsor thomas_id="02019" joined="2013-11-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-11-21" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2014-01-09">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="sc" session="113" relation="unknown" number="29"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Child safety and welfare"/>
+    <term name="Crime prevention"/>
+    <term name="Crime victims"/>
+    <term name="Crimes against children"/>
+    <term name="Crimes against women"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Domestic violence and child abuse"/>
+    <term name="Emergency medical services and trauma care"/>
+    <term name="Human trafficking"/>
+    <term name="Sex offenses"/>
+  </subjects>
+  <amendments/>
+  <summary>11/21/2013--Introduced.
+Expresses the sense of Congress that: (1) law enforcement, judges, child welfare agencies, and the public should treat children being trafficked for sex as victims of child abuse; (2) every effort should be made to arrest and hold accountable both traffickers and buyers of children for sex, in accordance with federal laws to protect victims of trafficking and state child protection laws; (3) the child welfare system requires reform to better prevent domestic child sex trafficking and aid the victims; and (4) such system should identify, assess, and provide supportive services to children in its care who are victims of sex trafficking or at risk of becoming such victims.
+
+Expresses support for: (1) survivors of domestic child sex trafficking, including for the services they need to heal; and (2) an end to demand for girls by declaring that our nation's daughters are not for sale and that any person who purchases a child for sex should be held accountable with the full force of the law.</summary>
+</bill>

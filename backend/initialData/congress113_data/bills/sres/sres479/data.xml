@@ -1,0 +1,44 @@
+<bill session="113" type="sr" number="479" updated="2014-08-14T13:43:53-04:00">
+  <state datetime="2014-06-19">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-19"/>
+  </status>
+  <introduced datetime="2014-06-19"/>
+  <titles>
+    <title type="official" as="introduced">A resolution recognizing Veterans Day 2014 as a special "Welcome Home Commemoration" for all who have served in the military since September 14, 2001.</title>
+  </titles>
+  <sponsor thomas_id="02176"/>
+  <cosponsors>
+    <cosponsor thomas_id="02076" joined="2014-06-19"/>
+    <cosponsor thomas_id="00153" joined="2014-06-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-19">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S3866"/>
+    </action>
+    <action datetime="2014-06-19" state="REFERRED">
+      <text>Referred to the Committee on Veterans' Affairs.</text>
+      <reference ref="CR S3865-3866" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSVA" name="Senate Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Afghanistan"/>
+    <term name="Asia"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Conflicts and wars"/>
+    <term name="Congressional tributes"/>
+    <term name="Iraq"/>
+    <term name="Middle East"/>
+    <term name="Terrorism"/>
+    <term name="Veterans' organizations and recognition"/>
+  </subjects>
+  <amendments/>
+  <summary>6/19/2014--Introduced.
+Recognizes Veterans Day 2014 as a special Welcome Home Commemoration for all who have served in the U.S. Armed Forces since September 14, 2001.</summary>
+</bill>

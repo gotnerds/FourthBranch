@@ -1,0 +1,66 @@
+<bill session="113" type="hr" number="547" updated="2014-08-14T12:49:16-04:00">
+  <state datetime="2014-04-08">REFERRED</state>
+  <status>
+    <introduced datetime="2014-04-08"/>
+  </status>
+  <introduced datetime="2014-04-08"/>
+  <titles>
+    <title type="official" as="introduced">Affirming the vital role that prayer has played throughout the more than 200-year history of our Nation, strengthening the fabric of our society, and recognizing May 1, 2014, as the 63rd annual National Day of Prayer.</title>
+  </titles>
+  <sponsor thomas_id="01683"/>
+  <cosponsors>
+    <cosponsor thomas_id="01460" joined="2014-04-08"/>
+    <cosponsor thomas_id="01858" joined="2014-04-28"/>
+    <cosponsor thomas_id="02063" joined="2014-05-01"/>
+    <cosponsor thomas_id="01748" joined="2014-04-28"/>
+    <cosponsor thomas_id="01468" joined="2014-05-01"/>
+    <cosponsor thomas_id="01882" joined="2014-05-01"/>
+    <cosponsor thomas_id="02138" joined="2014-04-28"/>
+    <cosponsor thomas_id="00322" joined="2014-05-01"/>
+    <cosponsor thomas_id="01803" joined="2014-04-08"/>
+    <cosponsor thomas_id="02026" joined="2014-04-28"/>
+    <cosponsor thomas_id="02032" joined="2014-05-01"/>
+    <cosponsor thomas_id="02020" joined="2014-04-28"/>
+    <cosponsor thomas_id="02015" joined="2014-05-01"/>
+    <cosponsor thomas_id="00612" joined="2014-04-28"/>
+    <cosponsor thomas_id="01868" joined="2014-05-20"/>
+    <cosponsor thomas_id="02051" joined="2014-04-28"/>
+    <cosponsor thomas_id="01834" joined="2014-05-01"/>
+    <cosponsor thomas_id="02050" joined="2014-04-08"/>
+    <cosponsor thomas_id="01885" joined="2014-04-28"/>
+    <cosponsor thomas_id="01505" joined="2014-04-08"/>
+    <cosponsor thomas_id="01685" joined="2014-05-01"/>
+    <cosponsor thomas_id="01758" joined="2014-04-28"/>
+    <cosponsor thomas_id="02022" joined="2014-05-02"/>
+    <cosponsor thomas_id="00940" joined="2014-05-01"/>
+    <cosponsor thomas_id="01075" joined="2014-04-28"/>
+    <cosponsor thomas_id="02000" joined="2014-04-28"/>
+    <cosponsor thomas_id="01114" joined="2014-04-28"/>
+    <cosponsor thomas_id="01952" joined="2014-04-28"/>
+    <cosponsor thomas_id="02112" joined="2014-04-08"/>
+    <cosponsor thomas_id="01855" joined="2014-05-01"/>
+    <cosponsor thomas_id="01688" joined="2014-05-01"/>
+    <cosponsor thomas_id="01238" joined="2014-04-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-04-08" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Arts, culture, religion"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Religion"/>
+  </subjects>
+  <amendments/>
+  <summary>4/8/2014--Introduced.
+Recognizes the 63rd annual observance of the National Day of Prayer.
+
+Encourages people of the United States to pray together and reaffirm the importance of prayer in the nation's heritage.
+
+ Expresses support for the continued annual recognition of such Day.</summary>
+</bill>

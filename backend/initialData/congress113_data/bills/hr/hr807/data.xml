@@ -1,0 +1,206 @@
+<bill session="113" type="h" number="807" updated="2014-08-14T12:57:35-04:00">
+  <state datetime="2013-05-09T11:41:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2013-05-09T11:41:00-04:00"/>
+  </status>
+  <introduced datetime="2013-02-25"/>
+  <titles>
+    <title type="short" as="introduced">Full Faith and Credit Act</title>
+    <title type="short" as="reported to house">Full Faith and Credit Act</title>
+    <title type="short" as="passed house">Full Faith and Credit Act</title>
+    <title type="official" as="introduced">To require that the Government prioritize all obligations on the debt held by the public in the event that the debt limit is reached.</title>
+  </titles>
+  <sponsor thomas_id="01908"/>
+  <cosponsors>
+    <cosponsor thomas_id="02029" joined="2013-03-18"/>
+    <cosponsor thomas_id="01858" joined="2013-03-18"/>
+    <cosponsor thomas_id="02131" joined="2013-03-05"/>
+    <cosponsor thomas_id="00062" joined="2013-04-26"/>
+    <cosponsor thomas_id="02027" joined="2013-04-09"/>
+    <cosponsor thomas_id="02135" joined="2013-02-25"/>
+    <cosponsor thomas_id="01753" joined="2013-04-18"/>
+    <cosponsor thomas_id="02063" joined="2013-03-05"/>
+    <cosponsor thomas_id="01748" joined="2013-02-25"/>
+    <cosponsor thomas_id="02155" joined="2013-03-18"/>
+    <cosponsor thomas_id="01987" joined="2013-02-28"/>
+    <cosponsor thomas_id="02129" joined="2013-03-20"/>
+    <cosponsor thomas_id="01882" joined="2013-03-05"/>
+    <cosponsor thomas_id="02018" joined="2013-02-25"/>
+    <cosponsor thomas_id="01751" joined="2013-04-30"/>
+    <cosponsor thomas_id="00165" joined="2013-03-21"/>
+    <cosponsor thomas_id="01816" joined="2013-04-18"/>
+    <cosponsor thomas_id="00186" joined="2013-02-28"/>
+    <cosponsor thomas_id="01956" joined="2013-02-25"/>
+    <cosponsor thomas_id="00211" joined="2013-04-17"/>
+    <cosponsor thomas_id="01742" joined="2013-02-25"/>
+    <cosponsor thomas_id="02151" joined="2013-04-26"/>
+    <cosponsor thomas_id="02121" joined="2013-02-25"/>
+    <cosponsor thomas_id="01805" joined="2013-02-28"/>
+    <cosponsor thomas_id="02098" joined="2013-04-26"/>
+    <cosponsor thomas_id="02144" joined="2013-03-07"/>
+    <cosponsor thomas_id="01989" joined="2013-04-17"/>
+    <cosponsor thomas_id="02116" joined="2013-03-18"/>
+    <cosponsor thomas_id="02062" joined="2013-04-09"/>
+    <cosponsor thomas_id="02072" joined="2013-03-07"/>
+    <cosponsor thomas_id="02057" joined="2013-02-25"/>
+    <cosponsor thomas_id="02036" joined="2013-04-17"/>
+    <cosponsor thomas_id="02061" joined="2013-02-28"/>
+    <cosponsor thomas_id="01924" joined="2013-04-18"/>
+    <cosponsor thomas_id="02065" joined="2013-02-28"/>
+    <cosponsor thomas_id="01683" joined="2013-03-20"/>
+    <cosponsor thomas_id="01791" joined="2013-02-25"/>
+    <cosponsor thomas_id="01707" joined="2013-02-25"/>
+    <cosponsor thomas_id="01737" joined="2013-02-25"/>
+    <cosponsor thomas_id="02049" joined="2013-03-18"/>
+    <cosponsor thomas_id="01720" joined="2013-04-26"/>
+    <cosponsor thomas_id="01992" joined="2013-04-18"/>
+    <cosponsor thomas_id="02058" joined="2013-03-18"/>
+    <cosponsor thomas_id="01656" joined="2013-04-18"/>
+    <cosponsor thomas_id="01990" joined="2013-03-05"/>
+    <cosponsor thomas_id="00484" joined="2013-02-28"/>
+    <cosponsor thomas_id="02026" joined="2013-04-26"/>
+    <cosponsor thomas_id="01749" joined="2013-02-25"/>
+    <cosponsor thomas_id="02143" joined="2013-04-09"/>
+    <cosponsor thomas_id="02140" joined="2013-04-09"/>
+    <cosponsor thomas_id="02028" joined="2013-02-25"/>
+    <cosponsor thomas_id="02015" joined="2013-03-07"/>
+    <cosponsor thomas_id="02046" joined="2013-04-26"/>
+    <cosponsor thomas_id="01868" joined="2013-02-25"/>
+    <cosponsor thomas_id="01724" joined="2013-04-09"/>
+    <cosponsor thomas_id="01733" joined="2013-04-12"/>
+    <cosponsor thomas_id="02011" joined="2013-02-25"/>
+    <cosponsor thomas_id="02100" joined="2013-02-25"/>
+    <cosponsor thomas_id="02050" joined="2013-04-24"/>
+    <cosponsor thomas_id="01885" joined="2013-04-25"/>
+    <cosponsor thomas_id="02033" joined="2013-03-05"/>
+    <cosponsor thomas_id="00711" joined="2013-04-26"/>
+    <cosponsor thomas_id="01931" joined="2013-03-07"/>
+    <cosponsor thomas_id="01960" joined="2013-02-25"/>
+    <cosponsor thomas_id="02074" joined="2013-04-26"/>
+    <cosponsor thomas_id="02142" joined="2013-03-18"/>
+    <cosponsor thomas_id="02130" joined="2013-04-09"/>
+    <cosponsor thomas_id="01685" joined="2013-02-25"/>
+    <cosponsor thomas_id="02156" joined="2013-03-18"/>
+    <cosponsor thomas_id="02059" joined="2013-02-25"/>
+    <cosponsor thomas_id="01758" joined="2013-04-26"/>
+    <cosponsor thomas_id="02001" joined="2013-04-26"/>
+    <cosponsor thomas_id="02034" joined="2013-04-24"/>
+    <cosponsor thomas_id="01955" joined="2013-03-05"/>
+    <cosponsor thomas_id="02157" joined="2013-04-26"/>
+    <cosponsor thomas_id="02141" joined="2013-03-05"/>
+    <cosponsor thomas_id="01514" joined="2013-03-05"/>
+    <cosponsor thomas_id="02022" joined="2013-02-28"/>
+    <cosponsor thomas_id="01915" joined="2013-03-05"/>
+    <cosponsor thomas_id="01778" joined="2013-02-25"/>
+    <cosponsor thomas_id="02118" joined="2013-04-12"/>
+    <cosponsor thomas_id="01982" joined="2013-04-18"/>
+    <cosponsor thomas_id="02073" joined="2013-02-28"/>
+    <cosponsor thomas_id="01954" joined="2013-04-12"/>
+    <cosponsor thomas_id="00979" joined="2013-02-25"/>
+    <cosponsor thomas_id="02017" joined="2013-03-18"/>
+    <cosponsor thomas_id="01848" joined="2013-04-26"/>
+    <cosponsor thomas_id="02158" joined="2013-04-26"/>
+    <cosponsor thomas_id="00998" joined="2013-04-26"/>
+    <cosponsor thomas_id="01009" joined="2013-03-18"/>
+    <cosponsor thomas_id="01892" joined="2013-02-25"/>
+    <cosponsor thomas_id="01994" joined="2013-02-25"/>
+    <cosponsor thomas_id="01525" joined="2013-04-26"/>
+    <cosponsor thomas_id="02168" joined="2013-04-26"/>
+    <cosponsor thomas_id="01981" joined="2013-03-05"/>
+    <cosponsor thomas_id="01155" joined="2013-04-26"/>
+    <cosponsor thomas_id="02137" joined="2013-02-28"/>
+    <cosponsor thomas_id="01855" joined="2013-02-28"/>
+    <cosponsor thomas_id="02128" joined="2013-04-24"/>
+    <cosponsor thomas_id="02152" joined="2013-04-12"/>
+    <cosponsor thomas_id="01779" joined="2013-03-07"/>
+    <cosponsor thomas_id="01688" joined="2013-02-28"/>
+    <cosponsor thomas_id="02008" joined="2013-04-18"/>
+    <cosponsor thomas_id="02021" joined="2013-03-05"/>
+    <cosponsor thomas_id="02115" joined="2013-03-18"/>
+    <cosponsor thomas_id="02019" joined="2013-02-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-25" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <calendar datetime="2013-04-24" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 22 - 14.</text>
+    </calendar>
+    <action datetime="2013-04-30T14:14:00-04:00">
+      <text>Reported (Amended) by the Committee on Ways and Means. H. Rept. 113-48.</text>
+    </action>
+    <calendar datetime="2013-04-30T14:14:00-04:00" calendar="Union" number="29">
+      <text>Placed on the Union Calendar, Calendar No. 29.</text>
+    </calendar>
+    <action datetime="2013-05-07T19:13:00-04:00">
+      <text>Rules Committee Resolution H. Res. 202 Reported to House. Rule provides for consideration of H.R. 807 with 1 hour of general debate. Motion to recommit with or without instructions allowed. Measure will be considered read. A specified amendment is in order.</text>
+    </action>
+    <action datetime="2013-05-08T18:14:00-04:00">
+      <text>Rule H. Res. 202 passed House.</text>
+    </action>
+    <action datetime="2013-05-09T09:25:00-04:00">
+      <text>Considered under the provisions of rule H. Res. 202.</text>
+      <reference ref="CR H2539-2553" label="consideration"/>
+      <reference ref="CR H2539" label="text of measure as reported in House"/>
+    </action>
+    <action datetime="2013-05-09T09:25:00-04:00">
+      <text>Rule provides for consideration of H.R. 807 with 1 hour of general debate. Motion to recommit with or without instructions allowed. Measure will be considered read. A specified amendment is in order.</text>
+    </action>
+    <action datetime="2013-05-09T09:26:00-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 807.</text>
+    </action>
+    <action datetime="2013-05-09T10:17:00-04:00">
+      <text>DEBATE - The House continued with further debate on H.R. 807.</text>
+    </action>
+    <action datetime="2013-05-09T10:34:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H.Res. 202, the House proceeded with 10 minutes of debate on the Camp amendment.</text>
+    </action>
+    <action datetime="2013-05-09T11:13:00-04:00">
+      <text>Mr. Maffei moved to recommit with instructions to Ways and Means.</text>
+      <reference ref="CR H2551-2553" label="consideration"/>
+      <reference ref="CR H2551" label="text"/>
+    </action>
+    <action datetime="2013-05-09T11:14:00-04:00">
+      <text>DEBATE - The House proceeded with 10 minutes of debate on the Maffei motion to recommit with instructions pending reservation of a point of order. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment adding a new section pertaining to the prohibition on default that pays China first instead of protecting America's seniors, veterans, and those harmed by natural disasters. Subsequently, the reservation was removed.</text>
+    </action>
+    <action datetime="2013-05-09T11:24:00-04:00">
+      <text>The previous question on the motion to recommit with instructions was ordered without objection.</text>
+      <reference ref="CR H2552" label="consideration"/>
+    </action>
+    <action datetime="2013-05-09T11:33:00-04:00">
+      <text>On motion to recommit with instructions Failed by recorded vote: 200 - 227 (Roll no. 141).</text>
+    </action>
+    <vote how="roll" type="vote" roll="142" datetime="2013-05-09T11:41:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 221 - 207 (Roll no. 142).</text>
+    </vote>
+    <action datetime="2013-05-09T11:41:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2013-05-13">
+      <text>Received in the Senate and Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, Reporting"/>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="113" relation="rule" number="202"/>
+    <bill type="h" session="113" relation="unknown" number="3052"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Securities"/>
+  </subjects>
+  <amendments>
+    <amendment number="h60"/>
+    <amendment number="h61"/>
+  </amendments>
+  <summary>5/9/2013--Passed House amended.
+Full Faith and Credit Act - Requires the Secretary of the Treasury, in addition to any other authority provided by law, to issue obligations to pay with legal tender, and solely for the purpose of paying, the principal and interest on U.S. obligations held by the public, or held by the Old-Age and Survivors Insurance Trust Fund and Disability Insurance Trust Fund, in the event that the federal debt reaches the statutory limit after enactment of this Act.
+
+Prohibits: (1) the use of the issued obligations to pay compensation for Members of Congress, and (2) these obligations from being taken into account in applying the current $16.394 trillion public debt limit to the extent that they would otherwise cause such limit to be exceeded.
+
+Requires the Secretary, if such authority is exercised after enactment of this Act, to report to specified congressional committees each week the authority is in use and provide an accounting of: (1) the principal on mature obligations and interest due or accrued by the United States, and (2) any obligations issued pursuant to this Act.</summary>
+</bill>

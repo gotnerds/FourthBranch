@@ -1,0 +1,79 @@
+<bill session="113" type="h" number="2540" updated="2014-08-14T13:13:09-04:00">
+  <state datetime="2013-06-27">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-27"/>
+  </status>
+  <introduced datetime="2013-06-27"/>
+  <titles>
+    <title type="short" as="introduced">Expedited Hiring for VA Trained Psychiatrists Act of 2013</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to improve the authority of the Secretary of Veterans Affairs to hire psychiatrists.</title>
+  </titles>
+  <sponsor thomas_id="02159"/>
+  <cosponsors>
+    <cosponsor thomas_id="02093" joined="2014-07-24"/>
+    <cosponsor thomas_id="01740" joined="2013-06-28"/>
+    <cosponsor thomas_id="01723" joined="2014-03-14"/>
+    <cosponsor thomas_id="01840" joined="2013-07-08"/>
+    <cosponsor thomas_id="02107" joined="2013-10-30"/>
+    <cosponsor thomas_id="01925" joined="2013-06-27"/>
+    <cosponsor thomas_id="00186" joined="2013-06-27"/>
+    <cosponsor thomas_id="01878" joined="2013-10-11"/>
+    <cosponsor thomas_id="01959" joined="2013-10-30"/>
+    <cosponsor thomas_id="02123" joined="2013-06-27"/>
+    <cosponsor thomas_id="02125" joined="2013-06-28"/>
+    <cosponsor thomas_id="02164" joined="2014-07-30"/>
+    <cosponsor thomas_id="01708" joined="2014-02-25"/>
+    <cosponsor thomas_id="00511" joined="2013-07-08"/>
+    <cosponsor thomas_id="01913" joined="2013-08-01"/>
+    <cosponsor thomas_id="01634" joined="2013-10-30"/>
+    <cosponsor thomas_id="01663" joined="2013-06-28"/>
+    <cosponsor thomas_id="00588" joined="2014-02-25"/>
+    <cosponsor thomas_id="01921" joined="2013-06-27"/>
+    <cosponsor thomas_id="00612" joined="2014-03-24"/>
+    <cosponsor thomas_id="00616" joined="2013-06-27"/>
+    <cosponsor thomas_id="02190" joined="2013-08-01"/>
+    <cosponsor thomas_id="01907" joined="2014-05-09"/>
+    <cosponsor thomas_id="01501" joined="2013-07-08"/>
+    <cosponsor thomas_id="01846" joined="2013-06-28"/>
+    <cosponsor thomas_id="01504" joined="2013-07-10"/>
+    <cosponsor thomas_id="02162" joined="2013-06-28"/>
+    <cosponsor thomas_id="01510" joined="2013-06-28"/>
+    <cosponsor thomas_id="02113" joined="2013-12-02"/>
+    <cosponsor thomas_id="00910" joined="2014-07-11"/>
+    <cosponsor thomas_id="00944" joined="2013-08-01"/>
+    <cosponsor thomas_id="02068" joined="2013-08-01"/>
+    <cosponsor thomas_id="01916" joined="2013-06-27"/>
+    <cosponsor thomas_id="01003" joined="2013-07-08"/>
+    <cosponsor thomas_id="01756" joined="2013-06-27"/>
+    <cosponsor thomas_id="01962" joined="2013-07-08"/>
+    <cosponsor thomas_id="01861" joined="2013-06-27"/>
+    <cosponsor thomas_id="02099" joined="2013-06-28"/>
+    <cosponsor thomas_id="01942" joined="2013-07-11"/>
+    <cosponsor thomas_id="02112" joined="2014-02-25"/>
+    <cosponsor thomas_id="02021" joined="2013-10-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-27" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-07-12">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Health" code="HSVR03" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Health personnel"/>
+    <term name="Mental health"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>6/27/2013--Introduced.
+Expedited Hiring for VA Trained Psychiatrists Act of 2013 - Authorizes the Secretary of Veterans Affairs (VA) to appoint a psychiatrist who completes a residency at a Veterans Health Administration (VHA) facility to a VHA health care position immediately after such residency, without regard to civil service or classification laws, if: (1) the psychiatrist meets the qualifications established in regulations prescribed for the position, and (2) such position has been unfilled for at least 35 days.</summary>
+</bill>

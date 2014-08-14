@@ -1,0 +1,26 @@
+<bill session="113" type="s" number="2734" updated="2014-08-14T14:08:05-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="short" as="introduced">Oregon and California Land Grant Act of 2014</title>
+    <title type="official" as="introduced">A bill to improve timber management of Oregon and California Railroad and Coos Bay Wagon Road grant land, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01247"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1784"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

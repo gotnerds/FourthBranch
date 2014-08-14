@@ -1,0 +1,129 @@
+<bill session="113" type="h" number="1150" updated="2014-08-14T13:00:29-04:00">
+  <state datetime="2013-03-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-14"/>
+  </status>
+  <introduced datetime="2013-03-14"/>
+  <titles>
+    <title type="short" as="introduced">Preservation of Antibiotics for Medical Treatment Act of 2013</title>
+    <title type="official" as="introduced">To amend the Federal Food, Drug, and Cosmetic Act to preserve the effectiveness of medically important antimicrobials used in the treatment of human and animal diseases.</title>
+  </titles>
+  <sponsor thomas_id="01069"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2013-09-30"/>
+    <cosponsor thomas_id="00099" joined="2013-05-20"/>
+    <cosponsor thomas_id="02092" joined="2013-12-19"/>
+    <cosponsor thomas_id="01723" joined="2013-05-09"/>
+    <cosponsor thomas_id="02159" joined="2013-05-09"/>
+    <cosponsor thomas_id="01970" joined="2013-05-09"/>
+    <cosponsor thomas_id="02055" joined="2013-05-20"/>
+    <cosponsor thomas_id="01864" joined="2013-04-10"/>
+    <cosponsor thomas_id="01878" joined="2013-07-24"/>
+    <cosponsor thomas_id="01959" joined="2013-04-10"/>
+    <cosponsor thomas_id="00229" joined="2013-10-11"/>
+    <cosponsor thomas_id="01641" joined="2013-10-11"/>
+    <cosponsor thomas_id="00279" joined="2013-04-25"/>
+    <cosponsor thomas_id="01479" joined="2013-04-10"/>
+    <cosponsor thomas_id="00281" joined="2013-04-10"/>
+    <cosponsor thomas_id="00303" joined="2013-11-15"/>
+    <cosponsor thomas_id="01894" joined="2014-07-31"/>
+    <cosponsor thomas_id="01857" joined="2013-06-28"/>
+    <cosponsor thomas_id="00355" joined="2013-05-09"/>
+    <cosponsor thomas_id="00367" joined="2013-10-23"/>
+    <cosponsor thomas_id="00368" joined="2013-05-09"/>
+    <cosponsor thomas_id="02122" joined="2013-12-12"/>
+    <cosponsor thomas_id="01708" joined="2013-04-26"/>
+    <cosponsor thomas_id="02089" joined="2013-05-09"/>
+    <cosponsor thomas_id="00511" joined="2013-05-09"/>
+    <cosponsor thomas_id="01913" joined="2013-04-10"/>
+    <cosponsor thomas_id="01580" joined="2013-04-10"/>
+    <cosponsor thomas_id="01634" joined="2013-09-27"/>
+    <cosponsor thomas_id="02101" joined="2013-06-17"/>
+    <cosponsor thomas_id="01663" joined="2013-12-09"/>
+    <cosponsor thomas_id="00599" joined="2013-09-30"/>
+    <cosponsor thomas_id="00616" joined="2013-04-10"/>
+    <cosponsor thomas_id="01668" joined="2013-04-10"/>
+    <cosponsor thomas_id="01675" joined="2013-04-10"/>
+    <cosponsor thomas_id="01583" joined="2013-06-06"/>
+    <cosponsor thomas_id="01501" joined="2013-04-10"/>
+    <cosponsor thomas_id="00683" joined="2013-05-20"/>
+    <cosponsor thomas_id="01781" joined="2013-04-26"/>
+    <cosponsor thomas_id="00701" joined="2013-04-10"/>
+    <cosponsor thomas_id="02111" joined="2013-12-09"/>
+    <cosponsor thomas_id="00729" joined="2013-04-10"/>
+    <cosponsor thomas_id="00735" joined="2013-06-17"/>
+    <cosponsor thomas_id="01814" joined="2014-06-24"/>
+    <cosponsor thomas_id="01653" joined="2013-04-10"/>
+    <cosponsor thomas_id="00766" joined="2013-12-03"/>
+    <cosponsor thomas_id="01504" joined="2013-06-17"/>
+    <cosponsor thomas_id="01730" joined="2013-04-19"/>
+    <cosponsor thomas_id="00808" joined="2013-04-19"/>
+    <cosponsor thomas_id="01811" joined="2013-04-10"/>
+    <cosponsor thomas_id="00832" joined="2013-04-10"/>
+    <cosponsor thomas_id="01602" joined="2013-04-10"/>
+    <cosponsor thomas_id="00868" joined="2013-11-15"/>
+    <cosponsor thomas_id="02097" joined="2013-05-09"/>
+    <cosponsor thomas_id="01929" joined="2014-06-12"/>
+    <cosponsor thomas_id="01927" joined="2013-04-19"/>
+    <cosponsor thomas_id="01910" joined="2013-10-09"/>
+    <cosponsor thomas_id="00930" joined="2013-04-10"/>
+    <cosponsor thomas_id="01967" joined="2014-03-11"/>
+    <cosponsor thomas_id="00944" joined="2013-04-10"/>
+    <cosponsor thomas_id="00997" joined="2013-11-15"/>
+    <cosponsor thomas_id="01003" joined="2013-06-17"/>
+    <cosponsor thomas_id="01756" joined="2014-03-13"/>
+    <cosponsor thomas_id="01757" joined="2014-07-25"/>
+    <cosponsor thomas_id="01588" joined="2013-05-20"/>
+    <cosponsor thomas_id="01635" joined="2014-05-22"/>
+    <cosponsor thomas_id="01861" joined="2013-05-09"/>
+    <cosponsor thomas_id="01526" joined="2013-12-12"/>
+    <cosponsor thomas_id="01890" joined="2013-05-09"/>
+    <cosponsor thomas_id="01535" joined="2013-05-09"/>
+    <cosponsor thomas_id="01942" joined="2013-12-02"/>
+    <cosponsor thomas_id="01884" joined="2013-12-04"/>
+    <cosponsor thomas_id="01205" joined="2013-07-24"/>
+    <cosponsor thomas_id="01209" joined="2013-04-10"/>
+    <cosponsor thomas_id="01879" joined="2013-05-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-14">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E299"/>
+    </action>
+    <action datetime="2013-03-14" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-03-15">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1256"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Administrative remedies"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Drug and radiation therapy"/>
+    <term name="Drug safety, medical device, and laboratory regulation"/>
+    <term name="Food and Drug Administration (FDA)"/>
+    <term name="Livestock"/>
+    <term name="Veterinary medicine and animal diseases"/>
+  </subjects>
+  <amendments/>
+  <summary>3/14/2013--Introduced.
+Preservation of Antibiotics for Medical Treatment Act of 2013 - Amends the Federal Food, Drug, and Cosmetic Act to require an applicant for approval of a new animal drug that is a medically important antimicrobial to demonstrate that there is a reasonable certainty of no harm to human health due to the development of antimicrobial resistance attributable to the nontherapeutic use of the drug. Requires the Secretary of Health and Human Services (HHS) to refuse approval if the applicant fails to make such a demonstration.
+
+Defines &#8220;medically important antimicrobial&#8221; as a drug intended for use in food-producing animals and composed wholly or partly of: (1) any kind of specified antibiotics, including penicillin and tetracycline; or (2) a drug from an antimicrobial class that is listed on the World Health Organization&#8217;s list of critically important antimicrobials.
+
+Requires the Secretary to withdraw approval for the nontherapeutic use in food-producing animals of a medically important microbial marketed for human use unless the Secretary makes a final written determination that, based on either the application holder's demonstration or an HHS risk analysis, there is a reasonable certainty of no harm to human health due to the development of antimicrobial resistance attributable to the drug's nontherapeutic use.
+
+Requires the Secretary to rescind approval of an exemption for investigational use of, or of approval of a new drug application for, a medically important antimicrobial for its nontherapeutic use in a food-producing animal two years after the exemption is granted or the application for approval is submitted. Exempts from this requirement any drugs for which there has been found a reasonable certainty of no harm to human health.
+
+Prohibits the administration of a medically important antimicrobial (including by means of animal feed) to a food-producing animal for nonroutine disease control unless there is a significant risk that a disease or infection present on the premises will be transmitted to the food-producing animal. Requires the administration of the microbial to be: (1) necessary to prevent or reduce the risk of transmission; (2) for the shortest duration possible to prevent or reduce the risk of transmission; and (3) at a scale no greater than the barn, house, or pen level and to the fewest animals possible to prevent or reduce the risk of transmission.</summary>
+</bill>

@@ -1,0 +1,51 @@
+<bill session="113" type="s" number="1724" updated="2014-08-14T13:59:33-04:00">
+  <state datetime="2013-11-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-11-19"/>
+  </status>
+  <introduced datetime="2013-11-19"/>
+  <titles>
+    <title type="short" as="introduced">Union Tax Fairness Act of 2013</title>
+    <title type="official" as="introduced">A bill to provide that the reinsurance fee for the transitional reinsurance program under the Patient Protection and Affordable Care Act be applied equally to all health insurance issuers and group health plans.</title>
+  </titles>
+  <sponsor thomas_id="01534"/>
+  <cosponsors>
+    <cosponsor thomas_id="01695" joined="2013-11-19"/>
+    <cosponsor thomas_id="01881" joined="2013-11-19"/>
+    <cosponsor thomas_id="01687" joined="2013-11-19"/>
+    <cosponsor thomas_id="00188" joined="2013-11-19"/>
+    <cosponsor thomas_id="00212" joined="2013-11-19"/>
+    <cosponsor thomas_id="01542" joined="2013-11-19"/>
+    <cosponsor thomas_id="01351" joined="2013-11-19"/>
+    <cosponsor thomas_id="00583" joined="2013-11-19"/>
+    <cosponsor thomas_id="02086" joined="2013-11-19"/>
+    <cosponsor thomas_id="00968" joined="2013-11-19"/>
+    <cosponsor thomas_id="02056" joined="2013-11-19"/>
+    <cosponsor thomas_id="01609" joined="2013-11-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-11-19">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S8189-8190"/>
+    </action>
+    <action datetime="2013-11-19" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="3755"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Comprehensive health care"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Insurance industry and regulation"/>
+  </subjects>
+  <amendments/>
+  <summary>11/19/2013--Introduced.
+Union Tax Fairness Act of 2013 - Requires that the payments to an applicable reinsurance entity for any plan year beginning in the three-year period beginning January 1, 2014, required under the Patient Protection and Affordable Care Act be applied equally to all health insurance issuers and third party administrators (on behalf of group health plans). Prohibits such payments from being waived on behalf of any such issuer, administrator, or group health plan.</summary>
+</bill>

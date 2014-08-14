@@ -1,0 +1,81 @@
+<bill session="113" type="h" number="1891" updated="2014-08-14T13:06:49-04:00">
+  <state datetime="2013-05-08">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-08"/>
+  </status>
+  <introduced datetime="2013-05-08"/>
+  <titles>
+    <title type="short" as="introduced">Science Laureates of the United States Act of 2013</title>
+    <title type="official" as="introduced">To establish a position of Science Laureate of the United States.</title>
+  </titles>
+  <sponsor thomas_id="00701"/>
+  <cosponsors>
+    <cosponsor thomas_id="02102" joined="2013-05-08"/>
+    <cosponsor thomas_id="02092" joined="2013-05-08"/>
+    <cosponsor thomas_id="02106" joined="2013-05-08"/>
+    <cosponsor thomas_id="01564" joined="2013-06-14"/>
+    <cosponsor thomas_id="02107" joined="2013-06-20"/>
+    <cosponsor thomas_id="02159" joined="2013-07-25"/>
+    <cosponsor thomas_id="02151" joined="2013-07-11"/>
+    <cosponsor thomas_id="02144" joined="2013-05-08"/>
+    <cosponsor thomas_id="02133" joined="2013-07-11"/>
+    <cosponsor thomas_id="02114" joined="2013-05-08"/>
+    <cosponsor thomas_id="01708" joined="2013-05-20"/>
+    <cosponsor thomas_id="01580" joined="2013-09-16"/>
+    <cosponsor thomas_id="01634" joined="2013-06-06"/>
+    <cosponsor thomas_id="02015" joined="2013-05-08"/>
+    <cosponsor thomas_id="00599" joined="2013-05-08"/>
+    <cosponsor thomas_id="02172" joined="2013-05-08"/>
+    <cosponsor thomas_id="02169" joined="2013-05-08"/>
+    <cosponsor thomas_id="02145" joined="2013-06-14"/>
+    <cosponsor thomas_id="00688" joined="2013-05-20"/>
+    <cosponsor thomas_id="01781" joined="2013-05-08"/>
+    <cosponsor thomas_id="00735" joined="2013-05-20"/>
+    <cosponsor thomas_id="01653" joined="2013-05-23"/>
+    <cosponsor thomas_id="01504" joined="2013-10-02"/>
+    <cosponsor thomas_id="01832" joined="2013-06-06"/>
+    <cosponsor thomas_id="01730" joined="2013-06-20"/>
+    <cosponsor thomas_id="00832" joined="2013-09-23"/>
+    <cosponsor thomas_id="02113" joined="2013-05-08"/>
+    <cosponsor thomas_id="01910" joined="2013-06-14"/>
+    <cosponsor thomas_id="00930" joined="2013-06-14"/>
+    <cosponsor thomas_id="01861" joined="2013-07-11"/>
+    <cosponsor thomas_id="01069" joined="2013-05-23"/>
+    <cosponsor thomas_id="01075" joined="2013-05-08"/>
+    <cosponsor thomas_id="02104" joined="2013-05-08"/>
+    <cosponsor thomas_id="02110" joined="2013-05-08"/>
+    <cosponsor thomas_id="02166" joined="2013-05-08"/>
+    <cosponsor thomas_id="02004" joined="2013-05-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-08" state="REFERRED">
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="2013-06-24">
+      <text>Referred to the Subcommittee on Research and Technology.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSSY" name="House Science, Space, and Technology" activity="Referral, In Committee"/>
+    <committee subcommittee="Research and Technology" code="HSSY15" name="House Science, Space, and Technology" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="4176"/>
+    <bill type="s" session="113" relation="identical" number="899"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="General science and technology matters"/>
+    <term name="Research administration and funding"/>
+    <term name="Science and engineering education"/>
+  </subjects>
+  <amendments/>
+  <summary>5/8/2013--Introduced.
+Science Laureates of the United States Act of 2013 - Establishes the position of Science Laureate of the United States.
+
+Requires the President to appoint a Science Laureate on the basis of: (1) merit, particularly the ability of such individual to foster and enhance public awareness and interest in science and to provide ongoing significant scientific contributions; and (2) recommendations received by the National Academy of Sciences (NAS) based on those factors.
+
+Encourages each Science Laureate to continue his or her scientific work and directs the NAS to facilitate his or her duties.
+
+Requires each Science Laureate to serve a term of one or two years.</summary>
+</bill>

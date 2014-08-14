@@ -1,0 +1,45 @@
+<bill session="113" type="h" number="5338" updated="2014-08-14T13:37:03-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="short" as="introduced">Federal Employee Pension Fairness Act</title>
+    <title type="official" as="introduced">To repeal the revised annuity employee and further revised annuity employee categories within the Federal Employees Retirement System, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01894"/>
+  <cosponsors>
+    <cosponsor thomas_id="02159" joined="2014-08-01"/>
+    <cosponsor thomas_id="01959" joined="2014-07-31"/>
+    <cosponsor thomas_id="00256" joined="2014-07-31"/>
+    <cosponsor thomas_id="01857" joined="2014-07-31"/>
+    <cosponsor thomas_id="00616" joined="2014-07-31"/>
+    <cosponsor thomas_id="01686" joined="2014-07-31"/>
+    <cosponsor thomas_id="01653" joined="2014-08-01"/>
+    <cosponsor thomas_id="00868" joined="2014-07-31"/>
+    <cosponsor thomas_id="00944" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committees on Oversight and Government Reform, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

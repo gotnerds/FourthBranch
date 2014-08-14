@@ -1,0 +1,34 @@
+<bill session="113" type="s" number="2487" updated="2014-08-14T14:06:01-04:00">
+  <state datetime="2014-06-18">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-18"/>
+  </status>
+  <introduced datetime="2014-06-18"/>
+  <titles>
+    <title type="short" as="introduced">Access to Capital, Access to Opportunity Act</title>
+    <title type="official" as="introduced">A bill to amend the Small Business Act to increase the maximum loan limits under the microloan program, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02179"/>
+  <cosponsors>
+    <cosponsor thomas_id="02056" joined="2014-06-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-18" state="REFERRED">
+      <text>Read twice and referred to the Committee on Small Business and Entrepreneurship.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSSB" name="Senate Small Business and Entrepreneurship" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Business investment and capital"/>
+    <term name="Government information and archives"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Minority and disadvantaged businesses"/>
+    <term name="Performance measurement"/>
+    <term name="Small business"/>
+  </subjects>
+  <amendments/>
+</bill>

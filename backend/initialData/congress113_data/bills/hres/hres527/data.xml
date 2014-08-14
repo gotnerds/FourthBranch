@@ -1,0 +1,62 @@
+<bill session="113" type="hr" number="527" updated="2014-08-14T12:49:06-04:00">
+  <state datetime="2014-03-27">REFERRED</state>
+  <status>
+    <introduced datetime="2014-03-27"/>
+  </status>
+  <introduced datetime="2014-03-27"/>
+  <titles>
+    <title type="official" as="introduced">Supporting the goals and ideals of National Public Health Week.</title>
+  </titles>
+  <sponsor thomas_id="00997"/>
+  <cosponsors>
+    <cosponsor thomas_id="01864" joined="2014-03-27"/>
+    <cosponsor thomas_id="01708" joined="2014-03-27"/>
+    <cosponsor thomas_id="02089" joined="2014-03-27"/>
+    <cosponsor thomas_id="01634" joined="2014-03-27"/>
+    <cosponsor thomas_id="00599" joined="2014-04-09"/>
+    <cosponsor thomas_id="02190" joined="2014-04-09"/>
+    <cosponsor thomas_id="01501" joined="2014-03-27"/>
+    <cosponsor thomas_id="01846" joined="2014-03-27"/>
+    <cosponsor thomas_id="00701" joined="2014-05-15"/>
+    <cosponsor thomas_id="02146" joined="2014-03-27"/>
+    <cosponsor thomas_id="01939" joined="2014-03-27"/>
+    <cosponsor thomas_id="01653" joined="2014-03-27"/>
+    <cosponsor thomas_id="01504" joined="2014-03-27"/>
+    <cosponsor thomas_id="01003" joined="2014-04-03"/>
+    <cosponsor thomas_id="01722" joined="2014-03-27"/>
+    <cosponsor thomas_id="01940" joined="2014-04-28"/>
+    <cosponsor thomas_id="02167" joined="2014-03-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-03-27" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2014-03-28">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="113" relation="unknown" number="124"/>
+    <bill type="sr" session="113" relation="unknown" number="91"/>
+    <bill type="sr" session="113" relation="unknown" number="415"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Health care quality"/>
+    <term name="Health personnel"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Health promotion and preventive care"/>
+  </subjects>
+  <amendments/>
+  <summary>3/27/2014--Introduced.
+Expresses support for the goals and ideals of National Public Health Week.
+
+Recognizes the efforts of public health professionals, governments, tribes, and individuals in preventing disease and injury.
+
+Encourages increased efforts and resources to improve the health of people in the United States to create the healthiest nation in one generation through greater opportunities to improve community health and prevent disease and injury and through the strengthening of the public health system.</summary>
+</bill>

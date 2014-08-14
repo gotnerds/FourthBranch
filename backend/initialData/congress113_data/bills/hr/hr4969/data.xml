@@ -1,0 +1,51 @@
+<bill session="113" type="h" number="4969" updated="2014-08-14T13:33:53-04:00">
+  <state datetime="2014-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-25"/>
+  </status>
+  <introduced datetime="2014-06-25"/>
+  <titles>
+    <title type="short" as="introduced">Amateur Radio Parity Act of 2014</title>
+    <title type="official" as="introduced">To direct the Federal Communications Commission to extend to private land use restrictions its rule relating to reasonable accommodation of amateur service communications.</title>
+  </titles>
+  <sponsor thomas_id="02014"/>
+  <cosponsors>
+    <cosponsor thomas_id="02151" joined="2014-08-01"/>
+    <cosponsor thomas_id="01836" joined="2014-06-25"/>
+    <cosponsor thomas_id="02043" joined="2014-07-23"/>
+    <cosponsor thomas_id="02070" joined="2014-07-31"/>
+    <cosponsor thomas_id="02041" joined="2014-07-15"/>
+    <cosponsor thomas_id="02044" joined="2014-07-31"/>
+    <cosponsor thomas_id="01663" joined="2014-07-29"/>
+    <cosponsor thomas_id="00612" joined="2014-08-01"/>
+    <cosponsor thomas_id="01907" joined="2014-07-31"/>
+    <cosponsor thomas_id="01936" joined="2014-08-01"/>
+    <cosponsor thomas_id="01503" joined="2014-07-29"/>
+    <cosponsor thomas_id="01505" joined="2014-07-23"/>
+    <cosponsor thomas_id="01982" joined="2014-08-01"/>
+    <cosponsor thomas_id="01566" joined="2014-07-31"/>
+    <cosponsor thomas_id="02002" joined="2014-07-29"/>
+    <cosponsor thomas_id="01879" joined="2014-07-15"/>
+    <cosponsor thomas_id="02152" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-25" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Broadcasting, cable, digital technologies"/>
+    <term name="Federal Communications Commission (FCC)"/>
+    <term name="Federal preemption"/>
+    <term name="Land use and conservation"/>
+    <term name="State and local government operations"/>
+    <term name="Telephone and wireless communication"/>
+  </subjects>
+  <amendments/>
+</bill>

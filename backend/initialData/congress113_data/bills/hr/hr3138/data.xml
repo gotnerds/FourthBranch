@@ -1,0 +1,50 @@
+<bill session="113" type="h" number="3138" updated="2014-08-14T13:18:12-04:00">
+  <state datetime="2013-09-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-09-19"/>
+  </status>
+  <introduced datetime="2013-09-19"/>
+  <titles>
+    <title type="short" as="introduced">Satisfying Energy Needs and Saving the Environment Act of 2013</title>
+    <title type="short" as="introduced">SENSE Act of 2013</title>
+    <title type="official" as="introduced">To provide that certain emission limits for hydrogen chloride and sulfur dioxide shall not apply to certain existing electric utility steam generating units that use circulating fluidized bed technology to convert coal refuse into energy.</title>
+  </titles>
+  <sponsor thomas_id="02158"/>
+  <cosponsors>
+    <cosponsor thomas_id="02054" joined="2013-09-19"/>
+    <cosponsor thomas_id="01799" joined="2013-09-19"/>
+    <cosponsor thomas_id="01885" joined="2014-03-26"/>
+    <cosponsor thomas_id="01744" joined="2013-12-02"/>
+    <cosponsor thomas_id="01952" joined="2013-09-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-19" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-09-20">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Energy and Power" code="HSIF03" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="4304"/>
+    <bill type="h" session="113" relation="unknown" number="4304"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Air quality"/>
+    <term name="Coal"/>
+    <term name="Electric power generation and transmission"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Lighting and heating"/>
+    <term name="Solid waste and recycling"/>
+  </subjects>
+  <amendments/>
+  <summary>9/19/2013--Introduced.
+Satisfying Energy Needs and Saving the Environment Act of 2013 or the SENSE Act of 2013 - Makes certain emission limits for hydrogen chloride and sulfur dioxide, in regulations entitled "Emission Limits for Existing EGUs," inapplicable to an electric utility steam generating unit in the subcategory "Coal-fired unit not low rank virgin coal" if the unit: (1) is in operation as of the date of enactment of this Act, (2) utilizes circulating fluidized bed technology to convert coal refuse into energy, and (3) derives at least 75 percent of its heat input from coal refuse or is a qualifying small power production or cogeneration facility as defined by the Federal Power Act.</summary>
+</bill>

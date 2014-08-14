@@ -1,0 +1,143 @@
+<bill session="113" type="hj" number="1" updated="2014-08-14T13:37:34-04:00">
+  <state datetime="2013-01-03">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-03"/>
+  </status>
+  <introduced datetime="2013-01-03"/>
+  <titles>
+    <title type="official" as="introduced">Proposing a balanced budget amendment to the Constitution of the United States.</title>
+  </titles>
+  <sponsor thomas_id="00446"/>
+  <cosponsors>
+    <cosponsor thomas_id="00038" joined="2013-01-03"/>
+    <cosponsor thomas_id="02131" joined="2013-01-15"/>
+    <cosponsor thomas_id="02027" joined="2013-02-25"/>
+    <cosponsor thomas_id="02135" joined="2013-06-11"/>
+    <cosponsor thomas_id="01838" joined="2013-01-03"/>
+    <cosponsor thomas_id="01748" joined="2013-01-03"/>
+    <cosponsor thomas_id="01787" joined="2013-01-03"/>
+    <cosponsor thomas_id="01882" joined="2013-01-03"/>
+    <cosponsor thomas_id="01840" joined="2013-01-03"/>
+    <cosponsor thomas_id="02018" joined="2013-02-25"/>
+    <cosponsor thomas_id="01751" joined="2013-01-15"/>
+    <cosponsor thomas_id="00166" joined="2013-02-25"/>
+    <cosponsor thomas_id="00186" joined="2013-01-03"/>
+    <cosponsor thomas_id="01956" joined="2013-01-03"/>
+    <cosponsor thomas_id="01912" joined="2013-01-03"/>
+    <cosponsor thomas_id="02121" joined="2013-01-03"/>
+    <cosponsor thomas_id="01805" joined="2013-01-03"/>
+    <cosponsor thomas_id="01989" joined="2013-01-03"/>
+    <cosponsor thomas_id="01670" joined="2013-01-03"/>
+    <cosponsor thomas_id="01799" joined="2013-01-03"/>
+    <cosponsor thomas_id="02116" joined="2013-02-25"/>
+    <cosponsor thomas_id="02057" joined="2013-01-03"/>
+    <cosponsor thomas_id="00322" joined="2013-01-03"/>
+    <cosponsor thomas_id="02064" joined="2013-01-15"/>
+    <cosponsor thomas_id="02065" joined="2013-02-25"/>
+    <cosponsor thomas_id="01683" joined="2013-02-25"/>
+    <cosponsor thomas_id="01707" joined="2013-01-03"/>
+    <cosponsor thomas_id="01998" joined="2013-02-25"/>
+    <cosponsor thomas_id="01737" joined="2013-01-03"/>
+    <cosponsor thomas_id="01743" joined="2013-01-03"/>
+    <cosponsor thomas_id="02049" joined="2013-01-03"/>
+    <cosponsor thomas_id="01720" joined="2013-07-09"/>
+    <cosponsor thomas_id="02058" joined="2013-01-15"/>
+    <cosponsor thomas_id="01979" joined="2013-02-25"/>
+    <cosponsor thomas_id="02070" joined="2013-01-03"/>
+    <cosponsor thomas_id="01922" joined="2013-01-15"/>
+    <cosponsor thomas_id="00484" joined="2013-01-15"/>
+    <cosponsor thomas_id="02032" joined="2013-02-25"/>
+    <cosponsor thomas_id="01749" joined="2013-02-25"/>
+    <cosponsor thomas_id="02143" joined="2013-01-15"/>
+    <cosponsor thomas_id="02140" joined="2013-07-30"/>
+    <cosponsor thomas_id="02028" joined="2013-01-03"/>
+    <cosponsor thomas_id="02015" joined="2013-01-03"/>
+    <cosponsor thomas_id="02069" joined="2013-01-03"/>
+    <cosponsor thomas_id="01640" joined="2013-02-25"/>
+    <cosponsor thomas_id="01868" joined="2013-02-25"/>
+    <cosponsor thomas_id="01724" joined="2013-01-03"/>
+    <cosponsor thomas_id="01733" joined="2013-02-25"/>
+    <cosponsor thomas_id="02011" joined="2013-01-03"/>
+    <cosponsor thomas_id="01834" joined="2013-01-03"/>
+    <cosponsor thomas_id="01936" joined="2013-01-03"/>
+    <cosponsor thomas_id="02033" joined="2013-02-25"/>
+    <cosponsor thomas_id="00711" joined="2013-03-15"/>
+    <cosponsor thomas_id="01931" joined="2013-01-03"/>
+    <cosponsor thomas_id="02053" joined="2013-01-03"/>
+    <cosponsor thomas_id="01804" joined="2013-02-25"/>
+    <cosponsor thomas_id="02074" joined="2013-01-03"/>
+    <cosponsor thomas_id="01809" joined="2013-01-03"/>
+    <cosponsor thomas_id="02142" joined="2013-01-15"/>
+    <cosponsor thomas_id="01731" joined="2013-01-03"/>
+    <cosponsor thomas_id="01685" joined="2013-01-03"/>
+    <cosponsor thomas_id="02156" joined="2013-02-25"/>
+    <cosponsor thomas_id="02059" joined="2013-01-03"/>
+    <cosponsor thomas_id="01744" joined="2013-07-09"/>
+    <cosponsor thomas_id="02001" joined="2013-01-03"/>
+    <cosponsor thomas_id="01955" joined="2013-01-03"/>
+    <cosponsor thomas_id="02035" joined="2013-01-03"/>
+    <cosponsor thomas_id="01738" joined="2013-01-03"/>
+    <cosponsor thomas_id="02141" joined="2013-03-04"/>
+    <cosponsor thomas_id="01802" joined="2013-01-03"/>
+    <cosponsor thomas_id="02022" joined="2013-08-02"/>
+    <cosponsor thomas_id="01915" joined="2013-01-03"/>
+    <cosponsor thomas_id="02073" joined="2013-02-25"/>
+    <cosponsor thomas_id="01954" joined="2013-01-03"/>
+    <cosponsor thomas_id="02017" joined="2013-02-25"/>
+    <cosponsor thomas_id="01848" joined="2013-01-03"/>
+    <cosponsor thomas_id="02003" joined="2013-02-25"/>
+    <cosponsor thomas_id="00998" joined="2013-02-25"/>
+    <cosponsor thomas_id="01012" joined="2013-06-11"/>
+    <cosponsor thomas_id="01892" joined="2013-02-25"/>
+    <cosponsor thomas_id="01041" joined="2013-01-03"/>
+    <cosponsor thomas_id="01525" joined="2013-07-30"/>
+    <cosponsor thomas_id="02191" joined="2013-07-09"/>
+    <cosponsor thomas_id="01075" joined="2013-01-03"/>
+    <cosponsor thomas_id="01177" joined="2013-01-15"/>
+    <cosponsor thomas_id="01855" joined="2013-01-03"/>
+    <cosponsor thomas_id="02161" joined="2013-02-25"/>
+    <cosponsor thomas_id="02152" joined="2013-03-15"/>
+    <cosponsor thomas_id="01779" joined="2013-01-03"/>
+    <cosponsor thomas_id="01688" joined="2013-01-03"/>
+    <cosponsor thomas_id="01886" joined="2013-01-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-03">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E4-5"/>
+    </action>
+    <action datetime="2013-01-03" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-01-25">
+      <text>Referred to the Subcommittee on the Constitution And Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee subcommittee="Constitution and Civil Justice" code="HSJU10" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hj" session="113" relation="unknown" number="2"/>
+    <bill type="hj" session="113" relation="unknown" number="6"/>
+    <bill type="hj" session="113" relation="unknown" number="11"/>
+    <bill type="hj" session="113" relation="unknown" number="36"/>
+    <bill type="hj" session="113" relation="unknown" number="38"/>
+    <bill type="hj" session="113" relation="identical" number="49"/>
+    <bill type="sj" session="113" relation="unknown" number="20"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Constitution and constitutional amendments"/>
+    <term name="Income tax rates"/>
+    <term name="Legislative rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>1/3/2013--Introduced.
+Constitutional Amendment - Prohibits total outlays for a fiscal year (except those for repayment of debt principal) from exceeding total receipts for that fiscal year (except those derived from borrowing) unless Congress, by a three-fifths rollcall vote of each chamber, authorizes a specific excess of outlays over receipts.
+
+Limits total outlays for any fiscal year to one-fifth of the U.S. economic output, unless two-thirds of each house of Congress provides for a specific increase above this amount.
+
+Requires a three-fifths rollcall vote of each chamber to increase the limit on U.S. debt held by the public. Directs the President to submit a balanced budget to Congress annually. Prohibits any bill to increase revenue from becoming law unless approved by three-fifths of each chamber by rollcall vote. Authorizes waivers of these requirements and prohibitions when a declaration of war is in effect or under other specified circumstances involving military conflict. Requires any such waiver to identify and be limited to the specific excess or increase for that fiscal year made necessary by the identified military conflict.</summary>
+</bill>

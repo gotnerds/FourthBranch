@@ -1,0 +1,50 @@
+<bill session="113" type="h" number="4023" updated="2014-08-14T13:25:44-04:00">
+  <state datetime="2014-02-10">REFERRED</state>
+  <status>
+    <introduced datetime="2014-02-10"/>
+  </status>
+  <introduced datetime="2014-02-10"/>
+  <titles>
+    <title type="short" as="introduced">Fairness to Pet Owners Act of 2014</title>
+    <title type="official" as="introduced">To promote competition and help consumers save money by giving them the freedom to choose where they buy prescription pet medications, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01671"/>
+  <cosponsors>
+    <cosponsor thomas_id="02159" joined="2014-07-23"/>
+    <cosponsor thomas_id="01956" joined="2014-02-10"/>
+    <cosponsor thomas_id="00612" joined="2014-03-25"/>
+    <cosponsor thomas_id="00832" joined="2014-03-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-02-10" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2014-02-14">
+      <text>Referred to the Subcommittee on Commerce, Manufacturing, and Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Commerce, Manufacturing, and Trade" code="HSIF17" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Civil actions and liability"/>
+    <term name="Consumer affairs"/>
+    <term name="Federal Trade Commission (FTC)"/>
+    <term name="Medical ethics"/>
+    <term name="Prescription drugs"/>
+    <term name="Veterinary medicine and animal diseases"/>
+  </subjects>
+  <amendments/>
+  <summary>2/10/2014--Introduced.
+Fairness to Pet Owners Act of 2014 - Requires the Federal Trade Commission (FTC) to promulgate rules relating to veterinary prescriptions that: (1) require the prescriber of an animal drug to provide a copy of the prescription to the pet owner before offering to fill it or dispensing it and, upon request, to a pharmacy or any other person designated to act on behalf of the pet owner; (2) prohibit such a prescriber from requiring, as a condition for providing a copy of such prescription, purchase of the drug from the prescriber or another person, a payment as part of or in addition to the examination fee, or the signing by or delivery to the pet owner of a notice waiving or disclaiming liability of the prescriber for the accuracy of the prescription; and (3) permit the prescriber to require payment of fees for an examination before providing a prescription, but only if the prescriber requires immediate payment in the case of an examination that reveals no requirement for an animal drug.
+
+ Defines "veterinary prescription" to exclude an animal drug administered by the veterinarian in the course of providing acute care.
+
+Makes this Act applicable only to medication for a domesticated household animal that the federal government prevents consumers from purchasing without a prescription.
+
+Requires a violation of this Act to be treated as a an unfair or deceptive act or practice under the Federal Trade Commission Act.</summary>
+</bill>

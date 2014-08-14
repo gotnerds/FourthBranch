@@ -1,0 +1,58 @@
+<bill session="113" type="hr" number="171" updated="2014-08-14T12:46:05-04:00">
+  <state datetime="2013-04-18">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-18"/>
+  </status>
+  <introduced datetime="2013-04-18"/>
+  <titles>
+    <title type="official" as="introduced">Condemning the Republic of the Sudan for its actions to pardon Mubarak Mustafa, who was responsible for the escape of two men convicted of the assassination of John Granville on January 1, 2008, and calling on the United States Department of State to continue to include Sudan on the list of state sponsors of terrorism.</title>
+  </titles>
+  <sponsor thomas_id="01794"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2013-04-18"/>
+    <cosponsor thomas_id="01740" joined="2013-05-13"/>
+    <cosponsor thomas_id="02151" joined="2013-04-18"/>
+    <cosponsor thomas_id="01959" joined="2013-04-18"/>
+    <cosponsor thomas_id="00344" joined="2013-04-18"/>
+    <cosponsor thomas_id="00367" joined="2013-04-18"/>
+    <cosponsor thomas_id="01663" joined="2013-04-18"/>
+    <cosponsor thomas_id="00635" joined="2013-04-18"/>
+    <cosponsor thomas_id="02148" joined="2013-04-18"/>
+    <cosponsor thomas_id="01974" joined="2013-04-18"/>
+    <cosponsor thomas_id="01069" joined="2013-04-18"/>
+    <cosponsor thomas_id="01114" joined="2013-04-18"/>
+    <cosponsor thomas_id="01238" joined="2014-06-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-18" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2013-05-06">
+      <text>Referred to the Subcommittee on Africa, Global Health, Global Human Rights and International Organizations.</text>
+    </action>
+    <action datetime="2013-05-06">
+      <text>Referred to the Subcommittee on Terrorism, Nonproliferation, and Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee subcommittee="Africa, Global Health, Global Human Rights and International Organizations" code="HSFA16" name="House Foreign Affairs" activity="Referral"/>
+    <committee subcommittee="Terrorism, Nonproliferation, and Trade" code="HSFA18" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Africa"/>
+    <term name="Correctional facilities and imprisonment"/>
+    <term name="Criminal procedure and sentencing"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Sudan"/>
+    <term name="Terrorism"/>
+    <term name="Violent crime"/>
+  </subjects>
+  <amendments/>
+  <summary>4/18/2013--Introduced.
+Condemns the government of the Republic of the Sudan's pardon of Mubarak Mustafa for his role in allowing the men convicted of the assassination of John Granville to escape imprisonment.
+
+ Calls on the Department of State to continue to list Sudan on the state sponsors of terrorism list until the men convicted of the assassination of John Granville are apprehended and the pardon of Mubarak Mustafa is repealed.</summary>
+</bill>

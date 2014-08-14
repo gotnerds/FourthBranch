@@ -1,0 +1,24 @@
+<bill session="113" type="h" number="5259" updated="2014-08-14T13:36:23-04:00">
+  <state datetime="2014-07-30">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-30"/>
+  </status>
+  <introduced datetime="2014-07-30"/>
+  <titles>
+    <title type="short" as="introduced">Investing for Tomorrow's Schools Act of 2014</title>
+    <title type="official" as="introduced">To establish State infrastructure banks for education.</title>
+  </titles>
+  <sponsor thomas_id="02101"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-30" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

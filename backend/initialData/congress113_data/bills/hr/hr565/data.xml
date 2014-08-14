@@ -1,0 +1,73 @@
+<bill session="113" type="h" number="565" updated="2014-08-14T12:55:33-04:00">
+  <state datetime="2013-02-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-06"/>
+  </status>
+  <introduced datetime="2013-02-06"/>
+  <titles>
+    <title type="short" as="introduced">Cardiomyopathy Health Education, Awareness, Risk Assessment, and Training in the Schools (HEARTS) Act of 2013</title>
+    <title type="official" as="introduced">To amend title III of the Public Health Service Act to authorize and support the creation of cardiomyopathy education, awareness, and risk assessment materials and resources by the Secretary of Health and Human Services through the Centers for Disease Control and Prevention and the dissemination of such materials and resources by State educational agencies to identify more at-risk families.</title>
+  </titles>
+  <sponsor thomas_id="00887"/>
+  <cosponsors>
+    <cosponsor thomas_id="02131" joined="2013-06-11"/>
+    <cosponsor thomas_id="01780" joined="2013-04-09"/>
+    <cosponsor thomas_id="00132" joined="2013-07-22"/>
+    <cosponsor thomas_id="01889" joined="2013-02-26"/>
+    <cosponsor thomas_id="02159" joined="2013-12-19"/>
+    <cosponsor thomas_id="01878" joined="2013-04-09"/>
+    <cosponsor thomas_id="01641" joined="2013-04-25"/>
+    <cosponsor thomas_id="01708" joined="2013-10-09"/>
+    <cosponsor thomas_id="00511" joined="2013-02-26"/>
+    <cosponsor thomas_id="02101" joined="2013-09-19"/>
+    <cosponsor thomas_id="00588" joined="2014-02-25"/>
+    <cosponsor thomas_id="01843" joined="2013-04-09"/>
+    <cosponsor thomas_id="00683" joined="2014-07-10"/>
+    <cosponsor thomas_id="01781" joined="2013-10-07"/>
+    <cosponsor thomas_id="01846" joined="2013-04-25"/>
+    <cosponsor thomas_id="01939" joined="2013-09-17"/>
+    <cosponsor thomas_id="01686" joined="2013-04-10"/>
+    <cosponsor thomas_id="00735" joined="2013-02-25"/>
+    <cosponsor thomas_id="01504" joined="2013-03-05"/>
+    <cosponsor thomas_id="01730" joined="2013-03-12"/>
+    <cosponsor thomas_id="02097" joined="2013-09-10"/>
+    <cosponsor thomas_id="01835" joined="2013-02-25"/>
+    <cosponsor thomas_id="00944" joined="2013-09-09"/>
+    <cosponsor thomas_id="01756" joined="2013-03-21"/>
+    <cosponsor thomas_id="02004" joined="2013-05-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-06" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-02-08">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="254"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Cardiovascular and respiratory health"/>
+    <term name="Child care and development"/>
+    <term name="Child health"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Emergency medical services and trauma care"/>
+    <term name="Government information and archives"/>
+    <term name="Health information and medical records"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Preschool education"/>
+    <term name="Teaching, teachers, curricula"/>
+  </subjects>
+  <amendments/>
+  <summary>2/6/2013--Introduced.
+Cardiomyopathy Health Education, Awareness, Risk Assessment, and Training in the Schools (HEARTS) Act of 2013 - Amends the Public Health Service Act to direct the Secretary of Health and Human Services (HHS), in conjunction with the Director of the Centers for Disease Control and Prevention (CDC), to develop and disseminate to school administrators, educators, school health professionals, coaches, and families, as well as to state and local health departments, pediatricians, hospitals, and other health professionals, of public education and awareness materials and resources that include: (1) background information to increase education and awareness of cardiomyopathy (a disease of the heart muscle) among school administrators, educators, and families; (2) a cardiomyopathy risk assessment worksheet for use by parents, guardians, or other caregivers; (3) guidelines regarding the placement of automated external defibrillators in schools and child care centers; (4) training information on defibrillators and cardiopulmonary resuscitation; and (5) recommendations for how schools and child care centers can develop and implement a cardiac emergency response plan.
+
+Encourages the Secretary, in support of such effort, to: (1) establish an advisory panel, and (2) engage in a memorandum of understanding or cooperative agreement with a national nonprofit advocacy organization expert in all forms of cardiomyopathy.</summary>
+</bill>

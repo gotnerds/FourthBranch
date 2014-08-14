@@ -1,0 +1,74 @@
+<bill session="113" type="h" number="5009" updated="2014-08-14T13:34:14-04:00">
+  <state datetime="2014-06-26">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-26"/>
+  </status>
+  <introduced datetime="2014-06-26"/>
+  <titles>
+    <title type="short" as="introduced">Military Separation Pay Fairness Act of 2014</title>
+    <title type="official" as="introduced">To require the payment of the full amount of separation pay otherwise due to former members of the Armed Forces who were separated under the former Don't Ask, Don't Tell Policy of the Department of Defense and were only paid a portion of the full amount.</title>
+  </titles>
+  <sponsor thomas_id="01890"/>
+  <cosponsors>
+    <cosponsor thomas_id="00099" joined="2014-07-03"/>
+    <cosponsor thomas_id="01471" joined="2014-07-03"/>
+    <cosponsor thomas_id="02159" joined="2014-07-30"/>
+    <cosponsor thomas_id="02055" joined="2014-07-03"/>
+    <cosponsor thomas_id="01864" joined="2014-07-10"/>
+    <cosponsor thomas_id="00229" joined="2014-07-10"/>
+    <cosponsor thomas_id="01836" joined="2014-07-15"/>
+    <cosponsor thomas_id="01604" joined="2014-07-03"/>
+    <cosponsor thomas_id="02096" joined="2014-07-03"/>
+    <cosponsor thomas_id="01857" joined="2014-07-03"/>
+    <cosponsor thomas_id="00355" joined="2014-07-03"/>
+    <cosponsor thomas_id="00368" joined="2014-07-03"/>
+    <cosponsor thomas_id="02119" joined="2014-07-15"/>
+    <cosponsor thomas_id="02120" joined="2014-07-03"/>
+    <cosponsor thomas_id="01803" joined="2014-07-03"/>
+    <cosponsor thomas_id="01708" joined="2014-07-03"/>
+    <cosponsor thomas_id="02089" joined="2014-07-03"/>
+    <cosponsor thomas_id="01794" joined="2014-07-03"/>
+    <cosponsor thomas_id="01580" joined="2014-07-03"/>
+    <cosponsor thomas_id="01634" joined="2014-07-03"/>
+    <cosponsor thomas_id="01843" joined="2014-07-03"/>
+    <cosponsor thomas_id="02169" joined="2014-07-30"/>
+    <cosponsor thomas_id="02145" joined="2014-07-03"/>
+    <cosponsor thomas_id="01668" joined="2014-07-03"/>
+    <cosponsor thomas_id="01501" joined="2014-07-10"/>
+    <cosponsor thomas_id="00688" joined="2014-07-03"/>
+    <cosponsor thomas_id="02111" joined="2014-07-03"/>
+    <cosponsor thomas_id="02146" joined="2014-07-03"/>
+    <cosponsor thomas_id="00729" joined="2014-07-03"/>
+    <cosponsor thomas_id="02150" joined="2014-07-03"/>
+    <cosponsor thomas_id="01653" joined="2014-07-03"/>
+    <cosponsor thomas_id="00766" joined="2014-07-03"/>
+    <cosponsor thomas_id="01504" joined="2014-07-10"/>
+    <cosponsor thomas_id="01730" joined="2014-07-15"/>
+    <cosponsor thomas_id="00808" joined="2014-07-03"/>
+    <cosponsor thomas_id="00832" joined="2014-07-03"/>
+    <cosponsor thomas_id="02117" joined="2014-07-03"/>
+    <cosponsor thomas_id="00850" joined="2014-07-03"/>
+    <cosponsor thomas_id="00868" joined="2014-07-10"/>
+    <cosponsor thomas_id="02113" joined="2014-07-15"/>
+    <cosponsor thomas_id="02171" joined="2014-07-15"/>
+    <cosponsor thomas_id="01910" joined="2014-07-15"/>
+    <cosponsor thomas_id="01003" joined="2014-07-10"/>
+    <cosponsor thomas_id="02104" joined="2014-07-15"/>
+    <cosponsor thomas_id="02110" joined="2014-07-03"/>
+    <cosponsor thomas_id="01940" joined="2014-07-03"/>
+    <cosponsor thomas_id="01942" joined="2014-07-03"/>
+    <cosponsor thomas_id="01884" joined="2014-07-10"/>
+    <cosponsor thomas_id="02112" joined="2014-07-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-26" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

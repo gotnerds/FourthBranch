@@ -1,0 +1,55 @@
+<bill session="113" type="h" number="1931" updated="2014-08-14T13:07:11-04:00">
+  <state datetime="2013-05-09">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-09"/>
+  </status>
+  <introduced datetime="2013-05-09"/>
+  <titles>
+    <title type="short" as="introduced">EASY Savings Act of 2013</title>
+    <title type="short" as="introduced">Employees of America Streamlining for Your Savings Act of 2013</title>
+    <title type="official" as="introduced">To amend title 5, United States Code, to enhance the authority under which Federal agencies may pay cash awards to employees for making cost saving disclosures, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02061"/>
+  <cosponsors>
+    <cosponsor thomas_id="02027" joined="2013-05-09"/>
+    <cosponsor thomas_id="02135" joined="2013-07-22"/>
+    <cosponsor thomas_id="01748" joined="2013-05-09"/>
+    <cosponsor thomas_id="02129" joined="2013-05-09"/>
+    <cosponsor thomas_id="00231" joined="2013-06-05"/>
+    <cosponsor thomas_id="01774" joined="2013-07-24"/>
+    <cosponsor thomas_id="02126" joined="2013-05-09"/>
+    <cosponsor thomas_id="02062" joined="2013-06-11"/>
+    <cosponsor thomas_id="00322" joined="2013-06-05"/>
+    <cosponsor thomas_id="00612" joined="2013-05-09"/>
+    <cosponsor thomas_id="01960" joined="2013-07-08"/>
+    <cosponsor thomas_id="00868" joined="2013-05-09"/>
+    <cosponsor thomas_id="02034" joined="2013-07-22"/>
+    <cosponsor thomas_id="01861" joined="2013-07-08"/>
+    <cosponsor thomas_id="01855" joined="2013-06-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-09" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="643"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Appropriations"/>
+    <term name="Budget process"/>
+    <term name="Congressional oversight"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government studies and investigations"/>
+  </subjects>
+  <amendments/>
+  <summary>5/9/2013--Introduced.
+Employees of America Streamlining for Your Savings Act of 2013 or the EASY Savings Act of 2013 - Expands the awards program for disclosures by federal employees of fraud, waste, or mismanagement that result in cost savings to the employee's agency to include identification of surplus funds or unnecessary budget authority. Directs that any savings resulting from the identification of such funds or budget authority be deposited in the Treasury and used to reduce a budget deficit or the federal debt.
+
+Prohibits the payment of awards to: (1) the head of an agency; (2) federal officers who serve in a position at level I of the Executive Schedule, and (3) a voting member of an independent establishment.</summary>
+</bill>

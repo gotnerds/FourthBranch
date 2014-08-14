@@ -1,0 +1,77 @@
+<bill session="113" type="h" number="3241" updated="2014-08-14T13:19:04-04:00">
+  <state datetime="2013-10-03">REFERRED</state>
+  <status>
+    <introduced datetime="2013-10-03"/>
+  </status>
+  <introduced datetime="2013-10-03"/>
+  <titles>
+    <title type="short" as="introduced">Pay our Guardsmen and Civilian Defense Personnel Act</title>
+    <title type="official" as="introduced">To amend the Pay Our Military Act to provide for continuing appropriations for defense civilian personnel (including military technicians (dual status)) and members of the reserve components of the Armed Forces performing inactive-duty training.</title>
+  </titles>
+  <sponsor thomas_id="02009"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2013-10-04"/>
+    <cosponsor thomas_id="02027" joined="2013-10-04"/>
+    <cosponsor thomas_id="01753" joined="2013-10-04"/>
+    <cosponsor thomas_id="01987" joined="2013-10-03"/>
+    <cosponsor thomas_id="01882" joined="2013-10-03"/>
+    <cosponsor thomas_id="02121" joined="2013-10-03"/>
+    <cosponsor thomas_id="01805" joined="2013-10-05"/>
+    <cosponsor thomas_id="02098" joined="2013-10-04"/>
+    <cosponsor thomas_id="01995" joined="2013-10-03"/>
+    <cosponsor thomas_id="02036" joined="2013-10-03"/>
+    <cosponsor thomas_id="01707" joined="2013-10-04"/>
+    <cosponsor thomas_id="01720" joined="2013-10-03"/>
+    <cosponsor thomas_id="01979" joined="2013-10-03"/>
+    <cosponsor thomas_id="02032" joined="2013-10-03"/>
+    <cosponsor thomas_id="02051" joined="2013-10-04"/>
+    <cosponsor thomas_id="01685" joined="2013-10-04"/>
+    <cosponsor thomas_id="02001" joined="2013-10-05"/>
+    <cosponsor thomas_id="02035" joined="2013-10-04"/>
+    <cosponsor thomas_id="01986" joined="2013-10-03"/>
+    <cosponsor thomas_id="01704" joined="2013-10-04"/>
+    <cosponsor thomas_id="02003" joined="2013-10-04"/>
+    <cosponsor thomas_id="02039" joined="2013-10-04"/>
+    <cosponsor thomas_id="01009" joined="2013-10-05"/>
+    <cosponsor thomas_id="01741" joined="2013-10-03"/>
+    <cosponsor thomas_id="02128" joined="2013-10-05"/>
+    <cosponsor thomas_id="02152" joined="2013-10-05"/>
+    <cosponsor thomas_id="01779" joined="2013-10-03"/>
+    <cosponsor thomas_id="02165" joined="2013-10-04"/>
+    <cosponsor thomas_id="01688" joined="2013-10-05"/>
+    <cosponsor thomas_id="02008" joined="2013-10-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-10-03" state="REFERRED">
+      <text>Referred to the House Committee on Appropriations.</text>
+    </action>
+    <action datetime="2013-10-04">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H6242"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAP" name="House Appropriations" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="3210"/>
+    <bill type="h" session="113" relation="unknown" number="3232"/>
+    <bill type="h" session="113" relation="unknown" number="3246"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Appropriations"/>
+    <term name="Coast guard"/>
+    <term name="Defense spending"/>
+    <term name="Department of Defense"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Military education and training"/>
+    <term name="Military personnel and dependents"/>
+    <term name="National Guard and reserves"/>
+  </subjects>
+  <amendments/>
+  <summary>10/3/2013--Introduced.
+Pay our Guardsmen and Civilian Defense Personnel Act - Amends the Pay Our Military Act (P.L. 113-39) to make FY2014 continuing appropriations for any period during which interim or full-year appropriations for FY2014 are not in effect to provide for pay and allowances to: (1) members of the Armed Forces, including reserve components, who perform inactive-duty training (under such Act only members performing active service) during such period; and (2) all civilian personnel of DOD (and the Department of Homeland Security [DHS] in the case of the Coast Guard), including all military technicians (dual status).</summary>
+</bill>

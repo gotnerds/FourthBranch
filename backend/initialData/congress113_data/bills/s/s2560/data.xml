@@ -1,0 +1,33 @@
+<bill session="113" type="s" number="2560" updated="2014-08-14T14:06:38-04:00">
+  <state datetime="2014-06-26">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-26"/>
+  </status>
+  <introduced datetime="2014-06-26"/>
+  <titles>
+    <title type="short" as="introduced">United States Fish and Wildlife Service Resource Protection Act</title>
+    <title type="official" as="introduced">A bill to authorize the United States Fish and Wildlife Service to seek compensation for injuries to trust resources and use those funds to restore, replace, or acquire equivalent resources, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00174"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-06-26">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S4160-4162"/>
+    </action>
+    <action datetime="2014-06-26" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+      <reference ref="CR S4162" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2014-07-16">
+      <text>Committee on Environment and Public Works Subcommittee on Water and Wildlife. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+    <committee subcommittee="Water and Wildlife" code="SSEV15" name="Senate Environment and Public Works" activity="Hearings"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,90 @@
+<bill session="113" type="s" number="1088" updated="2014-08-14T13:54:10-04:00">
+  <state datetime="2013-06-04">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-04"/>
+  </status>
+  <introduced datetime="2013-06-04"/>
+  <titles>
+    <title type="short" as="introduced">Student Non-Discrimination Act of 2013</title>
+    <title type="official" as="introduced">A bill to end discrimination based on actual or perceived sexual orientation or gender identity in public schools, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01969"/>
+  <cosponsors>
+    <cosponsor thomas_id="01558" joined="2013-06-04"/>
+    <cosponsor thomas_id="01898" joined="2013-06-04"/>
+    <cosponsor thomas_id="01965" joined="2013-06-04"/>
+    <cosponsor thomas_id="02076" joined="2013-06-04"/>
+    <cosponsor thomas_id="00116" joined="2013-06-04"/>
+    <cosponsor thomas_id="00136" joined="2013-06-04"/>
+    <cosponsor thomas_id="00172" joined="2013-06-04"/>
+    <cosponsor thomas_id="00174" joined="2013-06-04"/>
+    <cosponsor thomas_id="00179" joined="2013-06-17"/>
+    <cosponsor thomas_id="01828" joined="2013-06-04"/>
+    <cosponsor thomas_id="01984" joined="2013-06-04"/>
+    <cosponsor thomas_id="02189" joined="2013-06-04"/>
+    <cosponsor thomas_id="00326" joined="2013-06-04"/>
+    <cosponsor thomas_id="01332" joined="2013-08-01"/>
+    <cosponsor thomas_id="01866" joined="2013-06-04"/>
+    <cosponsor thomas_id="01902" joined="2013-06-04"/>
+    <cosponsor thomas_id="00501" joined="2013-06-04"/>
+    <cosponsor thomas_id="01937" joined="2013-06-04"/>
+    <cosponsor thomas_id="01844" joined="2013-10-31"/>
+    <cosponsor thomas_id="00604" joined="2013-06-19"/>
+    <cosponsor thomas_id="01826" joined="2013-06-04"/>
+    <cosponsor thomas_id="01383" joined="2013-06-04"/>
+    <cosponsor thomas_id="00735" joined="2013-09-11"/>
+    <cosponsor thomas_id="01900" joined="2013-06-04"/>
+    <cosponsor thomas_id="00802" joined="2013-06-04"/>
+    <cosponsor thomas_id="01837" joined="2013-06-04"/>
+    <cosponsor thomas_id="01409" joined="2013-06-04"/>
+    <cosponsor thomas_id="00949" joined="2013-06-04"/>
+    <cosponsor thomas_id="01010" joined="2013-06-04"/>
+    <cosponsor thomas_id="02173" joined="2013-06-04"/>
+    <cosponsor thomas_id="01036" joined="2013-06-04"/>
+    <cosponsor thomas_id="01901" joined="2013-06-04"/>
+    <cosponsor thomas_id="01531" joined="2013-06-04"/>
+    <cosponsor thomas_id="01595" joined="2013-06-04"/>
+    <cosponsor thomas_id="01567" joined="2013-06-04"/>
+    <cosponsor thomas_id="02198" joined="2014-03-26"/>
+    <cosponsor thomas_id="02182" joined="2013-06-04"/>
+    <cosponsor thomas_id="01823" joined="2013-06-04"/>
+    <cosponsor thomas_id="01247" joined="2013-06-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="1652"/>
+    <bill type="s" session="113" relation="unknown" number="1094"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Assault and harassment offenses"/>
+    <term name="Civil actions and liability"/>
+    <term name="Education programs funding"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Government liability"/>
+    <term name="Legal fees and court costs"/>
+    <term name="Sex, gender, sexual orientation discrimination"/>
+  </subjects>
+  <amendments/>
+  <summary>6/4/2013--Introduced.
+Student Non-Discrimination Act of 2013 - Prohibits public school students from being excluded from participating in, or subject to discrimination under, any federally-assisted educational program on the basis of their actual or perceived sexual orientation or gender identity or that of their associates.
+
+Considers harassment to be a form of discrimination.
+
+Prohibits retaliation against anyone for opposing conduct made unlawful under this Act.
+
+Authorizes federal departments and agencies to enforce these prohibitions by cutting off the educational assistance of recipients found to be violating them.
+
+Allows an aggrieved individual to assert a violation of this Act in a judicial proceeding and recover reasonable attorney's fees should they prevail.
+
+Authorizes the Attorney General to institute a civil action in any appropriate U.S. district court for a violation of this Act.
+
+Deems a state's receipt of federal educational assistance for a program to constitute a waiver of sovereign immunity for conduct prohibited under this Act regarding such program.</summary>
+</bill>

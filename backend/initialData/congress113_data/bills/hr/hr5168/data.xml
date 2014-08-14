@@ -1,0 +1,79 @@
+<bill session="113" type="h" number="5168" updated="2014-08-14T13:35:34-04:00">
+  <state datetime="2014-07-23">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-23"/>
+  </status>
+  <introduced datetime="2014-07-23"/>
+  <titles>
+    <title type="short" as="introduced">Full-Service Community Schools Act of 2014</title>
+    <title type="official" as="introduced">To authorize the Secretary of Education to award grants for the support of full-service community schools, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00566"/>
+  <cosponsors>
+    <cosponsor thomas_id="01654" joined="2014-07-23"/>
+    <cosponsor thomas_id="00256" joined="2014-07-31"/>
+    <cosponsor thomas_id="00281" joined="2014-07-23"/>
+    <cosponsor thomas_id="01976" joined="2014-07-30"/>
+    <cosponsor thomas_id="02125" joined="2014-07-23"/>
+    <cosponsor thomas_id="01708" joined="2014-07-23"/>
+    <cosponsor thomas_id="00511" joined="2014-07-23"/>
+    <cosponsor thomas_id="01490" joined="2014-07-23"/>
+    <cosponsor thomas_id="01634" joined="2014-07-23"/>
+    <cosponsor thomas_id="02101" joined="2014-07-31"/>
+    <cosponsor thomas_id="00588" joined="2014-07-23"/>
+    <cosponsor thomas_id="02169" joined="2014-07-23"/>
+    <cosponsor thomas_id="01668" joined="2014-07-23"/>
+    <cosponsor thomas_id="02111" joined="2014-07-23"/>
+    <cosponsor thomas_id="00709" joined="2014-07-23"/>
+    <cosponsor thomas_id="01939" joined="2014-07-23"/>
+    <cosponsor thomas_id="01504" joined="2014-07-30"/>
+    <cosponsor thomas_id="02117" joined="2014-07-23"/>
+    <cosponsor thomas_id="00868" joined="2014-07-23"/>
+    <cosponsor thomas_id="00944" joined="2014-07-23"/>
+    <cosponsor thomas_id="01728" joined="2014-07-23"/>
+    <cosponsor thomas_id="01920" joined="2014-07-23"/>
+    <cosponsor thomas_id="01798" joined="2014-07-23"/>
+    <cosponsor thomas_id="01861" joined="2014-07-31"/>
+    <cosponsor thomas_id="01593" joined="2014-07-30"/>
+    <cosponsor thomas_id="02167" joined="2014-07-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-23">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H6659-6660"/>
+    </action>
+    <action datetime="2014-07-23" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Academic performance and assessments"/>
+    <term name="Adult education and literacy"/>
+    <term name="Advisory bodies"/>
+    <term name="Child care and development"/>
+    <term name="Child health"/>
+    <term name="Community life and organization"/>
+    <term name="Crime prevention"/>
+    <term name="Education of the disadvantaged"/>
+    <term name="Education programs funding"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Employment and training programs"/>
+    <term name="Family relationships"/>
+    <term name="Health care coverage and access"/>
+    <term name="Homelessness and emergency shelter"/>
+    <term name="Juvenile crime and gang violence"/>
+    <term name="Mental health"/>
+    <term name="Nutrition and diet"/>
+    <term name="Performance measurement"/>
+    <term name="Physical fitness and lifestyle"/>
+    <term name="Preschool education"/>
+    <term name="Public-private cooperation"/>
+    <term name="School administration"/>
+  </subjects>
+  <amendments/>
+</bill>

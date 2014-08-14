@@ -1,0 +1,66 @@
+<bill session="113" type="h" number="2678" updated="2014-08-14T13:14:18-04:00">
+  <state datetime="2014-05-21">REPORTED</state>
+  <status>
+    <unknown datetime="2014-05-21"/>
+  </status>
+  <introduced datetime="2013-07-11"/>
+  <titles>
+    <title type="official" as="introduced">To designate the facility of the United States Postal Service located at 10360 Southwest 186th Street in Miami, Florida, as the "Larcenia J. Bullard Post Office Building".</title>
+  </titles>
+  <sponsor thomas_id="02120"/>
+  <cosponsors>
+    <cosponsor thomas_id="01838" joined="2013-07-11"/>
+    <cosponsor thomas_id="00132" joined="2013-07-11"/>
+    <cosponsor thomas_id="01840" joined="2013-07-11"/>
+    <cosponsor thomas_id="01839" joined="2013-07-11"/>
+    <cosponsor thomas_id="02200" joined="2014-07-09"/>
+    <cosponsor thomas_id="01643" joined="2013-07-11"/>
+    <cosponsor thomas_id="02116" joined="2013-07-11"/>
+    <cosponsor thomas_id="01976" joined="2013-07-11"/>
+    <cosponsor thomas_id="01717" joined="2013-07-11"/>
+    <cosponsor thomas_id="02119" joined="2013-07-11"/>
+    <cosponsor thomas_id="01914" joined="2013-07-11"/>
+    <cosponsor thomas_id="00511" joined="2013-07-11"/>
+    <cosponsor thomas_id="02199" joined="2014-05-19"/>
+    <cosponsor thomas_id="00800" joined="2013-07-11"/>
+    <cosponsor thomas_id="01685" joined="2013-07-11"/>
+    <cosponsor thomas_id="02117" joined="2013-07-11"/>
+    <cosponsor thomas_id="02001" joined="2013-07-11"/>
+    <cosponsor thomas_id="01915" joined="2013-07-11"/>
+    <cosponsor thomas_id="02118" joined="2013-07-11"/>
+    <cosponsor thomas_id="01916" joined="2013-07-11"/>
+    <cosponsor thomas_id="00985" joined="2013-07-11"/>
+    <cosponsor thomas_id="02003" joined="2013-07-11"/>
+    <cosponsor thomas_id="02000" joined="2013-07-11"/>
+    <cosponsor thomas_id="01777" joined="2013-07-11"/>
+    <cosponsor thomas_id="02002" joined="2013-07-11"/>
+    <cosponsor thomas_id="02004" joined="2013-07-11"/>
+    <cosponsor thomas_id="02115" joined="2013-07-11"/>
+    <cosponsor thomas_id="01255" joined="2013-07-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-11" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2014-05-21">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-05-21" state="REPORTED">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional tributes"/>
+    <term name="Florida"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Postal service"/>
+  </subjects>
+  <amendments/>
+  <summary>7/11/2013--Introduced.
+Designates the facility of the United States Postal Service located at 10360 Southwest 186th Street in Miami, Florida, as the "Larcenia J. Bullard Post Office Building."</summary>
+</bill>

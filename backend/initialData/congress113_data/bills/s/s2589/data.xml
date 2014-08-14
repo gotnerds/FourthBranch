@@ -1,0 +1,30 @@
+<bill session="113" type="s" number="2589" updated="2014-08-14T14:06:52-04:00">
+  <state datetime="2014-07-10">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-10"/>
+  </status>
+  <introduced datetime="2014-07-10"/>
+  <titles>
+    <title type="short" as="introduced">Protecting Employees and Retirees in Business Bankruptcies Act of 2014</title>
+    <title type="official" as="introduced">A bill to amend title 11, United States Code, to improve protections for employees and retirees in business bankruptcies.</title>
+  </titles>
+  <sponsor thomas_id="00326"/>
+  <cosponsors>
+    <cosponsor thomas_id="00136" joined="2014-07-10"/>
+    <cosponsor thomas_id="01969" joined="2014-07-10"/>
+    <cosponsor thomas_id="00501" joined="2014-07-10"/>
+    <cosponsor thomas_id="01823" joined="2014-07-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-10" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S4410-4414" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

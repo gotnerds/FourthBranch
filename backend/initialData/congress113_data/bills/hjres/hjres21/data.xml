@@ -1,0 +1,78 @@
+<bill session="113" type="hj" number="21" updated="2014-08-14T13:37:44-04:00">
+  <state datetime="2013-01-22">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-22"/>
+  </status>
+  <introduced datetime="2013-01-22"/>
+  <titles>
+    <title type="official" as="introduced">Proposing an amendment to the Constitution of the United States to clarify the authority of Congress and the States to regulate corporations, limited liability companies or other corporate entities established by the laws of any State, the United States, or any foreign state.</title>
+  </titles>
+  <sponsor thomas_id="01504"/>
+  <cosponsors>
+    <cosponsor thomas_id="01564" joined="2013-01-22"/>
+    <cosponsor thomas_id="02055" joined="2013-01-22"/>
+    <cosponsor thomas_id="02196" joined="2014-02-05"/>
+    <cosponsor thomas_id="01654" joined="2013-09-09"/>
+    <cosponsor thomas_id="01878" joined="2013-01-22"/>
+    <cosponsor thomas_id="00229" joined="2013-05-20"/>
+    <cosponsor thomas_id="00231" joined="2013-03-19"/>
+    <cosponsor thomas_id="00279" joined="2013-01-22"/>
+    <cosponsor thomas_id="00299" joined="2014-05-19"/>
+    <cosponsor thomas_id="00303" joined="2013-09-09"/>
+    <cosponsor thomas_id="01857" joined="2014-06-09"/>
+    <cosponsor thomas_id="00368" joined="2013-01-22"/>
+    <cosponsor thomas_id="00462" joined="2013-09-25"/>
+    <cosponsor thomas_id="01708" joined="2013-03-13"/>
+    <cosponsor thomas_id="01794" joined="2014-02-10"/>
+    <cosponsor thomas_id="00612" joined="2013-01-22"/>
+    <cosponsor thomas_id="02025" joined="2013-09-20"/>
+    <cosponsor thomas_id="02172" joined="2013-02-04"/>
+    <cosponsor thomas_id="01498" joined="2013-10-30"/>
+    <cosponsor thomas_id="01668" joined="2013-01-23"/>
+    <cosponsor thomas_id="01501" joined="2013-01-22"/>
+    <cosponsor thomas_id="01686" joined="2013-02-25"/>
+    <cosponsor thomas_id="00735" joined="2013-02-06"/>
+    <cosponsor thomas_id="00766" joined="2013-02-04"/>
+    <cosponsor thomas_id="00854" joined="2013-04-11"/>
+    <cosponsor thomas_id="00868" joined="2013-03-19"/>
+    <cosponsor thomas_id="01835" joined="2013-02-15"/>
+    <cosponsor thomas_id="01927" joined="2013-01-22"/>
+    <cosponsor thomas_id="01854" joined="2013-02-15"/>
+    <cosponsor thomas_id="01861" joined="2013-03-13"/>
+    <cosponsor thomas_id="01069" joined="2013-03-14"/>
+    <cosponsor thomas_id="01528" joined="2013-09-25"/>
+    <cosponsor thomas_id="02110" joined="2014-02-05"/>
+    <cosponsor thomas_id="01535" joined="2013-02-26"/>
+    <cosponsor thomas_id="01884" joined="2013-02-15"/>
+    <cosponsor thomas_id="01209" joined="2014-05-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-22" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-02-28">
+      <text>Referred to the Subcommittee on the Constitution And Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee subcommittee="Constitution and Civil Justice" code="HSJU10" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hj" session="113" relation="unknown" number="29"/>
+    <bill type="sj" session="113" relation="identical" number="18"/>
+  </relatedbills>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Constitution and constitutional amendments"/>
+    <term name="Corporate finance and management"/>
+    <term name="Elections, voting, political campaign regulation"/>
+    <term name="First Amendment rights"/>
+    <term name="Political advertising"/>
+  </subjects>
+  <amendments/>
+  <summary>1/22/2013--Introduced.
+Constitutional Amendment - Declares that: (1) the rights protected by the Constitution are intended to be the rights of natural persons; and (2) the words "people," "person," or "citizen" as used in the Constitution do not include corporations, limited liability companies, or other corporate entities established by the laws of any state, the United States, or any foreign state, and that such corporate entities are subject to such regulation as the people, through their elected state and federal representatives, deem reasonable and are otherwise consistent with the powers of Congress and the states.
+
+Prohibits this Amendment from limiting the rights of freedom of speech, the press, exercise of religion, association, and all such other unalienable rights of the people.</summary>
+</bill>

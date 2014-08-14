@@ -1,0 +1,42 @@
+<bill session="113" type="h" number="5128" updated="2014-08-14T13:35:14-04:00">
+  <state datetime="2014-07-16">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-16"/>
+  </status>
+  <introduced datetime="2014-07-16"/>
+  <titles>
+    <title type="short" as="introduced">International Human Rights Defense Act of 2014</title>
+    <title type="official" as="introduced">To establish in the Bureau of Democracy, Human Rights, and Labor of the Department of State a Special Envoy for the Human Rights of LGBT Peoples.</title>
+  </titles>
+  <sponsor thomas_id="01535"/>
+  <cosponsors>
+    <cosponsor thomas_id="02055" joined="2014-07-16"/>
+    <cosponsor thomas_id="02114" joined="2014-07-16"/>
+    <cosponsor thomas_id="02043" joined="2014-07-16"/>
+    <cosponsor thomas_id="02044" joined="2014-07-16"/>
+    <cosponsor thomas_id="02111" joined="2014-07-16"/>
+    <cosponsor thomas_id="00766" joined="2014-07-22"/>
+    <cosponsor thomas_id="01504" joined="2014-07-16"/>
+    <cosponsor thomas_id="01588" joined="2014-07-16"/>
+    <cosponsor thomas_id="01890" joined="2014-07-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-16" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="2472"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+  <summary>7/16/2014--Introduced.
+International Human Rights Defense Act of 2014 - Directs the Secretary of State to establish in the Department of State's Bureau of Democracy, Human Rights, and Labor a Special Envoy for the Human Rights of LGBT Peoples who shall: (1) direct U.S. government efforts regarding human rights abuses against the LGBT (lesbian, gay, bisexual, or transgender) community internationally and the advancement of human rights for LGBT people in U.S. foreign policy, and (2) represent the United States internationally in bilateral and multilateral engagement on these matters.
+
+Directs the Special Envoy to develop or update annually for six years a U.S. global strategy to prevent and respond to discrimination and violence against LGBT people.
+
+Authorizes the Secretary and the Administrator of the United States Agency for International Development (USAID) to provide assistance to prevent and respond to discrimination and violence against LGBT people.</summary>
+</bill>

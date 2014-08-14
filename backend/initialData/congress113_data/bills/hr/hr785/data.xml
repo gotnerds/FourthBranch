@@ -1,0 +1,63 @@
+<bill session="113" type="h" number="785" updated="2014-08-14T12:57:24-04:00">
+  <state datetime="2013-02-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-15"/>
+  </status>
+  <introduced datetime="2013-02-15"/>
+  <titles>
+    <title type="short" as="introduced">Halt Index Trading of Energy Commodities (HITEC) Act</title>
+    <title type="official" as="introduced">To prevent excessive speculation in energy commodities, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00735"/>
+  <cosponsors>
+    <cosponsor thomas_id="01723" joined="2013-02-15"/>
+    <cosponsor thomas_id="00132" joined="2013-02-15"/>
+    <cosponsor thomas_id="01564" joined="2013-02-15"/>
+    <cosponsor thomas_id="00229" joined="2013-03-06"/>
+    <cosponsor thomas_id="00281" joined="2013-02-15"/>
+    <cosponsor thomas_id="01894" joined="2013-02-15"/>
+    <cosponsor thomas_id="01857" joined="2013-03-06"/>
+    <cosponsor thomas_id="00355" joined="2013-02-25"/>
+    <cosponsor thomas_id="01708" joined="2013-02-15"/>
+    <cosponsor thomas_id="01580" joined="2013-02-15"/>
+    <cosponsor thomas_id="01501" joined="2013-02-15"/>
+    <cosponsor thomas_id="01730" joined="2013-02-15"/>
+    <cosponsor thomas_id="00832" joined="2013-02-15"/>
+    <cosponsor thomas_id="01510" joined="2013-02-15"/>
+    <cosponsor thomas_id="00944" joined="2013-03-12"/>
+    <cosponsor thomas_id="01588" joined="2013-02-15"/>
+    <cosponsor thomas_id="01037" joined="2013-02-15"/>
+    <cosponsor thomas_id="01069" joined="2013-02-15"/>
+    <cosponsor thomas_id="01890" joined="2013-02-15"/>
+    <cosponsor thomas_id="01535" joined="2013-02-15"/>
+    <cosponsor thomas_id="01207" joined="2013-02-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-15">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E165"/>
+    </action>
+    <action datetime="2013-02-15" state="REFERRED">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2013-03-13">
+      <text>Referred to the Subcommittee on General Farm Commodities and Risk Management.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee subcommittee="General Farm Commodities and Risk Management" code="HSAG16" name="House Agriculture" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Commodities markets"/>
+    <term name="Financial services and investments"/>
+    <term name="Oil and gas"/>
+  </subjects>
+  <amendments/>
+  <summary>2/15/2013--Introduced.
+Halt Index Trading of Energy Commodities (HITEC) Act - Amends the Commodity Exchange Act to declare unlawful for: (1) a commodity index fund to engage in an energy commodity transaction if any person investing in the fund is an excluded investor, (2) an energy commodity index fund to accept an investment from a person who is an excluded investor, or (3) a commodity index fund to hold an investment in an energy commodity if any person investing in the fund is an excluded investor.
+
+Defines "excluded investor" as a person with respect to whom there is no position in an energy commodity which, if held by the person, would be considered a bona fide hedging position.</summary>
+</bill>

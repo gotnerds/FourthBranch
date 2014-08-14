@@ -1,0 +1,66 @@
+<bill session="113" type="h" number="4594" updated="2014-08-14T13:30:33-04:00">
+  <state datetime="2014-05-07">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-07"/>
+  </status>
+  <introduced datetime="2014-05-07"/>
+  <titles>
+    <title type="short" as="introduced">Afghan Allies Protection Extension Act</title>
+    <title type="official" as="introduced">To provide for a 1-year extension of the Afghan Special Immigrant Visa Program, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00099"/>
+  <cosponsors>
+    <cosponsor thomas_id="00229" joined="2014-07-07"/>
+    <cosponsor thomas_id="00344" joined="2014-05-07"/>
+    <cosponsor thomas_id="02122" joined="2014-05-07"/>
+    <cosponsor thomas_id="01487" joined="2014-05-19"/>
+    <cosponsor thomas_id="00511" joined="2014-05-07"/>
+    <cosponsor thomas_id="01909" joined="2014-05-07"/>
+    <cosponsor thomas_id="02199" joined="2014-07-07"/>
+    <cosponsor thomas_id="02014" joined="2014-05-07"/>
+    <cosponsor thomas_id="01943" joined="2014-07-07"/>
+    <cosponsor thomas_id="01504" joined="2014-07-15"/>
+    <cosponsor thomas_id="01802" joined="2014-05-07"/>
+    <cosponsor thomas_id="01810" joined="2014-05-07"/>
+    <cosponsor thomas_id="01528" joined="2014-05-07"/>
+    <cosponsor thomas_id="02047" joined="2014-05-07"/>
+    <cosponsor thomas_id="01114" joined="2014-07-16"/>
+    <cosponsor thomas_id="01952" joined="2014-07-15"/>
+    <cosponsor thomas_id="01879" joined="2014-07-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-07">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E705"/>
+    </action>
+    <action datetime="2014-05-07" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2014-07-21">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Immigration and Border Security" code="HSJU01" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="2302"/>
+    <bill type="s" session="113" relation="unknown" number="2624"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Afghanistan"/>
+    <term name="Asia"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Foreign labor"/>
+    <term name="Visas and passports"/>
+  </subjects>
+  <amendments/>
+  <summary>5/7/2014--Introduced.
+Afghan Allies Protection Extension Act - Amends the Afghan Allies Protection Act of 2009 to extend: (1) the Afghan special immigrant visa program through FY2015, and (2) unused visa carryover authority through December 31, 2016.
+
+Expands the scope of a principal alien's qualifying employment to include employment by or on behalf of: (1) an organization associated with the U.S. mission in Afghanistan that has received U.S. funding through an official and documented contract, grant, or cooperative agreement; or (2) a media or nongovernmental organization headquartered in the United States.
+
+Revises family member requirements.</summary>
+</bill>

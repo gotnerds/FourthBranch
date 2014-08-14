@@ -1,0 +1,75 @@
+<bill session="113" type="s" number="2011" updated="2014-08-14T14:02:03-04:00">
+  <state datetime="2014-02-11">REFERRED</state>
+  <status>
+    <introduced datetime="2014-02-11"/>
+  </status>
+  <introduced datetime="2014-02-11"/>
+  <titles>
+    <title type="short" as="introduced">Stop Targeting of Political Beliefs by the IRS Act of 2014</title>
+    <title type="official" as="introduced">A bill to prohibit the Internal Revenue Service from modifying the standard for determining whether an organization is operated exclusively for the promotion of social welfare for purposes of section 501(c)(4) of the Internal Revenue Code of 1986.</title>
+  </titles>
+  <sponsor thomas_id="01633"/>
+  <cosponsors>
+    <cosponsor thomas_id="01695" joined="2014-02-11"/>
+    <cosponsor thomas_id="01881" joined="2014-02-11"/>
+    <cosponsor thomas_id="01464" joined="2014-02-11"/>
+    <cosponsor thomas_id="01687" joined="2014-02-11"/>
+    <cosponsor thomas_id="00153" joined="2014-02-11"/>
+    <cosponsor thomas_id="00188" joined="2014-02-11"/>
+    <cosponsor thomas_id="00209" joined="2014-02-11"/>
+    <cosponsor thomas_id="00212" joined="2014-02-11"/>
+    <cosponsor thomas_id="00213" joined="2014-02-11"/>
+    <cosponsor thomas_id="01825" joined="2014-02-11"/>
+    <cosponsor thomas_id="01692" joined="2014-02-11"/>
+    <cosponsor thomas_id="00250" joined="2014-02-11"/>
+    <cosponsor thomas_id="02175" joined="2014-02-11"/>
+    <cosponsor thomas_id="01542" joined="2014-02-11"/>
+    <cosponsor thomas_id="02179" joined="2014-02-11"/>
+    <cosponsor thomas_id="00452" joined="2014-02-11"/>
+    <cosponsor thomas_id="00457" joined="2014-02-11"/>
+    <cosponsor thomas_id="01351" joined="2014-02-11"/>
+    <cosponsor thomas_id="01863" joined="2014-02-12"/>
+    <cosponsor thomas_id="02079" joined="2014-02-11"/>
+    <cosponsor thomas_id="00583" joined="2014-02-11"/>
+    <cosponsor thomas_id="01608" joined="2014-02-11"/>
+    <cosponsor thomas_id="01899" joined="2014-02-11"/>
+    <cosponsor thomas_id="02086" joined="2014-02-11"/>
+    <cosponsor thomas_id="01647" joined="2014-02-11"/>
+    <cosponsor thomas_id="02080" joined="2014-02-11"/>
+    <cosponsor thomas_id="00754" joined="2014-02-11"/>
+    <cosponsor thomas_id="01395" joined="2014-02-11"/>
+    <cosponsor thomas_id="01507" joined="2014-02-11"/>
+    <cosponsor thomas_id="02082" joined="2014-02-11"/>
+    <cosponsor thomas_id="00924" joined="2014-02-11"/>
+    <cosponsor thomas_id="01896" joined="2014-02-11"/>
+    <cosponsor thomas_id="00968" joined="2014-02-11"/>
+    <cosponsor thomas_id="02084" joined="2014-02-11"/>
+    <cosponsor thomas_id="02056" joined="2014-02-11"/>
+    <cosponsor thomas_id="01049" joined="2014-02-11"/>
+    <cosponsor thomas_id="01534" joined="2014-02-11"/>
+    <cosponsor thomas_id="02085" joined="2014-02-11"/>
+    <cosponsor thomas_id="01609" joined="2014-02-11"/>
+    <cosponsor thomas_id="01226" joined="2014-02-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-02-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="3865"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Department of the Treasury"/>
+    <term name="Internal Revenue Service (IRS)"/>
+    <term name="Tax-exempt organizations"/>
+  </subjects>
+  <amendments/>
+  <summary>2/11/2014--Introduced.
+Stop Targeting of Political Beliefs by the IRS Act of 2014 - Requires the Internal Revenue Service (IRS) standards and definitions in effect on January 1, 2010, for determining whether an organization qualifies for tax-exempt status as an organization operated exclusively for social welfare to apply to such determinations after enactment of this Act. Prohibits the Secretary of the Treasury, or any delegate of the Secretary, from issuing, revising, or finalizing any regulation (including proposed regulations), revenue ruling, or other guidance not limited to a particular taxpayer relating to such standards and definitions. Terminates this Act one year after its enactment.</summary>
+</bill>

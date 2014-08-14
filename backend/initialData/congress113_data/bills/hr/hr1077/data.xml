@@ -1,0 +1,116 @@
+<bill session="113" type="h" number="1077" updated="2014-08-14T12:59:53-04:00">
+  <state datetime="2013-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-12"/>
+  </status>
+  <introduced datetime="2013-03-12"/>
+  <titles>
+    <title type="short" as="introduced">Consumer Mortgage Choice Act</title>
+    <title type="official" as="introduced">To amend the Truth in Lending Act to improve upon the definitions provided for points and fees in connection with a mortgage transaction.</title>
+  </titles>
+  <sponsor thomas_id="02028"/>
+  <cosponsors>
+    <cosponsor thomas_id="01858" joined="2013-03-18"/>
+    <cosponsor thomas_id="00038" joined="2013-03-12"/>
+    <cosponsor thomas_id="02131" joined="2013-04-26"/>
+    <cosponsor thomas_id="02027" joined="2013-06-28"/>
+    <cosponsor thomas_id="02135" joined="2013-07-08"/>
+    <cosponsor thomas_id="01753" joined="2013-06-25"/>
+    <cosponsor thomas_id="00091" joined="2013-05-17"/>
+    <cosponsor thomas_id="01751" joined="2013-07-19"/>
+    <cosponsor thomas_id="00165" joined="2013-06-28"/>
+    <cosponsor thomas_id="00211" joined="2013-09-09"/>
+    <cosponsor thomas_id="01912" joined="2013-05-17"/>
+    <cosponsor thomas_id="02098" joined="2013-04-17"/>
+    <cosponsor thomas_id="01989" joined="2013-04-11"/>
+    <cosponsor thomas_id="01670" joined="2013-09-09"/>
+    <cosponsor thomas_id="02067" joined="2013-09-28"/>
+    <cosponsor thomas_id="02064" joined="2013-04-17"/>
+    <cosponsor thomas_id="01797" joined="2013-05-17"/>
+    <cosponsor thomas_id="01683" joined="2013-07-30"/>
+    <cosponsor thomas_id="00462" joined="2013-05-17"/>
+    <cosponsor thomas_id="01990" joined="2013-04-17"/>
+    <cosponsor thomas_id="02041" joined="2013-03-15"/>
+    <cosponsor thomas_id="01933" joined="2013-09-17"/>
+    <cosponsor thomas_id="02069" joined="2013-04-09"/>
+    <cosponsor thomas_id="00588" joined="2013-07-08"/>
+    <cosponsor thomas_id="01921" joined="2013-05-17"/>
+    <cosponsor thomas_id="02046" joined="2013-05-17"/>
+    <cosponsor thomas_id="00635" joined="2013-03-15"/>
+    <cosponsor thomas_id="01733" joined="2013-05-23"/>
+    <cosponsor thomas_id="01846" joined="2013-07-10"/>
+    <cosponsor thomas_id="01931" joined="2013-03-21"/>
+    <cosponsor thomas_id="01806" joined="2013-05-17"/>
+    <cosponsor thomas_id="01671" joined="2013-05-17"/>
+    <cosponsor thomas_id="01653" joined="2013-09-18"/>
+    <cosponsor thomas_id="01792" joined="2013-07-30"/>
+    <cosponsor thomas_id="02052" joined="2013-06-20"/>
+    <cosponsor thomas_id="01506" joined="2013-03-12"/>
+    <cosponsor thomas_id="01731" joined="2013-06-13"/>
+    <cosponsor thomas_id="02059" joined="2013-09-11"/>
+    <cosponsor thomas_id="01744" joined="2013-06-06"/>
+    <cosponsor thomas_id="02034" joined="2013-10-28"/>
+    <cosponsor thomas_id="01974" joined="2013-04-11"/>
+    <cosponsor thomas_id="02035" joined="2013-09-28"/>
+    <cosponsor thomas_id="01930" joined="2013-05-17"/>
+    <cosponsor thomas_id="01738" joined="2013-04-26"/>
+    <cosponsor thomas_id="02157" joined="2013-09-09"/>
+    <cosponsor thomas_id="01929" joined="2013-03-12"/>
+    <cosponsor thomas_id="02141" joined="2013-07-19"/>
+    <cosponsor thomas_id="01802" joined="2013-06-06"/>
+    <cosponsor thomas_id="01967" joined="2013-04-09"/>
+    <cosponsor thomas_id="02048" joined="2013-03-18"/>
+    <cosponsor thomas_id="01954" joined="2013-04-09"/>
+    <cosponsor thomas_id="01651" joined="2013-09-09"/>
+    <cosponsor thomas_id="00979" joined="2013-06-11"/>
+    <cosponsor thomas_id="00998" joined="2013-03-12"/>
+    <cosponsor thomas_id="01920" joined="2013-03-21"/>
+    <cosponsor thomas_id="01722" joined="2013-03-12"/>
+    <cosponsor thomas_id="01041" joined="2013-05-17"/>
+    <cosponsor thomas_id="01075" joined="2013-09-18"/>
+    <cosponsor thomas_id="02047" joined="2013-03-12"/>
+    <cosponsor thomas_id="01114" joined="2013-05-23"/>
+    <cosponsor thomas_id="01566" joined="2013-06-11"/>
+    <cosponsor thomas_id="01664" joined="2013-07-22"/>
+    <cosponsor thomas_id="01177" joined="2013-07-18"/>
+    <cosponsor thomas_id="02167" joined="2013-06-14"/>
+    <cosponsor thomas_id="02137" joined="2013-08-02"/>
+    <cosponsor thomas_id="01855" joined="2013-06-06"/>
+    <cosponsor thomas_id="01991" joined="2013-04-09"/>
+    <cosponsor thomas_id="01654" joined="2013-03-12" withdrawn="2013-09-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-12" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="2767"/>
+    <bill type="h" session="113" relation="unknown" number="3211"/>
+    <bill type="s" session="113" relation="unknown" number="949"/>
+    <bill type="s" session="113" relation="unknown" number="1577"/>
+  </relatedbills>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Housing finance and home ownership"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+  <summary>3/12/2013--Introduced.
+Consumer Mortgage Choice Act - Amends the Truth in Lending Act with respect to requirements for disclosure to a consumer of points and fees information about a consumer credit transaction, secured by the consumer's principal dwelling, but which is not a residential mortgage transaction, a reverse mortgage transaction, or a transaction under an open end credit plan, when the total points and fees the consumer must pay at or before closing will exceed 8% percent of the total loan amount or $400, whichever is greater. (Such consumer credit transactions might include an equity credit line to which consumer purchases or leases may be charged.)
+
+Excludes from the computation of such points and fees: (1) the amount of any loan level price adjustment payment set by the Federal National Mortgage Association (Fannie Mae), the Federal Home Loan Mortgage Corporation (Freddie Mac), the Federal Housing Administration (FHA), or similar government entity or government-sponsored enterprise; (2) any compensation paid by a mortgage originator or a creditor to an individual person employed by the mortgage originator or creditor; and (3) any escrow for future payment of insurance.
+
+Modifies the inclusion in the computation of points and fees of all compensation paid to mortgage brokers. Specifies instead all compensation paid directly by a consumer to a mortgage originator, including a mortgage originator that is also the creditor in a table-funded transaction, but not including compensation paid by a mortgage originator or a creditor to an individual employed by the mortgage originator or creditor.
+
+Modifies the criteria for exclusion from the computation of points and fees of certain reasonable charges elsewhere exempted from the computation of the finance charge in extensions of credit secured by an interest in real property. Excludes from points and fees any such reasonable charges even though a creditor receives compensation, but only in so far as the creditor or its affiliate retains the compensation as a result of their participation in an affiliated business arrangement.
+
+(An "affiliated business arrangement" is one in which: (1) a person who is in a position to refer business incident to or a part of a real estate settlement service involving a federally related mortgage loan, or an associate of such person, has either an affiliate relationship with or a direct or beneficial ownership interest of more than 1% in a provider of settlement services; and (2) either of such persons directly or indirectly refers such business to that provider or affirmatively influences the provider's selection.)
+
+Revises the additional requirement that such a reasonable charge be paid to a third party unaffiliated with the creditor. Requires the charge to be: (1) a bona fide third party charge not retained by the mortgage originator, creditor, or an affiliate; or (2) a fee or premium for title examination, title insurance, or similar purposes.
+
+Modifies the conditions under which federal departments and agencies may exempt refinancings under a streamlined refinancing from an income verification requirement that, at the time a refinancing is consummated, the consumer has a reasonable ability to repay the loan and all applicable taxes, insurance, and assessments. Repeals the exception for bona fide third party charges not retained by the mortgage originator, creditor, or an affiliate from the requirement that total points and fees not exceed 3% of the total new loan amount. (Thus subjects such charges to the same 3% ceiling.)</summary>
+</bill>

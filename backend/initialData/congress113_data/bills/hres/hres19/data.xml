@@ -1,0 +1,101 @@
+<bill session="113" type="hr" number="19" updated="2014-08-14T12:44:49-04:00">
+  <state datetime="2013-01-04">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-04"/>
+  </status>
+  <introduced datetime="2013-01-04"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the House of Representatives that the Senate should ratify the Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW).</title>
+  </titles>
+  <sponsor thomas_id="00729"/>
+  <cosponsors>
+    <cosponsor thomas_id="00021" joined="2013-01-04"/>
+    <cosponsor thomas_id="00099" joined="2013-01-23"/>
+    <cosponsor thomas_id="02092" joined="2013-01-04"/>
+    <cosponsor thomas_id="01469" joined="2013-01-04"/>
+    <cosponsor thomas_id="00132" joined="2013-01-04"/>
+    <cosponsor thomas_id="01761" joined="2014-01-29"/>
+    <cosponsor thomas_id="01471" joined="2013-01-23"/>
+    <cosponsor thomas_id="01564" joined="2013-01-04"/>
+    <cosponsor thomas_id="01889" joined="2013-01-04"/>
+    <cosponsor thomas_id="01970" joined="2013-01-23"/>
+    <cosponsor thomas_id="01654" joined="2013-02-26"/>
+    <cosponsor thomas_id="00229" joined="2013-01-04"/>
+    <cosponsor thomas_id="01477" joined="2013-01-23"/>
+    <cosponsor thomas_id="01479" joined="2013-01-04"/>
+    <cosponsor thomas_id="01976" joined="2013-02-26"/>
+    <cosponsor thomas_id="00303" joined="2013-12-04"/>
+    <cosponsor thomas_id="01894" joined="2013-01-04"/>
+    <cosponsor thomas_id="01857" joined="2013-01-04"/>
+    <cosponsor thomas_id="00344" joined="2013-08-01"/>
+    <cosponsor thomas_id="00355" joined="2014-02-11"/>
+    <cosponsor thomas_id="00368" joined="2013-01-23"/>
+    <cosponsor thomas_id="00371" joined="2013-01-04"/>
+    <cosponsor thomas_id="01973" joined="2013-02-26"/>
+    <cosponsor thomas_id="01708" joined="2013-01-04"/>
+    <cosponsor thomas_id="02089" joined="2013-02-13"/>
+    <cosponsor thomas_id="01794" joined="2013-01-23"/>
+    <cosponsor thomas_id="01634" joined="2013-01-04"/>
+    <cosponsor thomas_id="02101" joined="2013-03-14"/>
+    <cosponsor thomas_id="00599" joined="2013-01-23"/>
+    <cosponsor thomas_id="02025" joined="2013-01-23"/>
+    <cosponsor thomas_id="01501" joined="2013-01-23"/>
+    <cosponsor thomas_id="00683" joined="2013-01-04"/>
+    <cosponsor thomas_id="01846" joined="2013-01-04"/>
+    <cosponsor thomas_id="00701" joined="2013-01-04"/>
+    <cosponsor thomas_id="00709" joined="2013-02-13"/>
+    <cosponsor thomas_id="00735" joined="2013-01-04"/>
+    <cosponsor thomas_id="01653" joined="2013-01-23"/>
+    <cosponsor thomas_id="01504" joined="2013-01-04"/>
+    <cosponsor thomas_id="01832" joined="2013-02-26"/>
+    <cosponsor thomas_id="02148" joined="2013-01-04"/>
+    <cosponsor thomas_id="01730" joined="2013-01-23"/>
+    <cosponsor thomas_id="01811" joined="2013-01-04"/>
+    <cosponsor thomas_id="00832" joined="2013-01-04"/>
+    <cosponsor thomas_id="00850" joined="2013-01-23"/>
+    <cosponsor thomas_id="00867" joined="2014-06-25"/>
+    <cosponsor thomas_id="02113" joined="2013-04-10"/>
+    <cosponsor thomas_id="01927" joined="2013-01-23"/>
+    <cosponsor thomas_id="01910" joined="2013-01-04"/>
+    <cosponsor thomas_id="01967" joined="2013-01-04"/>
+    <cosponsor thomas_id="01003" joined="2013-01-04"/>
+    <cosponsor thomas_id="01588" joined="2013-01-04"/>
+    <cosponsor thomas_id="01635" joined="2013-01-04"/>
+    <cosponsor thomas_id="01798" joined="2013-01-04"/>
+    <cosponsor thomas_id="01069" joined="2013-01-04"/>
+    <cosponsor thomas_id="01528" joined="2013-01-23"/>
+    <cosponsor thomas_id="01890" joined="2013-01-04"/>
+    <cosponsor thomas_id="02104" joined="2013-03-14"/>
+    <cosponsor thomas_id="02110" joined="2013-02-15"/>
+    <cosponsor thomas_id="01535" joined="2014-03-26"/>
+    <cosponsor thomas_id="01777" joined="2013-01-04"/>
+    <cosponsor thomas_id="01205" joined="2013-01-23"/>
+    <cosponsor thomas_id="01209" joined="2013-01-04"/>
+    <cosponsor thomas_id="01879" joined="2013-01-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-04">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E19"/>
+    </action>
+    <action datetime="2013-01-04" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Congressional oversight"/>
+    <term name="Human rights"/>
+    <term name="International law and treaties"/>
+    <term name="Senate"/>
+    <term name="Sex, gender, sexual orientation discrimination"/>
+    <term name="Women's rights"/>
+  </subjects>
+  <amendments/>
+  <summary>1/4/2013--Introduced.
+Expresses the sense of the House of Representatives that: (1) the full realization of the rights of women is vital to the development and well-being of people of all nations; and (2) the Senate should, therefore, give its advice and consent to the ratification of the Convention on the Elimination of All Forms of Discrimination Against Women.</summary>
+</bill>

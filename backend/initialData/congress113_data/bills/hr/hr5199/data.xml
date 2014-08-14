@@ -1,0 +1,30 @@
+<bill session="113" type="h" number="5199" updated="2014-08-14T13:35:51-04:00">
+  <state datetime="2014-07-24">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-24"/>
+  </status>
+  <introduced datetime="2014-07-24"/>
+  <titles>
+    <title type="short" as="introduced">Municipal Bond Market Support Act of 2014</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to permanently modify the limitations on the deduction of interest by financial institutions which hold tax-exempt bonds, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01982"/>
+  <cosponsors>
+    <cosponsor thomas_id="02015" joined="2014-07-24"/>
+    <cosponsor thomas_id="01583" joined="2014-07-24"/>
+    <cosponsor thomas_id="00854" joined="2014-07-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-24" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>7/24/2014--Introduced.
+Municipal Bond Market Support Act of 2014 - Amends Internal Revenue Code provisions relating to the small issuer exemption from interest expense allocation rules for financial institutions to: (1) permanently increase from $10 million to $30 million the annual limit on the amount of tax-exempt obligations that a small issuer may issue, and (2) allow an inflation adjustment to such increased limit amount after 2014.</summary>
+</bill>

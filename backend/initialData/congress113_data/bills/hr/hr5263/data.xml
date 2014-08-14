@@ -1,0 +1,48 @@
+<bill session="113" type="h" number="5263" updated="2014-08-14T13:36:25-04:00">
+  <state datetime="2014-07-30">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-30"/>
+  </status>
+  <introduced datetime="2014-07-30"/>
+  <titles>
+    <title type="short" as="introduced">Living Donor Protection Act of 2014</title>
+    <title type="official" as="introduced">To promote and protect from discrimination living organ donors.</title>
+  </titles>
+  <sponsor thomas_id="00850"/>
+  <cosponsors>
+    <cosponsor thomas_id="01751" joined="2014-07-30"/>
+    <cosponsor thomas_id="01654" joined="2014-07-30"/>
+    <cosponsor thomas_id="01774" joined="2014-07-30"/>
+    <cosponsor thomas_id="01797" joined="2014-08-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-30" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Oversight and Government Reform, House Administration, Education and the Workforce, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-07-30">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2014-07-30">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2014-07-30">
+      <text>Referred to House House Administration</text>
+    </action>
+    <action datetime="2014-07-30">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2014-07-30">
+      <text>Referred to House Financial Services</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee subcommittee="" code="HSHA" name="House Administration" activity="Referral"/>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

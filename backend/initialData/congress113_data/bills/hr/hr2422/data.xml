@@ -1,0 +1,70 @@
+<bill session="113" type="h" number="2422" updated="2014-08-14T13:12:01-04:00">
+  <state datetime="2013-06-18">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-18"/>
+  </status>
+  <introduced datetime="2013-06-18"/>
+  <titles>
+    <title type="short" as="introduced">Sally K. Ride Congressional Gold Medal Act of 2013</title>
+    <title type="official" as="introduced">To award a Congressional Gold Medal to Sally K. Ride in recognition of her exemplary service as an astronaut, physicist, and science education advocate.</title>
+  </titles>
+  <sponsor thomas_id="02113"/>
+  <cosponsors>
+    <cosponsor thomas_id="02102" joined="2013-06-18"/>
+    <cosponsor thomas_id="02092" joined="2013-06-18"/>
+    <cosponsor thomas_id="01723" joined="2013-06-18"/>
+    <cosponsor thomas_id="02106" joined="2013-06-18"/>
+    <cosponsor thomas_id="02159" joined="2013-06-18"/>
+    <cosponsor thomas_id="01970" joined="2013-06-18"/>
+    <cosponsor thomas_id="01878" joined="2013-08-02"/>
+    <cosponsor thomas_id="00229" joined="2013-07-08"/>
+    <cosponsor thomas_id="01641" joined="2013-06-18"/>
+    <cosponsor thomas_id="01894" joined="2013-06-18"/>
+    <cosponsor thomas_id="02114" joined="2013-07-08"/>
+    <cosponsor thomas_id="01914" joined="2013-07-08"/>
+    <cosponsor thomas_id="01708" joined="2013-06-26"/>
+    <cosponsor thomas_id="02089" joined="2013-06-18"/>
+    <cosponsor thomas_id="00484" joined="2013-06-18"/>
+    <cosponsor thomas_id="00511" joined="2013-06-18"/>
+    <cosponsor thomas_id="01634" joined="2013-06-27"/>
+    <cosponsor thomas_id="00588" joined="2013-06-18"/>
+    <cosponsor thomas_id="00599" joined="2013-06-18"/>
+    <cosponsor thomas_id="01501" joined="2013-07-08"/>
+    <cosponsor thomas_id="00735" joined="2013-06-18"/>
+    <cosponsor thomas_id="01653" joined="2013-06-18"/>
+    <cosponsor thomas_id="02117" joined="2013-07-08"/>
+    <cosponsor thomas_id="00850" joined="2013-06-18"/>
+    <cosponsor thomas_id="01602" joined="2013-06-26"/>
+    <cosponsor thomas_id="01510" joined="2013-06-18"/>
+    <cosponsor thomas_id="02099" joined="2013-07-08"/>
+    <cosponsor thomas_id="01069" joined="2013-07-08"/>
+    <cosponsor thomas_id="02104" joined="2013-06-18"/>
+    <cosponsor thomas_id="02110" joined="2013-06-19"/>
+    <cosponsor thomas_id="02112" joined="2013-06-18"/>
+    <cosponsor thomas_id="02004" joined="2013-06-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-18">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E909"/>
+    </action>
+    <action datetime="2013-06-18" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Congressional tributes"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Science and engineering education"/>
+    <term name="Space flight and exploration"/>
+    <term name="Teaching, teachers, curricula"/>
+  </subjects>
+  <amendments/>
+  <summary>6/18/2013--Introduced.
+Sally K. Ride Congressional Gold Medal Act of 2013 - Directs the Speaker of the House of Representatives and the President Pro Tempore of the Senate to arrange for the posthumous presentation of a congressional gold medal in commemoration of Sally K. Ride in recognition of her exemplary service as an astronaut, physicist, and science education advocate.</summary>
+</bill>

@@ -1,0 +1,46 @@
+<bill session="113" type="h" number="5087" updated="2014-08-14T13:34:54-04:00">
+  <state datetime="2014-07-11">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-11"/>
+  </status>
+  <introduced datetime="2014-07-11"/>
+  <titles>
+    <title type="official" as="introduced">To designate the facility of the United States Postal Service located at 90 Cornell Street in Kingston, New York, as the "Staff Sergeant Robert H. Dietz Post Office Building".</title>
+  </titles>
+  <sponsor thomas_id="02043"/>
+  <cosponsors>
+    <cosponsor thomas_id="01740" joined="2014-07-29"/>
+    <cosponsor thomas_id="01864" joined="2014-07-29"/>
+    <cosponsor thomas_id="02151" joined="2014-07-22"/>
+    <cosponsor thomas_id="00344" joined="2014-07-22"/>
+    <cosponsor thomas_id="02041" joined="2014-07-22"/>
+    <cosponsor thomas_id="02044" joined="2014-07-22"/>
+    <cosponsor thomas_id="01794" joined="2014-07-22"/>
+    <cosponsor thomas_id="01663" joined="2014-07-29"/>
+    <cosponsor thomas_id="00635" joined="2014-07-22"/>
+    <cosponsor thomas_id="01943" joined="2014-07-22"/>
+    <cosponsor thomas_id="02150" joined="2014-07-22"/>
+    <cosponsor thomas_id="01503" joined="2014-07-22"/>
+    <cosponsor thomas_id="01506" joined="2014-07-22"/>
+    <cosponsor thomas_id="02148" joined="2014-07-22"/>
+    <cosponsor thomas_id="01974" joined="2014-07-22"/>
+    <cosponsor thomas_id="00944" joined="2014-07-29"/>
+    <cosponsor thomas_id="01982" joined="2014-07-22"/>
+    <cosponsor thomas_id="01069" joined="2014-07-22"/>
+    <cosponsor thomas_id="01942" joined="2014-07-22"/>
+    <cosponsor thomas_id="01184" joined="2014-07-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-11" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>7/11/2014--Introduced.
+Designates the facility of the United States Postal Service located at 90 Cornell Street in Kingston, New York, as the "Staff Sergeant Robert H. Dietz Post Office Building."</summary>
+</bill>

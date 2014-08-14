@@ -1,0 +1,34 @@
+<bill session="113" type="h" number="5262" updated="2014-08-14T13:36:24-04:00">
+  <state datetime="2014-07-30">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-30"/>
+  </status>
+  <introduced datetime="2014-07-30"/>
+  <titles>
+    <title type="short" as="introduced">Student Worker Exemption Act of 2014</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to exempt student workers for purposes of determining a higher education institution's employer health care shared responsibility.</title>
+  </titles>
+  <sponsor thomas_id="02142"/>
+  <cosponsors>
+    <cosponsor thomas_id="01787" joined="2014-07-30"/>
+    <cosponsor thomas_id="00211" joined="2014-07-30"/>
+    <cosponsor thomas_id="02036" joined="2014-07-30"/>
+    <cosponsor thomas_id="02140" joined="2014-07-30"/>
+    <cosponsor thomas_id="01505" joined="2014-07-30"/>
+    <cosponsor thomas_id="02130" joined="2014-07-30"/>
+    <cosponsor thomas_id="02117" joined="2014-07-30"/>
+    <cosponsor thomas_id="02141" joined="2014-07-30"/>
+    <cosponsor thomas_id="02017" joined="2014-07-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-30" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

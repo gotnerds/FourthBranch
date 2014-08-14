@@ -1,0 +1,258 @@
+<bill session="113" type="h" number="713" updated="2014-08-14T12:56:48-04:00">
+  <state datetime="2013-02-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-14"/>
+  </status>
+  <introduced datetime="2013-02-14"/>
+  <titles>
+    <title type="short" as="introduced">Medicare Access to Rehabilitation Services Act of 2013</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to repeal the Medicare outpatient rehabilitation therapy caps.</title>
+  </titles>
+  <sponsor thomas_id="01743"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2014-04-08"/>
+    <cosponsor thomas_id="00021" joined="2013-07-25"/>
+    <cosponsor thomas_id="01858" joined="2013-11-21"/>
+    <cosponsor thomas_id="02093" joined="2013-05-14"/>
+    <cosponsor thomas_id="02054" joined="2013-03-18"/>
+    <cosponsor thomas_id="01780" joined="2013-04-16"/>
+    <cosponsor thomas_id="01996" joined="2013-03-18"/>
+    <cosponsor thomas_id="02153" joined="2013-10-03"/>
+    <cosponsor thomas_id="00070" joined="2013-02-14"/>
+    <cosponsor thomas_id="01753" joined="2013-04-16"/>
+    <cosponsor thomas_id="00091" joined="2013-05-23"/>
+    <cosponsor thomas_id="01740" joined="2013-05-23"/>
+    <cosponsor thomas_id="01748" joined="2013-03-18"/>
+    <cosponsor thomas_id="00099" joined="2013-03-18"/>
+    <cosponsor thomas_id="02092" joined="2013-05-14"/>
+    <cosponsor thomas_id="01723" joined="2013-04-25"/>
+    <cosponsor thomas_id="01787" joined="2013-06-06"/>
+    <cosponsor thomas_id="01845" joined="2013-04-25"/>
+    <cosponsor thomas_id="02129" joined="2014-01-21"/>
+    <cosponsor thomas_id="00132" joined="2013-11-13"/>
+    <cosponsor thomas_id="01751" joined="2013-03-18"/>
+    <cosponsor thomas_id="01761" joined="2014-07-16"/>
+    <cosponsor thomas_id="01676" joined="2013-11-13"/>
+    <cosponsor thomas_id="01471" joined="2013-04-16"/>
+    <cosponsor thomas_id="01564" joined="2014-01-28"/>
+    <cosponsor thomas_id="02107" joined="2013-09-17"/>
+    <cosponsor thomas_id="01889" joined="2013-04-16"/>
+    <cosponsor thomas_id="02159" joined="2013-09-11"/>
+    <cosponsor thomas_id="01839" joined="2014-07-18"/>
+    <cosponsor thomas_id="02055" joined="2013-03-18"/>
+    <cosponsor thomas_id="01654" joined="2013-09-11"/>
+    <cosponsor thomas_id="00211" joined="2014-04-28"/>
+    <cosponsor thomas_id="01912" joined="2014-03-24"/>
+    <cosponsor thomas_id="01878" joined="2013-11-18"/>
+    <cosponsor thomas_id="01805" joined="2013-12-10"/>
+    <cosponsor thomas_id="01959" joined="2013-10-22"/>
+    <cosponsor thomas_id="00229" joined="2013-03-18"/>
+    <cosponsor thomas_id="02103" joined="2013-08-02"/>
+    <cosponsor thomas_id="01836" joined="2013-07-25"/>
+    <cosponsor thomas_id="01643" joined="2014-04-28"/>
+    <cosponsor thomas_id="00256" joined="2013-06-17"/>
+    <cosponsor thomas_id="01641" joined="2013-07-25"/>
+    <cosponsor thomas_id="00279" joined="2013-03-18"/>
+    <cosponsor thomas_id="01479" joined="2013-06-06"/>
+    <cosponsor thomas_id="00281" joined="2014-04-02"/>
+    <cosponsor thomas_id="01799" joined="2013-06-17"/>
+    <cosponsor thomas_id="02116" joined="2013-06-17"/>
+    <cosponsor thomas_id="01717" joined="2013-09-12"/>
+    <cosponsor thomas_id="00303" joined="2013-11-21"/>
+    <cosponsor thomas_id="00316" joined="2013-12-23"/>
+    <cosponsor thomas_id="02123" joined="2013-04-16"/>
+    <cosponsor thomas_id="02072" joined="2013-08-02"/>
+    <cosponsor thomas_id="02057" joined="2013-03-18"/>
+    <cosponsor thomas_id="01857" joined="2013-04-16"/>
+    <cosponsor thomas_id="02036" joined="2013-10-10"/>
+    <cosponsor thomas_id="00344" joined="2014-04-10"/>
+    <cosponsor thomas_id="02125" joined="2013-12-23"/>
+    <cosponsor thomas_id="00355" joined="2013-03-18"/>
+    <cosponsor thomas_id="02067" joined="2014-05-22"/>
+    <cosponsor thomas_id="00368" joined="2013-06-06"/>
+    <cosponsor thomas_id="01797" joined="2013-09-11"/>
+    <cosponsor thomas_id="01888" joined="2014-06-23"/>
+    <cosponsor thomas_id="02119" joined="2013-07-30"/>
+    <cosponsor thomas_id="02120" joined="2014-07-31"/>
+    <cosponsor thomas_id="02049" joined="2013-11-19"/>
+    <cosponsor thomas_id="02043" joined="2013-11-13"/>
+    <cosponsor thomas_id="01992" joined="2013-08-02"/>
+    <cosponsor thomas_id="01487" joined="2013-10-08"/>
+    <cosponsor thomas_id="01656" joined="2013-04-16"/>
+    <cosponsor thomas_id="00462" joined="2014-02-21"/>
+    <cosponsor thomas_id="01990" joined="2013-12-10"/>
+    <cosponsor thomas_id="01708" joined="2013-05-14"/>
+    <cosponsor thomas_id="02041" joined="2013-04-16"/>
+    <cosponsor thomas_id="01922" joined="2013-03-21"/>
+    <cosponsor thomas_id="02089" joined="2013-11-13"/>
+    <cosponsor thomas_id="02010" joined="2013-07-25"/>
+    <cosponsor thomas_id="00511" joined="2014-01-28"/>
+    <cosponsor thomas_id="02170" joined="2014-05-20"/>
+    <cosponsor thomas_id="02040" joined="2013-04-16"/>
+    <cosponsor thomas_id="01794" joined="2013-03-18"/>
+    <cosponsor thomas_id="01490" joined="2013-05-14"/>
+    <cosponsor thomas_id="02143" joined="2013-10-11"/>
+    <cosponsor thomas_id="01580" joined="2013-03-18"/>
+    <cosponsor thomas_id="01634" joined="2013-11-19"/>
+    <cosponsor thomas_id="02147" joined="2013-09-12"/>
+    <cosponsor thomas_id="02101" joined="2014-02-26"/>
+    <cosponsor thomas_id="01663" joined="2013-05-14"/>
+    <cosponsor thomas_id="00588" joined="2014-05-15"/>
+    <cosponsor thomas_id="01921" joined="2013-09-23"/>
+    <cosponsor thomas_id="02046" joined="2013-04-16"/>
+    <cosponsor thomas_id="00599" joined="2014-05-06"/>
+    <cosponsor thomas_id="01843" joined="2013-11-13"/>
+    <cosponsor thomas_id="00612" joined="2013-10-22"/>
+    <cosponsor thomas_id="02154" joined="2013-06-17"/>
+    <cosponsor thomas_id="02025" joined="2014-03-26"/>
+    <cosponsor thomas_id="02051" joined="2013-10-22"/>
+    <cosponsor thomas_id="02190" joined="2013-10-16"/>
+    <cosponsor thomas_id="02172" joined="2014-06-11"/>
+    <cosponsor thomas_id="02134" joined="2013-09-17"/>
+    <cosponsor thomas_id="01498" joined="2013-04-25"/>
+    <cosponsor thomas_id="00635" joined="2013-03-18"/>
+    <cosponsor thomas_id="01907" joined="2013-05-23"/>
+    <cosponsor thomas_id="02145" joined="2013-06-06"/>
+    <cosponsor thomas_id="02100" joined="2013-11-19"/>
+    <cosponsor thomas_id="01668" joined="2013-03-18"/>
+    <cosponsor thomas_id="01675" joined="2013-12-12"/>
+    <cosponsor thomas_id="01583" joined="2013-05-23"/>
+    <cosponsor thomas_id="00666" joined="2013-05-14"/>
+    <cosponsor thomas_id="00683" joined="2013-05-23"/>
+    <cosponsor thomas_id="00688" joined="2013-08-02"/>
+    <cosponsor thomas_id="01781" joined="2013-04-25"/>
+    <cosponsor thomas_id="00699" joined="2014-04-28"/>
+    <cosponsor thomas_id="01846" joined="2013-03-18"/>
+    <cosponsor thomas_id="00701" joined="2013-09-11"/>
+    <cosponsor thomas_id="02033" joined="2013-07-25"/>
+    <cosponsor thomas_id="02111" joined="2013-11-13"/>
+    <cosponsor thomas_id="00709" joined="2014-03-26"/>
+    <cosponsor thomas_id="02146" joined="2013-06-26"/>
+    <cosponsor thomas_id="01939" joined="2013-05-14"/>
+    <cosponsor thomas_id="01943" joined="2013-06-26"/>
+    <cosponsor thomas_id="00729" joined="2013-12-12"/>
+    <cosponsor thomas_id="02053" joined="2013-12-23"/>
+    <cosponsor thomas_id="01814" joined="2013-07-25"/>
+    <cosponsor thomas_id="01503" joined="2013-04-25"/>
+    <cosponsor thomas_id="01804" joined="2013-11-21"/>
+    <cosponsor thomas_id="01653" joined="2013-07-30"/>
+    <cosponsor thomas_id="00766" joined="2013-11-21"/>
+    <cosponsor thomas_id="01504" joined="2013-07-25"/>
+    <cosponsor thomas_id="01505" joined="2013-05-23"/>
+    <cosponsor thomas_id="02074" joined="2014-02-25"/>
+    <cosponsor thomas_id="01832" joined="2013-10-02"/>
+    <cosponsor thomas_id="02052" joined="2013-03-18"/>
+    <cosponsor thomas_id="01730" joined="2013-03-18"/>
+    <cosponsor thomas_id="01584" joined="2013-04-16"/>
+    <cosponsor thomas_id="01811" joined="2013-04-25"/>
+    <cosponsor thomas_id="00832" joined="2014-04-28"/>
+    <cosponsor thomas_id="01744" joined="2013-04-16"/>
+    <cosponsor thomas_id="00850" joined="2013-11-18"/>
+    <cosponsor thomas_id="01602" joined="2013-07-25"/>
+    <cosponsor thomas_id="02108" joined="2013-07-25"/>
+    <cosponsor thomas_id="00867" joined="2013-08-02"/>
+    <cosponsor thomas_id="00868" joined="2013-03-18"/>
+    <cosponsor thomas_id="01710" joined="2013-07-25"/>
+    <cosponsor thomas_id="02034" joined="2013-07-30"/>
+    <cosponsor thomas_id="02162" joined="2013-05-23"/>
+    <cosponsor thomas_id="01955" joined="2013-05-23"/>
+    <cosponsor thomas_id="01974" joined="2013-07-25"/>
+    <cosponsor thomas_id="01510" joined="2014-03-24"/>
+    <cosponsor thomas_id="00893" joined="2014-03-12"/>
+    <cosponsor thomas_id="01930" joined="2013-07-11"/>
+    <cosponsor thomas_id="02097" joined="2013-09-11"/>
+    <cosponsor thomas_id="01738" joined="2013-08-02"/>
+    <cosponsor thomas_id="01835" joined="2013-05-23"/>
+    <cosponsor thomas_id="02113" joined="2014-06-10"/>
+    <cosponsor thomas_id="00910" joined="2013-05-23"/>
+    <cosponsor thomas_id="01927" joined="2013-06-06"/>
+    <cosponsor thomas_id="02171" joined="2013-05-23"/>
+    <cosponsor thomas_id="00930" joined="2013-04-16"/>
+    <cosponsor thomas_id="01967" joined="2013-06-06"/>
+    <cosponsor thomas_id="02118" joined="2013-06-26"/>
+    <cosponsor thomas_id="00940" joined="2013-03-18"/>
+    <cosponsor thomas_id="00944" joined="2014-04-07"/>
+    <cosponsor thomas_id="02073" joined="2014-06-24"/>
+    <cosponsor thomas_id="02023" joined="2014-03-25"/>
+    <cosponsor thomas_id="00977" joined="2014-02-10"/>
+    <cosponsor thomas_id="02158" joined="2014-05-20"/>
+    <cosponsor thomas_id="00997" joined="2014-01-28"/>
+    <cosponsor thomas_id="02039" joined="2013-09-11"/>
+    <cosponsor thomas_id="01728" joined="2013-04-16"/>
+    <cosponsor thomas_id="01003" joined="2013-11-18"/>
+    <cosponsor thomas_id="01756" joined="2013-06-06"/>
+    <cosponsor thomas_id="01522" joined="2013-07-30"/>
+    <cosponsor thomas_id="01588" joined="2013-04-16"/>
+    <cosponsor thomas_id="01635" joined="2013-03-18"/>
+    <cosponsor thomas_id="02124" joined="2014-05-29"/>
+    <cosponsor thomas_id="01950" joined="2014-04-28"/>
+    <cosponsor thomas_id="01798" joined="2013-03-18"/>
+    <cosponsor thomas_id="01722" joined="2014-03-26"/>
+    <cosponsor thomas_id="01525" joined="2013-04-16"/>
+    <cosponsor thomas_id="01861" joined="2013-09-12"/>
+    <cosponsor thomas_id="01681" joined="2013-07-30"/>
+    <cosponsor thomas_id="01069" joined="2013-12-10"/>
+    <cosponsor thomas_id="01071" joined="2014-05-07"/>
+    <cosponsor thomas_id="02000" joined="2014-07-18"/>
+    <cosponsor thomas_id="01890" joined="2013-11-18"/>
+    <cosponsor thomas_id="02047" joined="2014-02-27"/>
+    <cosponsor thomas_id="02104" joined="2013-06-17"/>
+    <cosponsor thomas_id="01566" joined="2013-05-14"/>
+    <cosponsor thomas_id="01952" joined="2013-07-25"/>
+    <cosponsor thomas_id="01593" joined="2013-11-14"/>
+    <cosponsor thomas_id="01155" joined="2013-12-10"/>
+    <cosponsor thomas_id="01535" joined="2013-03-21"/>
+    <cosponsor thomas_id="01940" joined="2013-04-16"/>
+    <cosponsor thomas_id="01942" joined="2013-05-14"/>
+    <cosponsor thomas_id="01884" joined="2013-04-16"/>
+    <cosponsor thomas_id="01741" joined="2013-06-26"/>
+    <cosponsor thomas_id="02105" joined="2014-06-05"/>
+    <cosponsor thomas_id="02167" joined="2013-12-10"/>
+    <cosponsor thomas_id="02137" joined="2013-11-19"/>
+    <cosponsor thomas_id="01596" joined="2013-07-30"/>
+    <cosponsor thomas_id="02128" joined="2013-10-15"/>
+    <cosponsor thomas_id="01856" joined="2013-06-06"/>
+    <cosponsor thomas_id="01879" joined="2013-03-18"/>
+    <cosponsor thomas_id="01222" joined="2013-07-25"/>
+    <cosponsor thomas_id="01688" joined="2013-06-17"/>
+    <cosponsor thomas_id="01886" joined="2013-03-18"/>
+    <cosponsor thomas_id="01853" joined="2013-07-25"/>
+    <cosponsor thomas_id="02021" joined="2014-02-10"/>
+    <cosponsor thomas_id="01256" joined="2013-05-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-14" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-02-14">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-02-14">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-02-15">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2013-02-19">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSWM02" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="367"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Home and outpatient care"/>
+    <term name="Long-term, rehabilitative, and terminal care"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>2/14/2013--Introduced.
+Medicare Access to Rehabilitation Services Act of 2013 - Amends title XVIII (Medicare) of the Social Security Act to repeal the caps on Medicare outpatient rehabilitation physical therapy services and speech-language pathology services.</summary>
+</bill>

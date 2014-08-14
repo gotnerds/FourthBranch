@@ -1,0 +1,71 @@
+<bill session="113" type="hr" number="448" updated="2014-08-14T12:48:26-04:00">
+  <state datetime="2013-12-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-12-19"/>
+  </status>
+  <introduced datetime="2013-12-19"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the House of Representatives that the symbols and traditions of Christmas should be protected for use by those who celebrate Christmas.</title>
+  </titles>
+  <sponsor thomas_id="01834"/>
+  <cosponsors>
+    <cosponsor thomas_id="01460" joined="2013-12-19"/>
+    <cosponsor thomas_id="02135" joined="2013-12-19"/>
+    <cosponsor thomas_id="02063" joined="2013-12-19"/>
+    <cosponsor thomas_id="01748" joined="2013-12-19"/>
+    <cosponsor thomas_id="02155" joined="2013-12-19"/>
+    <cosponsor thomas_id="01882" joined="2013-12-19"/>
+    <cosponsor thomas_id="01676" joined="2013-12-19"/>
+    <cosponsor thomas_id="01742" joined="2013-12-19"/>
+    <cosponsor thomas_id="01805" joined="2013-12-19"/>
+    <cosponsor thomas_id="02067" joined="2013-12-19"/>
+    <cosponsor thomas_id="02064" joined="2013-12-19"/>
+    <cosponsor thomas_id="01924" joined="2013-12-19"/>
+    <cosponsor thomas_id="02065" joined="2013-12-19"/>
+    <cosponsor thomas_id="01683" joined="2013-12-19"/>
+    <cosponsor thomas_id="01720" joined="2013-12-19"/>
+    <cosponsor thomas_id="00446" joined="2013-12-19"/>
+    <cosponsor thomas_id="02070" joined="2013-12-19"/>
+    <cosponsor thomas_id="02026" joined="2013-12-19"/>
+    <cosponsor thomas_id="02032" joined="2013-12-19"/>
+    <cosponsor thomas_id="01749" joined="2013-12-19"/>
+    <cosponsor thomas_id="02020" joined="2013-12-19"/>
+    <cosponsor thomas_id="00612" joined="2013-12-19"/>
+    <cosponsor thomas_id="01868" joined="2013-12-19"/>
+    <cosponsor thomas_id="02051" joined="2013-12-19"/>
+    <cosponsor thomas_id="02050" joined="2013-12-19"/>
+    <cosponsor thomas_id="01505" joined="2013-12-19"/>
+    <cosponsor thomas_id="01685" joined="2013-12-19"/>
+    <cosponsor thomas_id="01758" joined="2013-12-19"/>
+    <cosponsor thomas_id="01738" joined="2013-12-19"/>
+    <cosponsor thomas_id="01514" joined="2013-12-19"/>
+    <cosponsor thomas_id="01915" joined="2013-12-19"/>
+    <cosponsor thomas_id="00940" joined="2013-12-19"/>
+    <cosponsor thomas_id="02000" joined="2013-12-19"/>
+    <cosponsor thomas_id="01855" joined="2013-12-19"/>
+    <cosponsor thomas_id="02152" joined="2013-12-19"/>
+    <cosponsor thomas_id="01779" joined="2013-12-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-12-19" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Arts, culture, religion"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="First Amendment rights"/>
+    <term name="Religion"/>
+  </subjects>
+  <amendments/>
+  <summary>12/19/2013--Introduced.
+Recognizes the importance of Christmas symbols and traditions.
+
+Disapproves of attempts to ban references to Christmas.
+
+Expresses support for the use of these symbols and traditions by those who celebrate Christmas.</summary>
+</bill>

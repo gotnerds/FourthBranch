@@ -1,0 +1,148 @@
+<bill session="113" type="h" number="997" updated="2014-08-14T12:59:13-04:00">
+  <state datetime="2013-03-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-06"/>
+  </status>
+  <introduced datetime="2013-03-06"/>
+  <titles>
+    <title type="short" as="introduced">English Language Unity Act of 2013</title>
+    <title type="official" as="introduced">To declare English as the official language of the United States, to establish a uniform English language rule for naturalization, and to avoid misconstructions of the English language texts of the laws of the United States, pursuant to Congress' powers to provide for the general welfare of the United States and to establish a uniform rule of naturalization under article I, section 8, of the Constitution.</title>
+  </titles>
+  <sponsor thomas_id="01724"/>
+  <cosponsors>
+    <cosponsor thomas_id="01858" joined="2014-06-17"/>
+    <cosponsor thomas_id="02054" joined="2013-03-06"/>
+    <cosponsor thomas_id="02027" joined="2014-06-24"/>
+    <cosponsor thomas_id="01838" joined="2014-07-10"/>
+    <cosponsor thomas_id="01753" joined="2014-02-27"/>
+    <cosponsor thomas_id="01748" joined="2014-06-17"/>
+    <cosponsor thomas_id="01787" joined="2013-03-06"/>
+    <cosponsor thomas_id="02155" joined="2013-05-22"/>
+    <cosponsor thomas_id="01987" joined="2014-05-21"/>
+    <cosponsor thomas_id="01882" joined="2013-03-06"/>
+    <cosponsor thomas_id="01840" joined="2013-03-06"/>
+    <cosponsor thomas_id="00165" joined="2013-03-21"/>
+    <cosponsor thomas_id="00166" joined="2014-06-18"/>
+    <cosponsor thomas_id="01816" joined="2014-06-10"/>
+    <cosponsor thomas_id="00186" joined="2014-07-09"/>
+    <cosponsor thomas_id="00211" joined="2013-03-06"/>
+    <cosponsor thomas_id="02121" joined="2014-02-27"/>
+    <cosponsor thomas_id="02062" joined="2014-05-28"/>
+    <cosponsor thomas_id="02057" joined="2013-04-10"/>
+    <cosponsor thomas_id="00322" joined="2013-03-06"/>
+    <cosponsor thomas_id="02064" joined="2014-02-27"/>
+    <cosponsor thomas_id="02061" joined="2014-06-24"/>
+    <cosponsor thomas_id="01924" joined="2014-07-14"/>
+    <cosponsor thomas_id="01683" joined="2014-02-28"/>
+    <cosponsor thomas_id="01793" joined="2014-01-14"/>
+    <cosponsor thomas_id="01791" joined="2013-03-06"/>
+    <cosponsor thomas_id="01707" joined="2013-03-06"/>
+    <cosponsor thomas_id="02049" joined="2013-03-06"/>
+    <cosponsor thomas_id="01720" joined="2013-03-06"/>
+    <cosponsor thomas_id="01801" joined="2013-03-06"/>
+    <cosponsor thomas_id="01656" joined="2013-03-06"/>
+    <cosponsor thomas_id="00484" joined="2013-03-06"/>
+    <cosponsor thomas_id="01933" joined="2014-05-20"/>
+    <cosponsor thomas_id="02026" joined="2013-12-02"/>
+    <cosponsor thomas_id="02032" joined="2013-03-21"/>
+    <cosponsor thomas_id="02140" joined="2014-07-28"/>
+    <cosponsor thomas_id="02020" joined="2013-07-30"/>
+    <cosponsor thomas_id="01909" joined="2014-07-31"/>
+    <cosponsor thomas_id="01921" joined="2014-01-07"/>
+    <cosponsor thomas_id="00603" joined="2014-06-10"/>
+    <cosponsor thomas_id="00612" joined="2013-03-06"/>
+    <cosponsor thomas_id="01868" joined="2013-03-06"/>
+    <cosponsor thomas_id="02154" joined="2013-03-12"/>
+    <cosponsor thomas_id="00636" joined="2013-03-06"/>
+    <cosponsor thomas_id="02100" joined="2013-09-09"/>
+    <cosponsor thomas_id="01834" joined="2014-04-28"/>
+    <cosponsor thomas_id="00666" joined="2013-11-19"/>
+    <cosponsor thomas_id="01885" joined="2013-03-06"/>
+    <cosponsor thomas_id="02033" joined="2013-09-09"/>
+    <cosponsor thomas_id="00711" joined="2014-07-15"/>
+    <cosponsor thomas_id="01931" joined="2013-03-06"/>
+    <cosponsor thomas_id="01806" joined="2013-05-22"/>
+    <cosponsor thomas_id="02094" joined="2013-10-07"/>
+    <cosponsor thomas_id="01804" joined="2013-03-06"/>
+    <cosponsor thomas_id="01908" joined="2013-03-06"/>
+    <cosponsor thomas_id="01505" joined="2013-03-06"/>
+    <cosponsor thomas_id="00800" joined="2014-06-23"/>
+    <cosponsor thomas_id="01731" joined="2013-11-19"/>
+    <cosponsor thomas_id="01685" joined="2013-03-06"/>
+    <cosponsor thomas_id="02001" joined="2013-03-21"/>
+    <cosponsor thomas_id="02034" joined="2013-03-06"/>
+    <cosponsor thomas_id="02035" joined="2013-03-06"/>
+    <cosponsor thomas_id="02157" joined="2013-10-09"/>
+    <cosponsor thomas_id="00912" joined="2014-06-09"/>
+    <cosponsor thomas_id="01915" joined="2014-06-23"/>
+    <cosponsor thomas_id="01778" joined="2014-06-24"/>
+    <cosponsor thomas_id="00940" joined="2013-03-06"/>
+    <cosponsor thomas_id="01954" joined="2014-06-09"/>
+    <cosponsor thomas_id="00977" joined="2013-03-06"/>
+    <cosponsor thomas_id="01704" joined="2014-05-06"/>
+    <cosponsor thomas_id="00979" joined="2013-03-06"/>
+    <cosponsor thomas_id="02158" joined="2013-07-09"/>
+    <cosponsor thomas_id="01009" joined="2013-03-06"/>
+    <cosponsor thomas_id="01892" joined="2013-08-02"/>
+    <cosponsor thomas_id="01920" joined="2014-07-10"/>
+    <cosponsor thomas_id="01681" joined="2013-03-06"/>
+    <cosponsor thomas_id="01590" joined="2013-03-06"/>
+    <cosponsor thomas_id="01860" joined="2014-06-10"/>
+    <cosponsor thomas_id="02168" joined="2013-09-27"/>
+    <cosponsor thomas_id="02047" joined="2013-03-06"/>
+    <cosponsor thomas_id="01114" joined="2013-04-25"/>
+    <cosponsor thomas_id="01664" joined="2013-03-06"/>
+    <cosponsor thomas_id="01741" joined="2013-03-06"/>
+    <cosponsor thomas_id="01779" joined="2013-03-06"/>
+    <cosponsor thomas_id="01222" joined="2014-06-10"/>
+    <cosponsor thomas_id="01688" joined="2014-06-18"/>
+    <cosponsor thomas_id="01886" joined="2014-05-21"/>
+    <cosponsor thomas_id="01238" joined="2013-03-06"/>
+    <cosponsor thomas_id="01991" joined="2013-07-31"/>
+    <cosponsor thomas_id="01255" joined="2013-04-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-06" state="REFERRED">
+      <text>Referred to the Committee on Education and the Workforce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-06">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2013-03-06">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2013-04-08">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee subcommittee="Immigration and Border Security" code="HSJU01" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Constitution and Civil Justice" code="HSJU10" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="464"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Academic performance and assessments"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Citizenship and naturalization"/>
+    <term name="Civil actions and liability"/>
+    <term name="Constitution and constitutional amendments"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Foreign language and bilingual programs"/>
+    <term name="Government information and archives"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>3/6/2013--Introduced.
+English Language Unity Act of 2013 - Makes English the official language of the United States.
+
+Requires, subject to exceptions and rules of construction, that: (1) official functions of the U.S. government be conducted in English, and (2) all naturalization ceremonies be conducted in English.
+
+Establishes a uniform English language rule for naturalization.
+
+Makes English language requirements and workplace policies, whether in the public or private sector, presumptively consistent with the laws of the United States. Directs the Secretary of Homeland Security (DHS) to issue for public notice and comment a proposed rule for uniform testing of English language ability of candidates for naturalization based upon the principles that: (1) all citizens should be able to read and understand generally the English language text of the Declaration of Independence, the Constitution, and the laws of the United States; and (2) any exceptions to this standard should be limited to extraordinary circumstances, such as asylum.</summary>
+</bill>

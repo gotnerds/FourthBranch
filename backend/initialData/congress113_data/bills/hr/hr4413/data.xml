@@ -1,0 +1,248 @@
+<bill session="113" type="h" number="4413" updated="2014-08-14T13:29:02-04:00">
+  <state datetime="2014-06-24T14:41:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-06-24T14:41:00-04:00"/>
+  </status>
+  <introduced datetime="2014-04-07"/>
+  <titles>
+    <title type="short" as="introduced">Customer Protection and End User Relief Act</title>
+    <title type="short" as="introduced" partial="1">Commodity Futures Trading Commission Reform Act</title>
+    <title type="short" as="introduced" partial="1">End-User Relief and Market Certainty Act</title>
+    <title type="short" as="introduced" partial="1">Futures Customer Protection Act</title>
+    <title type="short" as="passed house">Customer Protection and End User Relief Act</title>
+    <title type="short" as="passed house" partial="1">Commodity Futures Trading Commission Reform Act</title>
+    <title type="short" as="passed house" partial="1">End-User Relief and Market Certainty Act</title>
+    <title type="short" as="passed house" partial="1">Futures Customer Protection Act</title>
+    <title type="official" as="introduced">To reauthorize the Commodity Futures Trading Commission, to better protect futures customers, to provide end users with market certainty, to make basic reforms to ensure transparency and accountability at the Commission, to help farmers, ranchers, and end users manage risks to help keep consumer costs low, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00711"/>
+  <cosponsors>
+    <cosponsor thomas_id="01805" joined="2014-04-07"/>
+    <cosponsor thomas_id="00910" joined="2014-04-07"/>
+    <cosponsor thomas_id="01722" joined="2014-04-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-04-07" state="REFERRED">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2014-04-09">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-04-09" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+    <action datetime="2014-06-05T15:19:00-04:00">
+      <text>Reported by the Committee on Agriculture. H. Rept. 113-469.</text>
+    </action>
+    <calendar datetime="2014-06-05T15:20:00-04:00" calendar="Union" number="348">
+      <text>Placed on the Union Calendar, Calendar No. 348.</text>
+    </calendar>
+    <action datetime="2014-06-18T17:17:00-04:00">
+      <text>Rules Committee Resolution H. Res. 629 Reported to House. Rule provides for consideration of H.R. 4413 with 1 hour of general debate. Motion to recommit with or without instructions allowed. The rule makes in order as original text for the purpose of amendment an amendment in the nature of a substitute consisting of the text of Rules Committee Print 113-47.</text>
+    </action>
+    <action datetime="2014-06-19T17:02:00-04:00">
+      <text>Rule H. Res. 629 passed House.</text>
+    </action>
+    <action datetime="2014-06-23T19:10:00-04:00">
+      <text>The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 4413.</text>
+    </action>
+    <action datetime="2014-06-23T19:11:00-04:00">
+      <text>Considered under the provisions of rule H. Res. 629.</text>
+      <reference ref="CR H5612-5638" label="consideration"/>
+      <reference ref="CR H512-5629" label="text of measure as reported in House"/>
+    </action>
+    <action datetime="2014-06-23T19:11:00-04:00">
+      <text>Rule provides for consideration of H.R. 4413 with 1 hour of general debate. Motion to recommit with or without instructions allowed. The rule makes in order as original text for the purpose of amendment an amendment in the nature of a substitute consisting of the text of Rules Committee Print 113-47.</text>
+    </action>
+    <action datetime="2014-06-23T19:11:00-04:00">
+      <text>House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 629 and Rule XVIII.</text>
+    </action>
+    <action datetime="2014-06-23T19:11:00-04:00">
+      <text>The Speaker designated the Honorable Rob Bishop to act as Chairman of the Committee.</text>
+    </action>
+    <action datetime="2014-06-23T19:11:00-04:00">
+      <text>GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 4413.</text>
+    </action>
+    <action datetime="2014-06-23T20:05:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 629, the Committee of the Whole proceeded with 10 minutes of debate on the DeFazio amendment No. 1.</text>
+    </action>
+    <action datetime="2014-06-23T20:08:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 629, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment No. 2.</text>
+    </action>
+    <action datetime="2014-06-23T20:14:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Jackson Lee amendment No. 2, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Jackson Lee demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2014-06-23T20:15:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 629, the Committee of the Whole proceeded with 10 minutes of debate on the DelBene amendment No. 3.</text>
+    </action>
+    <action datetime="2014-06-23T20:20:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 629, the Committee of the Whole proceeded with 10 minutes of debate on the Waters amendment No. 4.</text>
+    </action>
+    <action datetime="2014-06-23T20:27:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Waters amendment No. 4, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Waters demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2014-06-23T20:28:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 629, the Committee of the Whole proceeded with 10 minutes of debate on the Moore amendment No. 5.</text>
+    </action>
+    <action datetime="2014-06-23T20:37:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Moore amendment No. 5, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Moore demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2014-06-23T20:38:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 629, the Committee of the Whole proceeded with 10 minutes of debate on the Jackson Lee amendment No. 6.</text>
+    </action>
+    <action datetime="2014-06-23T20:44:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Jackson Lee amendment No. 6, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Jackson Lee demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2014-06-23T20:45:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 629, the Committee of the Whole proceeded with 10 minutes of debate on the Fincher amendment No. 7.</text>
+    </action>
+    <action datetime="2014-06-23T20:50:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 629, the Committee of the Whole proceeded with 10 minutes of debate on the Garrett amendment No. 8.</text>
+    </action>
+    <action datetime="2014-06-23T21:01:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Garrett amendment No. 8, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Peterson (MN) demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2014-06-23T21:02:00-04:00">
+      <text>Mr. Lucas moved that the Committee rise.</text>
+    </action>
+    <action datetime="2014-06-23T21:02:00-04:00">
+      <text>On motion that the Committee rise Agreed to by voice vote.</text>
+    </action>
+    <action datetime="2014-06-23T21:02:00-04:00">
+      <text>Committee of the Whole House on the state of the Union rises leaving H.R. 4413 as unfinished business.</text>
+    </action>
+    <action datetime="2014-06-24T13:56:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H5659-5665" label="consideration"/>
+    </action>
+    <action datetime="2014-06-24T13:57:00-04:00">
+      <text>The House resolved into Committee of the Whole House on the state of the Union for further consideration.</text>
+    </action>
+    <action datetime="2014-06-24T13:57:00-04:00">
+      <text>UNFINISHED BUSINESS - The Chair announced that, pursuant to clause 6 of Rule XVIII, the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.</text>
+    </action>
+    <action datetime="2014-06-24T14:18:00-04:00">
+      <text>The House rose from the Committee of the Whole House on the state of the Union to report H.R. 4413.</text>
+    </action>
+    <action datetime="2014-06-24T14:19:00-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H5663" label="consideration"/>
+    </action>
+    <action datetime="2014-06-24T14:19:00-04:00">
+      <text>The House adopted the amendment in the nature of a substitute as agreed to by the Committee of the Whole House on the state of the Union.</text>
+    </action>
+    <action datetime="2014-06-24T14:20:00-04:00">
+      <text>Ms. Kuster moved to recommit with instructions to the Committee on Agriculture.</text>
+      <reference ref="CR H5663-5665" label="consideration"/>
+      <reference ref="CR H5663" label="text"/>
+    </action>
+    <action datetime="2014-06-24T14:20:00-04:00">
+      <text>DEBATE - The House proceeded with 10 minutes of debate on the Kuster motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with an amendment to ensure that the Commodity Futures Trading Commission would: (1) immediately curb the role of excessive speculation in any designated facility within its jurisdiction through which oil and gasoline futures or swaps are traded to eliminate excessive speculation, price distortion, or sudden or unreasonable fluctuations or unwarranted changes in prices; (2) investigate the number of swap and security-based swap market participants that have moved their headquarters or operations out of the United States in order to avoid compliance with United States swap requirements; and (3) require overseas derivatives users to obey American laws prohibiting fraud and manipulation of American markets,                pursuant to the Dodd-Frank Wall Street Reform  and Consumer                 Protection Act.</text>
+    </action>
+    <action datetime="2014-06-24T14:26:00-04:00">
+      <text>The previous question on the motion to recommit with instructions was ordered without objection.</text>
+      <reference ref="CR H5664-5665" label="consideration"/>
+    </action>
+    <action datetime="2014-06-24T14:35:00-04:00">
+      <text>On motion to recommit with instructions Failed by recorded vote: 191 - 220 (Roll no. 348).</text>
+      <reference ref="CR H5665" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="349" datetime="2014-06-24T14:41:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by recorded vote: 265 - 144 (Roll no. 349).</text>
+    </vote>
+    <action datetime="2014-06-25">
+      <text>Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAG" name="House Agriculture" activity="Referral, Markup, Reporting"/>
+    <committee subcommittee="" code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="113" relation="rule" number="629"/>
+    <bill type="h" session="113" relation="unknown" number="1038"/>
+    <bill type="h" session="113" relation="unknown" number="1256"/>
+    <bill type="h" session="113" relation="unknown" number="4330"/>
+    <bill type="h" session="113" relation="unknown" number="4392"/>
+    <bill type="s" session="113" relation="unknown" number="1802"/>
+    <bill type="s" session="113" relation="unknown" number="2330"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Business investment and capital"/>
+    <term name="Business records"/>
+    <term name="Commodities markets"/>
+    <term name="Commodity Futures Trading Commission"/>
+    <term name="Congressional oversight"/>
+    <term name="Consumer affairs"/>
+    <term name="Corporate finance and management"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal officials"/>
+    <term name="Financial services and investments"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Judicial review and appeals"/>
+    <term name="Licensing and registrations"/>
+    <term name="Oil and gas"/>
+    <term name="Public utilities and utility rates"/>
+    <term name="U.S. and foreign investments"/>
+  </subjects>
+  <amendments>
+    <amendment number="h947"/>
+    <amendment number="h948"/>
+    <amendment number="h949"/>
+    <amendment number="h950"/>
+    <amendment number="h951"/>
+    <amendment number="h952"/>
+    <amendment number="h953"/>
+    <amendment number="h954"/>
+  </amendments>
+  <summary>4/7/2014--Introduced.
+Customer Protection and End User Relief Act - Futures Customer Protection Act - Amends the Commodity Exchange Act (CEA) to direct registered futures associations to require their futures commission merchant members to: (1) maintain written policies and procedures governing maintenance of members&#8217; specified residual interests in customer segregated funds accounts, including cleared swaps customer collateral accounts; and (2) establish rules governing the withdrawal, transfer, or disbursement of a member's residual interest in customer segregated funds, in foreign futures and foreign options customer secured amount funds, and from a cleared swaps customer collateral.
+
+Authorizes the Commodity Futures Trading Commission (CFTC) to require that property of the bankruptcy estate, including trading or operating accounts and commodities held in inventory, of a commodity broker who is a Chapter 7 debtor in bankruptcy be included in customer property to the extent that such property is insufficient to satisfy the net equity claims of the broker's public customers.
+
+Directs the CFTC to examine the effect of high-frequency trading upon markets under its jurisdiction.
+
+Commodity Futures Trading Commission Reform Act - Extends authority for CFTC operations. Amends the Commodity Exchange Act (CEA) to revise the requirement that the CFTC, before promulgating a regulation or issuing an order, consider the costs and benefits of the action. Requires the CFTC, through the Office of the Chief Economist (established by this Act), to: (1) assess and publish the costs and benefits, both qualitative and quantitative, of the proposed regulation; and (2) require the proposed regulation or order to state its statutory justification.
+
+Requires the CFTC to submit every five years to certain congressional committees a detailed strategic technology plan focused on its acquisition and use of technology.
+
+Requires CFTC staff and the Chief Economist to develop comprehensive internal risk control mechanisms to safeguard and govern the storage of all market data, including CFTC market data sharing agreements, and academic research performed at the CFTC using market data.
+
+ Requires the CFTC to direct its staff to develop and publish in any proposed rule a plan for: (1) when and for how long the proposed rule will be subject to public comment, and (2) a deadline for compliance with the final rule.
+
+Instructs the Comptroller General (GAO) to: (1) study whether CFTC resources are sufficient to enable the CFTC to carry out its duties effectively; and (2) examine prior CFTC expenditures on hardware, software, and analytical processes to protect customers in the areas of market surveillance and risk detection, and market data collection, aggregation, interpretation, standardization, harmonization, and streamlining.
+
+End-User Relief and Market Certainty Act - Amends the CEA to exempt, from the rules of prudential regulators for swap dealers and major swap participants with respect to initial and variation margin requirements for swaps not cleared by a registered derivatives clearing organization, those swaps in which one of the counterparties: (1) is eligible for an exception from clearing requirements for certain significant price discovery agreements, contracts, or transactions in a commodity exempt from regulation by the CFTC, or an exemption from certain clearing requirements for cooperative entities; or (2) satisfies certain criteria for the treatment of affiliates.
+
+Revises the treatment of affiliate transactions that may be exempt from clearing requirements to authorize such an exemption only if such affiliate enters into the swap to hedge or mitigate the commercial risk of the person that is not a financial entity (as under current law), except that if the transfer of commercial risk is addressed by entering into a swap with a swap dealer or major swap participant, a credit support measure or other mechanism is utilized.
+
+ Prescribes reporting requirements for transactions in utility operations-related swaps.
+
+Requires the CFTC, in determining whether to exempt from designation as a swap dealer an entity that engages in a de minimis quantity of swap dealing, to treat a utility operations-related swap entered into with a utility special entity as if the entity were not a special entity.
+
+Excludes from the definition of financial entity subject to clearing requirements specified entities that are not supervised by a prudential regulator, yet are commercial market participants deemed to be a financial entity because they: (1) predominantly engage in physical delivery contracts; or (2) enter into swaps, contracts for future delivery, and other derivatives on behalf of, or to hedge or mitigate the commercial risk of affiliates that are not so supervised or described.
+
+Directs the CFTC to: (1) provide by rule for the public reporting of swap transactions in illiquid markets that are not cleared and entered into by a non-financial entity that is hedging or mitigating commercial risk; and (2) ensure that certain swap transaction information is publicly available no sooner than 30 days after the swap transaction has been executed, or at such later date as the CFTC determines appropriate to protect the identity of participants and positions in illiquid markets and to prevent the elimination or reduction of market liquidity.
+
+Sets forth recordkeeping requirements for a member of a designated contract market or a swap execution facility that is neither registered with the CFTC nor required to be so registered.
+
+Excludes from the definition of &#8220;swap&#8221; any purchase or sale of a nonfinancial commodity or security for deferred shipment or delivery, so long as the transaction is intended to be physically settled (as under current law), including any stand-alone or embedded option: (1) for which exercise results in a physical delivery obligation, (2) which cannot be severed or marketed separately from the overall transaction for the purpose of financial settlement, and (3) in which both parties are commercial market participants.
+
+ Requires a new affirmative CFTC rule or regulation in order to amend or reduce the de minimis quantity of swap dealing that is currently set at $8 billion.
+
+ Directs the CFTC, in consultation with the prudential regulators and the Securities and Exchange Commission (SEC), to the extent that swap dealers and major swap participants that are banks are permitted by the regulators or the SEC to use approved financial models to calculate minimum capital requirements and minimum initial and variation margin requirements, including the use of non-cash collateral, to permit the use of comparable financial models by swap dealers and major swap participants that are not banks.
+
+ Directs the CFTC to amend regulations regarding criteria that qualify certain registered commodity pool operators for exemption from requirements for specified risk disclosures, performance disclosures, periodic reporting, annual reporting, and recordkeeping.
+
+Alters one criterion for qualification for such exemptions currently granted to: (1) registered commodity pool operators who sell participations in a pool solely to qualified eligible persons in an offering which qualifies for exemption from the registration requirements of the Securities Act, and (2) certain banks registered as commodity pool operators in connection with a pool that is a collective trust fund whose securities are exempt from registration under the Securities Act.
+
+ Authorizes the CFTC to define a bona fide hedging transaction, consistent with certain CEA requirements.
+
+ Directs the CFTC to issue rules governing cross-border regulation of derivatives transactions.
+
+ Makes enactment of this Act retroactive to July 21, 2010 (the date of enactment of the Dodd-Frank Wall Street Reform and Consumer Protection Act).</summary>
+</bill>

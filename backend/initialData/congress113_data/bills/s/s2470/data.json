@@ -1,0 +1,104 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-12", 
+      "committees": [
+        "SSEG"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Energy and Natural Resources.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2470-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Energy and Natural Resources", 
+      "committee_id": "SSEG"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Heinrich, Martin", 
+      "sponsored_at": "2014-06-12", 
+      "state": "NM", 
+      "thomas_id": "01937", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-06-12", 
+  "number": "2470", 
+  "official_title": "A bill to provide for drought relief measures in the State of New Mexico, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "New Mexico Drought Relief Act of 2014", 
+  "sponsor": {
+    "district": null, 
+    "name": "Udall, Tom", 
+    "state": "NM", 
+    "thomas_id": "01567", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-06-12", 
+  "subjects": [
+    "Agricultural conservation and pollution", 
+    "Agricultural practices and innovations", 
+    "Aquatic ecology", 
+    "Climate change and greenhouse gases", 
+    "Congressional oversight", 
+    "Dams and canals", 
+    "Endangered and threatened species", 
+    "Environmental technology", 
+    "Farmland", 
+    "Fishes", 
+    "Floods and storm protection", 
+    "Government studies and investigations", 
+    "Hydrology and hydrography", 
+    "Lakes and rivers", 
+    "New Mexico", 
+    "State and local government operations", 
+    "Water resources development", 
+    "Water resources funding", 
+    "Water storage", 
+    "Water use and supply", 
+    "Watersheds", 
+    "Wilderness and natural areas, wildlife refuges, wild rivers, habitats", 
+    "Wildlife conservation and habitat protection"
+  ], 
+  "subjects_top_term": "Water resources development", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "New Mexico Drought Relief Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to provide for drought relief measures in the State of New Mexico, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T14:05:53-04:00"
+}

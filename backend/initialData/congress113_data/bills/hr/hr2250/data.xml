@@ -1,0 +1,59 @@
+<bill session="113" type="h" number="2250" updated="2014-08-14T13:10:32-04:00">
+  <state datetime="2013-06-04">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-04"/>
+  </status>
+  <introduced datetime="2013-06-04"/>
+  <titles>
+    <title type="short" as="introduced">Spending Reduction Act</title>
+    <title type="official" as="introduced">To require the head of each executive agency to submit a report on the implementation of Government Accountability Office reports on reducing duplication, achieving savings, and enhancing revenue within the Federal Government.</title>
+  </titles>
+  <sponsor thomas_id="01974"/>
+  <cosponsors>
+    <cosponsor thomas_id="02018" joined="2013-07-18"/>
+    <cosponsor thomas_id="02127" joined="2013-06-04"/>
+    <cosponsor thomas_id="02144" joined="2013-10-29"/>
+    <cosponsor thomas_id="02133" joined="2013-07-11"/>
+    <cosponsor thomas_id="01888" joined="2013-06-18"/>
+    <cosponsor thomas_id="01998" joined="2013-07-11"/>
+    <cosponsor thomas_id="02043" joined="2013-07-18"/>
+    <cosponsor thomas_id="02044" joined="2013-06-18"/>
+    <cosponsor thomas_id="02040" joined="2013-06-18"/>
+    <cosponsor thomas_id="01913" joined="2013-06-27"/>
+    <cosponsor thomas_id="02169" joined="2013-06-06"/>
+    <cosponsor thomas_id="01671" joined="2013-09-11"/>
+    <cosponsor thomas_id="02142" joined="2013-11-12"/>
+    <cosponsor thomas_id="00910" joined="2013-06-14"/>
+    <cosponsor thomas_id="01967" joined="2013-06-14"/>
+    <cosponsor thomas_id="02048" joined="2013-06-04"/>
+    <cosponsor thomas_id="01879" joined="2013-06-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-04" state="REFERRED">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-06-04">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2013-06-04">
+      <text>Referred to House Rules</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee subcommittee="" code="HSRU" name="House Rules" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional oversight"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Legislative rules and procedure"/>
+    <term name="Performance measurement"/>
+  </subjects>
+  <amendments/>
+  <summary>6/4/2013--Introduced.
+Spending Reduction Act - Requires the head of each executive agency to submit to the President and Congress a report on the implementation of recommendations made by specified Government Accountability Office (GAO) reports on reducing duplication in government programs, achieving savings, and enhancing revenue.
+
+Requires: (1) such agency reports to include recommendations by the agency heads for actions that should be taken as a result of such GAO reports; and (2) agency heads to begin implementation of such recommendations in order to eliminate, consolidate, streamline, or better coordinate government programs and agencies with duplicative, overlapping, or fragmented missions identified in the GAO reports, unless Congress enacts a joint resolution disapproving them.</summary>
+</bill>

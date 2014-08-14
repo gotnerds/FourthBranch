@@ -1,0 +1,48 @@
+<bill session="113" type="h" number="1898" updated="2014-08-14T13:06:53-04:00">
+  <state datetime="2013-05-08">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-08"/>
+  </status>
+  <introduced datetime="2013-05-08"/>
+  <titles>
+    <title type="official" as="introduced">To protect the child custody rights of deployed members of the Armed Forces, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01741"/>
+  <cosponsors>
+    <cosponsor thomas_id="00021" joined="2013-05-08"/>
+    <cosponsor thomas_id="01723" joined="2013-05-24"/>
+    <cosponsor thomas_id="01889" joined="2013-05-24"/>
+    <cosponsor thomas_id="01683" joined="2013-06-10"/>
+    <cosponsor thomas_id="01707" joined="2013-05-24"/>
+    <cosponsor thomas_id="00612" joined="2013-05-24"/>
+    <cosponsor thomas_id="01733" joined="2013-05-24"/>
+    <cosponsor thomas_id="01668" joined="2013-05-24"/>
+    <cosponsor thomas_id="02039" joined="2013-05-24"/>
+    <cosponsor thomas_id="01009" joined="2013-05-24"/>
+    <cosponsor thomas_id="01886" joined="2013-05-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-08" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-05-24">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee subcommittee="Economic Opportunity" code="HSVR10" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="4435"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Judicial procedure and administration"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Separation, divorce, custody, support"/>
+  </subjects>
+  <amendments/>
+  <summary>5/8/2013--Introduced.
+Amends the Servicemembers Civil Relief Act to provide that if a court renders a temporary order for custodial responsibility for a child based solely on a deployment or anticipated deployment of a parent-servicemember, then the court shall require that upon the return of that servicemember from deployment the custody order that was in effect preceding such deployment shall be reinstated, unless the court finds that reinstatement in not in the child's best interest. Prohibits a servicemember's deployment or possible deployment from being considered as the sole factor in the determination of a child's best interest in a motion seeking a permanent order to modify custody. Provides that under a temporary custody order, if a state law provides a higher standard of protection to the deploying parent-servicemember, then the appropriate court shall apply the higher standard.</summary>
+</bill>

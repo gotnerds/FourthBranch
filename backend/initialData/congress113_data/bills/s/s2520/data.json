@@ -1,0 +1,125 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-24", 
+      "references": [
+        {
+          "reference": "CR S3942", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-24", 
+      "committees": [
+        "SSJU"
+      ], 
+      "references": [
+        {
+          "reference": "CR S3942-3944", 
+          "type": "text of measure as introduced"
+        }
+      ], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2520-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Cornyn, John", 
+      "sponsored_at": "2014-06-24", 
+      "state": "TX", 
+      "thomas_id": "01692", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Hirono, Mazie K.", 
+      "sponsored_at": "2014-07-31", 
+      "state": "HI", 
+      "thomas_id": "01844", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Markey, Edward J.", 
+      "sponsored_at": "2014-07-08", 
+      "state": "MA", 
+      "thomas_id": "00735", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-06-24", 
+  "number": "2520", 
+  "official_title": "A bill to improve the Freedom of Information Act.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "FOIA Improvement Act of 2014", 
+  "sponsor": {
+    "district": null, 
+    "name": "Leahy, Patrick J.", 
+    "state": "VT", 
+    "thomas_id": "01383", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-06-24", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Administrative remedies", 
+    "Alternative dispute resolution, mediation, arbitration", 
+    "Congressional oversight", 
+    "Executive agency funding and structure", 
+    "Federal officials", 
+    "Freedom of information", 
+    "Government information and archives", 
+    "Government operations and politics", 
+    "Government studies and investigations"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "FOIA Improvement Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to improve the Freedom of Information Act.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T14:06:18-04:00"
+}

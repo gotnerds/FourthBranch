@@ -1,0 +1,79 @@
+<bill session="113" type="h" number="4971" updated="2014-08-14T13:33:54-04:00">
+  <state datetime="2014-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-25"/>
+  </status>
+  <introduced datetime="2014-06-25"/>
+  <titles>
+    <title type="short" as="introduced">Ask Veterans Act</title>
+    <title type="official" as="introduced">To direct the Secretary of Veterans Affairs to conduct annual surveys of veterans on experiences obtaining hospital care and medical services from medical facilities of the Department of Veterans Affairs, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02162"/>
+  <cosponsors>
+    <cosponsor thomas_id="02093" joined="2014-07-08"/>
+    <cosponsor thomas_id="02106" joined="2014-07-08"/>
+    <cosponsor thomas_id="02103" joined="2014-07-09"/>
+    <cosponsor thomas_id="02065" joined="2014-06-25"/>
+    <cosponsor thomas_id="02122" joined="2014-06-25"/>
+    <cosponsor thomas_id="02120" joined="2014-07-08"/>
+    <cosponsor thomas_id="01803" joined="2014-07-08"/>
+    <cosponsor thomas_id="00462" joined="2014-07-08"/>
+    <cosponsor thomas_id="02089" joined="2014-06-25"/>
+    <cosponsor thomas_id="02010" joined="2014-06-25"/>
+    <cosponsor thomas_id="02147" joined="2014-06-25"/>
+    <cosponsor thomas_id="02101" joined="2014-08-01"/>
+    <cosponsor thomas_id="02069" joined="2014-07-08"/>
+    <cosponsor thomas_id="01663" joined="2014-06-25"/>
+    <cosponsor thomas_id="02199" joined="2014-06-25"/>
+    <cosponsor thomas_id="00612" joined="2014-07-22"/>
+    <cosponsor thomas_id="01907" joined="2014-07-08"/>
+    <cosponsor thomas_id="00688" joined="2014-07-16"/>
+    <cosponsor thomas_id="01730" joined="2014-06-25"/>
+    <cosponsor thomas_id="02108" joined="2014-07-08"/>
+    <cosponsor thomas_id="00887" joined="2014-06-25"/>
+    <cosponsor thomas_id="01738" joined="2014-07-14"/>
+    <cosponsor thomas_id="02109" joined="2014-07-09"/>
+    <cosponsor thomas_id="01037" joined="2014-07-08"/>
+    <cosponsor thomas_id="02099" joined="2014-07-29"/>
+    <cosponsor thomas_id="02104" joined="2014-06-25"/>
+    <cosponsor thomas_id="01593" joined="2014-06-25"/>
+    <cosponsor thomas_id="01940" joined="2014-07-08"/>
+    <cosponsor thomas_id="02128" joined="2014-07-10"/>
+    <cosponsor thomas_id="01856" joined="2014-07-10"/>
+    <cosponsor thomas_id="02115" joined="2014-07-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-25">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H5735"/>
+    </action>
+    <action datetime="2014-06-25" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2014-07-18">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+    </action>
+    <action datetime="2014-07-23">
+      <text>Subcommittee on Economic Opportunity Discharged.</text>
+    </action>
+    <action datetime="2014-07-23">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Economic Opportunity" code="HSVR10" name="House Veterans' Affairs" activity="Referral, Discharged"/>
+    <committee subcommittee="Health" code="HSVR03" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health care quality"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+</bill>

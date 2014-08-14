@@ -1,0 +1,105 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-10", 
+      "references": [
+        {
+          "reference": "CR S4406-4408", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-10", 
+      "committees": [
+        "SSHR"
+      ], 
+      "references": [
+        {
+          "reference": "CR S4408-4409", 
+          "type": "text of measure as introduced"
+        }
+      ], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2584-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Portman, Rob", 
+      "sponsored_at": "2014-07-10", 
+      "state": "OH", 
+      "thomas_id": "00924", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Warner, Mark R.", 
+      "sponsored_at": "2014-07-10", 
+      "state": "VA", 
+      "thomas_id": "01897", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-07-10", 
+  "number": "2584", 
+  "official_title": "A bill to amend the Carl D. Perkins Career and Technical Education Act of 2006 to raise the quality of career and technical education programs and to allow local eligible recipients to use funding to establish high-quality career academics.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Educating Tomorrow's Workforce Act of 2014", 
+  "sponsor": {
+    "district": null, 
+    "name": "Kaine, Tim", 
+    "state": "VA", 
+    "thomas_id": "02176", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-07-10", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Educating Tomorrow's Workforce Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to amend the Carl D. Perkins Career and Technical Education Act of 2006 to raise the quality of career and technical education programs and to allow local eligible recipients to use funding to establish high-quality career academics.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T14:06:50-04:00"
+}

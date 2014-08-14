@@ -1,0 +1,75 @@
+<bill session="113" type="h" number="3678" updated="2014-08-14T13:22:51-04:00">
+  <state datetime="2014-03-13">REPORTED</state>
+  <status>
+    <unknown datetime="2014-03-13"/>
+  </status>
+  <introduced datetime="2013-12-09"/>
+  <titles>
+    <title type="official" as="introduced">To redesignate the lock and dam located in Modoc, Illinois, commonly known as the Kaskaskia Lock and Dam, as the "Jerry F. Costello Lock and Dam", and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02125"/>
+  <cosponsors>
+    <cosponsor thomas_id="01740" joined="2014-03-25"/>
+    <cosponsor thomas_id="02127" joined="2013-12-09"/>
+    <cosponsor thomas_id="01564" joined="2014-03-12"/>
+    <cosponsor thomas_id="00211" joined="2014-03-25"/>
+    <cosponsor thomas_id="00256" joined="2014-03-25"/>
+    <cosponsor thomas_id="01477" joined="2013-12-09"/>
+    <cosponsor thomas_id="02126" joined="2013-12-09"/>
+    <cosponsor thomas_id="00316" joined="2014-03-25"/>
+    <cosponsor thomas_id="02123" joined="2013-12-09"/>
+    <cosponsor thomas_id="00322" joined="2014-03-13"/>
+    <cosponsor thomas_id="01888" joined="2013-12-09"/>
+    <cosponsor thomas_id="00478" joined="2013-12-09"/>
+    <cosponsor thomas_id="02015" joined="2013-12-09"/>
+    <cosponsor thomas_id="00599" joined="2014-03-25"/>
+    <cosponsor thomas_id="02190" joined="2013-12-09"/>
+    <cosponsor thomas_id="02014" joined="2013-12-09"/>
+    <cosponsor thomas_id="01781" joined="2013-12-09"/>
+    <cosponsor thomas_id="00850" joined="2014-03-25"/>
+    <cosponsor thomas_id="01602" joined="2014-03-25"/>
+    <cosponsor thomas_id="00868" joined="2014-03-25"/>
+    <cosponsor thomas_id="01510" joined="2014-03-25"/>
+    <cosponsor thomas_id="01967" joined="2013-12-09"/>
+    <cosponsor thomas_id="01848" joined="2013-12-09"/>
+    <cosponsor thomas_id="01003" joined="2013-12-09"/>
+    <cosponsor thomas_id="01588" joined="2013-12-09"/>
+    <cosponsor thomas_id="02124" joined="2013-12-09"/>
+    <cosponsor thomas_id="01920" joined="2013-12-09"/>
+    <cosponsor thomas_id="01527" joined="2013-12-09"/>
+    <cosponsor thomas_id="01535" joined="2014-03-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-12-09" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2013-12-10">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+    <action datetime="2014-03-13">
+      <text>Subcommittee on Water Resources and Environment Discharged.</text>
+    </action>
+    <action datetime="2014-03-13">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-03-13" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup"/>
+    <committee subcommittee="Water Resources and Environment" code="HSPW02" name="House Transportation and Infrastructure" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Congressional tributes"/>
+    <term name="Dams and canals"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Illinois"/>
+    <term name="Marine and inland water transportation"/>
+  </subjects>
+  <amendments/>
+  <summary>12/9/2013--Introduced.
+Redesignates the lock and dam located in Modoc, Illinois, commonly known as the Kaskaskia Lock and Dam, as the "Jerry F. Costello Lock and Dam."</summary>
+</bill>

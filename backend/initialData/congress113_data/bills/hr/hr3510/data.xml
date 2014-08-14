@@ -1,0 +1,58 @@
+<bill session="113" type="h" number="3510" updated="2014-08-14T13:21:27-04:00">
+  <state datetime="2013-11-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-11-15"/>
+  </status>
+  <introduced datetime="2013-11-15"/>
+  <titles>
+    <title type="short" as="introduced">Stopping Unfair Collateral Consequences from Ending Student Success Act</title>
+    <title type="short" as="introduced">SUCCESS Act</title>
+    <title type="official" as="introduced">To amend the Higher Education Act of 1965 to repeal the suspension of eligibility for grants, loans, and work assistance for drug-related offenses.</title>
+  </titles>
+  <sponsor thomas_id="01996"/>
+  <cosponsors>
+    <cosponsor thomas_id="02153" joined="2014-02-10"/>
+    <cosponsor thomas_id="00099" joined="2014-01-15"/>
+    <cosponsor thomas_id="01654" joined="2014-01-15"/>
+    <cosponsor thomas_id="01878" joined="2014-05-08"/>
+    <cosponsor thomas_id="00229" joined="2014-04-30"/>
+    <cosponsor thomas_id="01477" joined="2013-11-15"/>
+    <cosponsor thomas_id="00279" joined="2014-05-08"/>
+    <cosponsor thomas_id="00281" joined="2014-04-30"/>
+    <cosponsor thomas_id="00316" joined="2014-04-30"/>
+    <cosponsor thomas_id="00355" joined="2014-06-30"/>
+    <cosponsor thomas_id="01895" joined="2014-01-15"/>
+    <cosponsor thomas_id="01708" joined="2013-11-18"/>
+    <cosponsor thomas_id="02190" joined="2014-01-15"/>
+    <cosponsor thomas_id="01501" joined="2014-04-30"/>
+    <cosponsor thomas_id="00701" joined="2014-05-08"/>
+    <cosponsor thomas_id="00766" joined="2014-04-30"/>
+    <cosponsor thomas_id="01504" joined="2014-04-30"/>
+    <cosponsor thomas_id="00850" joined="2014-04-30"/>
+    <cosponsor thomas_id="00997" joined="2014-05-08"/>
+    <cosponsor thomas_id="01003" joined="2014-04-30"/>
+    <cosponsor thomas_id="01037" joined="2013-11-15"/>
+    <cosponsor thomas_id="01209" joined="2014-05-08"/>
+    <cosponsor thomas_id="02004" joined="2013-11-15"/>
+    <cosponsor thomas_id="01256" joined="2014-01-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-11-15" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Drug trafficking and controlled substances"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Higher education"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+  <summary>11/15/2013--Introduced.
+Stopping Unfair Collateral Consequences from Ending Student Success Act or the SUCCESS Act - Amends title IV (Student Assistance) of the Higher Education Act of 1965 to repeal a provision which makes persons convicted of drug offenses while receiving any grant, loan, or work assistance under title IV ineligible for that assistance for specified periods.</summary>
+</bill>

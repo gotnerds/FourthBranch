@@ -1,0 +1,37 @@
+<bill session="113" type="h" number="5362" updated="2014-08-14T13:37:15-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="official" as="introduced">To provide that the Social Security Administration pay fees associated with obtaining birth certificate or State identification card for purposes of obtaining a replacement social security card for certain victims of domestic violence, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02117"/>
+  <cosponsors>
+    <cosponsor thomas_id="01780" joined="2014-07-31"/>
+    <cosponsor thomas_id="02127" joined="2014-07-31"/>
+    <cosponsor thomas_id="02133" joined="2014-07-31"/>
+    <cosponsor thomas_id="01894" joined="2014-07-31"/>
+    <cosponsor thomas_id="02120" joined="2014-07-31"/>
+    <cosponsor thomas_id="02154" joined="2014-07-31"/>
+    <cosponsor thomas_id="01907" joined="2014-07-31"/>
+    <cosponsor thomas_id="02145" joined="2014-07-31"/>
+    <cosponsor thomas_id="01811" joined="2014-07-31"/>
+    <cosponsor thomas_id="02141" joined="2014-07-31"/>
+    <cosponsor thomas_id="01802" joined="2014-07-31"/>
+    <cosponsor thomas_id="02109" joined="2014-07-31"/>
+    <cosponsor thomas_id="02099" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

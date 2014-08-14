@@ -1,0 +1,51 @@
+<bill session="113" type="h" number="558" updated="2014-08-14T12:55:30-04:00">
+  <state datetime="2013-02-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-06"/>
+  </status>
+  <introduced datetime="2013-02-06"/>
+  <titles>
+    <title type="short" as="introduced">Fallen Heroes Flag Act of 2013</title>
+    <title type="official" as="introduced">To provide Capitol-flown flags to the immediate family of fire fighters, law enforcement officers, emergency medical technicians, and other rescue workers who are killed in the line of duty.</title>
+  </titles>
+  <sponsor thomas_id="00635"/>
+  <cosponsors>
+    <cosponsor thomas_id="00021" joined="2013-02-28"/>
+    <cosponsor thomas_id="01723" joined="2013-02-06"/>
+    <cosponsor thomas_id="02159" joined="2013-02-28"/>
+    <cosponsor thomas_id="00211" joined="2013-02-06"/>
+    <cosponsor thomas_id="02151" joined="2013-02-28"/>
+    <cosponsor thomas_id="02041" joined="2013-02-06"/>
+    <cosponsor thomas_id="02046" joined="2013-02-28"/>
+    <cosponsor thomas_id="00612" joined="2013-02-06"/>
+    <cosponsor thomas_id="01583" joined="2013-02-06"/>
+    <cosponsor thomas_id="01505" joined="2013-02-28"/>
+    <cosponsor thomas_id="01731" joined="2013-02-28"/>
+    <cosponsor thomas_id="01510" joined="2013-02-06"/>
+    <cosponsor thomas_id="00912" joined="2013-02-28"/>
+    <cosponsor thomas_id="01810" joined="2013-02-06"/>
+    <cosponsor thomas_id="02039" joined="2013-02-06"/>
+    <cosponsor thomas_id="01728" joined="2013-02-06"/>
+    <cosponsor thomas_id="01256" joined="2013-02-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-06" state="REFERRED">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="First responders and emergency personnel"/>
+    <term name="Law enforcement officers"/>
+    <term name="National symbols"/>
+    <term name="U.S. Capitol"/>
+  </subjects>
+  <amendments/>
+  <summary>2/6/2013--Introduced.
+Fallen Heroes Flag Act of 2013 - Allows the Representative of the immediate family of a deceased fire fighter, law enforcement officer, emergency technician, or other rescue worker who died in the line of duty to provide the family, at their request, with a Capitol-flown flag, together with a certificate, signed by the Speaker of the House of Representatives and the Representative providing the flag, which contains an expression of sympathy for the family.</summary>
+</bill>

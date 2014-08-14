@@ -1,0 +1,175 @@
+<bill session="113" type="hr" number="90" updated="2014-08-14T12:45:25-04:00">
+  <state datetime="2013-02-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-28"/>
+  </status>
+  <introduced datetime="2013-02-28"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the House of Representatives that the Committee on Agriculture should not propose any reduction in the availability or amount of benefits provided under the supplemental nutrition assistance program (SNAP) in effect under the Food and Nutrition Act of 2008, and that the House of Representatives should reject any proposed legislation that includes any provisions that reduce the availability or amount of benefits provided under SNAP.</title>
+  </titles>
+  <sponsor thomas_id="01504"/>
+  <cosponsors>
+    <cosponsor thomas_id="00021" joined="2013-04-15"/>
+    <cosponsor thomas_id="01996" joined="2013-04-10"/>
+    <cosponsor thomas_id="02153" joined="2013-03-18"/>
+    <cosponsor thomas_id="02102" joined="2013-05-09"/>
+    <cosponsor thomas_id="00099" joined="2013-03-20"/>
+    <cosponsor thomas_id="02092" joined="2013-03-18"/>
+    <cosponsor thomas_id="01469" joined="2013-03-19"/>
+    <cosponsor thomas_id="00132" joined="2013-03-13"/>
+    <cosponsor thomas_id="02106" joined="2013-05-09"/>
+    <cosponsor thomas_id="01471" joined="2013-05-21"/>
+    <cosponsor thomas_id="01564" joined="2013-03-13"/>
+    <cosponsor thomas_id="02107" joined="2013-03-18"/>
+    <cosponsor thomas_id="01839" joined="2013-05-21"/>
+    <cosponsor thomas_id="02163" joined="2013-06-03"/>
+    <cosponsor thomas_id="01970" joined="2013-04-10"/>
+    <cosponsor thomas_id="02055" joined="2013-03-13"/>
+    <cosponsor thomas_id="01864" joined="2013-04-23"/>
+    <cosponsor thomas_id="01654" joined="2013-03-20"/>
+    <cosponsor thomas_id="01959" joined="2013-04-10"/>
+    <cosponsor thomas_id="00229" joined="2013-03-14"/>
+    <cosponsor thomas_id="01604" joined="2013-05-09"/>
+    <cosponsor thomas_id="01477" joined="2013-03-20"/>
+    <cosponsor thomas_id="01641" joined="2013-05-21"/>
+    <cosponsor thomas_id="00279" joined="2013-03-13"/>
+    <cosponsor thomas_id="02133" joined="2013-04-15"/>
+    <cosponsor thomas_id="00281" joined="2013-02-28"/>
+    <cosponsor thomas_id="01976" joined="2013-02-28"/>
+    <cosponsor thomas_id="00299" joined="2013-04-23"/>
+    <cosponsor thomas_id="00303" joined="2013-04-10"/>
+    <cosponsor thomas_id="00316" joined="2013-04-15"/>
+    <cosponsor thomas_id="02123" joined="2013-04-16"/>
+    <cosponsor thomas_id="01894" joined="2013-04-16"/>
+    <cosponsor thomas_id="01857" joined="2013-03-20"/>
+    <cosponsor thomas_id="00344" joined="2013-06-28"/>
+    <cosponsor thomas_id="00355" joined="2013-04-10"/>
+    <cosponsor thomas_id="02114" joined="2013-04-23"/>
+    <cosponsor thomas_id="00368" joined="2013-03-19"/>
+    <cosponsor thomas_id="00371" joined="2013-04-10"/>
+    <cosponsor thomas_id="01888" joined="2013-04-23"/>
+    <cosponsor thomas_id="01895" joined="2013-02-28"/>
+    <cosponsor thomas_id="02164" joined="2013-04-10"/>
+    <cosponsor thomas_id="01973" joined="2013-04-16"/>
+    <cosponsor thomas_id="01914" joined="2013-05-21"/>
+    <cosponsor thomas_id="01803" joined="2013-03-13"/>
+    <cosponsor thomas_id="00462" joined="2013-03-13"/>
+    <cosponsor thomas_id="01708" joined="2013-03-14"/>
+    <cosponsor thomas_id="00478" joined="2013-05-09"/>
+    <cosponsor thomas_id="02089" joined="2013-03-13"/>
+    <cosponsor thomas_id="00511" joined="2013-03-14"/>
+    <cosponsor thomas_id="02170" joined="2013-05-09"/>
+    <cosponsor thomas_id="01913" joined="2013-03-13"/>
+    <cosponsor thomas_id="01490" joined="2013-04-10"/>
+    <cosponsor thomas_id="01580" joined="2013-03-18"/>
+    <cosponsor thomas_id="02147" joined="2013-05-21"/>
+    <cosponsor thomas_id="02101" joined="2013-03-15"/>
+    <cosponsor thomas_id="00588" joined="2013-04-10"/>
+    <cosponsor thomas_id="02149" joined="2013-04-23"/>
+    <cosponsor thomas_id="00599" joined="2013-03-13"/>
+    <cosponsor thomas_id="00616" joined="2013-03-18"/>
+    <cosponsor thomas_id="02025" joined="2013-03-13"/>
+    <cosponsor thomas_id="02172" joined="2013-03-14"/>
+    <cosponsor thomas_id="02134" joined="2013-05-09"/>
+    <cosponsor thomas_id="02169" joined="2013-06-03"/>
+    <cosponsor thomas_id="01668" joined="2013-03-13"/>
+    <cosponsor thomas_id="01583" joined="2013-03-13"/>
+    <cosponsor thomas_id="01501" joined="2013-03-18"/>
+    <cosponsor thomas_id="00683" joined="2013-03-20"/>
+    <cosponsor thomas_id="00688" joined="2013-03-19"/>
+    <cosponsor thomas_id="00701" joined="2013-03-13"/>
+    <cosponsor thomas_id="02111" joined="2013-04-23"/>
+    <cosponsor thomas_id="00709" joined="2013-04-12"/>
+    <cosponsor thomas_id="02146" joined="2013-03-18"/>
+    <cosponsor thomas_id="01939" joined="2013-04-23"/>
+    <cosponsor thomas_id="01686" joined="2013-03-14"/>
+    <cosponsor thomas_id="01943" joined="2013-03-18"/>
+    <cosponsor thomas_id="00729" joined="2013-03-20"/>
+    <cosponsor thomas_id="00735" joined="2013-03-13"/>
+    <cosponsor thomas_id="01814" joined="2013-03-19"/>
+    <cosponsor thomas_id="01503" joined="2013-04-10"/>
+    <cosponsor thomas_id="01653" joined="2013-03-18"/>
+    <cosponsor thomas_id="00766" joined="2013-03-20"/>
+    <cosponsor thomas_id="01506" joined="2013-03-18"/>
+    <cosponsor thomas_id="02148" joined="2013-04-23"/>
+    <cosponsor thomas_id="01730" joined="2013-05-09"/>
+    <cosponsor thomas_id="00808" joined="2013-02-28"/>
+    <cosponsor thomas_id="01811" joined="2013-03-13"/>
+    <cosponsor thomas_id="00832" joined="2013-03-18"/>
+    <cosponsor thomas_id="02117" joined="2013-06-28"/>
+    <cosponsor thomas_id="00850" joined="2013-03-15"/>
+    <cosponsor thomas_id="01602" joined="2013-03-19"/>
+    <cosponsor thomas_id="00854" joined="2013-03-13"/>
+    <cosponsor thomas_id="00867" joined="2013-04-12"/>
+    <cosponsor thomas_id="00868" joined="2013-03-18"/>
+    <cosponsor thomas_id="02162" joined="2013-03-13"/>
+    <cosponsor thomas_id="00887" joined="2013-04-10"/>
+    <cosponsor thomas_id="01510" joined="2013-04-26"/>
+    <cosponsor thomas_id="00893" joined="2013-03-13"/>
+    <cosponsor thomas_id="02097" joined="2013-04-10"/>
+    <cosponsor thomas_id="01929" joined="2013-04-10"/>
+    <cosponsor thomas_id="01927" joined="2013-03-14"/>
+    <cosponsor thomas_id="02171" joined="2013-04-10"/>
+    <cosponsor thomas_id="01967" joined="2013-04-11"/>
+    <cosponsor thomas_id="00940" joined="2013-04-26"/>
+    <cosponsor thomas_id="00944" joined="2013-03-20"/>
+    <cosponsor thomas_id="02023" joined="2013-03-20"/>
+    <cosponsor thomas_id="00997" joined="2013-03-19"/>
+    <cosponsor thomas_id="01003" joined="2013-03-18"/>
+    <cosponsor thomas_id="01756" joined="2013-03-18"/>
+    <cosponsor thomas_id="01757" joined="2013-03-18"/>
+    <cosponsor thomas_id="01854" joined="2013-04-10"/>
+    <cosponsor thomas_id="01588" joined="2013-03-13"/>
+    <cosponsor thomas_id="01635" joined="2013-04-10"/>
+    <cosponsor thomas_id="01798" joined="2013-03-18"/>
+    <cosponsor thomas_id="01037" joined="2013-03-18"/>
+    <cosponsor thomas_id="01042" joined="2013-04-26"/>
+    <cosponsor thomas_id="01988" joined="2013-03-19"/>
+    <cosponsor thomas_id="01861" joined="2013-06-28"/>
+    <cosponsor thomas_id="02099" joined="2013-05-09"/>
+    <cosponsor thomas_id="01818" joined="2013-03-14"/>
+    <cosponsor thomas_id="01069" joined="2013-03-15"/>
+    <cosponsor thomas_id="01528" joined="2013-03-18"/>
+    <cosponsor thomas_id="01890" joined="2013-03-13"/>
+    <cosponsor thomas_id="01151" joined="2013-04-10"/>
+    <cosponsor thomas_id="01535" joined="2013-03-13"/>
+    <cosponsor thomas_id="01940" joined="2013-04-10"/>
+    <cosponsor thomas_id="01942" joined="2013-04-10"/>
+    <cosponsor thomas_id="01884" joined="2013-03-13"/>
+    <cosponsor thomas_id="02166" joined="2013-03-14"/>
+    <cosponsor thomas_id="02167" joined="2013-05-21"/>
+    <cosponsor thomas_id="01184" joined="2013-05-09"/>
+    <cosponsor thomas_id="01777" joined="2013-05-21"/>
+    <cosponsor thomas_id="01205" joined="2013-04-15"/>
+    <cosponsor thomas_id="01207" joined="2013-05-21"/>
+    <cosponsor thomas_id="01209" joined="2013-04-23"/>
+    <cosponsor thomas_id="01879" joined="2013-03-18"/>
+    <cosponsor thomas_id="02004" joined="2013-04-10"/>
+    <cosponsor thomas_id="01853" joined="2013-04-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-28" state="REFERRED">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2013-03-04">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H820-821"/>
+    </action>
+    <action datetime="2013-03-13">
+      <text>Referred to the Subcommittee on Department Operations, Oversight, and Nutrition.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee subcommittee="Department Operations, Oversight, and Nutrition" code="HSAG22" name="House Agriculture" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Food assistance and relief"/>
+    <term name="Poverty and welfare assistance"/>
+  </subjects>
+  <amendments/>
+  <summary>2/28/2013--Introduced.
+Expresses the sense of the House of Representatives that in this Congress the Committee on Agriculture should not propose any reduction in the availability or amount of benefits under the supplemental nutrition assistance program (SNAP) and that the House should reject any proposed legislation that seeks to do so.</summary>
+</bill>

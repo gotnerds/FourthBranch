@@ -1,0 +1,67 @@
+<bill session="113" type="h" number="2409" updated="2014-08-14T13:11:55-04:00">
+  <state datetime="2013-06-18">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-18"/>
+  </status>
+  <introduced datetime="2013-06-18"/>
+  <titles>
+    <title type="short" as="introduced">State Sovereignty in Voting Act</title>
+    <title type="official" as="introduced">To amend the National Voter Registration Act of 1993 to permit a State to require an applicant for voter registration in the State who uses the Federal mail voter registration application form developed by the Election Assistance Commission under such Act to provide documentary evidence of citizenship as a condition of the State's acceptance of the form.</title>
+  </titles>
+  <sponsor thomas_id="01009"/>
+  <cosponsors>
+    <cosponsor thomas_id="01858" joined="2013-07-17"/>
+    <cosponsor thomas_id="00062" joined="2013-06-20"/>
+    <cosponsor thomas_id="01753" joined="2013-06-20"/>
+    <cosponsor thomas_id="01468" joined="2013-06-20"/>
+    <cosponsor thomas_id="02155" joined="2013-06-20"/>
+    <cosponsor thomas_id="01987" joined="2013-07-17"/>
+    <cosponsor thomas_id="01882" joined="2013-06-20"/>
+    <cosponsor thomas_id="02151" joined="2013-06-20"/>
+    <cosponsor thomas_id="02144" joined="2013-06-20"/>
+    <cosponsor thomas_id="02067" joined="2013-10-10"/>
+    <cosponsor thomas_id="01683" joined="2013-07-17"/>
+    <cosponsor thomas_id="01707" joined="2013-06-18"/>
+    <cosponsor thomas_id="01801" joined="2013-06-20"/>
+    <cosponsor thomas_id="01992" joined="2013-06-18"/>
+    <cosponsor thomas_id="02026" joined="2013-06-20"/>
+    <cosponsor thomas_id="02032" joined="2013-07-17"/>
+    <cosponsor thomas_id="02020" joined="2013-06-20"/>
+    <cosponsor thomas_id="00636" joined="2013-06-20"/>
+    <cosponsor thomas_id="02100" joined="2013-07-17"/>
+    <cosponsor thomas_id="01758" joined="2013-07-17"/>
+    <cosponsor thomas_id="02034" joined="2013-07-17"/>
+    <cosponsor thomas_id="01915" joined="2013-06-20"/>
+    <cosponsor thomas_id="00979" joined="2013-06-20"/>
+    <cosponsor thomas_id="01994" joined="2013-06-18"/>
+    <cosponsor thomas_id="02168" joined="2014-01-16"/>
+    <cosponsor thomas_id="01114" joined="2013-06-20"/>
+    <cosponsor thomas_id="01855" joined="2013-06-20"/>
+    <cosponsor thomas_id="02161" joined="2013-06-20"/>
+    <cosponsor thomas_id="01779" joined="2013-07-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-18" state="REFERRED">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="2403"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Citizenship and naturalization"/>
+    <term name="Congressional elections"/>
+    <term name="Elections, voting, political campaign regulation"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Postal service"/>
+    <term name="State and local government operations"/>
+    <term name="Voting rights"/>
+  </subjects>
+  <amendments/>
+  <summary>6/18/2013--Introduced.
+State Sovereignty in Voting Act - Amends the National Voter Registration Act of 1993 to permit a state to require an applicant for voter registration who uses the federal mail voter registration application form developed by the Election Assistance Commission to provide documentary evidence of citizenship as a condition of the state's acceptance of the form.</summary>
+</bill>

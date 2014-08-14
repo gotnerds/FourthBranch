@@ -1,0 +1,71 @@
+<bill session="113" type="hr" number="10" updated="2014-08-14T12:44:44-04:00">
+  <state datetime="2013-01-03">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-03"/>
+  </status>
+  <introduced datetime="2013-01-03"/>
+  <titles>
+    <title type="official" as="introduced">Recognizing the 100th Anniversary of Delta Sigma Theta Sorority, Incorporated.</title>
+  </titles>
+  <sponsor thomas_id="01895"/>
+  <cosponsors>
+    <cosponsor thomas_id="02153" joined="2013-01-03"/>
+    <cosponsor thomas_id="00132" joined="2013-02-12"/>
+    <cosponsor thomas_id="01761" joined="2013-02-25"/>
+    <cosponsor thomas_id="01474" joined="2013-02-12"/>
+    <cosponsor thomas_id="01970" joined="2013-01-22"/>
+    <cosponsor thomas_id="01864" joined="2013-01-03"/>
+    <cosponsor thomas_id="01654" joined="2013-01-03"/>
+    <cosponsor thomas_id="01878" joined="2013-01-03"/>
+    <cosponsor thomas_id="01959" joined="2013-02-12"/>
+    <cosponsor thomas_id="00229" joined="2013-01-03"/>
+    <cosponsor thomas_id="00256" joined="2013-02-12"/>
+    <cosponsor thomas_id="01477" joined="2013-02-12"/>
+    <cosponsor thomas_id="00303" joined="2013-03-12"/>
+    <cosponsor thomas_id="02125" joined="2013-02-25"/>
+    <cosponsor thomas_id="01803" joined="2013-01-03"/>
+    <cosponsor thomas_id="00511" joined="2013-02-12"/>
+    <cosponsor thomas_id="00588" joined="2013-03-12"/>
+    <cosponsor thomas_id="02149" joined="2013-03-19"/>
+    <cosponsor thomas_id="00599" joined="2013-03-12"/>
+    <cosponsor thomas_id="01843" joined="2013-01-03"/>
+    <cosponsor thomas_id="00616" joined="2013-07-18"/>
+    <cosponsor thomas_id="00688" joined="2013-02-25"/>
+    <cosponsor thomas_id="00701" joined="2013-03-21"/>
+    <cosponsor thomas_id="01811" joined="2013-02-12"/>
+    <cosponsor thomas_id="00868" joined="2013-01-03"/>
+    <cosponsor thomas_id="00944" joined="2013-02-12"/>
+    <cosponsor thomas_id="02023" joined="2013-01-03"/>
+    <cosponsor thomas_id="01003" joined="2013-01-03"/>
+    <cosponsor thomas_id="01756" joined="2013-02-12"/>
+    <cosponsor thomas_id="01037" joined="2013-02-12"/>
+    <cosponsor thomas_id="01151" joined="2013-01-03"/>
+    <cosponsor thomas_id="02112" joined="2013-02-12"/>
+    <cosponsor thomas_id="02166" joined="2013-03-15"/>
+    <cosponsor thomas_id="02004" joined="2013-01-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-03" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="sr" session="113" relation="unknown" number="13"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Higher education"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+    <term name="Women's education"/>
+  </subjects>
+  <amendments/>
+  <summary>1/3/2013--Introduced.
+Recognizes the centennial anniversary of the founding of Delta Sigma Theta Sorority, Incorporated.
+
+ Honors the Sorority and its members for a century of fortitude and distinguished service to the people of this country and the global community.</summary>
+</bill>

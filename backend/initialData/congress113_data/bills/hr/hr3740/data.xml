@@ -1,0 +1,82 @@
+<bill session="113" type="h" number="3740" updated="2014-08-14T13:23:22-04:00">
+  <state datetime="2013-12-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-12-12"/>
+  </status>
+  <introduced datetime="2013-12-12"/>
+  <titles>
+    <title type="short" as="introduced">Child Care Access and Refundability Expansion Act</title>
+    <title type="short" as="introduced">Child CARE Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to make the credit for dependent care expenses refundable and to index the income phaseout of the credit for inflation.</title>
+  </titles>
+  <sponsor thomas_id="01894"/>
+  <cosponsors>
+    <cosponsor thomas_id="02153" joined="2014-07-17"/>
+    <cosponsor thomas_id="02102" joined="2014-03-24"/>
+    <cosponsor thomas_id="00099" joined="2014-07-10"/>
+    <cosponsor thomas_id="02127" joined="2014-04-10"/>
+    <cosponsor thomas_id="01471" joined="2014-02-03"/>
+    <cosponsor thomas_id="01839" joined="2014-01-13"/>
+    <cosponsor thomas_id="01474" joined="2014-01-15"/>
+    <cosponsor thomas_id="01864" joined="2014-03-14"/>
+    <cosponsor thomas_id="01878" joined="2014-03-04"/>
+    <cosponsor thomas_id="00229" joined="2013-12-12"/>
+    <cosponsor thomas_id="02133" joined="2014-02-11"/>
+    <cosponsor thomas_id="00281" joined="2013-12-12"/>
+    <cosponsor thomas_id="02096" joined="2014-05-09"/>
+    <cosponsor thomas_id="00303" joined="2014-03-14"/>
+    <cosponsor thomas_id="01857" joined="2014-04-29"/>
+    <cosponsor thomas_id="02125" joined="2014-02-03"/>
+    <cosponsor thomas_id="00355" joined="2014-03-14"/>
+    <cosponsor thomas_id="02119" joined="2014-06-10"/>
+    <cosponsor thomas_id="01895" joined="2014-03-24"/>
+    <cosponsor thomas_id="02010" joined="2014-05-21"/>
+    <cosponsor thomas_id="00511" joined="2014-05-29"/>
+    <cosponsor thomas_id="02147" joined="2014-04-29"/>
+    <cosponsor thomas_id="00588" joined="2014-01-28"/>
+    <cosponsor thomas_id="01501" joined="2014-03-14"/>
+    <cosponsor thomas_id="01814" joined="2013-12-12"/>
+    <cosponsor thomas_id="01653" joined="2014-03-14"/>
+    <cosponsor thomas_id="00766" joined="2014-04-03"/>
+    <cosponsor thomas_id="01504" joined="2014-02-10"/>
+    <cosponsor thomas_id="01832" joined="2014-03-06"/>
+    <cosponsor thomas_id="02148" joined="2013-12-12"/>
+    <cosponsor thomas_id="00808" joined="2014-04-04"/>
+    <cosponsor thomas_id="01811" joined="2014-03-14"/>
+    <cosponsor thomas_id="02108" joined="2014-02-28"/>
+    <cosponsor thomas_id="00867" joined="2014-04-29"/>
+    <cosponsor thomas_id="00868" joined="2014-01-27"/>
+    <cosponsor thomas_id="01510" joined="2014-07-30"/>
+    <cosponsor thomas_id="01835" joined="2014-04-29"/>
+    <cosponsor thomas_id="01927" joined="2014-03-14"/>
+    <cosponsor thomas_id="02171" joined="2014-02-28"/>
+    <cosponsor thomas_id="01728" joined="2013-12-12"/>
+    <cosponsor thomas_id="01588" joined="2014-04-01"/>
+    <cosponsor thomas_id="02099" joined="2014-04-01"/>
+    <cosponsor thomas_id="01069" joined="2014-03-24"/>
+    <cosponsor thomas_id="01890" joined="2014-03-14"/>
+    <cosponsor thomas_id="01535" joined="2014-04-29"/>
+    <cosponsor thomas_id="01777" joined="2014-03-24"/>
+    <cosponsor thomas_id="02004" joined="2014-06-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-12-12" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Adult day care"/>
+    <term name="Child care and development"/>
+    <term name="Income tax credits"/>
+    <term name="Inflation and prices"/>
+    <term name="Tax treatment of families"/>
+  </subjects>
+  <amendments/>
+  <summary>12/12/2013--Introduced.
+Child Care Access and Refundability Expansion Act or&#160;the Child CARE Act - Amends the Internal Revenue Code, with respect to the tax credit for dependent care expenses, to: (1) make such credit refundable, (2) deny such credit to nonresident aliens, and (3) allow an annual cost-of-living adjustment after 2013 to the amounts used to determine an income-based&#160;reduction in the amount of such credit.</summary>
+</bill>

@@ -1,0 +1,80 @@
+<bill session="113" type="h" number="1309" updated="2014-08-14T13:01:50-04:00">
+  <state datetime="2013-03-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-21"/>
+  </status>
+  <introduced datetime="2013-03-21"/>
+  <titles>
+    <title type="short" as="introduced">Health Information Technology Reform Act</title>
+    <title type="official" as="introduced">To amend titles XVIII and XIX of the Social Security Act to exclude pathologists from incentive payments and penalties under Medicare and Medicaid relating to the meaningful use of electronic health records.</title>
+  </titles>
+  <sponsor thomas_id="01778"/>
+  <cosponsors>
+    <cosponsor thomas_id="02027" joined="2013-07-08"/>
+    <cosponsor thomas_id="02063" joined="2014-06-11"/>
+    <cosponsor thomas_id="01748" joined="2013-06-26"/>
+    <cosponsor thomas_id="00099" joined="2013-06-25"/>
+    <cosponsor thomas_id="01840" joined="2013-07-08"/>
+    <cosponsor thomas_id="02018" joined="2013-07-17"/>
+    <cosponsor thomas_id="01751" joined="2013-06-03"/>
+    <cosponsor thomas_id="01959" joined="2013-06-03"/>
+    <cosponsor thomas_id="01743" joined="2013-07-17"/>
+    <cosponsor thomas_id="00446" joined="2013-07-09"/>
+    <cosponsor thomas_id="01656" joined="2013-06-03"/>
+    <cosponsor thomas_id="01979" joined="2013-09-17"/>
+    <cosponsor thomas_id="01990" joined="2014-05-07"/>
+    <cosponsor thomas_id="01922" joined="2013-06-26"/>
+    <cosponsor thomas_id="02046" joined="2013-08-02"/>
+    <cosponsor thomas_id="00612" joined="2013-07-17"/>
+    <cosponsor thomas_id="01498" joined="2013-03-21"/>
+    <cosponsor thomas_id="00666" joined="2013-07-08"/>
+    <cosponsor thomas_id="01846" joined="2013-07-08"/>
+    <cosponsor thomas_id="02034" joined="2013-07-08"/>
+    <cosponsor thomas_id="01930" joined="2013-07-17"/>
+    <cosponsor thomas_id="00912" joined="2013-07-11"/>
+    <cosponsor thomas_id="01915" joined="2013-10-22"/>
+    <cosponsor thomas_id="01954" joined="2013-09-12"/>
+    <cosponsor thomas_id="01848" joined="2013-06-03"/>
+    <cosponsor thomas_id="01892" joined="2013-07-08"/>
+    <cosponsor thomas_id="02000" joined="2014-01-09"/>
+    <cosponsor thomas_id="01593" joined="2013-06-17"/>
+    <cosponsor thomas_id="01779" joined="2013-07-23"/>
+    <cosponsor thomas_id="01886" joined="2013-07-09"/>
+    <cosponsor thomas_id="01256" joined="2013-07-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-21" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-21">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-03-21">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-03-22">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2013-04-09">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSWM02" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Health information and medical records"/>
+    <term name="Health personnel"/>
+    <term name="Medicaid"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>3/21/2013--Introduced.
+Health Information Technology Reform Act - Amends titles XVIII (Medicare) and XIX (Medicaid) of the Social Security Act to exclude pathologists from Medicare and Medicaid incentive payments and, in particular, penalties relating to the meaningful use of electronic health records.</summary>
+</bill>

@@ -1,0 +1,26 @@
+<bill session="113" type="h" number="5157" updated="2014-08-14T13:35:29-04:00">
+  <state datetime="2014-07-17">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-17"/>
+  </status>
+  <introduced datetime="2014-07-17"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to waive certain requirements relating to the approval of programs of education for purposes of the educational assistance programs of the Department of Veterans Affairs.</title>
+  </titles>
+  <sponsor thomas_id="01940"/>
+  <cosponsors>
+    <cosponsor thomas_id="01671" joined="2014-07-17"/>
+    <cosponsor thomas_id="02168" joined="2014-07-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-17" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

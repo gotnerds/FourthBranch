@@ -1,0 +1,24 @@
+<bill session="113" type="h" number="5202" updated="2014-08-14T13:35:52-04:00">
+  <state datetime="2014-07-24">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-24"/>
+  </status>
+  <introduced datetime="2014-07-24"/>
+  <titles>
+    <title type="short" as="introduced">Personal Information Notification Act</title>
+    <title type="official" as="introduced">To require notification when personally identifying information is disclosed by a Government agency, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01114"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-24" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

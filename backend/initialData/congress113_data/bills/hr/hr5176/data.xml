@@ -1,0 +1,29 @@
+<bill session="113" type="h" number="5176" updated="2014-08-14T13:35:38-04:00">
+  <state datetime="2014-07-23">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-23"/>
+  </status>
+  <introduced datetime="2014-07-23"/>
+  <titles>
+    <title type="official" as="introduced">To authorize the Secretary of the Interior to retire coal preference right lease applications for which the Secretary has made an affirmative commercial quantities determination, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01939"/>
+  <cosponsors>
+    <cosponsor thomas_id="01960" joined="2014-07-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-23" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2014-07-30">
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Energy and Mineral Resources" code="HSII06" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

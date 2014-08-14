@@ -1,0 +1,38 @@
+<bill session="113" type="s" number="2494" updated="2014-08-14T14:06:05-04:00">
+  <state datetime="2014-06-18">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-18"/>
+  </status>
+  <introduced datetime="2014-06-18"/>
+  <titles>
+    <title type="short" as="introduced">Natural Gas Export Promotion Act of 2014</title>
+    <title type="official" as="introduced">A bill to expedite applications to export natural gas, to require the public disclosure of liquefied natural gas export destinations, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01595"/>
+  <cosponsors>
+    <cosponsor thomas_id="01898" joined="2014-06-18"/>
+    <cosponsor thomas_id="01546" joined="2014-06-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-18" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2274"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Civil actions and liability"/>
+    <term name="Department of Energy"/>
+    <term name="Government information and archives"/>
+    <term name="Judicial review and appeals"/>
+    <term name="Oil and gas"/>
+    <term name="Trade restrictions"/>
+  </subjects>
+  <amendments/>
+</bill>

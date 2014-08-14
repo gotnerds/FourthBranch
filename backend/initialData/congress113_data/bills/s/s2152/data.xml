@@ -1,0 +1,57 @@
+<bill session="113" type="s" number="2152" updated="2014-08-14T14:03:13-04:00">
+  <state datetime="2014-03-25">REFERRED</state>
+  <status>
+    <introduced datetime="2014-03-25"/>
+  </status>
+  <introduced datetime="2014-03-25"/>
+  <titles>
+    <title type="short" as="introduced">ACCTION Act of 2014</title>
+    <title type="short" as="introduced">Advanced Clean Coal Technology Investment in Our Nation Act of 2014</title>
+    <title type="official" as="introduced">A bill to direct Federal investment in carbon capture and storage and other clean coal technologies, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02174"/>
+  <cosponsors>
+    <cosponsor thomas_id="02176" joined="2014-05-12"/>
+    <cosponsor thomas_id="02198" joined="2014-06-05"/>
+    <cosponsor thomas_id="01897" joined="2014-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-03-25">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S1732"/>
+    </action>
+    <action datetime="2014-03-25" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Advanced technology and technological innovations"/>
+    <term name="Advisory bodies"/>
+    <term name="Air quality"/>
+    <term name="Business investment and capital"/>
+    <term name="Climate change and greenhouse gases"/>
+    <term name="Coal"/>
+    <term name="Congressional oversight"/>
+    <term name="Electric power generation and transmission"/>
+    <term name="Energy research"/>
+    <term name="Energy storage, supplies, demand"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Environmental technology"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Income tax credits"/>
+    <term name="Income tax deductions"/>
+    <term name="Oil and gas"/>
+    <term name="Public-private cooperation"/>
+    <term name="Research and development"/>
+    <term name="Securities"/>
+    <term name="Technology transfer and commercialization"/>
+    <term name="Water quality"/>
+    <term name="Water use and supply"/>
+  </subjects>
+  <amendments/>
+</bill>

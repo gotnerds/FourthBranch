@@ -1,0 +1,116 @@
+<bill session="113" type="hc" number="86" updated="2014-08-14T13:39:19-04:00">
+  <state datetime="2014-03-13">REPORTED</state>
+  <status>
+    <unknown datetime="2014-03-13"/>
+  </status>
+  <introduced datetime="2014-02-25"/>
+  <titles>
+    <title type="official" as="introduced">Celebrating the 100th anniversary of the enactment of the Smith-Lever Act, which established the nationwide Cooperative Extension System.</title>
+  </titles>
+  <sponsor thomas_id="02009"/>
+  <cosponsors>
+    <cosponsor thomas_id="01753" joined="2014-04-10"/>
+    <cosponsor thomas_id="02092" joined="2014-03-18"/>
+    <cosponsor thomas_id="01845" joined="2014-03-05"/>
+    <cosponsor thomas_id="02127" joined="2014-03-11"/>
+    <cosponsor thomas_id="01761" joined="2014-04-10"/>
+    <cosponsor thomas_id="00211" joined="2014-04-09"/>
+    <cosponsor thomas_id="02151" joined="2014-03-04"/>
+    <cosponsor thomas_id="01805" joined="2014-03-05"/>
+    <cosponsor thomas_id="01774" joined="2014-03-12"/>
+    <cosponsor thomas_id="01836" joined="2014-03-04"/>
+    <cosponsor thomas_id="02144" joined="2014-04-28"/>
+    <cosponsor thomas_id="02126" joined="2014-03-04"/>
+    <cosponsor thomas_id="02096" joined="2014-03-06"/>
+    <cosponsor thomas_id="01995" joined="2014-03-11"/>
+    <cosponsor thomas_id="00322" joined="2014-03-27"/>
+    <cosponsor thomas_id="02125" joined="2014-03-04"/>
+    <cosponsor thomas_id="02065" joined="2014-05-20"/>
+    <cosponsor thomas_id="01793" joined="2014-03-05"/>
+    <cosponsor thomas_id="01895" joined="2014-03-12"/>
+    <cosponsor thomas_id="02164" joined="2014-05-01"/>
+    <cosponsor thomas_id="02049" joined="2014-04-28"/>
+    <cosponsor thomas_id="00446" joined="2014-03-18"/>
+    <cosponsor thomas_id="01708" joined="2014-03-27"/>
+    <cosponsor thomas_id="02032" joined="2014-03-04"/>
+    <cosponsor thomas_id="02140" joined="2014-03-04"/>
+    <cosponsor thomas_id="01921" joined="2014-05-20"/>
+    <cosponsor thomas_id="02046" joined="2014-04-07"/>
+    <cosponsor thomas_id="01498" joined="2014-03-10"/>
+    <cosponsor thomas_id="01724" joined="2014-03-05"/>
+    <cosponsor thomas_id="01733" joined="2014-03-10"/>
+    <cosponsor thomas_id="02145" joined="2014-03-05"/>
+    <cosponsor thomas_id="02100" joined="2014-03-10"/>
+    <cosponsor thomas_id="01583" joined="2014-03-04"/>
+    <cosponsor thomas_id="01885" joined="2014-03-25"/>
+    <cosponsor thomas_id="01846" joined="2014-04-08"/>
+    <cosponsor thomas_id="00711" joined="2014-02-25"/>
+    <cosponsor thomas_id="02146" joined="2014-03-18"/>
+    <cosponsor thomas_id="00729" joined="2014-04-10"/>
+    <cosponsor thomas_id="02150" joined="2014-03-10"/>
+    <cosponsor thomas_id="01504" joined="2014-03-04"/>
+    <cosponsor thomas_id="01506" joined="2014-04-10"/>
+    <cosponsor thomas_id="02108" joined="2014-03-12"/>
+    <cosponsor thomas_id="00867" joined="2014-03-05"/>
+    <cosponsor thomas_id="00910" joined="2014-02-25"/>
+    <cosponsor thomas_id="02171" joined="2014-03-10"/>
+    <cosponsor thomas_id="00930" joined="2014-04-28"/>
+    <cosponsor thomas_id="00944" joined="2014-04-10"/>
+    <cosponsor thomas_id="02073" joined="2014-03-05"/>
+    <cosponsor thomas_id="01704" joined="2014-03-04"/>
+    <cosponsor thomas_id="01756" joined="2014-03-18"/>
+    <cosponsor thomas_id="01950" joined="2014-02-25"/>
+    <cosponsor thomas_id="01722" joined="2014-03-04"/>
+    <cosponsor thomas_id="01041" joined="2014-04-08"/>
+    <cosponsor thomas_id="01861" joined="2014-03-10"/>
+    <cosponsor thomas_id="02191" joined="2014-04-10"/>
+    <cosponsor thomas_id="02000" joined="2014-03-06"/>
+    <cosponsor thomas_id="02047" joined="2014-07-14"/>
+    <cosponsor thomas_id="01566" joined="2014-04-10"/>
+    <cosponsor thomas_id="01942" joined="2014-04-10"/>
+    <cosponsor thomas_id="02112" joined="2014-03-10"/>
+    <cosponsor thomas_id="01855" joined="2014-05-01"/>
+    <cosponsor thomas_id="01596" joined="2014-04-28"/>
+    <cosponsor thomas_id="01856" joined="2014-03-18"/>
+    <cosponsor thomas_id="01879" joined="2014-03-12"/>
+    <cosponsor thomas_id="02152" joined="2014-05-01"/>
+    <cosponsor thomas_id="01779" joined="2014-04-09"/>
+    <cosponsor thomas_id="02115" joined="2014-03-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-02-25" state="REFERRED">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2014-03-13">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-03-13" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAG" name="House Agriculture" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill type="sc" session="113" relation="unknown" number="33"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural education"/>
+    <term name="Congressional tributes"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Higher education"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+    <term name="Teaching, teachers, curricula"/>
+  </subjects>
+  <amendments/>
+  <summary>2/25/2014--Introduced.
+Recognizes the significance of the Smith-Lever Act which established the Cooperative Extension System.
+
+ Honors the university faculty and local educators who provide educational programs to help people, families, youth, businesses, and communities solve problems, develop skills, and build a better future.
+
+ Thanks the volunteers who promote excellence for 4-H Clubs, the Master Gardeners program, the Family and Consumer Sciences program, and other Cooperative Extension System programs.
+
+ Encourages continued collaboration and cooperation among federal, state, and local governments to assure the sustainability of the Cooperative Extension System.</summary>
+</bill>

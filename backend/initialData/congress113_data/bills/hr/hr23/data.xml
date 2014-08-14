@@ -1,0 +1,74 @@
+<bill session="113" type="h" number="23" updated="2014-08-14T12:50:53-04:00">
+  <state datetime="2013-01-03">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-03"/>
+  </status>
+  <introduced datetime="2013-01-03"/>
+  <titles>
+    <title type="short" as="introduced">Sanctity of Human Life Act</title>
+    <title type="official" as="introduced">To provide that human life shall be deemed to begin with fertilization.</title>
+  </titles>
+  <sponsor thomas_id="01882"/>
+  <cosponsors>
+    <cosponsor thomas_id="01838" joined="2013-08-02"/>
+    <cosponsor thomas_id="01753" joined="2013-01-15"/>
+    <cosponsor thomas_id="02155" joined="2013-03-19"/>
+    <cosponsor thomas_id="01752" joined="2013-01-03"/>
+    <cosponsor thomas_id="02121" joined="2013-01-14"/>
+    <cosponsor thomas_id="01805" joined="2013-01-03"/>
+    <cosponsor thomas_id="01989" joined="2013-03-18"/>
+    <cosponsor thomas_id="02057" joined="2013-01-14"/>
+    <cosponsor thomas_id="00322" joined="2013-01-23"/>
+    <cosponsor thomas_id="02036" joined="2013-01-14"/>
+    <cosponsor thomas_id="02067" joined="2013-01-03"/>
+    <cosponsor thomas_id="01924" joined="2013-01-03"/>
+    <cosponsor thomas_id="01707" joined="2013-01-03"/>
+    <cosponsor thomas_id="02049" joined="2013-01-03"/>
+    <cosponsor thomas_id="01720" joined="2013-01-03"/>
+    <cosponsor thomas_id="01801" joined="2013-01-25"/>
+    <cosponsor thomas_id="02020" joined="2013-01-03"/>
+    <cosponsor thomas_id="02046" joined="2013-01-15"/>
+    <cosponsor thomas_id="00612" joined="2013-01-03"/>
+    <cosponsor thomas_id="00636" joined="2013-05-15"/>
+    <cosponsor thomas_id="01733" joined="2013-01-04"/>
+    <cosponsor thomas_id="01885" joined="2013-01-25"/>
+    <cosponsor thomas_id="02033" joined="2013-01-22"/>
+    <cosponsor thomas_id="01931" joined="2013-01-14"/>
+    <cosponsor thomas_id="01584" joined="2013-01-15"/>
+    <cosponsor thomas_id="02035" joined="2013-01-03"/>
+    <cosponsor thomas_id="01738" joined="2013-01-03"/>
+    <cosponsor thomas_id="02022" joined="2013-01-22"/>
+    <cosponsor thomas_id="01986" joined="2013-01-03"/>
+    <cosponsor thomas_id="01954" joined="2013-01-03"/>
+    <cosponsor thomas_id="00977" joined="2013-01-03"/>
+    <cosponsor thomas_id="02017" joined="2013-01-25"/>
+    <cosponsor thomas_id="01560" joined="2013-01-03"/>
+    <cosponsor thomas_id="01114" joined="2013-01-14"/>
+    <cosponsor thomas_id="01566" joined="2013-01-03"/>
+    <cosponsor thomas_id="02152" joined="2013-03-04"/>
+    <cosponsor thomas_id="01779" joined="2013-01-03"/>
+    <cosponsor thomas_id="01688" joined="2013-06-20"/>
+    <cosponsor thomas_id="01886" joined="2013-01-23"/>
+    <cosponsor thomas_id="02115" joined="2013-09-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-03" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-01-25">
+      <text>Referred to the Subcommittee on the Constitution And Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee subcommittee="Constitution and Civil Justice" code="HSJU10" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Abortion"/>
+  </subjects>
+  <amendments/>
+  <summary>1/3/2013--Introduced.
+Sanctity of Human Life Act - Declares that: (1) the right to life guaranteed by the Constitution is vested in each human and is the person's paramount and most fundamental right; (2) each human life begins with fertilization, cloning, or its functional equivalent, at which time every human has all legal and constitutional attributes and privileges of personhood; and (3) Congress, each state, the District of Columbia, and all U.S. territories have the authority to protect all human lives.</summary>
+</bill>

@@ -1,0 +1,41 @@
+<bill session="113" type="s" number="1630" updated="2014-08-14T13:58:46-04:00">
+  <state datetime="2013-10-31">REFERRED</state>
+  <status>
+    <introduced datetime="2013-10-31"/>
+  </status>
+  <introduced datetime="2013-10-31"/>
+  <titles>
+    <title type="short" as="introduced">Water Rights Protection Act</title>
+    <title type="official" as="introduced">A bill to prohibit the conditioning of any permit, lease, or other use agreement on the transfer, relinquishment, or other impairment of any water right to the United States by the Secretaries of the Interior and Agriculture.</title>
+  </titles>
+  <sponsor thomas_id="01881"/>
+  <cosponsors>
+    <cosponsor thomas_id="00250" joined="2013-10-31"/>
+    <cosponsor thomas_id="01542" joined="2013-10-31"/>
+    <cosponsor thomas_id="01633" joined="2013-10-31"/>
+    <cosponsor thomas_id="01351" joined="2013-10-31"/>
+    <cosponsor thomas_id="01863" joined="2013-10-31"/>
+    <cosponsor thomas_id="02080" joined="2013-10-31"/>
+    <cosponsor thomas_id="01896" joined="2013-11-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-10-31" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="3189"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Land use and conservation"/>
+    <term name="Licensing and registrations"/>
+    <term name="Water use and supply"/>
+  </subjects>
+  <amendments/>
+  <summary>10/31/2013--Introduced.
+Water Rights Protection Act - Prohibits the Secretary of the Interior and the Secretary of Agriculture (USDA) from: (1) conditioning the issuance, renewal, amendment, or extension of any permit, approval, license, lease, allotment, easement, right-of-way, or other land use or occupancy agreement on the transfer or relinquishment of any water right directly to the United States, in whole or in part, granted under state law, by federal or state adjudication, decree, or other judgment, or pursuant to any interstate water compact and such Secretaries; and (2) requiring any water user to apply for a water right in the name of the United States under state law as a condition of such a land use or occupancy agreement.</summary>
+</bill>

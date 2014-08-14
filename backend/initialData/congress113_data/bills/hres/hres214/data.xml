@@ -1,0 +1,42 @@
+<bill session="113" type="hr" number="214" updated="2014-08-14T12:46:27-04:00">
+  <state datetime="2013-05-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-15"/>
+  </status>
+  <introduced datetime="2013-05-15"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the House of Representatives that extensive scientific and technical studies and analyses by the Department of State and other Federal agencies have affirmed that the proposed Keystone XL pipeline is an environmentally sound project.</title>
+  </titles>
+  <sponsor thomas_id="02161"/>
+  <cosponsors>
+    <cosponsor thomas_id="02155" joined="2013-05-20"/>
+    <cosponsor thomas_id="01882" joined="2013-05-16"/>
+    <cosponsor thomas_id="02144" joined="2013-05-15"/>
+    <cosponsor thomas_id="00484" joined="2013-05-15"/>
+    <cosponsor thomas_id="00636" joined="2013-05-16"/>
+    <cosponsor thomas_id="01758" joined="2013-05-15"/>
+    <cosponsor thomas_id="01994" joined="2013-05-15"/>
+    <cosponsor thomas_id="01041" joined="2013-05-15"/>
+    <cosponsor thomas_id="01075" joined="2013-05-15"/>
+    <cosponsor thomas_id="02168" joined="2013-05-15"/>
+    <cosponsor thomas_id="01114" joined="2013-05-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-15" state="REFERRED">
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSSY" name="House Science, Space, and Technology" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Environmental assessment, monitoring, research"/>
+    <term name="Oil and gas"/>
+    <term name="Pipelines"/>
+  </subjects>
+  <amendments/>
+  <summary>5/15/2013--Introduced.
+Expresses the sense of the House of Representatives that the government's scientific and technical analysis of the potential environmental impacts of the Keystone XL pipeline have repeatedly affirmed its environmental soundness and safety.</summary>
+</bill>

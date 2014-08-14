@@ -1,0 +1,75 @@
+<bill session="113" type="h" number="4701" updated="2014-08-14T13:31:31-04:00">
+  <state datetime="2014-07-30">REPORTED</state>
+  <status>
+    <unknown datetime="2014-07-30"/>
+  </status>
+  <introduced datetime="2014-05-21"/>
+  <titles>
+    <title type="short" as="introduced">Vector-Borne Disease Research Accountability and Transparency Act of 2014</title>
+    <title type="official" as="introduced">To provide for scientific frameworks with respect to vector-borne diseases.</title>
+  </titles>
+  <sponsor thomas_id="02043"/>
+  <cosponsors>
+    <cosponsor thomas_id="02054" joined="2014-05-21"/>
+    <cosponsor thomas_id="01780" joined="2014-06-18"/>
+    <cosponsor thomas_id="01959" joined="2014-06-25"/>
+    <cosponsor thomas_id="01836" joined="2014-05-21"/>
+    <cosponsor thomas_id="02114" joined="2014-06-17"/>
+    <cosponsor thomas_id="02025" joined="2014-06-18"/>
+    <cosponsor thomas_id="01936" joined="2014-06-17"/>
+    <cosponsor thomas_id="01943" joined="2014-07-29"/>
+    <cosponsor thomas_id="02150" joined="2014-05-28"/>
+    <cosponsor thomas_id="00910" joined="2014-05-21"/>
+    <cosponsor thomas_id="01915" joined="2014-05-28"/>
+    <cosponsor thomas_id="01588" joined="2014-06-17"/>
+    <cosponsor thomas_id="01861" joined="2014-07-14"/>
+    <cosponsor thomas_id="01527" joined="2014-06-17"/>
+    <cosponsor thomas_id="01071" joined="2014-05-21"/>
+    <cosponsor thomas_id="01942" joined="2014-06-17"/>
+    <cosponsor thomas_id="01879" joined="2014-05-22"/>
+    <cosponsor thomas_id="01886" joined="2014-06-09"/>
+    <cosponsor thomas_id="01238" joined="2014-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-21" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2014-05-23">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2014-06-19">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2014-06-19">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Unanimous Consent .</text>
+    </action>
+    <action datetime="2014-07-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2014-07-30">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-07-30" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, Markup"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Advisory bodies"/>
+    <term name="Government information and archives"/>
+    <term name="Health information and medical records"/>
+    <term name="Infectious and parasitic diseases"/>
+    <term name="Medical research"/>
+    <term name="Research administration and funding"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2014--Introduced.
+Vector-Borne Disease Research Accountability and Transparency Act of 2014 - Amends the Public Health Service Act to require the Directors of the National Institutes of Health (NIH) and the Centers for Disease Control and Prevention (CDC) to: (1) develop scientific frameworks for research on at least two vector-borne diseases that have a high domestic incidence, and (2) convene a working group for each identified disease.
+
+ Defines "vector-borne disease" as an infection transmitted to humans or other animals by ticks, mosquitoes, or fleas. Treats tick-borne diseases, including Lyme disease, as a single such disease.</summary>
+</bill>

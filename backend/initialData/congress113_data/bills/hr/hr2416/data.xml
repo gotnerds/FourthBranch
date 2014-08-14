@@ -1,0 +1,74 @@
+<bill session="113" type="h" number="2416" updated="2014-08-14T13:11:58-04:00">
+  <state datetime="2013-06-18">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-18"/>
+  </status>
+  <introduced datetime="2013-06-18"/>
+  <titles>
+    <title type="short" as="introduced">United States Civil Rights Trail Special Resource Study Act of 2013</title>
+    <title type="official" as="introduced">To require the Secretary of the Interior to conduct a special resource study regarding the proposed United States Civil Rights Trail, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01654"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2013-06-18"/>
+    <cosponsor thomas_id="02153" joined="2013-06-18"/>
+    <cosponsor thomas_id="00091" joined="2013-06-18"/>
+    <cosponsor thomas_id="00132" joined="2013-06-18"/>
+    <cosponsor thomas_id="01761" joined="2013-06-18"/>
+    <cosponsor thomas_id="01889" joined="2013-06-18"/>
+    <cosponsor thomas_id="01474" joined="2013-06-18"/>
+    <cosponsor thomas_id="01864" joined="2013-06-18"/>
+    <cosponsor thomas_id="01790" joined="2013-06-18"/>
+    <cosponsor thomas_id="00208" joined="2013-06-18"/>
+    <cosponsor thomas_id="00229" joined="2013-06-18"/>
+    <cosponsor thomas_id="00256" joined="2013-06-18"/>
+    <cosponsor thomas_id="01477" joined="2013-06-18"/>
+    <cosponsor thomas_id="01894" joined="2013-06-18"/>
+    <cosponsor thomas_id="00371" joined="2013-06-18"/>
+    <cosponsor thomas_id="01895" joined="2013-06-18"/>
+    <cosponsor thomas_id="02147" joined="2013-06-18"/>
+    <cosponsor thomas_id="00588" joined="2013-06-18"/>
+    <cosponsor thomas_id="00599" joined="2013-06-18"/>
+    <cosponsor thomas_id="01843" joined="2013-06-18"/>
+    <cosponsor thomas_id="01501" joined="2013-06-18"/>
+    <cosponsor thomas_id="01506" joined="2013-06-18"/>
+    <cosponsor thomas_id="01811" joined="2013-06-18"/>
+    <cosponsor thomas_id="00868" joined="2013-06-18"/>
+    <cosponsor thomas_id="02097" joined="2013-06-18"/>
+    <cosponsor thomas_id="00944" joined="2013-06-18"/>
+    <cosponsor thomas_id="02023" joined="2013-06-18"/>
+    <cosponsor thomas_id="01003" joined="2013-06-18"/>
+    <cosponsor thomas_id="01722" joined="2013-06-18"/>
+    <cosponsor thomas_id="01037" joined="2013-06-18"/>
+    <cosponsor thomas_id="01988" joined="2013-06-18"/>
+    <cosponsor thomas_id="01151" joined="2013-06-18"/>
+    <cosponsor thomas_id="01741" joined="2013-06-18"/>
+    <cosponsor thomas_id="01207" joined="2013-06-18"/>
+    <cosponsor thomas_id="02004" joined="2013-06-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-18" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-06-25">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Public Lands and Environmental Regulation" code="HSII10" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="5068"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Government studies and investigations"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="Racial and ethnic relations"/>
+  </subjects>
+  <amendments/>
+  <summary>6/18/2013--Introduced.
+United States Civil Rights Trail Special Resource Study Act of 2013 - Directs the Secretary of the Interior to conduct a special resource study to evaluate a range of alternatives for the protection and interpretation of sites associated with the struggle for civil rights in the United States, including alternatives for potential addition of some or all of the sites to the National Trails System. Requires submission of a report to Congress that contains the results of such study and recommendations of the Secretary with respect to the route.</summary>
+</bill>

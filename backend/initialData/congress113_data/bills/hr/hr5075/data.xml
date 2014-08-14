@@ -1,0 +1,33 @@
+<bill session="113" type="h" number="5075" updated="2014-08-14T13:34:48-04:00">
+  <state datetime="2014-07-11">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-11"/>
+  </status>
+  <introduced datetime="2014-07-11"/>
+  <titles>
+    <title type="short" as="introduced">REAL Protection Act</title>
+    <title type="short" as="introduced">Resurveys Entitle Adjacent Landowners to Protection Act</title>
+    <title type="official" as="introduced">To provide protections and certainty for private landowners related to resurveying certain Federal land under the administrative jurisdiction of the Bureau of Land Management, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01997"/>
+  <cosponsors>
+    <cosponsor thomas_id="01912" joined="2014-07-28"/>
+    <cosponsor thomas_id="01908" joined="2014-07-28"/>
+    <cosponsor thomas_id="02168" joined="2014-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-11" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2014-07-17">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Public Lands and Environmental Regulation" code="HSII10" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

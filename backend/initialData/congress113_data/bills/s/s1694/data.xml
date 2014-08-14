@@ -1,0 +1,43 @@
+<bill session="113" type="s" number="1694" updated="2014-08-14T13:59:18-04:00">
+  <state datetime="2013-11-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-11-13"/>
+  </status>
+  <introduced datetime="2013-11-13"/>
+  <titles>
+    <title type="short" as="introduced">Hearing Aid Assistance Tax Credit Act</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to allow a credit against income tax for the purchase of hearing aids.</title>
+  </titles>
+  <sponsor thomas_id="00501"/>
+  <cosponsors>
+    <cosponsor thomas_id="00213" joined="2014-03-24"/>
+    <cosponsor thomas_id="01863" joined="2013-11-13"/>
+    <cosponsor thomas_id="00604" joined="2014-04-03"/>
+    <cosponsor thomas_id="01826" joined="2014-03-11"/>
+    <cosponsor thomas_id="01383" joined="2014-03-05"/>
+    <cosponsor thomas_id="01531" joined="2014-03-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-11-13" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+      <reference ref="CR S8006" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="1317"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Aging"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Hearing, speech, and vision care"/>
+    <term name="Income tax credits"/>
+    <term name="Tax treatment of families"/>
+  </subjects>
+  <amendments/>
+  <summary>11/13/2013--Introduced.
+Hearing Aid Assistance Tax Credit Act - Amends the Internal Revenue Code to allow a tax credit of up to $500 in a taxable year for the purchase of a hearing aid that is authorized under the Federal Food, Drug, and Cosmetic Act for commercial distribution and is intended for use by the taxpayer or a dependent of the taxpayer.</summary>
+</bill>

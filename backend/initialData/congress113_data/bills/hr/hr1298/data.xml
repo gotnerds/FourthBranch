@@ -1,0 +1,43 @@
+<bill session="113" type="h" number="1298" updated="2014-08-14T13:01:45-04:00">
+  <state datetime="2013-03-20">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-20"/>
+  </status>
+  <introduced datetime="2013-03-20"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Export Apple Act to permit the export of apples to Canada in bulk bins without certification by the Department of Agriculture.</title>
+  </titles>
+  <sponsor thomas_id="01974"/>
+  <cosponsors>
+    <cosponsor thomas_id="02151" joined="2013-05-08"/>
+    <cosponsor thomas_id="02044" joined="2013-03-20"/>
+    <cosponsor thomas_id="01069" joined="2013-04-09"/>
+    <cosponsor thomas_id="01942" joined="2013-04-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-20" state="REFERRED">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2013-04-02">
+      <text>Referred to the Subcommittee on Horticulture, Research, Biotechnology, and Foreign Agriculture.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee subcommittee="Horticulture, Research, Biotechnology, and Foreign Agriculture" code="HSAG14" name="House Agriculture" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="1947"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural trade"/>
+    <term name="Canada"/>
+    <term name="Food supply, safety, and labeling"/>
+    <term name="Fruit and vegetables"/>
+    <term name="Trade restrictions"/>
+  </subjects>
+  <amendments/>
+  <summary>3/20/2013--Introduced.
+Amends the Export Apple Act to permit apples to be exported to Canada in bulk bins (a quantity of apples weighing more than 100 pounds) without complying with certain inspection and certification requirements.</summary>
+</bill>

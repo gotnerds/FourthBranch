@@ -1,0 +1,91 @@
+<bill session="113" type="h" number="2506" updated="2014-08-14T13:12:51-04:00">
+  <state datetime="2013-06-26">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-26"/>
+  </status>
+  <introduced datetime="2013-06-26"/>
+  <titles>
+    <title type="short" as="introduced">Duplication Elimination Act of 2013</title>
+    <title type="official" as="introduced">To amend the Pay-As-You-Go-Act of 2010 to create an expedited procedure to enact recommendations of the Government Accountability Office for consolidation and elimination to reduce duplication.</title>
+  </titles>
+  <sponsor thomas_id="01799"/>
+  <cosponsors>
+    <cosponsor thomas_id="01780" joined="2013-07-17"/>
+    <cosponsor thomas_id="02135" joined="2013-07-17"/>
+    <cosponsor thomas_id="02102" joined="2014-07-30"/>
+    <cosponsor thomas_id="00091" joined="2013-09-10"/>
+    <cosponsor thomas_id="02129" joined="2014-02-04"/>
+    <cosponsor thomas_id="02127" joined="2013-07-17"/>
+    <cosponsor thomas_id="02107" joined="2013-07-17"/>
+    <cosponsor thomas_id="01912" joined="2013-06-26"/>
+    <cosponsor thomas_id="00231" joined="2013-07-16"/>
+    <cosponsor thomas_id="02126" joined="2013-07-17"/>
+    <cosponsor thomas_id="02133" joined="2013-07-31"/>
+    <cosponsor thomas_id="00371" joined="2013-07-17"/>
+    <cosponsor thomas_id="01797" joined="2013-07-17"/>
+    <cosponsor thomas_id="02122" joined="2013-07-16"/>
+    <cosponsor thomas_id="02043" joined="2013-07-17"/>
+    <cosponsor thomas_id="00462" joined="2013-09-19"/>
+    <cosponsor thomas_id="01990" joined="2013-07-09"/>
+    <cosponsor thomas_id="02044" joined="2013-09-10"/>
+    <cosponsor thomas_id="01921" joined="2013-07-17"/>
+    <cosponsor thomas_id="02154" joined="2013-09-10"/>
+    <cosponsor thomas_id="02169" joined="2013-08-02"/>
+    <cosponsor thomas_id="02014" joined="2013-07-17"/>
+    <cosponsor thomas_id="02145" joined="2013-07-17"/>
+    <cosponsor thomas_id="01781" joined="2013-07-16"/>
+    <cosponsor thomas_id="02111" joined="2013-07-16"/>
+    <cosponsor thomas_id="01671" joined="2013-06-28"/>
+    <cosponsor thomas_id="02142" joined="2014-07-31"/>
+    <cosponsor thomas_id="02052" joined="2013-07-17"/>
+    <cosponsor thomas_id="01730" joined="2013-07-22"/>
+    <cosponsor thomas_id="02059" joined="2013-07-09"/>
+    <cosponsor thomas_id="02117" joined="2013-06-26"/>
+    <cosponsor thomas_id="00867" joined="2013-07-11"/>
+    <cosponsor thomas_id="01974" joined="2013-07-17"/>
+    <cosponsor thomas_id="02157" joined="2013-07-22"/>
+    <cosponsor thomas_id="02113" joined="2013-07-17"/>
+    <cosponsor thomas_id="00912" joined="2013-07-09"/>
+    <cosponsor thomas_id="02073" joined="2013-07-11"/>
+    <cosponsor thomas_id="02109" joined="2013-07-16"/>
+    <cosponsor thomas_id="02039" joined="2013-07-22"/>
+    <cosponsor thomas_id="01950" joined="2013-07-16"/>
+    <cosponsor thomas_id="02099" joined="2013-07-17"/>
+    <cosponsor thomas_id="01952" joined="2013-06-26"/>
+    <cosponsor thomas_id="01879" joined="2013-07-17"/>
+    <cosponsor thomas_id="01238" joined="2013-07-17"/>
+    <cosponsor thomas_id="02019" joined="2013-07-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-26" state="REFERRED">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-06-26">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2013-06-26">
+      <text>Referred to House Rules</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee subcommittee="" code="HSRU" name="House Rules" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="1231"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Congressional oversight"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Legislative rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>6/26/2013--Introduced.
+Duplication Elimination Act of 2013 - Requires the President, within 90 days after publication of the annual Government Accountability Office (GAO) report on duplication, consolidation, and elimination of duplicative government programs, to send Congress a proposed joint resolution accompanied by a special message specifying:
+
+ any recommendations outlined in the GAO report that are excluded from the proposed joint resolution; in detail why they were excluded; and the outlined GAO recommendations included in the proposed joint resolution. Limits the proposed joint resolution to one that: (1) makes legislative changes needed to carry out the recommendations contained in the GAO report for a year that the President did not exclude, and (2) requires that any savings attributable to the legislative changes be transferred to the General Fund of the Treasury and be used to reduce the deficit.
+
+Sets forth procedures for expedited congressional consideration of the proposed joint resolution.</summary>
+</bill>

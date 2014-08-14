@@ -1,0 +1,77 @@
+<bill session="113" type="h" number="1809" updated="2014-08-14T13:06:08-04:00">
+  <state datetime="2013-04-26">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-26"/>
+  </status>
+  <introduced datetime="2013-04-26"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to provide notice of average times for processing claims and percentage of claims approved, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02162"/>
+  <cosponsors>
+    <cosponsor thomas_id="02093" joined="2013-05-07"/>
+    <cosponsor thomas_id="01740" joined="2013-05-21"/>
+    <cosponsor thomas_id="02155" joined="2013-05-08"/>
+    <cosponsor thomas_id="02106" joined="2013-05-08"/>
+    <cosponsor thomas_id="01839" joined="2013-06-03"/>
+    <cosponsor thomas_id="02055" joined="2013-05-24"/>
+    <cosponsor thomas_id="02103" joined="2013-05-16"/>
+    <cosponsor thomas_id="02119" joined="2013-05-15"/>
+    <cosponsor thomas_id="01708" joined="2013-07-08"/>
+    <cosponsor thomas_id="01907" joined="2013-04-26"/>
+    <cosponsor thomas_id="02145" joined="2013-04-26"/>
+    <cosponsor thomas_id="01501" joined="2013-05-15"/>
+    <cosponsor thomas_id="02146" joined="2013-06-18"/>
+    <cosponsor thomas_id="00729" joined="2013-11-12"/>
+    <cosponsor thomas_id="01503" joined="2013-05-08"/>
+    <cosponsor thomas_id="01505" joined="2013-04-26"/>
+    <cosponsor thomas_id="02148" joined="2013-05-07"/>
+    <cosponsor thomas_id="02117" joined="2013-05-17"/>
+    <cosponsor thomas_id="02108" joined="2013-05-20"/>
+    <cosponsor thomas_id="01738" joined="2013-05-15"/>
+    <cosponsor thomas_id="02109" joined="2013-05-07"/>
+    <cosponsor thomas_id="01003" joined="2013-06-18"/>
+    <cosponsor thomas_id="01861" joined="2013-05-22"/>
+    <cosponsor thomas_id="02099" joined="2013-06-03"/>
+    <cosponsor thomas_id="02104" joined="2013-06-03"/>
+    <cosponsor thomas_id="02110" joined="2013-05-07"/>
+    <cosponsor thomas_id="01535" joined="2013-09-10"/>
+    <cosponsor thomas_id="01940" joined="2013-06-06"/>
+    <cosponsor thomas_id="01209" joined="2013-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-26">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H2378-2379"/>
+    </action>
+    <action datetime="2013-04-26" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-05-08">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
+    <action datetime="2013-06-28">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee subcommittee="Disability Assistance and Memorial Affairs" code="HSVR09" name="House Veterans' Affairs" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1148"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Disability assistance"/>
+    <term name="Government information and archives"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>4/26/2013--Introduced.
+Directs the Secretary of Veterans Affairs (VA) to post notices of average times for the processing of compensation claims, as well as the percentage of claims approved, in a conspicuous place in each VA regional office and claims intake facility and on the VA website.
+
+Requires the Secretary to notify each person submitting a claim of the above information, as well as the person's eligibility to receive up to an extra year of benefit payments upon filing a claim that is fully developed.
+
+Requires the notice information to be updated at least quarterly.</summary>
+</bill>

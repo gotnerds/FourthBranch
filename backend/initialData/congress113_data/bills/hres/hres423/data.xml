@@ -1,0 +1,84 @@
+<bill session="113" type="hr" number="423" updated="2014-08-14T12:48:14-04:00">
+  <state datetime="2013-11-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-11-19"/>
+  </status>
+  <introduced datetime="2013-11-19"/>
+  <titles>
+    <title type="official" as="introduced">Honoring the life, legacy, and example of Congressman Leo J. Ryan 35 years after his tragic death.</title>
+  </titles>
+  <sponsor thomas_id="02004"/>
+  <cosponsors>
+    <cosponsor thomas_id="01780" joined="2013-11-19"/>
+    <cosponsor thomas_id="01471" joined="2013-11-19"/>
+    <cosponsor thomas_id="01970" joined="2013-11-19"/>
+    <cosponsor thomas_id="01959" joined="2013-12-04"/>
+    <cosponsor thomas_id="01604" joined="2013-11-19"/>
+    <cosponsor thomas_id="02133" joined="2013-11-19"/>
+    <cosponsor thomas_id="00344" joined="2013-12-04"/>
+    <cosponsor thomas_id="00355" joined="2013-11-19"/>
+    <cosponsor thomas_id="00368" joined="2013-11-19"/>
+    <cosponsor thomas_id="01914" joined="2013-11-22"/>
+    <cosponsor thomas_id="00511" joined="2013-11-19"/>
+    <cosponsor thomas_id="01634" joined="2013-11-19"/>
+    <cosponsor thomas_id="02101" joined="2013-12-10"/>
+    <cosponsor thomas_id="00588" joined="2013-11-19"/>
+    <cosponsor thomas_id="01501" joined="2013-11-19"/>
+    <cosponsor thomas_id="02111" joined="2013-11-19"/>
+    <cosponsor thomas_id="00709" joined="2013-11-19"/>
+    <cosponsor thomas_id="01504" joined="2013-11-19"/>
+    <cosponsor thomas_id="01832" joined="2013-12-04"/>
+    <cosponsor thomas_id="00808" joined="2013-11-19"/>
+    <cosponsor thomas_id="00832" joined="2013-11-19"/>
+    <cosponsor thomas_id="01602" joined="2013-11-19"/>
+    <cosponsor thomas_id="02113" joined="2013-11-22"/>
+    <cosponsor thomas_id="01890" joined="2013-11-19"/>
+    <cosponsor thomas_id="02104" joined="2013-11-19"/>
+    <cosponsor thomas_id="01209" joined="2013-11-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-11-19">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H7200"/>
+    </action>
+    <action datetime="2013-11-19" state="REFERRED">
+      <text>Referred to the Committee on House Administration, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-11-19">
+      <text>Referred to House House Administration</text>
+    </action>
+    <action datetime="2013-11-19">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSHA" name="House Administration" activity="Referral"/>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="California"/>
+    <term name="Congressional tributes"/>
+    <term name="Crime victims"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government studies and investigations"/>
+    <term name="Guyana"/>
+    <term name="Latin America"/>
+    <term name="Members of Congress"/>
+    <term name="Monuments and memorials"/>
+    <term name="Violent crime"/>
+  </subjects>
+  <amendments/>
+  <summary>11/19/2013--Introduced.
+Honors the legacy of Congressman Leo J. Ryan for his lifelong commitment to objective fact-finding and for his extraordinary commitment to advancing freedom and basic human rights at home and abroad.
+
+Honors his bravery, including his team members', and now-Congresswoman Jackie Speier's, for undertaking a dangerous yet essential fact-finding mission in Guyana.
+
+Extends condolences to all those affected by the Jonestown tragedy.
+
+Reiterates continued support for the safety of all government officials traveling on behalf of the United States on fact-finding missions.
+
+Calls upon the Speaker of the House of Representatives to establish protocols for memorializing Members who die in the line of duty.</summary>
+</bill>

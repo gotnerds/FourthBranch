@@ -1,0 +1,80 @@
+<bill session="113" type="h" number="1226" updated="2014-08-14T13:01:09-04:00">
+  <state datetime="2013-03-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-15"/>
+  </status>
+  <introduced datetime="2013-03-15"/>
+  <titles>
+    <title type="short" as="introduced">Tribal Labor Sovereignty Act of 2013</title>
+    <title type="official" as="introduced">To clarify the rights of Indians and Indian tribes on Indian lands under the National Labor Relations Act.</title>
+  </titles>
+  <sponsor thomas_id="02060"/>
+  <cosponsors>
+    <cosponsor thomas_id="02027" joined="2013-12-11"/>
+    <cosponsor thomas_id="02018" joined="2013-06-14"/>
+    <cosponsor thomas_id="00165" joined="2013-03-15"/>
+    <cosponsor thomas_id="00166" joined="2013-06-20"/>
+    <cosponsor thomas_id="01742" joined="2013-03-15"/>
+    <cosponsor thomas_id="02144" joined="2013-03-15"/>
+    <cosponsor thomas_id="02062" joined="2013-11-13"/>
+    <cosponsor thomas_id="02064" joined="2013-06-28"/>
+    <cosponsor thomas_id="01992" joined="2013-03-15"/>
+    <cosponsor thomas_id="02040" joined="2013-06-28"/>
+    <cosponsor thomas_id="01921" joined="2013-07-31"/>
+    <cosponsor thomas_id="00612" joined="2013-06-28"/>
+    <cosponsor thomas_id="01733" joined="2013-03-15"/>
+    <cosponsor thomas_id="02011" joined="2013-07-11"/>
+    <cosponsor thomas_id="02100" joined="2013-06-28"/>
+    <cosponsor thomas_id="02050" joined="2013-12-04"/>
+    <cosponsor thomas_id="00711" joined="2013-06-14"/>
+    <cosponsor thomas_id="01806" joined="2014-07-08"/>
+    <cosponsor thomas_id="02053" joined="2013-10-09"/>
+    <cosponsor thomas_id="01908" joined="2013-07-31"/>
+    <cosponsor thomas_id="01792" joined="2013-06-14"/>
+    <cosponsor thomas_id="02142" joined="2014-05-06"/>
+    <cosponsor thomas_id="01731" joined="2013-06-28"/>
+    <cosponsor thomas_id="02156" joined="2013-04-16"/>
+    <cosponsor thomas_id="02059" joined="2014-04-09"/>
+    <cosponsor thomas_id="01710" joined="2013-12-11"/>
+    <cosponsor thomas_id="01930" joined="2014-07-25"/>
+    <cosponsor thomas_id="01738" joined="2013-12-11"/>
+    <cosponsor thomas_id="01954" joined="2013-12-11"/>
+    <cosponsor thomas_id="02017" joined="2013-11-13"/>
+    <cosponsor thomas_id="01916" joined="2014-04-30"/>
+    <cosponsor thomas_id="01994" joined="2013-06-05"/>
+    <cosponsor thomas_id="01525" joined="2013-11-13"/>
+    <cosponsor thomas_id="01664" joined="2014-04-02"/>
+    <cosponsor thomas_id="01997" joined="2014-01-10"/>
+    <cosponsor thomas_id="01177" joined="2013-07-31"/>
+    <cosponsor thomas_id="02105" joined="2013-06-20"/>
+    <cosponsor thomas_id="01779" joined="2014-04-02"/>
+    <cosponsor thomas_id="01688" joined="2014-05-30"/>
+    <cosponsor thomas_id="02021" joined="2014-07-22"/>
+    <cosponsor thomas_id="01256" joined="2013-07-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-15" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2013-04-23">
+      <text>Referred to the Subcommittee on Health, Employment, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health, Employment, Labor, and Pensions" code="HSED02" name="House Education and the Workforce" activity="Referral"/>
+    <committee subcommittee="Workforce Protections" code="HSED10" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="1477"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Federal-Indian relations"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="Labor-management relations"/>
+  </subjects>
+  <amendments/>
+  <summary>3/15/2013--Introduced.
+Tribal Labor Sovereignty Act of 2013 - Amends the National Labor Relations Act to provide that any enterprise or institution owned and operated by an Indian tribe and located on its lands is not considered an employer (thus excluding such enterprises or institutions from coverage by such Act).</summary>
+</bill>

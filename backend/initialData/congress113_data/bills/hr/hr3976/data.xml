@@ -1,0 +1,79 @@
+<bill session="113" type="h" number="3976" updated="2014-08-14T13:25:20-04:00">
+  <state datetime="2014-01-29">REFERRED</state>
+  <status>
+    <introduced datetime="2014-01-29"/>
+  </status>
+  <introduced datetime="2014-01-29"/>
+  <titles>
+    <title type="short" as="introduced">Wounded Veterans Recreation Act</title>
+    <title type="official" as="introduced">To provide for a lifetime National Recreational Pass for any veteran with a service-connected disability, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02109"/>
+  <cosponsors>
+    <cosponsor thomas_id="02027" joined="2014-01-29"/>
+    <cosponsor thomas_id="01723" joined="2014-01-29"/>
+    <cosponsor thomas_id="02106" joined="2014-05-09"/>
+    <cosponsor thomas_id="01889" joined="2014-05-01"/>
+    <cosponsor thomas_id="01970" joined="2014-01-29"/>
+    <cosponsor thomas_id="00229" joined="2014-01-29"/>
+    <cosponsor thomas_id="02125" joined="2014-02-06"/>
+    <cosponsor thomas_id="01973" joined="2014-01-29"/>
+    <cosponsor thomas_id="01634" joined="2014-01-29"/>
+    <cosponsor thomas_id="02147" joined="2014-01-29"/>
+    <cosponsor thomas_id="01663" joined="2014-01-29"/>
+    <cosponsor thomas_id="01843" joined="2014-01-29"/>
+    <cosponsor thomas_id="01498" joined="2014-01-29"/>
+    <cosponsor thomas_id="01668" joined="2014-01-29"/>
+    <cosponsor thomas_id="01939" joined="2014-01-29"/>
+    <cosponsor thomas_id="02060" joined="2014-01-29"/>
+    <cosponsor thomas_id="00930" joined="2014-02-28"/>
+    <cosponsor thomas_id="01756" joined="2014-01-29"/>
+    <cosponsor thomas_id="01861" joined="2014-01-29"/>
+    <cosponsor thomas_id="02168" joined="2014-01-29"/>
+    <cosponsor thomas_id="02110" joined="2014-01-29"/>
+    <cosponsor thomas_id="01884" joined="2014-02-28"/>
+    <cosponsor thomas_id="01856" joined="2014-01-29"/>
+    <cosponsor thomas_id="01256" joined="2014-01-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-01-29" state="REFERRED">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-01-29">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2014-01-29">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2014-02-04">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+    </action>
+    <action datetime="2014-02-12">
+      <text>Referred to the Subcommittee on Conservation, Energy, and Forestry.</text>
+    </action>
+    <action datetime="2014-04-04">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Public Lands and Environmental Regulation" code="HSII10" name="House Natural Resources" activity="Referral, Hearings"/>
+    <committee subcommittee="" code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee subcommittee="Conservation, Energy, and Forestry" code="HSAG15" name="House Agriculture" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="2298"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Disability and paralysis"/>
+    <term name="Disability assistance"/>
+    <term name="Outdoor recreation"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="User charges and fees"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>1/29/2014--Introduced.
+Wounded Veterans Recreation Act - Amends the Federal Lands Recreation Enhancement Act to require the National Parks and Federal Recreational Lands Pass, which is made available for the lifetime of the passholder without charge to any U.S. citizen or person domiciled in the United States who has been medically determined to be permanently disabled, to be made available to any veteran with a service-connected disability.</summary>
+</bill>

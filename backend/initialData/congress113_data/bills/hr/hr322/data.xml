@@ -1,0 +1,135 @@
+<bill session="113" type="h" number="322" updated="2014-08-14T12:53:28-04:00">
+  <state datetime="2013-01-18">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-18"/>
+  </status>
+  <introduced datetime="2013-01-18"/>
+  <titles>
+    <title type="short" as="introduced">Hunting, Fishing, and Recreational Shooting Protection Act</title>
+    <title type="official" as="introduced">To amend the Toxic Substances Control Act to clarify the jurisdiction of the Environmental Protection Agency with respect to certain sporting good articles, and to exempt those articles from a definition under that Act.</title>
+  </titles>
+  <sponsor thomas_id="01685"/>
+  <cosponsors>
+    <cosponsor thomas_id="01727" joined="2013-01-18"/>
+    <cosponsor thomas_id="00038" joined="2013-01-18"/>
+    <cosponsor thomas_id="02054" joined="2013-07-17"/>
+    <cosponsor thomas_id="00062" joined="2013-01-23"/>
+    <cosponsor thomas_id="01753" joined="2013-01-18"/>
+    <cosponsor thomas_id="02063" joined="2013-01-18"/>
+    <cosponsor thomas_id="01748" joined="2013-01-18"/>
+    <cosponsor thomas_id="01703" joined="2013-01-18"/>
+    <cosponsor thomas_id="01787" joined="2013-01-18"/>
+    <cosponsor thomas_id="01882" joined="2013-01-18"/>
+    <cosponsor thomas_id="01925" joined="2013-01-18"/>
+    <cosponsor thomas_id="00186" joined="2013-01-18"/>
+    <cosponsor thomas_id="00211" joined="2013-01-23"/>
+    <cosponsor thomas_id="01912" joined="2013-01-18"/>
+    <cosponsor thomas_id="01805" joined="2013-01-18"/>
+    <cosponsor thomas_id="02098" joined="2013-06-03"/>
+    <cosponsor thomas_id="01989" joined="2013-01-18"/>
+    <cosponsor thomas_id="01670" joined="2013-01-22"/>
+    <cosponsor thomas_id="02126" joined="2013-03-14"/>
+    <cosponsor thomas_id="02062" joined="2013-01-18"/>
+    <cosponsor thomas_id="02057" joined="2013-01-18"/>
+    <cosponsor thomas_id="02036" joined="2013-01-29"/>
+    <cosponsor thomas_id="02064" joined="2013-01-18"/>
+    <cosponsor thomas_id="01924" joined="2013-01-29"/>
+    <cosponsor thomas_id="01707" joined="2013-01-18"/>
+    <cosponsor thomas_id="01998" joined="2013-02-25"/>
+    <cosponsor thomas_id="01720" joined="2013-05-14"/>
+    <cosponsor thomas_id="01656" joined="2013-01-18"/>
+    <cosponsor thomas_id="01990" joined="2013-01-18"/>
+    <cosponsor thomas_id="00484" joined="2013-02-12"/>
+    <cosponsor thomas_id="02044" joined="2013-01-18"/>
+    <cosponsor thomas_id="02032" joined="2013-01-18"/>
+    <cosponsor thomas_id="00512" joined="2013-01-18"/>
+    <cosponsor thomas_id="02143" joined="2013-06-03"/>
+    <cosponsor thomas_id="02020" joined="2013-01-18"/>
+    <cosponsor thomas_id="02028" joined="2013-01-18"/>
+    <cosponsor thomas_id="01909" joined="2013-01-18"/>
+    <cosponsor thomas_id="01640" joined="2013-02-05"/>
+    <cosponsor thomas_id="00603" joined="2014-02-03"/>
+    <cosponsor thomas_id="00612" joined="2013-01-18"/>
+    <cosponsor thomas_id="01868" joined="2013-01-18"/>
+    <cosponsor thomas_id="02154" joined="2013-07-17"/>
+    <cosponsor thomas_id="01724" joined="2013-01-18"/>
+    <cosponsor thomas_id="00636" joined="2013-02-08"/>
+    <cosponsor thomas_id="02014" joined="2013-01-18"/>
+    <cosponsor thomas_id="01733" joined="2013-01-18"/>
+    <cosponsor thomas_id="00666" joined="2013-05-16"/>
+    <cosponsor thomas_id="01885" joined="2013-01-18"/>
+    <cosponsor thomas_id="01931" joined="2013-01-18"/>
+    <cosponsor thomas_id="01960" joined="2013-01-18"/>
+    <cosponsor thomas_id="01671" joined="2013-01-18"/>
+    <cosponsor thomas_id="01908" joined="2013-01-29"/>
+    <cosponsor thomas_id="01505" joined="2013-01-18"/>
+    <cosponsor thomas_id="01730" joined="2013-01-18"/>
+    <cosponsor thomas_id="01731" joined="2013-05-22"/>
+    <cosponsor thomas_id="01584" joined="2013-01-18"/>
+    <cosponsor thomas_id="02060" joined="2013-02-27"/>
+    <cosponsor thomas_id="02001" joined="2013-01-18"/>
+    <cosponsor thomas_id="02034" joined="2013-01-18"/>
+    <cosponsor thomas_id="01955" joined="2013-01-18"/>
+    <cosponsor thomas_id="01974" joined="2013-02-12"/>
+    <cosponsor thomas_id="02035" joined="2013-01-18"/>
+    <cosponsor thomas_id="01930" joined="2013-02-05"/>
+    <cosponsor thomas_id="01738" joined="2013-01-18"/>
+    <cosponsor thomas_id="00910" joined="2013-01-18"/>
+    <cosponsor thomas_id="01514" joined="2013-01-18"/>
+    <cosponsor thomas_id="02022" joined="2013-01-18"/>
+    <cosponsor thomas_id="01954" joined="2013-01-18"/>
+    <cosponsor thomas_id="00977" joined="2013-01-18"/>
+    <cosponsor thomas_id="01704" joined="2013-01-18"/>
+    <cosponsor thomas_id="02017" joined="2013-01-23"/>
+    <cosponsor thomas_id="02003" joined="2013-01-18"/>
+    <cosponsor thomas_id="01560" joined="2013-04-09"/>
+    <cosponsor thomas_id="01892" joined="2013-02-25"/>
+    <cosponsor thomas_id="02009" joined="2013-01-18"/>
+    <cosponsor thomas_id="01525" joined="2013-01-18"/>
+    <cosponsor thomas_id="01681" joined="2013-01-18"/>
+    <cosponsor thomas_id="01590" joined="2013-01-18"/>
+    <cosponsor thomas_id="01860" joined="2013-01-18"/>
+    <cosponsor thomas_id="02000" joined="2013-01-18"/>
+    <cosponsor thomas_id="02047" joined="2013-01-18"/>
+    <cosponsor thomas_id="01114" joined="2013-02-25"/>
+    <cosponsor thomas_id="01981" joined="2013-01-18"/>
+    <cosponsor thomas_id="01566" joined="2013-01-18"/>
+    <cosponsor thomas_id="01151" joined="2013-01-18"/>
+    <cosponsor thomas_id="01952" joined="2013-01-18"/>
+    <cosponsor thomas_id="01155" joined="2013-01-18"/>
+    <cosponsor thomas_id="01997" joined="2013-01-18"/>
+    <cosponsor thomas_id="01855" joined="2014-06-09"/>
+    <cosponsor thomas_id="01596" joined="2013-01-18"/>
+    <cosponsor thomas_id="01779" joined="2013-01-18"/>
+    <cosponsor thomas_id="01886" joined="2013-01-18"/>
+    <cosponsor thomas_id="01991" joined="2013-01-18"/>
+    <cosponsor thomas_id="02115" joined="2013-07-31"/>
+    <cosponsor thomas_id="01256" joined="2013-01-18"/>
+    <cosponsor thomas_id="02019" joined="2013-07-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-18" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-01-18">
+      <text>Referred to the Subcommittee on Environment and the Economy.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Environment and the Economy" code="HSIF18" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="3197"/>
+    <bill type="s" session="113" relation="identical" number="1505"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Hunting and fishing"/>
+    <term name="Outdoor recreation"/>
+  </subjects>
+  <amendments/>
+  <summary>1/18/2013--Introduced.
+Hunting, Fishing, and Recreational Shooting Protection Act - Amends the Toxic Substances Control Act (TSCA) to exclude from the definition of "chemical substance" for purposes of such Act: (1)&#160;any component of&#160; any pistol, revolver, firearm, shell, or cartridge the sale of which is subject to federal excise tax, including shot, bullets and other projectiles, propellants, and primers; and (2)&#160;any sport fishing equipment the sale of which is subject to federal excise tax and sport fishing equipment&#160;components.</summary>
+</bill>

@@ -1,0 +1,13 @@
+<amendment session="113" chamber="s" number="3012" updated="2014-08-14T13:24:59-04:00">
+  <amends type="s" number="2262" sequence=""/>
+  <status datetime="2014-05-07">offered</status>
+  <sponsor thomas_id="01901"/>
+  <offered datetime="2014-05-07"/>
+  <description>In the nature of a substitute.</description>
+  <actions>
+    <action datetime="2014-05-07">
+      <text>Amendment SA 3012 proposed by Senator Reid for Senator Shaheen.</text>
+      <reference ref="CR S2763" label="consideration"/>
+    </action>
+  </actions>
+</amendment>

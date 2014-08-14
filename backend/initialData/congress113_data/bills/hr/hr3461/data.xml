@@ -1,0 +1,232 @@
+<bill session="113" type="h" number="3461" updated="2014-08-14T13:20:57-04:00">
+  <state datetime="2013-11-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-11-13"/>
+  </status>
+  <introduced datetime="2013-11-13"/>
+  <titles>
+    <title type="short" as="introduced">Strong Start for America's Children Act of 2013</title>
+    <title type="official" as="introduced">To support early learning.</title>
+  </titles>
+  <sponsor thomas_id="00808"/>
+  <cosponsors>
+    <cosponsor thomas_id="00021" joined="2013-12-09"/>
+    <cosponsor thomas_id="01996" joined="2014-02-27"/>
+    <cosponsor thomas_id="02153" joined="2014-02-06"/>
+    <cosponsor thomas_id="02102" joined="2014-03-24"/>
+    <cosponsor thomas_id="00091" joined="2014-02-10"/>
+    <cosponsor thomas_id="01740" joined="2014-01-28"/>
+    <cosponsor thomas_id="00099" joined="2013-12-19"/>
+    <cosponsor thomas_id="02092" joined="2013-12-19"/>
+    <cosponsor thomas_id="02106" joined="2014-01-28"/>
+    <cosponsor thomas_id="02127" joined="2014-02-05"/>
+    <cosponsor thomas_id="01471" joined="2013-12-19"/>
+    <cosponsor thomas_id="01564" joined="2013-11-21"/>
+    <cosponsor thomas_id="02107" joined="2014-07-24"/>
+    <cosponsor thomas_id="01889" joined="2014-04-02"/>
+    <cosponsor thomas_id="02159" joined="2013-12-04"/>
+    <cosponsor thomas_id="01839" joined="2013-11-21"/>
+    <cosponsor thomas_id="02163" joined="2014-06-02"/>
+    <cosponsor thomas_id="01970" joined="2013-12-12"/>
+    <cosponsor thomas_id="02055" joined="2014-01-16"/>
+    <cosponsor thomas_id="02196" joined="2014-02-10"/>
+    <cosponsor thomas_id="01864" joined="2014-07-17"/>
+    <cosponsor thomas_id="01878" joined="2013-12-09"/>
+    <cosponsor thomas_id="01959" joined="2014-01-27"/>
+    <cosponsor thomas_id="00229" joined="2013-11-21"/>
+    <cosponsor thomas_id="01836" joined="2013-11-21"/>
+    <cosponsor thomas_id="00256" joined="2014-02-10"/>
+    <cosponsor thomas_id="01641" joined="2013-12-02"/>
+    <cosponsor thomas_id="02133" joined="2013-12-04"/>
+    <cosponsor thomas_id="02096" joined="2013-11-21"/>
+    <cosponsor thomas_id="01976" joined="2014-02-25"/>
+    <cosponsor thomas_id="00303" joined="2013-11-21"/>
+    <cosponsor thomas_id="00316" joined="2014-02-25"/>
+    <cosponsor thomas_id="01857" joined="2014-04-07"/>
+    <cosponsor thomas_id="00344" joined="2013-11-21"/>
+    <cosponsor thomas_id="02125" joined="2014-01-07"/>
+    <cosponsor thomas_id="00355" joined="2014-02-27"/>
+    <cosponsor thomas_id="02114" joined="2013-12-03"/>
+    <cosponsor thomas_id="00371" joined="2013-12-02"/>
+    <cosponsor thomas_id="02119" joined="2013-12-12"/>
+    <cosponsor thomas_id="01895" joined="2014-02-05"/>
+    <cosponsor thomas_id="01973" joined="2014-01-09"/>
+    <cosponsor thomas_id="02120" joined="2013-12-12"/>
+    <cosponsor thomas_id="01914" joined="2014-02-10"/>
+    <cosponsor thomas_id="00462" joined="2014-05-15"/>
+    <cosponsor thomas_id="01708" joined="2013-12-04"/>
+    <cosponsor thomas_id="02041" joined="2013-12-03"/>
+    <cosponsor thomas_id="02089" joined="2014-01-27"/>
+    <cosponsor thomas_id="02044" joined="2013-11-13"/>
+    <cosponsor thomas_id="00511" joined="2014-04-02"/>
+    <cosponsor thomas_id="02170" joined="2014-02-25"/>
+    <cosponsor thomas_id="01913" joined="2014-01-27"/>
+    <cosponsor thomas_id="01490" joined="2013-11-21"/>
+    <cosponsor thomas_id="01580" joined="2013-11-21"/>
+    <cosponsor thomas_id="01634" joined="2013-11-21"/>
+    <cosponsor thomas_id="02101" joined="2013-12-19"/>
+    <cosponsor thomas_id="01663" joined="2013-12-10"/>
+    <cosponsor thomas_id="00588" joined="2014-02-06"/>
+    <cosponsor thomas_id="00599" joined="2014-04-28"/>
+    <cosponsor thomas_id="00616" joined="2014-02-05"/>
+    <cosponsor thomas_id="02025" joined="2013-12-19"/>
+    <cosponsor thomas_id="02190" joined="2014-02-14"/>
+    <cosponsor thomas_id="02172" joined="2014-03-18"/>
+    <cosponsor thomas_id="02169" joined="2014-02-10"/>
+    <cosponsor thomas_id="01907" joined="2014-02-14"/>
+    <cosponsor thomas_id="02145" joined="2014-02-25"/>
+    <cosponsor thomas_id="01668" joined="2013-12-09"/>
+    <cosponsor thomas_id="01583" joined="2014-03-28"/>
+    <cosponsor thomas_id="01501" joined="2013-12-10"/>
+    <cosponsor thomas_id="00683" joined="2014-04-30"/>
+    <cosponsor thomas_id="00688" joined="2014-04-28"/>
+    <cosponsor thomas_id="01846" joined="2013-12-09"/>
+    <cosponsor thomas_id="00701" joined="2014-02-27"/>
+    <cosponsor thomas_id="02111" joined="2013-12-09"/>
+    <cosponsor thomas_id="02146" joined="2014-02-25"/>
+    <cosponsor thomas_id="01939" joined="2013-11-21"/>
+    <cosponsor thomas_id="01686" joined="2013-12-09"/>
+    <cosponsor thomas_id="01943" joined="2013-11-21"/>
+    <cosponsor thomas_id="00729" joined="2014-03-11"/>
+    <cosponsor thomas_id="02150" joined="2014-01-16"/>
+    <cosponsor thomas_id="01814" joined="2014-02-14"/>
+    <cosponsor thomas_id="01503" joined="2014-03-14"/>
+    <cosponsor thomas_id="00766" joined="2014-03-26"/>
+    <cosponsor thomas_id="01504" joined="2013-11-21"/>
+    <cosponsor thomas_id="01832" joined="2013-12-12"/>
+    <cosponsor thomas_id="01506" joined="2013-12-12"/>
+    <cosponsor thomas_id="02148" joined="2013-12-12"/>
+    <cosponsor thomas_id="01730" joined="2013-12-12"/>
+    <cosponsor thomas_id="01731" joined="2014-03-04"/>
+    <cosponsor thomas_id="01811" joined="2013-12-02"/>
+    <cosponsor thomas_id="00832" joined="2013-11-21"/>
+    <cosponsor thomas_id="02117" joined="2013-12-02"/>
+    <cosponsor thomas_id="01602" joined="2014-02-06"/>
+    <cosponsor thomas_id="00854" joined="2014-02-10"/>
+    <cosponsor thomas_id="02108" joined="2014-01-27"/>
+    <cosponsor thomas_id="00868" joined="2013-11-21"/>
+    <cosponsor thomas_id="02162" joined="2014-02-11"/>
+    <cosponsor thomas_id="00893" joined="2014-03-13"/>
+    <cosponsor thomas_id="01835" joined="2014-02-10"/>
+    <cosponsor thomas_id="02113" joined="2013-12-12"/>
+    <cosponsor thomas_id="01927" joined="2014-03-04"/>
+    <cosponsor thomas_id="02171" joined="2013-11-21"/>
+    <cosponsor thomas_id="01910" joined="2013-11-21"/>
+    <cosponsor thomas_id="00930" joined="2013-12-04"/>
+    <cosponsor thomas_id="01967" joined="2014-01-27"/>
+    <cosponsor thomas_id="00944" joined="2014-01-27"/>
+    <cosponsor thomas_id="00997" joined="2014-01-13"/>
+    <cosponsor thomas_id="01728" joined="2014-02-10"/>
+    <cosponsor thomas_id="01003" joined="2014-07-15"/>
+    <cosponsor thomas_id="01756" joined="2014-05-20"/>
+    <cosponsor thomas_id="01962" joined="2013-11-21"/>
+    <cosponsor thomas_id="01757" joined="2014-05-29"/>
+    <cosponsor thomas_id="01522" joined="2014-04-08"/>
+    <cosponsor thomas_id="01854" joined="2014-02-11"/>
+    <cosponsor thomas_id="01588" joined="2013-12-12"/>
+    <cosponsor thomas_id="01635" joined="2014-02-04"/>
+    <cosponsor thomas_id="02124" joined="2013-12-19"/>
+    <cosponsor thomas_id="01798" joined="2013-11-21"/>
+    <cosponsor thomas_id="01722" joined="2014-04-02"/>
+    <cosponsor thomas_id="01037" joined="2014-01-07"/>
+    <cosponsor thomas_id="01988" joined="2014-02-10"/>
+    <cosponsor thomas_id="01861" joined="2013-12-19"/>
+    <cosponsor thomas_id="01818" joined="2014-04-09"/>
+    <cosponsor thomas_id="01069" joined="2013-11-21"/>
+    <cosponsor thomas_id="01890" joined="2013-12-04"/>
+    <cosponsor thomas_id="02104" joined="2014-01-09"/>
+    <cosponsor thomas_id="02110" joined="2014-04-28"/>
+    <cosponsor thomas_id="01593" joined="2014-03-11"/>
+    <cosponsor thomas_id="01535" joined="2013-11-21"/>
+    <cosponsor thomas_id="01940" joined="2013-11-21"/>
+    <cosponsor thomas_id="01942" joined="2013-12-03"/>
+    <cosponsor thomas_id="01884" joined="2013-12-05"/>
+    <cosponsor thomas_id="01729" joined="2013-11-21"/>
+    <cosponsor thomas_id="02112" joined="2013-12-02"/>
+    <cosponsor thomas_id="01777" joined="2014-01-13"/>
+    <cosponsor thomas_id="01209" joined="2014-02-10"/>
+    <cosponsor thomas_id="01879" joined="2014-02-10"/>
+    <cosponsor thomas_id="02004" joined="2013-12-10"/>
+    <cosponsor thomas_id="01853" joined="2013-12-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-11-13" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2014-01-22">
+      <text>Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee subcommittee="Early Childhood, Elementary, and Secondary Education" code="HSED14" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1697"/>
+    <bill type="s" session="113" relation="unknown" number="2452"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Academic performance and assessments"/>
+    <term name="Administrative remedies"/>
+    <term name="Adult education and literacy"/>
+    <term name="Child care and development"/>
+    <term name="Child health"/>
+    <term name="Crimes against children"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Domestic violence and child abuse"/>
+    <term name="Education of the disadvantaged"/>
+    <term name="Education programs funding"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Employee hiring"/>
+    <term name="Family relationships"/>
+    <term name="Higher education"/>
+    <term name="Language arts"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Minority education"/>
+    <term name="Nutrition and diet"/>
+    <term name="Performance measurement"/>
+    <term name="Physical fitness and lifestyle"/>
+    <term name="Poverty and welfare assistance"/>
+    <term name="Preschool education"/>
+    <term name="Sex offenses"/>
+    <term name="Special education"/>
+    <term name="State and local government operations"/>
+    <term name="Teaching, teachers, curricula"/>
+  </subjects>
+  <amendments/>
+  <summary>11/13/2013--Introduced.
+Strong Start for America's Children Act of 2013 - Directs the Secretary of Education (Secretary) to allot matching grants to states and, through them, subgrants to local educational agencies (LEAs), childhood education program providers, or consortia of those entities to implement high-quality prekindergarten programs for children from low-income families.
+
+Allots grants to states based on each state's proportion of children who are age four and who are from families with incomes at or below 200% of the poverty level.
+
+Defines "high-quality prekindergarten programs" as those that:
+
+ serve children who are three or four by the eligibility determination date or have attained the legal age for state-funded prekindergarten; require staff to have high qualifications, which for teachers include specified alternative requirements that all involve possessing a bachelor's degree; maintain an evidence-based maximum class size and child-to-instructional staff ratio; offer a full-day program; provide developmentally appropriate, evidence-based curricula and learning environments that are aligned with state early learning and development standards; offer teachers salaries comparable to those earned by kindergarten through grade twelve teachers; provide for ongoing monitoring and program evaluation to ensure continuous improvement; offer accessible comprehensive services for children, including specified minimum services; provide high-quality professional development for all staff; meet education performance standards under the Head Start Act; and maintain evidence-based health and safety standards. Conditions states' grant eligibility on demonstrating to the Secretary that they: (1) have or will establish early learning and development standards, (2) have or will develop the ability to link prekindergarten data with their elementary and secondary school data, (3) offer state-funded kindergarten for children, and (4) have established a State Advisory Council on Early Childhood Education and Care.
+
+Allows states to reserve up to 20% of their grant funds over the first four years of their grant for prekindergarten quality improvement activities, including support for teachers seeking a baccalaureate degree in early childhood education or a closely-related field.
+
+Authorizes states to apply to the appropriate Secretary to use up to 15% of their grant for subgrants to high-quality early childhood education and care programs for infants and toddlers whose family income is at or below 200% of the poverty level.
+
+Requires state to develop, implement, and make publicly available performance measures and targets for their grant activities.
+
+Prohibits state grantees from requiring any child to participate in any federal, state, local, or private early childhood education program. Limits the use of assessments funded by the grant program.
+
+Directs the Secretary and the Secretary of Health and Human Services (HHS) to develop a process to provide Head Start program services to children who are younger than age four in states or regions that provide four-year-olds whose family income is at or below 200% of the poverty level with sustained access to high-quality prekindergarten programs.
+
+Directs the Secretary to award competitive, matching, capacity-building grants to states that assure the Secretary that they will use their grant to become eligible, within three years of receiving the grant, for this Act's grants for high-quality prekindergarten programs.
+
+Amends the Head Start Act to direct the Secretary of HHS to make grants to Early Head Start agencies to partner with center-based or family child care providers, particularly those that receive support under the Child Care and Development Block Grant of 1990 (CCDBGA), to assist those providers in meeting applicable Head Start and Early Head Start program performance standards.
+
+Authorizes those partnerships to serve children through age three.
+
+Directs the Secretary of HHS to give Early Head Start program grant priority to Early Head Start agencies that agree to enter into such partnerships with center-based or family child care providers.
+
+Amends the CCDBGA to require states to: (1) ensure that the funding they receive for child care services under the Community Services Block Grant Act and the program of block grants for social services under the Social Security Act is subject to the requirements and limitations of the CCDBGA; (2) provide children with assistance under the CCDBGA for at least 12 months before redetermining their eligibility, provided their family income does not exceed 85% of the state median income for their family size; and (3) use the CCDBGA's funding to supplement, not supplant, other public funding for child care services and activities.
+
+Authorizes the Secretary of HHS to: (1) reserve a specified amount of Child Care and Development Block Grant program funds, in fiscal years in which program funding exceeds a specified amount, for formula grants to states, Indian tribes, and tribal organizations to improve the quality of child care programs and services; and (2) carry out demonstration and pilot projects designed to develop and implement strategies and practices useful in supporting the needs of low-income families in-need of, or receiving, child care services.
+
+Reauthorizes appropriations under the Child Care and Development Block Grant program for FY2014-FY2023.
+
+Expresses the sense of the House of Representatives regarding the need for Congress to continue providing resources to the Maternal, Infant, and Early Childhood Home Visiting program to support the work of states in helping at-risk families voluntarily receive home visits from nurses and social workers.</summary>
+</bill>

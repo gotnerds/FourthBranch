@@ -1,0 +1,24 @@
+<bill session="113" type="h" number="5028" updated="2014-08-14T13:34:23-04:00">
+  <state datetime="2014-07-08">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-08"/>
+  </status>
+  <introduced datetime="2014-07-08"/>
+  <titles>
+    <title type="short" as="introduced">National Hate Crimes Hotline Act of 2014</title>
+    <title type="official" as="introduced">To establish grant programs to provide for the establishment of a national hate crime hotline and a hate crime information and assistance website, to provide training and education to local law enforcement to prevent hate crimes, and to provide assistance to victims of hate crimes.</title>
+  </titles>
+  <sponsor thomas_id="01663"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-08" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

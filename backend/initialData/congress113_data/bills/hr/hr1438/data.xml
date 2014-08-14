@@ -1,0 +1,70 @@
+<bill session="113" type="h" number="1438" updated="2014-08-14T13:02:57-04:00">
+  <state datetime="2013-04-09">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-09"/>
+  </status>
+  <introduced datetime="2013-04-09"/>
+  <titles>
+    <title type="short" as="introduced">Veterans Pensions Protection Act of 2013</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to exempt reimbursements of certain medical expenses and other payments related to accident, theft, loss, or casualty loss from determinations of annual income with respect to pensions for veterans and surviving spouses and children of veterans, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00511"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2013-04-09"/>
+    <cosponsor thomas_id="02153" joined="2013-04-09"/>
+    <cosponsor thomas_id="01740" joined="2013-05-15"/>
+    <cosponsor thomas_id="00132" joined="2013-04-09"/>
+    <cosponsor thomas_id="02159" joined="2013-05-20"/>
+    <cosponsor thomas_id="01474" joined="2013-04-09"/>
+    <cosponsor thomas_id="02055" joined="2013-04-16"/>
+    <cosponsor thomas_id="01878" joined="2013-04-09"/>
+    <cosponsor thomas_id="00256" joined="2013-04-09"/>
+    <cosponsor thomas_id="01976" joined="2013-04-09"/>
+    <cosponsor thomas_id="00367" joined="2013-04-09"/>
+    <cosponsor thomas_id="00371" joined="2013-04-16"/>
+    <cosponsor thomas_id="02122" joined="2013-04-09"/>
+    <cosponsor thomas_id="02120" joined="2013-04-09"/>
+    <cosponsor thomas_id="01914" joined="2013-04-09"/>
+    <cosponsor thomas_id="01708" joined="2013-04-09"/>
+    <cosponsor thomas_id="00478" joined="2013-04-09"/>
+    <cosponsor thomas_id="00588" joined="2013-04-09"/>
+    <cosponsor thomas_id="02146" joined="2013-04-09"/>
+    <cosponsor thomas_id="01503" joined="2013-04-09"/>
+    <cosponsor thomas_id="01504" joined="2013-04-09"/>
+    <cosponsor thomas_id="00800" joined="2013-04-09"/>
+    <cosponsor thomas_id="02113" joined="2013-04-16"/>
+    <cosponsor thomas_id="00944" joined="2013-04-09"/>
+    <cosponsor thomas_id="01522" joined="2013-04-09"/>
+    <cosponsor thomas_id="01535" joined="2013-06-06"/>
+    <cosponsor thomas_id="01879" joined="2013-04-09"/>
+    <cosponsor thomas_id="02004" joined="2013-04-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-09">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E392"/>
+    </action>
+    <action datetime="2013-04-09" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-04-26">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee subcommittee="Disability Assistance and Memorial Affairs" code="HSVR09" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Accidents"/>
+    <term name="Civil actions and liability"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Life, casualty, property insurance"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>4/9/2013--Introduced.
+Veterans Pensions Protection Act of 2013 - Excludes from annual income, for purposes of eligibility for pensions for veterans and their surviving spouses and children, reimbursements resulting from: (1) any accident; (2) any theft or loss; (3) any casualty loss; (4) medical expenses resulting from any such accident, theft, or loss; and (5) pain and suffering (including insurance settlement payments and general damages awarded by a court) related to such accident, theft, or loss.</summary>
+</bill>

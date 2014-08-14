@@ -1,0 +1,61 @@
+<bill session="113" type="s" number="2534" updated="2014-08-14T14:06:25-04:00">
+  <state datetime="2014-06-26">REPORTED</state>
+  <status>
+    <unknown datetime="2014-06-26"/>
+  </status>
+  <introduced datetime="2014-06-26"/>
+  <titles>
+    <title type="short" as="introduced">Department of Homeland Security Appropriations Act, 2015</title>
+    <title type="short" as="reported to senate">Department of Homeland Security Appropriations Act, 2015</title>
+    <title type="official" as="introduced">An original bill making appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2015, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01546"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-06-26">
+      <text>Committee on Appropriations. Original measure reported to Senate by Senator Landrieu. With written report No. 113-198.</text>
+    </action>
+    <calendar datetime="2014-06-26" state="REPORTED" calendar="Senate Legislative" under="General Orders" number="443">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 443.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSAP" name="Senate Appropriations" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="933"/>
+    <bill type="h" session="113" relation="unknown" number="2217"/>
+    <bill type="h" session="113" relation="unknown" number="3547"/>
+    <bill type="h" session="113" relation="unknown" number="4903"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Appropriations"/>
+    <term name="Aviation and airports"/>
+    <term name="Border security and unlawful immigration"/>
+    <term name="Chemical and biological weapons"/>
+    <term name="Child safety and welfare"/>
+    <term name="Citizenship and naturalization"/>
+    <term name="Coast guard"/>
+    <term name="Computer security and identity theft"/>
+    <term name="Customs enforcement"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Emergency planning and evacuation"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal Emergency Management Agency (FEMA)"/>
+    <term name="Fires"/>
+    <term name="Floods and storm protection"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Homelessness and emergency shelter"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Law enforcement officers"/>
+    <term name="Nuclear weapons"/>
+    <term name="Research administration and funding"/>
+    <term name="Research and development"/>
+    <term name="Smuggling and trafficking"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,98 @@
+<bill session="113" type="h" number="3398" updated="2014-08-14T13:20:24-04:00">
+  <state datetime="2014-07-30">REPORTED</state>
+  <status>
+    <unknown datetime="2014-07-30"/>
+  </status>
+  <introduced datetime="2013-10-30"/>
+  <titles>
+    <title type="short" as="introduced">Girls Count Act of 2013</title>
+    <title type="official" as="introduced">To authorize the Secretary of State and the Administrator of the United States Agency for International Development to provide assistance to support the rights of women and girls in developing countries, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00186"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2013-12-19"/>
+    <cosponsor thomas_id="02102" joined="2014-07-31"/>
+    <cosponsor thomas_id="00099" joined="2013-12-19"/>
+    <cosponsor thomas_id="02106" joined="2014-06-09"/>
+    <cosponsor thomas_id="01970" joined="2014-07-17"/>
+    <cosponsor thomas_id="02196" joined="2014-07-11"/>
+    <cosponsor thomas_id="01878" joined="2014-06-09"/>
+    <cosponsor thomas_id="02098" joined="2014-06-09"/>
+    <cosponsor thomas_id="01643" joined="2014-07-31"/>
+    <cosponsor thomas_id="00279" joined="2014-02-11"/>
+    <cosponsor thomas_id="02133" joined="2014-05-08"/>
+    <cosponsor thomas_id="01976" joined="2014-07-11"/>
+    <cosponsor thomas_id="02119" joined="2013-12-19"/>
+    <cosponsor thomas_id="02120" joined="2014-06-09"/>
+    <cosponsor thomas_id="00511" joined="2014-05-08"/>
+    <cosponsor thomas_id="01913" joined="2014-07-17"/>
+    <cosponsor thomas_id="01580" joined="2014-06-25"/>
+    <cosponsor thomas_id="01634" joined="2014-06-09"/>
+    <cosponsor thomas_id="02014" joined="2014-06-09"/>
+    <cosponsor thomas_id="00688" joined="2014-06-09"/>
+    <cosponsor thomas_id="01781" joined="2014-06-25"/>
+    <cosponsor thomas_id="02111" joined="2014-07-17"/>
+    <cosponsor thomas_id="01939" joined="2014-06-25"/>
+    <cosponsor thomas_id="01686" joined="2014-07-11"/>
+    <cosponsor thomas_id="01653" joined="2013-10-30"/>
+    <cosponsor thomas_id="01506" joined="2014-06-25"/>
+    <cosponsor thomas_id="02148" joined="2014-02-11"/>
+    <cosponsor thomas_id="00832" joined="2013-12-19"/>
+    <cosponsor thomas_id="02117" joined="2014-07-17"/>
+    <cosponsor thomas_id="02001" joined="2014-02-11"/>
+    <cosponsor thomas_id="02157" joined="2014-06-09"/>
+    <cosponsor thomas_id="02141" joined="2014-02-11"/>
+    <cosponsor thomas_id="01514" joined="2014-06-09"/>
+    <cosponsor thomas_id="00944" joined="2014-06-25"/>
+    <cosponsor thomas_id="00985" joined="2014-05-08"/>
+    <cosponsor thomas_id="01848" joined="2013-12-19"/>
+    <cosponsor thomas_id="02003" joined="2013-12-19"/>
+    <cosponsor thomas_id="01920" joined="2014-05-08"/>
+    <cosponsor thomas_id="01861" joined="2014-02-11"/>
+    <cosponsor thomas_id="01526" joined="2014-07-31"/>
+    <cosponsor thomas_id="01818" joined="2014-05-08"/>
+    <cosponsor thomas_id="01071" joined="2013-10-30"/>
+    <cosponsor thomas_id="01890" joined="2014-05-08"/>
+    <cosponsor thomas_id="02104" joined="2014-07-31"/>
+    <cosponsor thomas_id="02110" joined="2014-06-25"/>
+    <cosponsor thomas_id="01729" joined="2013-12-19"/>
+    <cosponsor thomas_id="01209" joined="2014-06-09"/>
+    <cosponsor thomas_id="02161" joined="2014-06-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-10-30" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2014-07-30">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-07-30" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2591"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Census and government statistics"/>
+    <term name="Child safety and welfare"/>
+    <term name="Congressional oversight"/>
+    <term name="Crimes against children"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Foreign loans and debt"/>
+    <term name="Human rights"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Multilateral development programs"/>
+    <term name="Property rights"/>
+    <term name="Sex, gender, sexual orientation discrimination"/>
+    <term name="United Nations"/>
+    <term name="Women's rights"/>
+  </subjects>
+  <amendments/>
+  <summary>10/30/2013--Introduced.
+Girls Count Act of 2013 - Authorizes the Secretary of State and the Administrator of the U.S. Agency for International Development (USAID) to: (1) support programs that will contribute to improved civil registration and vital statistics systems with a focus on birth registration; and (2) promote programs that build the capacity of developing countries' national and local legal and policy frameworks to prevent discrimination against girls, and help increase property rights, social security, land tenure, and inheritance rights for women.</summary>
+</bill>

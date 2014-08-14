@@ -1,0 +1,57 @@
+<bill session="113" type="s" number="2069" updated="2014-08-14T14:02:32-04:00">
+  <state datetime="2014-02-27">REFERRED</state>
+  <status>
+    <introduced datetime="2014-02-27"/>
+  </status>
+  <introduced datetime="2014-02-27"/>
+  <titles>
+    <title type="short" as="introduced">Small Business Tax Credit Accessibility Act</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to expand and modify the credit for employee health insurance expenses of small employers.</title>
+  </titles>
+  <sponsor thomas_id="01898"/>
+  <cosponsors>
+    <cosponsor thomas_id="01969" joined="2014-02-27"/>
+    <cosponsor thomas_id="01902" joined="2014-03-05"/>
+    <cosponsor thomas_id="02174" joined="2014-03-13"/>
+    <cosponsor thomas_id="01844" joined="2014-02-27"/>
+    <cosponsor thomas_id="02176" joined="2014-03-13"/>
+    <cosponsor thomas_id="02185" joined="2014-03-27"/>
+    <cosponsor thomas_id="01546" joined="2014-02-27"/>
+    <cosponsor thomas_id="01983" joined="2014-03-27"/>
+    <cosponsor thomas_id="01900" joined="2014-03-11"/>
+    <cosponsor thomas_id="01901" joined="2014-02-27"/>
+    <cosponsor thomas_id="01567" joined="2014-03-27"/>
+    <cosponsor thomas_id="02198" joined="2014-02-27"/>
+    <cosponsor thomas_id="01897" joined="2014-02-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-02-27" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="4128"/>
+    <bill type="h" session="113" relation="unknown" number="4132"/>
+    <bill type="h" session="113" relation="unknown" number="4133"/>
+    <bill type="h" session="113" relation="unknown" number="4244"/>
+    <bill type="s" session="113" relation="unknown" number="1325"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Comprehensive health care"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Income tax credits"/>
+    <term name="Small business"/>
+    <term name="Wages and earnings"/>
+  </subjects>
+  <amendments/>
+  <summary>2/27/2014--Introduced.
+Small Business Tax Credit Accessibility Act - Expresses the sense of the Senate that the Obama Administration should work to make the small employer health care insurance tax credit more accessible for small employers.
+
+Amends the Internal Revenue Code, with respect to the small employer health care insurance tax credit, to: (1) revise the definition of "eligible small employer" to mean an employer with not more than 50 (currently, 25) full-time employees; (2) modify the phaseout formula for such credit to base such phaseout on number of employees and average annual wages; (3) allow a 35% credit in 2014&#160;to small employers who purchase health care coverage outside of the Small Business Health Option Program (SHOP exchange); (4) extend from two to three consecutive taxable years the period during which an employer may claim such credit; (5)&#160;eliminate the requirement that employers contribute the same percentage of cost of each employee's health insurance and the cap limiting eligible employer contributions to average premiums paid to a state health insurance exchange; and (6) make such credit available to dependents of a small employer.</summary>
+</bill>

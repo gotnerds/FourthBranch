@@ -1,0 +1,96 @@
+<bill session="113" type="h" number="4816" updated="2014-08-14T13:32:31-04:00">
+  <state datetime="2014-06-09">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-09"/>
+  </status>
+  <introduced datetime="2014-06-09"/>
+  <titles>
+    <title type="short" as="introduced">Toxic Exposure Research and Military Family Support Act of 2014</title>
+    <title type="official" as="introduced">To establish in the Department of Veterans Affairs a national center for the diagnosis, treatment, and research of health conditions of the descendants of veterans exposed to toxic substances during service in the Armed Forces, to provide certain services to those descendants, to establish an advisory board on exposure to toxic substances, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01634"/>
+  <cosponsors>
+    <cosponsor thomas_id="02093" joined="2014-07-24"/>
+    <cosponsor thomas_id="01723" joined="2014-06-09"/>
+    <cosponsor thomas_id="01959" joined="2014-07-31"/>
+    <cosponsor thomas_id="00229" joined="2014-06-09"/>
+    <cosponsor thomas_id="00279" joined="2014-06-20"/>
+    <cosponsor thomas_id="00367" joined="2014-06-10"/>
+    <cosponsor thomas_id="01708" joined="2014-06-09"/>
+    <cosponsor thomas_id="01794" joined="2014-06-09"/>
+    <cosponsor thomas_id="02025" joined="2014-06-09"/>
+    <cosponsor thomas_id="01907" joined="2014-06-09"/>
+    <cosponsor thomas_id="01501" joined="2014-06-09"/>
+    <cosponsor thomas_id="00709" joined="2014-07-10"/>
+    <cosponsor thomas_id="01504" joined="2014-06-10"/>
+    <cosponsor thomas_id="01602" joined="2014-06-09"/>
+    <cosponsor thomas_id="00868" joined="2014-06-10"/>
+    <cosponsor thomas_id="00893" joined="2014-07-10"/>
+    <cosponsor thomas_id="01835" joined="2014-07-24"/>
+    <cosponsor thomas_id="00910" joined="2014-07-24"/>
+    <cosponsor thomas_id="01927" joined="2014-06-10"/>
+    <cosponsor thomas_id="00940" joined="2014-07-10"/>
+    <cosponsor thomas_id="02167" joined="2014-07-10"/>
+    <cosponsor thomas_id="01879" joined="2014-06-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-09" state="REFERRED">
+      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-06-09">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2014-06-09">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2014-06-16">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Health" code="HSVR03" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1602"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Administrative remedies"/>
+    <term name="Advisory bodies"/>
+    <term name="Birth defects"/>
+    <term name="Child health"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Disability and paralysis"/>
+    <term name="Environmental health"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Health information and medical records"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="Medical education"/>
+    <term name="Medical research"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Mental health"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Research administration and funding"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+    <term name="Veterans' medical care"/>
+    <term name="Worker safety and health"/>
+  </subjects>
+  <amendments/>
+  <summary>6/9/2014--Introduced.
+Toxic Exposure Research and Military Family Support Act of 2014 - Directs the Secretary of Veterans Affairs to:
+
+ select a medical center in the Department of Veterans Affairs (VA) to serve as the national center (Center) for the diagnosis, treatment, and research of health conditions of descendents (i.e., a biological child, grandchild, or great-grandchild) of individuals exposed to toxic substances while serving as members of the Armed Forces that are related to that exposure; establish an advisory board to advise the center to determine which health conditions result from exposure to toxic substances and to study and evaluate cases of exposure of current and former members of the Armed Forces to toxic substances; and establish an Office of Extramural Research to conduct research on wounds, illnesses, injuries, and other conditions suffered by active members of the Armed Forces resulting from exposure to toxic substances and to assist the Advisory Board in considering claims of exposure to toxic substances. Requires the Center, in coordination with the National Birth Defect Registry, to track and research the genetic link between individuals who are exposed to Agent Orange and the medical conditions of their children.
+
+Extends eligibility for medical care and caregiver assistance to descendents of a veteran who was exposed to toxic substances while serving as a member of the Armed Forces if: (1) the descendent has a health condition resulting from exposure to toxic substances and is homebound due to such condition, and (2) the veteran has or had the same health condition.
+
+Authorizes the Secretary of Defense (DOD) to declassify documents (other than documents that would materially and immediately threaten national security) related to any known incident in which not less than 100 members of the Armed Forces were exposed to a toxic substance that resulted in at least one case of disability.
+
+Directs the VA Secretary, the Secretary of Health and Human Services (HHS), and the DOD Secretary to jointly conduct a national outreach and education campaign directed at members of the Armed Forces, veterans, and their family members to communicate information on incidents of exposure to toxic substances, health conditions resulting form such exposure, and the potential long-term effects of such exposure.</summary>
+</bill>

@@ -1,0 +1,69 @@
+<bill session="113" type="h" number="317" updated="2014-08-14T12:53:25-04:00">
+  <state datetime="2013-01-18">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-18"/>
+  </status>
+  <introduced datetime="2013-01-18"/>
+  <titles>
+    <title type="short" as="introduced">Judgment Fund Transparency Act of 2013</title>
+    <title type="official" as="introduced">To amend title 31, United States Code, to provide for transparency of payments made from the Judgment Fund.</title>
+  </titles>
+  <sponsor thomas_id="01998"/>
+  <cosponsors>
+    <cosponsor thomas_id="02029" joined="2013-02-04"/>
+    <cosponsor thomas_id="02090" joined="2013-01-18"/>
+    <cosponsor thomas_id="02027" joined="2013-01-18"/>
+    <cosponsor thomas_id="01753" joined="2013-01-18"/>
+    <cosponsor thomas_id="01748" joined="2013-01-22"/>
+    <cosponsor thomas_id="00186" joined="2013-01-18"/>
+    <cosponsor thomas_id="01912" joined="2013-01-22"/>
+    <cosponsor thomas_id="01742" joined="2013-01-18"/>
+    <cosponsor thomas_id="01924" joined="2013-02-05"/>
+    <cosponsor thomas_id="02065" joined="2013-01-23"/>
+    <cosponsor thomas_id="01992" joined="2013-01-18"/>
+    <cosponsor thomas_id="01487" joined="2013-01-22"/>
+    <cosponsor thomas_id="01656" joined="2013-01-18"/>
+    <cosponsor thomas_id="01990" joined="2013-01-18"/>
+    <cosponsor thomas_id="00512" joined="2013-01-25"/>
+    <cosponsor thomas_id="02100" joined="2013-01-22"/>
+    <cosponsor thomas_id="01834" joined="2013-01-22"/>
+    <cosponsor thomas_id="02033" joined="2013-02-15"/>
+    <cosponsor thomas_id="01960" joined="2013-01-18"/>
+    <cosponsor thomas_id="01908" joined="2013-02-12"/>
+    <cosponsor thomas_id="02142" joined="2013-01-25"/>
+    <cosponsor thomas_id="01738" joined="2013-02-05"/>
+    <cosponsor thomas_id="02068" joined="2013-02-08"/>
+    <cosponsor thomas_id="02009" joined="2013-02-05"/>
+    <cosponsor thomas_id="02000" joined="2013-02-25"/>
+    <cosponsor thomas_id="02168" joined="2013-01-18"/>
+    <cosponsor thomas_id="01952" joined="2013-01-18"/>
+    <cosponsor thomas_id="01997" joined="2013-01-18"/>
+    <cosponsor thomas_id="01596" joined="2013-01-22"/>
+    <cosponsor thomas_id="01779" joined="2013-02-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-18" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-02-28">
+      <text>Referred to the Subcommittee on the Constitution And Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee subcommittee="Constitution and Civil Justice" code="HSJU10" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1420"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Government information and archives"/>
+    <term name="Government liability"/>
+  </subjects>
+  <amendments/>
+  <summary>1/18/2013--Introduced.
+Judgment Fund Transparency Act of 2013 - Requires the Secretary of the Treasury to make available to the public on a website, as soon as practicable but within 30 days after a payment under this Act is tendered, the following information with regard to any payment made by the United States under a judgment, award, or compromise settlement with respect to a claim against the United States, unless the disclosure of such information is otherwise prohibited by law or court order:
+
+ the name of the specific federal agency or entity whose actions gave rise to the claim or judgment; the name of the plaintiff or claimant and counsel; the amount paid representing principal liability, and any amounts paid representing any ancillary liability, including attorney fees, costs, and interest; a brief description of the facts that gave rise to the claim; a copy of the original or amended complaint or written claim, and any written answer given by the federal government to it; a copy of the final action by a court regarding the claim (whether by decree, approval of settlement, or otherwise), or of the settlement agreement in any action not involving a court; and the name of the agency that submitted the claim.</summary>
+</bill>

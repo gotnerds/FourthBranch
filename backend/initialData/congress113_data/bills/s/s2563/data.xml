@@ -1,0 +1,27 @@
+<bill session="113" type="s" number="2563" updated="2014-08-14T14:06:39-04:00">
+  <state datetime="2014-06-26">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-26"/>
+  </status>
+  <introduced datetime="2014-06-26"/>
+  <titles>
+    <title type="short" as="introduced">Improving Driver Safety Act of 2014</title>
+    <title type="official" as="introduced">A bill to amend title 23, United States Code, to improve highway safety and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01826"/>
+  <cosponsors>
+    <cosponsor thomas_id="02079" joined="2014-06-26"/>
+    <cosponsor thomas_id="01694" joined="2014-07-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-26" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

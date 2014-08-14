@@ -1,0 +1,69 @@
+<bill session="113" type="h" number="2958" updated="2014-08-14T13:16:41-04:00">
+  <state datetime="2013-08-01">REFERRED</state>
+  <status>
+    <introduced datetime="2013-08-01"/>
+  </status>
+  <introduced datetime="2013-08-01"/>
+  <titles>
+    <title type="short" as="introduced">Clean Ports Act of 2013</title>
+    <title type="official" as="introduced">To amend title 49, United States Code, to provide certain port authorities, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00850"/>
+  <cosponsors>
+    <cosponsor thomas_id="00099" joined="2013-08-01"/>
+    <cosponsor thomas_id="01471" joined="2013-08-01"/>
+    <cosponsor thomas_id="01564" joined="2013-08-01"/>
+    <cosponsor thomas_id="01708" joined="2013-08-01"/>
+    <cosponsor thomas_id="02089" joined="2013-08-01"/>
+    <cosponsor thomas_id="01580" joined="2013-08-01"/>
+    <cosponsor thomas_id="01634" joined="2013-08-01"/>
+    <cosponsor thomas_id="02101" joined="2013-08-02"/>
+    <cosponsor thomas_id="01663" joined="2013-08-01"/>
+    <cosponsor thomas_id="01675" joined="2013-08-01"/>
+    <cosponsor thomas_id="02111" joined="2013-08-01"/>
+    <cosponsor thomas_id="00729" joined="2013-08-01"/>
+    <cosponsor thomas_id="00808" joined="2013-08-01"/>
+    <cosponsor thomas_id="01811" joined="2013-08-01"/>
+    <cosponsor thomas_id="00832" joined="2013-08-01"/>
+    <cosponsor thomas_id="01602" joined="2013-08-01"/>
+    <cosponsor thomas_id="00887" joined="2013-08-01"/>
+    <cosponsor thomas_id="01510" joined="2013-08-01"/>
+    <cosponsor thomas_id="00997" joined="2013-08-01"/>
+    <cosponsor thomas_id="01588" joined="2013-08-01"/>
+    <cosponsor thomas_id="01635" joined="2013-08-01"/>
+    <cosponsor thomas_id="01890" joined="2013-08-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-08-01" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2013-08-02">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Highways and Transit" code="HSPW12" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1435"/>
+    <bill type="s" session="113" relation="unknown" number="1435"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Air quality"/>
+    <term name="Federal preemption"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Motor carriers"/>
+    <term name="Navigation, waterways, harbors"/>
+    <term name="Roads and highways"/>
+    <term name="State and local government operations"/>
+    <term name="Transportation costs"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>8/1/2013--Introduced.
+Clean Ports Act of 2013 - Declares that federal preemption of state and local law relating to a price, route, or service of any motor carrier of property shall not apply to the authority of a state, local government, or the political authority of two or more states to adopt requirements for motor carriers providing services at port facilities that are reasonably related to the reduction of environmental pollution, traffic congestion, the improvement of highway safety, or the efficient utilization of such port facilities, provided adoption or enforcement of such requirements does not conflict with federal law.
+
+Declares that nothing in this Act shall limit the rights reserved to any state or political subdivision of such state under the Clean Air Act.</summary>
+</bill>

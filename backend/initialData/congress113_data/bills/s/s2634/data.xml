@@ -1,0 +1,38 @@
+<bill session="113" type="s" number="2634" updated="2014-08-14T14:07:15-04:00">
+  <state datetime="2014-07-22">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-22"/>
+  </status>
+  <introduced datetime="2014-07-22"/>
+  <titles>
+    <title type="short" as="introduced">National Disaster Tax Relief Act of 2014</title>
+    <title type="official" as="introduced">A bill to provide tax relief for major disaster areas declared in 2012, 2013, and 2014, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01701"/>
+  <cosponsors>
+    <cosponsor thomas_id="01965" joined="2014-07-22"/>
+    <cosponsor thomas_id="02194" joined="2014-07-22"/>
+    <cosponsor thomas_id="01866" joined="2014-07-22"/>
+    <cosponsor thomas_id="01546" joined="2014-07-22"/>
+    <cosponsor thomas_id="00791" joined="2014-07-22"/>
+    <cosponsor thomas_id="01424" joined="2014-07-22"/>
+    <cosponsor thomas_id="01036" joined="2014-07-22"/>
+    <cosponsor thomas_id="01595" joined="2014-07-22"/>
+    <cosponsor thomas_id="01609" joined="2014-07-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="4497"/>
+    <bill type="h" session="113" relation="unknown" number="5082"/>
+    <bill type="s" session="113" relation="unknown" number="2233"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,48 @@
+<bill session="113" type="h" number="4144" updated="2014-08-14T13:26:46-04:00">
+  <state datetime="2014-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="2014-03-04"/>
+  </status>
+  <introduced datetime="2014-03-04"/>
+  <titles>
+    <title type="short" as="introduced">U.S. Merchant Marine Academy Board of Visitors Enhancement Act</title>
+    <title type="official" as="introduced">To amend the provisions of title 46, United States Code, related to the Board of Visitors to the United States Merchant Marine Academy, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02041"/>
+  <cosponsors>
+    <cosponsor thomas_id="01740" joined="2014-03-04"/>
+    <cosponsor thomas_id="01564" joined="2014-06-09"/>
+    <cosponsor thomas_id="01663" joined="2014-03-25"/>
+    <cosponsor thomas_id="02199" joined="2014-06-17"/>
+    <cosponsor thomas_id="00635" joined="2014-03-04"/>
+    <cosponsor thomas_id="01503" joined="2014-03-04"/>
+    <cosponsor thomas_id="02034" joined="2014-03-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-03-04" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="2076"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Advisory bodies"/>
+    <term name="Department of Transportation"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Higher education"/>
+    <term name="Military education and training"/>
+    <term name="Transportation employees"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/2014--Introduced.
+U.S. Merchant Marine Academy Board of Visitors Enhancement Act - Amends federal shipping law to: (1) expand the membership of the Board of Visitors to the U. S. Merchant Marine Academy, and (2) specify requirements for the presidential appointees.
+
+Authorizes certain Board members to designate another individual to serve as a substitute member of the Board, on a temporary basis, to attend or participate in any activity the Board member is unable to attend or participate in.
+
+Directs the Secretary of Transportation (DOT) to select a Designated Federal Officer to support the performance of the Board's functions.</summary>
+</bill>

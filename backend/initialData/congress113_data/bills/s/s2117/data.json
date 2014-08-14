@@ -1,0 +1,167 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-03-12", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-06-25", 
+      "committees": [
+        "SSGA"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-07-31", 
+      "committee": "Homeland Security and Governmental Affairs", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "text": "Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper without amendment. Without written report.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2014-07-31", 
+      "calendar": "Senate Legislative", 
+      "number": "522", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 522.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2117-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Begich, Mark", 
+      "sponsored_at": "2014-05-07", 
+      "state": "AK", 
+      "thomas_id": "01898", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Enzi, Michael B.", 
+      "sponsored_at": "2014-05-07", 
+      "state": "WY", 
+      "thomas_id": "01542", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Portman, Rob", 
+      "sponsored_at": "2014-03-12", 
+      "state": "OH", 
+      "thomas_id": "00924", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Tester, Jon", 
+      "sponsored_at": "2014-06-23", 
+      "state": "MT", 
+      "thomas_id": "01829", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-07-31", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-03-12", 
+  "number": "2117", 
+  "official_title": "A bill to amend title 5, United States Code, to change the default investment fund under the Thrift Savings Plan, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr4193-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr4193-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Smart Savings Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Warren, Elizabeth", 
+    "state": "MA", 
+    "thomas_id": "02182", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2014-06-25", 
+  "subjects": [
+    "Financial services and investments", 
+    "Government employee pay, benefits, personnel management", 
+    "Government operations and politics", 
+    "Government trust funds", 
+    "Securities"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-03-12", 
+    "text": "Smart Savings Act - Makes the default investment in the Thrift Savings Plan (TSP) an age-appropriate target date asset allocation portfolio (L Fund), instead of the Government Securities Investment Fund (G Fund), if no election has been made for the investment of available funds. Retains the Government Securities Investment Fund as the default fund for members of the uniformed services. Requires TSP participants whose default fund is an age-appropriate L Fund to sign a risk acknowledgement before beginning TSP contributions."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Smart Savings Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "Smart Savings Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to amend title 5, United States Code, to change the default investment fund under the Thrift Savings Plan, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T14:02:56-04:00"
+}

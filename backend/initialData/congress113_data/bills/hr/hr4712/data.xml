@@ -1,0 +1,33 @@
+<bill session="113" type="h" number="4712" updated="2014-08-14T13:31:36-04:00">
+  <state datetime="2014-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-21"/>
+  </status>
+  <introduced datetime="2014-05-21"/>
+  <titles>
+    <title type="short" as="introduced">Veterans National Remembrance Act</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to provide priority for the establishment of new national cemeteries by the Secretary of Veterans Affairs, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01940"/>
+  <cosponsors>
+    <cosponsor thomas_id="01753" joined="2014-05-21"/>
+    <cosponsor thomas_id="02144" joined="2014-05-21"/>
+    <cosponsor thomas_id="02147" joined="2014-05-22"/>
+    <cosponsor thomas_id="01590" joined="2014-05-21"/>
+    <cosponsor thomas_id="02168" joined="2014-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-21" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Cemeteries and funerals"/>
+  </subjects>
+  <amendments/>
+</bill>

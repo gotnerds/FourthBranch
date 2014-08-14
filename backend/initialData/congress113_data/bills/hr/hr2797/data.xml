@@ -1,0 +1,71 @@
+<bill session="113" type="h" number="2797" updated="2014-08-14T13:15:20-04:00">
+  <state datetime="2013-07-23">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-23"/>
+  </status>
+  <introduced datetime="2013-07-23"/>
+  <titles>
+    <title type="short" as="introduced">Homeless Veterans Assistance Fund Act of 2013</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to allow taxpayers to designate overpayments of tax as contributions and to make additional contributions to the Homeless Veterans Assistance Fund, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01663"/>
+  <cosponsors>
+    <cosponsor thomas_id="00021" joined="2013-09-23"/>
+    <cosponsor thomas_id="01740" joined="2013-07-23"/>
+    <cosponsor thomas_id="01723" joined="2013-09-11"/>
+    <cosponsor thomas_id="02106" joined="2013-09-12"/>
+    <cosponsor thomas_id="02127" joined="2013-09-23"/>
+    <cosponsor thomas_id="01889" joined="2013-08-02"/>
+    <cosponsor thomas_id="02159" joined="2013-08-02"/>
+    <cosponsor thomas_id="01864" joined="2013-07-23"/>
+    <cosponsor thomas_id="02125" joined="2013-09-27"/>
+    <cosponsor thomas_id="02119" joined="2013-08-02"/>
+    <cosponsor thomas_id="01803" joined="2013-10-07"/>
+    <cosponsor thomas_id="01708" joined="2013-08-02"/>
+    <cosponsor thomas_id="00612" joined="2013-09-30"/>
+    <cosponsor thomas_id="02169" joined="2013-08-02"/>
+    <cosponsor thomas_id="00635" joined="2013-07-23"/>
+    <cosponsor thomas_id="01846" joined="2013-07-23"/>
+    <cosponsor thomas_id="02111" joined="2013-09-30"/>
+    <cosponsor thomas_id="01503" joined="2013-07-23"/>
+    <cosponsor thomas_id="01744" joined="2013-07-23"/>
+    <cosponsor thomas_id="02162" joined="2013-08-02"/>
+    <cosponsor thomas_id="01588" joined="2013-08-02"/>
+    <cosponsor thomas_id="01988" joined="2014-02-14"/>
+    <cosponsor thomas_id="01861" joined="2013-07-23"/>
+    <cosponsor thomas_id="01205" joined="2013-08-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-23" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-07-23">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-07-23">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2013-08-02">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Health" code="HSVR03" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="62"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Government trust funds"/>
+    <term name="Homelessness and emergency shelter"/>
+    <term name="Housing and community development funding"/>
+    <term name="Tax administration and collection, taxpayers"/>
+    <term name="Veterans' loans, housing, homeless programs"/>
+  </subjects>
+  <amendments/>
+  <summary>7/23/2013--Introduced.
+Homeless Veterans Assistance Fund Act of 2013 - Amends the Internal Revenue Code to: (1) establish in the Treasury the Homeless Veterans Assistance Fund; and (2) allow individual taxpayers to designate on their tax returns a specified portion (not less than $1) of any overpayment of tax, and to make a contribution of an additonal amount, to be paid over to such Fund to provide services to homeless veterans.</summary>
+</bill>

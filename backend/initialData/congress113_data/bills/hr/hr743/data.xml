@@ -1,0 +1,44 @@
+<bill session="113" type="h" number="743" updated="2014-08-14T12:57:03-04:00">
+  <state datetime="2013-02-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-15"/>
+  </status>
+  <introduced datetime="2013-02-15"/>
+  <titles>
+    <title type="short" as="introduced">Health Insurance Industry Fair Competition Act</title>
+    <title type="official" as="introduced">To restore the application of the Federal antitrust laws to the business of health insurance to protect competition and consumers.</title>
+  </titles>
+  <sponsor thomas_id="00279"/>
+  <cosponsors>
+    <cosponsor thomas_id="01069" joined="2013-02-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-15" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-04-08">
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee subcommittee="Regulatory Reform, Commercial And Antitrust Law" code="HSJU05" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="99"/>
+    <bill type="h" session="113" relation="unknown" number="344"/>
+    <bill type="h" session="113" relation="unknown" number="911"/>
+    <bill type="h" session="113" relation="unknown" number="3121"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Competition and antitrust"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Insurance industry and regulation"/>
+  </subjects>
+  <amendments/>
+  <summary>2/15/2013--Introduced.
+Health Insurance Industry Fair Competition Act - Amends the McCarran-Ferguson Act to provide that nothing in that Act shall modify, impair, or supersede the operation of any of the antitrust laws with respect to the business of health insurance.
+
+Applies prohibitions against using unfair methods of competition to the business of health insurance without regard to whether such business is carried on for profit.</summary>
+</bill>

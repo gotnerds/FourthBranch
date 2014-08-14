@@ -1,0 +1,59 @@
+<bill session="113" type="h" number="3082" updated="2014-08-14T13:17:44-04:00">
+  <state datetime="2013-09-11">REFERRED</state>
+  <status>
+    <introduced datetime="2013-09-11"/>
+  </status>
+  <introduced datetime="2013-09-11"/>
+  <titles>
+    <title type="short" as="introduced">Ansar al-Sharia Terrorist Designation Act of 2013</title>
+    <title type="official" as="introduced">To require a report on the designation of the Libyan faction of Ansar al-Sharia as a foreign terrorist organization, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01802"/>
+  <cosponsors>
+    <cosponsor thomas_id="02098" joined="2014-07-08"/>
+    <cosponsor thomas_id="02116" joined="2013-09-11"/>
+    <cosponsor thomas_id="01801" joined="2013-09-11"/>
+    <cosponsor thomas_id="01724" joined="2013-09-11"/>
+    <cosponsor thomas_id="00636" joined="2013-09-11"/>
+    <cosponsor thomas_id="02014" joined="2014-07-08"/>
+    <cosponsor thomas_id="01804" joined="2013-09-26"/>
+    <cosponsor thomas_id="02157" joined="2013-09-25"/>
+    <cosponsor thomas_id="01514" joined="2013-09-11"/>
+    <cosponsor thomas_id="01114" joined="2013-09-18"/>
+    <cosponsor thomas_id="01855" joined="2013-09-11"/>
+    <cosponsor thomas_id="02161" joined="2013-09-11"/>
+    <cosponsor thomas_id="01688" joined="2013-09-11"/>
+    <cosponsor thomas_id="02115" joined="2013-09-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-11" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-10-15">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+    <action datetime="2013-10-15">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Immigration and Border Security" code="HSJU01" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Africa"/>
+    <term name="Congressional oversight"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Libya"/>
+    <term name="Terrorism"/>
+    <term name="Visas and passports"/>
+  </subjects>
+  <amendments/>
+  <summary>9/11/2013--Introduced.
+Ansar al-Sharia Terrorist Designation Act of 2013 - Directs the Secretary of State to report to Congress on whether the Libyan faction of Ansar al-Sharia meets the criteria for designation as a foreign terrorist organization, and if not, a detailed justification as to which criteria have not been met.
+
+Expresses the sense of Congress that the Libyan faction of Ansar al-Sharia should be designated as a foreign terrorist organization.</summary>
+</bill>

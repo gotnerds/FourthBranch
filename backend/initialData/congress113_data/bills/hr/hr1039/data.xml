@@ -1,0 +1,82 @@
+<bill session="113" type="h" number="1039" updated="2014-08-14T12:59:34-04:00">
+  <state datetime="2013-03-11">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-11"/>
+  </status>
+  <introduced datetime="2013-03-11"/>
+  <titles>
+    <title type="official" as="introduced">To rescind unobligated amounts for foreign assistance to Egypt, and to appropriate funds for the Department of Defense tuition assistance program.</title>
+  </titles>
+  <sponsor thomas_id="01797"/>
+  <cosponsors>
+    <cosponsor thomas_id="02054" joined="2013-03-15"/>
+    <cosponsor thomas_id="02027" joined="2013-03-12"/>
+    <cosponsor thomas_id="01882" joined="2013-04-11"/>
+    <cosponsor thomas_id="01840" joined="2013-03-12"/>
+    <cosponsor thomas_id="01676" joined="2013-03-18"/>
+    <cosponsor thomas_id="00211" joined="2013-03-14"/>
+    <cosponsor thomas_id="01912" joined="2013-03-12"/>
+    <cosponsor thomas_id="01989" joined="2013-03-19"/>
+    <cosponsor thomas_id="02126" joined="2013-03-14"/>
+    <cosponsor thomas_id="00279" joined="2013-03-14"/>
+    <cosponsor thomas_id="02125" joined="2013-10-08"/>
+    <cosponsor thomas_id="01707" joined="2013-05-22"/>
+    <cosponsor thomas_id="01743" joined="2013-03-15"/>
+    <cosponsor thomas_id="01656" joined="2013-03-19"/>
+    <cosponsor thomas_id="01990" joined="2013-03-14"/>
+    <cosponsor thomas_id="01921" joined="2013-03-12"/>
+    <cosponsor thomas_id="00612" joined="2013-03-11"/>
+    <cosponsor thomas_id="02154" joined="2013-03-15"/>
+    <cosponsor thomas_id="02051" joined="2013-03-15"/>
+    <cosponsor thomas_id="00636" joined="2013-03-15"/>
+    <cosponsor thomas_id="01936" joined="2013-03-12"/>
+    <cosponsor thomas_id="00699" joined="2013-03-14"/>
+    <cosponsor thomas_id="02033" joined="2013-03-13"/>
+    <cosponsor thomas_id="01931" joined="2013-03-14"/>
+    <cosponsor thomas_id="02053" joined="2013-03-15"/>
+    <cosponsor thomas_id="02074" joined="2013-03-12"/>
+    <cosponsor thomas_id="02156" joined="2013-03-14"/>
+    <cosponsor thomas_id="02059" joined="2013-03-12"/>
+    <cosponsor thomas_id="01758" joined="2013-03-20"/>
+    <cosponsor thomas_id="01802" joined="2013-03-18"/>
+    <cosponsor thomas_id="01778" joined="2013-03-15"/>
+    <cosponsor thomas_id="02068" joined="2013-03-14"/>
+    <cosponsor thomas_id="02003" joined="2013-03-12"/>
+    <cosponsor thomas_id="02158" joined="2013-03-15"/>
+    <cosponsor thomas_id="02039" joined="2013-03-18"/>
+    <cosponsor thomas_id="02047" joined="2013-03-13"/>
+    <cosponsor thomas_id="01952" joined="2013-03-15"/>
+    <cosponsor thomas_id="01664" joined="2013-03-15"/>
+    <cosponsor thomas_id="01997" joined="2013-03-12"/>
+    <cosponsor thomas_id="01596" joined="2013-03-14"/>
+    <cosponsor thomas_id="01779" joined="2013-03-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-11" state="REFERRED">
+      <text>Referred to the House Committee on Appropriations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAP" name="House Appropriations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Appropriations"/>
+    <term name="Defense spending"/>
+    <term name="Department of Defense"/>
+    <term name="Egypt"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Higher education"/>
+    <term name="Middle East"/>
+    <term name="Military education and training"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+  <summary>3/11/2013--Introduced.
+Rescinds $500 million of unobligated amounts of foreign assistance for Egypt.
+
+Appropriates $500 million for the Department of Defense (DOD) tuition assistance program for FY2013.</summary>
+</bill>

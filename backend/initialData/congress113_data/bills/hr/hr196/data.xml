@@ -1,0 +1,55 @@
+<bill session="113" type="h" number="196" updated="2014-08-14T12:52:22-04:00">
+  <state datetime="2013-01-04">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-04"/>
+  </status>
+  <introduced datetime="2013-01-04"/>
+  <titles>
+    <title type="official" as="introduced">To eliminate automatic pay adjustments for Members of Congress, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01885"/>
+  <cosponsors>
+    <cosponsor thomas_id="02063" joined="2013-01-04"/>
+    <cosponsor thomas_id="01723" joined="2013-01-04"/>
+    <cosponsor thomas_id="02057" joined="2013-12-10"/>
+    <cosponsor thomas_id="01683" joined="2013-02-15"/>
+    <cosponsor thomas_id="01791" joined="2013-02-15"/>
+    <cosponsor thomas_id="00446" joined="2013-03-13"/>
+    <cosponsor thomas_id="01936" joined="2013-01-04"/>
+    <cosponsor thomas_id="01846" joined="2013-01-04"/>
+    <cosponsor thomas_id="01806" joined="2013-01-04"/>
+    <cosponsor thomas_id="02074" joined="2013-01-04"/>
+    <cosponsor thomas_id="01685" joined="2013-01-04"/>
+    <cosponsor thomas_id="02001" joined="2013-01-04"/>
+    <cosponsor thomas_id="01955" joined="2013-01-22"/>
+    <cosponsor thomas_id="01954" joined="2013-01-22"/>
+    <cosponsor thomas_id="01886" joined="2013-01-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-04" state="REFERRED">
+      <text>Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-01-04">
+      <text>Referred to House House Administration</text>
+    </action>
+    <action datetime="2013-01-04">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="134"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Inflation and prices"/>
+    <term name="Members of Congress"/>
+  </subjects>
+  <amendments/>
+  <summary>1/4/2013--Introduced.
+Amends the Legislative Reorganization Act of 1946 to eliminate automatic pay adjustments for Members of Congress.</summary>
+</bill>

@@ -1,0 +1,128 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-25", 
+      "references": [
+        {
+          "reference": "CR H5736", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-25", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and the Workforce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4965-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "2", 
+      "name": "Fattah, Chaka", 
+      "sponsored_at": "2014-06-25", 
+      "state": "PA", 
+      "thomas_id": "00371", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "26", 
+      "name": "Garcia, Joe", 
+      "sponsored_at": "2014-06-26", 
+      "state": "FL", 
+      "thomas_id": "02120", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "2", 
+      "name": "Pocan, Mark", 
+      "sponsored_at": "2014-07-08", 
+      "state": "WI", 
+      "thomas_id": "02171", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "33", 
+      "name": "Veasey, Marc A.", 
+      "sponsored_at": "2014-06-25", 
+      "state": "TX", 
+      "thomas_id": "02166", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-06-25", 
+  "number": "4965", 
+  "official_title": "To amend the Elementary and Secondary Education Act of 1965 to award grants to improve childhood care and education for local governments and local educational agencies.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Pre-K for USA Act", 
+  "sponsor": {
+    "district": "20", 
+    "name": "Castro, Joaquin", 
+    "state": "TX", 
+    "thomas_id": "02163", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-06-25", 
+  "subjects": [
+    "Education", 
+    "Education programs funding", 
+    "Educational facilities and institutions", 
+    "Performance measurement", 
+    "Preschool education", 
+    "School administration", 
+    "Special education", 
+    "Teaching, teachers, curricula", 
+    "Wages and earnings"
+  ], 
+  "subjects_top_term": "Education", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Pre-K for USA Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Elementary and Secondary Education Act of 1965 to award grants to improve childhood care and education for local governments and local educational agencies.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T13:33:51-04:00"
+}

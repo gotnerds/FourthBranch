@@ -1,0 +1,86 @@
+<bill session="113" type="hr" number="302" updated="2014-08-14T12:47:12-04:00">
+  <state datetime="2013-07-16">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-16"/>
+  </status>
+  <introduced datetime="2013-07-16"/>
+  <titles>
+    <title type="official" as="introduced">Expressing support for designation of August 23 as "Black Ribbon Day" to recognize the victims of Soviet Communist and Nazi regimes.</title>
+  </titles>
+  <sponsor thomas_id="01527"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2013-10-29"/>
+    <cosponsor thomas_id="02102" joined="2014-01-08"/>
+    <cosponsor thomas_id="02155" joined="2013-07-30"/>
+    <cosponsor thomas_id="02129" joined="2013-09-09"/>
+    <cosponsor thomas_id="00165" joined="2014-02-10"/>
+    <cosponsor thomas_id="00166" joined="2013-11-21"/>
+    <cosponsor thomas_id="02107" joined="2013-09-09"/>
+    <cosponsor thomas_id="01878" joined="2013-10-23"/>
+    <cosponsor thomas_id="02126" joined="2013-11-21"/>
+    <cosponsor thomas_id="01641" joined="2013-10-28"/>
+    <cosponsor thomas_id="01717" joined="2013-12-02"/>
+    <cosponsor thomas_id="00303" joined="2013-12-02"/>
+    <cosponsor thomas_id="00446" joined="2013-12-12"/>
+    <cosponsor thomas_id="01992" joined="2014-03-18"/>
+    <cosponsor thomas_id="01487" joined="2014-02-03"/>
+    <cosponsor thomas_id="02041" joined="2013-11-21"/>
+    <cosponsor thomas_id="00478" joined="2013-11-21"/>
+    <cosponsor thomas_id="02026" joined="2013-11-13"/>
+    <cosponsor thomas_id="02071" joined="2014-02-11"/>
+    <cosponsor thomas_id="02028" joined="2013-08-02"/>
+    <cosponsor thomas_id="02154" joined="2013-07-30"/>
+    <cosponsor thomas_id="00616" joined="2013-07-30"/>
+    <cosponsor thomas_id="02025" joined="2013-09-17"/>
+    <cosponsor thomas_id="00635" joined="2013-10-23"/>
+    <cosponsor thomas_id="01885" joined="2014-02-10"/>
+    <cosponsor thomas_id="01781" joined="2013-11-21"/>
+    <cosponsor thomas_id="02111" joined="2014-02-11"/>
+    <cosponsor thomas_id="01814" joined="2014-02-04"/>
+    <cosponsor thomas_id="01731" joined="2013-12-12"/>
+    <cosponsor thomas_id="01602" joined="2013-11-12"/>
+    <cosponsor thomas_id="00887" joined="2013-09-28"/>
+    <cosponsor thomas_id="02157" joined="2014-03-18"/>
+    <cosponsor thomas_id="01514" joined="2013-11-21"/>
+    <cosponsor thomas_id="00930" joined="2013-11-21"/>
+    <cosponsor thomas_id="00979" joined="2013-12-10"/>
+    <cosponsor thomas_id="01848" joined="2013-11-21"/>
+    <cosponsor thomas_id="00997" joined="2013-10-28"/>
+    <cosponsor thomas_id="00998" joined="2013-09-09"/>
+    <cosponsor thomas_id="01522" joined="2013-12-02"/>
+    <cosponsor thomas_id="01635" joined="2013-07-22"/>
+    <cosponsor thomas_id="01920" joined="2013-07-30"/>
+    <cosponsor thomas_id="01566" joined="2014-01-28"/>
+    <cosponsor thomas_id="01741" joined="2013-08-02"/>
+    <cosponsor thomas_id="01177" joined="2013-11-21"/>
+    <cosponsor thomas_id="01729" joined="2013-12-02"/>
+    <cosponsor thomas_id="01188" joined="2014-01-28"/>
+    <cosponsor thomas_id="01855" joined="2013-12-12"/>
+    <cosponsor thomas_id="01688" joined="2013-12-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-16" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="113" relation="identical" number="509"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Europe"/>
+    <term name="Germany"/>
+    <term name="Human rights"/>
+    <term name="Political movements and philosophies"/>
+    <term name="U.S.S.R."/>
+    <term name="War crimes, genocide, crimes against humanity"/>
+    <term name="World history"/>
+  </subjects>
+  <amendments/>
+  <summary>7/16/2013--Introduced.
+Supports the designation of Black Ribbon Day to recognize the victims of Soviet Communist and Nazi regimes.</summary>
+</bill>

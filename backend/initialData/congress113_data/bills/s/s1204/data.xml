@@ -1,0 +1,74 @@
+<bill session="113" type="s" number="1204" updated="2014-08-14T13:55:12-04:00">
+  <state datetime="2013-06-20">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-20"/>
+  </status>
+  <introduced datetime="2013-06-20"/>
+  <titles>
+    <title type="short" as="introduced">Health Care Conscience Rights Act</title>
+    <title type="official" as="introduced">A bill to amend the Patient Protection and Affordable Care Act to protect rights of conscience with regard to requirements for coverage of specific items and services, to amend the Public Health Service Act to prohibit certain abortion-related discrimination in governmental activities, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00212"/>
+  <cosponsors>
+    <cosponsor thomas_id="02075" joined="2013-07-31"/>
+    <cosponsor thomas_id="01464" joined="2013-06-27"/>
+    <cosponsor thomas_id="01687" joined="2014-03-04"/>
+    <cosponsor thomas_id="00153" joined="2013-07-23"/>
+    <cosponsor thomas_id="00188" joined="2014-01-15"/>
+    <cosponsor thomas_id="00213" joined="2014-02-24"/>
+    <cosponsor thomas_id="01825" joined="2014-01-07"/>
+    <cosponsor thomas_id="01542" joined="2013-09-09"/>
+    <cosponsor thomas_id="02179" joined="2013-06-20"/>
+    <cosponsor thomas_id="00452" joined="2013-09-12"/>
+    <cosponsor thomas_id="00583" joined="2013-07-29"/>
+    <cosponsor thomas_id="01608" joined="2014-01-15"/>
+    <cosponsor thomas_id="01899" joined="2013-06-24"/>
+    <cosponsor thomas_id="01507" joined="2013-06-26"/>
+    <cosponsor thomas_id="02082" joined="2013-06-27"/>
+    <cosponsor thomas_id="00968" joined="2013-07-16"/>
+    <cosponsor thomas_id="02084" joined="2013-07-30"/>
+    <cosponsor thomas_id="02056" joined="2013-09-25"/>
+    <cosponsor thomas_id="01548" joined="2013-09-24"/>
+    <cosponsor thomas_id="01534" joined="2013-07-10"/>
+    <cosponsor thomas_id="02085" joined="2014-01-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-20" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="940"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Abortion"/>
+    <term name="Civil actions and liability"/>
+    <term name="Comprehensive health care"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health personnel"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Legal fees and court costs"/>
+    <term name="Medical education"/>
+    <term name="Religion"/>
+    <term name="Sales and excise taxes"/>
+  </subjects>
+  <amendments/>
+  <summary>6/20/2013--Introduced.
+Health Care Conscience Rights Act - Amends title I of the Patient Protection and Affordable Care Act to declare that nothing in such title shall require an individual to purchase individual health insurance coverage that includes coverage of an abortion or other item or service to which the individual has a moral or religious objection, or prevent an issuer from offering or issuing, to that individual, individual coverage excluding such item or service.
+
+Makes similar denials about requiring a sponsor to sponsor, purchase, or provide such coverage, or a health insurance issuer or group health plan sponsor to cover an abortion or other item or service to which the sponsor or issuer has a moral or religious objection.
+
+Denies also that such title authorizes imposition of a tax, penalty, fee, fine, or other sanction, or imposition of coverage of such an item or service, in relation to health insurance coverage or a group health plan that excludes such an item or service.
+
+Amends the Public Health Service Act to codify the prohibition against any action by the federal government and any state or local government receiving federal financial assistance to subject a health professional, a hospital, a provider-sponsored organization, a health maintenance organization, an accountable care organization, a health insurance plan, or any other kind of health care facility, organization, or plan to discrimination on the basis that the entity refuses to participate in abortion-related activities.
+
+Requires the Secretary of Health and Human Services to designate the Director of the Office for Civil Rights of the Department of Health and Human Services (HHS) to receive and investigate complaints alleging a violation of abortion discrimination prohibition.
+
+Creates a cause of action for the Attorney General or any person or entity adversely affected to obtain equitable or legal relief for any violation of this abortion discrimination prohibition. Allows commencement of an action to be commenced and the granting of relief without a prerequisite pursuit of administrative remedies. Allows such an action against a federal or state governmental entity.</summary>
+</bill>

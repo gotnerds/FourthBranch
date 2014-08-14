@@ -1,0 +1,97 @@
+<bill session="113" type="hj" number="64" updated="2014-08-14T13:38:07-04:00">
+  <state datetime="2013-09-25">REFERRED</state>
+  <status>
+    <introduced datetime="2013-09-25"/>
+  </status>
+  <introduced datetime="2013-09-25"/>
+  <titles>
+    <title type="official" as="introduced">Disapproving a rule submitted by the Environmental Protection Agency relating to "Standards of Performance for Greenhouse Gas Emissions from New Stationary Sources: Electric Utility Generating Units".</title>
+  </titles>
+  <sponsor thomas_id="02074"/>
+  <cosponsors>
+    <cosponsor thomas_id="01460" joined="2013-10-16"/>
+    <cosponsor thomas_id="02090" joined="2013-09-25"/>
+    <cosponsor thomas_id="02131" joined="2013-09-25"/>
+    <cosponsor thomas_id="00062" joined="2013-09-25"/>
+    <cosponsor thomas_id="01748" joined="2013-09-25"/>
+    <cosponsor thomas_id="02155" joined="2013-09-25"/>
+    <cosponsor thomas_id="01676" joined="2013-09-25"/>
+    <cosponsor thomas_id="01752" joined="2013-09-25"/>
+    <cosponsor thomas_id="01956" joined="2013-10-16"/>
+    <cosponsor thomas_id="02151" joined="2013-10-16"/>
+    <cosponsor thomas_id="01805" joined="2013-09-25"/>
+    <cosponsor thomas_id="02098" joined="2013-09-25"/>
+    <cosponsor thomas_id="02144" joined="2013-09-25"/>
+    <cosponsor thomas_id="02057" joined="2013-10-09"/>
+    <cosponsor thomas_id="02036" joined="2013-09-25"/>
+    <cosponsor thomas_id="01924" joined="2013-10-09"/>
+    <cosponsor thomas_id="02065" joined="2013-09-25"/>
+    <cosponsor thomas_id="02049" joined="2013-09-25"/>
+    <cosponsor thomas_id="01720" joined="2013-09-25"/>
+    <cosponsor thomas_id="01992" joined="2013-09-25"/>
+    <cosponsor thomas_id="01990" joined="2013-10-30"/>
+    <cosponsor thomas_id="02070" joined="2013-09-25"/>
+    <cosponsor thomas_id="01922" joined="2013-09-26"/>
+    <cosponsor thomas_id="01933" joined="2013-09-25"/>
+    <cosponsor thomas_id="02032" joined="2013-10-09"/>
+    <cosponsor thomas_id="02046" joined="2013-09-25"/>
+    <cosponsor thomas_id="00612" joined="2013-10-09"/>
+    <cosponsor thomas_id="02051" joined="2013-09-25"/>
+    <cosponsor thomas_id="01834" joined="2013-10-09"/>
+    <cosponsor thomas_id="02050" joined="2013-09-25"/>
+    <cosponsor thomas_id="01885" joined="2013-09-25"/>
+    <cosponsor thomas_id="02033" joined="2013-09-25"/>
+    <cosponsor thomas_id="01931" joined="2013-10-08"/>
+    <cosponsor thomas_id="01960" joined="2013-09-25"/>
+    <cosponsor thomas_id="01804" joined="2013-10-16"/>
+    <cosponsor thomas_id="02059" joined="2013-09-30"/>
+    <cosponsor thomas_id="01744" joined="2013-09-26"/>
+    <cosponsor thomas_id="01955" joined="2013-09-25"/>
+    <cosponsor thomas_id="02022" joined="2013-09-26"/>
+    <cosponsor thomas_id="00940" joined="2013-09-25"/>
+    <cosponsor thomas_id="02048" joined="2013-09-25"/>
+    <cosponsor thomas_id="00977" joined="2013-09-25"/>
+    <cosponsor thomas_id="02017" joined="2013-09-30"/>
+    <cosponsor thomas_id="02158" joined="2013-09-25"/>
+    <cosponsor thomas_id="01009" joined="2013-09-25"/>
+    <cosponsor thomas_id="01920" joined="2013-10-16"/>
+    <cosponsor thomas_id="01994" joined="2013-09-25"/>
+    <cosponsor thomas_id="01527" joined="2013-09-25"/>
+    <cosponsor thomas_id="01681" joined="2013-09-25"/>
+    <cosponsor thomas_id="02191" joined="2013-10-08"/>
+    <cosponsor thomas_id="02047" joined="2013-09-25"/>
+    <cosponsor thomas_id="01981" joined="2013-09-25"/>
+    <cosponsor thomas_id="01952" joined="2013-09-25"/>
+    <cosponsor thomas_id="01779" joined="2013-10-16"/>
+    <cosponsor thomas_id="01688" joined="2013-10-09"/>
+    <cosponsor thomas_id="02019" joined="2013-09-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-25" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-09-27">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Energy and Power" code="HSIF03" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="3826"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Air quality"/>
+    <term name="Climate change and greenhouse gases"/>
+    <term name="Congressional oversight"/>
+    <term name="Electric power generation and transmission"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental regulatory procedures"/>
+  </subjects>
+  <amendments/>
+  <summary>9/25/2013--Introduced.
+Disapproves the rule submitted by the Administrator of the Environmental Protection Agency (EPA) on September 20, 2013, relating to "Standards of Performance for Greenhouse Gas Emissions from New Stationary Sources: Electric Utility Generating Units" under the Clean Air Act.</summary>
+</bill>

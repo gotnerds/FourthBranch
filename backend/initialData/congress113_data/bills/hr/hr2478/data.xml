@@ -1,0 +1,65 @@
+<bill session="113" type="h" number="2478" updated="2014-08-14T13:12:35-04:00">
+  <state datetime="2013-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-25"/>
+  </status>
+  <introduced datetime="2013-06-25"/>
+  <titles>
+    <title type="short" as="introduced">Section 526 Repeal Act</title>
+    <title type="official" as="introduced">To repeal a limitation on Federal procurement of certain fuels.</title>
+  </titles>
+  <sponsor thomas_id="01805"/>
+  <cosponsors>
+    <cosponsor thomas_id="01858" joined="2013-11-14"/>
+    <cosponsor thomas_id="00062" joined="2013-11-14"/>
+    <cosponsor thomas_id="02155" joined="2013-09-09"/>
+    <cosponsor thomas_id="01987" joined="2013-11-14"/>
+    <cosponsor thomas_id="02098" joined="2013-09-27"/>
+    <cosponsor thomas_id="01807" joined="2013-06-25"/>
+    <cosponsor thomas_id="02065" joined="2013-06-25"/>
+    <cosponsor thomas_id="01707" joined="2013-09-09"/>
+    <cosponsor thomas_id="01720" joined="2013-06-25"/>
+    <cosponsor thomas_id="00462" joined="2013-06-25"/>
+    <cosponsor thomas_id="01749" joined="2013-06-25"/>
+    <cosponsor thomas_id="00603" joined="2013-09-19"/>
+    <cosponsor thomas_id="02100" joined="2013-11-14"/>
+    <cosponsor thomas_id="02050" joined="2013-09-09"/>
+    <cosponsor thomas_id="01885" joined="2013-09-19"/>
+    <cosponsor thomas_id="02033" joined="2013-09-27"/>
+    <cosponsor thomas_id="01960" joined="2013-06-25"/>
+    <cosponsor thomas_id="01671" joined="2013-06-25"/>
+    <cosponsor thomas_id="01908" joined="2013-09-09"/>
+    <cosponsor thomas_id="01758" joined="2013-11-14"/>
+    <cosponsor thomas_id="01955" joined="2013-11-14"/>
+    <cosponsor thomas_id="01738" joined="2013-09-19"/>
+    <cosponsor thomas_id="02141" joined="2013-09-19"/>
+    <cosponsor thomas_id="01514" joined="2013-11-14"/>
+    <cosponsor thomas_id="00940" joined="2013-06-25"/>
+    <cosponsor thomas_id="02073" joined="2013-11-14"/>
+    <cosponsor thomas_id="01525" joined="2013-09-09"/>
+    <cosponsor thomas_id="01855" joined="2013-11-14"/>
+    <cosponsor thomas_id="02161" joined="2013-11-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-25" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1100"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Air quality"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Climate change and greenhouse gases"/>
+    <term name="Motor fuels"/>
+    <term name="Public contracts and procurement"/>
+  </subjects>
+  <amendments/>
+  <summary>6/25/2013--Introduced.
+Section 526 Repeal Act - Amends the Energy Independence and Security Act of 2007 to repeal the requirement that any federal agency procurement contract for an alternative or synthetic fuel, including those from nonconventional petroleum sources, for any mobility-related use (except research or testing) specify that lifecycle greenhouse gas emissions associated with the fuel must, on an ongoing basis, be less than or equal to such emissions from equivalent conventional fuel produced from conventional petroleum sources.</summary>
+</bill>

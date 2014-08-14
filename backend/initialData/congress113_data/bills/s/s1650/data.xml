@@ -1,0 +1,39 @@
+<bill session="113" type="s" number="1650" updated="2014-08-14T13:58:56-04:00">
+  <state datetime="2013-11-05">REFERRED</state>
+  <status>
+    <introduced datetime="2013-11-05"/>
+  </status>
+  <introduced datetime="2013-11-05"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Migratory Bird Treaty Act to exempt certain Alaska Native articles from prohibitions against sale of items containing nonedible migratory bird parts, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01694"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-11-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <action datetime="2014-07-16">
+      <text>Committee on Environment and Public Works Subcommittee on Water and Wildlife. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+    <committee subcommittee="Water and Wildlife" code="SSEV15" name="Senate Environment and Public Works" activity="Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="3109"/>
+  </relatedbills>
+  <subjects>
+    <term name="Animals"/>
+    <term name="Alaska Natives and Hawaiians"/>
+    <term name="Birds"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+  <summary>11/5/2013--Introduced.
+Amends the Migratory Bird Treaty Act to provide that nothing in such Act prohibits possessing, selling, bartering, purchasing, shipping, and transporting any authentic Alaska Native handicraft on the basis that it contains a nonedible migratory bird part. Makes such exemption inapplicable with respect to any handicraft containing any part of a migratory bird that was taken in a wasteful manner.
+
+Defines "Alaska Native handicraft" to mean any handicraft or clothing item that is composed of natural materials and produced, decorated, or fashioned by an Alaska Native, in the exercise of traditional Alaska Native handicrafts, without the use of any pantograph or other mass copying device, including any weaving, carving, stitching, sewing, lacing, beading, drawing, or painting or an item combining such techniques.</summary>
+</bill>

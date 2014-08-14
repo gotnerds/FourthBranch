@@ -1,0 +1,60 @@
+<bill session="113" type="h" number="2123" updated="2014-08-14T13:09:23-04:00">
+  <state datetime="2013-05-23">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-23"/>
+  </status>
+  <introduced datetime="2013-05-23"/>
+  <titles>
+    <title type="short" as="introduced">Special Needs Trust Fairness Act of 2013</title>
+    <title type="official" as="introduced">To amend title XIX of the Social Security Act to extend the Medicaid rules regarding supplemental needs trusts for Medicaid beneficiaries to trusts established by those beneficiaries.</title>
+  </titles>
+  <sponsor thomas_id="01952"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2013-11-13"/>
+    <cosponsor thomas_id="02054" joined="2013-11-13"/>
+    <cosponsor thomas_id="02027" joined="2013-11-13"/>
+    <cosponsor thomas_id="00099" joined="2014-01-27"/>
+    <cosponsor thomas_id="01604" joined="2014-02-11"/>
+    <cosponsor thomas_id="01797" joined="2013-11-13"/>
+    <cosponsor thomas_id="00462" joined="2014-01-28"/>
+    <cosponsor thomas_id="01933" joined="2013-07-11"/>
+    <cosponsor thomas_id="02145" joined="2013-10-22"/>
+    <cosponsor thomas_id="01846" joined="2013-06-04"/>
+    <cosponsor thomas_id="02146" joined="2014-04-28"/>
+    <cosponsor thomas_id="02053" joined="2013-11-13"/>
+    <cosponsor thomas_id="01730" joined="2014-04-30"/>
+    <cosponsor thomas_id="01744" joined="2014-01-07"/>
+    <cosponsor thomas_id="00887" joined="2013-05-23"/>
+    <cosponsor thomas_id="01510" joined="2014-02-03"/>
+    <cosponsor thomas_id="01915" joined="2013-11-13"/>
+    <cosponsor thomas_id="01588" joined="2013-06-17"/>
+    <cosponsor thomas_id="01069" joined="2014-02-11"/>
+    <cosponsor thomas_id="01209" joined="2013-11-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-23" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-05-24">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="1672"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Disability and paralysis"/>
+    <term name="Health care coverage and access"/>
+    <term name="Medicaid"/>
+  </subjects>
+  <amendments/>
+  <summary>5/23/2013--Introduced.
+Special Needs Trust Fairness Act of 2013 - Amends title XIX (Medicaid) of the Social Security Act with respect to the treatment of revocable trusts for the benefit of an individual for purposes of meeting income requirements for Medicaid coverage.
+
+Extends the supplemental needs trust exemption from treatment of a trust as resources available to the individual to supplemental needs trusts for Medicaid beneficiaries established by those beneficiaries.</summary>
+</bill>

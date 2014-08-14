@@ -1,0 +1,202 @@
+<bill session="113" type="h" number="4158" updated="2014-08-14T13:26:53-04:00">
+  <state datetime="2014-03-06">REFERRED</state>
+  <status>
+    <introduced datetime="2014-03-06"/>
+  </status>
+  <introduced datetime="2014-03-06"/>
+  <titles>
+    <title type="short" as="introduced">SIGMA Act of 2014</title>
+    <title type="short" as="introduced">Special Inspector General for Monitoring the ACA Act of 2014</title>
+    <title type="official" as="introduced">To establish the Office of the Special Inspector General for Monitoring the Affordable Care Act, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01848"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2014-05-23"/>
+    <cosponsor thomas_id="01858" joined="2014-03-06"/>
+    <cosponsor thomas_id="02135" joined="2014-04-07"/>
+    <cosponsor thomas_id="01753" joined="2014-05-07"/>
+    <cosponsor thomas_id="02063" joined="2014-03-06"/>
+    <cosponsor thomas_id="01748" joined="2014-03-06"/>
+    <cosponsor thomas_id="01787" joined="2014-07-25"/>
+    <cosponsor thomas_id="02155" joined="2014-05-23"/>
+    <cosponsor thomas_id="02018" joined="2014-07-15"/>
+    <cosponsor thomas_id="01751" joined="2014-04-03"/>
+    <cosponsor thomas_id="02197" joined="2014-03-06"/>
+    <cosponsor thomas_id="00165" joined="2014-07-29"/>
+    <cosponsor thomas_id="01676" joined="2014-05-07"/>
+    <cosponsor thomas_id="00186" joined="2014-05-09"/>
+    <cosponsor thomas_id="01956" joined="2014-03-06"/>
+    <cosponsor thomas_id="01805" joined="2014-05-08"/>
+    <cosponsor thomas_id="01643" joined="2014-05-09"/>
+    <cosponsor thomas_id="02126" joined="2014-03-06"/>
+    <cosponsor thomas_id="02072" joined="2014-07-28"/>
+    <cosponsor thomas_id="02057" joined="2014-03-06"/>
+    <cosponsor thomas_id="01797" joined="2014-08-01"/>
+    <cosponsor thomas_id="01924" joined="2014-03-06"/>
+    <cosponsor thomas_id="01683" joined="2014-05-09"/>
+    <cosponsor thomas_id="01743" joined="2014-05-19"/>
+    <cosponsor thomas_id="01992" joined="2014-03-25"/>
+    <cosponsor thomas_id="02058" joined="2014-03-06"/>
+    <cosponsor thomas_id="01979" joined="2014-03-06"/>
+    <cosponsor thomas_id="01990" joined="2014-04-03"/>
+    <cosponsor thomas_id="01922" joined="2014-07-30"/>
+    <cosponsor thomas_id="02026" joined="2014-03-06"/>
+    <cosponsor thomas_id="02032" joined="2014-05-19"/>
+    <cosponsor thomas_id="01749" joined="2014-03-06"/>
+    <cosponsor thomas_id="02071" joined="2014-03-06"/>
+    <cosponsor thomas_id="02020" joined="2014-03-25"/>
+    <cosponsor thomas_id="02015" joined="2014-05-01"/>
+    <cosponsor thomas_id="01921" joined="2014-03-06"/>
+    <cosponsor thomas_id="02046" joined="2014-04-28"/>
+    <cosponsor thomas_id="02199" joined="2014-05-19"/>
+    <cosponsor thomas_id="00612" joined="2014-05-01"/>
+    <cosponsor thomas_id="01868" joined="2014-03-06"/>
+    <cosponsor thomas_id="02154" joined="2014-04-03"/>
+    <cosponsor thomas_id="02051" joined="2014-03-06"/>
+    <cosponsor thomas_id="00635" joined="2014-05-01"/>
+    <cosponsor thomas_id="02100" joined="2014-05-01"/>
+    <cosponsor thomas_id="01834" joined="2014-03-06"/>
+    <cosponsor thomas_id="01936" joined="2014-03-06"/>
+    <cosponsor thomas_id="01885" joined="2014-03-26"/>
+    <cosponsor thomas_id="02033" joined="2014-03-25"/>
+    <cosponsor thomas_id="01931" joined="2014-03-14"/>
+    <cosponsor thomas_id="01960" joined="2014-03-06"/>
+    <cosponsor thomas_id="01806" joined="2014-05-07"/>
+    <cosponsor thomas_id="02053" joined="2014-07-28"/>
+    <cosponsor thomas_id="01908" joined="2014-03-27"/>
+    <cosponsor thomas_id="01792" joined="2014-03-06"/>
+    <cosponsor thomas_id="00778" joined="2014-05-30"/>
+    <cosponsor thomas_id="02142" joined="2014-03-06"/>
+    <cosponsor thomas_id="02052" joined="2014-05-21"/>
+    <cosponsor thomas_id="02130" joined="2014-03-06"/>
+    <cosponsor thomas_id="01731" joined="2014-03-25"/>
+    <cosponsor thomas_id="01584" joined="2014-07-30"/>
+    <cosponsor thomas_id="02059" joined="2014-03-06"/>
+    <cosponsor thomas_id="01744" joined="2014-03-06"/>
+    <cosponsor thomas_id="02060" joined="2014-03-06"/>
+    <cosponsor thomas_id="01955" joined="2014-05-01"/>
+    <cosponsor thomas_id="00912" joined="2014-05-29"/>
+    <cosponsor thomas_id="01982" joined="2014-07-25"/>
+    <cosponsor thomas_id="02073" joined="2014-03-06"/>
+    <cosponsor thomas_id="02160" joined="2014-03-06"/>
+    <cosponsor thomas_id="01954" joined="2014-03-06"/>
+    <cosponsor thomas_id="02017" joined="2014-05-20"/>
+    <cosponsor thomas_id="01916" joined="2014-03-06"/>
+    <cosponsor thomas_id="00985" joined="2014-03-06"/>
+    <cosponsor thomas_id="02003" joined="2014-07-22"/>
+    <cosponsor thomas_id="01920" joined="2014-05-20"/>
+    <cosponsor thomas_id="01994" joined="2014-05-09"/>
+    <cosponsor thomas_id="01041" joined="2014-07-31"/>
+    <cosponsor thomas_id="01590" joined="2014-07-17"/>
+    <cosponsor thomas_id="01071" joined="2014-05-30"/>
+    <cosponsor thomas_id="02191" joined="2014-05-29"/>
+    <cosponsor thomas_id="01075" joined="2014-05-07"/>
+    <cosponsor thomas_id="02000" joined="2014-03-06"/>
+    <cosponsor thomas_id="02168" joined="2014-07-31"/>
+    <cosponsor thomas_id="01981" joined="2014-03-06"/>
+    <cosponsor thomas_id="01566" joined="2014-07-28"/>
+    <cosponsor thomas_id="01952" joined="2014-07-28"/>
+    <cosponsor thomas_id="01664" joined="2014-03-06"/>
+    <cosponsor thomas_id="01997" joined="2014-05-29"/>
+    <cosponsor thomas_id="01741" joined="2014-05-07"/>
+    <cosponsor thomas_id="02105" joined="2014-07-31"/>
+    <cosponsor thomas_id="01855" joined="2014-03-06"/>
+    <cosponsor thomas_id="02161" joined="2014-05-01"/>
+    <cosponsor thomas_id="02002" joined="2014-03-06"/>
+    <cosponsor thomas_id="02165" joined="2014-03-25"/>
+    <cosponsor thomas_id="01688" joined="2014-05-19"/>
+    <cosponsor thomas_id="02115" joined="2014-03-06"/>
+    <cosponsor thomas_id="01256" joined="2014-05-29"/>
+    <cosponsor thomas_id="02019" joined="2014-08-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-03-06" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Natural Resources, Education and the Workforce, Ways and Means, Oversight and Government Reform, House Administration, the Judiciary, Rules, and Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-03-06">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2014-03-06">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2014-03-06">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2014-03-06">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2014-03-06">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2014-03-06">
+      <text>Referred to House House Administration</text>
+    </action>
+    <action datetime="2014-03-06">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2014-03-06">
+      <text>Referred to House Rules</text>
+    </action>
+    <action datetime="2014-03-06">
+      <text>Referred to House Appropriations</text>
+    </action>
+    <action datetime="2014-03-07">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2014-03-11">
+      <text>Referred to the Subcommittee Indian and Alaska Native Affairs.</text>
+    </action>
+    <action datetime="2014-04-16">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+    <action datetime="2014-06-13">
+      <text>Referred to the Subcommittee on Health, Employment, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Indian and Alaska Native Affairs" code="HSII24" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee subcommittee="Health, Employment, Labor, and Pensions" code="HSED02" name="House Education and the Workforce" activity="Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee subcommittee="" code="HSHA" name="House Administration" activity="Referral"/>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Constitution and Civil Justice" code="HSJU10" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="" code="HSRU" name="House Rules" activity="Referral"/>
+    <committee subcommittee="" code="HSAP" name="House Appropriations" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="2430"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Abortion"/>
+    <term name="Accounting and auditing"/>
+    <term name="Comprehensive health care"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health personnel"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Income tax credits"/>
+    <term name="Medicaid"/>
+    <term name="Performance measurement"/>
+    <term name="Religion"/>
+    <term name="Sales and excise taxes"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <summary>3/6/2014--Introduced.
+Special Inspector General for Monitoring the ACA Act of 2014 or the SIGMA Act of 2014 - Establishes the Office of the Special Inspector General for Monitoring the Affordable Care Act to conduct, supervise, and coordinate audits and investigations of the implementation and administration of programs and activities established under, and payment system changes made by, the Affordable Care Act (the Patient Protection and Affordable Care Act and the health care provisions of the Health Care and Education Reconciliation Act of 2010). Requires the Special Inspector General to be appointed by the President, with the advice and consent of the Senate.
+
+Requires the Special Inspector General to appoint an Assistant Inspector General for Auditing and an Assistant Inspector General for Investigations.
+
+Places the Special Inspector General under the supervision of the Secretary of Health and Human Services (HHS), but prohibits federal agencies involved in implementing or administering the Affordable Care Act from preventing or prohibiting the Special Inspector General from initiating, carrying out, or completing any audit or investigation.</summary>
+</bill>

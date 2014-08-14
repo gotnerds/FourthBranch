@@ -1,0 +1,29 @@
+<bill session="113" type="h" number="5073" updated="2014-08-14T13:34:47-04:00">
+  <state datetime="2014-07-10">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-10"/>
+  </status>
+  <introduced datetime="2014-07-10"/>
+  <titles>
+    <title type="short" as="introduced">Access to Consumer Energy Information Act</title>
+    <title type="short" as="introduced">E-Access Act</title>
+    <title type="official" as="introduced">To enhance consumer access to electricity information and allow for the adoption of innovative products and services to help consumers manage their energy usage.</title>
+  </titles>
+  <sponsor thomas_id="01879"/>
+  <cosponsors>
+    <cosponsor thomas_id="02159" joined="2014-07-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-10" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2165"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

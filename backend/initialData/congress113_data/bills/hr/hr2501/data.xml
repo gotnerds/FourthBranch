@@ -1,0 +1,48 @@
+<bill session="113" type="h" number="2501" updated="2014-08-14T13:12:48-04:00">
+  <state datetime="2013-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-25"/>
+  </status>
+  <introduced datetime="2013-06-25"/>
+  <titles>
+    <title type="short" as="introduced">Congressional Accountability and Oversight in Syria Act</title>
+    <title type="official" as="introduced">To authorize assistance to conduct military or paramilitary operations in Syria, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01916"/>
+  <cosponsors>
+    <cosponsor thomas_id="02027" joined="2013-06-27"/>
+    <cosponsor thomas_id="01956" joined="2013-07-09"/>
+    <cosponsor thomas_id="01742" joined="2013-06-27"/>
+    <cosponsor thomas_id="01990" joined="2013-06-27"/>
+    <cosponsor thomas_id="01909" joined="2013-06-27"/>
+    <cosponsor thomas_id="01804" joined="2013-06-25"/>
+    <cosponsor thomas_id="01731" joined="2013-06-27"/>
+    <cosponsor thomas_id="02034" joined="2013-07-17"/>
+    <cosponsor thomas_id="02118" joined="2013-07-17"/>
+    <cosponsor thomas_id="00944" joined="2013-07-17"/>
+    <cosponsor thomas_id="01994" joined="2013-07-11"/>
+    <cosponsor thomas_id="02009" joined="2013-06-27"/>
+    <cosponsor thomas_id="01997" joined="2013-06-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-25" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Conflicts and wars"/>
+    <term name="Congressional oversight"/>
+    <term name="Middle East"/>
+    <term name="Military assistance, sales, and agreements"/>
+    <term name="Military operations and strategy"/>
+    <term name="Syria"/>
+  </subjects>
+  <amendments/>
+  <summary>6/25/2013--Introduced.
+Congressional Accountability and Oversight in Syria Act - Prohibits assistance (except for humanitarian assistance) for the purpose, or which would have the effect, of promoting the capacity of any nation, group, organization, movement, or individual to conduct military or paramilitary operations in Syria, unless and until Congress expressly authorizes such assistance by law.</summary>
+</bill>

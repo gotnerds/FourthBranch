@@ -1,0 +1,39 @@
+<bill session="113" type="h" number="388" updated="2014-08-14T12:54:02-04:00">
+  <state datetime="2013-01-23">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-23"/>
+  </status>
+  <introduced datetime="2013-01-23"/>
+  <titles>
+    <title type="official" as="introduced">To designate the United States courthouse located at 300 West Second Street in Little Rock, Arkansas, as the "Morris Sheppard Arnold United States Courthouse".</title>
+  </titles>
+  <sponsor thomas_id="01990"/>
+  <cosponsors>
+    <cosponsor thomas_id="02098" joined="2013-01-23"/>
+    <cosponsor thomas_id="01989" joined="2013-01-23"/>
+    <cosponsor thomas_id="01991" joined="2013-01-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-23" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2013-01-24">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+    <committee subcommittee="Economic Development, Public Buildings and Emergency Management" code="HSPW13" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Arkansas"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Judges"/>
+  </subjects>
+  <amendments/>
+  <summary>1/23/2013--Introduced.
+Designates the U.S. courthouse located at 300 West Second Street in Little Rock, Arkansas, as the "Morris Sheppard Arnold United States Courthouse."</summary>
+</bill>

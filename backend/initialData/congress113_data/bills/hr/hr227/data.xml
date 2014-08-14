@@ -1,0 +1,59 @@
+<bill session="113" type="h" number="227" updated="2014-08-14T12:52:38-04:00">
+  <state datetime="2013-01-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-14"/>
+  </status>
+  <introduced datetime="2013-01-14"/>
+  <titles>
+    <title type="short" as="introduced">Buyback Our Safety Act</title>
+    <title type="official" as="introduced">To establish a gun buyback grant program.</title>
+  </titles>
+  <sponsor thomas_id="01976"/>
+  <cosponsors>
+    <cosponsor thomas_id="01740" joined="2013-01-23"/>
+    <cosponsor thomas_id="01839" joined="2013-01-23"/>
+    <cosponsor thomas_id="02055" joined="2013-02-13"/>
+    <cosponsor thomas_id="01959" joined="2013-01-14"/>
+    <cosponsor thomas_id="01836" joined="2013-02-06"/>
+    <cosponsor thomas_id="01973" joined="2013-04-11"/>
+    <cosponsor thomas_id="00478" joined="2013-02-13"/>
+    <cosponsor thomas_id="00511" joined="2013-02-13"/>
+    <cosponsor thomas_id="01580" joined="2013-01-22"/>
+    <cosponsor thomas_id="01501" joined="2013-01-22"/>
+    <cosponsor thomas_id="00868" joined="2013-01-22"/>
+    <cosponsor thomas_id="01967" joined="2013-01-14"/>
+    <cosponsor thomas_id="00997" joined="2013-02-13"/>
+    <cosponsor thomas_id="02109" joined="2013-10-30"/>
+    <cosponsor thomas_id="01798" joined="2013-01-22"/>
+    <cosponsor thomas_id="01861" joined="2013-02-26"/>
+    <cosponsor thomas_id="01528" joined="2013-02-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-14" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-01-25">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, And Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Congressional oversight"/>
+    <term name="Crime prevention"/>
+    <term name="Firearms and explosives"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Violent crime"/>
+  </subjects>
+  <amendments/>
+  <summary>1/14/2013--Introduced.
+Buyback Our Safety Act - Directs the Assistant Attorney General for the Office of Justice Programs of the Department of Justice (DOJ) to establish a gun buyback program under which the Assistant Attorney General may make grants to assist in funding gun buyback programs carried out by state, local, and Indian tribal law enforcement agencies.
+
+Conditions such a grant on the law enforcement agency providing assurances that: (1) it will adequately advertise the program to the public, (2) such program will be administered by law enforcement personnel, (3) all guns received will remain in the possession of law enforcement personnel, (4) adequate safeguards will be established and followed to prevent fraud, (5) the agency will have in place a process to test on site a gun purchased before payment is provided, and (6) an adequate process will be in place to destroy all guns received. Requires the agency to certify that it will match all federal funds provided with an equal amount of cash or in-kind goods or services from other non-federal sources.
+
+Directs the Assistant Attorney General to enter into an arrangement with the National Academy of Sciences to: (1) develop standards for identifying, and to identify, guns that are the most likely to be used in violent crimes; and (2) establish a pricing scale for purchasing such guns through gun buyback programs. Authorizes the Assistant Attorney General to waive all or part of the matching funds requirement for a program that provides for obtaining only such guns.</summary>
+</bill>

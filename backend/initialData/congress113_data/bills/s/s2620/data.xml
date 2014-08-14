@@ -1,0 +1,26 @@
+<bill session="113" type="s" number="2620" updated="2014-08-14T14:07:08-04:00">
+  <state datetime="2014-07-17">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-17"/>
+  </status>
+  <introduced datetime="2014-07-17"/>
+  <titles>
+    <title type="short" as="introduced">Grid Reliability Act of 2014</title>
+    <title type="official" as="introduced">A bill to amend the Federal Power Act to improve the reliability of the electric transmission grid, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01820"/>
+  <cosponsors>
+    <cosponsor thomas_id="01464" joined="2014-07-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-17" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

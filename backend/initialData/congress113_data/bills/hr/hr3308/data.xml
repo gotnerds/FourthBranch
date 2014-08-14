@@ -1,0 +1,186 @@
+<bill session="113" type="h" number="3308" updated="2014-08-14T13:19:37-04:00">
+  <state datetime="2014-02-26T12:39:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-02-26T12:39:00-05:00"/>
+  </status>
+  <introduced datetime="2013-10-22"/>
+  <titles>
+    <title type="short" as="introduced">Taxpayer Transparency Act of 2013</title>
+    <title type="short" as="reported to house">Taxpayer Transparency Act of 2014</title>
+    <title type="short" as="passed house">Taxpayer Transparency Act of 2014</title>
+    <title type="official" as="introduced">To require a Federal agency to include language in certain educational and advertising materials indicating that such materials are produced and disseminated at taxpayer expense.</title>
+  </titles>
+  <sponsor thomas_id="02033"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2013-10-30"/>
+    <cosponsor thomas_id="01858" joined="2013-10-28"/>
+    <cosponsor thomas_id="00038" joined="2013-10-30"/>
+    <cosponsor thomas_id="02054" joined="2013-10-28"/>
+    <cosponsor thomas_id="00062" joined="2013-10-30"/>
+    <cosponsor thomas_id="02135" joined="2013-12-03"/>
+    <cosponsor thomas_id="01838" joined="2013-10-30"/>
+    <cosponsor thomas_id="02063" joined="2013-10-28"/>
+    <cosponsor thomas_id="01748" joined="2013-10-28"/>
+    <cosponsor thomas_id="01468" joined="2013-10-28"/>
+    <cosponsor thomas_id="02129" joined="2013-10-28"/>
+    <cosponsor thomas_id="01840" joined="2013-10-30"/>
+    <cosponsor thomas_id="00165" joined="2013-10-30"/>
+    <cosponsor thomas_id="00186" joined="2013-10-28"/>
+    <cosponsor thomas_id="01956" joined="2013-10-30"/>
+    <cosponsor thomas_id="00211" joined="2013-10-28"/>
+    <cosponsor thomas_id="01742" joined="2013-10-28"/>
+    <cosponsor thomas_id="02151" joined="2013-10-28"/>
+    <cosponsor thomas_id="01805" joined="2013-10-28"/>
+    <cosponsor thomas_id="02103" joined="2013-10-28"/>
+    <cosponsor thomas_id="01989" joined="2013-11-12"/>
+    <cosponsor thomas_id="01670" joined="2013-10-28"/>
+    <cosponsor thomas_id="02126" joined="2013-10-28"/>
+    <cosponsor thomas_id="01995" joined="2013-10-28"/>
+    <cosponsor thomas_id="01799" joined="2013-10-30"/>
+    <cosponsor thomas_id="01717" joined="2013-10-30"/>
+    <cosponsor thomas_id="02072" joined="2013-10-28"/>
+    <cosponsor thomas_id="02057" joined="2013-10-28"/>
+    <cosponsor thomas_id="00322" joined="2013-10-28"/>
+    <cosponsor thomas_id="02036" joined="2013-10-30"/>
+    <cosponsor thomas_id="02067" joined="2013-10-28"/>
+    <cosponsor thomas_id="02064" joined="2013-10-30"/>
+    <cosponsor thomas_id="02061" joined="2013-10-28"/>
+    <cosponsor thomas_id="01924" joined="2013-10-28"/>
+    <cosponsor thomas_id="02065" joined="2013-10-30"/>
+    <cosponsor thomas_id="01683" joined="2013-10-28"/>
+    <cosponsor thomas_id="01737" joined="2013-10-28"/>
+    <cosponsor thomas_id="01743" joined="2013-10-28"/>
+    <cosponsor thomas_id="02043" joined="2013-10-30"/>
+    <cosponsor thomas_id="01720" joined="2013-10-30"/>
+    <cosponsor thomas_id="01992" joined="2014-02-11"/>
+    <cosponsor thomas_id="02058" joined="2013-10-30"/>
+    <cosponsor thomas_id="01487" joined="2013-10-28"/>
+    <cosponsor thomas_id="01656" joined="2013-10-28"/>
+    <cosponsor thomas_id="01990" joined="2013-10-28"/>
+    <cosponsor thomas_id="01922" joined="2013-10-30"/>
+    <cosponsor thomas_id="00484" joined="2013-10-28"/>
+    <cosponsor thomas_id="02026" joined="2013-10-30"/>
+    <cosponsor thomas_id="02032" joined="2013-10-28"/>
+    <cosponsor thomas_id="01749" joined="2013-10-28"/>
+    <cosponsor thomas_id="02143" joined="2013-10-28"/>
+    <cosponsor thomas_id="02015" joined="2013-10-28"/>
+    <cosponsor thomas_id="01909" joined="2013-10-28"/>
+    <cosponsor thomas_id="02046" joined="2013-10-28"/>
+    <cosponsor thomas_id="00603" joined="2013-10-28"/>
+    <cosponsor thomas_id="01868" joined="2013-10-30"/>
+    <cosponsor thomas_id="02051" joined="2013-10-28"/>
+    <cosponsor thomas_id="01733" joined="2013-11-12"/>
+    <cosponsor thomas_id="02100" joined="2013-10-30"/>
+    <cosponsor thomas_id="01834" joined="2013-10-28"/>
+    <cosponsor thomas_id="01936" joined="2013-10-30"/>
+    <cosponsor thomas_id="02050" joined="2013-10-28"/>
+    <cosponsor thomas_id="01885" joined="2013-11-12"/>
+    <cosponsor thomas_id="00711" joined="2013-10-28"/>
+    <cosponsor thomas_id="01931" joined="2013-10-30"/>
+    <cosponsor thomas_id="01960" joined="2013-10-28"/>
+    <cosponsor thomas_id="01806" joined="2013-10-30"/>
+    <cosponsor thomas_id="01908" joined="2013-10-28"/>
+    <cosponsor thomas_id="01792" joined="2013-10-28"/>
+    <cosponsor thomas_id="00778" joined="2013-10-30"/>
+    <cosponsor thomas_id="01809" joined="2013-10-30"/>
+    <cosponsor thomas_id="00800" joined="2013-10-30"/>
+    <cosponsor thomas_id="01731" joined="2013-10-28"/>
+    <cosponsor thomas_id="01584" joined="2013-10-30"/>
+    <cosponsor thomas_id="01685" joined="2013-10-28"/>
+    <cosponsor thomas_id="02156" joined="2013-10-30"/>
+    <cosponsor thomas_id="01758" joined="2013-10-28"/>
+    <cosponsor thomas_id="01930" joined="2013-10-28"/>
+    <cosponsor thomas_id="02157" joined="2013-10-28"/>
+    <cosponsor thomas_id="00912" joined="2013-10-28"/>
+    <cosponsor thomas_id="02141" joined="2013-11-19"/>
+    <cosponsor thomas_id="01514" joined="2013-10-28"/>
+    <cosponsor thomas_id="01802" joined="2013-10-30"/>
+    <cosponsor thomas_id="01778" joined="2013-10-28"/>
+    <cosponsor thomas_id="02118" joined="2013-10-30"/>
+    <cosponsor thomas_id="02073" joined="2013-10-28"/>
+    <cosponsor thomas_id="00979" joined="2013-10-28"/>
+    <cosponsor thomas_id="02017" joined="2013-10-30"/>
+    <cosponsor thomas_id="01916" joined="2013-10-28"/>
+    <cosponsor thomas_id="00985" joined="2013-10-30"/>
+    <cosponsor thomas_id="01848" joined="2013-10-28"/>
+    <cosponsor thomas_id="02158" joined="2013-10-28"/>
+    <cosponsor thomas_id="01920" joined="2013-10-30"/>
+    <cosponsor thomas_id="01041" joined="2013-10-28"/>
+    <cosponsor thomas_id="01071" joined="2013-10-28"/>
+    <cosponsor thomas_id="02191" joined="2013-10-28"/>
+    <cosponsor thomas_id="01114" joined="2013-10-28"/>
+    <cosponsor thomas_id="01981" joined="2013-10-28"/>
+    <cosponsor thomas_id="01566" joined="2013-10-28"/>
+    <cosponsor thomas_id="01952" joined="2013-10-28"/>
+    <cosponsor thomas_id="01741" joined="2013-10-28"/>
+    <cosponsor thomas_id="01177" joined="2013-10-28"/>
+    <cosponsor thomas_id="02137" joined="2013-10-30"/>
+    <cosponsor thomas_id="01855" joined="2013-10-28"/>
+    <cosponsor thomas_id="02128" joined="2013-10-28"/>
+    <cosponsor thomas_id="02161" joined="2013-10-28"/>
+    <cosponsor thomas_id="01779" joined="2013-10-22"/>
+    <cosponsor thomas_id="02165" joined="2013-10-28"/>
+    <cosponsor thomas_id="01886" joined="2013-10-28"/>
+    <cosponsor thomas_id="01991" joined="2013-10-28"/>
+    <cosponsor thomas_id="02008" joined="2013-10-28"/>
+    <cosponsor thomas_id="02115" joined="2013-10-28"/>
+    <cosponsor thomas_id="01256" joined="2013-10-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-10-22" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2014-02-11">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-02-11" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2014-02-25T14:25:00-05:00">
+      <text>Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 113-358.</text>
+    </action>
+    <calendar datetime="2014-02-25T14:25:00-05:00" calendar="Union" number="266">
+      <text>Placed on the Union Calendar, Calendar No. 266.</text>
+    </calendar>
+    <action datetime="2014-02-26T12:25:00-05:00">
+      <text>Mr. Farenthold moved to suspend the rules and pass the bill, as amended.</text>
+      <reference ref="CR H1947" label="consideration"/>
+    </action>
+    <action datetime="2014-02-26T12:25:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H1947-1950" label="consideration"/>
+    </action>
+    <action datetime="2014-02-26T12:25:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3308.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-02-26T12:39:00-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H1947-1948" label="text"/>
+    </vote>
+    <action datetime="2014-02-27">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup, Reporting"/>
+    <committee subcommittee="" code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1921"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Government information and archives"/>
+    <term name="Marketing and advertising"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/2014--Passed House amended.
+Taxpayer Transparency Act of 2014 - Requires each communication funded by a federal agency that is an advertisement, or that provides information about any federal program, benefit, or service to clearly state: (1) in the case of a printed communication, including mass mailings, signs, and billboards, that the communication is printed or published at taxpayer expense; and (2) in the case of a communication transmitted through radio, television, or the Internet, that the communication is produced or disseminated at taxpayer expense. Requires such notification to state that&#160;a communication is provided by the U.S. government, rather than at taxpayer expense,&#160;if the communication is funded entirely by user fees or by other sources that do not include federal funds.
+
+Requires any such printed communication: (1) to be of sufficient size to be clearly readable; and (2) to the extent feasible, to be contained in a printed box set apart from the other contents of the communication and to be printed with a reasonable degree of color contrast between the background and the printed statement. Sets forth similar requirements for audio, video, and email communications.
+
+Requires the Director of the Office of Management and Budget (OMB) to develop and issue guidance on implementing the requirements of this Act.
+
+Prohibits judicial review of the compliance or noncompliance with any provision of this Act.</summary>
+</bill>

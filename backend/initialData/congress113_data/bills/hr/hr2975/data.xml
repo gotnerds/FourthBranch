@@ -1,0 +1,73 @@
+<bill session="113" type="h" number="2975" updated="2014-08-14T13:16:49-04:00">
+  <state datetime="2013-08-01">REFERRED</state>
+  <status>
+    <introduced datetime="2013-08-01"/>
+  </status>
+  <introduced datetime="2013-08-01"/>
+  <titles>
+    <title type="short" as="introduced">Alzheimer's Caregiver Support Act</title>
+    <title type="official" as="introduced">To amend the Public Health Service Act to authorize grants for training and support services for Alzheimer's patients and their families.</title>
+  </titles>
+  <sponsor thomas_id="01205"/>
+  <cosponsors>
+    <cosponsor thomas_id="01723" joined="2013-08-01"/>
+    <cosponsor thomas_id="00132" joined="2013-08-01"/>
+    <cosponsor thomas_id="01889" joined="2013-08-01"/>
+    <cosponsor thomas_id="01474" joined="2013-08-01"/>
+    <cosponsor thomas_id="01864" joined="2013-08-01"/>
+    <cosponsor thomas_id="01878" joined="2013-08-02"/>
+    <cosponsor thomas_id="01959" joined="2013-08-01"/>
+    <cosponsor thomas_id="00368" joined="2013-08-01"/>
+    <cosponsor thomas_id="00371" joined="2014-07-11"/>
+    <cosponsor thomas_id="01973" joined="2014-05-20"/>
+    <cosponsor thomas_id="01803" joined="2013-12-16"/>
+    <cosponsor thomas_id="01708" joined="2013-08-01"/>
+    <cosponsor thomas_id="00511" joined="2013-08-01"/>
+    <cosponsor thomas_id="01490" joined="2013-08-01"/>
+    <cosponsor thomas_id="00588" joined="2013-08-01"/>
+    <cosponsor thomas_id="02025" joined="2013-08-01"/>
+    <cosponsor thomas_id="02145" joined="2013-08-02"/>
+    <cosponsor thomas_id="01501" joined="2013-08-01"/>
+    <cosponsor thomas_id="01686" joined="2013-08-01"/>
+    <cosponsor thomas_id="01653" joined="2013-08-01"/>
+    <cosponsor thomas_id="01504" joined="2013-08-02"/>
+    <cosponsor thomas_id="01506" joined="2013-09-26"/>
+    <cosponsor thomas_id="00868" joined="2013-08-01"/>
+    <cosponsor thomas_id="02097" joined="2013-08-01"/>
+    <cosponsor thomas_id="01910" joined="2013-08-01"/>
+    <cosponsor thomas_id="00944" joined="2013-08-01"/>
+    <cosponsor thomas_id="01756" joined="2013-08-01"/>
+    <cosponsor thomas_id="01757" joined="2013-08-01"/>
+    <cosponsor thomas_id="01522" joined="2013-08-01"/>
+    <cosponsor thomas_id="01588" joined="2013-08-01"/>
+    <cosponsor thomas_id="01722" joined="2013-08-01"/>
+    <cosponsor thomas_id="01988" joined="2013-08-01"/>
+    <cosponsor thomas_id="01071" joined="2013-08-01"/>
+    <cosponsor thomas_id="01942" joined="2014-02-25"/>
+    <cosponsor thomas_id="01729" joined="2013-08-01"/>
+    <cosponsor thomas_id="02004" joined="2013-08-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-08-01" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-08-02">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Aging"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Neurological disorders"/>
+  </subjects>
+  <amendments/>
+  <summary>8/1/2013--Introduced.
+Alzheimer's Caregiver Support Act - Amends the Public Health Service Act to authorize the Secretary of Health and Human Services (HHS) to make grants to public and nonprofit private health care providers to expand training and support services for families and caregivers of patients with Alzheimer's disease.</summary>
+</bill>

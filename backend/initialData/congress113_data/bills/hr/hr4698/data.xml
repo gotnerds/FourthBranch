@@ -1,0 +1,93 @@
+<bill session="113" type="h" number="4698" updated="2014-08-14T13:31:29-04:00">
+  <state datetime="2014-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-21"/>
+  </status>
+  <introduced datetime="2014-05-21"/>
+  <titles>
+    <title type="short" as="introduced">Every Child is a Blessing Act of 2014</title>
+    <title type="official" as="introduced">To prohibit recovery of damages in certain wrongful birth and wrongful life civil actions, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02035"/>
+  <cosponsors>
+    <cosponsor thomas_id="01858" joined="2014-05-21"/>
+    <cosponsor thomas_id="00062" joined="2014-05-21"/>
+    <cosponsor thomas_id="02027" joined="2014-05-22"/>
+    <cosponsor thomas_id="02135" joined="2014-06-09"/>
+    <cosponsor thomas_id="02063" joined="2014-05-21"/>
+    <cosponsor thomas_id="01748" joined="2014-05-23"/>
+    <cosponsor thomas_id="01468" joined="2014-05-21"/>
+    <cosponsor thomas_id="02155" joined="2014-06-09"/>
+    <cosponsor thomas_id="01882" joined="2014-07-16"/>
+    <cosponsor thomas_id="00186" joined="2014-05-21"/>
+    <cosponsor thomas_id="01805" joined="2014-05-21"/>
+    <cosponsor thomas_id="02072" joined="2014-05-22"/>
+    <cosponsor thomas_id="01924" joined="2014-05-21"/>
+    <cosponsor thomas_id="02065" joined="2014-05-21"/>
+    <cosponsor thomas_id="01707" joined="2014-05-21"/>
+    <cosponsor thomas_id="02049" joined="2014-06-09"/>
+    <cosponsor thomas_id="02058" joined="2014-05-21"/>
+    <cosponsor thomas_id="01933" joined="2014-05-21"/>
+    <cosponsor thomas_id="02026" joined="2014-05-21"/>
+    <cosponsor thomas_id="02032" joined="2014-06-09"/>
+    <cosponsor thomas_id="02020" joined="2014-05-21"/>
+    <cosponsor thomas_id="02028" joined="2014-05-21"/>
+    <cosponsor thomas_id="00612" joined="2014-05-21"/>
+    <cosponsor thomas_id="01868" joined="2014-06-09"/>
+    <cosponsor thomas_id="02051" joined="2014-05-21"/>
+    <cosponsor thomas_id="01834" joined="2014-05-21"/>
+    <cosponsor thomas_id="01781" joined="2014-05-21"/>
+    <cosponsor thomas_id="02033" joined="2014-05-21"/>
+    <cosponsor thomas_id="02053" joined="2014-05-21"/>
+    <cosponsor thomas_id="01792" joined="2014-05-21"/>
+    <cosponsor thomas_id="01505" joined="2014-06-09"/>
+    <cosponsor thomas_id="00778" joined="2014-06-09"/>
+    <cosponsor thomas_id="00800" joined="2014-06-24"/>
+    <cosponsor thomas_id="01685" joined="2014-05-21"/>
+    <cosponsor thomas_id="02156" joined="2014-06-10"/>
+    <cosponsor thomas_id="01758" joined="2014-07-15"/>
+    <cosponsor thomas_id="02034" joined="2014-05-21"/>
+    <cosponsor thomas_id="01955" joined="2014-06-09"/>
+    <cosponsor thomas_id="01738" joined="2014-05-22"/>
+    <cosponsor thomas_id="02141" joined="2014-05-21"/>
+    <cosponsor thomas_id="01514" joined="2014-05-21"/>
+    <cosponsor thomas_id="02022" joined="2014-05-21"/>
+    <cosponsor thomas_id="01704" joined="2014-05-23"/>
+    <cosponsor thomas_id="02158" joined="2014-06-09"/>
+    <cosponsor thomas_id="01892" joined="2014-05-21"/>
+    <cosponsor thomas_id="02009" joined="2014-06-24"/>
+    <cosponsor thomas_id="01525" joined="2014-06-09"/>
+    <cosponsor thomas_id="01071" joined="2014-05-21"/>
+    <cosponsor thomas_id="01114" joined="2014-05-21"/>
+    <cosponsor thomas_id="01981" joined="2014-05-21"/>
+    <cosponsor thomas_id="02161" joined="2014-05-21"/>
+    <cosponsor thomas_id="02008" joined="2014-05-21"/>
+    <cosponsor thomas_id="02021" joined="2014-06-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-21" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2014-07-21">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Constitution and Civil Justice" code="HSJU10" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+    <term name="Abortion"/>
+    <term name="Civil actions and liability"/>
+    <term name="Sex and reproductive health"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2014--Introduced.
+Every Child is a Blessing Act of 2014 - Prohibits recovery of damages in certain civil actions based on a claim that, but for the conduct of the defendant, a child, once conceived, would not or should not have been born.
+
+Makes such prohibition applicable to claims based on a child's disability, defect, abnormality, race, sex, or other inborn characteristic.
+
+Bars such prohibition from being construed to: (1) provide a defense against charges of intentional misrepresentation in state proceedings regulating the professional practices of health care providers and practitioners; (2) provide a defense in any criminal action, including cases of rape or incest; or (3) limit damages in cases where the conduct of the defendant caused personal injury or death to the child or gestational mother.</summary>
+</bill>

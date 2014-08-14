@@ -1,0 +1,75 @@
+<bill session="113" type="h" number="4814" updated="2014-08-14T13:32:30-04:00">
+  <state datetime="2014-06-09">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-09"/>
+  </status>
+  <introduced datetime="2014-06-09"/>
+  <titles>
+    <title type="short" as="introduced">Chronic Kidney Disease Improvement in Research and Treatment Act of 2014</title>
+    <title type="official" as="introduced">To improve the understanding of, and promote access to treatment for, chronic kidney disease, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02053"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2014-07-08"/>
+    <cosponsor thomas_id="00091" joined="2014-07-08"/>
+    <cosponsor thomas_id="00132" joined="2014-07-25"/>
+    <cosponsor thomas_id="02041" joined="2014-07-25"/>
+    <cosponsor thomas_id="01634" joined="2014-07-25"/>
+    <cosponsor thomas_id="01907" joined="2014-07-08"/>
+    <cosponsor thomas_id="00688" joined="2014-06-09"/>
+    <cosponsor thomas_id="01846" joined="2014-07-25"/>
+    <cosponsor thomas_id="02146" joined="2014-07-08"/>
+    <cosponsor thomas_id="01939" joined="2014-07-10"/>
+    <cosponsor thomas_id="00854" joined="2014-07-08"/>
+    <cosponsor thomas_id="00868" joined="2014-07-08"/>
+    <cosponsor thomas_id="00944" joined="2014-07-25"/>
+    <cosponsor thomas_id="02073" joined="2014-07-10"/>
+    <cosponsor thomas_id="01848" joined="2014-07-25"/>
+    <cosponsor thomas_id="01003" joined="2014-07-08"/>
+    <cosponsor thomas_id="01635" joined="2014-07-25"/>
+    <cosponsor thomas_id="02124" joined="2014-07-10"/>
+    <cosponsor thomas_id="01722" joined="2014-07-25"/>
+    <cosponsor thomas_id="01952" joined="2014-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-09" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-06-09">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2014-06-09">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2014-06-13">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Advisory bodies"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Digestive and metabolic diseases"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health information and medical records"/>
+    <term name="Health personnel"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Home and outpatient care"/>
+    <term name="Medical education"/>
+    <term name="Medical research"/>
+    <term name="Medicare"/>
+    <term name="Minority health"/>
+    <term name="Research administration and funding"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+</bill>

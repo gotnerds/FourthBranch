@@ -1,0 +1,45 @@
+<bill session="113" type="h" number="5036" updated="2014-08-14T13:34:29-04:00">
+  <state datetime="2014-07-10">REPORTED</state>
+  <status>
+    <unknown datetime="2014-07-10"/>
+  </status>
+  <introduced datetime="2014-07-09"/>
+  <titles>
+    <title type="short" as="introduced">Satellite Television Access Reauthorization Act of 2014</title>
+    <title type="short" as="reported to house">Satellite Television Access Reauthorization Act of 2014</title>
+    <title type="official" as="introduced">To amend title 17, United States Code, to extend expiring provisions of the Satellite Television Extension and Localism Act of 2010.</title>
+  </titles>
+  <sponsor thomas_id="00211"/>
+  <cosponsors>
+    <cosponsor thomas_id="00446" joined="2014-07-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-09" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2014-07-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-07-10" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+    <action datetime="2014-07-22T14:20:00-04:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 113-544.</text>
+    </action>
+    <calendar datetime="2014-07-22T14:20:00-04:00" calendar="Union" number="410">
+      <text>Placed on the Union Calendar, Calendar No. 410.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="4572"/>
+    <bill type="s" session="113" relation="unknown" number="2454"/>
+    <bill type="s" session="113" relation="unknown" number="2454"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+  <summary>7/22/2014--Reported to House without amendment.
+Satellite Television Access Reauthorization Act of 2014 - Amends federal copyright law, as amended by the Satellite Television Extension and Localism Act of 2010 (STELA), to extend until December 31, 2019, the statutory license under which satellite carriers retransmit distant television broadcast stations to viewers who are unable to receive signals for such stations in their local market. (Currently, the statutory licensing authority for such satellite retransmissions is scheduled to expire on December 31, 2014.)</summary>
+</bill>

@@ -1,0 +1,47 @@
+<bill session="113" type="h" number="4926" updated="2014-08-14T13:33:30-04:00">
+  <state datetime="2014-06-20">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-20"/>
+  </status>
+  <introduced datetime="2014-06-20"/>
+  <titles>
+    <title type="official" as="introduced">To designate the "James L. Oberstar Memorial Highway" and the "James L. Oberstar National Scenic Byway" in the State of Minnesota.</title>
+  </titles>
+  <sponsor thomas_id="00867"/>
+  <cosponsors>
+    <cosponsor thomas_id="01858" joined="2014-06-20"/>
+    <cosponsor thomas_id="01857" joined="2014-06-20"/>
+    <cosponsor thomas_id="01733" joined="2014-06-20"/>
+    <cosponsor thomas_id="01653" joined="2014-06-20"/>
+    <cosponsor thomas_id="01930" joined="2014-06-20"/>
+    <cosponsor thomas_id="00910" joined="2014-06-20"/>
+    <cosponsor thomas_id="01856" joined="2014-06-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-20" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2014-06-23">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Highways and Transit" code="HSPW12" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="2522"/>
+    <bill type="s" session="113" relation="unknown" number="2522"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Congressional tributes"/>
+    <term name="House of Representatives"/>
+    <term name="Members of Congress"/>
+    <term name="Minnesota"/>
+    <term name="Roads and highways"/>
+  </subjects>
+  <amendments/>
+  <summary>6/20/2014--Introduced.
+Designates: (1) the segment of Interstate Route 35 between milepost 133 at Forest Lake, Minnesota, and milepost 259 at Duluth, Minnesota, as the "James L. Oberstar Memorial Highway"; and (2) the segment of U.S. Route 61 between milepost 0 at Duluth, Minnesota, and milepost 150 at Grand Portage, Minnesota, as the "James L. Oberstar National Scenic Byway."</summary>
+</bill>

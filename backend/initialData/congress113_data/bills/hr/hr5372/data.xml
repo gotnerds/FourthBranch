@@ -1,0 +1,28 @@
+<bill session="113" type="h" number="5372" updated="2014-08-14T13:37:20-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide a tax credit to Patriot employers, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01588"/>
+  <cosponsors>
+    <cosponsor thomas_id="01857" joined="2014-08-01"/>
+    <cosponsor thomas_id="01708" joined="2014-07-31"/>
+    <cosponsor thomas_id="02190" joined="2014-07-31"/>
+    <cosponsor thomas_id="01501" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

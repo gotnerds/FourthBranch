@@ -1,0 +1,60 @@
+<bill session="113" type="s" number="742" updated="2014-08-14T13:51:04-04:00">
+  <state datetime="2013-04-16">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-16"/>
+  </status>
+  <introduced datetime="2013-04-16"/>
+  <titles>
+    <title type="short" as="introduced">Promotion and Expansion of Private Employee Ownership Act of 2013</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 and the Small Business Act to expand the availability of employee stock ownership plans in S corporations, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00174"/>
+  <cosponsors>
+    <cosponsor thomas_id="01558" joined="2014-01-16"/>
+    <cosponsor thomas_id="01464" joined="2013-04-16"/>
+    <cosponsor thomas_id="00136" joined="2013-04-23"/>
+    <cosponsor thomas_id="01541" joined="2013-05-09"/>
+    <cosponsor thomas_id="00250" joined="2013-04-22"/>
+    <cosponsor thomas_id="01969" joined="2013-09-24"/>
+    <cosponsor thomas_id="02079" joined="2014-06-26"/>
+    <cosponsor thomas_id="00604" joined="2013-05-08"/>
+    <cosponsor thomas_id="01826" joined="2013-04-16"/>
+    <cosponsor thomas_id="01546" joined="2013-04-16"/>
+    <cosponsor thomas_id="01383" joined="2013-05-06"/>
+    <cosponsor thomas_id="01507" joined="2013-06-18"/>
+    <cosponsor thomas_id="01896" joined="2013-07-10"/>
+    <cosponsor thomas_id="00968" joined="2013-04-16"/>
+    <cosponsor thomas_id="01010" joined="2013-05-20"/>
+    <cosponsor thomas_id="01531" joined="2013-04-16"/>
+    <cosponsor thomas_id="01829" joined="2013-05-20"/>
+    <cosponsor thomas_id="01534" joined="2013-04-16"/>
+    <cosponsor thomas_id="01823" joined="2013-06-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="4837"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Capital gains tax"/>
+    <term name="Department of the Treasury"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Securities"/>
+    <term name="Small business"/>
+  </subjects>
+  <amendments/>
+  <summary>4/16/2013--Introduced.
+Promotion and Expansion of Private Employee Ownership Act of 2013 - Amends the Internal Revenue Code to extend to all domestic corporations, including S corporations, provisions allowing deferral of tax on gain from the sale of employer securities to an S corporation-sponsored employer stock ownership plan (ESOP).
+
+Directs the Secretary of the Treasury to establish the S Corporation Employee Ownership Assistance Office to foster increased employee ownership of S corporations.
+
+Amends the Small Business Act to define "ESOP business concern" and allow such a concern to continue to qualify for loans, preferences, and other programs under such Act.</summary>
+</bill>

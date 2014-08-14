@@ -1,0 +1,92 @@
+<bill session="113" type="h" number="1748" updated="2014-08-14T13:05:37-04:00">
+  <state datetime="2013-04-25">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-25"/>
+  </status>
+  <introduced datetime="2013-04-25"/>
+  <titles>
+    <title type="short" as="introduced">America Votes Act of 2013</title>
+    <title type="official" as="introduced">To amend the Help America Vote Act of 2002 to permit an individual who is subject to a requirement to present identification as a condition of voting in an election for Federal office to meet such requirement by presenting a sworn written statement attesting to the individual's identification, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01675"/>
+  <cosponsors>
+    <cosponsor thomas_id="02153" joined="2013-07-11"/>
+    <cosponsor thomas_id="00070" joined="2013-04-25"/>
+    <cosponsor thomas_id="00091" joined="2013-04-25"/>
+    <cosponsor thomas_id="00099" joined="2013-04-25"/>
+    <cosponsor thomas_id="01723" joined="2013-04-25"/>
+    <cosponsor thomas_id="00132" joined="2013-04-25"/>
+    <cosponsor thomas_id="01761" joined="2013-04-25"/>
+    <cosponsor thomas_id="02107" joined="2013-04-25"/>
+    <cosponsor thomas_id="01999" joined="2013-09-11"/>
+    <cosponsor thomas_id="01889" joined="2013-04-25"/>
+    <cosponsor thomas_id="02159" joined="2013-07-23"/>
+    <cosponsor thomas_id="01970" joined="2013-04-25"/>
+    <cosponsor thomas_id="01654" joined="2013-04-25"/>
+    <cosponsor thomas_id="01878" joined="2013-04-25"/>
+    <cosponsor thomas_id="00256" joined="2013-04-25"/>
+    <cosponsor thomas_id="01479" joined="2013-04-25"/>
+    <cosponsor thomas_id="02096" joined="2013-04-25"/>
+    <cosponsor thomas_id="01976" joined="2013-04-25"/>
+    <cosponsor thomas_id="00299" joined="2013-04-26"/>
+    <cosponsor thomas_id="01857" joined="2013-04-25"/>
+    <cosponsor thomas_id="02125" joined="2013-07-18"/>
+    <cosponsor thomas_id="00368" joined="2013-04-25"/>
+    <cosponsor thomas_id="01914" joined="2013-05-15"/>
+    <cosponsor thomas_id="01708" joined="2013-04-25"/>
+    <cosponsor thomas_id="02089" joined="2013-07-09"/>
+    <cosponsor thomas_id="00511" joined="2013-05-03"/>
+    <cosponsor thomas_id="01634" joined="2013-04-25"/>
+    <cosponsor thomas_id="02101" joined="2013-05-07"/>
+    <cosponsor thomas_id="00588" joined="2013-07-09"/>
+    <cosponsor thomas_id="01843" joined="2013-04-25"/>
+    <cosponsor thomas_id="01501" joined="2013-04-25"/>
+    <cosponsor thomas_id="00688" joined="2013-04-25"/>
+    <cosponsor thomas_id="01686" joined="2013-04-25"/>
+    <cosponsor thomas_id="00766" joined="2013-04-25"/>
+    <cosponsor thomas_id="01504" joined="2013-07-10"/>
+    <cosponsor thomas_id="01811" joined="2013-04-25"/>
+    <cosponsor thomas_id="00832" joined="2013-07-16"/>
+    <cosponsor thomas_id="00868" joined="2013-04-25"/>
+    <cosponsor thomas_id="01953" joined="2013-05-22"/>
+    <cosponsor thomas_id="00944" joined="2013-04-25"/>
+    <cosponsor thomas_id="01003" joined="2013-04-25"/>
+    <cosponsor thomas_id="01798" joined="2013-04-25"/>
+    <cosponsor thomas_id="01042" joined="2013-04-25"/>
+    <cosponsor thomas_id="01528" joined="2013-04-25"/>
+    <cosponsor thomas_id="01890" joined="2013-04-25"/>
+    <cosponsor thomas_id="02110" joined="2013-05-21"/>
+    <cosponsor thomas_id="01942" joined="2013-04-25"/>
+    <cosponsor thomas_id="01884" joined="2014-01-07"/>
+    <cosponsor thomas_id="02166" joined="2013-09-11"/>
+    <cosponsor thomas_id="02004" joined="2013-04-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-25" state="REFERRED">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional elections"/>
+    <term name="Elections, voting, political campaign regulation"/>
+    <term name="Government information and archives"/>
+    <term name="State and local government operations"/>
+    <term name="Voting rights"/>
+  </subjects>
+  <amendments/>
+  <summary>4/25/2013--Introduced.
+America Votes Act of 2013 - Amends the Help America Vote Act of 2002 to permit an individual required to present identification as a condition for voting in a federal election to meet the requirement by presenting the appropriate state or local election official with a sworn written statement, signed by the individual under penalty of perjury, attesting to the individual's identification and that he or she is registered to vote in the election. Allows an individual desiring to vote by mail to submit such a statement with the ballot.
+
+Requires any state subject to this identification requirement to: (1) prepare a pre-printed version of the statement which includes a blank space for an individual to provide a name and signature, (2) make copies of the pre-printed version available at polling places for election officials to distribute to individuals who desire to vote in person, and (3) include a copy of the pre-printed version with each blank absentee or other ballot transmitted to an individual who desires to vote by mail.
+
+Prohibits a state from requiring an individual who presents or submits such a sworn written statement to cast a provisional ballot in the election.
+
+Excepts first-time voters registering by mail from application of this Act.
+
+Requires states requiring an individual to present identification as a condition of receiving and casting a ballot in a federal election to include the use of a sworn written statement in voting information posted at polling places.</summary>
+</bill>

@@ -1,0 +1,50 @@
+<bill session="113" type="h" number="4982" updated="2014-08-14T13:33:59-04:00">
+  <state datetime="2014-06-26">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-26"/>
+  </status>
+  <introduced datetime="2014-06-26"/>
+  <titles>
+    <title type="short" as="introduced">Simplifying the Application for Student Aid Act</title>
+    <title type="official" as="introduced">To simplify the application used for the estimation and determination of financial aid eligibility for postsecondary education.</title>
+  </titles>
+  <sponsor thomas_id="02018"/>
+  <cosponsors>
+    <cosponsor thomas_id="01740" joined="2014-06-26"/>
+    <cosponsor thomas_id="02129" joined="2014-07-09"/>
+    <cosponsor thomas_id="01676" joined="2014-07-14"/>
+    <cosponsor thomas_id="01922" joined="2014-07-09"/>
+    <cosponsor thomas_id="02071" joined="2014-07-09"/>
+    <cosponsor thomas_id="02051" joined="2014-06-26"/>
+    <cosponsor thomas_id="01733" joined="2014-06-26"/>
+    <cosponsor thomas_id="02130" joined="2014-07-09"/>
+    <cosponsor thomas_id="00808" joined="2014-06-26"/>
+    <cosponsor thomas_id="01910" joined="2014-06-26"/>
+    <cosponsor thomas_id="01954" joined="2014-07-09"/>
+    <cosponsor thomas_id="02017" joined="2014-07-09"/>
+    <cosponsor thomas_id="00998" joined="2014-06-26"/>
+    <cosponsor thomas_id="01952" joined="2014-07-09"/>
+    <cosponsor thomas_id="01535" joined="2014-06-26"/>
+    <cosponsor thomas_id="01855" joined="2014-07-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-26" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2340"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Higher education"/>
+    <term name="Student aid and college costs"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <summary>6/26/2014--Introduced.
+Simplifying the Application for Student Aid Act - Amends title IV (Student Assistance) of the Higher Education Act of 1965 to require the Secretary of Education to provide for the use of data from the second preceding tax year to carry out the simplification of the applications used in estimating and determining financial aid eligibility. Requires such simplification to include data sharing between the Internal Revenue Service (IRS) and the Department of Education, pursuant to taxpayer consent.</summary>
+</bill>

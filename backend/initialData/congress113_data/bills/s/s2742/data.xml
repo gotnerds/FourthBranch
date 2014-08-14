@@ -1,0 +1,27 @@
+<bill session="113" type="s" number="2742" updated="2014-08-14T14:08:09-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="short" as="introduced">Improving Access to Social Security Services Act</title>
+    <title type="official" as="introduced">A bill to provide for public notice and input prior to the closure, consolidation, or public access limitation of field or hearing offices of the Social Security Administration, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01036"/>
+  <cosponsors>
+    <cosponsor thomas_id="01898" joined="2014-07-31"/>
+    <cosponsor thomas_id="00859" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

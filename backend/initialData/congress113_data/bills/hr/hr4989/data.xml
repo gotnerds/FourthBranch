@@ -1,0 +1,67 @@
+<bill session="113" type="h" number="4989" updated="2014-08-14T13:34:03-04:00">
+  <state datetime="2014-06-26">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-26"/>
+  </status>
+  <introduced datetime="2014-06-26"/>
+  <titles>
+    <title type="short" as="introduced">Justina's Law</title>
+    <title type="official" as="introduced">To prohibit Federal funding of any treatment or research in which a ward of the State is subjected to greater than minimal risk to the individual's health with no or minimal prospect of direct benefit.</title>
+  </titles>
+  <sponsor thomas_id="01858"/>
+  <cosponsors>
+    <cosponsor thomas_id="01780" joined="2014-07-24"/>
+    <cosponsor thomas_id="01996" joined="2014-06-26"/>
+    <cosponsor thomas_id="01753" joined="2014-07-09"/>
+    <cosponsor thomas_id="01882" joined="2014-07-17"/>
+    <cosponsor thomas_id="02121" joined="2014-07-10"/>
+    <cosponsor thomas_id="02126" joined="2014-07-10"/>
+    <cosponsor thomas_id="01924" joined="2014-07-17"/>
+    <cosponsor thomas_id="01683" joined="2014-07-25"/>
+    <cosponsor thomas_id="01707" joined="2014-07-09"/>
+    <cosponsor thomas_id="01737" joined="2014-07-09"/>
+    <cosponsor thomas_id="01801" joined="2014-07-09"/>
+    <cosponsor thomas_id="00446" joined="2014-07-22"/>
+    <cosponsor thomas_id="02026" joined="2014-07-17"/>
+    <cosponsor thomas_id="02032" joined="2014-07-15"/>
+    <cosponsor thomas_id="02020" joined="2014-07-17"/>
+    <cosponsor thomas_id="01640" joined="2014-07-17"/>
+    <cosponsor thomas_id="01724" joined="2014-07-09"/>
+    <cosponsor thomas_id="02100" joined="2014-07-09"/>
+    <cosponsor thomas_id="01583" joined="2014-07-17"/>
+    <cosponsor thomas_id="01960" joined="2014-07-09"/>
+    <cosponsor thomas_id="02053" joined="2014-06-26"/>
+    <cosponsor thomas_id="00766" joined="2014-06-26"/>
+    <cosponsor thomas_id="01584" joined="2014-07-30"/>
+    <cosponsor thomas_id="01685" joined="2014-07-29"/>
+    <cosponsor thomas_id="01738" joined="2014-07-10"/>
+    <cosponsor thomas_id="02022" joined="2014-07-15"/>
+    <cosponsor thomas_id="01915" joined="2014-07-17"/>
+    <cosponsor thomas_id="02073" joined="2014-07-24"/>
+    <cosponsor thomas_id="01954" joined="2014-07-17"/>
+    <cosponsor thomas_id="02152" joined="2014-07-17"/>
+    <cosponsor thomas_id="01688" joined="2014-07-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-26" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Child health"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Medical ethics"/>
+    <term name="Medical research"/>
+    <term name="Research administration and funding"/>
+    <term name="Separation, divorce, custody, support"/>
+  </subjects>
+  <amendments/>
+  <summary>6/26/2014--Introduced.
+Justina's Law - Prohibits the use of federal funds to conduct or support treatment or research involving a ward of the state in which the individual's health is subjected to greater than minimal risk with no or minimal prospect of direct benefit.</summary>
+</bill>

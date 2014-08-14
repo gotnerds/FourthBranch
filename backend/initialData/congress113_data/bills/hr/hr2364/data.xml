@@ -1,0 +1,68 @@
+<bill session="113" type="h" number="2364" updated="2014-08-14T13:11:33-04:00">
+  <state datetime="2013-06-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-13"/>
+  </status>
+  <introduced datetime="2013-06-13"/>
+  <titles>
+    <title type="short" as="introduced">Freedom from Discrimination in Credit Act of 2013</title>
+    <title type="official" as="introduced">To amend the Equal Credit Opportunity Act to prohibit discrimination on account of sexual orientation or gender identity when extending credit.</title>
+  </titles>
+  <sponsor thomas_id="01663"/>
+  <cosponsors>
+    <cosponsor thomas_id="00099" joined="2013-06-13"/>
+    <cosponsor thomas_id="02092" joined="2013-06-13"/>
+    <cosponsor thomas_id="01564" joined="2013-06-13"/>
+    <cosponsor thomas_id="01970" joined="2013-06-13"/>
+    <cosponsor thomas_id="02055" joined="2013-06-13"/>
+    <cosponsor thomas_id="01864" joined="2013-06-13"/>
+    <cosponsor thomas_id="01654" joined="2013-06-13"/>
+    <cosponsor thomas_id="01959" joined="2013-06-13"/>
+    <cosponsor thomas_id="01641" joined="2013-06-13"/>
+    <cosponsor thomas_id="01479" joined="2013-12-09"/>
+    <cosponsor thomas_id="02133" joined="2014-04-08"/>
+    <cosponsor thomas_id="00303" joined="2014-02-27"/>
+    <cosponsor thomas_id="01857" joined="2013-06-13"/>
+    <cosponsor thomas_id="00368" joined="2013-06-13"/>
+    <cosponsor thomas_id="00371" joined="2013-06-13"/>
+    <cosponsor thomas_id="01708" joined="2013-06-13"/>
+    <cosponsor thomas_id="02089" joined="2013-06-13"/>
+    <cosponsor thomas_id="01913" joined="2013-06-13"/>
+    <cosponsor thomas_id="01634" joined="2014-03-06"/>
+    <cosponsor thomas_id="00709" joined="2014-01-21"/>
+    <cosponsor thomas_id="01929" joined="2013-06-13"/>
+    <cosponsor thomas_id="02113" joined="2014-04-03"/>
+    <cosponsor thomas_id="01927" joined="2013-06-13"/>
+    <cosponsor thomas_id="02171" joined="2014-01-14"/>
+    <cosponsor thomas_id="01910" joined="2013-06-13"/>
+    <cosponsor thomas_id="02109" joined="2014-03-04"/>
+    <cosponsor thomas_id="01588" joined="2013-06-13"/>
+    <cosponsor thomas_id="01526" joined="2013-06-13"/>
+    <cosponsor thomas_id="02104" joined="2014-04-04"/>
+    <cosponsor thomas_id="01535" joined="2014-04-03"/>
+    <cosponsor thomas_id="01884" joined="2013-06-13"/>
+    <cosponsor thomas_id="01777" joined="2013-06-13"/>
+    <cosponsor thomas_id="01209" joined="2013-06-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-13" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="1159"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Consumer credit"/>
+    <term name="Sex, gender, sexual orientation discrimination"/>
+  </subjects>
+  <amendments/>
+  <summary>6/13/2013--Introduced.
+Freedom from Discrimination in Credit Act of 2013 - Amends the Equal Credit Opportunity Act to prohibit discrimination on account of sexual orientation or gender identity when extending credit.
+
+Defines: (1) "gender identity" as the gender-related identity, appearance, or mannerisms or other gender-related characteristics of an individual with or without regard to the individual's designated sex at birth; (2) "person" as a natural person, corporation, government or governmental subdivision or agency, trust, estate, partnership, cooperative, or association; and (3) "sexual orientation" as homosexuality, heterosexuality, or bisexuality.</summary>
+</bill>

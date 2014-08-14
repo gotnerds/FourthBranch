@@ -1,0 +1,49 @@
+<bill session="113" type="h" number="4797" updated="2014-08-14T13:32:20-04:00">
+  <state datetime="2014-06-02">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-02"/>
+  </status>
+  <introduced datetime="2014-06-02"/>
+  <titles>
+    <title type="short" as="introduced">Clarification of Legal Enforcement Against Non-criminal Energy Producers Act of 2014</title>
+    <title type="short" as="introduced">CLEAN Energy Producers Act of 2014</title>
+    <title type="official" as="introduced">To update avian protection laws in order to support an all-of-the-above domestic energy strategy, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02057"/>
+  <cosponsors>
+    <cosponsor thomas_id="02063" joined="2014-06-02"/>
+    <cosponsor thomas_id="02018" joined="2014-06-02"/>
+    <cosponsor thomas_id="02144" joined="2014-06-02"/>
+    <cosponsor thomas_id="02046" joined="2014-06-02"/>
+    <cosponsor thomas_id="00612" joined="2014-06-02"/>
+    <cosponsor thomas_id="01885" joined="2014-06-20"/>
+    <cosponsor thomas_id="02059" joined="2014-06-02"/>
+    <cosponsor thomas_id="02017" joined="2014-06-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-02" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2014-06-10">
+      <text>Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Fisheries, Wildlife, Oceans, and Insular Affairs" code="HSII22" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="3895"/>
+  </relatedbills>
+  <subjects>
+    <term name="Animals"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Birds"/>
+    <term name="Civil actions and liability"/>
+    <term name="Electric power generation and transmission"/>
+    <term name="Endangered and threatened species"/>
+    <term name="Licensing and registrations"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,58 @@
+<bill session="113" type="h" number="2144" updated="2014-08-14T13:09:35-04:00">
+  <state datetime="2013-05-23">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-23"/>
+  </status>
+  <introduced datetime="2013-05-23"/>
+  <titles>
+    <title type="short" as="introduced">Adoption Tax Credit Refundability Act of 2013</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide for a refundable adoption tax credit.</title>
+  </titles>
+  <sponsor thomas_id="01845"/>
+  <cosponsors>
+    <cosponsor thomas_id="01780" joined="2014-05-07"/>
+    <cosponsor thomas_id="02092" joined="2013-10-29"/>
+    <cosponsor thomas_id="01564" joined="2013-07-25"/>
+    <cosponsor thomas_id="02103" joined="2013-07-24"/>
+    <cosponsor thomas_id="01836" joined="2013-06-28"/>
+    <cosponsor thomas_id="01641" joined="2014-05-07"/>
+    <cosponsor thomas_id="02057" joined="2013-11-19"/>
+    <cosponsor thomas_id="01857" joined="2014-05-09"/>
+    <cosponsor thomas_id="01663" joined="2014-05-09"/>
+    <cosponsor thomas_id="00666" joined="2013-10-28"/>
+    <cosponsor thomas_id="01846" joined="2014-03-13"/>
+    <cosponsor thomas_id="02111" joined="2014-04-30"/>
+    <cosponsor thomas_id="01653" joined="2014-07-16"/>
+    <cosponsor thomas_id="00766" joined="2014-07-10"/>
+    <cosponsor thomas_id="01809" joined="2014-04-09"/>
+    <cosponsor thomas_id="01744" joined="2014-05-19"/>
+    <cosponsor thomas_id="00850" joined="2014-05-19"/>
+    <cosponsor thomas_id="01953" joined="2014-05-19"/>
+    <cosponsor thomas_id="00944" joined="2013-07-23"/>
+    <cosponsor thomas_id="01940" joined="2013-10-15"/>
+    <cosponsor thomas_id="01942" joined="2014-03-13"/>
+    <cosponsor thomas_id="01729" joined="2013-06-04"/>
+    <cosponsor thomas_id="01184" joined="2014-07-08"/>
+    <cosponsor thomas_id="01856" joined="2014-06-24"/>
+    <cosponsor thomas_id="01886" joined="2013-06-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-23" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="1056"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Adoption and foster care"/>
+    <term name="Income tax credits"/>
+  </subjects>
+  <amendments/>
+  <summary>5/23/2013--Introduced.
+Adoption Tax Credit Refundability Act of 2013 - Amends the Internal Revenue Code to make the tax credit for adoption expenses refundable.</summary>
+</bill>

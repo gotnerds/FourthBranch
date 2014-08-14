@@ -1,0 +1,120 @@
+<bill session="113" type="h" number="3465" updated="2014-08-14T13:20:59-04:00">
+  <state datetime="2013-11-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-11-13"/>
+  </status>
+  <introduced datetime="2013-11-13"/>
+  <titles>
+    <title type="short" as="introduced">Second Chance Reauthorization Act of 2013</title>
+    <title type="official" as="introduced">To reauthorize the Second Chance Act of 2007.</title>
+  </titles>
+  <sponsor thomas_id="01041"/>
+  <cosponsors>
+    <cosponsor thomas_id="00038" joined="2013-11-13"/>
+    <cosponsor thomas_id="02153" joined="2014-01-07"/>
+    <cosponsor thomas_id="00091" joined="2013-11-15"/>
+    <cosponsor thomas_id="01469" joined="2013-12-03"/>
+    <cosponsor thomas_id="01761" joined="2013-11-15"/>
+    <cosponsor thomas_id="00186" joined="2013-11-13"/>
+    <cosponsor thomas_id="01864" joined="2014-02-05"/>
+    <cosponsor thomas_id="01790" joined="2014-04-08"/>
+    <cosponsor thomas_id="00211" joined="2013-11-13"/>
+    <cosponsor thomas_id="01878" joined="2013-11-20"/>
+    <cosponsor thomas_id="00229" joined="2013-11-13"/>
+    <cosponsor thomas_id="00256" joined="2013-11-13"/>
+    <cosponsor thomas_id="01477" joined="2013-11-13"/>
+    <cosponsor thomas_id="00316" joined="2014-02-05"/>
+    <cosponsor thomas_id="01895" joined="2013-11-13"/>
+    <cosponsor thomas_id="02043" joined="2014-01-09"/>
+    <cosponsor thomas_id="00478" joined="2013-11-15"/>
+    <cosponsor thomas_id="00511" joined="2013-12-19"/>
+    <cosponsor thomas_id="00588" joined="2013-11-13"/>
+    <cosponsor thomas_id="02046" joined="2013-11-20"/>
+    <cosponsor thomas_id="01843" joined="2013-11-13"/>
+    <cosponsor thomas_id="02154" joined="2013-11-13"/>
+    <cosponsor thomas_id="01668" joined="2013-12-03"/>
+    <cosponsor thomas_id="01501" joined="2013-11-15"/>
+    <cosponsor thomas_id="00688" joined="2013-11-15"/>
+    <cosponsor thomas_id="01653" joined="2014-07-10"/>
+    <cosponsor thomas_id="01811" joined="2014-07-09"/>
+    <cosponsor thomas_id="00832" joined="2013-12-19"/>
+    <cosponsor thomas_id="00868" joined="2013-11-15"/>
+    <cosponsor thomas_id="02171" joined="2014-07-25"/>
+    <cosponsor thomas_id="01967" joined="2013-11-20"/>
+    <cosponsor thomas_id="02023" joined="2013-11-15"/>
+    <cosponsor thomas_id="01003" joined="2013-11-15"/>
+    <cosponsor thomas_id="01588" joined="2013-12-19"/>
+    <cosponsor thomas_id="01037" joined="2013-11-13"/>
+    <cosponsor thomas_id="01069" joined="2013-12-03"/>
+    <cosponsor thomas_id="01114" joined="2013-11-13"/>
+    <cosponsor thomas_id="01729" joined="2014-02-05"/>
+    <cosponsor thomas_id="02166" joined="2014-07-31"/>
+    <cosponsor thomas_id="01853" joined="2014-07-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-11-13" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2014-01-09">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="1690"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Accounting and auditing"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Adult education and literacy"/>
+    <term name="Advisory bodies"/>
+    <term name="Congressional oversight"/>
+    <term name="Correctional facilities and imprisonment"/>
+    <term name="Crime prevention"/>
+    <term name="Crime victims"/>
+    <term name="Criminal procedure and sentencing"/>
+    <term name="Department of Justice"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Employment and training programs"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Family services"/>
+    <term name="Food assistance and relief"/>
+    <term name="Government studies and investigations"/>
+    <term name="Health care coverage and access"/>
+    <term name="Homelessness and emergency shelter"/>
+    <term name="Juvenile crime and gang violence"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Low- and moderate-income housing"/>
+    <term name="Medicaid"/>
+    <term name="Medicare"/>
+    <term name="Mental health"/>
+    <term name="Performance measurement"/>
+    <term name="Poverty and welfare assistance"/>
+    <term name="Public housing"/>
+    <term name="Research administration and funding"/>
+    <term name="Separation, divorce, custody, support"/>
+    <term name="Social security and elderly assistance"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Veterans' loans, housing, homeless programs"/>
+    <term name="Veterans' medical care"/>
+    <term name="Veterans' pensions and compensation"/>
+    <term name="Vocational education"/>
+  </subjects>
+  <amendments/>
+  <summary>11/13/2013--Introduced.
+Second Chance Reauthorization Act of 2013 - Amends the Omnibus Crime Control and Safe Streets Act of 1968 to revise and expand requirements for the grant program for adult and juvenile offender state and local reentry demonstration projects and to extend the authorization for appropriations for such program through FY2018.
+
+Amends the Second Chance Act of 2007 to extend through FY2018 the authorization of appropriations for grants for: (1) family-based substance abuse treatment, (2) the technology careers training demonstration program, and (3) the offender reentry substance abuse and criminal justice collaboration program. Renames the program of mentoring grants to nonprofit organizations for offender reentry as the program of community-based mentoring and transitional service grants to nonprofit organizations. Provides for enhanced services under such program to assist in the reintegration of offenders into the community. Extends the authorization of appropriations for such program through FY2018.
+
+Requires the Inspector General of the Department of Justice (DOJ) to periodically conduct audits of not less than 5% of all recipients of specified offender reentry grants under the Omnibus Crime Control and Safe Streets Act of 1968 and the Second Chance Act of 2007.
+
+Amends the Second Chance Act of 2007 to: (1) modify and extend through FY2018 grant programs for reentry of federal prisoners into the community, including the program for placing elderly offenders in home detention; (2) repeal programs under such Act relating to responsible reintegration of offenders, the study of the effectiveness of Depot Naltrexone for heroin addiction, and the satellite tracking and reentry training program; and (3) establish a program for partnering faith-based or community-based nonprofit organizations with prisons to conduct recidivism reduction activities.
+
+Directs the Attorney General, in consultation with specified federal officials and in collaboration with interested persons and entities, to establish an interagency task force on federal programs and activities for the reentry of offenders into the community. Requires such task force to: (1) evaluate and identity methods for improving such programs and activities, and (2) report to Congress on barriers faced by offenders in reentering the community and update such report annually.</summary>
+</bill>

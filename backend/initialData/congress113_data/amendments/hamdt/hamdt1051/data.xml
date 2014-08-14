@@ -1,0 +1,15 @@
+<amendment session="113" chamber="h" number="1051" updated="2014-08-14T13:40:19-04:00">
+  <amends type="hr" number="657" sequence="1"/>
+  <status datetime="2014-07-11T11:00:00-04:00">pass</status>
+  <sponsor thomas_id="00998"/>
+  <offered datetime="2014-07-11"/>
+  <description>An amendment to add new material to the preamble of the resolution.</description>
+  <actions>
+    <action datetime="2014-07-11T11:00:00-04:00">
+      <text>Amendment (A001) offered by Mr. Royce.</text>
+    </action>
+    <vote datetime="2014-07-11T11:00:00-04:00" how="by voice vote" result="pass">
+      <text>On agreeing to the Royce amendment (A001) Agreed to by voice vote.</text>
+    </vote>
+  </actions>
+</amendment>

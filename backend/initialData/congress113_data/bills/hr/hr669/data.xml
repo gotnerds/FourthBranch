@@ -1,0 +1,98 @@
+<bill session="113" type="h" number="669" updated="2014-08-14T12:56:26-04:00">
+  <state datetime="2014-07-15">REPORTED</state>
+  <status>
+    <unknown datetime="2014-07-15"/>
+  </status>
+  <introduced datetime="2013-02-13"/>
+  <titles>
+    <title type="short" as="introduced">Sudden Unexpected Death Data Enhancement and Awareness Act</title>
+    <title type="official" as="introduced">To amend the Public Health Service Act to improve the health of children and help better understand and enhance awareness about unexpected sudden death in early life.</title>
+  </titles>
+  <sponsor thomas_id="00887"/>
+  <cosponsors>
+    <cosponsor thomas_id="02106" joined="2013-04-10"/>
+    <cosponsor thomas_id="01474" joined="2013-11-19"/>
+    <cosponsor thomas_id="02055" joined="2014-02-25"/>
+    <cosponsor thomas_id="01959" joined="2013-03-13"/>
+    <cosponsor thomas_id="01989" joined="2013-09-25"/>
+    <cosponsor thomas_id="01857" joined="2014-01-07"/>
+    <cosponsor thomas_id="01708" joined="2013-10-28"/>
+    <cosponsor thomas_id="00511" joined="2013-10-28"/>
+    <cosponsor thomas_id="00612" joined="2013-10-10"/>
+    <cosponsor thomas_id="00635" joined="2013-02-13"/>
+    <cosponsor thomas_id="02145" joined="2013-05-09"/>
+    <cosponsor thomas_id="00729" joined="2013-03-13"/>
+    <cosponsor thomas_id="01814" joined="2014-02-11"/>
+    <cosponsor thomas_id="01503" joined="2013-09-25"/>
+    <cosponsor thomas_id="00832" joined="2013-10-09"/>
+    <cosponsor thomas_id="00944" joined="2013-03-13"/>
+    <cosponsor thomas_id="01588" joined="2013-11-18"/>
+    <cosponsor thomas_id="01635" joined="2013-10-11"/>
+    <cosponsor thomas_id="01890" joined="2013-02-25"/>
+    <cosponsor thomas_id="01729" joined="2013-10-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-13" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-02-15">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2014-06-19">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2014-06-19">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Unanimous Consent .</text>
+    </action>
+    <action datetime="2014-07-14">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2014-07-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-07-15" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2014-07-24T18:16:00-04:00">
+      <text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 113-557.</text>
+    </action>
+    <calendar datetime="2014-07-24T18:16:00-04:00" calendar="Union" number="417">
+      <text>Placed on the Union Calendar, Calendar No. 417.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting, In Committee"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="314"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Advisory bodies"/>
+    <term name="Child health"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Emergency medical services and trauma care"/>
+    <term name="Genetics"/>
+    <term name="Health information and medical records"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Licensing and registrations"/>
+    <term name="Medical education"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Sex and reproductive health"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+  </subjects>
+  <amendments/>
+  <summary>2/13/2013--Introduced.
+Sudden Unexpected Death Data Enhancement and Awareness Act - Amends the Public Health Service Act to require the Secretary of Health and Human Services (HHS), acting through the Director of the Centers for Disease Control and Prevention (CDC), to award grants for: (1) improving state comprehensive death scene investigations for sudden unexplained infant death (SUID) and sudden unexplained death in childhood (SUDC), and (2) increasing the rate of comprehensive and standardized autopsies for such deaths.
+
+Requires the Director to: (1) develop national guidelines for a standard autopsy protocol for such deaths, and (2) commission a study on the benefits and appropriateness of genetic testing for infant and early childhood deaths that remain unexplained after investigation and autopsy.
+
+Requires the Secretary, acting through the Director, to: (1) award grants for death scene investigation training specific for SUID and SUDC; (2) modify the national death case reporting system to assure that such system provides for population-based data for ages 0-4 years of age and facilitates the understanding of the root causes, rates, and trends of SUID and SUDC with respect to such ages; (3) conduct a needs assessment for investigations and determinations of such deaths; (4) develop public education and prevention programs to reduce stillbirths and address the racial and ethnic disparities in occurrence; (5) award grants for surveillance efforts on stillbirths; and (6) develop and conduct public education and prevention program aimed at reducing stillbirths.
+
+Directs the Secretary, acting through the Administrator of the Health Resources and Services Administration (HRSA), to: (1) award grants for child death review programs and prevention strategies; (2) establish a public health awareness and education campaign on SUID and SUDC; and (3) award grants for support services to families who have experienced SUID, SUDC, or stillbirth.
+
+Requires the Secretary to establish a task force to develop a national research plan to determine the causes of, and how to prevent, stillbirths.</summary>
+</bill>

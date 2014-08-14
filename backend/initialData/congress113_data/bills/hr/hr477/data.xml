@@ -1,0 +1,61 @@
+<bill session="113" type="h" number="477" updated="2014-08-14T12:54:48-04:00">
+  <state datetime="2013-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-04"/>
+  </status>
+  <introduced datetime="2013-02-04"/>
+  <titles>
+    <title type="short" as="introduced">Nuclear Family Priority Act</title>
+    <title type="official" as="introduced">To amend the Immigration and Nationality Act to make changes related to family-sponsored immigrants and to reduce the number of such immigrants, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01720"/>
+  <cosponsors>
+    <cosponsor thomas_id="02054" joined="2013-02-04"/>
+    <cosponsor thomas_id="02063" joined="2013-02-04"/>
+    <cosponsor thomas_id="01987" joined="2014-07-07"/>
+    <cosponsor thomas_id="01956" joined="2014-01-31"/>
+    <cosponsor thomas_id="02062" joined="2014-01-29"/>
+    <cosponsor thomas_id="02057" joined="2013-02-04"/>
+    <cosponsor thomas_id="01924" joined="2013-12-12"/>
+    <cosponsor thomas_id="01791" joined="2013-02-04"/>
+    <cosponsor thomas_id="01979" joined="2013-03-11"/>
+    <cosponsor thomas_id="00612" joined="2013-02-04"/>
+    <cosponsor thomas_id="01724" joined="2014-01-16"/>
+    <cosponsor thomas_id="00636" joined="2014-06-17"/>
+    <cosponsor thomas_id="01806" joined="2013-09-16"/>
+    <cosponsor thomas_id="02034" joined="2013-02-04"/>
+    <cosponsor thomas_id="02035" joined="2013-02-04"/>
+    <cosponsor thomas_id="00979" joined="2013-02-04"/>
+    <cosponsor thomas_id="02009" joined="2014-07-10"/>
+    <cosponsor thomas_id="02168" joined="2014-03-24"/>
+    <cosponsor thomas_id="01779" joined="2013-02-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-04" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-02-28">
+      <text>Referred to the Subcommittee on Immigration And Border Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee subcommittee="Immigration and Border Security" code="HSJU01" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Family relationships"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Visas and passports"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/2013--Introduced.
+Nuclear Family Priority Act - Amends the Immigration and Nationality Act to eliminate parents from the definition of "immediate relatives" with respect to those aliens not subject to worldwide immigration levels or numerical limitations.
+
+Replaces existing family-sponsored immigrant categories with a single preference allocation for spouses and children of permanent resident aliens.
+
+Reduces the number of, and revises the calculation for, fiscal year family-sponsored immigrant entrants.
+
+Establishes a nonimmigrant visa category for an alien who is a parent of a U.S. citizen at least 21 years old.</summary>
+</bill>

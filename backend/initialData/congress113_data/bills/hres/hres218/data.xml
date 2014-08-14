@@ -1,0 +1,63 @@
+<bill session="113" type="hr" number="218" updated="2014-08-14T12:46:29-04:00">
+  <state datetime="2013-05-16">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-16"/>
+  </status>
+  <introduced datetime="2013-05-16"/>
+  <titles>
+    <title type="official" as="introduced">Calling on the Secretary of State to list the Socialist Republic of Vietnam as a "Country of Particular Concern" with respect to religious freedom.</title>
+  </titles>
+  <sponsor thomas_id="00998"/>
+  <cosponsors>
+    <cosponsor thomas_id="00186" joined="2013-06-12"/>
+    <cosponsor thomas_id="01959" joined="2013-05-16"/>
+    <cosponsor thomas_id="02057" joined="2014-01-13"/>
+    <cosponsor thomas_id="01683" joined="2013-06-12"/>
+    <cosponsor thomas_id="02058" joined="2013-12-12"/>
+    <cosponsor thomas_id="00701" joined="2013-05-16"/>
+    <cosponsor thomas_id="02111" joined="2013-08-02"/>
+    <cosponsor thomas_id="01504" joined="2013-05-17"/>
+    <cosponsor thomas_id="01514" joined="2013-05-16"/>
+    <cosponsor thomas_id="01802" joined="2013-05-17"/>
+    <cosponsor thomas_id="00985" joined="2013-06-12"/>
+    <cosponsor thomas_id="01522" joined="2013-05-20"/>
+    <cosponsor thomas_id="01635" joined="2013-05-16"/>
+    <cosponsor thomas_id="01526" joined="2013-06-12"/>
+    <cosponsor thomas_id="01071" joined="2013-05-16"/>
+    <cosponsor thomas_id="01238" joined="2013-05-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-16" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2013-06-07">
+      <text>Referred to the Subcommittee on Africa, Global Health, Global Human Rights and International Organizations.</text>
+    </action>
+    <action datetime="2013-06-07">
+      <text>Referred to the Subcommittee on Asia and the Pacific.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee subcommittee="Africa, Global Health, Global Human Rights and International Organizations" code="HSFA16" name="House Foreign Affairs" activity="Referral"/>
+    <committee subcommittee="Asia and the Pacific" code="HSFA05" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Asia"/>
+    <term name="Detention of persons"/>
+    <term name="Human rights"/>
+    <term name="Religion"/>
+    <term name="Vietnam"/>
+  </subjects>
+  <amendments/>
+  <summary>5/16/2013--Introduced.
+Encourages the Department of State to place Vietnam on the list of "Countries of Particular Concern" for particularly severe violations of religious freedom.
+
+Condemns the ongoing and egregious violations of religious freedom in Vietnam, including the detention of religious leaders and the long-term imprisonment of individuals engaged in peaceful advocacy.
+
+Calls on Vietnam to lift restrictions on religious freedom, cease all expropriations of church properties, and implement necessary legal and political reforms to protect religious freedom.
+
+Urges the State Department to demonstrate clearly that the expansion of bilateral ties will depend on improvements in religious freedom and related rights.</summary>
+</bill>

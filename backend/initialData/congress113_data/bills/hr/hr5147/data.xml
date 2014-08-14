@@ -1,0 +1,24 @@
+<bill session="113" type="h" number="5147" updated="2014-08-14T13:35:24-04:00">
+  <state datetime="2014-07-17">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-17"/>
+  </status>
+  <introduced datetime="2014-07-17"/>
+  <titles>
+    <title type="short" as="introduced">Get Your Refund, Get Your Health Care Act</title>
+    <title type="official" as="introduced">To provide certain uninsured individuals a special enrollment period after tax filing in 2015 for enrollment in qualified health plans offered through an Exchange, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01907"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-17" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,49 @@
+<bill session="113" type="hr" number="97" updated="2014-08-14T12:45:28-04:00">
+  <state datetime="2013-03-05">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-05"/>
+  </status>
+  <introduced datetime="2013-03-05"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the House of Representatives that the Federal Government should take all appropriate measures to ensure that citizens continue to be provided with paper-based information, products and services, and public notices while providing, where appropriate, the ability for all citizens to opt-in to electronic delivery if they so chose.</title>
+  </titles>
+  <sponsor thomas_id="02072"/>
+  <cosponsors>
+    <cosponsor thomas_id="02027" joined="2013-04-11"/>
+    <cosponsor thomas_id="01703" joined="2013-03-14"/>
+    <cosponsor thomas_id="01761" joined="2013-07-30"/>
+    <cosponsor thomas_id="02159" joined="2013-10-02"/>
+    <cosponsor thomas_id="01790" joined="2013-10-23"/>
+    <cosponsor thomas_id="02098" joined="2013-11-14"/>
+    <cosponsor thomas_id="01641" joined="2014-01-13"/>
+    <cosponsor thomas_id="01797" joined="2013-04-11"/>
+    <cosponsor thomas_id="01924" joined="2013-03-14"/>
+    <cosponsor thomas_id="01656" joined="2013-10-28"/>
+    <cosponsor thomas_id="02070" joined="2013-07-11"/>
+    <cosponsor thomas_id="02074" joined="2014-01-09"/>
+    <cosponsor thomas_id="01730" joined="2013-03-05"/>
+    <cosponsor thomas_id="02059" joined="2013-10-04"/>
+    <cosponsor thomas_id="00867" joined="2013-06-17"/>
+    <cosponsor thomas_id="01954" joined="2014-01-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-05" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Congressional oversight"/>
+    <term name="Government information and archives"/>
+    <term name="Internet and video services"/>
+    <term name="Telephone and wireless communication"/>
+  </subjects>
+  <amendments/>
+  <summary>3/5/2013--Introduced.
+Expresses the sense of the House of Representatives that: (1) the federal government should ensure that citizens continue to be provided with paper-based information, products, services, and public notices while providing citizens the ability to opt-in to electronic delivery; and (2) decisions by federal agencies regarding the elimination of paper-based information, products, or services should be subject to congressional oversight.</summary>
+</bill>

@@ -1,0 +1,87 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-29", 
+      "committees": [
+        "HSSM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Small Business.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5231-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Small Business", 
+      "committee_id": "HSSM"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "8", 
+      "name": "Duckworth, Tammy", 
+      "sponsored_at": "2014-07-29", 
+      "state": "IL", 
+      "thomas_id": "02123", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-07-29", 
+  "number": "5231", 
+  "official_title": "To amend the Small Business Act to direct the task force of the Office of Veterans Business Development to provide access to and manage the distribution of excess or surplus property to veteran-owned small businesses.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Veterans Small Business Enhancement Act of 2014", 
+  "sponsor": {
+    "district": "11", 
+    "name": "Bentivolio, Kerry L.", 
+    "state": "MI", 
+    "thomas_id": "02135", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-07-29", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Government buildings, facilities, and property", 
+    "Intergovernmental relations", 
+    "Small business", 
+    "State and local government operations", 
+    "Veterans' education, employment, rehabilitation"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Veterans Small Business Enhancement Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Small Business Act to direct the task force of the Office of Veterans Business Development to provide access to and manage the distribution of excess or surplus property to veteran-owned small businesses.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T13:36:07-04:00"
+}

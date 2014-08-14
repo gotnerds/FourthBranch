@@ -1,0 +1,50 @@
+<bill session="113" type="h" number="1572" updated="2014-08-14T13:04:04-04:00">
+  <state datetime="2013-04-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-15"/>
+  </status>
+  <introduced datetime="2013-04-15"/>
+  <titles>
+    <title type="short" as="introduced">STOP Act</title>
+    <title type="short" as="introduced">Stopping Taxpayer Outlays for Propaganda Act</title>
+    <title type="official" as="introduced">To prohibit the use of Federal money for print, radio, television or any other media advertisement, campaign, or form of publicity against the use of a food or beverage that is lawfully marketed under the Federal Food, Drug, and Cosmetic Act.</title>
+  </titles>
+  <sponsor thomas_id="01920"/>
+  <cosponsors>
+    <cosponsor thomas_id="01858" joined="2013-09-09"/>
+    <cosponsor thomas_id="02131" joined="2013-04-25"/>
+    <cosponsor thomas_id="02098" joined="2013-05-06"/>
+    <cosponsor thomas_id="02036" joined="2013-04-30"/>
+    <cosponsor thomas_id="01990" joined="2013-05-06"/>
+    <cosponsor thomas_id="02032" joined="2013-05-08"/>
+    <cosponsor thomas_id="02140" joined="2013-04-25"/>
+    <cosponsor thomas_id="01885" joined="2013-05-20"/>
+    <cosponsor thomas_id="02118" joined="2013-07-23"/>
+    <cosponsor thomas_id="01704" joined="2013-05-09"/>
+    <cosponsor thomas_id="01991" joined="2013-07-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-15" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-04-19">
+      <text>Referred to the Subcommittee on Communications and Technology.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Communications and Technology" code="HSIF16" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Appropriations"/>
+    <term name="Food industry and services"/>
+    <term name="Government information and archives"/>
+    <term name="Marketing and advertising"/>
+    <term name="Nutrition and diet"/>
+  </subjects>
+  <amendments/>
+  <summary>4/15/2013--Introduced.
+Stopping Taxpayer Outlays for Propaganda Act or STOP Act - Prohibits the use of any part of any appropriation contained in any Act for print, radio, television or any other media advertisement, campaign, or form of publicity against the use of a food or non-alcoholic beverage that is lawfully marketed under the Federal Food, Drug, and Cosmetic Act.</summary>
+</bill>

@@ -1,0 +1,26 @@
+<bill session="113" type="s" number="2721" updated="2014-08-14T14:07:59-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="short" as="introduced">Natural Gas Long Haul Truck Competitiveness Act of 2014</title>
+    <title type="official" as="introduced">A bill to amend title 23, United States Code, with respect to weight limitations for natural gas vehicles, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00583"/>
+  <cosponsors>
+    <cosponsor thomas_id="01850" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

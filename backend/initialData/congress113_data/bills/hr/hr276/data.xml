@@ -1,0 +1,53 @@
+<bill session="113" type="h" number="276" updated="2014-08-14T12:53:05-04:00">
+  <state datetime="2013-01-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-15"/>
+  </status>
+  <introduced datetime="2013-01-15"/>
+  <titles>
+    <title type="official" as="introduced">To prohibit United States assistance to the country of Egypt.</title>
+  </titles>
+  <sponsor thomas_id="01840"/>
+  <cosponsors>
+    <cosponsor thomas_id="02063" joined="2013-03-12"/>
+    <cosponsor thomas_id="01882" joined="2013-01-15"/>
+    <cosponsor thomas_id="00322" joined="2013-03-06"/>
+    <cosponsor thomas_id="02064" joined="2013-03-06"/>
+    <cosponsor thomas_id="01801" joined="2013-03-06"/>
+    <cosponsor thomas_id="02041" joined="2013-03-12"/>
+    <cosponsor thomas_id="02020" joined="2013-03-18"/>
+    <cosponsor thomas_id="00612" joined="2013-01-15"/>
+    <cosponsor thomas_id="01931" joined="2013-03-06"/>
+    <cosponsor thomas_id="01908" joined="2013-03-12"/>
+    <cosponsor thomas_id="02001" joined="2013-03-06"/>
+    <cosponsor thomas_id="01738" joined="2013-02-06"/>
+    <cosponsor thomas_id="01915" joined="2013-03-06"/>
+    <cosponsor thomas_id="02017" joined="2013-02-06"/>
+    <cosponsor thomas_id="02003" joined="2013-02-06"/>
+    <cosponsor thomas_id="01994" joined="2013-01-15"/>
+    <cosponsor thomas_id="02009" joined="2013-03-06"/>
+    <cosponsor thomas_id="01041" joined="2013-01-15"/>
+    <cosponsor thomas_id="02191" joined="2013-11-14"/>
+    <cosponsor thomas_id="01664" joined="2013-02-06"/>
+    <cosponsor thomas_id="01779" joined="2013-03-18"/>
+    <cosponsor thomas_id="02115" joined="2013-03-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-15" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Egypt"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Middle East"/>
+  </subjects>
+  <amendments/>
+  <summary>1/15/2013--Introduced.
+Prohibits any funds made available after FY2013 to any federal department or agency from being used to provide assistance to Egypt.</summary>
+</bill>

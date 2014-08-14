@@ -1,0 +1,88 @@
+<bill session="113" type="h" number="3676" updated="2014-08-14T13:22:50-04:00">
+  <state datetime="2014-02-11">REPORTED</state>
+  <status>
+    <unknown datetime="2014-02-11"/>
+  </status>
+  <introduced datetime="2013-12-09"/>
+  <titles>
+    <title type="short" as="introduced">Prohibiting In-Flight Voice Communications on Mobile Wireless Devices Act of 2013</title>
+    <title type="short" as="reported to house">Prohibiting In-Flight Voice Communications on Mobile Wireless Devices Act of 2013</title>
+    <title type="official" as="introduced">To establish a prohibition on certain cell phone voice communications during passenger flights, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01681"/>
+  <cosponsors>
+    <cosponsor thomas_id="01740" joined="2013-12-19"/>
+    <cosponsor thomas_id="02018" joined="2013-12-11"/>
+    <cosponsor thomas_id="01676" joined="2013-12-11"/>
+    <cosponsor thomas_id="01564" joined="2013-12-19"/>
+    <cosponsor thomas_id="01878" joined="2013-12-11"/>
+    <cosponsor thomas_id="00231" joined="2013-12-11"/>
+    <cosponsor thomas_id="01989" joined="2013-12-19"/>
+    <cosponsor thomas_id="02126" joined="2013-12-11"/>
+    <cosponsor thomas_id="00279" joined="2013-12-11"/>
+    <cosponsor thomas_id="00322" joined="2013-12-11"/>
+    <cosponsor thomas_id="01857" joined="2013-12-19"/>
+    <cosponsor thomas_id="00355" joined="2013-12-11"/>
+    <cosponsor thomas_id="00368" joined="2013-12-11"/>
+    <cosponsor thomas_id="01487" joined="2013-12-11"/>
+    <cosponsor thomas_id="02041" joined="2013-12-11"/>
+    <cosponsor thomas_id="02089" joined="2014-05-22"/>
+    <cosponsor thomas_id="02154" joined="2013-12-11"/>
+    <cosponsor thomas_id="00699" joined="2013-12-19"/>
+    <cosponsor thomas_id="01806" joined="2013-12-11"/>
+    <cosponsor thomas_id="01504" joined="2014-03-26"/>
+    <cosponsor thomas_id="02074" joined="2013-12-11"/>
+    <cosponsor thomas_id="02052" joined="2013-12-11"/>
+    <cosponsor thomas_id="01730" joined="2013-12-11"/>
+    <cosponsor thomas_id="01731" joined="2013-12-11"/>
+    <cosponsor thomas_id="00854" joined="2013-12-11"/>
+    <cosponsor thomas_id="00912" joined="2013-12-11"/>
+    <cosponsor thomas_id="01920" joined="2013-12-19"/>
+    <cosponsor thomas_id="01798" joined="2013-12-11"/>
+    <cosponsor thomas_id="02000" joined="2013-12-19"/>
+    <cosponsor thomas_id="01890" joined="2014-02-11"/>
+    <cosponsor thomas_id="02104" joined="2014-03-11"/>
+    <cosponsor thomas_id="02165" joined="2013-12-11"/>
+    <cosponsor thomas_id="01991" joined="2014-01-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-12-09" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2013-12-10">
+      <text>Referred to the Subcommittee on Aviation.</text>
+    </action>
+    <action datetime="2014-02-11">
+      <text>Subcommittee on Aviation Discharged.</text>
+    </action>
+    <action datetime="2014-02-11">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-02-11" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+    <action datetime="2014-05-30T11:03:00-04:00">
+      <text>Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-466.</text>
+    </action>
+    <calendar datetime="2014-05-30T11:03:00-04:00" calendar="Union" number="345">
+      <text>Placed on the Union Calendar, Calendar No. 345.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee subcommittee="Aviation" code="HSPW05" name="House Transportation and Infrastructure" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Aviation and airports"/>
+    <term name="Department of Transportation"/>
+    <term name="Telephone and wireless communication"/>
+  </subjects>
+  <amendments/>
+  <summary>5/30/2014--Reported to House without amendment.
+Prohibiting In-Flight Voice Communications on Mobile Wireless Devices Act of 2013 - Directs the Secretary of Transportation (DOT) to issue regulations prohibiting an individual on an aircraft from engaging in voice communications using a mobile device during a flight in scheduled passenger interstate or intrastate air transportation.
+
+Exempts from such prohibition: (1) on-duty flight crews and attendants, and (2) federal law enforcement officers acting in an official capacity.</summary>
+</bill>

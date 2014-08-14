@@ -1,0 +1,65 @@
+<bill session="113" type="h" number="3725" updated="2014-08-14T13:23:15-04:00">
+  <state datetime="2013-12-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-12-12"/>
+  </status>
+  <introduced datetime="2013-12-12"/>
+  <titles>
+    <title type="short" as="introduced">Veterans Entrepreneurs Act of 2013</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to allow credits for the establishment of franchises with veterans.</title>
+  </titles>
+  <sponsor thomas_id="02065"/>
+  <cosponsors>
+    <cosponsor thomas_id="02054" joined="2014-04-07"/>
+    <cosponsor thomas_id="01753" joined="2014-02-26"/>
+    <cosponsor thomas_id="01752" joined="2014-02-04"/>
+    <cosponsor thomas_id="00186" joined="2014-01-29"/>
+    <cosponsor thomas_id="01912" joined="2013-12-12"/>
+    <cosponsor thomas_id="02103" joined="2013-12-12"/>
+    <cosponsor thomas_id="02144" joined="2014-02-05"/>
+    <cosponsor thomas_id="02126" joined="2014-03-27"/>
+    <cosponsor thomas_id="01924" joined="2014-02-05"/>
+    <cosponsor thomas_id="01707" joined="2014-02-26"/>
+    <cosponsor thomas_id="01720" joined="2014-06-20"/>
+    <cosponsor thomas_id="02044" joined="2013-12-12"/>
+    <cosponsor thomas_id="01634" joined="2014-01-29"/>
+    <cosponsor thomas_id="00612" joined="2014-02-26"/>
+    <cosponsor thomas_id="02074" joined="2014-02-04"/>
+    <cosponsor thomas_id="01744" joined="2014-02-11"/>
+    <cosponsor thomas_id="01954" joined="2014-02-26"/>
+    <cosponsor thomas_id="02017" joined="2014-03-06"/>
+    <cosponsor thomas_id="02039" joined="2013-12-12"/>
+    <cosponsor thomas_id="02124" joined="2013-12-12"/>
+    <cosponsor thomas_id="02110" joined="2013-12-12"/>
+    <cosponsor thomas_id="01940" joined="2013-12-12"/>
+    <cosponsor thomas_id="02161" joined="2014-02-26"/>
+    <cosponsor thomas_id="01886" joined="2014-02-04"/>
+    <cosponsor thomas_id="02021" joined="2014-02-05"/>
+    <cosponsor thomas_id="02115" joined="2014-02-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-12-12" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1015"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Government information and archives"/>
+    <term name="Income tax credits"/>
+    <term name="Retail and wholesale trades"/>
+    <term name="Small business"/>
+    <term name="User charges and fees"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+  </subjects>
+  <amendments/>
+  <summary>12/12/2013--Introduced.
+Veterans Entrepreneurs Act of 2013 - Amends the Internal Revenue Code to allow a business-related tax credit&#160;of up to $400,000 for 25% of the&#160;franchise fees paid or incurred by a veteran&#160;for the purchase of a franchise. Reduces the amount of such credit if the veteran does not own 100% of the stock or capital or profits interest of the franchisee.
+
+Directs the Administrator of the Small Business Administration (SBA) and the Secretary of Veterans Affairs (VA) to provide information about the tax credit allowed by this Act to veterans service organizations and veteran advocacy groups.</summary>
+</bill>

@@ -1,0 +1,67 @@
+<bill session="113" type="h" number="3088" updated="2014-08-14T13:17:47-04:00">
+  <state datetime="2013-09-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-09-12"/>
+  </status>
+  <introduced datetime="2013-09-12"/>
+  <titles>
+    <title type="short" as="introduced">Major Drug Trafficking Prosecution Act of 2013</title>
+    <title type="official" as="introduced">To concentrate Federal resources aimed at the prosecution of drug offenses on those offenses that are major.</title>
+  </titles>
+  <sponsor thomas_id="01205"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2013-09-26"/>
+    <cosponsor thomas_id="00132" joined="2013-09-12"/>
+    <cosponsor thomas_id="02107" joined="2013-09-12"/>
+    <cosponsor thomas_id="01889" joined="2013-09-12"/>
+    <cosponsor thomas_id="01878" joined="2013-09-12"/>
+    <cosponsor thomas_id="00256" joined="2013-09-26"/>
+    <cosponsor thomas_id="01857" joined="2013-09-12"/>
+    <cosponsor thomas_id="02125" joined="2013-09-26"/>
+    <cosponsor thomas_id="00588" joined="2013-09-12"/>
+    <cosponsor thomas_id="00688" joined="2013-09-12"/>
+    <cosponsor thomas_id="01506" joined="2013-09-26"/>
+    <cosponsor thomas_id="00868" joined="2013-09-12"/>
+    <cosponsor thomas_id="02097" joined="2013-09-12"/>
+    <cosponsor thomas_id="02171" joined="2013-09-26"/>
+    <cosponsor thomas_id="01967" joined="2013-09-12"/>
+    <cosponsor thomas_id="01003" joined="2013-09-12"/>
+    <cosponsor thomas_id="01588" joined="2013-09-26"/>
+    <cosponsor thomas_id="01037" joined="2013-09-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-12" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-09-12">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2013-09-12">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-09-13">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2013-10-15">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Criminal procedure and sentencing"/>
+    <term name="Drug trafficking and controlled substances"/>
+  </subjects>
+  <amendments/>
+  <summary>9/12/2013--Introduced.
+Major Drug Trafficking Prosecution Act of 2013 - Requires the Attorney General's prior written approval for a federal prosecution of an offense under the Controlled Substances Act (CSA) or the Controlled Substances Import and Export Act (CSIEA), or for any conspiracy to commit such an offense, where the offense involves the illegal distribution or possession of a controlled substance in an amount less than that specified as a minimum for an offense under CSA or, in the case of any substance containing cocaine or cocaine base, in an amount less than 500 grams.
+
+Modifies CSA and CSIEA to delete specified mandatory minimum terms of imprisonment.</summary>
+</bill>

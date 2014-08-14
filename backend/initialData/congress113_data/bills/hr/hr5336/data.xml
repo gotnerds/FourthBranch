@@ -1,0 +1,31 @@
+<bill session="113" type="h" number="5336" updated="2014-08-14T13:37:02-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="short" as="introduced">Mental Health Exposure Military Official Record Act of 2014</title>
+    <title type="official" as="introduced">To establish or integrate an online significant event tracker (SET) system for tracking, reporting, and summarizing exposures of members of the Armed Forces, including members of the reserve components thereof, to traumatic events, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02123"/>
+  <cosponsors>
+    <cosponsor thomas_id="01807" joined="2014-07-31"/>
+    <cosponsor thomas_id="02089" joined="2014-07-31"/>
+    <cosponsor thomas_id="02047" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2368"/>
+    <bill type="s" session="113" relation="identical" number="2730"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

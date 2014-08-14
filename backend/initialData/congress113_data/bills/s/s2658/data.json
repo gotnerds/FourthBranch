@@ -1,0 +1,109 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-24", 
+      "references": [
+        {
+          "reference": "CR S4906-4908", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-24", 
+      "committees": [
+        "SSBU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on the Budget.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2658-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Budget", 
+      "committee_id": "SSBU"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Durbin, Richard", 
+      "sponsored_at": "2014-07-29", 
+      "state": "IL", 
+      "thomas_id": "00326", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Franken, Al", 
+      "sponsored_at": "2014-07-29", 
+      "state": "MN", 
+      "thomas_id": "01969", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Klobuchar, Amy", 
+      "sponsored_at": "2014-07-29", 
+      "state": "MN", 
+      "thomas_id": "01826", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-07-24", 
+  "number": "2658", 
+  "official_title": "A bill to prioritize funding for the National Institutes of Health to discover treatments and cures, to maintain global leadership in medical innovation, and to restore the purchasing power the NIH had after the historic doubling campaign that ended in fiscal year 2003.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Accelerating Biomedical Research Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Harkin, Tom", 
+    "state": "IA", 
+    "thomas_id": "00501", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-07-24", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Accelerating Biomedical Research Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to prioritize funding for the National Institutes of Health to discover treatments and cures, to maintain global leadership in medical innovation, and to restore the purchasing power the NIH had after the historic doubling campaign that ended in fiscal year 2003.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T14:07:27-04:00"
+}

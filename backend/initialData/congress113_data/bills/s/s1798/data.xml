@@ -1,0 +1,75 @@
+<bill session="113" type="s" number="1798" updated="2014-08-14T14:00:13-04:00">
+  <state datetime="2013-12-10">REFERRED</state>
+  <status>
+    <introduced datetime="2013-12-10"/>
+  </status>
+  <introduced datetime="2013-12-10"/>
+  <titles>
+    <title type="short" as="introduced">Protecting Volunteer Firefighters and Emergency Responders Act</title>
+    <title type="official" as="introduced">A bill to ensure that emergency services volunteers are not counted as full-time employees under the shared responsibility requirements contained in the Patient Protection and Affordable Care Act.</title>
+  </titles>
+  <sponsor thomas_id="01897"/>
+  <cosponsors>
+    <cosponsor thomas_id="02075" joined="2013-12-17"/>
+    <cosponsor thomas_id="01898" joined="2013-12-10"/>
+    <cosponsor thomas_id="01965" joined="2013-12-18"/>
+    <cosponsor thomas_id="01687" joined="2014-01-08"/>
+    <cosponsor thomas_id="00136" joined="2014-01-09"/>
+    <cosponsor thomas_id="00179" joined="2014-01-07"/>
+    <cosponsor thomas_id="00188" joined="2013-12-19"/>
+    <cosponsor thomas_id="01541" joined="2013-12-10"/>
+    <cosponsor thomas_id="01984" joined="2013-12-16"/>
+    <cosponsor thomas_id="01850" joined="2013-12-16"/>
+    <cosponsor thomas_id="01969" joined="2013-12-17"/>
+    <cosponsor thomas_id="01902" joined="2013-12-18"/>
+    <cosponsor thomas_id="02174" joined="2013-12-19"/>
+    <cosponsor thomas_id="01608" joined="2014-01-07"/>
+    <cosponsor thomas_id="00604" joined="2014-01-15"/>
+    <cosponsor thomas_id="02176" joined="2013-12-18"/>
+    <cosponsor thomas_id="02185" joined="2013-12-10"/>
+    <cosponsor thomas_id="01647" joined="2013-12-16"/>
+    <cosponsor thomas_id="01826" joined="2013-12-17"/>
+    <cosponsor thomas_id="01546" joined="2013-12-16"/>
+    <cosponsor thomas_id="01983" joined="2013-12-10"/>
+    <cosponsor thomas_id="01900" joined="2014-01-16"/>
+    <cosponsor thomas_id="00802" joined="2014-01-09"/>
+    <cosponsor thomas_id="01694" joined="2014-01-16"/>
+    <cosponsor thomas_id="01837" joined="2014-01-09"/>
+    <cosponsor thomas_id="00924" joined="2014-01-08"/>
+    <cosponsor thomas_id="01701" joined="2013-12-12"/>
+    <cosponsor thomas_id="01424" joined="2013-12-19"/>
+    <cosponsor thomas_id="01829" joined="2013-12-17"/>
+    <cosponsor thomas_id="02085" joined="2013-12-10"/>
+    <cosponsor thomas_id="01595" joined="2013-12-16"/>
+    <cosponsor thomas_id="01567" joined="2013-12-19"/>
+    <cosponsor thomas_id="01609" joined="2013-12-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-12-10" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="3685"/>
+    <bill type="h" session="113" relation="unknown" number="3979"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Comprehensive health care"/>
+    <term name="Emergency medical services and trauma care"/>
+    <term name="Fires"/>
+    <term name="First responders and emergency personnel"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health personnel"/>
+    <term name="Sales and excise taxes"/>
+  </subjects>
+  <amendments/>
+  <summary>12/10/2013--Introduced.
+Protecting Volunteer Firefighters and Emergency Responders Act - Amends the Internal Revenue Code to provide that a qualified emergency services volunteer shall not be counted in determining the number of full-time employees of an employer for the purpose of shared responsibility requirements for employers with respect to health coverage under the Patient Protection and Affordable Care Act.
+
+ Defines "qualified emergency services volunteer" as a bona fide volunteer performing fire fighting and prevention services, emergency medical services, or ambulance services.</summary>
+</bill>

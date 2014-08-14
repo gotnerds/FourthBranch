@@ -1,0 +1,59 @@
+<bill session="113" type="h" number="5190" updated="2014-08-14T13:35:45-04:00">
+  <state datetime="2014-07-24">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-24"/>
+  </status>
+  <introduced datetime="2014-07-24"/>
+  <titles>
+    <title type="short" as="introduced">Ukraine Security Assistance Act of 2014</title>
+    <title type="official" as="introduced">To authorize assistance for Ukraine, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01743"/>
+  <cosponsors>
+    <cosponsor thomas_id="01797" joined="2014-07-24"/>
+    <cosponsor thomas_id="02154" joined="2014-07-24"/>
+    <cosponsor thomas_id="00616" joined="2014-07-24"/>
+    <cosponsor thomas_id="00683" joined="2014-07-24"/>
+    <cosponsor thomas_id="02053" joined="2014-07-24"/>
+    <cosponsor thomas_id="01510" joined="2014-07-24"/>
+    <cosponsor thomas_id="02048" joined="2014-07-24"/>
+    <cosponsor thomas_id="01069" joined="2014-07-24"/>
+    <cosponsor thomas_id="02047" joined="2014-07-24"/>
+    <cosponsor thomas_id="01664" joined="2014-07-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-24" state="REFERRED">
+      <text>Referred to the Committee on Foreign Affairs, and in addition to the Committees on Armed Services, and Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-07-24">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2014-07-24">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2014-07-24">
+      <text>Referred to House Intelligence</text>
+      <reference ref="Permanent Select"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee subcommittee="" code="HLIG" name="House Intelligence (Permanent Select)" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>7/24/2014--Introduced.
+Ukraine Security Assistance Act of 2014 - Authorizes the the President to provide Ukraine with specified defense articles, services, and training.
+
+Directs the Secretary of Defense (DOD) to conduct or complete an ongoing assessment of the capabilities and needs of Ukraine's armed forces, and provide it to Congress.
+
+Expresses the sense of Congress that the President should:
+
+ provide Ukraine with appropriate intelligence and other information to determine the location, strength, and capabilities of the military and intelligence forces of the Russian Federation located on Ukraine's eastern border and within its territorial borders, including Crimea; take steps to ensure that such intelligence information is protected from further disclosure; and report to Congress detailing such disclosure. States that during the period in which Ukraine meets specified democratic government and security cooperation criteria it shall be treated as a major non-North Atlantic Treaty Organization (NATO) ally.
+
+ Directs the President to increase: (1) military-to-military interactions of the U.S. Armed Forces with the armed forces of Ukraine, and (2) U.S. and NATO security assistance to Ukraine.
+
+Directs the Secretary of State to seek to enter into negotiations with Ukraine to establish new, or strengthen existing, bilateral and multilateral defense cooperation agreements, including agreements related to cyber defense cooperation.</summary>
+</bill>

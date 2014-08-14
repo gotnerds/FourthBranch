@@ -1,0 +1,59 @@
+<bill session="113" type="h" number="1781" updated="2014-08-14T13:05:54-04:00">
+  <state datetime="2013-04-26">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-26"/>
+  </status>
+  <introduced datetime="2013-04-26"/>
+  <titles>
+    <title type="short" as="introduced">Mustafa Akarsu Local Guard Force Support Act</title>
+    <title type="official" as="introduced">To amend the Immigration and Nationality Act to provide for special immigrant status for certain spouses and children of employees of the United States Government abroad killed in the line of duty.</title>
+  </titles>
+  <sponsor thomas_id="01804"/>
+  <cosponsors>
+    <cosponsor thomas_id="02129" joined="2013-07-23"/>
+    <cosponsor thomas_id="02159" joined="2013-07-09"/>
+    <cosponsor thomas_id="02055" joined="2013-06-25"/>
+    <cosponsor thomas_id="01878" joined="2013-04-26"/>
+    <cosponsor thomas_id="01959" joined="2013-04-26"/>
+    <cosponsor thomas_id="02144" joined="2013-05-09"/>
+    <cosponsor thomas_id="01807" joined="2013-04-26"/>
+    <cosponsor thomas_id="00367" joined="2013-04-30"/>
+    <cosponsor thomas_id="01791" joined="2013-04-26"/>
+    <cosponsor thomas_id="02025" joined="2013-05-09"/>
+    <cosponsor thomas_id="00635" joined="2013-05-08"/>
+    <cosponsor thomas_id="02014" joined="2013-05-21"/>
+    <cosponsor thomas_id="02142" joined="2013-05-06"/>
+    <cosponsor thomas_id="01953" joined="2013-04-26"/>
+    <cosponsor thomas_id="02118" joined="2013-06-18"/>
+    <cosponsor thomas_id="01920" joined="2013-05-03"/>
+    <cosponsor thomas_id="02161" joined="2013-05-06"/>
+    <cosponsor thomas_id="01222" joined="2013-04-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-26" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-06-14">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee subcommittee="Immigration and Border Security" code="HSJU01" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Department of State"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Family relationships"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Visas and passports"/>
+  </subjects>
+  <amendments/>
+  <summary>4/26/2013--Introduced.
+Mustafa Akarsu Local Guard Force Support Act - Amends the Immigration and Nationality Act to provide special immigrant status for the surviving spouse or child of a U.S. government employee killed abroad in the line of duty, provided that: (1) the employee had performed faithful service for at least 15 years; and (2) the principal officer of a Foreign Service establishment (or, in the case of the American Institute of Taiwan, the Director) recommends, and the Secretary of State approves, the granting of such status.
+
+States that this Act shall be effective beginning on January 31, 2013, and shall have retroactive effect.</summary>
+</bill>

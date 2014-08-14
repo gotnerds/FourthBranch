@@ -1,0 +1,69 @@
+<bill session="113" type="h" number="3386" updated="2014-08-14T13:20:18-04:00">
+  <state datetime="2013-10-30">REFERRED</state>
+  <status>
+    <introduced datetime="2013-10-30"/>
+  </status>
+  <introduced datetime="2013-10-30"/>
+  <titles>
+    <title type="short" as="introduced">Accuracy for Adoptees Act</title>
+    <title type="official" as="introduced">To require Certificates of Citizenship and other Federal documents to reflect name and date of birth determinations made by a State court and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01075"/>
+  <cosponsors>
+    <cosponsor thomas_id="01858" joined="2013-12-12"/>
+    <cosponsor thomas_id="01996" joined="2013-10-30"/>
+    <cosponsor thomas_id="01468" joined="2013-12-12"/>
+    <cosponsor thomas_id="02129" joined="2013-12-12"/>
+    <cosponsor thomas_id="02127" joined="2013-12-12"/>
+    <cosponsor thomas_id="00165" joined="2013-12-12"/>
+    <cosponsor thomas_id="01676" joined="2013-12-12"/>
+    <cosponsor thomas_id="02151" joined="2013-12-12"/>
+    <cosponsor thomas_id="01604" joined="2013-12-12"/>
+    <cosponsor thomas_id="01707" joined="2013-12-12"/>
+    <cosponsor thomas_id="02041" joined="2013-12-12"/>
+    <cosponsor thomas_id="01913" joined="2013-12-12"/>
+    <cosponsor thomas_id="02101" joined="2013-12-12"/>
+    <cosponsor thomas_id="02015" joined="2013-12-12"/>
+    <cosponsor thomas_id="01921" joined="2013-12-12"/>
+    <cosponsor thomas_id="02046" joined="2013-12-12"/>
+    <cosponsor thomas_id="00603" joined="2013-12-12"/>
+    <cosponsor thomas_id="00635" joined="2013-12-12"/>
+    <cosponsor thomas_id="01936" joined="2013-12-12"/>
+    <cosponsor thomas_id="01583" joined="2013-12-12"/>
+    <cosponsor thomas_id="01806" joined="2013-12-12"/>
+    <cosponsor thomas_id="02053" joined="2013-12-12"/>
+    <cosponsor thomas_id="00998" joined="2013-12-12"/>
+    <cosponsor thomas_id="01635" joined="2013-12-12"/>
+    <cosponsor thomas_id="01920" joined="2013-12-12"/>
+    <cosponsor thomas_id="01527" joined="2013-12-12"/>
+    <cosponsor thomas_id="01681" joined="2013-12-12"/>
+    <cosponsor thomas_id="02168" joined="2013-12-12"/>
+    <cosponsor thomas_id="01997" joined="2013-12-12"/>
+    <cosponsor thomas_id="01177" joined="2013-12-12"/>
+    <cosponsor thomas_id="01688" joined="2013-12-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-10-30" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2014-01-09">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Immigration and Border Security" code="HSJU01" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="1614"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Adoption and foster care"/>
+    <term name="Citizenship and naturalization"/>
+    <term name="Health information and medical records"/>
+  </subjects>
+  <amendments/>
+  <summary>10/30/2013--Introduced.
+Accuracy for Adoptees Act - Amends the Immigration and Nationality Act to require that a certificate of citizenship or other federal document issued, or requested to be amended, reflect the child's name and date of birth as indicated on a state court order, birth certificate, certificate of foreign birth, certificate of birth abroad, or similar state vital records document issued by the child's U.S. state of residence after the child has been adopted or readopted in that state.</summary>
+</bill>

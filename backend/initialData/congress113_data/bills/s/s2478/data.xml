@@ -1,0 +1,37 @@
+<bill session="113" type="s" number="2478" updated="2014-08-14T14:05:57-04:00">
+  <state datetime="2014-06-17">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-17"/>
+  </status>
+  <introduced datetime="2014-06-17"/>
+  <titles>
+    <title type="short" as="introduced">Short Line Railroad Safety Enhancement Act of 2014</title>
+    <title type="official" as="introduced">A bill to authorize the Secretary of Transportation to partner with industry to strengthen the safety culture and safety practices of short line and regional freight railroads.</title>
+  </titles>
+  <sponsor thomas_id="01541"/>
+  <cosponsors>
+    <cosponsor thomas_id="01409" joined="2014-06-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-17">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S3721-3722"/>
+    </action>
+    <action datetime="2014-06-17" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Oil and gas"/>
+    <term name="Railroads"/>
+    <term name="Transportation employees"/>
+    <term name="Transportation programs funding"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+</bill>

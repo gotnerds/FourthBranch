@@ -1,0 +1,124 @@
+<bill session="113" type="h" number="310" updated="2014-08-14T12:53:22-04:00">
+  <state datetime="2013-01-18">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-18"/>
+  </status>
+  <introduced datetime="2013-01-18"/>
+  <titles>
+    <title type="short" as="introduced">No Budget, No Pay Act</title>
+    <title type="official" as="introduced">To provide that Members of Congress may not receive pay after October 1 of any fiscal year in which Congress has not approved a concurrent resolution on the budget and passed the regular appropriations bills.</title>
+  </titles>
+  <sponsor thomas_id="00231"/>
+  <cosponsors>
+    <cosponsor thomas_id="02093" joined="2013-01-18"/>
+    <cosponsor thomas_id="02131" joined="2013-01-22"/>
+    <cosponsor thomas_id="01780" joined="2013-01-18"/>
+    <cosponsor thomas_id="02102" joined="2013-01-18"/>
+    <cosponsor thomas_id="00091" joined="2013-07-16"/>
+    <cosponsor thomas_id="01740" joined="2013-01-18"/>
+    <cosponsor thomas_id="02063" joined="2013-01-18"/>
+    <cosponsor thomas_id="01748" joined="2013-01-18"/>
+    <cosponsor thomas_id="01845" joined="2013-01-18"/>
+    <cosponsor thomas_id="02106" joined="2013-06-17"/>
+    <cosponsor thomas_id="01840" joined="2013-01-18"/>
+    <cosponsor thomas_id="02127" joined="2013-07-17"/>
+    <cosponsor thomas_id="01471" joined="2013-01-18"/>
+    <cosponsor thomas_id="01999" joined="2013-01-18"/>
+    <cosponsor thomas_id="00186" joined="2013-01-18"/>
+    <cosponsor thomas_id="02055" joined="2013-01-18"/>
+    <cosponsor thomas_id="01912" joined="2013-01-18"/>
+    <cosponsor thomas_id="01805" joined="2013-01-18"/>
+    <cosponsor thomas_id="02103" joined="2013-02-26"/>
+    <cosponsor thomas_id="01774" joined="2013-01-18"/>
+    <cosponsor thomas_id="01807" joined="2013-01-18"/>
+    <cosponsor thomas_id="02138" joined="2013-01-18"/>
+    <cosponsor thomas_id="02126" joined="2013-01-18"/>
+    <cosponsor thomas_id="01799" joined="2013-01-18"/>
+    <cosponsor thomas_id="02116" joined="2013-01-18"/>
+    <cosponsor thomas_id="02062" joined="2013-01-18"/>
+    <cosponsor thomas_id="02123" joined="2013-01-23"/>
+    <cosponsor thomas_id="02057" joined="2013-01-18"/>
+    <cosponsor thomas_id="02125" joined="2013-01-25"/>
+    <cosponsor thomas_id="02114" joined="2013-11-12"/>
+    <cosponsor thomas_id="01797" joined="2013-01-18"/>
+    <cosponsor thomas_id="02065" joined="2013-01-18"/>
+    <cosponsor thomas_id="02122" joined="2013-07-16"/>
+    <cosponsor thomas_id="02043" joined="2014-02-14"/>
+    <cosponsor thomas_id="01992" joined="2013-01-18"/>
+    <cosponsor thomas_id="01990" joined="2013-07-08"/>
+    <cosponsor thomas_id="02089" joined="2013-07-18"/>
+    <cosponsor thomas_id="02040" joined="2013-01-23"/>
+    <cosponsor thomas_id="01913" joined="2013-01-18"/>
+    <cosponsor thomas_id="02015" joined="2013-01-18"/>
+    <cosponsor thomas_id="01921" joined="2013-09-11"/>
+    <cosponsor thomas_id="01843" joined="2013-01-18"/>
+    <cosponsor thomas_id="02154" joined="2014-01-09"/>
+    <cosponsor thomas_id="02169" joined="2013-08-01"/>
+    <cosponsor thomas_id="01498" joined="2013-01-18"/>
+    <cosponsor thomas_id="01907" joined="2013-07-11"/>
+    <cosponsor thomas_id="02145" joined="2013-11-12"/>
+    <cosponsor thomas_id="01936" joined="2013-01-18"/>
+    <cosponsor thomas_id="01668" joined="2013-01-18"/>
+    <cosponsor thomas_id="00666" joined="2013-01-18"/>
+    <cosponsor thomas_id="01781" joined="2013-01-18"/>
+    <cosponsor thomas_id="01846" joined="2013-01-18"/>
+    <cosponsor thomas_id="02111" joined="2013-07-08"/>
+    <cosponsor thomas_id="01960" joined="2013-04-11"/>
+    <cosponsor thomas_id="01943" joined="2013-07-16"/>
+    <cosponsor thomas_id="02150" joined="2013-07-16"/>
+    <cosponsor thomas_id="01806" joined="2013-01-25"/>
+    <cosponsor thomas_id="01671" joined="2013-01-18"/>
+    <cosponsor thomas_id="01505" joined="2013-01-22"/>
+    <cosponsor thomas_id="01730" joined="2013-01-18"/>
+    <cosponsor thomas_id="02059" joined="2013-01-18"/>
+    <cosponsor thomas_id="02117" joined="2013-07-18"/>
+    <cosponsor thomas_id="01758" joined="2013-01-18"/>
+    <cosponsor thomas_id="00867" joined="2013-07-09"/>
+    <cosponsor thomas_id="01974" joined="2013-06-18"/>
+    <cosponsor thomas_id="02157" joined="2013-07-17"/>
+    <cosponsor thomas_id="02113" joined="2013-01-23"/>
+    <cosponsor thomas_id="00912" joined="2013-01-18"/>
+    <cosponsor thomas_id="02073" joined="2013-01-18"/>
+    <cosponsor thomas_id="02160" joined="2013-08-02"/>
+    <cosponsor thomas_id="02068" joined="2013-01-18"/>
+    <cosponsor thomas_id="01954" joined="2013-01-18"/>
+    <cosponsor thomas_id="02017" joined="2013-01-18"/>
+    <cosponsor thomas_id="01916" joined="2013-01-18"/>
+    <cosponsor thomas_id="02109" joined="2013-07-16"/>
+    <cosponsor thomas_id="02124" joined="2013-07-11"/>
+    <cosponsor thomas_id="01950" joined="2013-01-18"/>
+    <cosponsor thomas_id="01994" joined="2013-01-18"/>
+    <cosponsor thomas_id="01722" joined="2013-01-23"/>
+    <cosponsor thomas_id="02099" joined="2013-07-17"/>
+    <cosponsor thomas_id="02000" joined="2013-01-22"/>
+    <cosponsor thomas_id="02047" joined="2013-01-25"/>
+    <cosponsor thomas_id="01952" joined="2013-01-18"/>
+    <cosponsor thomas_id="02105" joined="2013-07-18"/>
+    <cosponsor thomas_id="02002" joined="2013-01-22"/>
+    <cosponsor thomas_id="01879" joined="2013-07-17"/>
+    <cosponsor thomas_id="01991" joined="2013-01-18"/>
+    <cosponsor thomas_id="02019" joined="2013-07-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-18" state="REFERRED">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="124"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Appropriations"/>
+    <term name="Budget process"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Legislative rules and procedure"/>
+    <term name="Members of Congress"/>
+  </subjects>
+  <amendments/>
+  <summary>1/18/2013--Introduced.
+No Budget, No Pay Act - Prohibits the payment of any pay to any Member of Congress (excluding the Vice President): (1) if both houses of Congress have not approved a concurrent resolution on the budget for a fiscal year before October 1 of that fiscal year and have not passed all the regular appropriations bills for the next fiscal year by such date, or (2) until both houses of Congress approve such a budget resolution and pass all such appropriations bills. Prohibits any retroactive pay for such a period.</summary>
+</bill>

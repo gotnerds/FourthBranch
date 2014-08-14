@@ -1,0 +1,93 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-05", 
+      "committees": [
+        "SSVA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2448-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Veterans' Affairs", 
+      "committee_id": "SSVA"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Harkin, Tom", 
+      "sponsored_at": "2014-06-23", 
+      "state": "IA", 
+      "thomas_id": "00501", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-06-05", 
+  "number": "2448", 
+  "official_title": "A bill to protect servicemembers in higher education, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Servicemember Higher Education Protection Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Hagan, Kay", 
+    "state": "NC", 
+    "thomas_id": "01902", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-06-05", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Consumer affairs", 
+    "Department of Education", 
+    "Disability and paralysis", 
+    "Disability assistance", 
+    "Executive agency funding and structure", 
+    "Government employee pay, benefits, personnel management", 
+    "Government information and archives", 
+    "Interest, dividends, interest rates", 
+    "Military personnel and dependents", 
+    "Student aid and college costs", 
+    "Veterans' education, employment, rehabilitation"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Servicemember Higher Education Protection Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to protect servicemembers in higher education, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T14:05:42-04:00"
+}

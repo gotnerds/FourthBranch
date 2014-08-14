@@ -1,0 +1,115 @@
+<bill session="113" type="h" number="4060" updated="2014-08-14T13:26:03-04:00">
+  <state datetime="2014-02-14">REFERRED</state>
+  <status>
+    <introduced datetime="2014-02-14"/>
+  </status>
+  <introduced datetime="2014-02-14"/>
+  <titles>
+    <title type="short" as="introduced">Systemic Risk Designation Improvement Act of 2014</title>
+    <title type="official" as="introduced">To amend the Dodd-Frank Wall Street Reform and Consumer Protection Act to specify when bank holding companies may be subject to certain enhanced supervision, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01931"/>
+  <cosponsors>
+    <cosponsor thomas_id="01460" joined="2014-04-29"/>
+    <cosponsor thomas_id="02090" joined="2014-07-31"/>
+    <cosponsor thomas_id="00038" joined="2014-02-14"/>
+    <cosponsor thomas_id="02093" joined="2014-07-23"/>
+    <cosponsor thomas_id="02131" joined="2014-03-06"/>
+    <cosponsor thomas_id="01780" joined="2014-07-23"/>
+    <cosponsor thomas_id="01838" joined="2014-05-01"/>
+    <cosponsor thomas_id="01753" joined="2014-07-31"/>
+    <cosponsor thomas_id="01987" joined="2014-04-28"/>
+    <cosponsor thomas_id="02018" joined="2014-07-24"/>
+    <cosponsor thomas_id="02197" joined="2014-04-07"/>
+    <cosponsor thomas_id="01956" joined="2014-07-23"/>
+    <cosponsor thomas_id="01790" joined="2014-07-23"/>
+    <cosponsor thomas_id="02098" joined="2014-07-23"/>
+    <cosponsor thomas_id="02062" joined="2014-04-28"/>
+    <cosponsor thomas_id="01717" joined="2014-04-28"/>
+    <cosponsor thomas_id="02067" joined="2014-07-31"/>
+    <cosponsor thomas_id="02064" joined="2014-03-06"/>
+    <cosponsor thomas_id="02061" joined="2014-04-30"/>
+    <cosponsor thomas_id="02065" joined="2014-05-15"/>
+    <cosponsor thomas_id="01683" joined="2014-05-28"/>
+    <cosponsor thomas_id="02119" joined="2014-05-28"/>
+    <cosponsor thomas_id="01707" joined="2014-07-17"/>
+    <cosponsor thomas_id="02120" joined="2014-05-21"/>
+    <cosponsor thomas_id="01998" joined="2014-07-31"/>
+    <cosponsor thomas_id="01487" joined="2014-03-06"/>
+    <cosponsor thomas_id="00484" joined="2014-06-26"/>
+    <cosponsor thomas_id="02044" joined="2014-05-01"/>
+    <cosponsor thomas_id="00511" joined="2014-03-26"/>
+    <cosponsor thomas_id="02040" joined="2014-03-14"/>
+    <cosponsor thomas_id="01794" joined="2014-03-13"/>
+    <cosponsor thomas_id="02028" joined="2014-05-15"/>
+    <cosponsor thomas_id="02015" joined="2014-06-17"/>
+    <cosponsor thomas_id="02069" joined="2014-05-09"/>
+    <cosponsor thomas_id="02199" joined="2014-06-26"/>
+    <cosponsor thomas_id="00635" joined="2014-07-10"/>
+    <cosponsor thomas_id="01885" joined="2014-06-18"/>
+    <cosponsor thomas_id="01939" joined="2014-07-28"/>
+    <cosponsor thomas_id="01806" joined="2014-03-27"/>
+    <cosponsor thomas_id="01505" joined="2014-05-21"/>
+    <cosponsor thomas_id="02148" joined="2014-06-05"/>
+    <cosponsor thomas_id="02059" joined="2014-04-03"/>
+    <cosponsor thomas_id="02117" joined="2014-02-14"/>
+    <cosponsor thomas_id="02001" joined="2014-06-05"/>
+    <cosponsor thomas_id="01955" joined="2014-04-04"/>
+    <cosponsor thomas_id="02113" joined="2014-08-01"/>
+    <cosponsor thomas_id="02141" joined="2014-03-14"/>
+    <cosponsor thomas_id="01802" joined="2014-04-03"/>
+    <cosponsor thomas_id="01915" joined="2014-06-12"/>
+    <cosponsor thomas_id="02048" joined="2014-05-09"/>
+    <cosponsor thomas_id="02023" joined="2014-06-05"/>
+    <cosponsor thomas_id="02068" joined="2014-05-15"/>
+    <cosponsor thomas_id="01986" joined="2014-05-28"/>
+    <cosponsor thomas_id="02003" joined="2014-05-09"/>
+    <cosponsor thomas_id="02158" joined="2014-06-11"/>
+    <cosponsor thomas_id="00998" joined="2014-03-13"/>
+    <cosponsor thomas_id="01920" joined="2014-05-09"/>
+    <cosponsor thomas_id="01994" joined="2014-05-21"/>
+    <cosponsor thomas_id="01722" joined="2014-02-14"/>
+    <cosponsor thomas_id="01525" joined="2014-04-01"/>
+    <cosponsor thomas_id="01988" joined="2014-02-14"/>
+    <cosponsor thomas_id="02099" joined="2014-08-01"/>
+    <cosponsor thomas_id="02000" joined="2014-07-10"/>
+    <cosponsor thomas_id="02168" joined="2014-05-15"/>
+    <cosponsor thomas_id="02047" joined="2014-02-14"/>
+    <cosponsor thomas_id="01997" joined="2014-07-17"/>
+    <cosponsor thomas_id="02166" joined="2014-05-09"/>
+    <cosponsor thomas_id="02137" joined="2014-05-19"/>
+    <cosponsor thomas_id="02152" joined="2014-07-31"/>
+    <cosponsor thomas_id="02165" joined="2014-07-28"/>
+    <cosponsor thomas_id="02004" joined="2014-07-10"/>
+    <cosponsor thomas_id="01886" joined="2014-06-20"/>
+    <cosponsor thomas_id="01991" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-02-14" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="3036"/>
+    <bill type="h" session="113" relation="unknown" number="4532"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Federal Reserve System"/>
+    <term name="Financial services and investments"/>
+  </subjects>
+  <amendments/>
+  <summary>2/14/2014--Introduced.
+Systemic Risk Designation Improvement Act of 2014 - Amends the Dodd-Frank Wall Street Reform and Consumer Protection Act to authorize the Financial Stability Oversight Council to determine that a bank holding company shall be subject to enhanced supervision and prudential standards by the Board of Governors of the Federal Reserve System, if the Council makes a final determination that material financial distress at the bank holding company, or the nature, scope, size, scale, concentration, interconnectedness, or mix of its activities, could threaten the financial stability of the United States.
+
+Requires that final determination to be based upon specified factors using an indicator-based measurement approach established by the Basel Committee on Banking Supervision to determine systemic importance.
+
+ Exempts from any Council determination to subject a bank holding company to enhanced supervision and prudential standards a bank holding company with total consolidated assets of $50 billion or less.
+
+Prohibits the Council, before the effective date of this Act, from making a final determination concerning any material financial distress of a bank holding company identified by the Financial Stability Board as a Global Systemically Important Financial Institution.</summary>
+</bill>

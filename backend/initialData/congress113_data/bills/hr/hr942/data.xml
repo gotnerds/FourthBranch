@@ -1,0 +1,218 @@
+<bill session="113" type="h" number="942" updated="2014-08-14T12:58:44-04:00">
+  <state datetime="2013-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-04"/>
+  </status>
+  <introduced datetime="2013-03-04"/>
+  <titles>
+    <title type="short" as="introduced">Ensuring Access to Quality Complex Rehabilitation Technology Act of 2013</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to provide for coverage and payment for complex rehabilitation technology items under the Medicare program.</title>
+  </titles>
+  <sponsor thomas_id="01604"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2013-05-23"/>
+    <cosponsor thomas_id="01858" joined="2014-03-25"/>
+    <cosponsor thomas_id="00038" joined="2013-09-12"/>
+    <cosponsor thomas_id="02093" joined="2014-07-31"/>
+    <cosponsor thomas_id="02054" joined="2013-09-12"/>
+    <cosponsor thomas_id="02131" joined="2014-06-24"/>
+    <cosponsor thomas_id="01780" joined="2013-05-09"/>
+    <cosponsor thomas_id="02153" joined="2014-04-10"/>
+    <cosponsor thomas_id="02063" joined="2013-05-23"/>
+    <cosponsor thomas_id="01748" joined="2013-05-17"/>
+    <cosponsor thomas_id="00099" joined="2014-03-25"/>
+    <cosponsor thomas_id="01845" joined="2013-04-24"/>
+    <cosponsor thomas_id="02129" joined="2014-04-04"/>
+    <cosponsor thomas_id="00132" joined="2014-04-04"/>
+    <cosponsor thomas_id="01840" joined="2014-07-17"/>
+    <cosponsor thomas_id="02127" joined="2014-04-04"/>
+    <cosponsor thomas_id="01761" joined="2013-05-17"/>
+    <cosponsor thomas_id="01676" joined="2013-09-12"/>
+    <cosponsor thomas_id="01564" joined="2013-09-12"/>
+    <cosponsor thomas_id="02159" joined="2014-01-29"/>
+    <cosponsor thomas_id="02055" joined="2013-07-19"/>
+    <cosponsor thomas_id="02196" joined="2014-06-24"/>
+    <cosponsor thomas_id="01864" joined="2014-03-25"/>
+    <cosponsor thomas_id="01654" joined="2013-08-02"/>
+    <cosponsor thomas_id="00211" joined="2014-06-02"/>
+    <cosponsor thomas_id="01912" joined="2013-05-17"/>
+    <cosponsor thomas_id="01878" joined="2013-10-16"/>
+    <cosponsor thomas_id="01742" joined="2014-05-09"/>
+    <cosponsor thomas_id="01959" joined="2013-04-24"/>
+    <cosponsor thomas_id="00229" joined="2013-04-24"/>
+    <cosponsor thomas_id="00231" joined="2013-09-30"/>
+    <cosponsor thomas_id="01836" joined="2013-06-28"/>
+    <cosponsor thomas_id="00256" joined="2013-05-17"/>
+    <cosponsor thomas_id="02126" joined="2014-07-17"/>
+    <cosponsor thomas_id="01479" joined="2013-08-02"/>
+    <cosponsor thomas_id="00281" joined="2014-06-24"/>
+    <cosponsor thomas_id="02096" joined="2014-01-29"/>
+    <cosponsor thomas_id="01976" joined="2013-08-02"/>
+    <cosponsor thomas_id="00303" joined="2013-07-11"/>
+    <cosponsor thomas_id="02123" joined="2013-04-24"/>
+    <cosponsor thomas_id="01857" joined="2014-04-30"/>
+    <cosponsor thomas_id="02125" joined="2013-04-24"/>
+    <cosponsor thomas_id="00355" joined="2013-05-09"/>
+    <cosponsor thomas_id="02114" joined="2013-11-18"/>
+    <cosponsor thomas_id="00368" joined="2013-06-20"/>
+    <cosponsor thomas_id="00371" joined="2014-04-30"/>
+    <cosponsor thomas_id="01888" joined="2013-09-12"/>
+    <cosponsor thomas_id="02043" joined="2014-03-25"/>
+    <cosponsor thomas_id="00462" joined="2014-07-17"/>
+    <cosponsor thomas_id="01990" joined="2014-03-14"/>
+    <cosponsor thomas_id="01922" joined="2014-03-25"/>
+    <cosponsor thomas_id="01933" joined="2013-04-11"/>
+    <cosponsor thomas_id="00511" joined="2013-05-09"/>
+    <cosponsor thomas_id="00512" joined="2013-04-11"/>
+    <cosponsor thomas_id="01794" joined="2014-05-09"/>
+    <cosponsor thomas_id="01580" joined="2014-06-24"/>
+    <cosponsor thomas_id="02147" joined="2013-09-12"/>
+    <cosponsor thomas_id="02015" joined="2014-05-09"/>
+    <cosponsor thomas_id="01921" joined="2013-09-30"/>
+    <cosponsor thomas_id="02046" joined="2013-08-02"/>
+    <cosponsor thomas_id="01843" joined="2013-04-24"/>
+    <cosponsor thomas_id="02199" joined="2014-05-20"/>
+    <cosponsor thomas_id="02154" joined="2013-08-02"/>
+    <cosponsor thomas_id="02051" joined="2014-05-09"/>
+    <cosponsor thomas_id="02172" joined="2014-05-20"/>
+    <cosponsor thomas_id="02134" joined="2013-12-16"/>
+    <cosponsor thomas_id="00635" joined="2014-03-14"/>
+    <cosponsor thomas_id="01724" joined="2014-05-20"/>
+    <cosponsor thomas_id="02145" joined="2014-06-02"/>
+    <cosponsor thomas_id="01668" joined="2013-04-24"/>
+    <cosponsor thomas_id="01583" joined="2013-04-11"/>
+    <cosponsor thomas_id="00666" joined="2013-04-24"/>
+    <cosponsor thomas_id="01501" joined="2014-06-24"/>
+    <cosponsor thomas_id="00688" joined="2013-06-06"/>
+    <cosponsor thomas_id="01846" joined="2013-05-09"/>
+    <cosponsor thomas_id="00701" joined="2013-09-12"/>
+    <cosponsor thomas_id="02033" joined="2014-05-09"/>
+    <cosponsor thomas_id="01931" joined="2014-05-22"/>
+    <cosponsor thomas_id="01960" joined="2014-05-09"/>
+    <cosponsor thomas_id="01943" joined="2013-09-12"/>
+    <cosponsor thomas_id="00729" joined="2014-05-20"/>
+    <cosponsor thomas_id="02195" joined="2014-03-25"/>
+    <cosponsor thomas_id="01653" joined="2013-06-28"/>
+    <cosponsor thomas_id="01504" joined="2013-05-17"/>
+    <cosponsor thomas_id="00778" joined="2013-04-24"/>
+    <cosponsor thomas_id="02074" joined="2014-07-31"/>
+    <cosponsor thomas_id="01809" joined="2013-04-24"/>
+    <cosponsor thomas_id="02142" joined="2014-05-09"/>
+    <cosponsor thomas_id="01730" joined="2013-05-23"/>
+    <cosponsor thomas_id="01811" joined="2013-04-24"/>
+    <cosponsor thomas_id="00832" joined="2013-04-24"/>
+    <cosponsor thomas_id="01744" joined="2013-07-11"/>
+    <cosponsor thomas_id="00854" joined="2013-06-06"/>
+    <cosponsor thomas_id="00867" joined="2013-04-24"/>
+    <cosponsor thomas_id="00868" joined="2013-04-24"/>
+    <cosponsor thomas_id="01710" joined="2013-08-02"/>
+    <cosponsor thomas_id="02034" joined="2013-05-17"/>
+    <cosponsor thomas_id="02035" joined="2013-06-20"/>
+    <cosponsor thomas_id="01510" joined="2013-09-30"/>
+    <cosponsor thomas_id="00893" joined="2014-04-04"/>
+    <cosponsor thomas_id="02097" joined="2013-07-19"/>
+    <cosponsor thomas_id="01835" joined="2013-07-11"/>
+    <cosponsor thomas_id="01929" joined="2013-06-06"/>
+    <cosponsor thomas_id="00910" joined="2013-05-17"/>
+    <cosponsor thomas_id="01927" joined="2013-05-09"/>
+    <cosponsor thomas_id="02171" joined="2014-03-25"/>
+    <cosponsor thomas_id="01910" joined="2014-05-09"/>
+    <cosponsor thomas_id="01915" joined="2014-04-10"/>
+    <cosponsor thomas_id="01778" joined="2013-09-12"/>
+    <cosponsor thomas_id="01967" joined="2014-05-09"/>
+    <cosponsor thomas_id="00940" joined="2014-05-09"/>
+    <cosponsor thomas_id="00944" joined="2013-05-09"/>
+    <cosponsor thomas_id="02023" joined="2014-06-24"/>
+    <cosponsor thomas_id="02068" joined="2014-05-09"/>
+    <cosponsor thomas_id="02003" joined="2014-05-20"/>
+    <cosponsor thomas_id="02158" joined="2013-09-30"/>
+    <cosponsor thomas_id="02039" joined="2013-04-24"/>
+    <cosponsor thomas_id="01728" joined="2013-05-09"/>
+    <cosponsor thomas_id="01003" joined="2013-09-12"/>
+    <cosponsor thomas_id="01757" joined="2013-04-11"/>
+    <cosponsor thomas_id="01635" joined="2013-10-16"/>
+    <cosponsor thomas_id="01920" joined="2014-04-04"/>
+    <cosponsor thomas_id="01041" joined="2013-03-04"/>
+    <cosponsor thomas_id="01042" joined="2013-11-18"/>
+    <cosponsor thomas_id="01525" joined="2013-05-09"/>
+    <cosponsor thomas_id="01861" joined="2014-05-20"/>
+    <cosponsor thomas_id="01681" joined="2014-04-04"/>
+    <cosponsor thomas_id="02099" joined="2013-05-17"/>
+    <cosponsor thomas_id="01069" joined="2013-04-24"/>
+    <cosponsor thomas_id="02047" joined="2014-04-04"/>
+    <cosponsor thomas_id="02110" joined="2014-07-17"/>
+    <cosponsor thomas_id="01151" joined="2013-06-20"/>
+    <cosponsor thomas_id="01952" joined="2014-03-14"/>
+    <cosponsor thomas_id="01593" joined="2014-04-04"/>
+    <cosponsor thomas_id="01664" joined="2013-04-24"/>
+    <cosponsor thomas_id="01535" joined="2014-06-02"/>
+    <cosponsor thomas_id="01940" joined="2013-04-24"/>
+    <cosponsor thomas_id="01942" joined="2014-05-20"/>
+    <cosponsor thomas_id="01884" joined="2013-06-28"/>
+    <cosponsor thomas_id="01729" joined="2014-07-17"/>
+    <cosponsor thomas_id="02128" joined="2014-04-04"/>
+    <cosponsor thomas_id="01856" joined="2014-06-24"/>
+    <cosponsor thomas_id="02004" joined="2013-04-24"/>
+    <cosponsor thomas_id="01886" joined="2013-06-06"/>
+    <cosponsor thomas_id="02021" joined="2013-09-30"/>
+    <cosponsor thomas_id="01255" joined="2013-05-09"/>
+    <cosponsor thomas_id="01256" joined="2014-06-02"/>
+    <cosponsor thomas_id="02019" joined="2014-05-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-04" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-04">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-03-04">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-03-07">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2013-03-08">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSWM02" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="948"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Disability and paralysis"/>
+    <term name="Drug safety, medical device, and laboratory regulation"/>
+    <term name="Government information and archives"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health care quality"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Licensing and registrations"/>
+    <term name="Long-term, rehabilitative, and terminal care"/>
+    <term name="Medicare"/>
+    <term name="Musculoskeletal and skin diseases"/>
+    <term name="Neurological disorders"/>
+    <term name="Product safety and quality"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/2013--Introduced.
+Ensuring Access to Quality Complex Rehabilitation Technology Act of 2013 - Amends title XVIII (Medicare) of the Social Security Act to cover, as medical and other health services, complex rehabilitation technology items designed and configured for a specific qualified individual to meet that individual's unique: (1) medical, physical, and functional needs related to a medical condition; and (2) capacities for basic activities of daily living (ADLs) and instrumental ADLs.
+
+Directs the Secretary of Health and Human Services (HHS) to: (1) designate complex rehabilitation technology items (excluding adaptive equipment to operate motor vehicles or certain prosthetic devices and orthotics); and (2) establish eligibility criteria for them.
+
+Prescribes requirements for payments for CRT items.
+
+Directs the Secretary to establish standards for clinical conditions for CRT item payment as well as quality standards for suppliers of such items.
+
+Directs the Secretary to establish a Healthcare Procedure Coding System (HCPCS) coding subset that uses specified HCPCS codes for CRT items.
+
+Requires payment for replacement of a CRT item (or any part of one), without regard to certain continuous use or useful lifetime restrictions established for items of durable medical equipment (DME), if a qualified ordering practitioner determines that a replacement item (or part) is necessary.</summary>
+</bill>

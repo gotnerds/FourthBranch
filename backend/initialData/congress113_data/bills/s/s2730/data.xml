@@ -1,0 +1,29 @@
+<bill session="113" type="s" number="2730" updated="2014-08-14T14:08:03-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="short" as="introduced">Mental Health Exposure Military Official Record Act of 2014</title>
+    <title type="official" as="introduced">A bill to establish or integrate an online significant event tracker (SET) system for tracking, reporting, and summarizing exposures of members of the Armed Forces, including members of the reserve components thereof, to traumatic events, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00136"/>
+  <cosponsors>
+    <cosponsor thomas_id="01464" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSAS" name="Senate Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="5336"/>
+    <bill type="s" session="113" relation="unknown" number="2368"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

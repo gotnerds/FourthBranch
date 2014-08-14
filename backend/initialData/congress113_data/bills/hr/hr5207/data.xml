@@ -1,0 +1,33 @@
+<bill session="113" type="h" number="5207" updated="2014-08-14T13:35:55-04:00">
+  <state datetime="2014-07-25">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-25"/>
+  </status>
+  <introduced datetime="2014-07-25"/>
+  <titles>
+    <title type="short" as="introduced">John P. Parker House Study Act</title>
+    <title type="official" as="introduced">To direct the Secretary of the Interior to conduct a special resource study to determine the suitability and feasibility of establishing the John P. Parker House in Ripley, Ohio, as a unit of the National Park System.</title>
+  </titles>
+  <sponsor thomas_id="02153"/>
+  <cosponsors>
+    <cosponsor thomas_id="00186" joined="2014-07-28"/>
+    <cosponsor thomas_id="01895" joined="2014-07-28"/>
+    <cosponsor thomas_id="00616" joined="2014-07-25"/>
+    <cosponsor thomas_id="01756" joined="2014-07-28"/>
+    <cosponsor thomas_id="02047" joined="2014-07-25"/>
+    <cosponsor thomas_id="01664" joined="2014-07-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-25" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="2610"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

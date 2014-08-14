@@ -1,0 +1,55 @@
+<bill session="113" type="h" number="4906" updated="2014-08-14T13:33:20-04:00">
+  <state datetime="2014-06-19">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-19"/>
+  </status>
+  <introduced datetime="2014-06-19"/>
+  <titles>
+    <title type="short" as="introduced">Protecting Domestic Violence and Stalking Victims Act</title>
+    <title type="official" as="introduced">To amend title 18, United States Code, to protect more victims of domestic violence by preventing their abusers from possessing or receiving firearms, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01471"/>
+  <cosponsors>
+    <cosponsor thomas_id="01740" joined="2014-06-25"/>
+    <cosponsor thomas_id="02196" joined="2014-07-23"/>
+    <cosponsor thomas_id="02114" joined="2014-07-09"/>
+    <cosponsor thomas_id="01708" joined="2014-07-30"/>
+    <cosponsor thomas_id="02089" joined="2014-06-25"/>
+    <cosponsor thomas_id="02010" joined="2014-06-19"/>
+    <cosponsor thomas_id="01913" joined="2014-07-14"/>
+    <cosponsor thomas_id="02190" joined="2014-07-15"/>
+    <cosponsor thomas_id="00688" joined="2014-06-19"/>
+    <cosponsor thomas_id="00709" joined="2014-08-01"/>
+    <cosponsor thomas_id="00729" joined="2014-06-30"/>
+    <cosponsor thomas_id="01832" joined="2014-07-23"/>
+    <cosponsor thomas_id="01811" joined="2014-06-19"/>
+    <cosponsor thomas_id="00868" joined="2014-07-31"/>
+    <cosponsor thomas_id="02097" joined="2014-06-23"/>
+    <cosponsor thomas_id="02023" joined="2014-07-16"/>
+    <cosponsor thomas_id="01069" joined="2014-07-30"/>
+    <cosponsor thomas_id="01777" joined="2014-07-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-19" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2014-07-21">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2483"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Assault and harassment offenses"/>
+    <term name="Domestic violence and child abuse"/>
+    <term name="Evidence and witnesses"/>
+    <term name="Firearms and explosives"/>
+  </subjects>
+  <amendments/>
+</bill>

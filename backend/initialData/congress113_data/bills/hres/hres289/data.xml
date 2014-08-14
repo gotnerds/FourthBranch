@@ -1,0 +1,47 @@
+<bill session="113" type="hr" number="289" updated="2014-08-14T12:47:05-04:00">
+  <state datetime="2013-07-08">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-08"/>
+  </status>
+  <introduced datetime="2013-07-08"/>
+  <titles>
+    <title type="official" as="introduced">Recognizing the commencement of Ramadan, the Muslim holy month of fasting and spiritual renewal, and commending Muslims in the United States and throughout the world for their faith.</title>
+  </titles>
+  <sponsor thomas_id="00599"/>
+  <cosponsors>
+    <cosponsor thomas_id="01889" joined="2013-07-08"/>
+    <cosponsor thomas_id="00229" joined="2013-07-08"/>
+    <cosponsor thomas_id="01857" joined="2013-07-08"/>
+    <cosponsor thomas_id="01708" joined="2013-07-08"/>
+    <cosponsor thomas_id="01634" joined="2013-07-08"/>
+    <cosponsor thomas_id="00588" joined="2013-07-08"/>
+    <cosponsor thomas_id="02134" joined="2013-07-08"/>
+    <cosponsor thomas_id="01501" joined="2013-07-08"/>
+    <cosponsor thomas_id="00688" joined="2013-07-08"/>
+    <cosponsor thomas_id="01653" joined="2013-07-08"/>
+    <cosponsor thomas_id="01811" joined="2013-07-08"/>
+    <cosponsor thomas_id="00832" joined="2013-07-08"/>
+    <cosponsor thomas_id="01526" joined="2013-07-08"/>
+    <cosponsor thomas_id="02110" joined="2013-07-09"/>
+    <cosponsor thomas_id="01188" joined="2013-07-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-08" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Congressional tributes"/>
+    <term name="Religion"/>
+  </subjects>
+  <amendments/>
+  <summary>7/8/2013--Introduced.
+Recognizes the Islamic faith as one of the great world religions.
+
+Acknowledges the onset of Ramadan and expresses deepest respect to Muslims in the United States and throughout the world on this significant occasion.</summary>
+</bill>

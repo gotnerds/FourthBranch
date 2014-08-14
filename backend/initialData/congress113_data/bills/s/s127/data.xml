@@ -1,0 +1,42 @@
+<bill session="113" type="s" number="127" updated="2014-08-14T13:45:51-04:00">
+  <state datetime="2013-01-24">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-24"/>
+  </status>
+  <introduced datetime="2013-01-24"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide a permanent deduction for State and local general sales taxes.</title>
+  </titles>
+  <sponsor thomas_id="01863"/>
+  <cosponsors>
+    <cosponsor thomas_id="01695" joined="2014-02-04"/>
+    <cosponsor thomas_id="01692" joined="2014-01-08"/>
+    <cosponsor thomas_id="01542" joined="2013-01-24"/>
+    <cosponsor thomas_id="01534" joined="2014-01-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-24" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="2854"/>
+    <bill type="h" session="113" relation="unknown" number="3942"/>
+    <bill type="h" session="113" relation="unknown" number="4789"/>
+    <bill type="s" session="113" relation="identical" number="41"/>
+    <bill type="s" session="113" relation="unknown" number="1859"/>
+    <bill type="s" session="113" relation="unknown" number="2260"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Income tax deductions"/>
+    <term name="Sales and excise taxes"/>
+    <term name="State and local taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>1/24/2013--Introduced.
+Amends the Internal Revenue Code to make permanent the taxpayer election to deduct state and local general sales taxes in lieu of state and local income taxes.</summary>
+</bill>

@@ -1,0 +1,33 @@
+<bill session="113" type="h" number="4729" updated="2014-08-14T13:31:45-04:00">
+  <state datetime="2014-05-22">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-22"/>
+  </status>
+  <introduced datetime="2014-05-22"/>
+  <titles>
+    <title type="short" as="introduced">Prohibiting False 'Made in America' Claims Act</title>
+    <title type="official" as="introduced">To require debarment of persons convicted of fraudulent use of "Made in America" labels.</title>
+  </titles>
+  <sponsor thomas_id="01914"/>
+  <cosponsors>
+    <cosponsor thomas_id="01861" joined="2014-05-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-22" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="4435"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Buy American requirements"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Military procurement, research, weapons development"/>
+  </subjects>
+  <amendments/>
+</bill>

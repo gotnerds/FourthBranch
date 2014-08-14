@@ -1,0 +1,23 @@
+<bill session="113" type="h" number="5355" updated="2014-08-14T13:37:11-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="official" as="introduced">To prohibit the Department of Defense from retaining any interest in real property disposed of pursuant to a base closure law when that property was originally acquired by the United States by donation for the purpose of establishing or expanding a military installation.</title>
+  </titles>
+  <sponsor thomas_id="02195"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

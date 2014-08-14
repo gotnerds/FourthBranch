@@ -1,0 +1,61 @@
+<bill session="113" type="h" number="562" updated="2014-08-14T12:55:32-04:00">
+  <state datetime="2013-02-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-06"/>
+  </status>
+  <introduced datetime="2013-02-06"/>
+  <titles>
+    <title type="short" as="introduced">VRAP Extension Act of 2013</title>
+    <title type="official" as="introduced">To provide for a three-month extension of the Veterans Retraining Assistance Program administered by the Secretary of Veterans Affairs, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01685"/>
+  <cosponsors>
+    <cosponsor thomas_id="02093" joined="2013-10-22"/>
+    <cosponsor thomas_id="02153" joined="2014-01-07"/>
+    <cosponsor thomas_id="01888" joined="2013-12-10"/>
+    <cosponsor thomas_id="01794" joined="2013-09-11"/>
+    <cosponsor thomas_id="01490" joined="2014-01-28"/>
+    <cosponsor thomas_id="01843" joined="2014-01-27"/>
+    <cosponsor thomas_id="01498" joined="2014-02-05"/>
+    <cosponsor thomas_id="00701" joined="2013-10-04"/>
+    <cosponsor thomas_id="02150" joined="2013-11-12"/>
+    <cosponsor thomas_id="01504" joined="2013-10-29"/>
+    <cosponsor thomas_id="01974" joined="2013-11-12"/>
+    <cosponsor thomas_id="01929" joined="2014-03-13"/>
+    <cosponsor thomas_id="00940" joined="2013-09-25"/>
+    <cosponsor thomas_id="02110" joined="2014-01-07"/>
+    <cosponsor thomas_id="01535" joined="2014-02-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-06" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-02-22">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+    </action>
+    <action datetime="2013-04-10">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2013-04-25">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2013-04-25">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee subcommittee="Economic Opportunity" code="HSVR10" name="House Veterans' Affairs" activity="Referral, Hearings, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional oversight"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+  </subjects>
+  <amendments/>
+  <summary>2/6/2013--Introduced.
+VRAP Extension Act of 2013 - Amends the VOW to Hire Heroes Act of 2011 to extend through June 30, 2014, the veterans retraining assistance program.
+
+Directs the Secretary of Veterans Affairs (VA) to submit to Congress an interim report on the retraining assistance provided under such program.</summary>
+</bill>

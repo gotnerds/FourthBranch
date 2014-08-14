@@ -1,0 +1,106 @@
+<bill session="113" type="h" number="679" updated="2014-08-14T12:56:31-04:00">
+  <state datetime="2013-02-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-13"/>
+  </status>
+  <introduced datetime="2013-02-13"/>
+  <titles>
+    <title type="short" as="introduced">Honor America's Guard-Reserve Retirees Act</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to recognize the service in the reserve components of certain persons by honoring them with status as veterans under law.</title>
+  </titles>
+  <sponsor thomas_id="01856"/>
+  <cosponsors>
+    <cosponsor thomas_id="01740" joined="2013-05-20"/>
+    <cosponsor thomas_id="01723" joined="2013-02-26"/>
+    <cosponsor thomas_id="02129" joined="2013-07-09"/>
+    <cosponsor thomas_id="00132" joined="2013-04-10"/>
+    <cosponsor thomas_id="02127" joined="2013-04-25"/>
+    <cosponsor thomas_id="01676" joined="2013-03-04"/>
+    <cosponsor thomas_id="01999" joined="2013-04-25"/>
+    <cosponsor thomas_id="02159" joined="2013-11-15"/>
+    <cosponsor thomas_id="01790" joined="2013-05-20"/>
+    <cosponsor thomas_id="01912" joined="2013-08-02"/>
+    <cosponsor thomas_id="02151" joined="2013-08-02"/>
+    <cosponsor thomas_id="01959" joined="2013-02-26"/>
+    <cosponsor thomas_id="02098" joined="2013-02-26"/>
+    <cosponsor thomas_id="02144" joined="2013-07-09"/>
+    <cosponsor thomas_id="02138" joined="2013-04-25"/>
+    <cosponsor thomas_id="01995" joined="2013-02-13"/>
+    <cosponsor thomas_id="01797" joined="2013-09-10"/>
+    <cosponsor thomas_id="02122" joined="2013-09-18"/>
+    <cosponsor thomas_id="01990" joined="2013-10-22"/>
+    <cosponsor thomas_id="02044" joined="2013-02-26"/>
+    <cosponsor thomas_id="01933" joined="2014-06-09"/>
+    <cosponsor thomas_id="02032" joined="2014-03-11"/>
+    <cosponsor thomas_id="01909" joined="2013-02-13"/>
+    <cosponsor thomas_id="02046" joined="2013-05-09"/>
+    <cosponsor thomas_id="02025" joined="2013-04-10"/>
+    <cosponsor thomas_id="02172" joined="2013-09-10"/>
+    <cosponsor thomas_id="02134" joined="2013-04-10"/>
+    <cosponsor thomas_id="01498" joined="2013-04-25"/>
+    <cosponsor thomas_id="01733" joined="2013-02-26"/>
+    <cosponsor thomas_id="01583" joined="2013-05-20"/>
+    <cosponsor thomas_id="00666" joined="2013-02-13"/>
+    <cosponsor thomas_id="01885" joined="2013-04-25"/>
+    <cosponsor thomas_id="00699" joined="2013-04-10"/>
+    <cosponsor thomas_id="01846" joined="2013-02-26"/>
+    <cosponsor thomas_id="00701" joined="2013-05-09"/>
+    <cosponsor thomas_id="01931" joined="2013-03-04"/>
+    <cosponsor thomas_id="01960" joined="2013-05-21"/>
+    <cosponsor thomas_id="02150" joined="2013-07-09"/>
+    <cosponsor thomas_id="01671" joined="2013-02-13"/>
+    <cosponsor thomas_id="01504" joined="2013-07-09"/>
+    <cosponsor thomas_id="01505" joined="2013-07-09"/>
+    <cosponsor thomas_id="02130" joined="2013-10-11"/>
+    <cosponsor thomas_id="02059" joined="2013-09-30"/>
+    <cosponsor thomas_id="02060" joined="2013-04-10"/>
+    <cosponsor thomas_id="02001" joined="2013-03-04"/>
+    <cosponsor thomas_id="02034" joined="2013-03-04"/>
+    <cosponsor thomas_id="02162" joined="2013-04-25"/>
+    <cosponsor thomas_id="02035" joined="2013-03-04"/>
+    <cosponsor thomas_id="00940" joined="2013-02-13"/>
+    <cosponsor thomas_id="02039" joined="2013-02-13"/>
+    <cosponsor thomas_id="01756" joined="2013-04-10"/>
+    <cosponsor thomas_id="01588" joined="2013-09-10"/>
+    <cosponsor thomas_id="01037" joined="2013-08-01"/>
+    <cosponsor thomas_id="01861" joined="2013-04-10"/>
+    <cosponsor thomas_id="02000" joined="2013-04-10"/>
+    <cosponsor thomas_id="02168" joined="2013-03-04"/>
+    <cosponsor thomas_id="02047" joined="2013-07-31"/>
+    <cosponsor thomas_id="02110" joined="2013-04-10"/>
+    <cosponsor thomas_id="02166" joined="2013-04-10"/>
+    <cosponsor thomas_id="01879" joined="2013-05-09"/>
+    <cosponsor thomas_id="01991" joined="2013-04-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-13" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-02-22">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
+    <action datetime="2013-04-16">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2013-04-17">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee subcommittee="Disability Assistance and Memorial Affairs" code="HSVR09" name="House Veterans' Affairs" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="629"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="National Guard and reserves"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>2/13/2013--Introduced.
+Honor America's Guard-Reserve Retirees Act - Honors as a veteran any person entitled to retired pay for nonregular (reserve) service or, but for age, would be so entitled.
+
+Provides that such person shall not be entitled to any benefit by reason of such recognition.</summary>
+</bill>

@@ -1,0 +1,58 @@
+<bill session="113" type="h" number="4258" updated="2014-08-14T13:27:44-04:00">
+  <state datetime="2014-03-14">REFERRED</state>
+  <status>
+    <introduced datetime="2014-03-14"/>
+  </status>
+  <introduced datetime="2014-03-14"/>
+  <titles>
+    <title type="short" as="introduced">SECURE Water Amendments Act</title>
+    <title type="official" as="introduced">To reauthorize and update certain provisions of the Secure Water Act.</title>
+  </titles>
+  <sponsor thomas_id="01602"/>
+  <cosponsors>
+    <cosponsor thomas_id="02107" joined="2014-03-14"/>
+    <cosponsor thomas_id="02159" joined="2014-03-14"/>
+    <cosponsor thomas_id="01774" joined="2014-03-14"/>
+    <cosponsor thomas_id="00303" joined="2014-03-14"/>
+    <cosponsor thomas_id="02122" joined="2014-03-14"/>
+    <cosponsor thomas_id="01708" joined="2014-03-14"/>
+    <cosponsor thomas_id="02089" joined="2014-03-14"/>
+    <cosponsor thomas_id="02010" joined="2014-03-14"/>
+    <cosponsor thomas_id="02101" joined="2014-03-14"/>
+    <cosponsor thomas_id="01583" joined="2014-03-14"/>
+    <cosponsor thomas_id="00701" joined="2014-03-14"/>
+    <cosponsor thomas_id="02111" joined="2014-03-14"/>
+    <cosponsor thomas_id="01939" joined="2014-03-14"/>
+    <cosponsor thomas_id="00893" joined="2014-03-14"/>
+    <cosponsor thomas_id="01835" joined="2014-07-24"/>
+    <cosponsor thomas_id="02109" joined="2014-03-14"/>
+    <cosponsor thomas_id="01818" joined="2014-03-14"/>
+    <cosponsor thomas_id="02110" joined="2014-03-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-03-14" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2014-03-21">
+      <text>Referred to the Subcommittee on Water and Power.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Water and Power" code="HSII13" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2019"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Government studies and investigations"/>
+    <term name="Hawaii"/>
+    <term name="Natural disasters"/>
+    <term name="Water resources funding"/>
+    <term name="Water use and supply"/>
+  </subjects>
+  <amendments/>
+  <summary>3/14/2014--Introduced.
+SECURE Water Amendments Act of 2014 - Amends the Omnibus Public Land Management Act of 2009 to: (1) include "planning for or addressing the impact of drought" among the activities for which the Secretary may make grants and enter cooperative agreements for water management improvement, (2) include Hawaii among the states in which eligible grant and agreement applicants may be located, (3) authorize appropriations for such grants and agreements for FY2015-FY2023, and (4) authorize appropriations for national water availability and use assessment program grants for FY2014-FY2023.</summary>
+</bill>

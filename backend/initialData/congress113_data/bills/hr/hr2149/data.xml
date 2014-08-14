@@ -1,0 +1,78 @@
+<bill session="113" type="h" number="2149" updated="2014-08-14T13:09:37-04:00">
+  <state datetime="2013-05-23">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-23"/>
+  </status>
+  <introduced datetime="2013-05-23"/>
+  <titles>
+    <title type="short" as="introduced">Families for Foster Youth Stamp Act of 2013</title>
+    <title type="official" as="introduced">To provide for the issuance and sale of a semipostal by the United States Postal Service to support effective programs targeted at improving permanency outcomes for youth in foster care.</title>
+  </titles>
+  <sponsor thomas_id="00229"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2013-06-11"/>
+    <cosponsor thomas_id="01840" joined="2013-05-23"/>
+    <cosponsor thomas_id="02159" joined="2013-07-24"/>
+    <cosponsor thomas_id="01864" joined="2013-06-11"/>
+    <cosponsor thomas_id="00231" joined="2014-07-17"/>
+    <cosponsor thomas_id="02144" joined="2013-06-11"/>
+    <cosponsor thomas_id="01708" joined="2013-06-11"/>
+    <cosponsor thomas_id="00511" joined="2013-06-11"/>
+    <cosponsor thomas_id="01634" joined="2014-02-28"/>
+    <cosponsor thomas_id="00588" joined="2014-02-25"/>
+    <cosponsor thomas_id="01501" joined="2013-06-11"/>
+    <cosponsor thomas_id="00766" joined="2014-02-25"/>
+    <cosponsor thomas_id="01504" joined="2013-06-11"/>
+    <cosponsor thomas_id="02117" joined="2014-07-17"/>
+    <cosponsor thomas_id="02108" joined="2014-07-10"/>
+    <cosponsor thomas_id="00868" joined="2013-07-17"/>
+    <cosponsor thomas_id="02162" joined="2014-01-29"/>
+    <cosponsor thomas_id="00944" joined="2013-07-30"/>
+    <cosponsor thomas_id="01003" joined="2014-01-29"/>
+    <cosponsor thomas_id="02110" joined="2014-06-19"/>
+    <cosponsor thomas_id="02112" joined="2014-02-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-23" state="REFERRED">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Education and the Workforce, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-05-23">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2013-05-23">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2013-05-23">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-06-19">
+      <text>Referred to the Subcommittee on Human Resources.</text>
+    </action>
+    <action datetime="2013-07-08">
+      <text>Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+    <committee subcommittee="Early Childhood, Elementary, and Secondary Education" code="HSED14" name="House Education and the Workforce" activity="Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee subcommittee="Human Resources" code="HSWM03" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="1047"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Adoption and foster care"/>
+    <term name="Child safety and welfare"/>
+    <term name="Judicial procedure and administration"/>
+    <term name="Postal service"/>
+    <term name="State and local courts"/>
+  </subjects>
+  <amendments/>
+  <summary>5/23/2013--Introduced.
+Families for Foster Youth Stamp Act of 2013 - Requires the United States Postal Service, for a period of at least four years, to provide for the issuance and sale of a semipostal in order to increase funding for effective programs targeted at improving permanency outcomes for youth in foster care.
+
+Divides the amount received from such sales equally between: (1) programs and activities under the Child Abuse Prevention and Treatment and Adoption Reform Act of 1978 that specifically target improvement in permanency outcomes for youth in foster care through adoption, guardianship, or kinship care; and (2) the program for state courts to assess and improve handling of proceedings relating to foster care and adoption.</summary>
+</bill>

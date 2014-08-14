@@ -1,0 +1,60 @@
+<bill session="113" type="hr" number="529" updated="2014-08-14T12:49:07-04:00">
+  <state datetime="2014-03-27">REFERRED</state>
+  <status>
+    <introduced datetime="2014-03-27"/>
+  </status>
+  <introduced datetime="2014-03-27"/>
+  <titles>
+    <title type="official" as="introduced">Recognizing March 31 as "Cesar Chavez Day" in honor of the accomplishments and legacy of Cesar Estrada Chavez.</title>
+  </titles>
+  <sponsor thomas_id="02107"/>
+  <cosponsors>
+    <cosponsor thomas_id="02163" joined="2014-03-27"/>
+    <cosponsor thomas_id="00368" joined="2014-03-27"/>
+    <cosponsor thomas_id="02120" joined="2014-03-27"/>
+    <cosponsor thomas_id="01708" joined="2014-03-27"/>
+    <cosponsor thomas_id="00478" joined="2014-03-27"/>
+    <cosponsor thomas_id="01634" joined="2014-03-27"/>
+    <cosponsor thomas_id="02147" joined="2014-03-27"/>
+    <cosponsor thomas_id="01501" joined="2014-03-27"/>
+    <cosponsor thomas_id="02146" joined="2014-03-27"/>
+    <cosponsor thomas_id="01811" joined="2014-03-27"/>
+    <cosponsor thomas_id="02108" joined="2014-03-27"/>
+    <cosponsor thomas_id="00893" joined="2014-03-27"/>
+    <cosponsor thomas_id="02109" joined="2014-06-24"/>
+    <cosponsor thomas_id="01757" joined="2014-03-27"/>
+    <cosponsor thomas_id="01522" joined="2014-03-27"/>
+    <cosponsor thomas_id="01588" joined="2014-03-27"/>
+    <cosponsor thomas_id="01042" joined="2014-04-03"/>
+    <cosponsor thomas_id="01818" joined="2014-03-27"/>
+    <cosponsor thomas_id="01890" joined="2014-03-27"/>
+    <cosponsor thomas_id="02110" joined="2014-03-27"/>
+    <cosponsor thomas_id="02112" joined="2014-03-27"/>
+    <cosponsor thomas_id="02166" joined="2014-03-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-03-27" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="113" relation="unknown" number="132"/>
+    <bill type="sr" session="113" relation="unknown" number="86"/>
+    <bill type="sr" session="113" relation="unknown" number="404"/>
+  </relatedbills>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="California"/>
+    <term name="Congressional tributes"/>
+    <term name="Labor-management relations"/>
+    <term name="Migrant, seasonal, agricultural labor"/>
+  </subjects>
+  <amendments/>
+  <summary>3/27/2014--Introduced.
+Recognizes Cesar Chavez Day to honor the accomplishments and example of Cesar Estrada Chavez.
+
+Pledges to promote his legacy and encourages the people of the United States to remember his rallying cry, "Si, se puede!" ("Si, se puede!" is Spanish for "Yes, we can!")</summary>
+</bill>

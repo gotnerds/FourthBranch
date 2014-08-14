@@ -1,0 +1,64 @@
+<bill session="113" type="sr" number="512" updated="2014-08-14T13:44:09-04:00">
+  <state datetime="2014-07-23">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-23"/>
+  </status>
+  <introduced datetime="2014-07-23"/>
+  <titles>
+    <title type="official" as="introduced">A resolution expressing the sense of the Senate regarding the Environmental Protection Agency and the proposed rules and guidelines relating to carbon dioxide emissions from power plants.</title>
+  </titles>
+  <sponsor thomas_id="01609"/>
+  <cosponsors>
+    <cosponsor thomas_id="01695" joined="2014-07-23"/>
+    <cosponsor thomas_id="01881" joined="2014-07-23"/>
+    <cosponsor thomas_id="01464" joined="2014-07-23"/>
+    <cosponsor thomas_id="01687" joined="2014-07-23"/>
+    <cosponsor thomas_id="00188" joined="2014-07-23"/>
+    <cosponsor thomas_id="00209" joined="2014-07-23"/>
+    <cosponsor thomas_id="00212" joined="2014-07-23"/>
+    <cosponsor thomas_id="00213" joined="2014-07-23"/>
+    <cosponsor thomas_id="01692" joined="2014-07-23"/>
+    <cosponsor thomas_id="00250" joined="2014-07-23"/>
+    <cosponsor thomas_id="02175" joined="2014-07-23"/>
+    <cosponsor thomas_id="01542" joined="2014-07-23"/>
+    <cosponsor thomas_id="02179" joined="2014-07-23"/>
+    <cosponsor thomas_id="01351" joined="2014-07-23"/>
+    <cosponsor thomas_id="02079" joined="2014-07-23"/>
+    <cosponsor thomas_id="00583" joined="2014-07-23"/>
+    <cosponsor thomas_id="01608" joined="2014-07-23"/>
+    <cosponsor thomas_id="01899" joined="2014-07-23"/>
+    <cosponsor thomas_id="01647" joined="2014-07-23"/>
+    <cosponsor thomas_id="02080" joined="2014-07-23"/>
+    <cosponsor thomas_id="01395" joined="2014-07-23"/>
+    <cosponsor thomas_id="01507" joined="2014-07-23"/>
+    <cosponsor thomas_id="01694" joined="2014-07-23"/>
+    <cosponsor thomas_id="01896" joined="2014-07-23"/>
+    <cosponsor thomas_id="00968" joined="2014-07-23"/>
+    <cosponsor thomas_id="02084" joined="2014-07-23"/>
+    <cosponsor thomas_id="01548" joined="2014-07-23"/>
+    <cosponsor thomas_id="01049" joined="2014-07-23"/>
+    <cosponsor thomas_id="01534" joined="2014-07-23"/>
+    <cosponsor thomas_id="02085" joined="2014-07-23"/>
+    <cosponsor thomas_id="01226" joined="2014-07-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-23" state="REFERRED">
+      <text>Referred to the Committee on Environment and Public Works.</text>
+      <reference ref="CR S4770" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Climate change and greenhouse gases"/>
+    <term name="Coal"/>
+    <term name="Electric power generation and transmission"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental regulatory procedures"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,63 @@
+<bill session="113" type="h" number="1740" updated="2014-08-14T13:05:33-04:00">
+  <state datetime="2013-04-25">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-25"/>
+  </status>
+  <introduced datetime="2013-04-25"/>
+  <titles>
+    <title type="short" as="introduced">Patients First Act of 2013</title>
+    <title type="official" as="introduced">To intensify stem cell research showing evidence of substantial clinical benefit to patients, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01683"/>
+  <cosponsors>
+    <cosponsor thomas_id="01858" joined="2014-02-28"/>
+    <cosponsor thomas_id="01787" joined="2013-05-08"/>
+    <cosponsor thomas_id="02155" joined="2013-05-15"/>
+    <cosponsor thomas_id="01912" joined="2013-10-23"/>
+    <cosponsor thomas_id="02144" joined="2013-05-15"/>
+    <cosponsor thomas_id="01989" joined="2014-02-28"/>
+    <cosponsor thomas_id="02067" joined="2013-05-08"/>
+    <cosponsor thomas_id="01749" joined="2013-06-11"/>
+    <cosponsor thomas_id="02020" joined="2013-05-08"/>
+    <cosponsor thomas_id="02028" joined="2013-05-15"/>
+    <cosponsor thomas_id="02046" joined="2013-05-08"/>
+    <cosponsor thomas_id="01733" joined="2013-05-08"/>
+    <cosponsor thomas_id="02050" joined="2013-05-15"/>
+    <cosponsor thomas_id="01885" joined="2013-06-11"/>
+    <cosponsor thomas_id="01781" joined="2013-04-25"/>
+    <cosponsor thomas_id="02033" joined="2013-05-15"/>
+    <cosponsor thomas_id="01685" joined="2013-05-15"/>
+    <cosponsor thomas_id="02034" joined="2013-05-08"/>
+    <cosponsor thomas_id="01071" joined="2013-05-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-25" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-04-26">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Cell biology and embryology"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Government studies and investigations"/>
+    <term name="Medical ethics"/>
+    <term name="Medical research"/>
+    <term name="Research administration and funding"/>
+  </subjects>
+  <amendments/>
+  <summary>4/25/2013--Introduced.
+Patients First Act of 2013 - Amends the Public Health Service Act to require the Secretary of Health and Human Services to conduct and support basic and applied research to develop techniques for the isolation, derivation, production, testing, and human clinical use of stem cells that may result in improved understanding of, or treatments for, diseases and other adverse health conditions, including pluripotent stem cells that have the flexibility of embryonic stem cells (whether or not such pluripotent stem cells have an embryonic source), provided that such techniques will not involve: (1) the creation of a human embryo for research purposes; (2) the destruction or discarding of, or risk of injury to, a living human embryo; or (3) the use of any stem cell the derivation or provision of which would be inconsistent with this Act.
+
+Requires the Secretary to issue guidelines implementing this Act to ensure that any research (including any clinical trial) supported under this Act: (1) is clearly consistent with the standards established in this Act, if conducted using human cells; and (2) is prioritized in terms of potential for near-term clinical benefit in human patients.
+
+Requires the Secretary to report on peer reviewed stem cell research proposals that were not funded.</summary>
+</bill>

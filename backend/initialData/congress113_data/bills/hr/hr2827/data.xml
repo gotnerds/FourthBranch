@@ -1,0 +1,72 @@
+<bill session="113" type="h" number="2827" updated="2014-08-14T13:15:35-04:00">
+  <state datetime="2013-07-25">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-25"/>
+  </status>
+  <introduced datetime="2013-07-25"/>
+  <titles>
+    <title type="short" as="introduced">Part D Beneficiary Appeals Fairness Act</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to allow for fair application of the exceptions process for drugs in tiers in formularies in prescription drug plans under Medicare part D.</title>
+  </titles>
+  <sponsor thomas_id="01843"/>
+  <cosponsors>
+    <cosponsor thomas_id="01845" joined="2013-07-25"/>
+    <cosponsor thomas_id="01836" joined="2014-04-08"/>
+    <cosponsor thomas_id="00279" joined="2014-02-25"/>
+    <cosponsor thomas_id="02133" joined="2014-05-22"/>
+    <cosponsor thomas_id="01857" joined="2014-02-25"/>
+    <cosponsor thomas_id="00462" joined="2014-05-22"/>
+    <cosponsor thomas_id="00511" joined="2014-05-08"/>
+    <cosponsor thomas_id="01794" joined="2014-05-19"/>
+    <cosponsor thomas_id="02101" joined="2014-05-21"/>
+    <cosponsor thomas_id="02199" joined="2014-05-19"/>
+    <cosponsor thomas_id="00612" joined="2013-07-25"/>
+    <cosponsor thomas_id="00635" joined="2014-05-08"/>
+    <cosponsor thomas_id="00701" joined="2014-06-05"/>
+    <cosponsor thomas_id="02074" joined="2013-07-25"/>
+    <cosponsor thomas_id="01811" joined="2014-05-19"/>
+    <cosponsor thomas_id="02108" joined="2014-07-31"/>
+    <cosponsor thomas_id="02162" joined="2014-06-09"/>
+    <cosponsor thomas_id="00893" joined="2014-05-22"/>
+    <cosponsor thomas_id="02097" joined="2013-10-30"/>
+    <cosponsor thomas_id="02171" joined="2014-05-19"/>
+    <cosponsor thomas_id="01588" joined="2014-01-09"/>
+    <cosponsor thomas_id="01722" joined="2014-04-08"/>
+    <cosponsor thomas_id="01861" joined="2014-02-10"/>
+    <cosponsor thomas_id="01256" joined="2014-05-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-25" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-07-25">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-07-25">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-07-26">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="1365"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Medicare"/>
+    <term name="Prescription drugs"/>
+  </subjects>
+  <amendments/>
+  <summary>7/25/2013--Introduced.
+Part D Beneficiary Appeals Fairness Act - Amends part D (Voluntary Prescription Drug Benefit Program) of title XVIII (Medicare) of the Social Security Act, with respect to a prescription drug plan (PDP) that provides for any tiered cost-sharing within a formulary (including a structure that provides for different co-payment or coinsurance amounts for drugs in different tiers included within the formulary), to authorize a Medicare part D eligible individual enrolled in the plan to request an exception to the tiered cost-sharing structure.
+
+States that in no case may the Secretary of Health and Human Services (HHS) allow a PDP sponsor to make any formulary tier of the tiered cost-sharing structure (including a formulary tier used for very high cost or unique items) ineligible for lower-cost sharing through an exception.</summary>
+</bill>

@@ -1,0 +1,47 @@
+<bill session="113" type="h" number="2355" updated="2014-08-14T13:11:27-04:00">
+  <state datetime="2013-06-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-13"/>
+  </status>
+  <introduced datetime="2013-06-13"/>
+  <titles>
+    <title type="short" as="introduced">All-American Flag Act</title>
+    <title type="official" as="introduced">To require the purchase of domestically made flags of the United States of America for use by the Federal Government.</title>
+  </titles>
+  <sponsor thomas_id="01845"/>
+  <cosponsors>
+    <cosponsor thomas_id="02127" joined="2013-06-13"/>
+    <cosponsor thomas_id="02055" joined="2013-06-13"/>
+    <cosponsor thomas_id="02126" joined="2013-08-01"/>
+    <cosponsor thomas_id="00279" joined="2013-06-13"/>
+    <cosponsor thomas_id="01894" joined="2013-06-13"/>
+    <cosponsor thomas_id="01797" joined="2013-06-25"/>
+    <cosponsor thomas_id="00635" joined="2013-06-13"/>
+    <cosponsor thomas_id="01781" joined="2013-06-13"/>
+    <cosponsor thomas_id="00699" joined="2013-06-13"/>
+    <cosponsor thomas_id="00940" joined="2013-06-13"/>
+    <cosponsor thomas_id="01756" joined="2014-07-15"/>
+    <cosponsor thomas_id="01593" joined="2013-06-13"/>
+    <cosponsor thomas_id="01853" joined="2013-09-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-13" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1214"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Buy American requirements"/>
+    <term name="National symbols"/>
+    <term name="Public contracts and procurement"/>
+  </subjects>
+  <amendments/>
+  <summary>6/13/2013--Introduced.
+All-American Flag Act - Requires any flags of the United States acquired for use by the federal government to be entirely manufactured in the United States from articles, materials, or supplies entirely grown, produced, or manufactured in the United States.</summary>
+</bill>

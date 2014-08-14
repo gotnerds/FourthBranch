@@ -1,0 +1,91 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-07", 
+      "committees": [
+        "SSAS"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Armed Services.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2300-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Armed Services", 
+      "committee_id": "SSAS"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Wicker, Roger F.", 
+      "sponsored_at": "2014-05-07", 
+      "state": "MS", 
+      "thomas_id": "01226", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-05-07", 
+  "number": "2300", 
+  "official_title": "A bill to amend title 10, United States Code, to require the Secretary of Defense to conduct periodic mental health assessments for members of the Armed Forces and to submit reports with respect to mental health, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Jacob Sexton Military Suicide Prevention Act of 2014", 
+  "sponsor": {
+    "district": null, 
+    "name": "Donnelly, Joe", 
+    "state": "IN", 
+    "thomas_id": "01850", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-05-07", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Congressional oversight", 
+    "Department of Defense", 
+    "Executive agency funding and structure", 
+    "Medical tests and diagnostic methods", 
+    "Mental health", 
+    "Military medicine", 
+    "Military personnel and dependents", 
+    "National Guard and reserves", 
+    "Neurological disorders"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Jacob Sexton Military Suicide Prevention Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to amend title 10, United States Code, to require the Secretary of Defense to conduct periodic mental health assessments for members of the Armed Forces and to submit reports with respect to mental health, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T14:04:27-04:00"
+}

@@ -1,0 +1,169 @@
+<bill session="113" type="h" number="3790" updated="2014-08-14T13:23:47-04:00">
+  <state datetime="2013-12-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-12-19"/>
+  </status>
+  <introduced datetime="2013-12-19"/>
+  <titles>
+    <title type="official" as="introduced">To repeal the annual adjustment of retired pay and retainer pay amounts for retired members of the Armed Forces under age 62.</title>
+  </titles>
+  <sponsor thomas_id="01685"/>
+  <cosponsors>
+    <cosponsor thomas_id="00038" joined="2014-02-03"/>
+    <cosponsor thomas_id="02093" joined="2013-12-19"/>
+    <cosponsor thomas_id="02027" joined="2013-12-19"/>
+    <cosponsor thomas_id="02102" joined="2014-01-08"/>
+    <cosponsor thomas_id="01838" joined="2013-12-19"/>
+    <cosponsor thomas_id="01753" joined="2013-12-19"/>
+    <cosponsor thomas_id="01787" joined="2013-12-19"/>
+    <cosponsor thomas_id="01882" joined="2014-01-07"/>
+    <cosponsor thomas_id="01840" joined="2013-12-19"/>
+    <cosponsor thomas_id="02127" joined="2013-12-19"/>
+    <cosponsor thomas_id="01471" joined="2013-12-19"/>
+    <cosponsor thomas_id="01752" joined="2013-12-19"/>
+    <cosponsor thomas_id="01912" joined="2013-12-19"/>
+    <cosponsor thomas_id="01742" joined="2013-12-19"/>
+    <cosponsor thomas_id="02103" joined="2013-12-19"/>
+    <cosponsor thomas_id="01774" joined="2013-12-23"/>
+    <cosponsor thomas_id="02144" joined="2013-12-19"/>
+    <cosponsor thomas_id="01643" joined="2013-12-19"/>
+    <cosponsor thomas_id="02116" joined="2013-12-19"/>
+    <cosponsor thomas_id="01717" joined="2013-12-19"/>
+    <cosponsor thomas_id="02057" joined="2013-12-19"/>
+    <cosponsor thomas_id="01857" joined="2013-12-23"/>
+    <cosponsor thomas_id="02125" joined="2013-12-19"/>
+    <cosponsor thomas_id="02067" joined="2013-12-19"/>
+    <cosponsor thomas_id="02064" joined="2013-12-19"/>
+    <cosponsor thomas_id="01683" joined="2013-12-19"/>
+    <cosponsor thomas_id="02119" joined="2013-12-19"/>
+    <cosponsor thomas_id="01707" joined="2013-12-19"/>
+    <cosponsor thomas_id="02122" joined="2014-02-03"/>
+    <cosponsor thomas_id="02164" joined="2013-12-19"/>
+    <cosponsor thomas_id="02120" joined="2013-12-19"/>
+    <cosponsor thomas_id="02049" joined="2013-12-19"/>
+    <cosponsor thomas_id="02043" joined="2013-12-19"/>
+    <cosponsor thomas_id="01487" joined="2014-01-10"/>
+    <cosponsor thomas_id="01914" joined="2013-12-19"/>
+    <cosponsor thomas_id="00462" joined="2013-12-19"/>
+    <cosponsor thomas_id="01990" joined="2013-12-19"/>
+    <cosponsor thomas_id="02041" joined="2013-12-19"/>
+    <cosponsor thomas_id="02010" joined="2013-12-19"/>
+    <cosponsor thomas_id="01933" joined="2014-01-09"/>
+    <cosponsor thomas_id="01490" joined="2013-12-19"/>
+    <cosponsor thomas_id="01580" joined="2014-02-03"/>
+    <cosponsor thomas_id="01634" joined="2013-12-19"/>
+    <cosponsor thomas_id="02028" joined="2013-12-19"/>
+    <cosponsor thomas_id="01909" joined="2013-12-19"/>
+    <cosponsor thomas_id="02046" joined="2013-12-19"/>
+    <cosponsor thomas_id="00612" joined="2013-12-19"/>
+    <cosponsor thomas_id="02154" joined="2013-12-23"/>
+    <cosponsor thomas_id="02025" joined="2013-12-19"/>
+    <cosponsor thomas_id="01498" joined="2013-12-23"/>
+    <cosponsor thomas_id="00635" joined="2013-12-19"/>
+    <cosponsor thomas_id="01907" joined="2013-12-19"/>
+    <cosponsor thomas_id="02100" joined="2014-01-17"/>
+    <cosponsor thomas_id="01936" joined="2013-12-19"/>
+    <cosponsor thomas_id="02050" joined="2013-12-19"/>
+    <cosponsor thomas_id="01885" joined="2014-01-07"/>
+    <cosponsor thomas_id="00699" joined="2013-12-19"/>
+    <cosponsor thomas_id="01846" joined="2013-12-19"/>
+    <cosponsor thomas_id="02033" joined="2014-01-08"/>
+    <cosponsor thomas_id="02150" joined="2013-12-19"/>
+    <cosponsor thomas_id="02094" joined="2013-12-19"/>
+    <cosponsor thomas_id="01804" joined="2013-12-19"/>
+    <cosponsor thomas_id="02074" joined="2013-12-19"/>
+    <cosponsor thomas_id="01809" joined="2013-12-19"/>
+    <cosponsor thomas_id="02052" joined="2013-12-19"/>
+    <cosponsor thomas_id="00800" joined="2013-12-19"/>
+    <cosponsor thomas_id="01730" joined="2014-01-07"/>
+    <cosponsor thomas_id="02117" joined="2013-12-19"/>
+    <cosponsor thomas_id="01744" joined="2013-12-19"/>
+    <cosponsor thomas_id="02108" joined="2013-12-23"/>
+    <cosponsor thomas_id="01758" joined="2013-12-19"/>
+    <cosponsor thomas_id="02162" joined="2013-12-19"/>
+    <cosponsor thomas_id="01974" joined="2013-12-19"/>
+    <cosponsor thomas_id="02035" joined="2013-12-19"/>
+    <cosponsor thomas_id="01738" joined="2013-12-19"/>
+    <cosponsor thomas_id="02157" joined="2013-12-19"/>
+    <cosponsor thomas_id="01927" joined="2013-12-19"/>
+    <cosponsor thomas_id="01915" joined="2013-12-19"/>
+    <cosponsor thomas_id="00940" joined="2013-12-19"/>
+    <cosponsor thomas_id="01982" joined="2013-12-23"/>
+    <cosponsor thomas_id="02048" joined="2013-12-23"/>
+    <cosponsor thomas_id="02068" joined="2013-12-19"/>
+    <cosponsor thomas_id="01704" joined="2013-12-19"/>
+    <cosponsor thomas_id="01916" joined="2014-02-04"/>
+    <cosponsor thomas_id="00985" joined="2013-12-19"/>
+    <cosponsor thomas_id="02003" joined="2013-12-19"/>
+    <cosponsor thomas_id="02109" joined="2013-12-19"/>
+    <cosponsor thomas_id="02039" joined="2013-12-19"/>
+    <cosponsor thomas_id="01728" joined="2014-02-04"/>
+    <cosponsor thomas_id="01962" joined="2014-01-07"/>
+    <cosponsor thomas_id="02009" joined="2013-12-19"/>
+    <cosponsor thomas_id="01861" joined="2013-12-19"/>
+    <cosponsor thomas_id="01590" joined="2013-12-19"/>
+    <cosponsor thomas_id="02099" joined="2013-12-19"/>
+    <cosponsor thomas_id="02191" joined="2014-01-08"/>
+    <cosponsor thomas_id="02000" joined="2013-12-19"/>
+    <cosponsor thomas_id="02047" joined="2013-12-19"/>
+    <cosponsor thomas_id="02104" joined="2014-01-03"/>
+    <cosponsor thomas_id="02110" joined="2013-12-19"/>
+    <cosponsor thomas_id="01566" joined="2013-12-19"/>
+    <cosponsor thomas_id="01593" joined="2014-01-08"/>
+    <cosponsor thomas_id="01997" joined="2013-12-23"/>
+    <cosponsor thomas_id="01940" joined="2013-12-19"/>
+    <cosponsor thomas_id="01741" joined="2013-12-19"/>
+    <cosponsor thomas_id="02105" joined="2013-12-19"/>
+    <cosponsor thomas_id="02112" joined="2014-02-03"/>
+    <cosponsor thomas_id="02167" joined="2013-12-19"/>
+    <cosponsor thomas_id="01855" joined="2013-12-19"/>
+    <cosponsor thomas_id="01856" joined="2013-12-19"/>
+    <cosponsor thomas_id="01688" joined="2013-12-19"/>
+    <cosponsor thomas_id="01886" joined="2013-12-19"/>
+    <cosponsor thomas_id="02021" joined="2013-12-19"/>
+    <cosponsor thomas_id="02115" joined="2013-12-19"/>
+    <cosponsor thomas_id="01256" joined="2014-01-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-12-19" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2014-01-24">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee subcommittee="Military Personnel" code="HSAS02" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="3787"/>
+    <bill type="h" session="113" relation="unknown" number="3788"/>
+    <bill type="h" session="113" relation="identical" number="3792"/>
+    <bill type="h" session="113" relation="unknown" number="3793"/>
+    <bill type="h" session="113" relation="unknown" number="3794"/>
+    <bill type="h" session="113" relation="unknown" number="3797"/>
+    <bill type="h" session="113" relation="unknown" number="3798"/>
+    <bill type="h" session="113" relation="unknown" number="3801"/>
+    <bill type="h" session="113" relation="identical" number="3804"/>
+    <bill type="h" session="113" relation="unknown" number="3807"/>
+    <bill type="h" session="113" relation="unknown" number="4134"/>
+    <bill type="s" session="113" relation="unknown" number="1844"/>
+    <bill type="s" session="113" relation="unknown" number="1856"/>
+    <bill type="s" session="113" relation="unknown" number="1869"/>
+    <bill type="s" session="113" relation="unknown" number="1930"/>
+    <bill type="s" session="113" relation="unknown" number="1931"/>
+    <bill type="s" session="113" relation="unknown" number="1950"/>
+    <bill type="s" session="113" relation="unknown" number="1963"/>
+    <bill type="s" session="113" relation="unknown" number="1977"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Inflation and prices"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>12/19/2013--Introduced.
+Repeals the provision of the Bipartisan Budget Act of 2013 that reduces the cost-of-living adjustment to the retirement pay of members of the Armed Forces under age 62.</summary>
+</bill>

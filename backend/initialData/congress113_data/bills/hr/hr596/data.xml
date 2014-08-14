@@ -1,0 +1,128 @@
+<bill session="113" type="h" number="596" updated="2014-08-14T12:55:49-04:00">
+  <state datetime="2013-02-08">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-08"/>
+  </status>
+  <introduced datetime="2013-02-08"/>
+  <titles>
+    <title type="short" as="introduced">Public Lands Renewable Energy Development Act of 2013</title>
+    <title type="official" as="introduced">To promote the development of renewable energy on public lands, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01992"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2013-02-08"/>
+    <cosponsor thomas_id="02027" joined="2013-04-30"/>
+    <cosponsor thomas_id="00099" joined="2013-02-08"/>
+    <cosponsor thomas_id="01845" joined="2013-06-27"/>
+    <cosponsor thomas_id="02106" joined="2013-06-12"/>
+    <cosponsor thomas_id="02107" joined="2013-04-09"/>
+    <cosponsor thomas_id="02159" joined="2013-09-10"/>
+    <cosponsor thomas_id="02055" joined="2014-04-01"/>
+    <cosponsor thomas_id="01912" joined="2013-02-08"/>
+    <cosponsor thomas_id="01959" joined="2013-05-21"/>
+    <cosponsor thomas_id="00231" joined="2013-04-24"/>
+    <cosponsor thomas_id="01774" joined="2013-02-08"/>
+    <cosponsor thomas_id="02144" joined="2013-05-21"/>
+    <cosponsor thomas_id="02138" joined="2013-02-27"/>
+    <cosponsor thomas_id="00279" joined="2013-02-08"/>
+    <cosponsor thomas_id="01479" joined="2013-02-08"/>
+    <cosponsor thomas_id="02096" joined="2014-01-10"/>
+    <cosponsor thomas_id="01995" joined="2013-02-08"/>
+    <cosponsor thomas_id="01707" joined="2014-03-24"/>
+    <cosponsor thomas_id="02164" joined="2013-07-10"/>
+    <cosponsor thomas_id="02120" joined="2013-09-10"/>
+    <cosponsor thomas_id="01998" joined="2013-02-27"/>
+    <cosponsor thomas_id="02040" joined="2013-02-08"/>
+    <cosponsor thomas_id="02147" joined="2013-04-09"/>
+    <cosponsor thomas_id="02101" joined="2013-02-27"/>
+    <cosponsor thomas_id="02169" joined="2014-03-21"/>
+    <cosponsor thomas_id="01907" joined="2013-02-08"/>
+    <cosponsor thomas_id="02011" joined="2013-06-14"/>
+    <cosponsor thomas_id="01846" joined="2014-01-31"/>
+    <cosponsor thomas_id="00701" joined="2014-03-12"/>
+    <cosponsor thomas_id="02111" joined="2014-01-10"/>
+    <cosponsor thomas_id="02146" joined="2013-05-21"/>
+    <cosponsor thomas_id="01939" joined="2013-02-08"/>
+    <cosponsor thomas_id="01960" joined="2013-04-09"/>
+    <cosponsor thomas_id="01809" joined="2013-09-10"/>
+    <cosponsor thomas_id="00893" joined="2013-04-09"/>
+    <cosponsor thomas_id="01738" joined="2013-02-27"/>
+    <cosponsor thomas_id="01835" joined="2013-02-27"/>
+    <cosponsor thomas_id="01929" joined="2013-04-30"/>
+    <cosponsor thomas_id="01910" joined="2013-02-08"/>
+    <cosponsor thomas_id="02109" joined="2014-05-01"/>
+    <cosponsor thomas_id="01009" joined="2013-04-09"/>
+    <cosponsor thomas_id="01950" joined="2013-12-02"/>
+    <cosponsor thomas_id="01994" joined="2013-02-08"/>
+    <cosponsor thomas_id="01861" joined="2013-09-10"/>
+    <cosponsor thomas_id="01590" joined="2013-02-08"/>
+    <cosponsor thomas_id="02099" joined="2013-06-27"/>
+    <cosponsor thomas_id="01071" joined="2014-06-12"/>
+    <cosponsor thomas_id="02000" joined="2013-06-27"/>
+    <cosponsor thomas_id="01890" joined="2014-07-28"/>
+    <cosponsor thomas_id="02168" joined="2013-06-12"/>
+    <cosponsor thomas_id="02047" joined="2013-07-10"/>
+    <cosponsor thomas_id="02110" joined="2013-06-14"/>
+    <cosponsor thomas_id="01593" joined="2013-02-08"/>
+    <cosponsor thomas_id="01997" joined="2013-02-08"/>
+    <cosponsor thomas_id="01940" joined="2013-02-27"/>
+    <cosponsor thomas_id="01884" joined="2014-06-12"/>
+    <cosponsor thomas_id="02105" joined="2013-04-09"/>
+    <cosponsor thomas_id="01886" joined="2013-04-24"/>
+    <cosponsor thomas_id="01256" joined="2013-06-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-08" state="REFERRED">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-02-08">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2013-02-08">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2013-02-21">
+      <text>Referred to the Subcommittee on Energy and Mineral Resources.</text>
+    </action>
+    <action datetime="2013-02-25">
+      <text>Referred to the Subcommittee on Conservation, Energy, and Forestry.</text>
+    </action>
+    <action datetime="2014-07-29">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee subcommittee="Energy and Mineral Resources" code="HSII06" name="House Natural Resources" activity="Referral, Hearings"/>
+    <committee subcommittee="" code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee subcommittee="Conservation, Energy, and Forestry" code="HSAG15" name="House Agriculture" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Agriculture"/>
+    <term name="Department of the Interior"/>
+    <term name="Electric power generation and transmission"/>
+    <term name="Energy revenues and royalties"/>
+    <term name="General public lands matters"/>
+    <term name="Government studies and investigations"/>
+    <term name="Government trust funds"/>
+    <term name="Hunting and fishing"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Land use and conservation"/>
+    <term name="Outdoor recreation"/>
+    <term name="State and local finance"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+  <summary>2/8/2013--Introduced.
+Public Lands Renewable Energy Development Act of 2013 - Amends the Energy Policy Act of 2005 to require amounts received through FY2020 (currently, through FY2010) from leases under the Geothermal Steam Act of 1970 to be available to the Secretary of the Interior to spend in such amounts as are provided in advance appropriations acts for implementing such Acts.
+
+Requires the Secretary of Interior and the Secretary of Agriculture (USDA) to each establish a wind and solar leasing pilot program under which lease sales are conducted on covered public lands administered by the Secretary concerned to carry out wind and solar energy projects. Requires the Secretaries to jointly determine as to whether to expand the pilot program to apply to all covered public lands. Defines "covered land" to mean land that is: (1) public land administered by the Secretary of the Interior, or National Forest System land administered by the Secretary of Agriculture; and (2) not excluded from development of solar or wind energy under a final land use plan established under the Federal Land Policy and Management Act of 1976, a final land and resource management plan established under the National Forest Management Act of 1976, or federal law. Establishes in the Treasury the Renewable Energy Resource Conservation Fund to be administered by the Secretary of the Interior for use in regions impacted by the development of wind or solar energy on public lands. Requires Fund amounts to be used in those regions for: (1) the protection and restoration of important fish and wildlife habitat; and (2) the assurance and improvement of access to federal lands and waters for hunting, fishing, and other forms of outdoor recreation.
+
+Requires the Secretaries to determine the feasibility of carrying out a mitigation banking program on federal lands administered by the Secretaries to fully offset the impacts of wind or solar energy on such lands.</summary>
+</bill>

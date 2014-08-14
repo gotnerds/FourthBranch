@@ -1,0 +1,49 @@
+<bill session="113" type="h" number="4353" updated="2014-08-14T13:28:32-04:00">
+  <state datetime="2014-04-01">REFERRED</state>
+  <status>
+    <introduced datetime="2014-04-01"/>
+  </status>
+  <introduced datetime="2014-04-01"/>
+  <titles>
+    <title type="short" as="introduced">Shutdown Windfall Reimbursement Act</title>
+    <title type="official" as="introduced">To require the Director of the National Park Service to refund to States all State funds that were used to reopen and temporarily operate a unit of the National Park System during the October 2013 shutdown.</title>
+  </titles>
+  <sponsor thomas_id="01998"/>
+  <cosponsors>
+    <cosponsor thomas_id="01753" joined="2014-04-01"/>
+    <cosponsor thomas_id="01748" joined="2014-04-01"/>
+    <cosponsor thomas_id="01956" joined="2014-04-01"/>
+    <cosponsor thomas_id="00322" joined="2014-04-01"/>
+    <cosponsor thomas_id="01707" joined="2014-04-01"/>
+    <cosponsor thomas_id="01992" joined="2014-04-01"/>
+    <cosponsor thomas_id="01954" joined="2014-04-01"/>
+    <cosponsor thomas_id="01997" joined="2014-04-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-04-01" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2014-04-04">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Public Lands and Environmental Regulation" code="HSII10" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2104"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Appropriations"/>
+    <term name="Department of the Interior"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="State and local finance"/>
+  </subjects>
+  <amendments/>
+  <summary>4/1/2014--Introduced.
+Shutdown Windfall Reimbursement Act - Requires the Director of the National Park Service to refund to each state all of the funds that it used to reopen and temporarily operate a unit of the National Park System during the period in October 2013 in which there was a lapse in appropriations for that unit.</summary>
+</bill>

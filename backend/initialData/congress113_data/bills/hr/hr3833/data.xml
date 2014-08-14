@@ -1,0 +1,66 @@
+<bill session="113" type="h" number="3833" updated="2014-08-14T13:24:09-04:00">
+  <state datetime="2014-01-09">REFERRED</state>
+  <status>
+    <introduced datetime="2014-01-09"/>
+  </status>
+  <introduced datetime="2014-01-09"/>
+  <titles>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to modify the Medicare durable medical equipment face-to-face encounter documentation requirement.</title>
+  </titles>
+  <sponsor thomas_id="00766"/>
+  <cosponsors>
+    <cosponsor thomas_id="00099" joined="2014-03-11"/>
+    <cosponsor thomas_id="01471" joined="2014-06-17"/>
+    <cosponsor thomas_id="01564" joined="2014-04-29"/>
+    <cosponsor thomas_id="01912" joined="2014-03-05"/>
+    <cosponsor thomas_id="01836" joined="2014-06-18"/>
+    <cosponsor thomas_id="00279" joined="2014-03-04"/>
+    <cosponsor thomas_id="02043" joined="2014-07-22"/>
+    <cosponsor thomas_id="01656" joined="2014-04-28"/>
+    <cosponsor thomas_id="02170" joined="2014-05-20"/>
+    <cosponsor thomas_id="02154" joined="2014-07-16"/>
+    <cosponsor thomas_id="01675" joined="2014-08-01"/>
+    <cosponsor thomas_id="01781" joined="2014-07-30"/>
+    <cosponsor thomas_id="00699" joined="2014-07-10"/>
+    <cosponsor thomas_id="01846" joined="2014-07-22"/>
+    <cosponsor thomas_id="00701" joined="2014-04-28"/>
+    <cosponsor thomas_id="02162" joined="2014-04-08"/>
+    <cosponsor thomas_id="00944" joined="2014-02-25"/>
+    <cosponsor thomas_id="00997" joined="2014-06-05"/>
+    <cosponsor thomas_id="01588" joined="2014-04-28"/>
+    <cosponsor thomas_id="01861" joined="2014-04-28"/>
+    <cosponsor thomas_id="01071" joined="2014-07-30"/>
+    <cosponsor thomas_id="01151" joined="2014-07-10"/>
+    <cosponsor thomas_id="01256" joined="2014-04-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-01-09">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E37"/>
+    </action>
+    <action datetime="2014-01-09" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-01-09">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2014-01-09">
+      <text>Referred to House Ways and Means</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Health information and medical records"/>
+    <term name="Health personnel"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>1/9/2014--Introduced.
+Amends part B (Supplementary Medical Insurance) of title XVIII (Medicare) of the Social Security Act to revise the Medicare durable medical equipment face-to-face encounter documentation requirement.</summary>
+</bill>

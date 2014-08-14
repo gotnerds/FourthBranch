@@ -1,0 +1,26 @@
+<bill session="113" type="s" number="2744" updated="2014-08-14T14:08:10-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="short" as="introduced">Great Smoky Mountains National Park Agreement Act of 2014</title>
+    <title type="official" as="introduced">A bill to authorize a settlement in accordance with the agreement entered into by the Tennessee Valley Authority, the Department of the Interior, and counties within the Great Smoky Mountains National Park.</title>
+  </titles>
+  <sponsor thomas_id="01902"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="3806"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

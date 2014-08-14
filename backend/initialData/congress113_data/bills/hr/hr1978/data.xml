@@ -1,0 +1,55 @@
+<bill session="113" type="h" number="1978" updated="2014-08-14T13:08:08-04:00">
+  <state datetime="2013-05-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-14"/>
+  </status>
+  <introduced datetime="2013-05-14"/>
+  <titles>
+    <title type="short" as="introduced">Support Working Parents Act of 2013</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to repeal the phasedown of the credit percentage for the dependent care tax credit.</title>
+  </titles>
+  <sponsor thomas_id="01798"/>
+  <cosponsors>
+    <cosponsor thomas_id="01740" joined="2013-05-23"/>
+    <cosponsor thomas_id="01469" joined="2013-05-23"/>
+    <cosponsor thomas_id="02159" joined="2013-05-23"/>
+    <cosponsor thomas_id="02055" joined="2014-02-14"/>
+    <cosponsor thomas_id="01807" joined="2013-05-23"/>
+    <cosponsor thomas_id="00281" joined="2013-05-23"/>
+    <cosponsor thomas_id="00316" joined="2013-05-23"/>
+    <cosponsor thomas_id="01973" joined="2013-05-23"/>
+    <cosponsor thomas_id="00588" joined="2013-05-23"/>
+    <cosponsor thomas_id="01498" joined="2013-05-14"/>
+    <cosponsor thomas_id="01501" joined="2013-05-23"/>
+    <cosponsor thomas_id="01503" joined="2013-05-23"/>
+    <cosponsor thomas_id="00854" joined="2013-05-23"/>
+    <cosponsor thomas_id="01510" joined="2013-05-23"/>
+    <cosponsor thomas_id="01927" joined="2013-05-23"/>
+    <cosponsor thomas_id="02171" joined="2013-05-23"/>
+    <cosponsor thomas_id="02023" joined="2013-05-23"/>
+    <cosponsor thomas_id="01757" joined="2013-05-23"/>
+    <cosponsor thomas_id="01151" joined="2013-05-23"/>
+    <cosponsor thomas_id="01777" joined="2013-05-23"/>
+    <cosponsor thomas_id="01853" joined="2013-06-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-14" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="2048"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Adult day care"/>
+    <term name="Child care and development"/>
+    <term name="Income tax credits"/>
+  </subjects>
+  <amendments/>
+  <summary>5/14/2013--Introduced.
+Support Working Parents Act of 2013 - Amends the Internal Revenue Code to repeal the phaseout of the tax credit for dependent care services for taxpayers whose adjusted gross incomes exceed $15,000.</summary>
+</bill>

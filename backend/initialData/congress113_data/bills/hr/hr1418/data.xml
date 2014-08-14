@@ -1,0 +1,54 @@
+<bill session="113" type="h" number="1418" updated="2014-08-14T13:02:47-04:00">
+  <state datetime="2013-04-09">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-09"/>
+  </status>
+  <introduced datetime="2013-04-09"/>
+  <titles>
+    <title type="short" as="introduced">Partnering with American Manufacturers for Efficiency and Competitiveness Act</title>
+    <title type="official" as="introduced">To reauthorize the competitive grant program under section 25(f) of the National Institute of Standards and Technology Act (15 U.S.C. 278k(f)).</title>
+  </titles>
+  <sponsor thomas_id="02117"/>
+  <cosponsors>
+    <cosponsor thomas_id="00132" joined="2013-04-09"/>
+    <cosponsor thomas_id="02107" joined="2013-04-09"/>
+    <cosponsor thomas_id="01970" joined="2013-04-24"/>
+    <cosponsor thomas_id="02133" joined="2013-04-26"/>
+    <cosponsor thomas_id="01976" joined="2013-10-22"/>
+    <cosponsor thomas_id="02119" joined="2013-04-24"/>
+    <cosponsor thomas_id="01973" joined="2013-05-14"/>
+    <cosponsor thomas_id="00511" joined="2013-04-09"/>
+    <cosponsor thomas_id="02190" joined="2014-07-09"/>
+    <cosponsor thomas_id="01501" joined="2014-06-09"/>
+    <cosponsor thomas_id="01730" joined="2013-04-26"/>
+    <cosponsor thomas_id="02097" joined="2013-05-14"/>
+    <cosponsor thomas_id="02113" joined="2013-04-09"/>
+    <cosponsor thomas_id="02141" joined="2013-04-11"/>
+    <cosponsor thomas_id="02109" joined="2013-06-25"/>
+    <cosponsor thomas_id="02099" joined="2013-04-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-09" state="REFERRED">
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="2013-06-24">
+      <text>Referred to the Subcommittee on Research and Technology.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSSY" name="House Science, Space, and Technology" activity="Referral, In Committee"/>
+    <committee subcommittee="Research and Technology" code="HSSY15" name="House Science, Space, and Technology" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Advanced technology and technological innovations"/>
+    <term name="Department of Commerce"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Manufacturing"/>
+    <term name="Technology transfer and commercialization"/>
+  </subjects>
+  <amendments/>
+  <summary>4/9/2013--Introduced.
+Partnering with American Manufacturers for Efficiency and Competitiveness Act - Amends the National Institute of Standards and Technology Act to extend through FY2018 the authorization of appropriations to add capabilities to the Hollings Manufacturing Extension Partnership program, including the development of projects to solve new or emerging manufacturing problems.</summary>
+</bill>

@@ -1,0 +1,63 @@
+<bill session="113" type="s" number="1848" updated="2014-08-14T14:00:40-04:00">
+  <state datetime="2013-12-18">REFERRED</state>
+  <status>
+    <introduced datetime="2013-12-18"/>
+  </status>
+  <introduced datetime="2013-12-18"/>
+  <titles>
+    <title type="short" as="introduced">Abortion Insurance Full Disclosure Act of 2013</title>
+    <title type="official" as="introduced">A bill to amend section 1303(b)(3) of Public Law 111-148 concerning the notice requirements regarding the extent of health plan coverage of abortion and abortion premium surcharges.</title>
+  </titles>
+  <sponsor thomas_id="00968"/>
+  <cosponsors>
+    <cosponsor thomas_id="01881" joined="2013-12-18"/>
+    <cosponsor thomas_id="01687" joined="2013-12-18"/>
+    <cosponsor thomas_id="00153" joined="2013-12-19"/>
+    <cosponsor thomas_id="00188" joined="2014-01-14"/>
+    <cosponsor thomas_id="00209" joined="2013-12-18"/>
+    <cosponsor thomas_id="00212" joined="2014-01-08"/>
+    <cosponsor thomas_id="00213" joined="2013-12-18"/>
+    <cosponsor thomas_id="01542" joined="2013-12-18"/>
+    <cosponsor thomas_id="02179" joined="2013-12-18"/>
+    <cosponsor thomas_id="00452" joined="2014-01-08"/>
+    <cosponsor thomas_id="00457" joined="2013-12-18"/>
+    <cosponsor thomas_id="01351" joined="2013-12-18"/>
+    <cosponsor thomas_id="00583" joined="2013-12-18"/>
+    <cosponsor thomas_id="01899" joined="2013-12-18"/>
+    <cosponsor thomas_id="02080" joined="2013-12-18"/>
+    <cosponsor thomas_id="01507" joined="2013-12-18"/>
+    <cosponsor thomas_id="02082" joined="2013-12-18"/>
+    <cosponsor thomas_id="00924" joined="2013-12-20"/>
+    <cosponsor thomas_id="01896" joined="2013-12-18"/>
+    <cosponsor thomas_id="02084" joined="2013-12-18"/>
+    <cosponsor thomas_id="02056" joined="2013-12-20"/>
+    <cosponsor thomas_id="01548" joined="2014-01-09"/>
+    <cosponsor thomas_id="01534" joined="2013-12-18"/>
+    <cosponsor thomas_id="01226" joined="2013-12-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-12-18" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="3279"/>
+    <bill type="h" session="113" relation="unknown" number="3932"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Abortion"/>
+    <term name="Consumer affairs"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Insurance industry and regulation"/>
+    <term name="Marketing and advertising"/>
+  </subjects>
+  <amendments/>
+  <summary>12/18/2013--Introduced.
+Abortion Insurance Full Disclosure Act of 2013 - Amends the Patient Protection and Affordable Care Act, with respect to abortion coverage in qualified plans offered through a health care exchange in a state, to modify the notice rules to require that:
+
+ in the case of services regarding abortions both for which public funding is prohibited and allowed, the extent of coverage shall be prominently displayed in any marketing or advertising materials, comparison tools, or summaries of benefits and coverage explanations made available by the issuer of the plan, by an exchange, or by the Secretary of Health and Human Services (HHS), including information made available through an Internet portal or exchange; and in the case of abortions for which public funding is prohibited and where the premium for the plan is disclosed, the surcharge attributable to such services, consisting of an amount equal to the actuarial value of the coverage, shall be disclosed and identified separately.</summary>
+</bill>

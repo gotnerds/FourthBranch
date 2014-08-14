@@ -1,0 +1,49 @@
+<bill session="113" type="h" number="5314" updated="2014-08-14T13:36:51-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="short" as="introduced">PREPARE Act of 2014</title>
+    <title type="short" as="introduced">Preparedness and Risk Management for Extreme Weather Patterns Assuring Resilience Act of 2014</title>
+    <title type="official" as="introduced">To amend title 31, United States Code, to enhance the Federal Government's planning and preparation for extreme weather, and the Federal Government's dissemination of best practices to respond to extreme weather, thereby increasing resiliency, improving regional coordination, and mitigating the financial risk to the Federal Government from such extreme weather.</title>
+  </titles>
+  <sponsor thomas_id="02159"/>
+  <cosponsors>
+    <cosponsor thomas_id="00099" joined="2014-07-31"/>
+    <cosponsor thomas_id="01564" joined="2014-07-31"/>
+    <cosponsor thomas_id="01742" joined="2014-07-31"/>
+    <cosponsor thomas_id="01799" joined="2014-07-31"/>
+    <cosponsor thomas_id="00303" joined="2014-07-31"/>
+    <cosponsor thomas_id="01797" joined="2014-07-31"/>
+    <cosponsor thomas_id="02041" joined="2014-07-31"/>
+    <cosponsor thomas_id="00511" joined="2014-07-31"/>
+    <cosponsor thomas_id="01580" joined="2014-07-31"/>
+    <cosponsor thomas_id="01634" joined="2014-07-31"/>
+    <cosponsor thomas_id="02101" joined="2014-07-31"/>
+    <cosponsor thomas_id="01846" joined="2014-07-31"/>
+    <cosponsor thomas_id="00868" joined="2014-07-31"/>
+    <cosponsor thomas_id="02113" joined="2014-07-31"/>
+    <cosponsor thomas_id="01927" joined="2014-07-31"/>
+    <cosponsor thomas_id="01256" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

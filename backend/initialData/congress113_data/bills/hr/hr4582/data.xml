@@ -1,0 +1,221 @@
+<bill session="113" type="h" number="4582" updated="2014-08-14T13:30:27-04:00">
+  <state datetime="2014-05-06">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-06"/>
+  </status>
+  <introduced datetime="2014-05-06"/>
+  <titles>
+    <title type="short" as="introduced">Bank on Students Emergency Loan Refinancing Act</title>
+    <title type="official" as="introduced">To amend the Higher Education Act of 1965 to provide for the refinancing of certain Federal student loans, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01535"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2014-05-29"/>
+    <cosponsor thomas_id="02153" joined="2014-06-10"/>
+    <cosponsor thomas_id="00091" joined="2014-08-01"/>
+    <cosponsor thomas_id="01740" joined="2014-05-06"/>
+    <cosponsor thomas_id="00099" joined="2014-05-06"/>
+    <cosponsor thomas_id="02092" joined="2014-05-06"/>
+    <cosponsor thomas_id="01469" joined="2014-06-19"/>
+    <cosponsor thomas_id="01845" joined="2014-06-11"/>
+    <cosponsor thomas_id="00132" joined="2014-06-19"/>
+    <cosponsor thomas_id="02106" joined="2014-05-07"/>
+    <cosponsor thomas_id="02127" joined="2014-05-19"/>
+    <cosponsor thomas_id="01761" joined="2014-06-09"/>
+    <cosponsor thomas_id="01471" joined="2014-08-01"/>
+    <cosponsor thomas_id="01564" joined="2014-05-19"/>
+    <cosponsor thomas_id="01999" joined="2014-06-12"/>
+    <cosponsor thomas_id="01889" joined="2014-05-19"/>
+    <cosponsor thomas_id="02159" joined="2014-06-11"/>
+    <cosponsor thomas_id="01839" joined="2014-06-10"/>
+    <cosponsor thomas_id="02163" joined="2014-05-06"/>
+    <cosponsor thomas_id="01970" joined="2014-07-14"/>
+    <cosponsor thomas_id="02055" joined="2014-05-19"/>
+    <cosponsor thomas_id="02196" joined="2014-05-19"/>
+    <cosponsor thomas_id="01864" joined="2014-05-29"/>
+    <cosponsor thomas_id="01654" joined="2014-06-09"/>
+    <cosponsor thomas_id="01790" joined="2014-06-19"/>
+    <cosponsor thomas_id="01878" joined="2014-05-30"/>
+    <cosponsor thomas_id="00229" joined="2014-06-09"/>
+    <cosponsor thomas_id="01836" joined="2014-05-06"/>
+    <cosponsor thomas_id="01604" joined="2014-06-10"/>
+    <cosponsor thomas_id="00256" joined="2014-05-07"/>
+    <cosponsor thomas_id="01477" joined="2014-06-12"/>
+    <cosponsor thomas_id="00279" joined="2014-06-10"/>
+    <cosponsor thomas_id="00281" joined="2014-05-19"/>
+    <cosponsor thomas_id="02096" joined="2014-05-07"/>
+    <cosponsor thomas_id="01976" joined="2014-06-11"/>
+    <cosponsor thomas_id="00299" joined="2014-06-11"/>
+    <cosponsor thomas_id="00316" joined="2014-06-17"/>
+    <cosponsor thomas_id="02123" joined="2014-06-10"/>
+    <cosponsor thomas_id="01857" joined="2014-06-12"/>
+    <cosponsor thomas_id="02125" joined="2014-05-19"/>
+    <cosponsor thomas_id="00355" joined="2014-06-17"/>
+    <cosponsor thomas_id="02114" joined="2014-06-10"/>
+    <cosponsor thomas_id="00368" joined="2014-06-09"/>
+    <cosponsor thomas_id="01888" joined="2014-06-11"/>
+    <cosponsor thomas_id="01895" joined="2014-05-06"/>
+    <cosponsor thomas_id="01973" joined="2014-06-09"/>
+    <cosponsor thomas_id="01914" joined="2014-05-19"/>
+    <cosponsor thomas_id="01803" joined="2014-06-09"/>
+    <cosponsor thomas_id="01708" joined="2014-05-06"/>
+    <cosponsor thomas_id="00478" joined="2014-06-11"/>
+    <cosponsor thomas_id="02089" joined="2014-05-07"/>
+    <cosponsor thomas_id="02010" joined="2014-05-19"/>
+    <cosponsor thomas_id="02170" joined="2014-06-11"/>
+    <cosponsor thomas_id="01794" joined="2014-06-11"/>
+    <cosponsor thomas_id="01490" joined="2014-05-06"/>
+    <cosponsor thomas_id="01580" joined="2014-05-06"/>
+    <cosponsor thomas_id="01634" joined="2014-05-19"/>
+    <cosponsor thomas_id="02101" joined="2014-06-11"/>
+    <cosponsor thomas_id="01663" joined="2014-06-09"/>
+    <cosponsor thomas_id="00588" joined="2014-06-09"/>
+    <cosponsor thomas_id="02149" joined="2014-06-17"/>
+    <cosponsor thomas_id="00599" joined="2014-06-17"/>
+    <cosponsor thomas_id="00616" joined="2014-05-19"/>
+    <cosponsor thomas_id="02025" joined="2014-05-07"/>
+    <cosponsor thomas_id="02190" joined="2014-05-29"/>
+    <cosponsor thomas_id="02172" joined="2014-05-19"/>
+    <cosponsor thomas_id="02134" joined="2014-06-19"/>
+    <cosponsor thomas_id="02169" joined="2014-06-10"/>
+    <cosponsor thomas_id="02145" joined="2014-05-06"/>
+    <cosponsor thomas_id="01668" joined="2014-06-09"/>
+    <cosponsor thomas_id="01583" joined="2014-06-19"/>
+    <cosponsor thomas_id="01501" joined="2014-05-06"/>
+    <cosponsor thomas_id="00688" joined="2014-06-09"/>
+    <cosponsor thomas_id="01846" joined="2014-07-10"/>
+    <cosponsor thomas_id="00701" joined="2014-06-09"/>
+    <cosponsor thomas_id="02111" joined="2014-06-10"/>
+    <cosponsor thomas_id="00709" joined="2014-05-19"/>
+    <cosponsor thomas_id="02146" joined="2014-05-29"/>
+    <cosponsor thomas_id="01939" joined="2014-06-09"/>
+    <cosponsor thomas_id="01686" joined="2014-06-12"/>
+    <cosponsor thomas_id="02150" joined="2014-06-10"/>
+    <cosponsor thomas_id="01814" joined="2014-07-25"/>
+    <cosponsor thomas_id="01503" joined="2014-06-09"/>
+    <cosponsor thomas_id="01653" joined="2014-06-09"/>
+    <cosponsor thomas_id="01504" joined="2014-05-07"/>
+    <cosponsor thomas_id="01832" joined="2014-07-09"/>
+    <cosponsor thomas_id="01506" joined="2014-06-09"/>
+    <cosponsor thomas_id="01730" joined="2014-06-19"/>
+    <cosponsor thomas_id="00808" joined="2014-05-06"/>
+    <cosponsor thomas_id="01811" joined="2014-05-19"/>
+    <cosponsor thomas_id="00832" joined="2014-07-15"/>
+    <cosponsor thomas_id="00850" joined="2014-06-19"/>
+    <cosponsor thomas_id="00854" joined="2014-05-07"/>
+    <cosponsor thomas_id="02108" joined="2014-05-19"/>
+    <cosponsor thomas_id="00867" joined="2014-06-09"/>
+    <cosponsor thomas_id="00868" joined="2014-05-06"/>
+    <cosponsor thomas_id="02162" joined="2014-05-19"/>
+    <cosponsor thomas_id="00887" joined="2014-06-09"/>
+    <cosponsor thomas_id="00893" joined="2014-07-23"/>
+    <cosponsor thomas_id="02097" joined="2014-06-09"/>
+    <cosponsor thomas_id="01835" joined="2014-06-19"/>
+    <cosponsor thomas_id="01929" joined="2014-05-22"/>
+    <cosponsor thomas_id="01927" joined="2014-05-29"/>
+    <cosponsor thomas_id="02171" joined="2014-05-06"/>
+    <cosponsor thomas_id="00930" joined="2014-06-17"/>
+    <cosponsor thomas_id="01967" joined="2014-06-10"/>
+    <cosponsor thomas_id="00944" joined="2014-06-10"/>
+    <cosponsor thomas_id="02023" joined="2014-05-21"/>
+    <cosponsor thomas_id="00997" joined="2014-06-09"/>
+    <cosponsor thomas_id="02109" joined="2014-06-17"/>
+    <cosponsor thomas_id="01756" joined="2014-06-09"/>
+    <cosponsor thomas_id="01962" joined="2014-05-06"/>
+    <cosponsor thomas_id="01854" joined="2014-05-19"/>
+    <cosponsor thomas_id="01588" joined="2014-05-19"/>
+    <cosponsor thomas_id="01635" joined="2014-07-09"/>
+    <cosponsor thomas_id="02124" joined="2014-05-21"/>
+    <cosponsor thomas_id="01798" joined="2014-06-17"/>
+    <cosponsor thomas_id="01037" joined="2014-05-06"/>
+    <cosponsor thomas_id="01042" joined="2014-06-11"/>
+    <cosponsor thomas_id="01988" joined="2014-06-09"/>
+    <cosponsor thomas_id="01861" joined="2014-05-06"/>
+    <cosponsor thomas_id="01818" joined="2014-06-09"/>
+    <cosponsor thomas_id="01069" joined="2014-05-19"/>
+    <cosponsor thomas_id="01528" joined="2014-06-10"/>
+    <cosponsor thomas_id="01890" joined="2014-06-10"/>
+    <cosponsor thomas_id="02104" joined="2014-06-17"/>
+    <cosponsor thomas_id="02110" joined="2014-05-06"/>
+    <cosponsor thomas_id="01593" joined="2014-06-10"/>
+    <cosponsor thomas_id="01942" joined="2014-05-29"/>
+    <cosponsor thomas_id="01884" joined="2014-05-06"/>
+    <cosponsor thomas_id="01729" joined="2014-06-10"/>
+    <cosponsor thomas_id="02112" joined="2014-05-06"/>
+    <cosponsor thomas_id="01205" joined="2014-06-17"/>
+    <cosponsor thomas_id="01209" joined="2014-05-19"/>
+    <cosponsor thomas_id="01879" joined="2014-05-29"/>
+    <cosponsor thomas_id="02004" joined="2014-05-06"/>
+    <cosponsor thomas_id="01853" joined="2014-06-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-06" state="REFERRED">
+      <text>Referred to the Committee on Education and the Workforce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-05-06">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2014-05-06">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2014-05-08">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H3948"/>
+    </action>
+    <action datetime="2014-06-13">
+      <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee subcommittee="Higher Education and Workforce Training" code="HSED13" name="House Education and the Workforce" activity="Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="2292"/>
+    <bill type="s" session="113" relation="unknown" number="2432"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Higher education"/>
+    <term name="Income tax deductions"/>
+    <term name="Income tax rates"/>
+    <term name="Inflation and prices"/>
+    <term name="Interest, dividends, interest rates"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+    <term name="Student aid and college costs"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+  <summary>5/6/2014--Introduced.
+Bank on Students Emergency Loan Refinancing Act - Amends title IV (Student Assistance) of the Higher Education Act of 1965 to direct the Secretary of Education to establish a program to refinance the unpaid principal, accrued unpaid interest, and late charges on: (1) the William D. Ford Federal Direct Loans (DLs) of qualified borrowers if the DLs were first disbursed or (in the case of Direct Consolidation Loans) applied for before July 1, 2013, and (2) the Federal Family Education Loans (FFEL) of qualified borrowers as DLs. (FFELs were not disbursed after June 30, 2010.)
+
+Refinances the FFELs as Federal Direct Stafford, Unsubsidized Stafford, PLUS, or Consolidated Loans depending on the categorization of the FFEL as a Stafford, Unsubsidized Stafford, PLUS, or Consolidated Loan.
+
+Sets the interest rate on the refinanced loans, other than the Federal Direct Consolidation Loans, at the rate for the 12 months beginning on July 1, 2013, applicable to the DL's categorization and, in the case of Stafford Loans, applicable to a loan issued to an undergraduate student or a loan issued to a graduate student.
+
+Sets the interest on refinanced Consolidation Loans at the rate on Federal Direct PLUS Loans for the 12-month period beginning on July 1, 2013.
+
+Fixes the interest rate on such loans for the period of such loans.
+
+Directs the Secretary to establish eligibility requirements based on a borrower's income or debt-to-income ratio that take into consideration providing access to refinancing for borrowers with the greatest financial need.
+
+Imposes an administrative fee on the borrowers of such reissued loans that is based on the unpaid principal, and accrued unpaid interest and late charges, of their original loan.
+
+Requires the Secretary to establish a program to refinance the unpaid principal, accrued unpaid interest, and late charges on private education loans as Federal Direct Refinanced Private Loans if the private education loans were first disbursed to qualified borrowers before July 1, 2013, and were for their own postsecondary educational expenses.
+
+Sets the interest rate on Federal Direct Refinanced Private Loans at the rate applicable for the 12 months beginning on July 1, 2013, to: (1) Direct Stafford and Unsubsidized Stafford Loans issued to undergraduates if the private education loan was issued for undergraduate expenses, (2) Direct Unsubsidized Stafford Loans issued to graduate or professional students if the private education loan was issued for graduate or professional studies, or (3) Direct PLUS Loans if the private education loan was issued for undergraduate and graduate or professional studies.
+
+Fixes the interest rate on such loans for the period of such loans.
+
+Directs the Secretary to establish eligibility requirements based on a borrower's income or debt-to-income ratio that take into consideration providing access to refinancing for borrowers with the greatest financial need.
+
+Requires qualified borrowers of such loans to undergo loan counseling before their private education loan is refinanced.
+
+Imposes an origination fee on the borrowers of Federal Direct Refinanced Private Loans.
+
+Amends the Internal Revenue Code to require an individual taxpayer whose adjusted gross income exceeds $1 million to pay a minimum tax rate of 30% of the excess of the taxpayer's adjusted gross income over the taxpayer's modified charitable contribution deduction for the taxable year (tentative fair share tax). Establishes the amount of such tax as the excess (if any) of the tentative fair share tax over the excess of: (1) the sum of the taxpayer's regular tax liability, the alternative minimum tax (AMT) amount, and the payroll tax for the taxable year; over (2) certain tax credits. Provides for a phase-in of such tax. Requires an inflation adjustment to the $1 million income threshold for taxable years beginning after 2015.
+
+Requires the Secretary to terminate this Act's refinancing programs when the net cost of carrying out the programs is equal to the Secretary's estimate of the amount of additional revenue generated during the 10-year period beginning on the date of this Act's enactment due to the fair share tax.</summary>
+</bill>

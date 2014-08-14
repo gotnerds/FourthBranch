@@ -1,0 +1,92 @@
+<bill session="113" type="h" number="4888" updated="2014-08-14T13:33:09-04:00">
+  <state datetime="2014-06-18">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-18"/>
+  </status>
+  <introduced datetime="2014-06-18"/>
+  <titles>
+    <title type="short" as="introduced">Coordinated Recovery Initiative for Babies Act of 2014</title>
+    <title type="short" as="introduced">CRIB Act of 2014</title>
+    <title type="official" as="introduced">To provide for the identification and dissemination of best practices for medical professionals and other health care providers relative to neonatal abstinence syndrome, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02196"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2014-07-11"/>
+    <cosponsor thomas_id="02131" joined="2014-07-17"/>
+    <cosponsor thomas_id="02106" joined="2014-07-25"/>
+    <cosponsor thomas_id="02127" joined="2014-07-25"/>
+    <cosponsor thomas_id="01564" joined="2014-06-26"/>
+    <cosponsor thomas_id="02159" joined="2014-07-25"/>
+    <cosponsor thomas_id="01839" joined="2014-07-17"/>
+    <cosponsor thomas_id="01864" joined="2014-07-31"/>
+    <cosponsor thomas_id="01878" joined="2014-07-31"/>
+    <cosponsor thomas_id="00231" joined="2014-07-11"/>
+    <cosponsor thomas_id="01479" joined="2014-07-31"/>
+    <cosponsor thomas_id="00281" joined="2014-07-31"/>
+    <cosponsor thomas_id="02096" joined="2014-07-17"/>
+    <cosponsor thomas_id="00299" joined="2014-07-11"/>
+    <cosponsor thomas_id="00322" joined="2014-07-11"/>
+    <cosponsor thomas_id="01894" joined="2014-07-25"/>
+    <cosponsor thomas_id="01857" joined="2014-07-11"/>
+    <cosponsor thomas_id="02125" joined="2014-07-17"/>
+    <cosponsor thomas_id="02114" joined="2014-07-25"/>
+    <cosponsor thomas_id="02120" joined="2014-07-11"/>
+    <cosponsor thomas_id="02044" joined="2014-07-11"/>
+    <cosponsor thomas_id="00511" joined="2014-07-11"/>
+    <cosponsor thomas_id="01580" joined="2014-07-17"/>
+    <cosponsor thomas_id="02025" joined="2014-06-26"/>
+    <cosponsor thomas_id="02190" joined="2014-07-17"/>
+    <cosponsor thomas_id="02172" joined="2014-07-25"/>
+    <cosponsor thomas_id="02145" joined="2014-07-11"/>
+    <cosponsor thomas_id="01583" joined="2014-07-11"/>
+    <cosponsor thomas_id="02111" joined="2014-07-31"/>
+    <cosponsor thomas_id="01686" joined="2014-07-17"/>
+    <cosponsor thomas_id="01671" joined="2014-06-26"/>
+    <cosponsor thomas_id="01504" joined="2014-07-11"/>
+    <cosponsor thomas_id="02074" joined="2014-07-17"/>
+    <cosponsor thomas_id="02148" joined="2014-07-11"/>
+    <cosponsor thomas_id="01730" joined="2014-07-11"/>
+    <cosponsor thomas_id="01811" joined="2014-07-11"/>
+    <cosponsor thomas_id="00854" joined="2014-07-25"/>
+    <cosponsor thomas_id="00868" joined="2014-07-11"/>
+    <cosponsor thomas_id="02113" joined="2014-07-11"/>
+    <cosponsor thomas_id="01967" joined="2014-07-11"/>
+    <cosponsor thomas_id="00940" joined="2014-07-31"/>
+    <cosponsor thomas_id="00977" joined="2014-07-17"/>
+    <cosponsor thomas_id="01756" joined="2014-07-11"/>
+    <cosponsor thomas_id="01588" joined="2014-08-01"/>
+    <cosponsor thomas_id="01861" joined="2014-07-11"/>
+    <cosponsor thomas_id="02047" joined="2014-06-18"/>
+    <cosponsor thomas_id="02104" joined="2014-07-31"/>
+    <cosponsor thomas_id="01535" joined="2014-07-25"/>
+    <cosponsor thomas_id="01884" joined="2014-07-11"/>
+    <cosponsor thomas_id="01741" joined="2014-07-11"/>
+    <cosponsor thomas_id="01879" joined="2014-07-31"/>
+    <cosponsor thomas_id="01853" joined="2014-07-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-18" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2014-07-09">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H5882"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Advisory bodies"/>
+    <term name="Child health"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Government studies and investigations"/>
+    <term name="Health care coverage and access"/>
+    <term name="Hereditary and development disorders"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Sex and reproductive health"/>
+  </subjects>
+  <amendments/>
+</bill>

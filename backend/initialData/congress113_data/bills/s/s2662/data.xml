@@ -1,0 +1,28 @@
+<bill session="113" type="s" number="2662" updated="2014-08-14T14:07:29-04:00">
+  <state datetime="2014-07-24">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-24"/>
+  </status>
+  <introduced datetime="2014-07-24"/>
+  <titles>
+    <title type="short" as="introduced">Telehealth Enhancement Act of 2014</title>
+    <title type="official" as="introduced">A bill to promote and expand the application of telehealth under Medicare and other Federal health care programs, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00213"/>
+  <cosponsors>
+    <cosponsor thomas_id="01226" joined="2014-07-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-24" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="3306"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

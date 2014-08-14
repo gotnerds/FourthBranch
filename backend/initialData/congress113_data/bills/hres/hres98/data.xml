@@ -1,0 +1,69 @@
+<bill session="113" type="hr" number="98" updated="2014-08-14T12:45:29-04:00">
+  <state datetime="2013-03-05">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-05"/>
+  </status>
+  <introduced datetime="2013-03-05"/>
+  <titles>
+    <title type="official" as="introduced">Expressing support for Israel and its right to self-defense against the illegal nuclear program by the Islamic Republic of Iran.</title>
+  </titles>
+  <sponsor thomas_id="01992"/>
+  <cosponsors>
+    <cosponsor thomas_id="02155" joined="2013-03-12"/>
+    <cosponsor thomas_id="01882" joined="2013-03-05"/>
+    <cosponsor thomas_id="01751" joined="2013-03-07"/>
+    <cosponsor thomas_id="01912" joined="2013-03-05"/>
+    <cosponsor thomas_id="01805" joined="2013-03-05"/>
+    <cosponsor thomas_id="02098" joined="2013-03-06"/>
+    <cosponsor thomas_id="02116" joined="2013-12-05"/>
+    <cosponsor thomas_id="02057" joined="2013-03-07"/>
+    <cosponsor thomas_id="01707" joined="2013-03-05"/>
+    <cosponsor thomas_id="00446" joined="2013-03-20"/>
+    <cosponsor thomas_id="01979" joined="2013-03-07"/>
+    <cosponsor thomas_id="00462" joined="2014-05-08"/>
+    <cosponsor thomas_id="02070" joined="2013-03-05"/>
+    <cosponsor thomas_id="02041" joined="2013-03-06"/>
+    <cosponsor thomas_id="02032" joined="2013-03-15"/>
+    <cosponsor thomas_id="02046" joined="2013-12-12"/>
+    <cosponsor thomas_id="01724" joined="2013-03-07"/>
+    <cosponsor thomas_id="01834" joined="2013-12-02"/>
+    <cosponsor thomas_id="01936" joined="2013-03-05"/>
+    <cosponsor thomas_id="01885" joined="2013-03-12"/>
+    <cosponsor thomas_id="02033" joined="2013-03-05"/>
+    <cosponsor thomas_id="01931" joined="2013-03-07"/>
+    <cosponsor thomas_id="01960" joined="2013-03-07"/>
+    <cosponsor thomas_id="02074" joined="2013-03-12"/>
+    <cosponsor thomas_id="02142" joined="2013-03-07"/>
+    <cosponsor thomas_id="00800" joined="2013-03-05"/>
+    <cosponsor thomas_id="02156" joined="2013-03-07"/>
+    <cosponsor thomas_id="02034" joined="2013-03-20"/>
+    <cosponsor thomas_id="02035" joined="2013-03-05"/>
+    <cosponsor thomas_id="01009" joined="2013-03-05"/>
+    <cosponsor thomas_id="01994" joined="2013-03-07"/>
+    <cosponsor thomas_id="02000" joined="2013-03-07"/>
+    <cosponsor thomas_id="02047" joined="2013-03-05"/>
+    <cosponsor thomas_id="02161" joined="2013-03-06"/>
+    <cosponsor thomas_id="01779" joined="2013-03-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-05" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Arms control and nonproliferation"/>
+    <term name="Iran"/>
+    <term name="Israel"/>
+    <term name="Middle East"/>
+    <term name="Military operations and strategy"/>
+    <term name="Nuclear weapons"/>
+  </subjects>
+  <amendments/>
+  <summary>3/5/2013--Introduced.
+Supports Israel's lawful exercise of self-defense, including actions to stop Iranian aggression such as a strike against Iran's illegal nuclear program.</summary>
+</bill>

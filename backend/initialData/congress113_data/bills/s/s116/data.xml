@@ -1,0 +1,74 @@
+<bill session="113" type="s" number="116" updated="2014-08-14T13:45:45-04:00">
+  <state datetime="2013-01-23">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-23"/>
+  </status>
+  <introduced datetime="2013-01-23"/>
+  <titles>
+    <title type="short" as="introduced">Garrett Lee Smith Memorial Act Reauthorization of 2013</title>
+    <title type="official" as="introduced">A bill to revise and extend provisions under the Garrett Lee Smith Memorial Act.</title>
+  </titles>
+  <sponsor thomas_id="00949"/>
+  <cosponsors>
+    <cosponsor thomas_id="02075" joined="2013-10-03"/>
+    <cosponsor thomas_id="01898" joined="2013-01-23"/>
+    <cosponsor thomas_id="02076" joined="2013-01-23"/>
+    <cosponsor thomas_id="00172" joined="2013-10-28"/>
+    <cosponsor thomas_id="01541" joined="2013-01-23"/>
+    <cosponsor thomas_id="01984" joined="2013-01-23"/>
+    <cosponsor thomas_id="01850" joined="2013-10-10"/>
+    <cosponsor thomas_id="00326" joined="2013-01-23"/>
+    <cosponsor thomas_id="01866" joined="2013-02-11"/>
+    <cosponsor thomas_id="00457" joined="2013-03-07"/>
+    <cosponsor thomas_id="01902" joined="2013-05-20"/>
+    <cosponsor thomas_id="01937" joined="2013-02-07"/>
+    <cosponsor thomas_id="00604" joined="2013-01-24"/>
+    <cosponsor thomas_id="02185" joined="2013-07-10"/>
+    <cosponsor thomas_id="01826" joined="2013-01-23"/>
+    <cosponsor thomas_id="01381" joined="2013-01-23"/>
+    <cosponsor thomas_id="01694" joined="2013-01-23"/>
+    <cosponsor thomas_id="01409" joined="2013-01-23"/>
+    <cosponsor thomas_id="01424" joined="2013-07-15"/>
+    <cosponsor thomas_id="02173" joined="2013-10-10"/>
+    <cosponsor thomas_id="01036" joined="2013-07-31"/>
+    <cosponsor thomas_id="01531" joined="2013-01-23"/>
+    <cosponsor thomas_id="01829" joined="2013-01-24"/>
+    <cosponsor thomas_id="01567" joined="2013-01-23"/>
+    <cosponsor thomas_id="02182" joined="2014-02-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-23">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S222-223"/>
+    </action>
+    <action datetime="2013-01-23" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="2734"/>
+    <bill type="h" session="113" relation="unknown" number="3717"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Child health"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Higher education"/>
+    <term name="Mental health"/>
+    <term name="Public-private cooperation"/>
+  </subjects>
+  <amendments/>
+  <summary>1/23/2013--Introduced.
+Garrett Lee Smith Memorial Act Reauthorization of 2013 - Amends the Public Health Service Act to reauthorize and revise a research, training, and technical assistance resource center to prevent suicides (the Suicide Prevention Resource Center). Expands the program's focus from youth suicides to suicides among all ages, particularly among groups that are at high risk for suicide. Repeals authority for grants to establish research, training, and technical assistance centers related to mental health, substance abuse and the justice system.
+
+Reauthorizes a program of grants for the development of state or tribal youth suicide early intervention and prevention strategies.
+
+Reauthorizes and revises a grant program to enhance services for students with mental health or substance use disorders at institutions of higher education. Requires the Secretary of Health and Human Services (HHS) (who currently is merely authorized), acting through the Director of the Center for Mental Health Services, to award grants to enhance such services and to develop best practices for the delivery of such services. Permits grant funds to be used for the provision of such services to students and to employ appropriately trained staff. Requires the Secretary to give special consideration to applications for grants that describe programs that demonstrate the greatest need for new or additional mental and substance use disorder services and the greatest potential for replication.</summary>
+</bill>

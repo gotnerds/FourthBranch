@@ -1,0 +1,71 @@
+<bill session="113" type="h" number="4136" updated="2014-08-14T13:26:42-04:00">
+  <state datetime="2014-02-28">REFERRED</state>
+  <status>
+    <introduced datetime="2014-02-28"/>
+  </status>
+  <introduced datetime="2014-02-28"/>
+  <titles>
+    <title type="short" as="introduced">IDEA Full Funding Act</title>
+    <title type="official" as="introduced">To amend part B of the Individuals with Disabilities Education Act to provide full Federal funding of such part.</title>
+  </titles>
+  <sponsor thomas_id="01729"/>
+  <cosponsors>
+    <cosponsor thomas_id="02093" joined="2014-07-24"/>
+    <cosponsor thomas_id="02106" joined="2014-04-04"/>
+    <cosponsor thomas_id="02196" joined="2014-06-26"/>
+    <cosponsor thomas_id="00279" joined="2014-05-07"/>
+    <cosponsor thomas_id="02133" joined="2014-05-07"/>
+    <cosponsor thomas_id="01976" joined="2014-06-17"/>
+    <cosponsor thomas_id="01895" joined="2014-06-12"/>
+    <cosponsor thomas_id="02043" joined="2014-02-28"/>
+    <cosponsor thomas_id="02101" joined="2014-02-28"/>
+    <cosponsor thomas_id="00616" joined="2014-07-18"/>
+    <cosponsor thomas_id="01907" joined="2014-06-30"/>
+    <cosponsor thomas_id="02111" joined="2014-06-12"/>
+    <cosponsor thomas_id="01503" joined="2014-06-12"/>
+    <cosponsor thomas_id="01653" joined="2014-05-07"/>
+    <cosponsor thomas_id="00766" joined="2014-06-10"/>
+    <cosponsor thomas_id="01504" joined="2014-04-04"/>
+    <cosponsor thomas_id="02074" joined="2014-02-28"/>
+    <cosponsor thomas_id="01811" joined="2014-06-12"/>
+    <cosponsor thomas_id="00867" joined="2014-07-18"/>
+    <cosponsor thomas_id="01929" joined="2014-06-26"/>
+    <cosponsor thomas_id="01927" joined="2014-06-10"/>
+    <cosponsor thomas_id="02171" joined="2014-06-17"/>
+    <cosponsor thomas_id="00944" joined="2014-06-12"/>
+    <cosponsor thomas_id="01810" joined="2014-02-28"/>
+    <cosponsor thomas_id="01588" joined="2014-06-17"/>
+    <cosponsor thomas_id="02110" joined="2014-05-28"/>
+    <cosponsor thomas_id="01593" joined="2014-06-12"/>
+    <cosponsor thomas_id="01856" joined="2014-02-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-02-28" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2014-06-13">
+      <text>Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee subcommittee="Early Childhood, Elementary, and Secondary Education" code="HSED14" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Appropriations"/>
+    <term name="Education programs funding"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Special education"/>
+  </subjects>
+  <amendments/>
+  <summary>2/28/2014--Introduced.
+IDEA Full Funding Act - Amends the Individuals with Disabilities Education Act (IDEA) to reauthorize and make appropriations for the grant program to assist states and outlying areas in providing special education and related services to children with disabilities.
+
+Sets the amount to be authorized and the amount to be appropriated for each fiscal year from FY2015-FY2023 as the greater of: (1) a specified amount, or (2) a specified percentage of an amount determined pursuant to a formula that multiplies the number of children receiving special education services by the average per-pupil expenditure in public elementary and secondary schools.
+
+Authorizes and appropriates funds for FY2024 and each subsequent fiscal year equal to the greater of a specified amount or 40% of the amount determined using such formula.
+
+Requires amounts appropriated to be expended consistent with pay-as-you-go requirements.</summary>
+</bill>

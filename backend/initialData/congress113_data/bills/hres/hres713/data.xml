@@ -1,0 +1,56 @@
+<bill session="113" type="hr" number="713" updated="2014-08-14T12:50:41-04:00">
+  <state datetime="2014-08-04">REFERRED</state>
+  <status>
+    <introduced datetime="2014-08-04"/>
+  </status>
+  <introduced datetime="2014-08-04"/>
+  <titles>
+    <title type="official" as="introduced">Recognizing the friendship between the United Kingdom and the United States and expressing the support of the House of Representatives for a united, secure, and prosperous United Kingdom.</title>
+  </titles>
+  <sponsor thomas_id="01526"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2014-08-04"/>
+    <cosponsor thomas_id="01469" joined="2014-08-04"/>
+    <cosponsor thomas_id="02107" joined="2014-08-04"/>
+    <cosponsor thomas_id="01959" joined="2014-08-04"/>
+    <cosponsor thomas_id="02103" joined="2014-08-04"/>
+    <cosponsor thomas_id="01774" joined="2014-08-04"/>
+    <cosponsor thomas_id="00344" joined="2014-08-04"/>
+    <cosponsor thomas_id="02119" joined="2014-08-04"/>
+    <cosponsor thomas_id="01707" joined="2014-08-04"/>
+    <cosponsor thomas_id="02089" joined="2014-08-04"/>
+    <cosponsor thomas_id="01663" joined="2014-08-04"/>
+    <cosponsor thomas_id="02025" joined="2014-08-04"/>
+    <cosponsor thomas_id="02033" joined="2014-08-04"/>
+    <cosponsor thomas_id="02111" joined="2014-08-04"/>
+    <cosponsor thomas_id="01506" joined="2014-08-04"/>
+    <cosponsor thomas_id="01602" joined="2014-08-04"/>
+    <cosponsor thomas_id="00979" joined="2014-08-04"/>
+    <cosponsor thomas_id="00998" joined="2014-08-04"/>
+    <cosponsor thomas_id="01728" joined="2014-08-04"/>
+    <cosponsor thomas_id="01522" joined="2014-08-04"/>
+    <cosponsor thomas_id="01722" joined="2014-08-04"/>
+    <cosponsor thomas_id="01890" joined="2014-08-04"/>
+    <cosponsor thomas_id="01114" joined="2014-08-04"/>
+    <cosponsor thomas_id="01593" joined="2014-08-04"/>
+    <cosponsor thomas_id="01741" joined="2014-08-04"/>
+    <cosponsor thomas_id="02112" joined="2014-08-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-08-04" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>8/4/2014--Introduced.
+Expresses the belief that: (1) a united, secure, and prosperous United Kingdom is important for U.S. national security priorities; and (2) diplomatic, economic, and military cooperation between the United States and the United Kingdom is essential to U.S. national security
+
+ Expresses deep friendship toward the Scottish people, and respects the right of the Scottish people to make their decision regarding their status in the September 18, 2014, referendum.
+
+Expresses a firm commitment to cooperation between the United States and the United Kingdom toward a more peaceful and prosperous world.</summary>
+</bill>

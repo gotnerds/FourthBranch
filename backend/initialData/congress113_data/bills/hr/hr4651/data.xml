@@ -1,0 +1,73 @@
+<bill session="113" type="h" number="4651" updated="2014-08-14T13:31:02-04:00">
+  <state datetime="2014-07-24">REPORTED</state>
+  <status>
+    <unknown datetime="2014-07-24"/>
+  </status>
+  <introduced datetime="2014-05-09"/>
+  <titles>
+    <title type="official" as="introduced">To designate the facility of the United States Postal Service located at 601 West Baker Road in Baytown, Texas as the "Specialist Keith Erin Grace Jr. Memorial Post Office".</title>
+  </titles>
+  <sponsor thomas_id="01114"/>
+  <cosponsors>
+    <cosponsor thomas_id="00062" joined="2014-06-30"/>
+    <cosponsor thomas_id="01468" joined="2014-06-19"/>
+    <cosponsor thomas_id="01751" joined="2014-06-19"/>
+    <cosponsor thomas_id="01752" joined="2014-06-30"/>
+    <cosponsor thomas_id="02163" joined="2014-07-15"/>
+    <cosponsor thomas_id="01805" joined="2014-06-19"/>
+    <cosponsor thomas_id="01807" joined="2014-06-30"/>
+    <cosponsor thomas_id="01670" joined="2014-06-23"/>
+    <cosponsor thomas_id="00303" joined="2014-06-25"/>
+    <cosponsor thomas_id="02067" joined="2014-06-10"/>
+    <cosponsor thomas_id="02065" joined="2014-06-19"/>
+    <cosponsor thomas_id="02164" joined="2014-06-25"/>
+    <cosponsor thomas_id="01801" joined="2014-06-19"/>
+    <cosponsor thomas_id="01487" joined="2014-06-19"/>
+    <cosponsor thomas_id="01803" joined="2014-07-16"/>
+    <cosponsor thomas_id="00462" joined="2014-06-25"/>
+    <cosponsor thomas_id="00484" joined="2014-06-25"/>
+    <cosponsor thomas_id="01749" joined="2014-06-30"/>
+    <cosponsor thomas_id="01490" joined="2014-06-17"/>
+    <cosponsor thomas_id="00588" joined="2014-06-23"/>
+    <cosponsor thomas_id="00599" joined="2014-07-11"/>
+    <cosponsor thomas_id="00603" joined="2014-07-10"/>
+    <cosponsor thomas_id="01806" joined="2014-06-30"/>
+    <cosponsor thomas_id="01804" joined="2014-06-17"/>
+    <cosponsor thomas_id="01758" joined="2014-06-30"/>
+    <cosponsor thomas_id="02162" joined="2014-07-16"/>
+    <cosponsor thomas_id="01955" joined="2014-06-19"/>
+    <cosponsor thomas_id="01802" joined="2014-06-25"/>
+    <cosponsor thomas_id="01525" joined="2014-07-11"/>
+    <cosponsor thomas_id="01075" joined="2014-06-19"/>
+    <cosponsor thomas_id="01155" joined="2014-06-19"/>
+    <cosponsor thomas_id="02166" joined="2014-07-11"/>
+    <cosponsor thomas_id="02167" joined="2014-07-08"/>
+    <cosponsor thomas_id="02161" joined="2014-06-19"/>
+    <cosponsor thomas_id="02165" joined="2014-06-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-09" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2014-07-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-07-24" state="REPORTED">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Postal service"/>
+    <term name="Texas"/>
+  </subjects>
+  <amendments/>
+  <summary>5/9/2014--Introduced.
+Designates the facility of the United States Postal Service located at 601 West Baker Road in Baytown, Texas as the "Specialist Keith Erin Grace Jr. Memorial Post Office."</summary>
+</bill>

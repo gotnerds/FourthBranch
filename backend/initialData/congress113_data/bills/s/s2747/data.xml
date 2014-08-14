@@ -1,0 +1,24 @@
+<bill session="113" type="s" number="2747" updated="2014-08-14T14:08:12-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="short" as="introduced">Small Business Regulatory Sunset Act of 2014</title>
+    <title type="official" as="introduced">A bill to require Federal agencies to review certain rules and regulations, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01647"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

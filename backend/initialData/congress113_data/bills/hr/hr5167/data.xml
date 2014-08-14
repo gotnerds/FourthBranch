@@ -1,0 +1,33 @@
+<bill session="113" type="h" number="5167" updated="2014-08-14T13:35:34-04:00">
+  <state datetime="2014-07-22">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-22"/>
+  </status>
+  <introduced datetime="2014-07-22"/>
+  <titles>
+    <title type="official" as="introduced">To direct the Administrator of General Services, on behalf of the Secretary of the Interior, to convey certain Federal property located in the National Petroleum Reserve in Alaska to the Olgoonik Corporation, an Alaska Native Corporation established under the Alaska Native Claims Settlement Act.</title>
+  </titles>
+  <sponsor thomas_id="01256"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-22" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2014-07-30">
+      <text>Referred to the Subcommittee Indian and Alaska Native Affairs.</text>
+    </action>
+    <action datetime="2014-07-30">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Indian and Alaska Native Affairs" code="HSII24" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Public Lands and Environmental Regulation" code="HSII10" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="2684"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

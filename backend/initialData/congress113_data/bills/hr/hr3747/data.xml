@@ -1,0 +1,96 @@
+<bill session="113" type="h" number="3747" updated="2014-08-14T13:23:26-04:00">
+  <state datetime="2013-12-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-12-12"/>
+  </status>
+  <introduced datetime="2013-12-12"/>
+  <titles>
+    <title type="short" as="introduced">Volunteer Responder Incentive Protection Reauthorization Act of 2013</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to extend and increase the exclusion for benefits provided to volunteer firefighters and emergency medical responders.</title>
+  </titles>
+  <sponsor thomas_id="01583"/>
+  <cosponsors>
+    <cosponsor thomas_id="02054" joined="2014-03-04"/>
+    <cosponsor thomas_id="02131" joined="2014-06-20"/>
+    <cosponsor thomas_id="01740" joined="2014-01-16"/>
+    <cosponsor thomas_id="00099" joined="2013-12-12"/>
+    <cosponsor thomas_id="02159" joined="2014-07-23"/>
+    <cosponsor thomas_id="02055" joined="2014-05-06"/>
+    <cosponsor thomas_id="01654" joined="2014-01-09"/>
+    <cosponsor thomas_id="01836" joined="2013-12-12"/>
+    <cosponsor thomas_id="02126" joined="2014-05-07"/>
+    <cosponsor thomas_id="00281" joined="2013-12-12"/>
+    <cosponsor thomas_id="00316" joined="2014-05-15"/>
+    <cosponsor thomas_id="02123" joined="2014-04-29"/>
+    <cosponsor thomas_id="01857" joined="2014-03-10"/>
+    <cosponsor thomas_id="02125" joined="2014-05-15"/>
+    <cosponsor thomas_id="02114" joined="2013-12-12"/>
+    <cosponsor thomas_id="01797" joined="2014-04-29"/>
+    <cosponsor thomas_id="01998" joined="2014-04-30"/>
+    <cosponsor thomas_id="01743" joined="2013-12-12"/>
+    <cosponsor thomas_id="02043" joined="2014-04-30"/>
+    <cosponsor thomas_id="01634" joined="2014-02-25"/>
+    <cosponsor thomas_id="01663" joined="2014-02-25"/>
+    <cosponsor thomas_id="00588" joined="2014-05-06"/>
+    <cosponsor thomas_id="02046" joined="2013-12-12"/>
+    <cosponsor thomas_id="00616" joined="2014-04-30"/>
+    <cosponsor thomas_id="02051" joined="2014-05-08"/>
+    <cosponsor thomas_id="01498" joined="2013-12-12"/>
+    <cosponsor thomas_id="00635" joined="2013-12-12"/>
+    <cosponsor thomas_id="01733" joined="2014-05-21"/>
+    <cosponsor thomas_id="02145" joined="2014-05-02"/>
+    <cosponsor thomas_id="01936" joined="2014-05-15"/>
+    <cosponsor thomas_id="00666" joined="2013-12-12"/>
+    <cosponsor thomas_id="01846" joined="2013-12-12"/>
+    <cosponsor thomas_id="01653" joined="2014-04-30"/>
+    <cosponsor thomas_id="01504" joined="2014-05-02"/>
+    <cosponsor thomas_id="01505" joined="2013-12-12"/>
+    <cosponsor thomas_id="02074" joined="2014-07-28"/>
+    <cosponsor thomas_id="02142" joined="2014-06-09"/>
+    <cosponsor thomas_id="02052" joined="2014-01-09"/>
+    <cosponsor thomas_id="01730" joined="2013-12-12"/>
+    <cosponsor thomas_id="00832" joined="2013-12-12"/>
+    <cosponsor thomas_id="00867" joined="2014-05-08"/>
+    <cosponsor thomas_id="01510" joined="2014-02-03"/>
+    <cosponsor thomas_id="00910" joined="2014-03-24"/>
+    <cosponsor thomas_id="00912" joined="2013-12-12"/>
+    <cosponsor thomas_id="01927" joined="2013-12-16"/>
+    <cosponsor thomas_id="02171" joined="2014-01-13"/>
+    <cosponsor thomas_id="00940" joined="2014-01-31"/>
+    <cosponsor thomas_id="02039" joined="2014-02-10"/>
+    <cosponsor thomas_id="02124" joined="2014-03-21"/>
+    <cosponsor thomas_id="01950" joined="2013-12-12"/>
+    <cosponsor thomas_id="01861" joined="2014-01-07"/>
+    <cosponsor thomas_id="01942" joined="2013-12-12"/>
+    <cosponsor thomas_id="01177" joined="2014-05-13"/>
+    <cosponsor thomas_id="01855" joined="2014-06-20"/>
+    <cosponsor thomas_id="01596" joined="2014-02-06"/>
+    <cosponsor thomas_id="01856" joined="2014-05-02"/>
+    <cosponsor thomas_id="01886" joined="2014-07-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-12-12" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="501"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Emergency medical services and trauma care"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Fires"/>
+    <term name="First responders and emergency personnel"/>
+    <term name="Health personnel"/>
+    <term name="Income tax exclusion"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>12/12/2013--Introduced.
+Volunteer Responder Incentive Protection Reauthorization Act of 2013 - Amends Internal Revenue Code, with respect to the tax exclusion for benefits paid to volunteer firefighters and emergency medical providers by states and local governments, to: (1) increase the amount of benefits excludible; and (2) make such tax exclusion available for taxable years beginning in 2014, 2015, or 2016.</summary>
+</bill>

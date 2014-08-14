@@ -1,0 +1,34 @@
+<bill session="113" type="s" number="2288" updated="2014-08-14T14:04:21-04:00">
+  <state datetime="2014-05-05">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-05"/>
+  </status>
+  <introduced datetime="2014-05-05"/>
+  <titles>
+    <title type="short" as="introduced">Expanding Carbon Capture through Enhanced Oil Recovery Act of 2014</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to expand existing tax credits to encourage the capture, utilization, and sequestration of carbon dioxide.</title>
+  </titles>
+  <sponsor thomas_id="01424"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-05-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Climate change and greenhouse gases"/>
+    <term name="Coal"/>
+    <term name="Electric power generation and transmission"/>
+    <term name="Income tax credits"/>
+    <term name="Industrial facilities"/>
+    <term name="Manufacturing"/>
+    <term name="Oil and gas"/>
+  </subjects>
+  <amendments/>
+</bill>

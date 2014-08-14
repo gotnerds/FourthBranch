@@ -1,0 +1,74 @@
+<bill session="113" type="s" number="734" updated="2014-08-14T13:51:00-04:00">
+  <state datetime="2013-04-16">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-16"/>
+  </status>
+  <introduced datetime="2013-04-16"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 10, United States Code, to repeal the requirement for reduction of survivor annuities under the Survivor Benefit Plan by veterans' dependency and indemnity compensation.</title>
+  </titles>
+  <sponsor thomas_id="00859"/>
+  <cosponsors>
+    <cosponsor thomas_id="01695" joined="2013-08-01"/>
+    <cosponsor thomas_id="01898" joined="2013-06-26"/>
+    <cosponsor thomas_id="02076" joined="2013-07-23"/>
+    <cosponsor thomas_id="01687" joined="2014-04-10"/>
+    <cosponsor thomas_id="00116" joined="2013-05-23"/>
+    <cosponsor thomas_id="00136" joined="2013-07-08"/>
+    <cosponsor thomas_id="00172" joined="2014-07-30"/>
+    <cosponsor thomas_id="00174" joined="2013-06-11"/>
+    <cosponsor thomas_id="01828" joined="2014-07-31"/>
+    <cosponsor thomas_id="01541" joined="2013-04-16"/>
+    <cosponsor thomas_id="01984" joined="2013-06-07"/>
+    <cosponsor thomas_id="00250" joined="2014-07-31"/>
+    <cosponsor thomas_id="01850" joined="2014-07-31"/>
+    <cosponsor thomas_id="01332" joined="2013-07-17"/>
+    <cosponsor thomas_id="01969" joined="2013-04-17"/>
+    <cosponsor thomas_id="01866" joined="2013-07-11"/>
+    <cosponsor thomas_id="01902" joined="2013-07-17"/>
+    <cosponsor thomas_id="00501" joined="2013-05-07"/>
+    <cosponsor thomas_id="01937" joined="2013-06-12"/>
+    <cosponsor thomas_id="01863" joined="2013-04-22"/>
+    <cosponsor thomas_id="00604" joined="2013-05-07"/>
+    <cosponsor thomas_id="01546" joined="2013-11-05"/>
+    <cosponsor thomas_id="01381" joined="2013-05-15"/>
+    <cosponsor thomas_id="01383" joined="2013-07-18"/>
+    <cosponsor thomas_id="00735" joined="2013-09-09"/>
+    <cosponsor thomas_id="00791" joined="2013-11-13"/>
+    <cosponsor thomas_id="01507" joined="2013-06-03"/>
+    <cosponsor thomas_id="01694" joined="2013-07-16"/>
+    <cosponsor thomas_id="01837" joined="2013-05-13"/>
+    <cosponsor thomas_id="01701" joined="2013-11-05"/>
+    <cosponsor thomas_id="02084" joined="2013-09-26"/>
+    <cosponsor thomas_id="01010" joined="2014-01-27"/>
+    <cosponsor thomas_id="02173" joined="2014-07-30"/>
+    <cosponsor thomas_id="01901" joined="2013-07-23"/>
+    <cosponsor thomas_id="01531" joined="2013-07-18"/>
+    <cosponsor thomas_id="01829" joined="2013-09-24"/>
+    <cosponsor thomas_id="01823" joined="2013-04-18"/>
+    <cosponsor thomas_id="01247" joined="2013-10-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSAS" name="Senate Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="32"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>4/16/2013--Introduced.
+Repeals certain provisions which require the offset of amounts paid in dependency and indemnity compensation from Survivor Benefit Plan (SBP) annuities for the surviving spouses of former military personnel who are entitled to military retired pay or would be entitled to such pay, except for being under 60 years of age.
+
+Prohibits recoupment by the Secretary of Defense (DOD) of certain amounts previously paid to SBP recipients in the form of a retired pay refund.
+
+Repeals the optional authority of (and instead requires) the Secretary of the military department concerned to pay an annuity to a member's dependent children when there is no eligible surviving spouse. Directs the Secretary concerned to restore annuity eligibility to a surviving spouse who earlier agreed to transfer such eligibility to a surviving child or children of a member.</summary>
+</bill>

@@ -1,0 +1,32 @@
+<bill session="113" type="h" number="5345" updated="2014-08-14T13:37:06-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="short" as="introduced">RESPONSE Act of 2014</title>
+    <title type="official" as="introduced">To establish the Railroad Emergency Services Preparedness, Operational Needs, and Safety Evaluation (RESPONSE) Subcommittee under the Federal Emergency Management Agency's National Advisory Council to provide recommendations on emergency responder training and resources relating to hazardous materials incidents involving railroads, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01498"/>
+  <cosponsors>
+    <cosponsor thomas_id="01781" joined="2014-07-31"/>
+    <cosponsor thomas_id="01730" joined="2014-07-31"/>
+    <cosponsor thomas_id="01927" joined="2014-07-31"/>
+    <cosponsor thomas_id="02023" joined="2014-07-31"/>
+    <cosponsor thomas_id="01856" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2547"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

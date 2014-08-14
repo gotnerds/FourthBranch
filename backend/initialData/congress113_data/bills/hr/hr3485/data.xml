@@ -1,0 +1,173 @@
+<bill session="113" type="h" number="3485" updated="2014-08-14T13:21:12-04:00">
+  <state datetime="2013-11-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-11-14"/>
+  </status>
+  <introduced datetime="2013-11-14"/>
+  <titles>
+    <title type="short" as="introduced">Employee Rights Act</title>
+    <title type="official" as="introduced">To provide protections for workers with respect to their right to select or refrain from selecting representation by a labor organization.</title>
+  </titles>
+  <sponsor thomas_id="01778"/>
+  <cosponsors>
+    <cosponsor thomas_id="01858" joined="2013-11-14"/>
+    <cosponsor thomas_id="02131" joined="2014-01-31"/>
+    <cosponsor thomas_id="02135" joined="2013-11-20"/>
+    <cosponsor thomas_id="01753" joined="2013-11-14"/>
+    <cosponsor thomas_id="01748" joined="2013-11-14"/>
+    <cosponsor thomas_id="01987" joined="2013-11-21"/>
+    <cosponsor thomas_id="01882" joined="2013-11-19"/>
+    <cosponsor thomas_id="01840" joined="2013-11-18"/>
+    <cosponsor thomas_id="02018" joined="2013-11-14"/>
+    <cosponsor thomas_id="01751" joined="2013-11-21"/>
+    <cosponsor thomas_id="02197" joined="2014-04-01"/>
+    <cosponsor thomas_id="01925" joined="2013-11-14"/>
+    <cosponsor thomas_id="00186" joined="2013-11-14"/>
+    <cosponsor thomas_id="01912" joined="2014-02-03"/>
+    <cosponsor thomas_id="01742" joined="2013-11-14"/>
+    <cosponsor thomas_id="02098" joined="2014-03-25"/>
+    <cosponsor thomas_id="01989" joined="2013-11-14"/>
+    <cosponsor thomas_id="01643" joined="2013-11-14"/>
+    <cosponsor thomas_id="01670" joined="2013-11-21"/>
+    <cosponsor thomas_id="02116" joined="2013-11-20"/>
+    <cosponsor thomas_id="02062" joined="2013-12-03"/>
+    <cosponsor thomas_id="02057" joined="2013-11-14"/>
+    <cosponsor thomas_id="02067" joined="2013-12-02"/>
+    <cosponsor thomas_id="02064" joined="2013-12-03"/>
+    <cosponsor thomas_id="02061" joined="2013-11-20"/>
+    <cosponsor thomas_id="01924" joined="2013-11-14"/>
+    <cosponsor thomas_id="02065" joined="2013-11-14"/>
+    <cosponsor thomas_id="01683" joined="2014-04-01"/>
+    <cosponsor thomas_id="01791" joined="2013-12-12"/>
+    <cosponsor thomas_id="01707" joined="2013-11-14"/>
+    <cosponsor thomas_id="01998" joined="2013-11-18"/>
+    <cosponsor thomas_id="01720" joined="2013-11-14"/>
+    <cosponsor thomas_id="01801" joined="2014-05-19"/>
+    <cosponsor thomas_id="00446" joined="2013-12-04"/>
+    <cosponsor thomas_id="01992" joined="2013-11-20"/>
+    <cosponsor thomas_id="02058" joined="2014-01-27"/>
+    <cosponsor thomas_id="01979" joined="2013-12-05"/>
+    <cosponsor thomas_id="01990" joined="2014-03-04"/>
+    <cosponsor thomas_id="01922" joined="2014-05-19"/>
+    <cosponsor thomas_id="01933" joined="2013-11-14"/>
+    <cosponsor thomas_id="02026" joined="2013-11-15"/>
+    <cosponsor thomas_id="02032" joined="2013-12-02"/>
+    <cosponsor thomas_id="01749" joined="2014-03-11"/>
+    <cosponsor thomas_id="02143" joined="2013-12-16"/>
+    <cosponsor thomas_id="02140" joined="2013-11-14"/>
+    <cosponsor thomas_id="02020" joined="2013-11-14"/>
+    <cosponsor thomas_id="02015" joined="2014-03-11"/>
+    <cosponsor thomas_id="01921" joined="2013-11-14"/>
+    <cosponsor thomas_id="00603" joined="2013-11-14"/>
+    <cosponsor thomas_id="01724" joined="2013-11-14"/>
+    <cosponsor thomas_id="00636" joined="2013-11-14"/>
+    <cosponsor thomas_id="02011" joined="2014-01-17"/>
+    <cosponsor thomas_id="02100" joined="2013-11-14"/>
+    <cosponsor thomas_id="01834" joined="2014-06-17"/>
+    <cosponsor thomas_id="02050" joined="2013-11-20"/>
+    <cosponsor thomas_id="01885" joined="2013-11-20"/>
+    <cosponsor thomas_id="01960" joined="2013-12-12"/>
+    <cosponsor thomas_id="01806" joined="2013-11-14"/>
+    <cosponsor thomas_id="01804" joined="2013-11-18"/>
+    <cosponsor thomas_id="01792" joined="2014-05-20"/>
+    <cosponsor thomas_id="02142" joined="2014-01-17"/>
+    <cosponsor thomas_id="02130" joined="2014-03-12"/>
+    <cosponsor thomas_id="00800" joined="2014-06-12"/>
+    <cosponsor thomas_id="01685" joined="2013-12-04"/>
+    <cosponsor thomas_id="02059" joined="2013-11-14"/>
+    <cosponsor thomas_id="01758" joined="2014-06-25"/>
+    <cosponsor thomas_id="02060" joined="2014-05-20"/>
+    <cosponsor thomas_id="02034" joined="2013-11-20"/>
+    <cosponsor thomas_id="01955" joined="2013-11-14"/>
+    <cosponsor thomas_id="02035" joined="2014-07-08"/>
+    <cosponsor thomas_id="01738" joined="2013-11-15"/>
+    <cosponsor thomas_id="02157" joined="2014-02-03"/>
+    <cosponsor thomas_id="02141" joined="2013-11-14"/>
+    <cosponsor thomas_id="01514" joined="2013-11-14"/>
+    <cosponsor thomas_id="01802" joined="2013-11-20"/>
+    <cosponsor thomas_id="02118" joined="2013-11-14"/>
+    <cosponsor thomas_id="02073" joined="2013-11-14"/>
+    <cosponsor thomas_id="02017" joined="2013-11-15"/>
+    <cosponsor thomas_id="01916" joined="2014-01-27"/>
+    <cosponsor thomas_id="02003" joined="2013-11-14"/>
+    <cosponsor thomas_id="01009" joined="2013-11-14"/>
+    <cosponsor thomas_id="01892" joined="2014-06-10"/>
+    <cosponsor thomas_id="01994" joined="2013-11-21"/>
+    <cosponsor thomas_id="02009" joined="2014-01-28"/>
+    <cosponsor thomas_id="01525" joined="2013-11-14"/>
+    <cosponsor thomas_id="01075" joined="2014-02-10"/>
+    <cosponsor thomas_id="02000" joined="2013-11-15"/>
+    <cosponsor thomas_id="02168" joined="2014-01-07"/>
+    <cosponsor thomas_id="01981" joined="2014-01-09"/>
+    <cosponsor thomas_id="01155" joined="2013-11-19"/>
+    <cosponsor thomas_id="02137" joined="2014-01-13"/>
+    <cosponsor thomas_id="02128" joined="2014-03-11"/>
+    <cosponsor thomas_id="02152" joined="2014-07-29"/>
+    <cosponsor thomas_id="01779" joined="2013-11-14"/>
+    <cosponsor thomas_id="02165" joined="2014-04-29"/>
+    <cosponsor thomas_id="01688" joined="2013-11-14"/>
+    <cosponsor thomas_id="01991" joined="2013-11-21"/>
+    <cosponsor thomas_id="02008" joined="2013-11-19"/>
+    <cosponsor thomas_id="02021" joined="2014-02-11"/>
+    <cosponsor thomas_id="02115" joined="2013-11-14"/>
+    <cosponsor thomas_id="02019" joined="2014-05-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-11-14" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2014-01-22">
+      <text>Referred to the Subcommittee on Health, Employment, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee subcommittee="Health, Employment, Labor, and Pensions" code="HSED02" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="1815"/>
+    <bill type="s" session="113" relation="identical" number="1712"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Accounting and auditing"/>
+    <term name="Business records"/>
+    <term name="Employment discrimination and employee rights"/>
+    <term name="Labor-management relations"/>
+    <term name="Organized crime"/>
+    <term name="Violent crime"/>
+  </subjects>
+  <amendments/>
+  <summary>11/14/2013--Introduced.
+Employee Rights Act - Amends the National Labor Relations Act (NLRA) to make it an unlawful labor practice for a labor organization or its agents to interfere with the rights of employees to organize and select representation to collectively bargain.
+
+Adds a requirement that representatives be selected by secret ballot in an election conducted by the National Labor Relations Board (NLRB) by a majority of the employees in a unit. Defines "majority" for purposes of determining the majority of employees in an election to mean the majority of all employees in the unit, and not the majority of employees voting in the election.
+
+Requires the NLRB, in cases where an existing certified or voluntarily recognized bargaining unit experiences turnover, expansion, or alteration by merger of more than 50% of the unit's employees, to conduct a secret paper ballot among the unit employees: (1) between the 120th day and 110th day before the collective bargaining agreement's expiration or before the end of three years, if there is an agreement between the labor organization and the employer; or (2) within 30 days, if there is no agreement between such parties.
+
+Requires the NLRB to decide, before the election of a labor organization as the exclusive collective bargaining representative of all employees of an appropriate unit, whether such unit shall be the employer unit, craft unit, plant unit, or subdivision unit.
+
+Requires the NLRB to give 14 days advance notice before a hearing when it is investigating an election petition if it has reasonable cause to believe that a question of representation affecting commerce exists.
+
+Revises the requirement that the NLRB direct an election by secret ballot, and certify its results, whenever it finds upon the record of such a hearing that a question of representation exists. Adds a requirement that the NLRB also review all post-hearing appeals before finding that such a question exists.
+
+ Requires an employer to provide the NLRB a list consisting only of employee names and home addresses of all eligible voters within 7 days after an NLRB determination of the appropriate unit or following any agreement between the employer and the labor organization regarding eligible voters.
+
+Prohibits an election after the filing of a petition unless and until: (1) a hearing is conducted before a qualified hearing officer on any and all material, factual issues regarding jurisdiction, statutory coverage, appropriate unit, unit inclusion or exclusion, or eligibility of individuals; and (2) the issues are resolved by a regional Director, subject to appeal and review, or by the NLRB.
+
+Declares that election results shall not be final nor any labor organization be certified as a bargaining representative unless the NLRB has ruled on: (1) each pre-election issue not resolved before the election; and (2) the NLRB conducts a hearing and resolves each issue pertaining to the conduct or results of the election.
+
+Makes any labor organization found to have interfered with, restrained, or coerced employees in the exercise of their rights to form or join a labor organization or to refrain from forming or joining (including the filing of a decertification petition) liable for lost wages and unlawfully collected union dues and fees, if any, and an additional amount as liquated damages.
+
+Amends the Labor-Management Reporting and Disclosure Act of 1959 (Landrum-Griffin Act) to permit an election by secret ballot to be conducted through votes cast by electronic ballot cast in the privacy of a voting booth.
+
+Requires every employee in a bargaining unit represented by a labor organization, regardless of membership status, to have the same right as members to vote by secret ballot to ratify a collective bargaining agreement with, or to engage in, a strike or refusal to work of any kind against their employer.
+
+Prohibits the use of an employee's union dues for any purpose not directly related to the labor organization's collective bargaining, unless that employee authorizes such expenditure in writing.
+
+Prohibits a strike without the consent of a majority of all unit employees affected, determined by a secret ballot vote conducted by a neutral, private organization chosen by agreement between the employer and the labor organization.
+
+Requires each labor organization to make the independently verified annual audit report of its financial condition and operations available to all of its members and represented nonmembers.
+
+Makes it unlawful for a person to use force or violence, or threaten the use of force or violence, to restrain, coerce, or intimidate a person, or attempt to, in order to obtain from any person any right to represent employees, compensation, or other term or condition of employment. Subjects persons who willfully violate such prohibitions to both civil and criminal penalties.</summary>
+</bill>

@@ -1,0 +1,217 @@
+<bill session="113" type="h" number="1286" updated="2014-08-14T13:01:39-04:00">
+  <state datetime="2013-03-20">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-20"/>
+  </status>
+  <introduced datetime="2013-03-20"/>
+  <titles>
+    <title type="short" as="introduced">Healthy Families Act</title>
+    <title type="official" as="introduced">To allow Americans to earn paid sick time so that they can address their own health needs and the health needs of their families.</title>
+  </titles>
+  <sponsor thomas_id="00281"/>
+  <cosponsors>
+    <cosponsor thomas_id="00021" joined="2013-04-17"/>
+    <cosponsor thomas_id="01996" joined="2013-04-25"/>
+    <cosponsor thomas_id="02102" joined="2013-05-14"/>
+    <cosponsor thomas_id="01740" joined="2013-04-18"/>
+    <cosponsor thomas_id="00099" joined="2013-03-20"/>
+    <cosponsor thomas_id="02092" joined="2013-03-20"/>
+    <cosponsor thomas_id="01469" joined="2013-03-20"/>
+    <cosponsor thomas_id="00132" joined="2013-03-20"/>
+    <cosponsor thomas_id="02106" joined="2014-06-12"/>
+    <cosponsor thomas_id="02127" joined="2014-04-29"/>
+    <cosponsor thomas_id="01471" joined="2013-03-20"/>
+    <cosponsor thomas_id="01564" joined="2013-03-20"/>
+    <cosponsor thomas_id="02107" joined="2013-03-20"/>
+    <cosponsor thomas_id="01889" joined="2013-03-20"/>
+    <cosponsor thomas_id="02159" joined="2013-05-20"/>
+    <cosponsor thomas_id="01839" joined="2013-03-20"/>
+    <cosponsor thomas_id="01474" joined="2013-04-25"/>
+    <cosponsor thomas_id="01970" joined="2013-03-20"/>
+    <cosponsor thomas_id="02196" joined="2014-02-21"/>
+    <cosponsor thomas_id="01864" joined="2013-03-20"/>
+    <cosponsor thomas_id="01654" joined="2013-03-20"/>
+    <cosponsor thomas_id="01790" joined="2013-03-20"/>
+    <cosponsor thomas_id="00208" joined="2013-04-25"/>
+    <cosponsor thomas_id="01878" joined="2013-03-20"/>
+    <cosponsor thomas_id="01959" joined="2013-04-09"/>
+    <cosponsor thomas_id="00229" joined="2013-03-20"/>
+    <cosponsor thomas_id="01836" joined="2013-03-20"/>
+    <cosponsor thomas_id="01604" joined="2014-02-27"/>
+    <cosponsor thomas_id="01477" joined="2013-03-20"/>
+    <cosponsor thomas_id="01641" joined="2013-04-09"/>
+    <cosponsor thomas_id="02133" joined="2013-03-20"/>
+    <cosponsor thomas_id="02096" joined="2014-02-03"/>
+    <cosponsor thomas_id="01976" joined="2013-03-20"/>
+    <cosponsor thomas_id="00316" joined="2013-05-21"/>
+    <cosponsor thomas_id="01894" joined="2013-03-20"/>
+    <cosponsor thomas_id="01857" joined="2013-03-20"/>
+    <cosponsor thomas_id="02125" joined="2013-07-24"/>
+    <cosponsor thomas_id="00355" joined="2013-03-20"/>
+    <cosponsor thomas_id="02114" joined="2013-03-20"/>
+    <cosponsor thomas_id="01895" joined="2013-03-20"/>
+    <cosponsor thomas_id="02122" joined="2013-07-22"/>
+    <cosponsor thomas_id="01973" joined="2014-03-24"/>
+    <cosponsor thomas_id="01914" joined="2013-07-22"/>
+    <cosponsor thomas_id="01803" joined="2013-03-20"/>
+    <cosponsor thomas_id="00462" joined="2013-03-20"/>
+    <cosponsor thomas_id="01708" joined="2013-03-20"/>
+    <cosponsor thomas_id="00478" joined="2013-03-20"/>
+    <cosponsor thomas_id="02089" joined="2013-03-20"/>
+    <cosponsor thomas_id="00511" joined="2013-03-20"/>
+    <cosponsor thomas_id="01794" joined="2014-02-10"/>
+    <cosponsor thomas_id="01913" joined="2013-03-20"/>
+    <cosponsor thomas_id="01580" joined="2013-03-20"/>
+    <cosponsor thomas_id="01634" joined="2013-03-20"/>
+    <cosponsor thomas_id="02147" joined="2014-04-28"/>
+    <cosponsor thomas_id="02101" joined="2013-03-20"/>
+    <cosponsor thomas_id="01663" joined="2014-03-24"/>
+    <cosponsor thomas_id="02149" joined="2013-03-20"/>
+    <cosponsor thomas_id="00599" joined="2013-03-20"/>
+    <cosponsor thomas_id="01843" joined="2013-03-20"/>
+    <cosponsor thomas_id="00616" joined="2013-03-20"/>
+    <cosponsor thomas_id="02025" joined="2013-03-20"/>
+    <cosponsor thomas_id="02134" joined="2013-04-26"/>
+    <cosponsor thomas_id="02169" joined="2014-03-13"/>
+    <cosponsor thomas_id="01907" joined="2013-03-20"/>
+    <cosponsor thomas_id="02145" joined="2014-04-09"/>
+    <cosponsor thomas_id="01668" joined="2013-03-20"/>
+    <cosponsor thomas_id="01675" joined="2013-03-20"/>
+    <cosponsor thomas_id="01583" joined="2013-03-20"/>
+    <cosponsor thomas_id="01501" joined="2013-03-20"/>
+    <cosponsor thomas_id="00683" joined="2013-09-09"/>
+    <cosponsor thomas_id="00688" joined="2013-03-20"/>
+    <cosponsor thomas_id="00701" joined="2013-03-20"/>
+    <cosponsor thomas_id="00709" joined="2013-04-25"/>
+    <cosponsor thomas_id="02146" joined="2013-04-09"/>
+    <cosponsor thomas_id="01939" joined="2013-03-20"/>
+    <cosponsor thomas_id="01686" joined="2013-03-20"/>
+    <cosponsor thomas_id="01943" joined="2014-02-14"/>
+    <cosponsor thomas_id="00729" joined="2013-03-20"/>
+    <cosponsor thomas_id="00735" joined="2013-03-20"/>
+    <cosponsor thomas_id="01814" joined="2013-03-20"/>
+    <cosponsor thomas_id="01503" joined="2013-04-09"/>
+    <cosponsor thomas_id="01653" joined="2013-03-20"/>
+    <cosponsor thomas_id="00766" joined="2013-03-20"/>
+    <cosponsor thomas_id="01504" joined="2013-03-20"/>
+    <cosponsor thomas_id="02148" joined="2013-03-20"/>
+    <cosponsor thomas_id="01730" joined="2013-07-17"/>
+    <cosponsor thomas_id="00808" joined="2013-03-20"/>
+    <cosponsor thomas_id="01811" joined="2013-03-20"/>
+    <cosponsor thomas_id="00832" joined="2013-03-20"/>
+    <cosponsor thomas_id="00850" joined="2013-03-20"/>
+    <cosponsor thomas_id="01602" joined="2013-03-20"/>
+    <cosponsor thomas_id="02108" joined="2013-04-09"/>
+    <cosponsor thomas_id="00867" joined="2014-06-17"/>
+    <cosponsor thomas_id="00868" joined="2013-03-20"/>
+    <cosponsor thomas_id="00887" joined="2013-03-20"/>
+    <cosponsor thomas_id="02097" joined="2013-03-20"/>
+    <cosponsor thomas_id="00905" joined="2013-03-20"/>
+    <cosponsor thomas_id="01835" joined="2013-04-12"/>
+    <cosponsor thomas_id="01929" joined="2013-03-20"/>
+    <cosponsor thomas_id="01927" joined="2013-03-20"/>
+    <cosponsor thomas_id="02171" joined="2013-03-20"/>
+    <cosponsor thomas_id="01910" joined="2013-03-20"/>
+    <cosponsor thomas_id="00930" joined="2013-03-20"/>
+    <cosponsor thomas_id="00944" joined="2013-03-20"/>
+    <cosponsor thomas_id="00997" joined="2013-03-20"/>
+    <cosponsor thomas_id="01003" joined="2013-03-20"/>
+    <cosponsor thomas_id="01756" joined="2013-03-20"/>
+    <cosponsor thomas_id="01757" joined="2013-03-20"/>
+    <cosponsor thomas_id="01854" joined="2013-03-20"/>
+    <cosponsor thomas_id="01588" joined="2013-03-20"/>
+    <cosponsor thomas_id="01635" joined="2013-03-20"/>
+    <cosponsor thomas_id="01798" joined="2013-03-20"/>
+    <cosponsor thomas_id="01037" joined="2013-05-06"/>
+    <cosponsor thomas_id="01042" joined="2013-03-20"/>
+    <cosponsor thomas_id="01861" joined="2013-03-20"/>
+    <cosponsor thomas_id="01526" joined="2013-03-20"/>
+    <cosponsor thomas_id="01069" joined="2013-03-20"/>
+    <cosponsor thomas_id="01890" joined="2013-03-20"/>
+    <cosponsor thomas_id="02104" joined="2013-03-20"/>
+    <cosponsor thomas_id="02110" joined="2013-03-20"/>
+    <cosponsor thomas_id="01535" joined="2014-03-11"/>
+    <cosponsor thomas_id="01940" joined="2013-03-20"/>
+    <cosponsor thomas_id="01942" joined="2013-03-20"/>
+    <cosponsor thomas_id="01884" joined="2013-03-20"/>
+    <cosponsor thomas_id="01729" joined="2013-03-20"/>
+    <cosponsor thomas_id="02166" joined="2013-03-20"/>
+    <cosponsor thomas_id="01184" joined="2013-04-25"/>
+    <cosponsor thomas_id="01856" joined="2013-04-26"/>
+    <cosponsor thomas_id="01777" joined="2013-03-20"/>
+    <cosponsor thomas_id="01209" joined="2013-03-20"/>
+    <cosponsor thomas_id="02004" joined="2013-03-20"/>
+    <cosponsor thomas_id="01853" joined="2013-03-20"/>
+    <cosponsor thomas_id="01879" joined="2013-04-26" withdrawn="2013-05-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-20" state="REFERRED">
+      <text>Referred to the Committee on Education and the Workforce, and in addition to the Committees on House Administration, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-20">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2013-03-20">
+      <text>Referred to House House Administration</text>
+    </action>
+    <action datetime="2013-03-20">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2013-04-23">
+      <text>Referred to the Subcommittee on Health, Employment, Labor, and Pensions.</text>
+    </action>
+    <action datetime="2013-04-23">
+      <text>Referred to the Subcommittee on Workforce Protections.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health, Employment, Labor, and Pensions" code="HSED02" name="House Education and the Workforce" activity="Referral"/>
+    <committee subcommittee="Workforce Protections" code="HSED10" name="House Education and the Workforce" activity="Referral"/>
+    <committee subcommittee="" code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="631"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Assault and harassment offenses"/>
+    <term name="Civil actions and liability"/>
+    <term name="Congressional agencies"/>
+    <term name="Congressional officers and employees"/>
+    <term name="Congressional oversight"/>
+    <term name="Domestic violence and child abuse"/>
+    <term name="Employee leave"/>
+    <term name="Employment discrimination and employee rights"/>
+    <term name="Government Accountability Office (GAO)"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government information and archives"/>
+    <term name="Government liability"/>
+    <term name="Government studies and investigations"/>
+    <term name="Library of Congress"/>
+    <term name="Marriage and family status"/>
+    <term name="Merit Systems Protection Board"/>
+    <term name="Sex offenses"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>3/20/2013--Introduced.
+Healthy Families Act - Requires certain employers, who employ 15 or more employees for each working day during 20 or more workweeks a year, to permit each employee to earn at least 1 hour of paid sick time for every 30 hours worked.
+
+Declares that an employer shall not be required to permit an employee to earn more than 56 hours of paid sick time in a calendar year, unless the employer chooses to set a higher limit.
+
+Allows employees to use such time to: (1) meet their own medical needs; (2) care for the medical needs of certain family members (including a domestic partner or the domestic partner's parent or child); or (3) seek medical attention, assist a related person, take legal action, or engage in other specified activities relating to domestic violence, sexual assault, or stalking.
+
+Prohibits an employer from interfering with an employee's exercise of such rights.
+
+Directs the Secretary of Labor to exercise certain investigative and enforcement authority for employees covered by the Family and Medical Leave Act of 1993 or the Government Employee Rights Act of 1991. Grants the same authority, for employees under their jurisdiction, to the Librarian of Congress, the Comptroller General (GAO), the Board of Directors of the congressional Office of Compliance, and the Merit Systems Protection Board.
+
+Authorizes civil actions by employees, individuals, or their representatives for damages or equitable relief against employers who violate this Act.
+
+Waives a state's sovereign immunity with respect to a suit brought by an employee of a federally-assisted state program or activity for relief authorized under this Act.
+
+Requires the Commissioner of Labor Statistics to annually compile information on paid sick time and the Comptroller General to study related matters.
+
+Declares that nothing in this Act shall be construed to discourage employers from adopting or retaining more generous leave policies.</summary>
+</bill>

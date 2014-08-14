@@ -1,0 +1,60 @@
+<bill session="113" type="s" number="2265" updated="2014-08-14T14:04:10-04:00">
+  <state datetime="2014-04-29">REFERRED</state>
+  <status>
+    <introduced datetime="2014-04-29"/>
+  </status>
+  <introduced datetime="2014-04-29"/>
+  <titles>
+    <title type="short" as="introduced">Stand with Israel Act of 2014</title>
+    <title type="official" as="introduced">A bill to prohibit certain assistance to the Palestinian Authority.</title>
+  </titles>
+  <sponsor thomas_id="02082"/>
+  <cosponsors>
+    <cosponsor thomas_id="00153" joined="2014-04-29"/>
+    <cosponsor thomas_id="00209" joined="2014-04-29"/>
+    <cosponsor thomas_id="00212" joined="2014-04-29"/>
+    <cosponsor thomas_id="01692" joined="2014-04-29"/>
+    <cosponsor thomas_id="01542" joined="2014-05-01"/>
+    <cosponsor thomas_id="00452" joined="2014-04-29"/>
+    <cosponsor thomas_id="00457" joined="2014-05-07"/>
+    <cosponsor thomas_id="01351" joined="2014-04-29"/>
+    <cosponsor thomas_id="00583" joined="2014-04-29"/>
+    <cosponsor thomas_id="02080" joined="2014-04-29"/>
+    <cosponsor thomas_id="01395" joined="2014-04-29"/>
+    <cosponsor thomas_id="01507" joined="2014-04-29"/>
+    <cosponsor thomas_id="00968" joined="2014-04-29"/>
+    <cosponsor thomas_id="01049" joined="2014-04-29"/>
+    <cosponsor thomas_id="01534" joined="2014-05-07"/>
+    <cosponsor thomas_id="02085" joined="2014-04-29"/>
+    <cosponsor thomas_id="01226" joined="2014-04-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-04-29" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Arab-Israeli relations"/>
+    <term name="Conflicts and wars"/>
+    <term name="Congressional oversight"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Foreign loans and debt"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Israel"/>
+    <term name="Middle East"/>
+    <term name="Palestinians"/>
+    <term name="Sovereignty, recognition, national governance and status"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+  <summary>4/29/2014--Introduced.
+Stand with Israel Act of 2014 - Prohibits any direct U.S. assistance, loan guarantee, or debt relief to the Palestinian Authority (PA) or any affiliated governing entity or leadership organization.
+
+States that such prohibition shall have no effect for a fiscal year if the President certifies to Congress that during such fiscal year the PA has: (1) formally recognized Israel's right to exist as a Jewish state, (2) publicly recognized the state of Israel, (3) renounced terrorism, (4) purged all individuals with terrorist ties from security services, (5) terminated funding of anti-American and anti-Israel incitement, (6) publicly pledged to not engage in war with Israel, and (7) honored previous diplomatic agreements.</summary>
+</bill>

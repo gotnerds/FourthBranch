@@ -1,0 +1,61 @@
+<bill session="113" type="h" number="1381" updated="2014-08-14T13:02:28-04:00">
+  <state datetime="2013-03-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-21"/>
+  </status>
+  <introduced datetime="2013-03-21"/>
+  <titles>
+    <title type="short" as="introduced">Educational Opportunities Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to allow a credit against tax for qualified elementary and secondary education tuition.</title>
+  </titles>
+  <sponsor thomas_id="02017"/>
+  <cosponsors>
+    <cosponsor thomas_id="00186" joined="2014-02-04"/>
+    <cosponsor thomas_id="01742" joined="2013-03-21"/>
+    <cosponsor thomas_id="02057" joined="2013-03-21"/>
+    <cosponsor thomas_id="01707" joined="2013-03-21"/>
+    <cosponsor thomas_id="02058" joined="2013-04-09"/>
+    <cosponsor thomas_id="02026" joined="2013-03-21"/>
+    <cosponsor thomas_id="02100" joined="2013-03-21"/>
+    <cosponsor thomas_id="02130" joined="2013-03-21"/>
+    <cosponsor thomas_id="02141" joined="2013-03-21"/>
+    <cosponsor thomas_id="01514" joined="2013-03-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-21" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-21">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-03-21">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2013-07-08">
+      <text>Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+    <committee subcommittee="Early Childhood, Elementary, and Secondary Education" code="HSED14" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="297"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Income tax credits"/>
+    <term name="Sales and excise taxes"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+  <summary>3/21/2013--Introduced.
+Educational Opportunities Act - Amends the Internal Revenue Code to allow individual taxpayers a tax credit for charitable contributions to a scholarship granting organization. Allows a maximum credit amount of $4,500 ($2,250 for a married individual filing a separate return). Defines "scholarship granting organization" as a tax-exempt entity whose exclusive purpose is to provide scholarships for the tuition and other expenses of elementary and secondary school students from low income households (i.e., household income not exceeding 250% of federal poverty guidelines).
+
+Allows corporate taxpayers a tax credit, up to $100,000, for contributions to a scholarship granting organization.
+
+Imposes a penalty on scholarship granting organizations that fail to distribute at least 90% of their total receipts for elementary and secondary school expenses in a taxable year.</summary>
+</bill>

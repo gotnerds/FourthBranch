@@ -1,0 +1,35 @@
+<bill session="113" type="h" number="5373" updated="2014-08-14T13:37:20-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="official" as="introduced">To amend titles XVIII and XIX of the Social Security Act to establish a minimum direct care registered nurse staffing requirement at nursing facilities and skilled nursing facilities under Medicare and Medicaid and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01588"/>
+  <cosponsors>
+    <cosponsor thomas_id="01814" joined="2014-07-31"/>
+    <cosponsor thomas_id="02097" joined="2014-07-31"/>
+    <cosponsor thomas_id="00944" joined="2014-07-31"/>
+    <cosponsor thomas_id="00997" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

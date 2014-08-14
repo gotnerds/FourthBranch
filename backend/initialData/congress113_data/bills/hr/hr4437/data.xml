@@ -1,0 +1,65 @@
+<bill session="113" type="h" number="4437" updated="2014-08-14T13:29:14-04:00">
+  <state datetime="2014-04-09">REFERRED</state>
+  <status>
+    <introduced datetime="2014-04-09"/>
+  </status>
+  <introduced datetime="2014-04-09"/>
+  <titles>
+    <title type="short" as="introduced">Generic Drug Pricing Fairness Act</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to provide for pharmacy benefits manager standards under the Medicare prescription drug program to further transparency of payment methodologies to pharmacies, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02121"/>
+  <cosponsors>
+    <cosponsor thomas_id="00062" joined="2014-05-09"/>
+    <cosponsor thomas_id="00091" joined="2014-05-19"/>
+    <cosponsor thomas_id="01912" joined="2014-05-22"/>
+    <cosponsor thomas_id="01989" joined="2014-07-17"/>
+    <cosponsor thomas_id="00322" joined="2014-06-17"/>
+    <cosponsor thomas_id="00371" joined="2014-07-29"/>
+    <cosponsor thomas_id="01793" joined="2014-06-18"/>
+    <cosponsor thomas_id="01846" joined="2014-04-09"/>
+    <cosponsor thomas_id="02009" joined="2014-05-07"/>
+    <cosponsor thomas_id="02000" joined="2014-06-17"/>
+    <cosponsor thomas_id="02165" joined="2014-06-18"/>
+    <cosponsor thomas_id="01256" joined="2014-05-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-04-09" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-04-09">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2014-04-09">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2014-04-11">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="867"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Contracts and agency"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health information and medical records"/>
+    <term name="Medical ethics"/>
+    <term name="Medicare"/>
+    <term name="Prescription drugs"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Retail and wholesale trades"/>
+    <term name="Right of privacy"/>
+  </subjects>
+  <amendments/>
+  <summary>4/9/2014--Introduced.
+Generic Drug Pricing Fairness Act - Amends part D (Voluntary Prescription Drug Benefit Program) of title XVIII (Medicare) of the Social Security Act to require each contract entered into with a prescription drug plan (PDP) sponsor with respect to a PDP the sponsor offers to prohibit the PDP from entering into a contract with any pharmacy benefits manager (PBM) to manage the prescription drug coverage provided under such plan, or to control the costs of the prescription drug coverage under it, unless the PBM adheres to specified criteria when handling personally identifiable utilization and claims data or other sensitive patient data.
+
+Revises requirements for contracts with PDP sponsors to require that the PDP sponsor disclose to applicable pharmacies the sources used for making any update of the prescription drug pricing standard, and if the source for such a standard is not publicly available, disclose to such pharmacies all individual drug prices to be so updated in advance of their use for the reimbursement of claims. Requires the PDP sponsor, as well, to establish a process to appeal, investigate, and resolve disputes regarding individual drug prices that are less than the pharmacy acquisition price for a drug.</summary>
+</bill>

@@ -1,0 +1,36 @@
+<bill session="113" type="s" number="2524" updated="2014-08-14T14:06:20-04:00">
+  <state datetime="2014-06-24">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-24"/>
+  </status>
+  <introduced datetime="2014-06-24"/>
+  <titles>
+    <title type="short" as="introduced">Pathways to Prosperity Act of 2014</title>
+    <title type="official" as="introduced">A bill to support access to career and technical education programs of study that provide students with education and training combining rigorous academics with technical curricula focused on specific high-skill, high-wage, high-demand and high-growth occupations and industries.</title>
+  </titles>
+  <sponsor thomas_id="01897"/>
+  <cosponsors>
+    <cosponsor thomas_id="02176" joined="2014-06-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-24" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Academic performance and assessments"/>
+    <term name="Census and government statistics"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Higher education"/>
+    <term name="Licensing and registrations"/>
+    <term name="Personnel records"/>
+    <term name="Vocational education"/>
+    <term name="Wages and earnings"/>
+  </subjects>
+  <amendments/>
+</bill>

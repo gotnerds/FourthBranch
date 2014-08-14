@@ -1,0 +1,90 @@
+<bill session="113" type="h" number="4148" updated="2014-08-14T13:26:48-04:00">
+  <state datetime="2014-03-05">REFERRED</state>
+  <status>
+    <introduced datetime="2014-03-05"/>
+  </status>
+  <introduced datetime="2014-03-05"/>
+  <titles>
+    <title type="short" as="introduced">Humane Cosmetics Act</title>
+    <title type="official" as="introduced">To phase out cosmetic animal testing and the sale of cosmetics tested on animals.</title>
+  </titles>
+  <sponsor thomas_id="00832"/>
+  <cosponsors>
+    <cosponsor thomas_id="02102" joined="2014-04-08"/>
+    <cosponsor thomas_id="01740" joined="2014-05-20"/>
+    <cosponsor thomas_id="00099" joined="2014-04-01"/>
+    <cosponsor thomas_id="01564" joined="2014-04-28"/>
+    <cosponsor thomas_id="02107" joined="2014-04-01"/>
+    <cosponsor thomas_id="02159" joined="2014-06-24"/>
+    <cosponsor thomas_id="01839" joined="2014-07-17"/>
+    <cosponsor thomas_id="01474" joined="2014-04-08"/>
+    <cosponsor thomas_id="01970" joined="2014-03-24"/>
+    <cosponsor thomas_id="02055" joined="2014-04-08"/>
+    <cosponsor thomas_id="02196" joined="2014-03-13"/>
+    <cosponsor thomas_id="01654" joined="2014-07-22"/>
+    <cosponsor thomas_id="01878" joined="2014-03-11"/>
+    <cosponsor thomas_id="00229" joined="2014-03-24"/>
+    <cosponsor thomas_id="00279" joined="2014-04-28"/>
+    <cosponsor thomas_id="02133" joined="2014-07-25"/>
+    <cosponsor thomas_id="00281" joined="2014-03-24"/>
+    <cosponsor thomas_id="02096" joined="2014-04-08"/>
+    <cosponsor thomas_id="01976" joined="2014-04-01"/>
+    <cosponsor thomas_id="00303" joined="2014-03-11"/>
+    <cosponsor thomas_id="02114" joined="2014-07-10"/>
+    <cosponsor thomas_id="00368" joined="2014-03-13"/>
+    <cosponsor thomas_id="01888" joined="2014-04-28"/>
+    <cosponsor thomas_id="01708" joined="2014-03-11"/>
+    <cosponsor thomas_id="02041" joined="2014-03-11"/>
+    <cosponsor thomas_id="02010" joined="2014-03-13"/>
+    <cosponsor thomas_id="00511" joined="2014-03-11"/>
+    <cosponsor thomas_id="01913" joined="2014-04-01"/>
+    <cosponsor thomas_id="01580" joined="2014-03-13"/>
+    <cosponsor thomas_id="01634" joined="2014-07-22"/>
+    <cosponsor thomas_id="00599" joined="2014-03-11"/>
+    <cosponsor thomas_id="01843" joined="2014-03-24"/>
+    <cosponsor thomas_id="01583" joined="2014-06-18"/>
+    <cosponsor thomas_id="01501" joined="2014-04-01"/>
+    <cosponsor thomas_id="00701" joined="2014-04-30"/>
+    <cosponsor thomas_id="01686" joined="2014-07-10"/>
+    <cosponsor thomas_id="01504" joined="2014-04-01"/>
+    <cosponsor thomas_id="01832" joined="2014-05-20"/>
+    <cosponsor thomas_id="00808" joined="2014-04-28"/>
+    <cosponsor thomas_id="02108" joined="2014-07-31"/>
+    <cosponsor thomas_id="00868" joined="2014-03-11"/>
+    <cosponsor thomas_id="02162" joined="2014-03-13"/>
+    <cosponsor thomas_id="01927" joined="2014-04-28"/>
+    <cosponsor thomas_id="01967" joined="2014-04-01"/>
+    <cosponsor thomas_id="00944" joined="2014-03-11"/>
+    <cosponsor thomas_id="01635" joined="2014-04-08"/>
+    <cosponsor thomas_id="01798" joined="2014-03-13"/>
+    <cosponsor thomas_id="01861" joined="2014-03-13"/>
+    <cosponsor thomas_id="01069" joined="2014-04-01"/>
+    <cosponsor thomas_id="01890" joined="2014-05-20"/>
+    <cosponsor thomas_id="01535" joined="2014-03-13"/>
+    <cosponsor thomas_id="01940" joined="2014-03-11"/>
+    <cosponsor thomas_id="01879" joined="2014-05-20"/>
+    <cosponsor thomas_id="02004" joined="2014-03-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-03-05" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2014-03-07">
+      <text>Referred to the Subcommittee on Commerce, Manufacturing, and Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Commerce, Manufacturing, and Trade" code="HSIF17" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Animals"/>
+    <term name="Animal protection and human-animal relationships"/>
+    <term name="Product development and innovation"/>
+    <term name="Product safety and quality"/>
+  </subjects>
+  <amendments/>
+  <summary>3/5/2014--Introduced.
+Humane Cosmetics Act - Prohibits: (1) any entity from conducting or contracting for cosmetic animal testing in the United States, in or affecting interstate commerce, effective on the date that is one year after enactment of this Act; and (2) selling, offering for sale, or transporting in interstate commerce any cosmetic if the final product or any component was developed or manufactured using cosmetic animal testing conducted or contracted for after such date, effective three years after this Act's enactment.</summary>
+</bill>

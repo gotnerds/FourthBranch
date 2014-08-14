@@ -1,0 +1,58 @@
+<bill session="113" type="s" number="749" updated="2014-08-14T13:51:11-04:00">
+  <state datetime="2013-04-17">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-17"/>
+  </status>
+  <introduced datetime="2013-04-17"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to permanently extend the 15-year recovery period for qualified leasehold improvement property, qualified restaurant property, and qualified retail improvement property.</title>
+  </titles>
+  <sponsor thomas_id="01828"/>
+  <cosponsors>
+    <cosponsor thomas_id="01898" joined="2013-04-17"/>
+    <cosponsor thomas_id="01464" joined="2013-10-15"/>
+    <cosponsor thomas_id="00136" joined="2013-04-17"/>
+    <cosponsor thomas_id="00153" joined="2013-06-03"/>
+    <cosponsor thomas_id="00213" joined="2013-06-10"/>
+    <cosponsor thomas_id="01541" joined="2013-04-17"/>
+    <cosponsor thomas_id="01692" joined="2013-04-17"/>
+    <cosponsor thomas_id="00250" joined="2013-04-17"/>
+    <cosponsor thomas_id="01902" joined="2013-04-17"/>
+    <cosponsor thomas_id="01863" joined="2013-04-24"/>
+    <cosponsor thomas_id="00583" joined="2013-04-17"/>
+    <cosponsor thomas_id="02185" joined="2013-05-22"/>
+    <cosponsor thomas_id="01826" joined="2013-04-17"/>
+    <cosponsor thomas_id="01546" joined="2013-09-17"/>
+    <cosponsor thomas_id="00791" joined="2013-04-17"/>
+    <cosponsor thomas_id="00802" joined="2013-12-09"/>
+    <cosponsor thomas_id="01896" joined="2013-04-17"/>
+    <cosponsor thomas_id="00968" joined="2013-04-25"/>
+    <cosponsor thomas_id="01531" joined="2013-04-17"/>
+    <cosponsor thomas_id="01829" joined="2013-06-20"/>
+    <cosponsor thomas_id="01609" joined="2013-04-17"/>
+    <cosponsor thomas_id="01226" joined="2013-04-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-17" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="3939"/>
+    <bill type="h" session="113" relation="unknown" number="3948"/>
+    <bill type="h" session="113" relation="unknown" number="4212"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Business investment and capital"/>
+    <term name="Food industry and services"/>
+    <term name="Income tax deductions"/>
+    <term name="Retail and wholesale trades"/>
+  </subjects>
+  <amendments/>
+  <summary>4/17/2013--Introduced.
+Amends the Internal Revenue Code to make permanent the 15-year recovery period classification for qualified leasehold improvement, restaurant, and retail improvement property, for purposes of the depreciation tax deduction.</summary>
+</bill>

@@ -1,0 +1,29 @@
+<bill session="113" type="h" number="5223" updated="2014-08-14T13:36:03-04:00">
+  <state datetime="2014-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-28"/>
+  </status>
+  <introduced datetime="2014-07-28"/>
+  <titles>
+    <title type="short" as="introduced">RDOCS Act of 2014</title>
+    <title type="short" as="introduced">Restoring the Doctors of Our Country through Scholarships Act of 2014</title>
+    <title type="official" as="introduced">To amend the Public Health Service Act to authorize grants to States for the purpose of assisting the States in operating an RDOCS program in order to provide for the increased availability of primary health care services in health professional shortage areas.</title>
+  </titles>
+  <sponsor thomas_id="00766"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-28">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1245-1246"/>
+    </action>
+    <action datetime="2014-07-28" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

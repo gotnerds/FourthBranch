@@ -1,0 +1,29 @@
+<bill session="113" type="h" number="5252" updated="2014-08-14T13:36:20-04:00">
+  <state datetime="2014-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-29"/>
+  </status>
+  <introduced datetime="2014-07-29"/>
+  <titles>
+    <title type="official" as="introduced">To ensure that methods of collecting taxing and fees by private citizens on behalf of States are fair and effective and do not discriminate against interstate commerce.</title>
+  </titles>
+  <sponsor thomas_id="01041"/>
+  <cosponsors>
+    <cosponsor thomas_id="00038" joined="2014-07-29"/>
+    <cosponsor thomas_id="01878" joined="2014-07-29"/>
+    <cosponsor thomas_id="01976" joined="2014-08-01"/>
+    <cosponsor thomas_id="01843" joined="2014-07-29"/>
+    <cosponsor thomas_id="01566" joined="2014-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-29" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

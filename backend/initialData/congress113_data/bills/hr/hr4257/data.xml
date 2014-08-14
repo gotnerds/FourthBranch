@@ -1,0 +1,44 @@
+<bill session="113" type="h" number="4257" updated="2014-08-14T13:27:44-04:00">
+  <state datetime="2014-03-14">REFERRED</state>
+  <status>
+    <introduced datetime="2014-03-14"/>
+  </status>
+  <introduced datetime="2014-03-14"/>
+  <titles>
+    <title type="short" as="introduced">Rebalance for an Effective Defense Uniform and Civilian Employees Act (REDUCE Act)</title>
+    <title type="official" as="introduced">To provide for a limitation on the number of civilian employees at the Department of Defense, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00165"/>
+  <cosponsors>
+    <cosponsor thomas_id="02098" joined="2014-03-14"/>
+    <cosponsor thomas_id="01989" joined="2014-06-26"/>
+    <cosponsor thomas_id="01487" joined="2014-03-14"/>
+    <cosponsor thomas_id="01909" joined="2014-03-27"/>
+    <cosponsor thomas_id="01640" joined="2014-03-14"/>
+    <cosponsor thomas_id="01710" joined="2014-03-14"/>
+    <cosponsor thomas_id="02073" joined="2014-03-27"/>
+    <cosponsor thomas_id="02017" joined="2014-03-14"/>
+    <cosponsor thomas_id="01560" joined="2014-05-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-03-14" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional oversight"/>
+    <term name="Defense spending"/>
+    <term name="Department of Defense"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government studies and investigations"/>
+  </subjects>
+  <amendments/>
+  <summary>3/14/2014--Introduced.
+Rebalance for an Effective Defense Uniform and Civilian Employees Act (REDUCE Act) - Limits full-time positions in the Department of Defense (DOD), in each of FY2021-FY2025, subject to specified adjustments to be made by the DOD Secretary, to a number not greater than 85% of the number of such positions at DOD as of September 30, 2015. Permits not more than 1,000 of such positions to be career appointees within the Senior Executive Service. Authorizes the DOD Secretary to offer voluntary separation incentive payments and voluntary early retirement payments to achieve the reductions required by this Act, but requires the Secretary to use involuntary measures, including reductions in force, beginning on October 1, 2015,&#160;to achieve required reductions in personnel levels if voluntary measures&#160;are inadequate.</summary>
+</bill>

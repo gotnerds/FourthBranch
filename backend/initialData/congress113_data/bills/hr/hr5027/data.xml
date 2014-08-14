@@ -1,0 +1,32 @@
+<bill session="113" type="h" number="5027" updated="2014-08-14T13:34:23-04:00">
+  <state datetime="2014-07-08">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-08"/>
+  </status>
+  <introduced datetime="2014-07-08"/>
+  <titles>
+    <title type="short" as="introduced">Energy Savings and Building Efficiency Act of 2014</title>
+    <title type="official" as="introduced">To promote energy savings in residential and commercial buildings and industry, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01748"/>
+  <cosponsors>
+    <cosponsor thomas_id="01950" joined="2014-07-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-08" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="1616"/>
+    <bill type="s" session="113" relation="unknown" number="761"/>
+    <bill type="s" session="113" relation="unknown" number="1392"/>
+    <bill type="s" session="113" relation="unknown" number="2074"/>
+    <bill type="s" session="113" relation="unknown" number="2262"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

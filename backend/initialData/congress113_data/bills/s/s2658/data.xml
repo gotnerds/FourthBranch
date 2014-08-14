@@ -1,0 +1,32 @@
+<bill session="113" type="s" number="2658" updated="2014-08-14T14:07:27-04:00">
+  <state datetime="2014-07-24">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-24"/>
+  </status>
+  <introduced datetime="2014-07-24"/>
+  <titles>
+    <title type="short" as="introduced">Accelerating Biomedical Research Act</title>
+    <title type="official" as="introduced">A bill to prioritize funding for the National Institutes of Health to discover treatments and cures, to maintain global leadership in medical innovation, and to restore the purchasing power the NIH had after the historic doubling campaign that ended in fiscal year 2003.</title>
+  </titles>
+  <sponsor thomas_id="00501"/>
+  <cosponsors>
+    <cosponsor thomas_id="00326" joined="2014-07-29"/>
+    <cosponsor thomas_id="01969" joined="2014-07-29"/>
+    <cosponsor thomas_id="01826" joined="2014-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-24">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S4906-4908"/>
+    </action>
+    <action datetime="2014-07-24" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Budget.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSBU" name="Senate Budget" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

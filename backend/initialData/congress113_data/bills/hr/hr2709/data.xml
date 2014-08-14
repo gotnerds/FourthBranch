@@ -1,0 +1,45 @@
+<bill session="113" type="h" number="2709" updated="2014-08-14T13:14:33-04:00">
+  <state datetime="2013-07-17">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-17"/>
+  </status>
+  <introduced datetime="2013-07-17"/>
+  <titles>
+    <title type="official" as="introduced">To extend the Generalized System of Preferences.</title>
+  </titles>
+  <sponsor thomas_id="00166"/>
+  <cosponsors>
+    <cosponsor thomas_id="02092" joined="2014-01-15"/>
+    <cosponsor thomas_id="01787" joined="2013-07-24"/>
+    <cosponsor thomas_id="01468" joined="2013-07-24"/>
+    <cosponsor thomas_id="01878" joined="2014-03-04"/>
+    <cosponsor thomas_id="02169" joined="2014-01-10"/>
+    <cosponsor thomas_id="00683" joined="2013-07-17"/>
+    <cosponsor thomas_id="00766" joined="2013-07-24"/>
+    <cosponsor thomas_id="01710" joined="2013-07-17"/>
+    <cosponsor thomas_id="00944" joined="2013-07-17"/>
+    <cosponsor thomas_id="01848" joined="2013-07-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-17" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2013-07-23">
+      <text>Referred to the Subcommittee on Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee subcommittee="Trade" code="HSWM04" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1331"/>
+  </relatedbills>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Tariffs"/>
+  </subjects>
+  <amendments/>
+  <summary>7/17/2013--Introduced.
+Amends the Trade Act of 1974 to extend duty-free treatment under the Generalized System of Preferences (GSP) through September 30, 2015.</summary>
+</bill>

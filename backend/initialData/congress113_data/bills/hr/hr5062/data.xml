@@ -1,0 +1,66 @@
+<bill session="113" type="h" number="5062" updated="2014-08-14T13:34:41-04:00">
+  <state datetime="2014-07-29T14:16:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-07-29T14:16:00-04:00"/>
+  </status>
+  <introduced datetime="2014-07-10"/>
+  <titles>
+    <title type="short" as="introduced">Examination and Supervisory Privilege Parity Act of 2014</title>
+    <title type="official" as="introduced">To amend the Consumer Financial Protection Act of 2010 to specify that privilege is maintained when information is shared by certain nondepository covered persons with Federal and State financial regulators, and for other purposes.</title>
+    <title type="official" as="amended by house">To amend the Consumer Financial Protection Act of 2010 to specify that privilege and confidentiality are maintained when information is shared by certain nondepository covered persons with Federal and State financial regulators, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01835"/>
+  <cosponsors>
+    <cosponsor thomas_id="02131" joined="2014-07-10"/>
+    <cosponsor thomas_id="01999" joined="2014-07-25"/>
+    <cosponsor thomas_id="02170" joined="2014-07-25"/>
+    <cosponsor thomas_id="00635" joined="2014-07-23"/>
+    <cosponsor thomas_id="02059" joined="2014-07-28"/>
+    <cosponsor thomas_id="02117" joined="2014-07-22"/>
+    <cosponsor thomas_id="01758" joined="2014-07-24"/>
+    <cosponsor thomas_id="01779" joined="2014-07-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-10" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2014-07-15">
+      <text>Hearings Held by the Subcommittee on Financial Institutions and Consumer Credit Prior to Referral.</text>
+    </action>
+    <action datetime="2014-07-29T14:04:00-04:00">
+      <text>Mrs. Capito moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2014-07-29T14:04:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6998-7002" label="consideration"/>
+    </action>
+    <action datetime="2014-07-29T14:04:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5062.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-07-29T14:16:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H6998" label="text"/>
+    </vote>
+    <action datetime="2014-07-29T14:16:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-07-29T14:17:00-04:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-07-30">
+      <text>Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee subcommittee="Financial Institutions and Consumer Credit" code="HSBA15" name="House Financial Services" activity="Hearings"/>
+    <committee subcommittee="" code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>7/10/2014--Introduced.
+Examination and Supervisory Privilege Parity Act of 2014 - Amends the Consumer Financial Protection Act of 2010, with respect to the supervision of nondepository covered persons, to include state agencies that licence, supervise, or examine the offering of consumer financial products or services among the regulatory agencies with which the Consumer Financial Protection Bureau (CFPB) is required to coordinate its supervisory activities.
+
+Declares that the sharing of information with such regulators, authorities, and agencies shall not be construed as waiving, destroying, or otherwise affecting any privilege claimed by nondepository covered persons under federal or state law regarding such information as to any person or entity other than the CFPB, agency, supervisor, or authority.</summary>
+</bill>

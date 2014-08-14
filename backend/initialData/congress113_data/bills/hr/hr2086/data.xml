@@ -1,0 +1,89 @@
+<bill session="113" type="h" number="2086" updated="2014-08-14T13:09:02-04:00">
+  <state datetime="2013-05-22">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-22"/>
+  </status>
+  <introduced datetime="2013-05-22"/>
+  <titles>
+    <title type="short" as="introduced">Pay As You Rate Act</title>
+    <title type="official" as="introduced">To direct the Secretary to make interim payments of disability compensation benefits for certain claims for such compensation prior to the adjudication of such claims, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01940"/>
+  <cosponsors>
+    <cosponsor thomas_id="02093" joined="2013-05-22"/>
+    <cosponsor thomas_id="01740" joined="2013-05-22"/>
+    <cosponsor thomas_id="00132" joined="2013-05-22"/>
+    <cosponsor thomas_id="02106" joined="2013-05-22"/>
+    <cosponsor thomas_id="01761" joined="2013-07-22"/>
+    <cosponsor thomas_id="01839" joined="2013-06-04"/>
+    <cosponsor thomas_id="02055" joined="2013-05-22"/>
+    <cosponsor thomas_id="00211" joined="2013-07-25"/>
+    <cosponsor thomas_id="01774" joined="2013-05-22"/>
+    <cosponsor thomas_id="02133" joined="2013-05-22"/>
+    <cosponsor thomas_id="01976" joined="2013-07-10"/>
+    <cosponsor thomas_id="00371" joined="2014-02-28"/>
+    <cosponsor thomas_id="02119" joined="2013-05-22"/>
+    <cosponsor thomas_id="02164" joined="2014-07-30"/>
+    <cosponsor thomas_id="01708" joined="2013-06-04"/>
+    <cosponsor thomas_id="00511" joined="2013-07-25"/>
+    <cosponsor thomas_id="02147" joined="2013-09-09"/>
+    <cosponsor thomas_id="00612" joined="2013-07-10"/>
+    <cosponsor thomas_id="02169" joined="2013-05-22"/>
+    <cosponsor thomas_id="01907" joined="2013-06-04"/>
+    <cosponsor thomas_id="02145" joined="2013-05-22"/>
+    <cosponsor thomas_id="01501" joined="2013-05-22"/>
+    <cosponsor thomas_id="01846" joined="2013-05-22"/>
+    <cosponsor thomas_id="01939" joined="2013-05-22"/>
+    <cosponsor thomas_id="00729" joined="2013-11-13"/>
+    <cosponsor thomas_id="02150" joined="2013-05-22"/>
+    <cosponsor thomas_id="01503" joined="2013-05-22"/>
+    <cosponsor thomas_id="01505" joined="2013-05-22"/>
+    <cosponsor thomas_id="01730" joined="2013-05-22"/>
+    <cosponsor thomas_id="02162" joined="2013-05-22"/>
+    <cosponsor thomas_id="01835" joined="2013-06-03"/>
+    <cosponsor thomas_id="01967" joined="2014-06-09"/>
+    <cosponsor thomas_id="00940" joined="2013-05-22"/>
+    <cosponsor thomas_id="01798" joined="2013-07-30"/>
+    <cosponsor thomas_id="01861" joined="2013-05-22"/>
+    <cosponsor thomas_id="02099" joined="2013-07-19"/>
+    <cosponsor thomas_id="02104" joined="2013-05-22"/>
+    <cosponsor thomas_id="01535" joined="2013-09-09"/>
+    <cosponsor thomas_id="01209" joined="2013-05-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-22">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H2851"/>
+    </action>
+    <action datetime="2013-05-22" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-06-11">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
+    <action datetime="2013-06-28">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2013-07-17">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2013-07-17">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee subcommittee="Disability Assistance and Memorial Affairs" code="HSVR09" name="House Veterans' Affairs" activity="Referral, Hearings, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Disability assistance"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>5/22/2013--Introduced.
+Pay As You Rate Act - Directs the Secretary of Veterans Affairs (VA), prior to adjudicating a claim which requires decisions with respect to two or more disabilities, to make interim payments based on any disability for which the Secretary has already made a decision.
+
+Requires the Secretary, upon claim adjudication, to pay the benefits awarded less the amount of the interim payments.</summary>
+</bill>

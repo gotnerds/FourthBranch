@@ -1,0 +1,186 @@
+<bill session="113" type="h" number="1180" updated="2014-08-14T13:00:45-04:00">
+  <state datetime="2013-03-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-14"/>
+  </status>
+  <introduced datetime="2013-03-14"/>
+  <titles>
+    <title type="short" as="introduced">Resident Physician Shortage Reduction Act of 2013</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to provide for the distribution of additional residency positions, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01604"/>
+  <cosponsors>
+    <cosponsor thomas_id="02093" joined="2013-12-12"/>
+    <cosponsor thomas_id="02102" joined="2014-07-17"/>
+    <cosponsor thomas_id="00091" joined="2013-05-17"/>
+    <cosponsor thomas_id="01740" joined="2013-08-02"/>
+    <cosponsor thomas_id="00099" joined="2014-03-14"/>
+    <cosponsor thomas_id="01787" joined="2014-06-02"/>
+    <cosponsor thomas_id="01845" joined="2013-06-06"/>
+    <cosponsor thomas_id="00132" joined="2013-05-09"/>
+    <cosponsor thomas_id="02106" joined="2014-07-31"/>
+    <cosponsor thomas_id="02127" joined="2013-05-09"/>
+    <cosponsor thomas_id="01564" joined="2013-06-26"/>
+    <cosponsor thomas_id="01839" joined="2013-03-18"/>
+    <cosponsor thomas_id="01970" joined="2013-07-19"/>
+    <cosponsor thomas_id="02196" joined="2014-04-04"/>
+    <cosponsor thomas_id="01864" joined="2013-11-18"/>
+    <cosponsor thomas_id="01878" joined="2013-06-06"/>
+    <cosponsor thomas_id="00279" joined="2013-08-02"/>
+    <cosponsor thomas_id="01479" joined="2013-09-12"/>
+    <cosponsor thomas_id="00322" joined="2014-05-22"/>
+    <cosponsor thomas_id="01894" joined="2013-10-16"/>
+    <cosponsor thomas_id="01857" joined="2013-06-06"/>
+    <cosponsor thomas_id="00344" joined="2013-03-18"/>
+    <cosponsor thomas_id="02125" joined="2013-10-16"/>
+    <cosponsor thomas_id="00355" joined="2013-09-12"/>
+    <cosponsor thomas_id="02114" joined="2013-12-12"/>
+    <cosponsor thomas_id="01888" joined="2014-01-10"/>
+    <cosponsor thomas_id="02119" joined="2013-06-20"/>
+    <cosponsor thomas_id="01895" joined="2013-05-23"/>
+    <cosponsor thomas_id="02122" joined="2013-05-09"/>
+    <cosponsor thomas_id="01743" joined="2014-03-18"/>
+    <cosponsor thomas_id="02043" joined="2013-05-09"/>
+    <cosponsor thomas_id="01914" joined="2014-05-22"/>
+    <cosponsor thomas_id="01803" joined="2013-09-30"/>
+    <cosponsor thomas_id="00462" joined="2013-06-06"/>
+    <cosponsor thomas_id="02041" joined="2013-03-14"/>
+    <cosponsor thomas_id="02044" joined="2013-04-24"/>
+    <cosponsor thomas_id="00511" joined="2013-06-20"/>
+    <cosponsor thomas_id="01794" joined="2013-03-25"/>
+    <cosponsor thomas_id="01490" joined="2013-06-20"/>
+    <cosponsor thomas_id="02147" joined="2013-11-18"/>
+    <cosponsor thomas_id="02101" joined="2013-08-02"/>
+    <cosponsor thomas_id="01663" joined="2013-08-02"/>
+    <cosponsor thomas_id="00588" joined="2013-06-06"/>
+    <cosponsor thomas_id="02149" joined="2013-11-18"/>
+    <cosponsor thomas_id="00599" joined="2013-09-12"/>
+    <cosponsor thomas_id="02025" joined="2013-07-19"/>
+    <cosponsor thomas_id="02190" joined="2014-06-24"/>
+    <cosponsor thomas_id="02172" joined="2013-07-19"/>
+    <cosponsor thomas_id="02134" joined="2013-07-19"/>
+    <cosponsor thomas_id="02169" joined="2013-05-17"/>
+    <cosponsor thomas_id="01498" joined="2014-05-09"/>
+    <cosponsor thomas_id="00635" joined="2013-03-25"/>
+    <cosponsor thomas_id="01907" joined="2014-04-04"/>
+    <cosponsor thomas_id="02145" joined="2013-10-16"/>
+    <cosponsor thomas_id="01668" joined="2014-01-10"/>
+    <cosponsor thomas_id="01583" joined="2014-03-25"/>
+    <cosponsor thomas_id="00666" joined="2013-04-24"/>
+    <cosponsor thomas_id="01846" joined="2013-05-09"/>
+    <cosponsor thomas_id="00709" joined="2013-05-09"/>
+    <cosponsor thomas_id="02146" joined="2013-12-12"/>
+    <cosponsor thomas_id="01939" joined="2013-06-20"/>
+    <cosponsor thomas_id="01686" joined="2013-07-11"/>
+    <cosponsor thomas_id="01943" joined="2013-08-02"/>
+    <cosponsor thomas_id="00729" joined="2013-03-25"/>
+    <cosponsor thomas_id="02150" joined="2013-09-30"/>
+    <cosponsor thomas_id="01814" joined="2013-06-26"/>
+    <cosponsor thomas_id="01503" joined="2013-03-25"/>
+    <cosponsor thomas_id="01504" joined="2013-06-26"/>
+    <cosponsor thomas_id="01506" joined="2014-03-25"/>
+    <cosponsor thomas_id="02148" joined="2013-08-02"/>
+    <cosponsor thomas_id="01811" joined="2014-04-30"/>
+    <cosponsor thomas_id="00832" joined="2014-03-14"/>
+    <cosponsor thomas_id="00850" joined="2013-08-02"/>
+    <cosponsor thomas_id="01602" joined="2013-07-11"/>
+    <cosponsor thomas_id="00854" joined="2013-06-28"/>
+    <cosponsor thomas_id="00868" joined="2013-05-09"/>
+    <cosponsor thomas_id="02162" joined="2013-08-02"/>
+    <cosponsor thomas_id="01974" joined="2013-04-24"/>
+    <cosponsor thomas_id="00893" joined="2013-09-12"/>
+    <cosponsor thomas_id="02097" joined="2013-11-18"/>
+    <cosponsor thomas_id="01835" joined="2013-08-02"/>
+    <cosponsor thomas_id="02113" joined="2013-08-02"/>
+    <cosponsor thomas_id="00910" joined="2014-04-30"/>
+    <cosponsor thomas_id="02171" joined="2014-04-04"/>
+    <cosponsor thomas_id="01910" joined="2013-05-09"/>
+    <cosponsor thomas_id="01967" joined="2014-03-14"/>
+    <cosponsor thomas_id="00940" joined="2013-12-12"/>
+    <cosponsor thomas_id="00944" joined="2013-03-25"/>
+    <cosponsor thomas_id="01982" joined="2013-06-28"/>
+    <cosponsor thomas_id="02023" joined="2014-06-02"/>
+    <cosponsor thomas_id="02068" joined="2014-03-14"/>
+    <cosponsor thomas_id="02109" joined="2013-06-20"/>
+    <cosponsor thomas_id="01728" joined="2013-11-18"/>
+    <cosponsor thomas_id="01003" joined="2013-12-12"/>
+    <cosponsor thomas_id="01756" joined="2013-05-09"/>
+    <cosponsor thomas_id="01522" joined="2013-11-18"/>
+    <cosponsor thomas_id="01635" joined="2014-04-30"/>
+    <cosponsor thomas_id="01722" joined="2014-05-22"/>
+    <cosponsor thomas_id="01042" joined="2013-04-24"/>
+    <cosponsor thomas_id="01988" joined="2014-06-24"/>
+    <cosponsor thomas_id="01818" joined="2013-06-20"/>
+    <cosponsor thomas_id="01069" joined="2013-06-06"/>
+    <cosponsor thomas_id="02104" joined="2014-01-10"/>
+    <cosponsor thomas_id="02110" joined="2014-03-25"/>
+    <cosponsor thomas_id="01593" joined="2014-05-22"/>
+    <cosponsor thomas_id="01535" joined="2013-06-28"/>
+    <cosponsor thomas_id="01940" joined="2013-11-18"/>
+    <cosponsor thomas_id="01942" joined="2013-04-24"/>
+    <cosponsor thomas_id="01884" joined="2013-11-18"/>
+    <cosponsor thomas_id="02166" joined="2013-07-11"/>
+    <cosponsor thomas_id="02167" joined="2013-05-17"/>
+    <cosponsor thomas_id="01184" joined="2014-05-09"/>
+    <cosponsor thomas_id="01856" joined="2013-10-16"/>
+    <cosponsor thomas_id="01777" joined="2013-12-12"/>
+    <cosponsor thomas_id="01879" joined="2014-04-30"/>
+    <cosponsor thomas_id="02004" joined="2013-05-09"/>
+    <cosponsor thomas_id="01886" joined="2014-01-10"/>
+    <cosponsor thomas_id="01255" joined="2013-06-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-14" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-14">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-03-14">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-03-15">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2013-04-11">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSWM02" name="House Ways and Means" activity="Referral"/>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="1201"/>
+    <bill type="s" session="113" relation="unknown" number="577"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Congressional oversight"/>
+    <term name="Government studies and investigations"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health personnel"/>
+    <term name="Hospital care"/>
+    <term name="Medical education"/>
+    <term name="Medicare"/>
+    <term name="Minority employment"/>
+    <term name="Minority health"/>
+  </subjects>
+  <amendments/>
+  <summary>3/14/2013--Introduced.
+Resident Physician Shortage Reduction Act of 2013 - Amends title XVIII (Medicare) of the Social Security Act with respect to distribution of additional resident positions as they affect calculation of payments for direct graduate medical education (DGME) costs.
+
+Directs the Secretary of Health and Human Services (HHS), for each of FY2015-FY2019 (and each succeeding fiscal year if additional residency positions are available to distribute), to increase the otherwise applicable resident limit for each qualifying hospital.
+
+Directs the Secretary to determine the total number of additional residency positions available for distribution, in accordance with guidelines for allocating 33% to hospitals already operating over the resident limit, and generally setting the aggregate number of increases in the resident limit to 3,000 in each year.
+
+Specifies the process for distributing positions.
+
+Declares that, for discharges occurring on or after July 1, 2015, the indirect teaching adjustment factor, with respect to additional payments for subsection (d) hospitals with indirect costs of medical education (IME), insofar as those additional payments are attributable to resident positions distributed to a hospital according to such process, shall be computed in a specified manner with respect to those resident positions.
+
+(Generally, a subsection [d] hospital is an acute care hospital, particularly one that receives payments under Medicare's inpatient prospective payment system [IPPS] when providing covered inpatient services to eligible beneficiaries.) Directs the National Health Care Workforce Commission established under the Patient Protection and Affordable Care Act to study the physician workforce.
+
+Directs the Comptroller General to study strategies for increasing the diversity of the health profession workforce.</summary>
+</bill>

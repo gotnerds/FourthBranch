@@ -1,0 +1,85 @@
+<bill session="113" type="hr" number="668" updated="2014-08-14T12:50:19-04:00">
+  <state datetime="2014-07-14">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-14"/>
+  </status>
+  <introduced datetime="2014-07-14"/>
+  <titles>
+    <title type="official" as="introduced">Supporting the goals and ideals of the Community Development Block Grant program.</title>
+  </titles>
+  <sponsor thomas_id="00371"/>
+  <cosponsors>
+    <cosponsor thomas_id="02054" joined="2014-07-14"/>
+    <cosponsor thomas_id="02153" joined="2014-07-31"/>
+    <cosponsor thomas_id="01469" joined="2014-07-14"/>
+    <cosponsor thomas_id="01845" joined="2014-07-28"/>
+    <cosponsor thomas_id="00132" joined="2014-07-28"/>
+    <cosponsor thomas_id="02106" joined="2014-07-28"/>
+    <cosponsor thomas_id="02055" joined="2014-07-28"/>
+    <cosponsor thomas_id="01864" joined="2014-07-28"/>
+    <cosponsor thomas_id="01959" joined="2014-07-28"/>
+    <cosponsor thomas_id="00316" joined="2014-07-28"/>
+    <cosponsor thomas_id="01857" joined="2014-07-28"/>
+    <cosponsor thomas_id="00344" joined="2014-07-28"/>
+    <cosponsor thomas_id="01895" joined="2014-07-28"/>
+    <cosponsor thomas_id="01743" joined="2014-08-01"/>
+    <cosponsor thomas_id="02043" joined="2014-07-14"/>
+    <cosponsor thomas_id="01708" joined="2014-07-28"/>
+    <cosponsor thomas_id="02089" joined="2014-07-28"/>
+    <cosponsor thomas_id="00511" joined="2014-07-28"/>
+    <cosponsor thomas_id="02071" joined="2014-07-31"/>
+    <cosponsor thomas_id="01490" joined="2014-07-28"/>
+    <cosponsor thomas_id="00588" joined="2014-07-28"/>
+    <cosponsor thomas_id="00599" joined="2014-07-28"/>
+    <cosponsor thomas_id="00616" joined="2014-07-28"/>
+    <cosponsor thomas_id="01498" joined="2014-07-31"/>
+    <cosponsor thomas_id="01583" joined="2014-07-31"/>
+    <cosponsor thomas_id="01501" joined="2014-07-28"/>
+    <cosponsor thomas_id="01846" joined="2014-07-28"/>
+    <cosponsor thomas_id="02111" joined="2014-07-28"/>
+    <cosponsor thomas_id="01504" joined="2014-07-14"/>
+    <cosponsor thomas_id="01832" joined="2014-07-31"/>
+    <cosponsor thomas_id="01730" joined="2014-07-28"/>
+    <cosponsor thomas_id="00832" joined="2014-07-28"/>
+    <cosponsor thomas_id="02117" joined="2014-07-28"/>
+    <cosponsor thomas_id="00850" joined="2014-07-28"/>
+    <cosponsor thomas_id="01602" joined="2014-07-28"/>
+    <cosponsor thomas_id="02108" joined="2014-07-28"/>
+    <cosponsor thomas_id="00910" joined="2014-07-28"/>
+    <cosponsor thomas_id="01967" joined="2014-07-28"/>
+    <cosponsor thomas_id="01756" joined="2014-07-28"/>
+    <cosponsor thomas_id="01962" joined="2014-07-31"/>
+    <cosponsor thomas_id="01757" joined="2014-07-28"/>
+    <cosponsor thomas_id="01522" joined="2014-07-31"/>
+    <cosponsor thomas_id="01588" joined="2014-08-01"/>
+    <cosponsor thomas_id="01042" joined="2014-07-31"/>
+    <cosponsor thomas_id="01528" joined="2014-07-28"/>
+    <cosponsor thomas_id="02110" joined="2014-07-28"/>
+    <cosponsor thomas_id="01593" joined="2014-07-31"/>
+    <cosponsor thomas_id="01535" joined="2014-07-28"/>
+    <cosponsor thomas_id="01884" joined="2014-07-28"/>
+    <cosponsor thomas_id="01741" joined="2014-07-14"/>
+    <cosponsor thomas_id="02167" joined="2014-07-31"/>
+    <cosponsor thomas_id="01188" joined="2014-07-28"/>
+    <cosponsor thomas_id="01205" joined="2014-07-28"/>
+    <cosponsor thomas_id="01879" joined="2014-07-28"/>
+    <cosponsor thomas_id="02004" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-14" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>7/14/2014--Introduced.
+Supports the goals and ideals of the Community Development Block Grant (CDBG) program, now in its 40th year of continuous service.
+
+Recognizes the benefits the CDBG program has provided to urban, suburban, and rural communities.
+
+Acknowledges the importance of this federal grant program to states and local communities throughout the United States.</summary>
+</bill>

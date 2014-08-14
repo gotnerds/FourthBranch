@@ -1,0 +1,34 @@
+<bill session="113" type="h" number="5400" updated="2014-08-14T13:37:34-04:00">
+  <state datetime="2014-08-01">REFERRED</state>
+  <status>
+    <introduced datetime="2014-08-01"/>
+  </status>
+  <introduced datetime="2014-08-01"/>
+  <titles>
+    <title type="official" as="introduced">To provide for State enforcement of border security, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02115"/>
+  <cosponsors>
+    <cosponsor thomas_id="02100" joined="2014-08-01"/>
+    <cosponsor thomas_id="02195" joined="2014-08-01"/>
+    <cosponsor thomas_id="02161" joined="2014-08-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-08-01" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-08-01">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2014-08-01">
+      <text>Referred to House Appropriations</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="" code="HSAP" name="House Appropriations" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,44 @@
+<bill session="113" type="h" number="4863" updated="2014-08-14T13:32:57-04:00">
+  <state datetime="2014-06-12">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-12"/>
+  </status>
+  <introduced datetime="2014-06-12"/>
+  <titles>
+    <title type="short" as="introduced">National Guard and Reserve Equal Access to Legal Services Act</title>
+    <title type="official" as="introduced">To amend title 10, United States Code, to provide certain members of the reserve components of the Armed Forces who are victims of sex-related offenses with access to a special victims' counsel.</title>
+  </titles>
+  <sponsor thomas_id="01733"/>
+  <cosponsors>
+    <cosponsor thomas_id="01858" joined="2014-06-17"/>
+    <cosponsor thomas_id="01723" joined="2014-06-30"/>
+    <cosponsor thomas_id="01653" joined="2014-07-09"/>
+    <cosponsor thomas_id="00867" joined="2014-07-31"/>
+    <cosponsor thomas_id="01930" joined="2014-06-12"/>
+    <cosponsor thomas_id="00910" joined="2014-06-30"/>
+    <cosponsor thomas_id="01003" joined="2014-07-30"/>
+    <cosponsor thomas_id="01741" joined="2014-06-12"/>
+    <cosponsor thomas_id="01856" joined="2014-06-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-12" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Crime victims"/>
+    <term name="Crimes against women"/>
+    <term name="Lawyers and legal services"/>
+    <term name="Military personnel and dependents"/>
+    <term name="National Guard and reserves"/>
+    <term name="Sex offenses"/>
+  </subjects>
+  <amendments/>
+  <summary>6/12/2014--Introduced.
+National Guard and Reserve Equal Access to Legal Services Act - Expands eligibility for legal assistance provided by the Armed Forces special victims' counsel for eligible members and dependents who are victims of sex-related offenses to include a member of a reserve component who is a victim of an alleged sex-offense committed by a member of the Armed Forces during: (1) a period in which the individual served on active duty, full-time National Guard duty, or inactive-duty training; or (2) any period, regardless of the duty status of the individual, if the circumstances of the alleged sex-related offense have a nexus to the military service of the individual based on the membership in the Armed Forces of either the victim or the member who allegedly committed such offense.</summary>
+</bill>

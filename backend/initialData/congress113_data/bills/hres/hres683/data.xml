@@ -1,0 +1,125 @@
+<bill session="113" type="hr" number="683" updated="2014-08-14T12:50:26-04:00">
+  <state datetime="2014-08-01T22:09:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2014-08-01T22:09:00-04:00"/>
+  </status>
+  <introduced datetime="2014-07-24"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the House of Representatives on the current situation in Iraq and the urgent need to protect religious minorities from persecution from the Sunni Islamist insurgent and terrorist group the Islamic State in Iraq and Levant (ISIL) as it expands its control over areas in northwestern Iraq.</title>
+  </titles>
+  <sponsor thomas_id="02112"/>
+  <cosponsors>
+    <cosponsor thomas_id="01460" joined="2014-08-01"/>
+    <cosponsor thomas_id="01858" joined="2014-08-01"/>
+    <cosponsor thomas_id="01838" joined="2014-08-01"/>
+    <cosponsor thomas_id="01787" joined="2014-08-01"/>
+    <cosponsor thomas_id="02159" joined="2014-08-01"/>
+    <cosponsor thomas_id="01970" joined="2014-08-01"/>
+    <cosponsor thomas_id="02196" joined="2014-08-01"/>
+    <cosponsor thomas_id="02200" joined="2014-08-01"/>
+    <cosponsor thomas_id="02126" joined="2014-08-01"/>
+    <cosponsor thomas_id="01641" joined="2014-07-30"/>
+    <cosponsor thomas_id="00281" joined="2014-08-01"/>
+    <cosponsor thomas_id="01799" joined="2014-08-01"/>
+    <cosponsor thomas_id="00355" joined="2014-08-01"/>
+    <cosponsor thomas_id="01793" joined="2014-08-01"/>
+    <cosponsor thomas_id="01707" joined="2014-08-01"/>
+    <cosponsor thomas_id="01743" joined="2014-08-01"/>
+    <cosponsor thomas_id="01992" joined="2014-08-01"/>
+    <cosponsor thomas_id="02032" joined="2014-08-01"/>
+    <cosponsor thomas_id="01634" joined="2014-08-01"/>
+    <cosponsor thomas_id="01909" joined="2014-07-30"/>
+    <cosponsor thomas_id="00588" joined="2014-08-01"/>
+    <cosponsor thomas_id="02046" joined="2014-08-01"/>
+    <cosponsor thomas_id="02051" joined="2014-08-01"/>
+    <cosponsor thomas_id="01724" joined="2014-08-01"/>
+    <cosponsor thomas_id="01834" joined="2014-08-01"/>
+    <cosponsor thomas_id="01936" joined="2014-08-01"/>
+    <cosponsor thomas_id="01885" joined="2014-08-01"/>
+    <cosponsor thomas_id="01501" joined="2014-08-01"/>
+    <cosponsor thomas_id="00683" joined="2014-08-01"/>
+    <cosponsor thomas_id="01781" joined="2014-07-30"/>
+    <cosponsor thomas_id="00701" joined="2014-08-01"/>
+    <cosponsor thomas_id="01814" joined="2014-08-01"/>
+    <cosponsor thomas_id="01653" joined="2014-08-01"/>
+    <cosponsor thomas_id="01504" joined="2014-07-30"/>
+    <cosponsor thomas_id="01792" joined="2014-08-01"/>
+    <cosponsor thomas_id="02074" joined="2014-07-30"/>
+    <cosponsor thomas_id="02142" joined="2014-08-01"/>
+    <cosponsor thomas_id="01731" joined="2014-08-01"/>
+    <cosponsor thomas_id="00832" joined="2014-08-01"/>
+    <cosponsor thomas_id="01929" joined="2014-07-30"/>
+    <cosponsor thomas_id="02113" joined="2014-07-30"/>
+    <cosponsor thomas_id="01514" joined="2014-08-01"/>
+    <cosponsor thomas_id="01910" joined="2014-08-01"/>
+    <cosponsor thomas_id="01915" joined="2014-08-01"/>
+    <cosponsor thomas_id="00944" joined="2014-08-01"/>
+    <cosponsor thomas_id="02158" joined="2014-08-01"/>
+    <cosponsor thomas_id="01003" joined="2014-08-01"/>
+    <cosponsor thomas_id="01892" joined="2014-08-01"/>
+    <cosponsor thomas_id="01588" joined="2014-08-01"/>
+    <cosponsor thomas_id="01635" joined="2014-08-01"/>
+    <cosponsor thomas_id="01526" joined="2014-07-30"/>
+    <cosponsor thomas_id="01890" joined="2014-08-01"/>
+    <cosponsor thomas_id="02047" joined="2014-08-01"/>
+    <cosponsor thomas_id="02104" joined="2014-08-01"/>
+    <cosponsor thomas_id="01593" joined="2014-08-01"/>
+    <cosponsor thomas_id="01664" joined="2014-08-01"/>
+    <cosponsor thomas_id="01729" joined="2014-08-01"/>
+    <cosponsor thomas_id="01855" joined="2014-08-01"/>
+    <cosponsor thomas_id="02152" joined="2014-08-01"/>
+    <cosponsor thomas_id="01238" joined="2014-08-01"/>
+    <cosponsor thomas_id="02021" joined="2014-08-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-24" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2014-07-30">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-07-30" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+    </calendar>
+    <action datetime="2014-08-01T22:00:00-04:00">
+      <text>Committee on Foreign Affairs discharged.</text>
+    </action>
+    <action datetime="2014-08-01T22:04:00-04:00">
+      <text>Mr. Royce asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <action datetime="2014-08-01T22:07:00-04:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H7236-7237" label="consideration"/>
+      <reference ref="CR H7236-7237" label="text of measure as introduced"/>
+    </action>
+    <vote how="without objection" type="vote" datetime="2014-08-01T22:09:00-04:00" where="h" result="pass" state="PASSED:SIMPLERES">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+    </vote>
+    <action datetime="2014-08-01T22:10:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral, Markup, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="113" relation="unknown" number="663"/>
+  </relatedbills>
+  <subjects/>
+  <amendments>
+    <amendment number="h1134"/>
+    <amendment number="h1135"/>
+  </amendments>
+  <summary>8/1/2014--Passed House amended.
+Condemns the religious bigotry, property destruction, and violent attacks on and intimidation of innocent Iraqi civilians by armed extremists.
+
+Calls on the Department of State to work with the Kurdistan Regional government, the Iraqi government, neighboring countries, the diaspora community in the United States, the United Nations (U.N.) High Commissioner for Refugees, and other key stakeholders to help secure safe havens for those claiming amnesty in Iraq.
+
+Calls on the U.S. Permanent Representative to the United Nations to work with the United Nations High Commissioner for Refugees to document human rights abuses against Iraqi civilians and develop a plan to facilitate safe humanitarian access to potable water, health care, fuel, electricity, and basic security for the most vulnerable civilian populations.
+
+Calls upon the government of Iraq to protect the safety and constitutional rights of all Iraqi citizens.
+
+Requests the addition of a Special Representative for Religious Minorities to be included in Prime Minister al-Maliki's newly reconstructed government.
+
+Reaffirms the Senate's commitments to promoting and protecting religious freedom around the world and providing relief to minority groups facing persecution.</summary>
+</bill>

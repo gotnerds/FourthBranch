@@ -1,0 +1,36 @@
+<bill session="113" type="sr" number="499" updated="2014-08-14T13:44:03-04:00">
+  <state datetime="2014-07-10">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-10"/>
+  </status>
+  <introduced datetime="2014-07-10"/>
+  <titles>
+    <title type="official" as="introduced">A resolution congratulating the American Motorcyclist Association on its 90th Anniversary.</title>
+  </titles>
+  <sponsor thomas_id="01983"/>
+  <cosponsors>
+    <cosponsor thomas_id="02075" joined="2014-07-22"/>
+    <cosponsor thomas_id="01901" joined="2014-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-10" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S4417" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="113" relation="unknown" number="650"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Motor vehicles"/>
+  </subjects>
+  <amendments/>
+  <summary>7/10/2014--Introduced.
+Congratulates the American Motorcyclist Association on its 90th Anniversary.</summary>
+</bill>

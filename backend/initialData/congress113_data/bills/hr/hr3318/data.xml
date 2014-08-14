@@ -1,0 +1,102 @@
+<bill session="113" type="h" number="3318" updated="2014-08-14T13:19:43-04:00">
+  <state datetime="2013-10-23">REFERRED</state>
+  <status>
+    <introduced datetime="2013-10-23"/>
+  </status>
+  <introduced datetime="2013-10-23"/>
+  <titles>
+    <title type="short" as="introduced">Reimburse Educators who Pay for Academic Year Supplies Act of 2013</title>
+    <title type="short" as="introduced">REPAY Supplies Act of 2013</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to make permanent the above-the-line deduction for certain expenses of elementary and secondary school teachers.</title>
+  </titles>
+  <sponsor thomas_id="01861"/>
+  <cosponsors>
+    <cosponsor thomas_id="02092" joined="2013-10-23"/>
+    <cosponsor thomas_id="02129" joined="2014-03-05"/>
+    <cosponsor thomas_id="02106" joined="2013-10-23"/>
+    <cosponsor thomas_id="01761" joined="2013-10-23"/>
+    <cosponsor thomas_id="01564" joined="2013-10-23"/>
+    <cosponsor thomas_id="02107" joined="2013-10-23"/>
+    <cosponsor thomas_id="02159" joined="2013-10-23"/>
+    <cosponsor thomas_id="01839" joined="2013-10-23"/>
+    <cosponsor thomas_id="02163" joined="2014-05-01"/>
+    <cosponsor thomas_id="02055" joined="2013-12-11"/>
+    <cosponsor thomas_id="01878" joined="2013-10-23"/>
+    <cosponsor thomas_id="01742" joined="2013-10-30"/>
+    <cosponsor thomas_id="01959" joined="2014-02-26"/>
+    <cosponsor thomas_id="02098" joined="2014-01-10"/>
+    <cosponsor thomas_id="01836" joined="2013-10-23"/>
+    <cosponsor thomas_id="01894" joined="2013-10-23"/>
+    <cosponsor thomas_id="01857" joined="2013-10-23"/>
+    <cosponsor thomas_id="02125" joined="2014-03-13"/>
+    <cosponsor thomas_id="01895" joined="2013-11-15"/>
+    <cosponsor thomas_id="02120" joined="2014-02-26"/>
+    <cosponsor thomas_id="01708" joined="2013-10-23"/>
+    <cosponsor thomas_id="02041" joined="2014-03-21"/>
+    <cosponsor thomas_id="02089" joined="2014-05-01"/>
+    <cosponsor thomas_id="01490" joined="2014-02-26"/>
+    <cosponsor thomas_id="01580" joined="2013-10-23"/>
+    <cosponsor thomas_id="01634" joined="2013-10-23"/>
+    <cosponsor thomas_id="01663" joined="2014-06-10"/>
+    <cosponsor thomas_id="00588" joined="2014-02-26"/>
+    <cosponsor thomas_id="01843" joined="2013-12-09"/>
+    <cosponsor thomas_id="00612" joined="2013-10-23"/>
+    <cosponsor thomas_id="02134" joined="2013-12-11"/>
+    <cosponsor thomas_id="00635" joined="2013-10-23"/>
+    <cosponsor thomas_id="01907" joined="2014-02-26"/>
+    <cosponsor thomas_id="02145" joined="2013-10-23"/>
+    <cosponsor thomas_id="01501" joined="2013-10-23"/>
+    <cosponsor thomas_id="01846" joined="2013-12-04"/>
+    <cosponsor thomas_id="00701" joined="2014-02-27"/>
+    <cosponsor thomas_id="01939" joined="2013-10-23"/>
+    <cosponsor thomas_id="01943" joined="2014-03-21"/>
+    <cosponsor thomas_id="00766" joined="2013-10-23"/>
+    <cosponsor thomas_id="01504" joined="2013-10-23"/>
+    <cosponsor thomas_id="01832" joined="2014-03-13"/>
+    <cosponsor thomas_id="00832" joined="2014-03-18"/>
+    <cosponsor thomas_id="02117" joined="2014-05-06"/>
+    <cosponsor thomas_id="00850" joined="2013-12-09"/>
+    <cosponsor thomas_id="00867" joined="2014-03-18"/>
+    <cosponsor thomas_id="00868" joined="2014-02-26"/>
+    <cosponsor thomas_id="02097" joined="2013-12-09"/>
+    <cosponsor thomas_id="02171" joined="2013-10-23"/>
+    <cosponsor thomas_id="01802" joined="2013-11-15"/>
+    <cosponsor thomas_id="01910" joined="2014-02-26"/>
+    <cosponsor thomas_id="00930" joined="2013-10-23"/>
+    <cosponsor thomas_id="01967" joined="2014-01-28"/>
+    <cosponsor thomas_id="00944" joined="2013-10-23"/>
+    <cosponsor thomas_id="00985" joined="2013-10-23"/>
+    <cosponsor thomas_id="01522" joined="2014-05-01"/>
+    <cosponsor thomas_id="01588" joined="2014-05-01"/>
+    <cosponsor thomas_id="01635" joined="2014-03-06"/>
+    <cosponsor thomas_id="02104" joined="2013-10-23"/>
+    <cosponsor thomas_id="02110" joined="2014-07-08"/>
+    <cosponsor thomas_id="01940" joined="2013-10-23"/>
+    <cosponsor thomas_id="01942" joined="2013-10-23"/>
+    <cosponsor thomas_id="01884" joined="2013-10-23"/>
+    <cosponsor thomas_id="02112" joined="2013-10-30"/>
+    <cosponsor thomas_id="02167" joined="2014-03-18"/>
+    <cosponsor thomas_id="01856" joined="2013-10-23"/>
+    <cosponsor thomas_id="01777" joined="2013-12-04"/>
+    <cosponsor thomas_id="02004" joined="2014-01-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-10-23" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Business expenses"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Income tax deductions"/>
+    <term name="Teaching, teachers, curricula"/>
+  </subjects>
+  <amendments/>
+  <summary>10/23/2013--Introduced.
+Reimburse Educators who Pay for Academic Year Supplies Act of 2013 or the REPAY Supplies Act of 2013 - Amends the Internal Revenue Code to make permanent the deduction from gross income (above-the-line deduction) for the classroom-related expenses of elementary and secondary school teachers.</summary>
+</bill>

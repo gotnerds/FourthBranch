@@ -1,0 +1,81 @@
+<bill session="113" type="hr" number="54" updated="2014-08-14T12:45:07-04:00">
+  <state datetime="2013-02-05">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-05"/>
+  </status>
+  <introduced datetime="2013-02-05"/>
+  <titles>
+    <title type="official" as="introduced">Observing the 100th birthday of civil rights icon Rosa Parks and commemorating her legacy.</title>
+  </titles>
+  <sponsor thomas_id="00229"/>
+  <cosponsors>
+    <cosponsor thomas_id="00038" joined="2013-02-05"/>
+    <cosponsor thomas_id="02153" joined="2013-02-05"/>
+    <cosponsor thomas_id="00091" joined="2013-02-05"/>
+    <cosponsor thomas_id="01703" joined="2013-02-05"/>
+    <cosponsor thomas_id="00132" joined="2013-02-05"/>
+    <cosponsor thomas_id="01761" joined="2013-02-05"/>
+    <cosponsor thomas_id="00166" joined="2013-02-05"/>
+    <cosponsor thomas_id="01889" joined="2013-02-05"/>
+    <cosponsor thomas_id="01839" joined="2013-02-05"/>
+    <cosponsor thomas_id="01970" joined="2013-02-05"/>
+    <cosponsor thomas_id="01864" joined="2013-02-05"/>
+    <cosponsor thomas_id="01654" joined="2013-02-05"/>
+    <cosponsor thomas_id="01790" joined="2013-02-05"/>
+    <cosponsor thomas_id="01878" joined="2013-02-05"/>
+    <cosponsor thomas_id="00256" joined="2013-02-05"/>
+    <cosponsor thomas_id="01477" joined="2013-02-05"/>
+    <cosponsor thomas_id="02133" joined="2013-02-05"/>
+    <cosponsor thomas_id="00299" joined="2013-02-05"/>
+    <cosponsor thomas_id="01894" joined="2013-02-05"/>
+    <cosponsor thomas_id="00371" joined="2013-02-05"/>
+    <cosponsor thomas_id="01895" joined="2013-02-05"/>
+    <cosponsor thomas_id="01803" joined="2013-02-05"/>
+    <cosponsor thomas_id="00588" joined="2014-02-25"/>
+    <cosponsor thomas_id="00599" joined="2013-02-05"/>
+    <cosponsor thomas_id="01843" joined="2013-02-05"/>
+    <cosponsor thomas_id="00688" joined="2013-02-05"/>
+    <cosponsor thomas_id="01653" joined="2013-02-05"/>
+    <cosponsor thomas_id="01506" joined="2013-02-05"/>
+    <cosponsor thomas_id="01811" joined="2013-02-05"/>
+    <cosponsor thomas_id="00850" joined="2013-02-05"/>
+    <cosponsor thomas_id="00868" joined="2013-02-05"/>
+    <cosponsor thomas_id="01929" joined="2013-02-05"/>
+    <cosponsor thomas_id="00944" joined="2013-02-05"/>
+    <cosponsor thomas_id="01986" joined="2013-02-05"/>
+    <cosponsor thomas_id="02109" joined="2013-02-05"/>
+    <cosponsor thomas_id="01003" joined="2013-02-05"/>
+    <cosponsor thomas_id="01037" joined="2013-02-05"/>
+    <cosponsor thomas_id="01988" joined="2013-02-05"/>
+    <cosponsor thomas_id="01151" joined="2013-02-05"/>
+    <cosponsor thomas_id="02167" joined="2013-02-05"/>
+    <cosponsor thomas_id="01207" joined="2013-02-05"/>
+    <cosponsor thomas_id="02004" joined="2013-02-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-05">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E97-98"/>
+    </action>
+    <action datetime="2013-02-05" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Constitution and constitutional amendments"/>
+    <term name="Protest and dissent"/>
+    <term name="Racial and ethnic relations"/>
+  </subjects>
+  <amendments/>
+  <summary>2/5/2013--Introduced.
+Recognizes the 100th birthday of civil rights icon Rosa Parks.
+
+Commemorates the legacy of Rosa Parks to inspire all people of the United States to stand up for freedom and the principles of the Constitution.</summary>
+</bill>

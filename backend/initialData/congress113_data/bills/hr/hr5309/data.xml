@@ -1,0 +1,30 @@
+<bill session="113" type="h" number="5309" updated="2014-08-14T13:36:48-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="short" as="introduced">Tsunami Warning, Education, and Research Act of 2014</title>
+    <title type="official" as="introduced">To authorize and strengthen the tsunami detection, forecast, warning, research, and mitigation program of the National Oceanic and Atmospheric Administration, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02092"/>
+  <cosponsors>
+    <cosponsor thomas_id="00279" joined="2014-07-31"/>
+    <cosponsor thomas_id="00599" joined="2014-07-31"/>
+    <cosponsor thomas_id="00979" joined="2014-07-31"/>
+    <cosponsor thomas_id="01950" joined="2014-07-31"/>
+    <cosponsor thomas_id="01075" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

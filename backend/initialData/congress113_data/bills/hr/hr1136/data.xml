@@ -1,0 +1,61 @@
+<bill session="113" type="h" number="1136" updated="2014-08-14T13:00:22-04:00">
+  <state datetime="2013-03-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-13"/>
+  </status>
+  <introduced datetime="2013-03-13"/>
+  <titles>
+    <title type="short" as="introduced">Violence Against the Homeless Accountability Act of 2013</title>
+    <title type="official" as="introduced">To amend the Hate Crime Statistics Act to include crimes against the homeless.</title>
+  </titles>
+  <sponsor thomas_id="00599"/>
+  <cosponsors>
+    <cosponsor thomas_id="00229" joined="2014-06-12"/>
+    <cosponsor thomas_id="01477" joined="2013-03-13"/>
+    <cosponsor thomas_id="01976" joined="2014-08-01"/>
+    <cosponsor thomas_id="02120" joined="2014-06-24"/>
+    <cosponsor thomas_id="01708" joined="2013-03-13"/>
+    <cosponsor thomas_id="00478" joined="2013-03-13"/>
+    <cosponsor thomas_id="00511" joined="2013-03-13"/>
+    <cosponsor thomas_id="01580" joined="2014-01-10"/>
+    <cosponsor thomas_id="01843" joined="2013-03-13"/>
+    <cosponsor thomas_id="01501" joined="2013-03-13"/>
+    <cosponsor thomas_id="00688" joined="2013-03-13"/>
+    <cosponsor thomas_id="01653" joined="2014-07-09"/>
+    <cosponsor thomas_id="00766" joined="2014-04-29"/>
+    <cosponsor thomas_id="01504" joined="2014-06-24"/>
+    <cosponsor thomas_id="01811" joined="2014-06-24"/>
+    <cosponsor thomas_id="01602" joined="2013-03-13"/>
+    <cosponsor thomas_id="00868" joined="2013-03-13"/>
+    <cosponsor thomas_id="00944" joined="2013-03-13"/>
+    <cosponsor thomas_id="00985" joined="2014-07-09"/>
+    <cosponsor thomas_id="01522" joined="2013-03-13"/>
+    <cosponsor thomas_id="01890" joined="2014-06-26"/>
+    <cosponsor thomas_id="01535" joined="2014-06-20"/>
+    <cosponsor thomas_id="02166" joined="2013-05-23"/>
+    <cosponsor thomas_id="02004" joined="2013-03-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-13" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-04-15">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, And Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Government information and archives"/>
+    <term name="Hate crimes"/>
+    <term name="Homelessness and emergency shelter"/>
+  </subjects>
+  <amendments/>
+  <summary>3/13/2013--Introduced.
+Violence Against the Homeless Accountability Act of 2013 - Amends the Hate Crime Statistics Act to include crimes against the homeless in the crime data collected by the Attorney General under such Act.</summary>
+</bill>

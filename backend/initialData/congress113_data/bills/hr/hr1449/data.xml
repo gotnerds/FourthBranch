@@ -1,0 +1,143 @@
+<bill session="113" type="h" number="1449" updated="2014-08-14T13:03:02-04:00">
+  <state datetime="2013-04-09">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-09"/>
+  </status>
+  <introduced datetime="2013-04-09"/>
+  <titles>
+    <title type="short" as="introduced">Collegiate Housing and Infrastructure Act of 2013</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide for collegiate housing and infrastructure grants.</title>
+  </titles>
+  <sponsor thomas_id="01525"/>
+  <cosponsors>
+    <cosponsor thomas_id="01460" joined="2013-04-26"/>
+    <cosponsor thomas_id="02090" joined="2013-05-08"/>
+    <cosponsor thomas_id="01858" joined="2014-05-08"/>
+    <cosponsor thomas_id="02054" joined="2013-07-23"/>
+    <cosponsor thomas_id="02153" joined="2013-04-25"/>
+    <cosponsor thomas_id="01748" joined="2013-12-03"/>
+    <cosponsor thomas_id="01845" joined="2013-05-06"/>
+    <cosponsor thomas_id="01987" joined="2013-04-25"/>
+    <cosponsor thomas_id="02129" joined="2014-04-30"/>
+    <cosponsor thomas_id="01882" joined="2014-05-07"/>
+    <cosponsor thomas_id="02197" joined="2014-04-30"/>
+    <cosponsor thomas_id="01676" joined="2013-06-03"/>
+    <cosponsor thomas_id="01889" joined="2014-04-30"/>
+    <cosponsor thomas_id="01925" joined="2013-04-25"/>
+    <cosponsor thomas_id="01839" joined="2013-05-06"/>
+    <cosponsor thomas_id="00186" joined="2013-06-03"/>
+    <cosponsor thomas_id="01474" joined="2014-04-30"/>
+    <cosponsor thomas_id="01790" joined="2014-05-06"/>
+    <cosponsor thomas_id="00211" joined="2013-12-03"/>
+    <cosponsor thomas_id="01742" joined="2013-05-06"/>
+    <cosponsor thomas_id="01959" joined="2013-05-08"/>
+    <cosponsor thomas_id="02144" joined="2013-05-14"/>
+    <cosponsor thomas_id="02138" joined="2014-04-30"/>
+    <cosponsor thomas_id="02126" joined="2013-05-21"/>
+    <cosponsor thomas_id="01995" joined="2013-07-23"/>
+    <cosponsor thomas_id="01717" joined="2013-11-19"/>
+    <cosponsor thomas_id="02036" joined="2013-12-03"/>
+    <cosponsor thomas_id="02067" joined="2013-12-03"/>
+    <cosponsor thomas_id="02065" joined="2014-05-07"/>
+    <cosponsor thomas_id="01895" joined="2013-04-09"/>
+    <cosponsor thomas_id="01998" joined="2014-06-12"/>
+    <cosponsor thomas_id="01743" joined="2013-04-10"/>
+    <cosponsor thomas_id="01720" joined="2013-05-06"/>
+    <cosponsor thomas_id="00446" joined="2014-06-02"/>
+    <cosponsor thomas_id="01656" joined="2014-05-01"/>
+    <cosponsor thomas_id="01803" joined="2013-06-03"/>
+    <cosponsor thomas_id="01708" joined="2013-05-06"/>
+    <cosponsor thomas_id="01922" joined="2013-05-06"/>
+    <cosponsor thomas_id="02040" joined="2013-05-06"/>
+    <cosponsor thomas_id="01580" joined="2013-07-23"/>
+    <cosponsor thomas_id="02140" joined="2013-06-06"/>
+    <cosponsor thomas_id="01909" joined="2013-12-03"/>
+    <cosponsor thomas_id="01921" joined="2014-04-30"/>
+    <cosponsor thomas_id="02046" joined="2013-05-06"/>
+    <cosponsor thomas_id="02199" joined="2014-04-30"/>
+    <cosponsor thomas_id="00616" joined="2014-04-30"/>
+    <cosponsor thomas_id="00636" joined="2013-05-16"/>
+    <cosponsor thomas_id="02014" joined="2013-12-03"/>
+    <cosponsor thomas_id="00666" joined="2013-04-25"/>
+    <cosponsor thomas_id="01885" joined="2013-06-06"/>
+    <cosponsor thomas_id="00699" joined="2014-05-07"/>
+    <cosponsor thomas_id="01846" joined="2013-05-06"/>
+    <cosponsor thomas_id="02033" joined="2013-05-08"/>
+    <cosponsor thomas_id="00711" joined="2013-05-08"/>
+    <cosponsor thomas_id="01931" joined="2014-05-06"/>
+    <cosponsor thomas_id="02146" joined="2013-06-13"/>
+    <cosponsor thomas_id="01960" joined="2013-11-19"/>
+    <cosponsor thomas_id="02053" joined="2014-05-01"/>
+    <cosponsor thomas_id="01504" joined="2014-05-06"/>
+    <cosponsor thomas_id="01792" joined="2013-12-03"/>
+    <cosponsor thomas_id="01505" joined="2013-05-08"/>
+    <cosponsor thomas_id="02074" joined="2014-05-28"/>
+    <cosponsor thomas_id="01832" joined="2013-07-23"/>
+    <cosponsor thomas_id="02052" joined="2013-04-25"/>
+    <cosponsor thomas_id="02130" joined="2013-12-03"/>
+    <cosponsor thomas_id="00868" joined="2013-04-25"/>
+    <cosponsor thomas_id="01710" joined="2014-07-08"/>
+    <cosponsor thomas_id="02034" joined="2013-05-08"/>
+    <cosponsor thomas_id="02035" joined="2013-05-21"/>
+    <cosponsor thomas_id="02097" joined="2013-05-08"/>
+    <cosponsor thomas_id="00910" joined="2014-05-01"/>
+    <cosponsor thomas_id="02141" joined="2013-09-17"/>
+    <cosponsor thomas_id="02171" joined="2014-05-20"/>
+    <cosponsor thomas_id="01802" joined="2013-05-08"/>
+    <cosponsor thomas_id="00930" joined="2013-06-13"/>
+    <cosponsor thomas_id="02017" joined="2014-04-30"/>
+    <cosponsor thomas_id="01916" joined="2013-12-03"/>
+    <cosponsor thomas_id="00985" joined="2014-05-20"/>
+    <cosponsor thomas_id="02003" joined="2013-11-19"/>
+    <cosponsor thomas_id="01728" joined="2014-04-30"/>
+    <cosponsor thomas_id="01756" joined="2013-04-25"/>
+    <cosponsor thomas_id="01588" joined="2014-05-06"/>
+    <cosponsor thomas_id="01920" joined="2014-07-28"/>
+    <cosponsor thomas_id="02009" joined="2013-05-06"/>
+    <cosponsor thomas_id="01037" joined="2014-07-17"/>
+    <cosponsor thomas_id="01041" joined="2013-05-08"/>
+    <cosponsor thomas_id="01988" joined="2013-04-25"/>
+    <cosponsor thomas_id="01681" joined="2014-05-06"/>
+    <cosponsor thomas_id="01590" joined="2014-05-01"/>
+    <cosponsor thomas_id="02000" joined="2013-11-19"/>
+    <cosponsor thomas_id="02168" joined="2014-05-20"/>
+    <cosponsor thomas_id="02047" joined="2013-04-25"/>
+    <cosponsor thomas_id="01566" joined="2014-05-06"/>
+    <cosponsor thomas_id="01952" joined="2013-04-25"/>
+    <cosponsor thomas_id="01741" joined="2013-04-25"/>
+    <cosponsor thomas_id="02166" joined="2014-07-30"/>
+    <cosponsor thomas_id="01209" joined="2013-04-25"/>
+    <cosponsor thomas_id="02152" joined="2013-05-06"/>
+    <cosponsor thomas_id="02165" joined="2014-06-10"/>
+    <cosponsor thomas_id="02004" joined="2013-04-25"/>
+    <cosponsor thomas_id="01688" joined="2013-05-06"/>
+    <cosponsor thomas_id="01886" joined="2014-04-30"/>
+    <cosponsor thomas_id="01853" joined="2013-07-25"/>
+    <cosponsor thomas_id="02021" joined="2013-04-26"/>
+    <cosponsor thomas_id="02115" joined="2013-04-25"/>
+    <cosponsor thomas_id="01256" joined="2014-05-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-09" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="654"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Education programs funding"/>
+    <term name="Educational facilities and institutions"/>
+    <term name="Higher education"/>
+    <term name="Housing and community development funding"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+    <term name="Tax-exempt organizations"/>
+  </subjects>
+  <amendments/>
+  <summary>4/9/2013--Introduced.
+Collegiate Housing and Infrastructure Act of 2013 - Amends the Internal Revenue Code to allow tax-exempt charitable or educational organizations to make collegiate housing and infrastructure improvement grants to certain tax-exempt social clubs (e.g., college fraternities and sororities) which apply such grants to their collegiate housing property.</summary>
+</bill>

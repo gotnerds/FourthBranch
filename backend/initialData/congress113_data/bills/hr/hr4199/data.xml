@@ -1,0 +1,96 @@
+<bill session="113" type="h" number="4199" updated="2014-08-14T13:27:13-04:00">
+  <state datetime="2014-06-17T16:04:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-06-17T16:04:00-04:00"/>
+  </status>
+  <introduced datetime="2014-03-11"/>
+  <titles>
+    <title type="official" as="introduced">To name the Department of Veterans Affairs medical center in Waco, Texas, as the "Doris Miller Department of Veterans Affairs Medical Center".</title>
+  </titles>
+  <sponsor thomas_id="02065"/>
+  <cosponsors>
+    <cosponsor thomas_id="00062" joined="2014-03-14"/>
+    <cosponsor thomas_id="01468" joined="2014-03-14"/>
+    <cosponsor thomas_id="01751" joined="2014-03-14"/>
+    <cosponsor thomas_id="01752" joined="2014-03-14"/>
+    <cosponsor thomas_id="02163" joined="2014-03-14"/>
+    <cosponsor thomas_id="01805" joined="2014-03-14"/>
+    <cosponsor thomas_id="01807" joined="2014-03-14"/>
+    <cosponsor thomas_id="01670" joined="2014-03-14"/>
+    <cosponsor thomas_id="00303" joined="2014-03-14"/>
+    <cosponsor thomas_id="02067" joined="2014-03-14"/>
+    <cosponsor thomas_id="02164" joined="2014-03-14"/>
+    <cosponsor thomas_id="01801" joined="2014-03-14"/>
+    <cosponsor thomas_id="01487" joined="2014-03-14"/>
+    <cosponsor thomas_id="01803" joined="2014-03-14"/>
+    <cosponsor thomas_id="00462" joined="2014-03-14"/>
+    <cosponsor thomas_id="00484" joined="2014-03-14"/>
+    <cosponsor thomas_id="01749" joined="2014-03-14"/>
+    <cosponsor thomas_id="01490" joined="2014-03-14"/>
+    <cosponsor thomas_id="00588" joined="2014-03-14"/>
+    <cosponsor thomas_id="00599" joined="2014-03-14"/>
+    <cosponsor thomas_id="00603" joined="2014-03-14"/>
+    <cosponsor thomas_id="01806" joined="2014-03-14"/>
+    <cosponsor thomas_id="01804" joined="2014-03-14"/>
+    <cosponsor thomas_id="01758" joined="2014-03-14"/>
+    <cosponsor thomas_id="02162" joined="2014-03-11"/>
+    <cosponsor thomas_id="01955" joined="2014-03-14"/>
+    <cosponsor thomas_id="01802" joined="2014-03-14"/>
+    <cosponsor thomas_id="01525" joined="2014-03-14"/>
+    <cosponsor thomas_id="01075" joined="2014-03-14"/>
+    <cosponsor thomas_id="01114" joined="2014-03-14"/>
+    <cosponsor thomas_id="01155" joined="2014-03-14"/>
+    <cosponsor thomas_id="02166" joined="2014-03-14"/>
+    <cosponsor thomas_id="02167" joined="2014-03-14"/>
+    <cosponsor thomas_id="02161" joined="2014-03-14"/>
+    <cosponsor thomas_id="02165" joined="2014-03-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-03-11" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2014-03-24">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2014-06-17T15:52:00-04:00">
+      <text>Mr. Lamborn moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2014-06-17T15:52:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5383-5384" label="consideration"/>
+    </action>
+    <action datetime="2014-06-17T15:52:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4199.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-06-17T16:04:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H5383" label="text"/>
+    </vote>
+    <action datetime="2014-06-17T16:04:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-06-18">
+      <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Health" code="HSVR03" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="" code="SSVA" name="Senate Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="2128"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Texas"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>6/17/2014--Passed House without amendment.
+Designates the Department of Veterans Affairs (VA) medical center in Waco, Texas, as the "Doris Miller Department of Veterans Affairs Medical Center."</summary>
+</bill>

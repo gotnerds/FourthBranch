@@ -1,0 +1,33 @@
+<bill session="113" type="h" number="5351" updated="2014-08-14T13:37:09-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="short" as="introduced">Veterans Air Travel Streamlining Act of 2014</title>
+    <title type="official" as="introduced">To waive the application fee for veterans with a service-connected disability rated at 50 percent or more who apply to participate in the Transportation Security Administration's Pre-Check program, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01885"/>
+  <cosponsors>
+    <cosponsor thomas_id="02046" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Referred to the Committee on Homeland Security, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Homeland Security</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSHM" name="House Homeland Security" activity="Referral"/>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

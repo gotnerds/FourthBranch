@@ -1,0 +1,50 @@
+<bill session="113" type="s" number="2514" updated="2014-08-14T14:06:15-04:00">
+  <state datetime="2014-06-24">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-24"/>
+  </status>
+  <introduced datetime="2014-06-24"/>
+  <titles>
+    <title type="short" as="introduced">ORDEAL Act of 2014</title>
+    <title type="short" as="introduced">Ozone Regulatory Delay and Extension of Assessment Length Act of 2014</title>
+    <title type="official" as="introduced">A bill to amend the Clean Air Act to delay the review and revision of the national ambient air quality standards for ozone.</title>
+  </titles>
+  <sponsor thomas_id="01633"/>
+  <cosponsors>
+    <cosponsor thomas_id="01881" joined="2014-06-24"/>
+    <cosponsor thomas_id="00209" joined="2014-06-24"/>
+    <cosponsor thomas_id="01692" joined="2014-06-24"/>
+    <cosponsor thomas_id="00250" joined="2014-06-24"/>
+    <cosponsor thomas_id="01542" joined="2014-06-24"/>
+    <cosponsor thomas_id="02086" joined="2014-06-24"/>
+    <cosponsor thomas_id="00754" joined="2014-06-24"/>
+    <cosponsor thomas_id="01896" joined="2014-06-24"/>
+    <cosponsor thomas_id="01548" joined="2014-06-24"/>
+    <cosponsor thomas_id="01534" joined="2014-06-24"/>
+    <cosponsor thomas_id="01609" joined="2014-06-24"/>
+    <cosponsor thomas_id="01226" joined="2014-06-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-23">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S3900-3901"/>
+    </action>
+    <action datetime="2014-06-24" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="4947"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Air quality"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental regulatory procedures"/>
+  </subjects>
+  <amendments/>
+</bill>

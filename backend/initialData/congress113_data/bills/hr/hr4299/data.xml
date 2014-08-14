@@ -1,0 +1,87 @@
+<bill session="113" type="h" number="4299" updated="2014-08-14T13:28:05-04:00">
+  <state datetime="2014-06-10">REPORTED</state>
+  <status>
+    <unknown datetime="2014-06-10"/>
+  </status>
+  <introduced datetime="2014-03-26"/>
+  <titles>
+    <title type="short" as="introduced">Improving Regulatory Transparency for New Medical Therapies Act</title>
+    <title type="official" as="introduced">To amend the Controlled Substances Act with respect to drug scheduling recommendations by the Secretary of Health and Human Services, and with respect to registration of manufacturers and distributors seeking to conduct clinical testing.</title>
+  </titles>
+  <sponsor thomas_id="01514"/>
+  <cosponsors>
+    <cosponsor thomas_id="01748" joined="2014-04-08"/>
+    <cosponsor thomas_id="01751" joined="2014-04-01"/>
+    <cosponsor thomas_id="01761" joined="2014-05-20"/>
+    <cosponsor thomas_id="00344" joined="2014-05-19"/>
+    <cosponsor thomas_id="01720" joined="2014-04-09"/>
+    <cosponsor thomas_id="00462" joined="2014-04-10"/>
+    <cosponsor thomas_id="02070" joined="2014-04-09"/>
+    <cosponsor thomas_id="02046" joined="2014-05-29"/>
+    <cosponsor thomas_id="01885" joined="2014-04-29"/>
+    <cosponsor thomas_id="01809" joined="2014-04-03"/>
+    <cosponsor thomas_id="00887" joined="2014-03-26"/>
+    <cosponsor thomas_id="01861" joined="2014-05-19"/>
+    <cosponsor thomas_id="01942" joined="2014-05-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-03-26" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-03-26">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2014-03-26">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2014-03-28">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2014-04-16">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+    <action datetime="2014-05-28">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2014-05-28">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+    </action>
+    <action datetime="2014-06-09">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2014-06-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-06-10" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+    <action datetime="2014-07-29T13:49:00-04:00">
+      <text>Reported by the Committee on Energy and Commerce. H. Rept. 113-565, Part I.</text>
+    </action>
+    <action datetime="2014-07-29T13:49:00-04:00">
+      <text>House Committee on the Judiciary Granted an extension for further consideration ending not later than Sept. 19, 2014.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Administrative remedies"/>
+    <term name="Department of Justice"/>
+    <term name="Drug safety, medical device, and laboratory regulation"/>
+    <term name="Drug trafficking and controlled substances"/>
+    <term name="Licensing and registrations"/>
+    <term name="Medical research"/>
+  </subjects>
+  <amendments/>
+  <summary>3/26/2014--Introduced.
+Improving Regulatory Transparency for New Medical Therapies Act - Amends the Controlled Substances Act to direct the Attorney General, within 45 days of receiving a recommendation from the Secretary of Health and Human Services (HHS) to add a drug or substance that has never been marketed in the United States to a schedule of controlled substances, to issue an interim final rule, under the exception for good cause, placing the drug or substance into the schedule recommended by the Secretary. Makes the interim final rule immediately effective.
+
+Authorizes a person who submits an application for registration to manufacture or distribute a controlled substance to indicate on the application that the substance will be used only in connection with clinical trials of a drug in accordance with the Federal Food, Drug, and Cosmetic Act. Directs the Attorney General to make a final decision on an application that includes such an indication within 180 days or provide written notice to the applicant of the outstanding issues that must be resolved to reach a final decision and the estimated date such decision will be made.</summary>
+</bill>

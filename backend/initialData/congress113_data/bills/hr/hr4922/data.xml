@@ -1,0 +1,37 @@
+<bill session="113" type="h" number="4922" updated="2014-08-14T13:33:28-04:00">
+  <state datetime="2014-06-20">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-20"/>
+  </status>
+  <introduced datetime="2014-06-20"/>
+  <titles>
+    <title type="short" as="introduced">GI Internship Program Act</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to authorize veterans who are entitled to educational assistance under the Post-9/11 Educational Assistance Program of the Department of Veterans Affairs to use such entitlement to participate in a career transition internship program for veterans.</title>
+  </titles>
+  <sponsor thomas_id="02124"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-06-20" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2014-07-07">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+    </action>
+    <action datetime="2014-07-09">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H5882-5883"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Economic Opportunity" code="HSVR10" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Employment and training programs"/>
+    <term name="Government information and archives"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+  </subjects>
+  <amendments/>
+</bill>

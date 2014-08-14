@@ -1,0 +1,26 @@
+<bill session="113" type="h" number="5312" updated="2014-08-14T13:36:50-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="short" as="introduced">Safe Aviation and Flight Emergency Tracking Act of 2014</title>
+    <title type="official" as="introduced">To direct the Administrator of the Federal Aviation Administration to issue regulations to improve the tracking of aircraft in flight, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00930"/>
+  <cosponsors>
+    <cosponsor thomas_id="00322" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

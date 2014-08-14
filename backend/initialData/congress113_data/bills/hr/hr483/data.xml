@@ -1,0 +1,99 @@
+<bill session="113" type="h" number="483" updated="2014-08-14T12:54:51-04:00">
+  <state datetime="2013-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-04"/>
+  </status>
+  <introduced datetime="2013-02-04"/>
+  <titles>
+    <title type="short" as="introduced">Farmers Against Crippling Taxes Act</title>
+    <title type="official" as="introduced">To repeal the Federal estate and gift taxes.</title>
+  </titles>
+  <sponsor thomas_id="02140"/>
+  <cosponsors>
+    <cosponsor thomas_id="02131" joined="2013-02-13"/>
+    <cosponsor thomas_id="01987" joined="2013-02-06"/>
+    <cosponsor thomas_id="01882" joined="2013-02-06"/>
+    <cosponsor thomas_id="01752" joined="2013-03-07"/>
+    <cosponsor thomas_id="00186" joined="2013-02-06"/>
+    <cosponsor thomas_id="00211" joined="2013-02-15"/>
+    <cosponsor thomas_id="01742" joined="2013-02-06"/>
+    <cosponsor thomas_id="02121" joined="2013-02-06"/>
+    <cosponsor thomas_id="01805" joined="2013-02-06"/>
+    <cosponsor thomas_id="02098" joined="2013-02-06"/>
+    <cosponsor thomas_id="02144" joined="2013-02-13"/>
+    <cosponsor thomas_id="02138" joined="2013-02-06"/>
+    <cosponsor thomas_id="02126" joined="2013-05-08"/>
+    <cosponsor thomas_id="02036" joined="2013-02-13"/>
+    <cosponsor thomas_id="02061" joined="2013-02-06"/>
+    <cosponsor thomas_id="01924" joined="2013-02-06"/>
+    <cosponsor thomas_id="02065" joined="2013-02-06"/>
+    <cosponsor thomas_id="01707" joined="2013-02-06"/>
+    <cosponsor thomas_id="02164" joined="2013-03-07"/>
+    <cosponsor thomas_id="01998" joined="2013-02-06"/>
+    <cosponsor thomas_id="01801" joined="2013-02-06"/>
+    <cosponsor thomas_id="00446" joined="2013-03-19"/>
+    <cosponsor thomas_id="01656" joined="2013-02-13"/>
+    <cosponsor thomas_id="01979" joined="2013-02-06"/>
+    <cosponsor thomas_id="00484" joined="2013-03-18"/>
+    <cosponsor thomas_id="01933" joined="2013-02-06"/>
+    <cosponsor thomas_id="02026" joined="2013-02-06"/>
+    <cosponsor thomas_id="02032" joined="2013-02-06"/>
+    <cosponsor thomas_id="02143" joined="2013-02-06"/>
+    <cosponsor thomas_id="02028" joined="2013-02-06"/>
+    <cosponsor thomas_id="02015" joined="2013-02-06"/>
+    <cosponsor thomas_id="00612" joined="2013-02-06"/>
+    <cosponsor thomas_id="02154" joined="2013-02-13"/>
+    <cosponsor thomas_id="00636" joined="2013-02-06"/>
+    <cosponsor thomas_id="02100" joined="2013-02-06"/>
+    <cosponsor thomas_id="01834" joined="2013-02-06"/>
+    <cosponsor thomas_id="00711" joined="2013-03-18"/>
+    <cosponsor thomas_id="01931" joined="2013-02-06"/>
+    <cosponsor thomas_id="01960" joined="2013-02-06"/>
+    <cosponsor thomas_id="01806" joined="2013-02-06"/>
+    <cosponsor thomas_id="01505" joined="2013-03-07"/>
+    <cosponsor thomas_id="02142" joined="2013-02-06"/>
+    <cosponsor thomas_id="02130" joined="2013-02-06"/>
+    <cosponsor thomas_id="02156" joined="2013-02-06"/>
+    <cosponsor thomas_id="02059" joined="2013-02-06"/>
+    <cosponsor thomas_id="01758" joined="2013-02-06"/>
+    <cosponsor thomas_id="02034" joined="2013-02-06"/>
+    <cosponsor thomas_id="01955" joined="2013-02-06"/>
+    <cosponsor thomas_id="01738" joined="2013-02-06"/>
+    <cosponsor thomas_id="02157" joined="2013-02-06"/>
+    <cosponsor thomas_id="01514" joined="2013-02-13"/>
+    <cosponsor thomas_id="02118" joined="2013-02-06"/>
+    <cosponsor thomas_id="02160" joined="2013-02-06"/>
+    <cosponsor thomas_id="01954" joined="2013-02-06"/>
+    <cosponsor thomas_id="02017" joined="2013-02-06"/>
+    <cosponsor thomas_id="01009" joined="2013-03-07"/>
+    <cosponsor thomas_id="02009" joined="2013-02-06"/>
+    <cosponsor thomas_id="01114" joined="2013-02-06"/>
+    <cosponsor thomas_id="01981" joined="2013-03-07"/>
+    <cosponsor thomas_id="02137" joined="2013-02-06"/>
+    <cosponsor thomas_id="02128" joined="2013-02-06"/>
+    <cosponsor thomas_id="01779" joined="2013-02-13"/>
+    <cosponsor thomas_id="02021" joined="2013-02-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-04" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="147"/>
+    <bill type="h" session="113" relation="unknown" number="177"/>
+    <bill type="h" session="113" relation="unknown" number="1040"/>
+    <bill type="h" session="113" relation="unknown" number="2373"/>
+    <bill type="s" session="113" relation="unknown" number="1402"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Transfer and inheritance taxes"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/2013--Introduced.
+Farmers Against Crippling Taxes Act - Repeals the federal estate, gift, and generation-skipping transfer taxes.</summary>
+</bill>

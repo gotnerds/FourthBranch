@@ -1,0 +1,55 @@
+<bill session="113" type="h" number="2679" updated="2014-08-14T13:14:18-04:00">
+  <state datetime="2013-07-11">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-11"/>
+  </status>
+  <introduced datetime="2013-07-11"/>
+  <titles>
+    <title type="short" as="introduced">Preventing Unionization of Revenue Service Employees Act</title>
+    <title type="short" as="introduced">PURSE Act</title>
+    <title type="official" as="introduced">To exclude the Internal Revenue Service from the provisions of title 5, United States Code, relating to labor-management relations.</title>
+  </titles>
+  <sponsor thomas_id="01998"/>
+  <cosponsors>
+    <cosponsor thomas_id="02063" joined="2013-07-18"/>
+    <cosponsor thomas_id="01987" joined="2013-07-11"/>
+    <cosponsor thomas_id="00211" joined="2013-07-11"/>
+    <cosponsor thomas_id="01742" joined="2013-07-11"/>
+    <cosponsor thomas_id="01924" joined="2013-07-11"/>
+    <cosponsor thomas_id="01707" joined="2013-07-11"/>
+    <cosponsor thomas_id="01990" joined="2013-07-11"/>
+    <cosponsor thomas_id="00603" joined="2013-07-31"/>
+    <cosponsor thomas_id="02100" joined="2013-07-11"/>
+    <cosponsor thomas_id="02033" joined="2013-07-30"/>
+    <cosponsor thomas_id="01960" joined="2013-07-11"/>
+    <cosponsor thomas_id="02053" joined="2013-08-02"/>
+    <cosponsor thomas_id="01758" joined="2013-07-17"/>
+    <cosponsor thomas_id="02017" joined="2013-07-11"/>
+    <cosponsor thomas_id="01009" joined="2013-07-17"/>
+    <cosponsor thomas_id="01892" joined="2013-07-11"/>
+    <cosponsor thomas_id="02000" joined="2013-07-11"/>
+    <cosponsor thomas_id="01997" joined="2013-07-11"/>
+    <cosponsor thomas_id="01779" joined="2013-07-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-11" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Education programs funding"/>
+    <term name="Employment and training programs"/>
+    <term name="Higher education"/>
+    <term name="Income tax exclusion"/>
+    <term name="Student aid and college costs"/>
+    <term name="Wages and earnings"/>
+  </subjects>
+  <amendments/>
+  <summary>7/11/2013--Introduced.
+Preventing Unionization of Revenue Service Employees Act or the PURSE Act - Excludes employees of the Internal Revenue Service (IRS) from provisions of federal personnel law allowing federal employees to organize, bargain collectively, and participate in labor organizations.</summary>
+</bill>

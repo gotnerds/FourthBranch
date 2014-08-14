@@ -1,0 +1,25 @@
+<bill session="113" type="s" number="2766" updated="2014-08-14T14:08:21-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="official" as="introduced">A bill to combat terrorism and promote reform in the Palestinian Authority and the United Nations, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02084"/>
+  <cosponsors>
+    <cosponsor thomas_id="02175" joined="2014-08-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

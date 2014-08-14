@@ -1,0 +1,1168 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-02", 
+      "committees": [
+        "SSAS"
+      ], 
+      "references": [], 
+      "text": "Committee on Armed Services. Original measure reported to Senate by Senator Levin. With written report No. 113-176. Additional views filed.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-02", 
+      "calendar": "Senate Legislative", 
+      "number": "402", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 402.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }
+  ], 
+  "amendments": [
+    {
+      "amendment_id": "samdt3243-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3243"
+    }, 
+    {
+      "amendment_id": "samdt3365-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3365"
+    }, 
+    {
+      "amendment_id": "samdt3366-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3366"
+    }, 
+    {
+      "amendment_id": "samdt3367-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3367"
+    }, 
+    {
+      "amendment_id": "samdt3368-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3368"
+    }, 
+    {
+      "amendment_id": "samdt3369-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3369"
+    }, 
+    {
+      "amendment_id": "samdt3377-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3377"
+    }, 
+    {
+      "amendment_id": "samdt3386-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3386"
+    }, 
+    {
+      "amendment_id": "samdt3387-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3387"
+    }, 
+    {
+      "amendment_id": "samdt3388-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3388"
+    }, 
+    {
+      "amendment_id": "samdt3389-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3389"
+    }, 
+    {
+      "amendment_id": "samdt3390-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3390"
+    }, 
+    {
+      "amendment_id": "samdt3391-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3391"
+    }, 
+    {
+      "amendment_id": "samdt3392-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3392"
+    }, 
+    {
+      "amendment_id": "samdt3393-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3393"
+    }, 
+    {
+      "amendment_id": "samdt3394-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3394"
+    }, 
+    {
+      "amendment_id": "samdt3395-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3395"
+    }, 
+    {
+      "amendment_id": "samdt3396-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3396"
+    }, 
+    {
+      "amendment_id": "samdt3398-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3398"
+    }, 
+    {
+      "amendment_id": "samdt3399-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3399"
+    }, 
+    {
+      "amendment_id": "samdt3400-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3400"
+    }, 
+    {
+      "amendment_id": "samdt3401-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3401"
+    }, 
+    {
+      "amendment_id": "samdt3402-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3402"
+    }, 
+    {
+      "amendment_id": "samdt3403-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3403"
+    }, 
+    {
+      "amendment_id": "samdt3404-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3404"
+    }, 
+    {
+      "amendment_id": "samdt3405-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3405"
+    }, 
+    {
+      "amendment_id": "samdt3406-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3406"
+    }, 
+    {
+      "amendment_id": "samdt3407-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3407"
+    }, 
+    {
+      "amendment_id": "samdt3408-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3408"
+    }, 
+    {
+      "amendment_id": "samdt3409-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3409"
+    }, 
+    {
+      "amendment_id": "samdt3410-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3410"
+    }, 
+    {
+      "amendment_id": "samdt3411-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3411"
+    }, 
+    {
+      "amendment_id": "samdt3412-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3412"
+    }, 
+    {
+      "amendment_id": "samdt3413-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3413"
+    }, 
+    {
+      "amendment_id": "samdt3414-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3414"
+    }, 
+    {
+      "amendment_id": "samdt3415-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3415"
+    }, 
+    {
+      "amendment_id": "samdt3416-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3416"
+    }, 
+    {
+      "amendment_id": "samdt3417-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3417"
+    }, 
+    {
+      "amendment_id": "samdt3418-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3418"
+    }, 
+    {
+      "amendment_id": "samdt3419-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3419"
+    }, 
+    {
+      "amendment_id": "samdt3420-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3420"
+    }, 
+    {
+      "amendment_id": "samdt3421-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3421"
+    }, 
+    {
+      "amendment_id": "samdt3422-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3422"
+    }, 
+    {
+      "amendment_id": "samdt3423-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3423"
+    }, 
+    {
+      "amendment_id": "samdt3424-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3424"
+    }, 
+    {
+      "amendment_id": "samdt3425-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3425"
+    }, 
+    {
+      "amendment_id": "samdt3426-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3426"
+    }, 
+    {
+      "amendment_id": "samdt3427-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3427"
+    }, 
+    {
+      "amendment_id": "samdt3428-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3428"
+    }, 
+    {
+      "amendment_id": "samdt3429-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3429"
+    }, 
+    {
+      "amendment_id": "samdt3430-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3430"
+    }, 
+    {
+      "amendment_id": "samdt3431-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3431"
+    }, 
+    {
+      "amendment_id": "samdt3432-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3432"
+    }, 
+    {
+      "amendment_id": "samdt3433-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3433"
+    }, 
+    {
+      "amendment_id": "samdt3434-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3434"
+    }, 
+    {
+      "amendment_id": "samdt3435-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3435"
+    }, 
+    {
+      "amendment_id": "samdt3436-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3436"
+    }, 
+    {
+      "amendment_id": "samdt3437-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3437"
+    }, 
+    {
+      "amendment_id": "samdt3438-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3438"
+    }, 
+    {
+      "amendment_id": "samdt3439-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3439"
+    }, 
+    {
+      "amendment_id": "samdt3440-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3440"
+    }, 
+    {
+      "amendment_id": "samdt3447-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3447"
+    }, 
+    {
+      "amendment_id": "samdt3472-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3472"
+    }, 
+    {
+      "amendment_id": "samdt3505-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3505"
+    }, 
+    {
+      "amendment_id": "samdt3506-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3506"
+    }, 
+    {
+      "amendment_id": "samdt3507-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3507"
+    }, 
+    {
+      "amendment_id": "samdt3508-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3508"
+    }, 
+    {
+      "amendment_id": "samdt3509-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3509"
+    }, 
+    {
+      "amendment_id": "samdt3510-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3510"
+    }, 
+    {
+      "amendment_id": "samdt3547-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3547"
+    }, 
+    {
+      "amendment_id": "samdt3548-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3548"
+    }, 
+    {
+      "amendment_id": "samdt3557-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3557"
+    }, 
+    {
+      "amendment_id": "samdt3563-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3563"
+    }, 
+    {
+      "amendment_id": "samdt3567-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3567"
+    }, 
+    {
+      "amendment_id": "samdt3568-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3568"
+    }, 
+    {
+      "amendment_id": "samdt3569-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3569"
+    }, 
+    {
+      "amendment_id": "samdt3573-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3573"
+    }, 
+    {
+      "amendment_id": "samdt3575-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3575"
+    }, 
+    {
+      "amendment_id": "samdt3576-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3576"
+    }, 
+    {
+      "amendment_id": "samdt3577-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3577"
+    }, 
+    {
+      "amendment_id": "samdt3578-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3578"
+    }, 
+    {
+      "amendment_id": "samdt3579-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3579"
+    }, 
+    {
+      "amendment_id": "samdt3580-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3580"
+    }, 
+    {
+      "amendment_id": "samdt3581-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3581"
+    }, 
+    {
+      "amendment_id": "samdt3588-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3588"
+    }, 
+    {
+      "amendment_id": "samdt3643-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3643"
+    }, 
+    {
+      "amendment_id": "samdt3644-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3644"
+    }, 
+    {
+      "amendment_id": "samdt3661-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3661"
+    }, 
+    {
+      "amendment_id": "samdt3688-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3688"
+    }, 
+    {
+      "amendment_id": "samdt3691-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3691"
+    }, 
+    {
+      "amendment_id": "samdt3692-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3692"
+    }, 
+    {
+      "amendment_id": "samdt3699-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3699"
+    }, 
+    {
+      "amendment_id": "samdt3703-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3703"
+    }, 
+    {
+      "amendment_id": "samdt3704-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3704"
+    }, 
+    {
+      "amendment_id": "samdt3706-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3706"
+    }, 
+    {
+      "amendment_id": "samdt3707-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3707"
+    }, 
+    {
+      "amendment_id": "samdt3708-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3708"
+    }, 
+    {
+      "amendment_id": "samdt3709-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3709"
+    }, 
+    {
+      "amendment_id": "samdt3710-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3710"
+    }, 
+    {
+      "amendment_id": "samdt3711-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3711"
+    }, 
+    {
+      "amendment_id": "samdt3712-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3712"
+    }, 
+    {
+      "amendment_id": "samdt3713-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3713"
+    }, 
+    {
+      "amendment_id": "samdt3714-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3714"
+    }, 
+    {
+      "amendment_id": "samdt3715-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3715"
+    }, 
+    {
+      "amendment_id": "samdt3717-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3717"
+    }, 
+    {
+      "amendment_id": "samdt3718-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3718"
+    }, 
+    {
+      "amendment_id": "samdt3721-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3721"
+    }, 
+    {
+      "amendment_id": "samdt3728-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3728"
+    }, 
+    {
+      "amendment_id": "samdt3729-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3729"
+    }, 
+    {
+      "amendment_id": "samdt3730-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3730"
+    }, 
+    {
+      "amendment_id": "samdt3731-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3731"
+    }, 
+    {
+      "amendment_id": "samdt3733-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3733"
+    }, 
+    {
+      "amendment_id": "samdt3740-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3740"
+    }, 
+    {
+      "amendment_id": "samdt3741-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3741"
+    }, 
+    {
+      "amendment_id": "samdt3743-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3743"
+    }, 
+    {
+      "amendment_id": "samdt3744-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3744"
+    }, 
+    {
+      "amendment_id": "samdt3745-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3745"
+    }, 
+    {
+      "amendment_id": "samdt3746-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3746"
+    }, 
+    {
+      "amendment_id": "samdt3748-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3748"
+    }, 
+    {
+      "amendment_id": "samdt3749-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3749"
+    }, 
+    {
+      "amendment_id": "samdt3755-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3755"
+    }, 
+    {
+      "amendment_id": "samdt3756-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3756"
+    }, 
+    {
+      "amendment_id": "samdt3757-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3757"
+    }, 
+    {
+      "amendment_id": "samdt3760-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3760"
+    }, 
+    {
+      "amendment_id": "samdt3761-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3761"
+    }, 
+    {
+      "amendment_id": "samdt3762-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3762"
+    }, 
+    {
+      "amendment_id": "samdt3763-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3763"
+    }, 
+    {
+      "amendment_id": "samdt3764-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3764"
+    }, 
+    {
+      "amendment_id": "samdt3765-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3765"
+    }, 
+    {
+      "amendment_id": "samdt3766-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3766"
+    }, 
+    {
+      "amendment_id": "samdt3767-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3767"
+    }, 
+    {
+      "amendment_id": "samdt3768-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3768"
+    }, 
+    {
+      "amendment_id": "samdt3769-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3769"
+    }, 
+    {
+      "amendment_id": "samdt3770-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3770"
+    }, 
+    {
+      "amendment_id": "samdt3771-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3771"
+    }, 
+    {
+      "amendment_id": "samdt3773-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3773"
+    }, 
+    {
+      "amendment_id": "samdt3774-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3774"
+    }, 
+    {
+      "amendment_id": "samdt3776-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3776"
+    }, 
+    {
+      "amendment_id": "samdt3777-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3777"
+    }, 
+    {
+      "amendment_id": "samdt3778-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3778"
+    }, 
+    {
+      "amendment_id": "samdt3782-113", 
+      "amendment_type": "samdt", 
+      "chamber": "s", 
+      "number": "3782"
+    }
+  ], 
+  "bill_id": "s2410-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "origin", 
+        "reporting"
+      ], 
+      "committee": "Senate Armed Services", 
+      "committee_id": "SSAS"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-06-02", 
+  "number": "2410", 
+  "official_title": "An original bill to authorize appropriations for fiscal year 2015 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr385-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr2249-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr2905-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr3743-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr3930-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr4492-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr4730-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1076-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1387-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1423-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s1994-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2217-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2295-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Carl Levin National Defense Authorization Act for Fiscal Year 2015", 
+  "sponsor": {
+    "district": null, 
+    "name": "Levin, Carl", 
+    "state": "MI", 
+    "thomas_id": "01384", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2014-06-02", 
+  "subjects": [
+    "Advanced technology and technological innovations", 
+    "Advisory bodies", 
+    "Afghanistan", 
+    "Africa", 
+    "Alliances", 
+    "Appropriations", 
+    "Armed Forces Retirement Home", 
+    "Armed forces and national security", 
+    "Arms control and nonproliferation", 
+    "Asia", 
+    "Assault and harassment offenses", 
+    "Atmospheric science and weather", 
+    "Aviation and airports", 
+    "Buy American requirements", 
+    "Cardiovascular and respiratory health", 
+    "Caribbean area", 
+    "Chemical and biological weapons", 
+    "China", 
+    "Colombia", 
+    "Computers and information technology", 
+    "Conflicts and wars", 
+    "Congressional oversight", 
+    "Crime prevention", 
+    "Crime victims", 
+    "Crimes against women", 
+    "Criminal investigation, prosecution, interrogation", 
+    "Criminal justice information and records", 
+    "Cuba", 
+    "Defense spending", 
+    "Department of Defense", 
+    "Department of Energy", 
+    "Disability and paralysis", 
+    "Disability assistance", 
+    "Disaster relief and insurance", 
+    "District of Columbia", 
+    "Drug trafficking and controlled substances", 
+    "Education programs funding", 
+    "Elementary and secondary education", 
+    "Employment discrimination and employee rights", 
+    "Energy efficiency and conservation", 
+    "Europe", 
+    "Evidence and witnesses", 
+    "Executive agency funding and structure", 
+    "Family planning and birth control", 
+    "Federal appellate courts", 
+    "Georgia", 
+    "Government employee pay, benefits, personnel management", 
+    "Government information and archives", 
+    "Government liability", 
+    "Government studies and investigations", 
+    "Hawaii", 
+    "Hazardous wastes and toxic substances", 
+    "Health care costs and insurance", 
+    "Health facilities and institutions", 
+    "Health information and medical records", 
+    "Health personnel", 
+    "Health promotion and preventive care", 
+    "Health technology, devices, supplies", 
+    "Homeland security", 
+    "Housing and community development funding", 
+    "Housing for the elderly and disabled", 
+    "Illinois", 
+    "Intelligence activities, surveillance, classified information", 
+    "Internet and video services", 
+    "Iraq", 
+    "Israel", 
+    "Judges", 
+    "Land transfers", 
+    "Land use and conservation", 
+    "Latin America", 
+    "Low- and moderate-income housing", 
+    "Manufacturing", 
+    "Medical tests and diagnostic methods", 
+    "Mental health", 
+    "Metals", 
+    "Middle East", 
+    "Military assistance, sales, and agreements", 
+    "Military civil functions", 
+    "Military command and structure", 
+    "Military education and training", 
+    "Military facilities and property", 
+    "Military law", 
+    "Military medicine", 
+    "Military operations and strategy", 
+    "Military personnel and dependents", 
+    "Military procurement, research, weapons development", 
+    "Military readiness", 
+    "Monuments and memorials", 
+    "National Guard and reserves", 
+    "Neurological disorders", 
+    "Nuclear weapons", 
+    "Oklahoma", 
+    "Personnel records", 
+    "Peru", 
+    "Public contracts and procurement", 
+    "Puerto Rico", 
+    "Radiation", 
+    "Radioactive wastes and releases", 
+    "Residential rehabilitation and home repair", 
+    "Russia", 
+    "School athletics", 
+    "Science and engineering education", 
+    "Sex offenses", 
+    "Sovereignty, recognition, national governance and status", 
+    "Spacecraft and satellites", 
+    "Special education", 
+    "Strategic materials and reserves", 
+    "Teaching, teachers, curricula", 
+    "Terrorism", 
+    "Ukraine", 
+    "Veterans' education, employment, rehabilitation", 
+    "Veterans' loans, housing, homeless programs", 
+    "Veterans' organizations and recognition", 
+    "Veterans' pensions and compensation", 
+    "Violent crime", 
+    "Virginia", 
+    "Visas and passports", 
+    "Wildlife conservation and habitat protection", 
+    "Women's health", 
+    "Worker safety and health"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Carl Levin National Defense Authorization Act for Fiscal Year 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": true, 
+      "title": "Afghan Allies Protection Extension Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": true, 
+      "title": "Department of Defense Cooperative Threat Reduction Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": true, 
+      "title": "Military Construction Authorization Act for Fiscal Year 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": true, 
+      "title": "National Commission on the Future of the Army Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "Carl Levin National Defense Authorization Act for Fiscal Year 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": true, 
+      "title": "Afghan Allies Protection Extension Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": true, 
+      "title": "Department of Defense Cooperative Threat Reduction Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": true, 
+      "title": "Military Construction Authorization Act for Fiscal Year 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": true, 
+      "title": "National Commission on the Future of the Army Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "An original bill to authorize appropriations for fiscal year 2015 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T14:05:23-04:00"
+}

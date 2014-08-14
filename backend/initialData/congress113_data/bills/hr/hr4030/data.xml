@@ -1,0 +1,56 @@
+<bill session="113" type="h" number="4030" updated="2014-08-14T13:25:48-04:00">
+  <state datetime="2014-02-10">REFERRED</state>
+  <status>
+    <introduced datetime="2014-02-10"/>
+  </status>
+  <introduced datetime="2014-02-10"/>
+  <titles>
+    <title type="official" as="introduced">To designate the facility of the United States Postal Service located at 18640 NW 2nd Avenue in Miami, Florida, as the "Father Richard Marquess-Barry Post Office Building".</title>
+  </titles>
+  <sponsor thomas_id="02004"/>
+  <cosponsors>
+    <cosponsor thomas_id="01838" joined="2014-02-10"/>
+    <cosponsor thomas_id="00132" joined="2014-02-10"/>
+    <cosponsor thomas_id="01840" joined="2014-02-10"/>
+    <cosponsor thomas_id="01839" joined="2014-02-10"/>
+    <cosponsor thomas_id="01643" joined="2014-02-10"/>
+    <cosponsor thomas_id="02116" joined="2014-02-10"/>
+    <cosponsor thomas_id="01976" joined="2014-02-10"/>
+    <cosponsor thomas_id="01717" joined="2014-02-10"/>
+    <cosponsor thomas_id="02119" joined="2014-02-10"/>
+    <cosponsor thomas_id="02120" joined="2014-02-10"/>
+    <cosponsor thomas_id="01914" joined="2014-02-10"/>
+    <cosponsor thomas_id="00511" joined="2014-02-10"/>
+    <cosponsor thomas_id="00800" joined="2014-02-10"/>
+    <cosponsor thomas_id="01685" joined="2014-02-10"/>
+    <cosponsor thomas_id="02117" joined="2014-02-10"/>
+    <cosponsor thomas_id="02001" joined="2014-02-10"/>
+    <cosponsor thomas_id="01915" joined="2014-02-10"/>
+    <cosponsor thomas_id="01916" joined="2014-02-10"/>
+    <cosponsor thomas_id="00985" joined="2014-02-10"/>
+    <cosponsor thomas_id="02003" joined="2014-02-10"/>
+    <cosponsor thomas_id="02000" joined="2014-02-10"/>
+    <cosponsor thomas_id="01777" joined="2014-02-10"/>
+    <cosponsor thomas_id="02002" joined="2014-02-10"/>
+    <cosponsor thomas_id="02115" joined="2014-02-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-02-10" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional tributes"/>
+    <term name="Florida"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Postal service"/>
+  </subjects>
+  <amendments/>
+  <summary>2/10/2014--Introduced.
+Designates the facility of the United States Postal Service located at 18640 NW 2nd Avenue in Miami, Florida, as the "Father Richard Marquess-Barry Post Office Building."</summary>
+</bill>

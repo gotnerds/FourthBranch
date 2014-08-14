@@ -1,0 +1,30 @@
+<bill session="113" type="h" number="5148" updated="2014-08-14T13:35:24-04:00">
+  <state datetime="2014-07-30">REPORTED</state>
+  <status>
+    <unknown datetime="2014-07-30"/>
+  </status>
+  <introduced datetime="2014-07-17"/>
+  <titles>
+    <title type="short" as="introduced">Access to Affordable Mortgages Act of 2014</title>
+    <title type="official" as="introduced">To amend the Truth in Lending Act to exempt certain higher-risk mortgages from property appraisal requirements and to exempt individuals from penalties for failure to report certain appraisers, and to amend the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 to exempt certain higher-risk mortgages from property appraisal requirements, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01931"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-17" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2014-07-30">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-07-30" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 31 - 23.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

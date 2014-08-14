@@ -1,0 +1,53 @@
+<bill session="113" type="h" number="1706" updated="2014-08-14T13:05:15-04:00">
+  <state datetime="2013-04-24">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-24"/>
+  </status>
+  <introduced datetime="2013-04-24"/>
+  <titles>
+    <title type="short" as="introduced">Mortgage Settlement Monitoring Act of 2013</title>
+    <title type="official" as="introduced">To establish an Independent Monitor to maintain oversight of the settlement by mortgage servicing companies that were subject to enforcement actions for unsafe and unsound practices related to residential mortgage loan servicing and foreclosure processing, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00256"/>
+  <cosponsors>
+    <cosponsor thomas_id="02055" joined="2013-05-09"/>
+    <cosponsor thomas_id="00229" joined="2013-04-24"/>
+    <cosponsor thomas_id="01641" joined="2013-06-05"/>
+    <cosponsor thomas_id="01894" joined="2013-06-11"/>
+    <cosponsor thomas_id="00355" joined="2013-05-16"/>
+    <cosponsor thomas_id="01843" joined="2013-05-16"/>
+    <cosponsor thomas_id="01501" joined="2013-05-09"/>
+    <cosponsor thomas_id="00688" joined="2013-06-11"/>
+    <cosponsor thomas_id="00701" joined="2013-04-24"/>
+    <cosponsor thomas_id="01814" joined="2013-05-09"/>
+    <cosponsor thomas_id="00808" joined="2013-04-24"/>
+    <cosponsor thomas_id="01588" joined="2013-04-24"/>
+    <cosponsor thomas_id="02110" joined="2013-05-09"/>
+    <cosponsor thomas_id="01535" joined="2013-04-24"/>
+    <cosponsor thomas_id="01205" joined="2013-04-24"/>
+    <cosponsor thomas_id="01209" joined="2013-04-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-24" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Administrative remedies"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Civil actions and liability"/>
+    <term name="Department of the Treasury"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal Reserve System"/>
+    <term name="Housing finance and home ownership"/>
+  </subjects>
+  <amendments/>
+  <summary>4/24/2013--Introduced.
+Mortgage Settlement Monitoring Act of 2013 - Establishes the Office of the Independent Monitor to determine the compliance with its terms of all parties to the amended consent orders (settlement) finalized on February 28, 2013, between the Board of Governors of the Federal Reserve System and the Office of the Comptroller of the Currency and 11 mortgage servicing companies subject to enforcement actions for unsafe and unsound practices related to residential mortgage loan servicing and foreclosure processing, as well as any future agreement between the Board and the Office and a mortgage servicing company.</summary>
+</bill>

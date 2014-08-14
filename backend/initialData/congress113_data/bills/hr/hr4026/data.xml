@@ -1,0 +1,76 @@
+<bill session="113" type="h" number="4026" updated="2014-08-14T13:25:46-04:00">
+  <state datetime="2014-02-10">REFERRED</state>
+  <status>
+    <introduced datetime="2014-02-10"/>
+  </status>
+  <introduced datetime="2014-02-10"/>
+  <titles>
+    <title type="short" as="introduced">Honoring Our Fallen TSA Officers Act</title>
+    <title type="official" as="introduced">To amend the Omnibus Crime Control and Safe Streets Act of 1968 to provide for the eligibility of Transportation Security Administration employees to receive public safety officers' death benefits, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02106"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2014-02-25"/>
+    <cosponsor thomas_id="01723" joined="2014-03-12"/>
+    <cosponsor thomas_id="00132" joined="2014-02-11"/>
+    <cosponsor thomas_id="02127" joined="2014-03-06"/>
+    <cosponsor thomas_id="02107" joined="2014-03-06"/>
+    <cosponsor thomas_id="02159" joined="2014-07-29"/>
+    <cosponsor thomas_id="02163" joined="2014-03-06"/>
+    <cosponsor thomas_id="02055" joined="2014-03-06"/>
+    <cosponsor thomas_id="01604" joined="2014-03-06"/>
+    <cosponsor thomas_id="00256" joined="2014-05-30"/>
+    <cosponsor thomas_id="01894" joined="2014-06-18"/>
+    <cosponsor thomas_id="02125" joined="2014-02-25"/>
+    <cosponsor thomas_id="00355" joined="2014-02-25"/>
+    <cosponsor thomas_id="01973" joined="2014-03-06"/>
+    <cosponsor thomas_id="02089" joined="2014-05-30"/>
+    <cosponsor thomas_id="00588" joined="2014-03-13"/>
+    <cosponsor thomas_id="02145" joined="2014-03-06"/>
+    <cosponsor thomas_id="02146" joined="2014-03-06"/>
+    <cosponsor thomas_id="01939" joined="2014-03-11"/>
+    <cosponsor thomas_id="01503" joined="2014-05-30"/>
+    <cosponsor thomas_id="01504" joined="2014-06-19"/>
+    <cosponsor thomas_id="01832" joined="2014-03-13"/>
+    <cosponsor thomas_id="01602" joined="2014-02-11"/>
+    <cosponsor thomas_id="00868" joined="2014-02-11"/>
+    <cosponsor thomas_id="01510" joined="2014-03-06"/>
+    <cosponsor thomas_id="01835" joined="2014-06-18"/>
+    <cosponsor thomas_id="02023" joined="2014-03-05"/>
+    <cosponsor thomas_id="01757" joined="2014-03-06"/>
+    <cosponsor thomas_id="01522" joined="2014-03-06"/>
+    <cosponsor thomas_id="01588" joined="2014-07-11"/>
+    <cosponsor thomas_id="01818" joined="2014-05-30"/>
+    <cosponsor thomas_id="02110" joined="2014-03-06"/>
+    <cosponsor thomas_id="01151" joined="2014-03-05"/>
+    <cosponsor thomas_id="01593" joined="2014-03-06"/>
+    <cosponsor thomas_id="01940" joined="2014-03-06"/>
+    <cosponsor thomas_id="02112" joined="2014-02-11"/>
+    <cosponsor thomas_id="02166" joined="2014-06-18"/>
+    <cosponsor thomas_id="01205" joined="2014-02-26"/>
+    <cosponsor thomas_id="01209" joined="2014-03-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-02-10" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2014-03-20">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Law enforcement officers"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>2/10/2014--Introduced.
+Honoring Our Fallen TSA Officers Act - Amends the Omnibus Crime Control and Safe Streets Act of 1968 to include within the definition of "public safety officers," in order for them to receive death benefits under the Act, Transportation Security Administration (TSA) employees who are performing their official duties related to protecting the nation's transportation systems.</summary>
+</bill>

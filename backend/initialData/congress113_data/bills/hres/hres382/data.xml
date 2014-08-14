@@ -1,0 +1,41 @@
+<bill session="113" type="hr" number="382" updated="2014-08-14T12:47:53-04:00">
+  <state datetime="2013-10-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-10-14"/>
+  </status>
+  <introduced datetime="2013-10-14"/>
+  <titles>
+    <title type="official" as="introduced">Supporting the goals and ideals of Red Ribbon Week, October 23, 2013 through October 31, 2013.</title>
+  </titles>
+  <sponsor thomas_id="01909"/>
+  <cosponsors>
+    <cosponsor thomas_id="01728" joined="2013-10-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-10-14" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-10-18">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="sr" session="113" relation="unknown" number="279"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Child health"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Health promotion and preventive care"/>
+  </subjects>
+  <amendments/>
+  <summary>10/14/2013--Introduced.
+Expresses support for the goals and ideals of Red Ribbon Week.
+
+Encourages: (1) children and teens to choose to live drug-free lives, and (2) people in the United States to promote drug-free communities and to participate in drug prevention activities.</summary>
+</bill>

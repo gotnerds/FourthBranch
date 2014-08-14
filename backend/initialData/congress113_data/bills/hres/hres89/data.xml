@@ -1,0 +1,146 @@
+<bill session="113" type="hr" number="89" updated="2014-08-14T12:45:24-04:00">
+  <state datetime="2013-02-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-28"/>
+  </status>
+  <introduced datetime="2013-02-28"/>
+  <titles>
+    <title type="official" as="introduced">Condemning the attack on Iranian dissidents living at Camp Hurriya, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01802"/>
+  <cosponsors>
+    <cosponsor thomas_id="00021" joined="2013-06-05"/>
+    <cosponsor thomas_id="01858" joined="2013-06-05"/>
+    <cosponsor thomas_id="00038" joined="2013-09-11"/>
+    <cosponsor thomas_id="01996" joined="2013-03-15"/>
+    <cosponsor thomas_id="02102" joined="2013-06-12"/>
+    <cosponsor thomas_id="00091" joined="2013-03-15"/>
+    <cosponsor thomas_id="01748" joined="2013-05-15"/>
+    <cosponsor thomas_id="01468" joined="2013-03-20"/>
+    <cosponsor thomas_id="00132" joined="2013-05-15"/>
+    <cosponsor thomas_id="01751" joined="2013-04-10"/>
+    <cosponsor thomas_id="01564" joined="2013-04-10"/>
+    <cosponsor thomas_id="01752" joined="2013-04-24"/>
+    <cosponsor thomas_id="01474" joined="2013-03-12"/>
+    <cosponsor thomas_id="01970" joined="2013-04-10"/>
+    <cosponsor thomas_id="01654" joined="2013-02-28"/>
+    <cosponsor thomas_id="01790" joined="2013-03-20"/>
+    <cosponsor thomas_id="01912" joined="2013-02-28"/>
+    <cosponsor thomas_id="01878" joined="2013-02-28"/>
+    <cosponsor thomas_id="02121" joined="2013-05-15"/>
+    <cosponsor thomas_id="02103" joined="2013-04-10"/>
+    <cosponsor thomas_id="02098" joined="2013-02-28"/>
+    <cosponsor thomas_id="02144" joined="2013-05-15"/>
+    <cosponsor thomas_id="01670" joined="2013-05-22"/>
+    <cosponsor thomas_id="01477" joined="2013-05-15"/>
+    <cosponsor thomas_id="01641" joined="2013-05-15"/>
+    <cosponsor thomas_id="02133" joined="2013-05-22"/>
+    <cosponsor thomas_id="01717" joined="2013-02-28"/>
+    <cosponsor thomas_id="02125" joined="2013-05-15"/>
+    <cosponsor thomas_id="00355" joined="2013-06-05"/>
+    <cosponsor thomas_id="00367" joined="2013-02-28"/>
+    <cosponsor thomas_id="01707" joined="2013-03-20"/>
+    <cosponsor thomas_id="01737" joined="2013-04-24"/>
+    <cosponsor thomas_id="01720" joined="2013-04-24"/>
+    <cosponsor thomas_id="01801" joined="2013-03-20"/>
+    <cosponsor thomas_id="01992" joined="2013-04-10"/>
+    <cosponsor thomas_id="01656" joined="2013-04-24"/>
+    <cosponsor thomas_id="01803" joined="2013-04-24"/>
+    <cosponsor thomas_id="00462" joined="2013-04-24"/>
+    <cosponsor thomas_id="01708" joined="2013-04-24"/>
+    <cosponsor thomas_id="01922" joined="2013-05-15"/>
+    <cosponsor thomas_id="00484" joined="2013-04-10"/>
+    <cosponsor thomas_id="02026" joined="2013-03-15"/>
+    <cosponsor thomas_id="00511" joined="2013-05-15"/>
+    <cosponsor thomas_id="01794" joined="2013-02-28"/>
+    <cosponsor thomas_id="01580" joined="2013-06-04"/>
+    <cosponsor thomas_id="01634" joined="2013-07-08"/>
+    <cosponsor thomas_id="01640" joined="2013-03-15"/>
+    <cosponsor thomas_id="00588" joined="2013-03-15"/>
+    <cosponsor thomas_id="01921" joined="2013-05-15"/>
+    <cosponsor thomas_id="01843" joined="2013-03-12"/>
+    <cosponsor thomas_id="00603" joined="2013-05-22"/>
+    <cosponsor thomas_id="00636" joined="2013-03-15"/>
+    <cosponsor thomas_id="02014" joined="2013-06-12"/>
+    <cosponsor thomas_id="01936" joined="2013-05-15"/>
+    <cosponsor thomas_id="00666" joined="2013-07-18"/>
+    <cosponsor thomas_id="00688" joined="2013-03-12"/>
+    <cosponsor thomas_id="00699" joined="2013-06-05"/>
+    <cosponsor thomas_id="02033" joined="2013-05-15"/>
+    <cosponsor thomas_id="02111" joined="2013-06-04"/>
+    <cosponsor thomas_id="01931" joined="2013-05-23"/>
+    <cosponsor thomas_id="01943" joined="2013-07-08"/>
+    <cosponsor thomas_id="00729" joined="2013-06-12"/>
+    <cosponsor thomas_id="01806" joined="2013-04-10"/>
+    <cosponsor thomas_id="00735" joined="2013-04-10"/>
+    <cosponsor thomas_id="01814" joined="2013-07-08"/>
+    <cosponsor thomas_id="01908" joined="2013-02-28"/>
+    <cosponsor thomas_id="01505" joined="2013-05-15"/>
+    <cosponsor thomas_id="01758" joined="2013-04-10"/>
+    <cosponsor thomas_id="00868" joined="2013-04-24"/>
+    <cosponsor thomas_id="01955" joined="2013-03-20"/>
+    <cosponsor thomas_id="02097" joined="2013-05-15"/>
+    <cosponsor thomas_id="01738" joined="2013-03-20"/>
+    <cosponsor thomas_id="01929" joined="2013-07-08"/>
+    <cosponsor thomas_id="00910" joined="2013-07-08"/>
+    <cosponsor thomas_id="00912" joined="2013-07-08"/>
+    <cosponsor thomas_id="02022" joined="2013-05-15"/>
+    <cosponsor thomas_id="00930" joined="2013-06-04"/>
+    <cosponsor thomas_id="01778" joined="2013-04-10"/>
+    <cosponsor thomas_id="01967" joined="2013-06-04"/>
+    <cosponsor thomas_id="02118" joined="2013-04-24"/>
+    <cosponsor thomas_id="00979" joined="2013-02-28"/>
+    <cosponsor thomas_id="00985" joined="2013-02-28"/>
+    <cosponsor thomas_id="02109" joined="2013-03-12"/>
+    <cosponsor thomas_id="02039" joined="2013-06-04"/>
+    <cosponsor thomas_id="01003" joined="2013-04-10"/>
+    <cosponsor thomas_id="01522" joined="2013-05-15"/>
+    <cosponsor thomas_id="02124" joined="2013-05-15"/>
+    <cosponsor thomas_id="01920" joined="2013-03-14"/>
+    <cosponsor thomas_id="02009" joined="2013-03-12"/>
+    <cosponsor thomas_id="01722" joined="2013-02-28"/>
+    <cosponsor thomas_id="01526" joined="2013-02-28"/>
+    <cosponsor thomas_id="02099" joined="2013-04-10"/>
+    <cosponsor thomas_id="01818" joined="2013-04-10"/>
+    <cosponsor thomas_id="01071" joined="2013-05-15"/>
+    <cosponsor thomas_id="01114" joined="2013-04-24"/>
+    <cosponsor thomas_id="02112" joined="2013-04-10"/>
+    <cosponsor thomas_id="02161" joined="2013-03-12"/>
+    <cosponsor thomas_id="01779" joined="2013-02-28"/>
+    <cosponsor thomas_id="02004" joined="2013-05-03"/>
+    <cosponsor thomas_id="01688" joined="2013-03-12"/>
+    <cosponsor thomas_id="01256" joined="2013-04-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-28" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2013-03-15">
+      <text>Referred to the Subcommittee on Middle East and North Africa.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee subcommittee="Middle East and North Africa" code="HSFA13" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Human rights"/>
+    <term name="International law and treaties"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Iran"/>
+    <term name="Iraq"/>
+    <term name="Middle East"/>
+    <term name="Refugees, asylum, displaced persons"/>
+    <term name="Terrorism"/>
+    <term name="United Nations"/>
+  </subjects>
+  <amendments/>
+  <summary>2/28/2013--Introduced.
+Condemns the attack against the residents of Camp Hurriya in Iraq.
+
+Calls on the President to work with Iraq to ensure that the December 25, 2011, Memorandum of Understanding on the temporary relocation and eventual resettlement of the residents of Camp Ashraf is fully implemented and that humanitarian protections for such residents are upheld.
+
+Urges the President to work with Iraq and the United Nations High Commissioner for Refugees to return the residents of Camp Hurriya to Camp Ashraf where they will have more protection from any future terrorist attacks.</summary>
+</bill>

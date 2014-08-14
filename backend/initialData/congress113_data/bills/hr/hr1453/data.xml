@@ -1,0 +1,57 @@
+<bill session="113" type="h" number="1453" updated="2014-08-14T13:03:04-04:00">
+  <state datetime="2013-04-09">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-09"/>
+  </status>
+  <introduced datetime="2013-04-09"/>
+  <titles>
+    <title type="short" as="introduced">Work-Study for Student Veterans Act</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to extend the authority to provide work-study allowance for certain activities by individuals receiving educational assistance by the Secretary of Veterans Affairs.</title>
+  </titles>
+  <sponsor thomas_id="02110"/>
+  <cosponsors>
+    <cosponsor thomas_id="00165" joined="2013-04-26"/>
+    <cosponsor thomas_id="02107" joined="2013-04-26"/>
+    <cosponsor thomas_id="01878" joined="2013-05-21"/>
+    <cosponsor thomas_id="01641" joined="2013-07-23"/>
+    <cosponsor thomas_id="02065" joined="2013-04-09"/>
+    <cosponsor thomas_id="01909" joined="2013-04-09"/>
+    <cosponsor thomas_id="02150" joined="2013-11-13"/>
+    <cosponsor thomas_id="02162" joined="2013-05-07"/>
+    <cosponsor thomas_id="01861" joined="2013-05-07"/>
+    <cosponsor thomas_id="02099" joined="2013-06-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-09" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-04-10">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+    </action>
+    <action datetime="2013-04-10">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2013-04-25">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2013-04-25">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee subcommittee="Economic Opportunity" code="HSVR10" name="House Veterans' Affairs" activity="Referral, Hearings, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Cemeteries and funerals"/>
+    <term name="Hospital care"/>
+    <term name="Long-term, rehabilitative, and terminal care"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>4/9/2013--Introduced.
+Work-Study for Student Veterans Act - Reauthorizes through June 30, 2018 (under current law, the authorization expires as of June 30, 2013) certain qualifying work-study activities for individuals receiving educational assistance through the Department of Veterans Affairs (VA).</summary>
+</bill>

@@ -1,0 +1,102 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-18", 
+      "committees": [
+        "HSVR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Veterans' Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-06-27", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4898-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "03"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "5", 
+      "name": "Salmon, Matt", 
+      "sponsored_at": "2014-06-18", 
+      "state": "AZ", 
+      "thomas_id": "01009", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-06-18", 
+  "number": "4898", 
+  "official_title": "To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to provide hospital care and medical services in non-Department facilities for veterans waiting longer than 14 days for an appointment in a Department facility, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Access to Veteran-Centered Community Care Act", 
+  "sponsor": {
+    "district": "9", 
+    "name": "Sinema, Kyrsten", 
+    "state": "AZ", 
+    "thomas_id": "02099", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-06-18", 
+  "subjects": [
+    "Armed forces and national security", 
+    "Health care coverage and access", 
+    "Hospital care", 
+    "Public contracts and procurement", 
+    "Veterans' medical care"
+  ], 
+  "subjects_top_term": "Armed forces and national security", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Access to Veteran-Centered Community Care Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to provide hospital care and medical services in non-Department facilities for veterans waiting longer than 14 days for an appointment in a Department facility, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T13:33:14-04:00"
+}

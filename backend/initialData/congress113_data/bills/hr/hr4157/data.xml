@@ -1,0 +1,85 @@
+<bill session="113" type="h" number="4157" updated="2014-08-14T13:26:52-04:00">
+  <state datetime="2014-03-06">REFERRED</state>
+  <status>
+    <introduced datetime="2014-03-06"/>
+  </status>
+  <introduced datetime="2014-03-06"/>
+  <titles>
+    <title type="short" as="introduced">Farmer Identity Protection Act</title>
+    <title type="official" as="introduced">To protect the information of livestock producers, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01989"/>
+  <cosponsors>
+    <cosponsor thomas_id="02027" joined="2014-04-07"/>
+    <cosponsor thomas_id="02151" joined="2014-04-01"/>
+    <cosponsor thomas_id="01774" joined="2014-03-06"/>
+    <cosponsor thomas_id="01995" joined="2014-03-11"/>
+    <cosponsor thomas_id="01656" joined="2014-04-30"/>
+    <cosponsor thomas_id="01990" joined="2014-03-11"/>
+    <cosponsor thomas_id="02020" joined="2014-03-12"/>
+    <cosponsor thomas_id="02100" joined="2014-03-11"/>
+    <cosponsor thomas_id="00666" joined="2014-04-29"/>
+    <cosponsor thomas_id="01505" joined="2014-03-06"/>
+    <cosponsor thomas_id="01758" joined="2014-03-27"/>
+    <cosponsor thomas_id="01590" joined="2014-03-12"/>
+    <cosponsor thomas_id="01566" joined="2014-03-06"/>
+    <cosponsor thomas_id="01855" joined="2014-04-09"/>
+    <cosponsor thomas_id="02115" joined="2014-03-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-03-06" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Transportation and Infrastructure, Agriculture, and Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-03-06">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2014-03-06">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2014-03-06">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2014-03-06">
+      <text>Referred to House Science, Space, and Technology</text>
+    </action>
+    <action datetime="2014-03-07">
+      <text>Referred to the Subcommittee on Environment and the Economy.</text>
+    </action>
+    <action datetime="2014-03-07">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+    <action datetime="2014-03-11">
+      <text>Referred to the Subcommittee on Environment.</text>
+    </action>
+    <action datetime="2014-04-01">
+      <text>Referred to the Subcommittee on Livestock, Rural Development, and Credit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Environment and the Economy" code="HSIF18" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Water Resources and Environment" code="HSPW02" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="" code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee subcommittee="Livestock, Rural Development, and Credit" code="HSAG29" name="House Agriculture" activity="Referral"/>
+    <committee subcommittee="" code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+    <committee subcommittee="Environment" code="HSSY18" name="House Science, Space, and Technology" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1343"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Agricultural conservation and pollution"/>
+    <term name="Government information and archives"/>
+    <term name="Licensing and registrations"/>
+    <term name="Livestock"/>
+    <term name="Right of privacy"/>
+    <term name="Water quality"/>
+  </subjects>
+  <amendments/>
+  <summary>3/6/2014--Introduced.
+Farmer Identity Protection Act - Prohibits the Environmental Protection Agency (EPA), or any EPA contractor or cooperator, from disclosing the information of any owner, operator, or employee of a livestock operation provided to EPA by a livestock producer or a state agency in accordance with the Federal Water Pollution Control Act (commonly known as the Clean Water Act) or any other law, including: (1) names; (2) telephone numbers; (3) e-mail addresses; (4) physical addresses; (5) global positioning system coordinates; or (6) other information regarding the location of the owner, operator, livestock, or employee.
+
+Prescribes criteria for such a disclosure, however, in a statistical or aggregate form without specifically identifying information.</summary>
+</bill>

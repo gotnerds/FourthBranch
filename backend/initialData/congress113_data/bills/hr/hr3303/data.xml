@@ -1,0 +1,90 @@
+<bill session="113" type="h" number="3303" updated="2014-08-14T13:19:35-04:00">
+  <state datetime="2013-10-22">REFERRED</state>
+  <status>
+    <introduced datetime="2013-10-22"/>
+  </status>
+  <introduced datetime="2013-10-22"/>
+  <titles>
+    <title type="short" as="introduced">Sensible Oversight for Technology which Advances Regulatory Efficiency Act of 2013</title>
+    <title type="short" as="introduced">SOFTWARE Act of 2013</title>
+    <title type="official" as="introduced">To amend the Federal Food, Drug, and Cosmetic Act to provide for regulating medical software, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01748"/>
+  <cosponsors>
+    <cosponsor thomas_id="02102" joined="2013-12-03"/>
+    <cosponsor thomas_id="01838" joined="2013-11-19"/>
+    <cosponsor thomas_id="01751" joined="2013-11-14"/>
+    <cosponsor thomas_id="01761" joined="2013-10-22"/>
+    <cosponsor thomas_id="02151" joined="2014-02-04"/>
+    <cosponsor thomas_id="01479" joined="2013-10-22"/>
+    <cosponsor thomas_id="02036" joined="2013-11-20"/>
+    <cosponsor thomas_id="02064" joined="2013-11-21"/>
+    <cosponsor thomas_id="01998" joined="2013-11-21"/>
+    <cosponsor thomas_id="01720" joined="2013-10-22"/>
+    <cosponsor thomas_id="00462" joined="2013-10-22"/>
+    <cosponsor thomas_id="02070" joined="2013-12-12"/>
+    <cosponsor thomas_id="01922" joined="2014-01-28"/>
+    <cosponsor thomas_id="02044" joined="2013-12-19"/>
+    <cosponsor thomas_id="02170" joined="2014-06-30"/>
+    <cosponsor thomas_id="02040" joined="2014-06-20"/>
+    <cosponsor thomas_id="02071" joined="2014-06-10"/>
+    <cosponsor thomas_id="02149" joined="2014-05-20"/>
+    <cosponsor thomas_id="01921" joined="2014-04-01"/>
+    <cosponsor thomas_id="02046" joined="2014-01-27"/>
+    <cosponsor thomas_id="02169" joined="2014-01-14"/>
+    <cosponsor thomas_id="01885" joined="2013-11-20"/>
+    <cosponsor thomas_id="00709" joined="2014-04-28"/>
+    <cosponsor thomas_id="01671" joined="2014-01-09"/>
+    <cosponsor thomas_id="02074" joined="2013-12-02"/>
+    <cosponsor thomas_id="01955" joined="2014-03-24"/>
+    <cosponsor thomas_id="02113" joined="2014-05-23"/>
+    <cosponsor thomas_id="00944" joined="2014-03-24"/>
+    <cosponsor thomas_id="01954" joined="2014-03-04"/>
+    <cosponsor thomas_id="02003" joined="2014-04-01"/>
+    <cosponsor thomas_id="01920" joined="2014-07-29"/>
+    <cosponsor thomas_id="02009" joined="2014-05-20"/>
+    <cosponsor thomas_id="02104" joined="2014-01-28"/>
+    <cosponsor thomas_id="01664" joined="2014-02-05"/>
+    <cosponsor thomas_id="01884" joined="2013-12-05"/>
+    <cosponsor thomas_id="02112" joined="2013-11-15"/>
+    <cosponsor thomas_id="01596" joined="2013-10-22"/>
+    <cosponsor thomas_id="01779" joined="2013-11-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-10-22" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-10-25">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Computers and information technology"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Drug safety, medical device, and laboratory regulation"/>
+    <term name="Food and Drug Administration (FDA)"/>
+    <term name="Health care quality"/>
+    <term name="Health information and medical records"/>
+    <term name="Health technology, devices, supplies"/>
+  </subjects>
+  <amendments/>
+  <summary>10/22/2013--Introduced.
+Sensible Oversight for Technology which Advances Regulatory Efficiency Act of 2013 or the SOFTWARE Act of 2013 - Amends the Federal Food, Drug, and Cosmetic Act (FDCA) to apply it to medical software to the same extent and in the same manner as it applies to devices. Defines "medical software" as software that is intended to be marketed:
+
+ to directly change the structure or any function of the body of man or other animals; or for use by consumers and makes recommendations for clinical action that includes the use of a drug, device, or procedure to cure or treat a disease or other condition without requiring the involvement of a health care provider and which, if followed, would change the structure or any function of the body of man or other animals. Excludes from such definition software whose primary purpose is integral to the functioning of a drug or device and is not a component of a device. Excludes clinical software and health software (defined as follows) from FDCA regulation.
+
+Defines "clinical software" as software that: (1) captures, analyzes, changes, or presents patient or population clinical data or information and may recommend courses of clinical action, but does not directly change the structure or any function of the body of man or other animals; and (2) is intended for use only by a health care provider in a health care setting.
+
+Defines "health software" as software that is not medical software or clinical software and that: (1) captures, analyzes, changes, or presents patient or population clinical data or information or supports administrative or operational aspects of health care and is not used in the direct delivery of care; or (2) has as its primary purpose to act as a platform for a secondary software, to run or act as a mechanism for connectivity, or to store data.
+
+Expresses the sense of Congress concerning the value of clinical software and health software to health care quality and efficacy and the need for legislation that establishes a risk-based regulatory framework that reduces regulatory burdens, promotes patient safety, and fosters innovation.
+
+Excludes medical software, clinical software, and health software from the FDCA definition of "device."</summary>
+</bill>

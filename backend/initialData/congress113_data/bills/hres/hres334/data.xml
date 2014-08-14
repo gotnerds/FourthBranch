@@ -1,0 +1,64 @@
+<bill session="113" type="hr" number="334" updated="2014-08-14T12:47:29-04:00">
+  <state datetime="2013-08-02">REFERRED</state>
+  <status>
+    <introduced datetime="2013-08-02"/>
+  </status>
+  <introduced datetime="2013-08-02"/>
+  <titles>
+    <title type="official" as="introduced">Condemning the attack that occurred at the Oak Creek Sikh Gurdwara on August 5, 2012, and honoring the memory of those who died in the attack.</title>
+  </titles>
+  <sponsor thomas_id="02105"/>
+  <cosponsors>
+    <cosponsor thomas_id="02102" joined="2013-08-02"/>
+    <cosponsor thomas_id="01970" joined="2013-08-02"/>
+    <cosponsor thomas_id="00229" joined="2013-08-02"/>
+    <cosponsor thomas_id="01774" joined="2013-08-02"/>
+    <cosponsor thomas_id="01973" joined="2013-08-02"/>
+    <cosponsor thomas_id="01708" joined="2013-08-02"/>
+    <cosponsor thomas_id="01580" joined="2013-08-02"/>
+    <cosponsor thomas_id="01634" joined="2013-08-02"/>
+    <cosponsor thomas_id="01498" joined="2013-08-02"/>
+    <cosponsor thomas_id="02100" joined="2013-08-02"/>
+    <cosponsor thomas_id="01501" joined="2013-08-02"/>
+    <cosponsor thomas_id="00701" joined="2013-08-02"/>
+    <cosponsor thomas_id="01814" joined="2013-08-02"/>
+    <cosponsor thomas_id="01832" joined="2013-08-02"/>
+    <cosponsor thomas_id="01710" joined="2013-08-02"/>
+    <cosponsor thomas_id="00912" joined="2013-08-02"/>
+    <cosponsor thomas_id="02073" joined="2013-08-02"/>
+    <cosponsor thomas_id="00985" joined="2013-08-02"/>
+    <cosponsor thomas_id="01560" joined="2013-08-02"/>
+    <cosponsor thomas_id="01588" joined="2013-08-02"/>
+    <cosponsor thomas_id="01041" joined="2013-08-02"/>
+    <cosponsor thomas_id="02110" joined="2013-08-02"/>
+    <cosponsor thomas_id="01729" joined="2013-08-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-08-02" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="113" relation="identical" number="698"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Congressional tributes"/>
+    <term name="First responders and emergency personnel"/>
+    <term name="Law enforcement officers"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="Religion"/>
+    <term name="Violent crime"/>
+    <term name="Wisconsin"/>
+  </subjects>
+  <amendments/>
+  <summary>8/2/2013--Introduced.
+Condemns: (1) the attack that occurred at the Sikh Temple of Wisconsin on August 5, 2012; and (2) intolerance, including religious and racial discrimination, and calls for continued vigilance against violence.
+
+Honors the memory of Suveg Singh Khattra, Satwant Singh Kaleka, Ranjit Singh, Sita Singh, Paramjit Kaur, and Prakash Singh, who died in the attack.
+
+Applauds the bravery of Lieutenant Brian Murphy and other first responders who prevented the gunman from taking more lives and treated wounded individuals.</summary>
+</bill>

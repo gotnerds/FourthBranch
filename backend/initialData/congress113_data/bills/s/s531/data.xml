@@ -1,0 +1,49 @@
+<bill session="113" type="s" number="531" updated="2014-08-14T13:49:14-04:00">
+  <state datetime="2014-07-23">REPORTED</state>
+  <status>
+    <unknown datetime="2014-07-23"/>
+  </status>
+  <introduced datetime="2013-03-12"/>
+  <titles>
+    <title type="short" as="introduced">Physical Activity Guidelines for Americans Act</title>
+    <title type="official" as="introduced">A bill to provide for the publication by the Secretary of Human Services of physical activity guidelines for Americans.</title>
+  </titles>
+  <sponsor thomas_id="00501"/>
+  <cosponsors>
+    <cosponsor thomas_id="02075" joined="2014-07-29"/>
+    <cosponsor thomas_id="01226" joined="2013-03-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+    <calendar datetime="2014-07-23" state="REPORTED">
+      <text>Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="2014-07-23">
+      <text>Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute and an amendment to the title. Without written report.</text>
+    </action>
+    <calendar datetime="2014-07-23" calendar="Senate Legislative" under="General Orders" number="479">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 479.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, Markup, Reporting, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="2179"/>
+    <bill type="s" session="113" relation="unknown" number="39"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Child health"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Government information and archives"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Physical fitness and lifestyle"/>
+  </subjects>
+  <amendments/>
+  <summary>3/12/2013--Introduced.
+Physical Activity Guidelines for Americans Act - Requires the Secretary of Health and Human Services (HHS) to publish a "Physical Activity Guidelines for Americans" report at least every 10 years that contains physical activity information and guidelines for the general public, based on the preponderance of current scientific and medical knowledge, and including guidelines for identified population subgroups, as needed. Requires any federal agency that proposes to issue any physical activity guidance for the general population or identified subgroups to submit the text of the guidance to the Secretary for review. Prescribes review procedures.</summary>
+</bill>

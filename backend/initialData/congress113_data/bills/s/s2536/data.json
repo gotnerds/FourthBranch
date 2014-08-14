@@ -1,0 +1,101 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-26", 
+      "committees": [
+        "SSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2536-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Feinstein, Dianne", 
+      "sponsored_at": "2014-06-26", 
+      "state": "CA", 
+      "thomas_id": "01332", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-06-26", 
+  "number": "2536", 
+  "official_title": "A bill to amend title 18, United States Code, to provide for enhanced criminal and civil remedies in the protection of children and other victims of commercial sexual exploitation and related crimes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "SAVE Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Kirk, Mark Steven", 
+    "state": "IL", 
+    "thomas_id": "01647", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-06-26", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Business records", 
+    "Child safety and welfare", 
+    "Civil actions and liability", 
+    "Crime and law enforcement", 
+    "Crime victims", 
+    "Crimes against children", 
+    "Department of Justice", 
+    "Domestic violence and child abuse", 
+    "Fraud offenses and financial crimes", 
+    "Internet and video services", 
+    "Marketing and advertising", 
+    "Pornography", 
+    "Sex offenses"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "SAVE Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Stop Advertising Victims of Exploitation Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to amend title 18, United States Code, to provide for enhanced criminal and civil remedies in the protection of children and other victims of commercial sexual exploitation and related crimes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T14:06:26-04:00"
+}

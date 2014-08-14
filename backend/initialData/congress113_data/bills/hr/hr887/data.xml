@@ -1,0 +1,55 @@
+<bill session="113" type="h" number="887" updated="2014-08-14T12:58:16-04:00">
+  <state datetime="2013-02-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-28"/>
+  </status>
+  <introduced datetime="2013-02-28"/>
+  <titles>
+    <title type="short" as="introduced">EDA Elimination Act of 2013</title>
+    <title type="official" as="introduced">To terminate the Economic Development Administration, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02022"/>
+  <cosponsors>
+    <cosponsor thomas_id="02029" joined="2013-02-28"/>
+    <cosponsor thomas_id="02135" joined="2013-02-28"/>
+    <cosponsor thomas_id="00186" joined="2013-02-28"/>
+    <cosponsor thomas_id="01733" joined="2013-02-28"/>
+    <cosponsor thomas_id="01834" joined="2013-02-28"/>
+    <cosponsor thomas_id="01908" joined="2013-02-28"/>
+    <cosponsor thomas_id="01892" joined="2013-02-28"/>
+    <cosponsor thomas_id="01779" joined="2013-02-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-28" state="REFERRED">
+      <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-02-28">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2013-02-28">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2013-03-01">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+    <committee subcommittee="Economic Development, Public Buildings and Emergency Management" code="HSPW13" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Department of Commerce"/>
+    <term name="Economic development"/>
+    <term name="Executive agency funding and structure"/>
+  </subjects>
+  <amendments/>
+  <summary>2/28/2013--Introduced.
+EDA Elimination Act of 2013 - Terminates the Economic Development Administration (EDA).
+
+Repeals the Public Works and Economic Development Act of 1965.
+
+Direct the Secretary of Commerce to take such actions as necessary and appropriate to conclude the outstanding affairs of the EDA, including dispositions of personnel, assets, and obligations.</summary>
+</bill>

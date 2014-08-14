@@ -1,0 +1,35 @@
+<bill session="113" type="h" number="5050" updated="2014-08-14T13:34:35-04:00">
+  <state datetime="2014-07-09">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-09"/>
+  </status>
+  <introduced datetime="2014-07-09"/>
+  <titles>
+    <title type="short" as="introduced">May 31, 1918 Act Repeal Act</title>
+    <title type="official" as="introduced">To repeal the Act of May 31, 1918, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01590"/>
+  <cosponsors>
+    <cosponsor thomas_id="01653" joined="2014-07-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-09" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2014-07-15">
+      <text>Referred to the Subcommittee Indian and Alaska Native Affairs.</text>
+    </action>
+    <action datetime="2014-07-29">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Indian and Alaska Native Affairs" code="HSII24" name="House Natural Resources" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2041"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

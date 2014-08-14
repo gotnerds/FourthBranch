@@ -1,0 +1,27 @@
+<bill session="113" type="h" number="5270" updated="2014-08-14T13:36:28-04:00">
+  <state datetime="2014-07-30">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-30"/>
+  </status>
+  <introduced datetime="2014-07-30"/>
+  <titles>
+    <title type="short" as="introduced">Growing American Shipping Act of 2014</title>
+    <title type="official" as="introduced">To promote the transportation of liquified natural gas from the United States on United States flag vessels, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01973"/>
+  <cosponsors>
+    <cosponsor thomas_id="00462" joined="2014-07-31"/>
+    <cosponsor thomas_id="01909" joined="2014-07-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-30" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

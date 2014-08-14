@@ -1,0 +1,62 @@
+<bill session="113" type="h" number="4016" updated="2014-08-14T13:25:41-04:00">
+  <state datetime="2014-02-06">REFERRED</state>
+  <status>
+    <introduced datetime="2014-02-06"/>
+  </status>
+  <introduced datetime="2014-02-06"/>
+  <titles>
+    <title type="short" as="introduced">Quality Foster Care Services Act of 2014</title>
+    <title type="official" as="introduced">To amend title XIX of the Social Security Act to provide a standard definition of therapeutic foster care services in Medicaid.</title>
+  </titles>
+  <sponsor thomas_id="00281"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2014-02-06"/>
+    <cosponsor thomas_id="01761" joined="2014-02-06"/>
+    <cosponsor thomas_id="01471" joined="2014-03-24"/>
+    <cosponsor thomas_id="01864" joined="2014-03-11"/>
+    <cosponsor thomas_id="01878" joined="2014-05-01"/>
+    <cosponsor thomas_id="01742" joined="2014-02-06"/>
+    <cosponsor thomas_id="00229" joined="2014-03-24"/>
+    <cosponsor thomas_id="02133" joined="2014-07-29"/>
+    <cosponsor thomas_id="00462" joined="2014-03-04"/>
+    <cosponsor thomas_id="00511" joined="2014-03-24"/>
+    <cosponsor thomas_id="00588" joined="2014-02-25"/>
+    <cosponsor thomas_id="01668" joined="2014-02-25"/>
+    <cosponsor thomas_id="02146" joined="2014-07-23"/>
+    <cosponsor thomas_id="01814" joined="2014-07-29"/>
+    <cosponsor thomas_id="01730" joined="2014-03-25"/>
+    <cosponsor thomas_id="00868" joined="2014-03-11"/>
+    <cosponsor thomas_id="00997" joined="2014-06-09"/>
+    <cosponsor thomas_id="01722" joined="2014-03-24"/>
+    <cosponsor thomas_id="01069" joined="2014-03-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-02-06" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2014-02-07">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1992"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Adoption and foster care"/>
+    <term name="Child care and development"/>
+    <term name="Child health"/>
+    <term name="Disability and paralysis"/>
+    <term name="Medicaid"/>
+    <term name="Mental health"/>
+  </subjects>
+  <amendments/>
+  <summary>2/6/2014--Introduced.
+Quality Foster Care Services Act of 2014 - Amends title XIX (Medicaid) of the Social Security Act (SSA) to extend medical assistance coverage to therapeutic foster care services.
+
+Requires a qualified therapeutic foster care program to be state-licensed and provide: (1) foster care children under 21 with structured daily activities, including the development of age-appropriate social, communication and behavioral skills, trauma-informed and gender-responsive services, crisis intervention and crisis support services, medication monitoring, counseling, and case management; and (2) foster care parents with specialized training and consultation in the management of children with mental illness, trauma, other emotional or behavioral disorders, medically fragile conditions, or developmental disabilities, and specific additional training on the needs of each child provided such services.</summary>
+</bill>

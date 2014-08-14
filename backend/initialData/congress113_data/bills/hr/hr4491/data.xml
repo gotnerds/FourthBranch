@@ -1,0 +1,60 @@
+<bill session="113" type="h" number="4491" updated="2014-08-14T13:29:41-04:00">
+  <state datetime="2014-04-28">REFERRED</state>
+  <status>
+    <introduced datetime="2014-04-28"/>
+  </status>
+  <introduced datetime="2014-04-28"/>
+  <titles>
+    <title type="short" as="introduced">The Stop Punishing Innocent Taxpayers Act</title>
+    <title type="official" as="introduced">To amend title 31, United States Code, to restore the 10-year statute of limitations applicable to collection of debt by administrative offset.</title>
+  </titles>
+  <sponsor thomas_id="01840"/>
+  <cosponsors>
+    <cosponsor thomas_id="01838" joined="2014-05-08"/>
+    <cosponsor thomas_id="02063" joined="2014-05-08"/>
+    <cosponsor thomas_id="01787" joined="2014-05-08"/>
+    <cosponsor thomas_id="00186" joined="2014-05-08"/>
+    <cosponsor thomas_id="02116" joined="2014-05-22"/>
+    <cosponsor thomas_id="01717" joined="2014-05-08"/>
+    <cosponsor thomas_id="01797" joined="2014-05-22"/>
+    <cosponsor thomas_id="02199" joined="2014-05-07"/>
+    <cosponsor thomas_id="02033" joined="2014-05-07"/>
+    <cosponsor thomas_id="01685" joined="2014-05-08"/>
+    <cosponsor thomas_id="02001" joined="2014-05-07"/>
+    <cosponsor thomas_id="01835" joined="2014-05-01"/>
+    <cosponsor thomas_id="01915" joined="2014-05-01"/>
+    <cosponsor thomas_id="01810" joined="2014-05-07"/>
+    <cosponsor thomas_id="01916" joined="2014-05-08"/>
+    <cosponsor thomas_id="00985" joined="2014-05-08"/>
+    <cosponsor thomas_id="02003" joined="2014-05-07"/>
+    <cosponsor thomas_id="01920" joined="2014-05-08"/>
+    <cosponsor thomas_id="01566" joined="2014-05-08"/>
+    <cosponsor thomas_id="01997" joined="2014-05-07"/>
+    <cosponsor thomas_id="02152" joined="2014-06-24"/>
+    <cosponsor thomas_id="01779" joined="2014-05-07"/>
+    <cosponsor thomas_id="02115" joined="2014-05-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-04-28" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2014-06-09">
+      <text>Referred to the Subcommittee on Regulatory Reform, Commercial And Antitrust Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Regulatory Reform, Commercial And Antitrust Law" code="HSJU05" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="4764"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Civil actions and liability"/>
+    <term name="Judicial procedure and administration"/>
+  </subjects>
+  <amendments/>
+  <summary>4/28/2014--Introduced.
+Stop Punishing Innocent Taxpayers Act -&#160;Prohibits any administrative offset of a claim asserted by the federal government that has been outstanding for more than 10 years.</summary>
+</bill>

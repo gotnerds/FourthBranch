@@ -1,0 +1,81 @@
+<bill session="113" type="h" number="3369" updated="2014-08-14T13:20:10-04:00">
+  <state datetime="2013-10-29">REFERRED</state>
+  <status>
+    <introduced datetime="2013-10-29"/>
+  </status>
+  <introduced datetime="2013-10-29"/>
+  <titles>
+    <title type="short" as="introduced">Hmong Veterans' Service Recognition Act</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to inter in national cemeteries individuals who supported the United States in Laos during the Vietnam War era.</title>
+  </titles>
+  <sponsor thomas_id="01774"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2013-11-13"/>
+    <cosponsor thomas_id="02135" joined="2013-10-29"/>
+    <cosponsor thomas_id="01723" joined="2013-10-29"/>
+    <cosponsor thomas_id="02106" joined="2013-11-18"/>
+    <cosponsor thomas_id="01970" joined="2013-10-29"/>
+    <cosponsor thomas_id="02055" joined="2013-10-29"/>
+    <cosponsor thomas_id="01959" joined="2013-10-29"/>
+    <cosponsor thomas_id="02103" joined="2013-10-29"/>
+    <cosponsor thomas_id="01836" joined="2013-10-29"/>
+    <cosponsor thomas_id="02123" joined="2014-01-10"/>
+    <cosponsor thomas_id="02072" joined="2013-10-29"/>
+    <cosponsor thomas_id="00367" joined="2013-10-29"/>
+    <cosponsor thomas_id="02044" joined="2013-10-29"/>
+    <cosponsor thomas_id="01634" joined="2013-10-29"/>
+    <cosponsor thomas_id="01498" joined="2013-10-29"/>
+    <cosponsor thomas_id="01668" joined="2013-11-21"/>
+    <cosponsor thomas_id="02111" joined="2013-10-29"/>
+    <cosponsor thomas_id="00766" joined="2013-12-05"/>
+    <cosponsor thomas_id="01832" joined="2013-10-29"/>
+    <cosponsor thomas_id="02148" joined="2013-10-29"/>
+    <cosponsor thomas_id="01811" joined="2013-10-29"/>
+    <cosponsor thomas_id="00832" joined="2014-06-11"/>
+    <cosponsor thomas_id="02108" joined="2013-10-29"/>
+    <cosponsor thomas_id="00868" joined="2013-10-29"/>
+    <cosponsor thomas_id="02162" joined="2013-10-29"/>
+    <cosponsor thomas_id="01835" joined="2014-05-09"/>
+    <cosponsor thomas_id="00910" joined="2013-10-29"/>
+    <cosponsor thomas_id="00912" joined="2013-12-05"/>
+    <cosponsor thomas_id="01953" joined="2013-10-29"/>
+    <cosponsor thomas_id="01802" joined="2013-10-29"/>
+    <cosponsor thomas_id="02073" joined="2013-10-29"/>
+    <cosponsor thomas_id="02023" joined="2013-10-29"/>
+    <cosponsor thomas_id="02109" joined="2013-10-29"/>
+    <cosponsor thomas_id="01635" joined="2013-10-29"/>
+    <cosponsor thomas_id="02110" joined="2013-11-13"/>
+    <cosponsor thomas_id="01593" joined="2014-01-10"/>
+    <cosponsor thomas_id="01940" joined="2013-10-29"/>
+    <cosponsor thomas_id="01879" joined="2013-10-29"/>
+    <cosponsor thomas_id="01238" joined="2013-11-13"/>
+    <cosponsor thomas_id="01256" joined="2014-05-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-10-29" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-11-04">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Disability Assistance and Memorial Affairs" code="HSVR09" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="2337"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Asia"/>
+    <term name="Cemeteries and funerals"/>
+    <term name="Conflicts and wars"/>
+    <term name="Laos"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Vietnam"/>
+  </subjects>
+  <amendments/>
+  <summary>10/29/2013--Introduced.
+Hmong Veterans' Service Recognition Act - Authorizes burial in any open national cemetery under the control of the National Cemetery Administration of the remains of any individual: (1) who was naturalized pursuant to the Hmong Veterans' Naturalization Act of 2000 and who resided in the United States at the time of death; or (2) who the Secretary of Veterans Affairs (VA) determines served with a special guerrilla unit or irregular forces operating from a base in Laos in support of the U.S. Armed Forces between February 28, 1961, and May 7, 1975, and who, at the time of death, resided in the United States and was a U.S. citizen or an alien lawfully admitted for permanent residence.</summary>
+</bill>

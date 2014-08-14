@@ -1,0 +1,110 @@
+<bill session="113" type="s" number="186" updated="2014-08-14T13:46:21-04:00">
+  <state datetime="2013-01-30">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-30"/>
+  </status>
+  <introduced datetime="2013-01-30"/>
+  <titles>
+    <title type="official" as="introduced">A bill to award posthumously a Congressional Gold Medal to Addie Mae Collins, Denise McNair, Carole Robertson, and Cynthia Wesley, in recognition of the 50th anniversary of the bombing of the Sixteenth Street Baptist Church, where the 4 little Black girls lost their lives, which served as a catalyst for the Civil Rights Movement.</title>
+  </titles>
+  <sponsor thomas_id="01049"/>
+  <cosponsors>
+    <cosponsor thomas_id="01695" joined="2013-05-09"/>
+    <cosponsor thomas_id="01898" joined="2013-05-09"/>
+    <cosponsor thomas_id="02076" joined="2013-05-09"/>
+    <cosponsor thomas_id="01464" joined="2013-05-09"/>
+    <cosponsor thomas_id="01687" joined="2013-05-09"/>
+    <cosponsor thomas_id="00116" joined="2013-05-09"/>
+    <cosponsor thomas_id="00136" joined="2013-05-09"/>
+    <cosponsor thomas_id="00153" joined="2013-05-09"/>
+    <cosponsor thomas_id="00172" joined="2013-05-09"/>
+    <cosponsor thomas_id="00179" joined="2013-05-09"/>
+    <cosponsor thomas_id="00188" joined="2013-05-09"/>
+    <cosponsor thomas_id="00209" joined="2013-05-09"/>
+    <cosponsor thomas_id="00212" joined="2013-05-09"/>
+    <cosponsor thomas_id="00213" joined="2013-05-09"/>
+    <cosponsor thomas_id="01541" joined="2013-05-09"/>
+    <cosponsor thomas_id="01825" joined="2013-05-09"/>
+    <cosponsor thomas_id="01692" joined="2013-05-09"/>
+    <cosponsor thomas_id="00250" joined="2013-05-09"/>
+    <cosponsor thomas_id="01542" joined="2013-05-09"/>
+    <cosponsor thomas_id="01332" joined="2013-05-09"/>
+    <cosponsor thomas_id="02179" joined="2013-05-09"/>
+    <cosponsor thomas_id="01633" joined="2013-05-09"/>
+    <cosponsor thomas_id="01866" joined="2013-04-17"/>
+    <cosponsor thomas_id="00452" joined="2013-05-09"/>
+    <cosponsor thomas_id="00457" joined="2013-05-09"/>
+    <cosponsor thomas_id="00501" joined="2013-05-09"/>
+    <cosponsor thomas_id="01351" joined="2013-05-09"/>
+    <cosponsor thomas_id="01937" joined="2013-05-09"/>
+    <cosponsor thomas_id="02174" joined="2013-05-09"/>
+    <cosponsor thomas_id="01863" joined="2013-05-09"/>
+    <cosponsor thomas_id="02079" joined="2013-05-09"/>
+    <cosponsor thomas_id="00583" joined="2013-05-09"/>
+    <cosponsor thomas_id="01608" joined="2013-05-09"/>
+    <cosponsor thomas_id="01899" joined="2013-05-09"/>
+    <cosponsor thomas_id="00604" joined="2013-05-09"/>
+    <cosponsor thomas_id="02176" joined="2013-05-09"/>
+    <cosponsor thomas_id="02185" joined="2013-05-09"/>
+    <cosponsor thomas_id="01647" joined="2013-05-09"/>
+    <cosponsor thomas_id="01826" joined="2013-05-09"/>
+    <cosponsor thomas_id="01546" joined="2013-05-09"/>
+    <cosponsor thomas_id="01383" joined="2013-05-13"/>
+    <cosponsor thomas_id="01384" joined="2013-06-03"/>
+    <cosponsor thomas_id="01983" joined="2013-05-09"/>
+    <cosponsor thomas_id="00754" joined="2013-05-09"/>
+    <cosponsor thomas_id="01820" joined="2013-05-09"/>
+    <cosponsor thomas_id="01395" joined="2013-05-09"/>
+    <cosponsor thomas_id="01900" joined="2013-05-09"/>
+    <cosponsor thomas_id="00802" joined="2013-02-27"/>
+    <cosponsor thomas_id="01507" joined="2013-05-09"/>
+    <cosponsor thomas_id="01694" joined="2013-05-09"/>
+    <cosponsor thomas_id="01837" joined="2013-05-09"/>
+    <cosponsor thomas_id="01409" joined="2013-05-09"/>
+    <cosponsor thomas_id="00859" joined="2013-05-09"/>
+    <cosponsor thomas_id="01701" joined="2013-05-09"/>
+    <cosponsor thomas_id="00949" joined="2013-05-09"/>
+    <cosponsor thomas_id="01896" joined="2013-05-09"/>
+    <cosponsor thomas_id="00968" joined="2013-05-09"/>
+    <cosponsor thomas_id="01010" joined="2013-05-09"/>
+    <cosponsor thomas_id="02173" joined="2013-05-09"/>
+    <cosponsor thomas_id="02056" joined="2013-05-09"/>
+    <cosponsor thomas_id="01548" joined="2013-01-30"/>
+    <cosponsor thomas_id="01901" joined="2013-05-09"/>
+    <cosponsor thomas_id="01531" joined="2013-05-09"/>
+    <cosponsor thomas_id="01829" joined="2013-05-09"/>
+    <cosponsor thomas_id="01534" joined="2013-05-09"/>
+    <cosponsor thomas_id="01609" joined="2013-05-09"/>
+    <cosponsor thomas_id="01897" joined="2013-05-09"/>
+    <cosponsor thomas_id="02182" joined="2013-05-09"/>
+    <cosponsor thomas_id="01823" joined="2013-05-09"/>
+    <cosponsor thomas_id="01226" joined="2013-05-09"/>
+    <cosponsor thomas_id="01247" joined="2013-05-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-30" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="360"/>
+  </relatedbills>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Alabama"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Crime victims"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="U.S. history"/>
+    <term name="Violent crime"/>
+  </subjects>
+  <amendments/>
+  <summary>1/30/2013--Introduced.
+Directs the Speaker of the House of Representatives and the President pro tempore of the Senate to arrange for the presentation of a congressional gold medal to commemorate the lives of Addie Mae Collins, Denise McNair, Carole Robertson, and Cynthia Wesley (children who lost their lives in the September 1963 bombing of the Sixteenth Street Baptist Church in Birmingham, Alabama, an incident recognized as a catalyst for the civil rights movement).
+
+Authorizes the Secretary of the Treasury to strike and sell bronze duplicates of such medals, with amounts received from the sale to be deposited in the U.S. Mint Public Enterprise Fund.</summary>
+</bill>

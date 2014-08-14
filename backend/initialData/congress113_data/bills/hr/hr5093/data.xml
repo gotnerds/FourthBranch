@@ -1,0 +1,24 @@
+<bill session="113" type="h" number="5093" updated="2014-08-14T13:34:57-04:00">
+  <state datetime="2014-07-14">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-14"/>
+  </status>
+  <introduced datetime="2014-07-14"/>
+  <titles>
+    <title type="short" as="introduced">Children's Firearm Marketing Safety Act</title>
+    <title type="official" as="introduced">To direct the Federal Trade Commission to prescribe rules prohibiting the marketing of firearms to children, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02190"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-14" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

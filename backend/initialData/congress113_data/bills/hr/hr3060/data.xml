@@ -1,0 +1,124 @@
+<bill session="113" type="h" number="3060" updated="2014-08-14T13:17:33-04:00">
+  <state datetime="2014-06-09">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2014-06-09"/>
+  </status>
+  <introduced datetime="2013-08-02"/>
+  <titles>
+    <title type="official" as="introduced">To designate the facility of the United States Postal Service located at 232 Southwest Johnson Avenue in Burleson, Texas, as the "Sergeant William Moody Post Office Building".</title>
+  </titles>
+  <sponsor thomas_id="02165"/>
+  <cosponsors>
+    <cosponsor thomas_id="00062" joined="2013-08-02"/>
+    <cosponsor thomas_id="01468" joined="2013-08-02"/>
+    <cosponsor thomas_id="01751" joined="2013-08-02"/>
+    <cosponsor thomas_id="01752" joined="2013-08-02"/>
+    <cosponsor thomas_id="02163" joined="2013-08-02"/>
+    <cosponsor thomas_id="01805" joined="2013-08-02"/>
+    <cosponsor thomas_id="01807" joined="2013-08-02"/>
+    <cosponsor thomas_id="01670" joined="2013-08-02"/>
+    <cosponsor thomas_id="00303" joined="2013-08-02"/>
+    <cosponsor thomas_id="02067" joined="2013-08-02"/>
+    <cosponsor thomas_id="02065" joined="2013-08-02"/>
+    <cosponsor thomas_id="02164" joined="2013-08-02"/>
+    <cosponsor thomas_id="01801" joined="2013-08-02"/>
+    <cosponsor thomas_id="01487" joined="2013-08-02"/>
+    <cosponsor thomas_id="01803" joined="2013-08-02"/>
+    <cosponsor thomas_id="00462" joined="2013-08-02"/>
+    <cosponsor thomas_id="00484" joined="2013-08-02"/>
+    <cosponsor thomas_id="01749" joined="2013-08-02"/>
+    <cosponsor thomas_id="01490" joined="2013-08-02"/>
+    <cosponsor thomas_id="00588" joined="2013-08-02"/>
+    <cosponsor thomas_id="00599" joined="2013-08-02"/>
+    <cosponsor thomas_id="00603" joined="2013-08-02"/>
+    <cosponsor thomas_id="01806" joined="2013-08-02"/>
+    <cosponsor thomas_id="01804" joined="2013-08-02"/>
+    <cosponsor thomas_id="01758" joined="2013-08-02"/>
+    <cosponsor thomas_id="02162" joined="2013-08-02"/>
+    <cosponsor thomas_id="01955" joined="2013-08-02"/>
+    <cosponsor thomas_id="01802" joined="2013-08-02"/>
+    <cosponsor thomas_id="01525" joined="2013-08-02"/>
+    <cosponsor thomas_id="01075" joined="2013-08-02"/>
+    <cosponsor thomas_id="01114" joined="2013-08-02"/>
+    <cosponsor thomas_id="01155" joined="2013-08-02"/>
+    <cosponsor thomas_id="02166" joined="2013-08-02"/>
+    <cosponsor thomas_id="02167" joined="2013-08-02"/>
+    <cosponsor thomas_id="02161" joined="2013-08-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-08-02" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2014-03-12">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-03-12" state="REPORTED">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+    </calendar>
+    <action datetime="2014-03-24T16:13:00-04:00">
+      <text>Mr. Farenthold moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2014-03-24T16:13:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2570-2571" label="consideration"/>
+    </action>
+    <action datetime="2014-03-24T16:13:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3060.</text>
+    </action>
+    <action datetime="2014-03-24T16:22:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2014-03-24T18:31:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H2589-2590" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="136" datetime="2014-03-24T18:58:00-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 398 - 0 (Roll no. 136).</text>
+      <reference ref="CR H2570" label="text"/>
+    </vote>
+    <action datetime="2014-03-25">
+      <text>Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar datetime="2014-05-21">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2014-05-21">
+      <text>Committee on Homeland Security and Governmental Affairs. Reported by Senator Carper without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="2014-05-21" calendar="Senate Legislative" under="General Orders" number="389">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 389.</text>
+    </calendar>
+    <vote how="by Unanimous Consent" type="vote2" datetime="2014-05-21" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S3243" label="consideration"/>
+    </vote>
+    <action datetime="2014-05-22">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2014-05-30">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2014-06-09" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="113-115" type="public" datetime="2014-06-09">
+      <text>Became Public Law No: 113-115.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup"/>
+    <committee subcommittee="" code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Postal service"/>
+    <term name="Texas"/>
+  </subjects>
+  <amendments/>
+  <summary>6/9/2014--Public Law.
+Designates the facility of the United States Postal Service located at 232 Southwest Johnson Avenue in Burleson, Texas, as the "Sergeant William Moody Post Office Building."</summary>
+</bill>

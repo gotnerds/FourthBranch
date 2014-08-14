@@ -1,0 +1,50 @@
+<bill session="113" type="h" number="1488" updated="2014-08-14T13:03:22-04:00">
+  <state datetime="2013-04-11">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-11"/>
+  </status>
+  <introduced datetime="2013-04-11"/>
+  <titles>
+    <title type="short" as="introduced">Recovering Service Members Disability Benefits Act</title>
+    <title type="official" as="introduced">To amend title II of the Social Security Act to provide that the waiting period for disability insurance benefits shall not be applicable in the case of a recovering service member.</title>
+  </titles>
+  <sponsor thomas_id="01952"/>
+  <cosponsors>
+    <cosponsor thomas_id="02093" joined="2013-07-16"/>
+    <cosponsor thomas_id="02054" joined="2013-04-11"/>
+    <cosponsor thomas_id="01753" joined="2013-04-11"/>
+    <cosponsor thomas_id="02159" joined="2013-07-31"/>
+    <cosponsor thomas_id="01490" joined="2013-04-26"/>
+    <cosponsor thomas_id="00612" joined="2013-04-11"/>
+    <cosponsor thomas_id="01846" joined="2013-04-11"/>
+    <cosponsor thomas_id="00868" joined="2013-05-06"/>
+    <cosponsor thomas_id="02034" joined="2013-05-07"/>
+    <cosponsor thomas_id="02068" joined="2013-05-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-11">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H1932"/>
+    </action>
+    <action datetime="2013-04-11" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2013-04-23">
+      <text>Referred to the Subcommittee on Social Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee subcommittee="Social Security" code="HSWM01" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Disability and paralysis"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Social security and elderly assistance"/>
+  </subjects>
+  <amendments/>
+  <summary>4/11/2013--Introduced.
+Recovering Service Members Disability Benefits Act - Amends title II (Old Age, Survivors and Disability Insurance) (OASDI) of the Social Security Act to create an exception from the required waiting period for disability insurance benefits in the case of recovering service members (of the Armed Forces, including a member of the National Guard or a Reserve component, who is undergoing medical treatment, recuperation, or therapy while recovering from a serious bodily injury or physical illness related to the member's military service).</summary>
+</bill>

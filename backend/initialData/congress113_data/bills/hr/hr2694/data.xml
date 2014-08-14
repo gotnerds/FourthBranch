@@ -1,0 +1,95 @@
+<bill session="113" type="h" number="2694" updated="2014-08-14T13:14:26-04:00">
+  <state datetime="2013-07-16">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-16"/>
+  </status>
+  <introduced datetime="2013-07-16"/>
+  <titles>
+    <title type="short" as="introduced">Buy Smarter and Save Act of 2013</title>
+    <title type="official" as="introduced">To promote strategic sourcing principles within the Federal Government.</title>
+  </titles>
+  <sponsor thomas_id="01990"/>
+  <cosponsors>
+    <cosponsor thomas_id="01780" joined="2013-07-17"/>
+    <cosponsor thomas_id="02135" joined="2013-07-17"/>
+    <cosponsor thomas_id="02102" joined="2013-07-17"/>
+    <cosponsor thomas_id="00091" joined="2013-07-17"/>
+    <cosponsor thomas_id="00099" joined="2013-07-17"/>
+    <cosponsor thomas_id="02129" joined="2014-02-03"/>
+    <cosponsor thomas_id="02127" joined="2013-07-17"/>
+    <cosponsor thomas_id="02055" joined="2013-07-17"/>
+    <cosponsor thomas_id="01912" joined="2013-07-17"/>
+    <cosponsor thomas_id="00231" joined="2013-07-17"/>
+    <cosponsor thomas_id="02126" joined="2013-07-17"/>
+    <cosponsor thomas_id="02122" joined="2013-07-17"/>
+    <cosponsor thomas_id="01998" joined="2013-07-18"/>
+    <cosponsor thomas_id="00462" joined="2013-09-19"/>
+    <cosponsor thomas_id="01921" joined="2013-07-17"/>
+    <cosponsor thomas_id="02046" joined="2013-12-12"/>
+    <cosponsor thomas_id="02154" joined="2014-01-09"/>
+    <cosponsor thomas_id="02169" joined="2013-08-01"/>
+    <cosponsor thomas_id="02145" joined="2013-10-04"/>
+    <cosponsor thomas_id="01846" joined="2013-07-17"/>
+    <cosponsor thomas_id="02111" joined="2013-07-17"/>
+    <cosponsor thomas_id="01943" joined="2013-07-17"/>
+    <cosponsor thomas_id="02150" joined="2013-07-17"/>
+    <cosponsor thomas_id="01671" joined="2013-07-17"/>
+    <cosponsor thomas_id="02142" joined="2014-07-31"/>
+    <cosponsor thomas_id="00832" joined="2013-07-17"/>
+    <cosponsor thomas_id="02117" joined="2013-07-18"/>
+    <cosponsor thomas_id="00867" joined="2013-07-17"/>
+    <cosponsor thomas_id="01974" joined="2013-07-17"/>
+    <cosponsor thomas_id="02157" joined="2013-07-17"/>
+    <cosponsor thomas_id="02113" joined="2013-07-17"/>
+    <cosponsor thomas_id="01982" joined="2013-07-17"/>
+    <cosponsor thomas_id="02073" joined="2013-07-18"/>
+    <cosponsor thomas_id="02109" joined="2013-07-17"/>
+    <cosponsor thomas_id="02039" joined="2013-07-19"/>
+    <cosponsor thomas_id="02124" joined="2013-07-17"/>
+    <cosponsor thomas_id="01950" joined="2013-07-17"/>
+    <cosponsor thomas_id="02099" joined="2013-07-17"/>
+    <cosponsor thomas_id="01952" joined="2013-07-17"/>
+    <cosponsor thomas_id="02105" joined="2014-02-11"/>
+    <cosponsor thomas_id="01879" joined="2013-07-18"/>
+    <cosponsor thomas_id="02019" joined="2013-07-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-16" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1304"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Accounting and auditing"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Defense"/>
+    <term name="Department of Energy"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="General Services Administration"/>
+    <term name="Government studies and investigations"/>
+    <term name="Manufacturing"/>
+    <term name="Military procurement, research, weapons development"/>
+    <term name="National Aeronautics and Space Administration"/>
+    <term name="Performance measurement"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Small Business Administration"/>
+    <term name="Small business"/>
+  </subjects>
+  <amendments/>
+  <summary>7/16/2013--Introduced.
+Buy Smarter and Save Act of 2013 - Directs the President to establish: (1) an annual government-wide goal to procure goods and services using strategic sourcing, and (2) an annual government-wide goal for savings from the use of strategic sourcing. Defines "strategic sourcing" as a structured and collaborative process of critically analyzing an organization's spending patterns to better leverage its purchasing power, reduce costs, and improve overall value and performance.
+
+Directs the Director of the Office of Management and Budget (OMB) to: (1) issue guidance to executive agencies for implementing the strategic sourcing goals established by this Act, and (2) report on spending for goods and services that was strategically sourced and the extent of the savings realized.
+
+Directs the Departments of Defense (DOD), Homeland Security (DHS), Energy (DOE), Veterans Affairs (VA), and Health and Human Services (HHS), and the National Aeronautics and Space Administration (NASA), the General Services Administration (GSA), and the Small Business Administration (SBA) to take certain actions to support strategic sourcing, including establishing department wide-goals and savings targets for strategic sourcing efforts and a strategic sourcing accountability official.
+
+Directs the Comptroller General (GAO) to: (1) conduct studies on contract utilization fees and on establishing strategic sourcing initiative contract vehicles, and (2) assess and report on the performance of executive agencies in implementing the strategic sourcing goals required by this Act and the amounts saved through the use of strategic sourcing.</summary>
+</bill>

@@ -1,0 +1,81 @@
+<bill session="113" type="hc" number="12" updated="2014-08-14T13:38:41-04:00">
+  <state datetime="2013-02-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-12"/>
+  </status>
+  <introduced datetime="2013-02-12"/>
+  <titles>
+    <title type="official" as="introduced">Honoring and praising the National Association for the Advancement of Colored People on the occasion of its 104th anniversary.</title>
+  </titles>
+  <sponsor thomas_id="01803"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2013-02-12"/>
+    <cosponsor thomas_id="02153" joined="2013-02-12"/>
+    <cosponsor thomas_id="00091" joined="2013-02-12"/>
+    <cosponsor thomas_id="00132" joined="2013-02-12"/>
+    <cosponsor thomas_id="01761" joined="2013-02-12"/>
+    <cosponsor thomas_id="01889" joined="2013-02-12"/>
+    <cosponsor thomas_id="01970" joined="2013-02-25"/>
+    <cosponsor thomas_id="01864" joined="2013-02-12"/>
+    <cosponsor thomas_id="01654" joined="2013-02-12"/>
+    <cosponsor thomas_id="01790" joined="2013-02-12"/>
+    <cosponsor thomas_id="00208" joined="2013-02-12"/>
+    <cosponsor thomas_id="00229" joined="2013-02-12"/>
+    <cosponsor thomas_id="00256" joined="2013-02-12"/>
+    <cosponsor thomas_id="01477" joined="2013-02-12"/>
+    <cosponsor thomas_id="01894" joined="2013-02-12"/>
+    <cosponsor thomas_id="01857" joined="2013-02-25"/>
+    <cosponsor thomas_id="01895" joined="2013-02-12"/>
+    <cosponsor thomas_id="00511" joined="2013-02-12"/>
+    <cosponsor thomas_id="01490" joined="2013-02-12"/>
+    <cosponsor thomas_id="01634" joined="2013-02-12"/>
+    <cosponsor thomas_id="00588" joined="2013-02-12"/>
+    <cosponsor thomas_id="02149" joined="2013-02-12"/>
+    <cosponsor thomas_id="00599" joined="2013-02-12"/>
+    <cosponsor thomas_id="01843" joined="2013-02-12"/>
+    <cosponsor thomas_id="01501" joined="2013-02-12"/>
+    <cosponsor thomas_id="00688" joined="2013-02-12"/>
+    <cosponsor thomas_id="01506" joined="2013-02-12"/>
+    <cosponsor thomas_id="01811" joined="2013-02-12"/>
+    <cosponsor thomas_id="00868" joined="2013-02-12"/>
+    <cosponsor thomas_id="00893" joined="2013-02-12"/>
+    <cosponsor thomas_id="02097" joined="2013-02-12"/>
+    <cosponsor thomas_id="00944" joined="2013-02-12"/>
+    <cosponsor thomas_id="02023" joined="2013-02-12"/>
+    <cosponsor thomas_id="01003" joined="2013-02-12"/>
+    <cosponsor thomas_id="01722" joined="2013-02-12"/>
+    <cosponsor thomas_id="01037" joined="2013-02-12"/>
+    <cosponsor thomas_id="01988" joined="2013-02-12"/>
+    <cosponsor thomas_id="01151" joined="2013-02-12"/>
+    <cosponsor thomas_id="02166" joined="2013-02-12"/>
+    <cosponsor thomas_id="01205" joined="2013-02-12"/>
+    <cosponsor thomas_id="01207" joined="2013-02-12"/>
+    <cosponsor thomas_id="02004" joined="2013-02-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-12" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-04-15">
+      <text>Referred to the Subcommittee on the Constitution And Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee subcommittee="Constitution and Civil Justice" code="HSJU10" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hc" session="113" relation="unknown" number="84"/>
+  </relatedbills>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Racial and ethnic relations"/>
+  </subjects>
+  <amendments/>
+  <summary>2/12/2013--Introduced.
+Recognizes the 104th anniversary of the founding of the National Association for the Advancement of Colored People (NAACP).
+
+Honors the NAACP for its work to ensure the political, educational, social, and economic equality of all persons.</summary>
+</bill>

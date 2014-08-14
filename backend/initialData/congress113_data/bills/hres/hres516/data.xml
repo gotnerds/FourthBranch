@@ -1,0 +1,34 @@
+<bill session="113" type="hr" number="516" updated="2014-08-14T12:49:00-04:00">
+  <state datetime="2014-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2014-03-12"/>
+  </status>
+  <introduced datetime="2014-03-12"/>
+  <titles>
+    <title type="official" as="introduced">Expressing support for the designation of Journeymen Linemen Recognition Day.</title>
+  </titles>
+  <sponsor thomas_id="01757"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-03-12" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2014-03-14">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Energy and Power" code="HSIF03" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Electric power generation and transmission"/>
+  </subjects>
+  <amendments/>
+  <summary>3/12/2014--Introduced.
+Supports the designation of Journeymen Linemen Recognition Day.</summary>
+</bill>

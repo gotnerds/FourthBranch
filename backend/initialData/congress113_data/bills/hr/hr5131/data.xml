@@ -1,0 +1,28 @@
+<bill session="113" type="h" number="5131" updated="2014-08-14T13:35:16-04:00">
+  <state datetime="2014-07-17">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-17"/>
+  </status>
+  <introduced datetime="2014-07-17"/>
+  <titles>
+    <title type="short" as="introduced">Access to Care and Treatment Now for Veterans Act</title>
+    <title type="short" as="introduced">ACT Now for Veterans Act</title>
+    <title type="official" as="introduced">To direct the Secretary of Veterans Affairs to reimburse non-Department of Veterans Affairs medical providers for the provision of certain hospital care and medical services to veterans, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02122"/>
+  <cosponsors>
+    <cosponsor thomas_id="02014" joined="2014-07-17"/>
+    <cosponsor thomas_id="02191" joined="2014-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-17" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

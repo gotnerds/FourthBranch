@@ -1,0 +1,52 @@
+<bill session="113" type="hr" number="330" updated="2014-08-14T12:47:27-04:00">
+  <state datetime="2013-08-02">REFERRED</state>
+  <status>
+    <introduced datetime="2013-08-02"/>
+  </status>
+  <introduced datetime="2013-08-02"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the House of Representatives that until the United States southern border is secured as confirmed by the governors and the legislatures jointly of the four southern border states, the House of Representatives shall not bring any legislation including any conference report regarding immigration to the floor of the House for a vote.</title>
+  </titles>
+  <sponsor thomas_id="01801"/>
+  <cosponsors>
+    <cosponsor thomas_id="01858" joined="2013-08-02"/>
+    <cosponsor thomas_id="02135" joined="2013-08-02"/>
+    <cosponsor thomas_id="01987" joined="2013-08-02"/>
+    <cosponsor thomas_id="00322" joined="2013-08-02"/>
+    <cosponsor thomas_id="01924" joined="2013-08-02"/>
+    <cosponsor thomas_id="02026" joined="2013-08-02"/>
+    <cosponsor thomas_id="01724" joined="2013-08-02"/>
+    <cosponsor thomas_id="01806" joined="2014-06-19"/>
+    <cosponsor thomas_id="01908" joined="2013-08-02"/>
+    <cosponsor thomas_id="01915" joined="2013-08-02"/>
+    <cosponsor thomas_id="01954" joined="2013-08-02"/>
+    <cosponsor thomas_id="01114" joined="2013-08-02"/>
+    <cosponsor thomas_id="02161" joined="2013-08-02"/>
+    <cosponsor thomas_id="01688" joined="2013-08-02"/>
+    <cosponsor thomas_id="02115" joined="2013-08-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-08-02" state="REFERRED">
+      <text>Referred to the House Committee on Rules.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSRU" name="House Rules" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Arizona"/>
+    <term name="Border security and unlawful immigration"/>
+    <term name="California"/>
+    <term name="House of Representatives"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Legislative rules and procedure"/>
+    <term name="New Mexico"/>
+    <term name="State and local government operations"/>
+    <term name="Texas"/>
+  </subjects>
+  <amendments/>
+  <summary>8/2/2013--Introduced.
+Prohibits the House of Representatives from bringing any legislation including any conference report regarding immigration to the House floor for a vote until the U.S. southern border is secured, as confirmed by the governors and the legislatures jointly of the four southern border states.</summary>
+</bill>

@@ -1,0 +1,140 @@
+<bill session="113" type="h" number="915" updated="2014-08-14T12:58:30-04:00">
+  <state datetime="2013-12-04">REPORTED</state>
+  <status>
+    <unknown datetime="2013-12-04"/>
+  </status>
+  <introduced datetime="2013-02-28"/>
+  <titles>
+    <title type="official" as="introduced">To authorize the Peace Corps Commemorative Foundation to establish a commemorative work in the District of Columbia and its environs, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02172"/>
+  <cosponsors>
+    <cosponsor thomas_id="01780" joined="2013-12-02"/>
+    <cosponsor thomas_id="01723" joined="2013-03-12"/>
+    <cosponsor thomas_id="01987" joined="2013-12-10"/>
+    <cosponsor thomas_id="02106" joined="2013-11-20"/>
+    <cosponsor thomas_id="02127" joined="2013-11-12"/>
+    <cosponsor thomas_id="01471" joined="2013-03-15"/>
+    <cosponsor thomas_id="01564" joined="2013-04-12"/>
+    <cosponsor thomas_id="02107" joined="2013-03-15"/>
+    <cosponsor thomas_id="01889" joined="2013-03-12"/>
+    <cosponsor thomas_id="01956" joined="2013-11-20"/>
+    <cosponsor thomas_id="01970" joined="2013-03-15"/>
+    <cosponsor thomas_id="02055" joined="2013-03-15"/>
+    <cosponsor thomas_id="00231" joined="2013-07-15"/>
+    <cosponsor thomas_id="01774" joined="2013-12-02"/>
+    <cosponsor thomas_id="01857" joined="2013-03-12"/>
+    <cosponsor thomas_id="00355" joined="2013-12-02"/>
+    <cosponsor thomas_id="00368" joined="2013-02-28"/>
+    <cosponsor thomas_id="01797" joined="2013-06-13"/>
+    <cosponsor thomas_id="02119" joined="2013-11-20"/>
+    <cosponsor thomas_id="02122" joined="2013-11-15"/>
+    <cosponsor thomas_id="01973" joined="2013-02-28"/>
+    <cosponsor thomas_id="02120" joined="2013-11-20"/>
+    <cosponsor thomas_id="02043" joined="2013-09-28"/>
+    <cosponsor thomas_id="01708" joined="2013-04-09"/>
+    <cosponsor thomas_id="02044" joined="2013-05-17"/>
+    <cosponsor thomas_id="00511" joined="2013-12-02"/>
+    <cosponsor thomas_id="01913" joined="2013-06-27"/>
+    <cosponsor thomas_id="01634" joined="2013-02-28"/>
+    <cosponsor thomas_id="02147" joined="2013-11-18"/>
+    <cosponsor thomas_id="00566" joined="2013-12-02"/>
+    <cosponsor thomas_id="01663" joined="2013-09-06"/>
+    <cosponsor thomas_id="00612" joined="2013-12-02"/>
+    <cosponsor thomas_id="02025" joined="2013-03-12"/>
+    <cosponsor thomas_id="02014" joined="2013-11-15"/>
+    <cosponsor thomas_id="01733" joined="2013-05-23"/>
+    <cosponsor thomas_id="02145" joined="2013-05-09"/>
+    <cosponsor thomas_id="00666" joined="2013-09-20"/>
+    <cosponsor thomas_id="01501" joined="2013-12-02"/>
+    <cosponsor thomas_id="00688" joined="2013-12-02"/>
+    <cosponsor thomas_id="01846" joined="2013-04-12"/>
+    <cosponsor thomas_id="00701" joined="2013-03-21"/>
+    <cosponsor thomas_id="01686" joined="2013-04-09"/>
+    <cosponsor thomas_id="02150" joined="2013-09-25"/>
+    <cosponsor thomas_id="01503" joined="2013-03-15"/>
+    <cosponsor thomas_id="01653" joined="2013-03-12"/>
+    <cosponsor thomas_id="01504" joined="2013-06-27"/>
+    <cosponsor thomas_id="01505" joined="2013-04-12"/>
+    <cosponsor thomas_id="01832" joined="2013-03-21"/>
+    <cosponsor thomas_id="02142" joined="2013-09-28"/>
+    <cosponsor thomas_id="01730" joined="2013-03-12"/>
+    <cosponsor thomas_id="01811" joined="2013-03-12"/>
+    <cosponsor thomas_id="02156" joined="2013-03-21"/>
+    <cosponsor thomas_id="02117" joined="2013-12-02"/>
+    <cosponsor thomas_id="00850" joined="2013-03-12"/>
+    <cosponsor thomas_id="00867" joined="2013-03-12"/>
+    <cosponsor thomas_id="00912" joined="2013-02-28"/>
+    <cosponsor thomas_id="02171" joined="2013-04-09"/>
+    <cosponsor thomas_id="00944" joined="2013-04-09"/>
+    <cosponsor thomas_id="01982" joined="2013-11-15"/>
+    <cosponsor thomas_id="01986" joined="2013-11-15"/>
+    <cosponsor thomas_id="02109" joined="2013-11-20"/>
+    <cosponsor thomas_id="02124" joined="2013-09-28"/>
+    <cosponsor thomas_id="02099" joined="2013-11-15"/>
+    <cosponsor thomas_id="01071" joined="2013-09-06"/>
+    <cosponsor thomas_id="02104" joined="2013-03-12"/>
+    <cosponsor thomas_id="01151" joined="2013-09-06"/>
+    <cosponsor thomas_id="01535" joined="2013-04-09"/>
+    <cosponsor thomas_id="01940" joined="2013-11-20"/>
+    <cosponsor thomas_id="01942" joined="2013-03-15"/>
+    <cosponsor thomas_id="01884" joined="2013-11-20"/>
+    <cosponsor thomas_id="01729" joined="2013-11-20"/>
+    <cosponsor thomas_id="01879" joined="2013-04-26"/>
+    <cosponsor thomas_id="01256" joined="2013-03-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-28" state="REFERRED">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-02-28">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2013-02-28">
+      <text>Referred to House Budget</text>
+    </action>
+    <action datetime="2013-03-04">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+    </action>
+    <action datetime="2013-11-21">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2013-12-04">
+      <text>Subcommittee on Public Lands and Environmental Regulation Discharged.</text>
+    </action>
+    <action datetime="2013-12-04">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2013-12-04" state="REPORTED">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+    </calendar>
+    <action datetime="2014-01-23T08:00:00-05:00">
+      <text>Reported by the Committee on Natural Resources. H. Rept. 113-329, Part I.</text>
+    </action>
+    <action datetime="2014-01-23T08:00:00-05:00">
+      <text>Committee on Budget discharged.</text>
+    </action>
+    <calendar datetime="2014-01-23T08:00:00-05:00" calendar="Union" number="245">
+      <text>Placed on the Union Calendar, Calendar No. 245.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting, In Committee"/>
+    <committee subcommittee="Public Lands and Environmental Regulation" code="HSII10" name="House Natural Resources" activity="Referral, Hearings, Discharged"/>
+    <committee subcommittee="" code="HSBU" name="House Budget" activity="Referral, Discharged, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="District of Columbia"/>
+    <term name="Monuments and memorials"/>
+    <term name="National and community service"/>
+    <term name="Peace Corps"/>
+  </subjects>
+  <amendments/>
+  <summary>1/23/2014--Reported to House without amendment, Part I.
+Authorizes the Peace Corps Commemorative Foundation to establish a commemorative work on federal land in the District of Columbia to commemorate the formation of the Peace Corps and to honor the ideals upon which it was founded.
+
+Prohibits the use of federal funds to pay any expense to establish the commemorative work.</summary>
+</bill>

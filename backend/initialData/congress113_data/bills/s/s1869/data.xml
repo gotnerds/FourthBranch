@@ -1,0 +1,82 @@
+<bill session="113" type="s" number="1869" updated="2014-08-14T14:00:50-04:00">
+  <state datetime="2013-12-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-12-19"/>
+  </status>
+  <introduced datetime="2013-12-19"/>
+  <titles>
+    <title type="short" as="introduced">Keeping Our Promise to Our Military Heroes Act</title>
+    <title type="official" as="introduced">A bill to repeal section 403 of the Bipartisan Budget Act of 2013, relating to an annual adjustment of retired pay for members of the Armed Forces under the age of 62, and to provide an offset.</title>
+  </titles>
+  <sponsor thomas_id="02075"/>
+  <cosponsors>
+    <cosponsor thomas_id="01464" joined="2014-01-07"/>
+    <cosponsor thomas_id="01687" joined="2014-01-15"/>
+    <cosponsor thomas_id="00153" joined="2014-01-07"/>
+    <cosponsor thomas_id="00188" joined="2014-01-07"/>
+    <cosponsor thomas_id="00213" joined="2014-01-07"/>
+    <cosponsor thomas_id="01541" joined="2014-01-07"/>
+    <cosponsor thomas_id="01692" joined="2014-01-07"/>
+    <cosponsor thomas_id="01542" joined="2014-01-08"/>
+    <cosponsor thomas_id="00452" joined="2013-12-19"/>
+    <cosponsor thomas_id="02079" joined="2014-01-07"/>
+    <cosponsor thomas_id="00583" joined="2014-01-07"/>
+    <cosponsor thomas_id="01608" joined="2014-01-07"/>
+    <cosponsor thomas_id="02086" joined="2014-01-07"/>
+    <cosponsor thomas_id="01395" joined="2014-01-08"/>
+    <cosponsor thomas_id="01507" joined="2014-01-15"/>
+    <cosponsor thomas_id="01694" joined="2014-01-13"/>
+    <cosponsor thomas_id="00924" joined="2014-01-07"/>
+    <cosponsor thomas_id="01896" joined="2014-01-07"/>
+    <cosponsor thomas_id="00968" joined="2014-01-29"/>
+    <cosponsor thomas_id="01609" joined="2014-01-08"/>
+    <cosponsor thomas_id="01226" joined="2013-12-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-12-19" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="556"/>
+    <bill type="h" session="113" relation="unknown" number="3787"/>
+    <bill type="h" session="113" relation="unknown" number="3788"/>
+    <bill type="h" session="113" relation="unknown" number="3790"/>
+    <bill type="h" session="113" relation="unknown" number="3792"/>
+    <bill type="h" session="113" relation="unknown" number="3793"/>
+    <bill type="h" session="113" relation="unknown" number="3794"/>
+    <bill type="h" session="113" relation="unknown" number="3797"/>
+    <bill type="h" session="113" relation="unknown" number="3798"/>
+    <bill type="h" session="113" relation="unknown" number="3801"/>
+    <bill type="h" session="113" relation="unknown" number="3804"/>
+    <bill type="h" session="113" relation="unknown" number="3807"/>
+    <bill type="h" session="113" relation="unknown" number="3885"/>
+    <bill type="h" session="113" relation="unknown" number="3885"/>
+    <bill type="h" session="113" relation="unknown" number="4134"/>
+    <bill type="sr" session="113" relation="unknown" number="323"/>
+    <bill type="s" session="113" relation="unknown" number="18"/>
+    <bill type="s" session="113" relation="unknown" number="1844"/>
+    <bill type="s" session="113" relation="unknown" number="1856"/>
+    <bill type="s" session="113" relation="unknown" number="1930"/>
+    <bill type="s" session="113" relation="unknown" number="1931"/>
+    <bill type="s" session="113" relation="unknown" number="1950"/>
+    <bill type="s" session="113" relation="unknown" number="1963"/>
+    <bill type="s" session="113" relation="unknown" number="1977"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Income tax credits"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Tax administration and collection, taxpayers"/>
+    <term name="Tax treatment of families"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>12/19/2013--Introduced.
+Keeping Our Promise to Our Military Heroes Act - Repeals the provision of the Bipartisan Budget Act of 2013 that reduces the cost-of-living adjustment to the retirement pay of members of the Armed Forces under age 62.
+
+Amends the Internal Revenue Code to require taxpayers who are claiming the refundable portion of the child tax credit to include their social security number on their tax returns.</summary>
+</bill>

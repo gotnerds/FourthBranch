@@ -1,0 +1,52 @@
+<bill session="113" type="s" number="2154" updated="2014-08-14T14:03:14-04:00">
+  <state datetime="2014-07-23">REPORTED</state>
+  <status>
+    <unknown datetime="2014-07-23"/>
+  </status>
+  <introduced datetime="2014-03-25"/>
+  <titles>
+    <title type="short" as="introduced">Emergency Medical Services for Children Reauthorization Act of 2014</title>
+    <title type="short" as="reported to senate">Emergency Medical Services for Children Reauthorization Act of 2014</title>
+    <title type="official" as="introduced">A bill to amend the Public Health Service Act to reauthorize the Emergency Medical Services for Children Program.</title>
+  </titles>
+  <sponsor thomas_id="01828"/>
+  <cosponsors>
+    <cosponsor thomas_id="01695" joined="2014-07-23"/>
+    <cosponsor thomas_id="02194" joined="2014-06-16"/>
+    <cosponsor thomas_id="00136" joined="2014-05-06"/>
+    <cosponsor thomas_id="01866" joined="2014-05-21"/>
+    <cosponsor thomas_id="00501" joined="2014-07-22"/>
+    <cosponsor thomas_id="01351" joined="2014-03-25"/>
+    <cosponsor thomas_id="01647" joined="2014-07-14"/>
+    <cosponsor thomas_id="01036" joined="2014-05-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-03-25" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+    <calendar datetime="2014-07-23" state="REPORTED">
+      <text>Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="2014-07-23">
+      <text>Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute. Without written report.</text>
+    </action>
+    <calendar datetime="2014-07-23" calendar="Senate Legislative" under="General Orders" number="480">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 480.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="4290"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Child health"/>
+    <term name="Emergency medical services and trauma care"/>
+    <term name="Health programs administration and funding"/>
+  </subjects>
+  <amendments/>
+  <summary>7/23/2014--Reported to Senate amended.
+Emergency Medical Services for Children Reauthorization Act of 2014 - Amends the Public Health Service Act to reauthorize the Emergency Medical Services for Children Program through FY2019.</summary>
+</bill>

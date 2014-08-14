@@ -1,0 +1,59 @@
+<bill session="113" type="h" number="4934" updated="2014-08-14T13:33:34-04:00">
+  <state datetime="2014-06-23">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-23"/>
+  </status>
+  <introduced datetime="2014-06-23"/>
+  <titles>
+    <title type="short" as="introduced">Regulatory Agency Demilitarization Act</title>
+    <title type="official" as="introduced">To prohibit certain Federal agencies from using or purchasing certain firearms, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02168"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2014-06-23"/>
+    <cosponsor thomas_id="02135" joined="2014-06-23"/>
+    <cosponsor thomas_id="01956" joined="2014-06-25"/>
+    <cosponsor thomas_id="02151" joined="2014-07-10"/>
+    <cosponsor thomas_id="02098" joined="2014-06-23"/>
+    <cosponsor thomas_id="02144" joined="2014-06-23"/>
+    <cosponsor thomas_id="02138" joined="2014-07-10"/>
+    <cosponsor thomas_id="02057" joined="2014-06-23"/>
+    <cosponsor thomas_id="01791" joined="2014-06-25"/>
+    <cosponsor thomas_id="01801" joined="2014-06-23"/>
+    <cosponsor thomas_id="01992" joined="2014-07-08"/>
+    <cosponsor thomas_id="01656" joined="2014-06-23"/>
+    <cosponsor thomas_id="02100" joined="2014-06-23"/>
+    <cosponsor thomas_id="02050" joined="2014-06-23"/>
+    <cosponsor thomas_id="01885" joined="2014-07-10"/>
+    <cosponsor thomas_id="02033" joined="2014-06-23"/>
+    <cosponsor thomas_id="01960" joined="2014-06-25"/>
+    <cosponsor thomas_id="01908" joined="2014-06-23"/>
+    <cosponsor thomas_id="02157" joined="2014-06-25"/>
+    <cosponsor thomas_id="02022" joined="2014-06-23"/>
+    <cosponsor thomas_id="02073" joined="2014-06-25"/>
+    <cosponsor thomas_id="02160" joined="2014-06-23"/>
+    <cosponsor thomas_id="02017" joined="2014-06-23"/>
+    <cosponsor thomas_id="01009" joined="2014-06-23"/>
+    <cosponsor thomas_id="01860" joined="2014-06-23"/>
+    <cosponsor thomas_id="02000" joined="2014-07-18"/>
+    <cosponsor thomas_id="01114" joined="2014-06-25"/>
+    <cosponsor thomas_id="02161" joined="2014-06-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-23" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional oversight"/>
+    <term name="Firearms and explosives"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Public contracts and procurement"/>
+  </subjects>
+  <amendments/>
+</bill>

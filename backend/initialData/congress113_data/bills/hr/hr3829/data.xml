@@ -1,0 +1,107 @@
+<bill session="113" type="h" number="3829" updated="2014-08-14T13:24:07-04:00">
+  <state datetime="2014-01-09">REFERRED</state>
+  <status>
+    <introduced datetime="2014-01-09"/>
+  </status>
+  <introduced datetime="2014-01-09"/>
+  <titles>
+    <title type="short" as="introduced">State Marriage Defense Act of 2014</title>
+    <title type="official" as="introduced">To amend chapter 1 of title 1, United States Code, with regard to the definition of "marriage" and "spouse" for Federal purposes and to ensure respect for State regulation of marriage.</title>
+  </titles>
+  <sponsor thomas_id="02161"/>
+  <cosponsors>
+    <cosponsor thomas_id="01858" joined="2014-01-09"/>
+    <cosponsor thomas_id="01753" joined="2014-01-09"/>
+    <cosponsor thomas_id="02155" joined="2014-01-09"/>
+    <cosponsor thomas_id="01882" joined="2014-02-04"/>
+    <cosponsor thomas_id="00165" joined="2014-02-04"/>
+    <cosponsor thomas_id="01752" joined="2014-01-09"/>
+    <cosponsor thomas_id="02121" joined="2014-02-04"/>
+    <cosponsor thomas_id="01805" joined="2014-01-09"/>
+    <cosponsor thomas_id="02144" joined="2014-02-04"/>
+    <cosponsor thomas_id="01989" joined="2014-02-11"/>
+    <cosponsor thomas_id="01670" joined="2014-01-09"/>
+    <cosponsor thomas_id="02138" joined="2014-01-15"/>
+    <cosponsor thomas_id="02062" joined="2014-01-15"/>
+    <cosponsor thomas_id="02057" joined="2014-02-26"/>
+    <cosponsor thomas_id="02064" joined="2014-02-04"/>
+    <cosponsor thomas_id="02061" joined="2014-02-04"/>
+    <cosponsor thomas_id="01924" joined="2014-01-09"/>
+    <cosponsor thomas_id="02065" joined="2014-01-09"/>
+    <cosponsor thomas_id="01683" joined="2014-02-04"/>
+    <cosponsor thomas_id="01707" joined="2014-03-06"/>
+    <cosponsor thomas_id="01720" joined="2014-03-06"/>
+    <cosponsor thomas_id="01801" joined="2014-01-09"/>
+    <cosponsor thomas_id="01992" joined="2014-02-26"/>
+    <cosponsor thomas_id="01487" joined="2014-01-09"/>
+    <cosponsor thomas_id="00484" joined="2014-01-09"/>
+    <cosponsor thomas_id="02026" joined="2014-01-09"/>
+    <cosponsor thomas_id="02020" joined="2014-02-04"/>
+    <cosponsor thomas_id="02046" joined="2014-02-11"/>
+    <cosponsor thomas_id="00603" joined="2014-01-09"/>
+    <cosponsor thomas_id="00612" joined="2014-02-04"/>
+    <cosponsor thomas_id="01868" joined="2014-01-09"/>
+    <cosponsor thomas_id="02051" joined="2014-02-11"/>
+    <cosponsor thomas_id="01724" joined="2014-06-25"/>
+    <cosponsor thomas_id="00636" joined="2014-02-26"/>
+    <cosponsor thomas_id="02100" joined="2014-01-09"/>
+    <cosponsor thomas_id="01834" joined="2014-01-16"/>
+    <cosponsor thomas_id="02050" joined="2014-01-09"/>
+    <cosponsor thomas_id="01885" joined="2014-01-09"/>
+    <cosponsor thomas_id="01960" joined="2014-01-16"/>
+    <cosponsor thomas_id="01806" joined="2014-01-09"/>
+    <cosponsor thomas_id="02094" joined="2014-01-15"/>
+    <cosponsor thomas_id="01804" joined="2014-02-11"/>
+    <cosponsor thomas_id="01908" joined="2014-01-15"/>
+    <cosponsor thomas_id="01505" joined="2014-01-15"/>
+    <cosponsor thomas_id="01685" joined="2014-02-04"/>
+    <cosponsor thomas_id="02156" joined="2014-02-04"/>
+    <cosponsor thomas_id="01758" joined="2014-01-09"/>
+    <cosponsor thomas_id="02034" joined="2014-02-04"/>
+    <cosponsor thomas_id="01955" joined="2014-01-09"/>
+    <cosponsor thomas_id="02035" joined="2014-01-15"/>
+    <cosponsor thomas_id="01738" joined="2014-01-16"/>
+    <cosponsor thomas_id="02141" joined="2014-01-09"/>
+    <cosponsor thomas_id="01514" joined="2014-01-09"/>
+    <cosponsor thomas_id="02022" joined="2014-01-09"/>
+    <cosponsor thomas_id="02160" joined="2014-01-09"/>
+    <cosponsor thomas_id="02158" joined="2014-04-01"/>
+    <cosponsor thomas_id="01892" joined="2014-02-04"/>
+    <cosponsor thomas_id="02009" joined="2014-01-16"/>
+    <cosponsor thomas_id="01525" joined="2014-03-06"/>
+    <cosponsor thomas_id="01681" joined="2014-04-01"/>
+    <cosponsor thomas_id="01075" joined="2014-04-01"/>
+    <cosponsor thomas_id="02168" joined="2014-02-04"/>
+    <cosponsor thomas_id="01855" joined="2014-04-01"/>
+    <cosponsor thomas_id="02002" joined="2014-01-09"/>
+    <cosponsor thomas_id="01222" joined="2014-02-04"/>
+    <cosponsor thomas_id="02165" joined="2014-01-15"/>
+    <cosponsor thomas_id="01238" joined="2014-01-09"/>
+    <cosponsor thomas_id="02115" joined="2014-01-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-01-09" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2014-03-20">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Constitution and Civil Justice" code="HSJU10" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2024"/>
+  </relatedbills>
+  <subjects>
+    <term name="Families"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Marriage and family status"/>
+    <term name="Sex, gender, sexual orientation discrimination"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>1/9/2014--Introduced.
+State Marriage Defense Act of 2014 - Prohibits, in determining the meaning of any Act of Congress, or of any ruling, regulation, or interpretation of U.S. administrative bureaus and agencies, as applied with respect to individuals domiciled in a state or in any other territory or possession of the United States: (1) the term "marriage" from including any relationship that the state, territory, or possession does not recognize as a marriage; and (2) the term "spouse" from including an individual who is a party to a relationship that is not recognized as a marriage by that state, territory, or possession.</summary>
+</bill>

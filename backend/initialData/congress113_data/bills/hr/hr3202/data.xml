@@ -1,0 +1,102 @@
+<bill session="113" type="h" number="3202" updated="2014-08-14T13:18:44-04:00">
+  <state datetime="2014-07-28T19:04:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-07-28T19:04:00-04:00"/>
+  </status>
+  <introduced datetime="2013-09-27"/>
+  <titles>
+    <title type="short" as="introduced">Essential Transportation Worker Identification Credential Assessment Act</title>
+    <title type="short" as="reported to house">Essential Transportation Worker Identification Credential Assessment Act</title>
+    <title type="short" as="passed house">Essential Transportation Worker Identification Credential Assessment Act</title>
+    <title type="official" as="introduced">To require the Secretary of Homeland Security to prepare a comprehensive security assessment of the transportation security card program, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00588"/>
+  <cosponsors>
+    <cosponsor thomas_id="01731" joined="2013-09-27"/>
+    <cosponsor thomas_id="01151" joined="2013-09-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-27" state="REFERRED">
+      <text>Referred to the House Committee on Homeland Security.</text>
+    </action>
+    <action datetime="2013-10-07">
+      <text>Referred to the Subcommittee on Border and Maritime Security.</text>
+    </action>
+    <action datetime="2013-10-07">
+      <text>Referred to the Subcommittee on Transportation Security.</text>
+    </action>
+    <action datetime="2014-05-20">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2014-05-20">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text>
+    </action>
+    <action datetime="2014-06-11">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-06-11" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2014-07-17T12:51:00-04:00">
+      <text>Reported (Amended) by the Committee on Homeland Security. H. Rept. 113-528.</text>
+    </action>
+    <calendar datetime="2014-07-17T12:52:00-04:00" calendar="Union" number="394">
+      <text>Placed on the Union Calendar, Calendar No. 394.</text>
+    </calendar>
+    <action datetime="2014-07-28T15:58:00-04:00">
+      <text>Mrs. Miller (MI) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2014-07-28T15:58:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6895-6899" label="consideration"/>
+    </action>
+    <action datetime="2014-07-28T15:58:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3202.</text>
+    </action>
+    <action datetime="2014-07-28T16:13:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2014-07-28T18:58:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H6938-6939" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="456" datetime="2014-07-28T19:04:00-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 400 - 0 (Roll no. 456).</text>
+      <reference ref="CR H6895" label="text"/>
+    </vote>
+    <action datetime="2014-07-28T19:04:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-07-29">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSHM" name="House Homeland Security" activity="Referral, Markup, Reporting"/>
+    <committee subcommittee="Border and Maritime Security" code="HSHM11" name="House Homeland Security" activity="Referral, Markup, Reporting"/>
+    <committee subcommittee="Transportation Security" code="HSHM07" name="House Homeland Security" activity="Referral"/>
+    <committee subcommittee="" code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Advanced technology and technological innovations"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Government studies and investigations"/>
+    <term name="Homeland security"/>
+    <term name="Marine and inland water transportation"/>
+    <term name="Transportation employees"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>9/27/2013--Introduced.
+Essential Transportation Worker Identification Credential Assessment Act - Directs the Secretary of Homeland Security (DHS) to submit to Congress and the Comptroller General (GAO) a comprehensive assessment of the effectiveness of the transportation security card program at enhancing security or reducing security risks for maritime facilities and vessels.
+
+Directs the Secretary to issue a corrective action plan based on the assessment that responds to the findings of a cost-benefit analysis of the program and enhances security or reduces security risk for such facilities and vessels.
+
+Directs the Comptroller General, within 120 days after the Secretary issues the corrective action plan, to: (1) review the extent to which the submissions implement certain recommendations issued by the Comptroller General, and (2) inform Congress as to the responsiveness of the submission.
+
+Prohibits the Secretary from issuing a final rule requiring the use of transportation security card readers until: (1) the Comptroller General informs Congress that the submission is substantially responsive to the GAO recommendations, and (2) the Secretary issues an updated list of transportation security card readers that are compatible with active transportation security cards.</summary>
+</bill>

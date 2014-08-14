@@ -1,0 +1,124 @@
+<bill session="113" type="h" number="690" updated="2014-08-14T12:56:37-04:00">
+  <state datetime="2013-02-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-14"/>
+  </status>
+  <introduced datetime="2013-02-14"/>
+  <titles>
+    <title type="short" as="introduced">Reserve Retirement Deployment Credit Correction Act</title>
+    <title type="official" as="introduced">To amend title 10, United States Code, to modify the per-fiscal year calculation of days of certain active duty or active service used to reduce the minimum age at which a member of a reserve component of the uniformed services may retire for non-regular service.</title>
+  </titles>
+  <sponsor thomas_id="00666"/>
+  <cosponsors>
+    <cosponsor thomas_id="02093" joined="2013-06-14"/>
+    <cosponsor thomas_id="02054" joined="2013-08-01"/>
+    <cosponsor thomas_id="02131" joined="2014-08-01"/>
+    <cosponsor thomas_id="01838" joined="2014-07-30"/>
+    <cosponsor thomas_id="01740" joined="2014-07-15"/>
+    <cosponsor thomas_id="01469" joined="2014-07-15"/>
+    <cosponsor thomas_id="01845" joined="2014-07-30"/>
+    <cosponsor thomas_id="01987" joined="2014-07-15"/>
+    <cosponsor thomas_id="00132" joined="2014-07-30"/>
+    <cosponsor thomas_id="02106" joined="2014-07-15"/>
+    <cosponsor thomas_id="02127" joined="2014-07-31"/>
+    <cosponsor thomas_id="01676" joined="2014-07-30"/>
+    <cosponsor thomas_id="01889" joined="2014-07-15"/>
+    <cosponsor thomas_id="02159" joined="2014-07-31"/>
+    <cosponsor thomas_id="00211" joined="2014-07-15"/>
+    <cosponsor thomas_id="01742" joined="2014-07-31"/>
+    <cosponsor thomas_id="02151" joined="2013-09-09"/>
+    <cosponsor thomas_id="01959" joined="2013-06-25"/>
+    <cosponsor thomas_id="00229" joined="2013-04-30"/>
+    <cosponsor thomas_id="01836" joined="2014-07-15"/>
+    <cosponsor thomas_id="02144" joined="2013-07-08"/>
+    <cosponsor thomas_id="01643" joined="2014-07-30"/>
+    <cosponsor thomas_id="02126" joined="2014-07-31"/>
+    <cosponsor thomas_id="00279" joined="2014-07-15"/>
+    <cosponsor thomas_id="00281" joined="2014-07-15"/>
+    <cosponsor thomas_id="02096" joined="2013-05-15"/>
+    <cosponsor thomas_id="02125" joined="2013-07-08"/>
+    <cosponsor thomas_id="02114" joined="2014-07-31"/>
+    <cosponsor thomas_id="02067" joined="2014-07-30"/>
+    <cosponsor thomas_id="02064" joined="2013-04-11"/>
+    <cosponsor thomas_id="01888" joined="2014-07-30"/>
+    <cosponsor thomas_id="02119" joined="2014-07-31"/>
+    <cosponsor thomas_id="02164" joined="2014-07-24"/>
+    <cosponsor thomas_id="01973" joined="2014-07-24"/>
+    <cosponsor thomas_id="02120" joined="2014-07-31"/>
+    <cosponsor thomas_id="01487" joined="2014-08-01"/>
+    <cosponsor thomas_id="01990" joined="2013-11-15"/>
+    <cosponsor thomas_id="01708" joined="2014-07-30"/>
+    <cosponsor thomas_id="02041" joined="2014-08-01"/>
+    <cosponsor thomas_id="01913" joined="2014-07-31"/>
+    <cosponsor thomas_id="01580" joined="2013-06-27"/>
+    <cosponsor thomas_id="02147" joined="2014-07-30"/>
+    <cosponsor thomas_id="01663" joined="2014-07-24"/>
+    <cosponsor thomas_id="01921" joined="2014-07-31"/>
+    <cosponsor thomas_id="02046" joined="2013-03-15"/>
+    <cosponsor thomas_id="02199" joined="2014-07-24"/>
+    <cosponsor thomas_id="02025" joined="2013-06-05"/>
+    <cosponsor thomas_id="02172" joined="2014-07-30"/>
+    <cosponsor thomas_id="00635" joined="2014-07-15"/>
+    <cosponsor thomas_id="01733" joined="2013-06-14"/>
+    <cosponsor thomas_id="02145" joined="2013-06-05"/>
+    <cosponsor thomas_id="01834" joined="2013-07-09"/>
+    <cosponsor thomas_id="01936" joined="2014-07-30"/>
+    <cosponsor thomas_id="01885" joined="2013-03-13"/>
+    <cosponsor thomas_id="00699" joined="2014-07-24"/>
+    <cosponsor thomas_id="01846" joined="2013-07-08"/>
+    <cosponsor thomas_id="01931" joined="2013-09-09"/>
+    <cosponsor thomas_id="01806" joined="2014-07-15"/>
+    <cosponsor thomas_id="01804" joined="2014-07-24"/>
+    <cosponsor thomas_id="01504" joined="2014-07-15"/>
+    <cosponsor thomas_id="01730" joined="2014-07-15"/>
+    <cosponsor thomas_id="01685" joined="2013-09-17"/>
+    <cosponsor thomas_id="02117" joined="2014-07-30"/>
+    <cosponsor thomas_id="02001" joined="2013-09-09"/>
+    <cosponsor thomas_id="02162" joined="2013-04-26"/>
+    <cosponsor thomas_id="01738" joined="2014-07-31"/>
+    <cosponsor thomas_id="01929" joined="2013-07-16"/>
+    <cosponsor thomas_id="01927" joined="2013-07-10"/>
+    <cosponsor thomas_id="00930" joined="2014-07-30"/>
+    <cosponsor thomas_id="00940" joined="2013-03-12"/>
+    <cosponsor thomas_id="02068" joined="2013-07-10"/>
+    <cosponsor thomas_id="02003" joined="2014-04-29"/>
+    <cosponsor thomas_id="02158" joined="2014-07-31"/>
+    <cosponsor thomas_id="02039" joined="2013-07-23"/>
+    <cosponsor thomas_id="01920" joined="2014-07-24"/>
+    <cosponsor thomas_id="01861" joined="2013-07-08"/>
+    <cosponsor thomas_id="01071" joined="2014-07-15"/>
+    <cosponsor thomas_id="02047" joined="2013-03-04"/>
+    <cosponsor thomas_id="01114" joined="2014-04-29"/>
+    <cosponsor thomas_id="01952" joined="2014-07-15"/>
+    <cosponsor thomas_id="01535" joined="2013-06-05"/>
+    <cosponsor thomas_id="01884" joined="2014-07-15"/>
+    <cosponsor thomas_id="02112" joined="2014-07-31"/>
+    <cosponsor thomas_id="02166" joined="2013-06-27"/>
+    <cosponsor thomas_id="01596" joined="2013-08-01"/>
+    <cosponsor thomas_id="01856" joined="2013-02-14"/>
+    <cosponsor thomas_id="01879" joined="2013-09-09"/>
+    <cosponsor thomas_id="01886" joined="2013-03-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-14" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2013-03-14">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee subcommittee="Military Personnel" code="HSAS02" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="240"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="National Guard and reserves"/>
+  </subjects>
+  <amendments/>
+  <summary>2/14/2013--Introduced.
+Reserve Retirement Deployment Credit Correction Act - Requires the days of active duty or active service used to reduce the minimum age at which a member of the reserves may retire for non-regular (reserve) service to occur in in any two consecutive fiscal years (under current law, in the same fiscal year).</summary>
+</bill>

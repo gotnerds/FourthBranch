@@ -1,0 +1,35 @@
+<bill session="113" type="h" number="5057" updated="2014-08-14T13:34:39-04:00">
+  <state datetime="2014-07-15">REPORTED</state>
+  <status>
+    <unknown datetime="2014-07-15"/>
+  </status>
+  <introduced datetime="2014-07-10"/>
+  <titles>
+    <title type="short" as="introduced">EPS Service Parts Act of 2014</title>
+    <title type="official" as="introduced">To amend the Energy Policy and Conservation Act to permit exemptions for external power supplies from certain efficiency standards, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01998"/>
+  <cosponsors>
+    <cosponsor thomas_id="01942" joined="2014-07-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-10" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2014-07-14">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2014-07-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-07-15" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,56 @@
+<bill session="113" type="h" number="1695" updated="2014-08-14T13:05:09-04:00">
+  <state datetime="2013-04-24">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-24"/>
+  </status>
+  <introduced datetime="2013-04-24"/>
+  <titles>
+    <title type="short" as="introduced">Justice Safety Valve Act of 2013</title>
+    <title type="official" as="introduced">To amend title 18, United States Code, to prevent unjust and irrational criminal punishments.</title>
+  </titles>
+  <sponsor thomas_id="01037"/>
+  <cosponsors>
+    <cosponsor thomas_id="00038" joined="2013-09-25"/>
+    <cosponsor thomas_id="01996" joined="2013-04-24"/>
+    <cosponsor thomas_id="00099" joined="2013-10-14"/>
+    <cosponsor thomas_id="02107" joined="2014-02-25"/>
+    <cosponsor thomas_id="01878" joined="2013-04-24"/>
+    <cosponsor thomas_id="00229" joined="2013-04-24"/>
+    <cosponsor thomas_id="00355" joined="2013-09-17"/>
+    <cosponsor thomas_id="00368" joined="2013-07-25"/>
+    <cosponsor thomas_id="01895" joined="2013-06-27"/>
+    <cosponsor thomas_id="01843" joined="2013-04-24"/>
+    <cosponsor thomas_id="00701" joined="2013-07-25"/>
+    <cosponsor thomas_id="02094" joined="2013-04-24"/>
+    <cosponsor thomas_id="00850" joined="2013-09-17"/>
+    <cosponsor thomas_id="02162" joined="2013-07-25"/>
+    <cosponsor thomas_id="02171" joined="2014-07-16"/>
+    <cosponsor thomas_id="02118" joined="2013-09-17"/>
+    <cosponsor thomas_id="02023" joined="2013-04-24"/>
+    <cosponsor thomas_id="01588" joined="2013-06-27"/>
+    <cosponsor thomas_id="01879" joined="2013-09-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-24" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-06-14">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="619"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Criminal procedure and sentencing"/>
+    <term name="Judicial procedure and administration"/>
+  </subjects>
+  <amendments/>
+  <summary>4/24/2013--Introduced.
+Justice Safety Valve Act of 2013 - Amends the federal criminal code to authorize a federal court to impose a sentence below a statutory minimum if necessary to avoid violating federal provisions prescribing factors courts must consider in imposing a sentence. Requires the court to give the parties notice of its intent to impose a lower sentence and to state in writing the factors requiring such a sentence.</summary>
+</bill>

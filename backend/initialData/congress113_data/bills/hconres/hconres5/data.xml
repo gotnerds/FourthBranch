@@ -1,0 +1,38 @@
+<bill session="113" type="hc" number="5" updated="2014-08-14T13:38:38-04:00">
+  <state datetime="2013-01-03">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-03"/>
+  </status>
+  <introduced datetime="2013-01-03"/>
+  <titles>
+    <title type="official" as="introduced">Authorizing the use of Emancipation Hall in the Capitol Visitor Center for an event to celebrate the Mississippi River and its status as a vital resource of the United States.</title>
+  </titles>
+  <sponsor thomas_id="01856"/>
+  <cosponsors>
+    <cosponsor thomas_id="01654" joined="2013-01-15"/>
+    <cosponsor thomas_id="01857" joined="2013-01-15"/>
+    <cosponsor thomas_id="01498" joined="2013-01-25"/>
+    <cosponsor thomas_id="01653" joined="2013-01-15"/>
+    <cosponsor thomas_id="00867" joined="2013-01-15"/>
+    <cosponsor thomas_id="00910" joined="2013-01-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-03" state="REFERRED">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Lakes and rivers"/>
+    <term name="Mississippi River"/>
+    <term name="U.S. Capitol"/>
+  </subjects>
+  <amendments/>
+  <summary>1/3/2013--Introduced.
+Authorizes the use of Emancipation Hall in the Capitol Visitor Center on March 21, 2013, for an event to celebrate the Mississippi River and its status as a vital resource of the United States and an indelible component of the nation's environment, economy, cultural heritage, and history.</summary>
+</bill>

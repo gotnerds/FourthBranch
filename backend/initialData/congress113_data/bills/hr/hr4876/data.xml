@@ -1,0 +1,36 @@
+<bill session="113" type="h" number="4876" updated="2014-08-14T13:33:03-04:00">
+  <state datetime="2014-06-17">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-17"/>
+  </status>
+  <introduced datetime="2014-06-17"/>
+  <titles>
+    <title type="short" as="introduced">Emerging Business Encouragement Act of 2014</title>
+    <title type="official" as="introduced">To amend the Small Business Act to provide for contracting preferences and other benefits for emerging business enterprises, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01889"/>
+  <cosponsors>
+    <cosponsor thomas_id="00132" joined="2014-06-17"/>
+    <cosponsor thomas_id="00229" joined="2014-06-17"/>
+    <cosponsor thomas_id="02125" joined="2014-06-17"/>
+    <cosponsor thomas_id="01962" joined="2014-06-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-17" state="REFERRED">
+      <text>Referred to the House Committee on Small Business.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSSM" name="House Small Business" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Small Business Administration"/>
+    <term name="Small business"/>
+  </subjects>
+  <amendments/>
+</bill>

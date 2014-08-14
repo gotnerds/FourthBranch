@@ -1,0 +1,66 @@
+<bill session="113" type="h" number="1579" updated="2014-08-14T13:04:07-04:00">
+  <state datetime="2013-04-16">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-16"/>
+  </status>
+  <introduced datetime="2013-04-16"/>
+  <titles>
+    <title type="short" as="introduced">Inclusive Prosperity Act of 2013</title>
+    <title type="official" as="introduced">To impose a tax on certain trading transactions to strengthen our financial security, reduce market volatility, expand opportunity, and stop shrinking the middle class.</title>
+  </titles>
+  <sponsor thomas_id="01857"/>
+  <cosponsors>
+    <cosponsor thomas_id="00099" joined="2013-04-16"/>
+    <cosponsor thomas_id="01564" joined="2013-07-24"/>
+    <cosponsor thomas_id="02159" joined="2014-07-29"/>
+    <cosponsor thomas_id="01970" joined="2013-04-16"/>
+    <cosponsor thomas_id="02196" joined="2014-04-01"/>
+    <cosponsor thomas_id="00229" joined="2013-04-16"/>
+    <cosponsor thomas_id="01894" joined="2013-04-16"/>
+    <cosponsor thomas_id="00368" joined="2013-06-25"/>
+    <cosponsor thomas_id="01973" joined="2014-04-01"/>
+    <cosponsor thomas_id="01708" joined="2013-04-16"/>
+    <cosponsor thomas_id="02089" joined="2014-03-12"/>
+    <cosponsor thomas_id="00511" joined="2014-04-01"/>
+    <cosponsor thomas_id="01580" joined="2013-07-08"/>
+    <cosponsor thomas_id="01634" joined="2014-04-08"/>
+    <cosponsor thomas_id="02101" joined="2013-07-31"/>
+    <cosponsor thomas_id="01501" joined="2013-04-16"/>
+    <cosponsor thomas_id="00701" joined="2013-04-24"/>
+    <cosponsor thomas_id="00766" joined="2013-05-07"/>
+    <cosponsor thomas_id="01504" joined="2013-04-16"/>
+    <cosponsor thomas_id="01602" joined="2013-06-25"/>
+    <cosponsor thomas_id="00867" joined="2014-03-05"/>
+    <cosponsor thomas_id="00868" joined="2013-04-16"/>
+    <cosponsor thomas_id="02162" joined="2014-05-19"/>
+    <cosponsor thomas_id="02171" joined="2013-05-14"/>
+    <cosponsor thomas_id="00944" joined="2014-05-28"/>
+    <cosponsor thomas_id="01854" joined="2013-11-12"/>
+    <cosponsor thomas_id="01588" joined="2014-02-18"/>
+    <cosponsor thomas_id="02110" joined="2013-07-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-16" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="880"/>
+    <bill type="s" session="113" relation="unknown" number="410"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Financial services and investments"/>
+    <term name="Government information and archives"/>
+    <term name="Income tax credits"/>
+    <term name="Sales and excise taxes"/>
+    <term name="Securities"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <summary>4/16/2013--Introduced.
+Inclusive Prosperity Act of 2013 - Amends the Internal Revenue Code to: (1) impose an excise tax on the transfer of ownership in certain securities (covered transaction), including any share of stock in a corporation, any partnership or beneficial interest in a partnership or trust, any note, bond, debenture, or other evidence of indebtedness (excluding tax-exempt municipal bonds), or derivative financial instruments; (2) impose a penalty on taxpayers who fail to include a covered transaction on their tax return or information statement; and (3) allow an individual taxpayer whose modified adjusted gross income does not exceed $50,000 ($75,000 for married taxpayers filing joint returns) a tax credit for the amount of tax paid on covered transactions.</summary>
+</bill>

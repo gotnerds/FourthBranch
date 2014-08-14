@@ -1,0 +1,32 @@
+<bill session="113" type="s" number="2602" updated="2014-08-14T14:06:59-04:00">
+  <state datetime="2014-07-15">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-15"/>
+  </status>
+  <introduced datetime="2014-07-15"/>
+  <titles>
+    <title type="short" as="introduced">Mountains to Sound Greenway National Heritage Area Act</title>
+    <title type="official" as="introduced">A bill to establish the Mountains to Sound Greenway National Heritage Area in the State of Washington.</title>
+  </titles>
+  <sponsor thomas_id="00172"/>
+  <cosponsors>
+    <cosponsor thomas_id="01409" joined="2014-07-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-15" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2014-07-23">
+      <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+    <committee subcommittee="National Parks" code="SSEG04" name="Senate Energy and Natural Resources" activity="Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="1785"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

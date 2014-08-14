@@ -1,0 +1,40 @@
+<bill session="113" type="s" number="2311" updated="2014-08-14T14:04:33-04:00">
+  <state datetime="2014-05-08">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-08"/>
+  </status>
+  <introduced datetime="2014-05-08"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to include licensed hearing aid specialists as eligible for appointment in the Veterans Health Administration of the Department of Veterans Affairs, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01829"/>
+  <cosponsors>
+    <cosponsor thomas_id="01898" joined="2014-05-08"/>
+    <cosponsor thomas_id="01507" joined="2014-05-13"/>
+    <cosponsor thomas_id="01567" joined="2014-05-08"/>
+    <cosponsor thomas_id="02198" joined="2014-05-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-08" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSVA" name="Senate Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="3508"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government information and archives"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health personnel"/>
+    <term name="Hearing, speech, and vision care"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+</bill>

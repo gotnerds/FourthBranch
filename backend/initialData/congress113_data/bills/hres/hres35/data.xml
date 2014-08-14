@@ -1,0 +1,183 @@
+<bill session="113" type="hr" number="35" updated="2014-08-14T12:44:57-04:00">
+  <state datetime="2013-01-18">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-18"/>
+  </status>
+  <introduced datetime="2013-01-18"/>
+  <titles>
+    <title type="official" as="introduced">Expressing no confidence in the Attorney General of the United States and calling for his immediate resignation.</title>
+  </titles>
+  <sponsor thomas_id="01992"/>
+  <cosponsors>
+    <cosponsor thomas_id="01727" joined="2013-06-05"/>
+    <cosponsor thomas_id="02090" joined="2013-01-18"/>
+    <cosponsor thomas_id="01858" joined="2013-06-11"/>
+    <cosponsor thomas_id="02054" joined="2013-06-27"/>
+    <cosponsor thomas_id="02131" joined="2013-06-05"/>
+    <cosponsor thomas_id="00062" joined="2013-06-06"/>
+    <cosponsor thomas_id="02027" joined="2013-01-18"/>
+    <cosponsor thomas_id="01838" joined="2013-06-17"/>
+    <cosponsor thomas_id="01753" joined="2013-01-18"/>
+    <cosponsor thomas_id="02063" joined="2013-01-18"/>
+    <cosponsor thomas_id="01748" joined="2013-06-06"/>
+    <cosponsor thomas_id="01787" joined="2013-06-05"/>
+    <cosponsor thomas_id="01468" joined="2013-01-18"/>
+    <cosponsor thomas_id="02155" joined="2013-06-19"/>
+    <cosponsor thomas_id="01987" joined="2013-01-18"/>
+    <cosponsor thomas_id="01882" joined="2013-01-18"/>
+    <cosponsor thomas_id="02018" joined="2013-01-18"/>
+    <cosponsor thomas_id="01751" joined="2013-01-18"/>
+    <cosponsor thomas_id="00165" joined="2013-06-17"/>
+    <cosponsor thomas_id="01752" joined="2013-01-18"/>
+    <cosponsor thomas_id="00186" joined="2013-06-20"/>
+    <cosponsor thomas_id="00211" joined="2013-06-20"/>
+    <cosponsor thomas_id="01742" joined="2013-06-05"/>
+    <cosponsor thomas_id="02151" joined="2013-01-18"/>
+    <cosponsor thomas_id="02121" joined="2013-06-05"/>
+    <cosponsor thomas_id="01805" joined="2013-06-17"/>
+    <cosponsor thomas_id="02098" joined="2013-06-26"/>
+    <cosponsor thomas_id="02144" joined="2013-06-17"/>
+    <cosponsor thomas_id="01989" joined="2013-06-04"/>
+    <cosponsor thomas_id="01670" joined="2013-06-20"/>
+    <cosponsor thomas_id="02138" joined="2013-06-17"/>
+    <cosponsor thomas_id="02126" joined="2013-06-06"/>
+    <cosponsor thomas_id="02116" joined="2013-06-04"/>
+    <cosponsor thomas_id="02062" joined="2013-01-18"/>
+    <cosponsor thomas_id="02072" joined="2013-06-20"/>
+    <cosponsor thomas_id="02057" joined="2013-01-18"/>
+    <cosponsor thomas_id="00322" joined="2013-06-17"/>
+    <cosponsor thomas_id="02036" joined="2013-06-17"/>
+    <cosponsor thomas_id="02067" joined="2013-01-18"/>
+    <cosponsor thomas_id="02064" joined="2013-01-18"/>
+    <cosponsor thomas_id="01924" joined="2013-06-04"/>
+    <cosponsor thomas_id="02065" joined="2013-01-18"/>
+    <cosponsor thomas_id="01683" joined="2013-06-17"/>
+    <cosponsor thomas_id="01707" joined="2013-01-18"/>
+    <cosponsor thomas_id="01998" joined="2013-02-15"/>
+    <cosponsor thomas_id="01737" joined="2013-06-04"/>
+    <cosponsor thomas_id="01743" joined="2013-06-20"/>
+    <cosponsor thomas_id="02049" joined="2013-06-20"/>
+    <cosponsor thomas_id="01720" joined="2013-01-18"/>
+    <cosponsor thomas_id="01801" joined="2013-01-18"/>
+    <cosponsor thomas_id="01487" joined="2013-06-20"/>
+    <cosponsor thomas_id="01656" joined="2013-05-17"/>
+    <cosponsor thomas_id="01979" joined="2013-01-18"/>
+    <cosponsor thomas_id="01990" joined="2013-06-11"/>
+    <cosponsor thomas_id="02070" joined="2013-07-10"/>
+    <cosponsor thomas_id="01922" joined="2013-06-17"/>
+    <cosponsor thomas_id="00484" joined="2013-05-17"/>
+    <cosponsor thomas_id="02026" joined="2013-01-18"/>
+    <cosponsor thomas_id="02032" joined="2013-02-06"/>
+    <cosponsor thomas_id="02040" joined="2013-06-17"/>
+    <cosponsor thomas_id="02020" joined="2013-01-18"/>
+    <cosponsor thomas_id="02028" joined="2013-01-18"/>
+    <cosponsor thomas_id="02015" joined="2013-06-17"/>
+    <cosponsor thomas_id="01921" joined="2013-06-17"/>
+    <cosponsor thomas_id="02046" joined="2013-01-18"/>
+    <cosponsor thomas_id="00603" joined="2013-06-17"/>
+    <cosponsor thomas_id="00612" joined="2013-01-18"/>
+    <cosponsor thomas_id="02051" joined="2013-01-18"/>
+    <cosponsor thomas_id="01724" joined="2013-06-06"/>
+    <cosponsor thomas_id="00636" joined="2013-06-04"/>
+    <cosponsor thomas_id="02014" joined="2013-06-17"/>
+    <cosponsor thomas_id="01733" joined="2013-05-17"/>
+    <cosponsor thomas_id="02100" joined="2013-06-17"/>
+    <cosponsor thomas_id="01834" joined="2013-06-06"/>
+    <cosponsor thomas_id="02050" joined="2014-02-03"/>
+    <cosponsor thomas_id="01885" joined="2013-06-06"/>
+    <cosponsor thomas_id="00699" joined="2013-06-19"/>
+    <cosponsor thomas_id="02033" joined="2013-01-18"/>
+    <cosponsor thomas_id="01931" joined="2013-09-18"/>
+    <cosponsor thomas_id="01960" joined="2013-01-18"/>
+    <cosponsor thomas_id="02094" joined="2013-06-04"/>
+    <cosponsor thomas_id="01908" joined="2013-01-18"/>
+    <cosponsor thomas_id="01792" joined="2013-06-04"/>
+    <cosponsor thomas_id="02142" joined="2013-06-04"/>
+    <cosponsor thomas_id="02130" joined="2013-06-04"/>
+    <cosponsor thomas_id="00800" joined="2013-06-03"/>
+    <cosponsor thomas_id="01685" joined="2013-02-08"/>
+    <cosponsor thomas_id="02156" joined="2013-06-04"/>
+    <cosponsor thomas_id="02059" joined="2013-01-18"/>
+    <cosponsor thomas_id="01744" joined="2013-06-17"/>
+    <cosponsor thomas_id="01758" joined="2013-06-17"/>
+    <cosponsor thomas_id="02060" joined="2013-06-04"/>
+    <cosponsor thomas_id="02001" joined="2013-01-18"/>
+    <cosponsor thomas_id="01710" joined="2013-06-20"/>
+    <cosponsor thomas_id="02034" joined="2013-01-18"/>
+    <cosponsor thomas_id="01955" joined="2013-01-18"/>
+    <cosponsor thomas_id="02035" joined="2013-01-18"/>
+    <cosponsor thomas_id="01738" joined="2013-01-18"/>
+    <cosponsor thomas_id="02157" joined="2013-06-17"/>
+    <cosponsor thomas_id="02141" joined="2013-09-09"/>
+    <cosponsor thomas_id="01802" joined="2013-06-04"/>
+    <cosponsor thomas_id="02022" joined="2013-01-18"/>
+    <cosponsor thomas_id="01915" joined="2013-06-17"/>
+    <cosponsor thomas_id="01778" joined="2013-01-18"/>
+    <cosponsor thomas_id="02118" joined="2013-06-28"/>
+    <cosponsor thomas_id="02073" joined="2014-07-08"/>
+    <cosponsor thomas_id="01954" joined="2013-01-18"/>
+    <cosponsor thomas_id="01704" joined="2013-06-20"/>
+    <cosponsor thomas_id="00979" joined="2013-06-20"/>
+    <cosponsor thomas_id="02017" joined="2013-02-15"/>
+    <cosponsor thomas_id="01916" joined="2013-06-17"/>
+    <cosponsor thomas_id="02003" joined="2013-06-05"/>
+    <cosponsor thomas_id="02158" joined="2013-01-18"/>
+    <cosponsor thomas_id="01009" joined="2013-01-18"/>
+    <cosponsor thomas_id="01994" joined="2013-01-18"/>
+    <cosponsor thomas_id="02009" joined="2013-01-18"/>
+    <cosponsor thomas_id="01041" joined="2013-06-03"/>
+    <cosponsor thomas_id="01525" joined="2013-01-18"/>
+    <cosponsor thomas_id="01590" joined="2013-06-17"/>
+    <cosponsor thomas_id="01071" joined="2013-06-17"/>
+    <cosponsor thomas_id="01075" joined="2014-07-30"/>
+    <cosponsor thomas_id="02000" joined="2013-01-18"/>
+    <cosponsor thomas_id="02168" joined="2013-06-04"/>
+    <cosponsor thomas_id="01114" joined="2013-01-18"/>
+    <cosponsor thomas_id="01981" joined="2013-06-05"/>
+    <cosponsor thomas_id="01566" joined="2013-06-05"/>
+    <cosponsor thomas_id="01952" joined="2013-06-04"/>
+    <cosponsor thomas_id="01664" joined="2013-06-17"/>
+    <cosponsor thomas_id="01997" joined="2013-06-05"/>
+    <cosponsor thomas_id="02137" joined="2013-07-10"/>
+    <cosponsor thomas_id="01855" joined="2013-06-19"/>
+    <cosponsor thomas_id="02161" joined="2013-01-18"/>
+    <cosponsor thomas_id="02152" joined="2013-06-19"/>
+    <cosponsor thomas_id="01779" joined="2013-01-18"/>
+    <cosponsor thomas_id="01222" joined="2013-06-17"/>
+    <cosponsor thomas_id="02165" joined="2013-06-11"/>
+    <cosponsor thomas_id="01688" joined="2013-06-19"/>
+    <cosponsor thomas_id="02008" joined="2013-06-06"/>
+    <cosponsor thomas_id="02021" joined="2013-06-17"/>
+    <cosponsor thomas_id="02115" joined="2013-01-18"/>
+    <cosponsor thomas_id="01255" joined="2013-02-27"/>
+    <cosponsor thomas_id="01256" joined="2013-06-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-18" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-02-28">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, And Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Congressional oversight"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Department of Justice"/>
+    <term name="Federal officials"/>
+    <term name="Firearms and explosives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Latin America"/>
+    <term name="Mexico"/>
+    <term name="Smuggling and trafficking"/>
+  </subjects>
+  <amendments/>
+  <summary>1/18/2013--Introduced.
+Expresses the sense of the House of Representatives that Congress has lost confidence in the Attorney General and calls for his immediate resignation.</summary>
+</bill>

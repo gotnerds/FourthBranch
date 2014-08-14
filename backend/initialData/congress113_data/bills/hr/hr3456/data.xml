@@ -1,0 +1,70 @@
+<bill session="113" type="h" number="3456" updated="2014-08-14T13:20:55-04:00">
+  <state datetime="2013-11-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-11-12"/>
+  </status>
+  <introduced datetime="2013-11-12"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 38, United States Code, to improve the enrollment of veterans in certain courses of education, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01798"/>
+  <cosponsors>
+    <cosponsor thomas_id="01469" joined="2014-07-10"/>
+    <cosponsor thomas_id="01889" joined="2014-07-25"/>
+    <cosponsor thomas_id="02159" joined="2014-07-10"/>
+    <cosponsor thomas_id="01839" joined="2014-07-25"/>
+    <cosponsor thomas_id="01790" joined="2014-07-25"/>
+    <cosponsor thomas_id="00316" joined="2014-07-10"/>
+    <cosponsor thomas_id="01894" joined="2014-07-25"/>
+    <cosponsor thomas_id="00371" joined="2014-07-10"/>
+    <cosponsor thomas_id="02119" joined="2014-07-22"/>
+    <cosponsor thomas_id="02164" joined="2014-07-30"/>
+    <cosponsor thomas_id="01663" joined="2014-07-25"/>
+    <cosponsor thomas_id="01843" joined="2014-07-25"/>
+    <cosponsor thomas_id="02134" joined="2014-07-25"/>
+    <cosponsor thomas_id="01907" joined="2014-07-22"/>
+    <cosponsor thomas_id="01834" joined="2014-04-30"/>
+    <cosponsor thomas_id="01814" joined="2014-07-22"/>
+    <cosponsor thomas_id="01503" joined="2014-07-25"/>
+    <cosponsor thomas_id="01510" joined="2014-07-25"/>
+    <cosponsor thomas_id="01835" joined="2014-07-25"/>
+    <cosponsor thomas_id="02113" joined="2014-07-28"/>
+    <cosponsor thomas_id="01954" joined="2013-11-12"/>
+    <cosponsor thomas_id="01722" joined="2014-07-25"/>
+    <cosponsor thomas_id="01861" joined="2014-07-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-11-12" state="REFERRED">
+      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-11-12">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2013-11-12">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2013-11-18">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+    </action>
+    <action datetime="2014-01-24">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Economic Opportunity" code="HSVR10" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee subcommittee="Military Personnel" code="HSAS02" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Higher education"/>
+    <term name="National Guard and reserves"/>
+    <term name="School administration"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+  </subjects>
+  <amendments/>
+  <summary>11/12/2013--Introduced.
+Prohibits the Secretary of Veterans Affairs (VA) or a state approving agency from approving a program of education offered by an educational institution for purposes of an educational assistance program for veterans or members of the Selected Reserve or the Ready Reserve of the Armed Forces unless any such institution that administers a priority enrollment system allows an eligible veteran, member, or dependent to enroll in courses at the earliest possible time.</summary>
+</bill>

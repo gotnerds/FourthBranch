@@ -1,0 +1,43 @@
+<bill session="113" type="s" number="2305" updated="2014-08-14T14:04:30-04:00">
+  <state datetime="2014-05-08">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-08"/>
+  </status>
+  <introduced datetime="2014-05-08"/>
+  <titles>
+    <title type="short" as="introduced">Social Security and Marriage Equality Act</title>
+    <title type="official" as="introduced">A bill to amend the method by which the Social Security Administration determines the validity of marriages under title II of the Social Security Act.</title>
+  </titles>
+  <sponsor thomas_id="01409"/>
+  <cosponsors>
+    <cosponsor thomas_id="01558" joined="2014-05-08"/>
+    <cosponsor thomas_id="00735" joined="2014-05-12"/>
+    <cosponsor thomas_id="01900" joined="2014-05-08"/>
+    <cosponsor thomas_id="02173" joined="2014-05-13"/>
+    <cosponsor thomas_id="01901" joined="2014-05-15"/>
+    <cosponsor thomas_id="01595" joined="2014-05-08"/>
+    <cosponsor thomas_id="01567" joined="2014-07-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-08" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="4664"/>
+    <bill type="h" session="113" relation="unknown" number="5182"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Marriage and family status"/>
+    <term name="Social security and elderly assistance"/>
+  </subjects>
+  <amendments/>
+  <summary>5/8/2014--Introduced.
+Social Security and Marriage Equality Act - Amends title II (Old Age, Survivors and Disability Insurance) (OASDI) of the Social Security Act with respect to the determination of a valid marriage to account for marriages in jurisdictions other than a state.
+
+Authorizes the courts of any state to find that an OASDI benefit applicant and an insured individual were validly married in a jurisdiction other than a state at the time the applicant files a benefit application or, if the insured individual is dead, at the time the individual died.</summary>
+</bill>

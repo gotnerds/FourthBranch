@@ -1,0 +1,23 @@
+<bill session="113" type="h" number="5374" updated="2014-08-14T13:37:21-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="official" as="introduced">To establish a maximum limitation on the amount of the payment standard that may be used with respect to housing choice vouchers provided under the Moving to Work program of the Department of Housing and Urban Development.</title>
+  </titles>
+  <sponsor thomas_id="01920"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

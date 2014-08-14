@@ -1,0 +1,148 @@
+<bill session="113" type="h" number="137" updated="2014-08-14T12:51:53-04:00">
+  <state datetime="2013-01-03">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-03"/>
+  </status>
+  <introduced datetime="2013-01-03"/>
+  <titles>
+    <title type="short" as="introduced">Fix Gun Checks Act of 2013</title>
+    <title type="official" as="introduced">To ensure that all individuals who should be prohibited from buying a firearm are listed in the national instant criminal background check system and require a background check for every firearm sale.</title>
+  </titles>
+  <sponsor thomas_id="01503"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2013-02-25"/>
+    <cosponsor thomas_id="01740" joined="2013-01-22"/>
+    <cosponsor thomas_id="00099" joined="2013-05-06"/>
+    <cosponsor thomas_id="01469" joined="2013-01-25"/>
+    <cosponsor thomas_id="01471" joined="2013-02-25"/>
+    <cosponsor thomas_id="01564" joined="2013-01-25"/>
+    <cosponsor thomas_id="01999" joined="2013-01-22"/>
+    <cosponsor thomas_id="02159" joined="2013-02-25"/>
+    <cosponsor thomas_id="01839" joined="2013-01-25"/>
+    <cosponsor thomas_id="01474" joined="2013-03-15"/>
+    <cosponsor thomas_id="01970" joined="2013-02-05"/>
+    <cosponsor thomas_id="02055" joined="2013-01-14"/>
+    <cosponsor thomas_id="02196" joined="2014-02-25"/>
+    <cosponsor thomas_id="01878" joined="2013-02-25"/>
+    <cosponsor thomas_id="01959" joined="2013-07-18"/>
+    <cosponsor thomas_id="00229" joined="2013-01-14"/>
+    <cosponsor thomas_id="01836" joined="2013-01-14"/>
+    <cosponsor thomas_id="00256" joined="2013-01-14"/>
+    <cosponsor thomas_id="01641" joined="2013-02-25"/>
+    <cosponsor thomas_id="01479" joined="2013-01-22"/>
+    <cosponsor thomas_id="00281" joined="2013-01-15"/>
+    <cosponsor thomas_id="01976" joined="2013-02-25"/>
+    <cosponsor thomas_id="00316" joined="2013-01-15"/>
+    <cosponsor thomas_id="01857" joined="2013-01-15"/>
+    <cosponsor thomas_id="00355" joined="2013-01-14"/>
+    <cosponsor thomas_id="02114" joined="2013-03-04"/>
+    <cosponsor thomas_id="00368" joined="2013-02-05"/>
+    <cosponsor thomas_id="00371" joined="2013-02-05"/>
+    <cosponsor thomas_id="02119" joined="2013-02-25"/>
+    <cosponsor thomas_id="01895" joined="2013-01-25"/>
+    <cosponsor thomas_id="01973" joined="2013-04-11"/>
+    <cosponsor thomas_id="01914" joined="2013-09-26"/>
+    <cosponsor thomas_id="01803" joined="2013-02-25"/>
+    <cosponsor thomas_id="01708" joined="2013-01-15"/>
+    <cosponsor thomas_id="02089" joined="2013-02-05"/>
+    <cosponsor thomas_id="01794" joined="2013-02-05"/>
+    <cosponsor thomas_id="01913" joined="2013-01-15"/>
+    <cosponsor thomas_id="01580" joined="2013-01-15"/>
+    <cosponsor thomas_id="01663" joined="2013-01-25"/>
+    <cosponsor thomas_id="00588" joined="2013-01-25"/>
+    <cosponsor thomas_id="02149" joined="2013-04-11"/>
+    <cosponsor thomas_id="02025" joined="2013-01-25"/>
+    <cosponsor thomas_id="02172" joined="2013-01-25"/>
+    <cosponsor thomas_id="01668" joined="2013-01-25"/>
+    <cosponsor thomas_id="01675" joined="2013-02-25"/>
+    <cosponsor thomas_id="01583" joined="2013-03-04"/>
+    <cosponsor thomas_id="01501" joined="2013-02-05"/>
+    <cosponsor thomas_id="00701" joined="2013-03-04"/>
+    <cosponsor thomas_id="02111" joined="2013-02-25"/>
+    <cosponsor thomas_id="00709" joined="2013-02-05"/>
+    <cosponsor thomas_id="01686" joined="2013-01-25"/>
+    <cosponsor thomas_id="00729" joined="2013-01-14"/>
+    <cosponsor thomas_id="00735" joined="2013-01-15"/>
+    <cosponsor thomas_id="01814" joined="2013-01-14"/>
+    <cosponsor thomas_id="01653" joined="2013-01-15"/>
+    <cosponsor thomas_id="00766" joined="2013-02-25"/>
+    <cosponsor thomas_id="01504" joined="2013-01-15"/>
+    <cosponsor thomas_id="02148" joined="2013-01-22"/>
+    <cosponsor thomas_id="00808" joined="2013-01-22"/>
+    <cosponsor thomas_id="01811" joined="2013-01-15"/>
+    <cosponsor thomas_id="00832" joined="2013-01-22"/>
+    <cosponsor thomas_id="00850" joined="2013-03-15"/>
+    <cosponsor thomas_id="00854" joined="2013-01-25"/>
+    <cosponsor thomas_id="00868" joined="2013-01-14"/>
+    <cosponsor thomas_id="00887" joined="2013-02-25"/>
+    <cosponsor thomas_id="01510" joined="2013-02-25"/>
+    <cosponsor thomas_id="00893" joined="2013-02-05"/>
+    <cosponsor thomas_id="02097" joined="2013-01-22"/>
+    <cosponsor thomas_id="01835" joined="2013-04-11"/>
+    <cosponsor thomas_id="01927" joined="2013-01-22"/>
+    <cosponsor thomas_id="02171" joined="2013-01-25"/>
+    <cosponsor thomas_id="00930" joined="2013-01-15"/>
+    <cosponsor thomas_id="01967" joined="2013-01-14"/>
+    <cosponsor thomas_id="01854" joined="2013-01-22"/>
+    <cosponsor thomas_id="01588" joined="2013-01-25"/>
+    <cosponsor thomas_id="01635" joined="2013-01-15"/>
+    <cosponsor thomas_id="01798" joined="2013-01-22"/>
+    <cosponsor thomas_id="01037" joined="2013-01-15"/>
+    <cosponsor thomas_id="01042" joined="2013-01-22"/>
+    <cosponsor thomas_id="01861" joined="2013-02-26"/>
+    <cosponsor thomas_id="01526" joined="2013-02-28"/>
+    <cosponsor thomas_id="01818" joined="2013-01-25"/>
+    <cosponsor thomas_id="01069" joined="2013-01-15"/>
+    <cosponsor thomas_id="01528" joined="2013-01-25"/>
+    <cosponsor thomas_id="01890" joined="2013-01-22"/>
+    <cosponsor thomas_id="02104" joined="2013-05-06"/>
+    <cosponsor thomas_id="01535" joined="2013-01-22"/>
+    <cosponsor thomas_id="01884" joined="2013-01-14"/>
+    <cosponsor thomas_id="01729" joined="2013-01-14"/>
+    <cosponsor thomas_id="01209" joined="2013-02-25"/>
+    <cosponsor thomas_id="02004" joined="2013-03-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-03" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-01-25">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, And Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="21"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Business records"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Firearms and explosives"/>
+    <term name="Government information and archives"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Judicial procedure and administration"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Licensing and registrations"/>
+    <term name="Mental health"/>
+    <term name="Retail and wholesale trades"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+  <summary>1/3/2013--Introduced.
+Fix Gun Checks Act of 2013 - Amends the NICS Improvement Amendments Act of 2007 (NICS Act) to modify the periods during which penalties are applicable to states that do not make certain records pertaining to firearms eligibility electronically available to the National Instant Criminal Background Check System (NICBCS). Repeals provisions authorizing the Attorney General to waive certain penalties if a state provides substantial evidence that it is making a reasonable effort to provide such records. Directs the Attorney General to publish, and make available on a publicly accessible website, an annual report that ranks states by the ratio of number of records submitted by each state to the estimated total number of available records of the state.
+
+Amends the Brady Handgun Violence Prevention Act to: (1) require the head of each federal agency to submit to the Attorney General, biannually, a written certification indicating whether the agency has provided pertinent information contained in any agency record demonstrating that a person falls within a category of persons prohibited from possessing firearms under federal law; and (2) include a federal court as a federal department or agency, and require the Director of the Administrative Office of the U.S. Courts to perform the functions of a department or agency head, for purposes of such Act.
+
+Amends the federal criminal code to define the terms "adjudicated as a mental defective" and "committed to a mental institution" for purposes of federal firearms provisions. Prohibits an individual so adjudicated before the effective date of this Act from applying for relief from disability under the NICS Act on the basis that the individual does not meet the requirements under such definition.
+
+Prohibits a person who is not a licensed firearms importer, manufacturer, or dealer from transferring a firearm to, or receiving a firearm from, another unlicensed person, except: (1) through a licensed dealer, which shall conduct a background check through the NICBCS; and (2) after inspecting a permit that confirms that such background check has been conducted. Specifies exceptions, including for: (1) the transfer of a bona fide gift between immediate family members; (2) a transfer that occurs by operation of law or by an executor or trustee because of the death of another person; (3) a temporary transfer that occurs in the home of the unlicensed transferee who believes that possession of the firearm is necessary to prevent imminent death or great bodily harm to the transferee; and (4) certain temporary transfers without the transfer of title at a shooting range, at a shooting competition, or while hunting, fishing, or trapping.
+
+Prohibits an unlicensed transferee from receiving a firearm from an unlicensed transferor if the licensed dealer through which the transfer is made receives a notification from the NICBCS that the transfer is prohibited.
+
+Sets forth requirements for a licensed dealer that assists in such transfer, including requirements to: (1) notify the transferor and transferee of compliance with background check requirements and of the receipt of any notification from the NICBCS that a transfer is prohibited, and (2) report to the Attorney General on such a transfer and on transfers of two or more pistols and/or revolvers to the same unlicensed transferee during any five consecutive business days. Permits such dealer to assess a processing fee.</summary>
+</bill>

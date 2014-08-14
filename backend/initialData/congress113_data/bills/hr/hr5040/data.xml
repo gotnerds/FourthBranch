@@ -1,0 +1,30 @@
+<bill session="113" type="h" number="5040" updated="2014-08-14T13:34:30-04:00">
+  <state datetime="2014-07-09">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-09"/>
+  </status>
+  <introduced datetime="2014-07-09"/>
+  <titles>
+    <title type="short" as="introduced">Idaho County Shooting Range Land Conveyance Act</title>
+    <title type="official" as="introduced">To require the Secretary of the Interior to convey certain Federal land to Idaho County in the State of Idaho, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02011"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-09" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2014-07-14">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Public Lands and Environmental Regulation" code="HSII10" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2616"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

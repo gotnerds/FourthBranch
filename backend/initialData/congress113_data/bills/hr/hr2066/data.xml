@@ -1,0 +1,84 @@
+<bill session="113" type="h" number="2066" updated="2014-08-14T13:08:52-04:00">
+  <state datetime="2013-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-21"/>
+  </status>
+  <introduced datetime="2013-05-21"/>
+  <titles>
+    <title type="short" as="introduced">Pets on Trains Act of 2013</title>
+    <title type="official" as="introduced">To require Amtrak to propose a pet policy that allows passengers to transport domesticated cats and dogs on certain Amtrak trains, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01995"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2013-10-28"/>
+    <cosponsor thomas_id="02093" joined="2014-06-12"/>
+    <cosponsor thomas_id="02153" joined="2013-12-19"/>
+    <cosponsor thomas_id="00132" joined="2013-05-23"/>
+    <cosponsor thomas_id="01840" joined="2013-05-23"/>
+    <cosponsor thomas_id="01816" joined="2013-05-21"/>
+    <cosponsor thomas_id="01878" joined="2013-05-21"/>
+    <cosponsor thomas_id="01989" joined="2013-06-11"/>
+    <cosponsor thomas_id="02126" joined="2013-11-21"/>
+    <cosponsor thomas_id="00279" joined="2013-11-20"/>
+    <cosponsor thomas_id="02067" joined="2013-09-26"/>
+    <cosponsor thomas_id="01990" joined="2013-07-11"/>
+    <cosponsor thomas_id="01708" joined="2013-11-15"/>
+    <cosponsor thomas_id="02041" joined="2013-05-21"/>
+    <cosponsor thomas_id="02089" joined="2014-01-13"/>
+    <cosponsor thomas_id="01580" joined="2014-07-24"/>
+    <cosponsor thomas_id="01634" joined="2014-07-09"/>
+    <cosponsor thomas_id="02140" joined="2013-12-19"/>
+    <cosponsor thomas_id="02111" joined="2014-07-10"/>
+    <cosponsor thomas_id="00832" joined="2013-06-04"/>
+    <cosponsor thomas_id="00868" joined="2013-06-28"/>
+    <cosponsor thomas_id="01835" joined="2013-07-11"/>
+    <cosponsor thomas_id="00912" joined="2013-10-28"/>
+    <cosponsor thomas_id="02171" joined="2013-06-04"/>
+    <cosponsor thomas_id="01910" joined="2013-05-23"/>
+    <cosponsor thomas_id="01967" joined="2013-09-10"/>
+    <cosponsor thomas_id="00940" joined="2013-06-11"/>
+    <cosponsor thomas_id="00985" joined="2014-01-07"/>
+    <cosponsor thomas_id="01848" joined="2013-07-17"/>
+    <cosponsor thomas_id="00998" joined="2013-07-18"/>
+    <cosponsor thomas_id="01635" joined="2014-02-27"/>
+    <cosponsor thomas_id="02110" joined="2014-06-18"/>
+    <cosponsor thomas_id="01940" joined="2013-06-12"/>
+    <cosponsor thomas_id="01177" joined="2013-07-17"/>
+    <cosponsor thomas_id="02105" joined="2013-10-02"/>
+    <cosponsor thomas_id="01222" joined="2013-05-23"/>
+    <cosponsor thomas_id="01886" joined="2013-10-29"/>
+    <cosponsor thomas_id="01256" joined="2013-12-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-21" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2013-05-22">
+      <text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+    <committee subcommittee="Railroads, Pipelines, and Hazardous Materials" code="HSPW14" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="1710"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Animal protection and human-animal relationships"/>
+    <term name="Government corporations and government-sponsored enterprises"/>
+    <term name="Mammals"/>
+    <term name="National Railroad Passenger Corporation (Amtrak)"/>
+    <term name="Railroads"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2013--Introduced.
+Pets on Trains Act of 2013 - Directs the National Railroad Passenger Corporation (Amtrak) to propose a pet policy that allows passengers to transport domesticated cats or dogs on certain Amtrak trains.
+
+Requires Amtrak to collect a fee for each cat or dog transported by a ticketed passenger to cover administrative costs.
+
+Declares that the proposed policy shall be separate from and in addition to the policy governing Amtrak passengers traveling with service animals.</summary>
+</bill>

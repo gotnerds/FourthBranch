@@ -1,0 +1,78 @@
+<bill session="113" type="h" number="5159" updated="2014-08-14T13:35:30-04:00">
+  <state datetime="2014-07-22">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-22"/>
+  </status>
+  <introduced datetime="2014-07-22"/>
+  <titles>
+    <title type="official" as="introduced">To permit employees to request changes to their work schedules without fear of retaliation, and to ensure that employers consider these requests; and to require employers to provide more predictable and stable schedules for employees in certain growing low-wage occupations, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00808"/>
+  <cosponsors>
+    <cosponsor thomas_id="00099" joined="2014-07-24"/>
+    <cosponsor thomas_id="00132" joined="2014-07-22"/>
+    <cosponsor thomas_id="02159" joined="2014-07-29"/>
+    <cosponsor thomas_id="01970" joined="2014-07-25"/>
+    <cosponsor thomas_id="02196" joined="2014-08-01"/>
+    <cosponsor thomas_id="01864" joined="2014-07-22"/>
+    <cosponsor thomas_id="00229" joined="2014-07-22"/>
+    <cosponsor thomas_id="01836" joined="2014-07-22"/>
+    <cosponsor thomas_id="00256" joined="2014-07-22"/>
+    <cosponsor thomas_id="01477" joined="2014-07-22"/>
+    <cosponsor thomas_id="00281" joined="2014-07-22"/>
+    <cosponsor thomas_id="01894" joined="2014-07-22"/>
+    <cosponsor thomas_id="01857" joined="2014-07-22"/>
+    <cosponsor thomas_id="01895" joined="2014-07-22"/>
+    <cosponsor thomas_id="01914" joined="2014-07-22"/>
+    <cosponsor thomas_id="01708" joined="2014-07-22"/>
+    <cosponsor thomas_id="02089" joined="2014-07-22"/>
+    <cosponsor thomas_id="01490" joined="2014-07-22"/>
+    <cosponsor thomas_id="01580" joined="2014-07-22"/>
+    <cosponsor thomas_id="01634" joined="2014-07-22"/>
+    <cosponsor thomas_id="00588" joined="2014-07-22"/>
+    <cosponsor thomas_id="01843" joined="2014-07-22"/>
+    <cosponsor thomas_id="02190" joined="2014-07-22"/>
+    <cosponsor thomas_id="01675" joined="2014-07-25"/>
+    <cosponsor thomas_id="00729" joined="2014-07-22"/>
+    <cosponsor thomas_id="01814" joined="2014-07-22"/>
+    <cosponsor thomas_id="01504" joined="2014-07-24"/>
+    <cosponsor thomas_id="01811" joined="2014-07-22"/>
+    <cosponsor thomas_id="00850" joined="2014-07-22"/>
+    <cosponsor thomas_id="00868" joined="2014-07-22"/>
+    <cosponsor thomas_id="02097" joined="2014-07-31"/>
+    <cosponsor thomas_id="01929" joined="2014-07-31"/>
+    <cosponsor thomas_id="02171" joined="2014-07-22"/>
+    <cosponsor thomas_id="00944" joined="2014-07-22"/>
+    <cosponsor thomas_id="01588" joined="2014-07-22"/>
+    <cosponsor thomas_id="02110" joined="2014-07-22"/>
+    <cosponsor thomas_id="02004" joined="2014-07-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-22" state="REFERRED">
+      <text>Referred to the Committee on Education and the Workforce, and in addition to the Committees on House Administration, Oversight and Government Reform, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-07-22">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2014-07-22">
+      <text>Referred to House House Administration</text>
+    </action>
+    <action datetime="2014-07-22">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2014-07-22">
+      <text>Referred to House Judiciary</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee subcommittee="" code="HSHA" name="House Administration" activity="Referral"/>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2642"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,76 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-10", 
+      "committees": [
+        "HSSM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Small Business and Entrepreneurship.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2582-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Small Business and Entrepreneurship", 
+      "committee_id": "SSSB"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-07-10", 
+  "number": "2582", 
+  "official_title": "A bill to establish a pilot program to assist in expanding and diversifying the business of small business concerns that rely on amounts awarded for Federal contracts and subcontracts.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "ADAPT Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Udall, Tom", 
+    "state": "NM", 
+    "thomas_id": "01567", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-07-10", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "ADAPT Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "American Diversification and Progress in Trade Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to establish a pilot program to assist in expanding and diversifying the business of small business concerns that rely on amounts awarded for Federal contracts and subcontracts.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T14:06:49-04:00"
+}

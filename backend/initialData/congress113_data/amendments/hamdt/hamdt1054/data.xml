@@ -1,0 +1,17 @@
+<amendment session="113" chamber="h" number="1054" updated="2014-08-14T13:40:20-04:00">
+  <amends type="h" number="5016" sequence="3"/>
+  <status datetime="2014-07-14T20:21:00-04:00">pass</status>
+  <sponsor thomas_id="01915"/>
+  <offered datetime="2014-07-14"/>
+  <description>An amendment to increase funding for salaries and expenses for administration under Treasury Inspector General for Tax by $1 million and to reduce funding for Enforcement at IRS by a similar amount.</description>
+  <actions>
+    <action datetime="2014-07-14T20:13:00-04:00">
+      <text>Amendment (A003) offered by Mr. Posey.</text>
+      <reference ref="CR H6182-6183" label="consideration"/>
+      <reference ref="CR H6182" label="text"/>
+    </action>
+    <vote datetime="2014-07-14T20:21:00-04:00" how="by voice vote" result="pass">
+      <text>On agreeing to the Posey amendment (A003) Agreed to by voice vote.</text>
+    </vote>
+  </actions>
+</amendment>

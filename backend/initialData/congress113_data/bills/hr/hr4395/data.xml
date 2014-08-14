@@ -1,0 +1,88 @@
+<bill session="113" type="h" number="4395" updated="2014-08-14T13:28:53-04:00">
+  <state datetime="2014-04-03">REFERRED</state>
+  <status>
+    <introduced datetime="2014-04-03"/>
+  </status>
+  <introduced datetime="2014-04-03"/>
+  <titles>
+    <title type="short" as="introduced">Action for Dental Health Act 2014</title>
+    <title type="official" as="introduced">To amend part B of title III of the Public Health Service Act to improve essential oral health care for lower-income individuals by breaking down barriers to care.</title>
+  </titles>
+  <sponsor thomas_id="02190"/>
+  <cosponsors>
+    <cosponsor thomas_id="02153" joined="2014-05-23"/>
+    <cosponsor thomas_id="01740" joined="2014-06-19"/>
+    <cosponsor thomas_id="00099" joined="2014-05-29"/>
+    <cosponsor thomas_id="01761" joined="2014-05-20"/>
+    <cosponsor thomas_id="01474" joined="2014-05-08"/>
+    <cosponsor thomas_id="00211" joined="2014-06-17"/>
+    <cosponsor thomas_id="01878" joined="2014-06-09"/>
+    <cosponsor thomas_id="00229" joined="2014-05-21"/>
+    <cosponsor thomas_id="00279" joined="2014-05-23"/>
+    <cosponsor thomas_id="00303" joined="2014-07-08"/>
+    <cosponsor thomas_id="00322" joined="2014-05-21"/>
+    <cosponsor thomas_id="02125" joined="2014-05-29"/>
+    <cosponsor thomas_id="02114" joined="2014-06-17"/>
+    <cosponsor thomas_id="02043" joined="2014-05-29"/>
+    <cosponsor thomas_id="00462" joined="2014-05-29"/>
+    <cosponsor thomas_id="00478" joined="2014-06-17"/>
+    <cosponsor thomas_id="02089" joined="2014-06-19"/>
+    <cosponsor thomas_id="02010" joined="2014-05-23"/>
+    <cosponsor thomas_id="00511" joined="2014-05-07"/>
+    <cosponsor thomas_id="00588" joined="2014-05-13"/>
+    <cosponsor thomas_id="02199" joined="2014-07-08"/>
+    <cosponsor thomas_id="01907" joined="2014-07-08"/>
+    <cosponsor thomas_id="01781" joined="2014-05-13"/>
+    <cosponsor thomas_id="01846" joined="2014-05-29"/>
+    <cosponsor thomas_id="00729" joined="2014-06-17"/>
+    <cosponsor thomas_id="02150" joined="2014-07-08"/>
+    <cosponsor thomas_id="01504" joined="2014-05-23"/>
+    <cosponsor thomas_id="02142" joined="2014-05-20"/>
+    <cosponsor thomas_id="01730" joined="2014-05-21"/>
+    <cosponsor thomas_id="01811" joined="2014-05-21"/>
+    <cosponsor thomas_id="00868" joined="2014-05-13"/>
+    <cosponsor thomas_id="01835" joined="2014-05-21"/>
+    <cosponsor thomas_id="01910" joined="2014-06-19"/>
+    <cosponsor thomas_id="00940" joined="2014-05-08"/>
+    <cosponsor thomas_id="00944" joined="2014-05-07"/>
+    <cosponsor thomas_id="02023" joined="2014-05-29"/>
+    <cosponsor thomas_id="01003" joined="2014-04-29"/>
+    <cosponsor thomas_id="01588" joined="2014-06-19"/>
+    <cosponsor thomas_id="01722" joined="2014-04-29"/>
+    <cosponsor thomas_id="02112" joined="2014-05-21"/>
+    <cosponsor thomas_id="02004" joined="2014-05-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-04-03" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2014-04-04">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Child health"/>
+    <term name="Dental care"/>
+    <term name="Emergency medical services and trauma care"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Medicaid"/>
+    <term name="Poverty and welfare assistance"/>
+    <term name="Public-private cooperation"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+    <term name="Tax-exempt organizations"/>
+  </subjects>
+  <amendments/>
+  <summary>4/3/2014--Introduced.
+Action for Dental Health Act 2014 - Amends the Public Health Service Act to require the Secretary of Health and Human Services (HHS) to award grants to or enter into contracts with eligible entities to obtain portable or mobile dental equipment and to pay for appropriate operational costs for the provision of free dental services to underserved populations that are delivered in a manner consistent with state licensing laws.
+
+Directs the Secretary to award grants to or enter into contracts with eligible entities to collaborate with state, county, or local public officials and other stakeholders in order to develop and implement initiatives to: (1) improve oral health education and dental disease prevention; (2) reduce barriers in a manner that increases dental provider participation in Medicaid and the Children's Health Insurance Program (CHIP); (3) make the health care delivery system providing dental services under Medicaid or CHIP more accessible and efficient by taking actions necessary to facilitate the establishment of dental homes; (4) address geographic, language, cultural, and similar barriers in the provision of dental services; and (5) reduce the use of emergency departments for dental services more appropriately delivered in a dental primary care setting.</summary>
+</bill>

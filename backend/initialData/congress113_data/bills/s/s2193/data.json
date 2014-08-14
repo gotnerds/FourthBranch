@@ -1,0 +1,135 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-04-01", 
+      "references": [
+        {
+          "reference": "CR S1935-1936", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-01", 
+      "committees": [
+        "SSCM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2193-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Commerce, Science, and Transportation", 
+      "committee_id": "SSCM"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Hatch, Orrin G.", 
+      "sponsored_at": "2014-05-07", 
+      "state": "UT", 
+      "thomas_id": "01351", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Isakson, Johnny", 
+      "sponsored_at": "2014-04-01", 
+      "state": "GA", 
+      "thomas_id": "01608", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "McConnell, Mitch", 
+      "sponsored_at": "2014-04-01", 
+      "state": "KY", 
+      "thomas_id": "01395", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Paul, Rand", 
+      "sponsored_at": "2014-04-01", 
+      "state": "KY", 
+      "thomas_id": "02082", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-04-01", 
+  "number": "2193", 
+  "official_title": "A bill to amend the Horse Protection Act to provide increased protection for horses participating in shows, exhibitions, or sales, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr4098-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Horse Protection Amendments Act of 2014", 
+  "sponsor": {
+    "district": null, 
+    "name": "Alexander, Lamar", 
+    "state": "TN", 
+    "thomas_id": "01695", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-04-01", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Animal protection and human-animal relationships", 
+    "Animals", 
+    "Department of Agriculture", 
+    "Licensing and registrations", 
+    "Mammals", 
+    "Medical tests and diagnostic methods", 
+    "Museums, exhibitions, cultural centers", 
+    "Public-private cooperation", 
+    "Veterinary medicine and animal diseases"
+  ], 
+  "subjects_top_term": "Animals", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Horse Protection Amendments Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to amend the Horse Protection Act to provide increased protection for horses participating in shows, exhibitions, or sales, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T14:03:34-04:00"
+}

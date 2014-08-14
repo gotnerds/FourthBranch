@@ -1,0 +1,113 @@
+<bill session="113" type="h" number="718" updated="2014-08-14T12:56:51-04:00">
+  <state datetime="2013-02-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-14"/>
+  </status>
+  <introduced datetime="2013-02-14"/>
+  <titles>
+    <title type="short" as="introduced">Abstinence Education Reallocation Act of 2013</title>
+    <title type="official" as="introduced">To authorize the Secretary of Health and Human Services, acting through the Administrator of the Health Resources and Services Administration, to award grants on a competitive basis to public and private entities to provide qualified sexual risk avoidance education to youth and their parents.</title>
+  </titles>
+  <sponsor thomas_id="02015"/>
+  <cosponsors>
+    <cosponsor thomas_id="01858" joined="2013-06-11"/>
+    <cosponsor thomas_id="01748" joined="2014-02-26"/>
+    <cosponsor thomas_id="01787" joined="2013-05-09"/>
+    <cosponsor thomas_id="02155" joined="2013-04-26"/>
+    <cosponsor thomas_id="01925" joined="2014-03-28"/>
+    <cosponsor thomas_id="01912" joined="2014-03-12"/>
+    <cosponsor thomas_id="02144" joined="2014-02-11"/>
+    <cosponsor thomas_id="02138" joined="2013-04-19"/>
+    <cosponsor thomas_id="02057" joined="2013-02-25"/>
+    <cosponsor thomas_id="00322" joined="2013-09-17"/>
+    <cosponsor thomas_id="02036" joined="2014-04-02"/>
+    <cosponsor thomas_id="02064" joined="2013-02-25"/>
+    <cosponsor thomas_id="01924" joined="2013-03-14"/>
+    <cosponsor thomas_id="02065" joined="2013-03-21"/>
+    <cosponsor thomas_id="01683" joined="2013-04-09"/>
+    <cosponsor thomas_id="01793" joined="2013-04-09"/>
+    <cosponsor thomas_id="01707" joined="2013-07-15"/>
+    <cosponsor thomas_id="01998" joined="2013-03-04"/>
+    <cosponsor thomas_id="02049" joined="2014-04-07"/>
+    <cosponsor thomas_id="02058" joined="2013-07-08"/>
+    <cosponsor thomas_id="01990" joined="2013-09-17"/>
+    <cosponsor thomas_id="02026" joined="2013-04-19"/>
+    <cosponsor thomas_id="02032" joined="2013-11-12"/>
+    <cosponsor thomas_id="02020" joined="2014-04-07"/>
+    <cosponsor thomas_id="02046" joined="2013-02-25"/>
+    <cosponsor thomas_id="01724" joined="2013-02-25"/>
+    <cosponsor thomas_id="00636" joined="2013-07-15"/>
+    <cosponsor thomas_id="02100" joined="2013-05-09"/>
+    <cosponsor thomas_id="01834" joined="2014-02-26"/>
+    <cosponsor thomas_id="02050" joined="2013-07-15"/>
+    <cosponsor thomas_id="01781" joined="2013-02-14"/>
+    <cosponsor thomas_id="02033" joined="2013-02-25"/>
+    <cosponsor thomas_id="01931" joined="2013-03-04"/>
+    <cosponsor thomas_id="01806" joined="2013-02-25"/>
+    <cosponsor thomas_id="01505" joined="2013-05-03"/>
+    <cosponsor thomas_id="02142" joined="2013-07-23"/>
+    <cosponsor thomas_id="01685" joined="2013-02-25"/>
+    <cosponsor thomas_id="02156" joined="2013-02-25"/>
+    <cosponsor thomas_id="02059" joined="2014-04-10"/>
+    <cosponsor thomas_id="01758" joined="2013-03-21"/>
+    <cosponsor thomas_id="02060" joined="2013-03-07"/>
+    <cosponsor thomas_id="02001" joined="2013-05-03"/>
+    <cosponsor thomas_id="02034" joined="2013-03-04"/>
+    <cosponsor thomas_id="02035" joined="2014-03-28"/>
+    <cosponsor thomas_id="01738" joined="2013-07-23"/>
+    <cosponsor thomas_id="02141" joined="2014-02-26"/>
+    <cosponsor thomas_id="01514" joined="2013-03-14"/>
+    <cosponsor thomas_id="02022" joined="2013-07-23"/>
+    <cosponsor thomas_id="02073" joined="2014-04-10"/>
+    <cosponsor thomas_id="01954" joined="2014-04-07"/>
+    <cosponsor thomas_id="02003" joined="2013-03-04"/>
+    <cosponsor thomas_id="01009" joined="2014-02-11"/>
+    <cosponsor thomas_id="01892" joined="2013-02-25"/>
+    <cosponsor thomas_id="02000" joined="2014-04-07"/>
+    <cosponsor thomas_id="02047" joined="2013-02-25"/>
+    <cosponsor thomas_id="01664" joined="2013-02-25"/>
+    <cosponsor thomas_id="01855" joined="2013-12-19"/>
+    <cosponsor thomas_id="02161" joined="2014-02-11"/>
+    <cosponsor thomas_id="02152" joined="2013-04-19"/>
+    <cosponsor thomas_id="01779" joined="2013-02-25"/>
+    <cosponsor thomas_id="01688" joined="2013-03-07"/>
+    <cosponsor thomas_id="01886" joined="2013-04-12"/>
+    <cosponsor thomas_id="02115" joined="2014-02-11"/>
+    <cosponsor thomas_id="02019" joined="2013-07-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-14" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-02-15">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2013-03-04">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H821"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="13"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Child health"/>
+    <term name="Family planning and birth control"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Marriage and family status"/>
+    <term name="Sex and reproductive health"/>
+    <term name="Sexually transmitted diseases"/>
+    <term name="Teenage pregnancy"/>
+  </subjects>
+  <amendments/>
+  <summary>2/14/2013--Introduced.
+Abstinence Education Reallocation Act of 2013 - Authorizes the Administrator of the Health Resources and Services Administration (HRSA) to award grants for qualified sexual risk avoidance education to youth and their parents. Requires such education to meet certain criteria, including: (1) being age-appropriate, medically accurate, and evidence-based; (2) teaching the skills and benefits of sexual abstinence as the optimal sexual health behavior for youth; and (3) teaching the benefits of refraining from nonmarital sexual activity, the advantage of reserving sexual activity for marriage, and the foundational components of a healthy relationship.
+
+Gives priority to programs that serve youth ages 12 to 19 and that will promote the protective benefits of parent-child communication regarding healthy sexual decisionmaking.</summary>
+</bill>

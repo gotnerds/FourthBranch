@@ -1,0 +1,70 @@
+<bill session="113" type="h" number="612" updated="2014-08-14T12:55:57-04:00">
+  <state datetime="2013-02-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-12"/>
+  </status>
+  <introduced datetime="2013-02-12"/>
+  <titles>
+    <title type="short" as="introduced">Safe and Efficient Transportation Act of 2013</title>
+    <title type="official" as="introduced">To amend title 23, United States Code, with respect to vehicle weight limitations applicable to the Interstate System, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01730"/>
+  <cosponsors>
+    <cosponsor thomas_id="01912" joined="2013-04-18"/>
+    <cosponsor thomas_id="01989" joined="2013-02-15"/>
+    <cosponsor thomas_id="02072" joined="2013-02-15"/>
+    <cosponsor thomas_id="02061" joined="2013-05-20"/>
+    <cosponsor thomas_id="01998" joined="2013-03-06"/>
+    <cosponsor thomas_id="01922" joined="2013-04-09"/>
+    <cosponsor thomas_id="00512" joined="2013-03-15"/>
+    <cosponsor thomas_id="02053" joined="2013-02-14"/>
+    <cosponsor thomas_id="01974" joined="2013-03-20"/>
+    <cosponsor thomas_id="00910" joined="2013-02-28"/>
+    <cosponsor thomas_id="02073" joined="2013-02-12"/>
+    <cosponsor thomas_id="01920" joined="2013-02-26"/>
+    <cosponsor thomas_id="01950" joined="2013-02-12"/>
+    <cosponsor thomas_id="01590" joined="2013-02-12"/>
+    <cosponsor thomas_id="01981" joined="2013-05-08"/>
+    <cosponsor thomas_id="01856" joined="2013-02-12"/>
+    <cosponsor thomas_id="01779" joined="2013-02-13"/>
+    <cosponsor thomas_id="01256" joined="2013-02-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-12" state="REFERRED">
+      <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-02-12">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2013-02-12">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-02-13">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+    <committee subcommittee="Highways and Transit" code="HSPW12" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Government trust funds"/>
+    <term name="Infrastructure development"/>
+    <term name="Motor carriers"/>
+    <term name="Motor vehicles"/>
+    <term name="Roads and highways"/>
+    <term name="Tax administration and collection, taxpayers"/>
+    <term name="Transportation programs funding"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>2/12/2013--Introduced.
+Safe and Efficient Transportation Act of 2013 - Allows a state to authorize a vehicle with a maximum gross weight (including enforcement tolerances) exceeding certain federal weight limitations to operate on Interstate Highway System (IHS) routes in the state if: (1) the vehicle is equipped with at least six axles, (2) the weight of any single axle does not exceed 20,000 pounds, (3) the weight of any tandem axle does not exceed 34,000 pounds, (4) the weight of any group of 3 or more axles does not exceed 51,000 pounds, and (5) the gross weight of the vehicle does not exceed 97,000 pounds.
+
+Directs the Secretary of Transportation to establish a safe and efficient vehicle bridge infrastructure improvement program. Requires the Secretary to apportion amounts from the Safe and Efficient Vehicle Trust Fund to states for eligible bridge replacement or rehabilitation projects.
+
+Amends the Internal Revenue Code to: (1) impose a tax on any vehicles that exceed federal weight limitations (gross vehicle weight in excess of 80,000 pounds) operating on the IHS, and (2) establish the Safe and Efficient Vehicle Trust Fund.</summary>
+</bill>

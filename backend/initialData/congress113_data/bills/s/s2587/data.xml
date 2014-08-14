@@ -1,0 +1,26 @@
+<bill session="113" type="s" number="2587" updated="2014-08-14T14:06:51-04:00">
+  <state datetime="2014-07-10">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-10"/>
+  </status>
+  <introduced datetime="2014-07-10"/>
+  <titles>
+    <title type="short" as="introduced">Lawful Ivory Protection Act of 2014</title>
+    <title type="official" as="introduced">A bill to amend the Endangered Species Act of 1973 to protect and conserve species and the lawful possession of certain ivory in the United States, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01695"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-10" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="5052"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

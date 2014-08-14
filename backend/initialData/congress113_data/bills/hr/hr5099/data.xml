@@ -1,0 +1,27 @@
+<bill session="113" type="h" number="5099" updated="2014-08-14T13:35:00-04:00">
+  <state datetime="2014-07-14">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-14"/>
+  </status>
+  <introduced datetime="2014-07-14"/>
+  <titles>
+    <title type="official" as="introduced">To amend the National Institute of Standards and Technology Act to remove the National Security Agency from the list of the entities consulted during the development of information systems standards and guidelines.</title>
+  </titles>
+  <sponsor thomas_id="01914"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-14" state="REFERRED">
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="2014-07-15">
+      <text>Referred to the Subcommittee on Research and Technology.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+    <committee subcommittee="Research and Technology" code="HSSY15" name="House Science, Space, and Technology" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

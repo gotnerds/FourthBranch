@@ -1,0 +1,109 @@
+<bill session="113" type="h" number="3509" updated="2014-08-14T13:21:26-04:00">
+  <state datetime="2013-12-12T16:27:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2013-12-12T16:27:00-05:00"/>
+  </status>
+  <introduced datetime="2013-11-15"/>
+  <titles>
+    <title type="short" as="introduced">Assessing Progress in Haiti Act of 2013</title>
+    <title type="short" as="passed house">Assessing Progress in Haiti Act of 2013</title>
+    <title type="official" as="introduced">To direct the Secretary of State to submit to Congress a report on the status of post-earthquake recovery and development efforts in Haiti.</title>
+  </titles>
+  <sponsor thomas_id="01501"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2013-11-15"/>
+    <cosponsor thomas_id="00091" joined="2013-12-12"/>
+    <cosponsor thomas_id="00132" joined="2013-12-12"/>
+    <cosponsor thomas_id="02159" joined="2013-12-12"/>
+    <cosponsor thomas_id="01925" joined="2013-12-12"/>
+    <cosponsor thomas_id="01956" joined="2013-12-12"/>
+    <cosponsor thomas_id="01474" joined="2013-12-12"/>
+    <cosponsor thomas_id="01864" joined="2013-11-15"/>
+    <cosponsor thomas_id="00229" joined="2013-11-15"/>
+    <cosponsor thomas_id="01643" joined="2013-11-19"/>
+    <cosponsor thomas_id="01717" joined="2013-11-15"/>
+    <cosponsor thomas_id="00344" joined="2013-11-15"/>
+    <cosponsor thomas_id="01803" joined="2013-12-12"/>
+    <cosponsor thomas_id="01708" joined="2013-12-12"/>
+    <cosponsor thomas_id="00511" joined="2013-12-12"/>
+    <cosponsor thomas_id="00588" joined="2013-11-21"/>
+    <cosponsor thomas_id="01843" joined="2013-12-12"/>
+    <cosponsor thomas_id="00688" joined="2013-12-12"/>
+    <cosponsor thomas_id="01506" joined="2013-11-15"/>
+    <cosponsor thomas_id="01811" joined="2013-12-12"/>
+    <cosponsor thomas_id="00832" joined="2013-12-12"/>
+    <cosponsor thomas_id="02118" joined="2013-11-15"/>
+    <cosponsor thomas_id="00944" joined="2013-11-15"/>
+    <cosponsor thomas_id="02023" joined="2013-12-12"/>
+    <cosponsor thomas_id="00985" joined="2013-11-15"/>
+    <cosponsor thomas_id="00998" joined="2013-11-15"/>
+    <cosponsor thomas_id="01003" joined="2013-12-12"/>
+    <cosponsor thomas_id="01588" joined="2013-12-12"/>
+    <cosponsor thomas_id="01861" joined="2013-12-12"/>
+    <cosponsor thomas_id="01526" joined="2013-11-19"/>
+    <cosponsor thomas_id="01535" joined="2013-12-12"/>
+    <cosponsor thomas_id="01777" joined="2013-12-12"/>
+    <cosponsor thomas_id="01205" joined="2013-11-15"/>
+    <cosponsor thomas_id="02004" joined="2013-11-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-11-15" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2013-11-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2013-11-20" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+    </calendar>
+    <action datetime="2013-12-12T16:05:00-05:00">
+      <text>Mr. Royce moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2013-12-12T16:05:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H8049-8053" label="consideration"/>
+    </action>
+    <action datetime="2013-12-12T16:05:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3509.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2013-12-12T16:27:00-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H8049-8051" label="text"/>
+    </vote>
+    <action datetime="2013-12-13">
+      <text>Received in the Senate and Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral, Markup"/>
+    <committee subcommittee="" code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Caribbean area"/>
+    <term name="Congressional oversight"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Haiti"/>
+    <term name="Human rights"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Latin America"/>
+    <term name="Natural disasters"/>
+    <term name="Navigation, waterways, harbors"/>
+    <term name="Performance measurement"/>
+    <term name="Political movements and philosophies"/>
+    <term name="Public-private cooperation"/>
+    <term name="Reconstruction and stabilization"/>
+    <term name="Sovereignty, recognition, national governance and status"/>
+  </subjects>
+  <amendments/>
+  <summary>12/12/2013--Passed House amended.
+Assessing Progress in Haiti Act of 2013 - Expresses the sense of Congress that transparency, accountability, democracy, and good governance are integral factors in any congressional decision regarding U.S. assistance, including assistance to Haiti.
+
+Directs the Secretary of State to report to Congress within 120 days, and every 180 days thereafter through September 30, 2016, on the status of post-earthquake recovery and development efforts in Haiti.
+
+Requires inclusion in such report: (1) a summary of the Haiti rebuilding and development strategy; (2) a breakdown of the work (and costs) that U.S. government agencies, other than the U.S. Agency for International Development (USAID) and the Department of State, are conducting in the recovery effort; (3) a description of measures taken to strengthen Haitian governmental and non-governmental organizational capacity to undertake U.S.-supported recovery programs; (4) a description of U.S. efforts to engage with Haitian government ministries, local authorities, civil society, and the Haitian diaspora; (5) a description of efforts to increase the involvement of the Haitian private sector in recovery and development activities; (6) an assessment of efforts to address the needs of vulnerable populations; and (7) a description of the steps Haiti is taking to strengthen its capacity to receive individuals who are removed, excluded, or deported from the United States.</summary>
+</bill>

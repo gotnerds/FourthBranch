@@ -1,0 +1,93 @@
+<bill session="113" type="h" number="864" updated="2014-08-14T12:58:04-04:00">
+  <state datetime="2013-02-27">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-27"/>
+  </status>
+  <introduced datetime="2013-02-27"/>
+  <titles>
+    <title type="official" as="introduced">To direct the Secretary of Veterans Affairs to designate at least one city in the United States each year as an "American World War II City", and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01505"/>
+  <cosponsors>
+    <cosponsor thomas_id="00021" joined="2013-03-20"/>
+    <cosponsor thomas_id="02027" joined="2013-03-20"/>
+    <cosponsor thomas_id="00091" joined="2013-03-20"/>
+    <cosponsor thomas_id="01761" joined="2013-03-20"/>
+    <cosponsor thomas_id="01889" joined="2013-03-20"/>
+    <cosponsor thomas_id="00186" joined="2013-04-26"/>
+    <cosponsor thomas_id="00208" joined="2013-04-26"/>
+    <cosponsor thomas_id="00211" joined="2013-04-10"/>
+    <cosponsor thomas_id="01878" joined="2013-04-25"/>
+    <cosponsor thomas_id="00229" joined="2013-04-12"/>
+    <cosponsor thomas_id="00231" joined="2013-04-26"/>
+    <cosponsor thomas_id="01836" joined="2013-04-26"/>
+    <cosponsor thomas_id="01604" joined="2013-03-20"/>
+    <cosponsor thomas_id="01807" joined="2013-03-20"/>
+    <cosponsor thomas_id="00256" joined="2013-03-21"/>
+    <cosponsor thomas_id="01641" joined="2013-03-20"/>
+    <cosponsor thomas_id="00281" joined="2013-04-26"/>
+    <cosponsor thomas_id="01976" joined="2013-04-25"/>
+    <cosponsor thomas_id="01717" joined="2013-03-21"/>
+    <cosponsor thomas_id="00322" joined="2013-04-26"/>
+    <cosponsor thomas_id="00344" joined="2013-04-11"/>
+    <cosponsor thomas_id="00371" joined="2013-04-26"/>
+    <cosponsor thomas_id="01895" joined="2013-04-26"/>
+    <cosponsor thomas_id="00446" joined="2013-04-25"/>
+    <cosponsor thomas_id="00462" joined="2013-04-11"/>
+    <cosponsor thomas_id="02089" joined="2013-03-20"/>
+    <cosponsor thomas_id="00511" joined="2013-03-20"/>
+    <cosponsor thomas_id="02143" joined="2013-03-20"/>
+    <cosponsor thomas_id="01580" joined="2013-03-20"/>
+    <cosponsor thomas_id="00599" joined="2013-03-21"/>
+    <cosponsor thomas_id="00612" joined="2013-02-27"/>
+    <cosponsor thomas_id="01498" joined="2013-03-20"/>
+    <cosponsor thomas_id="01583" joined="2013-04-25"/>
+    <cosponsor thomas_id="00683" joined="2013-04-26"/>
+    <cosponsor thomas_id="01781" joined="2013-03-21"/>
+    <cosponsor thomas_id="01671" joined="2013-03-20"/>
+    <cosponsor thomas_id="01503" joined="2013-03-21"/>
+    <cosponsor thomas_id="02142" joined="2013-03-20"/>
+    <cosponsor thomas_id="01506" joined="2013-04-11"/>
+    <cosponsor thomas_id="01685" joined="2013-03-21"/>
+    <cosponsor thomas_id="00867" joined="2013-04-26"/>
+    <cosponsor thomas_id="01510" joined="2013-03-21"/>
+    <cosponsor thomas_id="01930" joined="2013-04-26"/>
+    <cosponsor thomas_id="00910" joined="2013-04-26"/>
+    <cosponsor thomas_id="00930" joined="2013-04-10"/>
+    <cosponsor thomas_id="00940" joined="2013-03-20"/>
+    <cosponsor thomas_id="01728" joined="2013-04-12"/>
+    <cosponsor thomas_id="01757" joined="2013-03-21"/>
+    <cosponsor thomas_id="01042" joined="2013-03-20"/>
+    <cosponsor thomas_id="01741" joined="2013-04-26"/>
+    <cosponsor thomas_id="02112" joined="2013-04-26"/>
+    <cosponsor thomas_id="01222" joined="2013-03-21"/>
+    <cosponsor thomas_id="01688" joined="2013-04-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-27" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-03-08">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee subcommittee="Disability Assistance and Memorial Affairs" code="HSVR09" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Conflicts and wars"/>
+    <term name="Congressional tributes"/>
+    <term name="Military history"/>
+    <term name="North Carolina"/>
+    <term name="Urban and suburban affairs and development"/>
+    <term name="Veterans' organizations and recognition"/>
+  </subjects>
+  <amendments/>
+  <summary>2/27/2013--Introduced.
+Directs the Secretary of Veterans Affairs (VA) to designate at least one city in the United States each year as an "American World War II City" based on: (1) contributions to the war effort during World War II; and (2) efforts to preserve the history of such contributions, including preservation organizations or museums, restoration of World War II facilities, and recognition of World War II veterans.
+
+Designates Wilmington, North Carolina, as the first such city.</summary>
+</bill>

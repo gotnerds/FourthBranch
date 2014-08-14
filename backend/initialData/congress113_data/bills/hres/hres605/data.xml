@@ -1,0 +1,72 @@
+<bill session="113" type="hr" number="605" updated="2014-08-14T12:49:45-04:00">
+  <state datetime="2014-05-29">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-29"/>
+  </status>
+  <introduced datetime="2014-05-29"/>
+  <titles>
+    <title type="official" as="introduced">Recognizing the significance of Asian/Pacific American Heritage Month in May as an important time to celebrate the significant contributions of Asian Americans and Pacific Islanders to the Nation's history.</title>
+  </titles>
+  <sponsor thomas_id="01970"/>
+  <cosponsors>
+    <cosponsor thomas_id="00070" joined="2014-05-29"/>
+    <cosponsor thomas_id="02102" joined="2014-05-29"/>
+    <cosponsor thomas_id="01723" joined="2014-05-29"/>
+    <cosponsor thomas_id="01959" joined="2014-05-29"/>
+    <cosponsor thomas_id="00229" joined="2014-05-29"/>
+    <cosponsor thomas_id="01604" joined="2014-05-29"/>
+    <cosponsor thomas_id="01641" joined="2014-05-29"/>
+    <cosponsor thomas_id="00355" joined="2014-05-29"/>
+    <cosponsor thomas_id="00367" joined="2014-05-29"/>
+    <cosponsor thomas_id="01895" joined="2014-05-29"/>
+    <cosponsor thomas_id="02122" joined="2014-05-29"/>
+    <cosponsor thomas_id="01803" joined="2014-05-29"/>
+    <cosponsor thomas_id="01708" joined="2014-05-29"/>
+    <cosponsor thomas_id="02010" joined="2014-05-29"/>
+    <cosponsor thomas_id="01634" joined="2014-05-29"/>
+    <cosponsor thomas_id="01501" joined="2014-05-29"/>
+    <cosponsor thomas_id="00701" joined="2014-05-29"/>
+    <cosponsor thomas_id="02111" joined="2014-05-29"/>
+    <cosponsor thomas_id="01814" joined="2014-05-29"/>
+    <cosponsor thomas_id="02148" joined="2014-05-29"/>
+    <cosponsor thomas_id="01602" joined="2014-05-29"/>
+    <cosponsor thomas_id="02113" joined="2014-05-29"/>
+    <cosponsor thomas_id="00944" joined="2014-05-29"/>
+    <cosponsor thomas_id="00997" joined="2014-05-29"/>
+    <cosponsor thomas_id="01962" joined="2014-05-29"/>
+    <cosponsor thomas_id="01757" joined="2014-05-29"/>
+    <cosponsor thomas_id="01522" joined="2014-05-29"/>
+    <cosponsor thomas_id="01635" joined="2014-05-29"/>
+    <cosponsor thomas_id="01037" joined="2014-05-29"/>
+    <cosponsor thomas_id="01528" joined="2014-05-29"/>
+    <cosponsor thomas_id="01890" joined="2014-05-29"/>
+    <cosponsor thomas_id="02104" joined="2014-05-29"/>
+    <cosponsor thomas_id="02110" joined="2014-05-29"/>
+    <cosponsor thomas_id="01729" joined="2014-05-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-29" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="113" relation="identical" number="189"/>
+    <bill type="sr" session="113" relation="unknown" number="129"/>
+    <bill type="sr" session="113" relation="unknown" number="460"/>
+  </relatedbills>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Asia"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Racial and ethnic relations"/>
+  </subjects>
+  <amendments/>
+  <summary>5/29/2014--Introduced.
+Recognizes the significance of Asian/Pacific American Heritage Month (May) as an important time to celebrate the contributions of Asian Americans and Pacific Islanders to our nation's history.
+
+Recognizes that Asian American and Pacific Islander communities enhance the rich diversity of the United States.</summary>
+</bill>

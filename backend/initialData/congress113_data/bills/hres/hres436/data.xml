@@ -1,0 +1,90 @@
+<bill session="113" type="hr" number="436" updated="2014-08-14T12:48:20-04:00">
+  <state datetime="2013-12-10">REFERRED</state>
+  <status>
+    <introduced datetime="2013-12-10"/>
+  </status>
+  <introduced datetime="2013-12-10"/>
+  <titles>
+    <title type="official" as="introduced">Recognizing the 65th anniversary of the Universal Declaration of Human Rights and the celebration of "Human Rights Day".</title>
+  </titles>
+  <sponsor thomas_id="02111"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2013-12-10"/>
+    <cosponsor thomas_id="02106" joined="2013-12-12"/>
+    <cosponsor thomas_id="02107" joined="2013-12-10"/>
+    <cosponsor thomas_id="01889" joined="2014-01-09"/>
+    <cosponsor thomas_id="02159" joined="2014-01-27"/>
+    <cosponsor thomas_id="01970" joined="2013-12-10"/>
+    <cosponsor thomas_id="02055" joined="2013-12-10"/>
+    <cosponsor thomas_id="00229" joined="2013-12-10"/>
+    <cosponsor thomas_id="01774" joined="2013-12-10"/>
+    <cosponsor thomas_id="01604" joined="2013-12-10"/>
+    <cosponsor thomas_id="01477" joined="2013-12-10"/>
+    <cosponsor thomas_id="01641" joined="2013-12-10"/>
+    <cosponsor thomas_id="01857" joined="2013-12-10"/>
+    <cosponsor thomas_id="00355" joined="2013-12-10"/>
+    <cosponsor thomas_id="00368" joined="2013-12-10"/>
+    <cosponsor thomas_id="01973" joined="2013-12-10"/>
+    <cosponsor thomas_id="00478" joined="2013-12-10"/>
+    <cosponsor thomas_id="02089" joined="2013-12-10"/>
+    <cosponsor thomas_id="01490" joined="2013-12-10"/>
+    <cosponsor thomas_id="01634" joined="2013-12-10"/>
+    <cosponsor thomas_id="02101" joined="2013-12-10"/>
+    <cosponsor thomas_id="00588" joined="2013-12-10"/>
+    <cosponsor thomas_id="02025" joined="2013-12-10"/>
+    <cosponsor thomas_id="01501" joined="2013-12-10"/>
+    <cosponsor thomas_id="00683" joined="2013-12-10"/>
+    <cosponsor thomas_id="00701" joined="2013-12-10"/>
+    <cosponsor thomas_id="01814" joined="2013-12-10"/>
+    <cosponsor thomas_id="01653" joined="2013-12-10"/>
+    <cosponsor thomas_id="01504" joined="2013-12-10"/>
+    <cosponsor thomas_id="01832" joined="2013-12-10"/>
+    <cosponsor thomas_id="01602" joined="2013-12-10"/>
+    <cosponsor thomas_id="02108" joined="2013-12-10"/>
+    <cosponsor thomas_id="02113" joined="2013-12-10"/>
+    <cosponsor thomas_id="02109" joined="2013-12-10"/>
+    <cosponsor thomas_id="01757" joined="2013-12-10"/>
+    <cosponsor thomas_id="01522" joined="2013-12-10"/>
+    <cosponsor thomas_id="01526" joined="2013-12-10"/>
+    <cosponsor thomas_id="01890" joined="2013-12-10"/>
+    <cosponsor thomas_id="02104" joined="2013-12-10"/>
+    <cosponsor thomas_id="01593" joined="2013-12-10"/>
+    <cosponsor thomas_id="01535" joined="2014-01-09"/>
+    <cosponsor thomas_id="01729" joined="2013-12-12"/>
+    <cosponsor thomas_id="02112" joined="2013-12-10"/>
+    <cosponsor thomas_id="01209" joined="2013-12-10"/>
+    <cosponsor thomas_id="02004" joined="2013-12-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-12-10">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H7619"/>
+    </action>
+    <action datetime="2013-12-10" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2014-01-10">
+      <text>Referred to the Subcommittee on Africa, Global Health, Global Human Rights and International Organizations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee subcommittee="Africa, Global Health, Global Human Rights and International Organizations" code="HSFA16" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Human rights"/>
+    <term name="International law and treaties"/>
+    <term name="Political movements and philosophies"/>
+    <term name="Rule of law and government transparency"/>
+  </subjects>
+  <amendments/>
+  <summary>12/10/2013--Introduced.
+Recognizes the 65th anniversary of the Universal Declaration of Human Rights and the celebration of Human Rights Day.
+
+Supports the ideals of human rights and reaffirms the Universal Declaration of Human Rights.
+
+ Encourages all nations to continue working towards freedom, peace, and security which can be achieved only through democracy, respect for human rights, and the rule of law.</summary>
+</bill>

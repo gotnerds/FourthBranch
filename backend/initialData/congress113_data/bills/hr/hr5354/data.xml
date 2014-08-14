@@ -1,0 +1,56 @@
+<bill session="113" type="h" number="5354" updated="2014-08-14T13:37:11-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="short" as="introduced">Campus Accountability and Safety Act</title>
+    <title type="official" as="introduced">To amend the Higher Education Act of 1965 and the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act to combat campus sexual violence, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00729"/>
+  <cosponsors>
+    <cosponsor thomas_id="02092" joined="2014-07-31"/>
+    <cosponsor thomas_id="01845" joined="2014-08-01"/>
+    <cosponsor thomas_id="02129" joined="2014-07-31"/>
+    <cosponsor thomas_id="02127" joined="2014-07-31"/>
+    <cosponsor thomas_id="01676" joined="2014-07-31"/>
+    <cosponsor thomas_id="01774" joined="2014-08-01"/>
+    <cosponsor thomas_id="02126" joined="2014-08-01"/>
+    <cosponsor thomas_id="02036" joined="2014-07-31"/>
+    <cosponsor thomas_id="02119" joined="2014-07-31"/>
+    <cosponsor thomas_id="01921" joined="2014-07-31"/>
+    <cosponsor thomas_id="02154" joined="2014-07-31"/>
+    <cosponsor thomas_id="02145" joined="2014-07-31"/>
+    <cosponsor thomas_id="02052" joined="2014-07-31"/>
+    <cosponsor thomas_id="01811" joined="2014-07-31"/>
+    <cosponsor thomas_id="02060" joined="2014-07-31"/>
+    <cosponsor thomas_id="01929" joined="2014-07-31"/>
+    <cosponsor thomas_id="01802" joined="2014-07-31"/>
+    <cosponsor thomas_id="01982" joined="2014-07-31"/>
+    <cosponsor thomas_id="00997" joined="2014-07-31"/>
+    <cosponsor thomas_id="01037" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Referred to the Committee on Education and the Workforce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2014-08-01">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1313"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

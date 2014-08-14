@@ -1,0 +1,41 @@
+<bill session="113" type="h" number="4605" updated="2014-08-14T13:30:38-04:00">
+  <state datetime="2014-05-08">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-08"/>
+  </status>
+  <introduced datetime="2014-05-08"/>
+  <titles>
+    <title type="short" as="introduced">ChiPACC Act of 2014</title>
+    <title type="official" as="introduced">To amend title XIX of the Social Security Act to provide States an option to cover a children's program of all-inclusive coordinated care (ChiPACC) under the Medicaid program.</title>
+  </titles>
+  <sponsor thomas_id="02036"/>
+  <cosponsors>
+    <cosponsor thomas_id="02103" joined="2014-07-08"/>
+    <cosponsor thomas_id="00484" joined="2014-06-05"/>
+    <cosponsor thomas_id="01804" joined="2014-07-08"/>
+    <cosponsor thomas_id="00832" joined="2014-05-08"/>
+    <cosponsor thomas_id="01942" joined="2014-06-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-08" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2014-05-09">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Child health"/>
+    <term name="Comprehensive health care"/>
+    <term name="Medicaid"/>
+  </subjects>
+  <amendments/>
+  <summary>5/8/2014--Introduced.
+ChiPACC Act of 2014 Amends title XIX (Medicaid) of the Social Security Act to give states the option of covering a children's program of all-inclusive coordinated care (ChiPACC).</summary>
+</bill>

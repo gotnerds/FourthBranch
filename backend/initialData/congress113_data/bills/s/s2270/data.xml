@@ -1,0 +1,102 @@
+<bill session="113" type="s" number="2270" updated="2014-08-14T14:04:12-04:00">
+  <state datetime="2014-06-03">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2014-06-03"/>
+  </status>
+  <introduced datetime="2014-04-29"/>
+  <titles>
+    <title type="short" as="introduced">Insurance Capital Standards Clarification Act of 2014</title>
+    <title type="short" as="passed senate">Insurance Capital Standards Clarification Act of 2014</title>
+    <title type="official" as="introduced">A bill to clarify the application of certain leverage and risk-based requirements under the Dodd-Frank Wall Street Reform and Consumer Protection Act.</title>
+  </titles>
+  <sponsor thomas_id="01541"/>
+  <cosponsors>
+    <cosponsor thomas_id="02075" joined="2014-06-02"/>
+    <cosponsor thomas_id="01558" joined="2014-06-02"/>
+    <cosponsor thomas_id="02076" joined="2014-05-22"/>
+    <cosponsor thomas_id="01464" joined="2014-05-20"/>
+    <cosponsor thomas_id="02194" joined="2014-05-06"/>
+    <cosponsor thomas_id="00136" joined="2014-04-29"/>
+    <cosponsor thomas_id="00153" joined="2014-05-20"/>
+    <cosponsor thomas_id="00179" joined="2014-06-03"/>
+    <cosponsor thomas_id="00188" joined="2014-06-03"/>
+    <cosponsor thomas_id="00326" joined="2014-06-02"/>
+    <cosponsor thomas_id="01542" joined="2014-05-21"/>
+    <cosponsor thomas_id="02179" joined="2014-05-22"/>
+    <cosponsor thomas_id="00457" joined="2014-05-13"/>
+    <cosponsor thomas_id="01902" joined="2014-05-07"/>
+    <cosponsor thomas_id="00501" joined="2014-05-22"/>
+    <cosponsor thomas_id="02174" joined="2014-06-03"/>
+    <cosponsor thomas_id="01863" joined="2014-04-30"/>
+    <cosponsor thomas_id="01608" joined="2014-05-13"/>
+    <cosponsor thomas_id="01899" joined="2014-04-29"/>
+    <cosponsor thomas_id="02185" joined="2014-06-02"/>
+    <cosponsor thomas_id="01647" joined="2014-04-29"/>
+    <cosponsor thomas_id="01826" joined="2014-06-02"/>
+    <cosponsor thomas_id="01820" joined="2014-05-22"/>
+    <cosponsor thomas_id="00791" joined="2014-06-02"/>
+    <cosponsor thomas_id="01507" joined="2014-06-02"/>
+    <cosponsor thomas_id="00924" joined="2014-05-06"/>
+    <cosponsor thomas_id="01036" joined="2014-06-03"/>
+    <cosponsor thomas_id="02056" joined="2014-06-03"/>
+    <cosponsor thomas_id="01901" joined="2014-06-03"/>
+    <cosponsor thomas_id="01829" joined="2014-04-29"/>
+    <cosponsor thomas_id="02085" joined="2014-05-12"/>
+    <cosponsor thomas_id="01609" joined="2014-05-13"/>
+    <cosponsor thomas_id="01897" joined="2014-05-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-04-29">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S2471-2472"/>
+    </action>
+    <action datetime="2014-04-29" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+      <reference ref="CR S2472-2473" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2014-06-03">
+      <text>Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="2014-06-03">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S3383-3384" label="consideration"/>
+    </action>
+    <vote how="by Unanimous Consent" type="vote" datetime="2014-06-03" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Unanimous Consent.</text>
+    </vote>
+    <action datetime="2014-06-04">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2014-06-05T15:02:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2014-06-05">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, Discharged"/>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="4510"/>
+    <bill type="s" session="113" relation="unknown" number="2102"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Foreign and international corporations"/>
+    <term name="Insurance industry and regulation"/>
+  </subjects>
+  <amendments>
+    <amendment number="s3229"/>
+  </amendments>
+  <summary>6/3/2014--Passed Senate amended.
+Insurance Capital Standards Clarification Act of 2014 - Amends the Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank) concerning establishment of minimum leverage and minimum risk-based capital requirements on a consolidated basis for a depository institution holding company or a nonbank financial company supervised by the Board of Governors of the Federal Reserve System.
+
+States that federal banking agencies shall not be required to subject any person to such minimum capital requirements, to the extent that such person either: (1) acts in its capacity as a regulated insurance entity regulated by a state insurance regulator, or (2) is a regulated foreign subsidiary engaged in the business of insurance (including a regulated foreign affiliate of such subsidiary).
+
+States that a Board-supervised depository institution holding company or nonbank financial company engaged in the insurance business and regulated by either a state insurance regulator or the National Association of Insurance Commissioners, and which files its holding company financial statements using only Statutory Accounting Principles pursuant to state law, shall not be required by the Board, under this Act or the Home Owners' Loan Act (HOLA), to prepare such financial statements in accordance with Generally Accepted Accounting Principles.
+
+Declares that nothing in this Act shall: (1) limit Board authority to conduct any regulatory or supervisory activity of either a depository institution holding company or a non-bank financial company under Board jurisdiction, including the collecting or reporting of any information on an entity or group-wide basis; or (2) excuse the Board from its obligations to comply with Dodd-Frank requirements regarding examination of nonbank financial companies and HOLA requirements regarding examination of savings and loan holding companies.</summary>
+</bill>

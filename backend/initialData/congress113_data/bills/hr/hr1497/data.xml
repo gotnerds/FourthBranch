@@ -1,0 +1,78 @@
+<bill session="113" type="h" number="1497" updated="2014-08-14T13:03:26-04:00">
+  <state datetime="2013-06-12">REPORTED</state>
+  <status>
+    <unknown datetime="2013-06-12"/>
+  </status>
+  <introduced datetime="2013-04-11"/>
+  <titles>
+    <title type="short" as="introduced">War Memorial Protection Act</title>
+    <title type="short" as="reported to house">War Memorial Protection Act</title>
+    <title type="official" as="introduced">To amend title 36, United States Code, to ensure that memorials commemorating the service of the United States Armed Forces may contain religious symbols, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01909"/>
+  <cosponsors>
+    <cosponsor thomas_id="01858" joined="2013-05-07"/>
+    <cosponsor thomas_id="00165" joined="2013-04-11"/>
+    <cosponsor thomas_id="00186" joined="2013-04-11"/>
+    <cosponsor thomas_id="00211" joined="2013-04-11"/>
+    <cosponsor thomas_id="02057" joined="2013-04-11"/>
+    <cosponsor thomas_id="01791" joined="2013-04-18"/>
+    <cosponsor thomas_id="01801" joined="2013-04-12"/>
+    <cosponsor thomas_id="01640" joined="2013-04-11"/>
+    <cosponsor thomas_id="00612" joined="2013-04-11"/>
+    <cosponsor thomas_id="01733" joined="2013-04-11"/>
+    <cosponsor thomas_id="02100" joined="2013-04-11"/>
+    <cosponsor thomas_id="01885" joined="2013-04-11"/>
+    <cosponsor thomas_id="01908" joined="2013-04-11"/>
+    <cosponsor thomas_id="01685" joined="2013-04-11"/>
+    <cosponsor thomas_id="02034" joined="2013-04-11"/>
+    <cosponsor thomas_id="02113" joined="2013-04-11"/>
+    <cosponsor thomas_id="01954" joined="2013-04-11"/>
+    <cosponsor thomas_id="02112" joined="2013-04-11"/>
+    <cosponsor thomas_id="01886" joined="2013-04-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-11" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-04-25">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+    </action>
+    <action datetime="2013-06-06">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2013-06-12">
+      <text>Subcommittee on Public Lands and Environmental Regulation Discharged.</text>
+    </action>
+    <action datetime="2013-06-12">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2013-06-12" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+    </calendar>
+    <action datetime="2013-07-08T15:09:00-04:00">
+      <text>Reported (Amended) by the Committee on Natural Resources. H. Rept. 113-140.</text>
+    </action>
+    <calendar datetime="2013-07-08T15:09:00-04:00" calendar="Union" number="102">
+      <text>Placed on the Union Calendar, Calendar No. 102.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting, In Committee"/>
+    <committee subcommittee="Public Lands and Environmental Regulation" code="HSII10" name="House Natural Resources" activity="Referral, Hearings, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="705"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Monuments and memorials"/>
+    <term name="Religion"/>
+  </subjects>
+  <amendments/>
+  <summary>7/8/2013--Reported to House amended.
+War Memorial Protection Act - Permits emblems of belief approved for placement on government-provided headstones and markers to be included as part of: (1) a military memorial established or acquired by the federal government; or (2) any other military memorial established in cooperation with the American Battle Monuments Commission.
+
+Includes as approved emblems, at a minimum, all those authorized by the National Cemetery Administration.</summary>
+</bill>

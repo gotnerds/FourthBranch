@@ -1,0 +1,91 @@
+<bill session="113" type="h" number="4318" updated="2014-08-14T13:28:14-04:00">
+  <state datetime="2014-04-30">REPORTED</state>
+  <status>
+    <unknown datetime="2014-04-30"/>
+  </status>
+  <introduced datetime="2014-03-27"/>
+  <titles>
+    <title type="short" as="introduced">Endangered Species Litigation Reasonableness Act</title>
+    <title type="short" as="reported to house">Endangered Species Litigation Reasonableness Act</title>
+    <title type="official" as="introduced">To amend the Endangered Species Act of 1973 to conform citizen suits under that Act with other existing law, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02028"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2014-03-27"/>
+    <cosponsor thomas_id="01753" joined="2014-03-27"/>
+    <cosponsor thomas_id="01742" joined="2014-04-01"/>
+    <cosponsor thomas_id="02121" joined="2014-03-27"/>
+    <cosponsor thomas_id="02098" joined="2014-04-28"/>
+    <cosponsor thomas_id="02144" joined="2014-04-28"/>
+    <cosponsor thomas_id="01707" joined="2014-04-03"/>
+    <cosponsor thomas_id="01992" joined="2014-04-28"/>
+    <cosponsor thomas_id="02026" joined="2014-03-27"/>
+    <cosponsor thomas_id="00512" joined="2014-03-27"/>
+    <cosponsor thomas_id="02020" joined="2014-05-19"/>
+    <cosponsor thomas_id="00612" joined="2014-05-19"/>
+    <cosponsor thomas_id="02050" joined="2014-03-27"/>
+    <cosponsor thomas_id="00711" joined="2014-04-01"/>
+    <cosponsor thomas_id="01931" joined="2014-03-27"/>
+    <cosponsor thomas_id="01960" joined="2014-03-27"/>
+    <cosponsor thomas_id="01908" joined="2014-04-29"/>
+    <cosponsor thomas_id="01758" joined="2014-03-27"/>
+    <cosponsor thomas_id="01738" joined="2014-06-12"/>
+    <cosponsor thomas_id="02022" joined="2014-05-06"/>
+    <cosponsor thomas_id="02191" joined="2014-05-19"/>
+    <cosponsor thomas_id="02000" joined="2014-03-27"/>
+    <cosponsor thomas_id="01114" joined="2014-04-03"/>
+    <cosponsor thomas_id="01952" joined="2014-03-27"/>
+    <cosponsor thomas_id="01664" joined="2014-05-07"/>
+    <cosponsor thomas_id="01997" joined="2014-04-30"/>
+    <cosponsor thomas_id="02105" joined="2014-03-27"/>
+    <cosponsor thomas_id="01596" joined="2014-04-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-03-27" state="REFERRED">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-03-27">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2014-03-27">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2014-04-08">
+      <text>Committee Hearings Held.</text>
+    </action>
+    <action datetime="2014-04-16">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+    <action datetime="2014-04-30">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-04-30" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 27 - 15.</text>
+    </calendar>
+    <action datetime="2014-07-17T17:07:00-04:00">
+      <text>Reported by the Committee on Natural Resources. H. Rept. 113-540, Part I.</text>
+    </action>
+    <action datetime="2014-07-17T17:07:00-04:00">
+      <text>Committee on the Judiciary discharged.</text>
+    </action>
+    <calendar datetime="2014-07-17T17:07:00-04:00" calendar="Union" number="406">
+      <text>Placed on the Union Calendar, Calendar No. 406.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral, Hearings, Markup, Reporting"/>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, Discharged"/>
+    <committee subcommittee="Constitution and Civil Justice" code="HSJU10" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Animals"/>
+    <term name="Civil actions and liability"/>
+    <term name="Endangered and threatened species"/>
+    <term name="Legal fees and court costs"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+  <summary>3/27/2014--Introduced.
+Endangered Species Litigation Reasonableness Act - Amends the Endangered Species Act of 1973 to replace the current standard for awarding court costs, including attorney fees, in citizen suits with the federal judicial code standard for awarding costs to a prevailing party.</summary>
+</bill>

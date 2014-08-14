@@ -1,0 +1,55 @@
+<bill session="113" type="s" number="623" updated="2014-08-14T13:50:02-04:00">
+  <state datetime="2013-03-20">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-20"/>
+  </status>
+  <introduced datetime="2013-03-20"/>
+  <titles>
+    <title type="short" as="introduced">Diagnostic Imaging Services Access Protection Act of 2013</title>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to ensure the continued access of Medicare beneficiaries to diagnostic imaging services.</title>
+  </titles>
+  <sponsor thomas_id="00174"/>
+  <cosponsors>
+    <cosponsor thomas_id="01695" joined="2013-06-18"/>
+    <cosponsor thomas_id="02075" joined="2014-01-16"/>
+    <cosponsor thomas_id="01898" joined="2013-05-08"/>
+    <cosponsor thomas_id="01464" joined="2013-06-19"/>
+    <cosponsor thomas_id="00153" joined="2013-09-10"/>
+    <cosponsor thomas_id="01541" joined="2013-05-06"/>
+    <cosponsor thomas_id="02189" joined="2013-05-08"/>
+    <cosponsor thomas_id="01902" joined="2013-10-28"/>
+    <cosponsor thomas_id="01937" joined="2013-04-25"/>
+    <cosponsor thomas_id="01863" joined="2013-10-28"/>
+    <cosponsor thomas_id="00583" joined="2014-02-26"/>
+    <cosponsor thomas_id="01608" joined="2013-11-06"/>
+    <cosponsor thomas_id="01826" joined="2013-05-20"/>
+    <cosponsor thomas_id="01546" joined="2013-05-08"/>
+    <cosponsor thomas_id="00735" joined="2013-09-09"/>
+    <cosponsor thomas_id="01507" joined="2013-09-10"/>
+    <cosponsor thomas_id="01837" joined="2013-08-01"/>
+    <cosponsor thomas_id="01701" joined="2013-06-07"/>
+    <cosponsor thomas_id="01896" joined="2013-07-08"/>
+    <cosponsor thomas_id="00968" joined="2013-11-06"/>
+    <cosponsor thomas_id="01531" joined="2013-09-10"/>
+    <cosponsor thomas_id="01609" joined="2013-03-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-20" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="846"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>3/20/2013--Introduced.
+Diagnostic Imaging Services Access Protection Act of 2013 - Amends title XVIII (Medicare) of the Social Security Act, with respect to payments for physician services, to prohibit the Secretary of Health and Human Services (HHS) from applying a multiple procedure payment reduction policy to the professional component of imaging services until the Secretary publishes in the Federal Register: (1) an analysis of the information used in the final rule to implement the physician fee schedule in 2013 to determine what, if any, efficiences exist within the professional component of imaging services when two or more studies are performed on the same patient on the same day; and (2) detailed information on which activities in the vignettes in such rule were assigned specified reduction percentages, how such percentage reductions for the pre-, intra-, and post-service work were determined and calculated, and the clinical aspects that went into those decisions.</summary>
+</bill>

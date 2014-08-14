@@ -1,0 +1,36 @@
+<bill session="113" type="s" number="2607" updated="2014-08-14T14:07:01-04:00">
+  <state datetime="2014-07-15">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-15"/>
+  </status>
+  <introduced datetime="2014-07-15"/>
+  <titles>
+    <title type="short" as="introduced">Assisted Living Pilot Program for Veterans with Traumatic Brain Injury Extension Act</title>
+    <title type="official" as="introduced">A bill to extend and modify the pilot program of the Department of Veterans Affairs on assisted living services for veterans with traumatic brain injury, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02194"/>
+  <cosponsors>
+    <cosponsor thomas_id="01558" joined="2014-07-24"/>
+    <cosponsor thomas_id="01863" joined="2014-07-15"/>
+    <cosponsor thomas_id="01899" joined="2014-07-24"/>
+    <cosponsor thomas_id="01546" joined="2014-07-22"/>
+    <cosponsor thomas_id="00754" joined="2014-07-22"/>
+    <cosponsor thomas_id="01694" joined="2014-07-22"/>
+    <cosponsor thomas_id="01701" joined="2014-07-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-15">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S4504"/>
+    </action>
+    <action datetime="2014-07-15" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSVA" name="Senate Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

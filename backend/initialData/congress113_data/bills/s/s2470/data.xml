@@ -1,0 +1,50 @@
+<bill session="113" type="s" number="2470" updated="2014-08-14T14:05:53-04:00">
+  <state datetime="2014-06-12">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-12"/>
+  </status>
+  <introduced datetime="2014-06-12"/>
+  <titles>
+    <title type="short" as="introduced">New Mexico Drought Relief Act of 2014</title>
+    <title type="official" as="introduced">A bill to provide for drought relief measures in the State of New Mexico, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01567"/>
+  <cosponsors>
+    <cosponsor thomas_id="01937" joined="2014-06-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Agricultural conservation and pollution"/>
+    <term name="Agricultural practices and innovations"/>
+    <term name="Aquatic ecology"/>
+    <term name="Climate change and greenhouse gases"/>
+    <term name="Congressional oversight"/>
+    <term name="Dams and canals"/>
+    <term name="Endangered and threatened species"/>
+    <term name="Environmental technology"/>
+    <term name="Farmland"/>
+    <term name="Fishes"/>
+    <term name="Floods and storm protection"/>
+    <term name="Government studies and investigations"/>
+    <term name="Hydrology and hydrography"/>
+    <term name="Lakes and rivers"/>
+    <term name="New Mexico"/>
+    <term name="State and local government operations"/>
+    <term name="Water resources funding"/>
+    <term name="Water storage"/>
+    <term name="Water use and supply"/>
+    <term name="Watersheds"/>
+    <term name="Wilderness and natural areas, wildlife refuges, wild rivers, habitats"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+</bill>

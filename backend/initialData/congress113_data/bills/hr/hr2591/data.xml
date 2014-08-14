@@ -1,0 +1,107 @@
+<bill session="113" type="h" number="2591" updated="2014-08-14T13:13:35-04:00">
+  <state datetime="2013-06-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-28"/>
+  </status>
+  <introduced datetime="2013-06-28"/>
+  <titles>
+    <title type="official" as="introduced">To amend certain provisions of the FAA Modernization and Reform Act of 2012.</title>
+  </titles>
+  <sponsor thomas_id="02041"/>
+  <cosponsors>
+    <cosponsor thomas_id="00021" joined="2013-09-30"/>
+    <cosponsor thomas_id="01740" joined="2013-06-28"/>
+    <cosponsor thomas_id="02092" joined="2014-03-24"/>
+    <cosponsor thomas_id="00132" joined="2013-08-01"/>
+    <cosponsor thomas_id="01751" joined="2013-06-28"/>
+    <cosponsor thomas_id="01816" joined="2014-03-13"/>
+    <cosponsor thomas_id="02107" joined="2013-10-04"/>
+    <cosponsor thomas_id="02159" joined="2014-01-10"/>
+    <cosponsor thomas_id="01878" joined="2014-03-24"/>
+    <cosponsor thomas_id="01742" joined="2013-10-11"/>
+    <cosponsor thomas_id="01959" joined="2013-09-09"/>
+    <cosponsor thomas_id="02103" joined="2013-11-20"/>
+    <cosponsor thomas_id="02126" joined="2013-12-12"/>
+    <cosponsor thomas_id="00279" joined="2013-06-28"/>
+    <cosponsor thomas_id="02096" joined="2014-06-18"/>
+    <cosponsor thomas_id="01717" joined="2013-12-11"/>
+    <cosponsor thomas_id="00303" joined="2013-10-28"/>
+    <cosponsor thomas_id="02123" joined="2013-07-30"/>
+    <cosponsor thomas_id="01857" joined="2013-09-09"/>
+    <cosponsor thomas_id="02125" joined="2013-08-01"/>
+    <cosponsor thomas_id="02114" joined="2013-09-09"/>
+    <cosponsor thomas_id="02067" joined="2014-03-27"/>
+    <cosponsor thomas_id="02119" joined="2013-12-09"/>
+    <cosponsor thomas_id="02120" joined="2014-02-05"/>
+    <cosponsor thomas_id="02043" joined="2014-03-27"/>
+    <cosponsor thomas_id="01487" joined="2013-09-19"/>
+    <cosponsor thomas_id="01914" joined="2014-02-14"/>
+    <cosponsor thomas_id="00462" joined="2013-07-17"/>
+    <cosponsor thomas_id="02044" joined="2013-06-28"/>
+    <cosponsor thomas_id="02071" joined="2013-11-18"/>
+    <cosponsor thomas_id="02015" joined="2013-12-19"/>
+    <cosponsor thomas_id="01909" joined="2014-03-11"/>
+    <cosponsor thomas_id="02046" joined="2014-03-27"/>
+    <cosponsor thomas_id="00599" joined="2013-06-28"/>
+    <cosponsor thomas_id="02199" joined="2014-07-17"/>
+    <cosponsor thomas_id="02169" joined="2014-02-10"/>
+    <cosponsor thomas_id="00635" joined="2013-08-02"/>
+    <cosponsor thomas_id="02014" joined="2013-10-30"/>
+    <cosponsor thomas_id="00688" joined="2014-01-27"/>
+    <cosponsor thomas_id="01781" joined="2014-02-05"/>
+    <cosponsor thomas_id="01846" joined="2013-09-25"/>
+    <cosponsor thomas_id="01943" joined="2014-05-28"/>
+    <cosponsor thomas_id="02150" joined="2013-09-09"/>
+    <cosponsor thomas_id="01806" joined="2013-08-01"/>
+    <cosponsor thomas_id="01804" joined="2014-04-28"/>
+    <cosponsor thomas_id="00766" joined="2013-11-14"/>
+    <cosponsor thomas_id="01506" joined="2013-08-01"/>
+    <cosponsor thomas_id="00808" joined="2013-08-02"/>
+    <cosponsor thomas_id="00832" joined="2013-11-14"/>
+    <cosponsor thomas_id="02117" joined="2014-02-04"/>
+    <cosponsor thomas_id="00850" joined="2014-03-24"/>
+    <cosponsor thomas_id="00930" joined="2013-12-04"/>
+    <cosponsor thomas_id="01967" joined="2013-11-20"/>
+    <cosponsor thomas_id="00940" joined="2013-11-14"/>
+    <cosponsor thomas_id="01982" joined="2014-07-14"/>
+    <cosponsor thomas_id="00985" joined="2014-01-03"/>
+    <cosponsor thomas_id="01848" joined="2013-06-28"/>
+    <cosponsor thomas_id="02039" joined="2014-03-06"/>
+    <cosponsor thomas_id="01728" joined="2014-03-05"/>
+    <cosponsor thomas_id="01003" joined="2014-03-06"/>
+    <cosponsor thomas_id="01756" joined="2014-05-06"/>
+    <cosponsor thomas_id="01588" joined="2013-09-09"/>
+    <cosponsor thomas_id="01920" joined="2013-10-28"/>
+    <cosponsor thomas_id="01525" joined="2013-11-14"/>
+    <cosponsor thomas_id="01528" joined="2013-12-04"/>
+    <cosponsor thomas_id="01890" joined="2014-05-06"/>
+    <cosponsor thomas_id="02104" joined="2013-09-19"/>
+    <cosponsor thomas_id="02110" joined="2013-11-18"/>
+    <cosponsor thomas_id="02166" joined="2013-11-18"/>
+    <cosponsor thomas_id="01855" joined="2013-07-31"/>
+    <cosponsor thomas_id="01777" joined="2014-03-11"/>
+    <cosponsor thomas_id="02004" joined="2014-02-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-28" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Aviation and airports"/>
+    <term name="Bankruptcy"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Income tax deferral"/>
+    <term name="Transportation employees"/>
+  </subjects>
+  <amendments/>
+  <summary>6/28/2013--Introduced.
+Amends the FAA Modernization and Reform Act of 2012 to revise the authorization for commercial airline employees who had participated in a commercial airline's tax-exempt defined benefit pension plan, that was terminated, restricted, or frozen effective November 1, 2012, to: (1) transfer to a traditional individual retirement account (IRA) any amount received from the airline resulting from a bankruptcy proceeding filed between September 11, 2001, and January 1, 2007, or filed on November 29, 2011; (2) exclude from the employee's gross income any such amount received from an airline that has been transferred to a traditional IRA; and (3) rollover such an amount from a Roth IRA to a traditional IRA.
+
+Extends from April 15, 2013, to April 15, 2015, the time period during which such employees may reflect such an exclusion from gross income in a claim for refund for an overpayment of tax.</summary>
+</bill>

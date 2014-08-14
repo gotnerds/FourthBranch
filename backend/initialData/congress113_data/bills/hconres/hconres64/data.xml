@@ -1,0 +1,53 @@
+<bill session="113" type="hc" number="64" updated="2014-08-14T13:39:08-04:00">
+  <state datetime="2013-11-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-11-14"/>
+  </status>
+  <introduced datetime="2013-11-14"/>
+  <titles>
+    <title type="official" as="introduced">Supporting the goals and ideals of suicide prevention awareness.</title>
+  </titles>
+  <sponsor thomas_id="02153"/>
+  <cosponsors>
+    <cosponsor thomas_id="01723" joined="2013-11-14"/>
+    <cosponsor thomas_id="01889" joined="2014-01-08"/>
+    <cosponsor thomas_id="02159" joined="2014-01-08"/>
+    <cosponsor thomas_id="01857" joined="2013-11-14"/>
+    <cosponsor thomas_id="00355" joined="2014-02-21"/>
+    <cosponsor thomas_id="01708" joined="2013-11-14"/>
+    <cosponsor thomas_id="02046" joined="2013-11-19"/>
+    <cosponsor thomas_id="02111" joined="2013-12-03"/>
+    <cosponsor thomas_id="00868" joined="2013-11-14"/>
+    <cosponsor thomas_id="02162" joined="2013-11-15"/>
+    <cosponsor thomas_id="01756" joined="2013-11-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-11-14" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-11-15">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="sr" session="113" relation="unknown" number="262"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Mental health"/>
+    <term name="Military medicine"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>11/14/2013--Introduced.
+Expresses support for the goals and ideals of National Suicide Prevention and Awareness Month and efforts to raise awareness and improve outreach to individuals at risk for suicide, especially veterans and members of the Armed Forces.
+
+Encourages the people of the United States to learn more about the warning signs of suicide and how each person can help prevent suicide and promote mental health.</summary>
+</bill>

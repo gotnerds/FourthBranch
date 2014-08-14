@@ -1,0 +1,82 @@
+<bill session="113" type="h" number="702" updated="2014-08-14T12:56:43-04:00">
+  <state datetime="2013-02-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-14"/>
+  </status>
+  <introduced datetime="2013-02-14"/>
+  <titles>
+    <title type="short" as="introduced">Access to Frontline Health Care Act of 2013</title>
+    <title type="official" as="introduced">To amend the Public Health Service Act to direct the Secretary of Health and Human Services to establish a Frontline Providers Loan Repayment Program.</title>
+  </titles>
+  <sponsor thomas_id="01845"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2014-03-11"/>
+    <cosponsor thomas_id="00091" joined="2013-05-14"/>
+    <cosponsor thomas_id="01740" joined="2014-03-26"/>
+    <cosponsor thomas_id="00132" joined="2014-03-04"/>
+    <cosponsor thomas_id="02106" joined="2013-06-06"/>
+    <cosponsor thomas_id="01889" joined="2013-04-12"/>
+    <cosponsor thomas_id="02159" joined="2013-03-21"/>
+    <cosponsor thomas_id="01839" joined="2013-07-09"/>
+    <cosponsor thomas_id="02055" joined="2013-07-11"/>
+    <cosponsor thomas_id="01654" joined="2013-03-21"/>
+    <cosponsor thomas_id="01878" joined="2013-08-01"/>
+    <cosponsor thomas_id="00279" joined="2013-04-12"/>
+    <cosponsor thomas_id="02133" joined="2014-05-21"/>
+    <cosponsor thomas_id="01857" joined="2014-03-11"/>
+    <cosponsor thomas_id="02125" joined="2013-03-21"/>
+    <cosponsor thomas_id="02119" joined="2014-03-11"/>
+    <cosponsor thomas_id="01914" joined="2013-04-26"/>
+    <cosponsor thomas_id="00511" joined="2013-06-17"/>
+    <cosponsor thomas_id="01913" joined="2013-03-12"/>
+    <cosponsor thomas_id="01663" joined="2013-05-14"/>
+    <cosponsor thomas_id="01668" joined="2013-08-01"/>
+    <cosponsor thomas_id="01846" joined="2013-03-12"/>
+    <cosponsor thomas_id="00701" joined="2014-03-04"/>
+    <cosponsor thomas_id="02111" joined="2014-03-26"/>
+    <cosponsor thomas_id="01939" joined="2013-04-12"/>
+    <cosponsor thomas_id="01653" joined="2013-04-12"/>
+    <cosponsor thomas_id="01730" joined="2013-03-12"/>
+    <cosponsor thomas_id="02117" joined="2014-03-26"/>
+    <cosponsor thomas_id="00868" joined="2013-03-21"/>
+    <cosponsor thomas_id="01835" joined="2013-04-26"/>
+    <cosponsor thomas_id="00910" joined="2013-05-14"/>
+    <cosponsor thomas_id="02171" joined="2013-06-17"/>
+    <cosponsor thomas_id="00940" joined="2013-03-21"/>
+    <cosponsor thomas_id="00944" joined="2014-07-08"/>
+    <cosponsor thomas_id="01722" joined="2014-03-04"/>
+    <cosponsor thomas_id="01861" joined="2013-05-14"/>
+    <cosponsor thomas_id="02047" joined="2013-06-17"/>
+    <cosponsor thomas_id="02104" joined="2013-05-14"/>
+    <cosponsor thomas_id="01535" joined="2014-03-26"/>
+    <cosponsor thomas_id="01940" joined="2013-03-21"/>
+    <cosponsor thomas_id="01942" joined="2013-06-06"/>
+    <cosponsor thomas_id="02167" joined="2013-04-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-14" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-02-15">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Education programs funding"/>
+    <term name="Health personnel"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Medical education"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+  <summary>2/14/2013--Introduced.
+Access to Frontline Health Care Act of 2013 - Amends the Public Health Service Act to direct the Secretary of Health and Human Services (HHS) to establish and carry out a Frontline Providers Loan Repayment Program under which the Secretary agrees to make student loan repayments in exchange for a health professional providing frontline care services for two years in a frontline care scarcity area.
+
+Defines "frontline care services" as health care services in the fields of general surgery, optometry, ophthalmology, chiropractic, physical therapy, audiology, speech language pathology, pharmacies, public health, podiatric medicine, dietetics, occupational therapy, general pediatrics, respiratory therapy, medical technology, otolaryngology, or radiologic technology.</summary>
+</bill>

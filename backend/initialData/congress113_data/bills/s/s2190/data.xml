@@ -1,0 +1,77 @@
+<bill session="113" type="s" number="2190" updated="2014-08-14T14:03:32-04:00">
+  <state datetime="2014-04-01">REFERRED</state>
+  <status>
+    <introduced datetime="2014-04-01"/>
+  </status>
+  <introduced datetime="2014-04-01"/>
+  <titles>
+    <title type="short" as="introduced">Hire More Heroes Act of 2014</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to allow employers to exempt employees with health coverage under TRICARE or the Veterans Administration from being taken into account for purposes of the employer mandate under the Patient Protection and Affordable Care Act.</title>
+  </titles>
+  <sponsor thomas_id="01464"/>
+  <cosponsors>
+    <cosponsor thomas_id="02075" joined="2014-04-01"/>
+    <cosponsor thomas_id="01881" joined="2014-04-01"/>
+    <cosponsor thomas_id="01687" joined="2014-04-01"/>
+    <cosponsor thomas_id="00153" joined="2014-04-01"/>
+    <cosponsor thomas_id="00188" joined="2014-04-01"/>
+    <cosponsor thomas_id="00209" joined="2014-04-01"/>
+    <cosponsor thomas_id="00212" joined="2014-04-01"/>
+    <cosponsor thomas_id="00213" joined="2014-04-01"/>
+    <cosponsor thomas_id="01541" joined="2014-04-01"/>
+    <cosponsor thomas_id="01692" joined="2014-04-01"/>
+    <cosponsor thomas_id="01542" joined="2014-04-01"/>
+    <cosponsor thomas_id="02179" joined="2014-04-01"/>
+    <cosponsor thomas_id="00452" joined="2014-04-01"/>
+    <cosponsor thomas_id="00457" joined="2014-04-01"/>
+    <cosponsor thomas_id="01902" joined="2014-05-12"/>
+    <cosponsor thomas_id="01351" joined="2014-04-01"/>
+    <cosponsor thomas_id="01863" joined="2014-04-01"/>
+    <cosponsor thomas_id="02079" joined="2014-04-01"/>
+    <cosponsor thomas_id="00583" joined="2014-04-01"/>
+    <cosponsor thomas_id="01608" joined="2014-04-01"/>
+    <cosponsor thomas_id="01899" joined="2014-04-01"/>
+    <cosponsor thomas_id="02086" joined="2014-04-07"/>
+    <cosponsor thomas_id="01647" joined="2014-04-01"/>
+    <cosponsor thomas_id="00754" joined="2014-04-01"/>
+    <cosponsor thomas_id="01395" joined="2014-04-01"/>
+    <cosponsor thomas_id="01507" joined="2014-04-01"/>
+    <cosponsor thomas_id="01694" joined="2014-04-01"/>
+    <cosponsor thomas_id="02082" joined="2014-04-01"/>
+    <cosponsor thomas_id="00924" joined="2014-04-01"/>
+    <cosponsor thomas_id="01701" joined="2014-04-01"/>
+    <cosponsor thomas_id="01896" joined="2014-04-01"/>
+    <cosponsor thomas_id="00968" joined="2014-04-01"/>
+    <cosponsor thomas_id="02056" joined="2014-04-01"/>
+    <cosponsor thomas_id="01548" joined="2014-04-01"/>
+    <cosponsor thomas_id="01049" joined="2014-04-01"/>
+    <cosponsor thomas_id="02085" joined="2014-04-01"/>
+    <cosponsor thomas_id="01595" joined="2014-04-09"/>
+    <cosponsor thomas_id="01609" joined="2014-04-01"/>
+    <cosponsor thomas_id="01226" joined="2014-04-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-04-01" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="3474"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Comprehensive health care"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Military medicine"/>
+    <term name="Sales and excise taxes"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>4/1/2014--Introduced.
+Hire More Heroes Act of 2014 - Amends the Internal Revenue Code to permit an employer, for purposes of determining whether such employer is an applicable large employer and thus required to provide health care coverage to its employees under the Patient Protection and Affordable Care Act, to exclude employees who have coverage under a health care program administered by the Department of Defense (DOD), including TRICARE, or the Department of Veterans Affairs (VA).</summary>
+</bill>

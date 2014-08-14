@@ -1,0 +1,52 @@
+<bill session="113" type="s" number="1166" updated="2014-08-14T13:54:49-04:00">
+  <state datetime="2013-06-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-13"/>
+  </status>
+  <introduced datetime="2013-06-13"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the National Labor Relations Act to provide for appropriate designation of collective bargaining units.</title>
+  </titles>
+  <sponsor thomas_id="01608"/>
+  <cosponsors>
+    <cosponsor thomas_id="01695" joined="2013-06-13"/>
+    <cosponsor thomas_id="02075" joined="2013-07-09"/>
+    <cosponsor thomas_id="01464" joined="2013-06-25"/>
+    <cosponsor thomas_id="00153" joined="2013-06-13"/>
+    <cosponsor thomas_id="00188" joined="2013-06-18"/>
+    <cosponsor thomas_id="00209" joined="2013-06-13"/>
+    <cosponsor thomas_id="01825" joined="2013-06-13"/>
+    <cosponsor thomas_id="01692" joined="2013-06-13"/>
+    <cosponsor thomas_id="01542" joined="2013-06-13"/>
+    <cosponsor thomas_id="00452" joined="2013-06-13"/>
+    <cosponsor thomas_id="00583" joined="2013-06-13"/>
+    <cosponsor thomas_id="01899" joined="2013-06-13"/>
+    <cosponsor thomas_id="02086" joined="2013-06-18"/>
+    <cosponsor thomas_id="01647" joined="2013-06-13"/>
+    <cosponsor thomas_id="01896" joined="2013-06-27"/>
+    <cosponsor thomas_id="00968" joined="2013-06-13"/>
+    <cosponsor thomas_id="02084" joined="2013-07-18"/>
+    <cosponsor thomas_id="02056" joined="2013-06-13"/>
+    <cosponsor thomas_id="01534" joined="2013-06-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-13" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Labor-management relations"/>
+  </subjects>
+  <amendments/>
+  <summary>6/13/2013--Introduced.
+Representation Fairness Restoration Act - Amends the National Labor Relations Act (NLRA) to revise requirements for determination by the National Labor Relation Board (NLRB) of an appropriate bargaining unit before an election of collective bargaining representation. (In effect reverses the NLRB's August 26, 2011, decision in Specialty Healthcare and Rehabilitation of Mobile and its June 22, 2011, rulemaking regarding proposed changes to procedures involving the election of collective bargaining representation.)
+
+Replaces the current restriction in the meaning of collective bargaining unit to employer unit, craft unit, plant unit, or subdivision. Requires the NLRB, instead, to determine a unit as appropriate for collective bargaining if it consists of employees that share a sufficient community of interest. Specifies factors the NLRB must consider when making such determinations.
+
+Prohibits exclusion of employees from the unit unless the group's interests are sufficiently distinct from those of other employees to warrant the establishment of a separate unit.</summary>
+</bill>

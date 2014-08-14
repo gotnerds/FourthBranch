@@ -1,0 +1,84 @@
+<bill session="113" type="h" number="4871" updated="2014-08-14T13:33:01-04:00">
+  <state datetime="2014-06-20">REPORTED</state>
+  <status>
+    <unknown datetime="2014-06-20"/>
+  </status>
+  <introduced datetime="2014-06-17"/>
+  <titles>
+    <title type="short" as="introduced">TRIA Reform Act of 2014</title>
+    <title type="short" as="reported to house">TRIA Reform Act of 2014</title>
+    <title type="short" as="reported to house" partial="1">National Association of Registered Agents and Brokers Reform Act of 2014</title>
+    <title type="official" as="introduced">To reauthorize the Terrorism Risk Insurance Act of 2002, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01758"/>
+  <cosponsors>
+    <cosponsor thomas_id="00038" joined="2014-06-18"/>
+    <cosponsor thomas_id="01752" joined="2014-06-26"/>
+    <cosponsor thomas_id="01805" joined="2014-06-26"/>
+    <cosponsor thomas_id="01670" joined="2014-06-26"/>
+    <cosponsor thomas_id="02072" joined="2014-06-30"/>
+    <cosponsor thomas_id="02064" joined="2014-06-26"/>
+    <cosponsor thomas_id="01737" joined="2014-06-18"/>
+    <cosponsor thomas_id="01487" joined="2014-06-26"/>
+    <cosponsor thomas_id="00484" joined="2014-06-26"/>
+    <cosponsor thomas_id="02028" joined="2014-06-26"/>
+    <cosponsor thomas_id="02069" joined="2014-07-14"/>
+    <cosponsor thomas_id="00603" joined="2014-06-26"/>
+    <cosponsor thomas_id="02199" joined="2014-07-15"/>
+    <cosponsor thomas_id="01931" joined="2014-06-30"/>
+    <cosponsor thomas_id="01806" joined="2014-06-26"/>
+    <cosponsor thomas_id="01792" joined="2014-06-18"/>
+    <cosponsor thomas_id="02059" joined="2014-06-18"/>
+    <cosponsor thomas_id="01955" joined="2014-06-26"/>
+    <cosponsor thomas_id="01704" joined="2014-07-14"/>
+    <cosponsor thomas_id="02003" joined="2014-06-26"/>
+    <cosponsor thomas_id="00998" joined="2014-06-18"/>
+    <cosponsor thomas_id="01525" joined="2014-06-26"/>
+    <cosponsor thomas_id="01075" joined="2014-06-26"/>
+    <cosponsor thomas_id="02047" joined="2014-06-18"/>
+    <cosponsor thomas_id="01114" joined="2014-06-26"/>
+    <cosponsor thomas_id="01155" joined="2014-06-26"/>
+    <cosponsor thomas_id="02161" joined="2014-06-26"/>
+    <cosponsor thomas_id="01779" joined="2014-06-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-17" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2014-06-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-06-20" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 32 - 27.</text>
+    </calendar>
+    <action datetime="2014-07-16T17:03:00-04:00">
+      <text>Reported (Amended) by the Committee on Financial Services. H. Rept. 113-523.</text>
+    </action>
+    <calendar datetime="2014-07-16T17:04:00-04:00" calendar="Union" number="391">
+      <text>Placed on the Union Calendar, Calendar No. 391.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="2146"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Advisory bodies"/>
+    <term name="Competition and antitrust"/>
+    <term name="Congressional oversight"/>
+    <term name="Consumer affairs"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Government corporations and government-sponsored enterprises"/>
+    <term name="Government studies and investigations"/>
+    <term name="Insurance industry and regulation"/>
+    <term name="Licensing and registrations"/>
+    <term name="Life, casualty, property insurance"/>
+    <term name="State and local government operations"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+</bill>

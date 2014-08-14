@@ -1,0 +1,31 @@
+<bill session="113" type="s" number="2564" updated="2014-08-14T14:06:40-04:00">
+  <state datetime="2014-07-07">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-07"/>
+  </status>
+  <introduced datetime="2014-07-07"/>
+  <titles>
+    <title type="short" as="introduced">End Trafficking Act of 2014</title>
+    <title type="short" as="introduced" partial="1">Child Trafficking Victims Protection Act</title>
+    <title type="short" as="introduced" partial="1">SAVE Act of 2014</title>
+    <title type="short" as="introduced" partial="1">Stop Advertising Victims of Exploitation Act of 2014</title>
+    <title type="official" as="introduced">A bill to provide justice for the victims of trafficking, to stop exploitation through trafficking, and to amend title 18, United States Code, by providing a penalty for knowingly selling advertising that offers certain commercial sex acts.</title>
+  </titles>
+  <sponsor thomas_id="01226"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-07" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2014-07-09">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S4294"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

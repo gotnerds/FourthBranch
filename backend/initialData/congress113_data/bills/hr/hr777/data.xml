@@ -1,0 +1,49 @@
+<bill session="113" type="h" number="777" updated="2014-08-14T12:57:20-04:00">
+  <state datetime="2013-02-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-15"/>
+  </status>
+  <introduced datetime="2013-02-15"/>
+  <titles>
+    <title type="short" as="introduced">ADA Notification Act of 2013</title>
+    <title type="official" as="introduced">To amend title III of the Americans with Disabilities Act of 1990 to require a plaintiff to provide a defendant with an opportunity to correct a violation of such title voluntarily before the plaintiff may commence a civil action, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01909"/>
+  <cosponsors>
+    <cosponsor thomas_id="02135" joined="2013-02-15"/>
+    <cosponsor thomas_id="00165" joined="2013-02-15"/>
+    <cosponsor thomas_id="01839" joined="2013-02-15"/>
+    <cosponsor thomas_id="01995" joined="2013-02-15"/>
+    <cosponsor thomas_id="01921" joined="2013-02-15"/>
+    <cosponsor thomas_id="01960" joined="2013-05-06"/>
+    <cosponsor thomas_id="01908" joined="2013-02-15"/>
+    <cosponsor thomas_id="01710" joined="2013-02-15"/>
+    <cosponsor thomas_id="00979" joined="2013-02-15"/>
+    <cosponsor thomas_id="01916" joined="2013-02-15"/>
+    <cosponsor thomas_id="01009" joined="2013-02-15"/>
+    <cosponsor thomas_id="01779" joined="2013-02-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-15" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-04-08">
+      <text>Referred to the Subcommittee on the Constitution And Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee subcommittee="Constitution and Civil Justice" code="HSJU10" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+    <term name="Civil actions and liability"/>
+    <term name="Disability and health-based discrimination"/>
+    <term name="Judicial procedure and administration"/>
+    <term name="Jurisdiction and venue"/>
+  </subjects>
+  <amendments/>
+  <summary>2/15/2013--Introduced.
+ADA Notification Act of 2013 - Amends the Americans with Disabilities Act of 1990 to deny jurisdiction to a state or federal court in a civil action a plaintiff commences for remedies for disability discrimination in public accommodations and certain services provided by private entities unless: (1) the plaintiff notified the defendant in writing of the alleged violations prior to filing the complaint, (2) the notice identified the specific facts that constitute the alleged violation, (3) a remedial period of 90 days elapses after the notice, (4) the notice informed the defendant that the civil action could not be commenced for 90 days, and (5) the complaint states that the defendant has not corrected the alleged violation.</summary>
+</bill>

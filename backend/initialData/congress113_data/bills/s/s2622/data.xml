@@ -1,0 +1,33 @@
+<bill session="113" type="s" number="2622" updated="2014-08-14T14:07:09-04:00">
+  <state datetime="2014-07-17">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-17"/>
+  </status>
+  <introduced datetime="2014-07-17"/>
+  <titles>
+    <title type="short" as="introduced">Breast Density and Mammography Reporting Act of 2014</title>
+    <title type="official" as="introduced">A bill to require breast density reporting to physicians and patients by facilities that perform mammograms, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01332"/>
+  <cosponsors>
+    <cosponsor thomas_id="02075" joined="2014-07-17"/>
+    <cosponsor thomas_id="00136" joined="2014-07-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-17">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S4621-4622"/>
+    </action>
+    <action datetime="2014-07-17" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="5145"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

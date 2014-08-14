@@ -1,0 +1,69 @@
+<bill session="113" type="h" number="4920" updated="2014-08-14T13:33:27-04:00">
+  <state datetime="2014-06-19">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-19"/>
+  </status>
+  <introduced datetime="2014-06-19"/>
+  <titles>
+    <title type="short" as="introduced">Medicare DMEPOS Competitive Bidding Improvement Act of 2014</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to require State licensure and performance guarantees for entities submitting bids under the Medicare durable medical equipment, prosthetics, orthotics, and supplies (DMEPOS) competitive acquisition program, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01664"/>
+  <cosponsors>
+    <cosponsor thomas_id="01858" joined="2014-06-30"/>
+    <cosponsor thomas_id="02054" joined="2014-07-10"/>
+    <cosponsor thomas_id="01838" joined="2014-07-03"/>
+    <cosponsor thomas_id="01740" joined="2014-07-31"/>
+    <cosponsor thomas_id="02063" joined="2014-06-19"/>
+    <cosponsor thomas_id="01845" joined="2014-06-30"/>
+    <cosponsor thomas_id="01836" joined="2014-07-31"/>
+    <cosponsor thomas_id="01989" joined="2014-07-17"/>
+    <cosponsor thomas_id="01643" joined="2014-07-03"/>
+    <cosponsor thomas_id="00322" joined="2014-06-30"/>
+    <cosponsor thomas_id="02036" joined="2014-07-03"/>
+    <cosponsor thomas_id="01683" joined="2014-07-25"/>
+    <cosponsor thomas_id="02122" joined="2014-08-01"/>
+    <cosponsor thomas_id="02046" joined="2014-06-19"/>
+    <cosponsor thomas_id="02154" joined="2014-06-19"/>
+    <cosponsor thomas_id="02025" joined="2014-06-25"/>
+    <cosponsor thomas_id="02051" joined="2014-07-08"/>
+    <cosponsor thomas_id="01668" joined="2014-07-22"/>
+    <cosponsor thomas_id="01583" joined="2014-06-19"/>
+    <cosponsor thomas_id="01885" joined="2014-07-10"/>
+    <cosponsor thomas_id="01846" joined="2014-07-31"/>
+    <cosponsor thomas_id="01758" joined="2014-07-08"/>
+    <cosponsor thomas_id="02017" joined="2014-07-14"/>
+    <cosponsor thomas_id="02003" joined="2014-06-30"/>
+    <cosponsor thomas_id="02158" joined="2014-07-22"/>
+    <cosponsor thomas_id="01566" joined="2014-07-14"/>
+    <cosponsor thomas_id="01952" joined="2014-06-25"/>
+    <cosponsor thomas_id="01188" joined="2014-06-19"/>
+    <cosponsor thomas_id="02002" joined="2014-07-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-19" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-06-19">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2014-06-19">
+      <text>Referred to House Ways and Means</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Licensing and registrations"/>
+    <term name="Medicare"/>
+    <term name="Public contracts and procurement"/>
+  </subjects>
+  <amendments/>
+  <summary>6/19/2014--Introduced.
+Medicare DMEPOS Competitive Bidding Improvement Act of 2014 - Amends title XVIII (Medicare) of the Social Security Act to require state licensure and a bid and surety bond of at least $50,000 for each area for bidding entities under the Medicare durable medical equipment, prosthetics, orthotics, and supplies (DMEPOS) competitive acquisition program.</summary>
+</bill>

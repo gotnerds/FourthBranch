@@ -1,0 +1,56 @@
+<bill session="113" type="h" number="484" updated="2014-08-14T12:54:52-04:00">
+  <state datetime="2013-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-04"/>
+  </status>
+  <introduced datetime="2013-02-04"/>
+  <titles>
+    <title type="short" as="introduced">Real Unemployment Calculation Act</title>
+    <title type="official" as="introduced">To recognize a primary measure of national unemployment for purposes of the Federal Government.</title>
+  </titles>
+  <sponsor thomas_id="01909"/>
+  <cosponsors>
+    <cosponsor thomas_id="01858" joined="2013-02-04"/>
+    <cosponsor thomas_id="01748" joined="2013-02-04"/>
+    <cosponsor thomas_id="01882" joined="2013-02-04"/>
+    <cosponsor thomas_id="02151" joined="2013-04-09"/>
+    <cosponsor thomas_id="02041" joined="2013-02-04"/>
+    <cosponsor thomas_id="02015" joined="2013-02-04"/>
+    <cosponsor thomas_id="02069" joined="2013-03-21"/>
+    <cosponsor thomas_id="01640" joined="2013-02-06"/>
+    <cosponsor thomas_id="02014" joined="2013-02-04"/>
+    <cosponsor thomas_id="01885" joined="2013-04-25"/>
+    <cosponsor thomas_id="02033" joined="2013-02-04"/>
+    <cosponsor thomas_id="01730" joined="2013-02-04"/>
+    <cosponsor thomas_id="01685" joined="2013-02-15"/>
+    <cosponsor thomas_id="02059" joined="2013-02-04"/>
+    <cosponsor thomas_id="02034" joined="2013-02-04"/>
+    <cosponsor thomas_id="02035" joined="2013-02-04"/>
+    <cosponsor thomas_id="01514" joined="2013-02-04"/>
+    <cosponsor thomas_id="02118" joined="2013-02-04"/>
+    <cosponsor thomas_id="02017" joined="2013-02-15"/>
+    <cosponsor thomas_id="02047" joined="2013-02-06"/>
+    <cosponsor thomas_id="01981" joined="2013-02-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-04" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2013-04-23">
+      <text>Referred to the Subcommittee on Health, Employment, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health, Employment, Labor, and Pensions" code="HSED02" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Census and government statistics"/>
+    <term name="Unemployment"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/2013--Introduced.
+Real Unemployment Calculation Act - Treats the measure of unemployment issued by the Bureau of Labor Statistics (known as U5) as the official and primary measure of unemployment in the United States.</summary>
+</bill>

@@ -1,0 +1,70 @@
+<bill session="113" type="h" number="4716" updated="2014-08-14T13:31:38-04:00">
+  <state datetime="2014-05-22">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-22"/>
+  </status>
+  <introduced datetime="2014-05-22"/>
+  <titles>
+    <title type="short" as="introduced">Sage Grouse Protection and Conservation Act</title>
+    <title type="official" as="introduced">To require the Secretary of the Interior and the Secretary of Agriculture to provide certain Western States assistance in the development of statewide conservation and management plans for the protection and recovery of sage grouse species, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01998"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2014-05-22"/>
+    <cosponsor thomas_id="01753" joined="2014-05-22"/>
+    <cosponsor thomas_id="01748" joined="2014-07-16"/>
+    <cosponsor thomas_id="01956" joined="2014-05-22"/>
+    <cosponsor thomas_id="02144" joined="2014-05-28"/>
+    <cosponsor thomas_id="02138" joined="2014-05-22"/>
+    <cosponsor thomas_id="01992" joined="2014-05-28"/>
+    <cosponsor thomas_id="02011" joined="2014-07-24"/>
+    <cosponsor thomas_id="01834" joined="2014-06-25"/>
+    <cosponsor thomas_id="01960" joined="2014-05-22"/>
+    <cosponsor thomas_id="01908" joined="2014-07-16"/>
+    <cosponsor thomas_id="01809" joined="2014-05-30"/>
+    <cosponsor thomas_id="02060" joined="2014-06-10"/>
+    <cosponsor thomas_id="01954" joined="2014-07-16"/>
+    <cosponsor thomas_id="02168" joined="2014-05-22"/>
+    <cosponsor thomas_id="01997" joined="2014-05-22"/>
+    <cosponsor thomas_id="01596" joined="2014-07-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-22" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2014-05-30">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+    </action>
+    <action datetime="2014-05-30">
+      <text>Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Public Lands and Environmental Regulation" code="HSII10" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Fisheries, Wildlife, Oceans, and Insular Affairs" code="HSII22" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2394"/>
+  </relatedbills>
+  <subjects>
+    <term name="Animals"/>
+    <term name="Birds"/>
+    <term name="California"/>
+    <term name="Colorado"/>
+    <term name="Endangered and threatened species"/>
+    <term name="Idaho"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Montana"/>
+    <term name="Nevada"/>
+    <term name="North Dakota"/>
+    <term name="Oregon"/>
+    <term name="South Dakota"/>
+    <term name="State and local government operations"/>
+    <term name="Utah"/>
+    <term name="Washington State"/>
+    <term name="Wildlife conservation and habitat protection"/>
+    <term name="Wyoming"/>
+  </subjects>
+  <amendments/>
+</bill>

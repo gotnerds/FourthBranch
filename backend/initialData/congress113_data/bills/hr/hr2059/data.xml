@@ -1,0 +1,64 @@
+<bill session="113" type="h" number="2059" updated="2014-08-14T13:08:49-04:00">
+  <state datetime="2013-05-20">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-20"/>
+  </status>
+  <introduced datetime="2013-05-20"/>
+  <titles>
+    <title type="short" as="introduced">Coast Guard STRONG Act</title>
+    <title type="official" as="introduced">To amend title 10, United States Code, to ensure the issuance of regulations applicable to the Coast Guard regarding consideration of a request for a permanent change of station or unit transfer submitted by a member of the Coast Guard who is the victim of a sexual assault.</title>
+  </titles>
+  <sponsor thomas_id="01884"/>
+  <cosponsors>
+    <cosponsor thomas_id="02092" joined="2013-05-23"/>
+    <cosponsor thomas_id="00132" joined="2013-05-20"/>
+    <cosponsor thomas_id="00229" joined="2013-05-20"/>
+    <cosponsor thomas_id="02119" joined="2013-06-25"/>
+    <cosponsor thomas_id="01708" joined="2013-05-20"/>
+    <cosponsor thomas_id="00588" joined="2013-05-20"/>
+    <cosponsor thomas_id="02046" joined="2013-05-20"/>
+    <cosponsor thomas_id="02025" joined="2013-05-20"/>
+    <cosponsor thomas_id="02169" joined="2013-05-22"/>
+    <cosponsor thomas_id="02145" joined="2013-05-20"/>
+    <cosponsor thomas_id="01501" joined="2013-06-25"/>
+    <cosponsor thomas_id="02111" joined="2013-09-11"/>
+    <cosponsor thomas_id="00709" joined="2013-05-22"/>
+    <cosponsor thomas_id="01653" joined="2013-05-20"/>
+    <cosponsor thomas_id="01504" joined="2013-05-20"/>
+    <cosponsor thomas_id="01927" joined="2013-05-20"/>
+    <cosponsor thomas_id="02171" joined="2013-05-22"/>
+    <cosponsor thomas_id="02039" joined="2013-05-20"/>
+    <cosponsor thomas_id="01069" joined="2013-05-20"/>
+    <cosponsor thomas_id="01535" joined="2013-06-25"/>
+    <cosponsor thomas_id="01741" joined="2013-05-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-20" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2013-06-20">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee subcommittee="Military Personnel" code="HSAS02" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="1050"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Assault and harassment offenses"/>
+    <term name="Coast guard"/>
+    <term name="Crime victims"/>
+    <term name="Crimes against women"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Sex offenses"/>
+  </subjects>
+  <amendments/>
+  <summary>5/20/2013--Introduced.
+Coast Guard STRONG Act - Directs the Secretary concerned (under current law, the Secretaries of the military departments) to issue regulations to ensure the timely determination of a request for a permanent change of station or unit transfer by a member of the Armed Forces who is the victim of a sexual assault or related offense (thereby including the Coast Guard within such requirement).</summary>
+</bill>

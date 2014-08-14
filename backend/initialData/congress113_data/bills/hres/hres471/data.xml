@@ -1,0 +1,57 @@
+<bill session="113" type="hr" number="471" updated="2014-08-14T12:48:38-04:00">
+  <state datetime="2014-02-03">REFERRED</state>
+  <status>
+    <introduced datetime="2014-02-03"/>
+  </status>
+  <introduced datetime="2014-02-03"/>
+  <titles>
+    <title type="official" as="introduced">Expressing support for designation of the week of February 3, 2014, through February 7, 2014, as "National School Counseling Week".</title>
+  </titles>
+  <sponsor thomas_id="01757"/>
+  <cosponsors>
+    <cosponsor thomas_id="01723" joined="2014-02-03"/>
+    <cosponsor thomas_id="00132" joined="2014-02-03"/>
+    <cosponsor thomas_id="01889" joined="2014-02-03"/>
+    <cosponsor thomas_id="01474" joined="2014-02-03"/>
+    <cosponsor thomas_id="01970" joined="2014-02-03"/>
+    <cosponsor thomas_id="00229" joined="2014-02-03"/>
+    <cosponsor thomas_id="01708" joined="2014-02-03"/>
+    <cosponsor thomas_id="01490" joined="2014-02-03"/>
+    <cosponsor thomas_id="01580" joined="2014-02-03"/>
+    <cosponsor thomas_id="01634" joined="2014-02-03"/>
+    <cosponsor thomas_id="00588" joined="2014-02-03"/>
+    <cosponsor thomas_id="01501" joined="2014-02-03"/>
+    <cosponsor thomas_id="02111" joined="2014-02-03"/>
+    <cosponsor thomas_id="01653" joined="2014-02-03"/>
+    <cosponsor thomas_id="00766" joined="2014-02-03"/>
+    <cosponsor thomas_id="01811" joined="2014-02-03"/>
+    <cosponsor thomas_id="01602" joined="2014-02-03"/>
+    <cosponsor thomas_id="00868" joined="2014-02-03"/>
+    <cosponsor thomas_id="00930" joined="2014-02-03"/>
+    <cosponsor thomas_id="01861" joined="2014-02-03"/>
+    <cosponsor thomas_id="02004" joined="2014-02-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-02-03" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="113" relation="identical" number="60"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Teaching, teachers, curricula"/>
+  </subjects>
+  <amendments/>
+  <summary>2/3/2014--Introduced.
+Honors the contributions of school counselors to the success of students in our elementary and secondary schools.
+
+Encourages the observation of National School Counseling Week with ceremonies and activities that promote awareness of the crucial role school counselors play in preparing students for fulfilling lives as contributing members of society.</summary>
+</bill>

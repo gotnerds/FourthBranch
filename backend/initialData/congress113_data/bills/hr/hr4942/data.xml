@@ -1,0 +1,50 @@
+<bill session="113" type="h" number="4942" updated="2014-08-14T13:33:38-04:00">
+  <state datetime="2014-06-23">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-23"/>
+  </status>
+  <introduced datetime="2014-06-23"/>
+  <titles>
+    <title type="short" as="introduced">Underserved Veterans Access to Health Care Act</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to increase the number of graduate medical education residency positions at hospitals administered by the Secretary of Veterans Affairs.</title>
+  </titles>
+  <sponsor thomas_id="01940"/>
+  <cosponsors>
+    <cosponsor thomas_id="02164" joined="2014-07-30"/>
+    <cosponsor thomas_id="01708" joined="2014-07-08"/>
+    <cosponsor thomas_id="00511" joined="2014-06-23"/>
+    <cosponsor thomas_id="01907" joined="2014-06-25"/>
+    <cosponsor thomas_id="02145" joined="2014-06-23"/>
+    <cosponsor thomas_id="01501" joined="2014-07-08"/>
+    <cosponsor thomas_id="00868" joined="2014-06-23"/>
+    <cosponsor thomas_id="02162" joined="2014-06-23"/>
+    <cosponsor thomas_id="02171" joined="2014-07-22"/>
+    <cosponsor thomas_id="02109" joined="2014-06-23"/>
+    <cosponsor thomas_id="02099" joined="2014-07-30"/>
+    <cosponsor thomas_id="02110" joined="2014-06-23"/>
+    <cosponsor thomas_id="01856" joined="2014-07-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-23" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2014-07-07">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Health" code="HSVR03" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Health personnel"/>
+    <term name="Medical education"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+</bill>

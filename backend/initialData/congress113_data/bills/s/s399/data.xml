@@ -1,0 +1,69 @@
+<bill session="113" type="s" number="399" updated="2014-08-14T13:48:08-04:00">
+  <state datetime="2013-02-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-28"/>
+  </status>
+  <introduced datetime="2013-02-28"/>
+  <titles>
+    <title type="short" as="introduced">American Job Protection Act</title>
+    <title type="official" as="introduced">A bill to protect American job creation by striking the Federal mandate on employers to offer health insurance.</title>
+  </titles>
+  <sponsor thomas_id="01351"/>
+  <cosponsors>
+    <cosponsor thomas_id="01695" joined="2013-02-28"/>
+    <cosponsor thomas_id="02075" joined="2013-02-28"/>
+    <cosponsor thomas_id="01881" joined="2013-02-28"/>
+    <cosponsor thomas_id="01464" joined="2013-02-28"/>
+    <cosponsor thomas_id="00153" joined="2013-02-28"/>
+    <cosponsor thomas_id="00188" joined="2013-02-28"/>
+    <cosponsor thomas_id="00209" joined="2013-02-28"/>
+    <cosponsor thomas_id="00212" joined="2013-02-28"/>
+    <cosponsor thomas_id="00213" joined="2013-02-28"/>
+    <cosponsor thomas_id="01541" joined="2013-02-28"/>
+    <cosponsor thomas_id="01825" joined="2013-07-18"/>
+    <cosponsor thomas_id="01692" joined="2013-02-28"/>
+    <cosponsor thomas_id="01542" joined="2013-02-28"/>
+    <cosponsor thomas_id="02179" joined="2013-02-28"/>
+    <cosponsor thomas_id="01633" joined="2013-02-28"/>
+    <cosponsor thomas_id="00457" joined="2013-02-28"/>
+    <cosponsor thomas_id="02079" joined="2013-02-28"/>
+    <cosponsor thomas_id="00583" joined="2013-02-28"/>
+    <cosponsor thomas_id="01608" joined="2013-02-28"/>
+    <cosponsor thomas_id="01899" joined="2013-02-28"/>
+    <cosponsor thomas_id="01647" joined="2014-05-07"/>
+    <cosponsor thomas_id="01507" joined="2013-03-05"/>
+    <cosponsor thomas_id="01694" joined="2013-07-10"/>
+    <cosponsor thomas_id="00924" joined="2013-02-28"/>
+    <cosponsor thomas_id="01896" joined="2013-02-28"/>
+    <cosponsor thomas_id="00968" joined="2013-02-28"/>
+    <cosponsor thomas_id="02084" joined="2013-02-28"/>
+    <cosponsor thomas_id="01534" joined="2013-02-28"/>
+    <cosponsor thomas_id="02085" joined="2013-02-28"/>
+    <cosponsor thomas_id="01609" joined="2013-03-04"/>
+    <cosponsor thomas_id="01226" joined="2013-02-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-28" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="1558"/>
+    <bill type="s" session="113" relation="unknown" number="24"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Business records"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Government information and archives"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Wages and earnings"/>
+  </subjects>
+  <amendments/>
+  <summary>2/28/2013--Introduced.
+American Job Protection Act - Repeals provisions of the Internal Revenue Code, as added by the Patient Protection and Affordable Care Act, that: (1) impose fines on large employers (employers with more than 50 full-time employees) who fail to offer their full-time employees the opportunity to enroll in minimum essential health insurance coverage, and (2) require such large employers to file a report with the Secretary of the Treasury on health insurance coverage provided to their full-time employees. Applies the Internal Revenue Code as if such provisions had never been enacted.</summary>
+</bill>

@@ -1,0 +1,27 @@
+<bill session="113" type="s" number="2638" updated="2014-08-14T14:07:17-04:00">
+  <state datetime="2014-07-22">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-22"/>
+  </status>
+  <introduced datetime="2014-07-22"/>
+  <titles>
+    <title type="short" as="introduced">Natural Gas Export Certainty Act of 2014</title>
+    <title type="official" as="introduced">A bill to amend the Natural Gas Act to provide certainty with respect to the timing of Department of Energy decisions to approve or deny applications to export natural gas.</title>
+  </titles>
+  <sponsor thomas_id="02079"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2274"/>
+    <bill type="s" session="113" relation="unknown" number="2592"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

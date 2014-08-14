@@ -1,0 +1,17 @@
+<amendment session="113" chamber="h" number="1117" updated="2014-08-14T13:40:52-04:00">
+  <amends type="h" number="4984" sequence="2"/>
+  <status datetime="2014-07-24T15:17:00-04:00">pass</status>
+  <sponsor thomas_id="02169"/>
+  <offered datetime="2014-07-24"/>
+  <description>An amendment No. 2 printed in part B of House Report 113-546 to ensure that each individual is aware of financial management resources provided by the Treasury Department's Financial Literacy and Education Commission.</description>
+  <actions>
+    <action datetime="2014-07-24T13:09:00-04:00">
+      <text>Amendment (A002) offered by Mr. Kilmer.</text>
+      <reference ref="CR H6763-6764, H6775-6776" label="consideration"/>
+      <reference ref="CR H6763" label="text"/>
+    </action>
+    <vote datetime="2014-07-24T15:17:00-04:00" how="roll" result="pass" roll="444">
+      <text>On agreeing to the Kilmer amendment (A002) Agreed to by recorded vote: 404 - 14 (Roll no. 444).</text>
+    </vote>
+  </actions>
+</amendment>

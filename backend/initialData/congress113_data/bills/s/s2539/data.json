@@ -1,0 +1,158 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-26", 
+      "committees": [
+        "SSHR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-07-07", 
+      "references": [
+        {
+          "reference": "CR S4214", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-23", 
+      "committees": [
+        "SSHR"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.", 
+      "type": "calendar"
+    }, 
+    {
+      "acted_at": "2014-07-23", 
+      "committee": "Health, Education, Labor, and Pensions", 
+      "committees": [
+        "SSHR"
+      ], 
+      "references": [], 
+      "text": "Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute. Without written report.", 
+      "type": "reported"
+    }, 
+    {
+      "acted_at": "2014-07-23", 
+      "calendar": "Senate Legislative", 
+      "number": "483", 
+      "references": [], 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 483.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2539-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup", 
+        "reporting"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Casey, Robert P., Jr.", 
+      "sponsored_at": "2014-06-26", 
+      "state": "PA", 
+      "thomas_id": "01828", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Harkin, Tom", 
+      "sponsored_at": "2014-07-22", 
+      "state": "IA", 
+      "thomas_id": "00501", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Kirk, Mark Steven", 
+      "sponsored_at": "2014-07-22", 
+      "state": "IL", 
+      "thomas_id": "01647", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-07-23", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-06-26", 
+  "number": "2539", 
+  "official_title": "A bill to amend the Public Health Service Act to reauthorize certain programs relating to traumatic brain injury and to trauma research.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Traumatic Brain Injury Reauthorization Act of 2014", 
+  "sponsor": {
+    "district": null, 
+    "name": "Hatch, Orrin G.", 
+    "state": "UT", 
+    "thomas_id": "01351", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2014-07-23", 
+  "subjects": [
+    "Child health", 
+    "Congressional oversight", 
+    "Disability and paralysis", 
+    "Elementary and secondary education", 
+    "Government studies and investigations", 
+    "Health", 
+    "Health programs administration and funding", 
+    "Health promotion and preventive care", 
+    "Medical research", 
+    "Neurological disorders", 
+    "School athletics"
+  ], 
+  "subjects_top_term": "Health", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-06-26", 
+    "text": "Traumatic Brain Injury Reauthorization Act of 2014 - Amends the Public Health Service Act to authorize appropriations through FY2019 for traumatic brain injury (TBI) prevention and surveillance or registry programs.\n\n Reauthorizes through FY2019 the programs of grants to: (1) states and Indian consortia for TBI services, and (2) protection and advocacy systems for the purpose of enabling the systems to provide services to individuals with TBI.\n\n Directs the Secretary of Health and Human Services (HHS) to develop a plan for improved coordination of federal activities with respect to traumatic brain injury that will:\n\n review interagency coordination efforts; identify areas for improved coordination between federal agencies and programs, including those with a focus on serving individuals with disabilities; and incorporate feedback from stakeholders, including individuals with TBI and their caregivers. Directs the Centers for Disease Control and Prevention (CDC) to review the scientific evidence related to brain injury management in children and identify opportunities for research."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Traumatic Brain Injury Reauthorization Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to amend the Public Health Service Act to reauthorize certain programs relating to traumatic brain injury and to trauma research.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T14:06:27-04:00"
+}

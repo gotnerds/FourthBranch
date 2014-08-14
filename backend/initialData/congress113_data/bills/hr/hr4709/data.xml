@@ -1,0 +1,104 @@
+<bill session="113" type="h" number="4709" updated="2014-08-14T13:31:35-04:00">
+  <state datetime="2014-07-29T14:57:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-07-29T14:57:00-04:00"/>
+  </status>
+  <introduced datetime="2014-05-21"/>
+  <titles>
+    <title type="short" as="introduced">Ensuring Patient Access and Effective Drug Enforcement Act of 2014</title>
+    <title type="short" as="passed house">Ensuring Patient Access and Effective Drug Enforcement Act of 2014</title>
+    <title type="official" as="introduced">To improve enforcement efforts related to prescription drug diversion and abuse, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02053"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2014-07-23"/>
+    <cosponsor thomas_id="01748" joined="2014-05-21"/>
+    <cosponsor thomas_id="01970" joined="2014-05-21"/>
+    <cosponsor thomas_id="02121" joined="2014-07-15"/>
+    <cosponsor thomas_id="01998" joined="2014-07-22"/>
+    <cosponsor thomas_id="01990" joined="2014-07-15"/>
+    <cosponsor thomas_id="02143" joined="2014-07-15"/>
+    <cosponsor thomas_id="02046" joined="2014-07-16"/>
+    <cosponsor thomas_id="01885" joined="2014-07-23"/>
+    <cosponsor thomas_id="01041" joined="2014-07-11"/>
+    <cosponsor thomas_id="01075" joined="2014-07-22"/>
+    <cosponsor thomas_id="01879" joined="2014-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-21" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-05-21">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2014-05-21">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2014-05-23">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2014-06-09">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2014-06-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-06-10" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2014-07-21">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+    <action datetime="2014-07-29T14:37:00-04:00">
+      <text>Mr. Pitts moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2014-07-29T14:37:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7004-7007" label="consideration"/>
+    </action>
+    <action datetime="2014-07-29T14:37:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4709.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-07-29T14:57:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H7004-7005" label="text"/>
+    </vote>
+    <action datetime="2014-07-29T14:57:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-07-30">
+      <text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, Markup"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="4069"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Administrative remedies"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Justice"/>
+    <term name="Drug trafficking and controlled substances"/>
+    <term name="Government studies and investigations"/>
+    <term name="Health care coverage and access"/>
+    <term name="Licensing and registrations"/>
+    <term name="Prescription drugs"/>
+    <term name="Retail and wholesale trades"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2014--Introduced.
+Ensuring Patient Access and Effective Drug Enforcement Act of 2014 - Amends the Controlled Substances Act to provide that: (1) a determination by the Attorney General that a registration to manufacture, distribute, or dispense a controlled substance is "consistent with the public health and safety" means that it has a substantial relationship to such Act's purpose of preventing diversion and abuse of controlled substances; and (2) a finding of "imminent danger" by the Attorney General justifying immediate suspension of such a registration means that there is a significant and present risk of death or serious bodily harm that is more likely than not to occur in the absence of such a suspension.
+
+Requires the Attorney General, before revoking or suspending a registration under such Act, to: (1) provide the registrant notice of the grounds for doing so, and where such grounds consist of a legal violation, a specific citation to such law; (2) give the registrant an opportunity to submit a corrective action plan within a reasonable time period; and (3) determine whether, in light of the plan, revocation or suspension proceedings should be discontinued or deferred or additional changes need to be made in such plan.
+
+Directs the Secretary of Health and Human Services (HHS), acting through the Commissioner of Food and Drugs (FDA) and the Director of the Centers for Disease Control and Prevention (CDC), to submit a report: (1) assessing how patient access to medications could be adversely impacted by federal and state law enforcement activities, and (2) identifying how collaboration between agencies and stakeholders can benefit patients and prevent diversion and abuse of controlled substances.
+
+ .</summary>
+</bill>

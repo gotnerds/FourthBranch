@@ -1,0 +1,54 @@
+<bill session="113" type="s" number="632" updated="2014-08-14T13:50:07-04:00">
+  <state datetime="2013-03-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-21"/>
+  </status>
+  <introduced datetime="2013-03-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Food, Conservation, and Energy Act of 2008 to repeal a duplicative program relating to inspection and grading of catfish.</title>
+  </titles>
+  <sponsor thomas_id="00754"/>
+  <cosponsors>
+    <cosponsor thomas_id="02075" joined="2013-03-21"/>
+    <cosponsor thomas_id="00172" joined="2013-03-21"/>
+    <cosponsor thomas_id="00174" joined="2014-07-30"/>
+    <cosponsor thomas_id="01828" joined="2014-07-14"/>
+    <cosponsor thomas_id="00212" joined="2013-03-21"/>
+    <cosponsor thomas_id="00250" joined="2013-03-21"/>
+    <cosponsor thomas_id="02175" joined="2014-06-16"/>
+    <cosponsor thomas_id="01633" joined="2013-04-18"/>
+    <cosponsor thomas_id="01969" joined="2014-06-04"/>
+    <cosponsor thomas_id="00583" joined="2013-04-22"/>
+    <cosponsor thomas_id="01647" joined="2013-03-21"/>
+    <cosponsor thomas_id="01820" joined="2014-07-07"/>
+    <cosponsor thomas_id="01409" joined="2013-03-21"/>
+    <cosponsor thomas_id="00859" joined="2013-03-21"/>
+    <cosponsor thomas_id="01896" joined="2013-03-21"/>
+    <cosponsor thomas_id="02084" joined="2014-07-08"/>
+    <cosponsor thomas_id="01901" joined="2013-03-21"/>
+    <cosponsor thomas_id="01897" joined="2013-03-21"/>
+    <cosponsor thomas_id="02182" joined="2014-07-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="1313"/>
+    <bill type="h" session="113" relation="unknown" number="1999"/>
+    <bill type="h" session="113" relation="unknown" number="4601"/>
+    <bill type="s" session="113" relation="unknown" number="10"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural marketing and promotion"/>
+    <term name="Aquaculture"/>
+  </subjects>
+  <amendments/>
+  <summary>3/21/2013--Introduced.
+Repeals a provision of the Food, Conservation, and Energy Act of 2008 establishing an inspection and grading program for catfish and other species of farm-raised fish shellfish effective on the date of enactment of such Act.</summary>
+</bill>

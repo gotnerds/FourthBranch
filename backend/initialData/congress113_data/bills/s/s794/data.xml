@@ -1,0 +1,83 @@
+<bill session="113" type="s" number="794" updated="2014-08-14T13:51:33-04:00">
+  <state datetime="2013-04-24">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-24"/>
+  </status>
+  <introduced datetime="2013-04-24"/>
+  <titles>
+    <title type="short" as="introduced">Dependable Air Service Act of 2013</title>
+    <title type="official" as="introduced">A bill to prevent an increase in flight delays and cancellations, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02079"/>
+  <cosponsors>
+    <cosponsor thomas_id="01695" joined="2013-04-24"/>
+    <cosponsor thomas_id="02075" joined="2013-04-24"/>
+    <cosponsor thomas_id="01881" joined="2013-04-24"/>
+    <cosponsor thomas_id="01898" joined="2013-04-24"/>
+    <cosponsor thomas_id="02076" joined="2013-04-24"/>
+    <cosponsor thomas_id="01464" joined="2013-04-24"/>
+    <cosponsor thomas_id="01687" joined="2013-04-24"/>
+    <cosponsor thomas_id="00188" joined="2013-04-24"/>
+    <cosponsor thomas_id="00209" joined="2013-04-24"/>
+    <cosponsor thomas_id="00212" joined="2013-04-24"/>
+    <cosponsor thomas_id="00213" joined="2013-04-24"/>
+    <cosponsor thomas_id="01692" joined="2013-04-24"/>
+    <cosponsor thomas_id="00250" joined="2013-04-24"/>
+    <cosponsor thomas_id="01542" joined="2013-04-24"/>
+    <cosponsor thomas_id="02179" joined="2013-04-24"/>
+    <cosponsor thomas_id="00452" joined="2013-04-24"/>
+    <cosponsor thomas_id="00457" joined="2013-04-24"/>
+    <cosponsor thomas_id="01351" joined="2013-04-24"/>
+    <cosponsor thomas_id="00583" joined="2013-04-24"/>
+    <cosponsor thomas_id="01899" joined="2013-04-24"/>
+    <cosponsor thomas_id="02086" joined="2013-04-24"/>
+    <cosponsor thomas_id="01647" joined="2013-04-24"/>
+    <cosponsor thomas_id="01826" joined="2013-04-24"/>
+    <cosponsor thomas_id="02080" joined="2013-04-24"/>
+    <cosponsor thomas_id="01983" joined="2013-04-24"/>
+    <cosponsor thomas_id="00754" joined="2013-04-24"/>
+    <cosponsor thomas_id="01820" joined="2013-04-25"/>
+    <cosponsor thomas_id="01395" joined="2013-04-24"/>
+    <cosponsor thomas_id="02082" joined="2013-04-24"/>
+    <cosponsor thomas_id="00924" joined="2013-04-24"/>
+    <cosponsor thomas_id="01896" joined="2013-04-24"/>
+    <cosponsor thomas_id="00968" joined="2013-04-24"/>
+    <cosponsor thomas_id="02084" joined="2013-04-24"/>
+    <cosponsor thomas_id="02056" joined="2013-04-24"/>
+    <cosponsor thomas_id="01548" joined="2013-04-24"/>
+    <cosponsor thomas_id="01901" joined="2013-04-24"/>
+    <cosponsor thomas_id="02085" joined="2013-04-24"/>
+    <cosponsor thomas_id="01609" joined="2013-04-25"/>
+    <cosponsor thomas_id="01226" joined="2013-04-24"/>
+    <cosponsor thomas_id="01937" joined="2013-04-24" withdrawn="2013-04-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-24">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S2962"/>
+    </action>
+    <action datetime="2013-04-24" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Appropriations"/>
+    <term name="Aviation and airports"/>
+    <term name="Department of Transportation"/>
+    <term name="Employee leave"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Transportation employees"/>
+    <term name="Transportation programs funding"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>4/24/2013--Introduced.
+Dependable Air Service Act of 2013 - Directs the Secretary of Transportation (DOT) to ensure that flight delays and cancellations do not result from furloughs of Federal Aviation Administration (FAA) employees that are implemented as a result of any rescission, sequestration, or reduction of federal funding for FY2013.
+
+Authorizes the Secretary, in order to prevent such delays and cancellations, to: (1) use amounts available for FAA operations for FY2013; or (2) increase the amount available for FAA operations for FY2013 by an amount necessary to ensure that flight delays and cancellations do not result from the furloughs, as well as reduce amounts available for other Department of Transportation (DOT) programs for FY2013 by an amount equal to the increase in funding for FAA operations.</summary>
+</bill>

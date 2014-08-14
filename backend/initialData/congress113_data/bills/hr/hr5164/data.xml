@@ -1,0 +1,46 @@
+<bill session="113" type="h" number="5164" updated="2014-08-14T13:35:32-04:00">
+  <state datetime="2014-07-22">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-22"/>
+  </status>
+  <introduced datetime="2014-07-22"/>
+  <titles>
+    <title type="short" as="introduced">Organ Mountains-Desert Peaks National Monument Correction Act</title>
+    <title type="official" as="introduced">To clarify that the Secretary of Homeland Security may undertake law enforcement and border security activities within the Organ Mountains-Desert Peaks National Monument, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01738"/>
+  <cosponsors>
+    <cosponsor thomas_id="01753" joined="2014-07-22"/>
+    <cosponsor thomas_id="01987" joined="2014-07-22"/>
+    <cosponsor thomas_id="01924" joined="2014-07-22"/>
+    <cosponsor thomas_id="01992" joined="2014-07-22"/>
+    <cosponsor thomas_id="00484" joined="2014-07-22"/>
+    <cosponsor thomas_id="02140" joined="2014-07-22"/>
+    <cosponsor thomas_id="02011" joined="2014-07-22"/>
+    <cosponsor thomas_id="02100" joined="2014-07-22"/>
+    <cosponsor thomas_id="01834" joined="2014-07-22"/>
+    <cosponsor thomas_id="01960" joined="2014-07-22"/>
+    <cosponsor thomas_id="01806" joined="2014-07-22"/>
+    <cosponsor thomas_id="01908" joined="2014-07-22"/>
+    <cosponsor thomas_id="01758" joined="2014-07-22"/>
+    <cosponsor thomas_id="01915" joined="2014-07-22"/>
+    <cosponsor thomas_id="01778" joined="2014-07-22"/>
+    <cosponsor thomas_id="02168" joined="2014-07-22"/>
+    <cosponsor thomas_id="02152" joined="2014-07-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-22" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2014-07-29">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Public Lands and Environmental Regulation" code="HSII10" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

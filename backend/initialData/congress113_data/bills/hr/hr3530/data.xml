@@ -1,0 +1,243 @@
+<bill session="113" type="h" number="3530" updated="2014-08-14T13:21:37-04:00">
+  <state datetime="2014-05-20T18:27:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-05-20T18:27:00-04:00"/>
+  </status>
+  <introduced datetime="2013-11-19"/>
+  <titles>
+    <title type="short" as="introduced">Justice for Victims of Trafficking Act of 2013</title>
+    <title type="short" as="reported to house">Justice for Victims of Trafficking Act of 2014</title>
+    <title type="short" as="passed house">Justice for Victims of Trafficking Act of 2014</title>
+    <title type="official" as="introduced">To provide justice for the victims of trafficking.</title>
+  </titles>
+  <sponsor thomas_id="01802"/>
+  <cosponsors>
+    <cosponsor thomas_id="01858" joined="2014-05-08"/>
+    <cosponsor thomas_id="01996" joined="2014-03-12"/>
+    <cosponsor thomas_id="02063" joined="2014-04-01"/>
+    <cosponsor thomas_id="01748" joined="2014-02-05"/>
+    <cosponsor thomas_id="00099" joined="2014-05-06"/>
+    <cosponsor thomas_id="01468" joined="2014-02-05"/>
+    <cosponsor thomas_id="02129" joined="2014-05-02"/>
+    <cosponsor thomas_id="01751" joined="2014-02-05"/>
+    <cosponsor thomas_id="02127" joined="2014-05-06"/>
+    <cosponsor thomas_id="02107" joined="2013-12-10"/>
+    <cosponsor thomas_id="01752" joined="2014-03-06"/>
+    <cosponsor thomas_id="02159" joined="2014-01-29"/>
+    <cosponsor thomas_id="01956" joined="2014-04-01"/>
+    <cosponsor thomas_id="00211" joined="2014-04-30"/>
+    <cosponsor thomas_id="01912" joined="2014-04-08"/>
+    <cosponsor thomas_id="02121" joined="2014-04-30"/>
+    <cosponsor thomas_id="01805" joined="2014-03-04"/>
+    <cosponsor thomas_id="01774" joined="2013-12-10"/>
+    <cosponsor thomas_id="02098" joined="2014-04-30"/>
+    <cosponsor thomas_id="02144" joined="2014-05-15"/>
+    <cosponsor thomas_id="01670" joined="2014-04-29"/>
+    <cosponsor thomas_id="02138" joined="2014-02-05"/>
+    <cosponsor thomas_id="02126" joined="2013-12-10"/>
+    <cosponsor thomas_id="00281" joined="2014-04-04"/>
+    <cosponsor thomas_id="02096" joined="2014-01-15"/>
+    <cosponsor thomas_id="02116" joined="2014-04-30"/>
+    <cosponsor thomas_id="01976" joined="2014-01-17"/>
+    <cosponsor thomas_id="01717" joined="2014-05-07"/>
+    <cosponsor thomas_id="00303" joined="2014-02-03"/>
+    <cosponsor thomas_id="02057" joined="2014-02-05"/>
+    <cosponsor thomas_id="02114" joined="2014-05-01"/>
+    <cosponsor thomas_id="02067" joined="2013-12-12"/>
+    <cosponsor thomas_id="02064" joined="2014-02-05"/>
+    <cosponsor thomas_id="01797" joined="2013-11-20"/>
+    <cosponsor thomas_id="01924" joined="2014-02-05"/>
+    <cosponsor thomas_id="02065" joined="2014-02-05"/>
+    <cosponsor thomas_id="02119" joined="2014-04-10"/>
+    <cosponsor thomas_id="01707" joined="2014-02-05"/>
+    <cosponsor thomas_id="00414" joined="2014-05-08"/>
+    <cosponsor thomas_id="01895" joined="2014-05-06"/>
+    <cosponsor thomas_id="01992" joined="2014-05-09"/>
+    <cosponsor thomas_id="02058" joined="2014-04-30"/>
+    <cosponsor thomas_id="01487" joined="2013-11-19"/>
+    <cosponsor thomas_id="01914" joined="2014-05-02"/>
+    <cosponsor thomas_id="00478" joined="2014-03-21"/>
+    <cosponsor thomas_id="00484" joined="2013-11-21"/>
+    <cosponsor thomas_id="02026" joined="2014-02-05"/>
+    <cosponsor thomas_id="02032" joined="2014-04-07"/>
+    <cosponsor thomas_id="02040" joined="2014-04-30"/>
+    <cosponsor thomas_id="02071" joined="2014-04-29"/>
+    <cosponsor thomas_id="01634" joined="2014-05-06"/>
+    <cosponsor thomas_id="02140" joined="2014-05-08"/>
+    <cosponsor thomas_id="02015" joined="2014-02-05"/>
+    <cosponsor thomas_id="00588" joined="2014-04-29"/>
+    <cosponsor thomas_id="02046" joined="2013-12-11"/>
+    <cosponsor thomas_id="00603" joined="2014-04-02"/>
+    <cosponsor thomas_id="02199" joined="2014-04-30"/>
+    <cosponsor thomas_id="02169" joined="2014-05-09"/>
+    <cosponsor thomas_id="01724" joined="2014-02-05"/>
+    <cosponsor thomas_id="01907" joined="2014-04-30"/>
+    <cosponsor thomas_id="01733" joined="2014-04-29"/>
+    <cosponsor thomas_id="02145" joined="2014-04-29"/>
+    <cosponsor thomas_id="02011" joined="2014-01-17"/>
+    <cosponsor thomas_id="02100" joined="2014-02-05"/>
+    <cosponsor thomas_id="02050" joined="2014-05-07"/>
+    <cosponsor thomas_id="01885" joined="2014-04-09"/>
+    <cosponsor thomas_id="00683" joined="2014-04-30"/>
+    <cosponsor thomas_id="00701" joined="2014-05-01"/>
+    <cosponsor thomas_id="02111" joined="2014-03-25"/>
+    <cosponsor thomas_id="01960" joined="2014-02-05"/>
+    <cosponsor thomas_id="00729" joined="2013-11-19"/>
+    <cosponsor thomas_id="02053" joined="2014-04-30"/>
+    <cosponsor thomas_id="01804" joined="2014-02-04"/>
+    <cosponsor thomas_id="01504" joined="2014-02-27"/>
+    <cosponsor thomas_id="01505" joined="2014-04-29"/>
+    <cosponsor thomas_id="01506" joined="2013-12-05"/>
+    <cosponsor thomas_id="01731" joined="2013-11-19"/>
+    <cosponsor thomas_id="00832" joined="2013-12-05"/>
+    <cosponsor thomas_id="02059" joined="2014-02-10"/>
+    <cosponsor thomas_id="02117" joined="2014-02-03"/>
+    <cosponsor thomas_id="00850" joined="2014-04-30"/>
+    <cosponsor thomas_id="01602" joined="2014-04-30"/>
+    <cosponsor thomas_id="01758" joined="2014-02-18"/>
+    <cosponsor thomas_id="02060" joined="2014-03-24"/>
+    <cosponsor thomas_id="00867" joined="2013-11-19"/>
+    <cosponsor thomas_id="00868" joined="2013-12-23"/>
+    <cosponsor thomas_id="01955" joined="2014-01-13"/>
+    <cosponsor thomas_id="02035" joined="2014-04-29"/>
+    <cosponsor thomas_id="01930" joined="2013-12-05"/>
+    <cosponsor thomas_id="01738" joined="2014-05-08"/>
+    <cosponsor thomas_id="02113" joined="2014-05-08"/>
+    <cosponsor thomas_id="02141" joined="2014-02-05"/>
+    <cosponsor thomas_id="02171" joined="2013-12-09"/>
+    <cosponsor thomas_id="01915" joined="2014-02-05"/>
+    <cosponsor thomas_id="02073" joined="2014-02-05"/>
+    <cosponsor thomas_id="01954" joined="2014-02-05"/>
+    <cosponsor thomas_id="02017" joined="2014-02-05"/>
+    <cosponsor thomas_id="00985" joined="2014-03-24"/>
+    <cosponsor thomas_id="01848" joined="2014-01-28"/>
+    <cosponsor thomas_id="01009" joined="2014-02-05"/>
+    <cosponsor thomas_id="01920" joined="2013-12-11"/>
+    <cosponsor thomas_id="02009" joined="2014-02-05"/>
+    <cosponsor thomas_id="01525" joined="2014-03-06"/>
+    <cosponsor thomas_id="01861" joined="2014-05-15"/>
+    <cosponsor thomas_id="01526" joined="2014-05-06"/>
+    <cosponsor thomas_id="01890" joined="2014-02-10"/>
+    <cosponsor thomas_id="02047" joined="2014-05-01"/>
+    <cosponsor thomas_id="02104" joined="2014-01-09"/>
+    <cosponsor thomas_id="01940" joined="2014-03-12"/>
+    <cosponsor thomas_id="02112" joined="2014-04-03"/>
+    <cosponsor thomas_id="02137" joined="2014-01-08"/>
+    <cosponsor thomas_id="02128" joined="2014-04-10"/>
+    <cosponsor thomas_id="02161" joined="2014-02-05"/>
+    <cosponsor thomas_id="02165" joined="2014-03-04"/>
+    <cosponsor thomas_id="02004" joined="2014-05-09"/>
+    <cosponsor thomas_id="01688" joined="2014-02-05"/>
+    <cosponsor thomas_id="01886" joined="2014-02-05"/>
+    <cosponsor thomas_id="01238" joined="2014-03-24"/>
+    <cosponsor thomas_id="02115" joined="2014-03-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-11-19" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2014-01-09">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+    <action datetime="2014-04-29">
+      <text>Subcommittee on Crime, Terrorism, Homeland Security, and Investigations Discharged.</text>
+    </action>
+    <action datetime="2014-04-30">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-04-30" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2014-05-15T14:47:00-04:00">
+      <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 113-450.</text>
+    </action>
+    <calendar datetime="2014-05-15T14:48:00-04:00" calendar="Union" number="332">
+      <text>Placed on the Union Calendar, Calendar No. 332.</text>
+    </calendar>
+    <action datetime="2014-05-20T14:45:00-04:00">
+      <text>Mr. Goodlatte moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2014-05-20T14:46:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4501-4509" label="consideration"/>
+    </action>
+    <action datetime="2014-05-20T14:46:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3530.</text>
+    </action>
+    <action datetime="2014-05-20T15:23:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2014-05-20T17:59:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H4534-4535" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="221" datetime="2014-05-20T18:27:00-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 409 - 0 (Roll no. 221).</text>
+      <reference ref="CR H4501-4504" label="text"/>
+    </vote>
+    <action datetime="2014-05-21">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="1738"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Accounting and auditing"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Administrative remedies"/>
+    <term name="Adoption and foster care"/>
+    <term name="Child safety and welfare"/>
+    <term name="Congressional oversight"/>
+    <term name="Crime victims"/>
+    <term name="Crimes against children"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Criminal procedure and sentencing"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Department of Justice"/>
+    <term name="Domestic violence and child abuse"/>
+    <term name="Evidence and witnesses"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Family services"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Government trust funds"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Home and outpatient care"/>
+    <term name="Human trafficking"/>
+    <term name="Judicial procedure and administration"/>
+    <term name="Juvenile crime and gang violence"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Law enforcement officers"/>
+    <term name="Organized crime"/>
+    <term name="Pornography"/>
+    <term name="Sex offenses"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+    <term name="Transportation costs"/>
+    <term name="Travel and tourism"/>
+    <term name="Violent crime"/>
+    <term name="Vocational education"/>
+  </subjects>
+  <amendments/>
+  <summary>11/19/2013--Introduced.
+Justice for Victims of Trafficking Act of 2013 - Amends the federal criminal code to impose an additional penalty of $5,000 on any person or entity convicted of crimes relating to: (1) peonage, slavery, and trafficking in persons; (2) sexual abuse; (3) sexual exploitation and other abuse of children; (4) transportation for illegal sexual activity; or (5) human smuggling in violation of the Immigration and Nationality Act. Establishes in the Treasury the Domestic Trafficking Victims' Fund into which such penalties shall be deposited and which shall be used in FY2015-FY2019 to award grants or enhance victims' programming under the Trafficking Victims Protection Act of 2000, the Trafficking Victims Protection Reauthorization Act of 2005, and the Victims of Child Abuse Act of 1990. Allots funds to provide services for child pornography victims.
+
+Amends the Trafficking Victims Protection Act of 2000 to direct the Secretary of Health and Human Services (HHS) to make a determination, based on credible evidence, that a covered individual (i.e., a U.S. citizen or a permanent resident) has been a victim of a severe form of trafficking.
+
+Amends the Trafficking Victims Protection Reauthorization Act of 2005 to authorize the Attorney General to award block grants to develop, improve, or expand comprehensive domestic child trafficking deterrence programs to rescue and restore the lives of trafficking victims, while investigating and prosecuting offenses involving child trafficking.
+
+Amends the Victims of Child Abuse Act of 1990 to include human trafficking and the production of child pornography within the definition of child abuse for purposes of such Act.
+
+Amends the federal criminal code to: (1) increase restitution for victims of human trafficking; (2) set forth provisions for combating aggravated human trafficking racketeering; (3) allow state and local prosecutors to obtain wiretap warrants in state courts for investigations into human trafficking, child sexual exploitation, and child pornography production; (4) increase penalties for offenses involving enticement into slavery, sex trafficking of children, child exploitation, and repeat sex offenders; and (5) revise the definition of the crime of travel with intent to engage in illicit sexual conduct to facilitate prosecutions of such crime.
+
+Directs the Attorney General to ensure that all task forces and working groups within the Innocence Lost National Initiative engage in activities, programs, or operations to increase the investigative capabilities of law enforcement personnel in the detection, investigation, and prosecution of persons who patronize or solicit children for sex.
+
+Requires the Attorney General to audit grants awarded under the Trafficking Victims Protection Reauthorization Act of 2005. Imposes limits on the use of Department of Justice (DOJ) funds for DOJ conferences involving more than $20,000.</summary>
+</bill>

@@ -1,0 +1,65 @@
+<bill session="113" type="s" number="629" updated="2014-08-14T13:50:05-04:00">
+  <state datetime="2013-03-20">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-20"/>
+  </status>
+  <introduced datetime="2013-03-20"/>
+  <titles>
+    <title type="short" as="introduced">Honor America's Guard-Reserve Retirees Act of 2013</title>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to recognize the service in the reserve components of the Armed Forces of certain persons by honoring them with status as veterans under law, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01701"/>
+  <cosponsors>
+    <cosponsor thomas_id="01695" joined="2013-08-01"/>
+    <cosponsor thomas_id="01898" joined="2013-03-20"/>
+    <cosponsor thomas_id="01687" joined="2013-03-20"/>
+    <cosponsor thomas_id="00213" joined="2013-06-19"/>
+    <cosponsor thomas_id="00250" joined="2013-05-06"/>
+    <cosponsor thomas_id="01969" joined="2013-03-20"/>
+    <cosponsor thomas_id="01866" joined="2013-04-08"/>
+    <cosponsor thomas_id="00457" joined="2013-03-20"/>
+    <cosponsor thomas_id="00501" joined="2013-03-20"/>
+    <cosponsor thomas_id="01863" joined="2013-10-28"/>
+    <cosponsor thomas_id="01844" joined="2013-05-06"/>
+    <cosponsor thomas_id="01899" joined="2013-07-09"/>
+    <cosponsor thomas_id="00604" joined="2013-03-20"/>
+    <cosponsor thomas_id="01826" joined="2013-04-16"/>
+    <cosponsor thomas_id="01383" joined="2013-03-20"/>
+    <cosponsor thomas_id="00735" joined="2014-01-16"/>
+    <cosponsor thomas_id="00802" joined="2013-06-19"/>
+    <cosponsor thomas_id="01694" joined="2013-07-16"/>
+    <cosponsor thomas_id="02084" joined="2013-09-11"/>
+    <cosponsor thomas_id="02173" joined="2013-07-30"/>
+    <cosponsor thomas_id="01548" joined="2013-04-15"/>
+    <cosponsor thomas_id="01901" joined="2013-07-23"/>
+    <cosponsor thomas_id="01829" joined="2013-03-20"/>
+    <cosponsor thomas_id="01534" joined="2013-06-27"/>
+    <cosponsor thomas_id="01247" joined="2013-03-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-20" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-06-12">
+      <text>Committee on Veterans' Affairs. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Hearings, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="679"/>
+    <bill type="s" session="113" relation="unknown" number="944"/>
+    <bill type="s" session="113" relation="unknown" number="1950"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="National Guard and reserves"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>3/20/2013--Introduced.
+Honor America's Guard-Reserve Retirees Act of 2013 - Honors as a veteran any person entitled to retired pay for nonregular (reserve) service or, but for age, would be so entitled.
+
+Provides that such person shall not be entitled to any benefit by reason of such recognition.</summary>
+</bill>

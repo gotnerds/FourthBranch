@@ -1,0 +1,122 @@
+<bill session="113" type="h" number="185" updated="2014-08-14T12:52:17-04:00">
+  <state datetime="2013-12-20">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2013-12-20"/>
+  </status>
+  <introduced datetime="2013-01-04"/>
+  <titles>
+    <title type="official" as="introduced">To designate the United States courthouse located at 101 East Pecan Street in Sherman, Texas, as the "Paul Brown United States Courthouse".</title>
+  </titles>
+  <sponsor thomas_id="00484"/>
+  <cosponsors>
+    <cosponsor thomas_id="00062" joined="2013-02-28"/>
+    <cosponsor thomas_id="01468" joined="2013-02-28"/>
+    <cosponsor thomas_id="01751" joined="2013-02-15"/>
+    <cosponsor thomas_id="01752" joined="2013-02-28"/>
+    <cosponsor thomas_id="01805" joined="2013-02-28"/>
+    <cosponsor thomas_id="01807" joined="2013-02-28"/>
+    <cosponsor thomas_id="01670" joined="2013-02-28"/>
+    <cosponsor thomas_id="00303" joined="2013-02-28"/>
+    <cosponsor thomas_id="02067" joined="2013-02-28"/>
+    <cosponsor thomas_id="02065" joined="2013-02-28"/>
+    <cosponsor thomas_id="01801" joined="2013-02-28"/>
+    <cosponsor thomas_id="01487" joined="2013-02-15"/>
+    <cosponsor thomas_id="01803" joined="2013-02-28"/>
+    <cosponsor thomas_id="00462" joined="2013-02-28"/>
+    <cosponsor thomas_id="01749" joined="2013-02-28"/>
+    <cosponsor thomas_id="01490" joined="2013-02-13"/>
+    <cosponsor thomas_id="00599" joined="2013-02-28"/>
+    <cosponsor thomas_id="00603" joined="2013-02-13"/>
+    <cosponsor thomas_id="01806" joined="2013-02-28"/>
+    <cosponsor thomas_id="01804" joined="2013-02-28"/>
+    <cosponsor thomas_id="01758" joined="2013-02-28"/>
+    <cosponsor thomas_id="01955" joined="2013-04-11"/>
+    <cosponsor thomas_id="01802" joined="2013-02-15"/>
+    <cosponsor thomas_id="01075" joined="2013-02-28"/>
+    <cosponsor thomas_id="01114" joined="2013-02-28"/>
+    <cosponsor thomas_id="01155" joined="2013-02-28"/>
+    <cosponsor thomas_id="02167" joined="2013-05-07"/>
+    <cosponsor thomas_id="02161" joined="2013-02-28"/>
+    <cosponsor thomas_id="02165" joined="2013-02-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-04" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2013-01-07">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+    </action>
+    <action datetime="2013-07-18">
+      <text>Subcommittee on Economic Development, Public Buildings and Emergency Management Discharged.</text>
+    </action>
+    <action datetime="2013-07-18">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2013-07-18" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+    <action datetime="2013-09-27T09:55:00-04:00">
+      <text>Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-232.</text>
+    </action>
+    <calendar datetime="2013-09-27T09:55:00-04:00" calendar="House" number="57">
+      <text>Placed on the House Calendar, Calendar No. 57.</text>
+    </calendar>
+    <action datetime="2013-10-22T17:01:00-04:00">
+      <text>Mr. Barletta moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2013-10-22T17:02:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6646-6647" label="consideration"/>
+    </action>
+    <action datetime="2013-10-22T17:02:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 185.</text>
+    </action>
+    <action datetime="2013-10-22T17:10:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2013-10-22T18:31:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H6658-6659" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="551" datetime="2013-10-22T18:57:00-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 402 - 1 (Roll no. 551).</text>
+      <reference ref="CR H6646" label="text"/>
+    </vote>
+    <action datetime="2013-10-28">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <vote how="by Unanimous Consent" type="vote2" datetime="2013-12-17" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Unanimous Consent.</text>
+      <reference ref="CR S8917-8918" label="consideration"/>
+    </vote>
+    <action datetime="2013-12-18">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2013-12-19">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2013-12-20" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="113-58" type="public" datetime="2013-12-20">
+      <text>Became Public Law No: 113-58.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting, In Committee"/>
+    <committee subcommittee="Economic Development, Public Buildings and Emergency Management" code="HSPW13" name="House Transportation and Infrastructure" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="1594"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Judges"/>
+    <term name="Texas"/>
+  </subjects>
+  <amendments/>
+  <summary>12/20/2013--Public Law.
+Designates the U.S. courthouse located at 101 East Pecan Street in Sherman, Texas, as the "Paul Brown United States Courthouse."</summary>
+</bill>

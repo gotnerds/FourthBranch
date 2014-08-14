@@ -1,0 +1,51 @@
+<bill session="113" type="h" number="5149" updated="2014-08-14T13:35:25-04:00">
+  <state datetime="2014-07-17">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-17"/>
+  </status>
+  <introduced datetime="2014-07-17"/>
+  <titles>
+    <title type="short" as="introduced">Smart Water Management Conservation and Efficiency Act of 2014</title>
+    <title type="official" as="introduced">To provide for a smart water management pilot program.</title>
+  </titles>
+  <sponsor thomas_id="01832"/>
+  <cosponsors>
+    <cosponsor thomas_id="02014" joined="2014-07-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-17" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Science, Space, and Technology, Natural Resources, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-07-17">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2014-07-17">
+      <text>Referred to House Science, Space, and Technology</text>
+    </action>
+    <action datetime="2014-07-17">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2014-07-17">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2014-07-18">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to the Subcommittee on Water and Power.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Water and Power" code="HSII13" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Water Resources and Environment" code="HSPW02" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2225"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

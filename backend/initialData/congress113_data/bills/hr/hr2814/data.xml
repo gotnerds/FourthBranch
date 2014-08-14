@@ -1,0 +1,36 @@
+<bill session="113" type="h" number="2814" updated="2014-08-14T13:15:29-04:00">
+  <state datetime="2013-07-24">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-24"/>
+  </status>
+  <introduced datetime="2013-07-24"/>
+  <titles>
+    <title type="official" as="introduced">To designate the facility of the United States Postal Service located at 100 North Main Street in Strawberry, Arkansas, as the "Noel Austin Harris, Jr. Post Office".</title>
+  </titles>
+  <sponsor thomas_id="01989"/>
+  <cosponsors>
+    <cosponsor thomas_id="02098" joined="2013-07-24"/>
+    <cosponsor thomas_id="01990" joined="2013-07-24"/>
+    <cosponsor thomas_id="01991" joined="2013-07-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-24" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Arkansas"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Postal service"/>
+  </subjects>
+  <amendments/>
+  <summary>7/24/2013--Introduced.
+Designates the facility of the United States Postal Service located at 100 North Main Street in Strawberry, Arkansas, as the "Noel Austin Harris, Jr. Post Office."</summary>
+</bill>

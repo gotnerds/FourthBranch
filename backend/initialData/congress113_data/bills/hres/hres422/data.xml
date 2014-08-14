@@ -1,0 +1,58 @@
+<bill session="113" type="hr" number="422" updated="2014-08-14T12:48:13-04:00">
+  <state datetime="2013-11-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-11-19"/>
+  </status>
+  <introduced datetime="2013-11-19"/>
+  <titles>
+    <title type="official" as="introduced">Recognizing the campaign of genocide against the Kurdish people in Iraq.</title>
+  </titles>
+  <sponsor thomas_id="01729"/>
+  <cosponsors>
+    <cosponsor thomas_id="02135" joined="2013-12-04"/>
+    <cosponsor thomas_id="01748" joined="2013-11-19"/>
+    <cosponsor thomas_id="01889" joined="2014-04-28"/>
+    <cosponsor thomas_id="00231" joined="2013-12-09"/>
+    <cosponsor thomas_id="01604" joined="2013-12-12"/>
+    <cosponsor thomas_id="01857" joined="2014-03-05"/>
+    <cosponsor thomas_id="01794" joined="2014-01-13"/>
+    <cosponsor thomas_id="01724" joined="2014-03-28"/>
+    <cosponsor thomas_id="00729" joined="2014-03-11"/>
+    <cosponsor thomas_id="01504" joined="2014-03-11"/>
+    <cosponsor thomas_id="02148" joined="2014-02-25"/>
+    <cosponsor thomas_id="00832" joined="2013-12-04"/>
+    <cosponsor thomas_id="00910" joined="2013-12-04"/>
+    <cosponsor thomas_id="01910" joined="2013-12-04"/>
+    <cosponsor thomas_id="01522" joined="2013-12-09"/>
+    <cosponsor thomas_id="01861" joined="2014-07-29"/>
+    <cosponsor thomas_id="01526" joined="2013-12-09"/>
+    <cosponsor thomas_id="01535" joined="2014-04-30"/>
+    <cosponsor thomas_id="01205" joined="2014-04-08"/>
+    <cosponsor thomas_id="01688" joined="2014-02-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-11-19" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2013-12-06">
+      <text>Referred to the Subcommittee on Middle East and North Africa.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee subcommittee="Middle East and North Africa" code="HSFA13" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Iraq"/>
+    <term name="Middle East"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="War crimes, genocide, crimes against humanity"/>
+  </subjects>
+  <amendments/>
+  <summary>11/19/2013--Introduced.
+Calls on the U.S. government to recognize the campaign of genocide launched against the Kurdish people in Iraq.
+
+ Reaffirms the commitment of the House of Representatives to the friendship between the United States and the Kurdish people in Iraq.</summary>
+</bill>

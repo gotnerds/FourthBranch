@@ -1,0 +1,66 @@
+<bill session="113" type="h" number="3385" updated="2014-08-14T13:20:18-04:00">
+  <state datetime="2013-10-30">REFERRED</state>
+  <status>
+    <introduced datetime="2013-10-30"/>
+  </status>
+  <introduced datetime="2013-10-30"/>
+  <titles>
+    <title type="short" as="introduced">Save Access to a Valuable Investment Needed to Generate Savings Act of 2013</title>
+    <title type="short" as="introduced">SAVINGS Act</title>
+    <title type="official" as="introduced">To amend title 31, United States Code, to require the Secretary of the Treasury to provide for the purchase of paper United States savings bonds with tax refunds.</title>
+  </titles>
+  <sponsor thomas_id="02159"/>
+  <cosponsors>
+    <cosponsor thomas_id="00021" joined="2013-10-30"/>
+    <cosponsor thomas_id="02106" joined="2013-11-14"/>
+    <cosponsor thomas_id="00229" joined="2013-10-30"/>
+    <cosponsor thomas_id="00256" joined="2013-10-30"/>
+    <cosponsor thomas_id="01976" joined="2013-10-30"/>
+    <cosponsor thomas_id="01857" joined="2013-10-30"/>
+    <cosponsor thomas_id="00344" joined="2013-10-30"/>
+    <cosponsor thomas_id="02125" joined="2013-10-30"/>
+    <cosponsor thomas_id="02114" joined="2013-10-30"/>
+    <cosponsor thomas_id="00371" joined="2013-10-30"/>
+    <cosponsor thomas_id="01708" joined="2013-10-30"/>
+    <cosponsor thomas_id="02010" joined="2013-11-12"/>
+    <cosponsor thomas_id="01490" joined="2013-10-30"/>
+    <cosponsor thomas_id="01580" joined="2013-10-30"/>
+    <cosponsor thomas_id="02101" joined="2013-10-30"/>
+    <cosponsor thomas_id="00588" joined="2013-10-30"/>
+    <cosponsor thomas_id="00612" joined="2013-10-30"/>
+    <cosponsor thomas_id="00616" joined="2013-10-30"/>
+    <cosponsor thomas_id="02169" joined="2013-11-15"/>
+    <cosponsor thomas_id="01501" joined="2013-10-30"/>
+    <cosponsor thomas_id="01781" joined="2013-10-30"/>
+    <cosponsor thomas_id="01504" joined="2013-10-30"/>
+    <cosponsor thomas_id="01730" joined="2013-10-30"/>
+    <cosponsor thomas_id="00867" joined="2013-10-30"/>
+    <cosponsor thomas_id="02162" joined="2013-10-30"/>
+    <cosponsor thomas_id="01955" joined="2013-10-30"/>
+    <cosponsor thomas_id="01974" joined="2013-10-30"/>
+    <cosponsor thomas_id="01757" joined="2013-12-02"/>
+    <cosponsor thomas_id="01942" joined="2013-10-30"/>
+    <cosponsor thomas_id="01884" joined="2013-10-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-10-30" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Financial services and investments"/>
+    <term name="Income tax exclusion"/>
+    <term name="Interest, dividends, interest rates"/>
+    <term name="Securities"/>
+    <term name="State and local taxation"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <summary>10/30/2013--Introduced.
+Save Access to a Valuable Investment Needed to Generate Savings Act of 2013 or the SAVINGS Act - Directs the Secretary of the Treasury to: (1) allow individual taxpayers an option to purchase U.S. savings bonds in paper form with a portion or all of a tax refund during the period ending on December 31, 2018; or (2) implement an alternative option that allows for the gifting of U.S. savings bonds, serves the unbanked, and retains the ability to sign-up on the return of tax.</summary>
+</bill>

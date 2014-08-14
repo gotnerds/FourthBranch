@@ -1,0 +1,52 @@
+<bill session="113" type="s" number="1898" updated="2014-08-14T14:01:05-04:00">
+  <state datetime="2014-07-30">REPORTED</state>
+  <status>
+    <unknown datetime="2014-07-30"/>
+  </status>
+  <introduced datetime="2014-01-08"/>
+  <titles>
+    <title type="short" as="introduced">Truth in Settlements Act of 2014</title>
+    <title type="official" as="introduced">A bill to require adequate information regarding the tax treatment of payments under settlement agreements entered into by Federal agencies, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02182"/>
+  <cosponsors>
+    <cosponsor thomas_id="01898" joined="2014-07-23"/>
+    <cosponsor thomas_id="00212" joined="2014-01-08"/>
+    <cosponsor thomas_id="01384" joined="2014-07-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-01-08">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S115-116"/>
+    </action>
+    <action datetime="2014-01-08" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+    <calendar datetime="2014-07-30" state="REPORTED">
+      <text>Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="4324"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Civil actions and liability"/>
+    <term name="Congressional oversight"/>
+    <term name="Government information and archives"/>
+    <term name="Income tax deductions"/>
+    <term name="Securities"/>
+  </subjects>
+  <amendments/>
+  <summary>1/8/2014--Introduced.
+Truth in Settlements Act of 2014 - Sets forth new requirements for the public disclosure of any covered settlement agreement entered into by a federal executive agency.&#160; Defines "covered settlement agreement" as a settlement agreement (including a consent decree) that: (1) is entered into by an executive agency, (2) relates to an alleged violation of federal civil or criminal law, and (3) requires the payment of not less than $1 million by one or more non-federal persons (entities not within the federal government).
+
+Requires the head of each executive agency to make publicly available on the agency website&#160;a list of each covered settlement agreement entered into by the agency, which shall include:&#160;(1) the names of the parties to the settlement&#160;agreement and the date of such agreement; (2) a description of the claims that were settled under the agreement; (3) the amount each party to the agreement is obligated to pay under the terms of the agreement and the total amounts required to be paid; and (4) for each settling party, the amount the settling party is obligated to pay that has been designated as a civil penalty or fine. Requires: (1) such information to remain publicly available for five years after the date of the agreement, and (2) a copy of a covered settlement agreement to remain publicly available until at least one year after the date of the agreement, or until five years after such date for an agreement under which a non-federal person is required to pay not less than $50 million.
+
+Limits the disclosure of provisions of a covered settlement agreement that are subject to a confidentiality agreement.
+
+Requires the issuer of securities subject to reporting requirements under the Securities Exchange Act of 1934 to describe in required reports any claim of a tax deduction relating to a payment under a covered settlement agreement.</summary>
+</bill>

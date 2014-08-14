@@ -1,0 +1,76 @@
+<bill session="113" type="h" number="2350" updated="2014-08-14T13:11:24-04:00">
+  <state datetime="2013-06-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-13"/>
+  </status>
+  <introduced datetime="2013-06-13"/>
+  <titles>
+    <title type="short" as="introduced">Time Off to Vote Act</title>
+    <title type="official" as="introduced">To provide employees with 2 hours of paid leave in order to vote in Federal elections.</title>
+  </titles>
+  <sponsor thomas_id="02159"/>
+  <cosponsors>
+    <cosponsor thomas_id="00099" joined="2013-06-13"/>
+    <cosponsor thomas_id="01469" joined="2013-06-20"/>
+    <cosponsor thomas_id="02107" joined="2013-06-13"/>
+    <cosponsor thomas_id="01474" joined="2013-06-13"/>
+    <cosponsor thomas_id="01864" joined="2013-06-13"/>
+    <cosponsor thomas_id="01878" joined="2013-07-11"/>
+    <cosponsor thomas_id="00229" joined="2013-06-13"/>
+    <cosponsor thomas_id="01479" joined="2013-06-13"/>
+    <cosponsor thomas_id="02133" joined="2013-10-11"/>
+    <cosponsor thomas_id="01857" joined="2013-07-11"/>
+    <cosponsor thomas_id="01895" joined="2013-07-11"/>
+    <cosponsor thomas_id="01708" joined="2013-09-17"/>
+    <cosponsor thomas_id="01634" joined="2013-06-13"/>
+    <cosponsor thomas_id="01663" joined="2013-07-11"/>
+    <cosponsor thomas_id="00588" joined="2014-03-11"/>
+    <cosponsor thomas_id="00616" joined="2013-06-13"/>
+    <cosponsor thomas_id="02148" joined="2013-10-22"/>
+    <cosponsor thomas_id="00868" joined="2013-06-13"/>
+    <cosponsor thomas_id="02097" joined="2013-06-13"/>
+    <cosponsor thomas_id="01953" joined="2013-06-13"/>
+    <cosponsor thomas_id="02171" joined="2013-06-13"/>
+    <cosponsor thomas_id="01910" joined="2013-06-13"/>
+    <cosponsor thomas_id="00944" joined="2013-06-13"/>
+    <cosponsor thomas_id="01728" joined="2013-06-20"/>
+    <cosponsor thomas_id="01003" joined="2013-06-13"/>
+    <cosponsor thomas_id="02110" joined="2013-06-20"/>
+    <cosponsor thomas_id="01940" joined="2013-06-13"/>
+    <cosponsor thomas_id="02004" joined="2013-06-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-13" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2013-07-08">
+      <text>Referred to the Subcommittee on Workforce Protections.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee subcommittee="Workforce Protections" code="HSED10" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Civil actions and liability"/>
+    <term name="Congressional elections"/>
+    <term name="Elections, voting, political campaign regulation"/>
+    <term name="Employee leave"/>
+    <term name="Employment discrimination and employee rights"/>
+  </subjects>
+  <amendments/>
+  <summary>6/13/2013--Introduced.
+Time Off to Vote Act - Entitles an employee to two hours of paid leave on the day of any federal election in order to vote.
+
+ Gives the employer the right to determine the two-hour-period, excluding any lunch break or other break.
+
+Prohibits the loss of benefits for any employee taking such leave under this Act.
+
+Makes it unlawful for any employer to interfere with, restrain, or deny the exercise of or the attempt to exercise, the right to take leave under this Act, or to discriminate against an employee in any manner for taking leave under this Act.
+
+Makes it unlawful for any employer to discharge or in any other manner discriminate against any individual for: (1) opposing any practice made unlawful by this Act; (2) filing any charge, or instituting or causing to be instituted any proceeding, under or related to this Act; or (3) testifying or preparing to testifying in any inquiry or proceeding relating to any leave provided under this Act.
+
+Specifies the penalties for any employer who violates this Act.</summary>
+</bill>

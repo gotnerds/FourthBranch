@@ -1,0 +1,36 @@
+<bill session="113" type="h" number="4233" updated="2014-08-14T13:27:32-04:00">
+  <state datetime="2014-03-13">REFERRED</state>
+  <status>
+    <introduced datetime="2014-03-13"/>
+  </status>
+  <introduced datetime="2014-03-13"/>
+  <titles>
+    <title type="official" as="introduced">To authorize the President to award the Medal of Honor posthumously to Lance Corporal Jordan C. Haerter and Corporal Jonathan Yale of the Marine Corps for acts of valor during Operation Iraqi Freedom in April 2008.</title>
+  </titles>
+  <sponsor thomas_id="01740"/>
+  <cosponsors>
+    <cosponsor thomas_id="02069" joined="2014-03-13"/>
+    <cosponsor thomas_id="01663" joined="2014-03-13"/>
+    <cosponsor thomas_id="00635" joined="2014-06-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-03-13" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Conflicts and wars"/>
+    <term name="Congressional tributes"/>
+    <term name="Iraq"/>
+    <term name="Middle East"/>
+    <term name="Military personnel and dependents"/>
+  </subjects>
+  <amendments/>
+  <summary>3/13/2014--Introduced.
+Authorizes the President to award the Medal of Honor posthumously to Lance Corporal Jordan C. Haerter and Corporal Jonathan Yale of the Marine Corps for acts of valor during Operation Iraqi Freedom on April 22, 2008, for which they were originally awarded the Navy Cross.</summary>
+</bill>

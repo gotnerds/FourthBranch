@@ -1,0 +1,50 @@
+<bill session="113" type="s" number="1535" updated="2014-08-14T13:57:59-04:00">
+  <state datetime="2013-09-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-09-19"/>
+  </status>
+  <introduced datetime="2013-09-19"/>
+  <titles>
+    <title type="short" as="introduced">Justice Against Sponsors of Terrorism Act</title>
+    <title type="official" as="introduced">A bill to deter terrorism, provide justice for victims, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01036"/>
+  <cosponsors>
+    <cosponsor thomas_id="01984" joined="2013-09-19"/>
+    <cosponsor thomas_id="01692" joined="2013-09-19"/>
+    <cosponsor thomas_id="01332" joined="2013-09-19"/>
+    <cosponsor thomas_id="01633" joined="2013-10-02"/>
+    <cosponsor thomas_id="00452" joined="2013-09-19"/>
+    <cosponsor thomas_id="01351" joined="2013-09-19"/>
+    <cosponsor thomas_id="01826" joined="2013-09-19"/>
+    <cosponsor thomas_id="02080" joined="2013-10-16"/>
+    <cosponsor thomas_id="00735" joined="2013-09-19"/>
+    <cosponsor thomas_id="00791" joined="2013-09-19"/>
+    <cosponsor thomas_id="01823" joined="2013-09-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-19" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="3143"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Civil actions and liability"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Federal district courts"/>
+    <term name="Government liability"/>
+    <term name="Jurisdiction and venue"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+  <summary>9/19/2013--Introduced.
+Justice Against Sponsors of Terrorism Act - Amends the federal judicial code to include among the exceptions to U.S. jurisdictional immunity of foreign states any statutory or common law tort claim arising out of an act of extrajudicial killing, aircraft sabotage, hostage taking, terrorism, or the provision of material support or resources for such an act, or any claim for contribution or indemnity relating to a claim arising out of such an act.
+
+Amends the federal criminal code to: (1) impose liability on, and grant U.S. district courts personal jurisdiction over, any person who commits, or aids, abets, or conspires with a person who commits, an act of international terrorism that injures a U.S. national; and (2) repeal provisions prohibiting civil actions against foreign states or foreign officials for damages related to acts of terrorism</summary>
+</bill>

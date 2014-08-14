@@ -1,0 +1,36 @@
+<bill session="113" type="hr" number="640" updated="2014-08-14T12:50:03-04:00">
+  <state datetime="2014-06-23">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-23"/>
+  </status>
+  <introduced datetime="2014-06-23"/>
+  <titles>
+    <title type="official" as="introduced">Supporting the goals and ideals of "Helen Keller Deaf-Blind Awareness Week".</title>
+  </titles>
+  <sponsor thomas_id="02110"/>
+  <cosponsors>
+    <cosponsor thomas_id="01460" joined="2014-07-25"/>
+    <cosponsor thomas_id="01987" joined="2014-07-16"/>
+    <cosponsor thomas_id="02196" joined="2014-07-16"/>
+    <cosponsor thomas_id="01708" joined="2014-07-31"/>
+    <cosponsor thomas_id="01634" joined="2014-07-16"/>
+    <cosponsor thomas_id="01663" joined="2014-07-16"/>
+    <cosponsor thomas_id="01942" joined="2014-07-16"/>
+    <cosponsor thomas_id="02021" joined="2014-06-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-23" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>6/23/2014--Introduced.
+Expresses support for the goals and ideals of Helen Keller Deaf-Blind Awareness Week.
+
+Recognizes and honors people who are deaf-blind and organizations, such as the Helen Keller National Center, that continue to promote the awareness and needs of the deaf-blind community.</summary>
+</bill>

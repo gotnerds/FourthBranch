@@ -1,0 +1,44 @@
+<bill session="113" type="hr" number="81" updated="2014-08-14T12:45:20-04:00">
+  <state datetime="2013-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-26"/>
+  </status>
+  <introduced datetime="2013-02-26"/>
+  <titles>
+    <title type="official" as="introduced">Supporting the designation of National Digital Literacy Day.</title>
+  </titles>
+  <sponsor thomas_id="00735"/>
+  <cosponsors>
+    <cosponsor thomas_id="01723" joined="2013-02-26"/>
+    <cosponsor thomas_id="00355" joined="2013-02-26"/>
+    <cosponsor thomas_id="02089" joined="2013-02-26"/>
+    <cosponsor thomas_id="01814" joined="2013-02-26"/>
+    <cosponsor thomas_id="01504" joined="2013-02-26"/>
+    <cosponsor thomas_id="02113" joined="2013-02-26"/>
+    <cosponsor thomas_id="01207" joined="2013-02-26"/>
+    <cosponsor thomas_id="01879" joined="2013-02-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-26" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-03-01">
+      <text>Referred to the Subcommittee on Communications and Technology.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Communications and Technology" code="HSIF16" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Broadcasting, cable, digital technologies"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Computers and information technology"/>
+    <term name="Internet and video services"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/2013--Introduced.
+Supports the designation of National Digital Literacy Day (March 21) and reaffirms the continued need to promote digital literacy (knowledge of how to operate a computer or use the Internet), broadband access, and broadband adoption in the United States.</summary>
+</bill>

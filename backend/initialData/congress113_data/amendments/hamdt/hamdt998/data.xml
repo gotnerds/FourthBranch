@@ -1,0 +1,18 @@
+<amendment session="113" chamber="h" number="998" updated="2014-08-14T13:39:52-04:00">
+  <amends type="h" number="4923" sequence="27"/>
+  <status datetime="2014-07-09T19:01:00-04:00">pass</status>
+  <sponsor thomas_id="00616"/>
+  <offered datetime="2014-07-09"/>
+  <description>Amendment reduces funds for the Energy Information Administration by $500,000 and increases funds for Salaries and Expenses for the Department of Energy by the same amount.</description>
+  <purpose>An amendment to reduce funds for the Energy Information Administration by $500,000 and increase funds for Salaries and Expenses for the Department of Energy by the same amount.</purpose>
+  <actions>
+    <action datetime="2014-07-09T18:55:00-04:00">
+      <text>Amendment (A027) offered by Ms. Kaptur.</text>
+      <reference ref="CR H6015-6016" label="consideration"/>
+      <reference ref="CR H6015" label="text"/>
+    </action>
+    <vote datetime="2014-07-09T19:01:00-04:00" how="by voice vote" result="pass">
+      <text>On agreeing to the Kaptur amendment (A027) Agreed to by voice vote.</text>
+    </vote>
+  </actions>
+</amendment>

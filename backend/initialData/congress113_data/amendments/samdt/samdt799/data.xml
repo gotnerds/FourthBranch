@@ -1,0 +1,20 @@
+<amendment session="113" chamber="s" number="799" updated="2014-08-14T13:06:20-04:00">
+  <amends type="s" number="601" sequence=""/>
+  <status datetime="2013-05-08">pass</status>
+  <sponsor thomas_id="00116"/>
+  <offered datetime="2013-05-07"/>
+  <description>In the nature of a substitute.</description>
+  <actions>
+    <action datetime="2013-05-07">
+      <text>Amendment SA 799 proposed by Senator Boxer.</text>
+      <reference ref="CR S3139-3152" label="consideration"/>
+    </action>
+    <action datetime="2013-05-08">
+      <text>Considered by Senate.</text>
+      <reference ref="CR S3217" label="consideration"/>
+    </action>
+    <vote datetime="2013-05-08" how="Unanimous Consent" result="pass">
+      <text>Amendment SA 799 agreed to in Senate by Unanimous Consent.</text>
+    </vote>
+  </actions>
+</amendment>

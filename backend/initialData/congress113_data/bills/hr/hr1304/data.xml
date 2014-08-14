@@ -1,0 +1,76 @@
+<bill session="113" type="h" number="1304" updated="2014-08-14T13:01:48-04:00">
+  <state datetime="2013-03-20">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-20"/>
+  </status>
+  <introduced datetime="2013-03-20"/>
+  <titles>
+    <title type="short" as="introduced">Flexibility to Farm Act</title>
+    <title type="official" as="introduced">To permit the chief executive of a State to create an exemption from certain requirements of Federal environmental laws for producers of agricultural commodities, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01855"/>
+  <cosponsors>
+    <cosponsor thomas_id="01748" joined="2013-04-10"/>
+    <cosponsor thomas_id="01882" joined="2013-04-11"/>
+    <cosponsor thomas_id="00166" joined="2013-05-15"/>
+    <cosponsor thomas_id="02098" joined="2013-06-03"/>
+    <cosponsor thomas_id="02057" joined="2013-05-22"/>
+    <cosponsor thomas_id="01707" joined="2013-04-24"/>
+    <cosponsor thomas_id="02049" joined="2013-05-08"/>
+    <cosponsor thomas_id="01801" joined="2013-04-24"/>
+    <cosponsor thomas_id="02032" joined="2013-06-11"/>
+    <cosponsor thomas_id="02020" joined="2013-04-18"/>
+    <cosponsor thomas_id="02028" joined="2013-06-05"/>
+    <cosponsor thomas_id="01885" joined="2014-02-21"/>
+    <cosponsor thomas_id="02094" joined="2013-04-19"/>
+    <cosponsor thomas_id="02142" joined="2013-04-23"/>
+    <cosponsor thomas_id="01731" joined="2013-05-07"/>
+    <cosponsor thomas_id="01955" joined="2013-04-24"/>
+    <cosponsor thomas_id="02017" joined="2013-05-08"/>
+    <cosponsor thomas_id="01981" joined="2013-04-18"/>
+    <cosponsor thomas_id="01779" joined="2013-05-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-20" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-20">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-03-20">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2013-03-21">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+    <action datetime="2013-03-22">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Energy and Power" code="HSIF03" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+    <committee subcommittee="Water Resources and Environment" code="HSPW02" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Agricultural conservation and pollution"/>
+    <term name="Air quality"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Solid waste and recycling"/>
+    <term name="State and local government operations"/>
+    <term name="Water quality"/>
+  </subjects>
+  <amendments/>
+  <summary>3/20/2013--Introduced.
+Flexibility to Farm Act - Permits the chief executive of a state to exempt farmers in the state from a requirement of a covered federal environmental law by determining that such requirement is unduly burdensome.
+
+Requires the chief executive to solicit and accept public comments for at least 90 days before finalizing any such determination.
+
+Defines "covered federal environmental law" to mean the Clean Air Act insofar as it applies to emissions of air pollutants other than those resulting from the combustion of fossil fuel and the Federal Water Pollution Control Act (commonly known as the Clean Water Act).</summary>
+</bill>

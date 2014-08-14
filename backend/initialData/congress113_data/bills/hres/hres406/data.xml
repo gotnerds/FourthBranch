@@ -1,0 +1,60 @@
+<bill session="113" type="hr" number="406" updated="2014-08-14T12:48:05-04:00">
+  <state datetime="2013-11-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-11-12"/>
+  </status>
+  <introduced datetime="2013-11-12"/>
+  <titles>
+    <title type="official" as="introduced">Expressing support for designation of the week beginning on November 11, 2013, as National School Psychology Week.</title>
+  </titles>
+  <sponsor thomas_id="01846"/>
+  <cosponsors>
+    <cosponsor thomas_id="01723" joined="2013-11-12"/>
+    <cosponsor thomas_id="01970" joined="2013-11-12"/>
+    <cosponsor thomas_id="01878" joined="2013-11-12"/>
+    <cosponsor thomas_id="02114" joined="2013-11-12"/>
+    <cosponsor thomas_id="01708" joined="2013-11-12"/>
+    <cosponsor thomas_id="01490" joined="2013-11-12"/>
+    <cosponsor thomas_id="01580" joined="2013-11-12"/>
+    <cosponsor thomas_id="02101" joined="2013-12-03"/>
+    <cosponsor thomas_id="00599" joined="2013-11-13"/>
+    <cosponsor thomas_id="01501" joined="2013-11-12"/>
+    <cosponsor thomas_id="02111" joined="2013-11-12"/>
+    <cosponsor thomas_id="01653" joined="2013-11-12"/>
+    <cosponsor thomas_id="01504" joined="2013-11-14"/>
+    <cosponsor thomas_id="02097" joined="2013-11-12"/>
+    <cosponsor thomas_id="00912" joined="2013-11-12"/>
+    <cosponsor thomas_id="02171" joined="2013-11-12"/>
+    <cosponsor thomas_id="01910" joined="2013-11-12"/>
+    <cosponsor thomas_id="00930" joined="2013-12-04"/>
+    <cosponsor thomas_id="01756" joined="2013-11-12"/>
+    <cosponsor thomas_id="01635" joined="2013-11-12"/>
+    <cosponsor thomas_id="01861" joined="2013-11-12"/>
+    <cosponsor thomas_id="01942" joined="2013-11-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-11-12" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Child health"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Health personnel"/>
+    <term name="Higher education"/>
+    <term name="Mental health"/>
+    <term name="School administration"/>
+  </subjects>
+  <amendments/>
+  <summary>11/12/2013--Introduced.
+Expresses support for the designation of National School Psychology Week.
+
+ Recognizes the contributions of school psychologists to the success of students in schools across the United States.</summary>
+</bill>

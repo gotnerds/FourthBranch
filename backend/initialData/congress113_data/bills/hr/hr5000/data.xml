@@ -1,0 +1,114 @@
+<bill session="113" type="h" number="5000" updated="2014-08-14T13:34:09-04:00">
+  <state datetime="2014-06-26">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-26"/>
+  </status>
+  <introduced datetime="2014-06-26"/>
+  <titles>
+    <title type="short" as="introduced">Working Families Child Care Act of 2014</title>
+    <title type="official" as="introduced">To provide for child care services for families with infants or toddlers, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02119"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2014-06-26"/>
+    <cosponsor thomas_id="00132" joined="2014-06-26"/>
+    <cosponsor thomas_id="02106" joined="2014-06-26"/>
+    <cosponsor thomas_id="02127" joined="2014-06-26"/>
+    <cosponsor thomas_id="01761" joined="2014-06-26"/>
+    <cosponsor thomas_id="01889" joined="2014-06-26"/>
+    <cosponsor thomas_id="01839" joined="2014-06-26"/>
+    <cosponsor thomas_id="01970" joined="2014-06-26"/>
+    <cosponsor thomas_id="02055" joined="2014-06-26"/>
+    <cosponsor thomas_id="02196" joined="2014-06-26"/>
+    <cosponsor thomas_id="01864" joined="2014-06-26"/>
+    <cosponsor thomas_id="01878" joined="2014-06-26"/>
+    <cosponsor thomas_id="00229" joined="2014-06-26"/>
+    <cosponsor thomas_id="01604" joined="2014-06-26"/>
+    <cosponsor thomas_id="00281" joined="2014-06-26"/>
+    <cosponsor thomas_id="01976" joined="2014-06-26"/>
+    <cosponsor thomas_id="01894" joined="2014-06-26"/>
+    <cosponsor thomas_id="01857" joined="2014-06-26"/>
+    <cosponsor thomas_id="02125" joined="2014-06-26"/>
+    <cosponsor thomas_id="02114" joined="2014-06-26"/>
+    <cosponsor thomas_id="01895" joined="2014-06-26"/>
+    <cosponsor thomas_id="01973" joined="2014-06-26"/>
+    <cosponsor thomas_id="01914" joined="2014-06-26"/>
+    <cosponsor thomas_id="01708" joined="2014-06-26"/>
+    <cosponsor thomas_id="02089" joined="2014-06-26"/>
+    <cosponsor thomas_id="02010" joined="2014-06-26"/>
+    <cosponsor thomas_id="00511" joined="2014-06-26"/>
+    <cosponsor thomas_id="01634" joined="2014-06-26"/>
+    <cosponsor thomas_id="00599" joined="2014-06-26"/>
+    <cosponsor thomas_id="01843" joined="2014-06-26"/>
+    <cosponsor thomas_id="00616" joined="2014-06-26"/>
+    <cosponsor thomas_id="02025" joined="2014-06-26"/>
+    <cosponsor thomas_id="01907" joined="2014-06-26"/>
+    <cosponsor thomas_id="01668" joined="2014-06-26"/>
+    <cosponsor thomas_id="01501" joined="2014-06-26"/>
+    <cosponsor thomas_id="01846" joined="2014-06-26"/>
+    <cosponsor thomas_id="00701" joined="2014-06-26"/>
+    <cosponsor thomas_id="02111" joined="2014-06-26"/>
+    <cosponsor thomas_id="00709" joined="2014-06-26"/>
+    <cosponsor thomas_id="02150" joined="2014-06-26"/>
+    <cosponsor thomas_id="01814" joined="2014-06-26"/>
+    <cosponsor thomas_id="01653" joined="2014-06-26"/>
+    <cosponsor thomas_id="01504" joined="2014-06-26"/>
+    <cosponsor thomas_id="01832" joined="2014-07-16"/>
+    <cosponsor thomas_id="01506" joined="2014-06-26"/>
+    <cosponsor thomas_id="02148" joined="2014-06-26"/>
+    <cosponsor thomas_id="01811" joined="2014-06-26"/>
+    <cosponsor thomas_id="02117" joined="2014-07-31"/>
+    <cosponsor thomas_id="00850" joined="2014-06-26"/>
+    <cosponsor thomas_id="02108" joined="2014-06-26"/>
+    <cosponsor thomas_id="00868" joined="2014-06-26"/>
+    <cosponsor thomas_id="01510" joined="2014-07-31"/>
+    <cosponsor thomas_id="01927" joined="2014-06-26"/>
+    <cosponsor thomas_id="02171" joined="2014-07-16"/>
+    <cosponsor thomas_id="00930" joined="2014-07-29"/>
+    <cosponsor thomas_id="00944" joined="2014-06-26"/>
+    <cosponsor thomas_id="01003" joined="2014-06-26"/>
+    <cosponsor thomas_id="01962" joined="2014-06-26"/>
+    <cosponsor thomas_id="01588" joined="2014-06-26"/>
+    <cosponsor thomas_id="01988" joined="2014-06-26"/>
+    <cosponsor thomas_id="01861" joined="2014-06-26"/>
+    <cosponsor thomas_id="01069" joined="2014-06-26"/>
+    <cosponsor thomas_id="02104" joined="2014-07-16"/>
+    <cosponsor thomas_id="01535" joined="2014-06-26"/>
+    <cosponsor thomas_id="01940" joined="2014-06-26"/>
+    <cosponsor thomas_id="01942" joined="2014-06-26"/>
+    <cosponsor thomas_id="02112" joined="2014-06-26"/>
+    <cosponsor thomas_id="01777" joined="2014-06-26"/>
+    <cosponsor thomas_id="02004" joined="2014-06-26"/>
+    <cosponsor thomas_id="01853" joined="2014-06-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-26" state="REFERRED">
+      <text>Referred to the Committee on Education and the Workforce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-06-26">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2014-06-26">
+      <text>Referred to House Ways and Means</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="4680"/>
+    <bill type="s" session="113" relation="unknown" number="1065"/>
+  </relatedbills>
+  <subjects>
+    <term name="Families"/>
+    <term name="Child care and development"/>
+    <term name="Education of the disadvantaged"/>
+    <term name="Education programs funding"/>
+    <term name="Employment and training programs"/>
+    <term name="Preschool education"/>
+    <term name="Student aid and college costs"/>
+    <term name="Teaching, teachers, curricula"/>
+  </subjects>
+  <amendments/>
+</bill>

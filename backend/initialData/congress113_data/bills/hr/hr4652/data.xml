@@ -1,0 +1,59 @@
+<bill session="113" type="h" number="4652" updated="2014-08-14T13:31:03-04:00">
+  <state datetime="2014-05-09">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-09"/>
+  </status>
+  <introduced datetime="2014-05-09"/>
+  <titles>
+    <title type="short" as="introduced">Increasing Small Business Lending Act</title>
+    <title type="official" as="introduced">To increase lending to small businesses.</title>
+  </titles>
+  <sponsor thomas_id="01535"/>
+  <cosponsors>
+    <cosponsor thomas_id="01564" joined="2014-05-09"/>
+    <cosponsor thomas_id="02107" joined="2014-05-09"/>
+    <cosponsor thomas_id="02055" joined="2014-05-09"/>
+    <cosponsor thomas_id="01836" joined="2014-05-09"/>
+    <cosponsor thomas_id="00281" joined="2014-05-09"/>
+    <cosponsor thomas_id="02123" joined="2014-05-09"/>
+    <cosponsor thomas_id="00511" joined="2014-05-09"/>
+    <cosponsor thomas_id="01675" joined="2014-05-09"/>
+    <cosponsor thomas_id="00688" joined="2014-05-09"/>
+    <cosponsor thomas_id="01846" joined="2014-05-09"/>
+    <cosponsor thomas_id="02111" joined="2014-05-09"/>
+    <cosponsor thomas_id="01504" joined="2014-05-09"/>
+    <cosponsor thomas_id="01730" joined="2014-05-09"/>
+    <cosponsor thomas_id="00868" joined="2014-05-09"/>
+    <cosponsor thomas_id="01974" joined="2014-05-09"/>
+    <cosponsor thomas_id="02097" joined="2014-05-09"/>
+    <cosponsor thomas_id="02171" joined="2014-05-09"/>
+    <cosponsor thomas_id="00944" joined="2014-05-09"/>
+    <cosponsor thomas_id="01854" joined="2014-05-09"/>
+    <cosponsor thomas_id="01588" joined="2014-05-09"/>
+    <cosponsor thomas_id="01861" joined="2014-05-09"/>
+    <cosponsor thomas_id="01942" joined="2014-05-09"/>
+    <cosponsor thomas_id="01884" joined="2014-05-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-09" state="REFERRED">
+      <text>Referred to the House Committee on Small Business.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSSM" name="House Small Business" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Business investment and capital"/>
+    <term name="Credit and credit markets"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Small business"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+  <summary>5/9/2014--Introduced.
+Increasing Small Business Lending Act - Amends the Small Business Act to suspend, until September 30, 2015, fees under the 7(a) program (SBA-guaranteed loans to small businesses) and the 504 program (financing to small businesses backed by SBA-guaranteed debentures issued by any qualified state or local development company).
+
+Authorizes the SBA to guarantee up to 90% of a loan made by a private lender to a small business eligible for a loan guarantee under the Small Business Act or the Small Business Investment Act of 1958. Prohibits such guarantees with respect to small businesses: (1) in which an unlawful alien has an ownership interest, or (2) in violation of immigration laws.</summary>
+</bill>

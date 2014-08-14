@@ -1,0 +1,45 @@
+<bill session="113" type="h" number="4881" updated="2014-08-14T13:33:06-04:00">
+  <state datetime="2014-06-20">REPORTED</state>
+  <status>
+    <unknown datetime="2014-06-20"/>
+  </status>
+  <introduced datetime="2014-06-17"/>
+  <titles>
+    <title type="official" as="introduced">To place a 6-month moratorium on the authority of the Financial Stability Oversight Council to make financial stability determinations.</title>
+  </titles>
+  <sponsor thomas_id="01758"/>
+  <cosponsors>
+    <cosponsor thomas_id="00038" joined="2014-06-17"/>
+    <cosponsor thomas_id="02064" joined="2014-06-18"/>
+    <cosponsor thomas_id="01737" joined="2014-06-18"/>
+    <cosponsor thomas_id="01738" joined="2014-06-24"/>
+    <cosponsor thomas_id="02141" joined="2014-06-17"/>
+    <cosponsor thomas_id="02003" joined="2014-06-17"/>
+    <cosponsor thomas_id="02047" joined="2014-06-17"/>
+    <cosponsor thomas_id="02137" joined="2014-06-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-17" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2014-06-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-06-20" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 32 - 27.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Federal Reserve System"/>
+    <term name="Financial Stability Oversight Council"/>
+    <term name="Financial services and investments"/>
+  </subjects>
+  <amendments/>
+</bill>

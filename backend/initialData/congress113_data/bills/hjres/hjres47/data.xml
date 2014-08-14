@@ -1,0 +1,66 @@
+<bill session="113" type="hj" number="47" updated="2014-08-14T13:37:57-04:00">
+  <state datetime="2013-05-22">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-22"/>
+  </status>
+  <introduced datetime="2013-05-22"/>
+  <titles>
+    <title type="official" as="introduced">Proposing an amendment to the Constitution of the United States giving Congress power to prohibit the physical desecration of the flag of the United States.</title>
+  </titles>
+  <sponsor thomas_id="00038"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2013-09-17"/>
+    <cosponsor thomas_id="01753" joined="2013-09-17"/>
+    <cosponsor thomas_id="02138" joined="2013-09-10"/>
+    <cosponsor thomas_id="02062" joined="2014-03-25"/>
+    <cosponsor thomas_id="01793" joined="2013-06-25"/>
+    <cosponsor thomas_id="01990" joined="2013-06-27"/>
+    <cosponsor thomas_id="00484" joined="2013-07-10"/>
+    <cosponsor thomas_id="02026" joined="2013-06-05"/>
+    <cosponsor thomas_id="02032" joined="2013-09-10"/>
+    <cosponsor thomas_id="02020" joined="2013-06-03"/>
+    <cosponsor thomas_id="02046" joined="2013-06-18"/>
+    <cosponsor thomas_id="00612" joined="2014-03-28"/>
+    <cosponsor thomas_id="01868" joined="2013-07-16"/>
+    <cosponsor thomas_id="01733" joined="2013-06-03"/>
+    <cosponsor thomas_id="01781" joined="2013-05-22"/>
+    <cosponsor thomas_id="01960" joined="2013-06-18"/>
+    <cosponsor thomas_id="01505" joined="2014-03-25"/>
+    <cosponsor thomas_id="01809" joined="2014-03-28"/>
+    <cosponsor thomas_id="00800" joined="2013-09-12"/>
+    <cosponsor thomas_id="01730" joined="2013-05-23"/>
+    <cosponsor thomas_id="02035" joined="2013-06-03"/>
+    <cosponsor thomas_id="00940" joined="2013-06-03"/>
+    <cosponsor thomas_id="01982" joined="2013-06-25"/>
+    <cosponsor thomas_id="01954" joined="2013-05-23"/>
+    <cosponsor thomas_id="01590" joined="2013-06-03"/>
+    <cosponsor thomas_id="01860" joined="2014-02-04"/>
+    <cosponsor thomas_id="02191" joined="2013-09-12"/>
+    <cosponsor thomas_id="01566" joined="2013-06-27"/>
+    <cosponsor thomas_id="01238" joined="2013-12-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-22" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-06-14">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee subcommittee="Constitution and Civil Justice" code="HSJU10" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hj" session="113" relation="identical" number="19"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Constitution and constitutional amendments"/>
+    <term name="First Amendment rights"/>
+    <term name="National symbols"/>
+  </subjects>
+  <amendments/>
+  <summary>5/22/2013--Introduced.
+Constitutional Amendment - Grants Congress the power to prohibit the physical desecration of the U.S. flag.</summary>
+</bill>

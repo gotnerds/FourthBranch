@@ -1,0 +1,38 @@
+<bill session="113" type="h" number="5013" updated="2014-08-14T13:34:16-04:00">
+  <state datetime="2014-06-27T12:31:00-04:00">REPORTED</state>
+  <status>
+    <unknown datetime="2014-06-27T12:31:00-04:00"/>
+  </status>
+  <introduced datetime="2014-06-27"/>
+  <titles>
+    <title type="short" as="introduced">Department of State, Foreign Operations, and Related Programs Appropriations Act, 2015</title>
+    <title type="official" as="introduced">Making appropriations for the Department of State, foreign operations, and related programs for the fiscal year ending September 30, 2015, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01487"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-06-27T12:31:00-04:00">
+      <text>The House Committee on Appropriations reported an original measure, H. Rept. 113-499, by Ms. Granger.</text>
+    </action>
+    <calendar datetime="2014-06-27T12:31:00-04:00" state="REPORTED" calendar="Union" number="372">
+      <text>Placed on the Union Calendar, Calendar No. 372.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAP" name="House Appropriations" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1372"/>
+    <bill type="s" session="113" relation="unknown" number="2499"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+  <summary>6/27/2014--Introduced.
+Department of State, Foreign Operations, and Related Programs Appropriations Act, 2015 - Makes FY2015 appropriations for the Department of State for:
+
+ administration of foreign affairs and diplomatic and consular programs; the Capital Investment Fund; the Office of Inspector General; educational and cultural exchange programs; representation allowances; protection of foreign missions and officials; U.S. embassy security, construction, and maintenance; emergencies in the diplomatic and consular service; the repatriation loans program account; the American Institute in Taiwan; the Foreign Service Retirement and Disability Fund; international organizations, peacekeeping, and commissions; the International Boundary and Water Commission, United States and Mexico; salaries and expenses; plan preparation and construction of authorized projects; the International Joint Commission, the International Boundary Commission, United States and Canada, and the Border Environment Cooperation Commission; international fisheries commissions; international broadcasting operations and capital improvements; the Asia Foundation; the United States Institute for Peace; the Center for Middle Eastern-Western Dialogue Trust Fund; the Eisenhower Exchange Fellowships, Incorporated; the Israeli Arab Scholarship Program; the National Endowment for Democracy; the Commission for Preservation of America's Heritage Abroad; the United States Commission on International Religious Freedom; the Commission on Security and Cooperation in Europe; the Congressional-Executive Commission on the People's Republic of China; and the United States-China Economic and Security Review Commission. Makes FY2015 appropriations for:
+
+ operating expenses of the U. S. Agency for International Development (USAID), the capital investment fund, and the Office of Inspector General; expenses of the President in carrying out certain programs under the Foreign Assistance Act of 1961, global health and child survival; specified development assistance; international disaster assistance; transition initiatives; development credit authority; the Economic Support Fund; promotion of democracy; migration and refugee assistance; the Peace Corps; the Millennium Challenge Corporation; the Inter-American Foundation; the African Development Foundation; the Department of the Treasury for international affairs technical assistance activities; international narcotics control and law enforcement; nonproliferation, anti-terrorism, and demining; international peacekeeping operations; international military education and training; foreign military financing grants; international organizations and programs; the Global Environment Facility; the International Development Association; the International Bank for Reconstruction and Development; the Global Agriculture and Food Security Program; the Inter-American Development Bank; the Asian Development Bank; the Asian Development Fund; the African Development Bank; the African Development Fund; the International Fund for Agricultural Development; the Export-Import Bank of the United States, including the Office of Inspector General; the Overseas Private Investment Corporation (OPIC); and the Trade and Development Agency. Sets forth limitations on callable capital subscriptions with respect to:
+
+ the International Bank for Reconstruction and Development; the Inter-American Development Bank; the Asian Development Bank; and the African Development Bank. Sets forth certain limits and prohibitions on the use of appropriations for specified activities.</summary>
+</bill>

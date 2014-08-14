@@ -1,0 +1,95 @@
+<bill session="113" type="h" number="2638" updated="2014-08-14T13:13:58-04:00">
+  <state datetime="2013-07-10">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-10"/>
+  </status>
+  <introduced datetime="2013-07-10"/>
+  <titles>
+    <title type="short" as="introduced">Foreign Aid Transparency and Accountability Act of 2013</title>
+    <title type="official" as="introduced">To direct the President to establish guidelines for United States foreign assistance, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01802"/>
+  <cosponsors>
+    <cosponsor thomas_id="00062" joined="2014-02-03"/>
+    <cosponsor thomas_id="01838" joined="2014-01-08"/>
+    <cosponsor thomas_id="00099" joined="2013-09-25"/>
+    <cosponsor thomas_id="01987" joined="2014-04-30"/>
+    <cosponsor thomas_id="02129" joined="2014-01-08"/>
+    <cosponsor thomas_id="01840" joined="2014-01-08"/>
+    <cosponsor thomas_id="02159" joined="2014-07-29"/>
+    <cosponsor thomas_id="00186" joined="2014-04-30"/>
+    <cosponsor thomas_id="02055" joined="2014-02-10"/>
+    <cosponsor thomas_id="01912" joined="2014-02-03"/>
+    <cosponsor thomas_id="02121" joined="2014-01-08"/>
+    <cosponsor thomas_id="01959" joined="2013-07-10"/>
+    <cosponsor thomas_id="00229" joined="2013-07-30"/>
+    <cosponsor thomas_id="02098" joined="2013-09-11"/>
+    <cosponsor thomas_id="01643" joined="2013-07-30"/>
+    <cosponsor thomas_id="02116" joined="2014-04-30"/>
+    <cosponsor thomas_id="00355" joined="2013-09-11"/>
+    <cosponsor thomas_id="00367" joined="2013-07-30"/>
+    <cosponsor thomas_id="02067" joined="2014-02-03"/>
+    <cosponsor thomas_id="01990" joined="2013-11-20"/>
+    <cosponsor thomas_id="02044" joined="2013-09-18"/>
+    <cosponsor thomas_id="02143" joined="2013-09-30"/>
+    <cosponsor thomas_id="02020" joined="2013-12-03"/>
+    <cosponsor thomas_id="02149" joined="2014-07-08"/>
+    <cosponsor thomas_id="02046" joined="2013-09-25"/>
+    <cosponsor thomas_id="02014" joined="2013-09-11"/>
+    <cosponsor thomas_id="00666" joined="2014-04-30"/>
+    <cosponsor thomas_id="00701" joined="2013-09-11"/>
+    <cosponsor thomas_id="02111" joined="2013-07-30"/>
+    <cosponsor thomas_id="01804" joined="2013-07-30"/>
+    <cosponsor thomas_id="00766" joined="2013-09-30"/>
+    <cosponsor thomas_id="01505" joined="2013-09-30"/>
+    <cosponsor thomas_id="02142" joined="2014-04-30"/>
+    <cosponsor thomas_id="00832" joined="2013-09-25"/>
+    <cosponsor thomas_id="02108" joined="2014-01-08"/>
+    <cosponsor thomas_id="01758" joined="2014-02-03"/>
+    <cosponsor thomas_id="01955" joined="2013-09-11"/>
+    <cosponsor thomas_id="01974" joined="2014-01-08"/>
+    <cosponsor thomas_id="02157" joined="2013-09-11"/>
+    <cosponsor thomas_id="01920" joined="2013-11-20"/>
+    <cosponsor thomas_id="01590" joined="2013-12-03"/>
+    <cosponsor thomas_id="01818" joined="2014-02-25"/>
+    <cosponsor thomas_id="01114" joined="2013-09-30"/>
+    <cosponsor thomas_id="02161" joined="2013-07-30"/>
+    <cosponsor thomas_id="01879" joined="2013-12-03"/>
+    <cosponsor thomas_id="01886" joined="2013-09-25"/>
+    <cosponsor thomas_id="01238" joined="2014-01-08"/>
+    <cosponsor thomas_id="02115" joined="2013-12-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-10" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1271"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Appropriations"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of State"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Performance measurement"/>
+  </subjects>
+  <amendments/>
+  <summary>7/10/2013--Introduced.
+Foreign Aid Transparency and Accountability Act of 2013 - Directs the President to establish guidelines for the establishment of measurable goals, performance metrics, and monitoring and evaluation plans for U.S. foreign assistance.
+
+Requires such guidelines to provide direction to federal departments and agencies that administer U.S. foreign assistance relating to: (1) resource monitoring, (2) project and program evaluation, and (3) analysis of findings and generalizations and their applicability to proposed project and program design.
+
+Requires: (1) each appropriate federal department or agency to begin using such guidelines within one year after their establishment, and (2) the President to submit a related report to Congress within 18 months.
+
+Directs the President to require the Secretary of State to establish and maintain an Internet website to make publicly available comprehensive and accessible information on U.S. foreign assistance programs on a country-by-country and program-by program basis. Requires the head of a federal department or agency to brief Congress if specified information requirements are not met.
+
+Authorizes a department or agency to use up to 5% of its foreign development assistance funds for activities under this Act.</summary>
+</bill>

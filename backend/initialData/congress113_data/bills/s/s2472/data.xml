@@ -1,0 +1,73 @@
+<bill session="113" type="s" number="2472" updated="2014-08-14T14:05:54-04:00">
+  <state datetime="2014-06-12">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-12"/>
+  </status>
+  <introduced datetime="2014-06-12"/>
+  <titles>
+    <title type="short" as="introduced">International Human Rights Defense Act of 2014</title>
+    <title type="official" as="introduced">A bill to establish in the Bureau of Democracy, Human Rights, and Labor of the Department of State a Special Envoy for the Human Rights of LGBT Peoples.</title>
+  </titles>
+  <sponsor thomas_id="00735"/>
+  <cosponsors>
+    <cosponsor thomas_id="01558" joined="2014-06-12"/>
+    <cosponsor thomas_id="02076" joined="2014-06-12"/>
+    <cosponsor thomas_id="02194" joined="2014-06-12"/>
+    <cosponsor thomas_id="00116" joined="2014-06-12"/>
+    <cosponsor thomas_id="00136" joined="2014-06-12"/>
+    <cosponsor thomas_id="00172" joined="2014-06-12"/>
+    <cosponsor thomas_id="00174" joined="2014-06-12"/>
+    <cosponsor thomas_id="01828" joined="2014-06-24"/>
+    <cosponsor thomas_id="01984" joined="2014-06-12"/>
+    <cosponsor thomas_id="00326" joined="2014-06-12"/>
+    <cosponsor thomas_id="01332" joined="2014-06-12"/>
+    <cosponsor thomas_id="01969" joined="2014-06-12"/>
+    <cosponsor thomas_id="01866" joined="2014-06-12"/>
+    <cosponsor thomas_id="01844" joined="2014-06-12"/>
+    <cosponsor thomas_id="01383" joined="2014-06-12"/>
+    <cosponsor thomas_id="01900" joined="2014-06-12"/>
+    <cosponsor thomas_id="00802" joined="2014-06-12"/>
+    <cosponsor thomas_id="01837" joined="2014-06-12"/>
+    <cosponsor thomas_id="01409" joined="2014-06-12"/>
+    <cosponsor thomas_id="01010" joined="2014-06-24"/>
+    <cosponsor thomas_id="02173" joined="2014-06-12"/>
+    <cosponsor thomas_id="01036" joined="2014-06-12"/>
+    <cosponsor thomas_id="01901" joined="2014-06-12"/>
+    <cosponsor thomas_id="02182" joined="2014-06-12"/>
+    <cosponsor thomas_id="01823" joined="2014-06-12"/>
+    <cosponsor thomas_id="01247" joined="2014-06-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="5128"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Civil actions and liability"/>
+    <term name="Congressional oversight"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Department of State"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="HIV/AIDS"/>
+    <term name="Human rights"/>
+    <term name="Sex, gender, sexual orientation discrimination"/>
+    <term name="Violent crime"/>
+    <term name="World health"/>
+  </subjects>
+  <amendments/>
+  <summary>6/12/2014--Introduced.
+International Human Rights Defense Act of 2014 - Directs the Secretary of State to establish in the Department of State's Bureau of Democracy, Human Rights, and Labor a Special Envoy for the Human Rights of LGBT Peoples who shall: (1) direct U.S. government efforts regarding human rights abuses against the LGBT community internationally and the advancement of human rights for LGBT (lesbian, gay, bisexual, or transgender) people in U.S. foreign policy, and (2) represent the United States internationally in bilateral and multilateral engagement on these matters.
+
+Directs the Special Envoy to develop or update annually for six years a U.S. global strategy to prevent and respond to discrimination and violence against LGBT people.
+
+Authorizes the Secretary and the Administrator of the United States Agency for International Development (USAID) to provide assistance to prevent and respond to discrimination and violence against LGBT people.</summary>
+</bill>

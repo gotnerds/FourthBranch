@@ -1,0 +1,25 @@
+<bill session="113" type="h" number="5308" updated="2014-08-14T13:36:47-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="short" as="introduced">JAWS Act</title>
+    <title type="short" as="introduced">Justice Attributed to Wounded Sharks Act</title>
+    <title type="official" as="introduced">To prohibit foreign assistance to countries that do not prohibit shark finning in the territorial waters of the country or the importation, sale, possession, or consumption of shark fins obtained as a result of shark finning.</title>
+  </titles>
+  <sponsor thomas_id="02067"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

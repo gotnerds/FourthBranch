@@ -1,0 +1,117 @@
+<bill session="113" type="h" number="3118" updated="2014-08-14T13:18:02-04:00">
+  <state datetime="2013-09-17">REFERRED</state>
+  <status>
+    <introduced datetime="2013-09-17"/>
+  </status>
+  <introduced datetime="2013-09-17"/>
+  <titles>
+    <title type="short" as="introduced">Strengthening Social Security Act of 2013</title>
+    <title type="official" as="introduced">To improve the retirement security of American families by strengthening Social Security.</title>
+  </titles>
+  <sponsor thomas_id="01757"/>
+  <cosponsors>
+    <cosponsor thomas_id="02153" joined="2014-03-11"/>
+    <cosponsor thomas_id="01469" joined="2013-09-17"/>
+    <cosponsor thomas_id="00132" joined="2013-09-17"/>
+    <cosponsor thomas_id="01564" joined="2014-08-01"/>
+    <cosponsor thomas_id="01889" joined="2014-02-05"/>
+    <cosponsor thomas_id="02159" joined="2013-09-17"/>
+    <cosponsor thomas_id="02055" joined="2013-09-20"/>
+    <cosponsor thomas_id="02196" joined="2014-06-18"/>
+    <cosponsor thomas_id="01878" joined="2013-09-17"/>
+    <cosponsor thomas_id="00229" joined="2013-09-17"/>
+    <cosponsor thomas_id="01477" joined="2013-12-12"/>
+    <cosponsor thomas_id="00279" joined="2013-09-17"/>
+    <cosponsor thomas_id="00281" joined="2013-09-27"/>
+    <cosponsor thomas_id="01976" joined="2013-12-03"/>
+    <cosponsor thomas_id="00316" joined="2013-12-09"/>
+    <cosponsor thomas_id="01857" joined="2013-09-17"/>
+    <cosponsor thomas_id="01895" joined="2013-09-17"/>
+    <cosponsor thomas_id="01973" joined="2014-08-01"/>
+    <cosponsor thomas_id="01914" joined="2013-09-17"/>
+    <cosponsor thomas_id="00462" joined="2013-09-17"/>
+    <cosponsor thomas_id="01708" joined="2013-09-17"/>
+    <cosponsor thomas_id="00478" joined="2013-10-04"/>
+    <cosponsor thomas_id="00511" joined="2013-09-27"/>
+    <cosponsor thomas_id="01580" joined="2013-09-17"/>
+    <cosponsor thomas_id="01634" joined="2013-09-17"/>
+    <cosponsor thomas_id="02147" joined="2014-02-11"/>
+    <cosponsor thomas_id="00599" joined="2013-09-17"/>
+    <cosponsor thomas_id="01843" joined="2014-02-05"/>
+    <cosponsor thomas_id="01668" joined="2013-09-19"/>
+    <cosponsor thomas_id="01675" joined="2014-02-05"/>
+    <cosponsor thomas_id="01583" joined="2014-06-17"/>
+    <cosponsor thomas_id="01501" joined="2013-09-17"/>
+    <cosponsor thomas_id="00688" joined="2013-10-04"/>
+    <cosponsor thomas_id="00701" joined="2013-10-28"/>
+    <cosponsor thomas_id="02111" joined="2013-09-17"/>
+    <cosponsor thomas_id="01686" joined="2013-09-19"/>
+    <cosponsor thomas_id="00766" joined="2013-09-17"/>
+    <cosponsor thomas_id="01504" joined="2014-01-07"/>
+    <cosponsor thomas_id="01811" joined="2014-01-08"/>
+    <cosponsor thomas_id="00850" joined="2013-09-17"/>
+    <cosponsor thomas_id="01602" joined="2013-09-17"/>
+    <cosponsor thomas_id="02108" joined="2013-09-17"/>
+    <cosponsor thomas_id="00868" joined="2013-09-17"/>
+    <cosponsor thomas_id="02097" joined="2013-12-09"/>
+    <cosponsor thomas_id="01927" joined="2014-05-08"/>
+    <cosponsor thomas_id="02171" joined="2013-10-30"/>
+    <cosponsor thomas_id="01967" joined="2014-03-06"/>
+    <cosponsor thomas_id="01756" joined="2013-10-09"/>
+    <cosponsor thomas_id="01588" joined="2013-09-17"/>
+    <cosponsor thomas_id="01798" joined="2013-12-03"/>
+    <cosponsor thomas_id="01037" joined="2013-09-27"/>
+    <cosponsor thomas_id="01861" joined="2013-09-17"/>
+    <cosponsor thomas_id="01069" joined="2014-03-11"/>
+    <cosponsor thomas_id="01528" joined="2014-03-21"/>
+    <cosponsor thomas_id="01890" joined="2013-11-21"/>
+    <cosponsor thomas_id="02110" joined="2013-09-17"/>
+    <cosponsor thomas_id="01535" joined="2014-05-30"/>
+    <cosponsor thomas_id="01940" joined="2014-06-18"/>
+    <cosponsor thomas_id="01942" joined="2013-09-17"/>
+    <cosponsor thomas_id="02112" joined="2013-09-17"/>
+    <cosponsor thomas_id="02166" joined="2013-09-17"/>
+    <cosponsor thomas_id="01188" joined="2013-10-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-17" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-09-17">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-09-17">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2014-01-22">
+      <text>Referred to the Subcommittee on Health, Employment, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee subcommittee="Health, Employment, Labor, and Pensions" code="HSED02" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="567"/>
+    <bill type="s" session="113" relation="unknown" number="2382"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Aging"/>
+    <term name="Employment taxes"/>
+    <term name="Inflation and prices"/>
+    <term name="Self-employed"/>
+    <term name="Social security and elderly assistance"/>
+    <term name="Wages and earnings"/>
+  </subjects>
+  <amendments/>
+  <summary>9/17/2013--Introduced.
+Strengthening Social Security Act of 2013 - Amends the Internal Revenue Code to prescribe special rules for the determination of taxable wages and self-employment income above the contribution and benefit base after 2013.
+
+Amends SSA title II to include surplus average indexed monthly earnings (AIME) in the determination of primary OASDI amounts.
+
+Directs the Bureau of Labor Statistics (BLS) of the Department of Labor to prepare and publish the Consumer Price Index for Elderly Consumers (CPI-EC) that indicates changes over time in expenditures for consumption which are typical for individuals in the United States who have attained early retirement age for purposes of an old-age, wife's, or husband's insurance benefit.
+
+Amends title II (Old Age, Survivors and Disability Insurance) (OASDI) of the Social Security Act to make the CPI-EC the applicable Consumer Price Index (CPI) for computation of cost-of-living increases in OASDI benefits for such individuals.</summary>
+</bill>

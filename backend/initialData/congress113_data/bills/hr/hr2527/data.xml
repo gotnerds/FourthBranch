@@ -1,0 +1,92 @@
+<bill session="113" type="h" number="2527" updated="2014-08-14T13:13:01-04:00">
+  <state datetime="2014-05-28T17:45:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-05-28T17:45:00-04:00"/>
+  </status>
+  <introduced datetime="2013-06-26"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 38, United States Code, to provide veterans with counseling and treatment for sexual trauma that occurred during inactive duty training.</title>
+  </titles>
+  <sponsor thomas_id="01940"/>
+  <cosponsors>
+    <cosponsor thomas_id="02093" joined="2013-07-19"/>
+    <cosponsor thomas_id="02092" joined="2013-06-26"/>
+    <cosponsor thomas_id="02159" joined="2013-06-26"/>
+    <cosponsor thomas_id="01970" joined="2014-03-27"/>
+    <cosponsor thomas_id="01864" joined="2013-06-26"/>
+    <cosponsor thomas_id="01878" joined="2013-08-01"/>
+    <cosponsor thomas_id="01857" joined="2014-03-12"/>
+    <cosponsor thomas_id="02114" joined="2013-06-26"/>
+    <cosponsor thomas_id="02119" joined="2013-06-26"/>
+    <cosponsor thomas_id="02122" joined="2013-06-26"/>
+    <cosponsor thomas_id="01634" joined="2014-04-04"/>
+    <cosponsor thomas_id="02147" joined="2013-09-09"/>
+    <cosponsor thomas_id="00612" joined="2013-06-26"/>
+    <cosponsor thomas_id="02145" joined="2013-06-26"/>
+    <cosponsor thomas_id="01846" joined="2013-06-26"/>
+    <cosponsor thomas_id="00709" joined="2013-06-28"/>
+    <cosponsor thomas_id="01504" joined="2014-03-12"/>
+    <cosponsor thomas_id="02148" joined="2013-06-26"/>
+    <cosponsor thomas_id="02108" joined="2013-06-28"/>
+    <cosponsor thomas_id="00997" joined="2013-09-09"/>
+    <cosponsor thomas_id="01756" joined="2013-06-26"/>
+    <cosponsor thomas_id="01588" joined="2013-06-26"/>
+    <cosponsor thomas_id="01861" joined="2013-06-26"/>
+    <cosponsor thomas_id="02099" joined="2013-06-26"/>
+    <cosponsor thomas_id="02110" joined="2013-07-22"/>
+    <cosponsor thomas_id="01856" joined="2013-07-30"/>
+    <cosponsor thomas_id="01205" joined="2013-09-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-13">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H3370"/>
+    </action>
+    <action datetime="2013-06-26" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-06-26">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2014-03-27">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2014-05-28T17:40:00-04:00">
+      <text>Mr. Miller (FL) moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2014-05-28T17:40:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H4861" label="consideration"/>
+    </action>
+    <action datetime="2014-05-28T17:40:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2527.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-05-28T17:45:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H4861" label="text"/>
+    </vote>
+    <action datetime="2014-06-02">
+      <text>Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Health" code="HSVR03" name="House Veterans' Affairs" activity="Referral, Hearings"/>
+    <committee subcommittee="" code="SSVA" name="Senate Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Assault and harassment offenses"/>
+    <term name="Crime victims"/>
+    <term name="Crimes against women"/>
+    <term name="Mental health"/>
+    <term name="Military education and training"/>
+    <term name="National Guard and reserves"/>
+    <term name="Sex offenses"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>5/28/2014--Passed House without amendment.
+Extends a Department of Veterans Affairs (VA) program of counseling and care and services for veterans for sexual trauma that occurred during active duty or active duty for training to veterans who experienced such trauma during inactive duty training.</summary>
+</bill>

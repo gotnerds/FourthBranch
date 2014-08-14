@@ -1,0 +1,33 @@
+<bill session="113" type="h" number="5213" updated="2014-08-14T13:35:58-04:00">
+  <state datetime="2014-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-28"/>
+  </status>
+  <introduced datetime="2014-07-28"/>
+  <titles>
+    <title type="short" as="introduced">Simplifying Technical Aspects Regarding Seasonality Act of 2014</title>
+    <title type="short" as="introduced">STARS Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to simplify the treatment of seasonal positions for purposes of the employer shared responsibility requirement.</title>
+  </titles>
+  <sponsor thomas_id="02048"/>
+  <cosponsors>
+    <cosponsor thomas_id="02063" joined="2014-07-31"/>
+    <cosponsor thomas_id="01787" joined="2014-07-31"/>
+    <cosponsor thomas_id="01774" joined="2014-07-28"/>
+    <cosponsor thomas_id="01921" joined="2014-07-28"/>
+    <cosponsor thomas_id="02154" joined="2014-07-31"/>
+    <cosponsor thomas_id="01950" joined="2014-07-28"/>
+    <cosponsor thomas_id="02105" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-28" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

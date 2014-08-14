@@ -1,0 +1,55 @@
+<bill session="113" type="s" number="463" updated="2014-08-14T13:48:40-04:00">
+  <state datetime="2013-03-05">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-05"/>
+  </status>
+  <introduced datetime="2013-03-05"/>
+  <titles>
+    <title type="short" as="introduced">Forest Products Fairness Act of 2013</title>
+    <title type="official" as="introduced">A bill to amend the Farm Security and Rural Investment Act of 2002 to modify the definition of the term "biobased product".</title>
+  </titles>
+  <sponsor thomas_id="01701"/>
+  <cosponsors>
+    <cosponsor thomas_id="01881" joined="2013-04-09"/>
+    <cosponsor thomas_id="00066" joined="2013-06-17"/>
+    <cosponsor thomas_id="01464" joined="2013-03-05"/>
+    <cosponsor thomas_id="01687" joined="2013-03-05"/>
+    <cosponsor thomas_id="00188" joined="2013-03-05"/>
+    <cosponsor thomas_id="01541" joined="2013-03-05"/>
+    <cosponsor thomas_id="00250" joined="2013-03-05"/>
+    <cosponsor thomas_id="00452" joined="2013-09-12"/>
+    <cosponsor thomas_id="01902" joined="2013-04-16"/>
+    <cosponsor thomas_id="01351" joined="2013-03-05"/>
+    <cosponsor thomas_id="02185" joined="2013-03-05"/>
+    <cosponsor thomas_id="01546" joined="2013-03-07"/>
+    <cosponsor thomas_id="01820" joined="2013-03-11"/>
+    <cosponsor thomas_id="01548" joined="2013-05-14"/>
+    <cosponsor thomas_id="01226" joined="2013-04-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="979"/>
+    <bill type="h" session="113" relation="unknown" number="1947"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural practices and innovations"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Energy research"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Research and development"/>
+    <term name="Solid waste and recycling"/>
+  </subjects>
+  <amendments/>
+  <summary>3/5/2013--Introduced.
+Forest Products Fairness Act of 2013 - Amends the Farm Security and Rural Investment Act of 2002 to include in the definition of "biobased product" forest products that meet biobased content requirements, notwithstanding the market share the product holds, the product's age, or whether the market for the product is new or emerging.
+
+Defines "forest product" as a product made from materials derived from the practice of forestry or the management of growing timber, including: (1) pulp, paper, paperboard, pellets, and wood products; and (2) any recycled products derived from forest materials.</summary>
+</bill>

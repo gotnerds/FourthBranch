@@ -1,0 +1,106 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-04-30", 
+      "committees": [
+        "SSFI"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Finance.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2271-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Finance", 
+      "committee_id": "SSFI"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Blumenthal, Richard", 
+      "sponsored_at": "2014-04-30", 
+      "state": "CT", 
+      "thomas_id": "02076", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-04-30", 
+  "number": "2271", 
+  "official_title": "A bill to establish the Green Bank to assist in the financing of qualified clean energy projects and qualified energy efficiency projects.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr4522-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Green Bank Act of 2014", 
+  "sponsor": {
+    "district": null, 
+    "name": "Murphy, Christopher S.", 
+    "state": "CT", 
+    "thomas_id": "01837", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-04-30", 
+  "subjects": [
+    "Air quality", 
+    "Alternative and renewable resources", 
+    "Bank accounts, deposits, capital", 
+    "Climate change and greenhouse gases", 
+    "Electric power generation and transmission", 
+    "Energy", 
+    "Energy efficiency and conservation", 
+    "Energy storage, supplies, demand", 
+    "Foreign and international corporations", 
+    "Government corporations and government-sponsored enterprises", 
+    "Income tax deductions", 
+    "Interest, dividends, interest rates", 
+    "Lighting and heating", 
+    "Motor fuels", 
+    "Nuclear power", 
+    "Securities", 
+    "State and local finance", 
+    "Taxation of foreign income", 
+    "User charges and fees"
+  ], 
+  "subjects_top_term": "Energy", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Green Bank Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to establish the Green Bank to assist in the financing of qualified clean energy projects and qualified energy efficiency projects.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T14:04:13-04:00"
+}

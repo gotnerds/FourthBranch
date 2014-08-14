@@ -1,0 +1,110 @@
+<bill session="113" type="h" number="4719" updated="2014-08-14T13:31:40-04:00">
+  <state datetime="2014-07-17T12:42:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-07-17T12:42:00-04:00"/>
+  </status>
+  <introduced datetime="2014-05-22"/>
+  <titles>
+    <title type="short" as="introduced">Fighting Hunger Incentive Act of 2014</title>
+    <title type="short" as="reported to house">Fighting Hunger Incentive Act of 2014</title>
+    <title type="short" as="passed house">America Gives More Act of 2014</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to permanently extend and expand the charitable deduction for contributions of food inventory.</title>
+  </titles>
+  <sponsor thomas_id="01982"/>
+  <cosponsors>
+    <cosponsor thomas_id="01743" joined="2014-05-22"/>
+    <cosponsor thomas_id="02043" joined="2014-05-30"/>
+    <cosponsor thomas_id="01990" joined="2014-05-28"/>
+    <cosponsor thomas_id="02051" joined="2014-05-28"/>
+    <cosponsor thomas_id="01710" joined="2014-05-28"/>
+    <cosponsor thomas_id="01930" joined="2014-05-28"/>
+    <cosponsor thomas_id="01920" joined="2014-05-28"/>
+    <cosponsor thomas_id="02047" joined="2014-06-05"/>
+    <cosponsor thomas_id="01664" joined="2014-05-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-22" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2014-05-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-05-29" state="REPORTED">
+      <text>Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 23 - 13.</text>
+    </calendar>
+    <action datetime="2014-06-26T13:24:00-04:00">
+      <text>Reported (Amended) by the Committee on Ways and Means. H. Rept. 113-498.</text>
+    </action>
+    <calendar datetime="2014-06-26T13:24:00-04:00" calendar="Union" number="371">
+      <text>Placed on the Union Calendar, Calendar No. 371.</text>
+    </calendar>
+    <action datetime="2014-07-15T17:21:00-04:00">
+      <text>Rules Committee Resolution H. Res. 670 Reported to House. Rule provides for consideration of H.R. 4719 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. The rule provides that the amendment in the nature of a substitute consisting of the text of Rules Committee Print 113-51 shall be considered as adopted and the bill, as amended, shall be considered as read.</text>
+    </action>
+    <action datetime="2014-07-17T10:40:00-04:00">
+      <text>Rule H. Res. 670 passed House.</text>
+    </action>
+    <action datetime="2014-07-17T10:50:00-04:00">
+      <text>Considered under the provisions of rule H. Res. 670.</text>
+      <reference ref="CR H6364-6378" label="consideration"/>
+    </action>
+    <action datetime="2014-07-17T10:50:00-04:00">
+      <text>Rule provides for consideration of H.R. 4719 with 1 hour of general debate. Previous question shall be considered as ordered without intervening motions except motion to recommit with or without instructions. The rule provides that the amendment in the nature of a substitute consisting of the text of Rules Committee Print 113-51 shall be considered as adopted and the bill, as amended, shall be considered as read.</text>
+    </action>
+    <action datetime="2014-07-17T10:51:00-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 4719.</text>
+    </action>
+    <action datetime="2014-07-17T11:57:00-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H6375" label="consideration"/>
+    </action>
+    <action datetime="2014-07-17T11:58:00-04:00">
+      <text>Mr. Van Hollen moved to recommit with instructions to the Committee on Ways and Means.</text>
+      <reference ref="CR H6375-6378" label="consideration"/>
+      <reference ref=" CR H6375-6376" label="text"/>
+    </action>
+    <action datetime="2014-07-17T11:58:00-04:00">
+      <text>DEBATE - The House proceeded with 10 minutes of debate on the Van Hollen motion to recommit with instructions pending a reseravation of a point of order. The instructions contained in the motion seek to require the bill to be reported to the House with an amendment to extend the three existing charitable tax extenders and two new charitable tax provisions in the underlying bill for only two additional years, through the end of 2015, as opposed to the permanent extension costing $16 billion in the underlying bill. It would prevent these five tax cuts from permanently adding to the deficit, undermining comprehensive tax reform, and putting further pressure on the United States discretionary priorities. Additionally, the motion would deny any claiming of these five charitable tax provisions by inverted corporations that change their residence from the United States in order to avoid paying U.S. taxes. Subsequently, the point                of order was withdrawn.</text>
+    </action>
+    <action datetime="2014-07-17T12:06:00-04:00">
+      <text>The previous question on the motion to recommit with instructions was ordered without objection.</text>
+      <reference ref="CR H6377" label="consideration"/>
+    </action>
+    <action datetime="2014-07-17T12:35:00-04:00">
+      <text>On motion to recommit with instructions Failed by the Yeas and Nays: 185 - 227 (Roll no. 431).</text>
+      <reference ref="CR H6377-4378" label="consideration"/>
+    </action>
+    <action datetime="2014-07-17T12:42:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <vote how="roll" type="vote" roll="432" datetime="2014-07-17T12:42:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 277 - 130 (Roll no. 432).</text>
+      <reference ref="CR H6364-6365" label="text"/>
+    </vote>
+    <action datetime="2014-07-22">
+      <text>Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+    </action>
+    <calendar datetime="2014-07-23" calendar="Senate Legislative" under="General Orders" number="477">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 477.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="113" relation="rule" number="670"/>
+    <bill type="h" session="113" relation="unknown" number="2945"/>
+    <bill type="s" session="113" relation="unknown" number="1395"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Food assistance and relief"/>
+    <term name="Income tax deductions"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+  </subjects>
+  <amendments>
+    <amendment number="h1104"/>
+  </amendments>
+  <summary>5/22/2014--Introduced.
+Fighting Hunger Incentive Act of 2014 - Amends the Internal Revenue Code to: (1) make permanent the tax deduction for charitable contributions of food inventory, (2) increase from 10% to 15% of taxpayer aggregate net income the amount of deductible food inventory contributions which a taxpayer may make in any taxable year (15% of the taxable income of C corporations), and (3) set forth rules for determining the basis of contributed food for taxpayers other than C corporations and the&#160;fair market value of such food.</summary>
+</bill>

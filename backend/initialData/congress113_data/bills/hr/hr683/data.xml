@@ -1,0 +1,132 @@
+<bill session="113" type="h" number="683" updated="2014-08-14T12:56:33-04:00">
+  <state datetime="2013-02-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-14"/>
+  </status>
+  <introduced datetime="2013-02-14"/>
+  <titles>
+    <title type="short" as="introduced">Military Spouses Equal Treatment Act</title>
+    <title type="official" as="introduced">To amend titles 10, 32, 37, and 38 of the United States Code, to add a definition of spouse for purposes of military personnel policies and military and veteran benefits that recognizes new State definitions of spouse.</title>
+  </titles>
+  <sponsor thomas_id="01528"/>
+  <cosponsors>
+    <cosponsor thomas_id="00021" joined="2013-02-14"/>
+    <cosponsor thomas_id="02093" joined="2013-03-19"/>
+    <cosponsor thomas_id="02102" joined="2013-07-19"/>
+    <cosponsor thomas_id="01740" joined="2013-02-14"/>
+    <cosponsor thomas_id="00099" joined="2013-03-04"/>
+    <cosponsor thomas_id="01469" joined="2013-02-14"/>
+    <cosponsor thomas_id="02106" joined="2013-02-14"/>
+    <cosponsor thomas_id="01471" joined="2013-02-14"/>
+    <cosponsor thomas_id="01564" joined="2013-02-14"/>
+    <cosponsor thomas_id="01889" joined="2013-02-14"/>
+    <cosponsor thomas_id="02159" joined="2013-02-26"/>
+    <cosponsor thomas_id="02163" joined="2013-02-14"/>
+    <cosponsor thomas_id="01970" joined="2013-02-14"/>
+    <cosponsor thomas_id="02196" joined="2014-02-27"/>
+    <cosponsor thomas_id="01878" joined="2013-07-10"/>
+    <cosponsor thomas_id="01959" joined="2013-02-14"/>
+    <cosponsor thomas_id="01836" joined="2013-02-14"/>
+    <cosponsor thomas_id="01641" joined="2013-02-14"/>
+    <cosponsor thomas_id="02133" joined="2014-04-07"/>
+    <cosponsor thomas_id="02096" joined="2013-02-25"/>
+    <cosponsor thomas_id="01976" joined="2013-02-14"/>
+    <cosponsor thomas_id="01857" joined="2013-04-09"/>
+    <cosponsor thomas_id="00355" joined="2013-02-25"/>
+    <cosponsor thomas_id="02114" joined="2013-07-08"/>
+    <cosponsor thomas_id="00368" joined="2013-02-14"/>
+    <cosponsor thomas_id="02119" joined="2013-07-10"/>
+    <cosponsor thomas_id="02122" joined="2013-02-14"/>
+    <cosponsor thomas_id="01973" joined="2013-02-14"/>
+    <cosponsor thomas_id="01708" joined="2013-03-04"/>
+    <cosponsor thomas_id="02089" joined="2013-02-26"/>
+    <cosponsor thomas_id="02010" joined="2013-02-14"/>
+    <cosponsor thomas_id="02170" joined="2013-02-14"/>
+    <cosponsor thomas_id="01794" joined="2013-04-09"/>
+    <cosponsor thomas_id="01913" joined="2013-02-25"/>
+    <cosponsor thomas_id="01580" joined="2013-07-08"/>
+    <cosponsor thomas_id="01634" joined="2013-02-14"/>
+    <cosponsor thomas_id="02101" joined="2013-02-14"/>
+    <cosponsor thomas_id="01663" joined="2013-02-14"/>
+    <cosponsor thomas_id="01843" joined="2013-02-14"/>
+    <cosponsor thomas_id="02190" joined="2013-10-30"/>
+    <cosponsor thomas_id="02169" joined="2013-02-25"/>
+    <cosponsor thomas_id="01907" joined="2013-07-08"/>
+    <cosponsor thomas_id="02145" joined="2013-02-14"/>
+    <cosponsor thomas_id="01668" joined="2013-02-14"/>
+    <cosponsor thomas_id="01675" joined="2013-02-14"/>
+    <cosponsor thomas_id="01501" joined="2013-02-14"/>
+    <cosponsor thomas_id="02111" joined="2013-02-14"/>
+    <cosponsor thomas_id="01686" joined="2013-09-10"/>
+    <cosponsor thomas_id="01943" joined="2013-03-13"/>
+    <cosponsor thomas_id="00729" joined="2013-02-14"/>
+    <cosponsor thomas_id="01653" joined="2013-07-08"/>
+    <cosponsor thomas_id="00766" joined="2013-02-14"/>
+    <cosponsor thomas_id="01504" joined="2013-02-14"/>
+    <cosponsor thomas_id="00808" joined="2013-03-04"/>
+    <cosponsor thomas_id="01811" joined="2013-02-14"/>
+    <cosponsor thomas_id="00832" joined="2013-02-14"/>
+    <cosponsor thomas_id="02117" joined="2013-07-30"/>
+    <cosponsor thomas_id="00868" joined="2013-02-14"/>
+    <cosponsor thomas_id="02162" joined="2013-02-14"/>
+    <cosponsor thomas_id="02113" joined="2013-02-14"/>
+    <cosponsor thomas_id="01927" joined="2014-04-08"/>
+    <cosponsor thomas_id="02171" joined="2013-02-14"/>
+    <cosponsor thomas_id="01910" joined="2013-08-02"/>
+    <cosponsor thomas_id="00930" joined="2013-03-13"/>
+    <cosponsor thomas_id="01967" joined="2013-02-25"/>
+    <cosponsor thomas_id="00944" joined="2013-04-16"/>
+    <cosponsor thomas_id="01003" joined="2013-02-14"/>
+    <cosponsor thomas_id="01756" joined="2013-02-14"/>
+    <cosponsor thomas_id="01588" joined="2013-03-04"/>
+    <cosponsor thomas_id="01635" joined="2013-02-14"/>
+    <cosponsor thomas_id="01861" joined="2013-02-14"/>
+    <cosponsor thomas_id="01526" joined="2013-04-09"/>
+    <cosponsor thomas_id="02099" joined="2013-06-04"/>
+    <cosponsor thomas_id="01890" joined="2013-02-14"/>
+    <cosponsor thomas_id="02104" joined="2013-02-26"/>
+    <cosponsor thomas_id="02110" joined="2013-02-14"/>
+    <cosponsor thomas_id="01535" joined="2014-03-24"/>
+    <cosponsor thomas_id="01940" joined="2013-04-18"/>
+    <cosponsor thomas_id="01942" joined="2013-02-26"/>
+    <cosponsor thomas_id="01884" joined="2013-02-14"/>
+    <cosponsor thomas_id="02166" joined="2013-02-25"/>
+    <cosponsor thomas_id="01856" joined="2013-11-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-14" state="REFERRED">
+      <text>Referred to the Committee on Armed Services, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-02-14">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2013-02-14">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2013-02-22">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
+    <action datetime="2013-03-14">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee subcommittee="Military Personnel" code="HSAS02" name="House Armed Services" activity="Referral"/>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee subcommittee="Disability Assistance and Memorial Affairs" code="HSVR09" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="2529"/>
+    <bill type="s" session="113" relation="unknown" number="373"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Marriage and family status"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>2/14/2013--Introduced.
+Military Spouses Equal Treatment Act - Considers a person a spouse, for purposes of military personnel policies and military and veterans' benefits, if the marriage of the individual is valid in the state in which the marriage was entered into or, in the case of a marriage entered into outside any state, if the marriage is valid in the place in which the marriage was entered into and the marriage could have been entered into in a state. Includes as a state the District of Columbia, the Commonwealths of Puerto Rico and the Northern Mariana Islands, and U.S. territories and possessions.</summary>
+</bill>

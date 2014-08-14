@@ -1,0 +1,63 @@
+<bill session="113" type="hr" number="533" updated="2014-08-14T12:49:09-04:00">
+  <state datetime="2014-04-01">REFERRED</state>
+  <status>
+    <introduced datetime="2014-04-01"/>
+  </status>
+  <introduced datetime="2014-04-01"/>
+  <titles>
+    <title type="official" as="introduced">Expressing support for designation of a "Welcome Home Vietnam Veterans Day".</title>
+  </titles>
+  <sponsor thomas_id="01757"/>
+  <cosponsors>
+    <cosponsor thomas_id="01970" joined="2014-04-01"/>
+    <cosponsor thomas_id="01878" joined="2014-04-01"/>
+    <cosponsor thomas_id="01836" joined="2014-04-01"/>
+    <cosponsor thomas_id="00281" joined="2014-04-01"/>
+    <cosponsor thomas_id="00367" joined="2014-04-01"/>
+    <cosponsor thomas_id="02067" joined="2014-04-01"/>
+    <cosponsor thomas_id="01797" joined="2014-04-01"/>
+    <cosponsor thomas_id="01708" joined="2014-04-01"/>
+    <cosponsor thomas_id="01781" joined="2014-04-01"/>
+    <cosponsor thomas_id="01846" joined="2014-04-01"/>
+    <cosponsor thomas_id="01939" joined="2014-04-01"/>
+    <cosponsor thomas_id="01730" joined="2014-04-01"/>
+    <cosponsor thomas_id="00868" joined="2014-04-01"/>
+    <cosponsor thomas_id="02113" joined="2014-04-01"/>
+    <cosponsor thomas_id="01927" joined="2014-04-01"/>
+    <cosponsor thomas_id="00940" joined="2014-04-01"/>
+    <cosponsor thomas_id="01522" joined="2014-04-01"/>
+    <cosponsor thomas_id="02110" joined="2014-04-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-04-01" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2014-04-04">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Disability Assistance and Memorial Affairs" code="HSVR09" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="113" relation="identical" number="138"/>
+    <bill type="s" session="113" relation="unknown" number="409"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Asia"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Veterans' organizations and recognition"/>
+    <term name="Vietnam"/>
+  </subjects>
+  <amendments/>
+  <summary>4/1/2014--Introduced.
+Expresses support for the designation of Welcome Home Vietnam Veterans Day.
+
+Honors and recognizes the contributions of veterans who served in Vietnam.
+
+Encourages the people of the United States to observe such Day with appropriate ceremonies and activities.</summary>
+</bill>

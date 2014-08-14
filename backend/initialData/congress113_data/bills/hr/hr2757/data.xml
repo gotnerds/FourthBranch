@@ -1,0 +1,66 @@
+<bill session="113" type="h" number="2757" updated="2014-08-14T13:15:00-04:00">
+  <state datetime="2013-07-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-19"/>
+  </status>
+  <introduced datetime="2013-07-19"/>
+  <titles>
+    <title type="official" as="introduced">To amend title XIX of the Social Security Act to remove the exclusion from medical assistance under the Medicaid Program of items and services for patients in an institution for mental diseases.</title>
+  </titles>
+  <sponsor thomas_id="00599"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2013-08-02"/>
+    <cosponsor thomas_id="02153" joined="2013-08-02"/>
+    <cosponsor thomas_id="01761" joined="2013-08-02"/>
+    <cosponsor thomas_id="01889" joined="2013-08-02"/>
+    <cosponsor thomas_id="01474" joined="2013-08-02"/>
+    <cosponsor thomas_id="01864" joined="2013-08-02"/>
+    <cosponsor thomas_id="00208" joined="2013-08-02"/>
+    <cosponsor thomas_id="01477" joined="2013-08-02"/>
+    <cosponsor thomas_id="01894" joined="2013-08-02"/>
+    <cosponsor thomas_id="01857" joined="2013-07-19"/>
+    <cosponsor thomas_id="02114" joined="2014-07-31"/>
+    <cosponsor thomas_id="00368" joined="2013-07-19"/>
+    <cosponsor thomas_id="01895" joined="2013-08-02"/>
+    <cosponsor thomas_id="01803" joined="2013-08-02"/>
+    <cosponsor thomas_id="01580" joined="2013-07-19"/>
+    <cosponsor thomas_id="00588" joined="2013-08-02"/>
+    <cosponsor thomas_id="01843" joined="2013-08-02"/>
+    <cosponsor thomas_id="02190" joined="2013-08-02"/>
+    <cosponsor thomas_id="01501" joined="2013-07-19"/>
+    <cosponsor thomas_id="00688" joined="2013-08-02"/>
+    <cosponsor thomas_id="00766" joined="2014-01-31"/>
+    <cosponsor thomas_id="01811" joined="2013-08-02"/>
+    <cosponsor thomas_id="02108" joined="2013-07-19"/>
+    <cosponsor thomas_id="00868" joined="2013-07-19"/>
+    <cosponsor thomas_id="02097" joined="2013-08-02"/>
+    <cosponsor thomas_id="00944" joined="2013-07-19"/>
+    <cosponsor thomas_id="02023" joined="2013-08-02"/>
+    <cosponsor thomas_id="01988" joined="2013-08-02"/>
+    <cosponsor thomas_id="01151" joined="2013-08-02"/>
+    <cosponsor thomas_id="01207" joined="2013-08-02"/>
+    <cosponsor thomas_id="02004" joined="2013-08-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-19" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-07-26">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Hospital care"/>
+    <term name="Medicaid"/>
+    <term name="Mental health"/>
+  </subjects>
+  <amendments/>
+  <summary>7/19/2013--Introduced.
+Amends title XIX (Medicaid) of the Social Security Act to repeal the exclusion from medical assistance under the Medicaid program of items and services for patients in an institution for mental diseases.</summary>
+</bill>

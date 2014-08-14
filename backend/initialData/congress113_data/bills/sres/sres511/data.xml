@@ -1,0 +1,39 @@
+<bill session="113" type="sr" number="511" updated="2014-08-14T13:44:09-04:00">
+  <state datetime="2014-07-22">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-22"/>
+  </status>
+  <introduced datetime="2014-07-22"/>
+  <titles>
+    <title type="official" as="introduced">A resolution establishing best business practices to fully utilize the potential of the United States.</title>
+  </titles>
+  <sponsor thomas_id="02056"/>
+  <cosponsors>
+    <cosponsor thomas_id="02194" joined="2014-07-29"/>
+    <cosponsor thomas_id="02179" joined="2014-07-22"/>
+    <cosponsor thomas_id="01546" joined="2014-07-29"/>
+    <cosponsor thomas_id="02082" joined="2014-07-22"/>
+    <cosponsor thomas_id="00924" joined="2014-07-22"/>
+    <cosponsor thomas_id="01701" joined="2014-07-22"/>
+    <cosponsor thomas_id="02084" joined="2014-07-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-22" state="REFERRED">
+      <text>Referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <reference ref="CR S4714" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Corporate finance and management"/>
+    <term name="Employee hiring"/>
+    <term name="Employment discrimination and employee rights"/>
+    <term name="Minority employment"/>
+    <term name="School administration"/>
+  </subjects>
+  <amendments/>
+</bill>

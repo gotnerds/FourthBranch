@@ -1,0 +1,49 @@
+<bill session="113" type="s" number="1726" updated="2014-08-14T13:59:34-04:00">
+  <state datetime="2013-11-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-11-19"/>
+  </status>
+  <introduced datetime="2013-11-19"/>
+  <titles>
+    <title type="short" as="introduced">Obamacare Taxpayer Bailout Prevention Act</title>
+    <title type="official" as="introduced">A bill to prevent a taxpayer bailout of health insurance issuers.</title>
+  </titles>
+  <sponsor thomas_id="02084"/>
+  <cosponsors>
+    <cosponsor thomas_id="00188" joined="2013-11-19"/>
+    <cosponsor thomas_id="00213" joined="2014-01-14"/>
+    <cosponsor thomas_id="01542" joined="2013-11-20"/>
+    <cosponsor thomas_id="02179" joined="2013-11-19"/>
+    <cosponsor thomas_id="01633" joined="2013-11-21"/>
+    <cosponsor thomas_id="02079" joined="2013-11-19"/>
+    <cosponsor thomas_id="00583" joined="2013-11-19"/>
+    <cosponsor thomas_id="02080" joined="2013-11-19"/>
+    <cosponsor thomas_id="00754" joined="2014-01-16"/>
+    <cosponsor thomas_id="01395" joined="2013-11-19"/>
+    <cosponsor thomas_id="02082" joined="2013-11-19"/>
+    <cosponsor thomas_id="00968" joined="2013-11-21"/>
+    <cosponsor thomas_id="01609" joined="2013-11-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-11-19" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="3541"/>
+    <bill type="h" session="113" relation="unknown" number="4354"/>
+    <bill type="s" session="113" relation="unknown" number="2214"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Comprehensive health care"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+  </subjects>
+  <amendments/>
+  <summary>11/19/2013--Introduced.
+Obamacare Taxpayer Bailout Prevention Act - Repeals the provision of the Patient Protection and Affordable Care Act that directs the Secretary of Health and Human Services (HHS) to establish and administer a program of risk corridors for calendar years 2014, 2015, and 2016 under which a qualified health plan offered in the individual or small group market is required to participate in a payment adjustment system based on the ratio of the allowable costs of the plan to the plan's aggregate premiums.</summary>
+</bill>

@@ -1,0 +1,61 @@
+<bill session="113" type="s" number="2539" updated="2014-08-14T14:06:27-04:00">
+  <state datetime="2014-07-23">REPORTED</state>
+  <status>
+    <unknown datetime="2014-07-23"/>
+  </status>
+  <introduced datetime="2014-06-26"/>
+  <titles>
+    <title type="short" as="introduced">Traumatic Brain Injury Reauthorization Act of 2014</title>
+    <title type="official" as="introduced">A bill to amend the Public Health Service Act to reauthorize certain programs relating to traumatic brain injury and to trauma research.</title>
+  </titles>
+  <sponsor thomas_id="01351"/>
+  <cosponsors>
+    <cosponsor thomas_id="01828" joined="2014-06-26"/>
+    <cosponsor thomas_id="00501" joined="2014-07-22"/>
+    <cosponsor thomas_id="01647" joined="2014-07-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-26" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+    <action datetime="2014-07-07">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S4214"/>
+    </action>
+    <calendar datetime="2014-07-23" state="REPORTED">
+      <text>Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="2014-07-23">
+      <text>Committee on Health, Education, Labor, and Pensions. Reported by Senator Harkin with an amendment in the nature of a substitute. Without written report.</text>
+    </action>
+    <calendar datetime="2014-07-23" calendar="Senate Legislative" under="General Orders" number="483">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 483.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Child health"/>
+    <term name="Congressional oversight"/>
+    <term name="Disability and paralysis"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Government studies and investigations"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Medical research"/>
+    <term name="Neurological disorders"/>
+    <term name="School athletics"/>
+  </subjects>
+  <amendments/>
+  <summary>6/26/2014--Introduced.
+Traumatic Brain Injury Reauthorization Act of 2014 - Amends the Public Health Service Act to authorize appropriations through FY2019 for traumatic brain injury (TBI) prevention and surveillance or registry programs.
+
+ Reauthorizes through FY2019 the programs of grants to: (1) states and Indian consortia for TBI services, and (2) protection and advocacy systems for the purpose of enabling the systems to provide services to individuals with TBI.
+
+ Directs the Secretary of Health and Human Services (HHS) to develop a plan for improved coordination of federal activities with respect to traumatic brain injury that will:
+
+ review interagency coordination efforts; identify areas for improved coordination between federal agencies and programs, including those with a focus on serving individuals with disabilities; and incorporate feedback from stakeholders, including individuals with TBI and their caregivers. Directs the Centers for Disease Control and Prevention (CDC) to review the scientific evidence related to brain injury management in children and identify opportunities for research.</summary>
+</bill>

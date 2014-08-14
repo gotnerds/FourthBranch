@@ -1,0 +1,96 @@
+<bill session="113" type="h" number="1905" updated="2014-08-14T13:06:57-04:00">
+  <state datetime="2013-05-09">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-09"/>
+  </status>
+  <introduced datetime="2013-05-09"/>
+  <titles>
+    <title type="short" as="introduced">Mother's Day Centennial Commemorative Coin Act</title>
+    <title type="official" as="introduced">To require the Secretary of the Treasury to mint coins in commemoration of the centennial of the establishment of Mother's Day.</title>
+  </titles>
+  <sponsor thomas_id="02074"/>
+  <cosponsors>
+    <cosponsor thomas_id="02093" joined="2013-09-10"/>
+    <cosponsor thomas_id="00091" joined="2013-08-01"/>
+    <cosponsor thomas_id="00099" joined="2013-08-01"/>
+    <cosponsor thomas_id="02129" joined="2013-11-18"/>
+    <cosponsor thomas_id="01761" joined="2013-09-10"/>
+    <cosponsor thomas_id="01676" joined="2013-05-09"/>
+    <cosponsor thomas_id="01889" joined="2013-09-19"/>
+    <cosponsor thomas_id="02055" joined="2013-10-11"/>
+    <cosponsor thomas_id="01864" joined="2013-08-01"/>
+    <cosponsor thomas_id="01912" joined="2013-08-01"/>
+    <cosponsor thomas_id="00229" joined="2013-09-10"/>
+    <cosponsor thomas_id="00231" joined="2013-09-17"/>
+    <cosponsor thomas_id="02098" joined="2013-09-17"/>
+    <cosponsor thomas_id="00281" joined="2013-12-12"/>
+    <cosponsor thomas_id="00462" joined="2013-05-09"/>
+    <cosponsor thomas_id="01708" joined="2013-08-01"/>
+    <cosponsor thomas_id="02044" joined="2013-08-01"/>
+    <cosponsor thomas_id="00511" joined="2013-08-01"/>
+    <cosponsor thomas_id="02143" joined="2013-09-30"/>
+    <cosponsor thomas_id="01580" joined="2013-09-25"/>
+    <cosponsor thomas_id="02101" joined="2013-08-02"/>
+    <cosponsor thomas_id="02149" joined="2014-06-19"/>
+    <cosponsor thomas_id="01843" joined="2013-08-01"/>
+    <cosponsor thomas_id="02051" joined="2013-05-09"/>
+    <cosponsor thomas_id="00635" joined="2013-08-02"/>
+    <cosponsor thomas_id="02145" joined="2013-09-25"/>
+    <cosponsor thomas_id="01834" joined="2014-07-08"/>
+    <cosponsor thomas_id="00683" joined="2013-12-04"/>
+    <cosponsor thomas_id="00688" joined="2013-09-10"/>
+    <cosponsor thomas_id="01960" joined="2013-10-23"/>
+    <cosponsor thomas_id="01504" joined="2013-09-10"/>
+    <cosponsor thomas_id="01835" joined="2013-12-04"/>
+    <cosponsor thomas_id="01929" joined="2013-12-12"/>
+    <cosponsor thomas_id="00930" joined="2013-11-20"/>
+    <cosponsor thomas_id="00940" joined="2013-05-09"/>
+    <cosponsor thomas_id="00944" joined="2013-08-01"/>
+    <cosponsor thomas_id="02160" joined="2013-08-01"/>
+    <cosponsor thomas_id="02017" joined="2013-12-12"/>
+    <cosponsor thomas_id="01848" joined="2013-09-12"/>
+    <cosponsor thomas_id="02039" joined="2013-08-01"/>
+    <cosponsor thomas_id="01756" joined="2013-09-10"/>
+    <cosponsor thomas_id="02124" joined="2013-09-12"/>
+    <cosponsor thomas_id="01861" joined="2013-08-02"/>
+    <cosponsor thomas_id="01069" joined="2013-09-10"/>
+    <cosponsor thomas_id="01940" joined="2013-12-12"/>
+    <cosponsor thomas_id="02137" joined="2013-08-01"/>
+    <cosponsor thomas_id="01205" joined="2013-09-25"/>
+    <cosponsor thomas_id="02004" joined="2013-11-18"/>
+    <cosponsor thomas_id="01886" joined="2013-09-17"/>
+    <cosponsor thomas_id="01238" joined="2013-09-10"/>
+    <cosponsor thomas_id="01255" joined="2013-09-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-09" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2310"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Child health"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Currency"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Medical research"/>
+    <term name="Musculoskeletal and skin diseases"/>
+    <term name="Research administration and funding"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+  </subjects>
+  <amendments/>
+  <summary>5/9/2013--Introduced.
+Mother's Day Centennial Commemorative Coin Act - Instructs the Secretary of the Treasury to mint and issue not more than 400,000 $1 coins emblematic of the 100th anniversary of President Wilson's proclamation designating the second Sunday in May as Mother's Day.
+
+Authorizes the Secretary to issue such coins beginning on January 1, 2014, except that the Secretary may initiate sales of such coins, without issuance, before such date.
+
+Terminates such minting authority after December 31, 2014.
+
+Requires coin sales to include a $10 surcharge per coin, with distribution of one-half of such surcharges to the St. Jude Children's Research Hospital and one-half to the National Osteoporosis Foundation for the purpose of furthering research.</summary>
+</bill>

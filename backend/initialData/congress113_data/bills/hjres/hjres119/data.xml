@@ -1,0 +1,149 @@
+<bill session="113" type="hj" number="119" updated="2014-08-14T13:38:34-04:00">
+  <state datetime="2014-07-14">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-14"/>
+  </status>
+  <introduced datetime="2014-07-14"/>
+  <titles>
+    <title type="official" as="introduced">Proposing an amendment to the Constitution of the United States relating to contributions and expenditures intended to affect elections.</title>
+  </titles>
+  <sponsor thomas_id="01976"/>
+  <cosponsors>
+    <cosponsor thomas_id="02153" joined="2014-07-15"/>
+    <cosponsor thomas_id="00070" joined="2014-07-15"/>
+    <cosponsor thomas_id="01740" joined="2014-07-14"/>
+    <cosponsor thomas_id="00099" joined="2014-07-14"/>
+    <cosponsor thomas_id="02092" joined="2014-07-15"/>
+    <cosponsor thomas_id="01469" joined="2014-07-14"/>
+    <cosponsor thomas_id="02106" joined="2014-07-14"/>
+    <cosponsor thomas_id="02127" joined="2014-07-15"/>
+    <cosponsor thomas_id="01761" joined="2014-07-14"/>
+    <cosponsor thomas_id="01564" joined="2014-07-14"/>
+    <cosponsor thomas_id="02159" joined="2014-07-24"/>
+    <cosponsor thomas_id="01970" joined="2014-07-18"/>
+    <cosponsor thomas_id="02055" joined="2014-07-14"/>
+    <cosponsor thomas_id="02196" joined="2014-07-14"/>
+    <cosponsor thomas_id="01654" joined="2014-07-15"/>
+    <cosponsor thomas_id="01878" joined="2014-07-14"/>
+    <cosponsor thomas_id="00229" joined="2014-07-14"/>
+    <cosponsor thomas_id="01836" joined="2014-07-15"/>
+    <cosponsor thomas_id="01604" joined="2014-07-15"/>
+    <cosponsor thomas_id="01641" joined="2014-07-15"/>
+    <cosponsor thomas_id="00279" joined="2014-07-14"/>
+    <cosponsor thomas_id="00281" joined="2014-07-14"/>
+    <cosponsor thomas_id="02096" joined="2014-07-14"/>
+    <cosponsor thomas_id="00303" joined="2014-07-14"/>
+    <cosponsor thomas_id="00316" joined="2014-07-14"/>
+    <cosponsor thomas_id="01894" joined="2014-07-14"/>
+    <cosponsor thomas_id="01857" joined="2014-07-14"/>
+    <cosponsor thomas_id="00344" joined="2014-07-14"/>
+    <cosponsor thomas_id="02125" joined="2014-07-16"/>
+    <cosponsor thomas_id="00355" joined="2014-07-14"/>
+    <cosponsor thomas_id="02114" joined="2014-07-15"/>
+    <cosponsor thomas_id="00368" joined="2014-07-14"/>
+    <cosponsor thomas_id="00371" joined="2014-07-14"/>
+    <cosponsor thomas_id="01888" joined="2014-07-14"/>
+    <cosponsor thomas_id="01895" joined="2014-07-14"/>
+    <cosponsor thomas_id="02122" joined="2014-07-14"/>
+    <cosponsor thomas_id="01973" joined="2014-07-14"/>
+    <cosponsor thomas_id="01914" joined="2014-07-14"/>
+    <cosponsor thomas_id="00462" joined="2014-07-14"/>
+    <cosponsor thomas_id="01708" joined="2014-07-14"/>
+    <cosponsor thomas_id="02089" joined="2014-07-14"/>
+    <cosponsor thomas_id="00511" joined="2014-07-14"/>
+    <cosponsor thomas_id="02170" joined="2014-07-14"/>
+    <cosponsor thomas_id="01913" joined="2014-07-14"/>
+    <cosponsor thomas_id="01580" joined="2014-07-14"/>
+    <cosponsor thomas_id="01634" joined="2014-07-14"/>
+    <cosponsor thomas_id="02101" joined="2014-07-14"/>
+    <cosponsor thomas_id="01663" joined="2014-07-14"/>
+    <cosponsor thomas_id="00588" joined="2014-07-14"/>
+    <cosponsor thomas_id="01843" joined="2014-07-14"/>
+    <cosponsor thomas_id="00616" joined="2014-07-14"/>
+    <cosponsor thomas_id="02172" joined="2014-07-14"/>
+    <cosponsor thomas_id="02169" joined="2014-07-14"/>
+    <cosponsor thomas_id="02145" joined="2014-07-14"/>
+    <cosponsor thomas_id="01668" joined="2014-07-14"/>
+    <cosponsor thomas_id="01675" joined="2014-07-14"/>
+    <cosponsor thomas_id="01583" joined="2014-07-14"/>
+    <cosponsor thomas_id="01501" joined="2014-07-14"/>
+    <cosponsor thomas_id="00688" joined="2014-07-14"/>
+    <cosponsor thomas_id="00701" joined="2014-07-14"/>
+    <cosponsor thomas_id="02111" joined="2014-07-15"/>
+    <cosponsor thomas_id="00709" joined="2014-07-15"/>
+    <cosponsor thomas_id="02146" joined="2014-07-14"/>
+    <cosponsor thomas_id="01939" joined="2014-07-14"/>
+    <cosponsor thomas_id="01686" joined="2014-07-15"/>
+    <cosponsor thomas_id="02150" joined="2014-07-16"/>
+    <cosponsor thomas_id="01814" joined="2014-07-14"/>
+    <cosponsor thomas_id="01653" joined="2014-07-15"/>
+    <cosponsor thomas_id="00766" joined="2014-07-14"/>
+    <cosponsor thomas_id="01504" joined="2014-07-14"/>
+    <cosponsor thomas_id="01506" joined="2014-07-14"/>
+    <cosponsor thomas_id="00808" joined="2014-07-14"/>
+    <cosponsor thomas_id="01811" joined="2014-07-14"/>
+    <cosponsor thomas_id="00832" joined="2014-07-18"/>
+    <cosponsor thomas_id="00867" joined="2014-07-14"/>
+    <cosponsor thomas_id="00868" joined="2014-07-14"/>
+    <cosponsor thomas_id="02162" joined="2014-07-15"/>
+    <cosponsor thomas_id="00887" joined="2014-07-14"/>
+    <cosponsor thomas_id="01510" joined="2014-07-14"/>
+    <cosponsor thomas_id="02097" joined="2014-07-14"/>
+    <cosponsor thomas_id="00905" joined="2014-07-14"/>
+    <cosponsor thomas_id="01835" joined="2014-07-18"/>
+    <cosponsor thomas_id="01929" joined="2014-07-30"/>
+    <cosponsor thomas_id="00910" joined="2014-07-16"/>
+    <cosponsor thomas_id="01927" joined="2014-07-16"/>
+    <cosponsor thomas_id="02171" joined="2014-07-14"/>
+    <cosponsor thomas_id="00930" joined="2014-07-14"/>
+    <cosponsor thomas_id="01967" joined="2014-07-15"/>
+    <cosponsor thomas_id="00944" joined="2014-07-14"/>
+    <cosponsor thomas_id="02023" joined="2014-07-14"/>
+    <cosponsor thomas_id="01728" joined="2014-07-14"/>
+    <cosponsor thomas_id="01756" joined="2014-07-14"/>
+    <cosponsor thomas_id="01854" joined="2014-07-14"/>
+    <cosponsor thomas_id="01588" joined="2014-07-14"/>
+    <cosponsor thomas_id="01635" joined="2014-07-15"/>
+    <cosponsor thomas_id="02124" joined="2014-07-22"/>
+    <cosponsor thomas_id="01950" joined="2014-07-14"/>
+    <cosponsor thomas_id="01798" joined="2014-07-25"/>
+    <cosponsor thomas_id="01042" joined="2014-07-14"/>
+    <cosponsor thomas_id="01988" joined="2014-07-14"/>
+    <cosponsor thomas_id="01861" joined="2014-07-15"/>
+    <cosponsor thomas_id="01526" joined="2014-07-14"/>
+    <cosponsor thomas_id="01069" joined="2014-07-14"/>
+    <cosponsor thomas_id="01528" joined="2014-07-16"/>
+    <cosponsor thomas_id="01890" joined="2014-07-14"/>
+    <cosponsor thomas_id="02104" joined="2014-07-14"/>
+    <cosponsor thomas_id="02110" joined="2014-07-22"/>
+    <cosponsor thomas_id="01593" joined="2014-07-14"/>
+    <cosponsor thomas_id="01940" joined="2014-07-14"/>
+    <cosponsor thomas_id="01942" joined="2014-07-14"/>
+    <cosponsor thomas_id="01884" joined="2014-07-15"/>
+    <cosponsor thomas_id="01729" joined="2014-07-14"/>
+    <cosponsor thomas_id="01777" joined="2014-07-15"/>
+    <cosponsor thomas_id="01205" joined="2014-07-14"/>
+    <cosponsor thomas_id="01209" joined="2014-07-22"/>
+    <cosponsor thomas_id="01879" joined="2014-07-14"/>
+    <cosponsor thomas_id="01853" joined="2014-07-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-14" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="sj" session="113" relation="unknown" number="19"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+  <summary>7/14/2014--Introduced.
+Constitutional Amendment - Authorizes Congress and the states to set reasonable limits on the raising and spending of money by candidates and others to influence elections.
+
+Grants Congress and the states the power to implement and enforce this amendment by appropriate legislation. Allows them to distinguish between natural persons and corporations or other artificial entities created by law, including by prohibiting such entities from spending money to influence elections.
+
+Declares that nothing in this amendment shall be construed to grant Congress or the states the power to abridge the freedom of the press.</summary>
+</bill>

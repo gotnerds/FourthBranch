@@ -1,0 +1,101 @@
+<bill session="113" type="h" number="5053" updated="2014-08-14T13:34:37-04:00">
+  <state datetime="2014-07-10">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-10"/>
+  </status>
+  <introduced datetime="2014-07-10"/>
+  <titles>
+    <title type="short" as="introduced">Expedited Family Reunification Act of 2014</title>
+    <title type="official" as="introduced">To amend the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008 to provide for the expedited removal of unaccompanied alien children who are not victims of a severe form of trafficking in persons and who do not have a fear of returning to their country of nationality or last habitual residence, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01009"/>
+  <cosponsors>
+    <cosponsor thomas_id="01858" joined="2014-07-14"/>
+    <cosponsor thomas_id="02054" joined="2014-07-11"/>
+    <cosponsor thomas_id="02131" joined="2014-07-11"/>
+    <cosponsor thomas_id="01753" joined="2014-07-14"/>
+    <cosponsor thomas_id="01787" joined="2014-07-14"/>
+    <cosponsor thomas_id="02155" joined="2014-07-11"/>
+    <cosponsor thomas_id="01987" joined="2014-07-14"/>
+    <cosponsor thomas_id="01882" joined="2014-07-11"/>
+    <cosponsor thomas_id="01840" joined="2014-07-22"/>
+    <cosponsor thomas_id="01956" joined="2014-07-11"/>
+    <cosponsor thomas_id="01742" joined="2014-07-11"/>
+    <cosponsor thomas_id="02098" joined="2014-07-11"/>
+    <cosponsor thomas_id="02116" joined="2014-07-11"/>
+    <cosponsor thomas_id="02072" joined="2014-07-11"/>
+    <cosponsor thomas_id="02057" joined="2014-07-11"/>
+    <cosponsor thomas_id="02036" joined="2014-07-14"/>
+    <cosponsor thomas_id="02067" joined="2014-07-11"/>
+    <cosponsor thomas_id="01924" joined="2014-07-14"/>
+    <cosponsor thomas_id="01707" joined="2014-07-11"/>
+    <cosponsor thomas_id="01992" joined="2014-07-11"/>
+    <cosponsor thomas_id="01979" joined="2014-07-11"/>
+    <cosponsor thomas_id="02026" joined="2014-07-11"/>
+    <cosponsor thomas_id="02140" joined="2014-07-15"/>
+    <cosponsor thomas_id="01909" joined="2014-07-11"/>
+    <cosponsor thomas_id="00603" joined="2014-07-15"/>
+    <cosponsor thomas_id="01868" joined="2014-07-11"/>
+    <cosponsor thomas_id="02154" joined="2014-07-11"/>
+    <cosponsor thomas_id="02011" joined="2014-07-11"/>
+    <cosponsor thomas_id="01806" joined="2014-07-11"/>
+    <cosponsor thomas_id="01908" joined="2014-07-11"/>
+    <cosponsor thomas_id="01731" joined="2014-07-11"/>
+    <cosponsor thomas_id="01955" joined="2014-07-23"/>
+    <cosponsor thomas_id="02157" joined="2014-07-11"/>
+    <cosponsor thomas_id="02141" joined="2014-07-22"/>
+    <cosponsor thomas_id="01802" joined="2014-07-11"/>
+    <cosponsor thomas_id="01994" joined="2014-07-11"/>
+    <cosponsor thomas_id="01525" joined="2014-07-11"/>
+    <cosponsor thomas_id="01075" joined="2014-07-14"/>
+    <cosponsor thomas_id="02000" joined="2014-07-22"/>
+    <cosponsor thomas_id="02168" joined="2014-07-14"/>
+    <cosponsor thomas_id="01114" joined="2014-07-11"/>
+    <cosponsor thomas_id="02161" joined="2014-07-11"/>
+    <cosponsor thomas_id="01779" joined="2014-07-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-10" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-07-10">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2014-07-10">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="5079"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Belize"/>
+    <term name="Border security and unlawful immigration"/>
+    <term name="Child safety and welfare"/>
+    <term name="Costa Rica"/>
+    <term name="Crimes against children"/>
+    <term name="El Salvador"/>
+    <term name="Guatemala"/>
+    <term name="Honduras"/>
+    <term name="Human trafficking"/>
+    <term name="Immigration status and procedures"/>
+    <term name="International law and treaties"/>
+    <term name="Latin America"/>
+    <term name="Lawyers and legal services"/>
+    <term name="Nicaragua"/>
+    <term name="Panama"/>
+    <term name="Refugees, asylum, displaced persons"/>
+  </subjects>
+  <amendments/>
+  <summary>7/10/2014--Introduced.
+Expedited Family Reunification Act of 2014 - Amends the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008 to provide that any unaccompanied alien child who has not been a victim of a severe form of trafficking in persons or does not have a credible fear of persecution on returning to his or her country of nationality or of last habitual residence shall be: (1) placed in removal proceedings, (2) eligible for voluntary departure at no cost to the child, and (3) provided with access to counsel. (Currently such expedited removal requirements apply to unaccompanied children from countries that are contiguous to the United States.)
+
+Directs the Secretary of State to negotiate agreements, in addition to countries contiguous to the United States, between the United States and Belize, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, Panama, and any other appropriate country regarding the repatriation of children.
+
+Applies the requirements of this Act to any unaccompanied alien child apprehended on or after June 15, 2012.</summary>
+</bill>

@@ -1,0 +1,80 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-29", 
+      "committees": [
+        "SSFI"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Finance.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2681-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Finance", 
+      "committee_id": "SSFI"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Walsh, John E.", 
+      "sponsored_at": "2014-07-29", 
+      "state": "MT", 
+      "thomas_id": "02198", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-07-29", 
+  "number": "2681", 
+  "official_title": "A bill to amend the Internal Revenue Code of 1986 to provide incentives for businesses to keep jobs in the United States.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Keeping Jobs in America Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Pryor, Mark L.", 
+    "state": "AR", 
+    "thomas_id": "01701", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-07-29", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Keeping Jobs in America Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to amend the Internal Revenue Code of 1986 to provide incentives for businesses to keep jobs in the United States.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T14:07:39-04:00"
+}

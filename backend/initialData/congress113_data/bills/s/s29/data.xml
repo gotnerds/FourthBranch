@@ -1,0 +1,57 @@
+<bill session="113" type="s" number="29" updated="2014-08-14T13:45:01-04:00">
+  <state datetime="2013-01-22">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-22"/>
+  </status>
+  <introduced datetime="2013-01-22"/>
+  <titles>
+    <title type="short" as="introduced">End Government Shutdowns Act</title>
+    <title type="official" as="introduced">A bill to amend title 31, United States Code, to provide for automatic continuing resolutions.</title>
+  </titles>
+  <sponsor thomas_id="00924"/>
+  <cosponsors>
+    <cosponsor thomas_id="02075" joined="2013-01-30"/>
+    <cosponsor thomas_id="01881" joined="2013-01-22"/>
+    <cosponsor thomas_id="01464" joined="2013-10-29"/>
+    <cosponsor thomas_id="00153" joined="2013-01-22"/>
+    <cosponsor thomas_id="00209" joined="2013-01-30"/>
+    <cosponsor thomas_id="00212" joined="2013-01-30"/>
+    <cosponsor thomas_id="01692" joined="2013-01-28"/>
+    <cosponsor thomas_id="00250" joined="2013-01-30"/>
+    <cosponsor thomas_id="01542" joined="2013-01-22"/>
+    <cosponsor thomas_id="00457" joined="2013-01-22"/>
+    <cosponsor thomas_id="02079" joined="2013-01-24"/>
+    <cosponsor thomas_id="01608" joined="2013-01-22"/>
+    <cosponsor thomas_id="02086" joined="2013-02-04"/>
+    <cosponsor thomas_id="02080" joined="2013-01-22"/>
+    <cosponsor thomas_id="00754" joined="2013-01-28"/>
+    <cosponsor thomas_id="01395" joined="2013-01-22"/>
+    <cosponsor thomas_id="01694" joined="2013-10-28"/>
+    <cosponsor thomas_id="01896" joined="2013-01-28"/>
+    <cosponsor thomas_id="02084" joined="2013-01-22"/>
+    <cosponsor thomas_id="01829" joined="2013-01-22"/>
+    <cosponsor thomas_id="02085" joined="2013-01-23"/>
+    <cosponsor thomas_id="01226" joined="2013-01-24"/>
+    <cosponsor thomas_id="00213" joined="2013-01-30" withdrawn="2013-01-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Appropriations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSAP" name="Senate Appropriations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="1164"/>
+    <bill type="s" session="113" relation="unknown" number="280"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Appropriations"/>
+    <term name="Executive agency funding and structure"/>
+  </subjects>
+  <amendments/>
+  <summary>1/22/2013--Introduced.
+End Government Shutdowns Act - Makes specified provisional (automatic) continuing appropriations in the event that any regular appropriation bill for a fiscal year is not enacted before the beginning of such fiscal year, or a joint resolution making continuing appropriations is not in effect. (Thus prevents a federal government shutdown.)</summary>
+</bill>

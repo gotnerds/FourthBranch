@@ -1,0 +1,115 @@
+<bill session="113" type="h" number="3771" updated="2014-08-14T13:23:38-04:00">
+  <state datetime="2014-03-25">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2014-03-25"/>
+  </status>
+  <introduced datetime="2013-12-12"/>
+  <titles>
+    <title type="short" as="introduced">Philippines Charitable Giving Assistance Act</title>
+    <title type="short" as="passed house">Philippines Charitable Giving Assistance Act</title>
+    <title type="short" as="passed senate">Philippines Charitable Giving Assistance Act</title>
+    <title type="short" as="enacted">Philippines Charitable Giving Assistance Act</title>
+    <title type="official" as="introduced">To accelerate the income tax benefits for charitable cash contributions for the relief of victims of the Typhoon Haiyan in the Philippines.</title>
+  </titles>
+  <sponsor thomas_id="02104"/>
+  <cosponsors>
+    <cosponsor thomas_id="01723" joined="2013-12-12"/>
+    <cosponsor thomas_id="00165" joined="2014-02-05"/>
+    <cosponsor thomas_id="02107" joined="2014-01-16"/>
+    <cosponsor thomas_id="01970" joined="2013-12-12"/>
+    <cosponsor thomas_id="01894" joined="2014-02-28"/>
+    <cosponsor thomas_id="01707" joined="2013-12-12"/>
+    <cosponsor thomas_id="02122" joined="2014-01-16"/>
+    <cosponsor thomas_id="01803" joined="2013-12-12"/>
+    <cosponsor thomas_id="01708" joined="2014-02-28"/>
+    <cosponsor thomas_id="02041" joined="2014-02-05"/>
+    <cosponsor thomas_id="02089" joined="2014-01-16"/>
+    <cosponsor thomas_id="02010" joined="2013-12-12"/>
+    <cosponsor thomas_id="02040" joined="2013-12-12"/>
+    <cosponsor thomas_id="01634" joined="2013-12-12"/>
+    <cosponsor thomas_id="01640" joined="2013-12-12"/>
+    <cosponsor thomas_id="00701" joined="2014-01-16"/>
+    <cosponsor thomas_id="01814" joined="2014-02-05"/>
+    <cosponsor thomas_id="00766" joined="2014-02-11"/>
+    <cosponsor thomas_id="02148" joined="2014-02-05"/>
+    <cosponsor thomas_id="01584" joined="2014-02-05"/>
+    <cosponsor thomas_id="01602" joined="2014-01-16"/>
+    <cosponsor thomas_id="02108" joined="2014-03-24"/>
+    <cosponsor thomas_id="02113" joined="2014-02-05"/>
+    <cosponsor thomas_id="00944" joined="2014-02-11"/>
+    <cosponsor thomas_id="00998" joined="2014-02-05"/>
+    <cosponsor thomas_id="01728" joined="2014-01-16"/>
+    <cosponsor thomas_id="01635" joined="2014-01-16"/>
+    <cosponsor thomas_id="01037" joined="2013-12-12"/>
+    <cosponsor thomas_id="01526" joined="2014-01-16"/>
+    <cosponsor thomas_id="01890" joined="2013-12-12"/>
+    <cosponsor thomas_id="01593" joined="2013-12-12"/>
+    <cosponsor thomas_id="01940" joined="2014-01-16"/>
+    <cosponsor thomas_id="02105" joined="2014-02-05"/>
+    <cosponsor thomas_id="02112" joined="2013-12-12"/>
+    <cosponsor thomas_id="01256" joined="2014-02-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-12-12" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-12-12">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-12-12">
+      <text>Referred to House Budget</text>
+    </action>
+    <action datetime="2014-03-24T16:57:00-04:00">
+      <text>Mr. Kelly (PA) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2014-03-24T16:57:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2575-2577" label="consideration"/>
+    </action>
+    <action datetime="2014-03-24T16:57:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3771.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-03-24T17:13:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H2575" label="text"/>
+    </vote>
+    <vote how="by Unanimous Consent" type="vote2" datetime="2014-03-25" where="s" result="pass" state="PASSED:BILL">
+      <text>Received in the Senate, read twice, considered, read the third time, and passed, pursuant to the order of March 6, 2014, without amendment by Unanimous Consent.</text>
+      <reference ref="CR S1706" label="consideration"/>
+    </vote>
+    <action datetime="2014-03-25">
+      <text>See also S. 1821.</text>
+    </action>
+    <action datetime="2014-03-25">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="2014-03-25">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2014-03-25" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="113-92" type="public" datetime="2014-03-25">
+      <text>Became Public Law No: 113-92.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee subcommittee="" code="HSBU" name="House Budget" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1821"/>
+    <bill type="s" session="113" relation="unknown" number="1821"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Asia"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Income tax deductions"/>
+    <term name="Philippines"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+  </subjects>
+  <amendments/>
+  <summary>3/25/2014--Public Law.
+Philippines Charitable Giving Assistance Act - Treats cash contributions made after the enactment of this Act and before April 15, 2014, for the relief of victims in areas affected by Typhoon Haiyan as having been made on December 31, 2013, for purposes of the tax deduction for charitable contributions. Deems such a contribution as meeting the recordkeeping requirements of the Internal Revenue Code if the taxpayer produces a telephone bill showing the name of the donee organization and the date and amount of the contribution.</summary>
+</bill>

@@ -1,0 +1,56 @@
+<bill session="113" type="hr" number="63" updated="2014-08-14T12:45:11-04:00">
+  <state datetime="2013-02-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-12"/>
+  </status>
+  <introduced datetime="2013-02-12"/>
+  <titles>
+    <title type="official" as="introduced">Expressing support for designation of the first Saturday in October as "National Animal Rescue Day/Winslow's Day" to create awareness, educate humans of the importance of adoption, and create a humane environment for any pet, including the importance of spaying and neutering of animals, and the encouragement of animal adoptions throughout the United States.</title>
+  </titles>
+  <sponsor thomas_id="00021"/>
+  <cosponsors>
+    <cosponsor thomas_id="02135" joined="2013-06-11"/>
+    <cosponsor thomas_id="01753" joined="2013-06-03"/>
+    <cosponsor thomas_id="01740" joined="2013-06-03"/>
+    <cosponsor thomas_id="01723" joined="2013-06-03"/>
+    <cosponsor thomas_id="01840" joined="2013-06-03"/>
+    <cosponsor thomas_id="02127" joined="2013-06-03"/>
+    <cosponsor thomas_id="02107" joined="2013-06-03"/>
+    <cosponsor thomas_id="02159" joined="2013-07-08"/>
+    <cosponsor thomas_id="00186" joined="2013-06-03"/>
+    <cosponsor thomas_id="01654" joined="2013-06-03"/>
+    <cosponsor thomas_id="01878" joined="2013-06-03"/>
+    <cosponsor thomas_id="00368" joined="2013-06-03"/>
+    <cosponsor thomas_id="00511" joined="2013-06-03"/>
+    <cosponsor thomas_id="01913" joined="2013-06-11"/>
+    <cosponsor thomas_id="01843" joined="2013-06-03"/>
+    <cosponsor thomas_id="00683" joined="2013-06-03"/>
+    <cosponsor thomas_id="01686" joined="2013-06-03"/>
+    <cosponsor thomas_id="00729" joined="2013-06-03"/>
+    <cosponsor thomas_id="02150" joined="2013-09-18"/>
+    <cosponsor thomas_id="01504" joined="2013-06-03"/>
+    <cosponsor thomas_id="00930" joined="2013-09-30"/>
+    <cosponsor thomas_id="01522" joined="2013-06-03"/>
+    <cosponsor thomas_id="01635" joined="2013-09-30"/>
+    <cosponsor thomas_id="01890" joined="2013-06-03"/>
+    <cosponsor thomas_id="01535" joined="2013-09-18"/>
+    <cosponsor thomas_id="02004" joined="2013-06-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-12" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Animals"/>
+    <term name="Animal protection and human-animal relationships"/>
+    <term name="Commemorative events and holidays"/>
+  </subjects>
+  <amendments/>
+  <summary>2/12/2013--Introduced.
+Supports the designation of a National Animal Rescue Day/Winslow's Day to create awareness for animal rescue programs throughout the year and address the challenge of overpopulation through continued spaying and neutering.</summary>
+</bill>

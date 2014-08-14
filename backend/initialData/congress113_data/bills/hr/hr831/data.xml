@@ -1,0 +1,135 @@
+<bill session="113" type="h" number="831" updated="2014-08-14T12:57:47-04:00">
+  <state datetime="2013-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-26"/>
+  </status>
+  <introduced datetime="2013-02-26"/>
+  <titles>
+    <title type="short" as="introduced">Fair Wages for Workers with Disabilities Act of 2013</title>
+    <title type="official" as="introduced">To phase out special wage certificates under the Fair Labor Standards Act of 1938 under which individuals with disabilities may be employed at subminimum wage rates.</title>
+  </titles>
+  <sponsor thomas_id="01933"/>
+  <cosponsors>
+    <cosponsor thomas_id="01727" joined="2013-02-26"/>
+    <cosponsor thomas_id="01996" joined="2014-02-28"/>
+    <cosponsor thomas_id="02153" joined="2013-04-25"/>
+    <cosponsor thomas_id="01838" joined="2014-06-10"/>
+    <cosponsor thomas_id="00091" joined="2013-02-26"/>
+    <cosponsor thomas_id="00099" joined="2014-03-26"/>
+    <cosponsor thomas_id="01469" joined="2013-04-12"/>
+    <cosponsor thomas_id="00132" joined="2013-09-30"/>
+    <cosponsor thomas_id="02018" joined="2014-05-07"/>
+    <cosponsor thomas_id="00165" joined="2013-10-30"/>
+    <cosponsor thomas_id="01839" joined="2014-02-11"/>
+    <cosponsor thomas_id="01474" joined="2013-07-09"/>
+    <cosponsor thomas_id="01864" joined="2014-06-24"/>
+    <cosponsor thomas_id="01654" joined="2014-07-24"/>
+    <cosponsor thomas_id="00208" joined="2013-02-26"/>
+    <cosponsor thomas_id="00211" joined="2013-04-25"/>
+    <cosponsor thomas_id="01878" joined="2014-05-07"/>
+    <cosponsor thomas_id="01742" joined="2013-03-06"/>
+    <cosponsor thomas_id="00229" joined="2013-02-26"/>
+    <cosponsor thomas_id="00231" joined="2014-01-28"/>
+    <cosponsor thomas_id="01836" joined="2014-06-24"/>
+    <cosponsor thomas_id="01643" joined="2013-03-06"/>
+    <cosponsor thomas_id="00256" joined="2013-04-12"/>
+    <cosponsor thomas_id="02138" joined="2014-02-25"/>
+    <cosponsor thomas_id="01641" joined="2014-01-13"/>
+    <cosponsor thomas_id="01479" joined="2013-04-12"/>
+    <cosponsor thomas_id="02123" joined="2014-06-19"/>
+    <cosponsor thomas_id="01894" joined="2014-02-25"/>
+    <cosponsor thomas_id="01857" joined="2013-02-26"/>
+    <cosponsor thomas_id="02036" joined="2014-02-06"/>
+    <cosponsor thomas_id="00344" joined="2013-10-09"/>
+    <cosponsor thomas_id="02125" joined="2013-03-21"/>
+    <cosponsor thomas_id="01793" joined="2013-04-12"/>
+    <cosponsor thomas_id="01895" joined="2013-05-22"/>
+    <cosponsor thomas_id="02122" joined="2014-02-04"/>
+    <cosponsor thomas_id="00511" joined="2013-02-26"/>
+    <cosponsor thomas_id="02071" joined="2014-02-04"/>
+    <cosponsor thomas_id="01794" joined="2014-03-11"/>
+    <cosponsor thomas_id="02147" joined="2013-04-12"/>
+    <cosponsor thomas_id="01663" joined="2014-07-30"/>
+    <cosponsor thomas_id="00588" joined="2014-01-29"/>
+    <cosponsor thomas_id="02149" joined="2013-11-13"/>
+    <cosponsor thomas_id="00599" joined="2014-01-13"/>
+    <cosponsor thomas_id="00616" joined="2014-05-08"/>
+    <cosponsor thomas_id="02190" joined="2014-02-11"/>
+    <cosponsor thomas_id="00635" joined="2013-03-06"/>
+    <cosponsor thomas_id="02145" joined="2014-04-29"/>
+    <cosponsor thomas_id="01501" joined="2013-03-06"/>
+    <cosponsor thomas_id="00688" joined="2013-10-30"/>
+    <cosponsor thomas_id="00709" joined="2014-06-10"/>
+    <cosponsor thomas_id="02146" joined="2014-02-25"/>
+    <cosponsor thomas_id="01943" joined="2014-02-06"/>
+    <cosponsor thomas_id="00729" joined="2013-03-21"/>
+    <cosponsor thomas_id="01671" joined="2013-03-21"/>
+    <cosponsor thomas_id="02195" joined="2014-06-19"/>
+    <cosponsor thomas_id="01503" joined="2014-02-25"/>
+    <cosponsor thomas_id="00766" joined="2014-05-08"/>
+    <cosponsor thomas_id="01504" joined="2014-05-20"/>
+    <cosponsor thomas_id="01809" joined="2013-09-30"/>
+    <cosponsor thomas_id="01832" joined="2014-02-25"/>
+    <cosponsor thomas_id="01730" joined="2014-02-04"/>
+    <cosponsor thomas_id="00808" joined="2014-02-11"/>
+    <cosponsor thomas_id="01811" joined="2013-02-26"/>
+    <cosponsor thomas_id="00832" joined="2013-11-13"/>
+    <cosponsor thomas_id="01602" joined="2014-01-28"/>
+    <cosponsor thomas_id="00854" joined="2013-03-21"/>
+    <cosponsor thomas_id="00868" joined="2013-02-26"/>
+    <cosponsor thomas_id="01835" joined="2013-04-12"/>
+    <cosponsor thomas_id="01953" joined="2013-04-25"/>
+    <cosponsor thomas_id="00930" joined="2014-02-25"/>
+    <cosponsor thomas_id="01967" joined="2013-03-06"/>
+    <cosponsor thomas_id="01810" joined="2014-03-26"/>
+    <cosponsor thomas_id="02160" joined="2014-04-08"/>
+    <cosponsor thomas_id="02003" joined="2014-06-24"/>
+    <cosponsor thomas_id="00997" joined="2013-03-06"/>
+    <cosponsor thomas_id="02109" joined="2013-10-30"/>
+    <cosponsor thomas_id="01003" joined="2013-02-26"/>
+    <cosponsor thomas_id="01756" joined="2013-05-22"/>
+    <cosponsor thomas_id="01588" joined="2014-05-29"/>
+    <cosponsor thomas_id="01525" joined="2013-10-02"/>
+    <cosponsor thomas_id="01861" joined="2013-03-06"/>
+    <cosponsor thomas_id="01069" joined="2013-03-06"/>
+    <cosponsor thomas_id="01890" joined="2014-03-11"/>
+    <cosponsor thomas_id="02104" joined="2013-04-25"/>
+    <cosponsor thomas_id="02110" joined="2013-04-12"/>
+    <cosponsor thomas_id="01952" joined="2013-05-09"/>
+    <cosponsor thomas_id="01942" joined="2013-02-26"/>
+    <cosponsor thomas_id="01177" joined="2014-06-10"/>
+    <cosponsor thomas_id="01729" joined="2014-02-04"/>
+    <cosponsor thomas_id="01184" joined="2014-01-28"/>
+    <cosponsor thomas_id="01188" joined="2014-01-29"/>
+    <cosponsor thomas_id="02002" joined="2013-07-11"/>
+    <cosponsor thomas_id="01879" joined="2014-05-08"/>
+    <cosponsor thomas_id="01886" joined="2014-01-07"/>
+    <cosponsor thomas_id="01238" joined="2014-05-20"/>
+    <cosponsor thomas_id="01256" joined="2013-02-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-26" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2013-04-23">
+      <text>Referred to the Subcommittee on Workforce Protections.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+    <committee subcommittee="Workforce Protections" code="HSED10" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Disability and paralysis"/>
+    <term name="Wages and earnings"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/2013--Introduced.
+Fair Wages for Workers with Disabilities Act of 2013 - Directs the Secretary of Labor to discontinue issuing to any new profit or non-profit or governmental entity special wage certificates (which permit individuals with disabilities, including individuals employed in agriculture, to be paid at lower than minimum wages).
+
+Prescribes requirements for a three-year phase-out of all certificates.
+
+Amends the Fair Labor Standards Act of 1938 to repeal authority and requirements for the issuance of such certificates three years after enactment of this Act. Requires revocation of any certificates remaining at that time.</summary>
+</bill>

@@ -1,0 +1,69 @@
+<bill session="113" type="h" number="4749" updated="2014-08-14T13:31:56-04:00">
+  <state datetime="2014-05-28">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-28"/>
+  </status>
+  <introduced datetime="2014-05-28"/>
+  <titles>
+    <title type="official" as="introduced">To modify the definition of "antique firearm".</title>
+  </titles>
+  <sponsor thomas_id="01925"/>
+  <cosponsors>
+    <cosponsor thomas_id="01858" joined="2014-06-18"/>
+    <cosponsor thomas_id="01882" joined="2014-05-28"/>
+    <cosponsor thomas_id="02151" joined="2014-06-19"/>
+    <cosponsor thomas_id="02098" joined="2014-05-30"/>
+    <cosponsor thomas_id="01643" joined="2014-06-19"/>
+    <cosponsor thomas_id="02062" joined="2014-06-18"/>
+    <cosponsor thomas_id="00322" joined="2014-06-19"/>
+    <cosponsor thomas_id="02036" joined="2014-07-14"/>
+    <cosponsor thomas_id="02064" joined="2014-06-24"/>
+    <cosponsor thomas_id="01992" joined="2014-07-14"/>
+    <cosponsor thomas_id="02032" joined="2014-06-18"/>
+    <cosponsor thomas_id="01921" joined="2014-07-22"/>
+    <cosponsor thomas_id="00612" joined="2014-06-18"/>
+    <cosponsor thomas_id="02154" joined="2014-07-09"/>
+    <cosponsor thomas_id="02051" joined="2014-06-18"/>
+    <cosponsor thomas_id="01733" joined="2014-07-14"/>
+    <cosponsor thomas_id="01885" joined="2014-07-08"/>
+    <cosponsor thomas_id="02033" joined="2014-06-19"/>
+    <cosponsor thomas_id="02195" joined="2014-06-12"/>
+    <cosponsor thomas_id="02022" joined="2014-06-19"/>
+    <cosponsor thomas_id="01954" joined="2014-06-19"/>
+    <cosponsor thomas_id="01704" joined="2014-06-11"/>
+    <cosponsor thomas_id="02017" joined="2014-06-24"/>
+    <cosponsor thomas_id="01009" joined="2014-06-18"/>
+    <cosponsor thomas_id="01525" joined="2014-06-19"/>
+    <cosponsor thomas_id="01256" joined="2014-06-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-28" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-05-28">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2014-05-28">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2014-07-21">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Firearms and explosives"/>
+    <term name="Government information and archives"/>
+    <term name="Historical and cultural resources"/>
+    <term name="Licensing and registrations"/>
+    <term name="Sales and excise taxes"/>
+    <term name="Trade restrictions"/>
+  </subjects>
+  <amendments/>
+</bill>

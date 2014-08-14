@@ -1,0 +1,143 @@
+<bill session="113" type="h" number="4960" updated="2014-08-14T13:33:48-04:00">
+  <state datetime="2014-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-25"/>
+  </status>
+  <introduced datetime="2014-06-25"/>
+  <titles>
+    <title type="short" as="introduced">CARS Act of 2014</title>
+    <title type="short" as="introduced">Charitable Automobile Red-Tape Simplification Act of 2014</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to modify the substantiation rules for the donation of vehicles valued between $500 and $5,000 dollars.</title>
+  </titles>
+  <sponsor thomas_id="02019"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2014-07-22"/>
+    <cosponsor thomas_id="01858" joined="2014-07-29"/>
+    <cosponsor thomas_id="02093" joined="2014-07-24"/>
+    <cosponsor thomas_id="01838" joined="2014-07-17"/>
+    <cosponsor thomas_id="01753" joined="2014-07-22"/>
+    <cosponsor thomas_id="00091" joined="2014-07-17"/>
+    <cosponsor thomas_id="02063" joined="2014-06-25"/>
+    <cosponsor thomas_id="00099" joined="2014-07-22"/>
+    <cosponsor thomas_id="01723" joined="2014-07-31"/>
+    <cosponsor thomas_id="01787" joined="2014-06-25"/>
+    <cosponsor thomas_id="00132" joined="2014-07-30"/>
+    <cosponsor thomas_id="02106" joined="2014-07-16"/>
+    <cosponsor thomas_id="01761" joined="2014-07-24"/>
+    <cosponsor thomas_id="00165" joined="2014-07-29"/>
+    <cosponsor thomas_id="01564" joined="2014-07-25"/>
+    <cosponsor thomas_id="02159" joined="2014-07-30"/>
+    <cosponsor thomas_id="01912" joined="2014-07-28"/>
+    <cosponsor thomas_id="01878" joined="2014-07-28"/>
+    <cosponsor thomas_id="01805" joined="2014-07-24"/>
+    <cosponsor thomas_id="01959" joined="2014-07-31"/>
+    <cosponsor thomas_id="00229" joined="2014-07-28"/>
+    <cosponsor thomas_id="00231" joined="2014-07-30"/>
+    <cosponsor thomas_id="01604" joined="2014-07-22"/>
+    <cosponsor thomas_id="01477" joined="2014-06-25"/>
+    <cosponsor thomas_id="00281" joined="2014-08-01"/>
+    <cosponsor thomas_id="02072" joined="2014-07-24"/>
+    <cosponsor thomas_id="00322" joined="2014-07-17"/>
+    <cosponsor thomas_id="01857" joined="2014-07-28"/>
+    <cosponsor thomas_id="00355" joined="2014-07-31"/>
+    <cosponsor thomas_id="02114" joined="2014-07-30"/>
+    <cosponsor thomas_id="02067" joined="2014-07-15"/>
+    <cosponsor thomas_id="02065" joined="2014-07-29"/>
+    <cosponsor thomas_id="02119" joined="2014-07-31"/>
+    <cosponsor thomas_id="01707" joined="2014-07-15"/>
+    <cosponsor thomas_id="01973" joined="2014-08-01"/>
+    <cosponsor thomas_id="01998" joined="2014-08-01"/>
+    <cosponsor thomas_id="01743" joined="2014-06-25"/>
+    <cosponsor thomas_id="01990" joined="2014-06-25"/>
+    <cosponsor thomas_id="02010" joined="2014-07-31"/>
+    <cosponsor thomas_id="01794" joined="2014-07-30"/>
+    <cosponsor thomas_id="01490" joined="2014-07-17"/>
+    <cosponsor thomas_id="01663" joined="2014-07-31"/>
+    <cosponsor thomas_id="02046" joined="2014-07-16"/>
+    <cosponsor thomas_id="00599" joined="2014-07-25"/>
+    <cosponsor thomas_id="01843" joined="2014-08-01"/>
+    <cosponsor thomas_id="02025" joined="2014-07-22"/>
+    <cosponsor thomas_id="02051" joined="2014-06-25"/>
+    <cosponsor thomas_id="01498" joined="2014-06-25"/>
+    <cosponsor thomas_id="00635" joined="2014-07-23"/>
+    <cosponsor thomas_id="01733" joined="2014-07-30"/>
+    <cosponsor thomas_id="01834" joined="2014-07-22"/>
+    <cosponsor thomas_id="01668" joined="2014-07-22"/>
+    <cosponsor thomas_id="01583" joined="2014-06-25"/>
+    <cosponsor thomas_id="00666" joined="2014-07-31"/>
+    <cosponsor thomas_id="01885" joined="2014-07-23"/>
+    <cosponsor thomas_id="00688" joined="2014-06-25"/>
+    <cosponsor thomas_id="01846" joined="2014-08-01"/>
+    <cosponsor thomas_id="02033" joined="2014-07-25"/>
+    <cosponsor thomas_id="01931" joined="2014-07-29"/>
+    <cosponsor thomas_id="01939" joined="2014-07-31"/>
+    <cosponsor thomas_id="01686" joined="2014-07-17"/>
+    <cosponsor thomas_id="01806" joined="2014-06-25"/>
+    <cosponsor thomas_id="01908" joined="2014-07-23"/>
+    <cosponsor thomas_id="01504" joined="2014-07-23"/>
+    <cosponsor thomas_id="01832" joined="2014-07-31"/>
+    <cosponsor thomas_id="00832" joined="2014-07-24"/>
+    <cosponsor thomas_id="00850" joined="2014-07-31"/>
+    <cosponsor thomas_id="00854" joined="2014-06-25"/>
+    <cosponsor thomas_id="00868" joined="2014-07-29"/>
+    <cosponsor thomas_id="01710" joined="2014-06-25"/>
+    <cosponsor thomas_id="01510" joined="2014-06-25"/>
+    <cosponsor thomas_id="00893" joined="2014-07-17"/>
+    <cosponsor thomas_id="01930" joined="2014-06-25"/>
+    <cosponsor thomas_id="01929" joined="2014-07-23"/>
+    <cosponsor thomas_id="00912" joined="2014-07-30"/>
+    <cosponsor thomas_id="01910" joined="2014-07-29"/>
+    <cosponsor thomas_id="01778" joined="2014-06-25"/>
+    <cosponsor thomas_id="00944" joined="2014-06-25"/>
+    <cosponsor thomas_id="01982" joined="2014-07-14"/>
+    <cosponsor thomas_id="01810" joined="2014-06-25"/>
+    <cosponsor thomas_id="02048" joined="2014-06-25"/>
+    <cosponsor thomas_id="02073" joined="2014-07-15"/>
+    <cosponsor thomas_id="01954" joined="2014-07-22"/>
+    <cosponsor thomas_id="00977" joined="2014-07-31"/>
+    <cosponsor thomas_id="01848" joined="2014-06-30"/>
+    <cosponsor thomas_id="00997" joined="2014-07-22"/>
+    <cosponsor thomas_id="01003" joined="2014-07-31"/>
+    <cosponsor thomas_id="01756" joined="2014-07-28"/>
+    <cosponsor thomas_id="01757" joined="2014-06-25"/>
+    <cosponsor thomas_id="01635" joined="2014-07-29"/>
+    <cosponsor thomas_id="01920" joined="2014-06-25"/>
+    <cosponsor thomas_id="01798" joined="2014-06-25"/>
+    <cosponsor thomas_id="01041" joined="2014-07-31"/>
+    <cosponsor thomas_id="01525" joined="2014-07-24"/>
+    <cosponsor thomas_id="01988" joined="2014-07-31"/>
+    <cosponsor thomas_id="01069" joined="2014-07-28"/>
+    <cosponsor thomas_id="01566" joined="2014-08-01"/>
+    <cosponsor thomas_id="01593" joined="2014-07-14"/>
+    <cosponsor thomas_id="01664" joined="2014-06-25"/>
+    <cosponsor thomas_id="01535" joined="2014-07-29"/>
+    <cosponsor thomas_id="01997" joined="2014-07-24"/>
+    <cosponsor thomas_id="01942" joined="2014-07-29"/>
+    <cosponsor thomas_id="01884" joined="2014-07-15"/>
+    <cosponsor thomas_id="01741" joined="2014-07-16"/>
+    <cosponsor thomas_id="02105" joined="2014-08-01"/>
+    <cosponsor thomas_id="01855" joined="2014-08-01"/>
+    <cosponsor thomas_id="01856" joined="2014-07-25"/>
+    <cosponsor thomas_id="01688" joined="2014-07-16"/>
+    <cosponsor thomas_id="01886" joined="2014-07-25"/>
+    <cosponsor thomas_id="01853" joined="2014-07-14"/>
+    <cosponsor thomas_id="01256" joined="2014-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-25" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Income tax deductions"/>
+    <term name="Motor vehicles"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+</bill>

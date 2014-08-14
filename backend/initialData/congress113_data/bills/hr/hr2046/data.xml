@@ -1,0 +1,54 @@
+<bill session="113" type="h" number="2046" updated="2014-08-14T13:08:42-04:00">
+  <state datetime="2013-05-17">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-17"/>
+  </status>
+  <introduced datetime="2013-05-17"/>
+  <titles>
+    <title type="short" as="introduced">Recreational Lands Self-Defense Act of 2013</title>
+    <title type="official" as="introduced">To protect the right of individuals to bear arms at water resources development projects administered by the Secretary of the Army, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02049"/>
+  <cosponsors>
+    <cosponsor thomas_id="02054" joined="2013-08-01"/>
+    <cosponsor thomas_id="00211" joined="2013-07-16"/>
+    <cosponsor thomas_id="02098" joined="2013-10-28"/>
+    <cosponsor thomas_id="01992" joined="2013-10-28"/>
+    <cosponsor thomas_id="01990" joined="2013-10-28"/>
+    <cosponsor thomas_id="02051" joined="2013-07-23"/>
+    <cosponsor thomas_id="01994" joined="2013-05-17"/>
+    <cosponsor thomas_id="02115" joined="2013-09-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-17" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2013-05-20">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+    <action datetime="2014-04-04">
+      <text>For Further Action See H.R.3590.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+    <committee subcommittee="Water Resources and Environment" code="HSPW02" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="3197"/>
+    <bill type="h" session="113" relation="unknown" number="3590"/>
+    <bill type="h" session="113" relation="unknown" number="3590"/>
+    <bill type="h" session="113" relation="unknown" number="3590"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Army Corps of Engineers"/>
+    <term name="Firearms and explosives"/>
+    <term name="Lakes and rivers"/>
+    <term name="Outdoor recreation"/>
+  </subjects>
+  <amendments/>
+  <summary>5/17/2013--Introduced.
+Recreational Lands Self-Defense Act of 2013 - Prohibits the Secretary of the Army from promulgating or enforcing any regulation that prohibits an individual from possessing a firearm at a water resources development project administered by the Chief of Engineers if: (1) the individual is not otherwise prohibited by law from possessing the firearm, and (2) the possession of the firearm is in compliance with the law of the state in which the project is located.</summary>
+</bill>

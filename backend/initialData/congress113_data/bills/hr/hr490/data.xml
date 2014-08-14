@@ -1,0 +1,73 @@
+<bill session="113" type="h" number="490" updated="2014-08-14T12:54:56-04:00">
+  <state datetime="2013-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-04"/>
+  </status>
+  <introduced datetime="2013-02-04"/>
+  <titles>
+    <title type="short" as="introduced">Visa Waiver Program Enhanced Security and Reform Act</title>
+    <title type="official" as="introduced">To amend section 217 of the Immigration and Nationality Act to modify the visa waiver program, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01967"/>
+  <cosponsors>
+    <cosponsor thomas_id="02029" joined="2013-02-04"/>
+    <cosponsor thomas_id="00186" joined="2013-02-04"/>
+    <cosponsor thomas_id="02125" joined="2013-03-06"/>
+    <cosponsor thomas_id="01888" joined="2013-02-04"/>
+    <cosponsor thomas_id="00478" joined="2013-02-04"/>
+    <cosponsor thomas_id="02040" joined="2013-02-04"/>
+    <cosponsor thomas_id="01794" joined="2013-02-04"/>
+    <cosponsor thomas_id="00616" joined="2013-02-04"/>
+    <cosponsor thomas_id="02025" joined="2013-02-04"/>
+    <cosponsor thomas_id="02014" joined="2013-02-04"/>
+    <cosponsor thomas_id="01781" joined="2013-02-04"/>
+    <cosponsor thomas_id="00729" joined="2013-02-04"/>
+    <cosponsor thomas_id="01730" joined="2013-03-12"/>
+    <cosponsor thomas_id="00854" joined="2013-12-04"/>
+    <cosponsor thomas_id="00868" joined="2013-02-04"/>
+    <cosponsor thomas_id="01588" joined="2013-02-04"/>
+    <cosponsor thomas_id="02124" joined="2013-02-04"/>
+    <cosponsor thomas_id="01920" joined="2013-02-04"/>
+    <cosponsor thomas_id="01527" joined="2013-02-04"/>
+    <cosponsor thomas_id="01528" joined="2013-02-04"/>
+    <cosponsor thomas_id="01942" joined="2013-04-09"/>
+    <cosponsor thomas_id="01777" joined="2013-02-04"/>
+    <cosponsor thomas_id="02004" joined="2013-04-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-04" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-02-28">
+      <text>Referred to the Subcommittee on Immigration And Border Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee subcommittee="Immigration and Border Security" code="HSJU01" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="1354"/>
+    <bill type="s" session="113" relation="identical" number="223"/>
+    <bill type="s" session="113" relation="unknown" number="744"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Administrative remedies"/>
+    <term name="Border security and unlawful immigration"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Government information and archives"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Judicial review and appeals"/>
+    <term name="Terrorism"/>
+    <term name="Travel and tourism"/>
+    <term name="Visas and passports"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/2013--Introduced.
+Visa Waiver Program Enhanced Security and Reform Act - Amends the Immigration and Nationality Act regarding the visa waiver program to: (1) authorize the Secretary of Homeland Security (DHS) to designate any country as a program country; (2) adjust visa refusal rate criteria, including addition of a 3% maximum overstay rate; and (3) revise probationary and termination provisions.
+
+Directs the Secretary to submit to Congress: (1) an evaluation of the security risks of aliens who enter the United States without an approved Electronic System for Travel Authorization verification, and (2) a description of any improvements needed to minimize the number of aliens who enter the United States without such verification.</summary>
+</bill>

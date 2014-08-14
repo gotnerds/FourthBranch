@@ -1,0 +1,104 @@
+<bill session="113" type="hj" number="105" updated="2014-08-14T13:38:27-04:00">
+  <state datetime="2014-07-28T15:15:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-07-28T15:15:00-04:00"/>
+  </status>
+  <introduced datetime="2014-01-09"/>
+  <titles>
+    <title type="official" as="introduced">Conferring honorary citizenship of the United States on Bernardo de Galvez y Madrid, Viscount of Galveston and Count of Galvez.</title>
+  </titles>
+  <sponsor thomas_id="01685"/>
+  <cosponsors>
+    <cosponsor thomas_id="01838" joined="2014-01-09"/>
+    <cosponsor thomas_id="01787" joined="2014-06-19"/>
+    <cosponsor thomas_id="00132" joined="2014-01-09"/>
+    <cosponsor thomas_id="01840" joined="2014-01-09"/>
+    <cosponsor thomas_id="02197" joined="2014-05-28"/>
+    <cosponsor thomas_id="01839" joined="2014-01-09"/>
+    <cosponsor thomas_id="01643" joined="2014-01-09"/>
+    <cosponsor thomas_id="02116" joined="2014-01-09"/>
+    <cosponsor thomas_id="01976" joined="2014-01-09"/>
+    <cosponsor thomas_id="01717" joined="2014-01-09"/>
+    <cosponsor thomas_id="02119" joined="2014-01-09"/>
+    <cosponsor thomas_id="02120" joined="2014-01-09"/>
+    <cosponsor thomas_id="01914" joined="2014-01-09"/>
+    <cosponsor thomas_id="00462" joined="2014-05-28"/>
+    <cosponsor thomas_id="00511" joined="2014-01-09"/>
+    <cosponsor thomas_id="00800" joined="2014-01-09"/>
+    <cosponsor thomas_id="02117" joined="2014-01-09"/>
+    <cosponsor thomas_id="02001" joined="2014-01-09"/>
+    <cosponsor thomas_id="01953" joined="2014-01-09"/>
+    <cosponsor thomas_id="01915" joined="2014-01-09"/>
+    <cosponsor thomas_id="02118" joined="2014-01-09"/>
+    <cosponsor thomas_id="01916" joined="2014-01-09"/>
+    <cosponsor thomas_id="00985" joined="2014-01-09"/>
+    <cosponsor thomas_id="02003" joined="2014-01-09"/>
+    <cosponsor thomas_id="02000" joined="2014-01-09"/>
+    <cosponsor thomas_id="02167" joined="2014-05-28"/>
+    <cosponsor thomas_id="01777" joined="2014-01-09"/>
+    <cosponsor thomas_id="02002" joined="2014-01-09"/>
+    <cosponsor thomas_id="02004" joined="2014-01-09"/>
+    <cosponsor thomas_id="02115" joined="2014-01-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-01-09" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2014-03-20">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+    <action datetime="2014-07-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-07-10" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+    <action datetime="2014-07-22T19:59:00-04:00">
+      <text>Reported by the Committee on Judiciary. H. Rept. 113-548.</text>
+    </action>
+    <calendar datetime="2014-07-22T19:59:00-04:00" calendar="House" number="126">
+      <text>Placed on the House Calendar, Calendar No. 126.</text>
+    </calendar>
+    <action datetime="2014-07-28T15:06:00-04:00">
+      <text>Mr. Franks (AZ) moved to suspend the rules and pass the resolution.</text>
+    </action>
+    <action datetime="2014-07-28T15:06:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6874-6875" label="consideration"/>
+    </action>
+    <action datetime="2014-07-28T15:06:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.J. Res. 105.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-07-28T15:15:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the resolution Agreed to by voice vote.</text>
+      <reference ref="CR H6874" label="text"/>
+    </vote>
+    <action datetime="2014-07-28T15:15:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-07-29">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee subcommittee="Immigration and Border Security" code="HSJU01" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="sj" session="113" relation="identical" number="38"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Citizenship and naturalization"/>
+    <term name="Conflicts and wars"/>
+    <term name="Congressional tributes"/>
+    <term name="Europe"/>
+    <term name="Military history"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Spain"/>
+    <term name="United Kingdom"/>
+  </subjects>
+  <amendments/>
+  <summary>7/28/2014--Passed House without amendment.
+Confers honorary U.S. citizenship on Bernardo de Galvez y Madrid, Viscount of Galveston and Count of Galvez.</summary>
+</bill>

@@ -1,0 +1,132 @@
+<bill session="113" type="h" number="1000" updated="2014-08-14T12:59:14-04:00">
+  <state datetime="2013-03-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-06"/>
+  </status>
+  <introduced datetime="2013-03-06"/>
+  <titles>
+    <title type="short" as="introduced">Humphrey-Hawkins Full Employment and Training Act</title>
+    <title type="official" as="introduced">To establish the National Full Employment Trust Fund to create employment opportunities for the unemployed.</title>
+  </titles>
+  <sponsor thomas_id="00229"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2013-12-11"/>
+    <cosponsor thomas_id="02153" joined="2013-11-21"/>
+    <cosponsor thomas_id="00091" joined="2013-05-09"/>
+    <cosponsor thomas_id="00132" joined="2013-03-12"/>
+    <cosponsor thomas_id="01564" joined="2013-07-30"/>
+    <cosponsor thomas_id="01889" joined="2013-04-24"/>
+    <cosponsor thomas_id="01970" joined="2013-07-31"/>
+    <cosponsor thomas_id="01864" joined="2013-07-31"/>
+    <cosponsor thomas_id="01654" joined="2013-04-16"/>
+    <cosponsor thomas_id="01790" joined="2013-04-12"/>
+    <cosponsor thomas_id="01878" joined="2013-04-24"/>
+    <cosponsor thomas_id="00256" joined="2013-04-16"/>
+    <cosponsor thomas_id="01477" joined="2013-10-04"/>
+    <cosponsor thomas_id="01894" joined="2013-04-16"/>
+    <cosponsor thomas_id="01857" joined="2013-04-09"/>
+    <cosponsor thomas_id="00368" joined="2013-05-16"/>
+    <cosponsor thomas_id="00371" joined="2013-05-09"/>
+    <cosponsor thomas_id="01895" joined="2013-04-09"/>
+    <cosponsor thomas_id="01803" joined="2013-04-16"/>
+    <cosponsor thomas_id="01708" joined="2013-05-09"/>
+    <cosponsor thomas_id="00478" joined="2013-04-24"/>
+    <cosponsor thomas_id="02089" joined="2013-05-09"/>
+    <cosponsor thomas_id="00511" joined="2013-04-09"/>
+    <cosponsor thomas_id="01580" joined="2013-04-09"/>
+    <cosponsor thomas_id="02101" joined="2013-07-19"/>
+    <cosponsor thomas_id="00588" joined="2013-04-24"/>
+    <cosponsor thomas_id="02149" joined="2013-11-13"/>
+    <cosponsor thomas_id="00599" joined="2013-04-16"/>
+    <cosponsor thomas_id="01843" joined="2013-04-09"/>
+    <cosponsor thomas_id="00616" joined="2014-01-29"/>
+    <cosponsor thomas_id="01501" joined="2013-04-12"/>
+    <cosponsor thomas_id="00688" joined="2013-06-04"/>
+    <cosponsor thomas_id="00766" joined="2013-04-16"/>
+    <cosponsor thomas_id="01504" joined="2013-04-16"/>
+    <cosponsor thomas_id="01506" joined="2013-05-21"/>
+    <cosponsor thomas_id="01811" joined="2013-09-26"/>
+    <cosponsor thomas_id="00832" joined="2013-04-09"/>
+    <cosponsor thomas_id="00850" joined="2013-03-20"/>
+    <cosponsor thomas_id="00854" joined="2013-10-04"/>
+    <cosponsor thomas_id="02108" joined="2014-01-07"/>
+    <cosponsor thomas_id="00867" joined="2013-07-18"/>
+    <cosponsor thomas_id="00868" joined="2013-04-12"/>
+    <cosponsor thomas_id="01510" joined="2013-10-04"/>
+    <cosponsor thomas_id="02097" joined="2013-11-12"/>
+    <cosponsor thomas_id="02171" joined="2013-05-21"/>
+    <cosponsor thomas_id="01003" joined="2013-04-16"/>
+    <cosponsor thomas_id="01588" joined="2013-05-09"/>
+    <cosponsor thomas_id="01042" joined="2013-05-09"/>
+    <cosponsor thomas_id="01818" joined="2013-10-04"/>
+    <cosponsor thomas_id="01069" joined="2013-05-09"/>
+    <cosponsor thomas_id="02110" joined="2013-07-25"/>
+    <cosponsor thomas_id="01151" joined="2013-10-04"/>
+    <cosponsor thomas_id="02166" joined="2013-10-30"/>
+    <cosponsor thomas_id="01205" joined="2013-05-16"/>
+    <cosponsor thomas_id="01879" joined="2013-10-08"/>
+    <cosponsor thomas_id="02004" joined="2013-04-09"/>
+    <cosponsor thomas_id="01853" joined="2013-10-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-06" state="REFERRED">
+      <text>Referred to the Committee on Education and the Workforce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-06">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2013-03-06">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-04-23">
+      <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+    </action>
+    <action datetime="2013-04-23">
+      <text>Referred to the Subcommittee on Workforce Protections.</text>
+    </action>
+    <action datetime="2013-04-23">
+      <text>Referred to the Subcommittee on Health, Employment, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+    <committee subcommittee="Higher Education and Workforce Training" code="HSED13" name="House Education and the Workforce" activity="Referral"/>
+    <committee subcommittee="Workforce Protections" code="HSED10" name="House Education and the Workforce" activity="Referral"/>
+    <committee subcommittee="Health, Employment, Labor, and Pensions" code="HSED02" name="House Education and the Workforce" activity="Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="870"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Alternative dispute resolution, mediation, arbitration"/>
+    <term name="Employment and training programs"/>
+    <term name="Employment discrimination and employee rights"/>
+    <term name="Financial services and investments"/>
+    <term name="Government information and archives"/>
+    <term name="Government trust funds"/>
+    <term name="Labor standards"/>
+    <term name="Labor-management relations"/>
+    <term name="Licensing and registrations"/>
+    <term name="Minority and disadvantaged businesses"/>
+    <term name="Sales and excise taxes"/>
+    <term name="Securities"/>
+    <term name="Unemployment"/>
+    <term name="Wages and earnings"/>
+    <term name="Youth employment and child labor"/>
+  </subjects>
+  <amendments/>
+  <summary>3/6/2013--Introduced.
+Humphrey-Hawkins Full Employment and Training Act - Directs the Secretary of Labor to establish a Full Employment National Trust Fund with two separate accounts for: (1) Employment Opportunity Grants to states, local governments, and Indian tribes for job-creating activities in communities whose economy is not at a level of full employment; and (2) Workforce Investment programs.
+
+Establishes arbitration procedures for resolution of disputes for grant recipients. Requires the Secretary of Labor to post a whistleblower hotline on the Department of Labor's website for the public to report noncompliance with the Act's requirements.
+
+Directs the Secretary to convene a national employment conference to bring together leaders of small, medium, and large businesses, labor, government, and other parties to discuss employment, with particular attention to structural unemployment and the plight of disadvantaged youth.
+
+Amends the Workforce Investment Act of 1998 to revise member composition requirements for state and local workforce investment boards to include at least 25% of the chief executive officers of minority-serving, community-based organizations.
+
+Amends the Internal Revenue Code to impose a tax on certain covered securities transactions, payable by trading facilities or purchasers that deal in such transactions.
+
+Requires a transferor with respect to any outbound securities transaction to deduct and withhold a tax equal to the tax imposed on covered securities transactions.</summary>
+</bill>

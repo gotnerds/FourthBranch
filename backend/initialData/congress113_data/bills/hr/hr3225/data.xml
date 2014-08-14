@@ -1,0 +1,83 @@
+<bill session="113" type="h" number="3225" updated="2014-08-14T13:18:56-04:00">
+  <state datetime="2013-10-01">REFERRED</state>
+  <status>
+    <introduced datetime="2013-10-01"/>
+  </status>
+  <introduced datetime="2013-10-01"/>
+  <titles>
+    <title type="official" as="introduced">Making continuing appropriations for veterans benefits in the event of a Government shutdown.</title>
+  </titles>
+  <sponsor thomas_id="01009"/>
+  <cosponsors>
+    <cosponsor thomas_id="02029" joined="2013-10-01"/>
+    <cosponsor thomas_id="02027" joined="2013-10-01"/>
+    <cosponsor thomas_id="01748" joined="2013-10-01"/>
+    <cosponsor thomas_id="02155" joined="2013-10-01"/>
+    <cosponsor thomas_id="01882" joined="2013-10-01"/>
+    <cosponsor thomas_id="00186" joined="2013-10-01"/>
+    <cosponsor thomas_id="00211" joined="2013-10-01"/>
+    <cosponsor thomas_id="02103" joined="2013-10-01"/>
+    <cosponsor thomas_id="02098" joined="2013-10-01"/>
+    <cosponsor thomas_id="02144" joined="2013-10-01"/>
+    <cosponsor thomas_id="02116" joined="2013-10-01"/>
+    <cosponsor thomas_id="02062" joined="2013-10-01"/>
+    <cosponsor thomas_id="02057" joined="2013-10-01"/>
+    <cosponsor thomas_id="01683" joined="2013-10-01"/>
+    <cosponsor thomas_id="01707" joined="2013-10-01"/>
+    <cosponsor thomas_id="01720" joined="2013-10-01"/>
+    <cosponsor thomas_id="01801" joined="2013-10-01"/>
+    <cosponsor thomas_id="01992" joined="2013-10-01"/>
+    <cosponsor thomas_id="01979" joined="2013-10-01"/>
+    <cosponsor thomas_id="02070" joined="2013-10-01"/>
+    <cosponsor thomas_id="02041" joined="2013-10-01"/>
+    <cosponsor thomas_id="02044" joined="2013-10-01"/>
+    <cosponsor thomas_id="02026" joined="2013-10-01"/>
+    <cosponsor thomas_id="01909" joined="2013-10-01"/>
+    <cosponsor thomas_id="00612" joined="2013-10-01"/>
+    <cosponsor thomas_id="01868" joined="2013-10-01"/>
+    <cosponsor thomas_id="02011" joined="2013-10-01"/>
+    <cosponsor thomas_id="02100" joined="2013-10-01"/>
+    <cosponsor thomas_id="01834" joined="2013-10-01"/>
+    <cosponsor thomas_id="01960" joined="2013-10-01"/>
+    <cosponsor thomas_id="01908" joined="2013-10-01"/>
+    <cosponsor thomas_id="02142" joined="2013-10-01"/>
+    <cosponsor thomas_id="02156" joined="2013-10-01"/>
+    <cosponsor thomas_id="01915" joined="2013-10-01"/>
+    <cosponsor thomas_id="01778" joined="2013-10-01"/>
+    <cosponsor thomas_id="02118" joined="2013-10-01"/>
+    <cosponsor thomas_id="01810" joined="2013-10-01"/>
+    <cosponsor thomas_id="01954" joined="2013-10-01"/>
+    <cosponsor thomas_id="00979" joined="2013-10-01"/>
+    <cosponsor thomas_id="01994" joined="2013-10-01"/>
+    <cosponsor thomas_id="01071" joined="2013-10-01"/>
+    <cosponsor thomas_id="02168" joined="2013-10-01"/>
+    <cosponsor thomas_id="02128" joined="2013-10-01"/>
+    <cosponsor thomas_id="02161" joined="2013-10-01"/>
+    <cosponsor thomas_id="02165" joined="2013-10-01"/>
+    <cosponsor thomas_id="02115" joined="2013-10-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-10-01" state="REFERRED">
+      <text>Referred to the House Committee on Appropriations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAP" name="House Appropriations" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Appropriations"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Veterans' loans, housing, homeless programs"/>
+    <term name="Veterans' medical care"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>10/1/2013--Introduced.
+Appropriates for FY2014, out of any money in the Treasury not otherwise appropriated, for any period during which interim or full-year appropriations for FY2014 are not in effect, such sums as are necessary, at a rate for operations as provided in the applicable appropriations Acts for FY2013 and under the authority and conditions provided in such Acts, to administer and furnish the compensation, pension benefits, readjustment benefits, insurance and indemnities, housing benefits, and vocational rehabilitation benefits provided for under federal veterans' benefits laws.
+
+Requires the appropriations and funds made available and authority granted pursuant to this Act to remain available until whichever of the following first occurs: (1) enactment of an appropriation (including a continuing appropriation) for any purpose for which amounts are made available in this Act, (2) enactment of the applicable regular or continuing appropriations resolution or other Act without any appropriation for such purpose, or (3) January 1, 2015.</summary>
+</bill>

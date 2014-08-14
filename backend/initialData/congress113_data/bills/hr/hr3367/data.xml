@@ -1,0 +1,138 @@
+<bill session="113" type="h" number="3367" updated="2014-08-14T13:20:08-04:00">
+  <state datetime="2013-10-29">REFERRED</state>
+  <status>
+    <introduced datetime="2013-10-29"/>
+  </status>
+  <introduced datetime="2013-10-29"/>
+  <titles>
+    <title type="official" as="introduced">To amend section 9010 of the Patient Protection and Affordable Care Act to delay the application of the health insurance provider annual fee until 2016 and to provide a process to return to consumers any amounts attributable to the expected application of the annual fee to 2014 or 2015.</title>
+  </titles>
+  <sponsor thomas_id="01787"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2014-05-01"/>
+    <cosponsor thomas_id="02093" joined="2013-11-13"/>
+    <cosponsor thomas_id="02131" joined="2014-05-28"/>
+    <cosponsor thomas_id="01780" joined="2014-05-19"/>
+    <cosponsor thomas_id="02027" joined="2014-04-01"/>
+    <cosponsor thomas_id="02102" joined="2013-10-29"/>
+    <cosponsor thomas_id="02063" joined="2014-05-01"/>
+    <cosponsor thomas_id="02129" joined="2014-06-05"/>
+    <cosponsor thomas_id="02106" joined="2014-06-05"/>
+    <cosponsor thomas_id="01840" joined="2014-07-08"/>
+    <cosponsor thomas_id="02127" joined="2014-08-01"/>
+    <cosponsor thomas_id="01676" joined="2014-06-26"/>
+    <cosponsor thomas_id="02107" joined="2014-06-19"/>
+    <cosponsor thomas_id="00186" joined="2013-12-19"/>
+    <cosponsor thomas_id="02151" joined="2014-05-28"/>
+    <cosponsor thomas_id="02098" joined="2014-05-09"/>
+    <cosponsor thomas_id="02144" joined="2014-05-09"/>
+    <cosponsor thomas_id="01989" joined="2014-07-29"/>
+    <cosponsor thomas_id="01643" joined="2014-05-19"/>
+    <cosponsor thomas_id="02125" joined="2014-03-11"/>
+    <cosponsor thomas_id="02067" joined="2014-03-24"/>
+    <cosponsor thomas_id="02061" joined="2014-07-14"/>
+    <cosponsor thomas_id="01707" joined="2013-11-12"/>
+    <cosponsor thomas_id="02120" joined="2013-12-19"/>
+    <cosponsor thomas_id="02049" joined="2013-11-12"/>
+    <cosponsor thomas_id="02043" joined="2014-06-12"/>
+    <cosponsor thomas_id="00446" joined="2014-02-26"/>
+    <cosponsor thomas_id="01992" joined="2013-11-20"/>
+    <cosponsor thomas_id="01656" joined="2014-05-01"/>
+    <cosponsor thomas_id="01990" joined="2014-04-04"/>
+    <cosponsor thomas_id="02041" joined="2014-01-27"/>
+    <cosponsor thomas_id="02044" joined="2013-12-19"/>
+    <cosponsor thomas_id="01933" joined="2014-03-24"/>
+    <cosponsor thomas_id="01921" joined="2014-04-01"/>
+    <cosponsor thomas_id="02046" joined="2014-04-10"/>
+    <cosponsor thomas_id="02199" joined="2014-05-19"/>
+    <cosponsor thomas_id="00612" joined="2013-11-12"/>
+    <cosponsor thomas_id="02154" joined="2014-07-24"/>
+    <cosponsor thomas_id="02051" joined="2014-06-17"/>
+    <cosponsor thomas_id="02169" joined="2014-07-22"/>
+    <cosponsor thomas_id="00635" joined="2014-01-27"/>
+    <cosponsor thomas_id="02145" joined="2014-05-01"/>
+    <cosponsor thomas_id="02100" joined="2014-05-09"/>
+    <cosponsor thomas_id="01885" joined="2014-05-01"/>
+    <cosponsor thomas_id="02033" joined="2014-07-16"/>
+    <cosponsor thomas_id="01943" joined="2013-12-19"/>
+    <cosponsor thomas_id="02150" joined="2014-07-22"/>
+    <cosponsor thomas_id="01671" joined="2014-03-11"/>
+    <cosponsor thomas_id="01505" joined="2014-01-28"/>
+    <cosponsor thomas_id="01809" joined="2014-04-28"/>
+    <cosponsor thomas_id="02142" joined="2014-04-28"/>
+    <cosponsor thomas_id="02052" joined="2013-12-16"/>
+    <cosponsor thomas_id="01685" joined="2014-05-09"/>
+    <cosponsor thomas_id="02059" joined="2014-05-09"/>
+    <cosponsor thomas_id="02117" joined="2013-11-15"/>
+    <cosponsor thomas_id="01710" joined="2014-05-19"/>
+    <cosponsor thomas_id="01974" joined="2013-12-12"/>
+    <cosponsor thomas_id="01930" joined="2014-06-05"/>
+    <cosponsor thomas_id="02113" joined="2013-12-09"/>
+    <cosponsor thomas_id="00912" joined="2014-04-01"/>
+    <cosponsor thomas_id="00940" joined="2013-11-20"/>
+    <cosponsor thomas_id="01982" joined="2014-07-24"/>
+    <cosponsor thomas_id="02048" joined="2014-03-24"/>
+    <cosponsor thomas_id="02073" joined="2014-03-24"/>
+    <cosponsor thomas_id="02160" joined="2014-05-09"/>
+    <cosponsor thomas_id="02017" joined="2014-04-04"/>
+    <cosponsor thomas_id="00985" joined="2014-05-28"/>
+    <cosponsor thomas_id="01848" joined="2014-07-29"/>
+    <cosponsor thomas_id="02158" joined="2014-05-28"/>
+    <cosponsor thomas_id="01009" joined="2013-11-12"/>
+    <cosponsor thomas_id="01920" joined="2014-06-12"/>
+    <cosponsor thomas_id="01994" joined="2013-11-14"/>
+    <cosponsor thomas_id="01722" joined="2014-06-26"/>
+    <cosponsor thomas_id="01527" joined="2014-06-26"/>
+    <cosponsor thomas_id="01681" joined="2014-06-19"/>
+    <cosponsor thomas_id="02099" joined="2014-04-04"/>
+    <cosponsor thomas_id="01952" joined="2014-03-25"/>
+    <cosponsor thomas_id="01664" joined="2014-03-25"/>
+    <cosponsor thomas_id="01997" joined="2014-05-09"/>
+    <cosponsor thomas_id="02105" joined="2014-03-11"/>
+    <cosponsor thomas_id="02112" joined="2013-12-04"/>
+    <cosponsor thomas_id="02137" joined="2014-01-09"/>
+    <cosponsor thomas_id="02128" joined="2014-05-19"/>
+    <cosponsor thomas_id="02002" joined="2014-05-19"/>
+    <cosponsor thomas_id="02165" joined="2014-05-09"/>
+    <cosponsor thomas_id="01688" joined="2014-05-09"/>
+    <cosponsor thomas_id="01991" joined="2014-01-16"/>
+    <cosponsor thomas_id="02115" joined="2014-06-17"/>
+    <cosponsor thomas_id="02019" joined="2014-01-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-10-29" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-10-29">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-10-29">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-11-01">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Comprehensive health care"/>
+    <term name="Consumer affairs"/>
+    <term name="Department of the Treasury"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Insurance industry and regulation"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+  <summary>10/29/2013--Introduced.
+Amends the Patient Protection and Affordable Care Act to delay until 2016 the imposition of the annual fee on health insurance providers.
+
+Requires the Secretary of the Treasury to issue guidance directing covered entities to return any amounts collected from consumers or other sources that were attributed to the annual fee that was scheduled to be imposed for 2014 and 2015.</summary>
+</bill>

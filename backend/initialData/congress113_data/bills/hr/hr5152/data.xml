@@ -1,0 +1,60 @@
+<bill session="113" type="h" number="5152" updated="2014-08-14T13:35:26-04:00">
+  <state datetime="2014-07-17">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-17"/>
+  </status>
+  <introduced datetime="2014-07-17"/>
+  <titles>
+    <title type="short" as="introduced">Savings, Accountability, Value, and Efficiency III Act of 2014</title>
+    <title type="official" as="introduced">To save the Federal Government money by reducing duplication and increasing efficiency, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02117"/>
+  <cosponsors>
+    <cosponsor thomas_id="02122" joined="2014-07-17"/>
+    <cosponsor thomas_id="02120" joined="2014-07-17"/>
+    <cosponsor thomas_id="02199" joined="2014-07-17"/>
+    <cosponsor thomas_id="02145" joined="2014-07-17"/>
+    <cosponsor thomas_id="01671" joined="2014-07-17"/>
+    <cosponsor thomas_id="02142" joined="2014-07-17"/>
+    <cosponsor thomas_id="02059" joined="2014-07-17"/>
+    <cosponsor thomas_id="02160" joined="2014-07-17"/>
+    <cosponsor thomas_id="02109" joined="2014-07-17"/>
+    <cosponsor thomas_id="02099" joined="2014-07-17"/>
+    <cosponsor thomas_id="02104" joined="2014-07-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-17" state="REFERRED">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Energy and Commerce, Armed Services, Ways and Means, and Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-07-17">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2014-07-17">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2014-07-17">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2014-07-17">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2014-07-17">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="2689"/>
+    <bill type="h" session="113" relation="unknown" number="3963"/>
+    <bill type="h" session="113" relation="unknown" number="4853"/>
+    <bill type="s" session="113" relation="unknown" number="1308"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

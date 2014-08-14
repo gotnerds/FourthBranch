@@ -1,0 +1,54 @@
+<bill session="113" type="s" number="1837" updated="2014-08-14T14:00:34-04:00">
+  <state datetime="2013-12-17">REFERRED</state>
+  <status>
+    <introduced datetime="2013-12-17"/>
+  </status>
+  <introduced datetime="2013-12-17"/>
+  <titles>
+    <title type="short" as="introduced">Equal Employment for All Act of 2013</title>
+    <title type="official" as="introduced">A bill to amend the Fair Credit Reporting Act to prohibit the use of consumer credit checks against prospective and current employees for the purposes of making adverse employment decisions.</title>
+  </titles>
+  <sponsor thomas_id="02182"/>
+  <cosponsors>
+    <cosponsor thomas_id="01558" joined="2014-04-30"/>
+    <cosponsor thomas_id="02076" joined="2013-12-17"/>
+    <cosponsor thomas_id="00116" joined="2014-04-30"/>
+    <cosponsor thomas_id="00136" joined="2013-12-17"/>
+    <cosponsor thomas_id="00326" joined="2013-12-20"/>
+    <cosponsor thomas_id="01866" joined="2014-06-11"/>
+    <cosponsor thomas_id="01844" joined="2013-12-19"/>
+    <cosponsor thomas_id="01383" joined="2013-12-17"/>
+    <cosponsor thomas_id="00735" joined="2013-12-17"/>
+    <cosponsor thomas_id="01837" joined="2014-05-08"/>
+    <cosponsor thomas_id="01010" joined="2014-06-23"/>
+    <cosponsor thomas_id="02173" joined="2013-12-18"/>
+    <cosponsor thomas_id="01901" joined="2013-12-17"/>
+    <cosponsor thomas_id="01823" joined="2013-12-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-12-17">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S8916"/>
+    </action>
+    <action datetime="2013-12-17" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="645"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Consumer credit"/>
+    <term name="Employment discrimination and employee rights"/>
+    <term name="Personnel records"/>
+  </subjects>
+  <amendments/>
+  <summary>12/17/2013--Introduced.
+Equal Employment for All Act of 2013 - Amends the Fair Credit Reporting Act to prohibit a current or prospective employer from using a consumer report or an investigative consumer report, or from causing one to be procured, for either employment purposes or for making an adverse action, if the report contains information that bears upon the consumer's creditworthiness, credit standing, or credit capacity.
+
+Makes exceptions to such prohibition when: (1) the consumer applies for, or currently holds, employment that requires a national security clearance; or (2) a consumer report is otherwise required by law.</summary>
+</bill>

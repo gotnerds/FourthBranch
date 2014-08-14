@@ -1,0 +1,106 @@
+<bill session="113" type="h" number="207" updated="2014-08-14T12:52:28-04:00">
+  <state datetime="2013-01-04">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-04"/>
+  </status>
+  <introduced datetime="2013-01-04"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to make members of health care sharing ministries eligible to establish health savings accounts.</title>
+  </titles>
+  <sponsor thomas_id="01920"/>
+  <cosponsors>
+    <cosponsor thomas_id="01858" joined="2013-01-04"/>
+    <cosponsor thomas_id="02027" joined="2013-04-09"/>
+    <cosponsor thomas_id="02135" joined="2013-05-07"/>
+    <cosponsor thomas_id="01748" joined="2013-03-15"/>
+    <cosponsor thomas_id="02155" joined="2013-04-18"/>
+    <cosponsor thomas_id="01752" joined="2013-03-05"/>
+    <cosponsor thomas_id="01925" joined="2013-04-15"/>
+    <cosponsor thomas_id="01912" joined="2013-04-09"/>
+    <cosponsor thomas_id="02144" joined="2013-03-12"/>
+    <cosponsor thomas_id="02138" joined="2013-11-20"/>
+    <cosponsor thomas_id="02126" joined="2014-02-05"/>
+    <cosponsor thomas_id="00322" joined="2013-12-04"/>
+    <cosponsor thomas_id="02125" joined="2013-09-12"/>
+    <cosponsor thomas_id="01924" joined="2013-07-19"/>
+    <cosponsor thomas_id="01683" joined="2013-05-14"/>
+    <cosponsor thomas_id="01793" joined="2013-02-26"/>
+    <cosponsor thomas_id="01707" joined="2013-04-15"/>
+    <cosponsor thomas_id="01998" joined="2013-04-26"/>
+    <cosponsor thomas_id="02049" joined="2013-04-15"/>
+    <cosponsor thomas_id="00446" joined="2013-01-15"/>
+    <cosponsor thomas_id="01990" joined="2013-09-10"/>
+    <cosponsor thomas_id="01933" joined="2013-03-04"/>
+    <cosponsor thomas_id="02026" joined="2013-01-23"/>
+    <cosponsor thomas_id="02032" joined="2014-02-05"/>
+    <cosponsor thomas_id="02020" joined="2013-01-04"/>
+    <cosponsor thomas_id="02028" joined="2013-01-04"/>
+    <cosponsor thomas_id="02015" joined="2013-07-09"/>
+    <cosponsor thomas_id="01921" joined="2013-03-13"/>
+    <cosponsor thomas_id="02046" joined="2013-03-15"/>
+    <cosponsor thomas_id="00612" joined="2013-01-04"/>
+    <cosponsor thomas_id="02051" joined="2013-07-19"/>
+    <cosponsor thomas_id="01724" joined="2013-01-04"/>
+    <cosponsor thomas_id="02014" joined="2013-05-22"/>
+    <cosponsor thomas_id="01733" joined="2013-06-14"/>
+    <cosponsor thomas_id="02011" joined="2013-06-13"/>
+    <cosponsor thomas_id="02100" joined="2013-05-07"/>
+    <cosponsor thomas_id="01834" joined="2013-09-27"/>
+    <cosponsor thomas_id="00666" joined="2013-02-12"/>
+    <cosponsor thomas_id="01781" joined="2013-02-26"/>
+    <cosponsor thomas_id="01806" joined="2013-01-15"/>
+    <cosponsor thomas_id="01804" joined="2013-01-14"/>
+    <cosponsor thomas_id="02130" joined="2013-10-24"/>
+    <cosponsor thomas_id="02060" joined="2013-05-15"/>
+    <cosponsor thomas_id="01710" joined="2013-05-09"/>
+    <cosponsor thomas_id="00910" joined="2013-05-14"/>
+    <cosponsor thomas_id="01514" joined="2013-01-04"/>
+    <cosponsor thomas_id="02022" joined="2013-04-24"/>
+    <cosponsor thomas_id="01915" joined="2013-01-04"/>
+    <cosponsor thomas_id="01778" joined="2013-03-13"/>
+    <cosponsor thomas_id="02048" joined="2013-01-22"/>
+    <cosponsor thomas_id="01954" joined="2013-01-04"/>
+    <cosponsor thomas_id="02017" joined="2013-01-23"/>
+    <cosponsor thomas_id="01848" joined="2013-04-10"/>
+    <cosponsor thomas_id="02003" joined="2013-02-12"/>
+    <cosponsor thomas_id="01009" joined="2013-02-26"/>
+    <cosponsor thomas_id="01994" joined="2013-04-26"/>
+    <cosponsor thomas_id="02009" joined="2013-05-14"/>
+    <cosponsor thomas_id="01525" joined="2013-04-18"/>
+    <cosponsor thomas_id="01527" joined="2013-03-12"/>
+    <cosponsor thomas_id="02000" joined="2013-05-14"/>
+    <cosponsor thomas_id="02047" joined="2013-02-26"/>
+    <cosponsor thomas_id="01114" joined="2013-04-09"/>
+    <cosponsor thomas_id="01981" joined="2013-03-05"/>
+    <cosponsor thomas_id="01952" joined="2013-06-28"/>
+    <cosponsor thomas_id="01997" joined="2013-04-26"/>
+    <cosponsor thomas_id="02105" joined="2013-03-20"/>
+    <cosponsor thomas_id="01855" joined="2013-01-04"/>
+    <cosponsor thomas_id="01596" joined="2013-05-20"/>
+    <cosponsor thomas_id="02161" joined="2013-07-25"/>
+    <cosponsor thomas_id="01779" joined="2013-01-04"/>
+    <cosponsor thomas_id="02021" joined="2013-03-05"/>
+    <cosponsor thomas_id="02019" joined="2014-02-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-04" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="3121"/>
+    <bill type="s" session="113" relation="unknown" number="1031"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Income tax deductions"/>
+    <term name="Religion"/>
+  </subjects>
+  <amendments/>
+  <summary>1/4/2013--Introduced.
+Amends the Internal Revenue Code to treat membership in a tax-exempt health care sharing ministry as coverage under a high deductible health plan for purposes of the tax deduction for contributions to a health savings account.</summary>
+</bill>

@@ -1,0 +1,57 @@
+<bill session="113" type="h" number="376" updated="2014-08-14T12:53:56-04:00">
+  <state datetime="2013-01-23">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-23"/>
+  </status>
+  <introduced datetime="2013-01-23"/>
+  <titles>
+    <title type="short" as="introduced">Universal Right to Vote by Mail Act of 2013</title>
+    <title type="official" as="introduced">To amend the Help America Vote Act of 2002 to allow all eligible voters to vote by mail in Federal elections.</title>
+  </titles>
+  <sponsor thomas_id="01641"/>
+  <cosponsors>
+    <cosponsor thomas_id="01740" joined="2013-02-05"/>
+    <cosponsor thomas_id="01469" joined="2013-01-23"/>
+    <cosponsor thomas_id="02106" joined="2013-02-05"/>
+    <cosponsor thomas_id="00368" joined="2013-02-05"/>
+    <cosponsor thomas_id="01708" joined="2013-02-05"/>
+    <cosponsor thomas_id="01580" joined="2013-02-12"/>
+    <cosponsor thomas_id="01634" joined="2013-01-23"/>
+    <cosponsor thomas_id="02101" joined="2013-02-06"/>
+    <cosponsor thomas_id="01583" joined="2013-02-25"/>
+    <cosponsor thomas_id="01501" joined="2013-01-23"/>
+    <cosponsor thomas_id="01846" joined="2013-02-25"/>
+    <cosponsor thomas_id="00701" joined="2013-02-25"/>
+    <cosponsor thomas_id="02111" joined="2013-04-26"/>
+    <cosponsor thomas_id="00729" joined="2013-01-23"/>
+    <cosponsor thomas_id="01814" joined="2013-05-06"/>
+    <cosponsor thomas_id="00832" joined="2013-06-25"/>
+    <cosponsor thomas_id="01602" joined="2013-02-05"/>
+    <cosponsor thomas_id="00868" joined="2013-02-12"/>
+    <cosponsor thomas_id="02113" joined="2013-02-05"/>
+    <cosponsor thomas_id="01910" joined="2013-02-12"/>
+    <cosponsor thomas_id="00930" joined="2014-06-19"/>
+    <cosponsor thomas_id="01522" joined="2013-04-24"/>
+    <cosponsor thomas_id="01635" joined="2013-02-05"/>
+    <cosponsor thomas_id="02112" joined="2013-02-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-23" state="REFERRED">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional elections"/>
+    <term name="Elections, voting, political campaign regulation"/>
+    <term name="Postal service"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>1/23/2013--Introduced.
+Universal Right to Vote by Mail Act of 2013 - Amends the Help America Vote Act of 2002 to prohibit a state from imposing additional conditions or requirements on the eligibility of an individual to cast a vote in federal elections by mail, except to the extent that it imposes a deadline for requesting the ballot and returning it to the appropriate state or local election official.</summary>
+</bill>

@@ -1,0 +1,44 @@
+<bill session="113" type="h" number="4547" updated="2014-08-14T13:30:09-04:00">
+  <state datetime="2014-05-01">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-01"/>
+  </status>
+  <introduced datetime="2014-05-01"/>
+  <titles>
+    <title type="official" as="introduced">To modify the definition of "antique firearm".</title>
+  </titles>
+  <sponsor thomas_id="01925"/>
+  <cosponsors>
+    <cosponsor thomas_id="01882" joined="2014-05-08"/>
+    <cosponsor thomas_id="02098" joined="2014-05-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-01" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-05-01">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2014-05-01">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2014-07-21">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Firearms and explosives"/>
+    <term name="Historical and cultural resources"/>
+    <term name="Sales and excise taxes"/>
+  </subjects>
+  <amendments/>
+  <summary>5/1/2014--Introduced.
+Modifies the definition of &#8220;antique firearm&#8221; under federal firearms provisions and the Internal Revenue Code to include firearms manufactured in or before 1913 (currently, 1898).</summary>
+</bill>

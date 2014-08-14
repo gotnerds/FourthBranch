@@ -1,0 +1,66 @@
+<bill session="113" type="h" number="3997" updated="2014-08-14T13:25:31-04:00">
+  <state datetime="2014-02-05">REFERRED</state>
+  <status>
+    <introduced datetime="2014-02-05"/>
+  </status>
+  <introduced datetime="2014-02-05"/>
+  <titles>
+    <title type="short" as="introduced">Social Security Administration Accountability Act of 2014</title>
+    <title type="official" as="introduced">To amend title VII of the Social Security Act to require the President to transmit the annual budget of the Social Security Administration without revisions to Congress, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01794"/>
+  <cosponsors>
+    <cosponsor thomas_id="01780" joined="2014-06-05"/>
+    <cosponsor thomas_id="01845" joined="2014-07-11"/>
+    <cosponsor thomas_id="02106" joined="2014-04-01"/>
+    <cosponsor thomas_id="01790" joined="2014-04-01"/>
+    <cosponsor thomas_id="00229" joined="2014-02-18"/>
+    <cosponsor thomas_id="00322" joined="2014-02-05"/>
+    <cosponsor thomas_id="00368" joined="2014-02-14"/>
+    <cosponsor thomas_id="00588" joined="2014-07-29"/>
+    <cosponsor thomas_id="01843" joined="2014-02-27"/>
+    <cosponsor thomas_id="02169" joined="2014-06-11"/>
+    <cosponsor thomas_id="01781" joined="2014-07-11"/>
+    <cosponsor thomas_id="02111" joined="2014-02-18"/>
+    <cosponsor thomas_id="02146" joined="2014-03-04"/>
+    <cosponsor thomas_id="01943" joined="2014-02-18"/>
+    <cosponsor thomas_id="00766" joined="2014-06-05"/>
+    <cosponsor thomas_id="01504" joined="2014-07-29"/>
+    <cosponsor thomas_id="01974" joined="2014-03-04"/>
+    <cosponsor thomas_id="00910" joined="2014-02-27"/>
+    <cosponsor thomas_id="01003" joined="2014-04-01"/>
+    <cosponsor thomas_id="01042" joined="2014-02-05"/>
+    <cosponsor thomas_id="01069" joined="2014-02-27"/>
+    <cosponsor thomas_id="01528" joined="2014-02-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-02-05" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2014-03-03">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H2858-2859"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Administrative remedies"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government information and archives"/>
+    <term name="Social Security Administration"/>
+    <term name="Social security and elderly assistance"/>
+  </subjects>
+  <amendments/>
+  <summary>2/5/2014--Introduced.
+Social Security Administration Accountability Act of 2014 - Amends title VII (Administration) of the Social Security Act to require the Commissioner of Social Security to submit an annual budget estimate of the Social Security Administration (SSA) (instead of a budget) directly to Congress and the President (instead of first to the President, who would submit it to Congress).
+
+Revises requirements for the general contents of the SSA budget, requiring inclusion of the number of cases pending at each hearing office and the average processing time.
+
+Prohibits the Commissioner from closing or consolidating SSA field or hearing offices, or otherwise limiting public access to one, until 180 days after submitting to specified congressional committees a detailed report outlining and justifying the process for selecting field offices to be closed, consolidated, or otherwise have limited access.
+
+Prohibits the Commissioner from closing an SSA field or hearing office, consolidating two or more such offices, or otherwise imposing any new limitation on public access to any such office unless the Commissioner follows certain administrative procedures.</summary>
+</bill>

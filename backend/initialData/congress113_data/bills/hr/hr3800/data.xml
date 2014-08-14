@@ -1,0 +1,38 @@
+<bill session="113" type="h" number="3800" updated="2014-08-14T13:23:52-04:00">
+  <state datetime="2013-12-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-12-19"/>
+  </status>
+  <introduced datetime="2013-12-19"/>
+  <titles>
+    <title type="official" as="introduced">To name the Department of Veterans Affairs outpatient clinic in Ewa Plain, Oahu, Hawaii, as the "Daniel Kahikina Akaka Department of Veterans Affairs Outpatient Clinic".</title>
+  </titles>
+  <sponsor thomas_id="02010"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-12-19" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2014-01-03">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Health" code="HSVR03" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Hawaii"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Members of Congress"/>
+    <term name="Senate"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>12/19/2013--Introduced.
+Designates the Department of Veterans Affairs (VA) outpatient clinic in Ewa Plain, Oahu, Hawaii, as the "Daniel Kahikina Akaka Department of Veterans Affairs Outpatient Clinic."</summary>
+</bill>

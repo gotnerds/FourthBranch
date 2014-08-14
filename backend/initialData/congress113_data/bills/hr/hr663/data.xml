@@ -1,0 +1,36 @@
+<bill session="113" type="h" number="663" updated="2014-08-14T12:56:23-04:00">
+  <state datetime="2013-02-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-13"/>
+  </status>
+  <introduced datetime="2013-02-13"/>
+  <titles>
+    <title type="short" as="introduced">Carson National Forest Boundary Adjustment Act</title>
+    <title type="official" as="introduced">To adjust the boundary of the Carson National Forest, New Mexico.</title>
+  </titles>
+  <sponsor thomas_id="01939"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-02-13" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-02-22">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee subcommittee="Public Lands and Environmental Regulation" code="HSII10" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="312"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="New Mexico"/>
+  </subjects>
+  <amendments/>
+  <summary>2/13/2013--Introduced.
+Carson National Forest Boundary Adjustment Act - Adjusts the boundary of the Carson National Forest in New Mexico to incorporate approximately 4,990 acres of land identified as the Miranda Canyon Boundary.</summary>
+</bill>

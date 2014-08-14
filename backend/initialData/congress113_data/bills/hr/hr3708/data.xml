@@ -1,0 +1,174 @@
+<bill session="113" type="h" number="3708" updated="2014-08-14T13:23:06-04:00">
+  <state datetime="2013-12-11">REFERRED</state>
+  <status>
+    <introduced datetime="2013-12-11"/>
+  </status>
+  <introduced datetime="2013-12-11"/>
+  <titles>
+    <title type="short" as="introduced">General Aviation Pilot Protection Act of 2013</title>
+    <title type="official" as="introduced">To direct the Administrator of the Federal Aviation Administration to issue or revise regulations with respect to the medical certification of certain small aircraft pilots, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02017"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2014-03-10"/>
+    <cosponsor thomas_id="00038" joined="2014-01-27"/>
+    <cosponsor thomas_id="02054" joined="2014-05-01"/>
+    <cosponsor thomas_id="02131" joined="2014-04-03"/>
+    <cosponsor thomas_id="01780" joined="2014-01-21"/>
+    <cosponsor thomas_id="02063" joined="2014-03-24"/>
+    <cosponsor thomas_id="01748" joined="2014-04-08"/>
+    <cosponsor thomas_id="01845" joined="2014-05-22"/>
+    <cosponsor thomas_id="02155" joined="2014-02-14"/>
+    <cosponsor thomas_id="01987" joined="2014-03-24"/>
+    <cosponsor thomas_id="02129" joined="2014-03-04"/>
+    <cosponsor thomas_id="01882" joined="2014-03-18"/>
+    <cosponsor thomas_id="01840" joined="2014-05-22"/>
+    <cosponsor thomas_id="02018" joined="2014-02-26"/>
+    <cosponsor thomas_id="02127" joined="2014-07-23"/>
+    <cosponsor thomas_id="02197" joined="2014-07-31"/>
+    <cosponsor thomas_id="01889" joined="2014-03-12"/>
+    <cosponsor thomas_id="02159" joined="2014-07-30"/>
+    <cosponsor thomas_id="00186" joined="2014-03-26"/>
+    <cosponsor thomas_id="02151" joined="2013-12-23"/>
+    <cosponsor thomas_id="01805" joined="2014-01-07"/>
+    <cosponsor thomas_id="02144" joined="2014-03-12"/>
+    <cosponsor thomas_id="01989" joined="2014-03-24"/>
+    <cosponsor thomas_id="01643" joined="2014-04-02"/>
+    <cosponsor thomas_id="02138" joined="2014-05-19"/>
+    <cosponsor thomas_id="02126" joined="2014-02-26"/>
+    <cosponsor thomas_id="01995" joined="2014-03-26"/>
+    <cosponsor thomas_id="02116" joined="2014-03-24"/>
+    <cosponsor thomas_id="02062" joined="2014-03-12"/>
+    <cosponsor thomas_id="02123" joined="2014-03-27"/>
+    <cosponsor thomas_id="02072" joined="2014-03-21"/>
+    <cosponsor thomas_id="02057" joined="2014-02-14"/>
+    <cosponsor thomas_id="00322" joined="2014-01-15"/>
+    <cosponsor thomas_id="02114" joined="2014-05-08"/>
+    <cosponsor thomas_id="02067" joined="2014-03-27"/>
+    <cosponsor thomas_id="01797" joined="2014-03-26"/>
+    <cosponsor thomas_id="02061" joined="2014-02-14"/>
+    <cosponsor thomas_id="02065" joined="2013-12-11"/>
+    <cosponsor thomas_id="01683" joined="2014-06-18"/>
+    <cosponsor thomas_id="01793" joined="2014-03-26"/>
+    <cosponsor thomas_id="00414" joined="2014-01-27"/>
+    <cosponsor thomas_id="01737" joined="2014-05-15"/>
+    <cosponsor thomas_id="02043" joined="2014-02-26"/>
+    <cosponsor thomas_id="01801" joined="2014-04-02"/>
+    <cosponsor thomas_id="00446" joined="2014-04-28"/>
+    <cosponsor thomas_id="01992" joined="2014-06-30"/>
+    <cosponsor thomas_id="01656" joined="2013-12-11"/>
+    <cosponsor thomas_id="01979" joined="2014-02-05"/>
+    <cosponsor thomas_id="01990" joined="2014-02-25"/>
+    <cosponsor thomas_id="02070" joined="2014-02-14"/>
+    <cosponsor thomas_id="01922" joined="2014-01-27"/>
+    <cosponsor thomas_id="00484" joined="2014-01-21"/>
+    <cosponsor thomas_id="02044" joined="2013-12-11"/>
+    <cosponsor thomas_id="02026" joined="2014-07-30"/>
+    <cosponsor thomas_id="02032" joined="2014-01-13"/>
+    <cosponsor thomas_id="02020" joined="2013-12-23"/>
+    <cosponsor thomas_id="02028" joined="2014-05-06"/>
+    <cosponsor thomas_id="02015" joined="2014-03-24"/>
+    <cosponsor thomas_id="02069" joined="2014-03-12"/>
+    <cosponsor thomas_id="01640" joined="2014-07-22"/>
+    <cosponsor thomas_id="01921" joined="2014-03-11"/>
+    <cosponsor thomas_id="02046" joined="2013-12-12"/>
+    <cosponsor thomas_id="02199" joined="2014-07-10"/>
+    <cosponsor thomas_id="00612" joined="2014-03-24"/>
+    <cosponsor thomas_id="01868" joined="2014-05-06"/>
+    <cosponsor thomas_id="02154" joined="2014-06-24"/>
+    <cosponsor thomas_id="02014" joined="2013-12-12"/>
+    <cosponsor thomas_id="01907" joined="2014-04-08"/>
+    <cosponsor thomas_id="01733" joined="2014-01-09"/>
+    <cosponsor thomas_id="02100" joined="2014-04-02"/>
+    <cosponsor thomas_id="01885" joined="2014-02-26"/>
+    <cosponsor thomas_id="01781" joined="2014-06-02"/>
+    <cosponsor thomas_id="01846" joined="2014-03-21"/>
+    <cosponsor thomas_id="00701" joined="2014-05-27"/>
+    <cosponsor thomas_id="02033" joined="2013-12-16"/>
+    <cosponsor thomas_id="01806" joined="2013-12-23"/>
+    <cosponsor thomas_id="02094" joined="2014-03-24"/>
+    <cosponsor thomas_id="01908" joined="2014-03-26"/>
+    <cosponsor thomas_id="01653" joined="2014-07-31"/>
+    <cosponsor thomas_id="01792" joined="2014-01-13"/>
+    <cosponsor thomas_id="01505" joined="2014-03-12"/>
+    <cosponsor thomas_id="02142" joined="2014-04-30"/>
+    <cosponsor thomas_id="02130" joined="2014-03-04"/>
+    <cosponsor thomas_id="00800" joined="2014-04-04"/>
+    <cosponsor thomas_id="01731" joined="2014-07-31"/>
+    <cosponsor thomas_id="01685" joined="2014-03-18"/>
+    <cosponsor thomas_id="01758" joined="2014-04-28"/>
+    <cosponsor thomas_id="00867" joined="2014-03-26"/>
+    <cosponsor thomas_id="01974" joined="2014-05-29"/>
+    <cosponsor thomas_id="01738" joined="2013-12-12"/>
+    <cosponsor thomas_id="02157" joined="2014-07-25"/>
+    <cosponsor thomas_id="00910" joined="2013-12-11"/>
+    <cosponsor thomas_id="00912" joined="2014-02-18"/>
+    <cosponsor thomas_id="02171" joined="2014-07-14"/>
+    <cosponsor thomas_id="01802" joined="2014-04-08"/>
+    <cosponsor thomas_id="02022" joined="2013-12-11"/>
+    <cosponsor thomas_id="01915" joined="2014-03-12"/>
+    <cosponsor thomas_id="02073" joined="2014-03-26"/>
+    <cosponsor thomas_id="01954" joined="2014-02-05"/>
+    <cosponsor thomas_id="01704" joined="2013-12-23"/>
+    <cosponsor thomas_id="00979" joined="2014-03-05"/>
+    <cosponsor thomas_id="02003" joined="2014-01-27"/>
+    <cosponsor thomas_id="01756" joined="2014-05-15"/>
+    <cosponsor thomas_id="01892" joined="2014-06-11"/>
+    <cosponsor thomas_id="01920" joined="2014-02-05"/>
+    <cosponsor thomas_id="01950" joined="2014-01-09"/>
+    <cosponsor thomas_id="01994" joined="2014-03-12"/>
+    <cosponsor thomas_id="01525" joined="2014-03-21"/>
+    <cosponsor thomas_id="01590" joined="2014-05-15"/>
+    <cosponsor thomas_id="01860" joined="2014-04-04"/>
+    <cosponsor thomas_id="01075" joined="2013-12-12"/>
+    <cosponsor thomas_id="02000" joined="2014-06-12"/>
+    <cosponsor thomas_id="01981" joined="2014-03-12"/>
+    <cosponsor thomas_id="01566" joined="2014-01-09"/>
+    <cosponsor thomas_id="01664" joined="2014-02-25"/>
+    <cosponsor thomas_id="01997" joined="2014-02-05"/>
+    <cosponsor thomas_id="01177" joined="2014-01-07"/>
+    <cosponsor thomas_id="02105" joined="2014-06-11"/>
+    <cosponsor thomas_id="01855" joined="2014-04-28"/>
+    <cosponsor thomas_id="01596" joined="2014-05-15"/>
+    <cosponsor thomas_id="02128" joined="2014-03-11"/>
+    <cosponsor thomas_id="02161" joined="2014-04-28"/>
+    <cosponsor thomas_id="02152" joined="2014-04-04"/>
+    <cosponsor thomas_id="01779" joined="2013-12-23"/>
+    <cosponsor thomas_id="02165" joined="2014-02-05"/>
+    <cosponsor thomas_id="02021" joined="2014-01-13"/>
+    <cosponsor thomas_id="02115" joined="2014-05-08"/>
+    <cosponsor thomas_id="01256" joined="2013-12-23"/>
+    <cosponsor thomas_id="02019" joined="2014-03-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-12-11" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2013-12-12">
+      <text>Referred to the Subcommittee on Aviation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Aviation" code="HSPW05" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2103"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Aviation and airports"/>
+    <term name="Department of Transportation"/>
+    <term name="Licensing and registrations"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Transportation employees"/>
+    <term name="Transportation safety and security"/>
+    <term name="Worker safety and health"/>
+  </subjects>
+  <amendments/>
+  <summary>12/11/2013--Introduced.
+General Aviation Pilot Protection Act of 2013 - Directs the Administrator of the Federal Aviation Administration (FAA) to issue or revise FAA medical certification regulations to ensure that an individual may operate as a pilot of a covered aircraft without regard to any medical certification or proof of health requirement otherwise applicable under federal law if the flight meets certain criteria and the individual: (1) possesses a valid state driver's license, (2) complies with applicable medical requirements associated with that license, (3) is transporting five or fewer passengers, and (4) is operating under visual flight rules.
+
+Defines "covered aircraft" as an aircraft that: (1) is not authorized under federal law to carry more than six occupants, and (2) has a maximum certificated takeoff weight of no more than 6,000 pounds.</summary>
+</bill>

@@ -1,0 +1,139 @@
+<bill session="113" type="h" number="437" updated="2014-08-14T12:54:28-04:00">
+  <state datetime="2013-01-29">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-29"/>
+  </status>
+  <introduced datetime="2013-01-29"/>
+  <titles>
+    <title type="short" as="introduced">Assault Weapons Ban of 2013</title>
+    <title type="official" as="introduced">To regulate assault weapons, to ensure that the right to keep and bear arms is not unlimited, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01503"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2013-03-04"/>
+    <cosponsor thomas_id="01740" joined="2013-01-29"/>
+    <cosponsor thomas_id="00099" joined="2013-01-29"/>
+    <cosponsor thomas_id="01469" joined="2013-01-29"/>
+    <cosponsor thomas_id="01564" joined="2013-05-06"/>
+    <cosponsor thomas_id="01999" joined="2013-01-29"/>
+    <cosponsor thomas_id="02159" joined="2013-01-29"/>
+    <cosponsor thomas_id="01474" joined="2013-03-15"/>
+    <cosponsor thomas_id="01970" joined="2013-02-05"/>
+    <cosponsor thomas_id="02055" joined="2013-01-29"/>
+    <cosponsor thomas_id="02196" joined="2014-02-25"/>
+    <cosponsor thomas_id="01864" joined="2013-05-06"/>
+    <cosponsor thomas_id="01878" joined="2013-01-29"/>
+    <cosponsor thomas_id="00229" joined="2013-01-29"/>
+    <cosponsor thomas_id="01836" joined="2013-02-05"/>
+    <cosponsor thomas_id="01641" joined="2013-04-11"/>
+    <cosponsor thomas_id="01479" joined="2013-01-29"/>
+    <cosponsor thomas_id="00281" joined="2013-01-29"/>
+    <cosponsor thomas_id="01976" joined="2013-01-29"/>
+    <cosponsor thomas_id="00316" joined="2013-09-18"/>
+    <cosponsor thomas_id="01857" joined="2013-04-11"/>
+    <cosponsor thomas_id="00355" joined="2013-01-29"/>
+    <cosponsor thomas_id="02114" joined="2013-01-29"/>
+    <cosponsor thomas_id="02119" joined="2013-01-29"/>
+    <cosponsor thomas_id="01895" joined="2013-02-05"/>
+    <cosponsor thomas_id="01708" joined="2013-01-29"/>
+    <cosponsor thomas_id="02089" joined="2013-01-29"/>
+    <cosponsor thomas_id="02010" joined="2014-05-06"/>
+    <cosponsor thomas_id="01794" joined="2013-02-05"/>
+    <cosponsor thomas_id="01913" joined="2013-01-29"/>
+    <cosponsor thomas_id="01580" joined="2013-01-29"/>
+    <cosponsor thomas_id="02101" joined="2013-01-29"/>
+    <cosponsor thomas_id="01663" joined="2013-09-18"/>
+    <cosponsor thomas_id="00588" joined="2013-01-29"/>
+    <cosponsor thomas_id="02149" joined="2013-04-11"/>
+    <cosponsor thomas_id="02172" joined="2013-01-29"/>
+    <cosponsor thomas_id="01668" joined="2013-03-04"/>
+    <cosponsor thomas_id="01583" joined="2013-01-29"/>
+    <cosponsor thomas_id="01501" joined="2013-09-11"/>
+    <cosponsor thomas_id="00683" joined="2013-01-29"/>
+    <cosponsor thomas_id="00701" joined="2013-01-29"/>
+    <cosponsor thomas_id="02111" joined="2013-01-29"/>
+    <cosponsor thomas_id="00709" joined="2013-01-29"/>
+    <cosponsor thomas_id="01686" joined="2013-03-04"/>
+    <cosponsor thomas_id="00729" joined="2013-01-29"/>
+    <cosponsor thomas_id="00735" joined="2013-02-05"/>
+    <cosponsor thomas_id="01814" joined="2013-01-29"/>
+    <cosponsor thomas_id="01653" joined="2013-01-29"/>
+    <cosponsor thomas_id="00766" joined="2013-03-04"/>
+    <cosponsor thomas_id="01504" joined="2013-01-29"/>
+    <cosponsor thomas_id="01506" joined="2013-01-29"/>
+    <cosponsor thomas_id="02148" joined="2013-01-29"/>
+    <cosponsor thomas_id="00808" joined="2013-01-29"/>
+    <cosponsor thomas_id="01811" joined="2013-03-04"/>
+    <cosponsor thomas_id="00832" joined="2013-01-29"/>
+    <cosponsor thomas_id="00850" joined="2013-01-29"/>
+    <cosponsor thomas_id="01602" joined="2013-04-11"/>
+    <cosponsor thomas_id="00868" joined="2013-04-11"/>
+    <cosponsor thomas_id="00887" joined="2013-01-29"/>
+    <cosponsor thomas_id="01510" joined="2013-01-29"/>
+    <cosponsor thomas_id="01835" joined="2013-01-29"/>
+    <cosponsor thomas_id="02113" joined="2014-06-20"/>
+    <cosponsor thomas_id="01927" joined="2013-03-21"/>
+    <cosponsor thomas_id="02171" joined="2013-02-05"/>
+    <cosponsor thomas_id="00930" joined="2013-03-21"/>
+    <cosponsor thomas_id="01967" joined="2013-01-29"/>
+    <cosponsor thomas_id="01588" joined="2013-01-29"/>
+    <cosponsor thomas_id="01635" joined="2013-01-29"/>
+    <cosponsor thomas_id="01037" joined="2013-01-29"/>
+    <cosponsor thomas_id="01042" joined="2013-01-29"/>
+    <cosponsor thomas_id="01861" joined="2013-06-12"/>
+    <cosponsor thomas_id="01526" joined="2013-01-29"/>
+    <cosponsor thomas_id="01818" joined="2013-01-29"/>
+    <cosponsor thomas_id="01069" joined="2013-01-29"/>
+    <cosponsor thomas_id="01528" joined="2013-03-04"/>
+    <cosponsor thomas_id="01890" joined="2013-01-29"/>
+    <cosponsor thomas_id="02104" joined="2013-01-29"/>
+    <cosponsor thomas_id="02110" joined="2013-01-29"/>
+    <cosponsor thomas_id="01535" joined="2013-01-29"/>
+    <cosponsor thomas_id="01942" joined="2013-06-12"/>
+    <cosponsor thomas_id="01884" joined="2013-01-29"/>
+    <cosponsor thomas_id="01729" joined="2013-01-29"/>
+    <cosponsor thomas_id="01209" joined="2013-03-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-29" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-02-28">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, And Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="150"/>
+    <bill type="s" session="113" relation="unknown" number="691"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Criminal procedure and sentencing"/>
+    <term name="Department of Justice"/>
+    <term name="Firearms and explosives"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Retail and wholesale trades"/>
+    <term name="Trade restrictions"/>
+  </subjects>
+  <amendments/>
+  <summary>1/29/2013--Introduced.
+Assault Weapons Ban of 2013 - Amends the federal criminal code to ban the import, sale, manufacture, transfer, or possession of a semiautomatic assault weapon, including:
+
+ a semiautomatic rifle that can accept a detachable magazine and has any one of the following characteristics: (1) a pistol grip; (2) a forward grip; (3) a folding, telescoping, or detachable stock; (4) a grenade or rocket launcher; (5) a barrel shroud; or (6) a threaded barrel; a semiautomatic rife or pistol with a fixed magazine that can accept more than 10 rounds; a semiautomatic pistol that can accept a detachable magazine and has any one of the following characteristics: (1) a threaded barrel, (2) a second pistol grip, (3) a barrel shroud; (4) the capacity to accept a detachable magazine at some location outside of the pistol grip, or (5) a semiautomatic version of an automatic firearm; a semiautomatic shotgun that has any one of the following characteristics: (1) a folding, telescoping, or detachable stock; (2) a pistol grip; (3) a fixed magazine that can accept more than five rounds; (4) the ability to accept a detachable magazine; (5) a forward grip; or (6) a grenade or rocket launcher; a shotgun with a revolving cylinder; firearms that are specifically listed as prohibited by this Act and copies, duplicates, variants, or altered facsimiles with the capability of any such weapon; all belt-fed semiautomatic firearms; any combination of parts from which any such prohibited firearm can be assembled; and the frame or receiver of a prohibited rifle or shotgun. Excludes from such ban any semiautomatic assault weapon that: (1) is lawfully possessed on the date of enactment of this Act (grandfathered weapon); (2) is manually operated by bolt, pump, lever, or slide action; (3) has been rendered permanently inoperable; (4) is an antique firearm; or (5) is used for law enforcement or security purposes or for testing or experimentation authorized by the Attorney General.
+
+Identifies, by make and model, firearms that are specifically exempted from the ban imposed by this Act.
+
+Requires the Attorney General to establish and maintain a record of the make, model, and date of manufacture of any semiautomatic assault weapon which the Attorney General is made aware has been used in relation to a crime under federal or state law.
+
+Makes it unlawful to: (1) import, sell, manufacture, transfer, or possess a large capacity ammunition feeding device (generally, a device that can accept more than 10 rounds of ammunition); or (2) store or keep any grandfathered semiautomatic weapon that may become accessible by an individual who is prohibited from receiving or possessing such a weapon. Requires identification markings (i.e., serial number and the date of manufacture) on semiautomatic assault weapons and large capacity ammunition feeding devices. Provides for the seizure and forfeiture of prohibited large capacity ammunition feeding devices.
+
+Makes it unlawful for an unlicensed individual to transfer a grandfathered semiautomatic weapon to another unlicensed individual, unless a licensed importer, manufacturer, or dealer: (1) has first taken custody of the weapon for the purpose of complying with existing background check requirements; and (2) upon taking custody, complies with all firearms requirements as if the licensee were transferring the weapon from the licensee's inventory to the unlicensed transferee. Sets forth exceptions.
+
+Amends the Omnibus Crime Control and Safe Streets Act of 1968 to allow the use of Edward Byrne Memorial Justice Assistance Grant Program funds to pay compensation to individuals who surrender semiautomatic assault weapons and large capacity ammunition feeding devices under a buy-back program.</summary>
+</bill>

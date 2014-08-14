@@ -1,0 +1,55 @@
+<bill session="113" type="h" number="4382" updated="2014-08-14T13:28:47-04:00">
+  <state datetime="2014-04-02">REFERRED</state>
+  <status>
+    <introduced datetime="2014-04-02"/>
+  </status>
+  <introduced datetime="2014-04-02"/>
+  <titles>
+    <title type="official" as="introduced">To streamline the collection and distribution of government information.</title>
+  </titles>
+  <sponsor thomas_id="02155"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2014-04-08"/>
+    <cosponsor thomas_id="01742" joined="2014-04-08"/>
+    <cosponsor thomas_id="01807" joined="2014-04-02"/>
+    <cosponsor thomas_id="02116" joined="2014-04-09"/>
+    <cosponsor thomas_id="02050" joined="2014-04-09"/>
+    <cosponsor thomas_id="01960" joined="2014-04-09"/>
+    <cosponsor thomas_id="01930" joined="2014-04-09"/>
+    <cosponsor thomas_id="02022" joined="2014-08-01"/>
+    <cosponsor thomas_id="02073" joined="2014-05-06"/>
+    <cosponsor thomas_id="01892" joined="2014-05-08"/>
+    <cosponsor thomas_id="02161" joined="2014-04-09"/>
+    <cosponsor thomas_id="02115" joined="2014-04-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-04-02" state="REFERRED">
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="2014-04-21">
+      <text>Referred to the Subcommittee on Research and Technology.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+    <committee subcommittee="Research and Technology" code="HSSY15" name="House Science, Space, and Technology" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2206"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Commerce"/>
+    <term name="Economic performance and conditions"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="General science and technology matters"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+  </subjects>
+  <amendments/>
+  <summary>4/2/2014--Introduced.
+Repeals the National Technical Information Act of 1988, effective one year after the enactment of this Act (thus abolishes the National Technical Information Service [NTIS]).
+
+Directs: (1) the Secretary of Commerce, the Archivist of the United States, the Comptroller General (GAO), and the Commissioner of Social Security to consult with the Director of the Office of Management and Budget (OMB) to determine if any NTIS function is critical to the U.S. economy; (2) the Comptroller General to determine which of any such critical functions are not being carried out by any other agency or instrumentality of the federal government; and (3) the Secretary of Commerce, prior to the effective date of this Act, to submit to the House Committee on Energy and Commerce and the Senate Committee on Finance a written certification that all NTIS operations have been terminated.</summary>
+</bill>

@@ -1,0 +1,136 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-02-10", 
+      "committees": [
+        "HSIF"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Energy and Commerce.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-02-14", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Commerce, Manufacturing, and Trade.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4023-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Energy and Commerce", 
+      "committee_id": "HSIF", 
+      "subcommittee": "Subcommittee on Commerce, Manufacturing, and Trade", 
+      "subcommittee_id": "17"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "17", 
+      "name": "Cartwright, Matt", 
+      "sponsored_at": "2014-07-23", 
+      "state": "PA", 
+      "thomas_id": "02159", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Chaffetz, Jason", 
+      "sponsored_at": "2014-02-10", 
+      "state": "UT", 
+      "thomas_id": "01956", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "3", 
+      "name": "Jones, Walter B., Jr.", 
+      "sponsored_at": "2014-03-25", 
+      "state": "NC", 
+      "thomas_id": "00612", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "8", 
+      "name": "Moran, James P.", 
+      "sponsored_at": "2014-03-25", 
+      "state": "VA", 
+      "thomas_id": "00832", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-02-10", 
+  "number": "4023", 
+  "official_title": "To promote competition and help consumers save money by giving them the freedom to choose where they buy prescription pet medications, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Fairness to Pet Owners Act of 2014", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Matheson, Jim", 
+    "state": "UT", 
+    "thomas_id": "01671", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-02-10", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Civil actions and liability", 
+    "Commerce", 
+    "Consumer affairs", 
+    "Federal Trade Commission (FTC)", 
+    "Medical ethics", 
+    "Prescription drugs", 
+    "Veterinary medicine and animal diseases"
+  ], 
+  "subjects_top_term": "Commerce", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-02-10", 
+    "text": "Fairness to Pet Owners Act of 2014 - Requires the Federal Trade Commission (FTC) to promulgate rules relating to veterinary prescriptions that: (1) require the prescriber of an animal drug to provide a copy of the prescription to the pet owner before offering to fill it or dispensing it and, upon request, to a pharmacy or any other person designated to act on behalf of the pet owner; (2) prohibit such a prescriber from requiring, as a condition for providing a copy of such prescription, purchase of the drug from the prescriber or another person, a payment as part of or in addition to the examination fee, or the signing by or delivery to the pet owner of a notice waiving or disclaiming liability of the prescriber for the accuracy of the prescription; and (3) permit the prescriber to require payment of fees for an examination before providing a prescription, but only if the prescriber requires immediate payment in the case of an examination that reveals no requirement for an animal drug.\n\n Defines \"veterinary prescription\" to exclude an animal drug administered by the veterinarian in the course of providing acute care.\n\nMakes this Act applicable only to medication for a domesticated household animal that the federal government prevents consumers from purchasing without a prescription.\n\nRequires a violation of this Act to be treated as a an unfair or deceptive act or practice under the Federal Trade Commission Act."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Fairness to Pet Owners Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To promote competition and help consumers save money by giving them the freedom to choose where they buy prescription pet medications, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T13:25:44-04:00"
+}

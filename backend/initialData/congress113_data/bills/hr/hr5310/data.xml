@@ -1,0 +1,27 @@
+<bill session="113" type="h" number="5310" updated="2014-08-14T13:36:48-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="short" as="introduced">Protecting Independence in the Education of Loan Originators Act of 2014</title>
+    <title type="official" as="introduced">To amend the S.A.F.E. Mortgage Licensing Act of 2008 to specify that courses offered by lenders for their own employees may not satisfy the pre-licensing education or continuing education requirement.</title>
+  </titles>
+  <sponsor thomas_id="01584"/>
+  <cosponsors>
+    <cosponsor thomas_id="00729" joined="2014-07-31"/>
+    <cosponsor thomas_id="01503" joined="2014-08-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

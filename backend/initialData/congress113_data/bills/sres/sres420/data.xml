@@ -1,0 +1,39 @@
+<bill session="113" type="sr" number="420" updated="2014-08-14T13:43:23-04:00">
+  <state datetime="2014-04-10">REFERRED</state>
+  <status>
+    <introduced datetime="2014-04-10"/>
+  </status>
+  <introduced datetime="2014-04-10"/>
+  <titles>
+    <title type="official" as="introduced">A resolution designating the week of October 6 through October 12, 2014, as "Naturopathic Medicine Week" to recognize the value of naturopathic medicine in providing safe, effective, and affordable health care.</title>
+  </titles>
+  <sponsor thomas_id="00802"/>
+  <cosponsors>
+    <cosponsor thomas_id="00501" joined="2014-04-10"/>
+    <cosponsor thomas_id="02185" joined="2014-07-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-04-10" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S2386-2387" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="113" relation="unknown" number="211"/>
+    <bill type="hr" session="113" relation="unknown" number="508"/>
+    <bill type="sr" session="113" relation="unknown" number="135"/>
+    <bill type="sr" session="113" relation="unknown" number="221"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Alternative treatments"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Health promotion and preventive care"/>
+  </subjects>
+  <amendments/>
+  <summary>4/10/2014--Introduced.
+Designates the week of October 6-12, 2014, as Naturopathic Medicine Week. Recognizes the value of naturopathic medicine in providing safe, effective, and affordable health care.</summary>
+</bill>

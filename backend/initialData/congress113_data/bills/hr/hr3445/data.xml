@@ -1,0 +1,51 @@
+<bill session="113" type="h" number="3445" updated="2014-08-14T13:20:48-04:00">
+  <state datetime="2013-10-30">REFERRED</state>
+  <status>
+    <introduced datetime="2013-10-30"/>
+  </status>
+  <introduced datetime="2013-10-30"/>
+  <titles>
+    <title type="short" as="introduced">Stop Deducting Damages Act of 2013</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to disallow deductions for the payment of compensatory and punitive damages to a government, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01879"/>
+  <cosponsors>
+    <cosponsor thomas_id="01889" joined="2013-11-15"/>
+    <cosponsor thomas_id="02055" joined="2013-11-21"/>
+    <cosponsor thomas_id="01878" joined="2014-03-05"/>
+    <cosponsor thomas_id="00229" joined="2013-11-21"/>
+    <cosponsor thomas_id="00279" joined="2013-11-21"/>
+    <cosponsor thomas_id="01857" joined="2013-11-15"/>
+    <cosponsor thomas_id="01708" joined="2013-11-15"/>
+    <cosponsor thomas_id="00478" joined="2013-10-30"/>
+    <cosponsor thomas_id="02101" joined="2013-11-21"/>
+    <cosponsor thomas_id="01843" joined="2013-11-21"/>
+    <cosponsor thomas_id="00616" joined="2014-01-17"/>
+    <cosponsor thomas_id="02134" joined="2013-11-15"/>
+    <cosponsor thomas_id="01781" joined="2013-11-21"/>
+    <cosponsor thomas_id="00808" joined="2013-12-04"/>
+    <cosponsor thomas_id="01927" joined="2013-11-21"/>
+    <cosponsor thomas_id="01003" joined="2013-12-04"/>
+    <cosponsor thomas_id="01588" joined="2013-12-04"/>
+    <cosponsor thomas_id="01861" joined="2013-12-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-10-30" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Civil actions and liability"/>
+    <term name="Income tax deductions"/>
+    <term name="Income tax exclusion"/>
+    <term name="Life, casualty, property insurance"/>
+  </subjects>
+  <amendments/>
+  <summary>10/30/2013--Introduced.
+Stop Deducting Damages Act of 2013 - Amends the Internal Revenue Code to: (1) deny a tax deduction for any amount paid or incurred for compensatory or punitive damages in connection with any judgment in, or settlement of, any action against a government; and (2) include in gross income any amount paid as insurance or otherwise due to liability for punitive damages.</summary>
+</bill>

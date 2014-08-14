@@ -1,0 +1,54 @@
+<bill session="113" type="hr" number="689" updated="2014-08-14T12:50:29-04:00">
+  <state datetime="2014-07-25">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-25"/>
+  </status>
+  <introduced datetime="2014-07-25"/>
+  <titles>
+    <title type="official" as="introduced">Supporting an end to the ethnic and politically fueled violence in South Sudan and the successful implementation of a transitional government.</title>
+  </titles>
+  <sponsor thomas_id="01501"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2014-07-25"/>
+    <cosponsor thomas_id="01564" joined="2014-07-25"/>
+    <cosponsor thomas_id="00229" joined="2014-07-29"/>
+    <cosponsor thomas_id="01604" joined="2014-07-29"/>
+    <cosponsor thomas_id="00316" joined="2014-07-31"/>
+    <cosponsor thomas_id="00344" joined="2014-07-25"/>
+    <cosponsor thomas_id="00566" joined="2014-07-25"/>
+    <cosponsor thomas_id="00588" joined="2014-07-30"/>
+    <cosponsor thomas_id="00688" joined="2014-07-29"/>
+    <cosponsor thomas_id="01804" joined="2014-07-25"/>
+    <cosponsor thomas_id="01811" joined="2014-07-30"/>
+    <cosponsor thomas_id="00868" joined="2014-07-30"/>
+    <cosponsor thomas_id="02097" joined="2014-07-30"/>
+    <cosponsor thomas_id="00944" joined="2014-07-30"/>
+    <cosponsor thomas_id="01003" joined="2014-07-30"/>
+    <cosponsor thomas_id="02099" joined="2014-07-30"/>
+    <cosponsor thomas_id="01205" joined="2014-08-01"/>
+    <cosponsor thomas_id="01238" joined="2014-07-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-25" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>7/25/2014--Introduced.
+Supports the people of South Sudan and the region.
+
+ Condemns attacks on civilians and civilian humanitarian assistance workers.
+
+Urges the President to work with the international community to provide technical support to the African Union Commission of Inquiry into human rights abuses, and to consider creation of a tribunal to ensure those responsible for civilian attacks and grave human rights abuses are held accountable.
+
+Emphasizes the need for the government of South Sudan and the Sudan People's Liberation Movement in Opposition to implement the January 23, 2014, cessation of hostilities agreement.
+
+Encourages the government of South Sudan to implement the June 10, 2014, transitional government agreement.
+
+Supports the Intergovernmental Authority on Development's mediation efforts.</summary>
+</bill>

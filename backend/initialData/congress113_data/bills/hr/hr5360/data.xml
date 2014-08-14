@@ -1,0 +1,70 @@
+<bill session="113" type="h" number="5360" updated="2014-08-14T13:37:14-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="official" as="introduced">To enhance the competitiveness of American manufacturers and exports in the global marketplace by providing tax relief, regulatory relief, liability relief, and ensuring access to abundant and affordable supplies of energy, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02059"/>
+  <cosponsors>
+    <cosponsor thomas_id="01987" joined="2014-07-31"/>
+    <cosponsor thomas_id="00186" joined="2014-07-31"/>
+    <cosponsor thomas_id="01989" joined="2014-07-31"/>
+    <cosponsor thomas_id="02116" joined="2014-07-31"/>
+    <cosponsor thomas_id="00322" joined="2014-07-31"/>
+    <cosponsor thomas_id="01749" joined="2014-07-31"/>
+    <cosponsor thomas_id="02028" joined="2014-07-31"/>
+    <cosponsor thomas_id="02015" joined="2014-07-31"/>
+    <cosponsor thomas_id="01868" joined="2014-07-31"/>
+    <cosponsor thomas_id="02100" joined="2014-07-31"/>
+    <cosponsor thomas_id="01834" joined="2014-07-31"/>
+    <cosponsor thomas_id="01908" joined="2014-07-31"/>
+    <cosponsor thomas_id="01778" joined="2014-07-31"/>
+    <cosponsor thomas_id="01954" joined="2014-07-31"/>
+    <cosponsor thomas_id="01994" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, the Budget, the Judiciary, Rules, Natural Resources, Transportation and Infrastructure, and Science, Space, and Technology, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Budget</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Rules</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Science, Space, and Technology</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee subcommittee="" code="HSBU" name="House Budget" activity="Referral"/>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="" code="HSRU" name="House Rules" activity="Referral"/>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="" code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

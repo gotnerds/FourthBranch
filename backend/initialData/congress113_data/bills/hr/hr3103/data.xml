@@ -1,0 +1,99 @@
+<bill session="113" type="h" number="3103" updated="2014-08-14T13:17:54-04:00">
+  <state datetime="2013-09-16">REFERRED</state>
+  <status>
+    <introduced datetime="2013-09-16"/>
+  </status>
+  <introduced datetime="2013-09-16"/>
+  <titles>
+    <title type="short" as="introduced">Intelligence Oversight and Accountability Act of 2013</title>
+    <title type="official" as="introduced">To amend the Foreign Intelligence Surveillance Act of 1978 to modify the reporting requirements for decisions of the Foreign Intelligence Surveillance Court.</title>
+  </titles>
+  <sponsor thomas_id="01593"/>
+  <cosponsors>
+    <cosponsor thomas_id="01858" joined="2013-09-20"/>
+    <cosponsor thomas_id="00038" joined="2013-09-20"/>
+    <cosponsor thomas_id="01996" joined="2013-09-19"/>
+    <cosponsor thomas_id="02106" joined="2013-11-15"/>
+    <cosponsor thomas_id="00165" joined="2013-10-03"/>
+    <cosponsor thomas_id="01970" joined="2013-09-19"/>
+    <cosponsor thomas_id="01878" joined="2013-10-11"/>
+    <cosponsor thomas_id="01805" joined="2013-09-20"/>
+    <cosponsor thomas_id="00229" joined="2013-09-30"/>
+    <cosponsor thomas_id="02096" joined="2013-09-19"/>
+    <cosponsor thomas_id="01976" joined="2013-09-20"/>
+    <cosponsor thomas_id="02125" joined="2013-09-26"/>
+    <cosponsor thomas_id="00355" joined="2013-09-26"/>
+    <cosponsor thomas_id="02067" joined="2013-09-30"/>
+    <cosponsor thomas_id="01683" joined="2013-09-16"/>
+    <cosponsor thomas_id="00478" joined="2013-09-16"/>
+    <cosponsor thomas_id="02010" joined="2013-09-18"/>
+    <cosponsor thomas_id="02040" joined="2013-09-19"/>
+    <cosponsor thomas_id="01913" joined="2013-09-19"/>
+    <cosponsor thomas_id="01909" joined="2013-09-19"/>
+    <cosponsor thomas_id="00588" joined="2013-09-19"/>
+    <cosponsor thomas_id="00612" joined="2013-09-18"/>
+    <cosponsor thomas_id="00635" joined="2013-09-26"/>
+    <cosponsor thomas_id="01668" joined="2013-09-18"/>
+    <cosponsor thomas_id="01885" joined="2013-10-16"/>
+    <cosponsor thomas_id="00699" joined="2013-09-16"/>
+    <cosponsor thomas_id="00701" joined="2013-09-19"/>
+    <cosponsor thomas_id="01832" joined="2013-09-18"/>
+    <cosponsor thomas_id="01685" joined="2013-09-18"/>
+    <cosponsor thomas_id="00850" joined="2013-10-03"/>
+    <cosponsor thomas_id="01710" joined="2013-09-23"/>
+    <cosponsor thomas_id="02162" joined="2013-10-11"/>
+    <cosponsor thomas_id="00893" joined="2013-09-19"/>
+    <cosponsor thomas_id="01802" joined="2013-09-20"/>
+    <cosponsor thomas_id="02022" joined="2013-09-19"/>
+    <cosponsor thomas_id="01967" joined="2013-09-30"/>
+    <cosponsor thomas_id="01651" joined="2013-09-27"/>
+    <cosponsor thomas_id="01916" joined="2013-09-18"/>
+    <cosponsor thomas_id="01728" joined="2013-09-27"/>
+    <cosponsor thomas_id="01588" joined="2013-09-19"/>
+    <cosponsor thomas_id="01635" joined="2013-09-19"/>
+    <cosponsor thomas_id="01037" joined="2013-09-19"/>
+    <cosponsor thomas_id="01988" joined="2013-09-19"/>
+    <cosponsor thomas_id="01590" joined="2013-09-18"/>
+    <cosponsor thomas_id="01155" joined="2013-09-18"/>
+    <cosponsor thomas_id="01779" joined="2013-09-26"/>
+    <cosponsor thomas_id="01886" joined="2013-10-10"/>
+    <cosponsor thomas_id="01238" joined="2013-09-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-16" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Intelligence (Permanent Select), for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-09-16">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2013-09-16">
+      <text>Referred to House Intelligence</text>
+      <reference ref="Permanent Select"/>
+    </action>
+    <action datetime="2013-10-15">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="" code="HLIG" name="House Intelligence (Permanent Select)" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="4291"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional oversight"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="Judicial procedure and administration"/>
+    <term name="Specialized courts"/>
+  </subjects>
+  <amendments/>
+  <summary>9/16/2013--Introduced.
+Intelligence Oversight and Accountability Act of 2013 - Amends the Foreign Intelligence Surveillance Act of 1978 (FISA) to revise congressional reporting requirements with respect to FISA court decisions.
+
+Requires the Attorney General (DOJ), within 45 days after the Foreign Intelligence Surveillance Court or the Foreign Intelligence Surveillance Court of Review issues a decision, order, or opinion that includes a denial or modification of a request for an order, or that results in a change of application or a new application of FISA, to submit to Congress a copy of such decision and any associated pleadings, applications, or memoranda of law. (Currently, the Attorney General submits such materials only with respect to decisions that the Attorney General determines are a significant construction or interpretation of FISA.)
+
+Directs the Attorney General to include with such court documents a brief statement (a summary) of the relevant background factual information, questions of law, legal analysis, and decision rendered.</summary>
+</bill>

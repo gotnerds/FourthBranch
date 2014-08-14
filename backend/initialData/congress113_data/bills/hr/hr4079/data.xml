@@ -1,0 +1,66 @@
+<bill session="113" type="h" number="4079" updated="2014-08-14T13:26:12-04:00">
+  <state datetime="2014-02-25">REFERRED</state>
+  <status>
+    <introduced datetime="2014-02-25"/>
+  </status>
+  <introduced datetime="2014-02-25"/>
+  <titles>
+    <title type="short" as="introduced">Songwriter Equity Act of 2014</title>
+    <title type="official" as="introduced">To amend title 17, United States Code, to ensure fairness in the establishment of certain rates and fees under sections 114 and 115 of such title, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02121"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2014-05-20"/>
+    <cosponsor thomas_id="02063" joined="2014-05-21"/>
+    <cosponsor thomas_id="01748" joined="2014-02-25"/>
+    <cosponsor thomas_id="01469" joined="2014-04-03"/>
+    <cosponsor thomas_id="02107" joined="2014-05-09"/>
+    <cosponsor thomas_id="01970" joined="2014-03-26"/>
+    <cosponsor thomas_id="02055" joined="2014-05-06"/>
+    <cosponsor thomas_id="00211" joined="2014-05-28"/>
+    <cosponsor thomas_id="01878" joined="2014-04-09"/>
+    <cosponsor thomas_id="00231" joined="2014-05-07"/>
+    <cosponsor thomas_id="01976" joined="2014-05-06"/>
+    <cosponsor thomas_id="01707" joined="2014-03-26"/>
+    <cosponsor thomas_id="01743" joined="2014-03-04"/>
+    <cosponsor thomas_id="01990" joined="2014-04-09"/>
+    <cosponsor thomas_id="02149" joined="2014-02-26"/>
+    <cosponsor thomas_id="02111" joined="2014-05-28"/>
+    <cosponsor thomas_id="01778" joined="2014-05-21"/>
+    <cosponsor thomas_id="01954" joined="2014-04-09"/>
+    <cosponsor thomas_id="01916" joined="2014-06-11"/>
+    <cosponsor thomas_id="00997" joined="2014-05-09"/>
+    <cosponsor thomas_id="01635" joined="2014-05-02"/>
+    <cosponsor thomas_id="01988" joined="2014-04-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-02-25" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2014-03-20">
+      <text>Referred to the Subcommittee on Courts, Intellectual Property, and the Internet.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Courts, Intellectual Property, and the Internet" code="HSJU03" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="2321"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Contracts and agency"/>
+    <term name="Intellectual property"/>
+    <term name="Judges"/>
+    <term name="Music"/>
+    <term name="Sound recording"/>
+  </subjects>
+  <amendments/>
+  <summary>2/25/2014--Introduced.
+Songwriter Equity Act of 2014 - Amends federal copyright law regarding the exclusive rights of sound recording copyright owners to remove a provision that prohibits license fees payable for the public performance of sound recordings, by means of a digital audio transmission, from being taken into account in any administrative, judicial, or other governmental proceeding to set or adjust the royalties payable to copyright owners of musical works for the public performance of their works.
+
+Requires Copyright Royalty Judges (CRJs), when setting royalty rates under the compulsory license available for the reproduction and distribution of musical works (commonly referred to as a "mechanical license"), to establish rates and terms that most clearly represent the rates and terms that would have been negotiated in the marketplace between a willing buyer and seller.
+
+Requires CRJs, in establishing such rates and terms, to base their decision on marketplace, economic, and use information presented by the participants. Allows consideration of comparable uses and circumstances under voluntary license agreements.</summary>
+</bill>

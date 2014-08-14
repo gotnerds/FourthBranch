@@ -1,0 +1,66 @@
+<bill session="113" type="hr" number="170" updated="2014-08-14T12:46:05-04:00">
+  <state datetime="2013-04-18">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-18"/>
+  </status>
+  <introduced datetime="2013-04-18"/>
+  <titles>
+    <title type="official" as="introduced">Recognizing the Falkland Islands referendum in favor of retaining their status as a British Overseas Territory.</title>
+  </titles>
+  <sponsor thomas_id="01717"/>
+  <cosponsors>
+    <cosponsor thomas_id="01723" joined="2013-04-18"/>
+    <cosponsor thomas_id="01816" joined="2013-04-18"/>
+    <cosponsor thomas_id="02098" joined="2013-05-08"/>
+    <cosponsor thomas_id="01643" joined="2014-06-23"/>
+    <cosponsor thomas_id="00367" joined="2013-04-18"/>
+    <cosponsor thomas_id="02070" joined="2013-04-18"/>
+    <cosponsor thomas_id="00484" joined="2013-04-18"/>
+    <cosponsor thomas_id="01794" joined="2013-04-18"/>
+    <cosponsor thomas_id="02143" joined="2013-04-18"/>
+    <cosponsor thomas_id="01806" joined="2013-04-18"/>
+    <cosponsor thomas_id="01804" joined="2013-07-16"/>
+    <cosponsor thomas_id="01505" joined="2013-04-18"/>
+    <cosponsor thomas_id="02130" joined="2013-06-14"/>
+    <cosponsor thomas_id="00832" joined="2014-06-23"/>
+    <cosponsor thomas_id="00912" joined="2013-04-18"/>
+    <cosponsor thomas_id="01802" joined="2013-04-18"/>
+    <cosponsor thomas_id="00979" joined="2014-06-18"/>
+    <cosponsor thomas_id="01916" joined="2014-06-18"/>
+    <cosponsor thomas_id="00985" joined="2013-04-18"/>
+    <cosponsor thomas_id="01848" joined="2013-04-18"/>
+    <cosponsor thomas_id="01756" joined="2013-04-18"/>
+    <cosponsor thomas_id="01635" joined="2014-06-18"/>
+    <cosponsor thomas_id="01041" joined="2013-04-18"/>
+    <cosponsor thomas_id="01525" joined="2013-04-25"/>
+    <cosponsor thomas_id="01114" joined="2013-04-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-18" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2013-06-07">
+      <text>Referred to the Subcommittee on Europe, Eurasia, and Emerging Threats.</text>
+    </action>
+    <action datetime="2013-06-07">
+      <text>Referred to the Subcommittee on the Western Hemisphere.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee subcommittee="Europe, Eurasia, and Emerging Threats" code="HSFA14" name="House Foreign Affairs" activity="Referral"/>
+    <committee subcommittee="Western Hemisphere" code="HSFA07" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Argentina"/>
+    <term name="Europe"/>
+    <term name="Latin America"/>
+    <term name="Sovereignty, recognition, national governance and status"/>
+    <term name="United Kingdom"/>
+  </subjects>
+  <amendments/>
+  <summary>4/18/2013--Introduced.
+Expresses the sense of the House of Representatives that: (1) the United States recognizes that the Falkland Islands referendum reflects the freely expressed and democratic views of the Falkland Islanders, (2) the Falkland Islands have expressed their desire to remain a self-governing British Overseas Territory, and (3) the views and rights of the Falkland Islanders should be taken into account in any discussion on the Falkland Islands' future.</summary>
+</bill>

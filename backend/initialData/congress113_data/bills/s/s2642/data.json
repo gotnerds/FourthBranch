@@ -1,0 +1,120 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-22", 
+      "references": [
+        {
+          "reference": "CR S4708-4709", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-22", 
+      "committees": [
+        "SSHR"
+      ], 
+      "references": [
+        {
+          "reference": "CR S4709-4713", 
+          "type": "text of measure as introduced"
+        }
+      ], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2642-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Brown, Sherrod", 
+      "sponsored_at": "2014-07-22", 
+      "state": "OH", 
+      "thomas_id": "00136", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Markey, Edward J.", 
+      "sponsored_at": "2014-07-28", 
+      "state": "MA", 
+      "thomas_id": "00735", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Warren, Elizabeth", 
+      "sponsored_at": "2014-07-22", 
+      "state": "MA", 
+      "thomas_id": "02182", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-07-22", 
+  "number": "2642", 
+  "official_title": "A bill to permit employees to request changes to their work schedules without fear of retaliation, and to ensure that employers consider these requests; and to require employers to provide more predictable and stable schedules for employees in certain growing low-wage occupations, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr5159-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Schedules That Work Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Harkin, Tom", 
+    "state": "IA", 
+    "thomas_id": "00501", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-07-22", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Schedules That Work Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to permit employees to request changes to their work schedules without fear of retaliation, and to ensure that employers consider these requests; and to require employers to provide more predictable and stable schedules for employees in certain growing low-wage occupations, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T14:07:19-04:00"
+}

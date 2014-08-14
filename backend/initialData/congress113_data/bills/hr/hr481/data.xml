@@ -1,0 +1,54 @@
+<bill session="113" type="h" number="481" updated="2014-08-14T12:54:50-04:00">
+  <state datetime="2013-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-04"/>
+  </status>
+  <introduced datetime="2013-02-04"/>
+  <titles>
+    <title type="official" as="introduced">To direct the Secretary of Veterans Affairs to accept certain documents as proof of service in determining the eligibility of an individual to receive amounts from the Filipino Veterans Equity Compensation Fund, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02040"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2013-05-07"/>
+    <cosponsor thomas_id="01723" joined="2013-03-12"/>
+    <cosponsor thomas_id="02103" joined="2013-04-11"/>
+    <cosponsor thomas_id="02125" joined="2013-03-13"/>
+    <cosponsor thomas_id="00766" joined="2013-06-12"/>
+    <cosponsor thomas_id="00778" joined="2013-05-09"/>
+    <cosponsor thomas_id="02108" joined="2013-04-11"/>
+    <cosponsor thomas_id="02162" joined="2013-04-11"/>
+    <cosponsor thomas_id="01114" joined="2013-04-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-04" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-02-05">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H348"/>
+    </action>
+    <action datetime="2013-02-08">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee subcommittee="Disability Assistance and Memorial Affairs" code="HSVR09" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Administrative remedies"/>
+    <term name="Asia"/>
+    <term name="Conflicts and wars"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Evidence and witnesses"/>
+    <term name="Philippines"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/2013--Introduced.
+Amends the American Recovery and Reinvestment Act of 2009 to direct the Secretary of Veterans Affairs (VA) to accept any of the following as proof of service in determining the eligibility of an individual to receive amounts from the Filipino Veterans Equity Compensation Fund: (1) the name of the eligible person included on the Approved Revised Reconstructed Guerilla Roster (commonly known as the "Missouri List"); (2) documents included in the claims folder of the eligible person that prove such service, including an affidavit from the government of the Philippines certifying such service; or (3) any other documents issued or accepted by the government of the Philippines as proof of such service.
+
+Authorizes the Secretary to make a payment to such an individual filing a claim within 180 days after the enactment of this Act.</summary>
+</bill>

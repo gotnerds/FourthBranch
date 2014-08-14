@@ -1,0 +1,54 @@
+<bill session="113" type="s" number="1211" updated="2014-08-14T13:55:15-04:00">
+  <state datetime="2013-06-20">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-20"/>
+  </status>
+  <introduced datetime="2013-06-20"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to prohibit the use of the phrases GI Bill and Post-9/11 GI Bill to give a false impression of approval or endorsement by the Department of Veterans Affairs.</title>
+  </titles>
+  <sponsor thomas_id="00116"/>
+  <cosponsors>
+    <cosponsor thomas_id="01898" joined="2013-06-20"/>
+    <cosponsor thomas_id="02076" joined="2013-06-20"/>
+    <cosponsor thomas_id="00174" joined="2013-06-20"/>
+    <cosponsor thomas_id="00179" joined="2013-06-20"/>
+    <cosponsor thomas_id="01332" joined="2013-06-20"/>
+    <cosponsor thomas_id="01969" joined="2013-06-20"/>
+    <cosponsor thomas_id="01866" joined="2013-06-25"/>
+    <cosponsor thomas_id="01902" joined="2013-06-20"/>
+    <cosponsor thomas_id="00501" joined="2013-06-20"/>
+    <cosponsor thomas_id="00604" joined="2013-07-11"/>
+    <cosponsor thomas_id="00802" joined="2013-06-20"/>
+    <cosponsor thomas_id="02173" joined="2013-06-20"/>
+    <cosponsor thomas_id="01829" joined="2013-07-08"/>
+    <cosponsor thomas_id="02182" joined="2013-07-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-20" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-10-30">
+      <text>Committee on Veterans' Affairs. Hearings held. Hearings printed: S.Hrg. 113-280.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1950"/>
+    <bill type="s" session="113" relation="unknown" number="1982"/>
+    <bill type="s" session="113" relation="unknown" number="2413"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Civil actions and liability"/>
+    <term name="Consumer affairs"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Marketing and advertising"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+  </subjects>
+  <amendments/>
+  <summary>6/20/2013--Introduced.
+Prohibits any person, except with written permission from the Secretary of Veterans Affairs, from using the phrases "GI Bill" and "Post-9/11 GI Bill" in connection with any promotion, goods, services, or commercial activity in a manner that reasonably and falsely suggests that such use is approved, endorsed, or authorized by the Department of Veterans Affairs (VA).</summary>
+</bill>

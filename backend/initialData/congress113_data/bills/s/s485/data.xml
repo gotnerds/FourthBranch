@@ -1,0 +1,41 @@
+<bill session="113" type="s" number="485" updated="2014-08-14T13:48:51-04:00">
+  <state datetime="2013-03-07">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-07"/>
+  </status>
+  <introduced datetime="2013-03-07"/>
+  <titles>
+    <title type="official" as="introduced">A bill to exempt certain class A CDL drivers from the requirement to obtain a hazardous material endorsement while operating a service vehicle with a fuel tank containing 3,785 liters (1,000 gallons) or less of diesel fuel.</title>
+  </titles>
+  <sponsor thomas_id="00968"/>
+  <cosponsors>
+    <cosponsor thomas_id="02174" joined="2013-03-07"/>
+    <cosponsor thomas_id="02079" joined="2013-03-11"/>
+    <cosponsor thomas_id="01899" joined="2013-03-07"/>
+    <cosponsor thomas_id="01507" joined="2013-03-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-07" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="1026"/>
+    <bill type="h" session="113" relation="unknown" number="1026"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="General agriculture matters"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Licensing and registrations"/>
+    <term name="Motor fuels"/>
+    <term name="Motor vehicles"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>3/7/2013--Introduced.
+Directs the Secretary of Transportation (DOT) to exempt from the requirement to obtain a hazardous material (hazmat) endorsement all class A commercial driver's license (CDL) holders who are custom harvesters, agricultural retailers, agricultural business employees, agricultural cooperative employees, or agricultural producers who operate a service vehicle with a fuel tank containing 3,785 liters (1,000) gallons or less of diesel fuel if the tank is clearly marked with a placard reading "Diesel Fuel."</summary>
+</bill>

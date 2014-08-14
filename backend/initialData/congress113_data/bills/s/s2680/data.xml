@@ -1,0 +1,29 @@
+<bill session="113" type="s" number="2680" updated="2014-08-14T14:07:38-04:00">
+  <state datetime="2014-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-29"/>
+  </status>
+  <introduced datetime="2014-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Buy it in America Act</title>
+    <title type="official" as="introduced">A bill to direct the Secretary of Commerce to establish a voluntary program under which manufacturers may have products certified as meeting the standards of labels that indicate to consumers the extent to which the products are manufactured in the United States, to amend the Internal Revenue Code of 1986 to allow a credit against income tax for equity investments in small business concerns, to establish small business savings accounts, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01701"/>
+  <cosponsors>
+    <cosponsor thomas_id="02198" joined="2014-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-29" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="4931"/>
+    <bill type="s" session="113" relation="unknown" number="2497"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

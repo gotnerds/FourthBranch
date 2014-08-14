@@ -1,0 +1,103 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-05", 
+      "committees": [
+        "SSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2445-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Blumenthal, Richard", 
+      "sponsored_at": "2014-06-16", 
+      "state": "CT", 
+      "thomas_id": "02076", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Feinstein, Dianne", 
+      "sponsored_at": "2014-06-05", 
+      "state": "CA", 
+      "thomas_id": "01332", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-06-05", 
+  "number": "2445", 
+  "official_title": "A bill to provide family members and close associates of an individual who they fear is a danger to himself, herself, or others new tools to prevent gun violence.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr4806-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Pause for Safety Act of 2014", 
+  "sponsor": {
+    "district": null, 
+    "name": "Boxer, Barbara", 
+    "state": "CA", 
+    "thomas_id": "00116", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-06-05", 
+  "subjects": [
+    "Crime and law enforcement", 
+    "Crime prevention", 
+    "Criminal justice information and records", 
+    "Firearms and explosives", 
+    "Law enforcement administration and funding", 
+    "State and local government operations", 
+    "Violent crime"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Pause for Safety Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to provide family members and close associates of an individual who they fear is a danger to himself, herself, or others new tools to prevent gun violence.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T14:05:40-04:00"
+}

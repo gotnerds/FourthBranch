@@ -1,0 +1,44 @@
+<bill session="113" type="h" number="1969" updated="2014-08-14T13:08:03-04:00">
+  <state datetime="2013-05-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-14"/>
+  </status>
+  <introduced datetime="2013-05-14"/>
+  <titles>
+    <title type="short" as="introduced">Children of Fallen Heroes Scholarship Act of 2013</title>
+    <title type="official" as="introduced">To increase Federal Pell Grants for the children of fallen police officers, firefighters, and other public safety officers.</title>
+  </titles>
+  <sponsor thomas_id="01797"/>
+  <cosponsors>
+    <cosponsor thomas_id="02041" joined="2013-05-14"/>
+    <cosponsor thomas_id="02025" joined="2013-05-14"/>
+    <cosponsor thomas_id="00635" joined="2013-05-14"/>
+    <cosponsor thomas_id="02001" joined="2013-05-14"/>
+    <cosponsor thomas_id="01929" joined="2013-05-14"/>
+    <cosponsor thomas_id="01798" joined="2013-05-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-14" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2013-07-08">
+      <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+    <committee subcommittee="Higher Education and Workforce Training" code="HSED13" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Family relationships"/>
+    <term name="First responders and emergency personnel"/>
+    <term name="Higher education"/>
+    <term name="Law enforcement officers"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+  <summary>5/14/2013--Introduced.
+Children of Fallen Heroes Scholarship Act of 2013 - Amends the Higher Educaton Act of 1965 to eliminate the expected family contribution used in determining Pell Grant eligibility in the case of a student applicant whose parent or guardian died as a result of performing service as a police officer, firefighter, or other public safety officer.</summary>
+</bill>

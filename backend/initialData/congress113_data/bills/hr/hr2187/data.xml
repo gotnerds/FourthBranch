@@ -1,0 +1,59 @@
+<bill session="113" type="h" number="2187" updated="2014-08-14T13:09:58-04:00">
+  <state datetime="2013-05-23">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-23"/>
+  </status>
+  <introduced datetime="2013-05-23"/>
+  <titles>
+    <title type="short" as="introduced">SALUTE Act</title>
+    <title type="short" as="introduced">Servicemember Assistance for Lawful Understanding, Treatment, and Education Act</title>
+    <title type="official" as="introduced">To amend the Omnibus Crime Control and Safe Streets Act of 1968 to authorize veterans' treatment courts and encourage services for veterans.</title>
+  </titles>
+  <sponsor thomas_id="02052"/>
+  <cosponsors>
+    <cosponsor thomas_id="02093" joined="2013-07-18"/>
+    <cosponsor thomas_id="02018" joined="2013-05-23"/>
+    <cosponsor thomas_id="01999" joined="2013-05-23"/>
+    <cosponsor thomas_id="02133" joined="2013-05-23"/>
+    <cosponsor thomas_id="00371" joined="2013-05-23"/>
+    <cosponsor thomas_id="02041" joined="2013-05-23"/>
+    <cosponsor thomas_id="01974" joined="2013-05-23"/>
+    <cosponsor thomas_id="02048" joined="2013-05-23"/>
+    <cosponsor thomas_id="01756" joined="2013-10-10"/>
+    <cosponsor thomas_id="02021" joined="2013-05-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-23" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-06-14">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Congressional oversight"/>
+    <term name="Criminal procedure and sentencing"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Government studies and investigations"/>
+    <term name="Mental health"/>
+    <term name="Specialized courts"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Veterans' loans, housing, homeless programs"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>5/23/2013--Introduced.
+Servicemember Assistance for Lawful Understanding, Treatment, and Education Act or the SALUTE Act - Amends the Omnibus Crime Control and Safe Streets Act of 1968 to authorize the Attorney General to award grants for developing, implementing, or enhancing veterans' treatment courts or expanding operational mental health or drug courts to serve veterans to ensure that such courts effectively integrate substance abuse treatment, mental health treatment, sanctions and incentives, and transitional services, in a judicially supervised court setting with jurisdiction over offenders who are veterans.
+
+Authorizes the Attorney General to award such grants to states, state courts, local courts, local governments, and Indian tribal governments for court programs that involve: (1) continuing judicial supervision over offenders who are veterans with substance abuse or mental health problems, (2) coordination with appropriate federal, state, or local prosecutors; (3) coordination with the Veterans Health Administration; and (4) the integrated administration of other sanctions and services, including substance abuse and mental health treatment, supervised release involving the possibility of prosecution, confinement, or incarceration based on non-compliance with program requirements or failure to show satisfactory progress, and offender management. Prohibits the use of grant funds to provide judicial supervision over, treatment of, or other services to violent offenders.
+
+Sets forth application and reporting requirements.
+
+Directs the Comptroller General to conduct a study to assess the effectiveness and impact of such grant program.</summary>
+</bill>

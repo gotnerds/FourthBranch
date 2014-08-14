@@ -1,0 +1,42 @@
+<bill session="113" type="h" number="5375" updated="2014-08-14T13:37:21-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 38, United States Code, to improve the enforcement of employment and reemployment rights of members of the uniformed services, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01798"/>
+  <cosponsors>
+    <cosponsor thomas_id="02092" joined="2014-07-31"/>
+    <cosponsor thomas_id="01469" joined="2014-07-31"/>
+    <cosponsor thomas_id="02159" joined="2014-07-31"/>
+    <cosponsor thomas_id="01959" joined="2014-07-31"/>
+    <cosponsor thomas_id="01836" joined="2014-07-31"/>
+    <cosponsor thomas_id="00316" joined="2014-07-31"/>
+    <cosponsor thomas_id="00371" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Referred to the Committee on Veterans' Affairs, and in addition to the Committees on Armed Services, and Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Veterans' Affairs</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

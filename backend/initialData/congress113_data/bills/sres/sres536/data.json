@@ -1,0 +1,135 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-08-01", 
+      "how": "by Unanimous Consent", 
+      "references": [
+        {
+          "reference": "CR S5330", 
+          "type": "consideration"
+        }, 
+        {
+          "reference": "CR S5326", 
+          "type": "text as passed Senate"
+        }
+      ], 
+      "result": "pass", 
+      "status": "PASSED:SIMPLERES", 
+      "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.", 
+      "type": "vote", 
+      "vote_type": "vote", 
+      "where": "s"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "sres536-113", 
+  "bill_type": "sres", 
+  "by_request": false, 
+  "committees": [], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Ayotte, Kelly", 
+      "sponsored_at": "2014-08-01", 
+      "state": "NH", 
+      "thomas_id": "02075", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Baldwin, Tammy", 
+      "sponsored_at": "2014-08-01", 
+      "state": "WI", 
+      "thomas_id": "01558", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Heller, Dean", 
+      "sponsored_at": "2014-08-01", 
+      "state": "NV", 
+      "thomas_id": "01863", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Moran, Jerry", 
+      "sponsored_at": "2014-08-01", 
+      "state": "KS", 
+      "thomas_id": "01507", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Warner, Mark R.", 
+      "sponsored_at": "2014-08-01", 
+      "state": "VA", 
+      "thomas_id": "01897", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-08-01", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "senate_passage_result": "pass", 
+    "senate_passage_result_at": "2014-08-01", 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-08-01", 
+  "number": "536", 
+  "official_title": "A resolution designating September 2014 as \"National Ovarian Cancer Awareness Month\".", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hres301-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hres697-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "sres205-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": null, 
+  "sponsor": {
+    "district": null, 
+    "name": "Stabenow, Debbie", 
+    "state": "MI", 
+    "thomas_id": "01531", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "PASSED:SIMPLERES", 
+  "status_at": "2014-08-01", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": {
+    "as": "Passed Senate without amendment", 
+    "date": "2014-08-01", 
+    "text": "Designates September 2014 as National Ovarian Cancer Awareness Month and expresses support for the goals and ideals of National Ovarian Cancer Awareness Month."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A resolution designating September 2014 as \"National Ovarian Cancer Awareness Month\".", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T13:44:21-04:00"
+}

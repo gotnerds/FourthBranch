@@ -1,0 +1,25 @@
+<bill session="113" type="h" number="5397" updated="2014-08-14T13:37:32-04:00">
+  <state datetime="2014-08-01">REFERRED</state>
+  <status>
+    <introduced datetime="2014-08-01"/>
+  </status>
+  <introduced datetime="2014-08-01"/>
+  <titles>
+    <title type="official" as="introduced">To modify the boundary of Yosemite National Park, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01908"/>
+  <cosponsors>
+    <cosponsor thomas_id="01753" joined="2014-08-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-08-01" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

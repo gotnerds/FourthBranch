@@ -1,0 +1,99 @@
+<bill session="113" type="h" number="1432" updated="2014-08-14T13:02:54-04:00">
+  <state datetime="2013-04-09">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-09"/>
+  </status>
+  <introduced datetime="2013-04-09"/>
+  <titles>
+    <title type="short" as="introduced">Air Traffic Control Tower Funding Restoration Act</title>
+    <title type="official" as="introduced">To amend the Consolidated and Further Continuing Appropriations Act, 2013, to modify the amounts appropriated for the Federal Aviation Administration, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02098"/>
+  <cosponsors>
+    <cosponsor thomas_id="01858" joined="2013-04-16"/>
+    <cosponsor thomas_id="02054" joined="2013-04-26"/>
+    <cosponsor thomas_id="02027" joined="2013-04-16"/>
+    <cosponsor thomas_id="01753" joined="2013-04-18"/>
+    <cosponsor thomas_id="00091" joined="2013-04-16"/>
+    <cosponsor thomas_id="01468" joined="2013-04-18"/>
+    <cosponsor thomas_id="01845" joined="2013-04-09"/>
+    <cosponsor thomas_id="01882" joined="2013-04-26"/>
+    <cosponsor thomas_id="02106" joined="2013-04-26"/>
+    <cosponsor thomas_id="01474" joined="2013-04-24"/>
+    <cosponsor thomas_id="01912" joined="2013-04-24"/>
+    <cosponsor thomas_id="01742" joined="2013-04-16"/>
+    <cosponsor thomas_id="01774" joined="2013-04-16"/>
+    <cosponsor thomas_id="02126" joined="2013-04-16"/>
+    <cosponsor thomas_id="02116" joined="2013-04-16"/>
+    <cosponsor thomas_id="01976" joined="2013-04-16"/>
+    <cosponsor thomas_id="00303" joined="2013-04-24"/>
+    <cosponsor thomas_id="02072" joined="2013-04-16"/>
+    <cosponsor thomas_id="02125" joined="2013-04-18"/>
+    <cosponsor thomas_id="02119" joined="2013-04-16"/>
+    <cosponsor thomas_id="01801" joined="2013-04-16"/>
+    <cosponsor thomas_id="00446" joined="2013-04-26"/>
+    <cosponsor thomas_id="01656" joined="2013-04-26"/>
+    <cosponsor thomas_id="01708" joined="2013-04-24"/>
+    <cosponsor thomas_id="00484" joined="2013-04-18"/>
+    <cosponsor thomas_id="02044" joined="2013-04-16"/>
+    <cosponsor thomas_id="02032" joined="2013-04-16"/>
+    <cosponsor thomas_id="02170" joined="2013-04-16"/>
+    <cosponsor thomas_id="01913" joined="2013-05-06"/>
+    <cosponsor thomas_id="02140" joined="2013-04-09"/>
+    <cosponsor thomas_id="01921" joined="2013-04-26"/>
+    <cosponsor thomas_id="02046" joined="2013-04-16"/>
+    <cosponsor thomas_id="00603" joined="2013-04-16"/>
+    <cosponsor thomas_id="00612" joined="2013-04-16"/>
+    <cosponsor thomas_id="01498" joined="2013-04-16"/>
+    <cosponsor thomas_id="02011" joined="2013-04-18"/>
+    <cosponsor thomas_id="02050" joined="2013-04-16"/>
+    <cosponsor thomas_id="00711" joined="2013-04-16"/>
+    <cosponsor thomas_id="01504" joined="2013-04-18"/>
+    <cosponsor thomas_id="02074" joined="2013-04-16"/>
+    <cosponsor thomas_id="01730" joined="2013-04-18"/>
+    <cosponsor thomas_id="02156" joined="2013-04-18"/>
+    <cosponsor thomas_id="02117" joined="2013-04-16"/>
+    <cosponsor thomas_id="01955" joined="2013-04-16"/>
+    <cosponsor thomas_id="02035" joined="2013-04-16"/>
+    <cosponsor thomas_id="00912" joined="2013-04-18"/>
+    <cosponsor thomas_id="02118" joined="2013-04-26"/>
+    <cosponsor thomas_id="01982" joined="2013-04-24"/>
+    <cosponsor thomas_id="02073" joined="2013-04-18"/>
+    <cosponsor thomas_id="02160" joined="2013-04-16"/>
+    <cosponsor thomas_id="01916" joined="2013-04-24"/>
+    <cosponsor thomas_id="02003" joined="2013-04-16"/>
+    <cosponsor thomas_id="00998" joined="2013-04-16"/>
+    <cosponsor thomas_id="01041" joined="2013-04-16"/>
+    <cosponsor thomas_id="01861" joined="2013-05-06"/>
+    <cosponsor thomas_id="01590" joined="2013-04-16"/>
+    <cosponsor thomas_id="02168" joined="2013-04-16"/>
+    <cosponsor thomas_id="02167" joined="2013-04-16"/>
+    <cosponsor thomas_id="01779" joined="2013-04-26"/>
+    <cosponsor thomas_id="02004" joined="2013-04-16"/>
+    <cosponsor thomas_id="02021" joined="2013-04-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-09" state="REFERRED">
+      <text>Referred to the House Committee on Appropriations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAP" name="House Appropriations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Appropriations"/>
+    <term name="Aviation and airports"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Department of Transportation"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Transportation programs funding"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>4/9/2013--Introduced.
+Air Traffic Control Tower Funding Restoration Act - Amends the Consolidated and Further Continuing Appropriations Act, 2013 to increase funding to the Federal Aviation Administration (FAA) for air traffic organization activities. Allocates certain appropriations for contract tower program for contract towers in operation as of February 1, 2013.
+
+Specifies offsetting rescissions from FY2013 FAA appropriations for facilities and equipment and for research, engineering, and development.</summary>
+</bill>

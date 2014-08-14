@@ -1,0 +1,87 @@
+<bill session="113" type="h" number="4717" updated="2014-08-14T13:31:39-04:00">
+  <state datetime="2014-05-22">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-22"/>
+  </status>
+  <introduced datetime="2014-05-22"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to make permanent and expand the temporary minimum credit rate for the low-income housing tax credit program.</title>
+  </titles>
+  <sponsor thomas_id="01664"/>
+  <cosponsors>
+    <cosponsor thomas_id="00099" joined="2014-05-22"/>
+    <cosponsor thomas_id="01787" joined="2014-05-22"/>
+    <cosponsor thomas_id="02127" joined="2014-07-29"/>
+    <cosponsor thomas_id="01761" joined="2014-07-22"/>
+    <cosponsor thomas_id="02055" joined="2014-06-11"/>
+    <cosponsor thomas_id="01912" joined="2014-06-11"/>
+    <cosponsor thomas_id="01604" joined="2014-05-22"/>
+    <cosponsor thomas_id="02138" joined="2014-06-25"/>
+    <cosponsor thomas_id="01477" joined="2014-05-22"/>
+    <cosponsor thomas_id="02126" joined="2014-08-01"/>
+    <cosponsor thomas_id="02096" joined="2014-05-30"/>
+    <cosponsor thomas_id="02125" joined="2014-07-31"/>
+    <cosponsor thomas_id="01743" joined="2014-05-22"/>
+    <cosponsor thomas_id="02049" joined="2014-05-22"/>
+    <cosponsor thomas_id="01990" joined="2014-05-22"/>
+    <cosponsor thomas_id="01922" joined="2014-06-19"/>
+    <cosponsor thomas_id="02032" joined="2014-06-10"/>
+    <cosponsor thomas_id="01921" joined="2014-05-22"/>
+    <cosponsor thomas_id="02046" joined="2014-06-05"/>
+    <cosponsor thomas_id="02051" joined="2014-05-22"/>
+    <cosponsor thomas_id="02169" joined="2014-07-14"/>
+    <cosponsor thomas_id="01498" joined="2014-05-22"/>
+    <cosponsor thomas_id="01733" joined="2014-06-10"/>
+    <cosponsor thomas_id="02145" joined="2014-07-03"/>
+    <cosponsor thomas_id="01668" joined="2014-06-05"/>
+    <cosponsor thomas_id="01583" joined="2014-05-22"/>
+    <cosponsor thomas_id="00701" joined="2014-05-22"/>
+    <cosponsor thomas_id="01931" joined="2014-07-22"/>
+    <cosponsor thomas_id="01943" joined="2014-06-18"/>
+    <cosponsor thomas_id="01806" joined="2014-05-22"/>
+    <cosponsor thomas_id="01653" joined="2014-07-31"/>
+    <cosponsor thomas_id="00766" joined="2014-05-22"/>
+    <cosponsor thomas_id="02130" joined="2014-05-28"/>
+    <cosponsor thomas_id="00854" joined="2014-05-22"/>
+    <cosponsor thomas_id="01710" joined="2014-05-22"/>
+    <cosponsor thomas_id="01510" joined="2014-05-22"/>
+    <cosponsor thomas_id="01930" joined="2014-05-22"/>
+    <cosponsor thomas_id="01929" joined="2014-06-19"/>
+    <cosponsor thomas_id="00944" joined="2014-05-22"/>
+    <cosponsor thomas_id="01982" joined="2014-05-22"/>
+    <cosponsor thomas_id="01810" joined="2014-05-22"/>
+    <cosponsor thomas_id="02048" joined="2014-05-22"/>
+    <cosponsor thomas_id="01757" joined="2014-06-12"/>
+    <cosponsor thomas_id="02124" joined="2014-06-11"/>
+    <cosponsor thomas_id="01920" joined="2014-05-22"/>
+    <cosponsor thomas_id="01527" joined="2014-07-30"/>
+    <cosponsor thomas_id="01528" joined="2014-05-28"/>
+    <cosponsor thomas_id="01566" joined="2014-06-18"/>
+    <cosponsor thomas_id="01593" joined="2014-05-28"/>
+    <cosponsor thomas_id="01741" joined="2014-06-11"/>
+    <cosponsor thomas_id="01855" joined="2014-07-14"/>
+    <cosponsor thomas_id="01879" joined="2014-05-28"/>
+    <cosponsor thomas_id="02019" joined="2014-05-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-22" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1442"/>
+    <bill type="s" session="113" relation="unknown" number="2260"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Income tax credits"/>
+    <term name="Low- and moderate-income housing"/>
+    <term name="Real estate business"/>
+  </subjects>
+  <amendments/>
+  <summary>5/22/2014--Introduced.
+Amends the Internal Revenue Code, with respect to the low-income housing tax credit, to make permanent the minimum 9% credit rate for new buildings that are not federally-subsidized and to establish a minimum 4% credit rate for existing buildings that are not federally-subsidized.</summary>
+</bill>

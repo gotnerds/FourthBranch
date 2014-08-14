@@ -1,0 +1,63 @@
+<bill session="113" type="h" number="1803" updated="2014-08-14T13:06:05-04:00">
+  <state datetime="2013-04-26">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-26"/>
+  </status>
+  <introduced datetime="2013-04-26"/>
+  <titles>
+    <title type="short" as="introduced">Lumbee Recognition Act</title>
+    <title type="official" as="introduced">To provide for the recognition of the Lumbee Tribe of North Carolina, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02140"/>
+  <cosponsors>
+    <cosponsor thomas_id="00099" joined="2013-10-04"/>
+    <cosponsor thomas_id="01468" joined="2013-10-30"/>
+    <cosponsor thomas_id="01761" joined="2013-09-17"/>
+    <cosponsor thomas_id="02159" joined="2013-09-20"/>
+    <cosponsor thomas_id="00231" joined="2013-09-17"/>
+    <cosponsor thomas_id="02036" joined="2013-09-17"/>
+    <cosponsor thomas_id="00588" joined="2013-10-10"/>
+    <cosponsor thomas_id="01498" joined="2013-09-20"/>
+    <cosponsor thomas_id="01505" joined="2013-04-26"/>
+    <cosponsor thomas_id="01730" joined="2013-09-17"/>
+    <cosponsor thomas_id="00930" joined="2013-10-14"/>
+    <cosponsor thomas_id="01635" joined="2013-09-30"/>
+    <cosponsor thomas_id="01856" joined="2013-10-28"/>
+    <cosponsor thomas_id="01209" joined="2013-09-17"/>
+    <cosponsor thomas_id="01688" joined="2013-10-14"/>
+    <cosponsor thomas_id="01256" joined="2013-11-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-26" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-05-03">
+      <text>Referred to the Subcommittee Indian and Alaska Native Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee subcommittee="Indian and Alaska Native Affairs" code="HSII24" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="1132"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Federal-Indian relations"/>
+    <term name="Gambling"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="North Carolina"/>
+  </subjects>
+  <amendments/>
+  <summary>4/26/2013--Introduced.
+Lumbee Recognition Act - Extends federal recognition to the Lumbee Tribe of North Carolina, which makes its members eligible for the services and benefits provided to Indians because of their status as members of a federally recognized tribe.
+
+Deems members of the Tribe residing in Robeson, Cumberland, Hoke, and Scotland Counties in North Carolina to be within the delivery area for such services.
+
+Authorizes the Secretary of the Interior to take land into trust for the Tribe.
+
+Prohibits the Tribe from conducting gaming activities.
+
+Requires North Carolina to exercise jurisdiction over all criminal offenses committed, and all civil actions that arise, on North Carolina lands owned by, or held in trust for, the Lumbee Tribe or any dependent Indian community of the Tribe.</summary>
+</bill>

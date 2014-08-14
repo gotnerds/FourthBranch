@@ -1,0 +1,51 @@
+<bill session="113" type="h" number="4999" updated="2014-08-14T13:34:09-04:00">
+  <state datetime="2014-06-26">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-26"/>
+  </status>
+  <introduced datetime="2014-06-26"/>
+  <titles>
+    <title type="short" as="introduced">Voices for Veterans Act</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to extend and expand the membership of the Advisory Committee on Minority Veterans to include veterans who are lesbian, gay, or bisexual and veterans who are transgender.</title>
+  </titles>
+  <sponsor thomas_id="02096"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2014-06-26"/>
+    <cosponsor thomas_id="02106" joined="2014-06-26"/>
+    <cosponsor thomas_id="02055" joined="2014-07-08"/>
+    <cosponsor thomas_id="02145" joined="2014-07-08"/>
+    <cosponsor thomas_id="01501" joined="2014-06-26"/>
+    <cosponsor thomas_id="02146" joined="2014-07-16"/>
+    <cosponsor thomas_id="02150" joined="2014-06-26"/>
+    <cosponsor thomas_id="01504" joined="2014-06-26"/>
+    <cosponsor thomas_id="01730" joined="2014-06-26"/>
+    <cosponsor thomas_id="02117" joined="2014-06-26"/>
+    <cosponsor thomas_id="00868" joined="2014-06-26"/>
+    <cosponsor thomas_id="02171" joined="2014-06-26"/>
+    <cosponsor thomas_id="01910" joined="2014-06-26"/>
+    <cosponsor thomas_id="02099" joined="2014-07-08"/>
+    <cosponsor thomas_id="01528" joined="2014-06-26"/>
+    <cosponsor thomas_id="01890" joined="2014-06-26"/>
+    <cosponsor thomas_id="02104" joined="2014-07-28"/>
+    <cosponsor thomas_id="02110" joined="2014-06-26"/>
+    <cosponsor thomas_id="01593" joined="2014-06-26"/>
+    <cosponsor thomas_id="01856" joined="2014-06-26"/>
+    <cosponsor thomas_id="01209" joined="2014-06-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-26" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Advisory bodies"/>
+    <term name="Sex, gender, sexual orientation discrimination"/>
+    <term name="Veterans' organizations and recognition"/>
+  </subjects>
+  <amendments/>
+</bill>

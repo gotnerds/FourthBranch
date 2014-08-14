@@ -1,0 +1,76 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-25", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4972-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-06-25", 
+  "number": "4972", 
+  "official_title": "To award posthumously a Congressional Gold Medal to Althea Gibson, in recognition of her groundbreaking achievements in athletics and her commitment to ending racial discrimination and prejudice within the world of athletics.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Althea Gibson Excellence Act", 
+  "sponsor": {
+    "district": "10", 
+    "name": "Payne, Donald M., Jr.", 
+    "state": "NJ", 
+    "thomas_id": "02097", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-06-25", 
+  "subjects": [
+    "Athletes", 
+    "Congressional tributes", 
+    "Professional sports", 
+    "Racial and ethnic relations", 
+    "Sports and recreation"
+  ], 
+  "subjects_top_term": "Sports and recreation", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Althea Gibson Excellence Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To award posthumously a Congressional Gold Medal to Althea Gibson, in recognition of her groundbreaking achievements in athletics and her commitment to ending racial discrimination and prejudice within the world of athletics.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T13:33:54-04:00"
+}

@@ -1,0 +1,42 @@
+<bill session="113" type="h" number="5233" updated="2014-08-14T13:36:08-04:00">
+  <state datetime="2014-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-29"/>
+  </status>
+  <introduced datetime="2014-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Trade Secrets Protection Act of 2014</title>
+    <title type="official" as="introduced">To amend chapter 90 of title 18, United States Code, to provide Federal jurisdiction for the theft of trade secrets, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02143"/>
+  <cosponsors>
+    <cosponsor thomas_id="00186" joined="2014-07-29"/>
+    <cosponsor thomas_id="00211" joined="2014-07-29"/>
+    <cosponsor thomas_id="02121" joined="2014-07-31"/>
+    <cosponsor thomas_id="00229" joined="2014-07-29"/>
+    <cosponsor thomas_id="02096" joined="2014-07-29"/>
+    <cosponsor thomas_id="01976" joined="2014-08-01"/>
+    <cosponsor thomas_id="02044" joined="2014-07-31"/>
+    <cosponsor thomas_id="02149" joined="2014-07-29"/>
+    <cosponsor thomas_id="01792" joined="2014-08-01"/>
+    <cosponsor thomas_id="00850" joined="2014-07-29"/>
+    <cosponsor thomas_id="01982" joined="2014-07-31"/>
+    <cosponsor thomas_id="02023" joined="2014-07-29"/>
+    <cosponsor thomas_id="01041" joined="2014-07-31"/>
+    <cosponsor thomas_id="02191" joined="2014-08-01"/>
+    <cosponsor thomas_id="01075" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-29" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2267"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

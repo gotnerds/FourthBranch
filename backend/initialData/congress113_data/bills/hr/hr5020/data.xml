@@ -1,0 +1,33 @@
+<bill session="113" type="h" number="5020" updated="2014-08-14T13:34:19-04:00">
+  <state datetime="2014-07-08">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-08"/>
+  </status>
+  <introduced datetime="2014-07-08"/>
+  <titles>
+    <title type="short" as="introduced">Indian Tribal Self-Determination in Land Consolidation Act of 2014</title>
+    <title type="official" as="introduced">To amend the Indian Land Consolidation Act to authorize the Secretary of the Interior to contract with eligible Indian tribes to manage land buy-back programs, to authorize that certain amounts be deposited into interest bearing accounts, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02138"/>
+  <cosponsors>
+    <cosponsor thomas_id="01742" joined="2014-07-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-08" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2014-07-14">
+      <text>Referred to the Subcommittee Indian and Alaska Native Affairs.</text>
+    </action>
+    <action datetime="2014-07-29">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Indian and Alaska Native Affairs" code="HSII24" name="House Natural Resources" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

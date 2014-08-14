@@ -1,0 +1,59 @@
+<bill session="113" type="hj" number="118" updated="2014-08-14T13:38:33-04:00">
+  <state datetime="2014-07-10">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-10"/>
+  </status>
+  <introduced datetime="2014-07-10"/>
+  <titles>
+    <title type="official" as="introduced">Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to the garnishment of non-Federal wages to collect delinquent non-tax debts owed to the United States without first obtaining a court order.</title>
+  </titles>
+  <sponsor thomas_id="02074"/>
+  <cosponsors>
+    <cosponsor thomas_id="02131" joined="2014-07-10"/>
+    <cosponsor thomas_id="01748" joined="2014-07-10"/>
+    <cosponsor thomas_id="02018" joined="2014-07-14"/>
+    <cosponsor thomas_id="01676" joined="2014-07-10"/>
+    <cosponsor thomas_id="01752" joined="2014-07-10"/>
+    <cosponsor thomas_id="01925" joined="2014-07-10"/>
+    <cosponsor thomas_id="02098" joined="2014-07-10"/>
+    <cosponsor thomas_id="02144" joined="2014-07-14"/>
+    <cosponsor thomas_id="01989" joined="2014-07-10"/>
+    <cosponsor thomas_id="02126" joined="2014-07-10"/>
+    <cosponsor thomas_id="02036" joined="2014-07-10"/>
+    <cosponsor thomas_id="02065" joined="2014-07-10"/>
+    <cosponsor thomas_id="01683" joined="2014-07-17"/>
+    <cosponsor thomas_id="02049" joined="2014-07-10"/>
+    <cosponsor thomas_id="00446" joined="2014-07-10"/>
+    <cosponsor thomas_id="01990" joined="2014-07-14"/>
+    <cosponsor thomas_id="00484" joined="2014-07-10"/>
+    <cosponsor thomas_id="01933" joined="2014-07-10"/>
+    <cosponsor thomas_id="02020" joined="2014-07-14"/>
+    <cosponsor thomas_id="01921" joined="2014-07-15"/>
+    <cosponsor thomas_id="00612" joined="2014-07-10"/>
+    <cosponsor thomas_id="01868" joined="2014-07-10"/>
+    <cosponsor thomas_id="01931" joined="2014-07-25"/>
+    <cosponsor thomas_id="01960" joined="2014-07-10"/>
+    <cosponsor thomas_id="01908" joined="2014-07-10"/>
+    <cosponsor thomas_id="01685" joined="2014-07-14"/>
+    <cosponsor thomas_id="02034" joined="2014-07-15"/>
+    <cosponsor thomas_id="02157" joined="2014-07-14"/>
+    <cosponsor thomas_id="02017" joined="2014-07-15"/>
+    <cosponsor thomas_id="02158" joined="2014-08-01"/>
+    <cosponsor thomas_id="01009" joined="2014-07-10"/>
+    <cosponsor thomas_id="02128" joined="2014-07-10"/>
+    <cosponsor thomas_id="01256" joined="2014-07-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-10" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>7/10/2014--Introduced.
+Disapproves and nullifies the rule submitted by the Environmental Protection Agency (EPA) and published in the Federal Register on July 2, 2014, relating to the garnishment of non-federal wages to collect delinquent non-tax debts owed to the United States without first obtaining a court order.</summary>
+</bill>

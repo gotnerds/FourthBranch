@@ -1,0 +1,99 @@
+<bill session="113" type="h" number="1658" updated="2014-08-14T13:04:49-04:00">
+  <state datetime="2013-04-18">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-18"/>
+  </status>
+  <introduced datetime="2013-04-18"/>
+  <titles>
+    <title type="short" as="introduced">Native American Indian Education Act</title>
+    <title type="official" as="introduced">To help fulfill the Federal mandate to provide higher educational opportunities for Native American Indians.</title>
+  </titles>
+  <sponsor thomas_id="01997"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2014-01-14"/>
+    <cosponsor thomas_id="02107" joined="2013-04-18"/>
+    <cosponsor thomas_id="01912" joined="2013-04-18"/>
+    <cosponsor thomas_id="01742" joined="2013-04-18"/>
+    <cosponsor thomas_id="00229" joined="2013-09-18"/>
+    <cosponsor thomas_id="01479" joined="2013-04-18"/>
+    <cosponsor thomas_id="01857" joined="2014-02-26"/>
+    <cosponsor thomas_id="00367" joined="2013-04-18"/>
+    <cosponsor thomas_id="01998" joined="2013-04-18"/>
+    <cosponsor thomas_id="01992" joined="2013-04-18"/>
+    <cosponsor thomas_id="01914" joined="2013-07-22"/>
+    <cosponsor thomas_id="01708" joined="2013-04-18"/>
+    <cosponsor thomas_id="02010" joined="2013-09-18"/>
+    <cosponsor thomas_id="02044" joined="2014-01-14"/>
+    <cosponsor thomas_id="01490" joined="2013-04-18"/>
+    <cosponsor thomas_id="01634" joined="2013-04-18"/>
+    <cosponsor thomas_id="01640" joined="2013-09-19"/>
+    <cosponsor thomas_id="00612" joined="2013-04-18"/>
+    <cosponsor thomas_id="01498" joined="2013-09-28"/>
+    <cosponsor thomas_id="00635" joined="2014-01-14"/>
+    <cosponsor thomas_id="01907" joined="2013-04-18"/>
+    <cosponsor thomas_id="01834" joined="2013-04-18"/>
+    <cosponsor thomas_id="01583" joined="2013-09-18"/>
+    <cosponsor thomas_id="02146" joined="2014-06-18"/>
+    <cosponsor thomas_id="01939" joined="2013-04-18"/>
+    <cosponsor thomas_id="01653" joined="2013-04-18"/>
+    <cosponsor thomas_id="01811" joined="2013-04-18"/>
+    <cosponsor thomas_id="00832" joined="2013-04-18"/>
+    <cosponsor thomas_id="02156" joined="2014-06-23"/>
+    <cosponsor thomas_id="01602" joined="2013-04-18"/>
+    <cosponsor thomas_id="02108" joined="2013-04-18"/>
+    <cosponsor thomas_id="00867" joined="2014-01-14"/>
+    <cosponsor thomas_id="00893" joined="2014-06-23"/>
+    <cosponsor thomas_id="01835" joined="2013-04-18"/>
+    <cosponsor thomas_id="00910" joined="2013-07-22"/>
+    <cosponsor thomas_id="02171" joined="2013-04-18"/>
+    <cosponsor thomas_id="01910" joined="2013-04-18"/>
+    <cosponsor thomas_id="00944" joined="2013-04-18"/>
+    <cosponsor thomas_id="01916" joined="2014-01-17"/>
+    <cosponsor thomas_id="02109" joined="2013-04-18"/>
+    <cosponsor thomas_id="01527" joined="2014-01-14"/>
+    <cosponsor thomas_id="02099" joined="2013-04-18"/>
+    <cosponsor thomas_id="02110" joined="2013-04-18"/>
+    <cosponsor thomas_id="01856" joined="2014-01-17"/>
+    <cosponsor thomas_id="01256" joined="2013-04-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-18" state="REFERRED">
+      <text>Referred to the Committee on Education and the Workforce, and in addition to the Committee on Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-04-18">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2013-04-18">
+      <text>Referred to House Appropriations</text>
+    </action>
+    <action datetime="2013-07-08">
+      <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+    <committee subcommittee="Higher Education and Workforce Training" code="HSED13" name="House Education and the Workforce" activity="Referral"/>
+    <committee subcommittee="" code="HSAP" name="House Appropriations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="765"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Appropriations"/>
+    <term name="Education programs funding"/>
+    <term name="Higher education"/>
+    <term name="Indian social and development programs"/>
+    <term name="Minority education"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+  <summary>4/18/2013--Introduced.
+Native American Indian Education Act - Directs the Secretary of Education to pay four-year Native American-serving nontribal institutions of higher education the out-of-state tuition of their Indian students if those schools are required to provide a tuition-free education, with the support of their state, to Indian students in fulfillment of a condition under which the college or state received its original grant of land and facilities from the federal government.
+
+Limits that payment each fiscal year to the institution's total out-of-state tuition for Indian students in academic year 2012-2013.
+
+Treats such payments as reimbursements to such institutions from their states.
+
+Rescinds unobligated discretionary appropriations to offset the costs of this program.</summary>
+</bill>

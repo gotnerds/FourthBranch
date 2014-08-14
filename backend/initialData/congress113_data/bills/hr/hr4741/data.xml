@@ -1,0 +1,45 @@
+<bill session="113" type="h" number="4741" updated="2014-08-14T13:31:51-04:00">
+  <state datetime="2014-05-22">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-22"/>
+  </status>
+  <introduced datetime="2014-05-22"/>
+  <titles>
+    <title type="short" as="introduced">Surviving Spouses' Benefit Improvement Act of 2014</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to provide for an increase in the amount of monthly dependency and indemnity compensation payable to surviving spouses by the Secretary of Veterans Affairs.</title>
+  </titles>
+  <sponsor thomas_id="01535"/>
+  <cosponsors>
+    <cosponsor thomas_id="00038" joined="2014-07-09"/>
+    <cosponsor thomas_id="01780" joined="2014-06-11"/>
+    <cosponsor thomas_id="02106" joined="2014-07-09"/>
+    <cosponsor thomas_id="01742" joined="2014-07-25"/>
+    <cosponsor thomas_id="01477" joined="2014-06-24"/>
+    <cosponsor thomas_id="02040" joined="2014-05-30"/>
+    <cosponsor thomas_id="00701" joined="2014-07-22"/>
+    <cosponsor thomas_id="01729" joined="2014-07-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-22" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2014-06-03">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Disability Assistance and Memorial Affairs" code="HSVR09" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Marriage and family status"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>5/22/2014--Introduced.
+Surviving Spouses' Benefit Improvement Act of 2014 - Increases the monthly rates of veterans' dependency and indemnity compensation payable to surviving spouses through the Department of Veterans Affairs (VA).
+
+Prohibits benefits under any other law (other than duplication of benefits) from being reduced or offset because the surviving spouse is eligible for dependency and indemnity compensation.</summary>
+</bill>

@@ -1,0 +1,46 @@
+<bill session="113" type="sr" number="532" updated="2014-08-14T13:44:19-04:00">
+  <state datetime="2014-07-31">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="official" as="introduced">A resolution designating the week beginning September 7, 2014, as "National Direct Support Professionals Recognition Week".</title>
+  </titles>
+  <sponsor thomas_id="00174"/>
+  <cosponsors>
+    <cosponsor thomas_id="02076" joined="2014-07-31"/>
+    <cosponsor thomas_id="00136" joined="2014-07-31"/>
+    <cosponsor thomas_id="01828" joined="2014-07-31"/>
+    <cosponsor thomas_id="01541" joined="2014-07-31"/>
+    <cosponsor thomas_id="01969" joined="2014-07-31"/>
+    <cosponsor thomas_id="00457" joined="2014-07-31"/>
+    <cosponsor thomas_id="02185" joined="2014-07-31"/>
+    <cosponsor thomas_id="01826" joined="2014-07-31"/>
+    <cosponsor thomas_id="01983" joined="2014-07-31"/>
+    <cosponsor thomas_id="00735" joined="2014-07-31"/>
+    <cosponsor thomas_id="01837" joined="2014-07-31"/>
+    <cosponsor thomas_id="00924" joined="2014-07-31"/>
+    <cosponsor thomas_id="01424" joined="2014-07-31"/>
+    <cosponsor thomas_id="02182" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <vote how="by Unanimous Consent" type="vote" datetime="2014-07-31" where="s" result="pass" state="PASSED:SIMPLERES">
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S5234-5235" label="text of measure as introduced"/>
+    </vote>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill type="hr" session="113" relation="unknown" number="336"/>
+    <bill type="sr" session="113" relation="unknown" number="208"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+  <summary>7/31/2014--Passed Senate without amendment.
+Designates the week of September 7, 2014, as National Direct Support Professionals Recognition Week.
+
+Identifies direct support professionals as integral to long-term support and services for individuals with disabilities.
+
+Expresses the sense of the Senate that the successful implementation of the public policies affecting individuals with disabilities depends on the dedication of direct support professionals.</summary>
+</bill>

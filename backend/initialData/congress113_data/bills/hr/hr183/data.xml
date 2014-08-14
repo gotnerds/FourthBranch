@@ -1,0 +1,89 @@
+<bill session="113" type="h" number="183" updated="2014-08-14T12:52:16-04:00">
+  <state datetime="2013-01-04">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-04"/>
+  </status>
+  <introduced datetime="2013-01-04"/>
+  <titles>
+    <title type="short" as="introduced">Veterans Dog Training Therapy Act</title>
+    <title type="official" as="introduced">To direct the Secretary of Veterans Affairs to carry out a pilot program on dog training therapy.</title>
+  </titles>
+  <sponsor thomas_id="02041"/>
+  <cosponsors>
+    <cosponsor thomas_id="00038" joined="2013-09-17"/>
+    <cosponsor thomas_id="02054" joined="2013-07-19"/>
+    <cosponsor thomas_id="01740" joined="2013-02-14"/>
+    <cosponsor thomas_id="02018" joined="2013-02-13"/>
+    <cosponsor thomas_id="01761" joined="2013-02-14"/>
+    <cosponsor thomas_id="02107" joined="2013-09-17"/>
+    <cosponsor thomas_id="01889" joined="2013-02-25"/>
+    <cosponsor thomas_id="01970" joined="2013-03-14"/>
+    <cosponsor thomas_id="02055" joined="2013-02-12"/>
+    <cosponsor thomas_id="01654" joined="2013-03-13"/>
+    <cosponsor thomas_id="00211" joined="2013-03-15"/>
+    <cosponsor thomas_id="01959" joined="2013-02-12"/>
+    <cosponsor thomas_id="02125" joined="2013-08-01"/>
+    <cosponsor thomas_id="02122" joined="2013-04-26"/>
+    <cosponsor thomas_id="01803" joined="2013-12-04"/>
+    <cosponsor thomas_id="02044" joined="2013-02-12"/>
+    <cosponsor thomas_id="00511" joined="2013-02-12"/>
+    <cosponsor thomas_id="01913" joined="2013-02-12"/>
+    <cosponsor thomas_id="00612" joined="2013-03-04"/>
+    <cosponsor thomas_id="00635" joined="2013-02-14"/>
+    <cosponsor thomas_id="01936" joined="2013-02-12"/>
+    <cosponsor thomas_id="01781" joined="2013-03-14"/>
+    <cosponsor thomas_id="00699" joined="2013-02-12"/>
+    <cosponsor thomas_id="01846" joined="2013-02-12"/>
+    <cosponsor thomas_id="01943" joined="2013-04-25"/>
+    <cosponsor thomas_id="00729" joined="2013-02-27"/>
+    <cosponsor thomas_id="02150" joined="2013-09-17"/>
+    <cosponsor thomas_id="02053" joined="2013-03-13"/>
+    <cosponsor thomas_id="01503" joined="2013-02-12"/>
+    <cosponsor thomas_id="01653" joined="2013-03-19"/>
+    <cosponsor thomas_id="01730" joined="2013-01-04"/>
+    <cosponsor thomas_id="00832" joined="2013-07-31"/>
+    <cosponsor thomas_id="00868" joined="2013-02-12"/>
+    <cosponsor thomas_id="02001" joined="2013-06-11"/>
+    <cosponsor thomas_id="01953" joined="2013-02-12"/>
+    <cosponsor thomas_id="02171" joined="2013-03-25"/>
+    <cosponsor thomas_id="00930" joined="2013-12-19"/>
+    <cosponsor thomas_id="00944" joined="2013-11-12"/>
+    <cosponsor thomas_id="02039" joined="2013-02-12"/>
+    <cosponsor thomas_id="01522" joined="2013-04-25"/>
+    <cosponsor thomas_id="01635" joined="2013-02-12"/>
+    <cosponsor thomas_id="01861" joined="2013-02-27"/>
+    <cosponsor thomas_id="02099" joined="2013-06-03"/>
+    <cosponsor thomas_id="02047" joined="2013-12-11"/>
+    <cosponsor thomas_id="02104" joined="2013-09-19"/>
+    <cosponsor thomas_id="01222" joined="2013-02-12"/>
+    <cosponsor thomas_id="01886" joined="2013-02-25"/>
+    <cosponsor thomas_id="02008" joined="2013-04-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-04" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-01-22">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2014-03-27">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSVR03" name="House Veterans' Affairs" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Animal protection and human-animal relationships"/>
+    <term name="Disability assistance"/>
+    <term name="Mental health"/>
+    <term name="Service animals"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>1/4/2013--Introduced.
+Veterans Dog Training Therapy Act - Directs the Secretary of Veterans Affairs to carry out a pilot program for assessing the effectiveness of addressing post-deployment mental health and post-traumatic stress disorder symptoms through a therapeutic medium of service dog training and handling for veterans with disabilities. Requires such program to be carried out at Department of Veterans Affairs (VA) medical centers that can provide training areas for such purposes.</summary>
+</bill>

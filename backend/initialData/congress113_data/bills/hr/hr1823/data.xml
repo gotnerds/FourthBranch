@@ -1,0 +1,62 @@
+<bill session="113" type="h" number="1823" updated="2014-08-14T13:06:15-04:00">
+  <state datetime="2013-04-30">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-30"/>
+  </status>
+  <introduced datetime="2013-04-30"/>
+  <titles>
+    <title type="short" as="introduced">PLAQ Act of 2013</title>
+    <title type="short" as="introduced">Protecting Lakes Against Quaggas Act of 2013</title>
+    <title type="official" as="introduced">To amend title 18, United States Code, to prohibit the importation or exportation of mussels of a certain genus, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02040"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2013-04-30"/>
+    <cosponsor thomas_id="02092" joined="2013-06-04"/>
+    <cosponsor thomas_id="01973" joined="2013-11-13"/>
+    <cosponsor thomas_id="01992" joined="2013-05-22"/>
+    <cosponsor thomas_id="01708" joined="2013-05-17"/>
+    <cosponsor thomas_id="02170" joined="2013-06-06"/>
+    <cosponsor thomas_id="01634" joined="2013-08-01"/>
+    <cosponsor thomas_id="02147" joined="2013-05-17"/>
+    <cosponsor thomas_id="02101" joined="2013-05-21"/>
+    <cosponsor thomas_id="02169" joined="2013-06-27"/>
+    <cosponsor thomas_id="01907" joined="2013-05-23"/>
+    <cosponsor thomas_id="01675" joined="2013-05-21"/>
+    <cosponsor thomas_id="01939" joined="2013-05-23"/>
+    <cosponsor thomas_id="01671" joined="2013-05-17"/>
+    <cosponsor thomas_id="01602" joined="2013-06-27"/>
+    <cosponsor thomas_id="01738" joined="2013-06-12"/>
+    <cosponsor thomas_id="01810" joined="2013-06-12"/>
+    <cosponsor thomas_id="01590" joined="2013-05-23"/>
+    <cosponsor thomas_id="01593" joined="2013-05-09"/>
+    <cosponsor thomas_id="01997" joined="2013-08-01"/>
+    <cosponsor thomas_id="01596" joined="2013-06-18"/>
+    <cosponsor thomas_id="01209" joined="2013-06-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-30" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-06-14">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2530"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Aquatic ecology"/>
+    <term name="Pest management"/>
+    <term name="Smuggling and trafficking"/>
+    <term name="Trade restrictions"/>
+  </subjects>
+  <amendments/>
+  <summary>4/30/2013--Introduced.
+Protecting Lakes Against Quaggas Act of 2013 or the PLAQ Act of 2013 - Amends the federal criminal code to prohibit the importation or shipment of the species of mussels of the genus Dreissena (thus covering quagga mussels). (Currently, the prohibition applies to only the zebra mussel of the species Dreissena polymorpha.)</summary>
+</bill>

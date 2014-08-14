@@ -1,0 +1,38 @@
+<bill session="113" type="h" number="5085" updated="2014-08-14T13:34:53-04:00">
+  <state datetime="2014-07-11">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-11"/>
+  </status>
+  <introduced datetime="2014-07-11"/>
+  <titles>
+    <title type="short" as="introduced">Support the Families of Fallen Heroes Semipostal Stamp Act</title>
+    <title type="official" as="introduced">To provide for the issuance of a Families of Fallen Heroes Semipostal Stamp.</title>
+  </titles>
+  <sponsor thomas_id="02114"/>
+  <cosponsors>
+    <cosponsor thomas_id="02103" joined="2014-07-11"/>
+    <cosponsor thomas_id="02128" joined="2014-07-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-11" state="REFERRED">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-07-11">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2014-07-11">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2014-07-23">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H6671-6672"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

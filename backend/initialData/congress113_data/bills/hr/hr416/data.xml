@@ -1,0 +1,74 @@
+<bill session="113" type="h" number="416" updated="2014-08-14T12:54:17-04:00">
+  <state datetime="2013-01-25">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-25"/>
+  </status>
+  <introduced datetime="2013-01-25"/>
+  <titles>
+    <title type="short" as="introduced">Egypt Accountability and Democracy Promotion Act</title>
+    <title type="official" as="introduced">To condition security assistance and economic assistance to the Government of Egypt in order to advance United States national security interests in Egypt, including encouraging the advancement of political, economic, and religious freedom in Egypt.</title>
+  </titles>
+  <sponsor thomas_id="00985"/>
+  <cosponsors>
+    <cosponsor thomas_id="01838" joined="2013-02-08"/>
+    <cosponsor thomas_id="01751" joined="2013-02-08"/>
+    <cosponsor thomas_id="02151" joined="2013-02-25"/>
+    <cosponsor thomas_id="02057" joined="2013-03-12"/>
+    <cosponsor thomas_id="01683" joined="2013-02-25"/>
+    <cosponsor thomas_id="01707" joined="2013-05-22"/>
+    <cosponsor thomas_id="01737" joined="2013-02-08"/>
+    <cosponsor thomas_id="01990" joined="2013-02-08"/>
+    <cosponsor thomas_id="02041" joined="2013-03-07"/>
+    <cosponsor thomas_id="02059" joined="2013-02-25"/>
+    <cosponsor thomas_id="02001" joined="2013-02-08"/>
+    <cosponsor thomas_id="02034" joined="2013-02-08"/>
+    <cosponsor thomas_id="01738" joined="2013-02-08"/>
+    <cosponsor thomas_id="02141" joined="2013-02-25"/>
+    <cosponsor thomas_id="02118" joined="2013-02-28"/>
+    <cosponsor thomas_id="02017" joined="2013-02-14"/>
+    <cosponsor thomas_id="01994" joined="2013-02-08"/>
+    <cosponsor thomas_id="02161" joined="2013-02-14"/>
+    <cosponsor thomas_id="01779" joined="2013-05-09"/>
+    <cosponsor thomas_id="02115" joined="2013-03-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-25" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Arab-Israeli relations"/>
+    <term name="Arms control and nonproliferation"/>
+    <term name="Broadcasting, cable, digital technologies"/>
+    <term name="Congressional oversight"/>
+    <term name="Due process and equal protection"/>
+    <term name="Egypt"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Gaza Strip"/>
+    <term name="Human rights"/>
+    <term name="International law and treaties"/>
+    <term name="Israel"/>
+    <term name="Middle East"/>
+    <term name="Military assistance, sales, and agreements"/>
+    <term name="Political movements and philosophies"/>
+    <term name="Religion"/>
+    <term name="Rule of law and government transparency"/>
+    <term name="Sanctions"/>
+    <term name="Smuggling and trafficking"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+  <summary>1/25/2013--Introduced.
+Egypt Accountability and Democracy Promotion Act - States that U.S. policy shall be to use its foreign assistance for Egypt to advance U.S. national security interests in Egypt, including encouraging the advancement of political, economic, and religious freedom in Egypt.
+
+Limits specified security and economic assistance to Egypt unless the Secretary of State certifies to Congress every six months that the Egyptian government: (1) is not controlled by or under the influence of a foreign terrorist organization, or that no supporter of a foreign terrorist organization serves in a policy-making position in the government; (2) has implemented legal reforms that protect the political, economic, and religious freedoms and human rights of all citizens and residents of Egypt; (3) is fully implementing the Israel-Egypt Peace Treaty; and (4) is taking verifiable steps to destroy the smuggling network and tunnels between Egypt and the Gaza Strip, and is cracking down on extremist groups in the Sinai Peninsula.
+
+Provides for a limited national security waiver of such restrictions.
+
+Sets forth reporting requirements.</summary>
+</bill>

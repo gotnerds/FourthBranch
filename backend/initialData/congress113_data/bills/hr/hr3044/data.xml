@@ -1,0 +1,57 @@
+<bill session="113" type="h" number="3044" updated="2014-08-14T13:17:26-04:00">
+  <state datetime="2014-07-16">REPORTED</state>
+  <status>
+    <unknown datetime="2014-07-16"/>
+  </status>
+  <introduced datetime="2013-08-02"/>
+  <titles>
+    <title type="official" as="introduced">To approve the transfer of Yellow Creek Port properties in Iuka, Mississippi.</title>
+  </titles>
+  <sponsor thomas_id="02034"/>
+  <cosponsors>
+    <cosponsor thomas_id="01933" joined="2013-08-02"/>
+    <cosponsor thomas_id="02035" joined="2013-08-02"/>
+    <cosponsor thomas_id="01151" joined="2013-08-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-08-02" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2013-08-05">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+    <action datetime="2014-07-16">
+      <text>Subcommittee on Water Resources and Environment Discharged.</text>
+    </action>
+    <action datetime="2014-07-16">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-07-16" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+    <action datetime="2014-07-24T10:39:00-04:00">
+      <text>Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-553.</text>
+    </action>
+    <calendar datetime="2014-07-24T10:39:00-04:00" calendar="Union" number="413">
+      <text>Placed on the Union Calendar, Calendar No. 413.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee subcommittee="Water Resources and Environment" code="HSPW02" name="House Transportation and Infrastructure" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="212"/>
+    <bill type="s" session="113" relation="unknown" number="212"/>
+    <bill type="s" session="113" relation="unknown" number="212"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Land transfers"/>
+    <term name="Mississippi"/>
+    <term name="Navigation, waterways, harbors"/>
+  </subjects>
+  <amendments/>
+  <summary>8/2/2013--Introduced.
+Approves the conveyance by the Tennessee Valley Authority (TVA) to the state of Mississippi of the federally-owned Yellow Creek Port properties in the custody of the TVA at Iuka, Mississippi.</summary>
+</bill>

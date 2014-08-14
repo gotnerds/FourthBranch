@@ -1,0 +1,164 @@
+<bill session="113" type="hr" number="365" updated="2014-08-14T12:47:44-04:00">
+  <state datetime="2013-09-27">REFERRED</state>
+  <status>
+    <introduced datetime="2013-09-27"/>
+  </status>
+  <introduced datetime="2013-09-27"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the House of Representatives commending efforts by the United States to resolve the Israeli-Palestinian conflict through a negotiated two-state solution.</title>
+  </titles>
+  <sponsor thomas_id="01588"/>
+  <cosponsors>
+    <cosponsor thomas_id="02093" joined="2013-11-13"/>
+    <cosponsor thomas_id="01996" joined="2014-03-11"/>
+    <cosponsor thomas_id="02102" joined="2013-11-21"/>
+    <cosponsor thomas_id="01740" joined="2013-12-12"/>
+    <cosponsor thomas_id="00099" joined="2013-10-30"/>
+    <cosponsor thomas_id="02092" joined="2013-12-12"/>
+    <cosponsor thomas_id="01723" joined="2013-10-16"/>
+    <cosponsor thomas_id="01845" joined="2013-10-30"/>
+    <cosponsor thomas_id="02106" joined="2013-10-04"/>
+    <cosponsor thomas_id="02127" joined="2014-01-14"/>
+    <cosponsor thomas_id="01471" joined="2013-10-10"/>
+    <cosponsor thomas_id="01564" joined="2013-10-30"/>
+    <cosponsor thomas_id="01889" joined="2013-11-21"/>
+    <cosponsor thomas_id="02159" joined="2013-12-04"/>
+    <cosponsor thomas_id="02163" joined="2014-02-26"/>
+    <cosponsor thomas_id="01970" joined="2013-10-16"/>
+    <cosponsor thomas_id="02055" joined="2013-10-16"/>
+    <cosponsor thomas_id="02196" joined="2014-03-11"/>
+    <cosponsor thomas_id="01654" joined="2013-10-09"/>
+    <cosponsor thomas_id="01790" joined="2013-11-15"/>
+    <cosponsor thomas_id="01878" joined="2013-10-10"/>
+    <cosponsor thomas_id="01959" joined="2013-10-01"/>
+    <cosponsor thomas_id="00229" joined="2013-10-01"/>
+    <cosponsor thomas_id="01836" joined="2014-04-28"/>
+    <cosponsor thomas_id="01477" joined="2013-10-16"/>
+    <cosponsor thomas_id="01641" joined="2013-10-16"/>
+    <cosponsor thomas_id="00279" joined="2013-11-13"/>
+    <cosponsor thomas_id="01479" joined="2013-11-21"/>
+    <cosponsor thomas_id="02133" joined="2013-10-30"/>
+    <cosponsor thomas_id="00281" joined="2013-11-21"/>
+    <cosponsor thomas_id="02096" joined="2013-11-15"/>
+    <cosponsor thomas_id="00299" joined="2013-10-02"/>
+    <cosponsor thomas_id="00303" joined="2013-10-01"/>
+    <cosponsor thomas_id="00316" joined="2013-10-01"/>
+    <cosponsor thomas_id="02123" joined="2013-12-04"/>
+    <cosponsor thomas_id="01894" joined="2013-11-21"/>
+    <cosponsor thomas_id="01857" joined="2013-10-04"/>
+    <cosponsor thomas_id="02125" joined="2013-10-10"/>
+    <cosponsor thomas_id="00355" joined="2013-11-13"/>
+    <cosponsor thomas_id="02114" joined="2014-03-26"/>
+    <cosponsor thomas_id="00368" joined="2013-10-01"/>
+    <cosponsor thomas_id="00371" joined="2013-11-21"/>
+    <cosponsor thomas_id="01888" joined="2013-10-04"/>
+    <cosponsor thomas_id="02164" joined="2014-02-05"/>
+    <cosponsor thomas_id="01973" joined="2013-10-01"/>
+    <cosponsor thomas_id="02120" joined="2013-10-22"/>
+    <cosponsor thomas_id="01803" joined="2014-02-26"/>
+    <cosponsor thomas_id="01708" joined="2013-10-01"/>
+    <cosponsor thomas_id="00478" joined="2013-12-04"/>
+    <cosponsor thomas_id="02170" joined="2013-11-21"/>
+    <cosponsor thomas_id="01913" joined="2014-02-11"/>
+    <cosponsor thomas_id="01580" joined="2013-10-02"/>
+    <cosponsor thomas_id="01634" joined="2013-11-21"/>
+    <cosponsor thomas_id="02101" joined="2013-10-16"/>
+    <cosponsor thomas_id="02149" joined="2013-12-12"/>
+    <cosponsor thomas_id="00599" joined="2013-10-01"/>
+    <cosponsor thomas_id="01843" joined="2013-10-01"/>
+    <cosponsor thomas_id="00612" joined="2013-11-13"/>
+    <cosponsor thomas_id="02025" joined="2013-12-12"/>
+    <cosponsor thomas_id="02190" joined="2013-11-13"/>
+    <cosponsor thomas_id="02172" joined="2013-11-13"/>
+    <cosponsor thomas_id="02134" joined="2013-10-16"/>
+    <cosponsor thomas_id="02169" joined="2013-11-13"/>
+    <cosponsor thomas_id="01498" joined="2013-11-13"/>
+    <cosponsor thomas_id="02145" joined="2013-11-13"/>
+    <cosponsor thomas_id="01668" joined="2013-10-30"/>
+    <cosponsor thomas_id="01583" joined="2014-02-26"/>
+    <cosponsor thomas_id="01501" joined="2013-11-15"/>
+    <cosponsor thomas_id="00688" joined="2013-10-22"/>
+    <cosponsor thomas_id="01846" joined="2013-11-13"/>
+    <cosponsor thomas_id="00701" joined="2013-11-21"/>
+    <cosponsor thomas_id="02111" joined="2013-10-04"/>
+    <cosponsor thomas_id="00709" joined="2013-10-01"/>
+    <cosponsor thomas_id="01939" joined="2013-12-04"/>
+    <cosponsor thomas_id="01686" joined="2013-12-04"/>
+    <cosponsor thomas_id="01943" joined="2013-12-04"/>
+    <cosponsor thomas_id="02150" joined="2014-02-26"/>
+    <cosponsor thomas_id="01814" joined="2013-11-13"/>
+    <cosponsor thomas_id="01653" joined="2013-10-01"/>
+    <cosponsor thomas_id="00766" joined="2013-10-10"/>
+    <cosponsor thomas_id="01504" joined="2013-10-30"/>
+    <cosponsor thomas_id="01730" joined="2013-10-09"/>
+    <cosponsor thomas_id="00808" joined="2013-10-02"/>
+    <cosponsor thomas_id="01811" joined="2013-10-16"/>
+    <cosponsor thomas_id="00832" joined="2013-10-01"/>
+    <cosponsor thomas_id="02117" joined="2013-10-02"/>
+    <cosponsor thomas_id="00850" joined="2013-09-27"/>
+    <cosponsor thomas_id="00854" joined="2013-11-13"/>
+    <cosponsor thomas_id="00868" joined="2013-10-16"/>
+    <cosponsor thomas_id="00893" joined="2013-12-12"/>
+    <cosponsor thomas_id="02097" joined="2013-10-02"/>
+    <cosponsor thomas_id="01929" joined="2013-10-30"/>
+    <cosponsor thomas_id="02113" joined="2013-12-04"/>
+    <cosponsor thomas_id="01927" joined="2013-11-13"/>
+    <cosponsor thomas_id="02171" joined="2013-10-16"/>
+    <cosponsor thomas_id="01910" joined="2013-10-16"/>
+    <cosponsor thomas_id="00930" joined="2013-10-09"/>
+    <cosponsor thomas_id="01967" joined="2013-10-09"/>
+    <cosponsor thomas_id="00940" joined="2014-02-05"/>
+    <cosponsor thomas_id="00944" joined="2013-12-04"/>
+    <cosponsor thomas_id="02109" joined="2013-11-13"/>
+    <cosponsor thomas_id="01003" joined="2014-03-26"/>
+    <cosponsor thomas_id="01756" joined="2014-03-26"/>
+    <cosponsor thomas_id="01962" joined="2013-10-10"/>
+    <cosponsor thomas_id="01757" joined="2013-10-09"/>
+    <cosponsor thomas_id="01635" joined="2013-10-01"/>
+    <cosponsor thomas_id="01861" joined="2013-10-04"/>
+    <cosponsor thomas_id="01069" joined="2013-10-04"/>
+    <cosponsor thomas_id="01528" joined="2013-10-16"/>
+    <cosponsor thomas_id="01890" joined="2013-10-02"/>
+    <cosponsor thomas_id="02104" joined="2013-10-02"/>
+    <cosponsor thomas_id="02110" joined="2013-11-13"/>
+    <cosponsor thomas_id="01593" joined="2013-12-12"/>
+    <cosponsor thomas_id="01535" joined="2013-11-15"/>
+    <cosponsor thomas_id="01942" joined="2013-10-04"/>
+    <cosponsor thomas_id="01884" joined="2013-10-22"/>
+    <cosponsor thomas_id="01729" joined="2013-10-01"/>
+    <cosponsor thomas_id="02166" joined="2013-12-12"/>
+    <cosponsor thomas_id="01209" joined="2013-09-27"/>
+    <cosponsor thomas_id="01879" joined="2013-10-30"/>
+    <cosponsor thomas_id="01222" joined="2013-10-09"/>
+    <cosponsor thomas_id="01853" joined="2013-10-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-27" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Arab-Israeli relations"/>
+    <term name="Conflicts and wars"/>
+    <term name="Congressional tributes"/>
+    <term name="Department of State"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Federal officials"/>
+    <term name="Israel"/>
+    <term name="Middle East"/>
+    <term name="Palestinians"/>
+    <term name="Sovereignty, recognition, national governance and status"/>
+  </subjects>
+  <amendments/>
+  <summary>9/27/2013--Introduced.
+Expresses the sense of the House of Representatives that: (1) achievement of a two-state solution that enhances stability and security in the Middle East can ensure Israel's survival as a secure Jewish and democratic state and fulfill the legitimate aspirations of the Palestinian people for a state of their own; and (2) while the United States remains indispensable to any viable effort to achieve that goal, only the Israelis and the Palestinians can make the choices necessary to end their conflict.
+
+ Commends Secretary of State Kerry for his efforts with Israeli, Palestinian, and other Arab leaders to advance a negotiated two-state solution.
+
+ Supports a U.S. diplomatic initiative to facilitate direct negotiations between the Israelis and Palestinians, with the support of other Arab states and the international community, to reach an agreement to end their conflict.</summary>
+</bill>

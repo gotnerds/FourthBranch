@@ -1,0 +1,115 @@
+<bill session="113" type="h" number="1699" updated="2014-08-14T13:05:11-04:00">
+  <state datetime="2013-04-24">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-24"/>
+  </status>
+  <introduced datetime="2013-04-24"/>
+  <titles>
+    <title type="short" as="introduced">Genetically Engineered Food Right-to-Know Act</title>
+    <title type="official" as="introduced">To amend the Federal Food, Drug, and Cosmetic Act to require that genetically engineered food and foods that contains genetically engineered ingredients be labeled accordingly.</title>
+  </titles>
+  <sponsor thomas_id="00279"/>
+  <cosponsors>
+    <cosponsor thomas_id="00021" joined="2013-11-15"/>
+    <cosponsor thomas_id="02153" joined="2013-09-19"/>
+    <cosponsor thomas_id="00099" joined="2013-04-24"/>
+    <cosponsor thomas_id="01723" joined="2013-09-19"/>
+    <cosponsor thomas_id="02159" joined="2014-01-14"/>
+    <cosponsor thomas_id="01474" joined="2013-04-24"/>
+    <cosponsor thomas_id="01970" joined="2013-05-14"/>
+    <cosponsor thomas_id="02055" joined="2013-04-24"/>
+    <cosponsor thomas_id="01864" joined="2013-09-19"/>
+    <cosponsor thomas_id="01878" joined="2014-04-10"/>
+    <cosponsor thomas_id="01959" joined="2013-04-24"/>
+    <cosponsor thomas_id="00229" joined="2013-06-03"/>
+    <cosponsor thomas_id="00281" joined="2013-11-15"/>
+    <cosponsor thomas_id="00303" joined="2014-04-29"/>
+    <cosponsor thomas_id="01894" joined="2013-05-22"/>
+    <cosponsor thomas_id="01857" joined="2013-06-12"/>
+    <cosponsor thomas_id="00355" joined="2013-05-08"/>
+    <cosponsor thomas_id="00371" joined="2014-05-20"/>
+    <cosponsor thomas_id="02122" joined="2013-04-24"/>
+    <cosponsor thomas_id="01914" joined="2014-07-23"/>
+    <cosponsor thomas_id="01708" joined="2013-04-24"/>
+    <cosponsor thomas_id="00478" joined="2014-04-29"/>
+    <cosponsor thomas_id="01913" joined="2013-06-27"/>
+    <cosponsor thomas_id="01580" joined="2013-05-06"/>
+    <cosponsor thomas_id="02101" joined="2013-04-24"/>
+    <cosponsor thomas_id="02145" joined="2013-04-24"/>
+    <cosponsor thomas_id="01668" joined="2014-05-20"/>
+    <cosponsor thomas_id="01501" joined="2013-04-24"/>
+    <cosponsor thomas_id="00688" joined="2014-04-29"/>
+    <cosponsor thomas_id="00701" joined="2013-05-06"/>
+    <cosponsor thomas_id="02111" joined="2014-05-19"/>
+    <cosponsor thomas_id="00709" joined="2013-06-12"/>
+    <cosponsor thomas_id="00729" joined="2013-09-19"/>
+    <cosponsor thomas_id="00766" joined="2013-04-24"/>
+    <cosponsor thomas_id="01504" joined="2013-07-08"/>
+    <cosponsor thomas_id="01730" joined="2013-05-14"/>
+    <cosponsor thomas_id="00808" joined="2013-04-24"/>
+    <cosponsor thomas_id="00832" joined="2013-04-24"/>
+    <cosponsor thomas_id="00850" joined="2013-04-24"/>
+    <cosponsor thomas_id="01602" joined="2013-04-24"/>
+    <cosponsor thomas_id="00868" joined="2013-04-24"/>
+    <cosponsor thomas_id="02162" joined="2013-06-27"/>
+    <cosponsor thomas_id="02097" joined="2013-06-03"/>
+    <cosponsor thomas_id="01927" joined="2013-04-24"/>
+    <cosponsor thomas_id="01910" joined="2013-04-24"/>
+    <cosponsor thomas_id="00944" joined="2013-09-19"/>
+    <cosponsor thomas_id="01003" joined="2013-09-19"/>
+    <cosponsor thomas_id="01756" joined="2014-04-03"/>
+    <cosponsor thomas_id="01588" joined="2013-04-24"/>
+    <cosponsor thomas_id="01635" joined="2013-05-09"/>
+    <cosponsor thomas_id="01861" joined="2013-05-08"/>
+    <cosponsor thomas_id="01526" joined="2014-01-08"/>
+    <cosponsor thomas_id="01069" joined="2013-04-24"/>
+    <cosponsor thomas_id="01528" joined="2014-07-23"/>
+    <cosponsor thomas_id="01890" joined="2013-04-24"/>
+    <cosponsor thomas_id="02110" joined="2013-11-15"/>
+    <cosponsor thomas_id="01535" joined="2014-04-29"/>
+    <cosponsor thomas_id="01940" joined="2013-06-03"/>
+    <cosponsor thomas_id="01205" joined="2013-07-30"/>
+    <cosponsor thomas_id="01879" joined="2013-04-24"/>
+    <cosponsor thomas_id="02004" joined="2014-06-17"/>
+    <cosponsor thomas_id="01256" joined="2013-04-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-24" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-04-26">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="809"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Civil actions and liability"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Food supply, safety, and labeling"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Genetics"/>
+  </subjects>
+  <amendments/>
+  <summary>4/24/2013--Introduced.
+Genetically Engineered Food Right-to-Know Act - Amends the Federal Food, Drug, and Cosmetic Act to deem misbranded any food that has been genetically engineered or contains one or more genetically engineered ingredients, unless such information is clearly disclosed.
+
+Exempts from this requirement any food that: (1) is served in restaurants or other similar eating establishments, (2) is a medical food, (3) would be subject to such requirement solely because it was produced using a genetically engineered vaccine, or (4) would be subject to such requirement solely because it includes the use of a genetically engineered processing aid (including yeast) or enzyme.
+
+Defines "genetically engineered" as a material intended for human consumption that is: (1) an organism produced through the intentional use of genetic engineering, or (2) the progeny of intended sexual or asexual reproduction (or both) of one or more organisms that is the product of genetic engineering.
+
+Defines "genetically engineered ingredient" as an ingredient in a food that is derived from any part of an organism that has been genetically engineered, without regard to whether: (1) the altered molecular or cellular characteristics of the organism are detectable in the material, and (2) the organism is capable for use as human food.
+
+Excludes from penalties for misbranding of genetically engineered food or ingredients any recipient that establishes a guaranty or undertaking that: (1) is signed by, and contains the name and address of, a person residing in the United States from whom the recipient received the food in good faith (including the receipt of seeds to grow raw agricultural commodities); and (2) contains a statement to the effect that the food is not genetically engineered or does not contain a genetically engineered ingredient.
+
+Applies this exclusion from penalties without regard to the manner in which the recipient uses the food.
+
+Excludes an agricultural producer also from such penalties when a violation occurs because food the producer has grown, raised, or otherwise produced, which neither contains nor was produced with a genetically engineered material, is subsequently contaminated with a food that does contain or was produced with a genetically engineered material, and the agricultural producer has not intended any such contamination nor was negligent in the matter.</summary>
+</bill>

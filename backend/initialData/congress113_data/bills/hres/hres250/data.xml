@@ -1,0 +1,109 @@
+<bill session="113" type="hr" number="250" updated="2014-08-14T12:46:45-04:00">
+  <state datetime="2013-06-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-06"/>
+  </status>
+  <introduced datetime="2013-06-06"/>
+  <titles>
+    <title type="official" as="introduced">Expressing support for prayer at school board meetings.</title>
+  </titles>
+  <sponsor thomas_id="01855"/>
+  <cosponsors>
+    <cosponsor thomas_id="01460" joined="2013-07-10"/>
+    <cosponsor thomas_id="01858" joined="2013-11-13"/>
+    <cosponsor thomas_id="02135" joined="2013-11-14"/>
+    <cosponsor thomas_id="01753" joined="2013-06-06"/>
+    <cosponsor thomas_id="01748" joined="2013-06-06"/>
+    <cosponsor thomas_id="01882" joined="2013-06-06"/>
+    <cosponsor thomas_id="01840" joined="2013-06-06"/>
+    <cosponsor thomas_id="01752" joined="2013-06-06"/>
+    <cosponsor thomas_id="00211" joined="2013-06-06"/>
+    <cosponsor thomas_id="02121" joined="2013-07-30"/>
+    <cosponsor thomas_id="01805" joined="2013-11-15"/>
+    <cosponsor thomas_id="02067" joined="2013-08-01"/>
+    <cosponsor thomas_id="01924" joined="2013-06-06"/>
+    <cosponsor thomas_id="01683" joined="2013-06-06"/>
+    <cosponsor thomas_id="01707" joined="2013-06-06"/>
+    <cosponsor thomas_id="01737" joined="2013-06-06"/>
+    <cosponsor thomas_id="01720" joined="2013-06-06"/>
+    <cosponsor thomas_id="01801" joined="2013-08-02"/>
+    <cosponsor thomas_id="00446" joined="2013-07-08"/>
+    <cosponsor thomas_id="01979" joined="2013-06-06"/>
+    <cosponsor thomas_id="01933" joined="2013-06-06"/>
+    <cosponsor thomas_id="02026" joined="2013-06-06"/>
+    <cosponsor thomas_id="02032" joined="2013-06-06"/>
+    <cosponsor thomas_id="01749" joined="2013-09-26"/>
+    <cosponsor thomas_id="02140" joined="2013-11-15"/>
+    <cosponsor thomas_id="02020" joined="2013-06-06"/>
+    <cosponsor thomas_id="02028" joined="2013-06-06"/>
+    <cosponsor thomas_id="02015" joined="2013-06-06"/>
+    <cosponsor thomas_id="02046" joined="2013-06-06"/>
+    <cosponsor thomas_id="00603" joined="2013-06-06"/>
+    <cosponsor thomas_id="00612" joined="2013-06-06"/>
+    <cosponsor thomas_id="01868" joined="2013-07-16"/>
+    <cosponsor thomas_id="02051" joined="2013-08-01"/>
+    <cosponsor thomas_id="01724" joined="2013-06-06"/>
+    <cosponsor thomas_id="00636" joined="2013-11-19"/>
+    <cosponsor thomas_id="02100" joined="2013-11-13"/>
+    <cosponsor thomas_id="01834" joined="2013-06-06"/>
+    <cosponsor thomas_id="02050" joined="2013-06-26"/>
+    <cosponsor thomas_id="01885" joined="2013-06-06"/>
+    <cosponsor thomas_id="01505" joined="2013-06-13"/>
+    <cosponsor thomas_id="01685" joined="2013-06-06"/>
+    <cosponsor thomas_id="02156" joined="2013-08-01"/>
+    <cosponsor thomas_id="01758" joined="2013-06-06"/>
+    <cosponsor thomas_id="02034" joined="2013-06-06"/>
+    <cosponsor thomas_id="01955" joined="2013-06-25"/>
+    <cosponsor thomas_id="01738" joined="2013-07-18"/>
+    <cosponsor thomas_id="01514" joined="2013-06-06"/>
+    <cosponsor thomas_id="01915" joined="2013-06-06"/>
+    <cosponsor thomas_id="00940" joined="2013-06-06"/>
+    <cosponsor thomas_id="02073" joined="2013-06-06"/>
+    <cosponsor thomas_id="01954" joined="2013-06-06"/>
+    <cosponsor thomas_id="01848" joined="2013-06-06"/>
+    <cosponsor thomas_id="01892" joined="2013-06-06"/>
+    <cosponsor thomas_id="02000" joined="2013-06-06"/>
+    <cosponsor thomas_id="01952" joined="2013-06-06"/>
+    <cosponsor thomas_id="02128" joined="2013-06-06"/>
+    <cosponsor thomas_id="02161" joined="2013-06-06"/>
+    <cosponsor thomas_id="02002" joined="2013-06-06"/>
+    <cosponsor thomas_id="02152" joined="2013-06-06"/>
+    <cosponsor thomas_id="01779" joined="2013-06-06"/>
+    <cosponsor thomas_id="01688" joined="2013-06-06"/>
+    <cosponsor thomas_id="01238" joined="2013-06-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-06" state="REFERRED">
+      <text>Referred to the Committee on Education and the Workforce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-06-06">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2013-06-06">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2013-07-15">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Constitution and Civil Justice" code="HSJU10" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="sr" session="113" relation="unknown" number="11"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Elementary and secondary education"/>
+    <term name="First Amendment rights"/>
+    <term name="Religion"/>
+    <term name="School administration"/>
+  </subjects>
+  <amendments/>
+  <summary>6/6/2013--Introduced.
+Recognizes school boards as deliberative public bodies that should be free to engage in prayer at the beginning of meetings consistent with the prayer practice upheld in Marsh v. Chambers.
+
+Expresses support for the voluntary practice of prayer at the beginning of meetings of legislative bodies and other deliberative public bodies, including school board meetings.</summary>
+</bill>

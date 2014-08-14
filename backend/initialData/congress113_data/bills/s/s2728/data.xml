@@ -1,0 +1,24 @@
+<bill session="113" type="s" number="2728" updated="2014-08-14T14:08:02-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="short" as="introduced">Community-Based Medical Education Act of 2014</title>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to provide community-based medical education payments to primary care teaching centers, to provide for a Medicare indirect medical education performance adjustment, and to increase Medicare graduate medical education transparency, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01409"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

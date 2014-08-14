@@ -1,0 +1,26 @@
+<bill session="113" type="h" number="5317" updated="2014-08-14T13:36:52-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="short" as="introduced">P.J.'s Act</title>
+    <title type="official" as="introduced">To make the acquisition, installation, and maintenance of security cameras, safety lighting, and building locking mechanisms in public housing an eligible activity under community development block grant program.</title>
+  </titles>
+  <sponsor thomas_id="02149"/>
+  <cosponsors>
+    <cosponsor thomas_id="01564" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

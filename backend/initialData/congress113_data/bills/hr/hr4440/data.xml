@@ -1,0 +1,77 @@
+<bill session="113" type="h" number="4440" updated="2014-08-14T13:29:15-04:00">
+  <state datetime="2014-04-09">REFERRED</state>
+  <status>
+    <introduced datetime="2014-04-09"/>
+  </status>
+  <introduced datetime="2014-04-09"/>
+  <titles>
+    <title type="short" as="introduced">Horse Transportation Safety Act of 2014</title>
+    <title type="official" as="introduced">To amend title 49, United States Code, to prohibit the transportation of horses in interstate transportation in a motor vehicle containing 2 or more levels stacked on top of one another.</title>
+  </titles>
+  <sponsor thomas_id="01878"/>
+  <cosponsors>
+    <cosponsor thomas_id="01740" joined="2014-05-29"/>
+    <cosponsor thomas_id="00099" joined="2014-06-30"/>
+    <cosponsor thomas_id="01889" joined="2014-07-31"/>
+    <cosponsor thomas_id="01959" joined="2014-07-28"/>
+    <cosponsor thomas_id="00279" joined="2014-05-29"/>
+    <cosponsor thomas_id="01976" joined="2014-04-30"/>
+    <cosponsor thomas_id="00316" joined="2014-07-28"/>
+    <cosponsor thomas_id="00344" joined="2014-04-30"/>
+    <cosponsor thomas_id="00368" joined="2014-05-07"/>
+    <cosponsor thomas_id="01708" joined="2014-04-30"/>
+    <cosponsor thomas_id="02026" joined="2014-04-30"/>
+    <cosponsor thomas_id="01913" joined="2014-08-01"/>
+    <cosponsor thomas_id="00612" joined="2014-04-30"/>
+    <cosponsor thomas_id="02025" joined="2014-07-24"/>
+    <cosponsor thomas_id="01846" joined="2014-05-29"/>
+    <cosponsor thomas_id="00701" joined="2014-07-11"/>
+    <cosponsor thomas_id="00709" joined="2014-05-08"/>
+    <cosponsor thomas_id="01504" joined="2014-07-24"/>
+    <cosponsor thomas_id="01832" joined="2014-05-08"/>
+    <cosponsor thomas_id="00832" joined="2014-04-30"/>
+    <cosponsor thomas_id="00850" joined="2014-07-31"/>
+    <cosponsor thomas_id="02171" joined="2014-07-28"/>
+    <cosponsor thomas_id="01910" joined="2014-05-07"/>
+    <cosponsor thomas_id="00930" joined="2014-06-30"/>
+    <cosponsor thomas_id="01967" joined="2014-07-11"/>
+    <cosponsor thomas_id="01588" joined="2014-07-11"/>
+    <cosponsor thomas_id="01635" joined="2014-04-30"/>
+    <cosponsor thomas_id="01798" joined="2014-05-07"/>
+    <cosponsor thomas_id="01861" joined="2014-07-24"/>
+    <cosponsor thomas_id="01818" joined="2014-05-08"/>
+    <cosponsor thomas_id="01069" joined="2014-04-30"/>
+    <cosponsor thomas_id="01535" joined="2014-05-07"/>
+    <cosponsor thomas_id="01940" joined="2014-06-25"/>
+    <cosponsor thomas_id="01879" joined="2014-07-24"/>
+    <cosponsor thomas_id="01222" joined="2014-04-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-04-09" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2014-04-10">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Highways and Transit" code="HSPW12" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1459"/>
+    <bill type="s" session="113" relation="unknown" number="1459"/>
+  </relatedbills>
+  <subjects>
+    <term name="Animals"/>
+    <term name="Animal protection and human-animal relationships"/>
+    <term name="Civil actions and liability"/>
+    <term name="Mammals"/>
+    <term name="Motor carriers"/>
+    <term name="Motor vehicles"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>4/9/2014--Introduced.
+Horse Transportation Safety Act of 2014 - Prohibits a person from transporting a horse in interstate commerce in a motor vehicle (except a vehicle operated exclusively on rail or rails) containing two or more levels stacked on top of one another. Sets forth civil penalties for persons who knowingly violate such prohibition.</summary>
+</bill>

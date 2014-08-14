@@ -1,0 +1,51 @@
+<bill session="113" type="hr" number="111" updated="2014-08-14T12:45:35-04:00">
+  <state datetime="2013-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-12"/>
+  </status>
+  <introduced datetime="2013-03-12"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the House of Representatives that the President should refrain from any further taxpayer-funded vacations until the White House can be re-opened for public tours.</title>
+  </titles>
+  <sponsor thomas_id="02168"/>
+  <cosponsors>
+    <cosponsor thomas_id="02155" joined="2013-03-12"/>
+    <cosponsor thomas_id="00211" joined="2013-06-27"/>
+    <cosponsor thomas_id="01670" joined="2013-03-12"/>
+    <cosponsor thomas_id="02065" joined="2013-03-12"/>
+    <cosponsor thomas_id="02020" joined="2013-03-12"/>
+    <cosponsor thomas_id="01921" joined="2013-03-12"/>
+    <cosponsor thomas_id="00603" joined="2013-03-15"/>
+    <cosponsor thomas_id="00612" joined="2013-03-12"/>
+    <cosponsor thomas_id="00636" joined="2013-03-12"/>
+    <cosponsor thomas_id="02059" joined="2013-03-12"/>
+    <cosponsor thomas_id="02034" joined="2013-03-12"/>
+    <cosponsor thomas_id="01955" joined="2013-03-12"/>
+    <cosponsor thomas_id="01802" joined="2013-07-25"/>
+    <cosponsor thomas_id="01009" joined="2013-03-12"/>
+    <cosponsor thomas_id="02047" joined="2013-03-15"/>
+    <cosponsor thomas_id="01779" joined="2013-03-12"/>
+    <cosponsor thomas_id="01222" joined="2013-06-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-12" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Executive Office of the President"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Presidents and presidential powers"/>
+    <term name="Travel and tourism"/>
+  </subjects>
+  <amendments/>
+  <summary>3/12/2013--Introduced.
+Calls for the President to refrain from any further vacations at the taxpayers' expense until such sums have been saved that the White House can be reopened for public tours.</summary>
+</bill>

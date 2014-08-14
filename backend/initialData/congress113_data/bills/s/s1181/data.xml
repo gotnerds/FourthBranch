@@ -1,0 +1,76 @@
+<bill session="113" type="s" number="1181" updated="2014-08-14T13:54:57-04:00">
+  <state datetime="2013-06-18">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-18"/>
+  </status>
+  <introduced datetime="2013-06-18"/>
+  <titles>
+    <title type="short" as="introduced">Real Estate Investment and Jobs Act of 2013</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to exempt certain stock of real estate investment trusts from the tax on foreign investments in United States real property interests, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00791"/>
+  <cosponsors>
+    <cosponsor thomas_id="01881" joined="2013-06-18"/>
+    <cosponsor thomas_id="01898" joined="2013-06-18"/>
+    <cosponsor thomas_id="01965" joined="2013-06-18"/>
+    <cosponsor thomas_id="01687" joined="2013-06-18"/>
+    <cosponsor thomas_id="00116" joined="2013-06-18"/>
+    <cosponsor thomas_id="00136" joined="2014-01-16"/>
+    <cosponsor thomas_id="00153" joined="2013-07-31"/>
+    <cosponsor thomas_id="00172" joined="2013-06-18"/>
+    <cosponsor thomas_id="00174" joined="2013-06-18"/>
+    <cosponsor thomas_id="00179" joined="2013-06-18"/>
+    <cosponsor thomas_id="01828" joined="2014-03-04"/>
+    <cosponsor thomas_id="01984" joined="2013-06-18"/>
+    <cosponsor thomas_id="01692" joined="2013-06-18"/>
+    <cosponsor thomas_id="00250" joined="2013-06-18"/>
+    <cosponsor thomas_id="01542" joined="2013-06-18"/>
+    <cosponsor thomas_id="01866" joined="2013-06-18"/>
+    <cosponsor thomas_id="00452" joined="2013-08-01"/>
+    <cosponsor thomas_id="01902" joined="2013-06-18"/>
+    <cosponsor thomas_id="01863" joined="2014-02-03"/>
+    <cosponsor thomas_id="01608" joined="2013-06-18"/>
+    <cosponsor thomas_id="01899" joined="2013-09-10"/>
+    <cosponsor thomas_id="01826" joined="2013-07-08"/>
+    <cosponsor thomas_id="01546" joined="2013-11-12"/>
+    <cosponsor thomas_id="01900" joined="2013-12-17"/>
+    <cosponsor thomas_id="01837" joined="2013-07-29"/>
+    <cosponsor thomas_id="00859" joined="2013-06-18"/>
+    <cosponsor thomas_id="00924" joined="2014-05-14"/>
+    <cosponsor thomas_id="01701" joined="2014-01-27"/>
+    <cosponsor thomas_id="01896" joined="2013-11-07"/>
+    <cosponsor thomas_id="00968" joined="2013-06-18"/>
+    <cosponsor thomas_id="02173" joined="2014-03-05"/>
+    <cosponsor thomas_id="01036" joined="2013-06-18"/>
+    <cosponsor thomas_id="01901" joined="2013-06-18"/>
+    <cosponsor thomas_id="01531" joined="2013-06-18"/>
+    <cosponsor thomas_id="01829" joined="2013-06-18"/>
+    <cosponsor thomas_id="01534" joined="2013-06-18"/>
+    <cosponsor thomas_id="02085" joined="2013-07-09"/>
+    <cosponsor thomas_id="01897" joined="2014-02-24"/>
+    <cosponsor thomas_id="01226" joined="2013-06-20"/>
+    <cosponsor thomas_id="01247" joined="2013-06-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-18" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="2870"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Financial services and investments"/>
+    <term name="Real estate business"/>
+    <term name="Securities"/>
+    <term name="Taxation of foreign income"/>
+    <term name="U.S. and foreign investments"/>
+  </subjects>
+  <amendments/>
+  <summary>6/18/2013--Introduced.
+Real Estate Investment and Jobs Act of 2013 - Amends the Internal Revenue Code to increase from 5% to 10% the allowable ownership interest in real estate investment trust (REIT) stock for purposes of tax exemptions allowed by the Foreign Investment in Real Property Tax Act relating to foreign investment in United States real property interests.</summary>
+</bill>

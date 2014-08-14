@@ -1,0 +1,58 @@
+<bill session="113" type="h" number="1571" updated="2014-08-14T13:04:03-04:00">
+  <state datetime="2013-04-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-15"/>
+  </status>
+  <introduced datetime="2013-04-15"/>
+  <titles>
+    <title type="short" as="introduced">Buffett Rule Act of 2013</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide for taxpayers making donations with their returns of income tax to the Federal Government to pay down the public debt.</title>
+  </titles>
+  <sponsor thomas_id="01892"/>
+  <cosponsors>
+    <cosponsor thomas_id="01748" joined="2013-04-15"/>
+    <cosponsor thomas_id="00186" joined="2013-04-15"/>
+    <cosponsor thomas_id="01742" joined="2013-04-18"/>
+    <cosponsor thomas_id="02121" joined="2013-04-15"/>
+    <cosponsor thomas_id="02062" joined="2013-04-15"/>
+    <cosponsor thomas_id="01924" joined="2013-04-15"/>
+    <cosponsor thomas_id="02065" joined="2013-04-15"/>
+    <cosponsor thomas_id="01707" joined="2013-04-18"/>
+    <cosponsor thomas_id="01979" joined="2013-04-15"/>
+    <cosponsor thomas_id="02032" joined="2013-04-15"/>
+    <cosponsor thomas_id="02028" joined="2013-04-18"/>
+    <cosponsor thomas_id="01724" joined="2013-04-15"/>
+    <cosponsor thomas_id="02142" joined="2013-04-15"/>
+    <cosponsor thomas_id="02130" joined="2013-04-15"/>
+    <cosponsor thomas_id="02059" joined="2013-04-15"/>
+    <cosponsor thomas_id="01758" joined="2013-04-18"/>
+    <cosponsor thomas_id="02034" joined="2013-07-31"/>
+    <cosponsor thomas_id="02157" joined="2013-04-15"/>
+    <cosponsor thomas_id="01514" joined="2013-04-15"/>
+    <cosponsor thomas_id="01954" joined="2013-04-15"/>
+    <cosponsor thomas_id="02017" joined="2013-04-15"/>
+    <cosponsor thomas_id="01981" joined="2013-04-15"/>
+    <cosponsor thomas_id="02021" joined="2013-04-15"/>
+    <cosponsor thomas_id="02115" joined="2013-04-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-15" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="1336"/>
+    <bill type="s" session="113" relation="identical" number="720"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <summary>4/15/2013--Introduced.
+Buffett Rule Act of 2013 - Amends the Internal Revenue Code to allow taxpayers to donate an amount (not less than $1), in addition to any tax owed, which shall be deposited in the general fund of the Treasury and transferred to an account used to reduce the public debt.&#160; Requires such donation to be designated on&#160;a taxpayer's income tax return at the time such return is filed.</summary>
+</bill>

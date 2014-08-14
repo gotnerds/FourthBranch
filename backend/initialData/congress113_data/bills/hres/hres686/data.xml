@@ -1,0 +1,25 @@
+<bill session="113" type="hr" number="686" updated="2014-08-14T12:50:28-04:00">
+  <state datetime="2014-07-24">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-24"/>
+  </status>
+  <introduced datetime="2014-07-24"/>
+  <titles>
+    <title type="official" as="introduced">Providing for consideration of the bill (H.R. 2821) to provide tax relief for American workers and businesses, to put workers back on the job while rebuilding and modernizing America, and to provide pathways back to work for Americans looking for jobs.</title>
+  </titles>
+  <sponsor thomas_id="02004"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-24" state="REFERRED">
+      <text>Referred to the House Committee on Rules.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSRU" name="House Rules" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>7/24/2014--Introduced.
+Sets forth the rule for consideration of the bill (H.R. 2821) to provide tax relief for American workers and businesses, to put workers back on the job while rebuilding and modernizing America, and to provide pathways back to work for Americans looking for jobs.</summary>
+</bill>

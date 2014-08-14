@@ -1,0 +1,33 @@
+<bill session="113" type="h" number="5304" updated="2014-08-14T13:36:45-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="short" as="introduced">Audiology Patient Choice Act of 2014</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to provide for treatment of audiologists as physicians for purposes of furnishing audiology services under the Medicare program, to improve access to the audiology services available for coverage under the Medicare program and to enable beneficiaries to have their choice of a qualified audiologist to provide such services, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01921"/>
+  <cosponsors>
+    <cosponsor thomas_id="02159" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Ways and Means</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

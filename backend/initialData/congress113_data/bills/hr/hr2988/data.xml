@@ -1,0 +1,47 @@
+<bill session="113" type="h" number="2988" updated="2014-08-14T13:16:56-04:00">
+  <state datetime="2013-08-02">REFERRED</state>
+  <status>
+    <introduced datetime="2013-08-02"/>
+  </status>
+  <introduced datetime="2013-08-02"/>
+  <titles>
+    <title type="short" as="introduced">Forty Hours Is Full Time Act of 2013</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to modify the definition of full-time employee for purposes of the employer mandate in the Patient Protection and Affordable Care Act.</title>
+  </titles>
+  <sponsor thomas_id="01781"/>
+  <cosponsors>
+    <cosponsor thomas_id="01780" joined="2013-08-02"/>
+    <cosponsor thomas_id="01799" joined="2013-12-11"/>
+    <cosponsor thomas_id="01671" joined="2013-08-02"/>
+    <cosponsor thomas_id="01505" joined="2013-08-02"/>
+    <cosponsor thomas_id="02142" joined="2013-09-27"/>
+    <cosponsor thomas_id="00910" joined="2013-08-02"/>
+    <cosponsor thomas_id="00940" joined="2014-02-21"/>
+    <cosponsor thomas_id="00979" joined="2014-03-10"/>
+    <cosponsor thomas_id="01950" joined="2013-08-02"/>
+    <cosponsor thomas_id="01664" joined="2013-10-11"/>
+    <cosponsor thomas_id="02123" joined="2013-08-02" withdrawn="2014-04-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-08-02" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="701"/>
+    <bill type="s" session="113" relation="identical" number="1188"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Sales and excise taxes"/>
+  </subjects>
+  <amendments/>
+  <summary>8/2/2013--Introduced.
+Forty Hours is Full Time Act of 2013 - Amends the Internal Revenue Code, with respect to the employer mandate to provide health care coverage, to: (1) modify the formula for calculating the number of full-time employees employed by an applicable large employer subject to the mandate; and (2) define a "full-time employee" as an employee who is employed on average at least 40 hours per week (currently, 30 hours).</summary>
+</bill>

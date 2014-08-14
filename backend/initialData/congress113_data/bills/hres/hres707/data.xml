@@ -1,0 +1,40 @@
+<bill session="113" type="hr" number="707" updated="2014-08-14T12:50:38-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="official" as="introduced">Condemning all forms of anti-Semitism and rejecting attempts to justify anti-Jewish hatred or violent attacks as an acceptable expression of disapproval or frustration over political events in the Middle East or elsewhere.</title>
+  </titles>
+  <sponsor thomas_id="00850"/>
+  <cosponsors>
+    <cosponsor thomas_id="01838" joined="2014-08-01"/>
+    <cosponsor thomas_id="01487" joined="2014-08-01"/>
+    <cosponsor thomas_id="00709" joined="2014-07-31"/>
+    <cosponsor thomas_id="01848" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>7/31/2014--Introduced.
+Condemns: (1) all forms of anti-Semitism and rejects attempts to justify anti-Jewish hatred or violent attacks as an acceptable expression of disapproval over political events, and (2) the comparison of Israel to Nazis perpetrating a Holocaust or genocide.
+
+ Applauds those foreign leaders, especially in France, Italy, and Germany, who have condemned anti-Semitic acts, and calls on those who have yet to take firm action against anti-Semitism in their countries to do so.
+
+ Reaffirms support for the mandate of the United States Special Envoy to Monitor and Combat Anti-Semitism.
+
+Supports Holocaust educational programs at home and abroad.
+
+Urges the Secretary of State to:
+
+ maintain the fight against anti-Semitism as a U.S. foreign policy priority, urge governments to ensure that adequate laws are in place to punish anti-Semitic violence and hate crimes as well as establish mechanisms to investigate and punish perpetrators, continue U.S. reporting on anti-Semitism as a human rights and religious freedom issue, provide training for diplomatic and law enforcement personnel posted abroad to report on anti-Semitic incidents, deepen engagement with the Organization for Security and Cooperation in Europe and support its specialized efforts to monitor and address anti-Semitism, and oppose efforts to prevent any individual from exercising his or her religion without fear of prosecution or violence.</summary>
+</bill>

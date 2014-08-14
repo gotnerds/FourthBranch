@@ -1,0 +1,140 @@
+<bill session="113" type="h" number="628" updated="2014-08-14T12:56:05-04:00">
+  <state datetime="2013-02-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-13"/>
+  </status>
+  <introduced datetime="2013-02-13"/>
+  <titles>
+    <title type="short" as="introduced">Mental Health in Schools Act of 2013</title>
+    <title type="official" as="introduced">To amend the Public Health Service Act to revise and extend projects relating to children and violence to provide access to school-based comprehensive mental health programs.</title>
+  </titles>
+  <sponsor thomas_id="01602"/>
+  <cosponsors>
+    <cosponsor thomas_id="02093" joined="2013-02-13"/>
+    <cosponsor thomas_id="00099" joined="2013-03-13"/>
+    <cosponsor thomas_id="02092" joined="2013-02-28"/>
+    <cosponsor thomas_id="02106" joined="2013-02-13"/>
+    <cosponsor thomas_id="02107" joined="2013-03-15"/>
+    <cosponsor thomas_id="02159" joined="2013-02-13"/>
+    <cosponsor thomas_id="01839" joined="2013-02-13"/>
+    <cosponsor thomas_id="01474" joined="2013-02-13"/>
+    <cosponsor thomas_id="01970" joined="2013-02-13"/>
+    <cosponsor thomas_id="02055" joined="2013-02-13"/>
+    <cosponsor thomas_id="01654" joined="2013-08-02"/>
+    <cosponsor thomas_id="01878" joined="2013-04-18"/>
+    <cosponsor thomas_id="01959" joined="2013-03-13"/>
+    <cosponsor thomas_id="00229" joined="2013-02-13"/>
+    <cosponsor thomas_id="01836" joined="2013-02-13"/>
+    <cosponsor thomas_id="01807" joined="2013-08-02"/>
+    <cosponsor thomas_id="01641" joined="2013-03-21"/>
+    <cosponsor thomas_id="01479" joined="2013-02-13"/>
+    <cosponsor thomas_id="02133" joined="2014-05-09"/>
+    <cosponsor thomas_id="02096" joined="2013-03-13"/>
+    <cosponsor thomas_id="01857" joined="2013-02-13"/>
+    <cosponsor thomas_id="00355" joined="2013-07-08"/>
+    <cosponsor thomas_id="02114" joined="2013-03-13"/>
+    <cosponsor thomas_id="00371" joined="2014-07-22"/>
+    <cosponsor thomas_id="02043" joined="2013-08-02"/>
+    <cosponsor thomas_id="01803" joined="2013-02-13"/>
+    <cosponsor thomas_id="01708" joined="2013-02-13"/>
+    <cosponsor thomas_id="02010" joined="2013-04-12"/>
+    <cosponsor thomas_id="00511" joined="2013-02-13"/>
+    <cosponsor thomas_id="01913" joined="2013-03-15"/>
+    <cosponsor thomas_id="01490" joined="2013-02-13"/>
+    <cosponsor thomas_id="01580" joined="2014-03-14"/>
+    <cosponsor thomas_id="01634" joined="2014-03-14"/>
+    <cosponsor thomas_id="00599" joined="2013-02-13"/>
+    <cosponsor thomas_id="01843" joined="2013-07-08"/>
+    <cosponsor thomas_id="00616" joined="2013-02-13"/>
+    <cosponsor thomas_id="02169" joined="2014-07-31"/>
+    <cosponsor thomas_id="01907" joined="2013-05-23"/>
+    <cosponsor thomas_id="01668" joined="2013-03-15"/>
+    <cosponsor thomas_id="01583" joined="2013-03-15"/>
+    <cosponsor thomas_id="01501" joined="2013-02-13"/>
+    <cosponsor thomas_id="00683" joined="2013-02-28"/>
+    <cosponsor thomas_id="00688" joined="2014-01-28"/>
+    <cosponsor thomas_id="01846" joined="2013-02-13"/>
+    <cosponsor thomas_id="00701" joined="2014-01-28"/>
+    <cosponsor thomas_id="02111" joined="2013-02-13"/>
+    <cosponsor thomas_id="02146" joined="2013-02-13"/>
+    <cosponsor thomas_id="01939" joined="2013-02-13"/>
+    <cosponsor thomas_id="01814" joined="2014-05-09"/>
+    <cosponsor thomas_id="01503" joined="2013-02-13"/>
+    <cosponsor thomas_id="00766" joined="2013-04-12"/>
+    <cosponsor thomas_id="02148" joined="2013-02-28"/>
+    <cosponsor thomas_id="01811" joined="2013-02-13"/>
+    <cosponsor thomas_id="00832" joined="2013-04-12"/>
+    <cosponsor thomas_id="02108" joined="2013-02-13"/>
+    <cosponsor thomas_id="00868" joined="2014-03-14"/>
+    <cosponsor thomas_id="02162" joined="2013-04-18"/>
+    <cosponsor thomas_id="00893" joined="2013-02-13"/>
+    <cosponsor thomas_id="02097" joined="2013-07-08"/>
+    <cosponsor thomas_id="01835" joined="2013-02-13"/>
+    <cosponsor thomas_id="01929" joined="2013-02-13"/>
+    <cosponsor thomas_id="00930" joined="2014-07-25"/>
+    <cosponsor thomas_id="00940" joined="2013-03-05"/>
+    <cosponsor thomas_id="00944" joined="2013-02-13"/>
+    <cosponsor thomas_id="02023" joined="2014-06-17"/>
+    <cosponsor thomas_id="00997" joined="2013-02-13"/>
+    <cosponsor thomas_id="02109" joined="2013-02-13"/>
+    <cosponsor thomas_id="01003" joined="2013-02-13"/>
+    <cosponsor thomas_id="01756" joined="2013-07-08"/>
+    <cosponsor thomas_id="01757" joined="2013-08-02"/>
+    <cosponsor thomas_id="01588" joined="2013-03-05"/>
+    <cosponsor thomas_id="01635" joined="2013-02-13"/>
+    <cosponsor thomas_id="01037" joined="2013-02-13"/>
+    <cosponsor thomas_id="01042" joined="2013-08-02"/>
+    <cosponsor thomas_id="01861" joined="2013-02-13"/>
+    <cosponsor thomas_id="01818" joined="2013-02-13"/>
+    <cosponsor thomas_id="01069" joined="2013-02-13"/>
+    <cosponsor thomas_id="01593" joined="2013-02-13"/>
+    <cosponsor thomas_id="01940" joined="2013-03-21"/>
+    <cosponsor thomas_id="01942" joined="2013-02-13"/>
+    <cosponsor thomas_id="01884" joined="2013-02-28"/>
+    <cosponsor thomas_id="01729" joined="2013-02-13"/>
+    <cosponsor thomas_id="02112" joined="2013-02-13"/>
+    <cosponsor thomas_id="02166" joined="2014-01-28"/>
+    <cosponsor thomas_id="02167" joined="2013-02-13"/>
+    <cosponsor thomas_id="01184" joined="2013-02-13"/>
+    <cosponsor thomas_id="01856" joined="2013-02-13"/>
+    <cosponsor thomas_id="01205" joined="2013-02-13"/>
+    <cosponsor thomas_id="02004" joined="2013-04-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-13" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-02-15">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="2910"/>
+    <bill type="h" session="113" relation="unknown" number="4574"/>
+    <bill type="h" session="113" relation="unknown" number="4783"/>
+    <bill type="s" session="113" relation="identical" number="195"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Child health"/>
+    <term name="Education programs funding"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Mental health"/>
+    <term name="Teaching, teachers, curricula"/>
+    <term name="Violent crime"/>
+  </subjects>
+  <amendments/>
+  <summary>2/13/2013--Introduced.
+Mental Health in Schools Act of 2013 - Amends the Public Health Service Act to revise a community children and violence program to assist local communities and schools in applying a public health approach to mental health services, including by: (1) revising eligibility requirements for a grant, contract, or cooperative agreement; and (2) providing for comprehensive school mental health programs that are culturally and linguistically appropriate, trauma-informed, and age appropriate. Requires a comprehensive school mental health program funded under this Act to assist children in dealing with trauma and violence. Makes only a partnership between a local educational agency and at least one community program or agency that is involved in mental health eligible for such funding.
+
+ Sets forth assurances required for eligibility, including that: (1) the local education agency will enter into a memorandum of understanding with at least one relevant community-based entity that clearly states the responsibilities of each partner; (2) the program will include training of all school personnel, family members of children with mental health disorders, and concerned members of the community; and (3) the program will demonstrate the measures to be taken to sustain the program after funding terminates.
+
+Requires grantees to comply with the health information privacy requirements of the Health Insurance Portability and Accountability Act of 1996 (HIPAA).
+
+Requires the Administrator of the Substance Abuse and Mental Health Services Administration to develop a fiscally appropriate process for evaluating grant program activities, including: (1) the development of guidelines for the submission of program data by recipients; and (2) the development of measures of outcomes to be applied by recipients in evaluating programs, to include student and family measures and local educational measures.</summary>
+</bill>

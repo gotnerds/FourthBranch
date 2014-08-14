@@ -1,0 +1,178 @@
+<bill session="113" type="h" number="5078" updated="2014-08-14T13:34:49-04:00">
+  <state datetime="2014-07-16">REPORTED</state>
+  <status>
+    <unknown datetime="2014-07-16"/>
+  </status>
+  <introduced datetime="2014-07-11"/>
+  <titles>
+    <title type="short" as="introduced">Waters of the United States Regulatory Overreach Protection Act of 2014</title>
+    <title type="official" as="introduced">To preserve existing rights and responsibilities with respect to waters of the United States, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02000"/>
+  <cosponsors>
+    <cosponsor thomas_id="02029" joined="2014-07-31"/>
+    <cosponsor thomas_id="02090" joined="2014-07-28"/>
+    <cosponsor thomas_id="01858" joined="2014-07-29"/>
+    <cosponsor thomas_id="02054" joined="2014-07-16"/>
+    <cosponsor thomas_id="01838" joined="2014-07-30"/>
+    <cosponsor thomas_id="01748" joined="2014-07-23"/>
+    <cosponsor thomas_id="01468" joined="2014-07-23"/>
+    <cosponsor thomas_id="02155" joined="2014-07-14"/>
+    <cosponsor thomas_id="01987" joined="2014-07-16"/>
+    <cosponsor thomas_id="01840" joined="2014-07-28"/>
+    <cosponsor thomas_id="00165" joined="2014-07-30"/>
+    <cosponsor thomas_id="01676" joined="2014-07-11"/>
+    <cosponsor thomas_id="00186" joined="2014-07-24"/>
+    <cosponsor thomas_id="01742" joined="2014-07-30"/>
+    <cosponsor thomas_id="02151" joined="2014-07-14"/>
+    <cosponsor thomas_id="02121" joined="2014-07-14"/>
+    <cosponsor thomas_id="02098" joined="2014-07-16"/>
+    <cosponsor thomas_id="02144" joined="2014-07-14"/>
+    <cosponsor thomas_id="01989" joined="2014-07-11"/>
+    <cosponsor thomas_id="01670" joined="2014-07-24"/>
+    <cosponsor thomas_id="02126" joined="2014-07-16"/>
+    <cosponsor thomas_id="01995" joined="2014-07-14"/>
+    <cosponsor thomas_id="01799" joined="2014-07-28"/>
+    <cosponsor thomas_id="02116" joined="2014-07-29"/>
+    <cosponsor thomas_id="01717" joined="2014-07-28"/>
+    <cosponsor thomas_id="02072" joined="2014-07-29"/>
+    <cosponsor thomas_id="02125" joined="2014-07-11"/>
+    <cosponsor thomas_id="01924" joined="2014-07-30"/>
+    <cosponsor thomas_id="02065" joined="2014-07-30"/>
+    <cosponsor thomas_id="01683" joined="2014-07-28"/>
+    <cosponsor thomas_id="01998" joined="2014-07-29"/>
+    <cosponsor thomas_id="02049" joined="2014-07-11"/>
+    <cosponsor thomas_id="02043" joined="2014-07-31"/>
+    <cosponsor thomas_id="01720" joined="2014-07-31"/>
+    <cosponsor thomas_id="00446" joined="2014-07-31"/>
+    <cosponsor thomas_id="01992" joined="2014-07-16"/>
+    <cosponsor thomas_id="02058" joined="2014-07-28"/>
+    <cosponsor thomas_id="01656" joined="2014-07-16"/>
+    <cosponsor thomas_id="01979" joined="2014-07-23"/>
+    <cosponsor thomas_id="01990" joined="2014-07-16"/>
+    <cosponsor thomas_id="01922" joined="2014-07-31"/>
+    <cosponsor thomas_id="02044" joined="2014-07-14"/>
+    <cosponsor thomas_id="02026" joined="2014-07-31"/>
+    <cosponsor thomas_id="02032" joined="2014-07-31"/>
+    <cosponsor thomas_id="00512" joined="2014-07-23"/>
+    <cosponsor thomas_id="02040" joined="2014-07-24"/>
+    <cosponsor thomas_id="02020" joined="2014-07-16"/>
+    <cosponsor thomas_id="02028" joined="2014-07-29"/>
+    <cosponsor thomas_id="02069" joined="2014-07-23"/>
+    <cosponsor thomas_id="02199" joined="2014-07-11"/>
+    <cosponsor thomas_id="00612" joined="2014-07-16"/>
+    <cosponsor thomas_id="02154" joined="2014-07-31"/>
+    <cosponsor thomas_id="02051" joined="2014-07-23"/>
+    <cosponsor thomas_id="02014" joined="2014-07-29"/>
+    <cosponsor thomas_id="01733" joined="2014-07-23"/>
+    <cosponsor thomas_id="02011" joined="2014-07-28"/>
+    <cosponsor thomas_id="02100" joined="2014-07-30"/>
+    <cosponsor thomas_id="02050" joined="2014-07-16"/>
+    <cosponsor thomas_id="00666" joined="2014-07-23"/>
+    <cosponsor thomas_id="01885" joined="2014-07-17"/>
+    <cosponsor thomas_id="02033" joined="2014-07-28"/>
+    <cosponsor thomas_id="00711" joined="2014-07-11"/>
+    <cosponsor thomas_id="01931" joined="2014-07-23"/>
+    <cosponsor thomas_id="01960" joined="2014-07-28"/>
+    <cosponsor thomas_id="02053" joined="2014-07-16"/>
+    <cosponsor thomas_id="01671" joined="2014-07-11"/>
+    <cosponsor thomas_id="01908" joined="2014-07-14"/>
+    <cosponsor thomas_id="02074" joined="2014-07-23"/>
+    <cosponsor thomas_id="02142" joined="2014-07-14"/>
+    <cosponsor thomas_id="01731" joined="2014-07-24"/>
+    <cosponsor thomas_id="01685" joined="2014-07-24"/>
+    <cosponsor thomas_id="02156" joined="2014-07-11"/>
+    <cosponsor thomas_id="02059" joined="2014-07-23"/>
+    <cosponsor thomas_id="01758" joined="2014-07-31"/>
+    <cosponsor thomas_id="02060" joined="2014-07-17"/>
+    <cosponsor thomas_id="02001" joined="2014-07-23"/>
+    <cosponsor thomas_id="01710" joined="2014-07-28"/>
+    <cosponsor thomas_id="01738" joined="2014-07-17"/>
+    <cosponsor thomas_id="02157" joined="2014-07-14"/>
+    <cosponsor thomas_id="00910" joined="2014-07-11"/>
+    <cosponsor thomas_id="02141" joined="2014-07-30"/>
+    <cosponsor thomas_id="01802" joined="2014-07-24"/>
+    <cosponsor thomas_id="02022" joined="2014-07-23"/>
+    <cosponsor thomas_id="01915" joined="2014-07-30"/>
+    <cosponsor thomas_id="00940" joined="2014-07-11"/>
+    <cosponsor thomas_id="01982" joined="2014-07-24"/>
+    <cosponsor thomas_id="02073" joined="2014-07-11"/>
+    <cosponsor thomas_id="02068" joined="2014-07-30"/>
+    <cosponsor thomas_id="01986" joined="2014-07-24"/>
+    <cosponsor thomas_id="00977" joined="2014-07-31"/>
+    <cosponsor thomas_id="02017" joined="2014-07-17"/>
+    <cosponsor thomas_id="01916" joined="2014-07-23"/>
+    <cosponsor thomas_id="02003" joined="2014-07-23"/>
+    <cosponsor thomas_id="01009" joined="2014-07-30"/>
+    <cosponsor thomas_id="01920" joined="2014-07-28"/>
+    <cosponsor thomas_id="01950" joined="2014-07-11"/>
+    <cosponsor thomas_id="01994" joined="2014-07-28"/>
+    <cosponsor thomas_id="01041" joined="2014-07-31"/>
+    <cosponsor thomas_id="01527" joined="2014-07-29"/>
+    <cosponsor thomas_id="01681" joined="2014-07-11"/>
+    <cosponsor thomas_id="01590" joined="2014-07-24"/>
+    <cosponsor thomas_id="02191" joined="2014-07-14"/>
+    <cosponsor thomas_id="01075" joined="2014-07-16"/>
+    <cosponsor thomas_id="02168" joined="2014-07-23"/>
+    <cosponsor thomas_id="01981" joined="2014-07-24"/>
+    <cosponsor thomas_id="01155" joined="2014-07-17"/>
+    <cosponsor thomas_id="01664" joined="2014-07-29"/>
+    <cosponsor thomas_id="01997" joined="2014-07-17"/>
+    <cosponsor thomas_id="01177" joined="2014-07-23"/>
+    <cosponsor thomas_id="02105" joined="2014-07-28"/>
+    <cosponsor thomas_id="01855" joined="2014-07-30"/>
+    <cosponsor thomas_id="01596" joined="2014-07-29"/>
+    <cosponsor thomas_id="02161" joined="2014-07-30"/>
+    <cosponsor thomas_id="02002" joined="2014-07-28"/>
+    <cosponsor thomas_id="02152" joined="2014-07-31"/>
+    <cosponsor thomas_id="01779" joined="2014-07-28"/>
+    <cosponsor thomas_id="01222" joined="2014-07-28"/>
+    <cosponsor thomas_id="01991" joined="2014-07-16"/>
+    <cosponsor thomas_id="02115" joined="2014-07-29"/>
+    <cosponsor thomas_id="01256" joined="2014-07-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-11" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2014-07-14">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+    <action datetime="2014-07-16">
+      <text>Subcommittee on Water Resources and Environment Discharged.</text>
+    </action>
+    <action datetime="2014-07-16">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-07-16" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+    <action datetime="2014-07-31T15:29:00-04:00">
+      <text>Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-568.</text>
+    </action>
+    <calendar datetime="2014-07-31T15:30:00-04:00" calendar="Union" number="422">
+      <text>Placed on the Union Calendar, Calendar No. 422.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting"/>
+    <committee subcommittee="Water Resources and Environment" code="HSPW02" name="House Transportation and Infrastructure" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2496"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Agricultural conservation and pollution"/>
+    <term name="Army Corps of Engineers"/>
+    <term name="Congressional oversight"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Government information and archives"/>
+    <term name="Intergovernmental relations"/>
+    <term name="State and local government operations"/>
+    <term name="Water quality"/>
+  </subjects>
+  <amendments/>
+</bill>

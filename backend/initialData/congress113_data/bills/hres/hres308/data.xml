@@ -1,0 +1,73 @@
+<bill session="113" type="hr" number="308" updated="2014-08-14T12:47:15-04:00">
+  <state datetime="2013-07-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-19"/>
+  </status>
+  <introduced datetime="2013-07-19"/>
+  <titles>
+    <title type="official" as="introduced">Expressing support to end the 39-year-old division of the Republic of Cyprus.</title>
+  </titles>
+  <sponsor thomas_id="00985"/>
+  <cosponsors>
+    <cosponsor thomas_id="01838" joined="2013-07-19"/>
+    <cosponsor thomas_id="01740" joined="2013-08-02"/>
+    <cosponsor thomas_id="01845" joined="2013-07-31"/>
+    <cosponsor thomas_id="02107" joined="2013-08-02"/>
+    <cosponsor thomas_id="02055" joined="2013-07-31"/>
+    <cosponsor thomas_id="01836" joined="2013-08-02"/>
+    <cosponsor thomas_id="01976" joined="2013-07-19"/>
+    <cosponsor thomas_id="01717" joined="2013-07-30"/>
+    <cosponsor thomas_id="00414" joined="2013-08-01"/>
+    <cosponsor thomas_id="00462" joined="2013-08-01"/>
+    <cosponsor thomas_id="02041" joined="2013-07-31"/>
+    <cosponsor thomas_id="01663" joined="2013-08-01"/>
+    <cosponsor thomas_id="02025" joined="2013-08-01"/>
+    <cosponsor thomas_id="02172" joined="2013-09-11"/>
+    <cosponsor thomas_id="00635" joined="2013-08-01"/>
+    <cosponsor thomas_id="01675" joined="2013-08-02"/>
+    <cosponsor thomas_id="01781" joined="2013-08-02"/>
+    <cosponsor thomas_id="00709" joined="2013-08-01"/>
+    <cosponsor thomas_id="00729" joined="2014-06-23"/>
+    <cosponsor thomas_id="01503" joined="2013-08-01"/>
+    <cosponsor thomas_id="02148" joined="2013-07-31"/>
+    <cosponsor thomas_id="00808" joined="2013-08-01"/>
+    <cosponsor thomas_id="00887" joined="2013-08-01"/>
+    <cosponsor thomas_id="01757" joined="2013-07-31"/>
+    <cosponsor thomas_id="01854" joined="2013-07-19"/>
+    <cosponsor thomas_id="01588" joined="2013-08-01"/>
+    <cosponsor thomas_id="02124" joined="2013-07-31"/>
+    <cosponsor thomas_id="01037" joined="2013-08-01"/>
+    <cosponsor thomas_id="01818" joined="2013-07-30"/>
+    <cosponsor thomas_id="01071" joined="2013-08-01"/>
+    <cosponsor thomas_id="01535" joined="2013-08-02"/>
+    <cosponsor thomas_id="01940" joined="2013-07-31"/>
+    <cosponsor thomas_id="01884" joined="2013-08-02"/>
+    <cosponsor thomas_id="01777" joined="2013-07-31"/>
+    <cosponsor thomas_id="01209" joined="2013-08-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-19" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2013-08-16">
+      <text>Referred to the Subcommittee on Europe, Eurasia, and Emerging Threats.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee subcommittee="Europe, Eurasia, and Emerging Threats" code="HSFA14" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Cyprus"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Europe"/>
+    <term name="Israel"/>
+    <term name="Middle East"/>
+    <term name="Sovereignty, recognition, national governance and status"/>
+  </subjects>
+  <amendments/>
+  <summary>7/19/2013--Introduced.
+Supports: (1) the resumption of discussions to find a settlement to the 39-year old division of the Republic of Cyprus based on a bi-zonal, bi-communal federation; and (2) the partnership between the Republic of Cyprus and Israel.</summary>
+</bill>

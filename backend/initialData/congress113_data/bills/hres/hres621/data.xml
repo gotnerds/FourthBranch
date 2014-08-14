@@ -1,0 +1,66 @@
+<bill session="113" type="hr" number="621" updated="2014-08-14T12:49:54-04:00">
+  <state datetime="2014-06-11">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-11"/>
+  </status>
+  <introduced datetime="2014-06-11"/>
+  <titles>
+    <title type="official" as="introduced">Reaffirming the commitment of the House of Representatives to the First Amendment to the Constitution and the vital freedom of speech protections it provides for Americans.</title>
+  </titles>
+  <sponsor thomas_id="01892"/>
+  <cosponsors>
+    <cosponsor thomas_id="02131" joined="2014-06-12"/>
+    <cosponsor thomas_id="00062" joined="2014-06-12"/>
+    <cosponsor thomas_id="01748" joined="2014-06-17"/>
+    <cosponsor thomas_id="01742" joined="2014-06-18"/>
+    <cosponsor thomas_id="02126" joined="2014-06-24"/>
+    <cosponsor thomas_id="02057" joined="2014-07-03"/>
+    <cosponsor thomas_id="01924" joined="2014-07-08"/>
+    <cosponsor thomas_id="02065" joined="2014-06-12"/>
+    <cosponsor thomas_id="01683" joined="2014-06-24"/>
+    <cosponsor thomas_id="01801" joined="2014-06-12"/>
+    <cosponsor thomas_id="01992" joined="2014-06-12"/>
+    <cosponsor thomas_id="01990" joined="2014-07-10"/>
+    <cosponsor thomas_id="01749" joined="2014-06-19"/>
+    <cosponsor thomas_id="02046" joined="2014-06-20"/>
+    <cosponsor thomas_id="01868" joined="2014-06-18"/>
+    <cosponsor thomas_id="01724" joined="2014-06-17"/>
+    <cosponsor thomas_id="02050" joined="2014-06-26"/>
+    <cosponsor thomas_id="01885" joined="2014-06-18"/>
+    <cosponsor thomas_id="01960" joined="2014-06-20"/>
+    <cosponsor thomas_id="01908" joined="2014-06-17"/>
+    <cosponsor thomas_id="01758" joined="2014-07-08"/>
+    <cosponsor thomas_id="02034" joined="2014-06-18"/>
+    <cosponsor thomas_id="01738" joined="2014-07-23"/>
+    <cosponsor thomas_id="02141" joined="2014-06-12"/>
+    <cosponsor thomas_id="01514" joined="2014-06-12"/>
+    <cosponsor thomas_id="01802" joined="2014-06-11"/>
+    <cosponsor thomas_id="02022" joined="2014-06-20"/>
+    <cosponsor thomas_id="01954" joined="2014-06-12"/>
+    <cosponsor thomas_id="01009" joined="2014-06-18"/>
+    <cosponsor thomas_id="01525" joined="2014-06-17"/>
+    <cosponsor thomas_id="01114" joined="2014-06-17"/>
+    <cosponsor thomas_id="02161" joined="2014-06-23"/>
+    <cosponsor thomas_id="02165" joined="2014-06-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-11" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2014-07-21">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Constitution and Civil Justice" code="HSJU10" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="First Amendment rights"/>
+  </subjects>
+  <amendments/>
+  <summary>6/11/2014--Introduced.
+Reaffirms the commitment of the House of Representatives to the First Amendment to the Constitution, as written, and the protections it affords to the American people that are vital to the nation's democracy.</summary>
+</bill>

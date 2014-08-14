@@ -1,0 +1,63 @@
+<bill session="113" type="s" number="1369" updated="2014-08-14T13:56:36-04:00">
+  <state datetime="2013-07-25">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-25"/>
+  </status>
+  <introduced datetime="2013-07-25"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide additional flexibility to the Board of Governors of the Federal Reserve System to establish capital standards that are properly tailored to the unique characteristics of the business of insurance, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00136"/>
+  <cosponsors>
+    <cosponsor thomas_id="01898" joined="2014-02-06"/>
+    <cosponsor thomas_id="01464" joined="2013-09-18"/>
+    <cosponsor thomas_id="00179" joined="2013-10-11"/>
+    <cosponsor thomas_id="00188" joined="2013-11-05"/>
+    <cosponsor thomas_id="00212" joined="2013-09-27"/>
+    <cosponsor thomas_id="00457" joined="2013-10-11"/>
+    <cosponsor thomas_id="01902" joined="2013-09-10"/>
+    <cosponsor thomas_id="00501" joined="2013-09-10"/>
+    <cosponsor thomas_id="01863" joined="2013-09-25"/>
+    <cosponsor thomas_id="01608" joined="2013-10-31"/>
+    <cosponsor thomas_id="01899" joined="2013-07-25"/>
+    <cosponsor thomas_id="01647" joined="2013-07-25"/>
+    <cosponsor thomas_id="01826" joined="2013-09-23"/>
+    <cosponsor thomas_id="01546" joined="2014-04-03"/>
+    <cosponsor thomas_id="01820" joined="2014-02-06"/>
+    <cosponsor thomas_id="00791" joined="2013-10-30"/>
+    <cosponsor thomas_id="01507" joined="2013-10-28"/>
+    <cosponsor thomas_id="01837" joined="2013-10-28"/>
+    <cosponsor thomas_id="00924" joined="2013-09-18"/>
+    <cosponsor thomas_id="02056" joined="2014-02-06"/>
+    <cosponsor thomas_id="01829" joined="2013-07-25"/>
+    <cosponsor thomas_id="02085" joined="2013-07-25"/>
+    <cosponsor thomas_id="01609" joined="2013-10-30"/>
+    <cosponsor thomas_id="01897" joined="2013-09-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-25" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+    <action datetime="2014-03-11">
+      <text>Committee on Banking, Housing, and Urban Affairs Subcommittee on Financial Institutions and Consumer Protection. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+    <committee subcommittee="Financial Institutions" code="SSBK08" name="Senate Banking, Housing, and Urban Affairs" activity="Hearings"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Bank accounts, deposits, capital"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Insurance industry and regulation"/>
+  </subjects>
+  <amendments/>
+  <summary>7/25/2013--Introduced.
+Amends the Dodd-Frank Wall Street Reform and Consumer Protection to exclude insurers from bank capital rules.
+
+Declares that a company is "primarily engaged in the business of insurance" if: (1) the annual gross revenues derived by it and all of its subsidiaries from the business of insurance represent at least 2/3 of its consolidated annual gross revenues, or (2) the consolidated assets of the company and its subsidiaries relating to the business of insurance represent at least 2/3 of its consolidated assets.
+
+Exempts from minimum leverage capital requirements and minimum risk-based capital requirements any depository institution holding company that: (1) is primarily engaged in the business of insurance; (2) is an insurance underwriting company at the holding company level and was in existence on July 21, 2010; or (3) any nonbank financial company supervised by the Board of Governors of the Federal Reserve System that, together with its subsidiaries, is primarily engaged in the business of insurance.</summary>
+</bill>

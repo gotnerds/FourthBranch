@@ -1,0 +1,41 @@
+<bill session="113" type="h" number="4704" updated="2014-08-14T13:31:32-04:00">
+  <state datetime="2014-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-21"/>
+  </status>
+  <introduced datetime="2014-05-21"/>
+  <titles>
+    <title type="official" as="introduced">To expand the PROTECT Our Children Act of 2008 to include combating the transfer of permanent custody or control of a minor in contravention of a required legal procedure, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00599"/>
+  <cosponsors>
+    <cosponsor thomas_id="02196" joined="2014-06-18"/>
+    <cosponsor thomas_id="00229" joined="2014-06-09"/>
+    <cosponsor thomas_id="00281" joined="2014-06-12"/>
+    <cosponsor thomas_id="00511" joined="2014-06-09"/>
+    <cosponsor thomas_id="01668" joined="2014-05-21"/>
+    <cosponsor thomas_id="01583" joined="2014-06-12"/>
+    <cosponsor thomas_id="01832" joined="2014-06-24"/>
+    <cosponsor thomas_id="00832" joined="2014-06-20"/>
+    <cosponsor thomas_id="00944" joined="2014-06-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-21" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2014-07-21">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Crimes against children"/>
+    <term name="Separation, divorce, custody, support"/>
+  </subjects>
+  <amendments/>
+</bill>

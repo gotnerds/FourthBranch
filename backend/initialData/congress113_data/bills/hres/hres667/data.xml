@@ -1,0 +1,40 @@
+<bill session="113" type="hr" number="667" updated="2014-08-14T12:50:18-04:00">
+  <state datetime="2014-07-11">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-11"/>
+  </status>
+  <introduced datetime="2014-07-11"/>
+  <titles>
+    <title type="official" as="introduced">Expressing support for dancing as a form of valuable exercise and artistic expression, and for the designation of July 26, 2014, as National Dance Day.</title>
+  </titles>
+  <sponsor thomas_id="00868"/>
+  <cosponsors>
+    <cosponsor thomas_id="01761" joined="2014-07-24"/>
+    <cosponsor thomas_id="01864" joined="2014-07-24"/>
+    <cosponsor thomas_id="01843" joined="2014-07-24"/>
+    <cosponsor thomas_id="01501" joined="2014-07-15"/>
+    <cosponsor thomas_id="00688" joined="2014-07-24"/>
+    <cosponsor thomas_id="01504" joined="2014-07-25"/>
+    <cosponsor thomas_id="00944" joined="2014-07-15"/>
+    <cosponsor thomas_id="01988" joined="2014-07-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-11" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="113" relation="unknown" number="304"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+  <summary>7/11/2014--Introduced.
+Supports the designation of National Dance Day to celebrate the national commitment to dance education and physical fitness.
+
+Acknowledges that dance is making an important contribution to health by encouraging physical fitness and reducing overweight and obesity.
+
+Commends Nigel Lythgoe for his leadership in promoting National Dance Day.</summary>
+</bill>

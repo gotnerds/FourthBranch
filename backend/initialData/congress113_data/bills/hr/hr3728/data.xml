@@ -1,0 +1,94 @@
+<bill session="113" type="h" number="3728" updated="2014-08-14T13:23:16-04:00">
+  <state datetime="2013-12-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-12-12"/>
+  </status>
+  <introduced datetime="2013-12-12"/>
+  <titles>
+    <title type="short" as="introduced">Wild Game Donation Act of 2013</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide tax incentives for the donation of wild game meat.</title>
+  </titles>
+  <sponsor thomas_id="01256"/>
+  <cosponsors>
+    <cosponsor thomas_id="02027" joined="2013-12-12"/>
+    <cosponsor thomas_id="02135" joined="2014-04-29"/>
+    <cosponsor thomas_id="01751" joined="2014-04-29"/>
+    <cosponsor thomas_id="02127" joined="2014-01-07"/>
+    <cosponsor thomas_id="01790" joined="2014-03-24"/>
+    <cosponsor thomas_id="00211" joined="2014-01-07"/>
+    <cosponsor thomas_id="01742" joined="2013-12-12"/>
+    <cosponsor thomas_id="02151" joined="2014-04-29"/>
+    <cosponsor thomas_id="02103" joined="2014-04-29"/>
+    <cosponsor thomas_id="01836" joined="2014-05-30"/>
+    <cosponsor thomas_id="01670" joined="2014-04-29"/>
+    <cosponsor thomas_id="02096" joined="2014-05-30"/>
+    <cosponsor thomas_id="02036" joined="2014-03-14"/>
+    <cosponsor thomas_id="02067" joined="2014-04-29"/>
+    <cosponsor thomas_id="02064" joined="2014-02-05"/>
+    <cosponsor thomas_id="01793" joined="2014-04-29"/>
+    <cosponsor thomas_id="01720" joined="2013-12-12"/>
+    <cosponsor thomas_id="01487" joined="2014-04-29"/>
+    <cosponsor thomas_id="02041" joined="2013-12-12"/>
+    <cosponsor thomas_id="02071" joined="2014-04-29"/>
+    <cosponsor thomas_id="02140" joined="2014-04-04"/>
+    <cosponsor thomas_id="01909" joined="2014-04-04"/>
+    <cosponsor thomas_id="00603" joined="2014-04-29"/>
+    <cosponsor thomas_id="00612" joined="2014-03-24"/>
+    <cosponsor thomas_id="02051" joined="2014-03-24"/>
+    <cosponsor thomas_id="01498" joined="2013-12-12"/>
+    <cosponsor thomas_id="02145" joined="2013-12-12"/>
+    <cosponsor thomas_id="02100" joined="2013-12-12"/>
+    <cosponsor thomas_id="01885" joined="2014-03-24"/>
+    <cosponsor thomas_id="01846" joined="2013-12-12"/>
+    <cosponsor thomas_id="00711" joined="2014-04-29"/>
+    <cosponsor thomas_id="01806" joined="2014-04-29"/>
+    <cosponsor thomas_id="02053" joined="2014-04-29"/>
+    <cosponsor thomas_id="01908" joined="2014-04-29"/>
+    <cosponsor thomas_id="01505" joined="2013-12-12"/>
+    <cosponsor thomas_id="01685" joined="2014-04-04"/>
+    <cosponsor thomas_id="01758" joined="2014-04-29"/>
+    <cosponsor thomas_id="00867" joined="2014-04-29"/>
+    <cosponsor thomas_id="02001" joined="2014-03-14"/>
+    <cosponsor thomas_id="02034" joined="2014-02-05"/>
+    <cosponsor thomas_id="01974" joined="2014-01-13"/>
+    <cosponsor thomas_id="01738" joined="2014-04-29"/>
+    <cosponsor thomas_id="00910" joined="2013-12-12"/>
+    <cosponsor thomas_id="01802" joined="2013-12-12"/>
+    <cosponsor thomas_id="02160" joined="2014-04-29"/>
+    <cosponsor thomas_id="01954" joined="2014-04-29"/>
+    <cosponsor thomas_id="01704" joined="2014-01-13"/>
+    <cosponsor thomas_id="01988" joined="2014-01-07"/>
+    <cosponsor thomas_id="01566" joined="2014-02-05"/>
+    <cosponsor thomas_id="01952" joined="2014-04-29"/>
+    <cosponsor thomas_id="01155" joined="2014-04-29"/>
+    <cosponsor thomas_id="02167" joined="2014-01-13"/>
+    <cosponsor thomas_id="01856" joined="2013-12-12"/>
+    <cosponsor thomas_id="02161" joined="2014-04-29"/>
+    <cosponsor thomas_id="01879" joined="2014-05-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-12-12" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1194"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Food assistance and relief"/>
+    <term name="Food industry and services"/>
+    <term name="Income tax deductions"/>
+    <term name="Income tax exclusion"/>
+    <term name="Meat"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+  </subjects>
+  <amendments/>
+  <summary>12/12/2013--Introduced.
+Wild Game Donation Act of 2013 - Amends the Internal Revenue Code to: (1) increase the tax deduction for charitable contributions of qualified wild game meat by the processing fees paid with respect to such contributions, and (2) exclude from the gross income of meat processors processing fees paid by a charitable organization for the processing of donated wild game meat.
+
+Defines "qualified wild game meat" as the meat of any animal typically used for human consumption but only if: (1) such animal is killed in the wild by the individual making the charitable contribution and is hunted or taken in accordance with all state and local laws, (2) the meat is processed for human consumption by a licensed processor, and (3) the meat is apparently wholesome as determined by regulations under the Bill Emerson Good Samaritan Food Donation Act.</summary>
+</bill>

@@ -1,0 +1,76 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-30", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and the Workforce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5277-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-07-30", 
+  "number": "5277", 
+  "official_title": "To amend the Higher Education Act of 1965 to require institutions of higher education to have an independent advocate for campus sexual assault prevention and response.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "SOS Campus Act", 
+  "sponsor": {
+    "district": "53", 
+    "name": "Davis, Susan A.", 
+    "state": "CA", 
+    "thomas_id": "01641", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-07-30", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "SOS Campus Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Survivor Outreach and Support Campus Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Higher Education Act of 1965 to require institutions of higher education to have an independent advocate for campus sexual assault prevention and response.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T13:36:32-04:00"
+}

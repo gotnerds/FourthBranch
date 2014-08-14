@@ -1,0 +1,324 @@
+<bill session="113" type="h" number="1797" updated="2014-08-14T13:06:02-04:00">
+  <state datetime="2013-06-18T18:45:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2013-06-18T18:45:00-04:00"/>
+  </status>
+  <introduced datetime="2013-04-26"/>
+  <titles>
+    <title type="short" as="introduced">District of Columbia Pain-Capable Unborn Child Protection Act</title>
+    <title type="short" as="reported to house">Pain-Capable Unborn Child Protection Act</title>
+    <title type="short" as="passed house">Pain-Capable Unborn Child Protection Act</title>
+    <title type="official" as="introduced">To amend title 18, United States Code, to protect pain-capable unborn children in the District of Columbia, and for other purposes.</title>
+    <title type="official" as="amended by house">To amend title 18, United States Code, to protect pain-capable unborn children, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01707"/>
+  <cosponsors>
+    <cosponsor thomas_id="01460" joined="2013-04-26"/>
+    <cosponsor thomas_id="01727" joined="2013-04-26"/>
+    <cosponsor thomas_id="02029" joined="2013-04-26"/>
+    <cosponsor thomas_id="01858" joined="2013-05-22"/>
+    <cosponsor thomas_id="00038" joined="2013-04-26"/>
+    <cosponsor thomas_id="02054" joined="2013-05-16"/>
+    <cosponsor thomas_id="02131" joined="2013-04-26"/>
+    <cosponsor thomas_id="00062" joined="2013-05-23"/>
+    <cosponsor thomas_id="02027" joined="2013-04-26"/>
+    <cosponsor thomas_id="02135" joined="2013-06-06"/>
+    <cosponsor thomas_id="01838" joined="2013-06-10"/>
+    <cosponsor thomas_id="01753" joined="2013-05-08"/>
+    <cosponsor thomas_id="02063" joined="2013-04-26"/>
+    <cosponsor thomas_id="01748" joined="2013-04-26"/>
+    <cosponsor thomas_id="01703" joined="2013-04-26"/>
+    <cosponsor thomas_id="01787" joined="2013-04-26"/>
+    <cosponsor thomas_id="01468" joined="2013-04-26"/>
+    <cosponsor thomas_id="02155" joined="2013-04-26"/>
+    <cosponsor thomas_id="01987" joined="2013-06-10"/>
+    <cosponsor thomas_id="02129" joined="2013-06-06"/>
+    <cosponsor thomas_id="01882" joined="2013-04-26"/>
+    <cosponsor thomas_id="01840" joined="2013-04-26"/>
+    <cosponsor thomas_id="02018" joined="2013-06-11"/>
+    <cosponsor thomas_id="00165" joined="2013-04-26"/>
+    <cosponsor thomas_id="00166" joined="2013-05-13"/>
+    <cosponsor thomas_id="01752" joined="2013-04-26"/>
+    <cosponsor thomas_id="01925" joined="2013-04-26"/>
+    <cosponsor thomas_id="00186" joined="2013-05-23"/>
+    <cosponsor thomas_id="00211" joined="2013-05-24"/>
+    <cosponsor thomas_id="01742" joined="2013-04-26"/>
+    <cosponsor thomas_id="02151" joined="2013-06-11"/>
+    <cosponsor thomas_id="02121" joined="2013-05-24"/>
+    <cosponsor thomas_id="01805" joined="2013-04-26"/>
+    <cosponsor thomas_id="02098" joined="2013-05-24"/>
+    <cosponsor thomas_id="02144" joined="2013-04-26"/>
+    <cosponsor thomas_id="01989" joined="2013-04-26"/>
+    <cosponsor thomas_id="01643" joined="2013-06-11"/>
+    <cosponsor thomas_id="01670" joined="2013-06-12"/>
+    <cosponsor thomas_id="02138" joined="2013-05-21"/>
+    <cosponsor thomas_id="02126" joined="2013-04-26"/>
+    <cosponsor thomas_id="01995" joined="2013-06-05"/>
+    <cosponsor thomas_id="02116" joined="2013-04-26"/>
+    <cosponsor thomas_id="01717" joined="2013-06-11"/>
+    <cosponsor thomas_id="02072" joined="2013-06-03"/>
+    <cosponsor thomas_id="02057" joined="2013-04-26"/>
+    <cosponsor thomas_id="00322" joined="2013-04-26"/>
+    <cosponsor thomas_id="02036" joined="2013-05-21"/>
+    <cosponsor thomas_id="02067" joined="2013-06-03"/>
+    <cosponsor thomas_id="02064" joined="2013-04-26"/>
+    <cosponsor thomas_id="02061" joined="2013-05-14"/>
+    <cosponsor thomas_id="01924" joined="2013-04-26"/>
+    <cosponsor thomas_id="02065" joined="2013-04-30"/>
+    <cosponsor thomas_id="01683" joined="2013-04-30"/>
+    <cosponsor thomas_id="01793" joined="2013-04-26"/>
+    <cosponsor thomas_id="01791" joined="2013-06-05"/>
+    <cosponsor thomas_id="01737" joined="2013-04-26"/>
+    <cosponsor thomas_id="02049" joined="2013-06-10"/>
+    <cosponsor thomas_id="01720" joined="2013-06-11"/>
+    <cosponsor thomas_id="01801" joined="2013-04-26"/>
+    <cosponsor thomas_id="00446" joined="2013-06-12"/>
+    <cosponsor thomas_id="01992" joined="2013-04-26"/>
+    <cosponsor thomas_id="02058" joined="2013-04-26"/>
+    <cosponsor thomas_id="01656" joined="2013-06-12"/>
+    <cosponsor thomas_id="01979" joined="2013-06-13"/>
+    <cosponsor thomas_id="01990" joined="2013-04-26"/>
+    <cosponsor thomas_id="02070" joined="2013-06-11"/>
+    <cosponsor thomas_id="01922" joined="2013-04-26"/>
+    <cosponsor thomas_id="00484" joined="2013-04-26"/>
+    <cosponsor thomas_id="01933" joined="2013-04-26"/>
+    <cosponsor thomas_id="02026" joined="2013-04-30"/>
+    <cosponsor thomas_id="02032" joined="2013-04-26"/>
+    <cosponsor thomas_id="01749" joined="2013-06-04"/>
+    <cosponsor thomas_id="02143" joined="2013-04-26"/>
+    <cosponsor thomas_id="02140" joined="2013-06-05"/>
+    <cosponsor thomas_id="02020" joined="2013-04-26"/>
+    <cosponsor thomas_id="02028" joined="2013-04-26"/>
+    <cosponsor thomas_id="02015" joined="2013-04-26"/>
+    <cosponsor thomas_id="02069" joined="2013-06-14"/>
+    <cosponsor thomas_id="01921" joined="2013-04-30"/>
+    <cosponsor thomas_id="02046" joined="2013-04-26"/>
+    <cosponsor thomas_id="00603" joined="2013-05-22"/>
+    <cosponsor thomas_id="00612" joined="2013-04-26"/>
+    <cosponsor thomas_id="01868" joined="2013-04-26"/>
+    <cosponsor thomas_id="02154" joined="2013-06-11"/>
+    <cosponsor thomas_id="02051" joined="2013-04-30"/>
+    <cosponsor thomas_id="00635" joined="2013-06-06"/>
+    <cosponsor thomas_id="01724" joined="2013-04-26"/>
+    <cosponsor thomas_id="00636" joined="2013-04-26"/>
+    <cosponsor thomas_id="01733" joined="2013-05-13"/>
+    <cosponsor thomas_id="02011" joined="2013-05-15"/>
+    <cosponsor thomas_id="02100" joined="2013-06-10"/>
+    <cosponsor thomas_id="01834" joined="2013-05-23"/>
+    <cosponsor thomas_id="02050" joined="2013-04-26"/>
+    <cosponsor thomas_id="00666" joined="2013-05-22"/>
+    <cosponsor thomas_id="01885" joined="2013-04-26"/>
+    <cosponsor thomas_id="01781" joined="2013-04-26"/>
+    <cosponsor thomas_id="02033" joined="2013-04-26"/>
+    <cosponsor thomas_id="00711" joined="2013-05-16"/>
+    <cosponsor thomas_id="01931" joined="2013-05-20"/>
+    <cosponsor thomas_id="01806" joined="2013-05-20"/>
+    <cosponsor thomas_id="02053" joined="2013-04-26"/>
+    <cosponsor thomas_id="02094" joined="2013-04-26"/>
+    <cosponsor thomas_id="01804" joined="2013-06-11"/>
+    <cosponsor thomas_id="01908" joined="2013-06-10"/>
+    <cosponsor thomas_id="01792" joined="2013-06-03"/>
+    <cosponsor thomas_id="01505" joined="2013-05-21"/>
+    <cosponsor thomas_id="02074" joined="2013-04-26"/>
+    <cosponsor thomas_id="02142" joined="2013-04-26"/>
+    <cosponsor thomas_id="02130" joined="2013-06-10"/>
+    <cosponsor thomas_id="00800" joined="2013-06-10"/>
+    <cosponsor thomas_id="01731" joined="2013-06-10"/>
+    <cosponsor thomas_id="01685" joined="2013-04-26"/>
+    <cosponsor thomas_id="02156" joined="2013-04-26"/>
+    <cosponsor thomas_id="02059" joined="2013-04-26"/>
+    <cosponsor thomas_id="01744" joined="2013-05-24"/>
+    <cosponsor thomas_id="01758" joined="2013-04-26"/>
+    <cosponsor thomas_id="02060" joined="2013-04-26"/>
+    <cosponsor thomas_id="02001" joined="2013-04-26"/>
+    <cosponsor thomas_id="01710" joined="2013-06-11"/>
+    <cosponsor thomas_id="02034" joined="2013-04-26"/>
+    <cosponsor thomas_id="01955" joined="2013-04-26"/>
+    <cosponsor thomas_id="02035" joined="2013-04-26"/>
+    <cosponsor thomas_id="01738" joined="2013-04-26"/>
+    <cosponsor thomas_id="02157" joined="2013-06-11"/>
+    <cosponsor thomas_id="00910" joined="2013-06-03"/>
+    <cosponsor thomas_id="00912" joined="2013-06-12"/>
+    <cosponsor thomas_id="02141" joined="2013-05-21"/>
+    <cosponsor thomas_id="01514" joined="2013-04-26"/>
+    <cosponsor thomas_id="01802" joined="2013-06-05"/>
+    <cosponsor thomas_id="02022" joined="2013-04-26"/>
+    <cosponsor thomas_id="01915" joined="2013-04-26"/>
+    <cosponsor thomas_id="01778" joined="2013-04-26"/>
+    <cosponsor thomas_id="02118" joined="2013-06-11"/>
+    <cosponsor thomas_id="00940" joined="2013-05-20"/>
+    <cosponsor thomas_id="01982" joined="2013-06-11"/>
+    <cosponsor thomas_id="02048" joined="2013-06-10"/>
+    <cosponsor thomas_id="02073" joined="2013-05-23"/>
+    <cosponsor thomas_id="02160" joined="2013-06-12"/>
+    <cosponsor thomas_id="02068" joined="2013-06-13"/>
+    <cosponsor thomas_id="01986" joined="2013-04-26"/>
+    <cosponsor thomas_id="01954" joined="2013-04-26"/>
+    <cosponsor thomas_id="00977" joined="2013-05-24"/>
+    <cosponsor thomas_id="01704" joined="2013-04-26"/>
+    <cosponsor thomas_id="02017" joined="2013-04-26"/>
+    <cosponsor thomas_id="00985" joined="2013-04-26"/>
+    <cosponsor thomas_id="01848" joined="2013-06-11"/>
+    <cosponsor thomas_id="02003" joined="2013-04-26"/>
+    <cosponsor thomas_id="02158" joined="2013-04-26"/>
+    <cosponsor thomas_id="01009" joined="2013-04-26"/>
+    <cosponsor thomas_id="01012" joined="2013-06-12"/>
+    <cosponsor thomas_id="01892" joined="2013-04-26"/>
+    <cosponsor thomas_id="01920" joined="2013-04-26"/>
+    <cosponsor thomas_id="01994" joined="2013-04-26"/>
+    <cosponsor thomas_id="02009" joined="2013-06-11"/>
+    <cosponsor thomas_id="01041" joined="2013-05-20"/>
+    <cosponsor thomas_id="01681" joined="2013-04-26"/>
+    <cosponsor thomas_id="01590" joined="2013-04-26"/>
+    <cosponsor thomas_id="01860" joined="2013-04-26"/>
+    <cosponsor thomas_id="01071" joined="2013-04-26"/>
+    <cosponsor thomas_id="02191" joined="2013-06-12"/>
+    <cosponsor thomas_id="01075" joined="2013-05-23"/>
+    <cosponsor thomas_id="02000" joined="2013-05-23"/>
+    <cosponsor thomas_id="02168" joined="2013-04-26"/>
+    <cosponsor thomas_id="02047" joined="2013-04-26"/>
+    <cosponsor thomas_id="01114" joined="2013-04-26"/>
+    <cosponsor thomas_id="01981" joined="2013-05-24"/>
+    <cosponsor thomas_id="01566" joined="2013-05-08"/>
+    <cosponsor thomas_id="01952" joined="2013-05-22"/>
+    <cosponsor thomas_id="01664" joined="2013-04-26"/>
+    <cosponsor thomas_id="01741" joined="2013-06-04"/>
+    <cosponsor thomas_id="02137" joined="2013-04-26"/>
+    <cosponsor thomas_id="01855" joined="2013-04-26"/>
+    <cosponsor thomas_id="02128" joined="2013-06-10"/>
+    <cosponsor thomas_id="02161" joined="2013-04-30"/>
+    <cosponsor thomas_id="02002" joined="2013-06-13"/>
+    <cosponsor thomas_id="02152" joined="2013-05-23"/>
+    <cosponsor thomas_id="01779" joined="2013-04-26"/>
+    <cosponsor thomas_id="01688" joined="2013-04-26"/>
+    <cosponsor thomas_id="01886" joined="2013-06-12"/>
+    <cosponsor thomas_id="01238" joined="2013-06-12"/>
+    <cosponsor thomas_id="01991" joined="2013-05-21"/>
+    <cosponsor thomas_id="02021" joined="2013-04-26"/>
+    <cosponsor thomas_id="02115" joined="2013-06-11"/>
+    <cosponsor thomas_id="02019" joined="2013-04-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-26" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-04-26">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2013-04-26">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2013-05-23">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+    <action datetime="2013-05-23">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+    <action datetime="2013-05-23">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2013-06-03">
+      <text>Subcommittee on Crime, Terrorism, Homeland Security, and Investigations Discharged.</text>
+    </action>
+    <action datetime="2013-06-04">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2013-06-04">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by the Yeas and Nays: 6 - 4 .</text>
+    </action>
+    <action datetime="2013-06-12">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2013-06-12" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by the Yeas and Nays: 20 - 12.</text>
+    </calendar>
+    <action datetime="2013-06-14T22:09:00-04:00">
+      <text>Reported (Amended) by the Committee on Judiciary. H. Rept. 113-109, Part I.</text>
+    </action>
+    <action datetime="2013-06-14T22:09:00-04:00">
+      <text>Committee on Oversight and Government discharged.</text>
+    </action>
+    <calendar datetime="2013-06-14T22:10:00-04:00" calendar="Union" number="77">
+      <text>Placed on the Union Calendar, Calendar No. 77.</text>
+    </calendar>
+    <action datetime="2013-06-17T19:32:00-04:00">
+      <text>Rules Committee Resolution H. Res. 266 Reported to House. The resolution provides for one hour of debate on H.R. 1947 and provides for consideration of H.R. 1797 with one hour of debate and one motion to recommit with or without instructions.</text>
+    </action>
+    <action datetime="2013-06-18T16:41:00-04:00">
+      <text>Considered under the provisions of rule H. Res. 266.</text>
+      <reference ref="CR H3730-3743" label="consideration"/>
+    </action>
+    <action datetime="2013-06-18T16:41:00-04:00">
+      <text>The resolution provides for one hour of debate on H.R. 1947 and provides for consideration of H.R. 1797 with one hour of debate and one motion to recommit with or without instructions.</text>
+    </action>
+    <action datetime="2013-06-18T16:41:00-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 1797.</text>
+    </action>
+    <action datetime="2013-06-18T18:01:00-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H3743" label="consideration"/>
+    </action>
+    <action datetime="2013-06-18T18:01:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 1797, the Chair put the question on passage and, by voice vote, announced that the ayes had prevailed. Ms. Ros-Lehtinen demanded the yeas and nays and the Chair postponed further proceedings on the question of passage until later in the legislative day.</text>
+    </action>
+    <action datetime="2013-06-18T18:15:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H3743-3744" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="251" datetime="2013-06-18T18:45:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 228 - 196 (Roll no. 251).</text>
+      <reference ref="CR H3730-3731" label="text"/>
+    </vote>
+    <action datetime="2013-06-18T18:45:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2013-06-18T18:45:00-04:00">
+      <text>The title of the measure was amended. Agreed to without objection.</text>
+    </action>
+    <action datetime="2013-06-19">
+      <text>Received in the Senate and Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting, In Committee"/>
+    <committee subcommittee="Constitution and Civil Justice" code="HSJU10" name="House Judiciary" activity="Referral, Hearings, Markup, Reporting"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral, Discharged"/>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral, Discharged, In Committee"/>
+    <committee subcommittee="" code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="113" relation="unknown" number="266"/>
+    <bill type="hr" session="113" relation="rule" number="266"/>
+    <bill type="hr" session="113" relation="ruled-by" number="266"/>
+    <bill type="s" session="113" relation="identical" number="886"/>
+    <bill type="s" session="113" relation="unknown" number="1670"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Abortion"/>
+    <term name="Civil actions and liability"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="District of Columbia"/>
+    <term name="Federal preemption"/>
+    <term name="Government information and archives"/>
+    <term name="Health information and medical records"/>
+    <term name="Health personnel"/>
+    <term name="Judicial procedure and administration"/>
+    <term name="Legal fees and court costs"/>
+    <term name="Medical ethics"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Right of privacy"/>
+    <term name="Women's health"/>
+  </subjects>
+  <amendments/>
+  <summary>6/18/2013--Passed House amended.
+Pain-Capable Unborn Child Protection Act - Amends the federal criminal code to prohibit any person from performing or attempting to perform an abortion except in conformity with this Act's requirements.
+
+Requires the physician to first determine the probable post-fertilization age of the unborn child, or reasonably rely upon such a determination made by another physician, by making inquiries of the pregnant woman and performing such medical examinations and tests as a reasonably prudent physician would consider necessary.
+
+Prohibits the abortion from being performed if the probable post-fertilization age of the unborn child is 20 weeks or greater, except: (1) where necessary to save the life of a pregnant woman whose life is endangered by a physical disorder, illness, or injury, excluding psychological or emotional conditions; or (2) where the pregnancy is the result of rape, or the result of incest against a minor, if the rape has been reported at any time prior to the abortion to an appropriate law enforcement agency, or if the incest has been reported at any time prior to the abortion to an appropriate law enforcement agency or to a government agency legally authorized to act on reports of child abuse or neglect. Permits a physician to terminate a pregnancy under such an exception only in the manner that provides the best opportunity for the unborn child to survive, unless that manner would pose a greater risk than other available methods would pose of the death or substantial and irreversible physical impairment of a major bodily function, excluding psychological or emotional conditions, of the pregnant woman.
+
+Subjects individuals who violate this Act to a fine, imprisonment for not more than five years, or both. Bars prosecution of a woman upon whom an abortion is performed in violation of this Act for violating or conspiring to violate this Act.
+
+Defines "abortion" to mean the use or prescription of any instrument, medicine, drug, or any other substance or device to intentionally kill an unborn child or to intentionally terminate a pregnancy with an intention other than: (1) after viability, to produce a live birth and preserve the life and health of the child; or (2) to remove a dead unborn child.</summary>
+</bill>

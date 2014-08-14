@@ -1,0 +1,44 @@
+<bill session="113" type="h" number="4056" updated="2014-08-14T13:26:01-04:00">
+  <state datetime="2014-02-11">REFERRED</state>
+  <status>
+    <introduced datetime="2014-02-11"/>
+  </status>
+  <introduced datetime="2014-02-11"/>
+  <titles>
+    <title type="short" as="introduced">Federal Vehicle Repair Cost Savings Act of 2014</title>
+    <title type="official" as="introduced">To reduce the operation and maintenance costs associated with the Federal fleet by encouraging the use of remanufactured parts, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01929"/>
+  <cosponsors>
+    <cosponsor thomas_id="02135" joined="2014-04-04"/>
+    <cosponsor thomas_id="02129" joined="2014-05-07"/>
+    <cosponsor thomas_id="02197" joined="2014-04-30"/>
+    <cosponsor thomas_id="02028" joined="2014-02-26"/>
+    <cosponsor thomas_id="02046" joined="2014-05-09"/>
+    <cosponsor thomas_id="02050" joined="2014-02-11"/>
+    <cosponsor thomas_id="01885" joined="2014-07-14"/>
+    <cosponsor thomas_id="02033" joined="2014-05-23"/>
+    <cosponsor thomas_id="02003" joined="2014-05-28"/>
+    <cosponsor thomas_id="01798" joined="2014-02-27"/>
+    <cosponsor thomas_id="01981" joined="2014-07-11"/>
+    <cosponsor thomas_id="02167" joined="2014-04-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-02-11" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Motor vehicles"/>
+    <term name="Public contracts and procurement"/>
+  </subjects>
+  <amendments/>
+  <summary>2/11/2014--Introduced.
+Federal Vehicle Repair Cost Savings Act of 2014 - Requires the head of each federal agency to encourage the use of remanufactured vehicle components to mantain federal vehicles if using such components reduces the cost, while maintaining the quality, of such vehicles.</summary>
+</bill>

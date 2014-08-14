@@ -1,0 +1,65 @@
+<bill session="113" type="h" number="986" updated="2014-08-14T12:59:06-04:00">
+  <state datetime="2013-03-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-06"/>
+  </status>
+  <introduced datetime="2013-03-06"/>
+  <titles>
+    <title type="short" as="introduced">Rural Health Clinic Fairness Act of 2013</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to ensure the eligibility of eligible professionals practicing in rural health clinics for electronic health records and quality improvement incentives under Medicare, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01920"/>
+  <cosponsors>
+    <cosponsor thomas_id="02027" joined="2013-04-09"/>
+    <cosponsor thomas_id="02063" joined="2014-07-31"/>
+    <cosponsor thomas_id="01845" joined="2013-03-06"/>
+    <cosponsor thomas_id="01761" joined="2013-04-26"/>
+    <cosponsor thomas_id="02126" joined="2013-04-09"/>
+    <cosponsor thomas_id="01793" joined="2013-03-19"/>
+    <cosponsor thomas_id="02028" joined="2013-03-06"/>
+    <cosponsor thomas_id="01846" joined="2013-04-09"/>
+    <cosponsor thomas_id="01809" joined="2013-03-06"/>
+    <cosponsor thomas_id="00910" joined="2013-05-20"/>
+    <cosponsor thomas_id="02047" joined="2014-02-28"/>
+    <cosponsor thomas_id="02105" joined="2013-03-20"/>
+    <cosponsor thomas_id="01596" joined="2013-03-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-06" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-03-06">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-03-06">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-03-07">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2013-03-08">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSWM02" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Health care quality"/>
+    <term name="Health information and medical records"/>
+    <term name="Health personnel"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Medicare"/>
+    <term name="Rural conditions and development"/>
+  </subjects>
+  <amendments/>
+  <summary>3/6/2013--Introduced.
+Rural Health Clinic Fairness Act of 2013 - Amends title XVIII (Medicare) of the Social Security Act to extend Medicare: (1) electronic health record (EHR) incentives to eligible professionals practicing in rural health clinics, and (2) electronic prescribing (eRx) and quality reporting incentives to such clinics.
+
+Revises requirements for incentive payments to such professionals who are meaningful EHR users or who submit to the Secretary of Health and Human Services (HHS) satisfactory quality data reports. Directs the Secretary to reduce the applicable incentive payments that would otherwise be determined by a budget-neutral amount calculated according to a specified formula to ensure that estimated aggregate payments are not increased as a result of this Act.</summary>
+</bill>

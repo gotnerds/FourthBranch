@@ -1,0 +1,68 @@
+<bill session="113" type="h" number="1805" updated="2014-08-14T13:06:06-04:00">
+  <state datetime="2013-04-26">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-26"/>
+  </status>
+  <introduced datetime="2013-04-26"/>
+  <titles>
+    <title type="short" as="introduced">Veterans Claims Efficiency Through Automation Act</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to submit to Congress an annual report on the automatic processing of claims for compensation under the laws administered by the Secretary.</title>
+  </titles>
+  <sponsor thomas_id="02145"/>
+  <cosponsors>
+    <cosponsor thomas_id="02093" joined="2013-07-24"/>
+    <cosponsor thomas_id="02153" joined="2013-06-03"/>
+    <cosponsor thomas_id="02106" joined="2013-05-09"/>
+    <cosponsor thomas_id="02127" joined="2013-05-09"/>
+    <cosponsor thomas_id="02159" joined="2013-05-09"/>
+    <cosponsor thomas_id="02055" joined="2013-06-03"/>
+    <cosponsor thomas_id="02119" joined="2013-05-20"/>
+    <cosponsor thomas_id="02122" joined="2013-05-09"/>
+    <cosponsor thomas_id="02169" joined="2013-05-20"/>
+    <cosponsor thomas_id="01907" joined="2013-04-26"/>
+    <cosponsor thomas_id="01501" joined="2013-05-20"/>
+    <cosponsor thomas_id="02111" joined="2013-07-24"/>
+    <cosponsor thomas_id="02150" joined="2013-05-20"/>
+    <cosponsor thomas_id="01503" joined="2013-05-09"/>
+    <cosponsor thomas_id="01505" joined="2013-04-26"/>
+    <cosponsor thomas_id="02148" joined="2013-04-26"/>
+    <cosponsor thomas_id="02108" joined="2013-05-09"/>
+    <cosponsor thomas_id="00867" joined="2013-05-09"/>
+    <cosponsor thomas_id="02162" joined="2013-05-09"/>
+    <cosponsor thomas_id="02171" joined="2013-05-20"/>
+    <cosponsor thomas_id="02109" joined="2013-05-20"/>
+    <cosponsor thomas_id="01861" joined="2013-06-03"/>
+    <cosponsor thomas_id="02099" joined="2013-06-03"/>
+    <cosponsor thomas_id="02104" joined="2013-06-03"/>
+    <cosponsor thomas_id="02110" joined="2013-05-09"/>
+    <cosponsor thomas_id="01535" joined="2013-10-28"/>
+    <cosponsor thomas_id="01940" joined="2013-05-20"/>
+    <cosponsor thomas_id="02112" joined="2013-05-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-26" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-05-08">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee subcommittee="Disability Assistance and Memorial Affairs" code="HSVR09" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Administrative remedies"/>
+    <term name="Census and government statistics"/>
+    <term name="Computers and information technology"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Health information and medical records"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>4/26/2013--Introduced.
+Veterans Claims Efficiency Through Automation Act - Directs the Secretary of Veterans Affairs (VA) to include in a required annual VA activities and costs report to Congress a report on the automatic processing of claims for compensation during the preceding year, including each medical condition for which claims were processed and the number of claims for each condition.</summary>
+</bill>

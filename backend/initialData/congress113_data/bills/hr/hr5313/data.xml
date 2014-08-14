@@ -1,0 +1,26 @@
+<bill session="113" type="h" number="5313" updated="2014-08-14T13:36:50-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="short" as="introduced">Mom and Mom SHOP Act of 2014</title>
+    <title type="short" as="introduced">Mom and Pop SHOP Act of 2014</title>
+    <title type="short" as="introduced">Pop and Pop SHOP Act of 2014</title>
+    <title type="official" as="introduced">To amend the Patient Protection and Affordable Care Act to allow sole proprietors and the spouses and domestic partners of sole proprietors to purchase insurance on the small business exchange, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02150"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

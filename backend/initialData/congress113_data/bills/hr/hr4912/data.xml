@@ -1,0 +1,32 @@
+<bill session="113" type="h" number="4912" updated="2014-08-14T13:33:23-04:00">
+  <state datetime="2014-06-19">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-19"/>
+  </status>
+  <introduced datetime="2014-06-19"/>
+  <titles>
+    <title type="official" as="introduced">To limit Department of Defense funds to support United States or Iraqi combat activities in or around Iraq, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00867"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-06-19" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Appropriations"/>
+    <term name="Defense spending"/>
+    <term name="Department of Defense"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Iraq"/>
+    <term name="Middle East"/>
+    <term name="Military operations and strategy"/>
+  </subjects>
+  <amendments/>
+</bill>

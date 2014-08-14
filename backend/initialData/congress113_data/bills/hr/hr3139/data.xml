@@ -1,0 +1,50 @@
+<bill session="113" type="h" number="3139" updated="2014-08-14T13:18:13-04:00">
+  <state datetime="2013-09-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-09-19"/>
+  </status>
+  <introduced datetime="2013-09-19"/>
+  <titles>
+    <title type="short" as="introduced">Chesapeake Bay Gateways and Watertrails Network Reauthorization Act</title>
+    <title type="official" as="introduced">To amend the Chesapeake Bay Initiative Act of 1998 to provide for the reauthorization of the Chesapeake Bay Gateways and Watertrails Network.</title>
+  </titles>
+  <sponsor thomas_id="01854"/>
+  <cosponsors>
+    <cosponsor thomas_id="01959" joined="2013-09-19"/>
+    <cosponsor thomas_id="00256" joined="2013-09-19"/>
+    <cosponsor thomas_id="02133" joined="2013-09-19"/>
+    <cosponsor thomas_id="01894" joined="2013-09-19"/>
+    <cosponsor thomas_id="00566" joined="2013-09-19"/>
+    <cosponsor thomas_id="00832" joined="2013-09-19"/>
+    <cosponsor thomas_id="01728" joined="2013-09-19"/>
+    <cosponsor thomas_id="01037" joined="2013-09-19"/>
+    <cosponsor thomas_id="01729" joined="2013-09-19"/>
+    <cosponsor thomas_id="01886" joined="2013-09-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-19" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-09-27">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Public Lands and Environmental Regulation" code="HSII10" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="1077"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Chesapeake Bay"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Historical and cultural resources"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Parks, recreation areas, trails"/>
+  </subjects>
+  <amendments/>
+  <summary>9/19/2013--Introduced.
+Chesapeake Bay Gateways and Watertrails Network Reauthorization Act - Amends the Chesapeake Bay Initiative Act of 1998 to extend the authorization of appropriations for the Chesapeake Bay Gateways and Watertrails Network through FY2018.</summary>
+</bill>

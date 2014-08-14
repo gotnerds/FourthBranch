@@ -1,0 +1,54 @@
+<bill session="113" type="h" number="2671" updated="2014-08-14T13:14:14-04:00">
+  <state datetime="2013-07-11">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-11"/>
+  </status>
+  <introduced datetime="2013-07-11"/>
+  <titles>
+    <title type="short" as="introduced">Charitable Agricultural Research Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide for the deductibility of charitable contributions to agricultural research organizations, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01710"/>
+  <cosponsors>
+    <cosponsor thomas_id="00038" joined="2013-08-02"/>
+    <cosponsor thomas_id="00099" joined="2013-07-11"/>
+    <cosponsor thomas_id="01787" joined="2013-07-22"/>
+    <cosponsor thomas_id="01742" joined="2013-07-11"/>
+    <cosponsor thomas_id="02144" joined="2013-07-11"/>
+    <cosponsor thomas_id="01989" joined="2013-07-11"/>
+    <cosponsor thomas_id="01995" joined="2013-07-11"/>
+    <cosponsor thomas_id="01921" joined="2013-07-11"/>
+    <cosponsor thomas_id="01498" joined="2013-07-11"/>
+    <cosponsor thomas_id="02100" joined="2013-07-11"/>
+    <cosponsor thomas_id="02050" joined="2013-07-11"/>
+    <cosponsor thomas_id="00711" joined="2013-07-11"/>
+    <cosponsor thomas_id="01806" joined="2013-07-11"/>
+    <cosponsor thomas_id="01505" joined="2013-07-11"/>
+    <cosponsor thomas_id="00910" joined="2013-07-11"/>
+    <cosponsor thomas_id="01802" joined="2013-07-11"/>
+    <cosponsor thomas_id="02105" joined="2013-07-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-11" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="1280"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Agricultural research"/>
+    <term name="Higher education"/>
+    <term name="Income tax deductions"/>
+    <term name="Public participation and lobbying"/>
+    <term name="Social work, volunteer service, charitable organizations"/>
+    <term name="Tax-exempt organizations"/>
+  </subjects>
+  <amendments/>
+  <summary>7/11/2013--Introduced.
+Charitable Agricultural Research Act - Amends the Internal Revenue Code to: (1) allow a tax deduction for a charitable contribution to an agricultural research organization directly engaged in the continuous active conduct of agricultural research, and (2) make prohibitions against expenditures to influence legislation applicable to such organizations.</summary>
+</bill>

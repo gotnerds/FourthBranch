@@ -1,0 +1,37 @@
+<bill session="113" type="s" number="2445" updated="2014-08-14T14:05:40-04:00">
+  <state datetime="2014-06-05">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-05"/>
+  </status>
+  <introduced datetime="2014-06-05"/>
+  <titles>
+    <title type="short" as="introduced">Pause for Safety Act of 2014</title>
+    <title type="official" as="introduced">A bill to provide family members and close associates of an individual who they fear is a danger to himself, herself, or others new tools to prevent gun violence.</title>
+  </titles>
+  <sponsor thomas_id="00116"/>
+  <cosponsors>
+    <cosponsor thomas_id="02076" joined="2014-06-16"/>
+    <cosponsor thomas_id="01332" joined="2014-06-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="4806"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Crime prevention"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Firearms and explosives"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="State and local government operations"/>
+    <term name="Violent crime"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,56 @@
+<bill session="113" type="hr" number="272" updated="2014-08-14T12:46:57-04:00">
+  <state datetime="2013-06-20">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-20"/>
+  </status>
+  <introduced datetime="2013-06-20"/>
+  <titles>
+    <title type="official" as="introduced">Honoring the Drug Enforcement Administration on the occasion of its 40th anniversary.</title>
+  </titles>
+  <sponsor thomas_id="01909"/>
+  <cosponsors>
+    <cosponsor thomas_id="01723" joined="2013-06-20"/>
+    <cosponsor thomas_id="00165" joined="2013-06-28"/>
+    <cosponsor thomas_id="00211" joined="2013-06-25"/>
+    <cosponsor thomas_id="00462" joined="2013-07-11"/>
+    <cosponsor thomas_id="02041" joined="2013-06-20"/>
+    <cosponsor thomas_id="02143" joined="2013-07-09"/>
+    <cosponsor thomas_id="00635" joined="2013-06-20"/>
+    <cosponsor thomas_id="01505" joined="2013-06-20"/>
+    <cosponsor thomas_id="00910" joined="2013-06-20"/>
+    <cosponsor thomas_id="01953" joined="2013-06-20"/>
+    <cosponsor thomas_id="00944" joined="2013-06-20"/>
+    <cosponsor thomas_id="01728" joined="2013-06-20"/>
+    <cosponsor thomas_id="01522" joined="2013-06-20"/>
+    <cosponsor thomas_id="01238" joined="2013-06-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-20" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-07-15">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="sr" session="113" relation="unknown" number="178"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Department of Justice"/>
+    <term name="Drug Enforcement Administration (DEA)"/>
+    <term name="Drug trafficking and controlled substances"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Law enforcement officers"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+  <summary>6/20/2013--Introduced.
+Congratulates the Drug Enforcement Administration (DEA) on the occasion of its 40th anniversary.</summary>
+</bill>

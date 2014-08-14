@@ -1,0 +1,75 @@
+<bill session="113" type="hj" number="28" updated="2014-08-14T13:37:48-04:00">
+  <state datetime="2013-02-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-13"/>
+  </status>
+  <introduced datetime="2013-02-13"/>
+  <titles>
+    <title type="official" as="introduced">Proposing an amendment to the Constitution of the United States to limit the power of Congress to impose a tax on a failure to purchase goods or services.</title>
+  </titles>
+  <sponsor thomas_id="02035"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2013-03-06"/>
+    <cosponsor thomas_id="02131" joined="2013-06-06"/>
+    <cosponsor thomas_id="02155" joined="2013-03-14"/>
+    <cosponsor thomas_id="01987" joined="2013-04-26"/>
+    <cosponsor thomas_id="01882" joined="2013-03-20"/>
+    <cosponsor thomas_id="01742" joined="2013-06-06"/>
+    <cosponsor thomas_id="02103" joined="2013-10-23"/>
+    <cosponsor thomas_id="01670" joined="2013-06-06"/>
+    <cosponsor thomas_id="01995" joined="2013-06-06"/>
+    <cosponsor thomas_id="02062" joined="2013-06-06"/>
+    <cosponsor thomas_id="02057" joined="2013-03-06"/>
+    <cosponsor thomas_id="02065" joined="2013-06-06"/>
+    <cosponsor thomas_id="01801" joined="2013-06-06"/>
+    <cosponsor thomas_id="00484" joined="2013-07-09"/>
+    <cosponsor thomas_id="01933" joined="2013-07-08"/>
+    <cosponsor thomas_id="02026" joined="2013-06-06"/>
+    <cosponsor thomas_id="00612" joined="2013-02-25"/>
+    <cosponsor thomas_id="00636" joined="2013-06-06"/>
+    <cosponsor thomas_id="02100" joined="2013-03-14"/>
+    <cosponsor thomas_id="02053" joined="2013-04-24"/>
+    <cosponsor thomas_id="01908" joined="2013-06-06"/>
+    <cosponsor thomas_id="01758" joined="2013-10-23"/>
+    <cosponsor thomas_id="02034" joined="2013-02-25"/>
+    <cosponsor thomas_id="01738" joined="2013-06-06"/>
+    <cosponsor thomas_id="02157" joined="2013-04-16"/>
+    <cosponsor thomas_id="01514" joined="2013-03-14"/>
+    <cosponsor thomas_id="01954" joined="2013-06-06"/>
+    <cosponsor thomas_id="02017" joined="2013-03-13"/>
+    <cosponsor thomas_id="01009" joined="2013-06-06"/>
+    <cosponsor thomas_id="02168" joined="2013-06-06"/>
+    <cosponsor thomas_id="01114" joined="2013-04-26"/>
+    <cosponsor thomas_id="01981" joined="2013-06-06"/>
+    <cosponsor thomas_id="01855" joined="2013-03-12"/>
+    <cosponsor thomas_id="02161" joined="2013-04-16"/>
+    <cosponsor thomas_id="01886" joined="2013-10-23"/>
+    <cosponsor thomas_id="02021" joined="2013-03-14"/>
+    <cosponsor thomas_id="02115" joined="2013-06-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-13" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-02-28">
+      <text>Referred to the Subcommittee on the Constitution And Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee subcommittee="Constitution and Civil Justice" code="HSJU10" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="sj" session="113" relation="identical" number="16"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Constitution and constitutional amendments"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <summary>2/13/2013--Introduced.
+Constitutional Amendment - Prohibits Congress from making any law that imposes a tax on a failure to purchase goods or services.</summary>
+</bill>

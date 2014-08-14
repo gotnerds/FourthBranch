@@ -1,0 +1,50 @@
+<bill session="113" type="h" number="3313" updated="2014-08-14T13:19:39-04:00">
+  <state datetime="2013-10-23">REFERRED</state>
+  <status>
+    <introduced datetime="2013-10-23"/>
+  </status>
+  <introduced datetime="2013-10-23"/>
+  <titles>
+    <title type="short" as="introduced">Santa Ynez Band of Chumash Mission Indians Land Transfer Act of 2013</title>
+    <title type="official" as="introduced">To authorize the Secretary of the Interior to take land into trust for the benefit of the Santa Ynez Band of Chumash Mission Indians, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02100"/>
+  <cosponsors>
+    <cosponsor thomas_id="02107" joined="2013-10-23"/>
+    <cosponsor thomas_id="01742" joined="2014-02-25"/>
+    <cosponsor thomas_id="02103" joined="2014-02-25"/>
+    <cosponsor thomas_id="01995" joined="2013-10-23"/>
+    <cosponsor thomas_id="02120" joined="2013-10-23"/>
+    <cosponsor thomas_id="01653" joined="2014-04-10"/>
+    <cosponsor thomas_id="02108" joined="2014-02-25"/>
+    <cosponsor thomas_id="01710" joined="2014-04-28"/>
+    <cosponsor thomas_id="01593" joined="2014-04-28"/>
+    <cosponsor thomas_id="02105" joined="2013-10-23"/>
+    <cosponsor thomas_id="02112" joined="2014-02-25"/>
+    <cosponsor thomas_id="02109" joined="2013-10-23" withdrawn="2013-12-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-10-23" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="California"/>
+    <term name="Federal-Indian relations"/>
+    <term name="Gambling"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="Land transfers"/>
+  </subjects>
+  <amendments/>
+  <summary>10/23/2013--Introduced.
+Santa Ynez Band of Chumash Mission Indians Land Transfer Act of 2013 - Directs the Secretary of the Interior to take specified lands in Santa Barbara County, California, into trust for the Santa Ynez Band of Chumash Mission Indians if the Tribe transfers title to that land to the United States. (Placing that land into trust removes certain restrictions on the property under California law.)
+
+Makes that land part of the Santa Ynez Indian Reservation.
+
+Prohibits gambling on the land.</summary>
+</bill>

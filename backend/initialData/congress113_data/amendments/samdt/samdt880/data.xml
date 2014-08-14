@@ -1,0 +1,17 @@
+<amendment session="113" chamber="s" number="880" updated="2014-08-14T13:07:01-04:00">
+  <amends type="s" number="601" sequence=""/>
+  <status datetime="2013-05-14">pass</status>
+  <sponsor thomas_id="01692"/>
+  <offered datetime="2013-05-09"/>
+  <description>To deauthorize portions of the project for East Fork of Trinity River, Texas.</description>
+  <actions>
+    <action datetime="2013-05-14">
+      <text>Amendment SA 880 proposed by Senator Vitter for Senator Cornyn.</text>
+      <reference ref="CR S3401-3408" label="consideration"/>
+      <reference ref="CR S3406" label="text"/>
+    </action>
+    <vote datetime="2013-05-14" how="Unanimous Consent" result="pass">
+      <text>Amendment SA 880 agreed to in Senate by Unanimous Consent.</text>
+    </vote>
+  </actions>
+</amendment>

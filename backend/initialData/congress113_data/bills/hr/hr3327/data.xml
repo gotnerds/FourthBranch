@@ -1,0 +1,64 @@
+<bill session="113" type="h" number="3327" updated="2014-08-14T13:19:48-04:00">
+  <state datetime="2013-10-23">REFERRED</state>
+  <status>
+    <introduced datetime="2013-10-23"/>
+  </status>
+  <introduced datetime="2013-10-23"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide an extension of the work opportunity tax credit for veterans.</title>
+  </titles>
+  <sponsor thomas_id="02190"/>
+  <cosponsors>
+    <cosponsor thomas_id="01780" joined="2013-11-14"/>
+    <cosponsor thomas_id="02153" joined="2013-11-15"/>
+    <cosponsor thomas_id="00091" joined="2013-11-20"/>
+    <cosponsor thomas_id="01740" joined="2014-02-06"/>
+    <cosponsor thomas_id="02106" joined="2013-11-15"/>
+    <cosponsor thomas_id="02127" joined="2013-11-19"/>
+    <cosponsor thomas_id="01761" joined="2013-12-03"/>
+    <cosponsor thomas_id="02159" joined="2014-01-03"/>
+    <cosponsor thomas_id="01970" joined="2013-12-03"/>
+    <cosponsor thomas_id="01864" joined="2013-12-03"/>
+    <cosponsor thomas_id="01878" joined="2013-12-11"/>
+    <cosponsor thomas_id="02126" joined="2013-11-20"/>
+    <cosponsor thomas_id="02125" joined="2013-11-14"/>
+    <cosponsor thomas_id="01895" joined="2013-11-15"/>
+    <cosponsor thomas_id="02164" joined="2014-07-30"/>
+    <cosponsor thomas_id="02041" joined="2013-11-15"/>
+    <cosponsor thomas_id="00588" joined="2013-11-15"/>
+    <cosponsor thomas_id="00635" joined="2013-11-20"/>
+    <cosponsor thomas_id="01907" joined="2014-05-20"/>
+    <cosponsor thomas_id="02150" joined="2014-01-31"/>
+    <cosponsor thomas_id="01671" joined="2013-12-11"/>
+    <cosponsor thomas_id="01832" joined="2013-11-15"/>
+    <cosponsor thomas_id="01811" joined="2013-11-20"/>
+    <cosponsor thomas_id="01756" joined="2013-11-20"/>
+    <cosponsor thomas_id="01037" joined="2013-11-20"/>
+    <cosponsor thomas_id="01151" joined="2013-11-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-10-23" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2013-10-30">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H6912"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="3328"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Employee hiring"/>
+    <term name="Income tax credits"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Wages and earnings"/>
+  </subjects>
+  <amendments/>
+  <summary>10/23/2013--Introduced.
+Amends the Internal Revenue Code to extend through 2018 the work opportunity tax credit for qualified veterans (defined as veterans who are members of families receiving supplemental nutrition assistance or who are entitled to compensation for a service-connected disability and have been unemployed for a certain period of time).</summary>
+</bill>

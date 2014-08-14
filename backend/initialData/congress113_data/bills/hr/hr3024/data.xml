@@ -1,0 +1,57 @@
+<bill session="113" type="h" number="3024" updated="2014-08-14T13:17:14-04:00">
+  <state datetime="2013-08-02">REFERRED</state>
+  <status>
+    <introduced datetime="2013-08-02"/>
+  </status>
+  <introduced datetime="2013-08-02"/>
+  <titles>
+    <title type="short" as="introduced">Medicare Common Access Card Act of 2013</title>
+    <title type="official" as="introduced">To establish a smart card pilot program under the Medicare program.</title>
+  </titles>
+  <sponsor thomas_id="01743"/>
+  <cosponsors>
+    <cosponsor thomas_id="00099" joined="2013-08-02"/>
+    <cosponsor thomas_id="01959" joined="2013-12-12"/>
+    <cosponsor thomas_id="01477" joined="2013-12-12"/>
+    <cosponsor thomas_id="00299" joined="2013-08-02"/>
+    <cosponsor thomas_id="02147" joined="2013-10-10"/>
+    <cosponsor thomas_id="02015" joined="2013-12-12"/>
+    <cosponsor thomas_id="01781" joined="2013-11-15"/>
+    <cosponsor thomas_id="02073" joined="2013-10-02"/>
+    <cosponsor thomas_id="01920" joined="2013-11-18"/>
+    <cosponsor thomas_id="01861" joined="2014-07-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-08-02" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-08-02">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-08-02">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-08-02">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2586"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Computer security and identity theft"/>
+    <term name="Congressional oversight"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Health care quality"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>8/2/2013--Introduced.
+Medicare Common Access Card Act of 2013 - Establishes a pilot program under title XVIII (Medicare) of the Social Security Act in order to utilize smart card technology for Medicare beneficiary and provider identification cards.</summary>
+</bill>

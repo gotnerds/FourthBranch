@@ -1,0 +1,113 @@
+<bill session="113" type="h" number="401" updated="2014-08-14T12:54:10-04:00">
+  <state datetime="2013-01-23">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-23"/>
+  </status>
+  <introduced datetime="2013-01-23"/>
+  <titles>
+    <title type="short" as="introduced">Justice and Mental Health Collaboration Act of 2013</title>
+    <title type="official" as="introduced">To reauthorize and improve the Mentally Ill Offender Treatment and Crime Reduction Act of 2004.</title>
+  </titles>
+  <sponsor thomas_id="02001"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2013-03-13"/>
+    <cosponsor thomas_id="02093" joined="2013-02-26"/>
+    <cosponsor thomas_id="02027" joined="2013-02-26"/>
+    <cosponsor thomas_id="01723" joined="2013-03-13"/>
+    <cosponsor thomas_id="02129" joined="2013-05-08"/>
+    <cosponsor thomas_id="02106" joined="2014-06-09"/>
+    <cosponsor thomas_id="00166" joined="2013-03-04"/>
+    <cosponsor thomas_id="01889" joined="2013-08-02"/>
+    <cosponsor thomas_id="01839" joined="2013-04-09"/>
+    <cosponsor thomas_id="02055" joined="2013-01-23"/>
+    <cosponsor thomas_id="00229" joined="2013-01-23"/>
+    <cosponsor thomas_id="02114" joined="2013-03-13"/>
+    <cosponsor thomas_id="02058" joined="2013-01-23"/>
+    <cosponsor thomas_id="02041" joined="2013-01-23"/>
+    <cosponsor thomas_id="02044" joined="2014-02-11"/>
+    <cosponsor thomas_id="02040" joined="2013-03-13"/>
+    <cosponsor thomas_id="02071" joined="2014-07-22"/>
+    <cosponsor thomas_id="01634" joined="2014-03-18"/>
+    <cosponsor thomas_id="01921" joined="2014-02-26"/>
+    <cosponsor thomas_id="02046" joined="2013-03-19"/>
+    <cosponsor thomas_id="01843" joined="2013-07-08"/>
+    <cosponsor thomas_id="02199" joined="2014-03-27"/>
+    <cosponsor thomas_id="02154" joined="2014-03-18"/>
+    <cosponsor thomas_id="02172" joined="2014-05-06"/>
+    <cosponsor thomas_id="00635" joined="2014-01-31"/>
+    <cosponsor thomas_id="01936" joined="2014-06-09"/>
+    <cosponsor thomas_id="01846" joined="2013-05-08"/>
+    <cosponsor thomas_id="00701" joined="2013-01-23"/>
+    <cosponsor thomas_id="02111" joined="2014-07-23"/>
+    <cosponsor thomas_id="02052" joined="2013-12-12"/>
+    <cosponsor thomas_id="01602" joined="2013-02-26"/>
+    <cosponsor thomas_id="02162" joined="2013-04-09"/>
+    <cosponsor thomas_id="01510" joined="2013-02-26"/>
+    <cosponsor thomas_id="01930" joined="2014-04-02"/>
+    <cosponsor thomas_id="02097" joined="2013-06-19"/>
+    <cosponsor thomas_id="01929" joined="2013-04-26"/>
+    <cosponsor thomas_id="02171" joined="2013-07-08"/>
+    <cosponsor thomas_id="01810" joined="2013-01-23"/>
+    <cosponsor thomas_id="00985" joined="2014-05-19"/>
+    <cosponsor thomas_id="02039" joined="2014-04-02"/>
+    <cosponsor thomas_id="01756" joined="2013-12-12"/>
+    <cosponsor thomas_id="01037" joined="2013-01-23"/>
+    <cosponsor thomas_id="01041" joined="2013-01-23"/>
+    <cosponsor thomas_id="01525" joined="2014-02-28"/>
+    <cosponsor thomas_id="01069" joined="2014-05-21"/>
+    <cosponsor thomas_id="02047" joined="2013-02-26"/>
+    <cosponsor thomas_id="01664" joined="2014-07-14"/>
+    <cosponsor thomas_id="01177" joined="2014-03-18"/>
+    <cosponsor thomas_id="01729" joined="2013-01-23"/>
+    <cosponsor thomas_id="02137" joined="2013-06-19"/>
+    <cosponsor thomas_id="02128" joined="2013-04-09"/>
+    <cosponsor thomas_id="02021" joined="2013-03-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-23" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-02-28">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, And Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="3717"/>
+    <bill type="h" session="113" relation="unknown" number="4574"/>
+    <bill type="h" session="113" relation="unknown" number="4783"/>
+    <bill type="s" session="113" relation="identical" number="162"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Correctional facilities and imprisonment"/>
+    <term name="Crime prevention"/>
+    <term name="Crime victims"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Employment and training programs"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Law enforcement officers"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Mental health"/>
+    <term name="Performance measurement"/>
+    <term name="Specialized courts"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Veterans' loans, housing, homeless programs"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>1/23/2013--Introduced.
+Justice and Mental Health Collaboration Act of 2013 - Amends the Mentally Ill Offender Treatment and Crime Reduction Act of 2004 to: (1) expand the assistance provided under such Act, and (2) reauthorize appropriations for FY2015-FY2019. Defines a "preliminarily qualified offender" as an adult or juvenile accused of an offense who has been diagnosed as having, or who manifests obvious signs of, mental illness or co-occurring mental illness and substance abuse disorders.
+
+Authorizes the Attorney General to award grants to establish or expand: (1) veterans treatment court programs, which involve collaboration among criminal justice, veterans, and mental health and substance abuse agencies to provide qualified veterans (preliminarily qualified offenders who were discharged from the armed forces under conditions other than dishonorable) with intensive judicial supervision and case management, treatment services, alternatives to incarceration, and other appropriate services, including housing, transportation, job training, education, and assistance in obtaining benefits; (2) peer to peer services or programs to assist such veterans in obtaining treatment, recovery, stabilization, or rehabilitation; (3) practices that identify and provide treatment, rehabilitation, legal, transitional, and other appropriate services to such veterans who have been incarcerated; and (4) training programs to teach criminal justice, law enforcement, corrections, mental health, and substance abuse personnel how to identify and respond to incidents involving such veterans.
+
+Authorizes the Attorney General to award grants to enhance the capabilities of a correctional facility to: (1) identify and screen for mentally ill inmates; (2) plan and provide assessments of the clinical, medical, and social needs of inmates and appropriate treatment and services that address mental health and substance abuse needs; (3) develop, implement, and enhance post-release transition plans that coordinate services and public benefits, the availability of mental health care and substance abuse treatment services, alternatives to solitary confinement and segregated housing, and mental health screening and treatment for inmates placed in solitary confinement or segregated housing; and (4) train employees in identifying and responding to incidents involving inmates with mental health disorders or co-occurring mental health and substance abuse disorders.
+
+Authorizes the Attorney General to: (1) award not more than six grants per year to applicants for the purpose of reducing the use of public services by mentally ill individuals who consume a significantly disproportionate quantity of public resources, and (2) make grants to provide support for programs that teach law enforcement personnel how to identify and respond to incidents involving persons with such disorders.
+
+Directs the Attorney General to give priority in awarding grants for adult or juvenile collaboration programs to applications that: (1) propose interventions that have been shown by empirical evidence to reduce recidivism, and (2) use validated assessment tools to target preliminarily qualified offenders with a moderate or high risk of recidivism and a need for treatment and services.</summary>
+</bill>

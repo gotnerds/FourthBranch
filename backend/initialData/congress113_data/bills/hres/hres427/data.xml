@@ -1,0 +1,56 @@
+<bill session="113" type="hr" number="427" updated="2014-08-14T12:48:16-04:00">
+  <state datetime="2013-11-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-11-21"/>
+  </status>
+  <introduced datetime="2013-11-21"/>
+  <titles>
+    <title type="official" as="introduced">Expressing support for designation of May 29, 2014, as a national day of remembrance honoring the late President John Fitzgerald Kennedy, the 35th President of the United States.</title>
+  </titles>
+  <sponsor thomas_id="01583"/>
+  <cosponsors>
+    <cosponsor thomas_id="01564" joined="2013-11-21"/>
+    <cosponsor thomas_id="02055" joined="2013-11-21"/>
+    <cosponsor thomas_id="01959" joined="2013-11-21"/>
+    <cosponsor thomas_id="01836" joined="2013-11-21"/>
+    <cosponsor thomas_id="00281" joined="2013-11-21"/>
+    <cosponsor thomas_id="00355" joined="2013-11-21"/>
+    <cosponsor thomas_id="02114" joined="2013-11-21"/>
+    <cosponsor thomas_id="01913" joined="2013-11-21"/>
+    <cosponsor thomas_id="02025" joined="2013-11-21"/>
+    <cosponsor thomas_id="02172" joined="2013-11-21"/>
+    <cosponsor thomas_id="00635" joined="2013-11-21"/>
+    <cosponsor thomas_id="02145" joined="2013-11-21"/>
+    <cosponsor thomas_id="01668" joined="2013-11-21"/>
+    <cosponsor thomas_id="01686" joined="2013-11-21"/>
+    <cosponsor thomas_id="01504" joined="2013-11-21"/>
+    <cosponsor thomas_id="01730" joined="2013-11-21"/>
+    <cosponsor thomas_id="00832" joined="2013-11-21"/>
+    <cosponsor thomas_id="00854" joined="2013-11-21"/>
+    <cosponsor thomas_id="00867" joined="2013-11-21"/>
+    <cosponsor thomas_id="01510" joined="2013-11-21"/>
+    <cosponsor thomas_id="01927" joined="2013-11-21"/>
+    <cosponsor thomas_id="01756" joined="2013-11-21"/>
+    <cosponsor thomas_id="01861" joined="2013-11-21"/>
+    <cosponsor thomas_id="01535" joined="2013-11-21"/>
+    <cosponsor thomas_id="01884" joined="2013-11-21"/>
+    <cosponsor thomas_id="01879" joined="2013-11-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-11-21" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Presidential administrations"/>
+  </subjects>
+  <amendments/>
+  <summary>11/21/2013--Introduced.
+Expresses support for the designation of a national day of remembrance in honor of John Fitzgerald Kennedy.</summary>
+</bill>

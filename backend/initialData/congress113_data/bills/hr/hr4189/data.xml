@@ -1,0 +1,39 @@
+<bill session="113" type="h" number="4189" updated="2014-08-14T13:27:08-04:00">
+  <state datetime="2014-03-12">REPORTED</state>
+  <status>
+    <unknown datetime="2014-03-12"/>
+  </status>
+  <introduced datetime="2014-03-11"/>
+  <titles>
+    <title type="official" as="introduced">To designate the facility of the United States Postal Service located at 4000 Leap Road in Hilliard, Ohio, as the "Sergeant Shawn T. Hannon and Master Sergeant Jeffrey J. Rieck and Veterans Memorial Post Office Building".</title>
+  </titles>
+  <sponsor thomas_id="02047"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-03-11" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2014-03-12">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-03-12" state="REPORTED">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional tributes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Ohio"/>
+    <term name="Postal service"/>
+    <term name="Veterans' organizations and recognition"/>
+  </subjects>
+  <amendments/>
+  <summary>3/11/2014--Introduced.
+Designates the facility of the United States Postal Service located at 4000 Leap Road in Hilliard, Ohio, as the "Sergeant Shawn T. Hannon and Master Sergeant Jeffrey J. Rieck and Veterans Memorial Post Office Building."</summary>
+</bill>

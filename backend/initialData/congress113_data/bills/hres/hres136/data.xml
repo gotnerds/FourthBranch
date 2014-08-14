@@ -1,0 +1,66 @@
+<bill session="113" type="hr" number="136" updated="2014-08-14T12:45:48-04:00">
+  <state datetime="2013-03-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-21"/>
+  </status>
+  <introduced datetime="2013-03-21"/>
+  <titles>
+    <title type="official" as="introduced">Urging Turkey to respect the rights and religious freedoms of the Ecumenical Patriarchate.</title>
+  </titles>
+  <sponsor thomas_id="00729"/>
+  <cosponsors>
+    <cosponsor thomas_id="01838" joined="2013-03-21"/>
+    <cosponsor thomas_id="01845" joined="2013-07-23"/>
+    <cosponsor thomas_id="02107" joined="2013-06-26"/>
+    <cosponsor thomas_id="01604" joined="2013-05-23"/>
+    <cosponsor thomas_id="01888" joined="2014-03-04"/>
+    <cosponsor thomas_id="00414" joined="2013-03-21"/>
+    <cosponsor thomas_id="01737" joined="2013-03-21"/>
+    <cosponsor thomas_id="02041" joined="2013-03-21"/>
+    <cosponsor thomas_id="01663" joined="2013-06-06"/>
+    <cosponsor thomas_id="01504" joined="2013-04-10"/>
+    <cosponsor thomas_id="02148" joined="2013-04-26"/>
+    <cosponsor thomas_id="00887" joined="2013-04-10"/>
+    <cosponsor thomas_id="01522" joined="2013-03-21"/>
+    <cosponsor thomas_id="01854" joined="2013-04-10"/>
+    <cosponsor thomas_id="01526" joined="2013-03-21"/>
+    <cosponsor thomas_id="01884" joined="2013-04-10"/>
+    <cosponsor thomas_id="01729" joined="2013-03-21"/>
+    <cosponsor thomas_id="01238" joined="2013-06-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-21">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E359"/>
+    </action>
+    <action datetime="2013-03-21" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2013-05-06">
+      <text>Referred to the Subcommittee on Africa, Global Health, Global Human Rights and International Organizations.</text>
+    </action>
+    <action datetime="2013-05-06">
+      <text>Referred to the Subcommittee on Europe, Eurasia, and Emerging Threats.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee subcommittee="Africa, Global Health, Global Human Rights and International Organizations" code="HSFA16" name="House Foreign Affairs" activity="Referral"/>
+    <committee subcommittee="Europe, Eurasia, and Emerging Threats" code="HSFA14" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Europe"/>
+    <term name="European Union"/>
+    <term name="Human rights"/>
+    <term name="International law and treaties"/>
+    <term name="Middle East"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="Religion"/>
+    <term name="Turkey"/>
+  </subjects>
+  <amendments/>
+  <summary>3/21/2013--Introduced.
+Calls on Turkey to: (1) eliminate all forms of discrimination, particularly those based on race or religion, and grant the Ecumenical Patriarch appropriate international recognition and ecclesiastic succession; (2) safeguard religious and human rights; (3) continue the advancement of processes and programs to modernize and democratize its own society; (4) respect international law, European Union laws, and the basic tenets of human rights; and (5) prove that it is ready to meet the criteria set forth by the Copenhagen European Council prior to its accession into the European Union.</summary>
+</bill>

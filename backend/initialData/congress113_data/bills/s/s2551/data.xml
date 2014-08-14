@@ -1,0 +1,29 @@
+<bill session="113" type="s" number="2551" updated="2014-08-14T14:06:33-04:00">
+  <state datetime="2014-06-26">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-26"/>
+  </status>
+  <introduced datetime="2014-06-26"/>
+  <titles>
+    <title type="short" as="introduced">Technology and Research Accelerating National Security and Future Economic Resiliency Act of 2014</title>
+    <title type="short" as="introduced">TRANSFER Act</title>
+    <title type="official" as="introduced">A bill to amend the Small Business Act to establish the Innovative Approaches to Technology Transfer Grant Program.</title>
+  </titles>
+  <sponsor thomas_id="01866"/>
+  <cosponsors>
+    <cosponsor thomas_id="00209" joined="2014-06-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-26" state="REFERRED">
+      <text>Read twice and referred to the Committee on Small Business and Entrepreneurship.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSSB" name="Senate Small Business and Entrepreneurship" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="2981"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

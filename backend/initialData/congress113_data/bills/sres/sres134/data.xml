@@ -1,0 +1,37 @@
+<bill session="113" type="sr" number="134" updated="2014-08-14T13:40:59-04:00">
+  <state datetime="2013-05-08">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-08"/>
+  </status>
+  <introduced datetime="2013-05-08"/>
+  <titles>
+    <title type="official" as="introduced">A resolution expressing the sense of the Senate that all incidents of abusive, unsanitary, or illegal health care practices should be condemned and prevented and the perpetrators should be prosecuted to the full extent of the law.</title>
+  </titles>
+  <sponsor thomas_id="02076"/>
+  <cosponsors>
+    <cosponsor thomas_id="00116" joined="2013-05-08"/>
+    <cosponsor thomas_id="01969" joined="2013-05-08"/>
+    <cosponsor thomas_id="01844" joined="2013-05-23"/>
+    <cosponsor thomas_id="01901" joined="2013-05-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-08" state="REFERRED">
+      <text>Referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <reference ref="CR S3263" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Crime prevention"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Health care quality"/>
+    <term name="Health personnel"/>
+  </subjects>
+  <amendments/>
+  <summary>5/8/2013--Introduced.
+Expresses the sense of the Senate that all incidents of abusive, unsanitary, or illegal health care practices should be condemned and prevented and the perpetrators should be prosecuted to the full extent of the law.</summary>
+</bill>

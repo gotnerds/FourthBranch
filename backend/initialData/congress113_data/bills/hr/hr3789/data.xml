@@ -1,0 +1,186 @@
+<bill session="113" type="h" number="3789" updated="2014-08-14T13:23:47-04:00">
+  <state datetime="2013-12-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-12-19"/>
+  </status>
+  <introduced datetime="2013-12-19"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 10, United States Code, to exempt the retired pay of certain disabled veterans from the reduced adjustment of retired pay and retainer pay amounts for retired members of the Armed Forces under age 62, to prevent any adverse impact of the reduced adjustment on annuities under the Survivor Benefit Plan based on retired or retainer pay, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01685"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2013-12-23"/>
+    <cosponsor thomas_id="02093" joined="2013-12-19"/>
+    <cosponsor thomas_id="02054" joined="2013-12-19"/>
+    <cosponsor thomas_id="02027" joined="2013-12-19"/>
+    <cosponsor thomas_id="02102" joined="2014-01-08"/>
+    <cosponsor thomas_id="01838" joined="2013-12-19"/>
+    <cosponsor thomas_id="01753" joined="2013-12-19"/>
+    <cosponsor thomas_id="01723" joined="2013-12-19"/>
+    <cosponsor thomas_id="01787" joined="2013-12-19"/>
+    <cosponsor thomas_id="02155" joined="2013-12-19"/>
+    <cosponsor thomas_id="01882" joined="2014-01-07"/>
+    <cosponsor thomas_id="01840" joined="2013-12-19"/>
+    <cosponsor thomas_id="02018" joined="2013-12-19"/>
+    <cosponsor thomas_id="02127" joined="2013-12-19"/>
+    <cosponsor thomas_id="01676" joined="2014-01-07"/>
+    <cosponsor thomas_id="01471" joined="2013-12-19"/>
+    <cosponsor thomas_id="01752" joined="2013-12-19"/>
+    <cosponsor thomas_id="01925" joined="2014-01-07"/>
+    <cosponsor thomas_id="01912" joined="2013-12-19"/>
+    <cosponsor thomas_id="01742" joined="2013-12-19"/>
+    <cosponsor thomas_id="01805" joined="2013-12-19"/>
+    <cosponsor thomas_id="02103" joined="2013-12-19"/>
+    <cosponsor thomas_id="01836" joined="2013-12-19"/>
+    <cosponsor thomas_id="02144" joined="2013-12-19"/>
+    <cosponsor thomas_id="01643" joined="2013-12-19"/>
+    <cosponsor thomas_id="01670" joined="2013-12-19"/>
+    <cosponsor thomas_id="02126" joined="2013-12-19"/>
+    <cosponsor thomas_id="01799" joined="2013-12-19"/>
+    <cosponsor thomas_id="02116" joined="2013-12-19"/>
+    <cosponsor thomas_id="01717" joined="2013-12-19"/>
+    <cosponsor thomas_id="02123" joined="2013-12-19"/>
+    <cosponsor thomas_id="02072" joined="2014-01-03"/>
+    <cosponsor thomas_id="02057" joined="2013-12-19"/>
+    <cosponsor thomas_id="01857" joined="2013-12-23"/>
+    <cosponsor thomas_id="02036" joined="2014-01-08"/>
+    <cosponsor thomas_id="02125" joined="2013-12-19"/>
+    <cosponsor thomas_id="02067" joined="2013-12-19"/>
+    <cosponsor thomas_id="02064" joined="2013-12-19"/>
+    <cosponsor thomas_id="01797" joined="2013-12-19"/>
+    <cosponsor thomas_id="01683" joined="2013-12-19"/>
+    <cosponsor thomas_id="01793" joined="2013-12-19"/>
+    <cosponsor thomas_id="01888" joined="2013-12-23"/>
+    <cosponsor thomas_id="01791" joined="2013-12-19"/>
+    <cosponsor thomas_id="02119" joined="2013-12-19"/>
+    <cosponsor thomas_id="01707" joined="2013-12-19"/>
+    <cosponsor thomas_id="02122" joined="2014-02-03"/>
+    <cosponsor thomas_id="02164" joined="2013-12-19"/>
+    <cosponsor thomas_id="02120" joined="2013-12-19"/>
+    <cosponsor thomas_id="01998" joined="2014-01-08"/>
+    <cosponsor thomas_id="02049" joined="2013-12-19"/>
+    <cosponsor thomas_id="02043" joined="2013-12-19"/>
+    <cosponsor thomas_id="01979" joined="2013-12-23"/>
+    <cosponsor thomas_id="01914" joined="2013-12-19"/>
+    <cosponsor thomas_id="01803" joined="2013-12-19"/>
+    <cosponsor thomas_id="00462" joined="2013-12-19"/>
+    <cosponsor thomas_id="01990" joined="2013-12-19"/>
+    <cosponsor thomas_id="02041" joined="2013-12-19"/>
+    <cosponsor thomas_id="02010" joined="2013-12-19"/>
+    <cosponsor thomas_id="01933" joined="2014-01-10"/>
+    <cosponsor thomas_id="01794" joined="2013-12-19"/>
+    <cosponsor thomas_id="01490" joined="2013-12-19"/>
+    <cosponsor thomas_id="01634" joined="2013-12-19"/>
+    <cosponsor thomas_id="02028" joined="2013-12-19"/>
+    <cosponsor thomas_id="02015" joined="2013-12-19"/>
+    <cosponsor thomas_id="01909" joined="2013-12-19"/>
+    <cosponsor thomas_id="01921" joined="2013-12-19"/>
+    <cosponsor thomas_id="02046" joined="2013-12-19"/>
+    <cosponsor thomas_id="00599" joined="2013-12-23"/>
+    <cosponsor thomas_id="00612" joined="2013-12-19"/>
+    <cosponsor thomas_id="02154" joined="2013-12-23"/>
+    <cosponsor thomas_id="02051" joined="2013-12-19"/>
+    <cosponsor thomas_id="01498" joined="2013-12-23"/>
+    <cosponsor thomas_id="02014" joined="2013-12-19"/>
+    <cosponsor thomas_id="01907" joined="2013-12-19"/>
+    <cosponsor thomas_id="01733" joined="2013-12-23"/>
+    <cosponsor thomas_id="02145" joined="2013-12-19"/>
+    <cosponsor thomas_id="01834" joined="2013-12-19"/>
+    <cosponsor thomas_id="01936" joined="2013-12-19"/>
+    <cosponsor thomas_id="02050" joined="2013-12-19"/>
+    <cosponsor thomas_id="01583" joined="2013-12-19"/>
+    <cosponsor thomas_id="01885" joined="2014-01-07"/>
+    <cosponsor thomas_id="00699" joined="2013-12-19"/>
+    <cosponsor thomas_id="01846" joined="2013-12-19"/>
+    <cosponsor thomas_id="02033" joined="2014-01-08"/>
+    <cosponsor thomas_id="02150" joined="2013-12-19"/>
+    <cosponsor thomas_id="01806" joined="2014-01-07"/>
+    <cosponsor thomas_id="02053" joined="2013-12-19"/>
+    <cosponsor thomas_id="02094" joined="2013-12-19"/>
+    <cosponsor thomas_id="01833" joined="2013-12-19"/>
+    <cosponsor thomas_id="01804" joined="2013-12-19"/>
+    <cosponsor thomas_id="02074" joined="2013-12-19"/>
+    <cosponsor thomas_id="01809" joined="2013-12-19"/>
+    <cosponsor thomas_id="02052" joined="2013-12-19"/>
+    <cosponsor thomas_id="00800" joined="2013-12-19"/>
+    <cosponsor thomas_id="01730" joined="2014-01-07"/>
+    <cosponsor thomas_id="02117" joined="2013-12-19"/>
+    <cosponsor thomas_id="01744" joined="2013-12-19"/>
+    <cosponsor thomas_id="02108" joined="2013-12-23"/>
+    <cosponsor thomas_id="01758" joined="2013-12-19"/>
+    <cosponsor thomas_id="02060" joined="2013-12-19"/>
+    <cosponsor thomas_id="02162" joined="2013-12-19"/>
+    <cosponsor thomas_id="01974" joined="2013-12-19"/>
+    <cosponsor thomas_id="02035" joined="2013-12-19"/>
+    <cosponsor thomas_id="01738" joined="2013-12-19"/>
+    <cosponsor thomas_id="02157" joined="2013-12-19"/>
+    <cosponsor thomas_id="01927" joined="2013-12-19"/>
+    <cosponsor thomas_id="02141" joined="2014-01-08"/>
+    <cosponsor thomas_id="01915" joined="2013-12-19"/>
+    <cosponsor thomas_id="00940" joined="2013-12-19"/>
+    <cosponsor thomas_id="01982" joined="2014-01-07"/>
+    <cosponsor thomas_id="02048" joined="2013-12-23"/>
+    <cosponsor thomas_id="02160" joined="2013-12-19"/>
+    <cosponsor thomas_id="02068" joined="2013-12-19"/>
+    <cosponsor thomas_id="01954" joined="2013-12-19"/>
+    <cosponsor thomas_id="01916" joined="2013-12-19"/>
+    <cosponsor thomas_id="00985" joined="2013-12-19"/>
+    <cosponsor thomas_id="01848" joined="2014-01-08"/>
+    <cosponsor thomas_id="02003" joined="2013-12-19"/>
+    <cosponsor thomas_id="02158" joined="2013-12-19"/>
+    <cosponsor thomas_id="02039" joined="2013-12-19"/>
+    <cosponsor thomas_id="01728" joined="2013-12-19"/>
+    <cosponsor thomas_id="01962" joined="2014-01-07"/>
+    <cosponsor thomas_id="02009" joined="2013-12-19"/>
+    <cosponsor thomas_id="01525" joined="2013-12-19"/>
+    <cosponsor thomas_id="01988" joined="2013-12-19"/>
+    <cosponsor thomas_id="01861" joined="2013-12-19"/>
+    <cosponsor thomas_id="01590" joined="2013-12-19"/>
+    <cosponsor thomas_id="02099" joined="2013-12-19"/>
+    <cosponsor thomas_id="01075" joined="2013-12-19"/>
+    <cosponsor thomas_id="02000" joined="2013-12-19"/>
+    <cosponsor thomas_id="02047" joined="2013-12-19"/>
+    <cosponsor thomas_id="02104" joined="2014-01-08"/>
+    <cosponsor thomas_id="02110" joined="2013-12-19"/>
+    <cosponsor thomas_id="01566" joined="2013-12-19"/>
+    <cosponsor thomas_id="01952" joined="2013-12-19"/>
+    <cosponsor thomas_id="01593" joined="2014-01-08"/>
+    <cosponsor thomas_id="01940" joined="2013-12-19"/>
+    <cosponsor thomas_id="01741" joined="2013-12-19"/>
+    <cosponsor thomas_id="02105" joined="2013-12-19"/>
+    <cosponsor thomas_id="02167" joined="2013-12-19"/>
+    <cosponsor thomas_id="01855" joined="2013-12-19"/>
+    <cosponsor thomas_id="02128" joined="2013-12-19"/>
+    <cosponsor thomas_id="01856" joined="2013-12-19"/>
+    <cosponsor thomas_id="01779" joined="2013-12-19"/>
+    <cosponsor thomas_id="02165" joined="2013-12-19"/>
+    <cosponsor thomas_id="01688" joined="2013-12-19"/>
+    <cosponsor thomas_id="01886" joined="2013-12-19"/>
+    <cosponsor thomas_id="02021" joined="2013-12-19"/>
+    <cosponsor thomas_id="02115" joined="2013-12-19"/>
+    <cosponsor thomas_id="01256" joined="2014-01-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-12-19" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2014-01-24">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee subcommittee="Military Personnel" code="HSAS02" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Disability assistance"/>
+    <term name="Inflation and prices"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>12/19/2013--Introduced.
+Exempts from the reduction in the cost-of-living adjustment of retired pay of members of the Armed Forces under the age of 62 enacted by the Bipartisan Budget Act of 2013 the retired pay of any member or former member who is: (1) retired, (2) eligible for combat-related special compensation, or (3) entitled to concurrent payment of retired pay and veterans' disability compensation. Makes such reduction in the cost-of-living adjustment inapplicable to percentage increases allowed for annuities under survivor benefit plans based on retired or retainer pay.</summary>
+</bill>

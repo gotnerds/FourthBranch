@@ -1,0 +1,30 @@
+<bill session="113" type="hr" number="711" updated="2014-08-14T12:50:40-04:00">
+  <state datetime="2014-08-01">REFERRED</state>
+  <status>
+    <introduced datetime="2014-08-01"/>
+  </status>
+  <introduced datetime="2014-08-01"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the House of Representatives that the United States Postal Service should take all appropriate measures to ensure the continuation of door delivery for all business and residential customers.</title>
+  </titles>
+  <sponsor thomas_id="01641"/>
+  <cosponsors>
+    <cosponsor thomas_id="02154" joined="2014-08-01"/>
+    <cosponsor thomas_id="00635" joined="2014-08-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-08-01">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1322-1323"/>
+    </action>
+    <action datetime="2014-08-01" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

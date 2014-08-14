@@ -1,0 +1,24 @@
+<bill session="113" type="h" number="5311" updated="2014-08-14T13:36:49-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="short" as="introduced">Rocky Mountain Recreation and Wilderness Preservation Act</title>
+    <title type="official" as="introduced">To designate certain lands in the State of Colorado as components of the National Wilderness Preservation System, to designate the Tenmile Recreation Management Area and Porcupine Gulch Protection Area, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01910"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

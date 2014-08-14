@@ -1,0 +1,24 @@
+<bill session="113" type="s" number="2656" updated="2014-08-14T14:07:26-04:00">
+  <state datetime="2014-07-24">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-24"/>
+  </status>
+  <introduced datetime="2014-07-24"/>
+  <titles>
+    <title type="short" as="introduced">Protecting America's Families from Toxic Chemicals Act of 2014</title>
+    <title type="official" as="introduced">A bill to provide for the regulation of persistent, bioaccumulative, and toxic chemical substances, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01900"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-24" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

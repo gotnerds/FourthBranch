@@ -1,0 +1,119 @@
+<bill session="113" type="h" number="3335" updated="2014-08-14T13:19:52-04:00">
+  <state datetime="2013-10-23">REFERRED</state>
+  <status>
+    <introduced datetime="2013-10-23"/>
+  </status>
+  <introduced datetime="2013-10-23"/>
+  <titles>
+    <title type="short" as="introduced">Firearms Interstate Commerce Reform Act</title>
+    <title type="official" as="introduced">To amend chapter 44 of title 18, United States Code, to update certain procedures applicable to commerce in firearms and remove certain Federal restrictions on interstate firearms transactions.</title>
+  </titles>
+  <sponsor thomas_id="01892"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2014-03-12"/>
+    <cosponsor thomas_id="01858" joined="2014-02-28"/>
+    <cosponsor thomas_id="02131" joined="2014-04-03"/>
+    <cosponsor thomas_id="02027" joined="2014-02-14"/>
+    <cosponsor thomas_id="01838" joined="2014-05-07"/>
+    <cosponsor thomas_id="01753" joined="2014-01-27"/>
+    <cosponsor thomas_id="01748" joined="2013-11-13"/>
+    <cosponsor thomas_id="01787" joined="2013-11-19"/>
+    <cosponsor thomas_id="01468" joined="2013-11-20"/>
+    <cosponsor thomas_id="01882" joined="2014-02-05"/>
+    <cosponsor thomas_id="01925" joined="2014-03-24"/>
+    <cosponsor thomas_id="00186" joined="2014-02-05"/>
+    <cosponsor thomas_id="00211" joined="2014-03-14"/>
+    <cosponsor thomas_id="01912" joined="2014-05-28"/>
+    <cosponsor thomas_id="02151" joined="2013-11-19"/>
+    <cosponsor thomas_id="02098" joined="2014-04-07"/>
+    <cosponsor thomas_id="01989" joined="2013-11-21"/>
+    <cosponsor thomas_id="01670" joined="2014-04-28"/>
+    <cosponsor thomas_id="02138" joined="2013-11-20"/>
+    <cosponsor thomas_id="02062" joined="2013-11-20"/>
+    <cosponsor thomas_id="02057" joined="2013-11-20"/>
+    <cosponsor thomas_id="02067" joined="2014-03-24"/>
+    <cosponsor thomas_id="01924" joined="2013-11-13"/>
+    <cosponsor thomas_id="02065" joined="2013-11-20"/>
+    <cosponsor thomas_id="01707" joined="2013-11-14"/>
+    <cosponsor thomas_id="01998" joined="2014-04-30"/>
+    <cosponsor thomas_id="02044" joined="2014-02-27"/>
+    <cosponsor thomas_id="01933" joined="2014-01-27"/>
+    <cosponsor thomas_id="02026" joined="2013-11-20"/>
+    <cosponsor thomas_id="02032" joined="2013-11-14"/>
+    <cosponsor thomas_id="01749" joined="2014-03-24"/>
+    <cosponsor thomas_id="02020" joined="2013-11-12"/>
+    <cosponsor thomas_id="02046" joined="2013-11-19"/>
+    <cosponsor thomas_id="00603" joined="2014-01-27"/>
+    <cosponsor thomas_id="02199" joined="2014-08-01"/>
+    <cosponsor thomas_id="00612" joined="2014-01-07"/>
+    <cosponsor thomas_id="01868" joined="2014-01-27"/>
+    <cosponsor thomas_id="02014" joined="2014-01-14"/>
+    <cosponsor thomas_id="02100" joined="2013-11-20"/>
+    <cosponsor thomas_id="01834" joined="2014-03-24"/>
+    <cosponsor thomas_id="01885" joined="2013-11-20"/>
+    <cosponsor thomas_id="02033" joined="2014-01-14"/>
+    <cosponsor thomas_id="01960" joined="2014-02-26"/>
+    <cosponsor thomas_id="01806" joined="2014-03-26"/>
+    <cosponsor thomas_id="01804" joined="2013-11-21"/>
+    <cosponsor thomas_id="01908" joined="2014-01-10"/>
+    <cosponsor thomas_id="01758" joined="2014-01-14"/>
+    <cosponsor thomas_id="02034" joined="2013-11-20"/>
+    <cosponsor thomas_id="01955" joined="2013-11-20"/>
+    <cosponsor thomas_id="00910" joined="2014-02-14"/>
+    <cosponsor thomas_id="01802" joined="2013-11-19"/>
+    <cosponsor thomas_id="01910" joined="2014-01-14"/>
+    <cosponsor thomas_id="02022" joined="2014-01-09"/>
+    <cosponsor thomas_id="00940" joined="2014-01-07"/>
+    <cosponsor thomas_id="02073" joined="2014-02-27"/>
+    <cosponsor thomas_id="02068" joined="2014-02-26"/>
+    <cosponsor thomas_id="01954" joined="2013-11-12"/>
+    <cosponsor thomas_id="01704" joined="2014-01-07"/>
+    <cosponsor thomas_id="01009" joined="2013-11-20"/>
+    <cosponsor thomas_id="01994" joined="2013-11-13"/>
+    <cosponsor thomas_id="02009" joined="2013-11-13"/>
+    <cosponsor thomas_id="01525" joined="2014-01-07"/>
+    <cosponsor thomas_id="01681" joined="2014-03-24"/>
+    <cosponsor thomas_id="02191" joined="2014-01-15"/>
+    <cosponsor thomas_id="01075" joined="2014-01-07"/>
+    <cosponsor thomas_id="02000" joined="2014-01-16"/>
+    <cosponsor thomas_id="01981" joined="2013-11-13"/>
+    <cosponsor thomas_id="01664" joined="2014-04-02"/>
+    <cosponsor thomas_id="01855" joined="2013-12-04"/>
+    <cosponsor thomas_id="01596" joined="2014-03-24"/>
+    <cosponsor thomas_id="02161" joined="2013-11-20"/>
+    <cosponsor thomas_id="01779" joined="2013-11-12"/>
+    <cosponsor thomas_id="01886" joined="2013-11-20"/>
+    <cosponsor thomas_id="01256" joined="2014-01-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-10-23" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2014-01-09">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="1565"/>
+    <bill type="h" session="113" relation="unknown" number="1605"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Firearms and explosives"/>
+    <term name="Licensing and registrations"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Retail and wholesale trades"/>
+  </subjects>
+  <amendments/>
+  <summary>10/23/2013--Introduced.
+Firearms Interstate Commerce Reform Act - Amends the federal criminal code to: (1) allow licensed firearms importers, manufacturers, dealers, or collectors (licensees) to sell or deliver any firearm (currently, rifles or shotguns) to a resident of a state other than the state in which the licensee is located or temporarily located if the licensee meets with the purchaser to complete the sale or delivery and the transaction complies with the laws of the state in which the transfer is conducted and the purchaser's state of residence; and (2) eliminate the requirement that a licensee must conduct business at a gun show only in the state that is specified on the licensee's license.
+
+Provides that nothing in this Act shall be construed to prohibit the sale or other disposition of a firearm or ammunition: (1) between licensed firearms dealers at any location in any state; or (2) by a licensed importer, manufacturer, or dealer to an unlicensed person at a temporary location in any state.
+
+Amends definitions for federal firearms provisions to: (1) revise the definition of a "member of the Armed Forces on active duty" to include a member (or member's spouse) who is a resident of the state in which such person maintains legal residence or in which the member maintains a place of abode from which the member commutes each day to the permanent duty station; and (2) provide that an officer or employee of the United States (other than a member of the Armed Forces) stationed outside the United States for a period exceeding one year, or a spouse residing with such an officer or employee, is a resident of the state in which the person maintains legal residence.</summary>
+</bill>

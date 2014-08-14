@@ -1,0 +1,81 @@
+<bill session="113" type="h" number="828" updated="2014-08-14T12:57:46-04:00">
+  <state datetime="2013-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-26"/>
+  </status>
+  <introduced datetime="2013-02-26"/>
+  <titles>
+    <title type="short" as="introduced">Decrease Spending Now Act</title>
+    <title type="official" as="introduced">To rescind $45 billion of unobligated discretionary appropriations, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01778"/>
+  <cosponsors>
+    <cosponsor thomas_id="02131" joined="2013-06-20"/>
+    <cosponsor thomas_id="02063" joined="2013-02-27"/>
+    <cosponsor thomas_id="01748" joined="2013-04-10"/>
+    <cosponsor thomas_id="01882" joined="2013-05-15"/>
+    <cosponsor thomas_id="02018" joined="2013-02-26"/>
+    <cosponsor thomas_id="00186" joined="2013-02-28"/>
+    <cosponsor thomas_id="02121" joined="2013-04-10"/>
+    <cosponsor thomas_id="01670" joined="2013-02-26"/>
+    <cosponsor thomas_id="02116" joined="2013-03-13"/>
+    <cosponsor thomas_id="01924" joined="2013-04-10"/>
+    <cosponsor thomas_id="02065" joined="2013-02-26"/>
+    <cosponsor thomas_id="01707" joined="2013-04-10"/>
+    <cosponsor thomas_id="01801" joined="2013-02-26"/>
+    <cosponsor thomas_id="01979" joined="2013-02-28"/>
+    <cosponsor thomas_id="00484" joined="2013-04-10"/>
+    <cosponsor thomas_id="02028" joined="2013-05-15"/>
+    <cosponsor thomas_id="00612" joined="2013-02-26"/>
+    <cosponsor thomas_id="01724" joined="2013-02-28"/>
+    <cosponsor thomas_id="02011" joined="2013-03-18"/>
+    <cosponsor thomas_id="02050" joined="2013-03-05"/>
+    <cosponsor thomas_id="02033" joined="2013-02-28"/>
+    <cosponsor thomas_id="02074" joined="2013-02-27"/>
+    <cosponsor thomas_id="02142" joined="2013-02-28"/>
+    <cosponsor thomas_id="02130" joined="2013-04-10"/>
+    <cosponsor thomas_id="02059" joined="2013-04-10"/>
+    <cosponsor thomas_id="01955" joined="2013-03-06"/>
+    <cosponsor thomas_id="02157" joined="2013-04-10"/>
+    <cosponsor thomas_id="02141" joined="2013-04-10"/>
+    <cosponsor thomas_id="01514" joined="2013-04-10"/>
+    <cosponsor thomas_id="02022" joined="2013-02-26"/>
+    <cosponsor thomas_id="02118" joined="2013-03-05"/>
+    <cosponsor thomas_id="02048" joined="2013-02-27"/>
+    <cosponsor thomas_id="01954" joined="2013-04-10"/>
+    <cosponsor thomas_id="02017" joined="2013-04-10"/>
+    <cosponsor thomas_id="02003" joined="2013-03-04"/>
+    <cosponsor thomas_id="01892" joined="2013-02-26"/>
+    <cosponsor thomas_id="01525" joined="2013-02-26"/>
+    <cosponsor thomas_id="02000" joined="2013-04-10"/>
+    <cosponsor thomas_id="01114" joined="2013-05-15"/>
+    <cosponsor thomas_id="01981" joined="2013-05-15"/>
+    <cosponsor thomas_id="02152" joined="2013-06-25"/>
+    <cosponsor thomas_id="01779" joined="2013-02-26"/>
+    <cosponsor thomas_id="01688" joined="2013-02-26"/>
+    <cosponsor thomas_id="02115" joined="2013-04-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-26" state="REFERRED">
+      <text>Referred to the House Committee on Appropriations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAP" name="House Appropriations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="379"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Appropriations"/>
+    <term name="Budget deficits and national debt"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/2013--Introduced.
+Decrease Spending Now Act - Rescinds $45 billion of unobligated balances of current discretionary appropriations.
+
+Requires the Director of the Office of Management and Budget (OMB) to: (1) determine which appropriation accounts the rescission shall apply to and the amount that each such account shall be reduced, and (2) report to the Secretary of the Treasury and Congress a list of the accounts reduced by the rescission, including the amounts rescinded from each such account.
+
+Exempts from such rescission the Department of Defense (DOD), the Department of Veterans Affairs (VA), and the Social Security Administration (SSA).</summary>
+</bill>

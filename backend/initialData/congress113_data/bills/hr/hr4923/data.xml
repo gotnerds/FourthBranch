@@ -1,0 +1,670 @@
+<bill session="113" type="h" number="4923" updated="2014-08-14T13:33:29-04:00">
+  <state datetime="2014-07-10T21:23:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-07-10T21:23:00-04:00"/>
+  </status>
+  <introduced datetime="2014-06-20"/>
+  <titles>
+    <title type="short" as="introduced">Energy and Water Development and Related Agencies Appropriations Act, 2015</title>
+    <title type="short" as="reported to house">Energy and Water Development and Related Agencies Appropriations Act, 2015</title>
+    <title type="short" as="passed house">Energy and Water Development and Related Agencies Appropriations Act, 2015</title>
+    <title type="official" as="introduced">Making appropriations for energy and water development and related agencies for the fiscal year ending September 30, 2015, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01590"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-06-20T11:38:00-04:00">
+      <text>The House Committee on Appropriations reported an original measure, H. Rept. 113-486, by Mr. Simpson.</text>
+    </action>
+    <calendar datetime="2014-06-20T11:39:00-04:00" state="REPORTED" calendar="Union" number="362">
+      <text>Placed on the Union Calendar, Calendar No. 362.</text>
+    </calendar>
+    <action datetime="2014-06-24T18:27:00-04:00">
+      <text>Rules Committee Resolution H. Res. 641 Reported to House. For H.R. 4899, the rule makes in order only those further amendments printed in the report. For H.R. 4293, the rule rule provides that the bill shall be considered for amendment under the five-minute rule. All amendments shall be debatable for 10 minutes equally divided and controlled by the proponent and an opponent and shall not be subject to amendment.</text>
+    </action>
+    <action datetime="2014-06-25T16:16:00-04:00">
+      <text>Rule H. Res. 641 passed House.</text>
+    </action>
+    <action datetime="2014-07-09T13:28:00-04:00">
+      <text>Considered under the provisions of rule H. Res. 641.</text>
+      <reference ref="CR H5971-5985, H5985-6010" label="consideration"/>
+      <reference ref="CR H5984, H5987, H5988, H5992, H5993, H5993-5994" label="text of Title I as reported in House"/>
+      <reference ref="CR H5994, H5996-5997" label="text of Title II as reported in House"/>
+      <reference ref="CR H5997, H6013,, H6014, H6015, H6016, H6017, H6019, H6020, H6021, H6023, H6024, H6025-6027, H6027-6028" label="text of Title III as reported in House"/>
+      <reference ref="CR H6028, H6030, H6030-6031" label="text of Title IV as report in House"/>
+      <reference ref="CR H6031, H6032" label="text of Title V as reported in House"/>
+    </action>
+    <action datetime="2014-07-09T13:28:00-04:00">
+      <text>For H.R. 4899, the rule makes in order only those further amendments printed in the report. For H.R. 4293, the rule rule provides that the bill shall be considered for amendment under the five-minute rule. All amendments shall be debatable for 10 minutes equally divided and controlled by the proponent and an opponent and shall not be subject to amendment.</text>
+    </action>
+    <action datetime="2014-07-09T13:28:00-04:00">
+      <text>House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 641 and Rule XVIII.</text>
+    </action>
+    <action datetime="2014-07-09T13:28:00-04:00">
+      <text>The Speaker designated the Honorable Diane Black to act as Chairwoman of the Committee.</text>
+    </action>
+    <action datetime="2014-07-09T13:29:00-04:00">
+      <text>GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 4923.</text>
+    </action>
+    <action datetime="2014-07-09T14:21:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Walorski amendment.</text>
+    </action>
+    <action datetime="2014-07-09T14:25:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Murphy (FL) amendment No. 8.</text>
+    </action>
+    <action datetime="2014-07-09T14:31:00-04:00">
+      <text>RISING INFORMALLY - The Committee of the Whole rose informally to receive a message from the President.</text>
+    </action>
+    <action datetime="2014-07-09T14:31:00-04:00">
+      <text>RESUMED SITTING - The Committee of the Whole resumed its sitting.</text>
+    </action>
+    <action datetime="2014-07-09T14:32:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Cassidy amendment No. 4.</text>
+    </action>
+    <action datetime="2014-07-09T14:37:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Ben Ray Lujan amendment.</text>
+    </action>
+    <action datetime="2014-07-09T14:43:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Cicilline amendment, pending reservation of a point of order.</text>
+    </action>
+    <action datetime="2014-07-09T14:48:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the McAllister amendment.</text>
+    </action>
+    <action datetime="2014-07-09T14:53:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the McAllister amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. McAllister demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2014-07-09T14:54:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Crawford amendment.</text>
+    </action>
+    <action datetime="2014-07-09T14:59:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Hahn amendment.</text>
+    </action>
+    <action datetime="2014-07-09T15:11:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Hahn amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Simpson demanded a recorded vote and the Chair postponed further proceedings on the question of the adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2014-07-09T15:12:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Cassidy amendment.</text>
+    </action>
+    <action datetime="2014-07-09T15:18:00-04:00">
+      <text>DEBATE - Pursuant to the provsions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Lankford amendment.</text>
+    </action>
+    <action datetime="2014-07-09T15:21:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment.</text>
+    </action>
+    <action datetime="2014-07-09T15:28:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Gosar amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Simpson demanded a recorded vote and the Chair postponed further proceedings on the question of the adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2014-07-09T15:29:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Bilirakis amendment.</text>
+    </action>
+    <action datetime="2014-07-09T15:35:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Ruiz amendment.</text>
+    </action>
+    <action datetime="2014-07-09T15:42:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Gardner amendment.</text>
+    </action>
+    <action datetime="2014-07-09T15:46:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Noem amendment.</text>
+    </action>
+    <action datetime="2014-07-09T15:58:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Castor amendment.</text>
+    </action>
+    <action datetime="2014-07-09T16:05:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Wenstrup amendment.</text>
+    </action>
+    <action datetime="2014-07-09T16:16:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Wenstrup amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Wenstrup demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2014-07-09T16:17:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Swalwell amendment.</text>
+    </action>
+    <action datetime="2014-07-09T16:26:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Swalwell amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Swalwell demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2014-07-09T16:27:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Byrne amendment.</text>
+    </action>
+    <action datetime="2014-07-09T16:38:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Byrne amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Byrne demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2014-07-09T16:39:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Cohen amendment.</text>
+    </action>
+    <action datetime="2014-07-09T16:51:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the McClintock amendment.</text>
+    </action>
+    <action datetime="2014-07-09T17:02:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the McClintock amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. McClintock demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2014-07-09T17:58:00-04:00">
+      <text>Mr. Graves (GA) moved that the Committee rise.</text>
+    </action>
+    <action datetime="2014-07-09T17:59:00-04:00">
+      <text>On motion that the Committee rise Agreed to by voice vote.</text>
+    </action>
+    <action datetime="2014-07-09T17:59:00-04:00">
+      <text>Committee of the Whole House on the state of the Union rises leaving H.R. 4923 as unfinished business.</text>
+    </action>
+    <action datetime="2014-07-09T18:07:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H6010-6032" label="consideration"/>
+    </action>
+    <action datetime="2014-07-09T18:07:00-04:00">
+      <text>The House resolved into Committee of the Whole House on the state of the Union for further consideration.</text>
+    </action>
+    <action datetime="2014-07-09T18:09:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the McClintock amendment</text>
+    </action>
+    <action datetime="2014-07-09T18:20:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the McClintock amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. McClintock demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2014-07-09T18:21:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Perry amendment</text>
+    </action>
+    <action datetime="2014-07-09T18:28:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Bonamici amendment.</text>
+    </action>
+    <action datetime="2014-07-09T18:33:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Bonamici amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Bonamici demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2014-07-09T18:36:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the McNerney amendment.</text>
+    </action>
+    <action datetime="2014-07-09T18:48:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Speier amendment.</text>
+    </action>
+    <action datetime="2014-07-09T18:54:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Speier amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Speier demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2014-07-09T18:56:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Kaptur amendment.</text>
+    </action>
+    <action datetime="2014-07-09T19:01:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Reed amendment.</text>
+    </action>
+    <action datetime="2014-07-09T19:07:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Foster amendment.</text>
+    </action>
+    <action datetime="2014-07-09T19:14:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Foster amendment.</text>
+    </action>
+    <action datetime="2014-07-09T19:19:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Titus amendment No. 15.</text>
+    </action>
+    <action datetime="2014-07-09T19:30:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Titus amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Titus demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2014-07-09T19:31:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Schiff amendment.</text>
+    </action>
+    <action datetime="2014-07-09T19:38:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Schiff amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Schiff demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2014-07-09T19:40:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Kaptur amendment.</text>
+    </action>
+    <action datetime="2014-07-09T19:45:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Quigley amendment.</text>
+    </action>
+    <action datetime="2014-07-09T19:53:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Quigley amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Quigley demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2014-07-09T19:54:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Fortenberry amendment.</text>
+    </action>
+    <action datetime="2014-07-09T20:07:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Lankford amendment, pending reservation of a point of order.</text>
+    </action>
+    <action datetime="2014-07-09T20:12:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Chabot amendment.</text>
+    </action>
+    <action datetime="2014-07-09T20:21:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Chabot amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Chabot demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2014-07-09T20:21:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Fattah amendment.</text>
+    </action>
+    <action datetime="2014-07-09T20:26:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Titus amendment No. 14.</text>
+    </action>
+    <action datetime="2014-07-09T20:38:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Titus amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Titus demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2014-07-09T20:38:00-04:00">
+      <text>Mr. Simpson moved to rise.</text>
+    </action>
+    <action datetime="2014-07-09T20:38:00-04:00">
+      <text>On motion to rise Agreed to by voice vote.</text>
+    </action>
+    <action datetime="2014-07-09T20:38:00-04:00">
+      <text>Committee of the Whole House on the state of the Union rises leaving H.R. 4923 as unfinished business.</text>
+    </action>
+    <action datetime="2014-07-10T13:20:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H6049-6065" label="consideration"/>
+    </action>
+    <action datetime="2014-07-10T13:20:00-04:00">
+      <text>The House resolved into Committee of the Whole House on the state of the Union for further consideration.</text>
+    </action>
+    <action datetime="2014-07-10T13:23:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Lummis amendment No. 16 pending a reservation of a point of order. Subsequently, the reservation was removed.</text>
+    </action>
+    <action datetime="2014-07-10T13:29:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the DeLauro amendment.</text>
+    </action>
+    <action datetime="2014-07-10T13:36:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the DeLauro amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. DeLauro demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2014-07-10T13:36:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the King of Iowa amendment.</text>
+    </action>
+    <action datetime="2014-07-10T13:46:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the King(IA) amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Ms. Kaptur demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2014-07-10T13:47:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Speier amendment.</text>
+    </action>
+    <action datetime="2014-07-10T13:52:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Lankford amendment.</text>
+    </action>
+    <action datetime="2014-07-10T14:03:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Lankford amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Ms. Kaptur demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2014-07-10T14:07:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Cassidy amendment.</text>
+    </action>
+    <action datetime="2014-07-10T14:19:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Cassidy amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Cassidy demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2014-07-10T14:19:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the McNerney amendment.</text>
+    </action>
+    <action datetime="2014-07-10T14:23:00-04:00">
+      <text>UNFINISHED BUSINESS - The Chair announced that, pursuant to clause 6 of Rule XVIII, the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.</text>
+    </action>
+    <action datetime="2014-07-10T15:40:00-04:00">
+      <text>Mr. Simpson moved to rise.</text>
+    </action>
+    <action datetime="2014-07-10T15:40:00-04:00">
+      <text>On motion to rise Agreed to by voice vote.</text>
+    </action>
+    <action datetime="2014-07-10T15:41:00-04:00">
+      <text>Committee of the Whole House on the state of the Union rises leaving H.R. 4923 as unfinished business.</text>
+    </action>
+    <action datetime="2014-07-10T15:54:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H6066-6093" label="consideration"/>
+    </action>
+    <action datetime="2014-07-10T15:55:00-04:00">
+      <text>The House resolved into Committee of the Whole House on the state of the Union for further consideration.</text>
+    </action>
+    <action datetime="2014-07-10T15:56:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Barton amendment, pending reservation of a point of order.</text>
+    </action>
+    <action datetime="2014-07-10T16:07:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Engel amendment.</text>
+    </action>
+    <action datetime="2014-07-10T16:11:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Burgess amendment.</text>
+    </action>
+    <action datetime="2014-07-10T16:21:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Burgess amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Waxman demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2014-07-10T16:22:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Ellison amendment No. 7.</text>
+    </action>
+    <action datetime="2014-07-10T16:27:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Burgess amendment, pending the reservation of a point of order.</text>
+    </action>
+    <action datetime="2014-07-10T16:33:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Grayson amendment No. 11.</text>
+    </action>
+    <action datetime="2014-07-10T16:35:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the LaMalfa amendment.</text>
+    </action>
+    <action datetime="2014-07-10T16:45:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the LaMalfa amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Mr. Moran demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2014-07-10T16:47:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Garamendi amendment, pending the reservation of a point of order.</text>
+    </action>
+    <action datetime="2014-07-10T16:54:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the LaMalfa amendment, pending the reservation of a point of order.</text>
+    </action>
+    <action datetime="2014-07-10T17:09:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Huffman amendment.</text>
+    </action>
+    <action datetime="2014-07-10T17:17:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Luetkemeyer amendment.</text>
+    </action>
+    <action datetime="2014-07-10T17:20:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Garamendi amendment, pending the reservation of a point of order.</text>
+    </action>
+    <action datetime="2014-07-10T17:29:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Luetkemeyer amendment.</text>
+    </action>
+    <action datetime="2014-07-10T17:34:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Garamendi amendment, pending the reservation of a point of order.</text>
+    </action>
+    <action datetime="2014-07-10T17:46:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the first Stockman amendment.</text>
+    </action>
+    <action datetime="2014-07-10T17:52:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the first Stockman amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Stockman demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2014-07-10T17:53:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the second Stockman amendment.</text>
+    </action>
+    <action datetime="2014-07-10T17:56:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Stockman amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Stockman demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2014-07-10T17:57:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Yoho amendment, pending reservation of a point of order.</text>
+    </action>
+    <action datetime="2014-07-10T18:02:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Sean Maloney (NY) amendment.</text>
+    </action>
+    <action datetime="2014-07-10T18:09:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Scalise amendment.</text>
+    </action>
+    <action datetime="2014-07-10T18:12:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Yoho amendment.</text>
+    </action>
+    <action datetime="2014-07-10T18:20:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Fleming amendment No. 9.</text>
+    </action>
+    <action datetime="2014-07-10T18:30:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Walberg amendment.</text>
+    </action>
+    <action datetime="2014-07-10T18:34:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the McKinley amendment.</text>
+    </action>
+    <action datetime="2014-07-10T18:40:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the McKinley amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Ms. Kaptur demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2014-07-10T18:41:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the McKinley amendment.</text>
+    </action>
+    <action datetime="2014-07-10T18:45:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Weber amendment.</text>
+    </action>
+    <action datetime="2014-07-10T18:48:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Blackburn amendment No. 22.</text>
+    </action>
+    <action datetime="2014-07-10T18:58:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Blackburn amendment No. 22, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Ms. Blackburn demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2014-07-10T18:59:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Byrne amendment.</text>
+    </action>
+    <action datetime="2014-07-10T19:10:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment.</text>
+    </action>
+    <action datetime="2014-07-10T19:17:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Gosar amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the ayes had prevailed. Ms. Pingree demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2014-07-10T19:18:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment.</text>
+    </action>
+    <action datetime="2014-07-10T19:23:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Kelly (PA) amendment.</text>
+    </action>
+    <action datetime="2014-07-10T19:30:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Hudson amendment.</text>
+    </action>
+    <action datetime="2014-07-10T19:34:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H. Res. 641, the Committee of the Whole proceeded with 10 minutes of debate on the Hudson amendment.</text>
+    </action>
+    <action datetime="2014-07-10T19:45:00-04:00">
+      <text>POSTPONED PROCEEDINGS - At the conclusion of debate on the Hudson amendment, the Chair put the question on adoption of the amendment and by voice vote, announced that the noes had prevailed. Mr. Hudson demanded a recorded vote and the Chair postponed further proceedings on the question of adoption of the amendment until a time to be announced.</text>
+    </action>
+    <action datetime="2014-07-10T19:45:00-04:00">
+      <text>Mr. Simpson moved that the Committee rise.</text>
+    </action>
+    <action datetime="2014-07-10T19:45:00-04:00">
+      <text>On motion that the Committee rise Agreed to by voice vote.</text>
+    </action>
+    <action datetime="2014-07-10T19:45:00-04:00">
+      <text>Committee of the Whole House on the state of the Union rises leaving H.R. 4923 as unfinished business.</text>
+    </action>
+    <action datetime="2014-07-10T19:59:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H6093-6100" label="consideration"/>
+    </action>
+    <action datetime="2014-07-10T20:00:00-04:00">
+      <text>The House resolved into Committee of the Whole House on the state of the Union for further consideration.</text>
+    </action>
+    <action datetime="2014-07-10T20:00:00-04:00">
+      <text>UNFINISHED BUSINESS - The Chair announced that the unfinished business was the question of adoption of amendments which had been debated earlier and on which further proceedings had been postponed.</text>
+    </action>
+    <action datetime="2014-07-10T20:59:00-04:00">
+      <text>Mr. Simpson moved for the Committee of the Whole to rise and report.</text>
+    </action>
+    <action datetime="2014-07-10T20:59:00-04:00">
+      <text>On motion to rise and report Agreed to by voice vote.</text>
+    </action>
+    <action datetime="2014-07-10T20:59:00-04:00">
+      <text>The House rose from the Committee of the Whole House on the state of the Union to report H.R. 4923.</text>
+    </action>
+    <action datetime="2014-07-10T20:59:00-04:00">
+      <text>Pursuant to the rule, the previous question was ordered.</text>
+    </action>
+    <action datetime="2014-07-10T21:00:00-04:00">
+      <text>The House adopted the amendments en gross as agreed to by the Committee of the Whole House on the state of the Union.</text>
+    </action>
+    <action datetime="2014-07-10T21:01:00-04:00">
+      <text>Mr. Enyart moved to recommit with instructions to the Committee on Appropriations.</text>
+      <reference ref="CR H6098-6100" label="consideration"/>
+      <reference ref="CR H6098-6099" label="text"/>
+    </action>
+    <action datetime="2014-07-10T21:02:00-04:00">
+      <text>DEBATE - The House proceeded with 10 minutes of debate on the Enyart motion to recommit with instructions. The instructions contained in the motion seek to require the bill to be reported back to the House with amendments to increase the Corps of Engineers Construction account by a total of $10 million (intended to create jobs for water restoration projects, flood control, and the development of navigation and ports); increase the Department of Energy's Energy Efficiency and Renewable Energy account by $10 million (intended to create green jobs); and decrease the Department of Energy's Departmental Administration account by $20 million.</text>
+    </action>
+    <action datetime="2014-07-10T21:11:00-04:00">
+      <text>The previous question on the motion to recommit with instructions was ordered without objection.</text>
+      <reference ref="CR H6099-6100" label="consideration"/>
+    </action>
+    <action datetime="2014-07-10T21:16:00-04:00">
+      <text>On motion to recommit with instructions Failed by recorded vote: 188 - 231 (Roll no. 401).</text>
+    </action>
+    <vote how="roll" type="vote" roll="402" datetime="2014-07-10T21:23:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 253 - 170 (Roll no. 402).</text>
+    </vote>
+    <action datetime="2014-07-10T21:23:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-07-14">
+      <text>Received in the Senate and Read twice and referred to the Committee on Appropriations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAP" name="House Appropriations" activity="Origin, Reporting"/>
+    <committee subcommittee="" code="SSAP" name="Senate Appropriations" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="113" relation="rule" number="641"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Advanced technology and technological innovations"/>
+    <term name="Air quality"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Appalachian Regional Commission"/>
+    <term name="Appropriations"/>
+    <term name="Aquatic ecology"/>
+    <term name="Arms control and nonproliferation"/>
+    <term name="Army Corps of Engineers"/>
+    <term name="Asia"/>
+    <term name="Bermuda"/>
+    <term name="Business ethics"/>
+    <term name="California"/>
+    <term name="Caribbean area"/>
+    <term name="Cayman Islands"/>
+    <term name="China"/>
+    <term name="Climate change and greenhouse gases"/>
+    <term name="Coal"/>
+    <term name="Congressional oversight"/>
+    <term name="Corporate finance and management"/>
+    <term name="Dams and canals"/>
+    <term name="Defense Nuclear Facilities Safety Board"/>
+    <term name="Defense spending"/>
+    <term name="Delta Regional Authority"/>
+    <term name="Denali Commission"/>
+    <term name="Department of Defense"/>
+    <term name="Department of Energy"/>
+    <term name="Department of the Interior"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Electric power generation and transmission"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Energy efficiency and conservation"/>
+    <term name="Energy research"/>
+    <term name="Energy storage, supplies, demand"/>
+    <term name="Environmental health"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal Energy Regulatory Commission (FERC)"/>
+    <term name="Firearms and explosives"/>
+    <term name="Floods and storm protection"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Government buildings, facilities, and property"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Government studies and investigations"/>
+    <term name="Government trust funds"/>
+    <term name="Great Lakes"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Hybrid, electric, and advanced technology vehicles"/>
+    <term name="India"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="Lakes and rivers"/>
+    <term name="Licensing and registrations"/>
+    <term name="Lighting and heating"/>
+    <term name="Louisiana"/>
+    <term name="Manufacturing"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Massachusetts"/>
+    <term name="Military civil functions"/>
+    <term name="Mississippi River"/>
+    <term name="Motor vehicles"/>
+    <term name="Navigation, waterways, harbors"/>
+    <term name="Nevada"/>
+    <term name="Nuclear Regulatory Commission (NRC)"/>
+    <term name="Nuclear Waste Technical Review Board"/>
+    <term name="Nuclear power"/>
+    <term name="Nuclear weapons"/>
+    <term name="Oil and gas"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Public participation and lobbying"/>
+    <term name="Radioactive wastes and releases"/>
+    <term name="Research administration and funding"/>
+    <term name="Research and development"/>
+    <term name="Russia"/>
+    <term name="State and local government operations"/>
+    <term name="Strategic materials and reserves"/>
+    <term name="Tax administration and collection, taxpayers"/>
+    <term name="Teaching, teachers, curricula"/>
+    <term name="Water quality"/>
+    <term name="Water resources funding"/>
+    <term name="Water use and supply"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments>
+    <amendment number="h972"/>
+    <amendment number="h973"/>
+    <amendment number="h974"/>
+    <amendment number="h975"/>
+    <amendment number="h976"/>
+    <amendment number="h977"/>
+    <amendment number="h978"/>
+    <amendment number="h979"/>
+    <amendment number="h980"/>
+    <amendment number="h981"/>
+    <amendment number="h982"/>
+    <amendment number="h983"/>
+    <amendment number="h984"/>
+    <amendment number="h985"/>
+    <amendment number="h986"/>
+    <amendment number="h987"/>
+    <amendment number="h988"/>
+    <amendment number="h989"/>
+    <amendment number="h990"/>
+    <amendment number="h991"/>
+    <amendment number="h992"/>
+    <amendment number="h993"/>
+    <amendment number="h994"/>
+    <amendment number="h995"/>
+    <amendment number="h996"/>
+    <amendment number="h997"/>
+    <amendment number="h998"/>
+    <amendment number="h999"/>
+    <amendment number="h1000"/>
+    <amendment number="h1001"/>
+    <amendment number="h1002"/>
+    <amendment number="h1003"/>
+    <amendment number="h1004"/>
+    <amendment number="h1005"/>
+    <amendment number="h1006"/>
+    <amendment number="h1007"/>
+    <amendment number="h1008"/>
+    <amendment number="h1009"/>
+    <amendment number="h1010"/>
+    <amendment number="h1011"/>
+    <amendment number="h1012"/>
+    <amendment number="h1013"/>
+    <amendment number="h1014"/>
+    <amendment number="h1015"/>
+    <amendment number="h1016"/>
+    <amendment number="h1017"/>
+    <amendment number="h1018"/>
+    <amendment number="h1019"/>
+    <amendment number="h1020"/>
+    <amendment number="h1021"/>
+    <amendment number="h1022"/>
+    <amendment number="h1023"/>
+    <amendment number="h1024"/>
+    <amendment number="h1025"/>
+    <amendment number="h1026"/>
+    <amendment number="h1027"/>
+    <amendment number="h1028"/>
+    <amendment number="h1029"/>
+    <amendment number="h1030"/>
+    <amendment number="h1031"/>
+    <amendment number="h1032"/>
+    <amendment number="h1033"/>
+    <amendment number="h1034"/>
+    <amendment number="h1035"/>
+    <amendment number="h1036"/>
+    <amendment number="h1037"/>
+    <amendment number="h1038"/>
+    <amendment number="h1039"/>
+    <amendment number="h1040"/>
+    <amendment number="h1041"/>
+    <amendment number="h1042"/>
+    <amendment number="h1043"/>
+    <amendment number="h1044"/>
+    <amendment number="h1045"/>
+    <amendment number="h1046"/>
+    <amendment number="h1047"/>
+    <amendment number="h1048"/>
+    <amendment number="h1049"/>
+  </amendments>
+  <summary>6/20/2014--Introduced.
+Energy and Water Development and Related Agencies Appropriations Act, 2015 - Makes appropriations for energy and water development and related agencies for FY2015.
+
+Appropriates funds for FY2015 to the Department of the Army, Corps of Engineers-Civil, for: (1) civil functions pertaining to river and harbor, flood and storm damage reduction, shore protection, and aquatic ecosystem restoration (including the Mississippi River alluvial valley below Cape Girardeau, Missouri); (2) the regulatory program pertaining to navigable waters and wetlands; (3) the formerly utilized sites remedial action program for clean-up of early atomic energy program contamination; (4) flood control and coastal emergencies, including hurricanes and other natural disasters; and (5) the Office of Assistant Secretary of the Army (Civil Works).
+
+Makes appropriations for FY2015 to the Department of the Interior for: (1) the Central Utah Project Completion Account; (2) the Bureau of Reclamation, including for water and related natural resources; (3) the Central Valley Project Restoration Fund; (4) California Bay-Delta Restoration; (5) administrative expenses in the Office of the Commissioner (the Denver office); and (6) offices in the five regions of the Bureau of Reclamation.
+
+Makes appropriations for FY2015 to the Department of Energy (DOE) for energy and science programs, including: (1) energy efficiency and renewable energy, (2) electricity delivery and energy reliability, (3) nuclear energy, (4) fossil energy research and development, (5) naval petroleum and oil shale reserves, (6) the Elk Hills School Lands Fund, (7) the Strategic Petroleum Reserve (SPR) and the Northeast Home Heating Oil Reserve, (8) the Energy Information Administration, (9) non-defense environmental cleanup, (10) the Uranium Enrichment Decontamination and Decommissioning Fund, (11) science activities, (12) Nuclear Waste Disposal, (13) the Advanced Research Projects Agency-Energy (ARPA-E), (14) the Title 17 Innovative Technology Loan Guarantee Loan Program, (15) the Advanced Technology Vehicles Manufacturing Loan Program, (16) departmental administration, (17) the Office of the Inspector General, (18) the National Nuclear Security Administration and atomic energy defense weapons activities, (19) defense nuclear nonproliferation activities, (20) naval reactors activities, (21) Office of the Administrator in the National Nuclear Security Administration, (22) defense environmental cleanup, and (23) other defense activities.
+
+Approves expenditures from the Bonneville Power Administration Fund for for the Black Canyon Trout Hatchery.
+
+Makes FY2015 appropriations for operation and maintenance of: (1) the Southeastern Power Administration, (2) the Southwestern Power Administration, (3) the Western Area Power Administration, including construction and rehabilitation, (4) the Falcon and Amistad Operating and Maintenance Fund, and (5) the Federal Energy Regulatory Commission (FERC).
+
+Makes FY2015 appropriations to: (1) the Appalachian Regional Commission; (2) the Defense Nuclear Facilities Safety Board; (3) the Delta Regional Authority; (4) the Denali Commission; (5) the Northern Border Regional Commission; (6) the Southeast Crescent Regional Commission; (7) the Nuclear Regulatory Commission (NRC), including the Office of Inspector General; and (8) the Nuclear Waste Technical Review Board.
+
+Prohibits the use of funds: (1) to conduct closure of adjudicatory functions, technical review, or support activities associated with the Yucca Mountain (Nevada) geologic repository license application; or (2) for actions that irrevocably remove the possibility that Yucca Mountain may be a repository option in the future.
+
+Sets $0.00 as the amount by which the applicable allocation of new budget authority made by the House Committee on Appropriations exceeds the amount of proposed new budget authority under the Congressional Budget Act of 1974.</summary>
+</bill>

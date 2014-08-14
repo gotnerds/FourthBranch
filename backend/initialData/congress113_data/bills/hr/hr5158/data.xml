@@ -1,0 +1,44 @@
+<bill session="113" type="h" number="5158" updated="2014-08-14T13:35:29-04:00">
+  <state datetime="2014-07-18">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-18"/>
+  </status>
+  <introduced datetime="2014-07-18"/>
+  <titles>
+    <title type="short" as="introduced">Record Expungement Designed to Enhance Employment Act of 2014</title>
+    <title type="short" as="introduced">REDEEM Act</title>
+    <title type="official" as="introduced">To provide for the sealing or expungement of records relating to Federal nonviolent criminal offenses, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00371"/>
+  <cosponsors>
+    <cosponsor thomas_id="01238" joined="2014-07-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-18" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committees on Agriculture, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-07-18">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2014-07-18">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2014-07-18">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2014-08-11">
+      <text>Referred to the Subcommittee on Department Operations, Oversight, and Nutrition.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="" code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee subcommittee="Department Operations, Oversight, and Nutrition" code="HSAG22" name="House Agriculture" activity="Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="2567"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

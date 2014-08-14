@@ -1,0 +1,95 @@
+<bill session="113" type="hj" number="51" updated="2014-08-14T13:37:59-04:00">
+  <state datetime="2013-06-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-28"/>
+  </status>
+  <introduced datetime="2013-06-28"/>
+  <titles>
+    <title type="official" as="introduced">Proposing an amendment to the Constitution of the United States relating to marriage.</title>
+  </titles>
+  <sponsor thomas_id="02020"/>
+  <cosponsors>
+    <cosponsor thomas_id="01858" joined="2013-08-02"/>
+    <cosponsor thomas_id="00062" joined="2013-06-28"/>
+    <cosponsor thomas_id="02135" joined="2013-07-10"/>
+    <cosponsor thomas_id="01787" joined="2013-07-24"/>
+    <cosponsor thomas_id="02155" joined="2013-06-28"/>
+    <cosponsor thomas_id="01987" joined="2013-06-28"/>
+    <cosponsor thomas_id="01882" joined="2013-06-28"/>
+    <cosponsor thomas_id="01752" joined="2013-07-10"/>
+    <cosponsor thomas_id="01805" joined="2013-09-23"/>
+    <cosponsor thomas_id="02057" joined="2013-06-28"/>
+    <cosponsor thomas_id="02064" joined="2013-07-26"/>
+    <cosponsor thomas_id="01924" joined="2013-06-28"/>
+    <cosponsor thomas_id="01683" joined="2013-07-24"/>
+    <cosponsor thomas_id="01707" joined="2013-06-28"/>
+    <cosponsor thomas_id="01737" joined="2013-07-10"/>
+    <cosponsor thomas_id="02049" joined="2013-07-31"/>
+    <cosponsor thomas_id="01801" joined="2013-06-28"/>
+    <cosponsor thomas_id="00484" joined="2013-06-28"/>
+    <cosponsor thomas_id="01933" joined="2013-07-16"/>
+    <cosponsor thomas_id="02026" joined="2013-06-28"/>
+    <cosponsor thomas_id="02032" joined="2013-07-23"/>
+    <cosponsor thomas_id="02140" joined="2013-07-11"/>
+    <cosponsor thomas_id="02015" joined="2013-06-28"/>
+    <cosponsor thomas_id="01909" joined="2013-07-24"/>
+    <cosponsor thomas_id="02069" joined="2013-07-30"/>
+    <cosponsor thomas_id="00603" joined="2013-06-28"/>
+    <cosponsor thomas_id="00612" joined="2013-06-28"/>
+    <cosponsor thomas_id="01868" joined="2013-06-28"/>
+    <cosponsor thomas_id="02051" joined="2013-07-19"/>
+    <cosponsor thomas_id="01724" joined="2013-12-02"/>
+    <cosponsor thomas_id="02100" joined="2013-07-10"/>
+    <cosponsor thomas_id="02050" joined="2013-06-28"/>
+    <cosponsor thomas_id="01885" joined="2013-10-16"/>
+    <cosponsor thomas_id="01806" joined="2013-07-09"/>
+    <cosponsor thomas_id="01505" joined="2014-01-13"/>
+    <cosponsor thomas_id="02142" joined="2013-06-28"/>
+    <cosponsor thomas_id="01685" joined="2013-07-25"/>
+    <cosponsor thomas_id="01758" joined="2013-06-28"/>
+    <cosponsor thomas_id="02060" joined="2013-07-23"/>
+    <cosponsor thomas_id="02001" joined="2013-07-10"/>
+    <cosponsor thomas_id="02034" joined="2013-07-11"/>
+    <cosponsor thomas_id="02035" joined="2013-06-28"/>
+    <cosponsor thomas_id="01738" joined="2013-06-28"/>
+    <cosponsor thomas_id="02141" joined="2013-06-28"/>
+    <cosponsor thomas_id="01514" joined="2013-06-28"/>
+    <cosponsor thomas_id="00940" joined="2013-07-16"/>
+    <cosponsor thomas_id="02158" joined="2013-09-16"/>
+    <cosponsor thomas_id="01009" joined="2013-09-26"/>
+    <cosponsor thomas_id="01994" joined="2013-06-28"/>
+    <cosponsor thomas_id="01681" joined="2013-06-28"/>
+    <cosponsor thomas_id="01071" joined="2013-06-28"/>
+    <cosponsor thomas_id="02168" joined="2013-07-26"/>
+    <cosponsor thomas_id="01114" joined="2013-06-28"/>
+    <cosponsor thomas_id="01855" joined="2013-06-28"/>
+    <cosponsor thomas_id="02161" joined="2013-09-10"/>
+    <cosponsor thomas_id="01779" joined="2013-06-28"/>
+    <cosponsor thomas_id="01688" joined="2013-08-02"/>
+    <cosponsor thomas_id="01238" joined="2013-06-28"/>
+    <cosponsor thomas_id="00666" joined="2013-07-09" withdrawn="2013-07-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-28" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-07-15">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Constitution and Civil Justice" code="HSJU10" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Families"/>
+    <term name="Constitution and constitutional amendments"/>
+    <term name="Marriage and family status"/>
+    <term name="Sex, gender, sexual orientation discrimination"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>6/28/2013--Introduced.
+Constitutional Amendment - Marriage Protection Amendment - Defines marriage in the United States as consisting only of the union of a man and a woman. Prohibits either the U.S. Constitution or the constitution of any state from being construed to require that marriage or the legal incidents of marriage be conferred upon any other union.</summary>
+</bill>

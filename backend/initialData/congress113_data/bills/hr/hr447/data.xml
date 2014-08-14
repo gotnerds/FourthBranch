@@ -1,0 +1,182 @@
+<bill session="113" type="h" number="447" updated="2014-08-14T12:54:33-04:00">
+  <state datetime="2013-02-01">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-01"/>
+  </status>
+  <introduced datetime="2013-02-01"/>
+  <titles>
+    <title type="short" as="introduced">Prenatal Nondiscrimination Act (PRENDA) of 2013</title>
+    <title type="official" as="introduced">To prohibit discrimination against the unborn on the basis of sex or race, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01707"/>
+  <cosponsors>
+    <cosponsor thomas_id="01727" joined="2013-02-01"/>
+    <cosponsor thomas_id="02090" joined="2013-02-01"/>
+    <cosponsor thomas_id="01858" joined="2013-02-01"/>
+    <cosponsor thomas_id="00038" joined="2013-02-01"/>
+    <cosponsor thomas_id="02054" joined="2013-09-27"/>
+    <cosponsor thomas_id="02027" joined="2013-02-01"/>
+    <cosponsor thomas_id="01838" joined="2013-02-01"/>
+    <cosponsor thomas_id="01753" joined="2013-02-01"/>
+    <cosponsor thomas_id="02063" joined="2013-02-01"/>
+    <cosponsor thomas_id="01748" joined="2013-02-01"/>
+    <cosponsor thomas_id="01703" joined="2013-02-01"/>
+    <cosponsor thomas_id="01787" joined="2013-02-01"/>
+    <cosponsor thomas_id="01468" joined="2013-02-01"/>
+    <cosponsor thomas_id="01882" joined="2013-02-01"/>
+    <cosponsor thomas_id="01840" joined="2013-02-01"/>
+    <cosponsor thomas_id="02018" joined="2013-02-01"/>
+    <cosponsor thomas_id="01752" joined="2013-02-01"/>
+    <cosponsor thomas_id="01925" joined="2013-02-01"/>
+    <cosponsor thomas_id="00186" joined="2013-02-01"/>
+    <cosponsor thomas_id="01742" joined="2013-02-01"/>
+    <cosponsor thomas_id="02121" joined="2013-04-10"/>
+    <cosponsor thomas_id="01805" joined="2013-02-01"/>
+    <cosponsor thomas_id="02098" joined="2013-02-01"/>
+    <cosponsor thomas_id="02144" joined="2013-02-01"/>
+    <cosponsor thomas_id="01670" joined="2013-02-01"/>
+    <cosponsor thomas_id="02138" joined="2013-02-01"/>
+    <cosponsor thomas_id="02062" joined="2013-02-01"/>
+    <cosponsor thomas_id="02057" joined="2013-02-01"/>
+    <cosponsor thomas_id="00322" joined="2013-02-01"/>
+    <cosponsor thomas_id="02036" joined="2013-02-01"/>
+    <cosponsor thomas_id="02067" joined="2013-02-01"/>
+    <cosponsor thomas_id="02064" joined="2013-02-01"/>
+    <cosponsor thomas_id="02061" joined="2013-03-11"/>
+    <cosponsor thomas_id="01924" joined="2013-02-01"/>
+    <cosponsor thomas_id="02065" joined="2013-02-01"/>
+    <cosponsor thomas_id="01683" joined="2013-02-01"/>
+    <cosponsor thomas_id="01793" joined="2013-02-01"/>
+    <cosponsor thomas_id="01737" joined="2013-02-01"/>
+    <cosponsor thomas_id="02049" joined="2013-02-01"/>
+    <cosponsor thomas_id="01720" joined="2013-03-11"/>
+    <cosponsor thomas_id="01801" joined="2013-02-01"/>
+    <cosponsor thomas_id="01992" joined="2013-02-06"/>
+    <cosponsor thomas_id="02058" joined="2013-02-01"/>
+    <cosponsor thomas_id="01979" joined="2013-02-01"/>
+    <cosponsor thomas_id="01990" joined="2013-02-01"/>
+    <cosponsor thomas_id="02041" joined="2013-02-01"/>
+    <cosponsor thomas_id="01922" joined="2013-02-01"/>
+    <cosponsor thomas_id="00484" joined="2013-02-01"/>
+    <cosponsor thomas_id="02026" joined="2013-02-01"/>
+    <cosponsor thomas_id="02032" joined="2013-02-01"/>
+    <cosponsor thomas_id="02140" joined="2013-02-26"/>
+    <cosponsor thomas_id="02020" joined="2013-02-01"/>
+    <cosponsor thomas_id="02028" joined="2013-02-01"/>
+    <cosponsor thomas_id="02015" joined="2013-02-01"/>
+    <cosponsor thomas_id="01921" joined="2013-02-01"/>
+    <cosponsor thomas_id="02046" joined="2013-02-01"/>
+    <cosponsor thomas_id="02199" joined="2014-05-21"/>
+    <cosponsor thomas_id="00612" joined="2013-02-01"/>
+    <cosponsor thomas_id="01868" joined="2013-02-01"/>
+    <cosponsor thomas_id="02051" joined="2013-02-01"/>
+    <cosponsor thomas_id="01724" joined="2013-02-01"/>
+    <cosponsor thomas_id="00636" joined="2013-02-26"/>
+    <cosponsor thomas_id="01733" joined="2013-02-14"/>
+    <cosponsor thomas_id="02100" joined="2013-02-01"/>
+    <cosponsor thomas_id="01834" joined="2013-02-01"/>
+    <cosponsor thomas_id="02050" joined="2013-03-11"/>
+    <cosponsor thomas_id="01885" joined="2013-02-01"/>
+    <cosponsor thomas_id="01781" joined="2013-02-01"/>
+    <cosponsor thomas_id="02033" joined="2013-02-01"/>
+    <cosponsor thomas_id="01931" joined="2013-02-01"/>
+    <cosponsor thomas_id="01960" joined="2014-02-05"/>
+    <cosponsor thomas_id="01806" joined="2013-02-01"/>
+    <cosponsor thomas_id="01804" joined="2013-02-01"/>
+    <cosponsor thomas_id="01792" joined="2013-02-06"/>
+    <cosponsor thomas_id="02074" joined="2013-02-01"/>
+    <cosponsor thomas_id="02142" joined="2013-03-12"/>
+    <cosponsor thomas_id="02130" joined="2013-03-13"/>
+    <cosponsor thomas_id="00800" joined="2013-02-01"/>
+    <cosponsor thomas_id="01731" joined="2013-02-06"/>
+    <cosponsor thomas_id="01685" joined="2013-02-01"/>
+    <cosponsor thomas_id="02156" joined="2013-02-01"/>
+    <cosponsor thomas_id="02059" joined="2013-02-01"/>
+    <cosponsor thomas_id="01758" joined="2013-02-01"/>
+    <cosponsor thomas_id="02060" joined="2013-02-14"/>
+    <cosponsor thomas_id="02001" joined="2013-02-01"/>
+    <cosponsor thomas_id="02034" joined="2013-02-01"/>
+    <cosponsor thomas_id="01955" joined="2013-02-01"/>
+    <cosponsor thomas_id="02035" joined="2013-02-01"/>
+    <cosponsor thomas_id="01738" joined="2013-02-01"/>
+    <cosponsor thomas_id="00910" joined="2013-02-01"/>
+    <cosponsor thomas_id="02141" joined="2013-02-06"/>
+    <cosponsor thomas_id="01514" joined="2013-02-01"/>
+    <cosponsor thomas_id="01802" joined="2013-02-01"/>
+    <cosponsor thomas_id="02022" joined="2013-02-01"/>
+    <cosponsor thomas_id="00940" joined="2013-03-12"/>
+    <cosponsor thomas_id="02073" joined="2013-04-10"/>
+    <cosponsor thomas_id="01986" joined="2013-02-01"/>
+    <cosponsor thomas_id="01954" joined="2013-02-01"/>
+    <cosponsor thomas_id="01704" joined="2013-02-01"/>
+    <cosponsor thomas_id="01651" joined="2013-05-14"/>
+    <cosponsor thomas_id="02017" joined="2013-02-14"/>
+    <cosponsor thomas_id="01916" joined="2013-03-13"/>
+    <cosponsor thomas_id="02158" joined="2013-03-11"/>
+    <cosponsor thomas_id="01009" joined="2013-02-01"/>
+    <cosponsor thomas_id="01892" joined="2013-02-14"/>
+    <cosponsor thomas_id="01994" joined="2013-02-01"/>
+    <cosponsor thomas_id="01041" joined="2013-02-14"/>
+    <cosponsor thomas_id="01681" joined="2013-03-11"/>
+    <cosponsor thomas_id="01071" joined="2013-02-26"/>
+    <cosponsor thomas_id="01075" joined="2013-02-01"/>
+    <cosponsor thomas_id="02000" joined="2013-03-11"/>
+    <cosponsor thomas_id="02168" joined="2013-02-01"/>
+    <cosponsor thomas_id="02047" joined="2013-02-01"/>
+    <cosponsor thomas_id="02137" joined="2013-03-15"/>
+    <cosponsor thomas_id="01855" joined="2013-02-01"/>
+    <cosponsor thomas_id="02161" joined="2013-02-01"/>
+    <cosponsor thomas_id="01779" joined="2013-02-01"/>
+    <cosponsor thomas_id="01688" joined="2013-02-01"/>
+    <cosponsor thomas_id="02021" joined="2013-02-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-01" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-02-28">
+      <text>Referred to the Subcommittee on the Constitution And Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee subcommittee="Constitution and Civil Justice" code="HSJU10" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="138"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Abortion"/>
+    <term name="Assault and harassment offenses"/>
+    <term name="Civil actions and liability"/>
+    <term name="Crimes against women"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Criminal procedure and sentencing"/>
+    <term name="Health personnel"/>
+    <term name="Legal fees and court costs"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="Sex, gender, sexual orientation discrimination"/>
+    <term name="Violent crime"/>
+  </subjects>
+  <amendments/>
+  <summary>2/1/2013--Introduced.
+Prenatal Nondiscrimination Act (PRENDA) of 2013 - Imposes criminal penalties on anyone who knowingly or knowingly attempts to: (1) perform an abortion knowing that the abortion is sought based on the sex, gender, color or race of the child, or the race of a parent; (2) use force or the threat of force to intentionally injure or intimidate any person for the purpose of coercing a sex-selection or race-selection abortion; (3) solicit or accept funds for the performance of such an abortion; or (4) transport a woman into the United States or across a state line for the purpose of obtaining such an abortion.
+
+Requires such violations or attempted violations to result in fines under the federal criminal code, imprisonment for up to five years, or both.
+
+Authorizes civil actions, for verifiable money damages for injuries and punitive damages, by: (1) fathers, or maternal grandparents if the mother is an unemancipated minor, of unborn children who are the subject of an abortion performed or attempted through any of the above violations; and (2) women upon whom an abortion has been performed or attempted with a knowing or attempted use of force or threat of force to intentionally injure or intimidate any person for the purpose of coercing a sex-selection or race-selection abortion.
+
+Authorizes, to prevent an abortion provider from performing or attempting further abortions in violation of this Act, injunctive relief to be obtained by: (1) the women upon whom such an abortion is performed or attempted, (2) a maternal grandparent of the unborn child if the woman is an unemancipated minor, (3) the father of such an unborn child, or (4) the Attorney General (DOJ).
+
+Deems a violation of this Act to be prohibited discrimination under title VI (Federally Assisted Programs) of the Civil Rights Act of 1964. (Violators of title VI lose federal funding.)
+
+Requires a medical or mental health professional to report known or suspected violations to law enforcement authorities. Imposes criminal penalties for a failure to so report.
+
+Prohibits a woman having such an abortion from being prosecuted or held civilly liable.
+
+Directs courts to make such orders as necessary to protect the anonymity of any woman upon whom an abortion has been performed or attempted if she does not give her written consent to such disclosure. Requires, in the absence of such a woman's written consent, that any party, other than a public official, who brings an action under this Act do so under a pseudonym.
+
+Defines "abortion" as the act of using or prescribing any instrument, medicine, drug, or any other substance, device, or means with the intent to terminate the clinically diagnosable pregnancy of a woman, with knowledge that the termination by those means will, with reasonable likelihood, cause the death of the unborn child, unless the act is intended to: (1) save the life or preserve the health of the unborn child, (2) remove a dead unborn child caused by spontaneous abortion, or (3) remove an ectopic pregnancy.</summary>
+</bill>

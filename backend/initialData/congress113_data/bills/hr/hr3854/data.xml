@@ -1,0 +1,83 @@
+<bill session="113" type="h" number="3854" updated="2014-08-14T13:24:19-04:00">
+  <state datetime="2014-01-13">REFERRED</state>
+  <status>
+    <introduced datetime="2014-01-13"/>
+  </status>
+  <introduced datetime="2014-01-13"/>
+  <titles>
+    <title type="short" as="introduced">Community Economic Opportunity Act of 2014</title>
+    <title type="official" as="introduced">To amend the Community Services Block Grant Act to reauthorize and modernize the Act.</title>
+  </titles>
+  <sponsor thomas_id="01797"/>
+  <cosponsors>
+    <cosponsor thomas_id="02054" joined="2014-01-28"/>
+    <cosponsor thomas_id="01845" joined="2014-02-04"/>
+    <cosponsor thomas_id="02106" joined="2014-05-28"/>
+    <cosponsor thomas_id="01564" joined="2014-04-04"/>
+    <cosponsor thomas_id="02159" joined="2014-05-28"/>
+    <cosponsor thomas_id="02055" joined="2014-06-10"/>
+    <cosponsor thomas_id="00229" joined="2014-04-28"/>
+    <cosponsor thomas_id="01774" joined="2014-01-13"/>
+    <cosponsor thomas_id="01836" joined="2014-05-28"/>
+    <cosponsor thomas_id="02126" joined="2014-07-24"/>
+    <cosponsor thomas_id="02133" joined="2014-03-11"/>
+    <cosponsor thomas_id="00281" joined="2014-04-28"/>
+    <cosponsor thomas_id="01799" joined="2014-03-04"/>
+    <cosponsor thomas_id="01857" joined="2014-04-04"/>
+    <cosponsor thomas_id="02125" joined="2014-04-28"/>
+    <cosponsor thomas_id="02114" joined="2014-04-28"/>
+    <cosponsor thomas_id="00446" joined="2014-06-19"/>
+    <cosponsor thomas_id="01708" joined="2014-03-11"/>
+    <cosponsor thomas_id="02010" joined="2014-03-11"/>
+    <cosponsor thomas_id="01498" joined="2014-04-28"/>
+    <cosponsor thomas_id="00683" joined="2014-05-28"/>
+    <cosponsor thomas_id="01846" joined="2014-05-28"/>
+    <cosponsor thomas_id="01686" joined="2014-06-19"/>
+    <cosponsor thomas_id="01653" joined="2014-01-13"/>
+    <cosponsor thomas_id="01504" joined="2014-03-24"/>
+    <cosponsor thomas_id="01505" joined="2014-03-24"/>
+    <cosponsor thomas_id="01811" joined="2014-03-11"/>
+    <cosponsor thomas_id="02108" joined="2014-03-11"/>
+    <cosponsor thomas_id="01710" joined="2014-04-28"/>
+    <cosponsor thomas_id="00910" joined="2014-04-28"/>
+    <cosponsor thomas_id="01982" joined="2014-06-12"/>
+    <cosponsor thomas_id="01756" joined="2014-01-15"/>
+    <cosponsor thomas_id="01722" joined="2014-03-24"/>
+    <cosponsor thomas_id="01069" joined="2014-04-04"/>
+    <cosponsor thomas_id="01528" joined="2014-04-04"/>
+    <cosponsor thomas_id="01890" joined="2014-04-04"/>
+    <cosponsor thomas_id="02110" joined="2014-05-28"/>
+    <cosponsor thomas_id="01535" joined="2014-06-19"/>
+    <cosponsor thomas_id="01884" joined="2014-06-23"/>
+    <cosponsor thomas_id="02105" joined="2014-05-09"/>
+    <cosponsor thomas_id="01879" joined="2014-03-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-01-13" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2014-06-13">
+      <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee subcommittee="Higher Education and Workforce Training" code="HSED13" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Employment and training programs"/>
+    <term name="Housing and community development funding"/>
+    <term name="National and community service"/>
+    <term name="Performance measurement"/>
+    <term name="Poverty and welfare assistance"/>
+  </subjects>
+  <amendments/>
+  <summary>1/13/2014--Introduced.
+Community Economic Opportunity Act of 2014 - Revises the Community Services Block Grant Act, reauthorizing and extending the Act and its community services block grant program at specified levels for FY2014-2018, and at unspecified levels for FY2019-2023.
+
+Prescribes requirements for a Community Action Innovations Program.
+
+Eliminates requirements for: (1) community food and nutrition programs, (2) national or regional programs designed to provide instructional activities for low-income youth, and (3) demonstration partnership agreements addressing the needs of the poor.</summary>
+</bill>

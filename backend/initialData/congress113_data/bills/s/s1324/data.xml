@@ -1,0 +1,53 @@
+<bill session="113" type="s" number="1324" updated="2014-08-14T13:56:13-04:00">
+  <state datetime="2013-07-18">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-18"/>
+  </status>
+  <introduced datetime="2013-07-18"/>
+  <titles>
+    <title type="short" as="introduced">National Energy Tax Repeal Act</title>
+    <title type="official" as="introduced">A bill to prohibit any regulations promulgated pursuant to a presidential memorandum relating to power sector carbon pollution standards from taking effect.</title>
+  </titles>
+  <sponsor thomas_id="01881"/>
+  <cosponsors>
+    <cosponsor thomas_id="01695" joined="2013-07-18"/>
+    <cosponsor thomas_id="01464" joined="2013-07-18"/>
+    <cosponsor thomas_id="01687" joined="2013-07-25"/>
+    <cosponsor thomas_id="00213" joined="2013-07-25"/>
+    <cosponsor thomas_id="00250" joined="2013-07-18"/>
+    <cosponsor thomas_id="02175" joined="2014-06-04"/>
+    <cosponsor thomas_id="01542" joined="2013-07-18"/>
+    <cosponsor thomas_id="02179" joined="2013-07-18"/>
+    <cosponsor thomas_id="01633" joined="2013-09-18"/>
+    <cosponsor thomas_id="01351" joined="2013-07-31"/>
+    <cosponsor thomas_id="01899" joined="2014-05-22"/>
+    <cosponsor thomas_id="01395" joined="2013-09-17"/>
+    <cosponsor thomas_id="01507" joined="2014-06-03"/>
+    <cosponsor thomas_id="02082" joined="2013-07-18"/>
+    <cosponsor thomas_id="01896" joined="2013-07-31"/>
+    <cosponsor thomas_id="02084" joined="2013-07-18"/>
+    <cosponsor thomas_id="01226" joined="2013-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-18" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1514"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Air quality"/>
+    <term name="Climate change and greenhouse gases"/>
+    <term name="Electric power generation and transmission"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental regulatory procedures"/>
+  </subjects>
+  <amendments/>
+  <summary>7/18/2013--Introduced.
+National Energy Tax Repeal Act - Prohibits the head of a federal agency from promulgating any regulation relating to power sector carbon pollution standards or any substantially similar regulation on or after June 25, 2013, unless that regulation is explicitly authorized by an Act of Congress.</summary>
+</bill>

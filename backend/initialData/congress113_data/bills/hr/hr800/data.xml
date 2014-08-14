@@ -1,0 +1,110 @@
+<bill session="113" type="h" number="800" updated="2014-08-14T12:57:32-04:00">
+  <state datetime="2013-02-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-15"/>
+  </status>
+  <introduced datetime="2013-02-15"/>
+  <titles>
+    <title type="official" as="introduced">To amend part B of title XVIII of the Social Security Act to exclude customary prompt pay discounts from manufacturers to wholesalers from the average sales price for drugs and biologicals under Medicare.</title>
+  </titles>
+  <sponsor thomas_id="01222"/>
+  <cosponsors>
+    <cosponsor thomas_id="02153" joined="2013-06-04"/>
+    <cosponsor thomas_id="01838" joined="2013-07-18"/>
+    <cosponsor thomas_id="01740" joined="2013-02-15"/>
+    <cosponsor thomas_id="01748" joined="2013-02-15"/>
+    <cosponsor thomas_id="01845" joined="2013-02-15"/>
+    <cosponsor thomas_id="01840" joined="2013-04-09"/>
+    <cosponsor thomas_id="01751" joined="2013-02-15"/>
+    <cosponsor thomas_id="01471" joined="2013-02-15"/>
+    <cosponsor thomas_id="02159" joined="2013-07-11"/>
+    <cosponsor thomas_id="01925" joined="2013-02-15"/>
+    <cosponsor thomas_id="01654" joined="2013-02-15"/>
+    <cosponsor thomas_id="01878" joined="2013-02-15"/>
+    <cosponsor thomas_id="01959" joined="2013-05-06"/>
+    <cosponsor thomas_id="01836" joined="2013-02-15"/>
+    <cosponsor thomas_id="01604" joined="2013-03-05"/>
+    <cosponsor thomas_id="01479" joined="2013-02-15"/>
+    <cosponsor thomas_id="02036" joined="2013-04-15"/>
+    <cosponsor thomas_id="02067" joined="2013-06-05"/>
+    <cosponsor thomas_id="02065" joined="2013-02-15"/>
+    <cosponsor thomas_id="01998" joined="2013-03-05"/>
+    <cosponsor thomas_id="01743" joined="2013-05-09"/>
+    <cosponsor thomas_id="01720" joined="2013-02-15"/>
+    <cosponsor thomas_id="00462" joined="2013-02-15"/>
+    <cosponsor thomas_id="02070" joined="2013-02-15"/>
+    <cosponsor thomas_id="01922" joined="2013-02-15"/>
+    <cosponsor thomas_id="00484" joined="2013-02-15"/>
+    <cosponsor thomas_id="00511" joined="2013-02-15"/>
+    <cosponsor thomas_id="01913" joined="2013-02-15"/>
+    <cosponsor thomas_id="01580" joined="2013-02-15"/>
+    <cosponsor thomas_id="01663" joined="2013-03-05"/>
+    <cosponsor thomas_id="02046" joined="2013-04-09"/>
+    <cosponsor thomas_id="01498" joined="2013-02-15"/>
+    <cosponsor thomas_id="01583" joined="2013-04-09"/>
+    <cosponsor thomas_id="00666" joined="2013-03-19"/>
+    <cosponsor thomas_id="01939" joined="2013-04-09"/>
+    <cosponsor thomas_id="01806" joined="2013-03-05"/>
+    <cosponsor thomas_id="01792" joined="2013-03-19"/>
+    <cosponsor thomas_id="01809" joined="2014-07-15"/>
+    <cosponsor thomas_id="02052" joined="2013-06-10"/>
+    <cosponsor thomas_id="01506" joined="2013-03-05"/>
+    <cosponsor thomas_id="01730" joined="2013-07-08"/>
+    <cosponsor thomas_id="02001" joined="2013-04-15"/>
+    <cosponsor thomas_id="01710" joined="2013-02-15"/>
+    <cosponsor thomas_id="01955" joined="2013-02-15"/>
+    <cosponsor thomas_id="01930" joined="2013-12-09"/>
+    <cosponsor thomas_id="02097" joined="2013-07-16"/>
+    <cosponsor thomas_id="01802" joined="2013-07-11"/>
+    <cosponsor thomas_id="01778" joined="2013-04-09"/>
+    <cosponsor thomas_id="01986" joined="2013-10-30"/>
+    <cosponsor thomas_id="01651" joined="2013-02-15"/>
+    <cosponsor thomas_id="01003" joined="2013-03-05"/>
+    <cosponsor thomas_id="01757" joined="2013-02-15"/>
+    <cosponsor thomas_id="02124" joined="2013-12-09"/>
+    <cosponsor thomas_id="01920" joined="2013-03-05"/>
+    <cosponsor thomas_id="01798" joined="2013-04-09"/>
+    <cosponsor thomas_id="01525" joined="2013-02-15"/>
+    <cosponsor thomas_id="01988" joined="2013-02-15"/>
+    <cosponsor thomas_id="01861" joined="2013-09-28"/>
+    <cosponsor thomas_id="01527" joined="2013-02-15"/>
+    <cosponsor thomas_id="02047" joined="2013-06-10"/>
+    <cosponsor thomas_id="01151" joined="2013-02-15"/>
+    <cosponsor thomas_id="01664" joined="2013-02-15"/>
+    <cosponsor thomas_id="01942" joined="2014-06-18"/>
+    <cosponsor thomas_id="01596" joined="2013-02-15"/>
+    <cosponsor thomas_id="01777" joined="2013-04-09"/>
+    <cosponsor thomas_id="02002" joined="2013-02-15"/>
+    <cosponsor thomas_id="01886" joined="2013-04-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-15" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-02-15">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-02-15">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2013-02-15">
+      <text>Referred to House Ways and Means</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="806"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Medicare"/>
+    <term name="Prescription drugs"/>
+  </subjects>
+  <amendments/>
+  <summary>2/15/2013--Introduced.
+Amends part B (Supplementary Medical Insurance) of title XVIII (Medicare) of the Social Security Act to exclude from the average sales price in calculating Medicare payments for drugs and biologicals any customary prompt pay discounts from manufacturers to wholesalers.</summary>
+</bill>

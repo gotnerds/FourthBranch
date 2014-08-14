@@ -1,0 +1,45 @@
+<bill session="113" type="h" number="4720" updated="2014-08-14T13:31:40-04:00">
+  <state datetime="2014-05-22">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-22"/>
+  </status>
+  <introduced datetime="2014-05-22"/>
+  <titles>
+    <title type="short" as="introduced">Medal of Honor Priority Care Act</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to increase the priority for enrollment of medal of honor recipients in the health care system of the Department of Veterans Affairs.</title>
+  </titles>
+  <sponsor thomas_id="01855"/>
+  <cosponsors>
+    <cosponsor thomas_id="00062" joined="2014-07-09"/>
+    <cosponsor thomas_id="01742" joined="2014-07-09"/>
+    <cosponsor thomas_id="01959" joined="2014-05-22"/>
+    <cosponsor thomas_id="02126" joined="2014-05-29"/>
+    <cosponsor thomas_id="02143" joined="2014-07-08"/>
+    <cosponsor thomas_id="02100" joined="2014-05-29"/>
+    <cosponsor thomas_id="01954" joined="2014-05-22"/>
+    <cosponsor thomas_id="02124" joined="2014-05-22"/>
+    <cosponsor thomas_id="01942" joined="2014-05-22"/>
+    <cosponsor thomas_id="02161" joined="2014-05-22"/>
+    <cosponsor thomas_id="01688" joined="2014-05-22"/>
+    <cosponsor thomas_id="01991" joined="2014-07-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-22" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2014-06-03">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Health" code="HSVR03" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Veterans' medical care"/>
+    <term name="Veterans' organizations and recognition"/>
+  </subjects>
+  <amendments/>
+</bill>

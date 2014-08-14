@@ -1,0 +1,38 @@
+<bill session="113" type="h" number="4806" updated="2014-08-14T13:32:24-04:00">
+  <state datetime="2014-06-05">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-05"/>
+  </status>
+  <introduced datetime="2014-06-05"/>
+  <titles>
+    <title type="short" as="introduced">Pause for Safety Act of 2014</title>
+    <title type="official" as="introduced">To provide family members and close associates of an individual who they fear is a danger to himself, herself, or others new tools to prevent gun violence.</title>
+  </titles>
+  <sponsor thomas_id="01471"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-06-05" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2014-07-21">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="2445"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Crime prevention"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Firearms and explosives"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="State and local government operations"/>
+    <term name="Violent crime"/>
+  </subjects>
+  <amendments/>
+</bill>

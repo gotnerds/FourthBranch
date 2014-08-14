@@ -1,0 +1,23 @@
+<bill session="113" type="s" number="2776" updated="2014-08-14T14:08:26-04:00">
+  <state datetime="2014-08-01">REFERRED</state>
+  <status>
+    <introduced datetime="2014-08-01"/>
+  </status>
+  <introduced datetime="2014-08-01"/>
+  <titles>
+    <title type="official" as="introduced">A bill to establish a Carbon Capture and Sequestration Deployment Acceleration Fund to promote the establishment of not fewer than 10 commercial-scale carbon capture and sequestration units in the United States during the next 10 years, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02198"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-08-01" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,45 @@
+<bill session="113" type="s" number="2481" updated="2014-08-14T14:05:58-04:00">
+  <state datetime="2014-06-17">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-17"/>
+  </status>
+  <introduced datetime="2014-06-17"/>
+  <titles>
+    <title type="short" as="introduced">Women's Small Business Procurement Parity Act</title>
+    <title type="official" as="introduced">A bill to amend the Small Business Act to provide authority for sole source contracts for certain small business concerns owned and controlled by women, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01901"/>
+  <cosponsors>
+    <cosponsor thomas_id="01558" joined="2014-07-30"/>
+    <cosponsor thomas_id="02076" joined="2014-08-05"/>
+    <cosponsor thomas_id="00172" joined="2014-06-17"/>
+    <cosponsor thomas_id="00174" joined="2014-07-08"/>
+    <cosponsor thomas_id="01866" joined="2014-06-17"/>
+    <cosponsor thomas_id="00735" joined="2014-07-10"/>
+    <cosponsor thomas_id="00802" joined="2014-07-28"/>
+    <cosponsor thomas_id="01837" joined="2014-07-28"/>
+    <cosponsor thomas_id="01409" joined="2014-07-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-17" state="REFERRED">
+      <text>Read twice and referred to the Committee on Small Business and Entrepreneurship.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSSB" name="Senate Small Business and Entrepreneurship" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="4435"/>
+    <bill type="s" session="113" relation="unknown" number="2693"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Congressional oversight"/>
+    <term name="Government information and archives"/>
+    <term name="Minority and disadvantaged businesses"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Small business"/>
+    <term name="Women in business"/>
+  </subjects>
+  <amendments/>
+</bill>

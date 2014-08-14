@@ -1,0 +1,74 @@
+<bill session="113" type="hr" number="461" updated="2014-08-14T12:48:32-04:00">
+  <state datetime="2014-01-16">REFERRED</state>
+  <status>
+    <introduced datetime="2014-01-16"/>
+  </status>
+  <introduced datetime="2014-01-16"/>
+  <titles>
+    <title type="official" as="introduced">Supporting the contributions of Catholic schools.</title>
+  </titles>
+  <sponsor thomas_id="01781"/>
+  <cosponsors>
+    <cosponsor thomas_id="02054" joined="2014-01-16"/>
+    <cosponsor thomas_id="02027" joined="2014-01-16"/>
+    <cosponsor thomas_id="00091" joined="2014-01-16"/>
+    <cosponsor thomas_id="01723" joined="2014-01-16"/>
+    <cosponsor thomas_id="00186" joined="2014-01-16"/>
+    <cosponsor thomas_id="01477" joined="2014-01-16"/>
+    <cosponsor thomas_id="02126" joined="2014-01-16"/>
+    <cosponsor thomas_id="00316" joined="2014-01-16"/>
+    <cosponsor thomas_id="01797" joined="2014-01-16"/>
+    <cosponsor thomas_id="00414" joined="2014-01-16"/>
+    <cosponsor thomas_id="02041" joined="2014-01-16"/>
+    <cosponsor thomas_id="02026" joined="2014-01-27"/>
+    <cosponsor thomas_id="01794" joined="2014-01-16"/>
+    <cosponsor thomas_id="01580" joined="2014-01-16"/>
+    <cosponsor thomas_id="00612" joined="2014-01-16"/>
+    <cosponsor thomas_id="02154" joined="2014-01-16"/>
+    <cosponsor thomas_id="02051" joined="2014-01-16"/>
+    <cosponsor thomas_id="00635" joined="2014-01-16"/>
+    <cosponsor thomas_id="01668" joined="2014-01-16"/>
+    <cosponsor thomas_id="01885" joined="2014-01-16"/>
+    <cosponsor thomas_id="01804" joined="2014-01-16"/>
+    <cosponsor thomas_id="01653" joined="2014-01-16"/>
+    <cosponsor thomas_id="01730" joined="2014-01-16"/>
+    <cosponsor thomas_id="00832" joined="2014-01-16"/>
+    <cosponsor thomas_id="00854" joined="2014-01-16"/>
+    <cosponsor thomas_id="01510" joined="2014-01-16"/>
+    <cosponsor thomas_id="00912" joined="2014-01-16"/>
+    <cosponsor thomas_id="01953" joined="2014-01-16"/>
+    <cosponsor thomas_id="01982" joined="2014-01-16"/>
+    <cosponsor thomas_id="00985" joined="2014-01-16"/>
+    <cosponsor thomas_id="00997" joined="2014-01-16"/>
+    <cosponsor thomas_id="01728" joined="2014-01-16"/>
+    <cosponsor thomas_id="01756" joined="2014-01-16"/>
+    <cosponsor thomas_id="01962" joined="2014-01-16"/>
+    <cosponsor thomas_id="01071" joined="2014-01-16"/>
+    <cosponsor thomas_id="01664" joined="2014-01-16"/>
+    <cosponsor thomas_id="01853" joined="2014-01-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-01-16" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="113" relation="identical" number="46"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Religion"/>
+    <term name="Teaching, teachers, curricula"/>
+  </subjects>
+  <amendments/>
+  <summary>1/16/2014--Introduced.
+Expresses support for the goals of Catholic Schools Week, an event cosponsored by the National Catholic Educational Association and the United States Conference of Catholic Bishops and established to recognize the vital contributions of the thousands of Catholic elementary and secondary schools in this country.
+
+Applauds the National Catholic Educational Association and the United States Conference of Catholic Bishops on their selection of a theme that all can celebrate.</summary>
+</bill>

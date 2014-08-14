@@ -1,0 +1,219 @@
+<bill session="113" type="h" number="1281" updated="2014-08-14T13:01:36-04:00">
+  <state datetime="2014-06-24T19:11:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-06-24T19:11:00-04:00"/>
+  </status>
+  <introduced datetime="2013-03-20"/>
+  <titles>
+    <title type="short" as="introduced">Newborn Screening Saves Lives Reauthorization Act of 2013</title>
+    <title type="short" as="passed house">Newborn Screening Saves Lives Reauthorization Act of 2014</title>
+    <title type="official" as="introduced">To amend the Public Health Service Act to reauthorize programs under part A of title XI of such Act.</title>
+  </titles>
+  <sponsor thomas_id="00997"/>
+  <cosponsors>
+    <cosponsor thomas_id="00062" joined="2013-09-28"/>
+    <cosponsor thomas_id="02153" joined="2013-07-24"/>
+    <cosponsor thomas_id="00070" joined="2013-09-19"/>
+    <cosponsor thomas_id="02102" joined="2013-05-14"/>
+    <cosponsor thomas_id="00091" joined="2013-05-06"/>
+    <cosponsor thomas_id="00099" joined="2013-10-23"/>
+    <cosponsor thomas_id="02106" joined="2014-01-10"/>
+    <cosponsor thomas_id="01751" joined="2014-04-03"/>
+    <cosponsor thomas_id="00165" joined="2013-09-23"/>
+    <cosponsor thomas_id="01676" joined="2013-09-23"/>
+    <cosponsor thomas_id="01471" joined="2013-05-06"/>
+    <cosponsor thomas_id="02107" joined="2013-09-19"/>
+    <cosponsor thomas_id="02159" joined="2014-02-06"/>
+    <cosponsor thomas_id="01839" joined="2013-05-06"/>
+    <cosponsor thomas_id="02163" joined="2013-09-19"/>
+    <cosponsor thomas_id="01474" joined="2013-11-21"/>
+    <cosponsor thomas_id="02055" joined="2013-10-11"/>
+    <cosponsor thomas_id="01864" joined="2013-05-06"/>
+    <cosponsor thomas_id="01654" joined="2014-02-03"/>
+    <cosponsor thomas_id="01878" joined="2013-05-06"/>
+    <cosponsor thomas_id="02151" joined="2013-06-11"/>
+    <cosponsor thomas_id="00229" joined="2013-05-06"/>
+    <cosponsor thomas_id="01774" joined="2013-09-19"/>
+    <cosponsor thomas_id="01836" joined="2013-10-11"/>
+    <cosponsor thomas_id="01604" joined="2013-05-06"/>
+    <cosponsor thomas_id="01477" joined="2013-09-28"/>
+    <cosponsor thomas_id="01479" joined="2013-09-28"/>
+    <cosponsor thomas_id="02133" joined="2013-06-11"/>
+    <cosponsor thomas_id="00281" joined="2013-05-06"/>
+    <cosponsor thomas_id="00299" joined="2013-05-06"/>
+    <cosponsor thomas_id="00316" joined="2013-09-28"/>
+    <cosponsor thomas_id="01894" joined="2014-01-10"/>
+    <cosponsor thomas_id="01857" joined="2013-12-11"/>
+    <cosponsor thomas_id="00355" joined="2013-09-28"/>
+    <cosponsor thomas_id="02114" joined="2013-09-25"/>
+    <cosponsor thomas_id="00368" joined="2013-06-11"/>
+    <cosponsor thomas_id="02164" joined="2013-09-19"/>
+    <cosponsor thomas_id="01973" joined="2013-09-28"/>
+    <cosponsor thomas_id="02120" joined="2013-09-19"/>
+    <cosponsor thomas_id="01487" joined="2013-10-30"/>
+    <cosponsor thomas_id="01914" joined="2013-09-25"/>
+    <cosponsor thomas_id="00462" joined="2013-06-03"/>
+    <cosponsor thomas_id="01708" joined="2013-03-21"/>
+    <cosponsor thomas_id="00478" joined="2013-09-19"/>
+    <cosponsor thomas_id="00511" joined="2013-05-06"/>
+    <cosponsor thomas_id="02170" joined="2013-06-11"/>
+    <cosponsor thomas_id="01794" joined="2013-04-26"/>
+    <cosponsor thomas_id="01490" joined="2013-09-19"/>
+    <cosponsor thomas_id="01634" joined="2013-12-11"/>
+    <cosponsor thomas_id="02101" joined="2013-05-06"/>
+    <cosponsor thomas_id="01663" joined="2014-04-07"/>
+    <cosponsor thomas_id="00588" joined="2013-05-06"/>
+    <cosponsor thomas_id="00599" joined="2014-01-15"/>
+    <cosponsor thomas_id="01843" joined="2014-01-28"/>
+    <cosponsor thomas_id="00612" joined="2013-09-28"/>
+    <cosponsor thomas_id="00635" joined="2013-09-19"/>
+    <cosponsor thomas_id="01907" joined="2013-07-30"/>
+    <cosponsor thomas_id="01936" joined="2013-12-11"/>
+    <cosponsor thomas_id="01668" joined="2013-09-28"/>
+    <cosponsor thomas_id="01583" joined="2013-10-30"/>
+    <cosponsor thomas_id="00666" joined="2013-11-12"/>
+    <cosponsor thomas_id="01501" joined="2013-05-06"/>
+    <cosponsor thomas_id="00683" joined="2013-10-11"/>
+    <cosponsor thomas_id="01781" joined="2013-10-24"/>
+    <cosponsor thomas_id="01846" joined="2013-05-06"/>
+    <cosponsor thomas_id="02111" joined="2014-01-28"/>
+    <cosponsor thomas_id="00709" joined="2013-09-28"/>
+    <cosponsor thomas_id="02146" joined="2013-09-19"/>
+    <cosponsor thomas_id="01939" joined="2013-09-19"/>
+    <cosponsor thomas_id="01671" joined="2013-07-08"/>
+    <cosponsor thomas_id="01814" joined="2013-10-30"/>
+    <cosponsor thomas_id="01653" joined="2013-05-06"/>
+    <cosponsor thomas_id="00766" joined="2013-10-11"/>
+    <cosponsor thomas_id="01504" joined="2013-05-06"/>
+    <cosponsor thomas_id="00778" joined="2013-09-28"/>
+    <cosponsor thomas_id="01809" joined="2014-04-03"/>
+    <cosponsor thomas_id="01506" joined="2014-01-10"/>
+    <cosponsor thomas_id="01730" joined="2014-01-10"/>
+    <cosponsor thomas_id="01584" joined="2013-09-25"/>
+    <cosponsor thomas_id="01811" joined="2013-03-21"/>
+    <cosponsor thomas_id="00832" joined="2013-09-09"/>
+    <cosponsor thomas_id="00850" joined="2013-06-03"/>
+    <cosponsor thomas_id="01602" joined="2013-09-19"/>
+    <cosponsor thomas_id="00854" joined="2013-09-28"/>
+    <cosponsor thomas_id="02108" joined="2013-09-19"/>
+    <cosponsor thomas_id="01710" joined="2013-10-11"/>
+    <cosponsor thomas_id="00887" joined="2014-01-15"/>
+    <cosponsor thomas_id="01510" joined="2014-03-25"/>
+    <cosponsor thomas_id="02097" joined="2014-01-15"/>
+    <cosponsor thomas_id="01953" joined="2013-09-28"/>
+    <cosponsor thomas_id="02171" joined="2013-06-11"/>
+    <cosponsor thomas_id="00944" joined="2013-05-06"/>
+    <cosponsor thomas_id="00977" joined="2013-04-15"/>
+    <cosponsor thomas_id="00998" joined="2013-09-23"/>
+    <cosponsor thomas_id="02109" joined="2013-09-19"/>
+    <cosponsor thomas_id="01756" joined="2013-09-19"/>
+    <cosponsor thomas_id="01962" joined="2013-09-19"/>
+    <cosponsor thomas_id="01522" joined="2013-09-19"/>
+    <cosponsor thomas_id="01588" joined="2013-09-19"/>
+    <cosponsor thomas_id="01635" joined="2013-09-28"/>
+    <cosponsor thomas_id="01798" joined="2014-02-11"/>
+    <cosponsor thomas_id="01722" joined="2013-05-06"/>
+    <cosponsor thomas_id="01042" joined="2013-09-19"/>
+    <cosponsor thomas_id="01861" joined="2014-01-07"/>
+    <cosponsor thomas_id="01590" joined="2013-03-20"/>
+    <cosponsor thomas_id="01818" joined="2013-09-19"/>
+    <cosponsor thomas_id="01069" joined="2013-05-06"/>
+    <cosponsor thomas_id="01890" joined="2013-05-06"/>
+    <cosponsor thomas_id="02110" joined="2013-05-06"/>
+    <cosponsor thomas_id="01593" joined="2014-02-03"/>
+    <cosponsor thomas_id="01535" joined="2013-10-30"/>
+    <cosponsor thomas_id="01940" joined="2013-10-23"/>
+    <cosponsor thomas_id="01942" joined="2013-09-28"/>
+    <cosponsor thomas_id="02112" joined="2013-09-19"/>
+    <cosponsor thomas_id="01184" joined="2013-09-19"/>
+    <cosponsor thomas_id="01596" joined="2013-05-14"/>
+    <cosponsor thomas_id="01777" joined="2013-09-28"/>
+    <cosponsor thomas_id="01209" joined="2013-03-25"/>
+    <cosponsor thomas_id="01879" joined="2013-10-23"/>
+    <cosponsor thomas_id="02004" joined="2013-05-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-20">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H1643"/>
+    </action>
+    <action datetime="2013-03-20" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-03-22">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2014-02-27">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2014-02-27">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote .</text>
+    </action>
+    <action datetime="2014-04-03">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-04-03" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+    </calendar>
+    <action datetime="2014-06-19T13:15:00-04:00">
+      <text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 113-478.</text>
+    </action>
+    <calendar datetime="2014-06-19T13:15:00-04:00" calendar="Union" number="354">
+      <text>Placed on the Union Calendar, Calendar No. 354.</text>
+    </calendar>
+    <action datetime="2014-06-24T18:56:00-04:00">
+      <text>Mr. Pitts moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2014-06-24T18:56:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5696-5699" label="consideration"/>
+    </action>
+    <action datetime="2014-06-24T18:56:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1281.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-06-24T19:11:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5696-5697" label="text"/>
+    </vote>
+    <action datetime="2014-06-25">
+      <text>Received in the Senate.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting, In Committee"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Advisory bodies"/>
+    <term name="Child health"/>
+    <term name="Congressional oversight"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Genetics"/>
+    <term name="Health information and medical records"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Hereditary and development disorders"/>
+    <term name="Medical research"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Research administration and funding"/>
+  </subjects>
+  <amendments/>
+  <summary>3/20/2013--Introduced.
+Newborn Screening Saves Lives Reauthorization Act of 2013 - Amends the Public Health Service Act to extend and revise a grant program for screening, counseling, and other services related to heritable disorders. Expands eligible grantees to include a health professional organization and an early childhood health system.
+
+Extends a grant program to evaluate the effectiveness of screening, counseling, or health care services in reducing the morbidity and mortality caused by heritable disorders in newborns and children. Expands the program to include evaluation of treatment and follow-up care for newborns and their families after screening and diagnosis.
+
+Extends for five years the operation of the Advisory Committee on Heritable Disorders in Newborns and Children. Authorizes the Secretary of Health and Human Services (HHS) to continue the Advisory Committee after such time. Requires the Advisory Committee to meet in person at least twice each year.
+
+Extends the clearinghouse for newborn screening information. Expands the duties of the clearinghouse to include: (1) maintaining current data on the number of conditions for which screening is conducted in each state; and (2) establishing or disseminating guidelines for services and personnel necessary for follow-up, diagnosis, counseling, and treatment of to conditions detected by newborn screening.
+
+Extends requirements for the Secretary to provide for quality assurance of laboratories involved in screening newborns and children for heritable disorders.
+
+Extends the Interagency Coordinating Committee on Newborn and Child Screening.
+
+Authorizes the Secretary to have the Hunter Kelly Newborn Screening Research Program to: (1) provide research and data for newborn conditions under review by the Advisory Committee to be added to the Recommended Uniform Screening Panel; and (2) conduct pilot studies on conditions recommended by the Advisory Committee to ensure that screenings are ready for nationwide implementation.
+
+Directs the Secretary, acting through the Director of the Centers for Disease Control and Prevention (CDC), to award grants to, or enter into cooperative agreements with, eligible entities to develop longitudinal followup and tracking programs for newborn screening.</summary>
+</bill>

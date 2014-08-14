@@ -1,0 +1,49 @@
+<bill session="113" type="s" number="2440" updated="2014-08-14T14:05:38-04:00">
+  <state datetime="2014-06-05">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-05"/>
+  </status>
+  <introduced datetime="2014-06-05"/>
+  <titles>
+    <title type="short" as="introduced">BLM Permit Processing Improvement Act of 2014</title>
+    <title type="official" as="introduced">A bill to expand and extend the program to improve permit coordination by the Bureau of Land Management, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01567"/>
+  <cosponsors>
+    <cosponsor thomas_id="01881" joined="2014-06-05"/>
+    <cosponsor thomas_id="01965" joined="2014-07-17"/>
+    <cosponsor thomas_id="01542" joined="2014-06-05"/>
+    <cosponsor thomas_id="01351" joined="2014-06-18"/>
+    <cosponsor thomas_id="01937" joined="2014-06-05"/>
+    <cosponsor thomas_id="02174" joined="2014-06-05"/>
+    <cosponsor thomas_id="01863" joined="2014-06-05"/>
+    <cosponsor thomas_id="02079" joined="2014-06-05"/>
+    <cosponsor thomas_id="00583" joined="2014-06-05"/>
+    <cosponsor thomas_id="02080" joined="2014-06-16"/>
+    <cosponsor thomas_id="01829" joined="2014-06-10"/>
+    <cosponsor thomas_id="01595" joined="2014-06-05"/>
+    <cosponsor thomas_id="02198" joined="2014-06-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2014-07-29">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of the Interior"/>
+    <term name="Government trust funds"/>
+    <term name="Licensing and registrations"/>
+    <term name="Oil and gas"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+</bill>

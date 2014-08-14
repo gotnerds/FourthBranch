@@ -1,0 +1,72 @@
+<bill session="113" type="h" number="524" updated="2014-08-14T12:55:13-04:00">
+  <state datetime="2014-04-09">REPORTED</state>
+  <status>
+    <unknown datetime="2014-04-09"/>
+  </status>
+  <introduced datetime="2013-02-06"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Federal Water Pollution Control Act to clarify that the Administrator of the Environmental Protection Agency does not have the authority to disapprove a permit after it has been issued by the Secretary of the Army under section 404 of such Act.</title>
+  </titles>
+  <sponsor thomas_id="02074"/>
+  <cosponsors>
+    <cosponsor thomas_id="01748" joined="2013-02-06"/>
+    <cosponsor thomas_id="02018" joined="2013-02-06"/>
+    <cosponsor thomas_id="01676" joined="2013-02-06"/>
+    <cosponsor thomas_id="01989" joined="2014-04-10"/>
+    <cosponsor thomas_id="02057" joined="2013-02-06"/>
+    <cosponsor thomas_id="02049" joined="2013-02-06"/>
+    <cosponsor thomas_id="02070" joined="2013-02-06"/>
+    <cosponsor thomas_id="02020" joined="2013-02-06"/>
+    <cosponsor thomas_id="02046" joined="2013-02-06"/>
+    <cosponsor thomas_id="01733" joined="2013-02-06"/>
+    <cosponsor thomas_id="00940" joined="2013-02-06"/>
+    <cosponsor thomas_id="01892" joined="2014-04-07"/>
+    <cosponsor thomas_id="01256" joined="2013-05-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-06" state="REFERRED">
+      <text>Referred to the House Committee on Transportation.</text>
+    </action>
+    <action datetime="2013-02-07">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+    <action datetime="2014-04-09">
+      <text>Subcommittee on Water Resources and Environment Discharged.</text>
+    </action>
+    <action datetime="2014-04-09">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-04-09" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 34 - 19.</text>
+    </calendar>
+    <action datetime="2014-06-20T11:32:00-04:00">
+      <text>Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-485.</text>
+    </action>
+    <calendar datetime="2014-06-20T11:33:00-04:00" calendar="Union" number="361">
+      <text>Placed on the Union Calendar, Calendar No. 361.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting, In Committee"/>
+    <committee subcommittee="Water Resources and Environment" code="HSPW02" name="House Transportation and Infrastructure" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="830"/>
+    <bill type="s" session="113" relation="unknown" number="2156"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative remedies"/>
+    <term name="Coal"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Licensing and registrations"/>
+    <term name="Mining"/>
+    <term name="Navigation, waterways, harbors"/>
+    <term name="Solid waste and recycling"/>
+    <term name="Water quality"/>
+  </subjects>
+  <amendments/>
+  <summary>2/6/2013--Introduced.
+Amends the Federal Water Pollution Control Act (commonly known as the Clean Water Act) to authorize the Administrator of the Environmental Protection Agency (EPA) to prohibit the specification of any defined area as a disposal site for the discharge of dredged or fill material into navigable waters, or to deny or restrict the use of any defined area for such a disposal site, only until such time as the Secretary of the Army has issued a permit for such a discharge at such site.</summary>
+</bill>

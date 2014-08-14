@@ -1,0 +1,46 @@
+<bill session="113" type="h" number="2232" updated="2014-08-14T13:10:22-04:00">
+  <state datetime="2013-06-04">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-04"/>
+  </status>
+  <introduced datetime="2013-06-04"/>
+  <titles>
+    <title type="short" as="introduced">Make Every Small Business Count Act of 2013</title>
+    <title type="official" as="introduced">To amend the Small Business Act to permit prime contractors covered by a subcontracting plan pertaining to a single contract with a Federal agency to receive credit against such a plan for using small business subcontractors at any level of subcontracting, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01656"/>
+  <cosponsors>
+    <cosponsor thomas_id="01912" joined="2013-06-27"/>
+    <cosponsor thomas_id="02151" joined="2013-06-04"/>
+    <cosponsor thomas_id="01959" joined="2013-06-13"/>
+    <cosponsor thomas_id="02044" joined="2013-06-04"/>
+    <cosponsor thomas_id="01909" joined="2013-06-04"/>
+    <cosponsor thomas_id="02169" joined="2013-07-22"/>
+    <cosponsor thomas_id="02113" joined="2013-06-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-04" state="REFERRED">
+      <text>Referred to the House Committee on Small Business.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSSM" name="House Small Business" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="1960"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Congressional oversight"/>
+    <term name="Government studies and investigations"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Small business"/>
+  </subjects>
+  <amendments/>
+  <summary>6/4/2013--Introduced.
+Make Every Small Business Count Act of 2013 - Amends the Small Business Act provisions relating to federal agency contracting and subcontracting goals with respect to small businesses to allow prime contractors under a subcontracting plan pertaining to a single contract to receive credit under such goals for using small businesses as first tier subcontractors or at any tier under such plan.
+
+Allows the prime contractor, if the subcontracting goals pertain to more than one contract with one or more federal agencies or to one contract with more than one federal agency, to count only first tier subcontractors that are small businesses.
+
+Directs the Comptroller General of the United States to submit to the congressional small business committees a report studying the feasibility of using federal subcontracting reporting systems to attribute subcontractors to particular contracts in the case of contractors that have subcontracting plans that pertain to multiple contracts with federal agencies.</summary>
+</bill>

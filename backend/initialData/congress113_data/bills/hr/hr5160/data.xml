@@ -1,0 +1,88 @@
+<bill session="113" type="h" number="5160" updated="2014-08-14T13:35:30-04:00">
+  <state datetime="2014-07-22">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-22"/>
+  </status>
+  <introduced datetime="2014-07-22"/>
+  <titles>
+    <title type="official" as="introduced">To prevent the expansion of the Deferred Action for Childhood Arrivals program unlawfully created by Executive memorandum on August 15, 2012.</title>
+  </titles>
+  <sponsor thomas_id="01748"/>
+  <cosponsors>
+    <cosponsor thomas_id="01858" joined="2014-07-30"/>
+    <cosponsor thomas_id="02054" joined="2014-07-29"/>
+    <cosponsor thomas_id="00062" joined="2014-07-31"/>
+    <cosponsor thomas_id="01838" joined="2014-07-25"/>
+    <cosponsor thomas_id="02063" joined="2014-07-25"/>
+    <cosponsor thomas_id="01468" joined="2014-07-29"/>
+    <cosponsor thomas_id="01987" joined="2014-07-23"/>
+    <cosponsor thomas_id="01882" joined="2014-07-30"/>
+    <cosponsor thomas_id="01751" joined="2014-07-23"/>
+    <cosponsor thomas_id="02197" joined="2014-07-30"/>
+    <cosponsor thomas_id="02197" joined="2014-07-29"/>
+    <cosponsor thomas_id="01816" joined="2014-07-25"/>
+    <cosponsor thomas_id="01752" joined="2014-07-30"/>
+    <cosponsor thomas_id="01925" joined="2014-07-23"/>
+    <cosponsor thomas_id="00186" joined="2014-07-23"/>
+    <cosponsor thomas_id="02057" joined="2014-07-28"/>
+    <cosponsor thomas_id="00322" joined="2014-07-23"/>
+    <cosponsor thomas_id="01924" joined="2014-07-23"/>
+    <cosponsor thomas_id="02065" joined="2014-07-30"/>
+    <cosponsor thomas_id="01707" joined="2014-07-28"/>
+    <cosponsor thomas_id="01801" joined="2014-07-23"/>
+    <cosponsor thomas_id="01656" joined="2014-07-23"/>
+    <cosponsor thomas_id="01990" joined="2014-07-30"/>
+    <cosponsor thomas_id="01749" joined="2014-07-29"/>
+    <cosponsor thomas_id="00603" joined="2014-07-29"/>
+    <cosponsor thomas_id="02199" joined="2014-07-23"/>
+    <cosponsor thomas_id="00612" joined="2014-07-29"/>
+    <cosponsor thomas_id="02051" joined="2014-07-30"/>
+    <cosponsor thomas_id="02100" joined="2014-07-25"/>
+    <cosponsor thomas_id="01834" joined="2014-07-30"/>
+    <cosponsor thomas_id="01960" joined="2014-07-30"/>
+    <cosponsor thomas_id="01806" joined="2014-07-30"/>
+    <cosponsor thomas_id="01804" joined="2014-07-30"/>
+    <cosponsor thomas_id="01908" joined="2014-07-23"/>
+    <cosponsor thomas_id="01731" joined="2014-07-31"/>
+    <cosponsor thomas_id="02059" joined="2014-07-30"/>
+    <cosponsor thomas_id="01744" joined="2014-07-31"/>
+    <cosponsor thomas_id="01758" joined="2014-07-29"/>
+    <cosponsor thomas_id="01955" joined="2014-07-29"/>
+    <cosponsor thomas_id="02141" joined="2014-07-31"/>
+    <cosponsor thomas_id="01514" joined="2014-07-30"/>
+    <cosponsor thomas_id="01802" joined="2014-07-29"/>
+    <cosponsor thomas_id="01915" joined="2014-07-30"/>
+    <cosponsor thomas_id="01778" joined="2014-07-30"/>
+    <cosponsor thomas_id="00940" joined="2014-07-31"/>
+    <cosponsor thomas_id="01954" joined="2014-07-30"/>
+    <cosponsor thomas_id="00979" joined="2014-07-30"/>
+    <cosponsor thomas_id="01009" joined="2014-07-23"/>
+    <cosponsor thomas_id="01012" joined="2014-07-30"/>
+    <cosponsor thomas_id="01525" joined="2014-07-25"/>
+    <cosponsor thomas_id="01075" joined="2014-07-23"/>
+    <cosponsor thomas_id="02000" joined="2014-07-31"/>
+    <cosponsor thomas_id="02161" joined="2014-07-23"/>
+    <cosponsor thomas_id="02152" joined="2014-07-30"/>
+    <cosponsor thomas_id="02165" joined="2014-07-25"/>
+    <cosponsor thomas_id="02115" joined="2014-07-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-22" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2014-07-29">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H6984-6985"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="2631"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+  <summary>7/22/2014--Introduced.
+Prohibits any federal agency or instrumentality from using federal funding or resources to: (1) consider or adjudicate any new or previously denied application of any alien requesting consideration of deferred action for childhood arrivals, as authorized by Executive memorandum on August 15, 2012; or (2) authorize any alien to work in the United States who was not lawfully admitted into the United States and who is not in lawful status in the United States on the date of enactment of this Act.</summary>
+</bill>

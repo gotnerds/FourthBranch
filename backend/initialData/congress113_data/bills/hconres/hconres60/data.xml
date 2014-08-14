@@ -1,0 +1,82 @@
+<bill session="113" type="hc" number="60" updated="2014-08-14T13:39:06-04:00">
+  <state datetime="2013-10-11">REFERRED</state>
+  <status>
+    <introduced datetime="2013-10-11"/>
+  </status>
+  <introduced datetime="2013-10-11"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of Congress that financial institutions should work proactively with their customers affected by the shutdown of the Federal Government who may be facing short-term financial hardship and long-term damage to their creditworthiness through no fault of their own.</title>
+  </titles>
+  <sponsor thomas_id="01205"/>
+  <cosponsors>
+    <cosponsor thomas_id="02153" joined="2013-10-11"/>
+    <cosponsor thomas_id="01469" joined="2013-10-16"/>
+    <cosponsor thomas_id="01564" joined="2013-10-11"/>
+    <cosponsor thomas_id="01999" joined="2013-10-11"/>
+    <cosponsor thomas_id="01970" joined="2013-10-16"/>
+    <cosponsor thomas_id="01654" joined="2013-10-11"/>
+    <cosponsor thomas_id="01790" joined="2013-10-11"/>
+    <cosponsor thomas_id="01959" joined="2013-10-11"/>
+    <cosponsor thomas_id="00256" joined="2013-10-22"/>
+    <cosponsor thomas_id="02133" joined="2013-10-11"/>
+    <cosponsor thomas_id="01894" joined="2013-10-11"/>
+    <cosponsor thomas_id="01857" joined="2013-10-11"/>
+    <cosponsor thomas_id="02125" joined="2013-10-23"/>
+    <cosponsor thomas_id="02114" joined="2013-10-29"/>
+    <cosponsor thomas_id="00368" joined="2013-10-16"/>
+    <cosponsor thomas_id="01888" joined="2013-10-11"/>
+    <cosponsor thomas_id="01803" joined="2013-10-11"/>
+    <cosponsor thomas_id="00511" joined="2013-10-16"/>
+    <cosponsor thomas_id="02170" joined="2013-10-11"/>
+    <cosponsor thomas_id="01913" joined="2013-10-11"/>
+    <cosponsor thomas_id="01490" joined="2013-10-11"/>
+    <cosponsor thomas_id="00566" joined="2013-10-11"/>
+    <cosponsor thomas_id="00588" joined="2013-10-16"/>
+    <cosponsor thomas_id="02134" joined="2013-10-11"/>
+    <cosponsor thomas_id="01501" joined="2013-10-16"/>
+    <cosponsor thomas_id="02146" joined="2013-10-22"/>
+    <cosponsor thomas_id="01686" joined="2013-10-11"/>
+    <cosponsor thomas_id="00729" joined="2013-10-11"/>
+    <cosponsor thomas_id="01506" joined="2013-10-11"/>
+    <cosponsor thomas_id="01811" joined="2013-10-11"/>
+    <cosponsor thomas_id="00832" joined="2013-10-11"/>
+    <cosponsor thomas_id="02117" joined="2013-10-11"/>
+    <cosponsor thomas_id="00868" joined="2013-10-11"/>
+    <cosponsor thomas_id="01835" joined="2013-10-11"/>
+    <cosponsor thomas_id="00944" joined="2013-10-16"/>
+    <cosponsor thomas_id="01722" joined="2013-10-11"/>
+    <cosponsor thomas_id="01988" joined="2013-10-11"/>
+    <cosponsor thomas_id="01526" joined="2013-10-11"/>
+    <cosponsor thomas_id="01069" joined="2013-10-22"/>
+    <cosponsor thomas_id="01729" joined="2013-10-11"/>
+    <cosponsor thomas_id="01207" joined="2013-10-11"/>
+    <cosponsor thomas_id="01238" joined="2013-10-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-10-11" state="REFERRED">
+      <text>Referred to the Committee on Financial Services, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-10-11">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2013-10-11">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Appropriations"/>
+    <term name="Bank accounts, deposits, capital"/>
+    <term name="Consumer credit"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+  </subjects>
+  <amendments/>
+  <summary>10/11/2013--Introduced.
+Expresses the sense of Congress that: (1) financial institutions should work with their customers affected by the shutdown of the federal government that began on October 1, 2013; and (2) employees furloughed due to the shutdown should be compensated at their standard rate of compensation for the period beginning on such date through the date on which the lapse in appropriations ends, consistent with the principle adopted by the House when it passed H.R. 3223.</summary>
+</bill>

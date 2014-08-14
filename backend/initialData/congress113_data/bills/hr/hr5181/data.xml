@@ -1,0 +1,27 @@
+<bill session="113" type="h" number="5181" updated="2014-08-14T13:35:41-04:00">
+  <state datetime="2014-07-23">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-23"/>
+  </status>
+  <introduced datetime="2014-07-23"/>
+  <titles>
+    <title type="short" as="introduced">RECORD Act of 2014</title>
+    <title type="short" as="introduced">Retention of Electronic Correspondence Of Regulatory Decisions Act of 2014</title>
+    <title type="official" as="introduced">To amend title 44, United States Code, to require the retention of records of high level officials, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01890"/>
+  <cosponsors>
+    <cosponsor thomas_id="01956" joined="2014-07-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-23" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

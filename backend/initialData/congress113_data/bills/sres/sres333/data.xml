@@ -1,0 +1,85 @@
+<bill session="113" type="sr" number="333" updated="2014-08-14T13:42:39-04:00">
+  <state datetime="2014-02-06">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2014-02-06"/>
+  </status>
+  <introduced datetime="2014-01-16"/>
+  <titles>
+    <title type="official" as="introduced">A resolution strongly recommending that the United States renegotiate the return of the Iraqi Jewish Archive to Iraq.</title>
+  </titles>
+  <sponsor thomas_id="02085"/>
+  <cosponsors>
+    <cosponsor thomas_id="02076" joined="2014-01-16"/>
+    <cosponsor thomas_id="01464" joined="2014-02-04"/>
+    <cosponsor thomas_id="01687" joined="2014-02-04"/>
+    <cosponsor thomas_id="00116" joined="2014-01-16"/>
+    <cosponsor thomas_id="00174" joined="2014-01-16"/>
+    <cosponsor thomas_id="01828" joined="2014-01-28"/>
+    <cosponsor thomas_id="00209" joined="2014-01-28"/>
+    <cosponsor thomas_id="00212" joined="2014-02-06"/>
+    <cosponsor thomas_id="00213" joined="2014-02-06"/>
+    <cosponsor thomas_id="01541" joined="2014-02-06"/>
+    <cosponsor thomas_id="01984" joined="2014-02-06"/>
+    <cosponsor thomas_id="02175" joined="2014-02-06"/>
+    <cosponsor thomas_id="00457" joined="2014-02-06"/>
+    <cosponsor thomas_id="01351" joined="2014-01-29"/>
+    <cosponsor thomas_id="00583" joined="2014-01-27"/>
+    <cosponsor thomas_id="01899" joined="2014-02-06"/>
+    <cosponsor thomas_id="02176" joined="2014-01-16"/>
+    <cosponsor thomas_id="01647" joined="2014-01-16"/>
+    <cosponsor thomas_id="00735" joined="2014-01-29"/>
+    <cosponsor thomas_id="00791" joined="2014-01-16"/>
+    <cosponsor thomas_id="01507" joined="2014-01-27"/>
+    <cosponsor thomas_id="01837" joined="2014-01-30"/>
+    <cosponsor thomas_id="01409" joined="2014-02-06"/>
+    <cosponsor thomas_id="00859" joined="2014-02-06"/>
+    <cosponsor thomas_id="01896" joined="2014-02-04"/>
+    <cosponsor thomas_id="00968" joined="2014-01-16"/>
+    <cosponsor thomas_id="02084" joined="2014-01-16"/>
+    <cosponsor thomas_id="01036" joined="2014-01-16"/>
+    <cosponsor thomas_id="01226" joined="2014-01-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-01-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+      <reference ref="CR S447-448" label="text of measure as introduced"/>
+    </action>
+    <calendar datetime="2014-02-04" state="REPORTED">
+      <text>Committee on Foreign Relations. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="2014-02-04">
+      <text>Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report.</text>
+    </action>
+    <calendar datetime="2014-02-04" calendar="Senate Legislative" under="General Orders" number="303">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 303.</text>
+    </calendar>
+    <vote how="by Unanimous Consent" type="vote" datetime="2014-02-06" where="s" result="pass" state="PASSED:SIMPLERES">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S834" label="consideration"/>
+    </vote>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFR" name="Senate Foreign Relations" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="113" relation="unknown" number="505"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Government information and archives"/>
+    <term name="Historical and cultural resources"/>
+    <term name="Human rights"/>
+    <term name="International law and treaties"/>
+    <term name="Iraq"/>
+    <term name="Middle East"/>
+    <term name="National Archives and Records Administration"/>
+    <term name="Religion"/>
+  </subjects>
+  <amendments/>
+  <summary>2/6/2014--Passed Senate without amendment.
+Urges the Department of State to renegotiate with the government of Iraq the provisions of the original agreement that was signed between the National Archives and Records Administration and the Coalition Provisional Authority in order to ensure that the Iraqi Jewish Archive be kept in a place where its long-term preservation can be guaranteed.
+
+ Recognizes that: (1) the Iraqi Jewish Archive should be housed in a location that is accessible to scholars and to Iraqi Jews and their descendants, and (2) the agreement was signed before knowing the Archive's complete history.
+
+Reaffirms the U.S. commitment to cultural property under international law and to ensuring justice for victims of ethnic and religious persecution.</summary>
+</bill>

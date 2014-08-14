@@ -1,0 +1,41 @@
+<bill session="113" type="s" number="2512" updated="2014-08-14T14:06:14-04:00">
+  <state datetime="2014-06-23">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-23"/>
+  </status>
+  <introduced datetime="2014-06-23"/>
+  <titles>
+    <title type="short" as="introduced">Emergency Interstate Bridge Safety Fund Act</title>
+    <title type="official" as="introduced">A bill to establish an emergency transportation safety fund for the reconstruction of bridges along the Interstate Highway System, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01395"/>
+  <cosponsors>
+    <cosponsor thomas_id="02082" joined="2014-06-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-23">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S3899"/>
+    </action>
+    <action datetime="2014-06-23" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <reference ref="CR S3899" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Congressional oversight"/>
+    <term name="Government trust funds"/>
+    <term name="Labor standards"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Roads and highways"/>
+    <term name="Transportation programs funding"/>
+    <term name="Transportation safety and security"/>
+    <term name="Wages and earnings"/>
+  </subjects>
+  <amendments/>
+</bill>

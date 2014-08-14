@@ -1,0 +1,80 @@
+<bill session="113" type="hr" number="200" updated="2014-08-14T12:46:20-04:00">
+  <state datetime="2013-05-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-06"/>
+  </status>
+  <introduced datetime="2013-05-06"/>
+  <titles>
+    <title type="official" as="introduced">Reaffirming the United States' commitment to the economic and military security of the Republic of Korea and expressing the shared vision of the people of the United States and the people of the Republic of Korea for a prosperous and peaceful Asian community on the occasion of the 60th anniversary of the Mutual Defense Treaty between the United States and the Republic of Korea.</title>
+  </titles>
+  <sponsor thomas_id="02148"/>
+  <cosponsors>
+    <cosponsor thomas_id="02135" joined="2013-05-15"/>
+    <cosponsor thomas_id="01838" joined="2013-05-07"/>
+    <cosponsor thomas_id="01723" joined="2013-05-07"/>
+    <cosponsor thomas_id="01970" joined="2013-05-07"/>
+    <cosponsor thomas_id="01959" joined="2013-05-07"/>
+    <cosponsor thomas_id="02103" joined="2013-05-09"/>
+    <cosponsor thomas_id="02144" joined="2013-05-09"/>
+    <cosponsor thomas_id="01604" joined="2013-05-07"/>
+    <cosponsor thomas_id="00344" joined="2013-05-07"/>
+    <cosponsor thomas_id="00367" joined="2013-05-07"/>
+    <cosponsor thomas_id="02119" joined="2013-05-07"/>
+    <cosponsor thomas_id="01634" joined="2013-05-09"/>
+    <cosponsor thomas_id="01663" joined="2013-05-21"/>
+    <cosponsor thomas_id="00588" joined="2013-05-07"/>
+    <cosponsor thomas_id="02051" joined="2013-05-06"/>
+    <cosponsor thomas_id="02014" joined="2013-05-07"/>
+    <cosponsor thomas_id="01733" joined="2013-05-15"/>
+    <cosponsor thomas_id="01675" joined="2013-05-09"/>
+    <cosponsor thomas_id="02111" joined="2013-05-09"/>
+    <cosponsor thomas_id="02130" joined="2013-05-09"/>
+    <cosponsor thomas_id="01953" joined="2013-05-07"/>
+    <cosponsor thomas_id="02022" joined="2013-05-07"/>
+    <cosponsor thomas_id="00944" joined="2013-05-09"/>
+    <cosponsor thomas_id="01982" joined="2013-05-09"/>
+    <cosponsor thomas_id="01848" joined="2013-05-13"/>
+    <cosponsor thomas_id="01962" joined="2013-05-13"/>
+    <cosponsor thomas_id="01009" joined="2013-05-07"/>
+    <cosponsor thomas_id="01522" joined="2013-05-07"/>
+    <cosponsor thomas_id="01920" joined="2013-05-13"/>
+    <cosponsor thomas_id="01798" joined="2013-05-09"/>
+    <cosponsor thomas_id="01114" joined="2013-05-07"/>
+    <cosponsor thomas_id="02110" joined="2013-05-21"/>
+    <cosponsor thomas_id="02161" joined="2013-05-07"/>
+    <cosponsor thomas_id="01238" joined="2013-05-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-06" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2013-06-07">
+      <text>Referred to the Subcommittee on Asia and the Pacific.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee subcommittee="Asia and the Pacific" code="HSFA05" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Alliances"/>
+    <term name="Asia"/>
+    <term name="Congressional tributes"/>
+    <term name="Cultural exchanges and relations"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Free trade and trade barriers"/>
+    <term name="Military assistance, sales, and agreements"/>
+    <term name="North Korea"/>
+    <term name="South Korea"/>
+    <term name="Trade agreements and negotiations"/>
+  </subjects>
+  <amendments/>
+  <summary>5/6/2013--Introduced.
+Expresses the sense of the House of Representatives that the relationship between the Republic of Korea (South Korea) and the United States is one of great strength and mutual benefit.
+
+ Affirms the support of the people of the United States for a secure Republic of Korea through its commitment to the Mutual Defense Treaty and other measures to deter North Korean aggression.
+
+Congratulates President Park Geun-Hye on her historic election to the presidency of the Republic of Korea.</summary>
+</bill>

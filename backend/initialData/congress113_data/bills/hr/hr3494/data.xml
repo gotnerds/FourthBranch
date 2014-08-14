@@ -1,0 +1,144 @@
+<bill session="113" type="h" number="3494" updated="2014-08-14T13:21:17-04:00">
+  <state datetime="2013-11-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-11-14"/>
+  </status>
+  <introduced datetime="2013-11-14"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 23, United States Code, with respect to the establishment of performance measures for the highway safety improvement program, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00099"/>
+  <cosponsors>
+    <cosponsor thomas_id="00091" joined="2014-05-28"/>
+    <cosponsor thomas_id="02092" joined="2014-02-27"/>
+    <cosponsor thomas_id="02106" joined="2013-12-04"/>
+    <cosponsor thomas_id="02127" joined="2013-12-11"/>
+    <cosponsor thomas_id="01761" joined="2014-07-07"/>
+    <cosponsor thomas_id="01471" joined="2014-02-25"/>
+    <cosponsor thomas_id="01564" joined="2013-12-04"/>
+    <cosponsor thomas_id="01999" joined="2014-03-24"/>
+    <cosponsor thomas_id="01889" joined="2014-04-28"/>
+    <cosponsor thomas_id="02055" joined="2014-03-13"/>
+    <cosponsor thomas_id="02196" joined="2014-02-27"/>
+    <cosponsor thomas_id="01790" joined="2014-02-03"/>
+    <cosponsor thomas_id="00211" joined="2013-11-14"/>
+    <cosponsor thomas_id="01878" joined="2013-12-09"/>
+    <cosponsor thomas_id="01959" joined="2013-12-04"/>
+    <cosponsor thomas_id="01604" joined="2014-03-24"/>
+    <cosponsor thomas_id="00256" joined="2014-04-28"/>
+    <cosponsor thomas_id="00279" joined="2013-11-14"/>
+    <cosponsor thomas_id="02096" joined="2013-12-04"/>
+    <cosponsor thomas_id="00316" joined="2013-12-12"/>
+    <cosponsor thomas_id="01857" joined="2014-01-03"/>
+    <cosponsor thomas_id="02125" joined="2014-03-11"/>
+    <cosponsor thomas_id="02114" joined="2014-05-07"/>
+    <cosponsor thomas_id="00368" joined="2014-02-03"/>
+    <cosponsor thomas_id="00371" joined="2014-07-22"/>
+    <cosponsor thomas_id="01793" joined="2014-03-24"/>
+    <cosponsor thomas_id="01888" joined="2014-05-02"/>
+    <cosponsor thomas_id="00414" joined="2014-04-01"/>
+    <cosponsor thomas_id="01973" joined="2014-02-14"/>
+    <cosponsor thomas_id="02043" joined="2014-03-06"/>
+    <cosponsor thomas_id="01708" joined="2014-01-29"/>
+    <cosponsor thomas_id="00511" joined="2014-05-07"/>
+    <cosponsor thomas_id="01913" joined="2014-03-24"/>
+    <cosponsor thomas_id="01580" joined="2014-01-27"/>
+    <cosponsor thomas_id="01634" joined="2014-01-10"/>
+    <cosponsor thomas_id="02101" joined="2013-12-04"/>
+    <cosponsor thomas_id="02025" joined="2014-02-03"/>
+    <cosponsor thomas_id="02172" joined="2014-04-04"/>
+    <cosponsor thomas_id="02169" joined="2014-05-07"/>
+    <cosponsor thomas_id="02145" joined="2014-02-03"/>
+    <cosponsor thomas_id="01668" joined="2014-04-01"/>
+    <cosponsor thomas_id="01675" joined="2013-12-04"/>
+    <cosponsor thomas_id="01501" joined="2014-01-29"/>
+    <cosponsor thomas_id="00699" joined="2014-04-28"/>
+    <cosponsor thomas_id="01846" joined="2014-04-10"/>
+    <cosponsor thomas_id="00701" joined="2013-12-11"/>
+    <cosponsor thomas_id="02111" joined="2014-01-29"/>
+    <cosponsor thomas_id="02146" joined="2014-04-28"/>
+    <cosponsor thomas_id="01939" joined="2013-12-04"/>
+    <cosponsor thomas_id="01671" joined="2014-03-11"/>
+    <cosponsor thomas_id="01814" joined="2014-03-06"/>
+    <cosponsor thomas_id="01804" joined="2013-11-14"/>
+    <cosponsor thomas_id="01653" joined="2014-01-13"/>
+    <cosponsor thomas_id="00766" joined="2014-01-29"/>
+    <cosponsor thomas_id="01504" joined="2013-12-09"/>
+    <cosponsor thomas_id="02074" joined="2013-12-11"/>
+    <cosponsor thomas_id="01832" joined="2014-05-09"/>
+    <cosponsor thomas_id="01730" joined="2013-12-09"/>
+    <cosponsor thomas_id="01811" joined="2014-03-13"/>
+    <cosponsor thomas_id="00832" joined="2013-12-04"/>
+    <cosponsor thomas_id="00850" joined="2013-12-04"/>
+    <cosponsor thomas_id="01602" joined="2014-04-28"/>
+    <cosponsor thomas_id="00854" joined="2014-03-24"/>
+    <cosponsor thomas_id="02108" joined="2014-07-31"/>
+    <cosponsor thomas_id="00867" joined="2014-05-20"/>
+    <cosponsor thomas_id="00868" joined="2013-12-19"/>
+    <cosponsor thomas_id="02162" joined="2014-01-10"/>
+    <cosponsor thomas_id="01974" joined="2013-12-11"/>
+    <cosponsor thomas_id="01835" joined="2014-07-15"/>
+    <cosponsor thomas_id="02113" joined="2014-01-10"/>
+    <cosponsor thomas_id="00910" joined="2014-04-01"/>
+    <cosponsor thomas_id="01927" joined="2013-12-04"/>
+    <cosponsor thomas_id="02171" joined="2013-11-21"/>
+    <cosponsor thomas_id="01910" joined="2013-12-09"/>
+    <cosponsor thomas_id="00930" joined="2014-01-03"/>
+    <cosponsor thomas_id="01967" joined="2014-03-13"/>
+    <cosponsor thomas_id="00944" joined="2014-05-20"/>
+    <cosponsor thomas_id="01848" joined="2014-01-08"/>
+    <cosponsor thomas_id="01588" joined="2013-12-09"/>
+    <cosponsor thomas_id="01635" joined="2014-01-27"/>
+    <cosponsor thomas_id="02124" joined="2014-01-13"/>
+    <cosponsor thomas_id="01037" joined="2014-03-13"/>
+    <cosponsor thomas_id="01861" joined="2014-03-24"/>
+    <cosponsor thomas_id="01818" joined="2013-11-21"/>
+    <cosponsor thomas_id="01069" joined="2014-03-11"/>
+    <cosponsor thomas_id="01528" joined="2013-12-16"/>
+    <cosponsor thomas_id="01890" joined="2014-01-27"/>
+    <cosponsor thomas_id="02110" joined="2014-04-28"/>
+    <cosponsor thomas_id="01535" joined="2013-12-04"/>
+    <cosponsor thomas_id="01940" joined="2013-11-21"/>
+    <cosponsor thomas_id="01942" joined="2014-03-24"/>
+    <cosponsor thomas_id="01884" joined="2014-01-10"/>
+    <cosponsor thomas_id="01729" joined="2013-12-11"/>
+    <cosponsor thomas_id="02166" joined="2014-04-01"/>
+    <cosponsor thomas_id="02167" joined="2013-12-04"/>
+    <cosponsor thomas_id="01856" joined="2014-01-15"/>
+    <cosponsor thomas_id="01209" joined="2014-01-03"/>
+    <cosponsor thomas_id="01256" joined="2014-07-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-11-14">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1667"/>
+    </action>
+    <action datetime="2013-11-14" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2013-11-15">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Highways and Transit" code="HSPW12" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="1708"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Department of Transportation"/>
+    <term name="Performance measurement"/>
+    <term name="Roads and highways"/>
+    <term name="Transportation programs funding"/>
+    <term name="Transportation safety and security"/>
+  </subjects>
+  <amendments/>
+  <summary>11/14/2013--Introduced.
+Revises the highway safety improvement program.
+
+Directs the Secretary of Transportation (DOT), under the highway safety improvement program, to establish performance measures for states to use to assess significant reductions in the number of serious injuries and fatalities (as under current law) specifically for both motorized and nonmotorized transportation.</summary>
+</bill>

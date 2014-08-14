@@ -1,0 +1,49 @@
+<bill session="113" type="h" number="5156" updated="2014-08-14T13:35:28-04:00">
+  <state datetime="2014-07-17">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-17"/>
+  </status>
+  <introduced datetime="2014-07-17"/>
+  <titles>
+    <title type="short" as="introduced">Wildlife Disease Emergency Act of 2014</title>
+    <title type="official" as="introduced">To authorize the Secretary of the Interior to identify and declare wildlife disease emergencies and to coordinate rapid response to these emergencies, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01861"/>
+  <cosponsors>
+    <cosponsor thomas_id="02159" joined="2014-07-31"/>
+    <cosponsor thomas_id="00279" joined="2014-07-17"/>
+    <cosponsor thomas_id="00867" joined="2014-07-25"/>
+    <cosponsor thomas_id="00868" joined="2014-07-25"/>
+    <cosponsor thomas_id="01635" joined="2014-07-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-17" state="REFERRED">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committees on Agriculture, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-07-17">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2014-07-17">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2014-07-17">
+      <text>Referred to House Budget</text>
+    </action>
+    <action datetime="2014-07-25">
+      <text>Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.</text>
+    </action>
+    <action datetime="2014-08-11">
+      <text>Referred to the Subcommittee on Livestock, Rural Development, and Credit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Fisheries, Wildlife, Oceans, and Insular Affairs" code="HSII22" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="" code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee subcommittee="Livestock, Rural Development, and Credit" code="HSAG29" name="House Agriculture" activity="Referral"/>
+    <committee subcommittee="" code="HSBU" name="House Budget" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

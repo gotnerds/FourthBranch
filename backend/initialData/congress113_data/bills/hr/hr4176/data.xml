@@ -1,0 +1,64 @@
+<bill session="113" type="h" number="4176" updated="2014-08-14T13:27:02-04:00">
+  <state datetime="2014-03-06">REFERRED</state>
+  <status>
+    <introduced datetime="2014-03-06"/>
+  </status>
+  <introduced datetime="2014-03-06"/>
+  <titles>
+    <title type="short" as="introduced">Science Laureates of the United States Act of 2014</title>
+    <title type="official" as="introduced">To establish a position of Science Laureate of the United States.</title>
+  </titles>
+  <sponsor thomas_id="00701"/>
+  <cosponsors>
+    <cosponsor thomas_id="02092" joined="2014-03-06"/>
+    <cosponsor thomas_id="01564" joined="2014-03-06"/>
+    <cosponsor thomas_id="02107" joined="2014-03-06"/>
+    <cosponsor thomas_id="02151" joined="2014-03-06"/>
+    <cosponsor thomas_id="02133" joined="2014-03-06"/>
+    <cosponsor thomas_id="02114" joined="2014-03-06"/>
+    <cosponsor thomas_id="01708" joined="2014-03-06"/>
+    <cosponsor thomas_id="00599" joined="2014-03-06"/>
+    <cosponsor thomas_id="02172" joined="2014-03-06"/>
+    <cosponsor thomas_id="02145" joined="2014-03-06"/>
+    <cosponsor thomas_id="00688" joined="2014-03-06"/>
+    <cosponsor thomas_id="01781" joined="2014-03-06"/>
+    <cosponsor thomas_id="01730" joined="2014-03-06"/>
+    <cosponsor thomas_id="02113" joined="2014-03-06"/>
+    <cosponsor thomas_id="01910" joined="2014-03-06"/>
+    <cosponsor thomas_id="01861" joined="2014-03-06"/>
+    <cosponsor thomas_id="01069" joined="2014-03-06"/>
+    <cosponsor thomas_id="02110" joined="2014-03-06"/>
+    <cosponsor thomas_id="02166" joined="2014-03-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-03-06" state="REFERRED">
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="2014-03-11">
+      <text>Referred to the Subcommittee on Research and Technology.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+    <committee subcommittee="Research and Technology" code="HSSY15" name="House Science, Space, and Technology" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="1891"/>
+    <bill type="s" session="113" relation="unknown" number="899"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="General science and technology matters"/>
+    <term name="Research administration and funding"/>
+    <term name="Science and engineering education"/>
+  </subjects>
+  <amendments/>
+  <summary>3/6/2014--Introduced.
+Science Laureates of the United States Act of 2014 - Establishes the position of Science Laureate of the United States.
+
+Requires the National Academy of Sciences (NAS) to appoint a Science Laureate on the basis of merit, particularly the ability of such individual to foster and enhance public awareness and interest in science and to provide ongoing significant scientific contributions.
+
+Encourages each Science Laureate to continue his or her scientific work and directs the NAS to facilitate his or her duties.
+
+Limits the term of a Science Laureate to one year.</summary>
+</bill>

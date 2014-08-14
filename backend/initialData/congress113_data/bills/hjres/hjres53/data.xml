@@ -1,0 +1,40 @@
+<bill session="113" type="hj" number="53" updated="2014-08-14T13:38:00-04:00">
+  <state datetime="2013-07-24">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-24"/>
+  </status>
+  <introduced datetime="2013-07-24"/>
+  <titles>
+    <title type="official" as="introduced">Proposing an amendment to the Constitution of the United States regarding the effect of treaties, Executive orders, and agreements with other nations or groups of nations.</title>
+  </titles>
+  <sponsor thomas_id="01670"/>
+  <cosponsors>
+    <cosponsor thomas_id="01753" joined="2013-07-24"/>
+    <cosponsor thomas_id="02058" joined="2013-07-24"/>
+    <cosponsor thomas_id="00603" joined="2013-07-24"/>
+    <cosponsor thomas_id="02059" joined="2013-07-24"/>
+    <cosponsor thomas_id="01778" joined="2013-07-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-24" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-09-13">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Constitution and Civil Justice" code="HSJU10" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+    <term name="Constitution and constitutional amendments"/>
+    <term name="International law and treaties"/>
+    <term name="Judicial procedure and administration"/>
+  </subjects>
+  <amendments/>
+  <summary>7/24/2013--Introduced.
+Constitutional Amendment - States that no treaty, executive order, or any agreement with any nation or group of nations or any of the provisions of such agreements, shall be construed to diminish any of the rights or privileges guaranteed to U.S. citizens under the Constitution and federal law.</summary>
+</bill>

@@ -1,0 +1,115 @@
+<bill session="113" type="h" number="2146" updated="2014-08-14T13:09:36-04:00">
+  <state datetime="2013-05-23">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-23"/>
+  </status>
+  <introduced datetime="2013-05-23"/>
+  <titles>
+    <title type="short" as="introduced">Terrorism Risk Insurance Program Reauthorization Act of 2013</title>
+    <title type="official" as="introduced">To extend the Terrorism Risk Insurance Program of the Department of the Treasury for 10 years.</title>
+  </titles>
+  <sponsor thomas_id="01564"/>
+  <cosponsors>
+    <cosponsor thomas_id="02153" joined="2013-05-23"/>
+    <cosponsor thomas_id="01740" joined="2014-04-29"/>
+    <cosponsor thomas_id="02127" joined="2014-07-31"/>
+    <cosponsor thomas_id="02107" joined="2014-04-29"/>
+    <cosponsor thomas_id="01999" joined="2013-09-19"/>
+    <cosponsor thomas_id="01889" joined="2013-05-23"/>
+    <cosponsor thomas_id="02159" joined="2014-05-08"/>
+    <cosponsor thomas_id="02196" joined="2014-05-01"/>
+    <cosponsor thomas_id="01654" joined="2013-05-23"/>
+    <cosponsor thomas_id="01790" joined="2013-09-17"/>
+    <cosponsor thomas_id="01836" joined="2013-09-18"/>
+    <cosponsor thomas_id="01604" joined="2013-06-18"/>
+    <cosponsor thomas_id="00256" joined="2014-04-09"/>
+    <cosponsor thomas_id="00281" joined="2014-05-27"/>
+    <cosponsor thomas_id="01857" joined="2013-09-18"/>
+    <cosponsor thomas_id="02114" joined="2014-04-29"/>
+    <cosponsor thomas_id="01888" joined="2013-06-04"/>
+    <cosponsor thomas_id="01803" joined="2013-09-18"/>
+    <cosponsor thomas_id="02170" joined="2013-05-23"/>
+    <cosponsor thomas_id="01913" joined="2013-08-02"/>
+    <cosponsor thomas_id="01490" joined="2013-05-23"/>
+    <cosponsor thomas_id="01580" joined="2014-03-27"/>
+    <cosponsor thomas_id="02147" joined="2014-05-20"/>
+    <cosponsor thomas_id="02101" joined="2014-04-09"/>
+    <cosponsor thomas_id="01663" joined="2013-06-27"/>
+    <cosponsor thomas_id="01843" joined="2014-05-01"/>
+    <cosponsor thomas_id="02025" joined="2013-05-23"/>
+    <cosponsor thomas_id="02172" joined="2013-05-23"/>
+    <cosponsor thomas_id="02134" joined="2013-09-19"/>
+    <cosponsor thomas_id="02169" joined="2014-04-08"/>
+    <cosponsor thomas_id="00635" joined="2013-05-23"/>
+    <cosponsor thomas_id="01668" joined="2014-07-31"/>
+    <cosponsor thomas_id="01583" joined="2013-09-09"/>
+    <cosponsor thomas_id="01781" joined="2014-05-08"/>
+    <cosponsor thomas_id="01846" joined="2013-08-02"/>
+    <cosponsor thomas_id="00709" joined="2013-11-20"/>
+    <cosponsor thomas_id="01939" joined="2014-04-09"/>
+    <cosponsor thomas_id="01686" joined="2013-05-23"/>
+    <cosponsor thomas_id="00729" joined="2013-06-04"/>
+    <cosponsor thomas_id="00735" joined="2013-05-23"/>
+    <cosponsor thomas_id="01671" joined="2014-04-29"/>
+    <cosponsor thomas_id="01503" joined="2013-05-23"/>
+    <cosponsor thomas_id="01504" joined="2013-05-23"/>
+    <cosponsor thomas_id="01505" joined="2014-04-29"/>
+    <cosponsor thomas_id="01506" joined="2013-05-23"/>
+    <cosponsor thomas_id="02148" joined="2013-05-23"/>
+    <cosponsor thomas_id="01811" joined="2013-05-23"/>
+    <cosponsor thomas_id="02117" joined="2013-07-24"/>
+    <cosponsor thomas_id="00850" joined="2013-05-23"/>
+    <cosponsor thomas_id="01602" joined="2014-04-08"/>
+    <cosponsor thomas_id="00868" joined="2014-04-09"/>
+    <cosponsor thomas_id="01974" joined="2013-07-17"/>
+    <cosponsor thomas_id="01510" joined="2014-04-29"/>
+    <cosponsor thomas_id="01835" joined="2013-09-18"/>
+    <cosponsor thomas_id="01929" joined="2013-09-18"/>
+    <cosponsor thomas_id="02113" joined="2014-06-11"/>
+    <cosponsor thomas_id="02171" joined="2014-04-29"/>
+    <cosponsor thomas_id="00944" joined="2013-05-23"/>
+    <cosponsor thomas_id="02023" joined="2014-04-09"/>
+    <cosponsor thomas_id="01728" joined="2014-04-09"/>
+    <cosponsor thomas_id="01003" joined="2014-04-09"/>
+    <cosponsor thomas_id="02124" joined="2013-07-24"/>
+    <cosponsor thomas_id="01722" joined="2013-09-19"/>
+    <cosponsor thomas_id="01988" joined="2013-09-18"/>
+    <cosponsor thomas_id="01526" joined="2014-04-08"/>
+    <cosponsor thomas_id="02099" joined="2013-05-23"/>
+    <cosponsor thomas_id="01069" joined="2013-06-04"/>
+    <cosponsor thomas_id="01729" joined="2014-04-08"/>
+    <cosponsor thomas_id="02112" joined="2014-05-27"/>
+    <cosponsor thomas_id="01856" joined="2014-04-29"/>
+    <cosponsor thomas_id="01205" joined="2013-05-23"/>
+    <cosponsor thomas_id="01207" joined="2013-05-23"/>
+    <cosponsor thomas_id="01879" joined="2013-09-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-23" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="1945"/>
+    <bill type="h" session="113" relation="unknown" number="4871"/>
+    <bill type="s" session="113" relation="unknown" number="2244"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Congressional oversight"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Insurance industry and regulation"/>
+    <term name="Life, casualty, property insurance"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+  <summary>5/23/2013--Introduced.
+Terrorism Risk Insurance Program Reauthorization Act of 2013 - Amends the Terrorism Risk Insurance Act of 2002 to extend from December 31, 2014, through December 31, 2024, the Terrorism Risk Insurance program.
+
+Extends to September 30, 2027, the deadline by which the Secretary of the Treasury is required to collect all mandatory premiums for any act of terrorism occurring on or after January 1, 2012.
+
+Requires reports in 2017, 2020, and 2023 on the findings of the President's Working Group on Financial Markets pursuant to an ongoing analysis regarding the long-term availability and affordability of (market conditions for) terrorism risk insurance.</summary>
+</bill>

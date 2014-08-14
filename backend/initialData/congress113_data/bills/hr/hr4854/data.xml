@@ -1,0 +1,67 @@
+<bill session="113" type="h" number="4854" updated="2014-08-14T13:32:52-04:00">
+  <state datetime="2014-07-16">REPORTED</state>
+  <status>
+    <unknown datetime="2014-07-16"/>
+  </status>
+  <introduced datetime="2014-06-12"/>
+  <titles>
+    <title type="short" as="introduced">Regulatory Certainty Act of 2014</title>
+    <title type="official" as="introduced">To amend the Federal Water Pollution Control Act to clarify when the Administrator of the Environmental Protection Agency has the authority to prohibit the specification of a defined area, or deny or restrict the use of a defined area for specification, as a disposal site under section 404 of such Act, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02049"/>
+  <cosponsors>
+    <cosponsor thomas_id="02054" joined="2014-07-16"/>
+    <cosponsor thomas_id="02018" joined="2014-06-12"/>
+    <cosponsor thomas_id="01676" joined="2014-06-12"/>
+    <cosponsor thomas_id="02098" joined="2014-07-11"/>
+    <cosponsor thomas_id="02144" joined="2014-06-12"/>
+    <cosponsor thomas_id="02126" joined="2014-07-15"/>
+    <cosponsor thomas_id="01992" joined="2014-07-11"/>
+    <cosponsor thomas_id="02020" joined="2014-06-12"/>
+    <cosponsor thomas_id="02199" joined="2014-07-11"/>
+    <cosponsor thomas_id="00612" joined="2014-06-12"/>
+    <cosponsor thomas_id="01960" joined="2014-06-12"/>
+    <cosponsor thomas_id="02053" joined="2014-06-12"/>
+    <cosponsor thomas_id="02094" joined="2014-06-12"/>
+    <cosponsor thomas_id="02074" joined="2014-06-12"/>
+    <cosponsor thomas_id="02157" joined="2014-06-12"/>
+    <cosponsor thomas_id="00940" joined="2014-06-12"/>
+    <cosponsor thomas_id="02073" joined="2014-06-12"/>
+    <cosponsor thomas_id="02017" joined="2014-07-11"/>
+    <cosponsor thomas_id="02000" joined="2014-06-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-12" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2014-06-13">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+    <action datetime="2014-07-16">
+      <text>Subcommittee on Water Resources and Environment Discharged.</text>
+    </action>
+    <action datetime="2014-07-16">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-07-16" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 33 - 22.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup"/>
+    <committee subcommittee="Water Resources and Environment" code="HSPW02" name="House Transportation and Infrastructure" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Department of Defense"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Licensing and registrations"/>
+    <term name="Navigation, waterways, harbors"/>
+    <term name="Solid waste and recycling"/>
+    <term name="Water quality"/>
+  </subjects>
+  <amendments/>
+</bill>

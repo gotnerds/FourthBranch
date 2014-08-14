@@ -1,0 +1,41 @@
+<bill session="113" type="s" number="702" updated="2014-08-14T13:50:43-04:00">
+  <state datetime="2013-04-10">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-10"/>
+  </status>
+  <introduced datetime="2013-04-10"/>
+  <titles>
+    <title type="official" as="introduced">A bill to designate the Quinebaug and Shetucket Rivers Valley National Heritage Corridor as "The Last Green Valley National Heritage Corridor".</title>
+  </titles>
+  <sponsor thomas_id="02076"/>
+  <cosponsors>
+    <cosponsor thomas_id="02189" joined="2013-04-10"/>
+    <cosponsor thomas_id="01837" joined="2013-04-10"/>
+    <cosponsor thomas_id="02182" joined="2013-04-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-10" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="2013-07-31">
+      <text>Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 113-93.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+    <committee subcommittee="National Parks" code="SSEG04" name="Senate Energy and Natural Resources" activity="Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="1471"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Connecticut"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Massachusetts"/>
+    <term name="Watersheds"/>
+  </subjects>
+  <amendments/>
+  <summary>4/10/2013--Introduced.
+Renames the Quinebaug and Shetucket Rivers Valley National Heritage Corridor in Connecticut and Massachusetts as the Last Green Valley National Heritage Corridor.</summary>
+</bill>

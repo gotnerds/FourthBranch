@@ -1,0 +1,31 @@
+<bill session="113" type="h" number="5243" updated="2014-08-14T13:36:15-04:00">
+  <state datetime="2014-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-29"/>
+  </status>
+  <introduced datetime="2014-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Let Seniors Work Act of 2014</title>
+    <title type="official" as="introduced">To eliminate the payroll tax for individuals who have attained retirement age, to amend title II of the Social Security Act to remove the limitation upon the amount of outside income which an individual may earn while receiving benefits under such title, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02116"/>
+  <cosponsors>
+    <cosponsor thomas_id="01643" joined="2014-07-31"/>
+    <cosponsor thomas_id="01707" joined="2014-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="174"/>
+    <bill type="h" session="113" relation="unknown" number="387"/>
+    <bill type="s" session="113" relation="identical" number="2336"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,46 @@
+<bill session="113" type="hr" number="357" updated="2014-08-14T12:47:40-04:00">
+  <state datetime="2013-09-25">REFERRED</state>
+  <status>
+    <introduced datetime="2013-09-25"/>
+  </status>
+  <introduced datetime="2013-09-25"/>
+  <titles>
+    <title type="official" as="introduced">Supporting the goals and ideals of National Historically Black Colleges and Universities Week.</title>
+  </titles>
+  <sponsor thomas_id="00599"/>
+  <cosponsors>
+    <cosponsor thomas_id="01864" joined="2013-09-25"/>
+    <cosponsor thomas_id="01477" joined="2013-09-25"/>
+    <cosponsor thomas_id="00322" joined="2013-09-25"/>
+    <cosponsor thomas_id="01895" joined="2013-09-25"/>
+    <cosponsor thomas_id="00511" joined="2013-09-25"/>
+    <cosponsor thomas_id="01501" joined="2013-09-25"/>
+    <cosponsor thomas_id="00944" joined="2013-09-25"/>
+    <cosponsor thomas_id="01037" joined="2013-09-25"/>
+    <cosponsor thomas_id="02000" joined="2013-11-14"/>
+    <cosponsor thomas_id="01205" joined="2013-09-25"/>
+    <cosponsor thomas_id="02004" joined="2013-09-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-25" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2013-09-26">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H5842"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Higher education"/>
+    <term name="Minority education"/>
+  </subjects>
+  <amendments/>
+  <summary>9/25/2013--Introduced.
+Expresses the House of Representatives' support for the goals and ideals of National Historically Black Colleges and Universities Week.</summary>
+</bill>

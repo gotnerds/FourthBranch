@@ -1,0 +1,73 @@
+<bill session="113" type="h" number="5101" updated="2014-08-14T13:35:01-04:00">
+  <state datetime="2014-07-14">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-14"/>
+  </status>
+  <introduced datetime="2014-07-14"/>
+  <titles>
+    <title type="short" as="introduced">National Freight Network Trust Fund Act of 2014</title>
+    <title type="official" as="introduced">To establish a National Freight Network Trust Fund to improve the performance of the national freight network, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02089"/>
+  <cosponsors>
+    <cosponsor thomas_id="00132" joined="2014-07-30"/>
+    <cosponsor thomas_id="02106" joined="2014-07-24"/>
+    <cosponsor thomas_id="01564" joined="2014-07-24"/>
+    <cosponsor thomas_id="02107" joined="2014-07-24"/>
+    <cosponsor thomas_id="02159" joined="2014-07-29"/>
+    <cosponsor thomas_id="01970" joined="2014-07-24"/>
+    <cosponsor thomas_id="02055" joined="2014-07-24"/>
+    <cosponsor thomas_id="01774" joined="2014-07-24"/>
+    <cosponsor thomas_id="01857" joined="2014-07-30"/>
+    <cosponsor thomas_id="00368" joined="2014-07-24"/>
+    <cosponsor thomas_id="01895" joined="2014-07-14"/>
+    <cosponsor thomas_id="01973" joined="2014-07-24"/>
+    <cosponsor thomas_id="01914" joined="2014-07-24"/>
+    <cosponsor thomas_id="00462" joined="2014-07-14"/>
+    <cosponsor thomas_id="00511" joined="2014-07-24"/>
+    <cosponsor thomas_id="01490" joined="2014-07-24"/>
+    <cosponsor thomas_id="01634" joined="2014-07-24"/>
+    <cosponsor thomas_id="00588" joined="2014-07-24"/>
+    <cosponsor thomas_id="00599" joined="2014-07-24"/>
+    <cosponsor thomas_id="02190" joined="2014-07-24"/>
+    <cosponsor thomas_id="01501" joined="2014-07-31"/>
+    <cosponsor thomas_id="00701" joined="2014-07-24"/>
+    <cosponsor thomas_id="02111" joined="2014-07-14"/>
+    <cosponsor thomas_id="01832" joined="2014-07-31"/>
+    <cosponsor thomas_id="00808" joined="2014-07-24"/>
+    <cosponsor thomas_id="00832" joined="2014-07-24"/>
+    <cosponsor thomas_id="01602" joined="2014-07-24"/>
+    <cosponsor thomas_id="02108" joined="2014-07-24"/>
+    <cosponsor thomas_id="00867" joined="2014-07-14"/>
+    <cosponsor thomas_id="02113" joined="2014-07-24"/>
+    <cosponsor thomas_id="01802" joined="2014-07-14"/>
+    <cosponsor thomas_id="02023" joined="2014-07-14"/>
+    <cosponsor thomas_id="01003" joined="2014-07-14"/>
+    <cosponsor thomas_id="02104" joined="2014-07-24"/>
+    <cosponsor thomas_id="02110" joined="2014-07-30"/>
+    <cosponsor thomas_id="02112" joined="2014-07-24"/>
+    <cosponsor thomas_id="01209" joined="2014-07-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-14">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1149-1150"/>
+    </action>
+    <action datetime="2014-07-14" state="REFERRED">
+      <text>Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-07-14">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2014-07-14">
+      <text>Referred to House Ways and Means</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,70 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-31", 
+      "committees": [
+        "SSRA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Rules and Administration.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2751-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Rules and Administration", 
+      "committee_id": "SSRA"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-07-31", 
+  "number": "2751", 
+  "official_title": "A bill to provide payments to States for activities to expand early voting access, provide for an equitable distribution of early voting polling locations, including early voting polling locations on Indian tribal land, and to implement voter registration reforms for elections for Federal office, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Rural and Tribal Voter Rights Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Walsh, John E.", 
+    "state": "MT", 
+    "thomas_id": "02198", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-07-31", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Rural and Tribal Voter Rights Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to provide payments to States for activities to expand early voting access, provide for an equitable distribution of early voting polling locations, including early voting polling locations on Indian tribal land, and to implement voter registration reforms for elections for Federal office, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T14:08:14-04:00"
+}

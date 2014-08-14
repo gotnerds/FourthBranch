@@ -1,0 +1,70 @@
+<bill session="113" type="h" number="3097" updated="2014-08-14T13:17:51-04:00">
+  <state datetime="2013-09-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-09-12"/>
+  </status>
+  <introduced datetime="2013-09-12"/>
+  <titles>
+    <title type="short" as="introduced">Congressional Tribute to Constance Baker Motley Act of 2013</title>
+    <title type="official" as="introduced">To posthumously award a congressional gold medal to Constance Baker Motley.</title>
+  </titles>
+  <sponsor thomas_id="00281"/>
+  <cosponsors>
+    <cosponsor thomas_id="00132" joined="2013-09-30"/>
+    <cosponsor thomas_id="01761" joined="2013-10-04"/>
+    <cosponsor thomas_id="02107" joined="2014-01-09"/>
+    <cosponsor thomas_id="01889" joined="2013-09-12"/>
+    <cosponsor thomas_id="01864" joined="2013-09-12"/>
+    <cosponsor thomas_id="01654" joined="2013-09-12"/>
+    <cosponsor thomas_id="00229" joined="2013-09-12"/>
+    <cosponsor thomas_id="00256" joined="2013-09-12"/>
+    <cosponsor thomas_id="02125" joined="2013-11-12"/>
+    <cosponsor thomas_id="00414" joined="2014-06-09"/>
+    <cosponsor thomas_id="01895" joined="2014-03-10"/>
+    <cosponsor thomas_id="01913" joined="2014-01-29"/>
+    <cosponsor thomas_id="00588" joined="2013-09-12"/>
+    <cosponsor thomas_id="00599" joined="2013-09-12"/>
+    <cosponsor thomas_id="01843" joined="2013-09-12"/>
+    <cosponsor thomas_id="02190" joined="2013-09-12"/>
+    <cosponsor thomas_id="01501" joined="2013-09-12"/>
+    <cosponsor thomas_id="00688" joined="2013-09-12"/>
+    <cosponsor thomas_id="02111" joined="2013-10-11"/>
+    <cosponsor thomas_id="01506" joined="2013-09-12"/>
+    <cosponsor thomas_id="00832" joined="2013-09-30"/>
+    <cosponsor thomas_id="00850" joined="2013-09-12"/>
+    <cosponsor thomas_id="00868" joined="2013-12-16"/>
+    <cosponsor thomas_id="02171" joined="2013-10-16"/>
+    <cosponsor thomas_id="00944" joined="2013-09-12"/>
+    <cosponsor thomas_id="01756" joined="2014-07-15"/>
+    <cosponsor thomas_id="01588" joined="2013-09-12"/>
+    <cosponsor thomas_id="01798" joined="2014-04-28"/>
+    <cosponsor thomas_id="01037" joined="2014-01-27"/>
+    <cosponsor thomas_id="01205" joined="2013-10-28"/>
+    <cosponsor thomas_id="01207" joined="2013-09-12"/>
+    <cosponsor thomas_id="02004" joined="2013-09-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-12" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1150"/>
+  </relatedbills>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Congressional tributes"/>
+    <term name="Federal district courts"/>
+    <term name="Judges"/>
+    <term name="Lawyers and legal services"/>
+    <term name="New York City"/>
+    <term name="New York State"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>9/12/2013--Introduced.
+Congressional Tribute to Constance Baker Motley Act of 2013 - Authorizes the President Pro Tempore of the Senate and the Speaker of the House of Representatives to make appropriate arrangements for the posthumous presentation, on behalf of Congress, of a gold medal in commemoration of Constance Baker Motley (civil rights attorney at the National Association for the Advancement of Colored People Legal Defense and Educational Fund, Inc., first African-American woman elected to the New York State Senate, and Chief Judge on the U.S. District Court for the Southern District of New York), in recognition of her enduring contributions and service to the United States.</summary>
+</bill>

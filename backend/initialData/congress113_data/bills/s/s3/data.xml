@@ -1,0 +1,56 @@
+<bill session="113" type="s" number="3" updated="2014-08-14T13:44:48-04:00">
+  <state datetime="2013-01-22">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-22"/>
+  </status>
+  <introduced datetime="2013-01-22"/>
+  <titles>
+    <title type="short" as="introduced">Strengthen our Schools and Students Act</title>
+    <title type="official" as="introduced">A bill to improve education and provide all students in the United States with the opportunity to succeed.</title>
+  </titles>
+  <sponsor thomas_id="00952"/>
+  <cosponsors>
+    <cosponsor thomas_id="00136" joined="2013-01-22"/>
+    <cosponsor thomas_id="00172" joined="2013-01-22"/>
+    <cosponsor thomas_id="00174" joined="2013-01-22"/>
+    <cosponsor thomas_id="01984" joined="2013-01-22"/>
+    <cosponsor thomas_id="00326" joined="2013-01-22"/>
+    <cosponsor thomas_id="01866" joined="2013-01-22"/>
+    <cosponsor thomas_id="00501" joined="2013-01-22"/>
+    <cosponsor thomas_id="01844" joined="2013-01-22"/>
+    <cosponsor thomas_id="01381" joined="2013-01-22"/>
+    <cosponsor thomas_id="01383" joined="2013-01-22"/>
+    <cosponsor thomas_id="01384" joined="2013-01-22"/>
+    <cosponsor thomas_id="00791" joined="2013-01-22"/>
+    <cosponsor thomas_id="00802" joined="2013-01-22"/>
+    <cosponsor thomas_id="01409" joined="2013-01-22"/>
+    <cosponsor thomas_id="01010" joined="2013-01-22"/>
+    <cosponsor thomas_id="02173" joined="2013-01-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <reference ref="CR S44" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Child safety and welfare"/>
+    <term name="Education programs funding"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Higher education"/>
+    <term name="Preschool education"/>
+    <term name="Science and engineering education"/>
+    <term name="Student aid and college costs"/>
+    <term name="Teaching, teachers, curricula"/>
+  </subjects>
+  <amendments/>
+  <summary>1/22/2013--Introduced.
+Strengthen our Schools and Students Act - Expresses the sense of the Senate that Congress should:
+
+ strengthen early learning programs to better prepare children for success in school; ensure that all students have equitable access to a high-quality, well-rounded education that prepares them to succeed in college and a career; continue efforts to make higher education more affordable and to improve access and success for all students; provide all teachers with the support they need to ensure student success, including by creating a national Science, Technology, Engineering, and Mathematics (STEM) Master Teacher Corps; and support states and local educational agencies to ensure that schools have safe and successful learning conditions.</summary>
+</bill>

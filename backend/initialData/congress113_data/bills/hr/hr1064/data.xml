@@ -1,0 +1,114 @@
+<bill session="113" type="h" number="1064" updated="2014-08-14T12:59:46-04:00">
+  <state datetime="2013-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-12"/>
+  </status>
+  <introduced datetime="2013-03-12"/>
+  <titles>
+    <title type="short" as="introduced">National Association of Registered Agents and Brokers Reform Act of 2013</title>
+    <title type="official" as="introduced">To reform the National Association of Registered Agents and Brokers, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01758"/>
+  <cosponsors>
+    <cosponsor thomas_id="01858" joined="2013-03-12"/>
+    <cosponsor thomas_id="00038" joined="2013-03-12"/>
+    <cosponsor thomas_id="02131" joined="2013-03-12"/>
+    <cosponsor thomas_id="01845" joined="2013-03-12"/>
+    <cosponsor thomas_id="01676" joined="2013-03-12"/>
+    <cosponsor thomas_id="01564" joined="2013-03-12"/>
+    <cosponsor thomas_id="02098" joined="2013-03-12"/>
+    <cosponsor thomas_id="02144" joined="2013-03-12"/>
+    <cosponsor thomas_id="02072" joined="2013-03-12"/>
+    <cosponsor thomas_id="01737" joined="2013-03-12"/>
+    <cosponsor thomas_id="01803" joined="2013-03-12"/>
+    <cosponsor thomas_id="01990" joined="2013-03-12"/>
+    <cosponsor thomas_id="02028" joined="2013-03-12"/>
+    <cosponsor thomas_id="02015" joined="2013-03-12"/>
+    <cosponsor thomas_id="02014" joined="2013-03-12"/>
+    <cosponsor thomas_id="01936" joined="2013-03-12"/>
+    <cosponsor thomas_id="01583" joined="2013-03-12"/>
+    <cosponsor thomas_id="01885" joined="2013-03-12"/>
+    <cosponsor thomas_id="01846" joined="2013-03-12"/>
+    <cosponsor thomas_id="00711" joined="2013-03-12"/>
+    <cosponsor thomas_id="01931" joined="2013-03-12"/>
+    <cosponsor thomas_id="00729" joined="2013-03-12"/>
+    <cosponsor thomas_id="01806" joined="2013-03-12"/>
+    <cosponsor thomas_id="01671" joined="2013-03-12"/>
+    <cosponsor thomas_id="01503" joined="2013-03-12"/>
+    <cosponsor thomas_id="01792" joined="2013-03-12"/>
+    <cosponsor thomas_id="01584" joined="2013-03-12"/>
+    <cosponsor thomas_id="01811" joined="2013-03-12"/>
+    <cosponsor thomas_id="02059" joined="2013-03-12"/>
+    <cosponsor thomas_id="01835" joined="2013-03-12"/>
+    <cosponsor thomas_id="01929" joined="2013-03-12"/>
+    <cosponsor thomas_id="02141" joined="2013-03-12"/>
+    <cosponsor thomas_id="01915" joined="2013-03-12"/>
+    <cosponsor thomas_id="02048" joined="2013-03-12"/>
+    <cosponsor thomas_id="02003" joined="2013-03-12"/>
+    <cosponsor thomas_id="01950" joined="2013-03-12"/>
+    <cosponsor thomas_id="01526" joined="2013-03-12"/>
+    <cosponsor thomas_id="02047" joined="2013-03-12"/>
+    <cosponsor thomas_id="01981" joined="2013-03-12"/>
+    <cosponsor thomas_id="02137" joined="2013-03-12"/>
+    <cosponsor thomas_id="01777" joined="2013-03-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-12" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="1155"/>
+    <bill type="s" session="113" relation="unknown" number="534"/>
+    <bill type="s" session="113" relation="unknown" number="1926"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Consumer affairs"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Government corporations and government-sponsored enterprises"/>
+    <term name="Insurance industry and regulation"/>
+    <term name="Licensing and registrations"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>3/12/2013--Introduced.
+National Association of Registered Agents and Brokers Reform Act of 2013 - Amends the Gramm-Leach-Bliley Act to repeal the contingent conditions under which the National Association of Registered Agents and Brokers (NARAB) shall not be established. Establishes the NARAB without contingent conditions as an independent nonprofit corporation to prescribe, on a multi-state basis, licensing and insurance producer qualification requirements and conditions.
+
+Requires the NARAB, without affecting state regulatory authority, to provide a mechanism for the adoption and multi-state application of requirements and conditions pertaining to: (1) licensing, continuing education, and other qualifications of non-NARAB insurance producers; (2) resident or nonresident insurance producer appointments; (3) supervision and disciplining of such producers; and (4) the setting of licensing fees for insurance producers.
+
+Makes any state-licensed insurance producer eligible to join the NARAB, except during a period of license suspension or revocation. Requires an individual insurance producer to undergo a criminal history record check by the Federal Bureau of Investigation (FBI). Requires the NARAB to submit to the FBI identification information obtained from the insurance producer, upon producer request, as well as a request of its own for the criminal history record check.
+
+Authorizes the NARAB to: (1) establish membership criteria; and (2) deny membership to a state-licensed insurance producer on the basis of the criminal history information obtained, or where the producer has been subject to certain disciplinary action.
+
+Prohibits the NARAB from establishing criteria that unfairly limit the ability of a small insurance producer to become a member of NARAB.
+
+Authorizes the NARAB to establish separate classes of membership and membership criteria, and requires it to do so for business entities.
+
+Authorizes the NARAB to deny membership to any state-licensed insurance producer for failure to meet membership criteria.
+
+States that NARAB membership authorizes an insurance producer to engage in the business of insurance in any state for any lines of insurance specified in the producer's home state license, including claims adjustments and settlement, risk management, and specified insurance-related consulting activities.
+
+Makes NARAB membership equivalent to a nonresident insurance producer license for specified purposes.
+
+Retains state regulatory jurisdiction regarding consumer protection and market conduct.
+
+Directs the NARAB to establish, as a condition of membership, continuing education requirements comparable to those under the licensing laws of a majority of the states.
+
+Requires NARAB to receive and refer any consumer complaints to state insurance regulators.
+
+Requires the NARAB to maintain a toll-free number and, as practicable, other alternative means of communication with consumers, such as an Internet webpage.
+
+Authorizes the NARAB to establish: (1) a central clearinghouse through which NARAB members may disclose their intent to operate in one or more states and pay their licensing fees; and (2) a database for the collection of regulatory information concerning the activities of insurance producers.
+
+Establishes the NARAB board of directors, whose membership shall include state insurance commissioners. Sets forth terms and procedures for appointment of members by the President. Authorizes reappointment to successive terms. Prohibits compensation on account of Board membership.
+
+Declares that NARAB shall not be deemed to be an insurer or insurance producer within the meaning of any state law, rule, regulation, or order regulating or taxing insurers, insurance producers, or other entities engaged in the business of insurance.
+
+Sets forth procedures for presidential oversight of NARAB, including removal of the entire existing Board.
+
+Requires the NARAB to coordinate with the Financial Industry Regulatory Authority (FINRA) in order to ease any administrative burdens that fall on NARAB members subject to FINRA regulation.</summary>
+</bill>

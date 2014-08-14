@@ -1,0 +1,70 @@
+<bill session="113" type="h" number="1698" updated="2014-08-14T13:05:11-04:00">
+  <state datetime="2013-04-24">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-24"/>
+  </status>
+  <introduced datetime="2013-04-24"/>
+  <titles>
+    <title type="short" as="introduced">Stabilize Medicaid and CHIP Coverage Act</title>
+    <title type="official" as="introduced">To amend titles XIX and XXI of the Social Security Act to provide for 12-month continuous enrollment of individuals under the Medicaid program and Children's Health Insurance Program, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00462"/>
+  <cosponsors>
+    <cosponsor thomas_id="00062" joined="2013-04-24"/>
+    <cosponsor thomas_id="00099" joined="2014-07-14"/>
+    <cosponsor thomas_id="02092" joined="2013-11-12"/>
+    <cosponsor thomas_id="02055" joined="2013-09-11"/>
+    <cosponsor thomas_id="02096" joined="2013-09-11"/>
+    <cosponsor thomas_id="00303" joined="2013-07-18"/>
+    <cosponsor thomas_id="01857" joined="2013-06-19"/>
+    <cosponsor thomas_id="00355" joined="2013-09-11"/>
+    <cosponsor thomas_id="01803" joined="2014-04-07"/>
+    <cosponsor thomas_id="02170" joined="2014-03-14"/>
+    <cosponsor thomas_id="01490" joined="2013-06-19"/>
+    <cosponsor thomas_id="00588" joined="2014-04-28"/>
+    <cosponsor thomas_id="02172" joined="2013-10-03"/>
+    <cosponsor thomas_id="02169" joined="2014-07-22"/>
+    <cosponsor thomas_id="01668" joined="2013-07-18"/>
+    <cosponsor thomas_id="01501" joined="2013-07-18"/>
+    <cosponsor thomas_id="00701" joined="2013-10-03"/>
+    <cosponsor thomas_id="01686" joined="2014-04-28"/>
+    <cosponsor thomas_id="01504" joined="2013-11-12"/>
+    <cosponsor thomas_id="02097" joined="2013-07-18"/>
+    <cosponsor thomas_id="01835" joined="2013-12-12"/>
+    <cosponsor thomas_id="01728" joined="2013-07-23"/>
+    <cosponsor thomas_id="01528" joined="2013-09-11"/>
+    <cosponsor thomas_id="01942" joined="2014-06-10"/>
+    <cosponsor thomas_id="01884" joined="2014-06-17"/>
+    <cosponsor thomas_id="02166" joined="2013-07-10"/>
+    <cosponsor thomas_id="01853" joined="2014-07-23"/>
+    <cosponsor thomas_id="01912" joined="2013-11-12" withdrawn="2013-11-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-24" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-04-26">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1980"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Child health"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Medicaid"/>
+    <term name="Poverty and welfare assistance"/>
+  </subjects>
+  <amendments/>
+  <summary>4/24/2013--Introduced.
+Stabilize Medicaid and CHIP Coverage Act - Amends title XIX (Medicaid) of the Social Security Act (SSA) to require a state Medicaid plan to provide 12-month continuous enrollment for an eligible individual, regardless of age.
+
+Amends SSA title XXI (State Children's Health Insurance) (CHIP) to require a state CHIP plan also to provide 12-month continuous enrollment for an eligible individual.</summary>
+</bill>

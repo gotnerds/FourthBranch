@@ -1,0 +1,39 @@
+<bill session="113" type="sr" number="172" updated="2014-08-14T13:41:18-04:00">
+  <state datetime="2013-06-17">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-17"/>
+  </status>
+  <introduced datetime="2013-06-17"/>
+  <titles>
+    <title type="official" as="introduced">A resolution designating the first Wednesday in September 2013 as "National Polycystic Kidney Disease Awareness Day" and raising awareness and understanding of polycystic kidney disease.</title>
+  </titles>
+  <sponsor thomas_id="01464"/>
+  <cosponsors>
+    <cosponsor thomas_id="00174" joined="2013-06-18"/>
+    <cosponsor thomas_id="00802" joined="2013-06-21"/>
+    <cosponsor thomas_id="02084" joined="2013-06-18"/>
+    <cosponsor thomas_id="01036" joined="2013-06-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-17" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S4524" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="sr" session="113" relation="identical" number="201"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Digestive and metabolic diseases"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Medical research"/>
+  </subjects>
+  <amendments/>
+  <summary>6/17/2013--Introduced.
+Designates the first Wednesday in September 2013 as National Polycystic Kidney Disease Awareness Day. Expresses support for the goals and ideals of that Day to raise public awareness and understanding of polycystic kidney disease. Recognizes the need for additional research to find a cure.</summary>
+</bill>

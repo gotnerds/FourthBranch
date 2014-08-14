@@ -1,0 +1,231 @@
+<bill session="113" type="h" number="2553" updated="2014-08-14T13:13:16-04:00">
+  <state datetime="2013-06-27">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-27"/>
+  </status>
+  <introduced datetime="2013-06-27"/>
+  <titles>
+    <title type="short" as="introduced">National Infrastructure Development Bank Act of 2013</title>
+    <title type="official" as="introduced">To facilitate efficient investments and financing of infrastructure projects and new job creation through the establishment of a National Infrastructure Development Bank, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00281"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2014-05-06"/>
+    <cosponsor thomas_id="02153" joined="2013-07-08"/>
+    <cosponsor thomas_id="01740" joined="2013-07-24"/>
+    <cosponsor thomas_id="00099" joined="2013-06-27"/>
+    <cosponsor thomas_id="02092" joined="2013-06-27"/>
+    <cosponsor thomas_id="01723" joined="2013-06-27"/>
+    <cosponsor thomas_id="01845" joined="2013-06-27"/>
+    <cosponsor thomas_id="01471" joined="2013-06-27"/>
+    <cosponsor thomas_id="02107" joined="2014-07-08"/>
+    <cosponsor thomas_id="01889" joined="2013-06-27"/>
+    <cosponsor thomas_id="02159" joined="2013-07-10"/>
+    <cosponsor thomas_id="01474" joined="2013-06-27"/>
+    <cosponsor thomas_id="01970" joined="2013-06-27"/>
+    <cosponsor thomas_id="02055" joined="2013-06-27"/>
+    <cosponsor thomas_id="02196" joined="2014-02-25"/>
+    <cosponsor thomas_id="01654" joined="2014-04-04"/>
+    <cosponsor thomas_id="01790" joined="2014-02-25"/>
+    <cosponsor thomas_id="01878" joined="2013-07-24"/>
+    <cosponsor thomas_id="00229" joined="2013-06-27"/>
+    <cosponsor thomas_id="01836" joined="2013-06-27"/>
+    <cosponsor thomas_id="02096" joined="2014-03-11"/>
+    <cosponsor thomas_id="01976" joined="2013-06-27"/>
+    <cosponsor thomas_id="00316" joined="2013-09-18"/>
+    <cosponsor thomas_id="02123" joined="2013-06-27"/>
+    <cosponsor thomas_id="01857" joined="2013-06-27"/>
+    <cosponsor thomas_id="00355" joined="2013-06-27"/>
+    <cosponsor thomas_id="02114" joined="2013-06-27"/>
+    <cosponsor thomas_id="00368" joined="2013-06-27"/>
+    <cosponsor thomas_id="00371" joined="2014-02-03"/>
+    <cosponsor thomas_id="01888" joined="2013-09-18"/>
+    <cosponsor thomas_id="01973" joined="2013-06-27"/>
+    <cosponsor thomas_id="01803" joined="2013-06-27"/>
+    <cosponsor thomas_id="00462" joined="2014-02-04"/>
+    <cosponsor thomas_id="01708" joined="2013-06-27"/>
+    <cosponsor thomas_id="02170" joined="2013-06-27"/>
+    <cosponsor thomas_id="01913" joined="2013-06-27"/>
+    <cosponsor thomas_id="01580" joined="2013-06-28"/>
+    <cosponsor thomas_id="01634" joined="2013-06-27"/>
+    <cosponsor thomas_id="02101" joined="2014-04-29"/>
+    <cosponsor thomas_id="01663" joined="2013-06-27"/>
+    <cosponsor thomas_id="01843" joined="2013-07-11"/>
+    <cosponsor thomas_id="00616" joined="2014-01-29"/>
+    <cosponsor thomas_id="02025" joined="2013-06-27"/>
+    <cosponsor thomas_id="02190" joined="2014-07-09"/>
+    <cosponsor thomas_id="02134" joined="2013-09-18"/>
+    <cosponsor thomas_id="02169" joined="2014-02-03"/>
+    <cosponsor thomas_id="01907" joined="2013-06-27"/>
+    <cosponsor thomas_id="02145" joined="2014-04-28"/>
+    <cosponsor thomas_id="01668" joined="2013-06-27"/>
+    <cosponsor thomas_id="01675" joined="2014-02-03"/>
+    <cosponsor thomas_id="01583" joined="2013-06-27"/>
+    <cosponsor thomas_id="01501" joined="2013-06-27"/>
+    <cosponsor thomas_id="00683" joined="2014-04-30"/>
+    <cosponsor thomas_id="01781" joined="2013-06-27"/>
+    <cosponsor thomas_id="00701" joined="2014-01-07"/>
+    <cosponsor thomas_id="02111" joined="2013-06-27"/>
+    <cosponsor thomas_id="00709" joined="2013-07-08"/>
+    <cosponsor thomas_id="01686" joined="2013-06-27"/>
+    <cosponsor thomas_id="01943" joined="2013-06-27"/>
+    <cosponsor thomas_id="01814" joined="2013-06-27"/>
+    <cosponsor thomas_id="01653" joined="2013-06-27"/>
+    <cosponsor thomas_id="00766" joined="2014-02-25"/>
+    <cosponsor thomas_id="01504" joined="2013-06-27"/>
+    <cosponsor thomas_id="02148" joined="2013-06-27"/>
+    <cosponsor thomas_id="01730" joined="2013-06-27"/>
+    <cosponsor thomas_id="00808" joined="2013-11-19"/>
+    <cosponsor thomas_id="01811" joined="2013-11-19"/>
+    <cosponsor thomas_id="00832" joined="2013-06-27"/>
+    <cosponsor thomas_id="01602" joined="2013-09-26"/>
+    <cosponsor thomas_id="00867" joined="2014-02-25"/>
+    <cosponsor thomas_id="00868" joined="2013-06-27"/>
+    <cosponsor thomas_id="01510" joined="2013-06-27"/>
+    <cosponsor thomas_id="01929" joined="2013-09-18"/>
+    <cosponsor thomas_id="01927" joined="2013-06-27"/>
+    <cosponsor thomas_id="02171" joined="2013-06-27"/>
+    <cosponsor thomas_id="00930" joined="2013-06-27"/>
+    <cosponsor thomas_id="02023" joined="2013-06-27"/>
+    <cosponsor thomas_id="01003" joined="2013-06-27"/>
+    <cosponsor thomas_id="01756" joined="2013-07-11"/>
+    <cosponsor thomas_id="01757" joined="2013-06-27"/>
+    <cosponsor thomas_id="01854" joined="2013-06-27"/>
+    <cosponsor thomas_id="01588" joined="2013-06-27"/>
+    <cosponsor thomas_id="01635" joined="2013-07-08"/>
+    <cosponsor thomas_id="01798" joined="2013-11-19"/>
+    <cosponsor thomas_id="01037" joined="2014-02-25"/>
+    <cosponsor thomas_id="01861" joined="2013-06-27"/>
+    <cosponsor thomas_id="01526" joined="2013-06-27"/>
+    <cosponsor thomas_id="01818" joined="2013-06-27"/>
+    <cosponsor thomas_id="01069" joined="2013-06-27"/>
+    <cosponsor thomas_id="01890" joined="2013-06-27"/>
+    <cosponsor thomas_id="02110" joined="2013-06-27"/>
+    <cosponsor thomas_id="01593" joined="2013-06-28"/>
+    <cosponsor thomas_id="01535" joined="2013-06-27"/>
+    <cosponsor thomas_id="01940" joined="2013-11-19"/>
+    <cosponsor thomas_id="01942" joined="2013-06-27"/>
+    <cosponsor thomas_id="01729" joined="2013-06-27"/>
+    <cosponsor thomas_id="02166" joined="2013-06-27"/>
+    <cosponsor thomas_id="01188" joined="2014-02-25"/>
+    <cosponsor thomas_id="01856" joined="2014-04-28"/>
+    <cosponsor thomas_id="01207" joined="2013-06-27"/>
+    <cosponsor thomas_id="01879" joined="2013-06-27"/>
+    <cosponsor thomas_id="02004" joined="2013-07-11"/>
+    <cosponsor thomas_id="01853" joined="2013-06-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-27" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Transportation and Infrastructure, Financial Services, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-06-27">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-06-27">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2013-06-27">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2013-06-27">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-06-28">
+      <text>Referred to the Subcommittee on Commerce, Manufacturing, and Trade.</text>
+    </action>
+    <action datetime="2013-06-28">
+      <text>Referred to the Subcommittee on Aviation.</text>
+    </action>
+    <action datetime="2013-06-28">
+      <text>Referred to the Subcommittee on Coast Guard and Maritime Transportation.</text>
+    </action>
+    <action datetime="2013-06-28">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+    <action datetime="2013-06-28">
+      <text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text>
+    </action>
+    <action datetime="2013-06-28">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Commerce, Manufacturing, and Trade" code="HSIF17" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Aviation" code="HSPW05" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Coast Guard and Maritime Transportation" code="HSPW07" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Highways and Transit" code="HSPW12" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Railroads, Pipelines, and Hazardous Materials" code="HSPW14" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Water Resources and Environment" code="HSPW02" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Accounting and auditing"/>
+    <term name="Air quality"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Bank accounts, deposits, capital"/>
+    <term name="Broadcasting, cable, digital technologies"/>
+    <term name="Buy American requirements"/>
+    <term name="Climate change and greenhouse gases"/>
+    <term name="Dams and canals"/>
+    <term name="Economic development"/>
+    <term name="Educational facilities and institutions"/>
+    <term name="Electric power generation and transmission"/>
+    <term name="Employment and training programs"/>
+    <term name="Energy efficiency and conservation"/>
+    <term name="Energy storage, supplies, demand"/>
+    <term name="Environmental health"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal preemption"/>
+    <term name="Floods and storm protection"/>
+    <term name="Government corporations and government-sponsored enterprises"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Government trust funds"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Infrastructure development"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Metals"/>
+    <term name="Public housing"/>
+    <term name="Public-private cooperation"/>
+    <term name="Rural conditions and development"/>
+    <term name="Securities"/>
+    <term name="Solid waste and recycling"/>
+    <term name="State and local taxation"/>
+    <term name="Tax-exempt organizations"/>
+    <term name="Telephone and wireless communication"/>
+    <term name="Transportation programs funding"/>
+    <term name="Transportation safety and security"/>
+    <term name="User charges and fees"/>
+    <term name="Wages and earnings"/>
+    <term name="Water quality"/>
+    <term name="Water use and supply"/>
+    <term name="Wetlands"/>
+    <term name="Women's employment"/>
+  </subjects>
+  <amendments/>
+  <summary>6/27/2013--Introduced.
+National Infrastructure Development Bank Act of 2013 - Establishes the National Infrastructure Development Bank as a wholly owned government corporation.
+
+Makes the Bank's Board of Directors responsible for monitoring and overseeing energy, environmental, telecommunications, and transportation infrastructure projects. Authorizes the Board to: (1) make senior and subordinated direct loans and loan guarantees to assist in the financing or refinancing of an infrastructure project, (2) issue public benefit bonds and provide financing to infrastructure projects, and (3) pay an interest subsidy to the issuer of American Infrastructure Bonds.
+
+Requires the Board to establish an Executive Committee, headed by the chief executive officer, to establish requirements and make recommendations for project proposals to be considered for financial assistance.
+
+Requires the Bank to establish a Risk Management Committee, headed by the chief risk officer, which shall: (1) create financial, credit, and operational risk management guidelines for the Bank; (2) set guidelines to ensure diversification of lending activities by both geographic region and infrastructure project type; (3) create conforming standards for all financial assistance provided by the Bank; (4) monitor financial, credit, and operational exposure of the Bank; (5) provide financial recommendations to the Board; and (6) ensure that the aggregate amount of interest subsidies provided for American Infrastructure Bonds in a given calendar year do not exceed 28% of interest payable under all such Bonds.
+
+Requires the Bank to establish an audit committee, headed by a chief compliance officer, to be responsible for auditing and accounting activities.
+
+Requires the Board to approve criteria established by the Executive Committee, with public input, for determining project eligibility for financial assistance. Sets forth criteria to be considered by the Board for each type of infrastructure project. Requires the Executive Committee to conduct an analysis that considers the economic, environmental, and social benefits and costs of each project under consideration, prioritizing projects that contribute to economic growth, lead to job creation, and are of regional or national significance.
+
+Requires any financial assistance for an infrastructure project to be repayable from dedicated revenue sources that also secure the infrastructure project obligations. Limits the amount of assistance under this Act to 50% of reasonably anticipated project costs.
+
+ Exempts all bonds issued by the Bank, and the interest on or credits with respect to such bonds, from state or local government taxation.
+
+Sets forth requirements regarding compliance of assisted projects with wage rate, domestic content, and buy American statutes.
+
+Requires the Board to establish an American Infrastructure Bond program. Establishes in the Treasury the National Infrastructure Development Bank Trust Fund into which an amount estimated to equal the tax receipts attributable to interest payable under such Bonds is to be appropriated.</summary>
+</bill>

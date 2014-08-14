@@ -1,0 +1,48 @@
+<bill session="113" type="hr" number="534" updated="2014-08-14T12:49:09-04:00">
+  <state datetime="2014-04-01">REFERRED</state>
+  <status>
+    <introduced datetime="2014-04-01"/>
+  </status>
+  <introduced datetime="2014-04-01"/>
+  <titles>
+    <title type="official" as="introduced">Recognizing the 150th Anniversary of Mayo Clinic.</title>
+  </titles>
+  <sponsor thomas_id="01856"/>
+  <cosponsors>
+    <cosponsor thomas_id="01858" joined="2014-04-01"/>
+    <cosponsor thomas_id="01643" joined="2014-04-01"/>
+    <cosponsor thomas_id="01857" joined="2014-04-01"/>
+    <cosponsor thomas_id="01498" joined="2014-04-01"/>
+    <cosponsor thomas_id="01733" joined="2014-04-01"/>
+    <cosponsor thomas_id="01653" joined="2014-04-01"/>
+    <cosponsor thomas_id="00867" joined="2014-04-01"/>
+    <cosponsor thomas_id="01930" joined="2014-04-01"/>
+    <cosponsor thomas_id="00910" joined="2014-04-01"/>
+    <cosponsor thomas_id="01994" joined="2014-04-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-04-01" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2014-04-04">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="sr" session="113" relation="unknown" number="339"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Minnesota"/>
+  </subjects>
+  <amendments/>
+  <summary>4/1/2014--Introduced.
+Recognizes the 150th anniversary of Mayo Clinic.</summary>
+</bill>

@@ -1,0 +1,171 @@
+<bill session="113" type="h" number="2994" updated="2014-08-14T13:16:59-04:00">
+  <state datetime="2013-08-02">REFERRED</state>
+  <status>
+    <introduced datetime="2013-08-02"/>
+  </status>
+  <introduced datetime="2013-08-02"/>
+  <titles>
+    <title type="short" as="introduced">Mortgage Forgiveness Tax Relief Act of 2013</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to extend for 1 year the exclusion from gross income of discharges of qualified principal residence indebtedness.</title>
+  </titles>
+  <sponsor thomas_id="01982"/>
+  <cosponsors>
+    <cosponsor thomas_id="00021" joined="2013-09-30"/>
+    <cosponsor thomas_id="00038" joined="2014-07-30"/>
+    <cosponsor thomas_id="02131" joined="2013-12-10"/>
+    <cosponsor thomas_id="01780" joined="2014-07-30"/>
+    <cosponsor thomas_id="01996" joined="2014-04-30"/>
+    <cosponsor thomas_id="02135" joined="2014-06-05"/>
+    <cosponsor thomas_id="02102" joined="2014-06-23"/>
+    <cosponsor thomas_id="01838" joined="2014-01-13"/>
+    <cosponsor thomas_id="00091" joined="2014-07-30"/>
+    <cosponsor thomas_id="01740" joined="2014-03-24"/>
+    <cosponsor thomas_id="02063" joined="2014-05-28"/>
+    <cosponsor thomas_id="00099" joined="2013-12-10"/>
+    <cosponsor thomas_id="02092" joined="2014-01-13"/>
+    <cosponsor thomas_id="01723" joined="2013-09-30"/>
+    <cosponsor thomas_id="01787" joined="2013-08-02"/>
+    <cosponsor thomas_id="01468" joined="2013-08-02"/>
+    <cosponsor thomas_id="01845" joined="2014-06-05"/>
+    <cosponsor thomas_id="01840" joined="2013-08-02"/>
+    <cosponsor thomas_id="02127" joined="2014-07-30"/>
+    <cosponsor thomas_id="00165" joined="2013-12-12"/>
+    <cosponsor thomas_id="01564" joined="2013-08-02"/>
+    <cosponsor thomas_id="02107" joined="2014-03-27"/>
+    <cosponsor thomas_id="01889" joined="2014-07-29"/>
+    <cosponsor thomas_id="02159" joined="2013-12-10"/>
+    <cosponsor thomas_id="02055" joined="2014-07-28"/>
+    <cosponsor thomas_id="02196" joined="2014-05-21"/>
+    <cosponsor thomas_id="00211" joined="2014-07-30"/>
+    <cosponsor thomas_id="01912" joined="2014-02-25"/>
+    <cosponsor thomas_id="01742" joined="2013-09-30"/>
+    <cosponsor thomas_id="01959" joined="2013-12-19"/>
+    <cosponsor thomas_id="00229" joined="2013-09-30"/>
+    <cosponsor thomas_id="01836" joined="2013-09-11"/>
+    <cosponsor thomas_id="01643" joined="2013-09-30"/>
+    <cosponsor thomas_id="01976" joined="2013-12-10"/>
+    <cosponsor thomas_id="01717" joined="2014-07-30"/>
+    <cosponsor thomas_id="02123" joined="2014-02-03"/>
+    <cosponsor thomas_id="02072" joined="2014-01-27"/>
+    <cosponsor thomas_id="01857" joined="2014-03-11"/>
+    <cosponsor thomas_id="02125" joined="2014-06-05"/>
+    <cosponsor thomas_id="00368" joined="2014-03-24"/>
+    <cosponsor thomas_id="01683" joined="2013-12-19"/>
+    <cosponsor thomas_id="00414" joined="2014-05-21"/>
+    <cosponsor thomas_id="02120" joined="2014-03-24"/>
+    <cosponsor thomas_id="01998" joined="2013-09-30"/>
+    <cosponsor thomas_id="01743" joined="2014-06-23"/>
+    <cosponsor thomas_id="02043" joined="2013-12-10"/>
+    <cosponsor thomas_id="01914" joined="2014-03-05"/>
+    <cosponsor thomas_id="01990" joined="2013-08-02"/>
+    <cosponsor thomas_id="01708" joined="2014-07-31"/>
+    <cosponsor thomas_id="02041" joined="2014-01-13"/>
+    <cosponsor thomas_id="00478" joined="2014-07-29"/>
+    <cosponsor thomas_id="02044" joined="2014-07-29"/>
+    <cosponsor thomas_id="00511" joined="2013-09-30"/>
+    <cosponsor thomas_id="02071" joined="2014-02-03"/>
+    <cosponsor thomas_id="01794" joined="2014-03-05"/>
+    <cosponsor thomas_id="01490" joined="2014-05-21"/>
+    <cosponsor thomas_id="02101" joined="2013-12-19"/>
+    <cosponsor thomas_id="02028" joined="2014-01-27"/>
+    <cosponsor thomas_id="02149" joined="2014-06-23"/>
+    <cosponsor thomas_id="01921" joined="2013-08-02"/>
+    <cosponsor thomas_id="02046" joined="2014-07-31"/>
+    <cosponsor thomas_id="01843" joined="2014-07-31"/>
+    <cosponsor thomas_id="02199" joined="2014-05-09"/>
+    <cosponsor thomas_id="00612" joined="2014-02-03"/>
+    <cosponsor thomas_id="02154" joined="2014-06-23"/>
+    <cosponsor thomas_id="02051" joined="2014-06-05"/>
+    <cosponsor thomas_id="02190" joined="2014-02-03"/>
+    <cosponsor thomas_id="02172" joined="2014-06-09"/>
+    <cosponsor thomas_id="02169" joined="2014-05-19"/>
+    <cosponsor thomas_id="01498" joined="2013-08-02"/>
+    <cosponsor thomas_id="00635" joined="2013-12-10"/>
+    <cosponsor thomas_id="01907" joined="2014-07-30"/>
+    <cosponsor thomas_id="01583" joined="2013-08-02"/>
+    <cosponsor thomas_id="00666" joined="2014-07-31"/>
+    <cosponsor thomas_id="01501" joined="2014-03-11"/>
+    <cosponsor thomas_id="01781" joined="2014-01-27"/>
+    <cosponsor thomas_id="00699" joined="2014-07-30"/>
+    <cosponsor thomas_id="00729" joined="2014-05-28"/>
+    <cosponsor thomas_id="02150" joined="2014-05-21"/>
+    <cosponsor thomas_id="02053" joined="2014-06-09"/>
+    <cosponsor thomas_id="01814" joined="2013-12-10"/>
+    <cosponsor thomas_id="01503" joined="2014-06-09"/>
+    <cosponsor thomas_id="00766" joined="2014-02-03"/>
+    <cosponsor thomas_id="01504" joined="2013-08-02"/>
+    <cosponsor thomas_id="02142" joined="2014-07-31"/>
+    <cosponsor thomas_id="02130" joined="2014-05-21"/>
+    <cosponsor thomas_id="01730" joined="2013-09-11"/>
+    <cosponsor thomas_id="01584" joined="2013-12-12"/>
+    <cosponsor thomas_id="00808" joined="2013-12-10"/>
+    <cosponsor thomas_id="01685" joined="2013-12-10"/>
+    <cosponsor thomas_id="01811" joined="2014-07-30"/>
+    <cosponsor thomas_id="00832" joined="2014-05-21"/>
+    <cosponsor thomas_id="00854" joined="2013-08-02"/>
+    <cosponsor thomas_id="02108" joined="2014-03-05"/>
+    <cosponsor thomas_id="00867" joined="2014-05-19"/>
+    <cosponsor thomas_id="00868" joined="2014-01-09"/>
+    <cosponsor thomas_id="02001" joined="2013-12-19"/>
+    <cosponsor thomas_id="01510" joined="2014-05-09"/>
+    <cosponsor thomas_id="01930" joined="2014-05-19"/>
+    <cosponsor thomas_id="01929" joined="2014-04-30"/>
+    <cosponsor thomas_id="00912" joined="2014-02-03"/>
+    <cosponsor thomas_id="01927" joined="2014-02-25"/>
+    <cosponsor thomas_id="02171" joined="2013-12-12"/>
+    <cosponsor thomas_id="01915" joined="2014-01-27"/>
+    <cosponsor thomas_id="02118" joined="2013-09-30"/>
+    <cosponsor thomas_id="00944" joined="2013-08-02"/>
+    <cosponsor thomas_id="02048" joined="2013-12-10"/>
+    <cosponsor thomas_id="02073" joined="2013-08-02"/>
+    <cosponsor thomas_id="01916" joined="2014-07-30"/>
+    <cosponsor thomas_id="01848" joined="2013-08-02"/>
+    <cosponsor thomas_id="00997" joined="2014-07-03"/>
+    <cosponsor thomas_id="02039" joined="2014-07-29"/>
+    <cosponsor thomas_id="01728" joined="2013-12-10"/>
+    <cosponsor thomas_id="01757" joined="2013-08-02"/>
+    <cosponsor thomas_id="01588" joined="2014-02-25"/>
+    <cosponsor thomas_id="02124" joined="2013-12-10"/>
+    <cosponsor thomas_id="01920" joined="2013-12-10"/>
+    <cosponsor thomas_id="02009" joined="2013-12-10"/>
+    <cosponsor thomas_id="01071" joined="2014-07-30"/>
+    <cosponsor thomas_id="02191" joined="2014-05-19"/>
+    <cosponsor thomas_id="02047" joined="2014-03-11"/>
+    <cosponsor thomas_id="02104" joined="2013-12-12"/>
+    <cosponsor thomas_id="02110" joined="2013-12-10"/>
+    <cosponsor thomas_id="01593" joined="2013-08-02"/>
+    <cosponsor thomas_id="01664" joined="2014-05-21"/>
+    <cosponsor thomas_id="01535" joined="2013-09-11"/>
+    <cosponsor thomas_id="01940" joined="2013-12-10"/>
+    <cosponsor thomas_id="01942" joined="2014-01-27"/>
+    <cosponsor thomas_id="01884" joined="2014-04-30"/>
+    <cosponsor thomas_id="01741" joined="2013-08-02"/>
+    <cosponsor thomas_id="02166" joined="2014-01-27"/>
+    <cosponsor thomas_id="01184" joined="2014-01-09"/>
+    <cosponsor thomas_id="01207" joined="2013-08-02"/>
+    <cosponsor thomas_id="02165" joined="2014-01-09"/>
+    <cosponsor thomas_id="02004" joined="2014-07-31"/>
+    <cosponsor thomas_id="01688" joined="2014-08-01"/>
+    <cosponsor thomas_id="02019" joined="2014-03-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-08-02" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="2788"/>
+    <bill type="s" session="113" relation="unknown" number="1187"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Housing finance and home ownership"/>
+    <term name="Income tax exclusion"/>
+  </subjects>
+  <amendments/>
+  <summary>8/2/2013--Introduced.
+Mortgage Forgiveness Tax Relief Act of 2013 - Amends the Internal Revenue Code to extend through 2014 the exclusion from gross income of income attributable to the discharge of indebtedness on a principal residence.</summary>
+</bill>

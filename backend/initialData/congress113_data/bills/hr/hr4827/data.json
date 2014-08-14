@@ -1,0 +1,115 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-10", 
+      "committees": [
+        "HSED"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Education and the Workforce.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4827-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Education and the Workforce", 
+      "committee_id": "HSED"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "26", 
+      "name": "Brownley, Julia", 
+      "sponsored_at": "2014-07-28", 
+      "state": "CA", 
+      "thomas_id": "02106", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "14", 
+      "name": "Crowley, Joseph", 
+      "sponsored_at": "2014-06-18", 
+      "state": "NY", 
+      "thomas_id": "01604", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "7", 
+      "name": "McDermott, Jim", 
+      "sponsored_at": "2014-06-10", 
+      "state": "WA", 
+      "thomas_id": "00766", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": "20", 
+      "name": "Tonko, Paul", 
+      "sponsored_at": "2014-06-18", 
+      "state": "NY", 
+      "thomas_id": "01942", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-06-10", 
+  "number": "4827", 
+  "official_title": "To establish a pilot program to promote public-private partnerships among apprenticeships or other job training programs, local educational agencies, and community colleges, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Youth Access to American Jobs Act of 2014", 
+  "sponsor": {
+    "district": "4", 
+    "name": "Horsford, Steven A.", 
+    "state": "NV", 
+    "thomas_id": "02147", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-06-10", 
+  "subjects": [
+    "Elementary and secondary education", 
+    "Employment and training programs", 
+    "Higher education", 
+    "Labor and employment", 
+    "Manufacturing", 
+    "Science and engineering education", 
+    "Vocational education"
+  ], 
+  "subjects_top_term": "Labor and employment", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Youth Access to American Jobs Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To establish a pilot program to promote public-private partnerships among apprenticeships or other job training programs, local educational agencies, and community colleges, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T13:32:37-04:00"
+}

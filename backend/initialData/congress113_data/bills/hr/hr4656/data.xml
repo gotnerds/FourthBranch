@@ -1,0 +1,40 @@
+<bill session="113" type="h" number="4656" updated="2014-08-14T13:31:05-04:00">
+  <state datetime="2014-05-13">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-13"/>
+  </status>
+  <introduced datetime="2014-05-13"/>
+  <titles>
+    <title type="short" as="introduced">Caring for America's Heroes Act</title>
+    <title type="official" as="introduced">To amend title 10, United States Code, to improve access to mental health services under the TRICARE program.</title>
+  </titles>
+  <sponsor thomas_id="01998"/>
+  <cosponsors>
+    <cosponsor thomas_id="01471" joined="2014-05-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-13" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2276"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Hospital care"/>
+    <term name="Mental health"/>
+    <term name="Military medicine"/>
+    <term name="Military personnel and dependents"/>
+  </subjects>
+  <amendments/>
+  <summary>5/13/2014--Introduced.
+Caring for America's Heroes Act - Eliminates the limit on the number of days each year impatient mental health services may be provided to military dependents under the Department of Defense (DOD) TRICARE program (a DOD managed care program).
+
+Eliminates the need for TRICARE Standard beneficiaries to obtain: (1) a nonavailability statement or preauthorization to receive mental health services from a civilian provider, or (2) a nonavailability statement to receive mental health services in specialized treatment facilities outside the 200-mile radius of a military medical treatment facility.</summary>
+</bill>

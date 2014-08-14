@@ -1,0 +1,76 @@
+<bill session="113" type="h" number="2273" updated="2014-08-14T13:10:43-04:00">
+  <state datetime="2013-06-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-06"/>
+  </status>
+  <introduced datetime="2013-06-06"/>
+  <titles>
+    <title type="short" as="introduced">Great Lakes Navigation System Sustainability Act of 2013</title>
+    <title type="official" as="introduced">To implement a program establishing the Great Lakes Navigation System, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01731"/>
+  <cosponsors>
+    <cosponsor thomas_id="02153" joined="2013-07-19"/>
+    <cosponsor thomas_id="02027" joined="2013-06-06"/>
+    <cosponsor thomas_id="02135" joined="2013-06-13"/>
+    <cosponsor thomas_id="02018" joined="2013-08-01"/>
+    <cosponsor thomas_id="00166" joined="2013-07-18"/>
+    <cosponsor thomas_id="02151" joined="2013-07-08"/>
+    <cosponsor thomas_id="00229" joined="2013-06-14"/>
+    <cosponsor thomas_id="00299" joined="2013-06-13"/>
+    <cosponsor thomas_id="02072" joined="2013-06-19"/>
+    <cosponsor thomas_id="01895" joined="2013-06-18"/>
+    <cosponsor thomas_id="02044" joined="2013-06-18"/>
+    <cosponsor thomas_id="01794" joined="2013-06-06"/>
+    <cosponsor thomas_id="02028" joined="2013-06-06"/>
+    <cosponsor thomas_id="02046" joined="2013-06-28"/>
+    <cosponsor thomas_id="02154" joined="2013-06-11"/>
+    <cosponsor thomas_id="02051" joined="2013-07-11"/>
+    <cosponsor thomas_id="02134" joined="2013-07-26"/>
+    <cosponsor thomas_id="01885" joined="2013-06-18"/>
+    <cosponsor thomas_id="00683" joined="2013-06-17"/>
+    <cosponsor thomas_id="01781" joined="2013-08-02"/>
+    <cosponsor thomas_id="01943" joined="2013-07-24"/>
+    <cosponsor thomas_id="01811" joined="2013-07-18"/>
+    <cosponsor thomas_id="00867" joined="2013-06-20"/>
+    <cosponsor thomas_id="01974" joined="2013-06-27"/>
+    <cosponsor thomas_id="01929" joined="2013-08-01"/>
+    <cosponsor thomas_id="00912" joined="2013-06-19"/>
+    <cosponsor thomas_id="01982" joined="2013-07-17"/>
+    <cosponsor thomas_id="02048" joined="2013-07-10"/>
+    <cosponsor thomas_id="02073" joined="2013-06-11"/>
+    <cosponsor thomas_id="01651" joined="2013-06-06"/>
+    <cosponsor thomas_id="01756" joined="2013-07-08"/>
+    <cosponsor thomas_id="02124" joined="2013-09-19"/>
+    <cosponsor thomas_id="01069" joined="2013-06-06"/>
+    <cosponsor thomas_id="02047" joined="2013-07-08"/>
+    <cosponsor thomas_id="01177" joined="2013-06-13"/>
+    <cosponsor thomas_id="01855" joined="2013-06-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-06" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2013-06-07">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Water Resources and Environment" code="HSPW02" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Great Lakes"/>
+    <term name="Lakes and rivers"/>
+    <term name="Marine and inland water transportation"/>
+    <term name="Navigation, waterways, harbors"/>
+    <term name="Water resources funding"/>
+  </subjects>
+  <amendments/>
+  <summary>6/6/2013--Introduced.
+Great Lakes Navigation System Sustainability Act of 2013 - Directs the Secretary of the Army, acting through the Chief of Engineers, to manage and allocate funding for all commercial and recreational navigation projects in the Great Lakes Navigation System as components of a single system, recognizing the interdependence of the projects.
+
+Directs the Secretary, acting through the Chief of Engineers, to: (1) establish a program to fund eligible operations and maintenenace projects of the System to their authorized depths and widths, and (2) give higher priority to projects at certain harbors in which a 50% non-federal share of costs of eligible operations and maintenance expenses is provided.</summary>
+</bill>

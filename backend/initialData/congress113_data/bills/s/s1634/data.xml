@@ -1,0 +1,45 @@
+<bill session="113" type="s" number="1634" updated="2014-08-14T13:58:48-04:00">
+  <state datetime="2013-10-31">REFERRED</state>
+  <status>
+    <introduced datetime="2013-10-31"/>
+  </status>
+  <introduced datetime="2013-10-31"/>
+  <titles>
+    <title type="short" as="introduced">Hunter and Farmer Protection Act of 2013</title>
+    <title type="official" as="introduced">A bill to amend the Migratory Bird Treaty Act to provide certain exemptions relating to the taking of migratory game birds.</title>
+  </titles>
+  <sponsor thomas_id="01701"/>
+  <cosponsors>
+    <cosponsor thomas_id="01687" joined="2013-10-31"/>
+    <cosponsor thomas_id="00213" joined="2013-10-31"/>
+    <cosponsor thomas_id="01546" joined="2013-10-31"/>
+    <cosponsor thomas_id="01226" joined="2013-10-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-10-31" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="3590"/>
+    <bill type="s" session="113" relation="unknown" number="1660"/>
+  </relatedbills>
+  <subjects>
+    <term name="Animals"/>
+    <term name="Agricultural practices and innovations"/>
+    <term name="Birds"/>
+    <term name="Farmland"/>
+    <term name="Floods and storm protection"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Hunting and fishing"/>
+    <term name="Pest management"/>
+    <term name="State and local government operations"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+  <summary>10/31/2013--Introduced.
+Hunter and Farmer Protection Act of 2013 - Amends the Migratory Bird Treaty Act to permit the taking of any migratory game bird, including waterfowl, coots, and cranes, on or over land that: (1) is not a baited area; and (2) contains a standing crop (including an aquatic crop), standing, flooded, or manipulated natural vegetation, flooded harvested cropland, or an area on which seed or grain has been scattered solely as the result of a normal agricultural practice.</summary>
+</bill>

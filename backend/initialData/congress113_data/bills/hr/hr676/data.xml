@@ -1,0 +1,158 @@
+<bill session="113" type="h" number="676" updated="2014-08-14T12:56:30-04:00">
+  <state datetime="2013-02-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-13"/>
+  </status>
+  <introduced datetime="2013-02-13"/>
+  <titles>
+    <title type="short" as="introduced">Expanded &amp; Improved Medicare For All Act</title>
+    <title type="official" as="introduced">To provide for comprehensive health insurance coverage for all United States residents, improved health care delivery, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00229"/>
+  <cosponsors>
+    <cosponsor thomas_id="02153" joined="2013-12-03"/>
+    <cosponsor thomas_id="01469" joined="2013-07-30"/>
+    <cosponsor thomas_id="01564" joined="2013-07-24"/>
+    <cosponsor thomas_id="01474" joined="2013-02-13"/>
+    <cosponsor thomas_id="01970" joined="2013-02-13"/>
+    <cosponsor thomas_id="02196" joined="2014-07-30"/>
+    <cosponsor thomas_id="01864" joined="2013-02-13"/>
+    <cosponsor thomas_id="01654" joined="2013-02-13"/>
+    <cosponsor thomas_id="00208" joined="2014-05-29"/>
+    <cosponsor thomas_id="01878" joined="2013-02-13"/>
+    <cosponsor thomas_id="00256" joined="2013-02-13"/>
+    <cosponsor thomas_id="01477" joined="2013-05-21"/>
+    <cosponsor thomas_id="00316" joined="2013-02-13"/>
+    <cosponsor thomas_id="01894" joined="2013-02-13"/>
+    <cosponsor thomas_id="01857" joined="2013-02-13"/>
+    <cosponsor thomas_id="00344" joined="2013-02-13"/>
+    <cosponsor thomas_id="00368" joined="2013-02-13"/>
+    <cosponsor thomas_id="00371" joined="2013-09-26"/>
+    <cosponsor thomas_id="01803" joined="2013-02-13"/>
+    <cosponsor thomas_id="01708" joined="2013-02-13"/>
+    <cosponsor thomas_id="00478" joined="2013-02-13"/>
+    <cosponsor thomas_id="02089" joined="2014-03-25"/>
+    <cosponsor thomas_id="00511" joined="2013-03-13"/>
+    <cosponsor thomas_id="01580" joined="2013-02-14"/>
+    <cosponsor thomas_id="01634" joined="2013-02-13"/>
+    <cosponsor thomas_id="02101" joined="2013-02-13"/>
+    <cosponsor thomas_id="00588" joined="2014-06-19"/>
+    <cosponsor thomas_id="00599" joined="2013-02-13"/>
+    <cosponsor thomas_id="01843" joined="2013-02-13"/>
+    <cosponsor thomas_id="00616" joined="2014-07-16"/>
+    <cosponsor thomas_id="01501" joined="2013-02-13"/>
+    <cosponsor thomas_id="00688" joined="2013-02-14"/>
+    <cosponsor thomas_id="00701" joined="2013-02-13"/>
+    <cosponsor thomas_id="02111" joined="2013-09-26"/>
+    <cosponsor thomas_id="00729" joined="2013-07-30"/>
+    <cosponsor thomas_id="01653" joined="2013-11-19"/>
+    <cosponsor thomas_id="00766" joined="2013-02-13"/>
+    <cosponsor thomas_id="01504" joined="2013-02-13"/>
+    <cosponsor thomas_id="00808" joined="2013-02-13"/>
+    <cosponsor thomas_id="01811" joined="2013-02-13"/>
+    <cosponsor thomas_id="00850" joined="2013-02-13"/>
+    <cosponsor thomas_id="02108" joined="2014-01-29"/>
+    <cosponsor thomas_id="00867" joined="2013-02-13"/>
+    <cosponsor thomas_id="00868" joined="2013-02-13"/>
+    <cosponsor thomas_id="01927" joined="2013-02-13"/>
+    <cosponsor thomas_id="02171" joined="2013-02-13"/>
+    <cosponsor thomas_id="00944" joined="2013-02-13"/>
+    <cosponsor thomas_id="00997" joined="2013-02-13"/>
+    <cosponsor thomas_id="01003" joined="2013-02-13"/>
+    <cosponsor thomas_id="01756" joined="2014-04-28"/>
+    <cosponsor thomas_id="01757" joined="2013-10-10"/>
+    <cosponsor thomas_id="01522" joined="2013-07-19"/>
+    <cosponsor thomas_id="01588" joined="2013-02-13"/>
+    <cosponsor thomas_id="01037" joined="2013-02-14"/>
+    <cosponsor thomas_id="01042" joined="2013-07-30"/>
+    <cosponsor thomas_id="02110" joined="2013-02-13"/>
+    <cosponsor thomas_id="01942" joined="2013-06-03"/>
+    <cosponsor thomas_id="01879" joined="2013-02-13"/>
+    <cosponsor thomas_id="02004" joined="2013-02-13"/>
+    <cosponsor thomas_id="01853" joined="2013-02-13"/>
+    <cosponsor thomas_id="01914" joined="2013-05-08" withdrawn="2013-05-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-13" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-02-13">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-02-13">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-02-13">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2013-02-15">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2013-02-19">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2013-02-22">
+      <text>Referred to the Subcommittee Indian and Alaska Native Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSWM02" name="House Ways and Means" activity="Referral"/>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee subcommittee="Indian and Alaska Native Affairs" code="HSII24" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Advisory bodies"/>
+    <term name="Appropriations"/>
+    <term name="Comprehensive health care"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Employment and training programs"/>
+    <term name="Employment taxes"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government studies and investigations"/>
+    <term name="Government trust funds"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health care quality"/>
+    <term name="Health information and medical records"/>
+    <term name="Health personnel"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Income tax rates"/>
+    <term name="Indian social and development programs"/>
+    <term name="Long-term, rehabilitative, and terminal care"/>
+    <term name="Medical ethics"/>
+    <term name="Mental health"/>
+    <term name="Minority health"/>
+    <term name="Prescription drugs"/>
+    <term name="Right of privacy"/>
+    <term name="Sales and excise taxes"/>
+    <term name="Securities"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>2/13/2013--Introduced.
+Expanded &amp; Improved Medicare for All Act - Establishes the Medicare for All Program to provide all individuals residing in the United States and U.S. territories with free health care that includes all medically necessary care, such as primary care and prevention, dietary and nutritional therapies, prescription drugs, emergency care, long-term care, mental health services, dental services, and vision care.
+
+Prohibits an institution from participating unless it is a public or nonprofit institution. Allows nonprofit health maintenance organizations (HMOs) that deliver care in their own facilities to participate.
+
+Gives patients the freedom to choose from participating physicians and institutions.
+
+Prohibits a private health insurer from selling health insurance coverage that duplicates the benefits provided under this Act. Allows such insurers to sell benefits that are not medically necessary, such as cosmetic surgery benefits.
+
+Sets forth methods to pay institutional providers of care and health professionals for services. Prohibits financial incentives between HMOs and physicians based on utilization.
+
+Establishes the Medicare for All Trust Fund to finance the Program with amounts deposited: (1) from existing sources of government revenues for health care, (2) by increasing personal income taxes on the top 5% income earners, (3) by instituting a modest and progressive excise tax on payroll and self-employment income, (4) by instituting a modest tax on unearned income, and (5) by instituting a small tax on stock and bond transactions. Transfers and appropriates to carry out this Act amounts that would have been appropriated for federal public health care programs, including Medicare, Medicaid, and the Children's Health Insurance Program (CHIP).
+
+Requires the Medicare for All Program to give first priority in retraining and job placement and employment transition benefits to individuals whose jobs are eliminated due to reduced administration.
+
+Requires creation of a confidential electronic patient record system.
+
+Establishes a National Board of Universal Quality and Access to provide advice on quality, access, and affordability.
+
+Requires the eventual integration of the Indian Health Service into the Program, and an evaluation of the continued independence of Department of Veterans Affairs (VA) health programs.</summary>
+</bill>

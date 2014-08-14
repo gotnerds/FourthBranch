@@ -1,0 +1,103 @@
+<bill session="113" type="h" number="2870" updated="2014-08-14T13:15:57-04:00">
+  <state datetime="2013-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-31"/>
+  </status>
+  <introduced datetime="2013-07-31"/>
+  <titles>
+    <title type="short" as="introduced">Real Estate Investment and Jobs Act of 2013</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to exempt certain stock of real estate investment trusts from the tax on foreign investments in United States real property interests, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01468"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2014-04-03"/>
+    <cosponsor thomas_id="02063" joined="2014-04-28"/>
+    <cosponsor thomas_id="00099" joined="2013-07-31"/>
+    <cosponsor thomas_id="01787" joined="2013-10-08"/>
+    <cosponsor thomas_id="02106" joined="2014-08-01"/>
+    <cosponsor thomas_id="01840" joined="2014-07-09"/>
+    <cosponsor thomas_id="00165" joined="2014-07-31"/>
+    <cosponsor thomas_id="02107" joined="2014-04-03"/>
+    <cosponsor thomas_id="01839" joined="2014-05-22"/>
+    <cosponsor thomas_id="01604" joined="2013-07-31"/>
+    <cosponsor thomas_id="01477" joined="2014-04-03"/>
+    <cosponsor thomas_id="02133" joined="2014-07-31"/>
+    <cosponsor thomas_id="01717" joined="2014-04-08"/>
+    <cosponsor thomas_id="02114" joined="2014-04-10"/>
+    <cosponsor thomas_id="01888" joined="2014-05-08"/>
+    <cosponsor thomas_id="01737" joined="2013-09-06"/>
+    <cosponsor thomas_id="01743" joined="2013-07-31"/>
+    <cosponsor thomas_id="02043" joined="2014-04-08"/>
+    <cosponsor thomas_id="01990" joined="2013-09-25"/>
+    <cosponsor thomas_id="02041" joined="2014-04-04"/>
+    <cosponsor thomas_id="01913" joined="2014-03-24"/>
+    <cosponsor thomas_id="01634" joined="2014-04-08"/>
+    <cosponsor thomas_id="01909" joined="2014-05-06"/>
+    <cosponsor thomas_id="01663" joined="2014-04-28"/>
+    <cosponsor thomas_id="01921" joined="2013-07-31"/>
+    <cosponsor thomas_id="00603" joined="2013-07-31"/>
+    <cosponsor thomas_id="02199" joined="2014-05-06"/>
+    <cosponsor thomas_id="02154" joined="2014-04-08"/>
+    <cosponsor thomas_id="02051" joined="2014-08-01"/>
+    <cosponsor thomas_id="01498" joined="2013-07-31"/>
+    <cosponsor thomas_id="00635" joined="2013-07-31"/>
+    <cosponsor thomas_id="02014" joined="2014-04-08"/>
+    <cosponsor thomas_id="01583" joined="2013-07-31"/>
+    <cosponsor thomas_id="00688" joined="2014-04-03"/>
+    <cosponsor thomas_id="00709" joined="2014-05-01"/>
+    <cosponsor thomas_id="01943" joined="2014-01-15"/>
+    <cosponsor thomas_id="02150" joined="2014-07-31"/>
+    <cosponsor thomas_id="01806" joined="2014-02-18"/>
+    <cosponsor thomas_id="00766" joined="2014-02-18"/>
+    <cosponsor thomas_id="02052" joined="2014-04-10"/>
+    <cosponsor thomas_id="01506" joined="2014-05-06"/>
+    <cosponsor thomas_id="02117" joined="2014-04-28"/>
+    <cosponsor thomas_id="00854" joined="2013-09-11"/>
+    <cosponsor thomas_id="01710" joined="2013-09-17"/>
+    <cosponsor thomas_id="01510" joined="2013-07-31"/>
+    <cosponsor thomas_id="01930" joined="2013-10-28"/>
+    <cosponsor thomas_id="00944" joined="2013-07-31"/>
+    <cosponsor thomas_id="01982" joined="2014-01-15"/>
+    <cosponsor thomas_id="01810" joined="2014-03-24"/>
+    <cosponsor thomas_id="02048" joined="2013-09-17"/>
+    <cosponsor thomas_id="00985" joined="2014-04-08"/>
+    <cosponsor thomas_id="01848" joined="2013-07-31"/>
+    <cosponsor thomas_id="01757" joined="2013-09-17"/>
+    <cosponsor thomas_id="01522" joined="2014-04-03"/>
+    <cosponsor thomas_id="01920" joined="2013-08-02"/>
+    <cosponsor thomas_id="01798" joined="2014-03-12"/>
+    <cosponsor thomas_id="01525" joined="2013-07-31"/>
+    <cosponsor thomas_id="01527" joined="2014-08-01"/>
+    <cosponsor thomas_id="01860" joined="2014-07-30"/>
+    <cosponsor thomas_id="01566" joined="2014-04-08"/>
+    <cosponsor thomas_id="01593" joined="2014-02-11"/>
+    <cosponsor thomas_id="01664" joined="2014-04-04"/>
+    <cosponsor thomas_id="01741" joined="2014-04-08"/>
+    <cosponsor thomas_id="01729" joined="2013-07-31"/>
+    <cosponsor thomas_id="02112" joined="2014-04-03"/>
+    <cosponsor thomas_id="01879" joined="2013-09-06"/>
+    <cosponsor thomas_id="02019" joined="2014-03-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-31" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1181"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Financial services and investments"/>
+    <term name="Real estate business"/>
+    <term name="Securities"/>
+    <term name="Taxation of foreign income"/>
+    <term name="U.S. and foreign investments"/>
+  </subjects>
+  <amendments/>
+  <summary>7/31/2013--Introduced.
+Real Estate Investment and Jobs Act of 2013 - Amends the Internal Revenue Code to increase from 5% to 10% the allowable ownership interest in real estate investment trust (REIT) stock for purposes of tax exemptions allowed by the Foreign Investment in Real Property Tax Act relating to foreign investment in United States real property interests.</summary>
+</bill>

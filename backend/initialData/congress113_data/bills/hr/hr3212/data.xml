@@ -1,0 +1,185 @@
+<bill session="113" type="h" number="3212" updated="2014-08-14T13:18:49-04:00">
+  <state datetime="2014-08-08">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="2014-08-08"/>
+  </status>
+  <introduced datetime="2013-09-28"/>
+  <titles>
+    <title type="short" as="introduced">Sean and David Goldman International Child Abduction Prevention and Return Act of 2013</title>
+    <title type="short" as="passed house">Sean and David Goldman International Child Abduction Prevention and Return Act of 2013</title>
+    <title type="short" as="reported to senate">Sean and David Goldman International Child Abduction Prevention and Return Act of 2014</title>
+    <title type="short" as="passed senate">Sean and David Goldman International Child Abduction Prevention and Return Act of 2014</title>
+    <title type="short" as="enacted">Sean and David Goldman International Child Abduction Prevention and Return Act of 2014</title>
+    <title type="official" as="introduced">To ensure compliance with the 1980 Hague Convention on the Civil Aspects of International Child Abduction by countries with which the United States enjoys reciprocal obligations, to establish procedures for the prompt return of children abducted to other countries, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01071"/>
+  <cosponsors>
+    <cosponsor thomas_id="00132" joined="2013-10-30"/>
+    <cosponsor thomas_id="01751" joined="2013-09-28"/>
+    <cosponsor thomas_id="00186" joined="2013-10-15"/>
+    <cosponsor thomas_id="01641" joined="2013-10-30"/>
+    <cosponsor thomas_id="02143" joined="2013-09-28"/>
+    <cosponsor thomas_id="01580" joined="2013-10-23"/>
+    <cosponsor thomas_id="00616" joined="2013-10-23"/>
+    <cosponsor thomas_id="02172" joined="2013-09-28"/>
+    <cosponsor thomas_id="02014" joined="2013-12-09"/>
+    <cosponsor thomas_id="01781" joined="2013-09-28"/>
+    <cosponsor thomas_id="02111" joined="2013-10-15"/>
+    <cosponsor thomas_id="01806" joined="2013-10-30"/>
+    <cosponsor thomas_id="01504" joined="2013-11-18"/>
+    <cosponsor thomas_id="02142" joined="2013-09-28"/>
+    <cosponsor thomas_id="02148" joined="2013-12-09"/>
+    <cosponsor thomas_id="01685" joined="2013-10-30"/>
+    <cosponsor thomas_id="01811" joined="2013-10-09"/>
+    <cosponsor thomas_id="00832" joined="2013-09-28"/>
+    <cosponsor thomas_id="01510" joined="2013-10-09"/>
+    <cosponsor thomas_id="01802" joined="2013-10-15"/>
+    <cosponsor thomas_id="02118" joined="2013-12-09"/>
+    <cosponsor thomas_id="00944" joined="2013-10-30"/>
+    <cosponsor thomas_id="01522" joined="2013-12-09"/>
+    <cosponsor thomas_id="01041" joined="2013-10-23"/>
+    <cosponsor thomas_id="01526" joined="2013-09-28"/>
+    <cosponsor thomas_id="02110" joined="2013-10-23"/>
+    <cosponsor thomas_id="01997" joined="2013-11-18"/>
+    <cosponsor thomas_id="02112" joined="2013-10-09"/>
+    <cosponsor thomas_id="02128" joined="2013-12-09"/>
+    <cosponsor thomas_id="01238" joined="2013-09-28"/>
+    <cosponsor thomas_id="02115" joined="2013-10-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-28" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2013-10-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2013-10-10" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+    </calendar>
+    <action datetime="2013-12-11T12:54:00-05:00">
+      <text>Mr. Royce moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2013-12-11T12:54:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H7642-7650" label="consideration"/>
+    </action>
+    <action datetime="2013-12-11T12:54:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 3212.</text>
+    </action>
+    <action datetime="2013-12-11T13:19:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2013-12-11T16:18:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H7668" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="635" datetime="2013-12-11T16:23:00-05:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 398 - 0 (Roll no. 635).</text>
+      <reference ref="CR H7642-7646" label="text"/>
+    </vote>
+    <action datetime="2013-12-12">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="2013-12-17">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+    <calendar datetime="2014-06-24">
+      <text>Committee on Foreign Relations. Ordered to be reported with an amendment favorably.</text>
+    </calendar>
+    <action datetime="2014-06-26">
+      <text>Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute. With written report No. 113-204.</text>
+    </action>
+    <calendar datetime="2014-06-26" calendar="Senate Legislative" under="General Orders" number="450">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 450.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote2" datetime="2014-07-16" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+      <reference ref="CR S4563-4567" label="consideration"/>
+      <reference ref="CR S4563-4567" label="text as passed Senate"/>
+    </vote>
+    <action datetime="2014-07-17">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2014-07-25T13:05:00-04:00">
+      <text>Mr. Smith (NJ) asked unanimous consent to take from the Speaker's table and agree to the Senate amendment.</text>
+      <reference ref="CR H6839-6843" label="consideration"/>
+    </action>
+    <vote how="without objection" type="pingpong" datetime="2014-07-25T13:05:00-04:00" where="h" result="pass" state="PASSED:BILL">
+      <text>On motion that the House agree to the Senate amendment Agreed to without objection.</text>
+      <reference ref="CR H6839-6843" label="text as House agreed to Senate amendment"/>
+    </vote>
+    <action datetime="2014-07-25T13:05:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <topresident datetime="2014-07-29">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="2014-08-08" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="113-150" type="public" datetime="2014-08-08">
+      <text>Became Public Law No: 113-150.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral, Markup"/>
+    <committee subcommittee="" code="SSFR" name="Senate Foreign Relations" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2509"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Aviation and airports"/>
+    <term name="Child safety and welfare"/>
+    <term name="Congressional oversight"/>
+    <term name="Crime victims"/>
+    <term name="Crimes against children"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Cultural exchanges and relations"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Family relationships"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Government information and archives"/>
+    <term name="International law and treaties"/>
+    <term name="Judges"/>
+    <term name="Military assistance, sales, and agreements"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Sanctions"/>
+    <term name="Separation, divorce, custody, support"/>
+    <term name="Trade restrictions"/>
+  </subjects>
+  <amendments/>
+  <summary>12/11/2013--Passed House amended.
+Sean and David Goldman International Child Abduction Prevention and Return Act of 2013 - (Sec. 2) Expresses the sense of Congress that the United States should set a strong example for 1980 Hague Convention on the Civil Aspects of International Child Abduction (Convention) countries in the timely location and return of abducted children in the United States whose habitual residence is not the United States.
+
+(Sec. 3) Defines specified terms for purposes of this Act.
+
+Title I: Department of State Actions - (Sec. 101) Directs the Secretary of State to submit to Congress an Annual Report on International Child Abduction.
+
+(Sec. 102) Directs the Secretary to ensure that U.S. diplomatic and consular missions: (1) maintain a consistent reporting standard with respect to abduction or access cases, (2) designate at least one official in each mission to assist U.S. parents who are visiting to resolve such cases, and (3) monitor cases involving abducted children in their country of location.
+
+(Sec. 103) Directs the Secretary to seek to enter into a memorandum of understanding (an agreement between the United States and a country that is not a Convention country to resolve abduction and rights of access cases) with every country that is not a Convention country.
+
+(Sec. 104) Directs the Secretary of State to notify the Member of Congress and Senators representing the legal residence of a left-behind parent when that parent reports an abduction to the Central Authority of the United States unless the left-behind parent does not consent to such notification.
+
+Title II: Presidential Actions - (Sec. 201) States that it shall be U.S. policy to: (1) promote the best interest of children abducted from the United States by establishing legal rights and procedures for their prompt return, and (2) recognize the international character of the Convention.
+
+ Directs the President, upon a determination that the government of a foreign country has failed to resolve an abduction or access case or has engaged in a pattern of noncooperation, to take one or more specified actions to promote resolution or cooperation.
+
+(Sec. 202) States that it shall be U.S. policy to: (1) oppose systemic foreign government failures to fulfill obligations pursuant to the Convention or a memorandum of understanding (MOU) between the United States and a non-Convention country to resolve abduction and access cases, and (2) promote reciprocity pursuant to and compliance with the Convention or the applicable MOUs.
+
+Directs the President, upon a determination that the government of a foreign country has engaged in a pattern of noncooperation, to take one or more specified actions to promote resolution or cooperation.
+
+Directs the President to: (1) review annually the status of abduction cases and access cases in each foreign country to determine whether the country's government has engaged in a pattern of noncooperation during the preceding 12 months or since the last review, (2) designate each country whose government has engaged in a pattern of noncooperation as a Country With a Pattern of Noncooperation (Country), (3) target the responsible agencies or instrumentalities, and (4) notify Congress of such designations.
+
+(Sec. 203) Directs the President to request consultation with the government of a country regarding its designation as a Country.
+
+(Sec. 204) Directs the President to report to Congress regarding the violations and the actions to be taken with respect to a Country.
+
+(Sec. 205) Sets forth presidential actions and waiver authority under this Act.
+
+(Sec. 207) Directs the President to ensure publication in the Federal Register of: (1) Country designations, (2) presidential actions, (3) delays in report transmittal, and (4) waivers.
+
+(Sec. 208) Terminates any action taken under this Act with respect to a foreign country on the earlier of the following two dates: (1) not later than two years after the effective date of such action unless expressly reauthorized by law, or (2) the date on which the President certifies to Congress that such country has resolved any unresolved abduction case or has taken substantial and verifiable steps to correct the pattern of noncooperation at issue.</summary>
+</bill>

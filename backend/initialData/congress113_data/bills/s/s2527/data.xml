@@ -1,0 +1,36 @@
+<bill session="113" type="s" number="2527" updated="2014-08-14T14:06:21-04:00">
+  <state datetime="2014-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-25"/>
+  </status>
+  <introduced datetime="2014-06-25"/>
+  <titles>
+    <title type="short" as="introduced">Summer Meals Act of 2014</title>
+    <title type="official" as="introduced">A bill to amend the Richard B. Russell National School Lunch Act to improve the efficiency of summer meals.</title>
+  </titles>
+  <sponsor thomas_id="01866"/>
+  <cosponsors>
+    <cosponsor thomas_id="01898" joined="2014-07-14"/>
+    <cosponsor thomas_id="01694" joined="2014-06-25"/>
+    <cosponsor thomas_id="01247" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-25" state="REFERRED">
+      <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="5012"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Food assistance and relief"/>
+    <term name="Poverty and welfare assistance"/>
+    <term name="Public-private cooperation"/>
+  </subjects>
+  <amendments/>
+</bill>

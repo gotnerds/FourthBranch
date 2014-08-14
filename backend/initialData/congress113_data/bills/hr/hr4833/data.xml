@@ -1,0 +1,57 @@
+<bill session="113" type="h" number="4833" updated="2014-08-14T13:32:40-04:00">
+  <state datetime="2014-06-10">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-10"/>
+  </status>
+  <introduced datetime="2014-06-10"/>
+  <titles>
+    <title type="short" as="introduced">Women and Minorities in STEM Booster Act of 2014</title>
+    <title type="official" as="introduced">To increase the participation of historically underrepresented demographic groups in science, technology, engineering, and mathematics education and industry.</title>
+  </titles>
+  <sponsor thomas_id="00729"/>
+  <cosponsors>
+    <cosponsor thomas_id="02196" joined="2014-07-30"/>
+    <cosponsor thomas_id="00511" joined="2014-06-25"/>
+    <cosponsor thomas_id="01634" joined="2014-07-11"/>
+    <cosponsor thomas_id="00588" joined="2014-06-10"/>
+    <cosponsor thomas_id="01814" joined="2014-06-25"/>
+    <cosponsor thomas_id="01653" joined="2014-07-31"/>
+    <cosponsor thomas_id="02117" joined="2014-07-23"/>
+    <cosponsor thomas_id="01757" joined="2014-06-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-10">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E943"/>
+    </action>
+    <action datetime="2014-06-10" state="REFERRED">
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="2014-07-15">
+      <text>Referred to the Subcommittee on Research and Technology.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+    <committee subcommittee="Research and Technology" code="HSSY15" name="House Science, Space, and Technology" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="288"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Education programs funding"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Higher education"/>
+    <term name="Minority education"/>
+    <term name="Science and engineering education"/>
+    <term name="Teaching, teachers, curricula"/>
+    <term name="Women's education"/>
+    <term name="Women's employment"/>
+  </subjects>
+  <amendments/>
+  <summary>6/10/2014--Introduced.
+Women and Minorities in STEM Booster Act of 2014 - Requires the Director of the National Science Foundation (NSF), acting through the Human Resources Directorate and not less than one research directorate of the NSF, to award competitive grants to eligible entities to enable them to carry out the activities specified below in order to increase the participation of women and underrepresented minorities in the fields of science, technology, engineering, and mathematics (STEM).
+
+Requires an eligible entity that receives a grant to use those grant funds to carry out the following activities designed to increase the participation of women and underrepresented minorities in STEM fields: (1) online workshops, (2) mentoring programs that partner STEM professionals with students, (3) internships for undergraduate and graduate students in STEM, and (4) conducting outreach programs providing elementary and secondary school students with opportunities to increase their exposure to STEM.</summary>
+</bill>

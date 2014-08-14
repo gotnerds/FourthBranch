@@ -1,0 +1,93 @@
+<bill session="113" type="h" number="1186" updated="2014-08-14T13:00:48-04:00">
+  <state datetime="2013-03-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-14"/>
+  </status>
+  <introduced datetime="2013-03-14"/>
+  <titles>
+    <title type="official" as="introduced">To posthumously award the Congressional Gold Medal to each of Glen Doherty and Tyrone Woods in recognition of their contributions to the Nation.</title>
+  </titles>
+  <sponsor thomas_id="01909"/>
+  <cosponsors>
+    <cosponsor thomas_id="02131" joined="2013-05-22"/>
+    <cosponsor thomas_id="02027" joined="2013-10-01"/>
+    <cosponsor thomas_id="01748" joined="2013-05-22"/>
+    <cosponsor thomas_id="01882" joined="2013-03-14"/>
+    <cosponsor thomas_id="01751" joined="2013-06-06"/>
+    <cosponsor thomas_id="01564" joined="2013-04-09"/>
+    <cosponsor thomas_id="02196" joined="2014-06-30"/>
+    <cosponsor thomas_id="00211" joined="2013-04-26"/>
+    <cosponsor thomas_id="02098" joined="2013-04-26"/>
+    <cosponsor thomas_id="01670" joined="2013-03-18"/>
+    <cosponsor thomas_id="01641" joined="2013-05-09"/>
+    <cosponsor thomas_id="02133" joined="2013-05-22"/>
+    <cosponsor thomas_id="01717" joined="2013-04-26"/>
+    <cosponsor thomas_id="02072" joined="2013-09-11"/>
+    <cosponsor thomas_id="02057" joined="2014-01-13"/>
+    <cosponsor thomas_id="01707" joined="2013-09-11"/>
+    <cosponsor thomas_id="01720" joined="2013-09-11"/>
+    <cosponsor thomas_id="01801" joined="2013-03-14"/>
+    <cosponsor thomas_id="00446" joined="2013-06-05"/>
+    <cosponsor thomas_id="01990" joined="2013-10-30"/>
+    <cosponsor thomas_id="01640" joined="2013-06-14"/>
+    <cosponsor thomas_id="01921" joined="2013-05-06"/>
+    <cosponsor thomas_id="02046" joined="2013-03-14"/>
+    <cosponsor thomas_id="01868" joined="2013-03-14"/>
+    <cosponsor thomas_id="02025" joined="2013-04-09"/>
+    <cosponsor thomas_id="02172" joined="2013-05-15"/>
+    <cosponsor thomas_id="01724" joined="2013-03-14"/>
+    <cosponsor thomas_id="00636" joined="2013-05-06"/>
+    <cosponsor thomas_id="02014" joined="2014-01-09"/>
+    <cosponsor thomas_id="02100" joined="2013-06-14"/>
+    <cosponsor thomas_id="00666" joined="2013-11-12"/>
+    <cosponsor thomas_id="01686" joined="2013-04-09"/>
+    <cosponsor thomas_id="01806" joined="2013-10-29"/>
+    <cosponsor thomas_id="00735" joined="2013-04-09"/>
+    <cosponsor thomas_id="01833" joined="2013-08-02"/>
+    <cosponsor thomas_id="01908" joined="2013-07-31"/>
+    <cosponsor thomas_id="01504" joined="2013-05-09"/>
+    <cosponsor thomas_id="02113" joined="2013-04-12"/>
+    <cosponsor thomas_id="02160" joined="2013-05-06"/>
+    <cosponsor thomas_id="00979" joined="2013-05-06"/>
+    <cosponsor thomas_id="00998" joined="2013-03-21"/>
+    <cosponsor thomas_id="02109" joined="2013-06-20"/>
+    <cosponsor thomas_id="01009" joined="2013-10-23"/>
+    <cosponsor thomas_id="01950" joined="2013-12-12"/>
+    <cosponsor thomas_id="02168" joined="2013-06-05"/>
+    <cosponsor thomas_id="01114" joined="2013-05-22"/>
+    <cosponsor thomas_id="02110" joined="2013-07-31"/>
+    <cosponsor thomas_id="01535" joined="2013-06-05"/>
+    <cosponsor thomas_id="01884" joined="2013-04-12"/>
+    <cosponsor thomas_id="02112" joined="2013-05-15"/>
+    <cosponsor thomas_id="02161" joined="2013-03-14"/>
+    <cosponsor thomas_id="01222" joined="2014-03-14"/>
+    <cosponsor thomas_id="01688" joined="2013-03-14"/>
+    <cosponsor thomas_id="01886" joined="2013-03-14"/>
+    <cosponsor thomas_id="01238" joined="2013-03-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-14" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="1587"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="Law enforcement officers"/>
+    <term name="Libya"/>
+    <term name="Middle East"/>
+    <term name="Terrorism"/>
+    <term name="Veterans' organizations and recognition"/>
+  </subjects>
+  <amendments/>
+  <summary>3/14/2013--Introduced.
+Directs the Speaker of the House of Representatives and the President pro tempore of the Senate to arrange for the posthumous award, on behalf of Congress, of a gold medal in commemoration of the contributions of Glen Doherty and Tyrone Woods, two former Navy SEAL members who sacrificed their lives on September 11, 2012, while serving as part of a U.S. diplomatic security detachment in Libya.</summary>
+</bill>

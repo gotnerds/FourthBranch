@@ -1,0 +1,120 @@
+<bill session="113" type="hr" number="417" updated="2014-08-14T12:48:10-04:00">
+  <state datetime="2013-11-18">REFERRED</state>
+  <status>
+    <introduced datetime="2013-11-18"/>
+  </status>
+  <introduced datetime="2013-11-18"/>
+  <titles>
+    <title type="official" as="introduced">Praising India's rich religious diversity and commitment to tolerance and equality, and reaffirming the need to protect the rights and freedoms of religious minorities.</title>
+  </titles>
+  <sponsor thomas_id="01514"/>
+  <cosponsors>
+    <cosponsor thomas_id="02155" joined="2013-12-11"/>
+    <cosponsor thomas_id="02107" joined="2013-12-02"/>
+    <cosponsor thomas_id="01889" joined="2013-11-20"/>
+    <cosponsor thomas_id="01742" joined="2013-12-02"/>
+    <cosponsor thomas_id="00229" joined="2013-11-18"/>
+    <cosponsor thomas_id="02144" joined="2014-03-21"/>
+    <cosponsor thomas_id="01477" joined="2013-12-12"/>
+    <cosponsor thomas_id="00299" joined="2013-12-10"/>
+    <cosponsor thomas_id="00316" joined="2013-11-22"/>
+    <cosponsor thomas_id="02057" joined="2013-12-10"/>
+    <cosponsor thomas_id="01857" joined="2013-11-18"/>
+    <cosponsor thomas_id="02067" joined="2014-04-04"/>
+    <cosponsor thomas_id="01683" joined="2013-12-19"/>
+    <cosponsor thomas_id="01707" joined="2013-12-11"/>
+    <cosponsor thomas_id="01801" joined="2014-04-01"/>
+    <cosponsor thomas_id="02058" joined="2013-11-22"/>
+    <cosponsor thomas_id="01990" joined="2013-11-20"/>
+    <cosponsor thomas_id="01708" joined="2013-11-18"/>
+    <cosponsor thomas_id="00484" joined="2013-12-12"/>
+    <cosponsor thomas_id="02026" joined="2014-05-28"/>
+    <cosponsor thomas_id="01913" joined="2013-12-03"/>
+    <cosponsor thomas_id="01580" joined="2014-04-09"/>
+    <cosponsor thomas_id="02020" joined="2013-11-18"/>
+    <cosponsor thomas_id="00612" joined="2013-12-19"/>
+    <cosponsor thomas_id="02134" joined="2014-06-23"/>
+    <cosponsor thomas_id="01498" joined="2013-12-03"/>
+    <cosponsor thomas_id="01724" joined="2013-12-10"/>
+    <cosponsor thomas_id="01501" joined="2014-04-09"/>
+    <cosponsor thomas_id="00688" joined="2013-11-18"/>
+    <cosponsor thomas_id="01908" joined="2014-03-24"/>
+    <cosponsor thomas_id="01653" joined="2013-11-18"/>
+    <cosponsor thomas_id="00766" joined="2013-12-02"/>
+    <cosponsor thomas_id="01504" joined="2013-11-18"/>
+    <cosponsor thomas_id="02142" joined="2013-11-18"/>
+    <cosponsor thomas_id="00832" joined="2013-11-18"/>
+    <cosponsor thomas_id="00868" joined="2014-04-08"/>
+    <cosponsor thomas_id="01510" joined="2013-11-21"/>
+    <cosponsor thomas_id="01738" joined="2014-01-13"/>
+    <cosponsor thomas_id="00910" joined="2013-12-03"/>
+    <cosponsor thomas_id="02141" joined="2013-12-10"/>
+    <cosponsor thomas_id="01910" joined="2013-11-18"/>
+    <cosponsor thomas_id="02073" joined="2013-12-11"/>
+    <cosponsor thomas_id="01588" joined="2013-12-12"/>
+    <cosponsor thomas_id="02009" joined="2014-03-28"/>
+    <cosponsor thomas_id="01041" joined="2013-11-18"/>
+    <cosponsor thomas_id="01818" joined="2013-11-18"/>
+    <cosponsor thomas_id="01071" joined="2013-11-19"/>
+    <cosponsor thomas_id="01942" joined="2013-12-19"/>
+    <cosponsor thomas_id="01856" joined="2013-12-11"/>
+    <cosponsor thomas_id="02161" joined="2013-11-22"/>
+    <cosponsor thomas_id="01238" joined="2013-11-18"/>
+    <cosponsor thomas_id="00186" joined="2013-11-18" withdrawn="2013-12-05"/>
+    <cosponsor thomas_id="02157" joined="2013-11-21" withdrawn="2014-02-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-11-18" state="REFERRED">
+      <text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-11-18">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2013-11-18">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2014-01-09">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Immigration and Border Security" code="HSJU01" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Constitution and Civil Justice" code="HSJU10" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Asia"/>
+    <term name="Congressional tributes"/>
+    <term name="Crime victims"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Government ethics and transparency, public corruption"/>
+    <term name="Human rights"/>
+    <term name="India"/>
+    <term name="Law enforcement officers"/>
+    <term name="Religion"/>
+    <term name="Visas and passports"/>
+  </subjects>
+  <amendments/>
+  <summary>11/18/2013--Introduced.
+Recognizes the suffering of Indian citizens who have been victims of religious violence.
+
+Calls for religious freedom and related human rights to be included in the United States-India Strategic Dialogue and for such issues to be raised directly with federal and state Indian government officials.
+
+Declares that the House of Representatives shares the opinion of the Department of State and the U.S. Commission on International Religious Freedom that the Gujarat government has not adequately pursued justice for the victims of religious violence in 2002 and expresses concern regarding reports about the complicity of local officials.
+
+Commends the U.S. government for exercising its authority in 2005 under the International Religious Freedom Act of 1998 to deny a U.S. visa to Narendra Modi on the grounds of religious freedom violations, and encourages it to review the applications of any individuals implicated in such violations under the same standard.
+
+Commends the role of India's National Human Rights Commission and the Indian Supreme Court, which has led to some convictions in Gujarat riot cases and the arrest of high-level leaders in the Gujarati administration.
+
+Calls on India to: (1) increase training on human rights and religious freedom standards and practices for police and the judiciary; and (2) empower the National Commission on Minorities with enforcement mechanisms.
+
+Calls on Gujarat and other Indian states with anti-conversion laws to repeal such legislation and ensure freedom to practice, propagate, and profess religion as enshrined in the Indian constitution.
+
+Encourages the establishment of an impartial body of interfaith religious leaders, human rights advocates, legal experts, and government officials to discuss and recommend actions to promote religious tolerance and understanding.
+
+Urges all political parties and religious organizations to publicly oppose the exploitation of religious differences and denounce harassment and violence against religious minorities.</summary>
+</bill>

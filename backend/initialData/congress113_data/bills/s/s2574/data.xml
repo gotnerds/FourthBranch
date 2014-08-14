@@ -1,0 +1,24 @@
+<bill session="113" type="s" number="2574" updated="2014-08-14T14:06:45-04:00">
+  <state datetime="2014-07-09">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-09"/>
+  </status>
+  <introduced datetime="2014-07-09"/>
+  <titles>
+    <title type="short" as="introduced">Healthy Families Act of 2014</title>
+    <title type="official" as="introduced">A bill to make the United States Preventive Services Task Force subject to the Federal Advisory Committee Act.</title>
+  </titles>
+  <sponsor thomas_id="02179"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-09" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

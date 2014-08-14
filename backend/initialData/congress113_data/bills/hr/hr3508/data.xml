@@ -1,0 +1,68 @@
+<bill session="113" type="h" number="3508" updated="2014-08-14T13:21:26-04:00">
+  <state datetime="2013-11-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-11-15"/>
+  </status>
+  <introduced datetime="2013-11-15"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 38, United States Code, to clarify the qualifications of hearing aid specialists of the Veterans Health Administration of the Department of Veterans Affairs, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02072"/>
+  <cosponsors>
+    <cosponsor thomas_id="02135" joined="2014-03-06"/>
+    <cosponsor thomas_id="02106" joined="2013-12-05"/>
+    <cosponsor thomas_id="01474" joined="2014-01-27"/>
+    <cosponsor thomas_id="02144" joined="2013-12-02"/>
+    <cosponsor thomas_id="01717" joined="2014-03-10"/>
+    <cosponsor thomas_id="02041" joined="2014-03-27"/>
+    <cosponsor thomas_id="01913" joined="2014-02-27"/>
+    <cosponsor thomas_id="01580" joined="2014-04-04"/>
+    <cosponsor thomas_id="00612" joined="2013-11-20"/>
+    <cosponsor thomas_id="01498" joined="2014-01-28"/>
+    <cosponsor thomas_id="01834" joined="2014-07-28"/>
+    <cosponsor thomas_id="01675" joined="2014-01-27"/>
+    <cosponsor thomas_id="01885" joined="2014-04-29"/>
+    <cosponsor thomas_id="01653" joined="2014-04-03"/>
+    <cosponsor thomas_id="02001" joined="2014-02-28"/>
+    <cosponsor thomas_id="02162" joined="2014-06-19"/>
+    <cosponsor thomas_id="02171" joined="2014-03-10"/>
+    <cosponsor thomas_id="02109" joined="2013-12-02"/>
+    <cosponsor thomas_id="01952" joined="2014-01-27"/>
+    <cosponsor thomas_id="02105" joined="2014-07-24"/>
+    <cosponsor thomas_id="01856" joined="2013-11-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-11-15" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-11-25">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2014-03-27">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Health" code="HSVR03" name="House Veterans' Affairs" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2311"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government information and archives"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health personnel"/>
+    <term name="Hearing, speech, and vision care"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>11/15/2013--Introduced.
+Authorizes the appointment of hearing aid specialists in the Veterans Health Administration (VHA) of the Department of Veterans Affairs (VA). Requires an eligible person to: (1) hold an associate's degree in hearing instrument sciences or its equivalent from a college or university approved by the VA Secretary or have successfully completed an approved hearing aid specialist apprenticeship program, and (2) be licensed as a hearing aid specialist or its equivalent in a state.
+
+Requires the Secretary to: (1) submit an annual report on timely access to hearing health services and on contracting policies with respect to providing hearing health services in non-VA facilities, and (2) update and reissue the VHA handbook entitled "VHA Audiology and Speech-Language Pathology Services" to reflect the requirements of this Act.</summary>
+</bill>

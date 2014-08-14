@@ -1,0 +1,81 @@
+<bill session="113" type="hr" number="268" updated="2014-08-14T12:46:54-04:00">
+  <state datetime="2013-06-17">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-17"/>
+  </status>
+  <introduced datetime="2013-06-17"/>
+  <titles>
+    <title type="official" as="introduced">Observing the historical significance of Juneteenth Independence Day.</title>
+  </titles>
+  <sponsor thomas_id="00588"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2013-06-17"/>
+    <cosponsor thomas_id="02153" joined="2013-06-19"/>
+    <cosponsor thomas_id="00070" joined="2013-06-17"/>
+    <cosponsor thomas_id="00091" joined="2013-06-17"/>
+    <cosponsor thomas_id="00132" joined="2013-06-17"/>
+    <cosponsor thomas_id="01761" joined="2013-06-17"/>
+    <cosponsor thomas_id="01889" joined="2013-06-17"/>
+    <cosponsor thomas_id="02163" joined="2013-06-17"/>
+    <cosponsor thomas_id="01864" joined="2013-06-17"/>
+    <cosponsor thomas_id="00208" joined="2013-06-17"/>
+    <cosponsor thomas_id="01878" joined="2013-06-17"/>
+    <cosponsor thomas_id="00229" joined="2013-06-17"/>
+    <cosponsor thomas_id="01807" joined="2013-06-17"/>
+    <cosponsor thomas_id="00256" joined="2013-06-17"/>
+    <cosponsor thomas_id="01477" joined="2013-06-19"/>
+    <cosponsor thomas_id="00303" joined="2013-06-17"/>
+    <cosponsor thomas_id="01803" joined="2013-06-17"/>
+    <cosponsor thomas_id="00462" joined="2013-06-17"/>
+    <cosponsor thomas_id="00511" joined="2013-06-17"/>
+    <cosponsor thomas_id="01490" joined="2013-06-17"/>
+    <cosponsor thomas_id="02147" joined="2013-06-17"/>
+    <cosponsor thomas_id="02149" joined="2013-06-17"/>
+    <cosponsor thomas_id="02190" joined="2013-06-17"/>
+    <cosponsor thomas_id="02172" joined="2013-06-17"/>
+    <cosponsor thomas_id="01501" joined="2013-06-17"/>
+    <cosponsor thomas_id="00688" joined="2013-06-17"/>
+    <cosponsor thomas_id="01504" joined="2013-06-17"/>
+    <cosponsor thomas_id="01506" joined="2013-06-17"/>
+    <cosponsor thomas_id="00868" joined="2013-06-17"/>
+    <cosponsor thomas_id="02162" joined="2013-06-17"/>
+    <cosponsor thomas_id="02097" joined="2013-06-17"/>
+    <cosponsor thomas_id="00905" joined="2013-06-17"/>
+    <cosponsor thomas_id="01802" joined="2013-06-17"/>
+    <cosponsor thomas_id="00944" joined="2013-06-17"/>
+    <cosponsor thomas_id="00997" joined="2013-06-17"/>
+    <cosponsor thomas_id="01522" joined="2013-06-17"/>
+    <cosponsor thomas_id="01988" joined="2013-06-17"/>
+    <cosponsor thomas_id="01777" joined="2013-06-17"/>
+    <cosponsor thomas_id="01205" joined="2013-06-17"/>
+    <cosponsor thomas_id="02004" joined="2013-06-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-17">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H3671"/>
+    </action>
+    <action datetime="2013-06-17" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="113" relation="identical" number="632"/>
+    <bill type="sr" session="113" relation="unknown" number="175"/>
+    <bill type="sr" session="113" relation="unknown" number="474"/>
+  </relatedbills>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="U.S. history"/>
+  </subjects>
+  <amendments/>
+  <summary>6/17/2013--Introduced.
+Recognizes the historical significance to the nation, and supports the continued celebration, of Juneteenth Independence Day.
+
+Declares the sense of the House of Representatives that: (1) history should be regarded as a means for understanding the past and solving the challenges of the future, and (2) the celebration of the end of slavery is an important and enriching part of the history and heritage of the United States.</summary>
+</bill>

@@ -1,0 +1,49 @@
+<bill session="113" type="h" number="35" updated="2014-08-14T12:50:59-04:00">
+  <state datetime="2013-01-03">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-03"/>
+  </status>
+  <introduced datetime="2013-01-03"/>
+  <titles>
+    <title type="short" as="introduced">Safe Schools Act of 2013</title>
+    <title type="official" as="introduced">To restore safety to America's schools.</title>
+  </titles>
+  <sponsor thomas_id="01114"/>
+  <cosponsors>
+    <cosponsor thomas_id="02027" joined="2013-02-13"/>
+    <cosponsor thomas_id="01753" joined="2013-06-25"/>
+    <cosponsor thomas_id="02155" joined="2013-04-25"/>
+    <cosponsor thomas_id="01882" joined="2013-01-03"/>
+    <cosponsor thomas_id="02098" joined="2013-03-20"/>
+    <cosponsor thomas_id="02057" joined="2013-02-06"/>
+    <cosponsor thomas_id="01801" joined="2013-02-13"/>
+    <cosponsor thomas_id="02094" joined="2013-02-06"/>
+    <cosponsor thomas_id="02035" joined="2013-02-25"/>
+    <cosponsor thomas_id="02160" joined="2013-03-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-03" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-01-25">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, And Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="133"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Child safety and welfare"/>
+    <term name="Educational facilities and institutions"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Firearms and explosives"/>
+  </subjects>
+  <amendments/>
+  <summary>1/3/2013--Introduced.
+Safe Schools Act of 2013 - Amends the federal criminal code to repeal provisions making it unlawful to possess or discharge a firearm in a school zone.</summary>
+</bill>

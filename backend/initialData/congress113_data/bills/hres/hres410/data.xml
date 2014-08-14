@@ -1,0 +1,48 @@
+<bill session="113" type="hr" number="410" updated="2014-08-14T12:48:07-04:00">
+  <state datetime="2013-11-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-11-13"/>
+  </status>
+  <introduced datetime="2013-11-13"/>
+  <titles>
+    <title type="official" as="introduced">Expressing support for the designation of a "Small Business Saturday" and supporting efforts to increase awareness of the value of locally owned small businesses.</title>
+  </titles>
+  <sponsor thomas_id="01656"/>
+  <cosponsors>
+    <cosponsor thomas_id="01840" joined="2013-11-19"/>
+    <cosponsor thomas_id="00186" joined="2013-11-19"/>
+    <cosponsor thomas_id="02055" joined="2013-11-13"/>
+    <cosponsor thomas_id="02120" joined="2014-07-31"/>
+    <cosponsor thomas_id="02089" joined="2013-12-04"/>
+    <cosponsor thomas_id="02044" joined="2013-11-19"/>
+    <cosponsor thomas_id="02071" joined="2013-11-13"/>
+    <cosponsor thomas_id="02020" joined="2013-11-19"/>
+    <cosponsor thomas_id="01724" joined="2013-12-04"/>
+    <cosponsor thomas_id="00701" joined="2014-01-10"/>
+    <cosponsor thomas_id="01931" joined="2013-11-21"/>
+    <cosponsor thomas_id="02059" joined="2013-11-21"/>
+    <cosponsor thomas_id="02023" joined="2013-11-21"/>
+    <cosponsor thomas_id="01997" joined="2013-11-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-11-13" state="REFERRED">
+      <text>Referred to the House Committee on Small Business.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSSM" name="House Small Business" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="sr" session="113" relation="unknown" number="313"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Economic performance and conditions"/>
+    <term name="Retail and wholesale trades"/>
+    <term name="Small business"/>
+  </subjects>
+  <amendments/>
+  <summary>11/13/2013--Introduced.
+Expresses support for: (1) the designation of a Small Business Saturday, (2) efforts to encourage consumers to shop locally, and (3) efforts to increase awareness of the value of locally owned small businesses and their impact on the U.S. economy.</summary>
+</bill>

@@ -1,0 +1,35 @@
+<bill session="113" type="s" number="530" updated="2014-08-14T13:49:14-04:00">
+  <state datetime="2013-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-12"/>
+  </status>
+  <introduced datetime="2013-03-12"/>
+  <titles>
+    <title type="official" as="introduced">A bill to make participation in the American Community Survey voluntary, except with respect to certain basic questions, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02082"/>
+  <cosponsors>
+    <cosponsor thomas_id="00583" joined="2014-04-03"/>
+    <cosponsor thomas_id="01899" joined="2013-03-12"/>
+    <cosponsor thomas_id="01395" joined="2013-03-12"/>
+    <cosponsor thomas_id="01609" joined="2013-03-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="1078"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Census and government statistics"/>
+  </subjects>
+  <amendments/>
+  <summary>3/12/2013--Introduced.
+Requires the Secretary of Commerce, in conducting any survey relating to the Census, to include in instructions for completing any such survey that participation in the survey is optional, except that survey respondents must provide their names, contract information, the date of response, and the number of people living or staying at the same addresses where the respondents reside. Prohibits any person participating in a survey from being fined or otherwise compelled to answer questions in connection with the survey (except for the basic questions permitted by this Act).</summary>
+</bill>

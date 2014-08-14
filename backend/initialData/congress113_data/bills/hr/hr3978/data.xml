@@ -1,0 +1,104 @@
+<bill session="113" type="h" number="3978" updated="2014-08-14T13:25:21-04:00">
+  <state datetime="2014-01-29">REFERRED</state>
+  <status>
+    <introduced datetime="2014-01-29"/>
+  </status>
+  <introduced datetime="2014-01-29"/>
+  <titles>
+    <title type="short" as="introduced">New Opportunities for Bicycle and Pedestrian Infrastructure Financing Act of 2014</title>
+    <title type="official" as="introduced">To authorize the Secretary of Transportation to establish a pedestrian and bicycle infrastructure credit assistance pilot program, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01818"/>
+  <cosponsors>
+    <cosponsor thomas_id="01740" joined="2014-03-25"/>
+    <cosponsor thomas_id="00099" joined="2014-02-10"/>
+    <cosponsor thomas_id="02106" joined="2014-03-14"/>
+    <cosponsor thomas_id="02127" joined="2014-02-21"/>
+    <cosponsor thomas_id="01761" joined="2014-06-25"/>
+    <cosponsor thomas_id="01471" joined="2014-03-25"/>
+    <cosponsor thomas_id="01564" joined="2014-03-25"/>
+    <cosponsor thomas_id="01889" joined="2014-01-29"/>
+    <cosponsor thomas_id="02159" joined="2014-07-29"/>
+    <cosponsor thomas_id="02055" joined="2014-03-12"/>
+    <cosponsor thomas_id="02196" joined="2014-05-22"/>
+    <cosponsor thomas_id="01790" joined="2014-03-28"/>
+    <cosponsor thomas_id="01878" joined="2014-06-05"/>
+    <cosponsor thomas_id="01959" joined="2014-02-21"/>
+    <cosponsor thomas_id="01604" joined="2014-03-25"/>
+    <cosponsor thomas_id="01717" joined="2014-01-29"/>
+    <cosponsor thomas_id="00316" joined="2014-03-11"/>
+    <cosponsor thomas_id="01857" joined="2014-03-25"/>
+    <cosponsor thomas_id="02125" joined="2014-02-27"/>
+    <cosponsor thomas_id="00368" joined="2014-05-19"/>
+    <cosponsor thomas_id="01794" joined="2014-07-08"/>
+    <cosponsor thomas_id="01580" joined="2014-07-14"/>
+    <cosponsor thomas_id="01634" joined="2014-04-03"/>
+    <cosponsor thomas_id="02101" joined="2014-03-28"/>
+    <cosponsor thomas_id="01843" joined="2014-03-11"/>
+    <cosponsor thomas_id="01501" joined="2014-03-11"/>
+    <cosponsor thomas_id="01781" joined="2014-04-28"/>
+    <cosponsor thomas_id="00701" joined="2014-02-27"/>
+    <cosponsor thomas_id="02111" joined="2014-02-27"/>
+    <cosponsor thomas_id="01939" joined="2014-03-06"/>
+    <cosponsor thomas_id="00729" joined="2014-04-28"/>
+    <cosponsor thomas_id="01503" joined="2014-05-29"/>
+    <cosponsor thomas_id="01653" joined="2014-02-10"/>
+    <cosponsor thomas_id="00766" joined="2014-04-03"/>
+    <cosponsor thomas_id="01504" joined="2014-03-06"/>
+    <cosponsor thomas_id="01505" joined="2014-04-28"/>
+    <cosponsor thomas_id="00854" joined="2014-03-25"/>
+    <cosponsor thomas_id="02108" joined="2014-07-31"/>
+    <cosponsor thomas_id="00868" joined="2014-02-11"/>
+    <cosponsor thomas_id="02162" joined="2014-03-11"/>
+    <cosponsor thomas_id="01974" joined="2014-03-25"/>
+    <cosponsor thomas_id="01835" joined="2014-07-10"/>
+    <cosponsor thomas_id="02113" joined="2014-04-03"/>
+    <cosponsor thomas_id="00910" joined="2014-03-26"/>
+    <cosponsor thomas_id="02171" joined="2014-07-10"/>
+    <cosponsor thomas_id="00930" joined="2014-02-21"/>
+    <cosponsor thomas_id="00985" joined="2014-01-29"/>
+    <cosponsor thomas_id="01037" joined="2014-03-14"/>
+    <cosponsor thomas_id="01861" joined="2014-03-25"/>
+    <cosponsor thomas_id="01069" joined="2014-03-12"/>
+    <cosponsor thomas_id="02110" joined="2014-05-22"/>
+    <cosponsor thomas_id="01151" joined="2014-03-11"/>
+    <cosponsor thomas_id="01535" joined="2014-02-21"/>
+    <cosponsor thomas_id="01940" joined="2014-05-19"/>
+    <cosponsor thomas_id="01942" joined="2014-03-25"/>
+    <cosponsor thomas_id="02166" joined="2014-03-28"/>
+    <cosponsor thomas_id="01856" joined="2014-06-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-01-29" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2014-01-30">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Highways and Transit" code="HSPW12" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="2424"/>
+    <bill type="h" session="113" relation="unknown" number="3080"/>
+    <bill type="s" session="113" relation="unknown" number="601"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Parks, recreation areas, trails"/>
+    <term name="Pedestrians and bicycling"/>
+    <term name="Public participation and lobbying"/>
+    <term name="Transportation programs funding"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+  <summary>1/29/2014--Introduced.
+New Opportunities for Bicycle and Pedestrian Infrastructure Financing Act of 2014 - Authorizes the Secretary of Transportation (DOT) to establish a pilot program to make loans and loan guarantees to eligible entities to carry out bicycle and pedestrian infrastructure projects.
+
+Prescribes project eligibility requirements.
+
+Requires the Secretary to ensure that at least 25% of funds provided under this Act are used to support projects in low-income communities.</summary>
+</bill>

@@ -1,0 +1,47 @@
+<bill session="113" type="s" number="2105" updated="2014-08-14T14:02:50-04:00">
+  <state datetime="2014-03-11">REFERRED</state>
+  <status>
+    <introduced datetime="2014-03-11"/>
+  </status>
+  <introduced datetime="2014-03-11"/>
+  <titles>
+    <title type="short" as="introduced">Gun-Owner Registration Information Protection Act</title>
+    <title type="official" as="introduced">A bill to prohibit the Federal funding of a State firearms ownership database.</title>
+  </titles>
+  <sponsor thomas_id="00213"/>
+  <cosponsors>
+    <cosponsor thomas_id="00153" joined="2014-03-11"/>
+    <cosponsor thomas_id="01541" joined="2014-03-11"/>
+    <cosponsor thomas_id="01692" joined="2014-03-11"/>
+    <cosponsor thomas_id="00250" joined="2014-03-11"/>
+    <cosponsor thomas_id="01542" joined="2014-03-11"/>
+    <cosponsor thomas_id="01351" joined="2014-03-11"/>
+    <cosponsor thomas_id="00583" joined="2014-03-11"/>
+    <cosponsor thomas_id="01899" joined="2014-03-11"/>
+    <cosponsor thomas_id="01507" joined="2014-03-11"/>
+    <cosponsor thomas_id="01896" joined="2014-03-13"/>
+    <cosponsor thomas_id="00968" joined="2014-03-11"/>
+    <cosponsor thomas_id="02084" joined="2014-03-11"/>
+    <cosponsor thomas_id="01609" joined="2014-03-24"/>
+    <cosponsor thomas_id="01226" joined="2014-03-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-03-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Firearms and explosives"/>
+    <term name="Government information and archives"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>3/11/2014--Introduced.
+Gun-Owner Registration Information Protection Act - Prohibits any federal agency from supporting (by funding or other means) the establishment or maintenance by a state or political subdivision of any listing of firearms lawfully possessed or owned by private persons, or of persons who lawfully possess or own firearms, except in the case of firearms that have been reported as lost or stolen.</summary>
+</bill>

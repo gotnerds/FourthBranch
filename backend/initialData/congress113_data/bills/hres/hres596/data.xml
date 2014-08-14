@@ -1,0 +1,47 @@
+<bill session="113" type="hr" number="596" updated="2014-08-14T12:49:40-04:00">
+  <state datetime="2014-05-22">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-22"/>
+  </status>
+  <introduced datetime="2014-05-22"/>
+  <titles>
+    <title type="official" as="introduced">Recognizing the Khmer and Lao/Hmong Freedom Fighters of Cambodia and Laos for supporting and defending the United States Armed Forces during the conflict in Southeast Asia and for their continued support and defense of the United States.</title>
+  </titles>
+  <sponsor thomas_id="02072"/>
+  <cosponsors>
+    <cosponsor thomas_id="00099" joined="2014-07-23"/>
+    <cosponsor thomas_id="02103" joined="2014-05-22"/>
+    <cosponsor thomas_id="01733" joined="2014-07-16"/>
+    <cosponsor thomas_id="01835" joined="2014-05-22"/>
+    <cosponsor thomas_id="00912" joined="2014-05-22"/>
+    <cosponsor thomas_id="02073" joined="2014-07-16"/>
+    <cosponsor thomas_id="01041" joined="2014-07-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-22" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2014-06-10">
+      <text>Referred to the Subcommittee on Asia and the Pacific.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee subcommittee="Asia and the Pacific" code="HSFA05" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="sr" session="113" relation="identical" number="462"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Asia"/>
+    <term name="Cambodia"/>
+    <term name="Conflicts and wars"/>
+    <term name="Congressional tributes"/>
+    <term name="Laos"/>
+    <term name="Military history"/>
+  </subjects>
+  <amendments/>
+  <summary>5/22/2014--Introduced.
+Recognizes the Khmer and Lao/Hmong Freedom Fighters and the people of Cambodia and Laos for their support and defense of the United States Armed Forces and freedom of democracy in Southeast Asia.</summary>
+</bill>

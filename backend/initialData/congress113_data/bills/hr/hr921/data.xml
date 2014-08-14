@@ -1,0 +1,79 @@
+<bill session="113" type="h" number="921" updated="2014-08-14T12:58:33-04:00">
+  <state datetime="2013-02-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-28"/>
+  </status>
+  <introduced datetime="2013-02-28"/>
+  <titles>
+    <title type="short" as="introduced">Chiropractic Care Available to All Veterans Act</title>
+    <title type="official" as="introduced">To amend the Department of Veterans Affairs Health Care Programs Enhancement Act of 2001 and title 38, United States Code, to require the provision of chiropractic care and services to veterans at all Department of Veterans Affairs medical centers and to expand access to such care and services.</title>
+  </titles>
+  <sponsor thomas_id="01730"/>
+  <cosponsors>
+    <cosponsor thomas_id="01858" joined="2014-04-08"/>
+    <cosponsor thomas_id="02092" joined="2013-10-30"/>
+    <cosponsor thomas_id="01845" joined="2014-03-12"/>
+    <cosponsor thomas_id="02155" joined="2014-03-05"/>
+    <cosponsor thomas_id="00132" joined="2014-02-26"/>
+    <cosponsor thomas_id="01925" joined="2014-04-09"/>
+    <cosponsor thomas_id="01654" joined="2013-03-12"/>
+    <cosponsor thomas_id="01959" joined="2013-10-22"/>
+    <cosponsor thomas_id="01857" joined="2014-03-11"/>
+    <cosponsor thomas_id="02125" joined="2013-03-12"/>
+    <cosponsor thomas_id="02119" joined="2014-03-11"/>
+    <cosponsor thomas_id="00414" joined="2013-07-24"/>
+    <cosponsor thomas_id="01743" joined="2014-04-08"/>
+    <cosponsor thomas_id="01914" joined="2014-02-28"/>
+    <cosponsor thomas_id="00511" joined="2013-06-11"/>
+    <cosponsor thomas_id="01663" joined="2013-12-12"/>
+    <cosponsor thomas_id="02169" joined="2013-09-25"/>
+    <cosponsor thomas_id="01583" joined="2014-03-12"/>
+    <cosponsor thomas_id="01846" joined="2013-03-06"/>
+    <cosponsor thomas_id="02094" joined="2014-03-12"/>
+    <cosponsor thomas_id="02117" joined="2014-03-25"/>
+    <cosponsor thomas_id="02108" joined="2014-01-28"/>
+    <cosponsor thomas_id="00867" joined="2014-05-19"/>
+    <cosponsor thomas_id="02162" joined="2014-04-08"/>
+    <cosponsor thomas_id="00910" joined="2014-04-29"/>
+    <cosponsor thomas_id="00912" joined="2013-06-03"/>
+    <cosponsor thomas_id="01927" joined="2014-03-12"/>
+    <cosponsor thomas_id="00940" joined="2013-09-17"/>
+    <cosponsor thomas_id="02073" joined="2014-03-12"/>
+    <cosponsor thomas_id="00985" joined="2014-01-08"/>
+    <cosponsor thomas_id="01920" joined="2014-07-31"/>
+    <cosponsor thomas_id="01950" joined="2013-09-11"/>
+    <cosponsor thomas_id="01861" joined="2014-04-09"/>
+    <cosponsor thomas_id="01535" joined="2014-04-09"/>
+    <cosponsor thomas_id="01256" joined="2014-04-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-28" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-03-08">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSVR03" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="422"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Alternative treatments"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Musculoskeletal and skin diseases"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>2/28/2013--Introduced.
+Chiropractic Care Available to All Veterans Act - Amends the Department of Veterans Affairs Health Care Programs Enhancement Act of 2001 to require a program under which the Secretary of Veterans Affairs provides chiropractic care and services to veterans through Department of Veterans Affairs (VA) medical centers and clinics to be carried out at: (1) no fewer than 75 medical centers by December 31, 2014, and (2) all medical centers by December 31, 2016.
+
+Includes chiropractic examinations and services within required VA medical, rehabilitative, and preventive health care services.</summary>
+</bill>

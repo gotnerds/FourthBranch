@@ -1,0 +1,68 @@
+<bill session="113" type="hr" number="543" updated="2014-08-14T12:49:14-04:00">
+  <state datetime="2014-04-04">REFERRED</state>
+  <status>
+    <introduced datetime="2014-04-04"/>
+  </status>
+  <introduced datetime="2014-04-04"/>
+  <titles>
+    <title type="official" as="introduced">Affirming the support of the United States for Macedonia's accession to the North Atlantic Treaty Organization (NATO).</title>
+  </titles>
+  <sponsor thomas_id="01731"/>
+  <cosponsors>
+    <cosponsor thomas_id="02135" joined="2014-04-04"/>
+    <cosponsor thomas_id="01723" joined="2014-04-04"/>
+    <cosponsor thomas_id="01959" joined="2014-04-04"/>
+    <cosponsor thomas_id="02103" joined="2014-07-24"/>
+    <cosponsor thomas_id="00511" joined="2014-04-04"/>
+    <cosponsor thomas_id="00599" joined="2014-04-04"/>
+    <cosponsor thomas_id="02014" joined="2014-04-04"/>
+    <cosponsor thomas_id="02033" joined="2014-07-29"/>
+    <cosponsor thomas_id="01510" joined="2014-04-04"/>
+    <cosponsor thomas_id="01929" joined="2014-07-24"/>
+    <cosponsor thomas_id="01802" joined="2014-07-24"/>
+    <cosponsor thomas_id="01071" joined="2014-04-04"/>
+    <cosponsor thomas_id="02047" joined="2014-04-04"/>
+    <cosponsor thomas_id="01151" joined="2014-04-04"/>
+    <cosponsor thomas_id="01741" joined="2014-04-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-04-04" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2014-06-10">
+      <text>Referred to the Subcommittee on Europe, Eurasia, and Emerging Threats.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee subcommittee="Europe, Eurasia, and Emerging Threats" code="HSFA14" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Alliances"/>
+    <term name="Congressional tributes"/>
+    <term name="Economic development"/>
+    <term name="Europe"/>
+    <term name="Greece"/>
+    <term name="Macedonia"/>
+    <term name="Military assistance, sales, and agreements"/>
+    <term name="National Guard and reserves"/>
+    <term name="Political movements and philosophies"/>
+    <term name="Rule of law and government transparency"/>
+    <term name="Vermont"/>
+  </subjects>
+  <amendments/>
+  <summary>4/4/2014--Introduced.
+Supports Macedonia's aspirations to join the North Atlantic Treaty Organization (NATO).
+
+Recognizes the cooperation between Vermont and Macedonia and the joint military partnership between the Vermont National Guard and the Army of Macedonia.
+
+Recognizes the significant benefits of closer economic and political ties between NATO members and Macedonia.
+
+Appreciates Macedonia's efforts in advancing peace, democracy, and stability.
+
+Calls on the Administration and the Department of State to work with Greece and NATO allies to ensure that bilateral disputes do not impede Macedonia's NATO accession.
+
+Urges NATO members to formally extend an invitation to Macedonia to join NATO at the NATO Summit in the United Kingdom in September 2014.</summary>
+</bill>

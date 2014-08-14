@@ -1,0 +1,105 @@
+<bill session="113" type="h" number="297" updated="2014-08-14T12:53:15-04:00">
+  <state datetime="2013-02-04T19:06:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2013-02-04T19:06:00-05:00"/>
+  </status>
+  <introduced datetime="2013-01-15"/>
+  <titles>
+    <title type="short" as="introduced">Children's Hospital GME Support Reauthorization Act of 2013</title>
+    <title type="short" as="passed house">Children's Hospital GME Support Reauthorization Act of 2013</title>
+    <title type="official" as="introduced">To amend the Public Health Service Act to reauthorize support for graduate medical education programs in children's hospitals.</title>
+  </titles>
+  <sponsor thomas_id="01514"/>
+  <cosponsors>
+    <cosponsor thomas_id="02153" joined="2013-02-04"/>
+    <cosponsor thomas_id="01703" joined="2013-01-18"/>
+    <cosponsor thomas_id="01751" joined="2013-01-15"/>
+    <cosponsor thomas_id="01471" joined="2013-01-15"/>
+    <cosponsor thomas_id="01839" joined="2013-01-23"/>
+    <cosponsor thomas_id="00186" joined="2013-01-18"/>
+    <cosponsor thomas_id="01474" joined="2013-01-18"/>
+    <cosponsor thomas_id="01799" joined="2013-02-04"/>
+    <cosponsor thomas_id="00299" joined="2013-01-18"/>
+    <cosponsor thomas_id="00344" joined="2013-01-18"/>
+    <cosponsor thomas_id="01720" joined="2013-01-22"/>
+    <cosponsor thomas_id="00462" joined="2013-01-18"/>
+    <cosponsor thomas_id="01933" joined="2013-01-18"/>
+    <cosponsor thomas_id="02046" joined="2013-02-04"/>
+    <cosponsor thomas_id="00635" joined="2013-01-23"/>
+    <cosponsor thomas_id="01936" joined="2013-01-18"/>
+    <cosponsor thomas_id="01885" joined="2013-02-04"/>
+    <cosponsor thomas_id="01671" joined="2013-01-18"/>
+    <cosponsor thomas_id="01730" joined="2013-02-04"/>
+    <cosponsor thomas_id="00887" joined="2013-01-15"/>
+    <cosponsor thomas_id="02073" joined="2013-01-23"/>
+    <cosponsor thomas_id="01986" joined="2013-01-18"/>
+    <cosponsor thomas_id="01954" joined="2013-01-18"/>
+    <cosponsor thomas_id="02039" joined="2013-01-18"/>
+    <cosponsor thomas_id="01854" joined="2013-01-18"/>
+    <cosponsor thomas_id="01588" joined="2013-01-18"/>
+    <cosponsor thomas_id="02047" joined="2013-02-04"/>
+    <cosponsor thomas_id="01664" joined="2013-01-23"/>
+    <cosponsor thomas_id="01209" joined="2013-01-18"/>
+    <cosponsor thomas_id="01886" joined="2013-02-04"/>
+    <cosponsor thomas_id="01255" joined="2013-01-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-15" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-01-18">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2013-02-04T16:28:00-05:00">
+      <text>Reported by the Committee on Energy and Commerce. H. Rept. 113-3.</text>
+    </action>
+    <calendar datetime="2013-02-04T16:29:00-05:00" state="REPORTED" calendar="Union" number="1">
+      <text>Placed on the Union Calendar, Calendar No. 1.</text>
+    </calendar>
+    <action datetime="2013-02-04T17:06:00-05:00">
+      <text>Mr. Pitts moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2013-02-04T17:06:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H319-322" label="consideration"/>
+    </action>
+    <action datetime="2013-02-04T17:06:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 297.</text>
+    </action>
+    <action datetime="2013-02-04T17:16:00-05:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2013-02-04T18:57:00-05:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H326-327" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="32" datetime="2013-02-04T19:06:00-05:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 352 - 50 (Roll no. 32).</text>
+      <reference ref="CR H319" label="text"/>
+    </vote>
+    <action datetime="2013-02-04T19:06:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2013-02-07">
+      <text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, Reporting"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Child health"/>
+    <term name="Congressional oversight"/>
+    <term name="Education programs funding"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Medical education"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/2013--Passed House without amendment.
+Children's Hospital GME Support Reauthorization Act of 2013 - Amends the Public Health Service Act to extend and reauthorize appropriations for payments to children's hospitals for expenses associated with operating approved graduate medical residency training programs.</summary>
+</bill>

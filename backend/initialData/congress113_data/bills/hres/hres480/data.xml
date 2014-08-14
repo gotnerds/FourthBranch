@@ -1,0 +1,55 @@
+<bill session="113" type="hr" number="480" updated="2014-08-14T12:48:42-04:00">
+  <state datetime="2014-02-11">REFERRED</state>
+  <status>
+    <introduced datetime="2014-02-11"/>
+  </status>
+  <introduced datetime="2014-02-11"/>
+  <titles>
+    <title type="official" as="introduced">Honoring The Hudson River School Painters for their contributions to the United States.</title>
+  </titles>
+  <sponsor thomas_id="00344"/>
+  <cosponsors>
+    <cosponsor thomas_id="01740" joined="2014-03-25"/>
+    <cosponsor thomas_id="01864" joined="2014-04-29"/>
+    <cosponsor thomas_id="01604" joined="2014-06-20"/>
+    <cosponsor thomas_id="02043" joined="2014-03-25"/>
+    <cosponsor thomas_id="02041" joined="2014-07-08"/>
+    <cosponsor thomas_id="02044" joined="2014-03-24"/>
+    <cosponsor thomas_id="01794" joined="2014-03-27"/>
+    <cosponsor thomas_id="01663" joined="2014-04-02"/>
+    <cosponsor thomas_id="00635" joined="2014-03-05"/>
+    <cosponsor thomas_id="00709" joined="2014-02-25"/>
+    <cosponsor thomas_id="00729" joined="2014-02-25"/>
+    <cosponsor thomas_id="02150" joined="2014-04-07"/>
+    <cosponsor thomas_id="01503" joined="2014-07-08"/>
+    <cosponsor thomas_id="01506" joined="2014-07-08"/>
+    <cosponsor thomas_id="02148" joined="2014-07-08"/>
+    <cosponsor thomas_id="00832" joined="2014-02-27"/>
+    <cosponsor thomas_id="00850" joined="2014-02-25"/>
+    <cosponsor thomas_id="00868" joined="2014-02-26"/>
+    <cosponsor thomas_id="01974" joined="2014-04-02"/>
+    <cosponsor thomas_id="01510" joined="2014-03-26"/>
+    <cosponsor thomas_id="00944" joined="2014-06-19"/>
+    <cosponsor thomas_id="01069" joined="2014-02-25"/>
+    <cosponsor thomas_id="01942" joined="2014-02-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-02-11" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Arts, culture, religion"/>
+    <term name="Art, artists, authorship"/>
+    <term name="Congressional tributes"/>
+    <term name="Lakes and rivers"/>
+    <term name="New York State"/>
+  </subjects>
+  <amendments/>
+  <summary>2/11/2014--Introduced.
+Recognizes and honors the Hudson River School painters for their contributions to the United States.</summary>
+</bill>

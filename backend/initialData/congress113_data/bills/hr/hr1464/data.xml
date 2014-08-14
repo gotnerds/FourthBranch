@@ -1,0 +1,57 @@
+<bill session="113" type="h" number="1464" updated="2014-08-14T13:03:10-04:00">
+  <state datetime="2013-04-10">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-10"/>
+  </status>
+  <introduced datetime="2013-04-10"/>
+  <titles>
+    <title type="short" as="introduced">Military Mental Health Empowerment Act</title>
+    <title type="official" as="introduced">To amend title 10, United States Code, to provide notice to members of the Armed Forces, beginning with recruit basic training and the initial training of officer candidates, regarding the availability of mental health services, to help eliminate perceived stigma associated with seeking and receiving mental health services, and to clarify the extent to which information regarding a member seeking and receiving mental health services may be disclosed.</title>
+  </titles>
+  <sponsor thomas_id="01889"/>
+  <cosponsors>
+    <cosponsor thomas_id="02093" joined="2013-07-16"/>
+    <cosponsor thomas_id="02129" joined="2013-05-23"/>
+    <cosponsor thomas_id="02018" joined="2013-04-10"/>
+    <cosponsor thomas_id="02159" joined="2013-05-17"/>
+    <cosponsor thomas_id="00229" joined="2013-04-10"/>
+    <cosponsor thomas_id="01504" joined="2013-04-10"/>
+    <cosponsor thomas_id="01811" joined="2013-04-10"/>
+    <cosponsor thomas_id="02113" joined="2013-05-15"/>
+    <cosponsor thomas_id="01953" joined="2014-04-10"/>
+    <cosponsor thomas_id="00944" joined="2013-04-10"/>
+    <cosponsor thomas_id="02004" joined="2013-04-10"/>
+    <cosponsor thomas_id="02019" joined="2013-05-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-10" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2013-04-23">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee subcommittee="Military Personnel" code="HSAS02" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1703"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Government information and archives"/>
+    <term name="Health information and medical records"/>
+    <term name="Mental health"/>
+    <term name="Military medicine"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Right of privacy"/>
+  </subjects>
+  <amendments/>
+  <summary>4/10/2013--Introduced.
+Military Mental Health Empowerment Act - Directs the Secretaries of the military departments to ensure that information concerning the availability of mental health services to members of the Armed Forces (members), as well as privacy rights related to the receipt of such services, is provided to: (1) each officer candidate during initial training, (2) each recruit during basic training, and (3) each other member at such time as the Secretary of Defense (DOD) considers appropriate.
+
+Requires each department Secretary to: (1) seek to eliminate perceived stigma associated with seeking and receiving mental health services, and (2) promote the use of such services on a basis comparable to the use of other medical and health services.
+
+Directs the Secretary of Defense to ensure that the above information is also provided to current members, including members of the reserve components.</summary>
+</bill>

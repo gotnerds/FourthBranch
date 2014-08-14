@@ -1,0 +1,86 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-13", 
+      "committees": [
+        "SSAP"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Appropriations.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2327-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Appropriations", 
+      "committee_id": "SSAP"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-05-13", 
+  "number": "2327", 
+  "official_title": "A bill to make continuing appropriations for certain programs that benefit sportsmen in the event of a lapse in appropriations.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Keeping Public Lands Open Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Walsh, John E.", 
+    "state": "MT", 
+    "thomas_id": "02198", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-05-13", 
+  "subjects": [
+    "Appropriations", 
+    "Birds", 
+    "Department of Agriculture", 
+    "Department of the Interior", 
+    "Executive agency funding and structure", 
+    "Forests, forestry, trees", 
+    "Government trust funds", 
+    "Land transfers", 
+    "Land use and conservation", 
+    "Law enforcement administration and funding", 
+    "Parks, recreation areas, trails", 
+    "Public lands and natural resources", 
+    "Wetlands", 
+    "Wilderness and natural areas, wildlife refuges, wild rivers, habitats", 
+    "Wildlife conservation and habitat protection"
+  ], 
+  "subjects_top_term": "Public lands and natural resources", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Keeping Public Lands Open Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to make continuing appropriations for certain programs that benefit sportsmen in the event of a lapse in appropriations.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T14:04:41-04:00"
+}

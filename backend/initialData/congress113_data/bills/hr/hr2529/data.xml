@@ -1,0 +1,100 @@
+<bill session="113" type="h" number="2529" updated="2014-08-14T13:13:02-04:00">
+  <state datetime="2013-06-27">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-27"/>
+  </status>
+  <introduced datetime="2013-06-27"/>
+  <titles>
+    <title type="short" as="introduced">Veteran Spouses Equal Treatment Act</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to amend the definition of the term "spouse" to recognize new State definitions of such term for the purpose of the laws administered by the Secretary of Veterans Affairs.</title>
+  </titles>
+  <sponsor thomas_id="01940"/>
+  <cosponsors>
+    <cosponsor thomas_id="02093" joined="2014-07-23"/>
+    <cosponsor thomas_id="02102" joined="2014-06-19"/>
+    <cosponsor thomas_id="00099" joined="2014-06-26"/>
+    <cosponsor thomas_id="02106" joined="2013-12-03"/>
+    <cosponsor thomas_id="01471" joined="2013-12-19"/>
+    <cosponsor thomas_id="01564" joined="2014-07-10"/>
+    <cosponsor thomas_id="02107" joined="2013-12-03"/>
+    <cosponsor thomas_id="02159" joined="2013-12-23"/>
+    <cosponsor thomas_id="01878" joined="2013-12-11"/>
+    <cosponsor thomas_id="00229" joined="2014-05-29"/>
+    <cosponsor thomas_id="01604" joined="2013-11-22"/>
+    <cosponsor thomas_id="00256" joined="2013-12-05"/>
+    <cosponsor thomas_id="01976" joined="2014-07-24"/>
+    <cosponsor thomas_id="00299" joined="2013-12-03"/>
+    <cosponsor thomas_id="02114" joined="2014-07-10"/>
+    <cosponsor thomas_id="02119" joined="2014-07-10"/>
+    <cosponsor thomas_id="01803" joined="2014-07-08"/>
+    <cosponsor thomas_id="01708" joined="2014-07-08"/>
+    <cosponsor thomas_id="02089" joined="2014-07-23"/>
+    <cosponsor thomas_id="00511" joined="2013-11-22"/>
+    <cosponsor thomas_id="01794" joined="2013-12-03"/>
+    <cosponsor thomas_id="01913" joined="2014-01-07"/>
+    <cosponsor thomas_id="01663" joined="2013-12-03"/>
+    <cosponsor thomas_id="00588" joined="2014-07-24"/>
+    <cosponsor thomas_id="02172" joined="2013-12-05"/>
+    <cosponsor thomas_id="02169" joined="2014-07-17"/>
+    <cosponsor thomas_id="01498" joined="2014-07-25"/>
+    <cosponsor thomas_id="01907" joined="2014-07-15"/>
+    <cosponsor thomas_id="02145" joined="2013-11-22"/>
+    <cosponsor thomas_id="01501" joined="2014-06-23"/>
+    <cosponsor thomas_id="02111" joined="2013-12-03"/>
+    <cosponsor thomas_id="00766" joined="2014-07-08"/>
+    <cosponsor thomas_id="01504" joined="2013-12-03"/>
+    <cosponsor thomas_id="01730" joined="2013-11-21"/>
+    <cosponsor thomas_id="01811" joined="2014-07-16"/>
+    <cosponsor thomas_id="00832" joined="2013-12-03"/>
+    <cosponsor thomas_id="02117" joined="2014-07-22"/>
+    <cosponsor thomas_id="00868" joined="2013-11-22"/>
+    <cosponsor thomas_id="02162" joined="2014-03-25"/>
+    <cosponsor thomas_id="01835" joined="2014-07-23"/>
+    <cosponsor thomas_id="01927" joined="2014-03-06"/>
+    <cosponsor thomas_id="02171" joined="2014-07-22"/>
+    <cosponsor thomas_id="01910" joined="2014-06-09"/>
+    <cosponsor thomas_id="00944" joined="2014-07-08"/>
+    <cosponsor thomas_id="00985" joined="2014-06-23"/>
+    <cosponsor thomas_id="01003" joined="2014-06-24"/>
+    <cosponsor thomas_id="01756" joined="2013-12-03"/>
+    <cosponsor thomas_id="01798" joined="2013-11-22"/>
+    <cosponsor thomas_id="01861" joined="2013-12-05"/>
+    <cosponsor thomas_id="01526" joined="2014-08-01"/>
+    <cosponsor thomas_id="01069" joined="2013-12-03"/>
+    <cosponsor thomas_id="01528" joined="2013-06-27"/>
+    <cosponsor thomas_id="02110" joined="2014-06-23"/>
+    <cosponsor thomas_id="01884" joined="2013-12-05"/>
+    <cosponsor thomas_id="02166" joined="2014-07-31"/>
+    <cosponsor thomas_id="01777" joined="2014-07-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-27">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H4096"/>
+    </action>
+    <action datetime="2013-06-27" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-07-08">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Disability Assistance and Memorial Affairs" code="HSVR09" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="683"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Marriage and family status"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Veterans' loans, housing, homeless programs"/>
+    <term name="Veterans' medical care"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>6/27/2013--Introduced.
+Veteran Spouses Equal Treatment Act - Amends the definition of "spouse" for purposes of veterans' benefits provisions to require an individual to be considered a spouse if the marriage of the individual is valid in the state in which the marriage was entered into or, in the case of a marriage entered into outside any state, if the marriage is valid in the place in which the marriage was entered into and the marriage could have been entered into in a state. Includes as a state the District of Columbia, the Commonwealths of Puerto Rico and the Northern Mariana Islands, and U.S. territories and possessions.</summary>
+</bill>

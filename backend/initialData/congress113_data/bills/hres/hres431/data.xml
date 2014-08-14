@@ -1,0 +1,122 @@
+<bill session="113" type="hr" number="431" updated="2014-08-14T12:48:18-04:00">
+  <state datetime="2013-12-05">REFERRED</state>
+  <status>
+    <introduced datetime="2013-12-05"/>
+  </status>
+  <introduced datetime="2013-12-05"/>
+  <titles>
+    <title type="official" as="introduced">Calling on the United States Senate to increase sanctions against Iran.</title>
+  </titles>
+  <sponsor thomas_id="01892"/>
+  <cosponsors>
+    <cosponsor thomas_id="01460" joined="2013-12-05"/>
+    <cosponsor thomas_id="01858" joined="2013-12-05"/>
+    <cosponsor thomas_id="02131" joined="2013-12-05"/>
+    <cosponsor thomas_id="02135" joined="2013-12-11"/>
+    <cosponsor thomas_id="01748" joined="2013-12-05"/>
+    <cosponsor thomas_id="01468" joined="2013-12-11"/>
+    <cosponsor thomas_id="02155" joined="2014-01-07"/>
+    <cosponsor thomas_id="01882" joined="2013-12-12"/>
+    <cosponsor thomas_id="02151" joined="2013-12-11"/>
+    <cosponsor thomas_id="01805" joined="2013-12-11"/>
+    <cosponsor thomas_id="02098" joined="2013-12-05"/>
+    <cosponsor thomas_id="01989" joined="2014-07-25"/>
+    <cosponsor thomas_id="02138" joined="2013-12-11"/>
+    <cosponsor thomas_id="02126" joined="2013-12-11"/>
+    <cosponsor thomas_id="02116" joined="2013-12-11"/>
+    <cosponsor thomas_id="02057" joined="2013-12-05"/>
+    <cosponsor thomas_id="02067" joined="2013-12-05"/>
+    <cosponsor thomas_id="01924" joined="2013-12-11"/>
+    <cosponsor thomas_id="01707" joined="2013-12-05"/>
+    <cosponsor thomas_id="01998" joined="2013-12-11"/>
+    <cosponsor thomas_id="01801" joined="2013-12-05"/>
+    <cosponsor thomas_id="01979" joined="2013-12-11"/>
+    <cosponsor thomas_id="00462" joined="2013-12-05"/>
+    <cosponsor thomas_id="02026" joined="2013-12-05"/>
+    <cosponsor thomas_id="02032" joined="2013-12-05"/>
+    <cosponsor thomas_id="02140" joined="2014-01-07"/>
+    <cosponsor thomas_id="02028" joined="2013-12-11"/>
+    <cosponsor thomas_id="02015" joined="2013-12-05"/>
+    <cosponsor thomas_id="02046" joined="2013-12-11"/>
+    <cosponsor thomas_id="01868" joined="2013-12-05"/>
+    <cosponsor thomas_id="02154" joined="2013-12-05"/>
+    <cosponsor thomas_id="02051" joined="2013-12-11"/>
+    <cosponsor thomas_id="01724" joined="2013-12-05"/>
+    <cosponsor thomas_id="02100" joined="2013-12-05"/>
+    <cosponsor thomas_id="01834" joined="2013-12-09"/>
+    <cosponsor thomas_id="02050" joined="2013-12-05"/>
+    <cosponsor thomas_id="01885" joined="2014-01-07"/>
+    <cosponsor thomas_id="02053" joined="2013-12-05"/>
+    <cosponsor thomas_id="02195" joined="2013-12-05"/>
+    <cosponsor thomas_id="01792" joined="2013-12-12"/>
+    <cosponsor thomas_id="02059" joined="2013-12-05"/>
+    <cosponsor thomas_id="01758" joined="2013-12-11"/>
+    <cosponsor thomas_id="02035" joined="2013-12-05"/>
+    <cosponsor thomas_id="01738" joined="2013-12-11"/>
+    <cosponsor thomas_id="02141" joined="2013-12-05"/>
+    <cosponsor thomas_id="01514" joined="2013-12-05"/>
+    <cosponsor thomas_id="01915" joined="2013-12-05"/>
+    <cosponsor thomas_id="01778" joined="2013-12-05"/>
+    <cosponsor thomas_id="01954" joined="2013-12-05"/>
+    <cosponsor thomas_id="02017" joined="2013-12-11"/>
+    <cosponsor thomas_id="02158" joined="2013-12-11"/>
+    <cosponsor thomas_id="01994" joined="2013-12-12"/>
+    <cosponsor thomas_id="01525" joined="2013-12-11"/>
+    <cosponsor thomas_id="02168" joined="2013-12-05"/>
+    <cosponsor thomas_id="01114" joined="2014-01-15"/>
+    <cosponsor thomas_id="01981" joined="2013-12-05"/>
+    <cosponsor thomas_id="01997" joined="2014-01-08"/>
+    <cosponsor thomas_id="02137" joined="2014-02-05"/>
+    <cosponsor thomas_id="01855" joined="2013-12-05"/>
+    <cosponsor thomas_id="02161" joined="2013-12-05"/>
+    <cosponsor thomas_id="01779" joined="2014-01-07"/>
+    <cosponsor thomas_id="02165" joined="2014-01-08"/>
+    <cosponsor thomas_id="01688" joined="2013-12-05"/>
+    <cosponsor thomas_id="02008" joined="2013-12-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-12-05" state="REFERRED">
+      <text>Referred to the Committee on Foreign Affairs, and in addition to the Committees on the Judiciary, Financial Services, Oversight and Government Reform, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-12-05">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2013-12-05">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2013-12-05">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2013-12-05">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2013-12-05">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2014-01-10">
+      <text>Referred to the Subcommittee on Middle East and North Africa.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee subcommittee="Middle East and North Africa" code="HSFA13" name="House Foreign Affairs" activity="Referral"/>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Arms control and nonproliferation"/>
+    <term name="Iran"/>
+    <term name="Middle East"/>
+    <term name="Nuclear weapons"/>
+    <term name="Sanctions"/>
+  </subjects>
+  <amendments/>
+  <summary>12/5/2013--Introduced.
+States that it is U.S. policy to prevent Iran from acquiring a nuclear weapons capability.
+
+ Calls on the Senate to take immediate action on the Nuclear Iran Prevention Act of 2013 to increase sanctions against Iran.</summary>
+</bill>

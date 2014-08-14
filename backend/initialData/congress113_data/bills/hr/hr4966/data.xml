@@ -1,0 +1,48 @@
+<bill session="113" type="h" number="4966" updated="2014-08-14T13:33:51-04:00">
+  <state datetime="2014-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-25"/>
+  </status>
+  <introduced datetime="2014-06-25"/>
+  <titles>
+    <title type="short" as="introduced">Pathogen Reduction and Testing Reform Act of 2014</title>
+    <title type="official" as="introduced">To amend the Federal Meat Inspection Act, the Poultry Products Inspection Act, and the Egg Products Inspection Act to provide that meat, poultry, and egg products containing certain pathogens or contaminants are adulterated, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00281"/>
+  <cosponsors>
+    <cosponsor thomas_id="00099" joined="2014-07-08"/>
+    <cosponsor thomas_id="02055" joined="2014-07-25"/>
+    <cosponsor thomas_id="00279" joined="2014-07-08"/>
+    <cosponsor thomas_id="01857" joined="2014-07-08"/>
+    <cosponsor thomas_id="02108" joined="2014-08-01"/>
+    <cosponsor thomas_id="01635" joined="2014-07-16"/>
+    <cosponsor thomas_id="01069" joined="2014-06-25"/>
+    <cosponsor thomas_id="01890" joined="2014-07-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-25" state="REFERRED">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2014-08-11">
+      <text>Referred to the Subcommittee on Livestock, Rural Development, and Credit.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee subcommittee="Livestock, Rural Development, and Credit" code="HSAG29" name="House Agriculture" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Department of Agriculture"/>
+    <term name="Food supply, safety, and labeling"/>
+    <term name="Infectious and parasitic diseases"/>
+    <term name="Meat"/>
+  </subjects>
+  <amendments/>
+  <summary>6/25/2014--Introduced.
+Pathogen Reduction and Testing Reform Act of 2014 - Amends the Federal Meat Inspection Act, the Poultry Products Inspection Act, and the Egg Products Inspection Act to revise the definition of "adulterated" to make explicit the U.S. Department of Agriculture's (USDA's) authority to issue a recall of meat, poultry, and egg products that contain microbial pathogens associated with serious illness or death or are resistant to two or more antibiotics critically important for human medicine.
+
+Requires the USDA to establish sampling protocols and testing procedures necessary to determine if meat, poultry, and egg products are adulterated under this Act and to prevent the entry, flow, or movement of those products into commerce.</summary>
+</bill>

@@ -1,0 +1,23 @@
+<bill session="113" type="h" number="5391" updated="2014-08-14T13:37:29-04:00">
+  <state datetime="2014-08-01">REFERRED</state>
+  <status>
+    <introduced datetime="2014-08-01"/>
+  </status>
+  <introduced datetime="2014-08-01"/>
+  <titles>
+    <title type="official" as="introduced">To direct the Architect of the Capitol to place a chair on the grounds of the United States Capitol honoring American Prisoners of War/Missing in Action.</title>
+  </titles>
+  <sponsor thomas_id="01686"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-08-01" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

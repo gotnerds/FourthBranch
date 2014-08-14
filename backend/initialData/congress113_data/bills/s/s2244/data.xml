@@ -1,0 +1,113 @@
+<bill session="113" type="s" number="2244" updated="2014-08-14T14:03:59-04:00">
+  <state datetime="2014-07-17">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="2014-07-17"/>
+  </status>
+  <introduced datetime="2014-04-10"/>
+  <titles>
+    <title type="short" as="introduced">Terrorism Risk Insurance Program Reauthorization Act of 2014</title>
+    <title type="short" as="reported to senate">Terrorism Risk Insurance Program Reauthorization Act of 2014</title>
+    <title type="short" as="passed senate">Terrorism Risk Insurance Program Reauthorization Act of 2014</title>
+    <title type="short" as="passed senate" partial="1">National Association of Registered Agents and Brokers Reform Act of 2014</title>
+    <title type="official" as="introduced">A bill to extend the termination date of the Terrorism Insurance Program established under the Terrorism Risk Insurance Act of 2002, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01036"/>
+  <cosponsors>
+    <cosponsor thomas_id="01558" joined="2014-07-15"/>
+    <cosponsor thomas_id="02076" joined="2014-05-01"/>
+    <cosponsor thomas_id="01464" joined="2014-04-10"/>
+    <cosponsor thomas_id="02194" joined="2014-05-01"/>
+    <cosponsor thomas_id="00174" joined="2014-05-22"/>
+    <cosponsor thomas_id="00188" joined="2014-05-20"/>
+    <cosponsor thomas_id="00250" joined="2014-04-11"/>
+    <cosponsor thomas_id="01850" joined="2014-05-20"/>
+    <cosponsor thomas_id="00326" joined="2014-05-22"/>
+    <cosponsor thomas_id="01969" joined="2014-06-17"/>
+    <cosponsor thomas_id="01866" joined="2014-04-11"/>
+    <cosponsor thomas_id="01863" joined="2014-04-10"/>
+    <cosponsor thomas_id="01608" joined="2014-04-11"/>
+    <cosponsor thomas_id="01899" joined="2014-04-10"/>
+    <cosponsor thomas_id="00604" joined="2014-04-11"/>
+    <cosponsor thomas_id="01647" joined="2014-04-10"/>
+    <cosponsor thomas_id="01826" joined="2014-05-22"/>
+    <cosponsor thomas_id="00735" joined="2014-05-20"/>
+    <cosponsor thomas_id="00791" joined="2014-04-10"/>
+    <cosponsor thomas_id="01900" joined="2014-04-29"/>
+    <cosponsor thomas_id="00802" joined="2014-05-20"/>
+    <cosponsor thomas_id="01837" joined="2014-04-10"/>
+    <cosponsor thomas_id="00949" joined="2014-04-10"/>
+    <cosponsor thomas_id="01829" joined="2014-04-29"/>
+    <cosponsor thomas_id="01897" joined="2014-04-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-04-10" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+    <calendar datetime="2014-06-03" state="REPORTED">
+      <text>Committee on Banking, Housing, and Urban Affairs. Ordered to be reported with an amendment favorably.</text>
+    </calendar>
+    <action datetime="2014-06-23">
+      <text>Committee on Banking, Housing, and Urban Affairs. Reported by Senator Johnson SD, with amendments. Without written report.</text>
+    </action>
+    <calendar datetime="2014-06-23" calendar="Senate Legislative" under="General Orders" number="438">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 438.</text>
+    </calendar>
+    <action datetime="2014-06-26">
+      <text>By Senator Johnson SD, from Committee on Banking, Housing, and Urban Affairs filed written report. Report No. 113-199.</text>
+    </action>
+    <action datetime="2014-07-09">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+      <reference ref="CR S4298-4324" label="consideration"/>
+    </action>
+    <action datetime="2014-07-10">
+      <text>Motion to proceed to consideration of measure made in Senate.</text>
+      <reference ref="CR S4367, S4384" label="consideration"/>
+    </action>
+    <action datetime="2014-07-17">
+      <text>Measure laid before Senate by unanimous consent.</text>
+      <reference ref="CR S4574-4595" label="consideration"/>
+    </action>
+    <action datetime="2014-07-17">
+      <text>The committee reported amendments are agreed to by Unanimous Consent and considered as original text.</text>
+      <reference ref="CR S4574-4575" label="text of measure as reported in Senate"/>
+    </action>
+    <vote how="roll" type="vote" roll="231" datetime="2014-07-17" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with amendments by Yea-Nay Vote. 93 - 4. Record Vote Number: 231.</text>
+      <reference ref="CR S4589-4595" label="text"/>
+    </vote>
+    <action datetime="2014-07-17T15:15:00-04:00">
+      <text>Received in the House.</text>
+    </action>
+    <action datetime="2014-07-17">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="2014-07-17T15:50:00-04:00">
+      <text>Held at the desk.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="2146"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Insurance industry and regulation"/>
+    <term name="Life, casualty, property insurance"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments>
+    <amendment number="s3549"/>
+    <amendment number="s3550"/>
+    <amendment number="s3551"/>
+    <amendment number="s3552"/>
+  </amendments>
+  <summary>4/10/2014--Introduced.
+Terrorism Risk Insurance Program Reauthorization Act of 2014 - Amends the Terrorism Risk Insurance Act of 2002 to extend the Terrorism Insurance Program through December 31, 2021.
+
+Decreases the federal share of the compensation for insured losses of an insurer during each Program year after enactment of this Act by 1% until that share equals 80% of that portion of the amount of such insured losses that exceeds the applicable insurer deductible for such Program year.
+
+Increases the insurance marketplace aggregate retention amount under such Program (currently $27.5 billion) by $2 billion per calendar year after enactment of this Act until such amount equals $37.5 billion.</summary>
+</bill>

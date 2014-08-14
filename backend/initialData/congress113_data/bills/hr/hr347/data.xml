@@ -1,0 +1,69 @@
+<bill session="113" type="h" number="347" updated="2014-08-14T12:53:40-04:00">
+  <state datetime="2013-01-22">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-22"/>
+  </status>
+  <introduced datetime="2013-01-22"/>
+  <titles>
+    <title type="short" as="introduced">21st Century Readiness Act</title>
+    <title type="official" as="introduced">To provide, develop, and support 21st century readiness initiatives that assist students in acquiring the skills necessary to think critically and solve problems, be an effective communicator, collaborate with others, and learn to create and innovate.</title>
+  </titles>
+  <sponsor thomas_id="00912"/>
+  <cosponsors>
+    <cosponsor thomas_id="01889" joined="2013-02-25"/>
+    <cosponsor thomas_id="01839" joined="2013-01-22"/>
+    <cosponsor thomas_id="02041" joined="2013-01-22"/>
+    <cosponsor thomas_id="02044" joined="2013-01-22"/>
+    <cosponsor thomas_id="01634" joined="2013-03-06"/>
+    <cosponsor thomas_id="01936" joined="2013-02-25"/>
+    <cosponsor thomas_id="01846" joined="2013-01-22"/>
+    <cosponsor thomas_id="01730" joined="2013-01-22"/>
+    <cosponsor thomas_id="01811" joined="2013-01-22"/>
+    <cosponsor thomas_id="00868" joined="2013-01-22"/>
+    <cosponsor thomas_id="00930" joined="2013-06-05"/>
+    <cosponsor thomas_id="01920" joined="2013-02-25"/>
+    <cosponsor thomas_id="01952" joined="2013-01-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-22">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E45"/>
+    </action>
+    <action datetime="2013-01-22" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2013-04-23">
+      <text>Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+    <committee subcommittee="Early Childhood, Elementary, and Secondary Education" code="HSED14" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Academic performance and assessments"/>
+    <term name="Education of the disadvantaged"/>
+    <term name="Education programs funding"/>
+    <term name="Educational technology and distance education"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Performance measurement"/>
+    <term name="Teaching, teachers, curricula"/>
+  </subjects>
+  <amendments/>
+  <summary>1/22/2013--Introduced.
+21st Century Readiness Act - Amends the Elementary and Secondary Education Act of 1965 (ESEA) to support 21st century readiness initiatives that fuse core academic subject knowledge and higher-order thinking skills (such as critical thinking and problem solving, communication, collaboration, creativity, and innovation) to ensure that students are prepared for postsecondary education and careers, upon graduation from secondary school.
+
+Amends title I (Improving the Academic Achievement of the Disadvantaged) of the ESEA to require the Secretary of Education, as part of the national assessment of title I programs, to examine the extent to which such initiatives improve student readiness for postsecondary education and careers.
+
+Includes 21st century readiness initiatives in comprehensive school reform programs and school dropout prevention and reentry programs under title I.
+
+Amends title II (Preparing, Training, and Recruiting High Quality Teachers and Principals) of the ESEA to require high-quality professional development programs to incorporate an aligned system of teaching and learning that includes 21st century skills (such as critical thinking and problem solving, communication, collaboration, creativity, and innovation), standards, curriculum, instruction, and assessments.
+
+Requires local educational agencies to use title II subgrants to enable educators to deliver instruction on higher-order thinking skills and use the latest available technology in doing so.
+
+Amends title IV (21st Century Schools) of the ESEA to include 21st century readiness initiatives in 21st Century Community Learning Center activities. (21st Century Community Learning Centers provide students with before and after school programs to improve their academic performance.)
+
+Amends title VI (Flexibility and Accountability) of the ESEA to allow assessment grants to be used by states to develop or improve assessments that use technology to measure core academic subject knowledge and higher-order thinking skills to ensure that students can apply a range of skill competencies alongside core academic subject knowledge, and do so in real-world contexts.</summary>
+</bill>

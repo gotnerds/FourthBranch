@@ -1,0 +1,29 @@
+<bill session="113" type="hr" number="709" updated="2014-08-14T12:50:39-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="official" as="introduced">Recognizing the importance of transformative breakthroughs in biomedicine, biotechnology, and life sciences in the diagnosis, management, curing, and treatment of illness and the existence of a ''Valley of Death'' in biotechnology and life sciences funding that stifles innovation and impedes translational medical research.</title>
+  </titles>
+  <sponsor thomas_id="02112"/>
+  <cosponsors>
+    <cosponsor thomas_id="02126" joined="2014-07-31"/>
+    <cosponsor thomas_id="01995" joined="2014-07-31"/>
+    <cosponsor thomas_id="01634" joined="2014-07-31"/>
+    <cosponsor thomas_id="01814" joined="2014-07-31"/>
+    <cosponsor thomas_id="01003" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

@@ -1,0 +1,49 @@
+<bill session="113" type="h" number="4900" updated="2014-08-14T13:33:16-04:00">
+  <state datetime="2014-06-19">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-19"/>
+  </status>
+  <introduced datetime="2014-06-19"/>
+  <titles>
+    <title type="short" as="introduced">Helping Veterans Save for Health Care Act of 2014</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to prevent veterans from being disqualified from contributing to health savings accounts by reason of receiving medical care for service-connected disabilities under programs administered by the Department of Veterans Affairs.</title>
+  </titles>
+  <sponsor thomas_id="00603"/>
+  <cosponsors>
+    <cosponsor thomas_id="01858" joined="2014-07-17"/>
+    <cosponsor thomas_id="01468" joined="2014-07-17"/>
+    <cosponsor thomas_id="01882" joined="2014-07-17"/>
+    <cosponsor thomas_id="01801" joined="2014-07-17"/>
+    <cosponsor thomas_id="01868" joined="2014-07-17"/>
+    <cosponsor thomas_id="02100" joined="2014-07-17"/>
+    <cosponsor thomas_id="02074" joined="2014-07-17"/>
+    <cosponsor thomas_id="02059" joined="2014-07-17"/>
+    <cosponsor thomas_id="01075" joined="2014-07-17"/>
+    <cosponsor thomas_id="01688" joined="2014-07-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-19">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H5506"/>
+    </action>
+    <action datetime="2014-06-19" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="1342"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Disability and paralysis"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Income tax deductions"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>6/19/2014--Introduced.
+Helping Veterans Save for Health Care Act of 2014 - Amends the Internal Revenue Code to&#160;provide that a veteran receiving hospital care or medical services for a service-connected disabililty is not disqualified from participating in or contributing to a tax-preferred health savings account (HSA).</summary>
+</bill>

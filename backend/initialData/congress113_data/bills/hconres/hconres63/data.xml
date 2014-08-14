@@ -1,0 +1,62 @@
+<bill session="113" type="hc" number="63" updated="2014-08-14T13:39:07-04:00">
+  <state datetime="2013-10-30">REFERRED</state>
+  <status>
+    <introduced datetime="2013-10-30"/>
+  </status>
+  <introduced datetime="2013-10-30"/>
+  <titles>
+    <title type="official" as="introduced">Honoring the service of Native American Indians in the United States Armed Forces.</title>
+  </titles>
+  <sponsor thomas_id="01907"/>
+  <cosponsors>
+    <cosponsor thomas_id="02027" joined="2013-10-30"/>
+    <cosponsor thomas_id="02107" joined="2013-10-30"/>
+    <cosponsor thomas_id="01742" joined="2013-10-30"/>
+    <cosponsor thomas_id="00229" joined="2013-10-30"/>
+    <cosponsor thomas_id="02103" joined="2013-10-30"/>
+    <cosponsor thomas_id="01995" joined="2013-10-30"/>
+    <cosponsor thomas_id="01708" joined="2013-10-30"/>
+    <cosponsor thomas_id="02010" joined="2013-10-30"/>
+    <cosponsor thomas_id="00511" joined="2013-10-30"/>
+    <cosponsor thomas_id="01634" joined="2013-10-30"/>
+    <cosponsor thomas_id="02169" joined="2013-11-13"/>
+    <cosponsor thomas_id="01653" joined="2013-10-30"/>
+    <cosponsor thomas_id="01505" joined="2013-10-30"/>
+    <cosponsor thomas_id="01730" joined="2013-10-30"/>
+    <cosponsor thomas_id="00832" joined="2013-10-30"/>
+    <cosponsor thomas_id="02156" joined="2013-10-30"/>
+    <cosponsor thomas_id="02108" joined="2013-10-30"/>
+    <cosponsor thomas_id="00868" joined="2013-10-30"/>
+    <cosponsor thomas_id="02162" joined="2013-10-30"/>
+    <cosponsor thomas_id="02109" joined="2013-10-30"/>
+    <cosponsor thomas_id="02112" joined="2013-10-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-10-30" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2014-01-24">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee subcommittee="Military Personnel" code="HSAS02" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Federal-Indian relations"/>
+    <term name="Military history"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Veterans' organizations and recognition"/>
+  </subjects>
+  <amendments/>
+  <summary>10/30/2013--Introduced.
+Honors the service of Native American Indians in the U.S. Armed Forces.
+
+Recommends the establishment of a National Native American Indian Veterans Day.
+
+Encourages all Americans to learn about the service of Native American Indians in the U.S. Armed Forces.</summary>
+</bill>

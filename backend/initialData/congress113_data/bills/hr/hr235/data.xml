@@ -1,0 +1,88 @@
+<bill session="113" type="h" number="235" updated="2014-08-14T12:52:42-04:00">
+  <state datetime="2013-02-12T14:40:00-05:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2013-02-12T14:40:00-05:00"/>
+  </status>
+  <introduced datetime="2013-01-14"/>
+  <titles>
+    <title type="short" as="introduced">Veteran Emergency Medical Technician Support Act of 2013</title>
+    <title type="short" as="reported to house">Veteran Emergency Medical Technician Support Act of 2013</title>
+    <title type="short" as="passed house">Veteran Emergency Medical Technician Support Act of 2013</title>
+    <title type="official" as="introduced">To amend the Public Health Service Act to provide grants to States to streamline State requirements and procedures for veterans with military emergency medical training to become civilian emergency medical technicians.</title>
+  </titles>
+  <sponsor thomas_id="02014"/>
+  <cosponsors>
+    <cosponsor thomas_id="01845" joined="2013-02-04"/>
+    <cosponsor thomas_id="01751" joined="2013-01-22"/>
+    <cosponsor thomas_id="01471" joined="2013-01-14"/>
+    <cosponsor thomas_id="01474" joined="2013-01-22"/>
+    <cosponsor thomas_id="02126" joined="2013-02-04"/>
+    <cosponsor thomas_id="00299" joined="2013-01-22"/>
+    <cosponsor thomas_id="02067" joined="2013-01-22"/>
+    <cosponsor thomas_id="02044" joined="2013-01-22"/>
+    <cosponsor thomas_id="02015" joined="2013-01-22"/>
+    <cosponsor thomas_id="01730" joined="2013-02-04"/>
+    <cosponsor thomas_id="00887" joined="2013-01-22"/>
+    <cosponsor thomas_id="00940" joined="2013-02-04"/>
+    <cosponsor thomas_id="01588" joined="2013-01-22"/>
+    <cosponsor thomas_id="01920" joined="2013-01-22"/>
+    <cosponsor thomas_id="01209" joined="2013-01-22"/>
+    <cosponsor thomas_id="01886" joined="2013-02-04"/>
+    <cosponsor thomas_id="02021" joined="2013-01-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-14" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-01-18">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2013-02-04T17:34:00-05:00">
+      <text>Reported by the Committee on Energy and Commerce. H. Rept. 113-5.</text>
+    </action>
+    <calendar datetime="2013-02-04T17:35:00-05:00" state="REPORTED" calendar="Union" number="3">
+      <text>Placed on the Union Calendar, Calendar No. 3.</text>
+    </calendar>
+    <action datetime="2013-02-12T14:32:00-05:00">
+      <text>Mr. Whitfield moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2013-02-12T14:32:00-05:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H442-443" label="consideration"/>
+    </action>
+    <action datetime="2013-02-12T14:32:00-05:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 235.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2013-02-12T14:40:00-05:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H442" label="text"/>
+    </vote>
+    <action datetime="2013-02-12T14:40:00-05:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2013-02-13">
+      <text>Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, Reporting"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Emergency medical services and trauma care"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health personnel"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Licensing and registrations"/>
+    <term name="Medical education"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+  </subjects>
+  <amendments/>
+  <summary>2/12/2013--Passed House without amendment.
+Veteran Emergency Medical Technician Support Act of 2013 - Amends the Public Health Service Act to direct the Secretary of Health and Human Services (HHS) to establish a demonstration program for states with a shortage of emergency medical technicians (EMTs) to streamline state requirements and procedures to assist veterans who completed military EMT training while serving in the Armed Forces to meet state EMT certification, licensure, and other requirements.
+
+Authorizations appropriations for this Act out of funding for area health education centers.</summary>
+</bill>

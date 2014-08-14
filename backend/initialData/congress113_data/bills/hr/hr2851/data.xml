@@ -1,0 +1,115 @@
+<bill session="113" type="h" number="2851" updated="2014-08-14T13:15:47-04:00">
+  <state datetime="2013-07-30">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-30"/>
+  </status>
+  <introduced datetime="2013-07-30"/>
+  <titles>
+    <title type="short" as="introduced">End Racial Profiling Act of 2013</title>
+    <title type="official" as="introduced">To eliminate racial profiling by law enforcement, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00229"/>
+  <cosponsors>
+    <cosponsor thomas_id="02153" joined="2013-07-30"/>
+    <cosponsor thomas_id="02102" joined="2013-12-19"/>
+    <cosponsor thomas_id="00091" joined="2013-07-30"/>
+    <cosponsor thomas_id="01889" joined="2013-07-30"/>
+    <cosponsor thomas_id="02159" joined="2013-10-23"/>
+    <cosponsor thomas_id="01474" joined="2013-07-30"/>
+    <cosponsor thomas_id="01970" joined="2013-07-30"/>
+    <cosponsor thomas_id="01864" joined="2013-07-30"/>
+    <cosponsor thomas_id="01654" joined="2013-07-30"/>
+    <cosponsor thomas_id="01878" joined="2013-07-30"/>
+    <cosponsor thomas_id="00256" joined="2013-07-30"/>
+    <cosponsor thomas_id="01477" joined="2013-08-01"/>
+    <cosponsor thomas_id="01479" joined="2013-07-30"/>
+    <cosponsor thomas_id="00299" joined="2013-07-30"/>
+    <cosponsor thomas_id="01894" joined="2013-07-30"/>
+    <cosponsor thomas_id="01857" joined="2013-07-30"/>
+    <cosponsor thomas_id="00368" joined="2013-07-30"/>
+    <cosponsor thomas_id="01895" joined="2013-07-30"/>
+    <cosponsor thomas_id="01803" joined="2013-08-01"/>
+    <cosponsor thomas_id="01708" joined="2013-07-30"/>
+    <cosponsor thomas_id="00478" joined="2013-07-30"/>
+    <cosponsor thomas_id="01490" joined="2013-07-30"/>
+    <cosponsor thomas_id="01634" joined="2013-07-30"/>
+    <cosponsor thomas_id="00588" joined="2013-07-30"/>
+    <cosponsor thomas_id="02149" joined="2013-08-02"/>
+    <cosponsor thomas_id="02190" joined="2013-12-19"/>
+    <cosponsor thomas_id="02172" joined="2013-12-19"/>
+    <cosponsor thomas_id="01675" joined="2013-07-30"/>
+    <cosponsor thomas_id="01501" joined="2013-07-30"/>
+    <cosponsor thomas_id="00688" joined="2013-07-30"/>
+    <cosponsor thomas_id="00701" joined="2013-10-23"/>
+    <cosponsor thomas_id="01653" joined="2013-07-30"/>
+    <cosponsor thomas_id="01504" joined="2013-12-19"/>
+    <cosponsor thomas_id="01506" joined="2013-07-30"/>
+    <cosponsor thomas_id="00808" joined="2013-08-01"/>
+    <cosponsor thomas_id="01811" joined="2013-07-30"/>
+    <cosponsor thomas_id="00832" joined="2013-12-19"/>
+    <cosponsor thomas_id="00850" joined="2013-07-30"/>
+    <cosponsor thomas_id="01602" joined="2013-07-30"/>
+    <cosponsor thomas_id="00868" joined="2013-07-30"/>
+    <cosponsor thomas_id="02097" joined="2013-07-30"/>
+    <cosponsor thomas_id="01929" joined="2013-07-30"/>
+    <cosponsor thomas_id="02171" joined="2013-12-19"/>
+    <cosponsor thomas_id="00944" joined="2013-07-30"/>
+    <cosponsor thomas_id="02023" joined="2013-07-30"/>
+    <cosponsor thomas_id="01588" joined="2013-07-30"/>
+    <cosponsor thomas_id="01037" joined="2013-07-30"/>
+    <cosponsor thomas_id="01042" joined="2013-07-30"/>
+    <cosponsor thomas_id="01528" joined="2013-08-01"/>
+    <cosponsor thomas_id="02104" joined="2013-12-19"/>
+    <cosponsor thomas_id="01151" joined="2013-07-30"/>
+    <cosponsor thomas_id="01729" joined="2013-07-30"/>
+    <cosponsor thomas_id="01205" joined="2013-08-01"/>
+    <cosponsor thomas_id="02004" joined="2013-07-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-30">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1158-1159"/>
+    </action>
+    <action datetime="2013-07-30" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-09-13">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1038"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Border security and unlawful immigration"/>
+    <term name="Civil actions and liability"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Customs enforcement"/>
+    <term name="Department of Justice"/>
+    <term name="Government information and archives"/>
+    <term name="Government liability"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="Right of privacy"/>
+  </subjects>
+  <amendments/>
+  <summary>7/30/2013--Introduced.
+End Racial Profiling Act of 2013 - Prohibits any law enforcement agent or agency from engaging in racial profiling. Defines "racial profiling" to mean the practice of a law enforcement agent or agency relying, to any degree, on race, ethnicity, national origin, gender, or religion in selecting which individual to subject to routine or spontaneous investigatory activities, or in deciding upon the scope and substance of law enforcement activity following the initial investigatory activity, except when there is trustworthy information relevant to the locality and timeframe that links a person of a particular race, ethnicity, national origin, gender, or religion to an identified criminal incident or scheme.
+
+Authorizes the United States or an individual injured by racial profiling to enforce this Act in a civil action for declaratory or injunctive relief.
+
+Requires: (1) federal law enforcement agencies to maintain adequate policies and procedures to eliminate racial profiling and to cease existing practices that permit racial profiling; and (2) state or local governmental entities or state, local, or tribal law enforcement agencies that apply for grants under the Edward Byrne Memorial Justice Assistance Grant Program and the Cops on the Beat Program to certify that they maintain adequate policies and procedures for eliminating racial profiling and have eliminated any existing practices that permit or encourage racial profiling.
+
+Requires the Attorney General to issue regulations to ensure that administrative complaint procedures and independent audit programs provide an appropriate response to allegations of racial profiling by law enforcement agents or agencies.
+
+Authorizes the Attorney General to award grants and contracts for the collection of data relating to racial profiling and for the development of best practices and systems to eliminate racial profiling. Requires: (1) the Attorney General to issue regulations for the collection and compilation of data on racial profiling, and (2) the Department of Justice Bureau of Justice Statistics to analyze the data collected for any statistically significant disparities.
+
+Requires the Attorney General to submit annual reports on racial profiling by law enforcement agencies.</summary>
+</bill>

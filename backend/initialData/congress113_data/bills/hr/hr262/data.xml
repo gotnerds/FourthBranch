@@ -1,0 +1,103 @@
+<bill session="113" type="h" number="262" updated="2014-08-14T12:52:58-04:00">
+  <state datetime="2013-01-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-15"/>
+  </status>
+  <introduced datetime="2013-01-15"/>
+  <titles>
+    <title type="short" as="introduced">Multinational Species Conservation Funds Semipostal Stamp Reauthorization Act</title>
+    <title type="official" as="introduced">To reauthorize the Multinational Species Conservation Funds Semipostal Stamp, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02041"/>
+  <cosponsors>
+    <cosponsor thomas_id="00038" joined="2013-02-12"/>
+    <cosponsor thomas_id="02054" joined="2013-03-21"/>
+    <cosponsor thomas_id="01723" joined="2013-01-15"/>
+    <cosponsor thomas_id="01469" joined="2013-01-15"/>
+    <cosponsor thomas_id="01840" joined="2013-01-15"/>
+    <cosponsor thomas_id="01471" joined="2013-01-15"/>
+    <cosponsor thomas_id="02159" joined="2013-02-05"/>
+    <cosponsor thomas_id="02055" joined="2013-01-15"/>
+    <cosponsor thomas_id="01878" joined="2013-01-15"/>
+    <cosponsor thomas_id="01959" joined="2013-01-15"/>
+    <cosponsor thomas_id="00229" joined="2013-01-15"/>
+    <cosponsor thomas_id="00231" joined="2013-01-15"/>
+    <cosponsor thomas_id="01836" joined="2013-03-04"/>
+    <cosponsor thomas_id="01857" joined="2013-05-13"/>
+    <cosponsor thomas_id="00368" joined="2013-01-15"/>
+    <cosponsor thomas_id="01797" joined="2013-01-15"/>
+    <cosponsor thomas_id="01793" joined="2013-01-22"/>
+    <cosponsor thomas_id="02122" joined="2013-04-26"/>
+    <cosponsor thomas_id="01743" joined="2013-05-20"/>
+    <cosponsor thomas_id="02043" joined="2013-08-02"/>
+    <cosponsor thomas_id="01708" joined="2013-01-15"/>
+    <cosponsor thomas_id="02089" joined="2013-02-13"/>
+    <cosponsor thomas_id="02044" joined="2013-01-15"/>
+    <cosponsor thomas_id="02040" joined="2013-08-01"/>
+    <cosponsor thomas_id="02101" joined="2013-01-22"/>
+    <cosponsor thomas_id="01498" joined="2013-02-01"/>
+    <cosponsor thomas_id="00635" joined="2013-01-15"/>
+    <cosponsor thomas_id="01936" joined="2013-01-15"/>
+    <cosponsor thomas_id="01501" joined="2013-02-12"/>
+    <cosponsor thomas_id="00699" joined="2013-05-06"/>
+    <cosponsor thomas_id="01846" joined="2013-01-15"/>
+    <cosponsor thomas_id="02111" joined="2013-10-09"/>
+    <cosponsor thomas_id="01943" joined="2013-04-25"/>
+    <cosponsor thomas_id="00729" joined="2013-04-10"/>
+    <cosponsor thomas_id="01653" joined="2013-04-23"/>
+    <cosponsor thomas_id="00766" joined="2013-05-15"/>
+    <cosponsor thomas_id="02052" joined="2013-01-15"/>
+    <cosponsor thomas_id="01506" joined="2013-01-15"/>
+    <cosponsor thomas_id="00808" joined="2013-01-15"/>
+    <cosponsor thomas_id="01685" joined="2013-01-15"/>
+    <cosponsor thomas_id="00832" joined="2013-01-15"/>
+    <cosponsor thomas_id="01930" joined="2013-01-22"/>
+    <cosponsor thomas_id="01953" joined="2013-01-15"/>
+    <cosponsor thomas_id="01802" joined="2013-09-09"/>
+    <cosponsor thomas_id="01915" joined="2013-02-01"/>
+    <cosponsor thomas_id="01967" joined="2013-01-15"/>
+    <cosponsor thomas_id="01848" joined="2013-04-10"/>
+    <cosponsor thomas_id="01522" joined="2013-01-15"/>
+    <cosponsor thomas_id="01920" joined="2013-08-01"/>
+    <cosponsor thomas_id="01069" joined="2013-01-15"/>
+    <cosponsor thomas_id="02047" joined="2013-01-15"/>
+    <cosponsor thomas_id="01952" joined="2013-01-15"/>
+    <cosponsor thomas_id="01884" joined="2013-01-15"/>
+    <cosponsor thomas_id="01729" joined="2013-01-15"/>
+    <cosponsor thomas_id="01205" joined="2013-07-25"/>
+    <cosponsor thomas_id="01886" joined="2013-01-15"/>
+    <cosponsor thomas_id="01256" joined="2013-01-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-15" state="REFERRED">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-01-15">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2013-01-15">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2013-01-31">
+      <text>Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee subcommittee="Fisheries, Wildlife, Oceans, and Insular Affairs" code="HSII22" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Endangered and threatened species"/>
+    <term name="Government trust funds"/>
+    <term name="Mammals"/>
+    <term name="Postal service"/>
+    <term name="Reptiles"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+  <summary>1/15/2013--Introduced.
+Multinational Species Conservation Funds Semipostal Stamp Reauthorization Act - Amends the Multinational Species Conservation Funds Semipostal Stamp Act of 2010 to require such stamp to be: (1) made available to the public for an additional four years; and (2) offered in a a choice of five versions depicting an African or Asian elephant, a rhinoceros, a tiger, a marine turtle, or a great ape.</summary>
+</bill>

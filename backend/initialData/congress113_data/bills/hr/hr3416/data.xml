@@ -1,0 +1,87 @@
+<bill session="113" type="h" number="3416" updated="2014-08-14T13:20:33-04:00">
+  <state datetime="2013-10-30">REFERRED</state>
+  <status>
+    <introduced datetime="2013-10-30"/>
+  </status>
+  <introduced datetime="2013-10-30"/>
+  <titles>
+    <title type="official" as="introduced">To amend titles 5, 10, and 32, United States Code, to require congressional approval before any change may be made to the oaths required for enlistment in the Armed Forces, appointment to an office in the civil service or uniformed services, or appointment as a cadet or midshipman at a military service academy, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00603"/>
+  <cosponsors>
+    <cosponsor thomas_id="01858" joined="2013-11-13"/>
+    <cosponsor thomas_id="02131" joined="2014-01-21"/>
+    <cosponsor thomas_id="02135" joined="2013-11-14"/>
+    <cosponsor thomas_id="02155" joined="2013-11-15"/>
+    <cosponsor thomas_id="01882" joined="2013-11-15"/>
+    <cosponsor thomas_id="00186" joined="2013-11-13"/>
+    <cosponsor thomas_id="01805" joined="2013-11-13"/>
+    <cosponsor thomas_id="01924" joined="2013-11-13"/>
+    <cosponsor thomas_id="02065" joined="2013-11-13"/>
+    <cosponsor thomas_id="01683" joined="2013-12-03"/>
+    <cosponsor thomas_id="01707" joined="2013-11-13"/>
+    <cosponsor thomas_id="01720" joined="2013-11-12"/>
+    <cosponsor thomas_id="01801" joined="2013-11-13"/>
+    <cosponsor thomas_id="00484" joined="2013-12-19"/>
+    <cosponsor thomas_id="02026" joined="2013-11-14"/>
+    <cosponsor thomas_id="02032" joined="2013-11-13"/>
+    <cosponsor thomas_id="02028" joined="2013-11-13"/>
+    <cosponsor thomas_id="01909" joined="2013-11-19"/>
+    <cosponsor thomas_id="00612" joined="2013-11-12"/>
+    <cosponsor thomas_id="01724" joined="2013-11-13"/>
+    <cosponsor thomas_id="00636" joined="2013-11-12"/>
+    <cosponsor thomas_id="02100" joined="2013-11-13"/>
+    <cosponsor thomas_id="01834" joined="2013-11-12"/>
+    <cosponsor thomas_id="01885" joined="2013-11-20"/>
+    <cosponsor thomas_id="02033" joined="2013-11-14"/>
+    <cosponsor thomas_id="01806" joined="2013-11-13"/>
+    <cosponsor thomas_id="01792" joined="2013-11-13"/>
+    <cosponsor thomas_id="01505" joined="2013-12-03"/>
+    <cosponsor thomas_id="02001" joined="2013-11-12"/>
+    <cosponsor thomas_id="01955" joined="2013-10-30"/>
+    <cosponsor thomas_id="01738" joined="2013-11-15"/>
+    <cosponsor thomas_id="02141" joined="2013-11-19"/>
+    <cosponsor thomas_id="01514" joined="2013-11-13"/>
+    <cosponsor thomas_id="02073" joined="2013-11-13"/>
+    <cosponsor thomas_id="02003" joined="2013-11-13"/>
+    <cosponsor thomas_id="02009" joined="2013-11-13"/>
+    <cosponsor thomas_id="02047" joined="2014-04-28"/>
+    <cosponsor thomas_id="01855" joined="2013-11-13"/>
+    <cosponsor thomas_id="01238" joined="2013-11-13"/>
+    <cosponsor thomas_id="02115" joined="2013-11-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-10-30" state="REFERRED">
+      <text>Referred to the Committee on Armed Services, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-10-30">
+      <text>Referred to House Armed Services</text>
+    </action>
+    <action datetime="2013-10-30">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2014-01-24">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee subcommittee="Military Personnel" code="HSAS02" name="House Armed Services" activity="Referral"/>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congressional oversight"/>
+    <term name="Federal officials"/>
+    <term name="Higher education"/>
+    <term name="Members of Congress"/>
+    <term name="Military education and training"/>
+    <term name="Military personnel and dependents"/>
+    <term name="National Guard and reserves"/>
+    <term name="School administration"/>
+  </subjects>
+  <amendments/>
+  <summary>10/30/2013--Introduced.
+Prohibits any change from being made to the oaths required for appointment to an office in the civil service or uniformed services, enlistment in the Armed Forces or National Guard, or admission to a U.S. military service academy, except by an Act of or authorization by Congress.</summary>
+</bill>

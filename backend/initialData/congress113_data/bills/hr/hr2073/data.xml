@@ -1,0 +1,67 @@
+<bill session="113" type="h" number="2073" updated="2014-08-14T13:08:56-04:00">
+  <state datetime="2013-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-21"/>
+  </status>
+  <introduced datetime="2013-05-21"/>
+  <titles>
+    <title type="short" as="introduced">Pulmonary Hypertension Research and Diagnosis Act of 2013</title>
+    <title type="official" as="introduced">To direct the Secretary of Health and Human Services to establish an interagency coordinating committee on pulmonary hypertension to develop recommendations to advance research, increase awareness and education, and improve health and health care, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01468"/>
+  <cosponsors>
+    <cosponsor thomas_id="01740" joined="2013-05-21"/>
+    <cosponsor thomas_id="01471" joined="2013-05-21"/>
+    <cosponsor thomas_id="01959" joined="2013-11-15"/>
+    <cosponsor thomas_id="01774" joined="2013-05-21"/>
+    <cosponsor thomas_id="01836" joined="2013-12-04"/>
+    <cosponsor thomas_id="02114" joined="2014-01-07"/>
+    <cosponsor thomas_id="01973" joined="2013-10-22"/>
+    <cosponsor thomas_id="01743" joined="2014-01-27"/>
+    <cosponsor thomas_id="01913" joined="2014-02-18"/>
+    <cosponsor thomas_id="01663" joined="2013-12-04"/>
+    <cosponsor thomas_id="00635" joined="2013-05-21"/>
+    <cosponsor thomas_id="01583" joined="2013-11-22"/>
+    <cosponsor thomas_id="00832" joined="2013-11-14"/>
+    <cosponsor thomas_id="00854" joined="2013-07-08"/>
+    <cosponsor thomas_id="00868" joined="2013-05-21"/>
+    <cosponsor thomas_id="01710" joined="2013-06-04"/>
+    <cosponsor thomas_id="00944" joined="2013-12-05"/>
+    <cosponsor thomas_id="01848" joined="2013-05-21"/>
+    <cosponsor thomas_id="01756" joined="2013-11-13"/>
+    <cosponsor thomas_id="01861" joined="2014-01-07"/>
+    <cosponsor thomas_id="02105" joined="2013-09-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-21" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-05-24">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1453"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Advisory bodies"/>
+    <term name="Cardiovascular and respiratory health"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Medical education"/>
+    <term name="Medical research"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Organ and tissue donation and transplantation"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2013--Introduced.
+Pulmonary Hypertension Research and Diagnosis Act of 2013 - Directs the Secretary of Health and Human Services (HHS) to establish an Interagency Pulmonary Hypertension Coordinating Committee to make recommendations on, and coordinate, all efforts within HHS concerning pulmonary hypertension.
+
+Requires the Committee to: (1) develop and update annually a summary of pulmonary hypertension advances in medical research and treatment development and improvement, early and accurate diagnosis, appropriate and timely intervention, transplantation, and access to care and therapies for patients; (2) monitor federal activities respecting pulmonary hypertension; (3) make recommendations regarding appropriate changes to such activities as well as stakeholder participation in decisions relating to pulmonary hypertension; and (4) develop and update annually a comprehensive strategic plan to cooperatively improve health outcomes for pulmonary hypertension patients.</summary>
+</bill>

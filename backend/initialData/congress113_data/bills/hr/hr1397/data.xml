@@ -1,0 +1,87 @@
+<bill session="113" type="h" number="1397" updated="2014-08-14T13:02:36-04:00">
+  <state datetime="2013-03-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-21"/>
+  </status>
+  <introduced datetime="2013-03-21"/>
+  <titles>
+    <title type="short" as="introduced">Project Rebuild Act of 2013</title>
+    <title type="official" as="introduced">To create jobs and reinvest in communities through the rehabilitation of abandoned and foreclosed residential and commercial properties, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01205"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2013-03-21"/>
+    <cosponsor thomas_id="02153" joined="2013-03-21"/>
+    <cosponsor thomas_id="01564" joined="2013-04-09"/>
+    <cosponsor thomas_id="01889" joined="2013-05-03"/>
+    <cosponsor thomas_id="01474" joined="2013-03-21"/>
+    <cosponsor thomas_id="02055" joined="2013-03-21"/>
+    <cosponsor thomas_id="01654" joined="2013-04-09"/>
+    <cosponsor thomas_id="01790" joined="2013-03-21"/>
+    <cosponsor thomas_id="00208" joined="2013-03-21"/>
+    <cosponsor thomas_id="00229" joined="2013-04-09"/>
+    <cosponsor thomas_id="01894" joined="2013-03-21"/>
+    <cosponsor thomas_id="01857" joined="2013-03-21"/>
+    <cosponsor thomas_id="00511" joined="2013-03-21"/>
+    <cosponsor thomas_id="01794" joined="2013-04-09"/>
+    <cosponsor thomas_id="00588" joined="2013-04-09"/>
+    <cosponsor thomas_id="00599" joined="2013-03-21"/>
+    <cosponsor thomas_id="01843" joined="2013-03-21"/>
+    <cosponsor thomas_id="02134" joined="2014-01-29"/>
+    <cosponsor thomas_id="00868" joined="2013-04-09"/>
+    <cosponsor thomas_id="02097" joined="2013-03-21"/>
+    <cosponsor thomas_id="01929" joined="2013-04-09"/>
+    <cosponsor thomas_id="02023" joined="2013-03-21"/>
+    <cosponsor thomas_id="01003" joined="2013-04-09"/>
+    <cosponsor thomas_id="01722" joined="2013-03-21"/>
+    <cosponsor thomas_id="01988" joined="2013-03-21"/>
+    <cosponsor thomas_id="01069" joined="2013-06-19"/>
+    <cosponsor thomas_id="02110" joined="2013-05-03"/>
+    <cosponsor thomas_id="01151" joined="2013-03-21"/>
+    <cosponsor thomas_id="02166" joined="2013-03-21"/>
+    <cosponsor thomas_id="01207" joined="2013-03-21"/>
+    <cosponsor thomas_id="02004" joined="2013-03-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-21" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Appropriations"/>
+    <term name="Buy American requirements"/>
+    <term name="Employee hiring"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Housing and community development funding"/>
+    <term name="Housing finance and home ownership"/>
+    <term name="Housing supply and affordability"/>
+    <term name="Labor standards"/>
+    <term name="Low- and moderate-income housing"/>
+    <term name="Property rights"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Residential rehabilitation and home repair"/>
+    <term name="Rural conditions and development"/>
+    <term name="Urban and suburban affairs and development"/>
+    <term name="Wages and earnings"/>
+  </subjects>
+  <amendments/>
+  <summary>3/21/2013--Introduced.
+Project Rebuild Act of 2013 - Appropriates funds for assistance to eligible entities including state and local governments, and qualified nonprofit organizations, businesses or eligible consortia for the redevelopment of abandoned and foreclosed-upon properties and for stabilization of affected neighborhoods (Project Rebuild).
+
+Allows the use of funds to: (1) establish financing mechanisms for the purchase and redevelopment of abandoned and foreclosed-upon properties; (2) purchase and rehabilitate such properties; (3) establish and operate land banks for them; (4) demolish blighted structures (except public housing); and (5) redevelop abandoned, foreclosed, demolished, or vacant properties.
+
+Requires each state to receive at least $20 million of formula funds, all of which shall be used with respect to low and moderate-income individuals and families.
+
+Requires each state and local government grantee to establish procedures to create preferences for development of affordable rental housing.
+
+Allows a grantee to use up to 10% to create jobs by establishing and operating a program to maintain eligible neighborhood properties.
+
+Sets forth Buy American requirements.
+
+ Requires all laborers and mechanics employed by contractors and subcontractors on federally-assisted projects to be paid wages at the locally prevailing rates (Davis-Bacon Act).</summary>
+</bill>

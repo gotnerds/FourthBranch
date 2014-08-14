@@ -1,0 +1,44 @@
+<bill session="113" type="hr" number="598" updated="2014-08-14T12:49:41-04:00">
+  <state datetime="2014-05-23">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-23"/>
+  </status>
+  <introduced datetime="2014-05-23"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the House of Representatives with respect to childhood stroke and recognizing May 2014 as "National Pediatric Stroke Awareness Month".</title>
+  </titles>
+  <sponsor thomas_id="01913"/>
+  <cosponsors>
+    <cosponsor thomas_id="02153" joined="2014-05-23"/>
+    <cosponsor thomas_id="00511" joined="2014-05-23"/>
+    <cosponsor thomas_id="00944" joined="2014-05-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-23" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2014-05-30">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="113" relation="unknown" number="237"/>
+    <bill type="sr" session="113" relation="unknown" number="459"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Child health"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Medical research"/>
+    <term name="Neurological disorders"/>
+  </subjects>
+  <amendments/>
+  <summary>5/23/2014--Introduced.
+Recognizes National Pediatric Stroke Awareness Month.
+
+Supports the work of the National Institutes of Health (NIH) in pursuit of medical progress on pediatric stroke.</summary>
+</bill>

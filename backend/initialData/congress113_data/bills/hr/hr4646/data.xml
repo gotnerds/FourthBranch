@@ -1,0 +1,67 @@
+<bill session="113" type="h" number="4646" updated="2014-08-14T13:31:00-04:00">
+  <state datetime="2014-05-09">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-09"/>
+  </status>
+  <introduced datetime="2014-05-09"/>
+  <titles>
+    <title type="short" as="introduced">Regulatory Improvement Act of 2014</title>
+    <title type="official" as="introduced">To establish an independent advisory committee to review certain regulations, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02117"/>
+  <cosponsors>
+    <cosponsor thomas_id="02131" joined="2014-05-09"/>
+    <cosponsor thomas_id="01780" joined="2014-05-09"/>
+    <cosponsor thomas_id="02063" joined="2014-05-09"/>
+    <cosponsor thomas_id="01912" joined="2014-05-09"/>
+    <cosponsor thomas_id="01774" joined="2014-05-09"/>
+    <cosponsor thomas_id="02126" joined="2014-05-09"/>
+    <cosponsor thomas_id="02133" joined="2014-05-09"/>
+    <cosponsor thomas_id="02125" joined="2014-05-09"/>
+    <cosponsor thomas_id="01797" joined="2014-05-09"/>
+    <cosponsor thomas_id="02164" joined="2014-07-29"/>
+    <cosponsor thomas_id="02154" joined="2014-05-09"/>
+    <cosponsor thomas_id="02169" joined="2014-05-09"/>
+    <cosponsor thomas_id="01498" joined="2014-05-09"/>
+    <cosponsor thomas_id="01936" joined="2014-05-09"/>
+    <cosponsor thomas_id="01671" joined="2014-05-09"/>
+    <cosponsor thomas_id="02142" joined="2014-05-09"/>
+    <cosponsor thomas_id="02156" joined="2014-05-29"/>
+    <cosponsor thomas_id="02059" joined="2014-05-09"/>
+    <cosponsor thomas_id="00910" joined="2014-06-24"/>
+    <cosponsor thomas_id="02073" joined="2014-05-09"/>
+    <cosponsor thomas_id="02109" joined="2014-05-09"/>
+    <cosponsor thomas_id="01950" joined="2014-05-09"/>
+    <cosponsor thomas_id="02099" joined="2014-05-19"/>
+    <cosponsor thomas_id="01593" joined="2014-06-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-09" state="REFERRED">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-05-09">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2014-05-09">
+      <text>Referred to House Rules</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee subcommittee="" code="HSRU" name="House Rules" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1390"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Advisory bodies"/>
+    <term name="Congressional oversight"/>
+    <term name="Legislative rules and procedure"/>
+    <term name="Public participation and lobbying"/>
+  </subjects>
+  <amendments/>
+  <summary>5/9/2014--Introduced.
+Regulatory Improvement Act of 2014 - Establishes in the legislative branch the Regulatory Improvement Commission. Requires the Commission to evaluate and provide recommendations and proposed legislation for modification, consolidation, or repeal of regulations that have been finalized not later than 10 years before the establishment of the Commission and have not been amended after being finalized (covered regulations) for the purpose of reducing compliance costs, encouraging growth and innovation, improving competitiveness, and protecting public health and safety. Sets forth reporting requirements for the Commission and procedures for congressional consideration of Commission reports and recommendations and proposed legislation.</summary>
+</bill>

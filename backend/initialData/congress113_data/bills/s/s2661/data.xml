@@ -1,0 +1,27 @@
+<bill session="113" type="s" number="2661" updated="2014-08-14T14:07:29-04:00">
+  <state datetime="2014-07-24">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-24"/>
+  </status>
+  <introduced datetime="2014-07-24"/>
+  <titles>
+    <title type="official" as="introduced">A bill to designate the facility of the United States Postal Service located at 787 State Route 17M in Monroe, New York, as the "National Clandestine Service of the Central Intelligence Agency NCS Officer Gregg David Wenzel Memorial Post Office".</title>
+  </titles>
+  <sponsor thomas_id="01036"/>
+  <cosponsors>
+    <cosponsor thomas_id="01866" joined="2014-07-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-24" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>7/24/2014--Introduced.
+Designates the facility of the United States Postal Service located at 787 State Route 17M in Monroe, New York, as the "National Clandestine Service of the Central Intelligence Agency NCS Officer Gregg David Wenzel Memorial Post Office."</summary>
+</bill>

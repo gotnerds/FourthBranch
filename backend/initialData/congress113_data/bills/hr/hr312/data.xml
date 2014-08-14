@@ -1,0 +1,70 @@
+<bill session="113" type="h" number="312" updated="2014-08-14T12:53:23-04:00">
+  <state datetime="2013-01-18">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-18"/>
+  </status>
+  <introduced datetime="2013-01-18"/>
+  <titles>
+    <title type="short" as="introduced">Juror Non-Discrimination Act of 2013</title>
+    <title type="official" as="introduced">To amend title 28, United States Code, to prohibit the exclusion of individuals from service on a Federal jury on account of sexual orientation or gender identity.</title>
+  </titles>
+  <sponsor thomas_id="01641"/>
+  <cosponsors>
+    <cosponsor thomas_id="00099" joined="2013-01-18"/>
+    <cosponsor thomas_id="02106" joined="2013-02-05"/>
+    <cosponsor thomas_id="02107" joined="2013-06-20"/>
+    <cosponsor thomas_id="01970" joined="2013-01-18"/>
+    <cosponsor thomas_id="02055" joined="2013-05-23"/>
+    <cosponsor thomas_id="00279" joined="2013-05-09"/>
+    <cosponsor thomas_id="02133" joined="2014-04-09"/>
+    <cosponsor thomas_id="01857" joined="2013-05-09"/>
+    <cosponsor thomas_id="01914" joined="2013-02-06"/>
+    <cosponsor thomas_id="01708" joined="2013-01-18"/>
+    <cosponsor thomas_id="02089" joined="2014-03-27"/>
+    <cosponsor thomas_id="01913" joined="2013-01-18"/>
+    <cosponsor thomas_id="01634" joined="2013-01-18"/>
+    <cosponsor thomas_id="01501" joined="2013-01-18"/>
+    <cosponsor thomas_id="02111" joined="2013-02-06"/>
+    <cosponsor thomas_id="01504" joined="2013-01-18"/>
+    <cosponsor thomas_id="02148" joined="2013-01-18"/>
+    <cosponsor thomas_id="01811" joined="2013-01-18"/>
+    <cosponsor thomas_id="00832" joined="2013-01-18"/>
+    <cosponsor thomas_id="00868" joined="2013-01-18"/>
+    <cosponsor thomas_id="02113" joined="2013-02-26"/>
+    <cosponsor thomas_id="02171" joined="2013-02-05"/>
+    <cosponsor thomas_id="00944" joined="2013-05-09"/>
+    <cosponsor thomas_id="01522" joined="2013-01-18"/>
+    <cosponsor thomas_id="01588" joined="2013-01-18"/>
+    <cosponsor thomas_id="01526" joined="2013-04-09"/>
+    <cosponsor thomas_id="01890" joined="2013-03-15"/>
+    <cosponsor thomas_id="02104" joined="2013-05-17"/>
+    <cosponsor thomas_id="01535" joined="2014-03-27"/>
+    <cosponsor thomas_id="01729" joined="2013-01-18"/>
+    <cosponsor thomas_id="02112" joined="2013-03-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-18" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-02-28">
+      <text>Referred to the Subcommittee on the Constitution And Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee subcommittee="Constitution and Civil Justice" code="HSJU10" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="38"/>
+  </relatedbills>
+  <subjects>
+    <term name="Law"/>
+    <term name="Federal district courts"/>
+    <term name="Judicial procedure and administration"/>
+    <term name="Sex, gender, sexual orientation discrimination"/>
+    <term name="Specialized courts"/>
+  </subjects>
+  <amendments/>
+  <summary>1/18/2013--Introduced.
+Juror Non-Discrimination Act of 2013 - Amends the federal judicial code to prohibit the exclusion of citizens from service as a grand or petit juror in U.S. district courts or the Court of International Trade on account of sexual orientation or gender identity (thereby expanding the current prohibition on exclusion on account of race, color, religion, sex, national origin, or economic status).</summary>
+</bill>

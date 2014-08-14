@@ -1,0 +1,34 @@
+<bill session="113" type="h" number="4769" updated="2014-08-14T13:32:06-04:00">
+  <state datetime="2014-05-29">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-29"/>
+  </status>
+  <introduced datetime="2014-05-29"/>
+  <titles>
+    <title type="short" as="introduced">Veterans Involved in Police Services Act of 2014</title>
+    <title type="official" as="introduced">To amend part Q of title I of the Omnibus Crime Control and Safe Streets Act of 1968 to authorize grant funds to be used for the Troops-to-Cops Program.</title>
+  </titles>
+  <sponsor thomas_id="01832"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-05-29" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2014-07-21">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Law enforcement officers"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Violent crime"/>
+  </subjects>
+  <amendments/>
+</bill>

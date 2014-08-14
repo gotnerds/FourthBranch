@@ -1,0 +1,53 @@
+<bill session="113" type="h" number="4977" updated="2014-08-14T13:33:57-04:00">
+  <state datetime="2014-06-26">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-26"/>
+  </status>
+  <introduced datetime="2014-06-26"/>
+  <titles>
+    <title type="short" as="introduced">COVER Act</title>
+    <title type="short" as="introduced">Creating Options for Veterans Expedited Recovery Act</title>
+    <title type="official" as="introduced">To establish a commission to examine the evidence-based therapy treatment model used by the Secretary of Veterans Affairs for treating mental illnesses of veterans and the potential benefits of incorporating complimentary alternative treatments available in non-Department of Veterans Affairs medical facilities within the community.</title>
+  </titles>
+  <sponsor thomas_id="01838"/>
+  <cosponsors>
+    <cosponsor thomas_id="02199" joined="2014-07-11"/>
+    <cosponsor thomas_id="01907" joined="2014-07-11"/>
+    <cosponsor thomas_id="02109" joined="2014-06-26"/>
+    <cosponsor thomas_id="01856" joined="2014-07-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-26" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2014-07-07">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Health" code="HSVR03" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Advisory bodies"/>
+    <term name="Afghanistan"/>
+    <term name="Alternative treatments"/>
+    <term name="Asia"/>
+    <term name="Conflicts and wars"/>
+    <term name="Congressional oversight"/>
+    <term name="Disability assistance"/>
+    <term name="Drug and radiation therapy"/>
+    <term name="Government studies and investigations"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health care quality"/>
+    <term name="Iraq"/>
+    <term name="Mental health"/>
+    <term name="Middle East"/>
+    <term name="Prescription drugs"/>
+    <term name="Veterans' medical care"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+</bill>

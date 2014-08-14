@@ -1,0 +1,86 @@
+<bill session="113" type="h" number="3406" updated="2014-08-14T13:20:28-04:00">
+  <state datetime="2013-10-30">REFERRED</state>
+  <status>
+    <introduced datetime="2013-10-30"/>
+  </status>
+  <introduced datetime="2013-10-30"/>
+  <titles>
+    <title type="short" as="introduced">If You Like Your Health Plan, You Can Keep it Act</title>
+    <title type="official" as="introduced">To amend the Patient Protection and Affordable Care Act to ensure that individuals can keep their health insurance coverage.</title>
+  </titles>
+  <sponsor thomas_id="02116"/>
+  <cosponsors>
+    <cosponsor thomas_id="02029" joined="2013-10-30"/>
+    <cosponsor thomas_id="01858" joined="2013-10-30"/>
+    <cosponsor thomas_id="02131" joined="2013-10-30"/>
+    <cosponsor thomas_id="02135" joined="2013-10-30"/>
+    <cosponsor thomas_id="01753" joined="2013-10-30"/>
+    <cosponsor thomas_id="02155" joined="2013-10-30"/>
+    <cosponsor thomas_id="01882" joined="2013-10-30"/>
+    <cosponsor thomas_id="01956" joined="2013-10-30"/>
+    <cosponsor thomas_id="01742" joined="2013-10-30"/>
+    <cosponsor thomas_id="02098" joined="2013-10-30"/>
+    <cosponsor thomas_id="02072" joined="2013-11-12"/>
+    <cosponsor thomas_id="00322" joined="2013-11-12"/>
+    <cosponsor thomas_id="01707" joined="2013-10-30"/>
+    <cosponsor thomas_id="02058" joined="2013-10-30"/>
+    <cosponsor thomas_id="01990" joined="2013-11-12"/>
+    <cosponsor thomas_id="02026" joined="2013-10-30"/>
+    <cosponsor thomas_id="02020" joined="2013-11-12"/>
+    <cosponsor thomas_id="02028" joined="2013-10-30"/>
+    <cosponsor thomas_id="00612" joined="2013-11-12"/>
+    <cosponsor thomas_id="01868" joined="2013-10-30"/>
+    <cosponsor thomas_id="01724" joined="2013-10-30"/>
+    <cosponsor thomas_id="02011" joined="2013-10-30"/>
+    <cosponsor thomas_id="02100" joined="2013-10-30"/>
+    <cosponsor thomas_id="02050" joined="2013-11-14"/>
+    <cosponsor thomas_id="01781" joined="2013-11-13"/>
+    <cosponsor thomas_id="02094" joined="2013-10-30"/>
+    <cosponsor thomas_id="02074" joined="2013-10-30"/>
+    <cosponsor thomas_id="02142" joined="2013-10-30"/>
+    <cosponsor thomas_id="00800" joined="2013-10-30"/>
+    <cosponsor thomas_id="02059" joined="2013-11-12"/>
+    <cosponsor thomas_id="02141" joined="2013-11-12"/>
+    <cosponsor thomas_id="01915" joined="2013-10-30"/>
+    <cosponsor thomas_id="01778" joined="2013-10-30"/>
+    <cosponsor thomas_id="02160" joined="2013-10-30"/>
+    <cosponsor thomas_id="02017" joined="2013-10-30"/>
+    <cosponsor thomas_id="02158" joined="2013-10-30"/>
+    <cosponsor thomas_id="01009" joined="2013-10-30"/>
+    <cosponsor thomas_id="01892" joined="2013-10-30"/>
+    <cosponsor thomas_id="01994" joined="2013-11-12"/>
+    <cosponsor thomas_id="02191" joined="2013-10-30"/>
+    <cosponsor thomas_id="01981" joined="2013-10-30"/>
+    <cosponsor thomas_id="01779" joined="2013-11-12"/>
+    <cosponsor thomas_id="01886" joined="2013-10-30"/>
+    <cosponsor thomas_id="02115" joined="2013-10-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-10-30" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-11-01">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="1617"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Comprehensive health care"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health programs administration and funding"/>
+  </subjects>
+  <amendments/>
+  <summary>10/30/2013--Introduced.
+If You Like Your Health Plan, You Can Keep it Act - Amends the Patient Protection and Affordable Care Act (PPACA) to prohibit anything in the Act from being construed to require an individual to terminate coverage under a group health plan or health insurance coverage in which the individual was enrolled during any part of the period beginning on the date of enactment of PPACA (March 23, 2010) and ending on December 31, 2013.
+
+ Allows: (1) continuation of coverage under a group health plan or health insurance in which an individual was enrolled during any part of such period, regardless of whether the individual renews such coverage; (2) family members of the individual to join coverage under such a plan that is renewed; (3) new employees to join a group health plan that provides coverage during any part of such period; and (4) continuation of coverage maintained pursuant to a collective bargaining agreement that was ratified before the end of such period.</summary>
+</bill>

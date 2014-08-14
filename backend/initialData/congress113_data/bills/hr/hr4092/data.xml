@@ -1,0 +1,125 @@
+<bill session="113" type="h" number="4092" updated="2014-08-14T13:26:20-04:00">
+  <state datetime="2014-06-23T16:21:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-06-23T16:21:00-04:00"/>
+  </status>
+  <introduced datetime="2014-02-26"/>
+  <titles>
+    <title type="short" as="introduced">Streamlining Energy Efficiency for Schools Act of 2014</title>
+    <title type="short" as="reported to house">Streamlining Energy Efficiency for Schools Act of 2014</title>
+    <title type="official" as="introduced">To amend the Energy Policy and Conservation Act to establish the Office of Energy Efficiency and Renewable Energy as the lead Federal agency for coordinating Federal, State, and local assistance provided to promote the energy retrofitting of schools.</title>
+  </titles>
+  <sponsor thomas_id="02159"/>
+  <cosponsors>
+    <cosponsor thomas_id="00091" joined="2014-03-12"/>
+    <cosponsor thomas_id="01474" joined="2014-03-06"/>
+    <cosponsor thomas_id="02196" joined="2014-02-26"/>
+    <cosponsor thomas_id="01878" joined="2014-06-11"/>
+    <cosponsor thomas_id="01959" joined="2014-02-26"/>
+    <cosponsor thomas_id="00256" joined="2014-03-12"/>
+    <cosponsor thomas_id="02133" joined="2014-02-26"/>
+    <cosponsor thomas_id="00355" joined="2014-05-07"/>
+    <cosponsor thomas_id="01888" joined="2014-03-04"/>
+    <cosponsor thomas_id="01973" joined="2014-02-28"/>
+    <cosponsor thomas_id="02120" joined="2014-02-28"/>
+    <cosponsor thomas_id="01914" joined="2014-02-26"/>
+    <cosponsor thomas_id="00511" joined="2014-06-19"/>
+    <cosponsor thomas_id="01913" joined="2014-03-06"/>
+    <cosponsor thomas_id="01580" joined="2014-02-26"/>
+    <cosponsor thomas_id="01634" joined="2014-02-26"/>
+    <cosponsor thomas_id="02101" joined="2014-03-06"/>
+    <cosponsor thomas_id="02025" joined="2014-03-14"/>
+    <cosponsor thomas_id="02145" joined="2014-03-13"/>
+    <cosponsor thomas_id="01583" joined="2014-02-26"/>
+    <cosponsor thomas_id="01846" joined="2014-02-26"/>
+    <cosponsor thomas_id="00701" joined="2014-05-07"/>
+    <cosponsor thomas_id="02111" joined="2014-02-26"/>
+    <cosponsor thomas_id="00766" joined="2014-02-28"/>
+    <cosponsor thomas_id="01832" joined="2014-03-06"/>
+    <cosponsor thomas_id="02156" joined="2014-02-26"/>
+    <cosponsor thomas_id="02108" joined="2014-03-06"/>
+    <cosponsor thomas_id="00868" joined="2014-03-06"/>
+    <cosponsor thomas_id="00887" joined="2014-03-06"/>
+    <cosponsor thomas_id="02113" joined="2014-02-26"/>
+    <cosponsor thomas_id="01927" joined="2014-03-24"/>
+    <cosponsor thomas_id="02171" joined="2014-02-26"/>
+    <cosponsor thomas_id="00930" joined="2014-02-26"/>
+    <cosponsor thomas_id="01967" joined="2014-05-07"/>
+    <cosponsor thomas_id="01962" joined="2014-02-26"/>
+    <cosponsor thomas_id="01588" joined="2014-03-06"/>
+    <cosponsor thomas_id="01635" joined="2014-02-26"/>
+    <cosponsor thomas_id="01861" joined="2014-02-26"/>
+    <cosponsor thomas_id="01818" joined="2014-02-26"/>
+    <cosponsor thomas_id="01890" joined="2014-04-28"/>
+    <cosponsor thomas_id="01593" joined="2014-05-01"/>
+    <cosponsor thomas_id="01942" joined="2014-03-04"/>
+    <cosponsor thomas_id="01884" joined="2014-04-28"/>
+    <cosponsor thomas_id="01729" joined="2014-05-19"/>
+    <cosponsor thomas_id="02112" joined="2014-02-28"/>
+    <cosponsor thomas_id="01879" joined="2014-02-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-02-26" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2014-02-28">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+    </action>
+    <action datetime="2014-04-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2014-04-30">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-04-30" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+    <action datetime="2014-06-19T13:19:00-04:00">
+      <text>Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 113-479.</text>
+    </action>
+    <calendar datetime="2014-06-19T13:20:00-04:00" calendar="Union" number="355">
+      <text>Placed on the Union Calendar, Calendar No. 355.</text>
+    </calendar>
+    <action datetime="2014-06-23T16:13:00-04:00">
+      <text>Mr. Kinzinger (IL) moved to suspend the rules and pass the bill, as amended.</text>
+    </action>
+    <action datetime="2014-06-23T16:14:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5604-5605" label="consideration"/>
+    </action>
+    <action datetime="2014-06-23T16:14:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 4092.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-06-23T16:21:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.</text>
+      <reference ref="CR H5604" label="text"/>
+    </vote>
+    <action datetime="2014-06-24">
+      <text>Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee subcommittee="Energy and Power" code="HSIF03" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1084"/>
+    <bill type="s" session="113" relation="unknown" number="2074"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Building construction"/>
+    <term name="Educational facilities and institutions"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Energy efficiency and conservation"/>
+    <term name="Government information and archives"/>
+    <term name="Higher education"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/2014--Introduced.
+Streamlining Energy Efficiency for Schools Act of 2014 - Amends the Energy Policy and Conservation Act to direct the Secretary of Energy (DOE), acting through the Office of Energy and Renewable Energy, to act as the lead federal agency for coordinating and disseminating information on existing federal programs and assistance that may be used to help initiate, develop, and finance energy efficiency, renewable energy, and energy retrofitting projects for schools.
+
+Requires the Secretary to: (1) carry out a review of existing programs and financing mechanisms available in or from appropriate federal agencies with jurisdiction over energy financing and facilitation that are currently used or may be used for such purposes; (2) establish a federal cross-departmental collaborative coordination, education, and outreach effort to streamline communication and promote available federal opportunities and assistance for such projects that enables states, local educational agencies, and schools to use existing federal opportunities more effectively and to form partnerships with governors, state energy programs, local educational, financial, and energy officials, state and local officials, nonprofit organizations, and other appropriate entities to support project initiation; (3) provide technical assistance for states, local educational agencies, and schools to help develop and finance projects that meet specified requirements; (4) develop and maintain a single online resource website with contact information for relevant technical assistance and support staff in the Office for states, local educational agencies, and schools to effectively access and use federal opportunities and assistance to develop such projects; and (5) establish a process for recognition of schools that have successfully implemented such projects and are willing to serve as resources for other local educational agencies and schools to assist initiation of similar efforts.</summary>
+</bill>

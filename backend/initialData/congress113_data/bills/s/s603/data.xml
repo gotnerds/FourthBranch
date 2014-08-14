@@ -1,0 +1,62 @@
+<bill session="113" type="s" number="603" updated="2014-08-14T13:49:52-04:00">
+  <state datetime="2013-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-19"/>
+  </status>
+  <introduced datetime="2013-03-19"/>
+  <titles>
+    <title type="short" as="introduced">Jobs and Premium Protection Act</title>
+    <title type="official" as="introduced">A bill to repeal the annual fee on health insurance providers enacted by the Patient Protection and Affordable Care Act.</title>
+  </titles>
+  <sponsor thomas_id="01881"/>
+  <cosponsors>
+    <cosponsor thomas_id="01695" joined="2013-04-09"/>
+    <cosponsor thomas_id="02075" joined="2013-03-19"/>
+    <cosponsor thomas_id="01464" joined="2013-09-17"/>
+    <cosponsor thomas_id="00153" joined="2013-03-19"/>
+    <cosponsor thomas_id="00188" joined="2013-03-21"/>
+    <cosponsor thomas_id="00209" joined="2013-03-19"/>
+    <cosponsor thomas_id="01541" joined="2013-04-08"/>
+    <cosponsor thomas_id="00250" joined="2013-03-19"/>
+    <cosponsor thomas_id="01542" joined="2013-04-15"/>
+    <cosponsor thomas_id="02179" joined="2013-06-19"/>
+    <cosponsor thomas_id="01633" joined="2013-04-18"/>
+    <cosponsor thomas_id="01351" joined="2013-03-19"/>
+    <cosponsor thomas_id="00583" joined="2013-03-19"/>
+    <cosponsor thomas_id="01608" joined="2013-03-19"/>
+    <cosponsor thomas_id="01899" joined="2013-03-19"/>
+    <cosponsor thomas_id="01647" joined="2013-11-07"/>
+    <cosponsor thomas_id="00754" joined="2014-06-19"/>
+    <cosponsor thomas_id="01507" joined="2013-05-16"/>
+    <cosponsor thomas_id="01694" joined="2013-04-23"/>
+    <cosponsor thomas_id="01896" joined="2013-03-20"/>
+    <cosponsor thomas_id="00968" joined="2013-06-12"/>
+    <cosponsor thomas_id="02084" joined="2013-04-18"/>
+    <cosponsor thomas_id="02056" joined="2013-05-15"/>
+    <cosponsor thomas_id="01548" joined="2013-07-18"/>
+    <cosponsor thomas_id="02085" joined="2013-06-19"/>
+    <cosponsor thomas_id="01609" joined="2013-06-19"/>
+    <cosponsor thomas_id="01226" joined="2013-03-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-19" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="1005"/>
+    <bill type="h" session="113" relation="unknown" number="1558"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Insurance industry and regulation"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/2013--Introduced.
+Jobs and Premium Protection Act - Repeals a provision of the Patient Protection and Affordable Care Act that imposes an annual fee on each entity that provides health insurance for any U.S. health risk based on net premium income.</summary>
+</bill>

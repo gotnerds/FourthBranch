@@ -1,0 +1,64 @@
+<bill session="113" type="h" number="3062" updated="2014-08-14T13:17:34-04:00">
+  <state datetime="2013-08-02">REFERRED</state>
+  <status>
+    <introduced datetime="2013-08-02"/>
+  </status>
+  <introduced datetime="2013-08-02"/>
+  <titles>
+    <title type="short" as="introduced">Adoption Information Act</title>
+    <title type="official" as="introduced">To require assurances that certain family planning service projects and programs will provide pamphlets containing the contact information of adoption centers.</title>
+  </titles>
+  <sponsor thomas_id="01886"/>
+  <cosponsors>
+    <cosponsor thomas_id="01858" joined="2013-08-02"/>
+    <cosponsor thomas_id="01748" joined="2013-08-02"/>
+    <cosponsor thomas_id="01468" joined="2013-08-02"/>
+    <cosponsor thomas_id="01840" joined="2013-08-02"/>
+    <cosponsor thomas_id="01925" joined="2013-08-02"/>
+    <cosponsor thomas_id="02144" joined="2013-08-02"/>
+    <cosponsor thomas_id="01683" joined="2013-08-02"/>
+    <cosponsor thomas_id="01909" joined="2013-08-02"/>
+    <cosponsor thomas_id="02046" joined="2013-08-02"/>
+    <cosponsor thomas_id="01834" joined="2013-08-02"/>
+    <cosponsor thomas_id="02050" joined="2013-08-02"/>
+    <cosponsor thomas_id="01885" joined="2013-08-02"/>
+    <cosponsor thomas_id="02094" joined="2013-08-02"/>
+    <cosponsor thomas_id="01685" joined="2013-08-02"/>
+    <cosponsor thomas_id="01738" joined="2013-08-02"/>
+    <cosponsor thomas_id="01514" joined="2013-08-02"/>
+    <cosponsor thomas_id="01802" joined="2013-08-02"/>
+    <cosponsor thomas_id="02022" joined="2013-08-02"/>
+    <cosponsor thomas_id="02068" joined="2013-08-02"/>
+    <cosponsor thomas_id="01041" joined="2013-08-02"/>
+    <cosponsor thomas_id="01855" joined="2013-08-02"/>
+    <cosponsor thomas_id="01238" joined="2013-08-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-08-02" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-08-02">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1539"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Adoption and foster care"/>
+    <term name="Family planning and birth control"/>
+    <term name="Government information and archives"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Public contracts and procurement"/>
+  </subjects>
+  <amendments/>
+  <summary>8/2/2013--Introduced.
+Adoption Information Act - Amends the Public Health Service Act to require family planning service projects or programs, as a condition of receiving certain grants or contracts, to assure the Secretary of Health and Human Services (HHS) that they will provide each person who inquires about their services with a pamphlet containing a comprehensive list of adoption centers in their state.
+
+Directs the Secretary to prepare, annually update, and distribute such pamphlets to such projects or programs.</summary>
+</bill>

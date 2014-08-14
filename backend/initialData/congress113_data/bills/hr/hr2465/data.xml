@@ -1,0 +1,55 @@
+<bill session="113" type="h" number="2465" updated="2014-08-14T13:12:28-04:00">
+  <state datetime="2013-06-20">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-20"/>
+  </status>
+  <introduced datetime="2013-06-20"/>
+  <titles>
+    <title type="official" as="introduced">To require the Surgeon General of the Public Health Service to submit to Congress an annual report on the effects of gun violence on public health.</title>
+  </titles>
+  <sponsor thomas_id="02190"/>
+  <cosponsors>
+    <cosponsor thomas_id="02153" joined="2013-07-10"/>
+    <cosponsor thomas_id="00099" joined="2013-07-19"/>
+    <cosponsor thomas_id="00132" joined="2013-07-19"/>
+    <cosponsor thomas_id="02159" joined="2013-07-30"/>
+    <cosponsor thomas_id="01864" joined="2013-06-27"/>
+    <cosponsor thomas_id="01477" joined="2013-07-10"/>
+    <cosponsor thomas_id="01894" joined="2013-07-10"/>
+    <cosponsor thomas_id="01895" joined="2013-07-30"/>
+    <cosponsor thomas_id="02149" joined="2013-06-27"/>
+    <cosponsor thomas_id="02145" joined="2013-06-27"/>
+    <cosponsor thomas_id="01501" joined="2013-07-10"/>
+    <cosponsor thomas_id="01506" joined="2013-07-10"/>
+    <cosponsor thomas_id="02097" joined="2013-07-10"/>
+    <cosponsor thomas_id="01835" joined="2013-09-16"/>
+    <cosponsor thomas_id="02023" joined="2013-06-27"/>
+    <cosponsor thomas_id="01003" joined="2013-06-27"/>
+    <cosponsor thomas_id="01588" joined="2013-07-19"/>
+    <cosponsor thomas_id="01037" joined="2013-07-10"/>
+    <cosponsor thomas_id="01151" joined="2013-07-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-20" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-06-21">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Congressional oversight"/>
+    <term name="Emergency medical services and trauma care"/>
+    <term name="Firearms and explosives"/>
+    <term name="Violent crime"/>
+  </subjects>
+  <amendments/>
+  <summary>6/20/2013--Introduced.
+Requires the Surgeon General of the Public Health Service to report annually to Congress on the effects of gun violence on public health and the status of actions taken to address them.</summary>
+</bill>

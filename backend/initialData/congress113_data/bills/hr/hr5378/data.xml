@@ -1,0 +1,29 @@
+<bill session="113" type="h" number="5378" updated="2014-08-14T13:37:23-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="official" as="introduced">To establish an employment-based immigrant visa for alien entrepreneurs who have received significant capital from investors to establish a business in the United States.</title>
+  </titles>
+  <sponsor thomas_id="02099"/>
+  <cosponsors>
+    <cosponsor thomas_id="02105" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2014-08-01">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1305-1306"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

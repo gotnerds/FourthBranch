@@ -1,0 +1,62 @@
+<bill session="113" type="h" number="203" updated="2014-08-14T12:52:26-04:00">
+  <state datetime="2013-01-04">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-04"/>
+  </status>
+  <introduced datetime="2013-01-04"/>
+  <titles>
+    <title type="short" as="introduced">Pool SAFE Act</title>
+    <title type="short" as="introduced">Pool Safety and Accessibility for Everyone Act</title>
+    <title type="official" as="introduced">To direct the Attorney General to revise certain rules under titles II and III of the Americans with Disabilities Act of 1990 relating to accessible means of entry to pools.</title>
+  </titles>
+  <sponsor thomas_id="02059"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2013-01-04"/>
+    <cosponsor thomas_id="01703" joined="2013-01-14"/>
+    <cosponsor thomas_id="00165" joined="2013-02-05"/>
+    <cosponsor thomas_id="01912" joined="2013-01-04"/>
+    <cosponsor thomas_id="02067" joined="2013-01-04"/>
+    <cosponsor thomas_id="01998" joined="2013-02-14"/>
+    <cosponsor thomas_id="02058" joined="2013-01-14"/>
+    <cosponsor thomas_id="01979" joined="2013-01-04"/>
+    <cosponsor thomas_id="02026" joined="2013-01-15"/>
+    <cosponsor thomas_id="02032" joined="2013-01-14"/>
+    <cosponsor thomas_id="02028" joined="2013-01-15"/>
+    <cosponsor thomas_id="00612" joined="2013-01-04"/>
+    <cosponsor thomas_id="01834" joined="2013-01-23"/>
+    <cosponsor thomas_id="02050" joined="2013-01-04"/>
+    <cosponsor thomas_id="02033" joined="2013-01-23"/>
+    <cosponsor thomas_id="01974" joined="2013-01-04"/>
+    <cosponsor thomas_id="02073" joined="2013-01-04"/>
+    <cosponsor thomas_id="01954" joined="2013-01-04"/>
+    <cosponsor thomas_id="02017" joined="2013-02-05"/>
+    <cosponsor thomas_id="01920" joined="2013-01-15"/>
+    <cosponsor thomas_id="01994" joined="2013-01-04"/>
+    <cosponsor thomas_id="02047" joined="2013-01-15"/>
+    <cosponsor thomas_id="01664" joined="2013-01-04"/>
+    <cosponsor thomas_id="01779" joined="2013-01-04"/>
+    <cosponsor thomas_id="01688" joined="2013-01-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-04" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-01-25">
+      <text>Referred to the Subcommittee on the Constitution And Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee subcommittee="Constitution and Civil Justice" code="HSJU10" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Civil actions and liability"/>
+    <term name="Disability and health-based discrimination"/>
+    <term name="Sports and recreation facilities"/>
+  </subjects>
+  <amendments/>
+  <summary>1/4/2013--Introduced.
+Pool Safety and Accessibility for Everyone Act or Pool SAFE Act - Prohibits any suit brought for an alleged violation of the revised regulations of the Americans with Disabilities Act of 1990 concerning the requirements to provide an accessible means of entry to pools for places of public accommodation and commercial facilities that occurred on or after January 31, 2013, and before the date that is one year after enactment of this Act. Bars the Attorney General (AG) from investigating or initiating a compliance review of an alleged violation occurring during such period. Requires dismissal of any suit brought against a place of public accommodation or commercial facility for such a violation brought on or after January 31, 2013, and before the date of enactment of this Act. Directs the AG to revise accessibility regulations to provide that a place of public accommodation or a commercial facility is in compliance with the requirement to have an accessible means of entry to a pool when such a place or facility uses a portable pool lift on request, even if: (1) installation of a permanent lift is readily achievable, and (2) a single portable pool lift is used for multiple pools.</summary>
+</bill>

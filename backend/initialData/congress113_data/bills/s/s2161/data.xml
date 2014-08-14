@@ -1,0 +1,65 @@
+<bill session="113" type="s" number="2161" updated="2014-08-14T14:03:18-04:00">
+  <state datetime="2014-03-26">REFERRED</state>
+  <status>
+    <introduced datetime="2014-03-26"/>
+  </status>
+  <introduced datetime="2014-03-26"/>
+  <titles>
+    <title type="short" as="introduced">EPA Employment Impact Analysis Act</title>
+    <title type="official" as="introduced">A bill to prohibit the Administrator of the Environmental Protection Agency from issuing any final rule under the Clean Air Act until the date on which the Administrator improves certain employment effect analyses under that Act.</title>
+  </titles>
+  <sponsor thomas_id="00583"/>
+  <cosponsors>
+    <cosponsor thomas_id="01881" joined="2014-03-26"/>
+    <cosponsor thomas_id="01464" joined="2014-03-26"/>
+    <cosponsor thomas_id="01687" joined="2014-03-26"/>
+    <cosponsor thomas_id="00153" joined="2014-03-26"/>
+    <cosponsor thomas_id="00188" joined="2014-03-26"/>
+    <cosponsor thomas_id="00209" joined="2014-03-26"/>
+    <cosponsor thomas_id="00212" joined="2014-03-26"/>
+    <cosponsor thomas_id="00213" joined="2014-03-26"/>
+    <cosponsor thomas_id="01692" joined="2014-03-26"/>
+    <cosponsor thomas_id="00250" joined="2014-03-26"/>
+    <cosponsor thomas_id="02175" joined="2014-03-26"/>
+    <cosponsor thomas_id="01542" joined="2014-03-26"/>
+    <cosponsor thomas_id="01633" joined="2014-03-26"/>
+    <cosponsor thomas_id="00452" joined="2014-03-26"/>
+    <cosponsor thomas_id="00457" joined="2014-03-26"/>
+    <cosponsor thomas_id="02079" joined="2014-03-31"/>
+    <cosponsor thomas_id="01608" joined="2014-03-26"/>
+    <cosponsor thomas_id="01899" joined="2014-03-26"/>
+    <cosponsor thomas_id="02086" joined="2014-03-26"/>
+    <cosponsor thomas_id="02080" joined="2014-03-26"/>
+    <cosponsor thomas_id="01395" joined="2014-03-26"/>
+    <cosponsor thomas_id="01507" joined="2014-03-26"/>
+    <cosponsor thomas_id="01896" joined="2014-03-26"/>
+    <cosponsor thomas_id="00968" joined="2014-03-26"/>
+    <cosponsor thomas_id="02056" joined="2014-03-26"/>
+    <cosponsor thomas_id="01548" joined="2014-03-26"/>
+    <cosponsor thomas_id="01049" joined="2014-03-26"/>
+    <cosponsor thomas_id="01534" joined="2014-03-26"/>
+    <cosponsor thomas_id="01609" joined="2014-03-26"/>
+    <cosponsor thomas_id="01226" joined="2014-03-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-03-26" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Air quality"/>
+    <term name="Economic performance and conditions"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Unemployment"/>
+  </subjects>
+  <amendments/>
+  <summary>3/26/2014--Introduced.
+EPA Employment Impact Analysis Act - Prohibits the Administrator of the Environmental Protection Agency (EPA) from proposing or finalizing any major rule under the Clean Air Act (CAA) until after the Administrator: (1) completes an economy-wide analysis capturing the costs and effects across industry sectors and markets in the United States of the implementation of major rules promulgated under the CAA; and (2) establishes a process to update such analysis at least semiannually, in order to provide for the currently required continuing evaluation of potential loss or shifts in employment.</summary>
+</bill>

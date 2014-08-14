@@ -1,0 +1,26 @@
+<bill session="113" type="s" number="2601" updated="2014-08-14T14:06:58-04:00">
+  <state datetime="2014-07-15">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-15"/>
+  </status>
+  <introduced datetime="2014-07-15"/>
+  <titles>
+    <title type="short" as="introduced">Risk Hedging Protection Act of 2014</title>
+    <title type="official" as="introduced">A bill to amend the Commodity Exchange Act to ensure futures commission merchant compliance.</title>
+  </titles>
+  <sponsor thomas_id="00968"/>
+  <cosponsors>
+    <cosponsor thomas_id="02174" joined="2014-07-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-15" state="REFERRED">
+      <text>Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

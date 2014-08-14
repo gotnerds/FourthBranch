@@ -1,0 +1,73 @@
+<bill session="113" type="h" number="2044" updated="2014-08-14T13:08:41-04:00">
+  <state datetime="2013-05-17">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-17"/>
+  </status>
+  <introduced datetime="2013-05-17"/>
+  <titles>
+    <title type="official" as="introduced">To prohibit the use, production, sale, importation, or exportation of any pesticide containing atrazine.</title>
+  </titles>
+  <sponsor thomas_id="01857"/>
+  <cosponsors>
+    <cosponsor thomas_id="00099" joined="2013-07-17"/>
+    <cosponsor thomas_id="01970" joined="2013-08-02"/>
+    <cosponsor thomas_id="00279" joined="2013-05-17"/>
+    <cosponsor thomas_id="00355" joined="2013-07-30"/>
+    <cosponsor thomas_id="01708" joined="2013-05-17"/>
+    <cosponsor thomas_id="01501" joined="2013-07-09"/>
+    <cosponsor thomas_id="02111" joined="2013-07-31"/>
+    <cosponsor thomas_id="01653" joined="2013-05-17"/>
+    <cosponsor thomas_id="00766" joined="2013-07-23"/>
+    <cosponsor thomas_id="00832" joined="2013-05-17"/>
+    <cosponsor thomas_id="00850" joined="2013-07-17"/>
+    <cosponsor thomas_id="01588" joined="2013-05-17"/>
+    <cosponsor thomas_id="01635" joined="2013-08-02"/>
+    <cosponsor thomas_id="01069" joined="2013-05-20"/>
+    <cosponsor thomas_id="01209" joined="2013-07-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-17" state="REFERRED">
+      <text>Referred to the Committee on Agriculture, and in addition to the Committees on Energy and Commerce, Ways and Means, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-05-17">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2013-05-17">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-05-17">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-05-17">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2013-05-24">
+      <text>Referred to the Subcommittee on Environment and the Economy.</text>
+    </action>
+    <action datetime="2013-06-03">
+      <text>Referred to the Subcommittee on Horticulture, Research, Biotechnology, and Foreign Agriculture.</text>
+    </action>
+    <action datetime="2013-06-03">
+      <text>Referred to the Subcommittee on Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee subcommittee="Horticulture, Research, Biotechnology, and Foreign Agriculture" code="HSAG14" name="House Agriculture" activity="Referral"/>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Environment and the Economy" code="HSIF18" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee subcommittee="Trade" code="HSWM04" name="House Ways and Means" activity="Referral"/>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Pest management"/>
+    <term name="Product safety and quality"/>
+  </subjects>
+  <amendments/>
+  <summary>5/17/2013--Introduced.
+Prohibits the use, production, sale, importation, or exportation of atrazine (pesticide) or an atrazine product.</summary>
+</bill>

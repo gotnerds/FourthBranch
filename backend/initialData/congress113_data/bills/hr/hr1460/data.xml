@@ -1,0 +1,45 @@
+<bill session="113" type="h" number="1460" updated="2014-08-14T13:03:08-04:00">
+  <state datetime="2013-04-10">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-10"/>
+  </status>
+  <introduced datetime="2013-04-10"/>
+  <titles>
+    <title type="official" as="introduced">To direct the Chief of the Army Corps of Engineers to revise certain authorized purposes described in the Missouri River Mainstem Reservoir System Master Water Control Manual.</title>
+  </titles>
+  <sponsor thomas_id="01656"/>
+  <cosponsors>
+    <cosponsor thomas_id="02032" joined="2013-04-10"/>
+    <cosponsor thomas_id="02033" joined="2013-04-10"/>
+    <cosponsor thomas_id="01931" joined="2013-04-10"/>
+    <cosponsor thomas_id="02191" joined="2013-09-25"/>
+    <cosponsor thomas_id="02137" joined="2013-04-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-10" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2013-04-11">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+    <committee subcommittee="Water Resources and Environment" code="HSPW02" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Aquatic ecology"/>
+    <term name="Army Corps of Engineers"/>
+    <term name="Dams and canals"/>
+    <term name="Fishes"/>
+    <term name="Floods and storm protection"/>
+    <term name="Government information and archives"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+  <summary>4/10/2013--Introduced.
+Directs the Chief of the Army Corps of Engineers to revise the Missouri Mainstem Reservoir System Master Water Control Manual and any related regulations to delete fish and wildlife as an authorized purpose of the Corps.</summary>
+</bill>

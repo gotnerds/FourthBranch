@@ -1,0 +1,142 @@
+<bill session="113" type="h" number="1812" updated="2014-08-14T13:06:10-04:00">
+  <state datetime="2013-04-26">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-26"/>
+  </status>
+  <introduced datetime="2013-04-26"/>
+  <titles>
+    <title type="short" as="introduced">Partner with Korea Act</title>
+    <title type="official" as="introduced">To provide high-skilled visas for nationals of the Republic of Korea, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01848"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2014-07-25"/>
+    <cosponsor thomas_id="00021" joined="2014-01-08"/>
+    <cosponsor thomas_id="02102" joined="2013-11-13"/>
+    <cosponsor thomas_id="01723" joined="2013-10-16"/>
+    <cosponsor thomas_id="01787" joined="2013-10-23"/>
+    <cosponsor thomas_id="01816" joined="2014-06-19"/>
+    <cosponsor thomas_id="02163" joined="2014-07-11"/>
+    <cosponsor thomas_id="00211" joined="2014-04-04"/>
+    <cosponsor thomas_id="01912" joined="2013-11-12"/>
+    <cosponsor thomas_id="01878" joined="2013-10-11"/>
+    <cosponsor thomas_id="01742" joined="2014-05-09"/>
+    <cosponsor thomas_id="02121" joined="2014-04-28"/>
+    <cosponsor thomas_id="01959" joined="2013-06-04"/>
+    <cosponsor thomas_id="00229" joined="2013-06-28"/>
+    <cosponsor thomas_id="00231" joined="2014-05-28"/>
+    <cosponsor thomas_id="01836" joined="2014-04-09"/>
+    <cosponsor thomas_id="02133" joined="2014-06-19"/>
+    <cosponsor thomas_id="02096" joined="2013-06-18"/>
+    <cosponsor thomas_id="01976" joined="2013-05-15"/>
+    <cosponsor thomas_id="00344" joined="2014-06-19"/>
+    <cosponsor thomas_id="00355" joined="2014-04-28"/>
+    <cosponsor thomas_id="02067" joined="2014-04-09"/>
+    <cosponsor thomas_id="01707" joined="2013-04-26"/>
+    <cosponsor thomas_id="02122" joined="2014-04-09"/>
+    <cosponsor thomas_id="01973" joined="2014-04-09"/>
+    <cosponsor thomas_id="02120" joined="2014-07-30"/>
+    <cosponsor thomas_id="02043" joined="2014-04-01"/>
+    <cosponsor thomas_id="01487" joined="2014-04-28"/>
+    <cosponsor thomas_id="01990" joined="2014-05-28"/>
+    <cosponsor thomas_id="02070" joined="2014-04-10"/>
+    <cosponsor thomas_id="02041" joined="2013-11-12"/>
+    <cosponsor thomas_id="02010" joined="2013-12-05"/>
+    <cosponsor thomas_id="02044" joined="2014-08-01"/>
+    <cosponsor thomas_id="00511" joined="2014-04-28"/>
+    <cosponsor thomas_id="01913" joined="2014-07-22"/>
+    <cosponsor thomas_id="02143" joined="2013-04-26"/>
+    <cosponsor thomas_id="01634" joined="2013-12-05"/>
+    <cosponsor thomas_id="01663" joined="2013-08-02"/>
+    <cosponsor thomas_id="02149" joined="2013-11-12"/>
+    <cosponsor thomas_id="01843" joined="2013-07-19"/>
+    <cosponsor thomas_id="02051" joined="2014-03-26"/>
+    <cosponsor thomas_id="02172" joined="2014-01-09"/>
+    <cosponsor thomas_id="02169" joined="2014-07-08"/>
+    <cosponsor thomas_id="02014" joined="2014-01-28"/>
+    <cosponsor thomas_id="01675" joined="2013-09-26"/>
+    <cosponsor thomas_id="01583" joined="2014-07-24"/>
+    <cosponsor thomas_id="00666" joined="2014-06-20"/>
+    <cosponsor thomas_id="01501" joined="2014-07-25"/>
+    <cosponsor thomas_id="00701" joined="2013-06-27"/>
+    <cosponsor thomas_id="02033" joined="2014-04-01"/>
+    <cosponsor thomas_id="02111" joined="2013-10-16"/>
+    <cosponsor thomas_id="00711" joined="2014-07-28"/>
+    <cosponsor thomas_id="01833" joined="2014-03-05"/>
+    <cosponsor thomas_id="00778" joined="2014-03-04"/>
+    <cosponsor thomas_id="02142" joined="2013-10-11"/>
+    <cosponsor thomas_id="02052" joined="2014-05-06"/>
+    <cosponsor thomas_id="01506" joined="2014-03-11"/>
+    <cosponsor thomas_id="02148" joined="2013-05-24"/>
+    <cosponsor thomas_id="02130" joined="2014-04-08"/>
+    <cosponsor thomas_id="01685" joined="2014-06-12"/>
+    <cosponsor thomas_id="00832" joined="2013-04-26"/>
+    <cosponsor thomas_id="02156" joined="2014-04-28"/>
+    <cosponsor thomas_id="01710" joined="2014-07-14"/>
+    <cosponsor thomas_id="01955" joined="2014-07-23"/>
+    <cosponsor thomas_id="01974" joined="2014-03-25"/>
+    <cosponsor thomas_id="01738" joined="2014-06-19"/>
+    <cosponsor thomas_id="01953" joined="2013-07-30"/>
+    <cosponsor thomas_id="01802" joined="2014-04-03"/>
+    <cosponsor thomas_id="01910" joined="2013-04-26"/>
+    <cosponsor thomas_id="01967" joined="2014-04-09"/>
+    <cosponsor thomas_id="00944" joined="2014-01-28"/>
+    <cosponsor thomas_id="01982" joined="2013-09-10"/>
+    <cosponsor thomas_id="01810" joined="2014-03-26"/>
+    <cosponsor thomas_id="02023" joined="2013-11-15"/>
+    <cosponsor thomas_id="01986" joined="2014-04-04"/>
+    <cosponsor thomas_id="02017" joined="2014-05-01"/>
+    <cosponsor thomas_id="01916" joined="2014-05-01"/>
+    <cosponsor thomas_id="02003" joined="2013-04-26"/>
+    <cosponsor thomas_id="00998" joined="2013-04-26"/>
+    <cosponsor thomas_id="02039" joined="2014-04-28"/>
+    <cosponsor thomas_id="01003" joined="2014-04-04"/>
+    <cosponsor thomas_id="01009" joined="2014-04-28"/>
+    <cosponsor thomas_id="01522" joined="2014-04-03"/>
+    <cosponsor thomas_id="01635" joined="2013-10-22"/>
+    <cosponsor thomas_id="02124" joined="2014-06-19"/>
+    <cosponsor thomas_id="01920" joined="2013-10-30"/>
+    <cosponsor thomas_id="02009" joined="2014-05-07"/>
+    <cosponsor thomas_id="01722" joined="2014-04-09"/>
+    <cosponsor thomas_id="01041" joined="2013-09-12"/>
+    <cosponsor thomas_id="01590" joined="2014-07-29"/>
+    <cosponsor thomas_id="01528" joined="2013-04-26"/>
+    <cosponsor thomas_id="01890" joined="2014-06-23"/>
+    <cosponsor thomas_id="02168" joined="2014-05-07"/>
+    <cosponsor thomas_id="02110" joined="2014-02-26"/>
+    <cosponsor thomas_id="01593" joined="2014-07-08"/>
+    <cosponsor thomas_id="01177" joined="2014-05-21"/>
+    <cosponsor thomas_id="02105" joined="2013-12-10"/>
+    <cosponsor thomas_id="01729" joined="2013-06-27"/>
+    <cosponsor thomas_id="01779" joined="2014-03-26"/>
+    <cosponsor thomas_id="01991" joined="2014-07-31"/>
+    <cosponsor thomas_id="02008" joined="2014-06-25"/>
+    <cosponsor thomas_id="02115" joined="2013-09-10"/>
+    <cosponsor thomas_id="01256" joined="2014-03-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-26" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-06-14">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee subcommittee="Immigration and Border Security" code="HSJU01" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2663"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Employment discrimination and employee rights"/>
+    <term name="Foreign labor"/>
+    <term name="South Korea"/>
+    <term name="Visas and passports"/>
+  </subjects>
+  <amendments/>
+  <summary>4/26/2013--Introduced.
+Partner with Korea Act - Amends the Immigration and Nationality Act to create an E-4 treaty trader visa category for up to 15,000 nationals of the Republic of Korea (South Korea) each fiscal year who are coming to the United States solely to perform specialty occupation services and with respect to whom the Secretary of Labor has certified to the Secretary of Homeland Security (DHS) and the Secretary of State that the intending employer has filed an attestation concerning U.S. worker protections with the Secretary of Labor.</summary>
+</bill>

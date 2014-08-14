@@ -1,0 +1,76 @@
+<bill session="113" type="h" number="3489" updated="2014-08-14T13:21:14-04:00">
+  <state datetime="2013-11-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-11-14"/>
+  </status>
+  <introduced datetime="2013-11-14"/>
+  <titles>
+    <title type="official" as="introduced">To amend section 1341 of the Patient Protection and Affordable Care Act to repeal the funding mechanism for the transitional reinsurance program in the individual market, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01664"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2014-07-10"/>
+    <cosponsor thomas_id="02063" joined="2013-11-14"/>
+    <cosponsor thomas_id="01787" joined="2013-11-14"/>
+    <cosponsor thomas_id="01468" joined="2013-11-14"/>
+    <cosponsor thomas_id="02103" joined="2013-12-12"/>
+    <cosponsor thomas_id="02126" joined="2013-12-02"/>
+    <cosponsor thomas_id="02036" joined="2014-04-08"/>
+    <cosponsor thomas_id="01914" joined="2013-12-02"/>
+    <cosponsor thomas_id="01990" joined="2013-11-14"/>
+    <cosponsor thomas_id="02041" joined="2014-01-07"/>
+    <cosponsor thomas_id="02040" joined="2014-04-02"/>
+    <cosponsor thomas_id="01921" joined="2013-11-14"/>
+    <cosponsor thomas_id="02046" joined="2014-05-29"/>
+    <cosponsor thomas_id="00603" joined="2013-11-14"/>
+    <cosponsor thomas_id="02199" joined="2014-07-24"/>
+    <cosponsor thomas_id="02154" joined="2014-01-16"/>
+    <cosponsor thomas_id="02011" joined="2014-01-07"/>
+    <cosponsor thomas_id="01936" joined="2014-01-13"/>
+    <cosponsor thomas_id="01781" joined="2013-11-14"/>
+    <cosponsor thomas_id="01806" joined="2014-06-18"/>
+    <cosponsor thomas_id="01505" joined="2013-11-14"/>
+    <cosponsor thomas_id="00778" joined="2014-06-20"/>
+    <cosponsor thomas_id="02074" joined="2013-11-18"/>
+    <cosponsor thomas_id="02117" joined="2013-11-14"/>
+    <cosponsor thomas_id="02060" joined="2014-04-29"/>
+    <cosponsor thomas_id="01930" joined="2014-07-31"/>
+    <cosponsor thomas_id="02113" joined="2014-04-04"/>
+    <cosponsor thomas_id="01778" joined="2014-06-19"/>
+    <cosponsor thomas_id="01982" joined="2013-12-04"/>
+    <cosponsor thomas_id="01810" joined="2013-11-14"/>
+    <cosponsor thomas_id="01009" joined="2013-12-16"/>
+    <cosponsor thomas_id="01920" joined="2013-11-14"/>
+    <cosponsor thomas_id="01527" joined="2014-07-25"/>
+    <cosponsor thomas_id="02000" joined="2014-06-24"/>
+    <cosponsor thomas_id="02047" joined="2014-01-28"/>
+    <cosponsor thomas_id="01566" joined="2014-05-28"/>
+    <cosponsor thomas_id="01940" joined="2014-03-13"/>
+    <cosponsor thomas_id="01741" joined="2013-11-14"/>
+    <cosponsor thomas_id="02105" joined="2014-02-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-11-14" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-11-15">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Comprehensive health care"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+  <summary>11/14/2013--Introduced.
+Amends the Patient Protection and Affordable Care Act to eliminate the funding mechanism for the three-year transitional reinsurance program, under which group health plans are required to pay a fee to reinsurance entities for plan years beginning January 1, 2014. (The fees are distributed to individual health plans that cover high-risk individuals.) Authorizes appropriations for such reinsurance program instead.</summary>
+</bill>

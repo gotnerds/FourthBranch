@@ -1,0 +1,109 @@
+<bill session="113" type="h" number="2182" updated="2014-08-14T13:09:55-04:00">
+  <state datetime="2013-05-23">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-23"/>
+  </status>
+  <introduced datetime="2013-05-23"/>
+  <titles>
+    <title type="short" as="introduced">Half in Ten Act of 2013</title>
+    <title type="official" as="introduced">To establish the Federal Interagency Working Group on Reducing Poverty which will create and carry out a national plan to cut poverty in America in half in ten years.</title>
+  </titles>
+  <sponsor thomas_id="01501"/>
+  <cosponsors>
+    <cosponsor thomas_id="02153" joined="2013-05-23"/>
+    <cosponsor thomas_id="00091" joined="2013-10-30"/>
+    <cosponsor thomas_id="00099" joined="2013-07-10"/>
+    <cosponsor thomas_id="01469" joined="2013-05-23"/>
+    <cosponsor thomas_id="00132" joined="2013-05-23"/>
+    <cosponsor thomas_id="02106" joined="2013-05-23"/>
+    <cosponsor thomas_id="01761" joined="2013-05-23"/>
+    <cosponsor thomas_id="02107" joined="2013-05-23"/>
+    <cosponsor thomas_id="01889" joined="2013-05-23"/>
+    <cosponsor thomas_id="02159" joined="2013-07-30"/>
+    <cosponsor thomas_id="01474" joined="2013-06-26"/>
+    <cosponsor thomas_id="01970" joined="2013-05-23"/>
+    <cosponsor thomas_id="02055" joined="2013-05-23"/>
+    <cosponsor thomas_id="01864" joined="2013-05-23"/>
+    <cosponsor thomas_id="01654" joined="2013-05-23"/>
+    <cosponsor thomas_id="01790" joined="2013-06-03"/>
+    <cosponsor thomas_id="01878" joined="2013-06-06"/>
+    <cosponsor thomas_id="01959" joined="2013-05-23"/>
+    <cosponsor thomas_id="00229" joined="2013-05-23"/>
+    <cosponsor thomas_id="01836" joined="2013-06-18"/>
+    <cosponsor thomas_id="01477" joined="2013-05-23"/>
+    <cosponsor thomas_id="00281" joined="2013-05-23"/>
+    <cosponsor thomas_id="01894" joined="2013-05-23"/>
+    <cosponsor thomas_id="01857" joined="2013-05-23"/>
+    <cosponsor thomas_id="01895" joined="2013-05-23"/>
+    <cosponsor thomas_id="01708" joined="2013-05-23"/>
+    <cosponsor thomas_id="00511" joined="2013-05-23"/>
+    <cosponsor thomas_id="02170" joined="2013-05-23"/>
+    <cosponsor thomas_id="01634" joined="2013-05-23"/>
+    <cosponsor thomas_id="02147" joined="2013-10-30"/>
+    <cosponsor thomas_id="00566" joined="2013-05-23"/>
+    <cosponsor thomas_id="02101" joined="2013-10-04"/>
+    <cosponsor thomas_id="00588" joined="2013-05-23"/>
+    <cosponsor thomas_id="02149" joined="2013-10-30"/>
+    <cosponsor thomas_id="00599" joined="2013-06-03"/>
+    <cosponsor thomas_id="01843" joined="2013-06-03"/>
+    <cosponsor thomas_id="00616" joined="2013-05-23"/>
+    <cosponsor thomas_id="02190" joined="2013-05-23"/>
+    <cosponsor thomas_id="01668" joined="2013-05-23"/>
+    <cosponsor thomas_id="00688" joined="2013-10-30"/>
+    <cosponsor thomas_id="02111" joined="2013-06-26"/>
+    <cosponsor thomas_id="01653" joined="2013-06-06"/>
+    <cosponsor thomas_id="01506" joined="2013-10-30"/>
+    <cosponsor thomas_id="01811" joined="2013-05-23"/>
+    <cosponsor thomas_id="00850" joined="2013-05-23"/>
+    <cosponsor thomas_id="01602" joined="2013-05-23"/>
+    <cosponsor thomas_id="00868" joined="2013-05-23"/>
+    <cosponsor thomas_id="02162" joined="2013-06-17"/>
+    <cosponsor thomas_id="02097" joined="2013-10-30"/>
+    <cosponsor thomas_id="02171" joined="2013-06-13"/>
+    <cosponsor thomas_id="00944" joined="2013-05-23"/>
+    <cosponsor thomas_id="02023" joined="2013-05-23"/>
+    <cosponsor thomas_id="01003" joined="2013-05-23"/>
+    <cosponsor thomas_id="01588" joined="2013-05-23"/>
+    <cosponsor thomas_id="01042" joined="2013-05-23"/>
+    <cosponsor thomas_id="01988" joined="2013-05-23"/>
+    <cosponsor thomas_id="01818" joined="2013-05-23"/>
+    <cosponsor thomas_id="02104" joined="2013-06-03"/>
+    <cosponsor thomas_id="02110" joined="2013-06-13"/>
+    <cosponsor thomas_id="01151" joined="2013-10-30"/>
+    <cosponsor thomas_id="01942" joined="2013-05-23"/>
+    <cosponsor thomas_id="02166" joined="2013-05-23"/>
+    <cosponsor thomas_id="02167" joined="2013-05-23"/>
+    <cosponsor thomas_id="02004" joined="2013-05-23"/>
+    <cosponsor thomas_id="01853" joined="2013-07-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-23" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Advisory bodies"/>
+    <term name="Child safety and welfare"/>
+    <term name="Climate change and greenhouse gases"/>
+    <term name="Community life and organization"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Economic performance and conditions"/>
+    <term name="Employment and training programs"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal officials"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Performance measurement"/>
+    <term name="Poverty and welfare assistance"/>
+    <term name="Public-private cooperation"/>
+  </subjects>
+  <amendments/>
+  <summary>5/23/2013--Introduced.
+Half in Ten Act of 2013 - Establishes within the Department of Health and Human Services (HHS) a Federal Interagency Working Group on Reducing Poverty, which shall develop a National Strategy to reduce the number of persons living in poverty in America in half within 10 years after release of the 2012 Census report on Income, Poverty and Health Insurance Coverage in the United States: 2011.</summary>
+</bill>

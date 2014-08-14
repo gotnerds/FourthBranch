@@ -1,0 +1,213 @@
+<bill session="113" type="h" number="494" updated="2014-08-14T12:54:58-04:00">
+  <state datetime="2013-02-05">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-05"/>
+  </status>
+  <introduced datetime="2013-02-05"/>
+  <titles>
+    <title type="short" as="introduced">Small BREW Act</title>
+    <title type="short" as="introduced">Small Brewer Reinvestment and Expanding Workforce Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide a reduced rate of excise tax on beer produced domestically by certain qualifying producers.</title>
+  </titles>
+  <sponsor thomas_id="01743"/>
+  <cosponsors>
+    <cosponsor thomas_id="01460" joined="2014-05-09"/>
+    <cosponsor thomas_id="02090" joined="2013-03-04"/>
+    <cosponsor thomas_id="00021" joined="2013-02-06"/>
+    <cosponsor thomas_id="01858" joined="2013-03-21"/>
+    <cosponsor thomas_id="02093" joined="2014-04-03"/>
+    <cosponsor thomas_id="02054" joined="2013-04-23"/>
+    <cosponsor thomas_id="02131" joined="2013-04-23"/>
+    <cosponsor thomas_id="02027" joined="2013-03-04"/>
+    <cosponsor thomas_id="02135" joined="2013-04-23"/>
+    <cosponsor thomas_id="01838" joined="2013-04-25"/>
+    <cosponsor thomas_id="00091" joined="2013-11-18"/>
+    <cosponsor thomas_id="01740" joined="2013-05-14"/>
+    <cosponsor thomas_id="02063" joined="2014-05-20"/>
+    <cosponsor thomas_id="00099" joined="2013-02-05"/>
+    <cosponsor thomas_id="02092" joined="2013-10-02"/>
+    <cosponsor thomas_id="01787" joined="2013-03-21"/>
+    <cosponsor thomas_id="01469" joined="2014-02-05"/>
+    <cosponsor thomas_id="01845" joined="2013-06-26"/>
+    <cosponsor thomas_id="01987" joined="2014-05-08"/>
+    <cosponsor thomas_id="00132" joined="2014-01-31"/>
+    <cosponsor thomas_id="02127" joined="2014-04-02"/>
+    <cosponsor thomas_id="01761" joined="2013-03-21"/>
+    <cosponsor thomas_id="02197" joined="2014-07-25"/>
+    <cosponsor thomas_id="00165" joined="2014-06-12"/>
+    <cosponsor thomas_id="01471" joined="2013-12-10"/>
+    <cosponsor thomas_id="01564" joined="2013-11-13"/>
+    <cosponsor thomas_id="01999" joined="2013-09-23"/>
+    <cosponsor thomas_id="02159" joined="2013-03-21"/>
+    <cosponsor thomas_id="01839" joined="2013-05-23"/>
+    <cosponsor thomas_id="00186" joined="2013-03-04"/>
+    <cosponsor thomas_id="02196" joined="2014-02-10"/>
+    <cosponsor thomas_id="01864" joined="2013-04-23"/>
+    <cosponsor thomas_id="01654" joined="2014-03-04"/>
+    <cosponsor thomas_id="01790" joined="2014-03-26"/>
+    <cosponsor thomas_id="00211" joined="2013-12-10"/>
+    <cosponsor thomas_id="01912" joined="2013-02-12"/>
+    <cosponsor thomas_id="01878" joined="2013-03-21"/>
+    <cosponsor thomas_id="02151" joined="2014-02-28"/>
+    <cosponsor thomas_id="00229" joined="2014-03-12"/>
+    <cosponsor thomas_id="01836" joined="2013-03-04"/>
+    <cosponsor thomas_id="01643" joined="2013-03-04"/>
+    <cosponsor thomas_id="00256" joined="2013-09-11"/>
+    <cosponsor thomas_id="01641" joined="2013-03-04"/>
+    <cosponsor thomas_id="00279" joined="2013-02-05"/>
+    <cosponsor thomas_id="01479" joined="2013-03-04"/>
+    <cosponsor thomas_id="02133" joined="2014-05-22"/>
+    <cosponsor thomas_id="02096" joined="2013-11-13"/>
+    <cosponsor thomas_id="01799" joined="2013-03-04"/>
+    <cosponsor thomas_id="00316" joined="2013-03-04"/>
+    <cosponsor thomas_id="00322" joined="2013-03-21"/>
+    <cosponsor thomas_id="02036" joined="2013-03-04"/>
+    <cosponsor thomas_id="00344" joined="2013-09-23"/>
+    <cosponsor thomas_id="02125" joined="2014-03-11"/>
+    <cosponsor thomas_id="02114" joined="2014-05-08"/>
+    <cosponsor thomas_id="01797" joined="2013-03-04"/>
+    <cosponsor thomas_id="01895" joined="2013-10-16"/>
+    <cosponsor thomas_id="02122" joined="2013-06-28"/>
+    <cosponsor thomas_id="02120" joined="2014-08-01"/>
+    <cosponsor thomas_id="01998" joined="2013-03-04"/>
+    <cosponsor thomas_id="02043" joined="2013-03-04"/>
+    <cosponsor thomas_id="01656" joined="2013-03-04"/>
+    <cosponsor thomas_id="01990" joined="2013-04-23"/>
+    <cosponsor thomas_id="01708" joined="2013-03-21"/>
+    <cosponsor thomas_id="02010" joined="2013-03-21"/>
+    <cosponsor thomas_id="02044" joined="2013-03-04"/>
+    <cosponsor thomas_id="02026" joined="2013-07-25"/>
+    <cosponsor thomas_id="00511" joined="2013-03-04"/>
+    <cosponsor thomas_id="01794" joined="2013-03-04"/>
+    <cosponsor thomas_id="01490" joined="2013-04-23"/>
+    <cosponsor thomas_id="01580" joined="2013-03-04"/>
+    <cosponsor thomas_id="01634" joined="2013-03-04"/>
+    <cosponsor thomas_id="02028" joined="2013-03-04"/>
+    <cosponsor thomas_id="02015" joined="2013-05-23"/>
+    <cosponsor thomas_id="01909" joined="2013-05-16"/>
+    <cosponsor thomas_id="02069" joined="2013-05-14"/>
+    <cosponsor thomas_id="01640" joined="2013-04-25"/>
+    <cosponsor thomas_id="02149" joined="2013-09-11"/>
+    <cosponsor thomas_id="01921" joined="2013-04-23"/>
+    <cosponsor thomas_id="02199" joined="2014-06-30"/>
+    <cosponsor thomas_id="00612" joined="2013-03-04"/>
+    <cosponsor thomas_id="02025" joined="2013-04-23"/>
+    <cosponsor thomas_id="02051" joined="2013-12-23"/>
+    <cosponsor thomas_id="02190" joined="2014-05-08"/>
+    <cosponsor thomas_id="02172" joined="2013-09-11"/>
+    <cosponsor thomas_id="02134" joined="2013-07-30"/>
+    <cosponsor thomas_id="01498" joined="2013-03-04"/>
+    <cosponsor thomas_id="00635" joined="2013-03-04"/>
+    <cosponsor thomas_id="01724" joined="2014-03-11"/>
+    <cosponsor thomas_id="01907" joined="2014-07-08"/>
+    <cosponsor thomas_id="01733" joined="2013-05-16"/>
+    <cosponsor thomas_id="02145" joined="2013-05-16"/>
+    <cosponsor thomas_id="01834" joined="2013-03-04"/>
+    <cosponsor thomas_id="01936" joined="2013-03-04"/>
+    <cosponsor thomas_id="01668" joined="2014-03-21"/>
+    <cosponsor thomas_id="01675" joined="2013-10-22"/>
+    <cosponsor thomas_id="01583" joined="2013-03-21"/>
+    <cosponsor thomas_id="00688" joined="2013-02-12"/>
+    <cosponsor thomas_id="01781" joined="2013-03-04"/>
+    <cosponsor thomas_id="00699" joined="2013-05-23"/>
+    <cosponsor thomas_id="01846" joined="2013-03-21"/>
+    <cosponsor thomas_id="00701" joined="2013-10-04"/>
+    <cosponsor thomas_id="02033" joined="2013-03-21"/>
+    <cosponsor thomas_id="01931" joined="2013-05-14"/>
+    <cosponsor thomas_id="01686" joined="2013-05-23"/>
+    <cosponsor thomas_id="01943" joined="2013-12-10"/>
+    <cosponsor thomas_id="01806" joined="2014-04-28"/>
+    <cosponsor thomas_id="02053" joined="2013-03-04"/>
+    <cosponsor thomas_id="02094" joined="2014-05-20"/>
+    <cosponsor thomas_id="01653" joined="2013-03-04"/>
+    <cosponsor thomas_id="00766" joined="2013-07-25"/>
+    <cosponsor thomas_id="01504" joined="2013-06-06"/>
+    <cosponsor thomas_id="01792" joined="2013-02-05"/>
+    <cosponsor thomas_id="01505" joined="2013-07-25"/>
+    <cosponsor thomas_id="00778" joined="2013-05-16"/>
+    <cosponsor thomas_id="01832" joined="2014-03-25"/>
+    <cosponsor thomas_id="02142" joined="2013-05-14"/>
+    <cosponsor thomas_id="02052" joined="2014-05-09"/>
+    <cosponsor thomas_id="01730" joined="2013-03-21"/>
+    <cosponsor thomas_id="01731" joined="2014-08-01"/>
+    <cosponsor thomas_id="00832" joined="2013-03-04"/>
+    <cosponsor thomas_id="02117" joined="2014-03-24"/>
+    <cosponsor thomas_id="00854" joined="2013-02-05"/>
+    <cosponsor thomas_id="00867" joined="2013-07-25"/>
+    <cosponsor thomas_id="00868" joined="2013-06-06"/>
+    <cosponsor thomas_id="02001" joined="2013-05-23"/>
+    <cosponsor thomas_id="01974" joined="2013-04-23"/>
+    <cosponsor thomas_id="02035" joined="2013-10-04"/>
+    <cosponsor thomas_id="00887" joined="2013-12-10"/>
+    <cosponsor thomas_id="01510" joined="2013-05-23"/>
+    <cosponsor thomas_id="00893" joined="2014-07-23"/>
+    <cosponsor thomas_id="01930" joined="2013-02-05"/>
+    <cosponsor thomas_id="01738" joined="2014-05-20"/>
+    <cosponsor thomas_id="01929" joined="2013-06-28"/>
+    <cosponsor thomas_id="02113" joined="2013-05-23"/>
+    <cosponsor thomas_id="00912" joined="2013-03-21"/>
+    <cosponsor thomas_id="01927" joined="2013-03-04"/>
+    <cosponsor thomas_id="01802" joined="2013-12-12"/>
+    <cosponsor thomas_id="01910" joined="2013-03-04"/>
+    <cosponsor thomas_id="00930" joined="2013-10-02"/>
+    <cosponsor thomas_id="01967" joined="2013-03-21"/>
+    <cosponsor thomas_id="00944" joined="2013-02-12"/>
+    <cosponsor thomas_id="01982" joined="2013-04-25"/>
+    <cosponsor thomas_id="02023" joined="2014-06-12"/>
+    <cosponsor thomas_id="01651" joined="2013-10-02"/>
+    <cosponsor thomas_id="01848" joined="2013-03-04"/>
+    <cosponsor thomas_id="02003" joined="2014-04-28"/>
+    <cosponsor thomas_id="01728" joined="2013-10-02"/>
+    <cosponsor thomas_id="01757" joined="2013-03-04"/>
+    <cosponsor thomas_id="01522" joined="2013-09-11"/>
+    <cosponsor thomas_id="01950" joined="2013-06-06"/>
+    <cosponsor thomas_id="01798" joined="2013-03-04"/>
+    <cosponsor thomas_id="01722" joined="2014-04-04"/>
+    <cosponsor thomas_id="01042" joined="2013-10-22"/>
+    <cosponsor thomas_id="01681" joined="2014-06-18"/>
+    <cosponsor thomas_id="01590" joined="2014-03-24"/>
+    <cosponsor thomas_id="01818" joined="2013-10-03"/>
+    <cosponsor thomas_id="01069" joined="2013-11-13"/>
+    <cosponsor thomas_id="01071" joined="2013-10-10"/>
+    <cosponsor thomas_id="01566" joined="2013-04-23"/>
+    <cosponsor thomas_id="01952" joined="2013-02-12"/>
+    <cosponsor thomas_id="01593" joined="2013-07-25"/>
+    <cosponsor thomas_id="01535" joined="2013-06-06"/>
+    <cosponsor thomas_id="01997" joined="2013-04-23"/>
+    <cosponsor thomas_id="01942" joined="2013-04-23"/>
+    <cosponsor thomas_id="01884" joined="2013-03-21"/>
+    <cosponsor thomas_id="02112" joined="2013-04-23"/>
+    <cosponsor thomas_id="02166" joined="2014-07-31"/>
+    <cosponsor thomas_id="02137" joined="2013-05-14"/>
+    <cosponsor thomas_id="01855" joined="2013-03-04"/>
+    <cosponsor thomas_id="01596" joined="2013-04-23"/>
+    <cosponsor thomas_id="01207" joined="2013-03-21"/>
+    <cosponsor thomas_id="01879" joined="2013-04-23"/>
+    <cosponsor thomas_id="01886" joined="2014-04-02"/>
+    <cosponsor thomas_id="01991" joined="2014-01-14"/>
+    <cosponsor thomas_id="01853" joined="2013-05-14"/>
+    <cosponsor thomas_id="01256" joined="2013-05-14"/>
+    <cosponsor thomas_id="02019" joined="2014-03-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-05" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="917"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Alcoholic beverages"/>
+    <term name="Food industry and services"/>
+    <term name="Sales and excise taxes"/>
+    <term name="Small business"/>
+  </subjects>
+  <amendments/>
+  <summary>2/5/2013--Introduced.
+Small Brewer Reinvestment and Expanding Workforce Act or the Small BREW Act - Amends the Internal Revenue Code to reduce the rate of the excise tax on beer produced within or imported into the United States for brewers who produce not more than 6 million barrels of beer a year.</summary>
+</bill>

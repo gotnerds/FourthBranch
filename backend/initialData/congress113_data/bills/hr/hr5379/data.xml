@@ -1,0 +1,39 @@
+<bill session="113" type="h" number="5379" updated="2014-08-14T13:37:23-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="short" as="introduced">China Human Rights Protection Act of 2014</title>
+    <title type="official" as="introduced">To impose sanctions on individuals that are responsible for the commission of serious and ongoing violations of human rights or gross violations of human rights against nationals of the People's Republic of China or their family members, to protect universal freedoms in the People's Republic of China, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01071"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Referred to the Committee on Foreign Affairs, and in addition to the Committees on Financial Services, the Judiciary, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Financial Services</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2014-07-31">
+      <text>Referred to House Ways and Means</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

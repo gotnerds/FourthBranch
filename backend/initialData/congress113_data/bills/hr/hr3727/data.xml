@@ -1,0 +1,51 @@
+<bill session="113" type="h" number="3727" updated="2014-08-14T13:23:16-04:00">
+  <state datetime="2013-12-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-12-12"/>
+  </status>
+  <introduced datetime="2013-12-12"/>
+  <titles>
+    <title type="short" as="introduced">Keep the EPA Honest Act of 2013</title>
+    <title type="official" as="introduced">To prohibit the Administrator of the Environmental Protection Agency from proposing any standard of performance for emissions of carbon dioxide from existing fossil fuel-fired electric utility generating units before the Administrator has finalized a standard of performance for emissions of carbon dioxide from new fossil fuel-fired electric utility generating units.</title>
+  </titles>
+  <sponsor thomas_id="02074"/>
+  <cosponsors>
+    <cosponsor thomas_id="01676" joined="2013-12-12"/>
+    <cosponsor thomas_id="02098" joined="2014-02-03"/>
+    <cosponsor thomas_id="02144" joined="2013-12-12"/>
+    <cosponsor thomas_id="01990" joined="2013-12-12"/>
+    <cosponsor thomas_id="01922" joined="2013-12-12"/>
+    <cosponsor thomas_id="02046" joined="2013-12-12"/>
+    <cosponsor thomas_id="00940" joined="2013-12-12"/>
+    <cosponsor thomas_id="02047" joined="2013-12-12"/>
+    <cosponsor thomas_id="01779" joined="2013-12-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-12-12" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-12-13">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Energy and Power" code="HSIF03" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Air quality"/>
+    <term name="Climate change and greenhouse gases"/>
+    <term name="Coal"/>
+    <term name="Electric power generation and transmission"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Oil and gas"/>
+    <term name="Public utilities and utility rates"/>
+  </subjects>
+  <amendments/>
+  <summary>12/12/2013--Introduced.
+Keep the EPA Honest Act of 2013 - Prohibits the Administrator of the Environmental Protection Agency (EPA) from proposing any standard of performance under the Clean Air Act for carbon dioxide emissions from existing fossil fuel-fired electric utility generating units before finalizing and publishing a standard of performance for such emissions from new fossil fuel-fired electric utility generating units.</summary>
+</bill>

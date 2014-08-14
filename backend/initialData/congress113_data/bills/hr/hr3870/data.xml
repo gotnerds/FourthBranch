@@ -1,0 +1,88 @@
+<bill session="113" type="h" number="3870" updated="2014-08-14T13:24:27-04:00">
+  <state datetime="2014-01-14">REFERRED</state>
+  <status>
+    <introduced datetime="2014-01-14"/>
+  </status>
+  <introduced datetime="2014-01-14"/>
+  <titles>
+    <title type="short" as="introduced">Superfund Reinvestment Act</title>
+    <title type="official" as="introduced">To provide for the use of funds in the Hazardous Substance Superfund for the purposes for which they were collected, to ensure adequate resources for the cleanup of hazardous substances under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00099"/>
+  <cosponsors>
+    <cosponsor thomas_id="02159" joined="2014-01-14"/>
+    <cosponsor thomas_id="01970" joined="2014-01-29"/>
+    <cosponsor thomas_id="01959" joined="2014-01-14"/>
+    <cosponsor thomas_id="00229" joined="2014-01-14"/>
+    <cosponsor thomas_id="01708" joined="2014-01-14"/>
+    <cosponsor thomas_id="01580" joined="2014-01-14"/>
+    <cosponsor thomas_id="01634" joined="2014-01-15"/>
+    <cosponsor thomas_id="02101" joined="2014-01-14"/>
+    <cosponsor thomas_id="01501" joined="2014-01-14"/>
+    <cosponsor thomas_id="00683" joined="2014-02-27"/>
+    <cosponsor thomas_id="00701" joined="2014-01-29"/>
+    <cosponsor thomas_id="01653" joined="2014-01-14"/>
+    <cosponsor thomas_id="00832" joined="2014-01-14"/>
+    <cosponsor thomas_id="00850" joined="2014-01-14"/>
+    <cosponsor thomas_id="02108" joined="2014-01-15"/>
+    <cosponsor thomas_id="00887" joined="2014-01-14"/>
+    <cosponsor thomas_id="01510" joined="2014-01-14"/>
+    <cosponsor thomas_id="00930" joined="2014-02-27"/>
+    <cosponsor thomas_id="01635" joined="2014-01-14"/>
+    <cosponsor thomas_id="01798" joined="2014-01-14"/>
+    <cosponsor thomas_id="01861" joined="2014-01-14"/>
+    <cosponsor thomas_id="01069" joined="2014-02-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-01-14">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E68"/>
+    </action>
+    <action datetime="2014-01-14" state="REFERRED">
+      <text>Referred to the Committee on Ways and Means, and in addition to the Committees on Transportation and Infrastructure, Energy and Commerce, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-01-14">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2014-01-14">
+      <text>Referred to House Transportation and Infrastructure</text>
+    </action>
+    <action datetime="2014-01-14">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2014-01-14">
+      <text>Referred to House Budget</text>
+    </action>
+    <action datetime="2014-01-15">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+    <action datetime="2014-01-17">
+      <text>Referred to the Subcommittee on Environment and the Economy.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Water Resources and Environment" code="HSPW02" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Environment and the Economy" code="HSIF18" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSBU" name="House Budget" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Government trust funds"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Income tax rates"/>
+    <term name="Pollution liability"/>
+    <term name="Sales and excise taxes"/>
+  </subjects>
+  <amendments/>
+  <summary>1/14/2014--Introduced.
+Superfund Reinvestment Act - Amends the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (CERCLA) to authorize the use of amounts in the Hazardous Substance Superfund for environmental cleanup costs authorized by such Act.
+
+Provides that receipts and disbursements of the Hazardous Substance Superfund: (1) shall not be counted as new budget authority, outlays, receipts, or deficit or surplus, for purposes of the President's budget, the congressional budget, the Balanced Budget and Emergency Deficit Control Act of 1985, or the Statutory Pay-As-You-Go Act of 2010; (2) shall be exempt from any general budget limitations; and (3) shall be available only for the purposes specified in CERCLA.
+
+Amends the Internal Revenue Code to reinstate through December 31, 2023, the Hazardous Substance Superfund financing rate and the corporate environmental income tax and extend the borrowing authority of the Superfund through 2023.</summary>
+</bill>

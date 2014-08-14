@@ -1,0 +1,54 @@
+<bill session="113" type="s" number="1759" updated="2014-08-14T13:59:54-04:00">
+  <state datetime="2013-11-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-11-21"/>
+  </status>
+  <introduced datetime="2013-11-21"/>
+  <titles>
+    <title type="short" as="introduced">Teaching Health Center Reauthorization Act</title>
+    <title type="official" as="introduced">A bill to reauthorize the teaching health center program.</title>
+  </titles>
+  <sponsor thomas_id="01010"/>
+  <cosponsors>
+    <cosponsor thomas_id="00116" joined="2013-12-19"/>
+    <cosponsor thomas_id="00172" joined="2013-11-21"/>
+    <cosponsor thomas_id="01828" joined="2013-11-21"/>
+    <cosponsor thomas_id="00326" joined="2013-11-21"/>
+    <cosponsor thomas_id="01866" joined="2014-01-13"/>
+    <cosponsor thomas_id="01937" joined="2013-11-21"/>
+    <cosponsor thomas_id="02185" joined="2013-12-12"/>
+    <cosponsor thomas_id="01036" joined="2013-11-21"/>
+    <cosponsor thomas_id="01531" joined="2013-12-09"/>
+    <cosponsor thomas_id="01567" joined="2013-11-21"/>
+    <cosponsor thomas_id="02182" joined="2014-05-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-11-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1978"/>
+    <bill type="s" session="113" relation="unknown" number="2229"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Appropriations"/>
+    <term name="Congressional oversight"/>
+    <term name="Education programs funding"/>
+    <term name="Government information and archives"/>
+    <term name="Health information and medical records"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Medical education"/>
+  </subjects>
+  <amendments/>
+  <summary>11/21/2013--Introduced.
+Teaching Health Center Reauthorization Act - Amends the Public Health Service Act to appropriate funds for FY2016-FY2020 for the program of payments to teaching health centers that operate graduate medical education programs. Allows funds that were unexpended at the end of a fiscal year to be used in subsequent fiscal years.
+
+Requires the Secretary of Health and Human Services (HHS) to: (1) annually report a compilation of the data provided to the Secretary concerning residency training, and (2) establish a minimum per resident per year payment amount for all approved teaching health center graduate medical education positions under the program that is not less than the amount as of January 1, 2013, and ensure that not less than that amount is provided to all such programs for all approved positions.
+
+Authorizes appropriations for FY2013-FY2020 for grants to teaching centers for the establishment of new accredited or expanded primary care residency programs.</summary>
+</bill>

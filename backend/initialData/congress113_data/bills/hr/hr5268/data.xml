@@ -1,0 +1,26 @@
+<bill session="113" type="h" number="5268" updated="2014-08-14T13:36:27-04:00">
+  <state datetime="2014-07-30">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-30"/>
+  </status>
+  <introduced datetime="2014-07-30"/>
+  <titles>
+    <title type="short" as="introduced">Preventing Government Printing Overreach Act of 2014</title>
+    <title type="official" as="introduced">To amend title 44, United States Code, to prohibit the assembly or manufacture of secure credentials or their component parts by the Government Printing Office.</title>
+  </titles>
+  <sponsor thomas_id="01720"/>
+  <cosponsors>
+    <cosponsor thomas_id="01748" joined="2014-07-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-30" state="REFERRED">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

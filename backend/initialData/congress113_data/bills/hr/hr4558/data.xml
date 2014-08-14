@@ -1,0 +1,42 @@
+<bill session="113" type="h" number="4558" updated="2014-08-14T13:30:15-04:00">
+  <state datetime="2014-05-01">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-01"/>
+  </status>
+  <introduced datetime="2014-05-01"/>
+  <titles>
+    <title type="short" as="introduced">Flood Insurance Market Parity and Modernization Act of 2014</title>
+    <title type="official" as="introduced">To clarify the authority of States to regulate private flood insurance coverage.</title>
+  </titles>
+  <sponsor thomas_id="02003"/>
+  <cosponsors>
+    <cosponsor thomas_id="01838" joined="2014-05-19"/>
+    <cosponsor thomas_id="02199" joined="2014-06-24"/>
+    <cosponsor thomas_id="01931" joined="2014-06-24"/>
+    <cosponsor thomas_id="02117" joined="2014-05-01"/>
+    <cosponsor thomas_id="01892" joined="2014-05-22"/>
+    <cosponsor thomas_id="02047" joined="2014-05-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-01" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="2381"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Floods and storm protection"/>
+    <term name="Insurance industry and regulation"/>
+    <term name="Life, casualty, property insurance"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>5/1/2014--Introduced.
+Flood Insurance Market Parity and Modernization Act of 2014 - Amends the Flood Disaster Protection Act of 1973 to redefine "private flood insurance" to include a policy issued an insurance company that is eligible as a nonadmitted insurer to provide insurance in the state or jurisdiction where the property to be insured is located.</summary>
+</bill>

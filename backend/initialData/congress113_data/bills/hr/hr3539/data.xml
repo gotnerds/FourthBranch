@@ -1,0 +1,109 @@
+<bill session="113" type="h" number="3539" updated="2014-08-14T13:21:42-04:00">
+  <state datetime="2013-11-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-11-19"/>
+  </status>
+  <introduced datetime="2013-11-19"/>
+  <titles>
+    <title type="short" as="introduced">Adoption Promotion Act of 2013</title>
+    <title type="official" as="introduced">To amend title X of the Public Health Service Act with respect to adoption and other pregnancy options counseling.</title>
+  </titles>
+  <sponsor thomas_id="02033"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2013-11-21"/>
+    <cosponsor thomas_id="02131" joined="2013-11-21"/>
+    <cosponsor thomas_id="00062" joined="2013-11-21"/>
+    <cosponsor thomas_id="02027" joined="2013-11-21"/>
+    <cosponsor thomas_id="01838" joined="2014-04-07"/>
+    <cosponsor thomas_id="02063" joined="2013-11-21"/>
+    <cosponsor thomas_id="01748" joined="2013-11-21"/>
+    <cosponsor thomas_id="01987" joined="2013-11-21"/>
+    <cosponsor thomas_id="01882" joined="2014-02-03"/>
+    <cosponsor thomas_id="02018" joined="2013-11-21"/>
+    <cosponsor thomas_id="00211" joined="2013-11-21"/>
+    <cosponsor thomas_id="01742" joined="2013-11-21"/>
+    <cosponsor thomas_id="02098" joined="2013-11-21"/>
+    <cosponsor thomas_id="01989" joined="2013-11-21"/>
+    <cosponsor thomas_id="02126" joined="2013-12-05"/>
+    <cosponsor thomas_id="00322" joined="2013-11-21"/>
+    <cosponsor thomas_id="02067" joined="2013-11-21"/>
+    <cosponsor thomas_id="02064" joined="2013-11-21"/>
+    <cosponsor thomas_id="01683" joined="2013-12-05"/>
+    <cosponsor thomas_id="01793" joined="2013-11-21"/>
+    <cosponsor thomas_id="01707" joined="2013-11-21"/>
+    <cosponsor thomas_id="02058" joined="2013-11-21"/>
+    <cosponsor thomas_id="02026" joined="2013-11-21"/>
+    <cosponsor thomas_id="02032" joined="2013-12-05"/>
+    <cosponsor thomas_id="02143" joined="2013-11-21"/>
+    <cosponsor thomas_id="02020" joined="2013-11-21"/>
+    <cosponsor thomas_id="02028" joined="2013-12-05"/>
+    <cosponsor thomas_id="02015" joined="2013-11-21"/>
+    <cosponsor thomas_id="01909" joined="2013-11-21"/>
+    <cosponsor thomas_id="02046" joined="2013-12-12"/>
+    <cosponsor thomas_id="01733" joined="2013-11-21"/>
+    <cosponsor thomas_id="02011" joined="2013-11-21"/>
+    <cosponsor thomas_id="00711" joined="2013-11-21"/>
+    <cosponsor thomas_id="01931" joined="2014-01-16"/>
+    <cosponsor thomas_id="02053" joined="2013-11-21"/>
+    <cosponsor thomas_id="01792" joined="2013-11-21"/>
+    <cosponsor thomas_id="01809" joined="2013-11-21"/>
+    <cosponsor thomas_id="02142" joined="2013-11-21"/>
+    <cosponsor thomas_id="00800" joined="2013-11-21"/>
+    <cosponsor thomas_id="01685" joined="2013-11-21"/>
+    <cosponsor thomas_id="02156" joined="2013-11-21"/>
+    <cosponsor thomas_id="01744" joined="2013-11-21"/>
+    <cosponsor thomas_id="01758" joined="2013-12-10"/>
+    <cosponsor thomas_id="02060" joined="2013-11-21"/>
+    <cosponsor thomas_id="02034" joined="2013-11-21"/>
+    <cosponsor thomas_id="01955" joined="2013-11-21"/>
+    <cosponsor thomas_id="00912" joined="2013-11-21"/>
+    <cosponsor thomas_id="02141" joined="2013-11-21"/>
+    <cosponsor thomas_id="01514" joined="2013-11-21"/>
+    <cosponsor thomas_id="01802" joined="2013-12-05"/>
+    <cosponsor thomas_id="02022" joined="2013-11-21"/>
+    <cosponsor thomas_id="02017" joined="2013-11-21"/>
+    <cosponsor thomas_id="01916" joined="2013-11-21"/>
+    <cosponsor thomas_id="01848" joined="2013-11-21"/>
+    <cosponsor thomas_id="02158" joined="2013-12-12"/>
+    <cosponsor thomas_id="01009" joined="2013-11-21"/>
+    <cosponsor thomas_id="01071" joined="2013-11-21"/>
+    <cosponsor thomas_id="02000" joined="2013-11-21"/>
+    <cosponsor thomas_id="01566" joined="2013-11-21"/>
+    <cosponsor thomas_id="01952" joined="2013-11-21"/>
+    <cosponsor thomas_id="01155" joined="2013-11-21"/>
+    <cosponsor thomas_id="01741" joined="2013-11-21"/>
+    <cosponsor thomas_id="02137" joined="2013-12-05"/>
+    <cosponsor thomas_id="02161" joined="2013-11-21"/>
+    <cosponsor thomas_id="01779" joined="2013-11-21"/>
+    <cosponsor thomas_id="01688" joined="2013-11-21"/>
+    <cosponsor thomas_id="01886" joined="2013-11-21"/>
+    <cosponsor thomas_id="02019" joined="2013-11-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-11-19" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-11-22">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Adoption and foster care"/>
+    <term name="Government studies and investigations"/>
+    <term name="Health information and medical records"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Sex and reproductive health"/>
+    <term name="Women's health"/>
+  </subjects>
+  <amendments/>
+  <summary>11/19/2013--Introduced.
+Adoption Promotion Act of 2013 - Amends the Public Health Service Act to direct the Secretary of Health and Human Services (HHS) to ensure that any pregnancy options counseling funded through training grants for personnel to carry out family planning service programs under such Act: (1) includes adoption counseling, and (2) is provided by individuals who are licensed social workers or counselors in the states in which they practice and who have knowledge and experience in adoption practice. Requires that any training provided to an individual with respect to family planning include training on the adoption process.
+
+Requires research in the biomedical, contraceptive development, behavioral, and program implementation fields related to family planning and population funded under such Act to include: (1) the collection of data on the number of pregnancy tests administered to individuals served by family planning service programs and the results of those tests; and (2) the evaluation of the quality, consistency, and outcomes of pregnancy options counseling.</summary>
+</bill>

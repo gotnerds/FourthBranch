@@ -1,0 +1,52 @@
+<bill session="113" type="h" number="1164" updated="2014-08-14T13:00:36-04:00">
+  <state datetime="2013-03-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-14"/>
+  </status>
+  <introduced datetime="2013-03-14"/>
+  <titles>
+    <title type="short" as="introduced">Government Shutdown Prevention Act</title>
+    <title type="official" as="introduced">To amend title 31, United States Code, to provide for automatic continuing resolutions.</title>
+  </titles>
+  <sponsor thomas_id="02050"/>
+  <cosponsors>
+    <cosponsor thomas_id="02029" joined="2013-03-20"/>
+    <cosponsor thomas_id="01748" joined="2013-03-14"/>
+    <cosponsor thomas_id="02018" joined="2013-03-14"/>
+    <cosponsor thomas_id="02098" joined="2013-03-20"/>
+    <cosponsor thomas_id="02138" joined="2013-03-14"/>
+    <cosponsor thomas_id="02126" joined="2013-10-23"/>
+    <cosponsor thomas_id="02057" joined="2013-03-14"/>
+    <cosponsor thomas_id="01797" joined="2013-03-20"/>
+    <cosponsor thomas_id="02070" joined="2013-10-15"/>
+    <cosponsor thomas_id="01749" joined="2013-03-14"/>
+    <cosponsor thomas_id="02028" joined="2013-03-14"/>
+    <cosponsor thomas_id="01960" joined="2013-03-14"/>
+    <cosponsor thomas_id="01908" joined="2013-03-14"/>
+    <cosponsor thomas_id="02156" joined="2013-03-14"/>
+    <cosponsor thomas_id="02073" joined="2013-03-14"/>
+    <cosponsor thomas_id="01560" joined="2013-04-11"/>
+    <cosponsor thomas_id="01920" joined="2013-03-20"/>
+    <cosponsor thomas_id="01779" joined="2013-03-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-14" state="REFERRED">
+      <text>Referred to the House Committee on Appropriations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAP" name="House Appropriations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="113" relation="unknown" number="372"/>
+    <bill type="s" session="113" relation="unknown" number="29"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Appropriations"/>
+    <term name="Executive agency funding and structure"/>
+  </subjects>
+  <amendments/>
+  <summary>3/14/2013--Introduced.
+Government Shutdown Prevention Act - Makes specified provisional (automatic) continuing appropriations in the event that any regular appropriation bill for a fiscal year is not enacted before the beginning of such fiscal year, or a joint resolution making continuing appropriations is not in effect. (Thus prevents a federal government shutdown.)</summary>
+</bill>

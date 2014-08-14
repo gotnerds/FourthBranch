@@ -1,0 +1,75 @@
+<bill session="113" type="h" number="1317" updated="2014-08-14T13:01:54-04:00">
+  <state datetime="2013-03-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-21"/>
+  </status>
+  <introduced datetime="2013-03-21"/>
+  <titles>
+    <title type="short" as="introduced">Hearing Aid Assistance Tax Credit Act 2013</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to allow a credit against income tax for the purchase of hearing aids.</title>
+  </titles>
+  <sponsor thomas_id="00666"/>
+  <cosponsors>
+    <cosponsor thomas_id="01858" joined="2013-04-09"/>
+    <cosponsor thomas_id="00038" joined="2013-05-07"/>
+    <cosponsor thomas_id="01753" joined="2014-04-02"/>
+    <cosponsor thomas_id="01564" joined="2013-03-21"/>
+    <cosponsor thomas_id="01752" joined="2013-03-21"/>
+    <cosponsor thomas_id="01878" joined="2013-10-28"/>
+    <cosponsor thomas_id="01836" joined="2013-11-15"/>
+    <cosponsor thomas_id="00279" joined="2014-01-08"/>
+    <cosponsor thomas_id="01857" joined="2013-07-22"/>
+    <cosponsor thomas_id="00355" joined="2013-11-15"/>
+    <cosponsor thomas_id="00368" joined="2014-05-21"/>
+    <cosponsor thomas_id="01843" joined="2013-10-28"/>
+    <cosponsor thomas_id="02169" joined="2014-04-02"/>
+    <cosponsor thomas_id="00635" joined="2013-06-25"/>
+    <cosponsor thomas_id="01733" joined="2013-03-25"/>
+    <cosponsor thomas_id="01936" joined="2013-06-19"/>
+    <cosponsor thomas_id="01583" joined="2013-10-23"/>
+    <cosponsor thomas_id="01501" joined="2014-04-29"/>
+    <cosponsor thomas_id="01846" joined="2014-05-28"/>
+    <cosponsor thomas_id="01686" joined="2013-11-15"/>
+    <cosponsor thomas_id="01503" joined="2013-03-21"/>
+    <cosponsor thomas_id="01653" joined="2013-04-11"/>
+    <cosponsor thomas_id="02074" joined="2013-03-21"/>
+    <cosponsor thomas_id="00868" joined="2013-04-23"/>
+    <cosponsor thomas_id="01955" joined="2013-04-11"/>
+    <cosponsor thomas_id="02097" joined="2013-03-21"/>
+    <cosponsor thomas_id="02113" joined="2013-12-10"/>
+    <cosponsor thomas_id="00910" joined="2013-05-14"/>
+    <cosponsor thomas_id="00977" joined="2013-09-18"/>
+    <cosponsor thomas_id="01798" joined="2013-03-21"/>
+    <cosponsor thomas_id="01071" joined="2014-05-15"/>
+    <cosponsor thomas_id="02110" joined="2014-04-29"/>
+    <cosponsor thomas_id="01593" joined="2013-04-09"/>
+    <cosponsor thomas_id="01535" joined="2014-07-31"/>
+    <cosponsor thomas_id="01940" joined="2013-03-21"/>
+    <cosponsor thomas_id="01729" joined="2014-06-09"/>
+    <cosponsor thomas_id="01856" joined="2013-10-11"/>
+    <cosponsor thomas_id="01886" joined="2014-05-28"/>
+    <cosponsor thomas_id="01853" joined="2013-10-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-21" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1694"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Aging"/>
+    <term name="Health technology, devices, supplies"/>
+    <term name="Hearing, speech, and vision care"/>
+    <term name="Income tax credits"/>
+    <term name="Tax treatment of families"/>
+  </subjects>
+  <amendments/>
+  <summary>3/21/2013--Introduced.
+Hearing Aid Assistance Tax Credit Act 2013 - Amends the Internal Revenue Code to allow a nonrefundable income tax credit of up to $500 for the purchase of a qualified hearing aid for the taxpayer, the taxpayer's spouse, or a dependent of the taxpayer. Denies such tax credit to any taxpayer whose modified adjusted gross income exceeds $200,000.</summary>
+</bill>

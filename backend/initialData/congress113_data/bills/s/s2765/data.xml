@@ -1,0 +1,25 @@
+<bill session="113" type="s" number="2765" updated="2014-08-14T14:08:21-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Investment Advisers Act of 1940 to prevent duplicative regulation of advisers of small business investment companies.</title>
+  </titles>
+  <sponsor thomas_id="01647"/>
+  <cosponsors>
+    <cosponsor thomas_id="01983" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

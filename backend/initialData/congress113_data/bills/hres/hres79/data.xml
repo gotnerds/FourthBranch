@@ -1,0 +1,39 @@
+<bill session="113" type="hr" number="79" updated="2014-08-14T12:45:19-04:00">
+  <state datetime="2013-02-25">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-25"/>
+  </status>
+  <introduced datetime="2013-02-25"/>
+  <titles>
+    <title type="official" as="introduced">Supporting the goals and ideals of International Water Safety Day.</title>
+  </titles>
+  <sponsor thomas_id="00371"/>
+  <cosponsors>
+    <cosponsor thomas_id="00211" joined="2013-02-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-25" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-03-01">
+      <text>Referred to the Subcommittee on Commerce, Manufacturing, and Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Commerce, Manufacturing, and Trade" code="HSIF17" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Sports and recreation"/>
+    <term name="Child safety and welfare"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Outdoor recreation"/>
+  </subjects>
+  <amendments/>
+  <summary>2/25/2013--Introduced.
+Expresses support for the goals and ideals of International Water Safety Day.
+
+Acknowledges: (1) that water safety education should be included in primary and secondary school education, (2) the importance of water safety education, and (3) that every person should learn to swim.</summary>
+</bill>

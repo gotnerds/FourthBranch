@@ -1,0 +1,37 @@
+<bill session="113" type="h" number="5136" updated="2014-08-14T13:35:18-04:00">
+  <state datetime="2014-07-17">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-17"/>
+  </status>
+  <introduced datetime="2014-07-17"/>
+  <titles>
+    <title type="short" as="introduced">Breaking Addiction Act of 2014</title>
+    <title type="official" as="introduced">To direct the Secretary of Health and Human Services to establish a demonstration project under the Medicaid program under title XIX of the Social Security Act under which payment may be made to States for expenditures for medical assistance with respect to substance use disorder treatment services, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01895"/>
+  <cosponsors>
+    <cosponsor thomas_id="01864" joined="2014-07-17"/>
+    <cosponsor thomas_id="00256" joined="2014-07-17"/>
+    <cosponsor thomas_id="00511" joined="2014-07-17"/>
+    <cosponsor thomas_id="00616" joined="2014-07-22"/>
+    <cosponsor thomas_id="01501" joined="2014-07-17"/>
+    <cosponsor thomas_id="02108" joined="2014-07-31"/>
+    <cosponsor thomas_id="00868" joined="2014-07-17"/>
+    <cosponsor thomas_id="02023" joined="2014-07-17"/>
+    <cosponsor thomas_id="01756" joined="2014-07-17"/>
+    <cosponsor thomas_id="01205" joined="2014-07-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-17" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>7/17/2014--Introduced.
+Breaking Addiction Act of 2014 - Directs the Secretary of Health and Human Services (HHS) to establish a five-year demonstration project under which payment may be made to each participating state for any medical assistance provided with respect to a qualified individual being treated for a substance use condition in a community-based institution for mental diseases.</summary>
+</bill>

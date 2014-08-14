@@ -1,0 +1,56 @@
+<bill session="113" type="h" number="3893" updated="2014-08-14T13:24:39-04:00">
+  <state datetime="2014-01-16">REFERRED</state>
+  <status>
+    <introduced datetime="2014-01-16"/>
+  </status>
+  <introduced datetime="2014-01-16"/>
+  <titles>
+    <title type="short" as="introduced">Responsible Rail and Deterring Deficiency Act</title>
+    <title type="official" as="introduced">To provide for the suspension of Federal funding for the California High Speed Rail Project until sufficient non-Federal funds are available.</title>
+  </titles>
+  <sponsor thomas_id="01995"/>
+  <cosponsors>
+    <cosponsor thomas_id="00165" joined="2014-01-16"/>
+    <cosponsor thomas_id="01816" joined="2014-01-16"/>
+    <cosponsor thomas_id="02103" joined="2014-01-16"/>
+    <cosponsor thomas_id="01909" joined="2014-01-16"/>
+    <cosponsor thomas_id="01640" joined="2014-01-16"/>
+    <cosponsor thomas_id="02100" joined="2014-01-16"/>
+    <cosponsor thomas_id="01833" joined="2014-01-16"/>
+    <cosponsor thomas_id="01908" joined="2014-01-16"/>
+    <cosponsor thomas_id="00778" joined="2014-01-16"/>
+    <cosponsor thomas_id="01584" joined="2014-01-16"/>
+    <cosponsor thomas_id="01710" joined="2014-01-16"/>
+    <cosponsor thomas_id="00979" joined="2014-01-16"/>
+    <cosponsor thomas_id="00998" joined="2014-01-16"/>
+    <cosponsor thomas_id="02105" joined="2014-01-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-01-16" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2014-01-17">
+      <text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Railroads, Pipelines, and Hazardous Materials" code="HSPW14" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="California"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Railroads"/>
+    <term name="State and local finance"/>
+    <term name="Transportation programs funding"/>
+  </subjects>
+  <amendments/>
+  <summary>1/16/2014--Introduced.
+Responsible Rail and Deterring Deficiency Act - Declares that the Congress determines that a certain California high-speed train project would not be adequately served by continuation of federal assistance.
+
+Directs the Federal Railroad Administration (FRA), based upon that determination, to exercise its right under the grant agreement (entered into between the FRA and the California High Speed Rail Authority numbered FR-HSR-0009-10-01-05 on December 5, 2012) to suspend any further financial assistance for the project until: (1) the California High Speed Rail Authority certifies to the FRA that it has access to state funds, or other non-federal funds, in the amounts specified in the grant agreement and such funds are available to meet the Authority's financial obligations under that agreement; or (2) September 30, 2017.
+
+Prohibits the FRA from amending, supplementing, or otherwise changing the terms of the grant agreement until the requirements for suspension of federal assistance have been met.</summary>
+</bill>

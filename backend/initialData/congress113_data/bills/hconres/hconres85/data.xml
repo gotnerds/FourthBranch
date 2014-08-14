@@ -1,0 +1,41 @@
+<bill session="113" type="hc" number="85" updated="2014-08-14T13:39:18-04:00">
+  <state datetime="2014-02-21">REFERRED</state>
+  <status>
+    <introduced datetime="2014-02-21"/>
+  </status>
+  <introduced datetime="2014-02-21"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of Congress that a commemorative postage stamp should be issued in honor of the Buffalo Soldiers.</title>
+  </titles>
+  <sponsor thomas_id="02153"/>
+  <cosponsors>
+    <cosponsor thomas_id="01761" joined="2014-02-21"/>
+    <cosponsor thomas_id="02125" joined="2014-02-21"/>
+    <cosponsor thomas_id="02089" joined="2014-02-21"/>
+    <cosponsor thomas_id="01832" joined="2014-02-21"/>
+    <cosponsor thomas_id="01506" joined="2014-02-21"/>
+    <cosponsor thomas_id="00868" joined="2014-02-21"/>
+    <cosponsor thomas_id="01890" joined="2014-02-21"/>
+    <cosponsor thomas_id="02004" joined="2014-06-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-02-21" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Military history"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Postal service"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="Veterans' organizations and recognition"/>
+  </subjects>
+  <amendments/>
+  <summary>2/21/2014--Introduced.
+Expresses the sense of Congress that: (1) a commemorative postage stamp should be issued in honor of the Buffalo Soldiers, and (2) the Citizens' Stamp Advisory Committee should recommend to the Postmaster General that such a stamp be issued.</summary>
+</bill>

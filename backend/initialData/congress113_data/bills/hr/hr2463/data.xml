@@ -1,0 +1,105 @@
+<bill session="113" type="h" number="2463" updated="2014-08-14T13:12:27-04:00">
+  <state datetime="2013-07-31">REPORTED</state>
+  <status>
+    <unknown datetime="2013-07-31"/>
+  </status>
+  <introduced datetime="2013-06-20"/>
+  <titles>
+    <title type="short" as="introduced">Target Practice and Marksmanship Training Support Act</title>
+    <title type="short" as="reported to house">Target Practice and Marksmanship Training Support Act</title>
+    <title type="official" as="introduced">To amend the Pittman-Robertson Wildlife Restoration Act to facilitate the establishment of additional or expanded public target ranges in certain States.</title>
+  </titles>
+  <sponsor thomas_id="01909"/>
+  <cosponsors>
+    <cosponsor thomas_id="01882" joined="2013-06-20"/>
+    <cosponsor thomas_id="00211" joined="2013-07-16"/>
+    <cosponsor thomas_id="01992" joined="2013-06-20"/>
+    <cosponsor thomas_id="02044" joined="2013-06-20"/>
+    <cosponsor thomas_id="02026" joined="2013-06-20"/>
+    <cosponsor thomas_id="02046" joined="2013-06-20"/>
+    <cosponsor thomas_id="02014" joined="2013-06-20"/>
+    <cosponsor thomas_id="02100" joined="2013-06-20"/>
+    <cosponsor thomas_id="01885" joined="2013-06-20"/>
+    <cosponsor thomas_id="01505" joined="2013-06-20"/>
+    <cosponsor thomas_id="02035" joined="2013-06-20"/>
+    <cosponsor thomas_id="00910" joined="2013-07-18"/>
+    <cosponsor thomas_id="01151" joined="2013-06-20"/>
+    <cosponsor thomas_id="01593" joined="2013-06-20"/>
+    <cosponsor thomas_id="01856" joined="2013-06-20"/>
+    <cosponsor thomas_id="01879" joined="2013-08-02"/>
+    <cosponsor thomas_id="01886" joined="2013-06-20"/>
+    <cosponsor thomas_id="01256" joined="2013-06-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-20" state="REFERRED">
+      <text>Referred to the Committee on Natural Resources, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-06-20">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2013-06-20">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2013-06-26">
+      <text>Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.</text>
+    </action>
+    <action datetime="2013-07-15">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+    <action datetime="2013-07-25">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2013-07-31">
+      <text>Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs Discharged.</text>
+    </action>
+    <action datetime="2013-07-31">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2013-07-31" state="REPORTED">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+    </calendar>
+    <action datetime="2013-10-22T15:28:00-04:00">
+      <text>Reported by the Committee on Natural Resources. H. Rept. 113-250, Part I.</text>
+    </action>
+    <action datetime="2013-10-22T15:28:00-04:00">
+      <text>Committee on Judiciary discharged.</text>
+    </action>
+    <calendar datetime="2013-10-22T15:28:00-04:00" calendar="Union" number="178">
+      <text>Placed on the Union Calendar, Calendar No. 178.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee subcommittee="Fisheries, Wildlife, Oceans, and Insular Affairs" code="HSII22" name="House Natural Resources" activity="Referral, Hearings, Discharged"/>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, Discharged"/>
+    <committee subcommittee="Constitution and Civil Justice" code="HSJU10" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="3197"/>
+    <bill type="h" session="113" relation="unknown" number="3590"/>
+    <bill type="h" session="113" relation="unknown" number="3590"/>
+    <bill type="s" session="113" relation="identical" number="1212"/>
+    <bill type="s" session="113" relation="unknown" number="1335"/>
+    <bill type="s" session="113" relation="unknown" number="1660"/>
+    <bill type="s" session="113" relation="unknown" number="1996"/>
+    <bill type="s" session="113" relation="unknown" number="2363"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Firearms and explosives"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Government liability"/>
+    <term name="Land transfers"/>
+    <term name="Land use and conservation"/>
+    <term name="Outdoor recreation"/>
+    <term name="Solid waste and recycling"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+  <summary>10/22/2013--Reported to House without amendment, Part I.
+Target Practice and Marksmanship Training Support Act - Amends the Pittman-Robertson Wildlife Restoration Act to: (1) authorize a state to pay up to 90% of the costs of acquiring land for, expanding, or constructing a public target range; (2) authorize a state to elect to allocate 10% of a specified amount apportioned to it from the federal aid to wildlife restoration fund for such costs; (3) limit the federal share of such costs under such Act to 90%; and (4) require amounts provided for such costs under such Act to remain available for expenditure and obligation for five fiscal years.
+
+Shields the United States from any civil action or claim for money damages for injury to or loss of property, personal injury, or death caused by an activity occurring at a public target range that is funded by the federal government pursuant to such Act or located on federal land, except to the extent provided under the Federal Tort Claims Act with respect to the exercise or performance of a discretionary function.
+
+ Urges the Chief of the Forest Service and the Director of the Bureau of Land Management (BLM) to cooperate with state and local authorities and other entities to carry out waste removal and other activities on any federal land used as a public target range to encourage its continued use for target practice or marksmanship training.</summary>
+</bill>

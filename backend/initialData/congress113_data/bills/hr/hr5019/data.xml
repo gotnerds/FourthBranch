@@ -1,0 +1,58 @@
+<bill session="113" type="h" number="5019" updated="2014-08-14T13:34:19-04:00">
+  <state datetime="2014-07-24">REPORTED</state>
+  <status>
+    <unknown datetime="2014-07-24"/>
+  </status>
+  <introduced datetime="2014-07-07"/>
+  <titles>
+    <title type="official" as="introduced">To designate the facility of the United States Postal Service located at 1335 Jefferson Road in Rochester, New York, as the "Specialist Theodore Matthew Glende Post Office".</title>
+  </titles>
+  <sponsor thomas_id="01069"/>
+  <cosponsors>
+    <cosponsor thomas_id="01740" joined="2014-07-10"/>
+    <cosponsor thomas_id="01864" joined="2014-07-09"/>
+    <cosponsor thomas_id="02151" joined="2014-07-10"/>
+    <cosponsor thomas_id="01604" joined="2014-07-09"/>
+    <cosponsor thomas_id="00344" joined="2014-07-09"/>
+    <cosponsor thomas_id="02043" joined="2014-07-09"/>
+    <cosponsor thomas_id="02041" joined="2014-07-10"/>
+    <cosponsor thomas_id="02044" joined="2014-07-09"/>
+    <cosponsor thomas_id="01794" joined="2014-07-09"/>
+    <cosponsor thomas_id="01663" joined="2014-07-09"/>
+    <cosponsor thomas_id="02149" joined="2014-07-10"/>
+    <cosponsor thomas_id="00635" joined="2014-07-10"/>
+    <cosponsor thomas_id="00709" joined="2014-07-10"/>
+    <cosponsor thomas_id="01943" joined="2014-07-09"/>
+    <cosponsor thomas_id="00729" joined="2014-07-09"/>
+    <cosponsor thomas_id="02150" joined="2014-07-10"/>
+    <cosponsor thomas_id="01503" joined="2014-07-09"/>
+    <cosponsor thomas_id="01506" joined="2014-07-09"/>
+    <cosponsor thomas_id="02148" joined="2014-07-09"/>
+    <cosponsor thomas_id="00850" joined="2014-07-09"/>
+    <cosponsor thomas_id="01974" joined="2014-07-09"/>
+    <cosponsor thomas_id="00944" joined="2014-07-09"/>
+    <cosponsor thomas_id="01982" joined="2014-07-10"/>
+    <cosponsor thomas_id="01042" joined="2014-07-10"/>
+    <cosponsor thomas_id="01942" joined="2014-07-09"/>
+    <cosponsor thomas_id="01184" joined="2014-07-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-07" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+    <action datetime="2014-07-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-07-24" state="REPORTED">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>7/7/2014--Introduced.
+Designates the facility of the United States Postal Service located at 1335 Jefferson Road in Rochester, New York, as the "Specialist Theodore Matthew Glende Post Office."</summary>
+</bill>

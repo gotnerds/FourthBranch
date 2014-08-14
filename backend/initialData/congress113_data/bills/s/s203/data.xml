@@ -1,0 +1,62 @@
+<bill session="113" type="s" number="203" updated="2014-08-14T13:46:29-04:00">
+  <state datetime="2013-01-31">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-31"/>
+  </status>
+  <introduced datetime="2013-01-31"/>
+  <titles>
+    <title type="short" as="introduced">Pro Football Hall of Fame Commemorative Coin Act</title>
+    <title type="official" as="introduced">A bill to require the Secretary of the Treasury to mint coins in recognition and celebration of the Pro Football Hall of Fame.</title>
+  </titles>
+  <sponsor thomas_id="00924"/>
+  <cosponsors>
+    <cosponsor thomas_id="01695" joined="2013-01-31"/>
+    <cosponsor thomas_id="00066" joined="2013-10-29"/>
+    <cosponsor thomas_id="01464" joined="2013-07-31"/>
+    <cosponsor thomas_id="01687" joined="2013-01-31"/>
+    <cosponsor thomas_id="00116" joined="2013-06-12"/>
+    <cosponsor thomas_id="00136" joined="2013-03-07"/>
+    <cosponsor thomas_id="00153" joined="2013-06-12"/>
+    <cosponsor thomas_id="00188" joined="2013-06-12"/>
+    <cosponsor thomas_id="00209" joined="2013-06-12"/>
+    <cosponsor thomas_id="01825" joined="2013-01-31"/>
+    <cosponsor thomas_id="01633" joined="2013-06-12"/>
+    <cosponsor thomas_id="02079" joined="2013-02-14"/>
+    <cosponsor thomas_id="00583" joined="2013-06-06"/>
+    <cosponsor thomas_id="01608" joined="2013-01-31"/>
+    <cosponsor thomas_id="02176" joined="2013-08-01"/>
+    <cosponsor thomas_id="01983" joined="2013-01-31"/>
+    <cosponsor thomas_id="01820" joined="2013-06-12"/>
+    <cosponsor thomas_id="01507" joined="2013-01-31"/>
+    <cosponsor thomas_id="00952" joined="2013-06-12"/>
+    <cosponsor thomas_id="01424" joined="2013-09-25"/>
+    <cosponsor thomas_id="02084" joined="2013-01-31"/>
+    <cosponsor thomas_id="01534" joined="2013-06-12"/>
+    <cosponsor thomas_id="01609" joined="2013-06-12"/>
+    <cosponsor thomas_id="01897" joined="2013-09-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-31" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+      <reference ref="CR S6078-6079" label="text of measure as introduced in Senate"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="1653"/>
+    <bill type="s" session="113" relation="unknown" number="1842"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Currency"/>
+    <term name="Museums, exhibitions, cultural centers"/>
+    <term name="Professional sports"/>
+  </subjects>
+  <amendments/>
+  <summary>1/31/2013--Introduced.
+Pro Football Hall of Fame Commemorative Coin Act - Directs the Secretary of the Treasury to mint and issue not more than 50,000 $5-gold coins, 400,000 $1-silver coins, and 750,000 half-dollar coins emblematic of the game of professional football.
+
+ Requires all sales of such coins to include specified surcharges, which shall be paid by the Secretary to the Pro Football Hall of Fame to help finance the construction of a new building and the renovation of existing Pro Football Hall of Fame facilities.</summary>
+</bill>

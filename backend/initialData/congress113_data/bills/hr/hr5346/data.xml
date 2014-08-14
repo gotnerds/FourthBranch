@@ -1,0 +1,26 @@
+<bill session="113" type="h" number="5346" updated="2014-08-14T13:37:07-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="short" as="introduced">Rural Microbusiness Investment Credit Act of 2014</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to allow a business credit for investments in rural microbusinesses.</title>
+  </titles>
+  <sponsor thomas_id="01498"/>
+  <cosponsors>
+    <cosponsor thomas_id="01982" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

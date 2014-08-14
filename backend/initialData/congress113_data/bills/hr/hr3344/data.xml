@@ -1,0 +1,159 @@
+<bill session="113" type="h" number="3344" updated="2014-08-14T13:19:56-04:00">
+  <state datetime="2013-10-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-10-28"/>
+  </status>
+  <introduced datetime="2013-10-28"/>
+  <titles>
+    <title type="short" as="introduced">Fraudulent Overseas Recruitment and Trafficking Elimination Act of 2013</title>
+    <title type="official" as="introduced">To ensure that the provision of foreign assistance does not contribute to human trafficking and to combat human trafficking by requiring greater transparency in the recruitment of foreign workers.</title>
+  </titles>
+  <sponsor thomas_id="00998"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2013-12-09"/>
+    <cosponsor thomas_id="02102" joined="2014-02-11"/>
+    <cosponsor thomas_id="01838" joined="2014-01-17"/>
+    <cosponsor thomas_id="02063" joined="2014-04-28"/>
+    <cosponsor thomas_id="00099" joined="2014-02-27"/>
+    <cosponsor thomas_id="01723" joined="2014-01-27"/>
+    <cosponsor thomas_id="02129" joined="2014-05-02"/>
+    <cosponsor thomas_id="00132" joined="2014-02-25"/>
+    <cosponsor thomas_id="02127" joined="2014-05-06"/>
+    <cosponsor thomas_id="00165" joined="2014-01-27"/>
+    <cosponsor thomas_id="02055" joined="2014-02-25"/>
+    <cosponsor thomas_id="01912" joined="2014-01-17"/>
+    <cosponsor thomas_id="01878" joined="2014-01-28"/>
+    <cosponsor thomas_id="01959" joined="2014-01-10"/>
+    <cosponsor thomas_id="02098" joined="2014-03-05"/>
+    <cosponsor thomas_id="01836" joined="2014-04-08"/>
+    <cosponsor thomas_id="02144" joined="2014-01-17"/>
+    <cosponsor thomas_id="01670" joined="2014-02-10"/>
+    <cosponsor thomas_id="02126" joined="2014-05-02"/>
+    <cosponsor thomas_id="01641" joined="2014-01-27"/>
+    <cosponsor thomas_id="00316" joined="2014-05-06"/>
+    <cosponsor thomas_id="01894" joined="2014-01-09"/>
+    <cosponsor thomas_id="02114" joined="2014-05-01"/>
+    <cosponsor thomas_id="01888" joined="2014-05-19"/>
+    <cosponsor thomas_id="02119" joined="2014-01-14"/>
+    <cosponsor thomas_id="01707" joined="2014-02-10"/>
+    <cosponsor thomas_id="00414" joined="2014-04-10"/>
+    <cosponsor thomas_id="01803" joined="2014-01-09"/>
+    <cosponsor thomas_id="02032" joined="2014-05-19"/>
+    <cosponsor thomas_id="00511" joined="2014-02-10"/>
+    <cosponsor thomas_id="02143" joined="2014-03-26"/>
+    <cosponsor thomas_id="01634" joined="2014-04-30"/>
+    <cosponsor thomas_id="02028" joined="2014-05-08"/>
+    <cosponsor thomas_id="02015" joined="2013-11-13"/>
+    <cosponsor thomas_id="01640" joined="2014-01-17"/>
+    <cosponsor thomas_id="00588" joined="2014-01-14"/>
+    <cosponsor thomas_id="02199" joined="2014-04-30"/>
+    <cosponsor thomas_id="00616" joined="2014-01-10"/>
+    <cosponsor thomas_id="02169" joined="2014-05-09"/>
+    <cosponsor thomas_id="02014" joined="2014-01-08"/>
+    <cosponsor thomas_id="02145" joined="2014-04-29"/>
+    <cosponsor thomas_id="01885" joined="2014-04-29"/>
+    <cosponsor thomas_id="01501" joined="2014-02-25"/>
+    <cosponsor thomas_id="00683" joined="2014-04-30"/>
+    <cosponsor thomas_id="00701" joined="2014-05-19"/>
+    <cosponsor thomas_id="02111" joined="2014-03-24"/>
+    <cosponsor thomas_id="00729" joined="2014-04-01"/>
+    <cosponsor thomas_id="01504" joined="2013-12-11"/>
+    <cosponsor thomas_id="02142" joined="2014-02-25"/>
+    <cosponsor thomas_id="02052" joined="2014-05-19"/>
+    <cosponsor thomas_id="02130" joined="2014-01-09"/>
+    <cosponsor thomas_id="00832" joined="2014-01-27"/>
+    <cosponsor thomas_id="01602" joined="2014-04-28"/>
+    <cosponsor thomas_id="02162" joined="2014-04-28"/>
+    <cosponsor thomas_id="02157" joined="2014-01-17"/>
+    <cosponsor thomas_id="02141" joined="2014-03-05"/>
+    <cosponsor thomas_id="02171" joined="2014-01-14"/>
+    <cosponsor thomas_id="01802" joined="2014-01-15"/>
+    <cosponsor thomas_id="00944" joined="2014-02-04"/>
+    <cosponsor thomas_id="00985" joined="2014-01-17"/>
+    <cosponsor thomas_id="01848" joined="2013-12-11"/>
+    <cosponsor thomas_id="01588" joined="2014-02-11"/>
+    <cosponsor thomas_id="01635" joined="2014-04-03"/>
+    <cosponsor thomas_id="01920" joined="2014-03-05"/>
+    <cosponsor thomas_id="01861" joined="2014-07-22"/>
+    <cosponsor thomas_id="01526" joined="2014-05-06"/>
+    <cosponsor thomas_id="01940" joined="2014-02-11"/>
+    <cosponsor thomas_id="02167" joined="2014-01-09"/>
+    <cosponsor thomas_id="02137" joined="2014-01-15"/>
+    <cosponsor thomas_id="02128" joined="2014-04-10"/>
+    <cosponsor thomas_id="02161" joined="2014-04-01"/>
+    <cosponsor thomas_id="02004" joined="2013-12-11"/>
+    <cosponsor thomas_id="02115" joined="2014-04-28"/>
+    <cosponsor thomas_id="01720" joined="2014-01-17" withdrawn="2014-04-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-10-28" state="REFERRED">
+      <text>Referred to the Committee on Education and the Workforce, and in addition to the Committees on Foreign Affairs, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-10-28">
+      <text>Referred to House Education and the Workforce</text>
+    </action>
+    <action datetime="2013-10-28">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2013-10-28">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2014-01-09">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+    <action datetime="2014-01-09">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Constitution and Civil Justice" code="HSJU10" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Immigration and Border Security" code="HSJU01" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="744"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Administrative remedies"/>
+    <term name="Business records"/>
+    <term name="Civil actions and liability"/>
+    <term name="Contracts and agency"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Department of Labor"/>
+    <term name="Employment discrimination and employee rights"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Foreign labor"/>
+    <term name="Fraud offenses and financial crimes"/>
+    <term name="Government information and archives"/>
+    <term name="Human rights"/>
+    <term name="Human trafficking"/>
+    <term name="Labor standards"/>
+    <term name="Legal fees and court costs"/>
+    <term name="Licensing and registrations"/>
+    <term name="User charges and fees"/>
+    <term name="Visas and passports"/>
+  </subjects>
+  <amendments/>
+  <summary>10/28/2013--Introduced.
+Fraudulent Overseas Recruitment and Trafficking Elimination Act of 2013 - Amends the Trafficking Victims Protection Act of 2000 to require the U.S. Agency for International Development (USAID) and the Department of State to incorporate anti-trafficking and anti-slavery priorities into other aspects of foreign assistance to ensure that assistance programs do not contribute to vulnerability to, or the prevalence of, human trafficking and slavery.
+
+Requires a foreign labor contractor to disclose in writing in English and in the primary language of the worker being recruited specified information, including the identity of the employer and the recruiter, worker protections, and a signed copy of the work contract. Prohibits a foreign labor contractor from providing related false or misleading information.
+
+ Prohibits certain recruitment fees.
+
+ Requires a foreign labor contractor to obtain from the Secretary of Labor a certificate of registration which shall be valid for two years. Provides for a registration fee.
+
+Exempts from such certificate requirement an employer who engages in foreign labor contracting solely to find workers for the employer's own use without the participation of any other foreign labor contractor.
+
+Directs the Secretary of Labor to: (1) maintain a list of all registered foreign labor contractors and a list of all such ontractors whose registration has been revoked; and (2) establish a process for receipt, investigation, and disposition of complaints.
+
+Amends the Immigration and Nationality Act to require a consular officer, before issuing specified work visas, to: (1) provide the alien with certain trafficking information, and (2) review and include in the alien's visa file the foreign labor recruiter's disclosures.
+
+Directs the Secretary of State to ensure that: (1) each U.S. diplomatic mission has a person responsible for receiving information from any worker who has been subject to violations of this Act, and (2) consulates maintain and make public any information regarding the identities of foreign labor contractors and the employers to whom those contractors supply workers.
+
+Sets forth administrative and civil action enforcement requirements.</summary>
+</bill>

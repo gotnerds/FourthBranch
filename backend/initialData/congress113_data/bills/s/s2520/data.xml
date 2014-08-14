@@ -1,0 +1,44 @@
+<bill session="113" type="s" number="2520" updated="2014-08-14T14:06:18-04:00">
+  <state datetime="2014-06-24">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-24"/>
+  </status>
+  <introduced datetime="2014-06-24"/>
+  <titles>
+    <title type="short" as="introduced">FOIA Improvement Act of 2014</title>
+    <title type="official" as="introduced">A bill to improve the Freedom of Information Act.</title>
+  </titles>
+  <sponsor thomas_id="01383"/>
+  <cosponsors>
+    <cosponsor thomas_id="01692" joined="2014-06-24"/>
+    <cosponsor thomas_id="01844" joined="2014-07-31"/>
+    <cosponsor thomas_id="00735" joined="2014-07-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-24">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S3942"/>
+    </action>
+    <action datetime="2014-06-24" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+      <reference ref="CR S3942-3944" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Administrative remedies"/>
+    <term name="Alternative dispute resolution, mediation, arbitration"/>
+    <term name="Congressional oversight"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal officials"/>
+    <term name="Freedom of information"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+  </subjects>
+  <amendments/>
+</bill>

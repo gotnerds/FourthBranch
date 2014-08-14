@@ -1,0 +1,44 @@
+<bill session="113" type="h" number="2412" updated="2014-08-14T13:11:56-04:00">
+  <state datetime="2013-06-18">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-18"/>
+  </status>
+  <introduced datetime="2013-06-18"/>
+  <titles>
+    <title type="short" as="introduced">Veterans Health Access Act</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to consider the best interest of the veteran when determining whether the veteran should receive certain contracted health care.</title>
+  </titles>
+  <sponsor thomas_id="02093"/>
+  <cosponsors>
+    <cosponsor thomas_id="02018" joined="2013-06-28"/>
+    <cosponsor thomas_id="01999" joined="2013-06-28"/>
+    <cosponsor thomas_id="02040" joined="2013-06-18"/>
+    <cosponsor thomas_id="02048" joined="2013-07-08"/>
+    <cosponsor thomas_id="01756" joined="2013-07-16"/>
+    <cosponsor thomas_id="02099" joined="2013-07-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-18" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-07-01">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Health" code="HSVR03" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Administrative remedies"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Health care coverage and access"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>6/18/2013--Introduced.
+Veterans Health Access Act - Directs the Secretary of Veterans Affairs, when it is determined that Department of Veterans Affairs (VA) facilities are not capable of furnishing economic hospital care or medical services because of geographical inaccessibility or the care or services required, to determine whether or not to furnish such care or services to a veteran in a non-VA facility. Requires such determination to be made within 30 days following the request for such care or services.</summary>
+</bill>

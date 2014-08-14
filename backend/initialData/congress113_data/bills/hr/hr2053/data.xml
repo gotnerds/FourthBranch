@@ -1,0 +1,124 @@
+<bill session="113" type="h" number="2053" updated="2014-08-14T13:08:46-04:00">
+  <state datetime="2013-05-20">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-20"/>
+  </status>
+  <introduced datetime="2013-05-20"/>
+  <titles>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to apply budget neutrality on a State-specific basis in the calculation of the Medicare hospital wage index floor for non-rural areas.</title>
+  </titles>
+  <sponsor thomas_id="01468"/>
+  <cosponsors>
+    <cosponsor thomas_id="00038" joined="2013-06-26"/>
+    <cosponsor thomas_id="02131" joined="2013-07-09"/>
+    <cosponsor thomas_id="02027" joined="2013-07-08"/>
+    <cosponsor thomas_id="02063" joined="2013-06-27"/>
+    <cosponsor thomas_id="01748" joined="2014-02-11"/>
+    <cosponsor thomas_id="01787" joined="2013-06-26"/>
+    <cosponsor thomas_id="01987" joined="2013-11-15"/>
+    <cosponsor thomas_id="01882" joined="2013-06-18"/>
+    <cosponsor thomas_id="01840" joined="2013-05-20"/>
+    <cosponsor thomas_id="01751" joined="2013-06-04"/>
+    <cosponsor thomas_id="02197" joined="2014-03-04"/>
+    <cosponsor thomas_id="01676" joined="2013-06-05"/>
+    <cosponsor thomas_id="00211" joined="2014-04-03"/>
+    <cosponsor thomas_id="02098" joined="2013-06-04"/>
+    <cosponsor thomas_id="01989" joined="2013-06-26"/>
+    <cosponsor thomas_id="01717" joined="2013-06-25"/>
+    <cosponsor thomas_id="02072" joined="2013-06-04"/>
+    <cosponsor thomas_id="02057" joined="2013-06-28"/>
+    <cosponsor thomas_id="02036" joined="2013-08-02"/>
+    <cosponsor thomas_id="01683" joined="2013-09-30"/>
+    <cosponsor thomas_id="01793" joined="2013-07-08"/>
+    <cosponsor thomas_id="00446" joined="2013-06-27"/>
+    <cosponsor thomas_id="02058" joined="2013-07-11"/>
+    <cosponsor thomas_id="01656" joined="2013-09-26"/>
+    <cosponsor thomas_id="01990" joined="2013-05-22"/>
+    <cosponsor thomas_id="02070" joined="2013-05-20"/>
+    <cosponsor thomas_id="01922" joined="2013-06-17"/>
+    <cosponsor thomas_id="02032" joined="2014-07-28"/>
+    <cosponsor thomas_id="02020" joined="2013-06-04"/>
+    <cosponsor thomas_id="02069" joined="2013-07-30"/>
+    <cosponsor thomas_id="01921" joined="2013-06-04"/>
+    <cosponsor thomas_id="02046" joined="2013-06-27"/>
+    <cosponsor thomas_id="00603" joined="2013-05-21"/>
+    <cosponsor thomas_id="00612" joined="2013-05-21"/>
+    <cosponsor thomas_id="02154" joined="2013-06-26"/>
+    <cosponsor thomas_id="02051" joined="2013-05-20"/>
+    <cosponsor thomas_id="01498" joined="2013-05-23"/>
+    <cosponsor thomas_id="00636" joined="2013-07-11"/>
+    <cosponsor thomas_id="00666" joined="2013-09-17"/>
+    <cosponsor thomas_id="01885" joined="2013-06-26"/>
+    <cosponsor thomas_id="02033" joined="2013-06-04"/>
+    <cosponsor thomas_id="01931" joined="2014-06-18"/>
+    <cosponsor thomas_id="01806" joined="2013-06-26"/>
+    <cosponsor thomas_id="01792" joined="2014-01-07"/>
+    <cosponsor thomas_id="01505" joined="2013-06-13"/>
+    <cosponsor thomas_id="02074" joined="2013-07-16"/>
+    <cosponsor thomas_id="01809" joined="2013-09-06"/>
+    <cosponsor thomas_id="01930" joined="2013-07-18"/>
+    <cosponsor thomas_id="00912" joined="2013-06-05"/>
+    <cosponsor thomas_id="02022" joined="2013-06-19"/>
+    <cosponsor thomas_id="01915" joined="2013-05-22"/>
+    <cosponsor thomas_id="01778" joined="2013-07-08"/>
+    <cosponsor thomas_id="00940" joined="2013-06-17"/>
+    <cosponsor thomas_id="01982" joined="2013-05-20"/>
+    <cosponsor thomas_id="02048" joined="2013-05-20"/>
+    <cosponsor thomas_id="02073" joined="2013-05-23"/>
+    <cosponsor thomas_id="02160" joined="2013-07-16"/>
+    <cosponsor thomas_id="01986" joined="2013-07-08"/>
+    <cosponsor thomas_id="01954" joined="2013-05-22"/>
+    <cosponsor thomas_id="00977" joined="2013-10-22"/>
+    <cosponsor thomas_id="01704" joined="2013-06-04"/>
+    <cosponsor thomas_id="01848" joined="2013-05-20"/>
+    <cosponsor thomas_id="01560" joined="2013-06-28"/>
+    <cosponsor thomas_id="01920" joined="2013-05-20"/>
+    <cosponsor thomas_id="01041" joined="2013-06-04"/>
+    <cosponsor thomas_id="01590" joined="2013-09-18"/>
+    <cosponsor thomas_id="01860" joined="2013-06-11"/>
+    <cosponsor thomas_id="01566" joined="2013-07-09"/>
+    <cosponsor thomas_id="01664" joined="2013-05-20"/>
+    <cosponsor thomas_id="02105" joined="2013-06-26"/>
+    <cosponsor thomas_id="02137" joined="2014-06-17"/>
+    <cosponsor thomas_id="01596" joined="2013-06-05"/>
+    <cosponsor thomas_id="01779" joined="2013-06-04"/>
+    <cosponsor thomas_id="01222" joined="2013-06-05"/>
+    <cosponsor thomas_id="01688" joined="2013-07-09"/>
+    <cosponsor thomas_id="01886" joined="2013-06-04"/>
+    <cosponsor thomas_id="01238" joined="2013-07-08"/>
+    <cosponsor thomas_id="01991" joined="2013-07-08"/>
+    <cosponsor thomas_id="02021" joined="2013-06-14"/>
+    <cosponsor thomas_id="02019" joined="2013-06-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-20" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2013-06-03">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSWM02" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Health personnel"/>
+    <term name="Medicare"/>
+    <term name="Wages and earnings"/>
+  </subjects>
+  <amendments/>
+  <summary>5/20/2013--Introduced.
+Revises requirements for the non-rural area wage index floor in the formula for the national adjusted diagnosis-related group (DRG) prospective payment rate used in calculating payments under title XVIII (Medicare) of the Social Security Act for each inpatient hospital discharge in a fiscal year involving inpatient hospital services of a subsection (d) hospital.
+
+(Generally, a subsection [d] hospital is an acute care hospital, particularly one that receives payments under Medicare's inpatient prospective payment system [IPPS] when providing covered inpatient services to eligible beneficiaries.)
+
+Directs the Secretary of Health and Human Services (HHS), in the case of discharges occurring on or after October 1, 2013, to apply budget neutrality, under the Balanced Budget Act of 1997 and related regulations, on a state-specific rather than national basis in the calculation of the Medicare hospital wage index floor, including a minimum wage index, for each non-rural area, using a specified methodology as if it had been fully implemented for FY2011 using a 100% state-specific adjustment to the area wage index.
+
+Declares that nothing in this Act shall be construed as preventing the Secretary, for discharges occurring on or after October 1, 2014, from modifying related regulations in carrying out budget neutrality requirements.
+
+Amends the Patient Protection and Affordable Care Act to end the application of budget neutrality on a national basis in the calculation of the Medicare hospital wage index floor as of October 1, 2013.</summary>
+</bill>

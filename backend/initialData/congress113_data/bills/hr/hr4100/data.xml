@@ -1,0 +1,54 @@
+<bill session="113" type="h" number="4100" updated="2014-08-14T13:26:24-04:00">
+  <state datetime="2014-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="2014-02-26"/>
+  </status>
+  <introduced datetime="2014-02-26"/>
+  <titles>
+    <title type="short" as="introduced">LOCAL Act of 2014</title>
+    <title type="short" as="introduced">Local Organization Cooperative Agreement for Land and Facility Maintenance Act of 2014</title>
+    <title type="official" as="introduced">To amend the Water Resources Development Act of 1992 to permit the collection of user fees by non-Federal entities in connection with the challenge cost-sharing program for management of recreation facilities, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02098"/>
+  <cosponsors>
+    <cosponsor thomas_id="02155" joined="2014-02-26"/>
+    <cosponsor thomas_id="01882" joined="2014-02-26"/>
+    <cosponsor thomas_id="01989" joined="2014-02-26"/>
+    <cosponsor thomas_id="01656" joined="2014-02-26"/>
+    <cosponsor thomas_id="01990" joined="2014-02-26"/>
+    <cosponsor thomas_id="02033" joined="2014-03-10"/>
+    <cosponsor thomas_id="01952" joined="2014-02-26"/>
+    <cosponsor thomas_id="01991" joined="2014-02-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-02-26" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2014-02-27">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+    <action datetime="2014-02-27">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H2014"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Water Resources and Environment" code="HSPW02" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2055"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Outdoor recreation"/>
+    <term name="Public-private cooperation"/>
+    <term name="Sports and recreation facilities"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/2014--Introduced.
+Local Organization Cooperative Agreement for Land and Facility Maintenance Act of 2014 or the LOCAL Act of 2014 - Amends the Water Resources Development Act of 1992 to authorize the Secretary of the Army to permit a non-federal public or private entity that has entered into a cooperative agreement for the operation and management of recreation facilities and natural resources at civil works projects under the Secretary's jurisdiction to collect user fees for the use of developed recreation sites and facilities, whether developed or constructed by such entity or the Department of the Army.
+
+Permits such an entity to retain up to 100% of the fees collected and use them for operation, maintenance, and management at the recreation site where they were collected.</summary>
+</bill>

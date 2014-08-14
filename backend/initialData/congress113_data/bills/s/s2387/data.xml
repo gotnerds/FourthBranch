@@ -1,0 +1,31 @@
+<bill session="113" type="s" number="2387" updated="2014-08-14T14:05:11-04:00">
+  <state datetime="2014-05-22">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-22"/>
+  </status>
+  <introduced datetime="2014-05-22"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Claims Resolution Act of 2010 to authorize the Secretary of the Interior to contract with eligible Indian tribes to manage land buy-back programs, to require that certain amounts be deposited into interest bearing accounts, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02198"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-05-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="4694"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Government trust funds"/>
+    <term name="Indian claims"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="Land transfers"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,95 @@
+<bill session="113" type="s" number="403" updated="2014-08-14T13:48:10-04:00">
+  <state datetime="2013-02-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-28"/>
+  </status>
+  <introduced datetime="2013-02-28"/>
+  <titles>
+    <title type="short" as="introduced">Safe Schools Improvement Act of 2013</title>
+    <title type="official" as="introduced">A bill to amend the Elementary and Secondary Education Act of 1965 to address and take action to prevent bullying and harassment of students.</title>
+  </titles>
+  <sponsor thomas_id="01828"/>
+  <cosponsors>
+    <cosponsor thomas_id="01558" joined="2013-06-03"/>
+    <cosponsor thomas_id="01898" joined="2013-07-09"/>
+    <cosponsor thomas_id="01965" joined="2013-04-23"/>
+    <cosponsor thomas_id="02076" joined="2013-05-21"/>
+    <cosponsor thomas_id="00116" joined="2013-05-13"/>
+    <cosponsor thomas_id="00136" joined="2013-06-03"/>
+    <cosponsor thomas_id="00172" joined="2013-09-10"/>
+    <cosponsor thomas_id="00174" joined="2013-06-04"/>
+    <cosponsor thomas_id="01984" joined="2013-09-25"/>
+    <cosponsor thomas_id="02189" joined="2013-06-03"/>
+    <cosponsor thomas_id="00326" joined="2013-09-17"/>
+    <cosponsor thomas_id="01332" joined="2013-06-04"/>
+    <cosponsor thomas_id="01969" joined="2013-06-03"/>
+    <cosponsor thomas_id="01866" joined="2013-06-03"/>
+    <cosponsor thomas_id="01902" joined="2013-04-23"/>
+    <cosponsor thomas_id="00501" joined="2013-06-03"/>
+    <cosponsor thomas_id="01937" joined="2013-10-28"/>
+    <cosponsor thomas_id="01844" joined="2013-04-23"/>
+    <cosponsor thomas_id="00604" joined="2013-09-10"/>
+    <cosponsor thomas_id="01647" joined="2013-02-28"/>
+    <cosponsor thomas_id="01826" joined="2013-05-13"/>
+    <cosponsor thomas_id="01383" joined="2013-04-11"/>
+    <cosponsor thomas_id="01983" joined="2013-04-23"/>
+    <cosponsor thomas_id="00735" joined="2013-09-11"/>
+    <cosponsor thomas_id="00791" joined="2013-07-23"/>
+    <cosponsor thomas_id="01900" joined="2013-06-18"/>
+    <cosponsor thomas_id="00802" joined="2013-05-07"/>
+    <cosponsor thomas_id="01694" joined="2013-06-27"/>
+    <cosponsor thomas_id="01837" joined="2013-05-07"/>
+    <cosponsor thomas_id="01409" joined="2013-06-03"/>
+    <cosponsor thomas_id="00859" joined="2013-05-22"/>
+    <cosponsor thomas_id="00949" joined="2013-05-07"/>
+    <cosponsor thomas_id="01424" joined="2013-09-25"/>
+    <cosponsor thomas_id="01010" joined="2013-05-20"/>
+    <cosponsor thomas_id="02173" joined="2013-06-26"/>
+    <cosponsor thomas_id="01036" joined="2013-06-07"/>
+    <cosponsor thomas_id="01901" joined="2013-05-08"/>
+    <cosponsor thomas_id="01531" joined="2013-05-09"/>
+    <cosponsor thomas_id="01595" joined="2013-07-25"/>
+    <cosponsor thomas_id="01567" joined="2013-06-18"/>
+    <cosponsor thomas_id="02198" joined="2014-03-26"/>
+    <cosponsor thomas_id="01897" joined="2014-05-20"/>
+    <cosponsor thomas_id="02182" joined="2013-05-15"/>
+    <cosponsor thomas_id="01823" joined="2013-06-04"/>
+    <cosponsor thomas_id="01247" joined="2013-04-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-28" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="1199"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Administrative remedies"/>
+    <term name="Assault and harassment offenses"/>
+    <term name="Child safety and welfare"/>
+    <term name="Congressional oversight"/>
+    <term name="Crime prevention"/>
+    <term name="Crime victims"/>
+    <term name="Crimes against children"/>
+    <term name="Disability and health-based discrimination"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Government information and archives"/>
+    <term name="Performance measurement"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="Religion"/>
+    <term name="School administration"/>
+    <term name="Sex, gender, sexual orientation discrimination"/>
+  </subjects>
+  <amendments/>
+  <summary>2/28/2013--Introduced.
+Safe Schools Improvement Act of 2013 - Amends the Elementary and Secondary Education Act of 1965 to require states to direct their local educational agencies (LEAs) to establish policies that prevent and prohibit conduct, including bullying and harassment, that is sufficiently severe, persistent, or pervasive to: (1) limit students' ability to participate in, or benefit from school programs; or (2) create a hostile or abusive educational environment that adversely affects their education.
+
+Requires LEAs to also provide: (1) students, parents, and educational professionals with annual notice of the conduct prohibited in their discipline policies; (2) students and parents with grievance procedures that target such conduct; and (3) the public with annual data on the incidence and frequency of that conduct at the school and LEA level.
+
+Requires: (1) the Secretary of Education to conduct, and report on, an independent biennial evaluation of programs and policies to combat bullying and harassment in elementary and secondary schools; and (2) the Commissioner for Education Statistics to collect state data, that are subject to independent review, to determine the incidence and frequency of the conduct prohibited by LEA discipline policies.</summary>
+</bill>

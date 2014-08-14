@@ -1,0 +1,47 @@
+<bill session="113" type="h" number="3275" updated="2014-08-14T13:19:21-04:00">
+  <state datetime="2013-10-08">REFERRED</state>
+  <status>
+    <introduced datetime="2013-10-08"/>
+  </status>
+  <introduced datetime="2013-10-08"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Pay Our Military Act to ensure that the allowances of members of the Armed Forces covered by such Act include military tuition assistance programs of the Department of Defense.</title>
+  </titles>
+  <sponsor thomas_id="01748"/>
+  <cosponsors>
+    <cosponsor thomas_id="02063" joined="2013-10-15"/>
+    <cosponsor thomas_id="02129" joined="2013-10-15"/>
+    <cosponsor thomas_id="02036" joined="2013-10-08"/>
+    <cosponsor thomas_id="01797" joined="2013-10-08"/>
+    <cosponsor thomas_id="01744" joined="2013-10-08"/>
+    <cosponsor thomas_id="01986" joined="2013-10-08"/>
+    <cosponsor thomas_id="01954" joined="2013-10-08"/>
+    <cosponsor thomas_id="02137" joined="2013-10-09"/>
+    <cosponsor thomas_id="02165" joined="2013-10-09"/>
+    <cosponsor thomas_id="01688" joined="2013-10-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-10-08" state="REFERRED">
+      <text>Referred to the House Committee on Appropriations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAP" name="House Appropriations" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="3210"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Appropriations"/>
+    <term name="Defense spending"/>
+    <term name="Department of Defense"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Military education and training"/>
+    <term name="Military personnel and dependents"/>
+    <term name="National Guard and reserves"/>
+  </subjects>
+  <amendments/>
+  <summary>10/8/2013--Introduced.
+Amends the Pay our Military Act (P.L. 113-39) to make FY2014 continuing appropriations for any period during which interim or full-year appropriations for FY2014 are not in effect to provide for military tuition assistance to members of the Armed Forces, including reserve components, who perform active service during such period.</summary>
+</bill>

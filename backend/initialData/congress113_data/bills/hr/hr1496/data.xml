@@ -1,0 +1,75 @@
+<bill session="113" type="h" number="1496" updated="2014-08-14T13:03:26-04:00">
+  <state datetime="2013-04-11">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-11"/>
+  </status>
+  <introduced datetime="2013-04-11"/>
+  <titles>
+    <title type="short" as="introduced">Pest Free Food Supply Act</title>
+    <title type="official" as="introduced">To require the Administrator of the Environmental Protection Agency to withdraw the proposed order published in the January 19, 2011, Federal Register (76 Fed. Reg. 3422) pertaining to the pesticide sulfuryl fluoride.</title>
+  </titles>
+  <sponsor thomas_id="01979"/>
+  <cosponsors>
+    <cosponsor thomas_id="01780" joined="2013-05-16"/>
+    <cosponsor thomas_id="00091" joined="2013-04-11"/>
+    <cosponsor thomas_id="02129" joined="2013-05-21"/>
+    <cosponsor thomas_id="01882" joined="2013-04-11"/>
+    <cosponsor thomas_id="01925" joined="2013-07-08"/>
+    <cosponsor thomas_id="02151" joined="2013-05-08"/>
+    <cosponsor thomas_id="01774" joined="2013-04-17"/>
+    <cosponsor thomas_id="01989" joined="2013-04-11"/>
+    <cosponsor thomas_id="01995" joined="2013-04-16"/>
+    <cosponsor thomas_id="02057" joined="2013-04-11"/>
+    <cosponsor thomas_id="02064" joined="2013-04-25"/>
+    <cosponsor thomas_id="01707" joined="2013-04-25"/>
+    <cosponsor thomas_id="01922" joined="2013-05-21"/>
+    <cosponsor thomas_id="00636" joined="2013-06-11"/>
+    <cosponsor thomas_id="02100" joined="2013-04-11"/>
+    <cosponsor thomas_id="02050" joined="2013-05-16"/>
+    <cosponsor thomas_id="00666" joined="2013-09-17"/>
+    <cosponsor thomas_id="01885" joined="2013-04-11"/>
+    <cosponsor thomas_id="02059" joined="2013-04-19"/>
+    <cosponsor thomas_id="02034" joined="2013-05-07"/>
+    <cosponsor thomas_id="01514" joined="2013-05-23"/>
+    <cosponsor thomas_id="01802" joined="2013-04-11"/>
+    <cosponsor thomas_id="02022" joined="2013-05-07"/>
+    <cosponsor thomas_id="02017" joined="2013-05-08"/>
+    <cosponsor thomas_id="01950" joined="2013-04-11"/>
+    <cosponsor thomas_id="02009" joined="2013-04-11"/>
+    <cosponsor thomas_id="01722" joined="2013-05-16"/>
+    <cosponsor thomas_id="01860" joined="2013-05-07"/>
+    <cosponsor thomas_id="02000" joined="2013-04-11"/>
+    <cosponsor thomas_id="01981" joined="2013-04-11"/>
+    <cosponsor thomas_id="01566" joined="2013-05-07"/>
+    <cosponsor thomas_id="02105" joined="2013-04-11"/>
+    <cosponsor thomas_id="01779" joined="2013-04-11"/>
+    <cosponsor thomas_id="02008" joined="2013-04-23"/>
+    <cosponsor thomas_id="02115" joined="2013-04-11"/>
+    <cosponsor thomas_id="02019" joined="2013-05-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-11" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-04-12">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Energy and Power" code="HSIF03" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Pest management"/>
+    <term name="Water quality"/>
+  </subjects>
+  <amendments/>
+  <summary>4/11/2013--Introduced.
+Pest Free Food Supply Act - Requires the Administrator of the Environmental Protection Agency (EPA) to withdraw the proposed order published in the January 19, 2011, Federal Register pertaining to sulfuryl fluoride (a pesticide) and flouride tolerences.</summary>
+</bill>

@@ -1,0 +1,68 @@
+<bill session="113" type="h" number="3531" updated="2014-08-14T13:21:37-04:00">
+  <state datetime="2013-11-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-11-19"/>
+  </status>
+  <introduced datetime="2013-11-19"/>
+  <titles>
+    <title type="short" as="introduced">Creating Access to Rehabilitation for Every Senior (CARES) Act of 2013</title>
+    <title type="official" as="introduced">To amend title XVIII of the Social Security Act to eliminate the 3-day prior hospitalization requirement for Medicare coverage of skilled nursing facility services in qualified skilled nursing facilities, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02048"/>
+  <cosponsors>
+    <cosponsor thomas_id="01858" joined="2013-12-10"/>
+    <cosponsor thomas_id="02093" joined="2013-11-19"/>
+    <cosponsor thomas_id="02153" joined="2013-12-10"/>
+    <cosponsor thomas_id="02018" joined="2013-11-19"/>
+    <cosponsor thomas_id="01999" joined="2013-11-19"/>
+    <cosponsor thomas_id="02133" joined="2013-12-02"/>
+    <cosponsor thomas_id="00368" joined="2013-12-10"/>
+    <cosponsor thomas_id="01895" joined="2013-11-19"/>
+    <cosponsor thomas_id="02049" joined="2014-05-29"/>
+    <cosponsor thomas_id="00446" joined="2014-01-07"/>
+    <cosponsor thomas_id="02010" joined="2013-12-02"/>
+    <cosponsor thomas_id="02040" joined="2013-12-02"/>
+    <cosponsor thomas_id="01921" joined="2014-03-12"/>
+    <cosponsor thomas_id="02154" joined="2013-12-10"/>
+    <cosponsor thomas_id="02051" joined="2013-11-19"/>
+    <cosponsor thomas_id="02169" joined="2013-11-19"/>
+    <cosponsor thomas_id="02052" joined="2013-12-02"/>
+    <cosponsor thomas_id="01730" joined="2013-12-02"/>
+    <cosponsor thomas_id="02001" joined="2014-06-09"/>
+    <cosponsor thomas_id="02157" joined="2013-12-10"/>
+    <cosponsor thomas_id="01915" joined="2014-06-11"/>
+    <cosponsor thomas_id="01778" joined="2013-11-19"/>
+    <cosponsor thomas_id="01982" joined="2014-05-29"/>
+    <cosponsor thomas_id="02158" joined="2014-07-08"/>
+    <cosponsor thomas_id="01861" joined="2014-07-22"/>
+    <cosponsor thomas_id="02047" joined="2013-11-19"/>
+    <cosponsor thomas_id="01741" joined="2014-03-14"/>
+    <cosponsor thomas_id="02002" joined="2013-11-19"/>
+    <cosponsor thomas_id="01779" joined="2013-12-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-11-19" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Congressional oversight"/>
+    <term name="Government studies and investigations"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Health care coverage and access"/>
+    <term name="Long-term, rehabilitative, and terminal care"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>11/19/2013--Introduced.
+Creating Access to Rehabilitation for Every Senior (CARES) Act of 2013 - Amends title XVIII (Medicare) of the Social Security Act (SSA) with respect to coverage of extended care services without regard to the three-day prior hospitalization requirement (non-post-hospital extended care services).
+
+Restricts such coverage to non-post-hospital extended care services in a qualified skilled nursing facility.
+
+Directs the Medicare Payment Advisory Commission (MEDPAC) to study the cost of impact of this Act.</summary>
+</bill>

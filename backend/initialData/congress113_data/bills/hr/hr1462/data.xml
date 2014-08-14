@@ -1,0 +1,143 @@
+<bill session="113" type="h" number="1462" updated="2014-08-14T13:03:09-04:00">
+  <state datetime="2013-04-10">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-10"/>
+  </status>
+  <introduced datetime="2013-04-10"/>
+  <titles>
+    <title type="short" as="introduced">RFS Reform Act of 2013</title>
+    <title type="official" as="introduced">To amend the Clean Air Act to eliminate certain requirements under the renewable fuel program, to prohibit the Administrator of the Environmental Protection Agency from approving the introduction into commerce of gasoline that contains greater than 10-volume-percent ethanol, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00446"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2013-05-13"/>
+    <cosponsor thomas_id="02054" joined="2014-07-30"/>
+    <cosponsor thomas_id="02027" joined="2013-04-12"/>
+    <cosponsor thomas_id="01838" joined="2014-03-05"/>
+    <cosponsor thomas_id="01753" joined="2014-07-14"/>
+    <cosponsor thomas_id="01987" joined="2013-05-07"/>
+    <cosponsor thomas_id="01882" joined="2013-05-07"/>
+    <cosponsor thomas_id="01816" joined="2013-04-10"/>
+    <cosponsor thomas_id="01676" joined="2013-05-13"/>
+    <cosponsor thomas_id="00186" joined="2014-06-10"/>
+    <cosponsor thomas_id="01956" joined="2013-04-12"/>
+    <cosponsor thomas_id="01742" joined="2013-10-03"/>
+    <cosponsor thomas_id="02121" joined="2013-04-26"/>
+    <cosponsor thomas_id="01959" joined="2013-05-07"/>
+    <cosponsor thomas_id="00231" joined="2014-07-30"/>
+    <cosponsor thomas_id="01774" joined="2013-04-10"/>
+    <cosponsor thomas_id="01989" joined="2013-04-10"/>
+    <cosponsor thomas_id="01807" joined="2013-04-10"/>
+    <cosponsor thomas_id="00279" joined="2014-05-08"/>
+    <cosponsor thomas_id="01799" joined="2013-08-02"/>
+    <cosponsor thomas_id="01717" joined="2014-05-08"/>
+    <cosponsor thomas_id="02067" joined="2013-04-10"/>
+    <cosponsor thomas_id="02061" joined="2013-12-12"/>
+    <cosponsor thomas_id="02119" joined="2014-07-31"/>
+    <cosponsor thomas_id="02120" joined="2014-07-14"/>
+    <cosponsor thomas_id="01737" joined="2014-05-01"/>
+    <cosponsor thomas_id="02043" joined="2014-02-27"/>
+    <cosponsor thomas_id="01720" joined="2013-05-16"/>
+    <cosponsor thomas_id="01979" joined="2013-04-10"/>
+    <cosponsor thomas_id="01990" joined="2013-04-10"/>
+    <cosponsor thomas_id="02044" joined="2014-06-19"/>
+    <cosponsor thomas_id="02026" joined="2013-04-10"/>
+    <cosponsor thomas_id="02143" joined="2014-03-25"/>
+    <cosponsor thomas_id="02069" joined="2013-04-10"/>
+    <cosponsor thomas_id="02199" joined="2014-05-13"/>
+    <cosponsor thomas_id="00612" joined="2014-05-13"/>
+    <cosponsor thomas_id="02051" joined="2014-07-24"/>
+    <cosponsor thomas_id="00636" joined="2013-05-07"/>
+    <cosponsor thomas_id="02100" joined="2013-04-10"/>
+    <cosponsor thomas_id="02033" joined="2013-04-10"/>
+    <cosponsor thomas_id="02111" joined="2014-06-11"/>
+    <cosponsor thomas_id="01943" joined="2014-07-15"/>
+    <cosponsor thomas_id="01806" joined="2013-12-12"/>
+    <cosponsor thomas_id="02053" joined="2013-04-26"/>
+    <cosponsor thomas_id="01671" joined="2013-04-10"/>
+    <cosponsor thomas_id="01792" joined="2013-10-23"/>
+    <cosponsor thomas_id="02142" joined="2013-06-28"/>
+    <cosponsor thomas_id="01685" joined="2014-05-08"/>
+    <cosponsor thomas_id="00832" joined="2013-04-10"/>
+    <cosponsor thomas_id="02034" joined="2013-10-16"/>
+    <cosponsor thomas_id="01974" joined="2013-05-07"/>
+    <cosponsor thomas_id="01738" joined="2013-04-12"/>
+    <cosponsor thomas_id="01927" joined="2013-05-16"/>
+    <cosponsor thomas_id="02141" joined="2013-04-26"/>
+    <cosponsor thomas_id="01514" joined="2013-04-10"/>
+    <cosponsor thomas_id="01778" joined="2013-05-23"/>
+    <cosponsor thomas_id="02118" joined="2013-09-12"/>
+    <cosponsor thomas_id="02068" joined="2014-03-25"/>
+    <cosponsor thomas_id="01916" joined="2014-05-01"/>
+    <cosponsor thomas_id="02003" joined="2014-03-05"/>
+    <cosponsor thomas_id="02158" joined="2014-06-19"/>
+    <cosponsor thomas_id="02039" joined="2014-01-29"/>
+    <cosponsor thomas_id="01994" joined="2013-09-30"/>
+    <cosponsor thomas_id="02009" joined="2013-04-10"/>
+    <cosponsor thomas_id="01037" joined="2013-05-07"/>
+    <cosponsor thomas_id="01041" joined="2013-04-10"/>
+    <cosponsor thomas_id="01681" joined="2013-05-23"/>
+    <cosponsor thomas_id="01590" joined="2013-09-26"/>
+    <cosponsor thomas_id="02000" joined="2014-04-08"/>
+    <cosponsor thomas_id="01114" joined="2013-05-13"/>
+    <cosponsor thomas_id="01155" joined="2014-04-10"/>
+    <cosponsor thomas_id="02105" joined="2013-04-10"/>
+    <cosponsor thomas_id="02166" joined="2013-05-16"/>
+    <cosponsor thomas_id="01777" joined="2014-05-30"/>
+    <cosponsor thomas_id="01879" joined="2013-04-10"/>
+    <cosponsor thomas_id="01779" joined="2013-04-10"/>
+    <cosponsor thomas_id="02004" joined="2014-07-08"/>
+    <cosponsor thomas_id="01688" joined="2014-06-10"/>
+    <cosponsor thomas_id="01991" joined="2013-04-10"/>
+    <cosponsor thomas_id="02008" joined="2013-10-07"/>
+    <cosponsor thomas_id="02115" joined="2013-04-10"/>
+    <cosponsor thomas_id="02019" joined="2013-04-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-10">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E416"/>
+    </action>
+    <action datetime="2013-04-10" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-04-12">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Energy and Power" code="HSIF03" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="550"/>
+    <bill type="h" session="113" relation="unknown" number="1461"/>
+    <bill type="h" session="113" relation="unknown" number="1482"/>
+    <bill type="s" session="113" relation="unknown" number="251"/>
+    <bill type="s" session="113" relation="unknown" number="344"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Administrative remedies"/>
+    <term name="Air quality"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Climate change and greenhouse gases"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Motor fuels"/>
+  </subjects>
+  <amendments/>
+  <summary>4/10/2013--Introduced.
+RFS Reform Act of 2013 - Amends the Clean Air Act to revise the renewable fuel program. Requires "renewable fuel," beginning on January 1, 2014, to be advanced biofuel.
+
+Revises the renewable fuel standards by: (1) decreasing the volume of renewable fuel that is required to be contained in gasoline sold or introduced into commerce in the United States in 2014 through 2022; and (2) eliminating the separate advanced biofuel volume requirements for those years.
+
+Requires the Administrator of the Energy Information Administration, in estimating the projected volume of cellulosic biofuel production in the next year, to determine for each cellulosic biofuel production facility: (1) the average monthly volume of biofuel produced by such facility based on the actual volume produced through October 31 of the current year, and (2) the estimated annualized volume of biofuel production for such facility for the current year. Requires the estimate of cellulosic biofuel projected to be sold or introduced into commerce in the following year to equal the total of the estimated annual volumes of cellulosic biofuel production for all such facilities.
+
+Requires (currently, authorizes) the Administrator, in any year in which the Administrator reduces the applicable volume of cellulosic biofuel required in gasoline, to also reduce the applicable volume of renewable fuel and advanced biofuels required by the same (currently, by the same or a lesser) volume.
+
+Prohibits the Administrator of the Environmental Protection Agency (EPA) from allowing the introduction into commerce of gasoline containing greater than 10-volume-percent ethanol. Nullifies waivers from requirements for new fuels and fuel additives that were granted before this Act's enactment and that allow the introduction of such gasoline for use in motor vehicles.
+
+Nullifies portions of the rule entitled, "Regulation to Mitigate the Misfueling of Vehicles and Engines with Gasoline Containing Greater Than Ten Volume Percent Ethanol and Modifications to the Reformulated and Conventional Gasoline Programs."</summary>
+</bill>

@@ -1,0 +1,87 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-17", 
+      "committees": [
+        "HSBA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Financial Services.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-07-30", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Committee Consideration and Mark-up Session Held.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-30", 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Ordered to be Reported by the Yeas and Nays: 31 - 23.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5148-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "House Financial Services", 
+      "committee_id": "HSBA"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": true, 
+    "active_at": "2014-07-30", 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-07-17", 
+  "number": "5148", 
+  "official_title": "To amend the Truth in Lending Act to exempt certain higher-risk mortgages from property appraisal requirements and to exempt individuals from penalties for failure to report certain appraisers, and to amend the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 to exempt certain higher-risk mortgages from property appraisal requirements, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Access to Affordable Mortgages Act of 2014", 
+  "sponsor": {
+    "district": "3", 
+    "name": "Luetkemeyer, Blaine", 
+    "state": "MO", 
+    "thomas_id": "01931", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2014-07-30", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Access to Affordable Mortgages Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Truth in Lending Act to exempt certain higher-risk mortgages from property appraisal requirements and to exempt individuals from penalties for failure to report certain appraisers, and to amend the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 to exempt certain higher-risk mortgages from property appraisal requirements, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T13:35:24-04:00"
+}

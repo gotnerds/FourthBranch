@@ -1,0 +1,68 @@
+<bill session="113" type="h" number="4648" updated="2014-08-14T13:31:01-04:00">
+  <state datetime="2014-05-09">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-09"/>
+  </status>
+  <introduced datetime="2014-05-09"/>
+  <titles>
+    <title type="short" as="introduced">Renewable Energy Jobs Act</title>
+    <title type="official" as="introduced">To provide for the establishment of a pilot program to train individuals for employment in the renewable energy and energy efficiency industries.</title>
+  </titles>
+  <sponsor thomas_id="02109"/>
+  <cosponsors>
+    <cosponsor thomas_id="02106" joined="2014-06-05"/>
+    <cosponsor thomas_id="02127" joined="2014-05-09"/>
+    <cosponsor thomas_id="01471" joined="2014-05-09"/>
+    <cosponsor thomas_id="02107" joined="2014-05-09"/>
+    <cosponsor thomas_id="02163" joined="2014-05-09"/>
+    <cosponsor thomas_id="01474" joined="2014-05-09"/>
+    <cosponsor thomas_id="00355" joined="2014-06-05"/>
+    <cosponsor thomas_id="01973" joined="2014-05-09"/>
+    <cosponsor thomas_id="01803" joined="2014-05-09"/>
+    <cosponsor thomas_id="00462" joined="2014-05-09"/>
+    <cosponsor thomas_id="00478" joined="2014-05-09"/>
+    <cosponsor thomas_id="02089" joined="2014-05-09"/>
+    <cosponsor thomas_id="00511" joined="2014-05-09"/>
+    <cosponsor thomas_id="01634" joined="2014-05-09"/>
+    <cosponsor thomas_id="02147" joined="2014-05-09"/>
+    <cosponsor thomas_id="02101" joined="2014-05-09"/>
+    <cosponsor thomas_id="01501" joined="2014-05-09"/>
+    <cosponsor thomas_id="01846" joined="2014-05-09"/>
+    <cosponsor thomas_id="00701" joined="2014-05-09"/>
+    <cosponsor thomas_id="01814" joined="2014-05-09"/>
+    <cosponsor thomas_id="01602" joined="2014-05-09"/>
+    <cosponsor thomas_id="02108" joined="2014-05-09"/>
+    <cosponsor thomas_id="00868" joined="2014-06-05"/>
+    <cosponsor thomas_id="00893" joined="2014-05-09"/>
+    <cosponsor thomas_id="00997" joined="2014-05-09"/>
+    <cosponsor thomas_id="01756" joined="2014-05-09"/>
+    <cosponsor thomas_id="01861" joined="2014-06-05"/>
+    <cosponsor thomas_id="01818" joined="2014-05-09"/>
+    <cosponsor thomas_id="02104" joined="2014-05-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-09" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2014-06-13">
+      <text>Referred to the Subcommittee on Higher Education and Workforce Training.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee subcommittee="Higher Education and Workforce Training" code="HSED13" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Building construction"/>
+    <term name="Electric power generation and transmission"/>
+    <term name="Employment and training programs"/>
+    <term name="Energy efficiency and conservation"/>
+    <term name="Environmental technology"/>
+    <term name="Residential rehabilitation and home repair"/>
+    <term name="Vocational education"/>
+  </subjects>
+  <amendments/>
+</bill>

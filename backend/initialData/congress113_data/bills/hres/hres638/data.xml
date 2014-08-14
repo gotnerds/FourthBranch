@@ -1,0 +1,39 @@
+<bill session="113" type="hr" number="638" updated="2014-08-14T12:50:02-04:00">
+  <state datetime="2014-06-23">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-23"/>
+  </status>
+  <introduced datetime="2014-06-23"/>
+  <titles>
+    <title type="official" as="introduced">Commemorating President Gerald R. Ford and the invaluable impact of his service to the United States in honor of the 40th anniversary of his Presidency.</title>
+  </titles>
+  <sponsor thomas_id="02028"/>
+  <cosponsors>
+    <cosponsor thomas_id="02029" joined="2014-06-23"/>
+    <cosponsor thomas_id="02027" joined="2014-06-23"/>
+    <cosponsor thomas_id="02135" joined="2014-06-23"/>
+    <cosponsor thomas_id="00166" joined="2014-06-23"/>
+    <cosponsor thomas_id="00229" joined="2014-06-23"/>
+    <cosponsor thomas_id="00299" joined="2014-06-23"/>
+    <cosponsor thomas_id="02134" joined="2014-06-23"/>
+    <cosponsor thomas_id="00683" joined="2014-06-23"/>
+    <cosponsor thomas_id="01731" joined="2014-06-23"/>
+    <cosponsor thomas_id="01929" joined="2014-06-23"/>
+    <cosponsor thomas_id="01651" joined="2014-06-23"/>
+    <cosponsor thomas_id="01177" joined="2014-06-23"/>
+    <cosponsor thomas_id="01855" joined="2014-06-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-23" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>6/23/2014--Introduced.
+Commemorates the presidency of Gerald R. Ford and his extraordinary contributions to the United States.</summary>
+</bill>

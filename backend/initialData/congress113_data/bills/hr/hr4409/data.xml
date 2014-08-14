@@ -1,0 +1,40 @@
+<bill session="113" type="h" number="4409" updated="2014-08-14T13:29:00-04:00">
+  <state datetime="2014-04-04">REFERRED</state>
+  <status>
+    <introduced datetime="2014-04-04"/>
+  </status>
+  <introduced datetime="2014-04-04"/>
+  <titles>
+    <title type="official" as="introduced">To award posthumously a Congressional Gold Medal, collectively, to James Chaney, Andrew Goodman, and Michael Schwerner to commemorate the lives they lost 50 years ago in an effort to bring justice and equality to Americans in Mississippi during Freedom Summer.</title>
+  </titles>
+  <sponsor thomas_id="01151"/>
+  <cosponsors>
+    <cosponsor thomas_id="01933" joined="2014-04-04"/>
+    <cosponsor thomas_id="00688" joined="2014-04-04"/>
+    <cosponsor thomas_id="02034" joined="2014-04-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-04-04" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Crime victims"/>
+    <term name="Mississippi"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="U.S. history"/>
+    <term name="Violent crime"/>
+  </subjects>
+  <amendments/>
+  <summary>4/4/2014--Introduced.
+Directs the Speaker of the House of Representatives and the President pro tempore of the Senate to arrange for the posthumous presentation of a congressional gold medal, collectively, to James Chaney, Andrew Goodman, and Michael Schwerner to commemorate the lives they lost 50 years ago in an effort to bring justice and equality to Americans in Mississippi during Freedom Summer.
+
+Requires such medal, following its award, to be given to Tougaloo College in Tougaloo, Mississippi.</summary>
+</bill>

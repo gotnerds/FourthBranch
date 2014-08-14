@@ -1,0 +1,37 @@
+<bill session="113" type="s" number="2308" updated="2014-08-14T14:04:31-04:00">
+  <state datetime="2014-05-08">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-08"/>
+  </status>
+  <introduced datetime="2014-05-08"/>
+  <titles>
+    <title type="official" as="introduced">A bill to designate Union Station in Washington, DC, as "Harry S. Truman Union Station".</title>
+  </titles>
+  <sponsor thomas_id="01820"/>
+  <cosponsors>
+    <cosponsor thomas_id="01464" joined="2014-05-08"/>
+    <cosponsor thomas_id="01384" joined="2014-05-08"/>
+    <cosponsor thomas_id="01424" joined="2014-05-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-08" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="4638"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Congressional tributes"/>
+    <term name="District of Columbia"/>
+    <term name="Presidents and presidential powers"/>
+    <term name="Railroads"/>
+  </subjects>
+  <amendments/>
+  <summary>5/8/2014--Introduced.
+Designates Union Station, located at 40 Massachusetts Avenue, NE., Washington, DC, as the "Harry S. Truman Union Station."</summary>
+</bill>

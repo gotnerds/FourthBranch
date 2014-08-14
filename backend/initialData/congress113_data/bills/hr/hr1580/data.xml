@@ -1,0 +1,106 @@
+<bill session="113" type="h" number="1580" updated="2014-08-14T13:04:08-04:00">
+  <state datetime="2013-05-14T19:02:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2013-05-14T19:02:00-04:00"/>
+  </status>
+  <introduced datetime="2013-04-16"/>
+  <titles>
+    <title type="official" as="introduced">To affirm the policy of the United States regarding Internet governance.</title>
+  </titles>
+  <sponsor thomas_id="01596"/>
+  <cosponsors>
+    <cosponsor thomas_id="00062" joined="2013-04-16"/>
+    <cosponsor thomas_id="01838" joined="2013-04-16"/>
+    <cosponsor thomas_id="01748" joined="2013-04-16"/>
+    <cosponsor thomas_id="01751" joined="2013-04-16"/>
+    <cosponsor thomas_id="01925" joined="2013-04-16"/>
+    <cosponsor thomas_id="01474" joined="2013-04-16"/>
+    <cosponsor thomas_id="00299" joined="2013-04-16"/>
+    <cosponsor thomas_id="02036" joined="2013-04-16"/>
+    <cosponsor thomas_id="00355" joined="2013-04-16"/>
+    <cosponsor thomas_id="01998" joined="2013-04-16"/>
+    <cosponsor thomas_id="01720" joined="2013-04-16"/>
+    <cosponsor thomas_id="00462" joined="2013-04-16"/>
+    <cosponsor thomas_id="01922" joined="2013-04-16"/>
+    <cosponsor thomas_id="00484" joined="2013-04-16"/>
+    <cosponsor thomas_id="02046" joined="2013-04-16"/>
+    <cosponsor thomas_id="02014" joined="2013-04-16"/>
+    <cosponsor thomas_id="01936" joined="2013-04-16"/>
+    <cosponsor thomas_id="01885" joined="2013-04-16"/>
+    <cosponsor thomas_id="02033" joined="2013-04-16"/>
+    <cosponsor thomas_id="01814" joined="2013-04-16"/>
+    <cosponsor thomas_id="02074" joined="2013-04-16"/>
+    <cosponsor thomas_id="01744" joined="2013-04-16"/>
+    <cosponsor thomas_id="01955" joined="2013-04-16"/>
+    <cosponsor thomas_id="01514" joined="2013-04-16"/>
+    <cosponsor thomas_id="01802" joined="2013-04-16"/>
+    <cosponsor thomas_id="02022" joined="2013-04-16"/>
+    <cosponsor thomas_id="01651" joined="2013-04-16"/>
+    <cosponsor thomas_id="00998" joined="2013-04-16"/>
+    <cosponsor thomas_id="01892" joined="2013-04-16"/>
+    <cosponsor thomas_id="01527" joined="2013-04-16"/>
+    <cosponsor thomas_id="01566" joined="2013-04-16"/>
+    <cosponsor thomas_id="01879" joined="2013-04-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-16" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-04-16">
+      <text>Referred to the Subcommittee on Communications and Technology.</text>
+    </action>
+    <action datetime="2013-04-17">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2013-04-17" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+    <action datetime="2013-05-03T12:16:00-04:00">
+      <text>Reported by the Committee on Energy and Commerce. H. Rept. 113-50.</text>
+    </action>
+    <calendar datetime="2013-05-03T12:16:00-04:00" calendar="House" number="21">
+      <text>Placed on the House Calendar, Calendar No. 21.</text>
+    </calendar>
+    <action datetime="2013-05-14T17:17:00-04:00">
+      <text>Mr. Walden moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2013-05-14T17:17:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2582-2584" label="consideration"/>
+    </action>
+    <action datetime="2013-05-14T17:17:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 1580.</text>
+    </action>
+    <action datetime="2013-05-14T17:29:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2013-05-14T18:54:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H2587" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="145" datetime="2013-05-14T19:02:00-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 145).</text>
+      <reference ref="CR H2582" label="text"/>
+    </vote>
+    <action datetime="2013-05-14T19:02:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2013-05-15">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee subcommittee="Communications and Technology" code="HSIF16" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Internet and video services"/>
+  </subjects>
+  <amendments/>
+  <summary>5/14/2013--Passed House without amendment.
+Declares that it is the policy of the United States to preserve and advance the successful multistakeholder model (under which the private sector, civil society, academia, and individual users operate in an environment where information flows free from government control over content or the freedom of expression) that governs the Internet.</summary>
+</bill>

@@ -1,0 +1,107 @@
+<bill session="113" type="s" number="635" updated="2014-08-14T13:50:08-04:00">
+  <state datetime="2013-03-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-21"/>
+  </status>
+  <introduced datetime="2013-03-21"/>
+  <titles>
+    <title type="short" as="introduced">Privacy Notice Modernization Act of 2013</title>
+    <title type="official" as="introduced">A bill to amend the Gramm-Leach-Bliley Act to provide an exception to the annual written privacy notice requirement.</title>
+  </titles>
+  <sponsor thomas_id="00136"/>
+  <cosponsors>
+    <cosponsor thomas_id="01695" joined="2014-04-01"/>
+    <cosponsor thomas_id="02075" joined="2013-09-10"/>
+    <cosponsor thomas_id="01881" joined="2013-04-23"/>
+    <cosponsor thomas_id="01898" joined="2013-04-25"/>
+    <cosponsor thomas_id="01965" joined="2014-03-26"/>
+    <cosponsor thomas_id="01464" joined="2013-03-21"/>
+    <cosponsor thomas_id="01687" joined="2013-04-25"/>
+    <cosponsor thomas_id="00116" joined="2013-12-11"/>
+    <cosponsor thomas_id="00153" joined="2013-10-29"/>
+    <cosponsor thomas_id="00172" joined="2014-05-22"/>
+    <cosponsor thomas_id="00179" joined="2013-10-11"/>
+    <cosponsor thomas_id="01828" joined="2014-04-30"/>
+    <cosponsor thomas_id="00188" joined="2013-04-15"/>
+    <cosponsor thomas_id="00209" joined="2013-11-04"/>
+    <cosponsor thomas_id="00212" joined="2014-03-25"/>
+    <cosponsor thomas_id="00213" joined="2014-04-29"/>
+    <cosponsor thomas_id="01541" joined="2013-11-19"/>
+    <cosponsor thomas_id="01984" joined="2013-07-17"/>
+    <cosponsor thomas_id="01825" joined="2014-04-29"/>
+    <cosponsor thomas_id="00250" joined="2013-10-28"/>
+    <cosponsor thomas_id="02175" joined="2014-06-05"/>
+    <cosponsor thomas_id="00326" joined="2014-06-05"/>
+    <cosponsor thomas_id="01542" joined="2013-09-23"/>
+    <cosponsor thomas_id="02179" joined="2014-04-03"/>
+    <cosponsor thomas_id="01633" joined="2013-04-15"/>
+    <cosponsor thomas_id="01969" joined="2013-07-08"/>
+    <cosponsor thomas_id="01866" joined="2014-07-31"/>
+    <cosponsor thomas_id="00457" joined="2014-03-24"/>
+    <cosponsor thomas_id="01937" joined="2014-03-25"/>
+    <cosponsor thomas_id="02174" joined="2013-03-21"/>
+    <cosponsor thomas_id="01863" joined="2013-04-15"/>
+    <cosponsor thomas_id="01844" joined="2014-03-26"/>
+    <cosponsor thomas_id="02079" joined="2014-03-12"/>
+    <cosponsor thomas_id="00583" joined="2014-02-27"/>
+    <cosponsor thomas_id="01608" joined="2013-05-14"/>
+    <cosponsor thomas_id="01899" joined="2013-03-21"/>
+    <cosponsor thomas_id="02086" joined="2013-06-18"/>
+    <cosponsor thomas_id="00604" joined="2013-10-28"/>
+    <cosponsor thomas_id="02176" joined="2013-11-21"/>
+    <cosponsor thomas_id="02185" joined="2013-04-23"/>
+    <cosponsor thomas_id="01647" joined="2014-03-24"/>
+    <cosponsor thomas_id="01826" joined="2014-06-02"/>
+    <cosponsor thomas_id="01546" joined="2013-08-01"/>
+    <cosponsor thomas_id="01983" joined="2013-09-27"/>
+    <cosponsor thomas_id="00754" joined="2014-02-12"/>
+    <cosponsor thomas_id="01820" joined="2013-05-14"/>
+    <cosponsor thomas_id="01395" joined="2014-06-05"/>
+    <cosponsor thomas_id="01900" joined="2013-10-29"/>
+    <cosponsor thomas_id="01507" joined="2013-03-21"/>
+    <cosponsor thomas_id="01694" joined="2013-05-14"/>
+    <cosponsor thomas_id="01837" joined="2013-04-25"/>
+    <cosponsor thomas_id="00859" joined="2013-08-01"/>
+    <cosponsor thomas_id="00924" joined="2013-04-25"/>
+    <cosponsor thomas_id="01701" joined="2013-09-18"/>
+    <cosponsor thomas_id="01896" joined="2013-10-31"/>
+    <cosponsor thomas_id="00968" joined="2014-05-12"/>
+    <cosponsor thomas_id="02084" joined="2013-04-15"/>
+    <cosponsor thomas_id="02173" joined="2014-03-26"/>
+    <cosponsor thomas_id="02056" joined="2013-09-23"/>
+    <cosponsor thomas_id="01548" joined="2013-07-17"/>
+    <cosponsor thomas_id="01901" joined="2014-04-03"/>
+    <cosponsor thomas_id="01531" joined="2014-06-19"/>
+    <cosponsor thomas_id="01829" joined="2013-03-21"/>
+    <cosponsor thomas_id="01534" joined="2013-06-18"/>
+    <cosponsor thomas_id="02085" joined="2013-03-21"/>
+    <cosponsor thomas_id="01595" joined="2014-04-29"/>
+    <cosponsor thomas_id="01567" joined="2013-07-08"/>
+    <cosponsor thomas_id="02198" joined="2014-05-12"/>
+    <cosponsor thomas_id="01897" joined="2013-03-21"/>
+    <cosponsor thomas_id="02182" joined="2013-09-26"/>
+    <cosponsor thomas_id="01823" joined="2014-02-27"/>
+    <cosponsor thomas_id="01226" joined="2014-02-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="749"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Consumer affairs"/>
+    <term name="Consumer credit"/>
+    <term name="Right of privacy"/>
+  </subjects>
+  <amendments/>
+  <summary>3/21/2013--Introduced.
+Privacy Notice Modernization Act of 2013 - Amends the Gramm-Leach-Bliley Act to exempt from its annual written privacy policy notice requirement any financial institution which: (1) provides nonpublic personal information only in accordance with specified requirements, (2) has not changed its policies and practices with respect to disclosing nonpublic personal information from those disclosed in the most recent disclosure sent to consumers, and (3) otherwise provides customers access to such most recent disclosure in electronic or other form permitted by specified regulations.</summary>
+</bill>

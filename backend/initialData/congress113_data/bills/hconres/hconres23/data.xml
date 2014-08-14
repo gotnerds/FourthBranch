@@ -1,0 +1,187 @@
+<bill session="113" type="hc" number="23" updated="2014-08-14T13:38:47-04:00">
+  <state datetime="2013-03-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-13"/>
+  </status>
+  <introduced datetime="2013-03-13"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of Congress regarding the conditions for the United States becoming a signatory to the United Nations Arms Trade Treaty, or to any similar agreement on the arms trade.</title>
+  </titles>
+  <sponsor thomas_id="02051"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2013-03-13"/>
+    <cosponsor thomas_id="01858" joined="2013-03-13"/>
+    <cosponsor thomas_id="02054" joined="2013-03-13"/>
+    <cosponsor thomas_id="02131" joined="2013-04-24"/>
+    <cosponsor thomas_id="00062" joined="2013-03-13"/>
+    <cosponsor thomas_id="02027" joined="2013-03-13"/>
+    <cosponsor thomas_id="02135" joined="2013-03-13"/>
+    <cosponsor thomas_id="01838" joined="2013-03-13"/>
+    <cosponsor thomas_id="01753" joined="2013-03-13"/>
+    <cosponsor thomas_id="01748" joined="2013-03-13"/>
+    <cosponsor thomas_id="01787" joined="2013-03-13"/>
+    <cosponsor thomas_id="01468" joined="2013-03-13"/>
+    <cosponsor thomas_id="02155" joined="2013-03-13"/>
+    <cosponsor thomas_id="01987" joined="2013-03-13"/>
+    <cosponsor thomas_id="01882" joined="2013-03-13"/>
+    <cosponsor thomas_id="02018" joined="2013-03-13"/>
+    <cosponsor thomas_id="01751" joined="2013-03-13"/>
+    <cosponsor thomas_id="00165" joined="2013-03-13"/>
+    <cosponsor thomas_id="00166" joined="2013-03-21"/>
+    <cosponsor thomas_id="01676" joined="2013-03-13"/>
+    <cosponsor thomas_id="01752" joined="2013-03-13"/>
+    <cosponsor thomas_id="01925" joined="2014-05-19"/>
+    <cosponsor thomas_id="00186" joined="2013-03-13"/>
+    <cosponsor thomas_id="02151" joined="2013-09-25"/>
+    <cosponsor thomas_id="01805" joined="2013-03-13"/>
+    <cosponsor thomas_id="02098" joined="2013-03-13"/>
+    <cosponsor thomas_id="01989" joined="2013-03-13"/>
+    <cosponsor thomas_id="01670" joined="2013-03-13"/>
+    <cosponsor thomas_id="02138" joined="2013-03-13"/>
+    <cosponsor thomas_id="02126" joined="2013-06-03"/>
+    <cosponsor thomas_id="02116" joined="2013-03-13"/>
+    <cosponsor thomas_id="02062" joined="2013-03-13"/>
+    <cosponsor thomas_id="02072" joined="2013-06-06"/>
+    <cosponsor thomas_id="02057" joined="2013-03-13"/>
+    <cosponsor thomas_id="00322" joined="2013-03-13"/>
+    <cosponsor thomas_id="02036" joined="2013-03-13"/>
+    <cosponsor thomas_id="02067" joined="2013-03-13"/>
+    <cosponsor thomas_id="02064" joined="2013-03-13"/>
+    <cosponsor thomas_id="02061" joined="2013-03-13"/>
+    <cosponsor thomas_id="01924" joined="2013-03-13"/>
+    <cosponsor thomas_id="02065" joined="2013-03-13"/>
+    <cosponsor thomas_id="01683" joined="2013-03-13"/>
+    <cosponsor thomas_id="01707" joined="2013-03-13"/>
+    <cosponsor thomas_id="01998" joined="2013-03-13"/>
+    <cosponsor thomas_id="01737" joined="2013-03-13"/>
+    <cosponsor thomas_id="02049" joined="2013-04-10"/>
+    <cosponsor thomas_id="01720" joined="2013-03-13"/>
+    <cosponsor thomas_id="01801" joined="2013-03-13"/>
+    <cosponsor thomas_id="00446" joined="2013-05-14"/>
+    <cosponsor thomas_id="01992" joined="2013-03-13"/>
+    <cosponsor thomas_id="01656" joined="2013-03-13"/>
+    <cosponsor thomas_id="01990" joined="2013-03-13"/>
+    <cosponsor thomas_id="02070" joined="2013-03-13"/>
+    <cosponsor thomas_id="01922" joined="2013-03-15"/>
+    <cosponsor thomas_id="00484" joined="2013-04-11"/>
+    <cosponsor thomas_id="02026" joined="2013-03-13"/>
+    <cosponsor thomas_id="02032" joined="2013-03-13"/>
+    <cosponsor thomas_id="02040" joined="2013-03-25"/>
+    <cosponsor thomas_id="01749" joined="2013-06-10"/>
+    <cosponsor thomas_id="02143" joined="2013-03-13"/>
+    <cosponsor thomas_id="02140" joined="2013-04-09"/>
+    <cosponsor thomas_id="02020" joined="2013-03-13"/>
+    <cosponsor thomas_id="02028" joined="2013-03-13"/>
+    <cosponsor thomas_id="02015" joined="2013-03-13"/>
+    <cosponsor thomas_id="01909" joined="2013-03-13"/>
+    <cosponsor thomas_id="01921" joined="2013-03-13"/>
+    <cosponsor thomas_id="02046" joined="2013-03-13"/>
+    <cosponsor thomas_id="00612" joined="2013-03-13"/>
+    <cosponsor thomas_id="01868" joined="2013-03-13"/>
+    <cosponsor thomas_id="02154" joined="2013-07-09"/>
+    <cosponsor thomas_id="01724" joined="2013-03-13"/>
+    <cosponsor thomas_id="00636" joined="2013-04-15"/>
+    <cosponsor thomas_id="02014" joined="2013-03-20"/>
+    <cosponsor thomas_id="01733" joined="2013-03-13"/>
+    <cosponsor thomas_id="02100" joined="2013-03-13"/>
+    <cosponsor thomas_id="01834" joined="2013-03-13"/>
+    <cosponsor thomas_id="02050" joined="2013-03-13"/>
+    <cosponsor thomas_id="01885" joined="2013-03-13"/>
+    <cosponsor thomas_id="02033" joined="2013-03-13"/>
+    <cosponsor thomas_id="00711" joined="2013-04-12"/>
+    <cosponsor thomas_id="01931" joined="2013-03-13"/>
+    <cosponsor thomas_id="01806" joined="2013-03-13"/>
+    <cosponsor thomas_id="02053" joined="2013-03-13"/>
+    <cosponsor thomas_id="02094" joined="2013-04-10"/>
+    <cosponsor thomas_id="01804" joined="2013-03-13"/>
+    <cosponsor thomas_id="01908" joined="2013-03-13"/>
+    <cosponsor thomas_id="02074" joined="2013-03-13"/>
+    <cosponsor thomas_id="02142" joined="2013-03-13"/>
+    <cosponsor thomas_id="02130" joined="2013-03-13"/>
+    <cosponsor thomas_id="01730" joined="2013-03-13"/>
+    <cosponsor thomas_id="01685" joined="2013-03-13"/>
+    <cosponsor thomas_id="02156" joined="2013-03-13"/>
+    <cosponsor thomas_id="02059" joined="2013-03-13"/>
+    <cosponsor thomas_id="01758" joined="2013-03-13"/>
+    <cosponsor thomas_id="02060" joined="2013-03-13"/>
+    <cosponsor thomas_id="02001" joined="2013-03-13"/>
+    <cosponsor thomas_id="02034" joined="2013-03-13"/>
+    <cosponsor thomas_id="01955" joined="2013-03-13"/>
+    <cosponsor thomas_id="01974" joined="2013-06-03"/>
+    <cosponsor thomas_id="02035" joined="2013-03-13"/>
+    <cosponsor thomas_id="01738" joined="2013-03-13"/>
+    <cosponsor thomas_id="02157" joined="2013-03-13"/>
+    <cosponsor thomas_id="02141" joined="2013-03-13"/>
+    <cosponsor thomas_id="01514" joined="2013-04-10"/>
+    <cosponsor thomas_id="01802" joined="2013-03-13"/>
+    <cosponsor thomas_id="02022" joined="2013-03-13"/>
+    <cosponsor thomas_id="01915" joined="2013-03-13"/>
+    <cosponsor thomas_id="02118" joined="2013-03-13"/>
+    <cosponsor thomas_id="00940" joined="2013-03-13"/>
+    <cosponsor thomas_id="01982" joined="2013-03-13"/>
+    <cosponsor thomas_id="02073" joined="2013-04-10"/>
+    <cosponsor thomas_id="01986" joined="2013-07-08"/>
+    <cosponsor thomas_id="01954" joined="2013-03-13"/>
+    <cosponsor thomas_id="01704" joined="2013-03-13"/>
+    <cosponsor thomas_id="02017" joined="2013-03-19"/>
+    <cosponsor thomas_id="01848" joined="2013-04-17"/>
+    <cosponsor thomas_id="02003" joined="2013-03-13"/>
+    <cosponsor thomas_id="02158" joined="2013-03-13"/>
+    <cosponsor thomas_id="01009" joined="2013-03-13"/>
+    <cosponsor thomas_id="01892" joined="2013-03-13"/>
+    <cosponsor thomas_id="01994" joined="2013-03-13"/>
+    <cosponsor thomas_id="02009" joined="2013-03-13"/>
+    <cosponsor thomas_id="01525" joined="2013-03-13"/>
+    <cosponsor thomas_id="01527" joined="2013-03-13"/>
+    <cosponsor thomas_id="01590" joined="2013-10-22"/>
+    <cosponsor thomas_id="01860" joined="2013-03-13"/>
+    <cosponsor thomas_id="01075" joined="2013-04-16"/>
+    <cosponsor thomas_id="02000" joined="2013-03-13"/>
+    <cosponsor thomas_id="02168" joined="2013-03-13"/>
+    <cosponsor thomas_id="02047" joined="2013-03-13"/>
+    <cosponsor thomas_id="01114" joined="2013-03-13"/>
+    <cosponsor thomas_id="01981" joined="2013-03-13"/>
+    <cosponsor thomas_id="01952" joined="2013-03-13"/>
+    <cosponsor thomas_id="01155" joined="2013-03-13"/>
+    <cosponsor thomas_id="01664" joined="2013-03-13"/>
+    <cosponsor thomas_id="01997" joined="2013-03-25"/>
+    <cosponsor thomas_id="02137" joined="2013-03-13"/>
+    <cosponsor thomas_id="01855" joined="2013-03-13"/>
+    <cosponsor thomas_id="02128" joined="2013-03-19"/>
+    <cosponsor thomas_id="02161" joined="2013-03-13"/>
+    <cosponsor thomas_id="02152" joined="2013-03-13"/>
+    <cosponsor thomas_id="01779" joined="2013-03-13"/>
+    <cosponsor thomas_id="01222" joined="2013-03-13"/>
+    <cosponsor thomas_id="01688" joined="2013-03-13"/>
+    <cosponsor thomas_id="01886" joined="2013-03-13"/>
+    <cosponsor thomas_id="01991" joined="2013-03-13"/>
+    <cosponsor thomas_id="02008" joined="2013-04-16"/>
+    <cosponsor thomas_id="02021" joined="2013-03-13"/>
+    <cosponsor thomas_id="02115" joined="2013-03-13"/>
+    <cosponsor thomas_id="01255" joined="2013-03-13"/>
+    <cosponsor thomas_id="01256" joined="2013-03-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-13" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="sc" session="113" relation="identical" number="7"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Arms control and nonproliferation"/>
+    <term name="Congressional oversight"/>
+    <term name="Firearms and explosives"/>
+    <term name="International law and treaties"/>
+    <term name="Military assistance, sales, and agreements"/>
+    <term name="Trade agreements and negotiations"/>
+  </subjects>
+  <amendments/>
+  <summary>3/13/2013--Introduced.
+Expresses the sense of Congress that: (1) the President should not sign the Arms Trade Treaty, and that, if he transmits the Treaty with his signature to the Senate, the Senate should not ratify it; and (2) until the Treaty has been signed by the President, received the advice and consent of the Senate, and has been the subject of implementing legislation by Congress, no federal funds should be appropriated or authorized to implement the Treaty, or any similar agreement, or to conduct activities relevant to the Treaty, or any similar agreement.</summary>
+</bill>

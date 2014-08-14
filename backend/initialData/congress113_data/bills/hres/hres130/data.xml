@@ -1,0 +1,58 @@
+<bill session="113" type="hr" number="130" updated="2014-08-14T12:45:45-04:00">
+  <state datetime="2013-03-20">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-20"/>
+  </status>
+  <introduced datetime="2013-03-20"/>
+  <titles>
+    <title type="official" as="introduced">Recognizing the cultural and historical significance of Nowruz and acknowledging the Cyrus Cylinder as a symbol of respect for human rights and religious tolerance.</title>
+  </titles>
+  <sponsor thomas_id="01209"/>
+  <cosponsors>
+    <cosponsor thomas_id="02135" joined="2013-03-20"/>
+    <cosponsor thomas_id="02107" joined="2013-03-20"/>
+    <cosponsor thomas_id="01889" joined="2013-03-20"/>
+    <cosponsor thomas_id="01864" joined="2013-03-20"/>
+    <cosponsor thomas_id="01959" joined="2013-03-20"/>
+    <cosponsor thomas_id="02133" joined="2013-03-21"/>
+    <cosponsor thomas_id="01894" joined="2013-03-20"/>
+    <cosponsor thomas_id="01634" joined="2013-03-20"/>
+    <cosponsor thomas_id="00701" joined="2013-04-12"/>
+    <cosponsor thomas_id="00729" joined="2013-03-20"/>
+    <cosponsor thomas_id="00800" joined="2013-03-20"/>
+    <cosponsor thomas_id="01848" joined="2013-03-20"/>
+    <cosponsor thomas_id="01526" joined="2013-03-20"/>
+    <cosponsor thomas_id="01890" joined="2013-03-20"/>
+    <cosponsor thomas_id="01114" joined="2013-04-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-20" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2013-05-06">
+      <text>Referred to the Subcommittee on Africa, Global Health, Global Human Rights and International Organizations.</text>
+    </action>
+    <action datetime="2013-05-06">
+      <text>Referred to the Subcommittee on Middle East and North Africa.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee subcommittee="Africa, Global Health, Global Human Rights and International Organizations" code="HSFA16" name="House Foreign Affairs" activity="Referral"/>
+    <committee subcommittee="Middle East and North Africa" code="HSFA13" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Arts, culture, religion"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Historical and cultural resources"/>
+    <term name="Human rights"/>
+    <term name="Iran"/>
+    <term name="Middle East"/>
+    <term name="Museums, exhibitions, cultural centers"/>
+    <term name="Religion"/>
+  </subjects>
+  <amendments/>
+  <summary>3/20/2013--Introduced.
+Recognizes: (1) the cultural and historical significance of Nowruz; (2) the aspirations of all people, including the people of Iran, for human rights and religious tolerance as embodied by the Cyrus Cylinder; and (3) the tour of the Cyrus Cylinder throughout the United States.</summary>
+</bill>

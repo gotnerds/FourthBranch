@@ -1,0 +1,69 @@
+<bill session="113" type="hr" number="355" updated="2014-08-14T12:47:39-04:00">
+  <state datetime="2013-09-25">REFERRED</state>
+  <status>
+    <introduced datetime="2013-09-25"/>
+  </status>
+  <introduced datetime="2013-09-25"/>
+  <titles>
+    <title type="official" as="introduced">Commemorating the 20th anniversary of the establishment of the Corporation for National and Community Service.</title>
+  </titles>
+  <sponsor thomas_id="02159"/>
+  <cosponsors>
+    <cosponsor thomas_id="01723" joined="2013-09-25"/>
+    <cosponsor thomas_id="02107" joined="2013-09-25"/>
+    <cosponsor thomas_id="02163" joined="2013-09-25"/>
+    <cosponsor thomas_id="02055" joined="2013-09-25"/>
+    <cosponsor thomas_id="01864" joined="2013-09-25"/>
+    <cosponsor thomas_id="01878" joined="2013-09-25"/>
+    <cosponsor thomas_id="00281" joined="2013-09-25"/>
+    <cosponsor thomas_id="02096" joined="2013-09-25"/>
+    <cosponsor thomas_id="00368" joined="2013-09-25"/>
+    <cosponsor thomas_id="01580" joined="2013-10-04"/>
+    <cosponsor thomas_id="01634" joined="2013-09-25"/>
+    <cosponsor thomas_id="00588" joined="2013-09-25"/>
+    <cosponsor thomas_id="01501" joined="2013-09-25"/>
+    <cosponsor thomas_id="01846" joined="2013-09-25"/>
+    <cosponsor thomas_id="02111" joined="2013-10-04"/>
+    <cosponsor thomas_id="01653" joined="2013-09-25"/>
+    <cosponsor thomas_id="01504" joined="2013-09-25"/>
+    <cosponsor thomas_id="00868" joined="2013-09-25"/>
+    <cosponsor thomas_id="02171" joined="2013-10-04"/>
+    <cosponsor thomas_id="00930" joined="2013-09-25"/>
+    <cosponsor thomas_id="00944" joined="2013-09-25"/>
+    <cosponsor thomas_id="00997" joined="2013-09-25"/>
+    <cosponsor thomas_id="01756" joined="2013-10-04"/>
+    <cosponsor thomas_id="01854" joined="2013-09-25"/>
+    <cosponsor thomas_id="01528" joined="2013-09-25"/>
+    <cosponsor thomas_id="02047" joined="2013-09-25"/>
+    <cosponsor thomas_id="02110" joined="2013-10-04"/>
+    <cosponsor thomas_id="01729" joined="2013-09-25"/>
+    <cosponsor thomas_id="01777" joined="2013-09-25"/>
+    <cosponsor thomas_id="01205" joined="2013-09-25"/>
+    <cosponsor thomas_id="02004" joined="2013-09-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-25" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="sr" session="113" relation="unknown" number="282"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Corporation for National and Community Service"/>
+    <term name="Military personnel and dependents"/>
+    <term name="National and community service"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+  </subjects>
+  <amendments/>
+  <summary>9/25/2013--Introduced.
+Commemorates the 20th anniversary of the establishment of the Corporation for National and Community Service.
+
+Recognizes the Corporation's work to improve lives, strengthen communities, expand economic opportunity, foster innovation and civic engagement, and engage millions of U.S. people in solving critical problems through national service.</summary>
+</bill>

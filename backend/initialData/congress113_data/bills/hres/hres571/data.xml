@@ -1,0 +1,82 @@
+<bill session="113" type="hr" number="571" updated="2014-08-14T12:49:28-04:00">
+  <state datetime="2014-05-06">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-06"/>
+  </status>
+  <introduced datetime="2014-05-06"/>
+  <titles>
+    <title type="official" as="introduced">Recognizing the roles and contributions of America's teachers to building and enhancing the Nation's civic, cultural, and economic well-being.</title>
+  </titles>
+  <sponsor thomas_id="01656"/>
+  <cosponsors>
+    <cosponsor thomas_id="02054" joined="2014-05-07"/>
+    <cosponsor thomas_id="02027" joined="2014-05-06"/>
+    <cosponsor thomas_id="02135" joined="2014-05-06"/>
+    <cosponsor thomas_id="02063" joined="2014-05-06"/>
+    <cosponsor thomas_id="02106" joined="2014-06-17"/>
+    <cosponsor thomas_id="00186" joined="2014-05-06"/>
+    <cosponsor thomas_id="02151" joined="2014-05-22"/>
+    <cosponsor thomas_id="01959" joined="2014-05-06"/>
+    <cosponsor thomas_id="02103" joined="2014-05-07"/>
+    <cosponsor thomas_id="02126" joined="2014-05-06"/>
+    <cosponsor thomas_id="01976" joined="2014-05-06"/>
+    <cosponsor thomas_id="01717" joined="2014-05-06"/>
+    <cosponsor thomas_id="01797" joined="2014-05-08"/>
+    <cosponsor thomas_id="02043" joined="2014-05-06"/>
+    <cosponsor thomas_id="02041" joined="2014-05-06"/>
+    <cosponsor thomas_id="02044" joined="2014-05-06"/>
+    <cosponsor thomas_id="01580" joined="2014-05-06"/>
+    <cosponsor thomas_id="01921" joined="2014-05-06"/>
+    <cosponsor thomas_id="02199" joined="2014-05-06"/>
+    <cosponsor thomas_id="02154" joined="2014-05-07"/>
+    <cosponsor thomas_id="00699" joined="2014-05-08"/>
+    <cosponsor thomas_id="01846" joined="2014-05-06"/>
+    <cosponsor thomas_id="02053" joined="2014-05-06"/>
+    <cosponsor thomas_id="01504" joined="2014-05-06"/>
+    <cosponsor thomas_id="02052" joined="2014-05-06"/>
+    <cosponsor thomas_id="01731" joined="2014-05-06"/>
+    <cosponsor thomas_id="01685" joined="2014-05-06"/>
+    <cosponsor thomas_id="01811" joined="2014-05-06"/>
+    <cosponsor thomas_id="01744" joined="2014-05-08"/>
+    <cosponsor thomas_id="02171" joined="2014-05-07"/>
+    <cosponsor thomas_id="00930" joined="2014-05-06"/>
+    <cosponsor thomas_id="01982" joined="2014-05-06"/>
+    <cosponsor thomas_id="01954" joined="2014-05-06"/>
+    <cosponsor thomas_id="01962" joined="2014-05-06"/>
+    <cosponsor thomas_id="01635" joined="2014-05-06"/>
+    <cosponsor thomas_id="01920" joined="2014-05-09"/>
+    <cosponsor thomas_id="01590" joined="2014-05-07"/>
+    <cosponsor thomas_id="01075" joined="2014-05-06"/>
+    <cosponsor thomas_id="01566" joined="2014-05-06"/>
+    <cosponsor thomas_id="01952" joined="2014-05-06"/>
+    <cosponsor thomas_id="01940" joined="2014-05-06"/>
+    <cosponsor thomas_id="01942" joined="2014-05-06"/>
+    <cosponsor thomas_id="02112" joined="2014-05-06"/>
+    <cosponsor thomas_id="02128" joined="2014-05-06"/>
+    <cosponsor thomas_id="01856" joined="2014-05-07"/>
+    <cosponsor thomas_id="01222" joined="2014-05-06"/>
+    <cosponsor thomas_id="01238" joined="2014-05-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-06" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="113" relation="unknown" number="167"/>
+    <bill type="sr" session="113" relation="unknown" number="126"/>
+    <bill type="sr" session="113" relation="unknown" number="440"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Teaching, teachers, curricula"/>
+  </subjects>
+  <amendments/>
+  <summary>5/6/2014--Introduced.
+Thanks and promotes the teaching profession by encouraging students, parents, school administrators, and public officials to participate in teacher appreciation events during National Teacher Day.</summary>
+</bill>

@@ -1,0 +1,49 @@
+<bill session="113" type="hr" number="229" updated="2014-08-14T12:46:35-04:00">
+  <state datetime="2013-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-21"/>
+  </status>
+  <introduced datetime="2013-05-21"/>
+  <titles>
+    <title type="official" as="introduced">Calling for Syrian President Bashar al-Assad and others to be tried before the International Criminal Court for committing war crimes and crimes against humanity.</title>
+  </titles>
+  <sponsor thomas_id="01663"/>
+  <cosponsors>
+    <cosponsor thomas_id="01740" joined="2013-06-28"/>
+    <cosponsor thomas_id="01742" joined="2013-05-21"/>
+    <cosponsor thomas_id="01730" joined="2013-06-20"/>
+    <cosponsor thomas_id="01920" joined="2013-06-03"/>
+    <cosponsor thomas_id="01188" joined="2013-06-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-21" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="sr" session="113" relation="unknown" number="219"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Conflicts and wars"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Human rights"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Middle East"/>
+    <term name="Sovereignty, recognition, national governance and status"/>
+    <term name="Syria"/>
+    <term name="United Nations"/>
+    <term name="War crimes, genocide, crimes against humanity"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2013--Introduced.
+Condemns the ongoing violence and the systematic human rights violations carried out by Syrian government forces under President Bashar al-Assad's direction, as well as abuses committed by opposition forces.
+
+ Supports the people of Syria seeking peaceful democratic change.
+
+ Calls on the United Nations Security Council, based on evidence that war crimes and crimes against humanity have been perpetrated in Syria, to refer the situation to the International Criminal Court.</summary>
+</bill>

@@ -1,0 +1,90 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-24", 
+      "committees": [
+        "SSHR"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2524-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Health, Education, Labor, and Pensions", 
+      "committee_id": "SSHR"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Kaine, Tim", 
+      "sponsored_at": "2014-06-24", 
+      "state": "VA", 
+      "thomas_id": "02176", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-06-24", 
+  "number": "2524", 
+  "official_title": "A bill to support access to career and technical education programs of study that provide students with education and training combining rigorous academics with technical curricula focused on specific high-skill, high-wage, high-demand and high-growth occupations and industries.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Pathways to Prosperity Act of 2014", 
+  "sponsor": {
+    "district": null, 
+    "name": "Warner, Mark R.", 
+    "state": "VA", 
+    "thomas_id": "01897", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-06-24", 
+  "subjects": [
+    "Academic performance and assessments", 
+    "Census and government statistics", 
+    "Education", 
+    "Elementary and secondary education", 
+    "Higher education", 
+    "Licensing and registrations", 
+    "Personnel records", 
+    "Vocational education", 
+    "Wages and earnings"
+  ], 
+  "subjects_top_term": "Education", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Pathways to Prosperity Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to support access to career and technical education programs of study that provide students with education and training combining rigorous academics with technical curricula focused on specific high-skill, high-wage, high-demand and high-growth occupations and industries.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T14:06:20-04:00"
+}

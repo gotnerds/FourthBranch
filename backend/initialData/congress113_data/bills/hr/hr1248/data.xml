@@ -1,0 +1,89 @@
+<bill session="113" type="h" number="1248" updated="2014-08-14T13:01:20-04:00">
+  <state datetime="2013-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-19"/>
+  </status>
+  <introduced datetime="2013-03-19"/>
+  <titles>
+    <title type="short" as="introduced">Family Health Care Flexibility Act</title>
+    <title type="official" as="introduced">To amend the Patient Protection and Affordable Care Act to repeal certain limitations on health care benefits.</title>
+  </titles>
+  <sponsor thomas_id="01930"/>
+  <cosponsors>
+    <cosponsor thomas_id="01727" joined="2013-03-19"/>
+    <cosponsor thomas_id="00038" joined="2013-11-19"/>
+    <cosponsor thomas_id="02131" joined="2013-03-19"/>
+    <cosponsor thomas_id="01748" joined="2013-03-19"/>
+    <cosponsor thomas_id="01787" joined="2013-03-19"/>
+    <cosponsor thomas_id="01882" joined="2013-03-19"/>
+    <cosponsor thomas_id="02018" joined="2013-03-19"/>
+    <cosponsor thomas_id="01751" joined="2013-03-19"/>
+    <cosponsor thomas_id="00186" joined="2013-03-19"/>
+    <cosponsor thomas_id="02151" joined="2013-03-19"/>
+    <cosponsor thomas_id="01805" joined="2013-03-19"/>
+    <cosponsor thomas_id="02098" joined="2013-06-04"/>
+    <cosponsor thomas_id="00322" joined="2013-03-19"/>
+    <cosponsor thomas_id="00414" joined="2013-06-04"/>
+    <cosponsor thomas_id="01743" joined="2013-03-19"/>
+    <cosponsor thomas_id="02049" joined="2013-03-19"/>
+    <cosponsor thomas_id="01992" joined="2013-05-07"/>
+    <cosponsor thomas_id="02070" joined="2013-03-19"/>
+    <cosponsor thomas_id="01933" joined="2013-03-19"/>
+    <cosponsor thomas_id="02026" joined="2013-03-19"/>
+    <cosponsor thomas_id="02143" joined="2013-04-23"/>
+    <cosponsor thomas_id="02046" joined="2013-03-19"/>
+    <cosponsor thomas_id="00612" joined="2013-03-19"/>
+    <cosponsor thomas_id="02154" joined="2013-11-12"/>
+    <cosponsor thomas_id="01733" joined="2013-11-12"/>
+    <cosponsor thomas_id="01834" joined="2013-03-19"/>
+    <cosponsor thomas_id="00666" joined="2013-03-19"/>
+    <cosponsor thomas_id="01885" joined="2013-03-19"/>
+    <cosponsor thomas_id="02033" joined="2013-03-19"/>
+    <cosponsor thomas_id="01804" joined="2013-03-19"/>
+    <cosponsor thomas_id="02074" joined="2013-03-19"/>
+    <cosponsor thomas_id="02034" joined="2013-03-19"/>
+    <cosponsor thomas_id="00912" joined="2013-04-09"/>
+    <cosponsor thomas_id="01514" joined="2013-03-19"/>
+    <cosponsor thomas_id="02048" joined="2013-04-09"/>
+    <cosponsor thomas_id="01954" joined="2013-03-19"/>
+    <cosponsor thomas_id="02017" joined="2013-04-09"/>
+    <cosponsor thomas_id="02003" joined="2013-03-19"/>
+    <cosponsor thomas_id="02158" joined="2013-09-12"/>
+    <cosponsor thomas_id="01920" joined="2013-03-19"/>
+    <cosponsor thomas_id="01525" joined="2013-03-19"/>
+    <cosponsor thomas_id="01981" joined="2013-03-19"/>
+    <cosponsor thomas_id="01566" joined="2013-07-09"/>
+    <cosponsor thomas_id="01664" joined="2013-03-19"/>
+    <cosponsor thomas_id="02152" joined="2013-04-09"/>
+    <cosponsor thomas_id="01779" joined="2013-03-19"/>
+    <cosponsor thomas_id="01991" joined="2013-03-19"/>
+    <cosponsor thomas_id="02021" joined="2013-03-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-19" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2013-04-09">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSWM02" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="1558"/>
+    <bill type="s" session="113" relation="identical" number="610"/>
+    <bill type="s" session="113" relation="unknown" number="1647"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Digestive and metabolic diseases"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Prescription drugs"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/2013--Introduced.
+Family Health Care Flexibility Act - Repeals provisions of the Patient Protection and Affordable Care Act and the Health Care and Education Reconciliation Act of 2010 that: (1) restrict payments from health savings accounts, medical savings accounts, and health flexible spending arrangements for medications to prescription drugs and insulin only (thus allowing payments for over-the-counter medications); and (2) impose a $2,500 limitation on salary reduction contributions to a health flexible spending arrangement under a cafeteria plan.</summary>
+</bill>

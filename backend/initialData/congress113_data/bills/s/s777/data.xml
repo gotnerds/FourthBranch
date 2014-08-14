@@ -1,0 +1,57 @@
+<bill session="113" type="s" number="777" updated="2014-08-14T13:51:25-04:00">
+  <state datetime="2013-04-23">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-23"/>
+  </status>
+  <introduced datetime="2013-04-23"/>
+  <titles>
+    <title type="official" as="introduced">A bill to restore the previous policy regarding restrictions on use of Department of Defense medical facilities.</title>
+  </titles>
+  <sponsor thomas_id="01866"/>
+  <cosponsors>
+    <cosponsor thomas_id="01558" joined="2013-06-11"/>
+    <cosponsor thomas_id="01898" joined="2013-04-23"/>
+    <cosponsor thomas_id="02076" joined="2013-04-23"/>
+    <cosponsor thomas_id="00116" joined="2013-04-23"/>
+    <cosponsor thomas_id="01984" joined="2013-04-24"/>
+    <cosponsor thomas_id="00326" joined="2013-04-23"/>
+    <cosponsor thomas_id="01332" joined="2013-05-13"/>
+    <cosponsor thomas_id="01969" joined="2013-04-23"/>
+    <cosponsor thomas_id="00501" joined="2013-04-23"/>
+    <cosponsor thomas_id="02185" joined="2013-05-06"/>
+    <cosponsor thomas_id="01381" joined="2013-04-23"/>
+    <cosponsor thomas_id="01900" joined="2013-04-23"/>
+    <cosponsor thomas_id="01409" joined="2013-04-23"/>
+    <cosponsor thomas_id="01010" joined="2013-04-23"/>
+    <cosponsor thomas_id="02173" joined="2013-05-07"/>
+    <cosponsor thomas_id="01901" joined="2013-04-23"/>
+    <cosponsor thomas_id="01829" joined="2013-05-07"/>
+    <cosponsor thomas_id="02182" joined="2013-05-23"/>
+    <cosponsor thomas_id="01823" joined="2013-04-23"/>
+    <cosponsor thomas_id="01247" joined="2013-04-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-23" state="REFERRED">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSAS" name="Senate Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="1389"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Abortion"/>
+    <term name="Defense spending"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Military facilities and property"/>
+    <term name="Military medicine"/>
+    <term name="Sex offenses"/>
+    <term name="Women's health"/>
+  </subjects>
+  <amendments/>
+  <summary>4/23/2013--Introduced.
+Repeals a statutory restriction on using a medical treatment facility or other facility of the Department of Defense (DOD) to perform an abortion.</summary>
+</bill>

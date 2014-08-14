@@ -1,0 +1,152 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-30", 
+      "references": [
+        {
+          "reference": "CR S5138", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-07-30", 
+      "committees": [
+        "HSSM"
+      ], 
+      "references": [
+        {
+          "reference": "CR S5138-5142", 
+          "type": "text of measure as introduced"
+        }
+      ], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Small Business and Entrepreneurship.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2693-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Small Business and Entrepreneurship", 
+      "committee_id": "SSSB"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Baldwin, Tammy", 
+      "sponsored_at": "2014-07-30", 
+      "state": "WI", 
+      "thomas_id": "01558", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Boxer, Barbara", 
+      "sponsored_at": "2014-07-31", 
+      "state": "CA", 
+      "thomas_id": "00116", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Cardin, Benjamin L.", 
+      "sponsored_at": "2014-07-30", 
+      "state": "MD", 
+      "thomas_id": "00174", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Gillibrand, Kirsten E.", 
+      "sponsored_at": "2014-07-30", 
+      "state": "NY", 
+      "thomas_id": "01866", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Shaheen, Jeanne", 
+      "sponsored_at": "2014-07-30", 
+      "state": "NH", 
+      "thomas_id": "01901", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Walsh, John E.", 
+      "sponsored_at": "2014-07-30", 
+      "state": "MT", 
+      "thomas_id": "02198", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-07-30", 
+  "number": "2693", 
+  "official_title": "A bill to reauthorize the women's business center program of the Small Business Administration, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2481-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2637-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Women's Small Business Ownership Act of 2014", 
+  "sponsor": {
+    "district": null, 
+    "name": "Cantwell, Maria", 
+    "state": "WA", 
+    "thomas_id": "00172", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-07-30", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Women's Small Business Ownership Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to reauthorize the women's business center program of the Small Business Administration, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T14:07:45-04:00"
+}

@@ -1,0 +1,78 @@
+<bill session="113" type="hr" number="394" updated="2014-08-14T12:47:59-04:00">
+  <state datetime="2013-10-29">REFERRED</state>
+  <status>
+    <introduced datetime="2013-10-29"/>
+  </status>
+  <introduced datetime="2013-10-29"/>
+  <titles>
+    <title type="official" as="introduced">Condemning the September 2013 terrorist attack at the Westgate Mall in Nairobi, Kenya, and reaffirming United States support for the people and Government of Kenya, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01996"/>
+  <cosponsors>
+    <cosponsor thomas_id="02055" joined="2013-10-30"/>
+    <cosponsor thomas_id="01857" joined="2013-10-30"/>
+    <cosponsor thomas_id="00344" joined="2013-10-29"/>
+    <cosponsor thomas_id="00588" joined="2013-10-30"/>
+    <cosponsor thomas_id="01501" joined="2013-10-30"/>
+    <cosponsor thomas_id="00688" joined="2013-10-30"/>
+    <cosponsor thomas_id="02111" joined="2013-10-30"/>
+    <cosponsor thomas_id="01504" joined="2013-10-30"/>
+    <cosponsor thomas_id="01506" joined="2013-10-30"/>
+    <cosponsor thomas_id="00832" joined="2013-10-30"/>
+    <cosponsor thomas_id="02097" joined="2013-10-30"/>
+    <cosponsor thomas_id="01802" joined="2013-11-18"/>
+    <cosponsor thomas_id="00944" joined="2013-10-30"/>
+    <cosponsor thomas_id="00998" joined="2013-10-29"/>
+    <cosponsor thomas_id="01003" joined="2013-10-30"/>
+    <cosponsor thomas_id="01988" joined="2013-10-30"/>
+    <cosponsor thomas_id="01528" joined="2013-10-30"/>
+    <cosponsor thomas_id="01071" joined="2013-10-29"/>
+    <cosponsor thomas_id="02161" joined="2013-10-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-10-29" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2013-12-06">
+      <text>Referred to the Subcommittee on Africa, Global Health, Global Human Rights and International Organizations.</text>
+    </action>
+    <action datetime="2013-12-06">
+      <text>Referred to the Subcommittee on Terrorism, Nonproliferation, and Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee subcommittee="Africa, Global Health, Global Human Rights and International Organizations" code="HSFA16" name="House Foreign Affairs" activity="Referral"/>
+    <committee subcommittee="Terrorism, Nonproliferation, and Trade" code="HSFA18" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="sr" session="113" relation="identical" number="268"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Africa"/>
+    <term name="Alliances"/>
+    <term name="Congressional tributes"/>
+    <term name="Crime victims"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="First responders and emergency personnel"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Kenya"/>
+    <term name="Somalia"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+  <summary>10/29/2013--Introduced.
+Condemns the atrocities and terrorist attack that occurred at the Westgate Mall in Nairobi, Kenya, from September 21 through 24, 2013.
+
+ Offers condolences to the families, friends, and loved ones of those who were killed in the attack and expresses hope for the recovery of the wounded, including U.S. citizens.
+
+ Recognizes the many heroic acts by Kenyan citizens, first responders, and the Kenya Red Cross to rescue those caught in the Westgate Mall attack.
+
+ Reaffirms U.S. support for the efforts of the government and people of Kenya to combat terrorism, promote tolerance, and bring the perpetrators of the Westgate Mall attack to justice.
+
+ Commends Kenya's continued participation in the African Union Mission in Somalia.
+
+ Recognizes Kenya as an important U.S. ally and partner.</summary>
+</bill>

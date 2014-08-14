@@ -1,0 +1,40 @@
+<bill session="113" type="hr" number="463" updated="2014-08-14T12:48:33-04:00">
+  <state datetime="2014-01-27">REFERRED</state>
+  <status>
+    <introduced datetime="2014-01-27"/>
+  </status>
+  <introduced datetime="2014-01-27"/>
+  <titles>
+    <title type="official" as="introduced">Supporting the goals and ideals of Black History Month and honoring the outstanding contributions of African-American Medal of Honor recipients.</title>
+  </titles>
+  <sponsor thomas_id="02153"/>
+  <cosponsors>
+    <cosponsor thomas_id="02125" joined="2014-02-03"/>
+    <cosponsor thomas_id="02089" joined="2014-01-27"/>
+    <cosponsor thomas_id="00588" joined="2014-01-27"/>
+    <cosponsor thomas_id="02166" joined="2014-02-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-01-27" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="U.S. history"/>
+    <term name="Veterans' organizations and recognition"/>
+  </subjects>
+  <amendments/>
+  <summary>1/27/2014--Introduced.
+Recognizes the significance of Black History Month for recognizing the contributions of African-Americans in the nation's history.
+
+Honors the contributions of African-American service members, including the 87 who have been awarded the Medal of Honor for military valor.</summary>
+</bill>

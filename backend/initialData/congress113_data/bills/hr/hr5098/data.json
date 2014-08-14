@@ -1,0 +1,80 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-07-14", 
+      "committees": [
+        "HSWM"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the House Committee on Ways and Means.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr5098-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Ways and Means", 
+      "committee_id": "HSWM"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "6", 
+      "name": "Messer, Luke", 
+      "sponsored_at": "2014-07-29", 
+      "state": "IN", 
+      "thomas_id": "02130", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-07-14", 
+  "number": "5098", 
+  "official_title": "To amend the Internal Revenue Code of 1986 to temporarily exempt from the employer health insurance mandate certain Medicare and Medicaid providers.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Ensuring Medicaid and Medicare Access to Providers Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Daines, Steve", 
+    "state": "MT", 
+    "thomas_id": "02138", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-07-14", 
+  "subjects": [], 
+  "subjects_top_term": null, 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Ensuring Medicaid and Medicare Access to Providers Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Internal Revenue Code of 1986 to temporarily exempt from the employer health insurance mandate certain Medicare and Medicaid providers.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T13:34:59-04:00"
+}

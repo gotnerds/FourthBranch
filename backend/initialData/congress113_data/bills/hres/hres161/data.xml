@@ -1,0 +1,44 @@
+<bill session="113" type="hr" number="161" updated="2014-08-14T12:46:00-04:00">
+  <state datetime="2013-04-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-15"/>
+  </status>
+  <introduced datetime="2013-04-15"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the House of Representatives that the Food and Drug Administration should encourage the use of abuse-deterrent formulations of drugs.</title>
+  </titles>
+  <sponsor thomas_id="00977"/>
+  <cosponsors>
+    <cosponsor thomas_id="01460" joined="2013-04-15"/>
+    <cosponsor thomas_id="02041" joined="2013-04-15"/>
+    <cosponsor thomas_id="02025" joined="2013-04-15"/>
+    <cosponsor thomas_id="01686" joined="2013-04-15"/>
+    <cosponsor thomas_id="00940" joined="2013-04-15"/>
+    <cosponsor thomas_id="01535" joined="2013-04-15"/>
+    <cosponsor thomas_id="01238" joined="2013-04-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-15" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-04-19">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="sr" session="113" relation="unknown" number="97"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Drug safety, medical device, and laboratory regulation"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Prescription drugs"/>
+  </subjects>
+  <amendments/>
+  <summary>4/15/2013--Introduced.
+Expresses the sense of the House of Representatives that the Food and Drug Administration (FDA) should exercise its acknowledged authority to: (1) refuse to approve generic versions of non-abuse-deterrent opioid products that have been replaced in the market with abuse-deterrent formulations, and (2) require generic versions of abuse-deterrent opioid products to be formulated with comparable abuse-deterrent features.</summary>
+</bill>

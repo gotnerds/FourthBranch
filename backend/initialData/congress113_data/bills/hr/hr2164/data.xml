@@ -1,0 +1,59 @@
+<bill session="113" type="h" number="2164" updated="2014-08-14T13:09:46-04:00">
+  <state datetime="2013-05-23">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-23"/>
+  </status>
+  <introduced datetime="2013-05-23"/>
+  <titles>
+    <title type="short" as="introduced">Human Cloning Prohibition Act of 2012</title>
+    <title type="official" as="introduced">To amend title 18, United States Code, to prohibit human cloning.</title>
+  </titles>
+  <sponsor thomas_id="02026"/>
+  <cosponsors>
+    <cosponsor thomas_id="01858" joined="2014-06-10"/>
+    <cosponsor thomas_id="01882" joined="2013-07-09"/>
+    <cosponsor thomas_id="01912" joined="2014-06-10"/>
+    <cosponsor thomas_id="01924" joined="2013-05-23"/>
+    <cosponsor thomas_id="01683" joined="2013-06-12"/>
+    <cosponsor thomas_id="01793" joined="2014-05-20"/>
+    <cosponsor thomas_id="02020" joined="2014-05-20"/>
+    <cosponsor thomas_id="02046" joined="2013-05-23"/>
+    <cosponsor thomas_id="00612" joined="2014-06-23"/>
+    <cosponsor thomas_id="02051" joined="2013-05-23"/>
+    <cosponsor thomas_id="01834" joined="2014-05-20"/>
+    <cosponsor thomas_id="01885" joined="2013-06-12"/>
+    <cosponsor thomas_id="01781" joined="2013-05-23"/>
+    <cosponsor thomas_id="00800" joined="2014-06-23"/>
+    <cosponsor thomas_id="01685" joined="2013-06-12"/>
+    <cosponsor thomas_id="02034" joined="2014-07-09"/>
+    <cosponsor thomas_id="02022" joined="2014-07-09"/>
+    <cosponsor thomas_id="01071" joined="2013-05-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-23" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-06-14">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Cell biology and embryology"/>
+    <term name="Criminal procedure and sentencing"/>
+    <term name="Genetics"/>
+    <term name="Medical ethics"/>
+    <term name="Medical research"/>
+    <term name="Trade restrictions"/>
+  </subjects>
+  <amendments/>
+  <summary>5/23/2013--Introduced.
+Human Cloning Prohibition Act of 2012 - Amends the federal criminal code to prohibit any public or private person or entity, in or affecting interstate commerce, from: (1) performing or attempting to perform human cloning; (2) participating in an attempt to perform human cloning; or (3) shipping, receiving, or importing the product of human cloning for any purpose. Sets forth criminal and civil penalties for violations.
+
+Provides that nothing in this Act shall restrict areas of scientific research not specifically prohibited by this Act, including research in the use of nuclear transfer or other cloning techniques to produce molecules, DNA, cells other than human embryos, tissues, organs, plants, or animals other than humans.</summary>
+</bill>

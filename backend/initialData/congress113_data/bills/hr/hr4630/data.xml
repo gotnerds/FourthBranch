@@ -1,0 +1,77 @@
+<bill session="113" type="h" number="4630" updated="2014-08-14T13:30:51-04:00">
+  <state datetime="2014-05-09">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-09"/>
+  </status>
+  <introduced datetime="2014-05-09"/>
+  <titles>
+    <title type="short" as="introduced">Caring for Military Children with Developmental Disabilities Act of 2014</title>
+    <title type="official" as="introduced">To amend title 10, United States Code, to provide for certain behavioral health treatment under TRICARE for children and adults with developmental disabilities, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01583"/>
+  <cosponsors>
+    <cosponsor thomas_id="01959" joined="2014-07-22"/>
+    <cosponsor thomas_id="01836" joined="2014-05-21"/>
+    <cosponsor thomas_id="01643" joined="2014-06-11"/>
+    <cosponsor thomas_id="00281" joined="2014-05-22"/>
+    <cosponsor thomas_id="00316" joined="2014-05-21"/>
+    <cosponsor thomas_id="02125" joined="2014-06-12"/>
+    <cosponsor thomas_id="02114" joined="2014-06-18"/>
+    <cosponsor thomas_id="01708" joined="2014-05-28"/>
+    <cosponsor thomas_id="01913" joined="2014-05-28"/>
+    <cosponsor thomas_id="01634" joined="2014-06-05"/>
+    <cosponsor thomas_id="01663" joined="2014-06-05"/>
+    <cosponsor thomas_id="00612" joined="2014-05-23"/>
+    <cosponsor thomas_id="00635" joined="2014-05-21"/>
+    <cosponsor thomas_id="01675" joined="2014-07-16"/>
+    <cosponsor thomas_id="00832" joined="2014-05-21"/>
+    <cosponsor thomas_id="00868" joined="2014-06-05"/>
+    <cosponsor thomas_id="01510" joined="2014-05-21"/>
+    <cosponsor thomas_id="02113" joined="2014-06-09"/>
+    <cosponsor thomas_id="01967" joined="2014-06-10"/>
+    <cosponsor thomas_id="00940" joined="2014-05-21"/>
+    <cosponsor thomas_id="01916" joined="2014-05-09"/>
+    <cosponsor thomas_id="02039" joined="2014-06-11"/>
+    <cosponsor thomas_id="01920" joined="2014-06-17"/>
+    <cosponsor thomas_id="01798" joined="2014-06-17"/>
+    <cosponsor thomas_id="01722" joined="2014-06-05"/>
+    <cosponsor thomas_id="01071" joined="2014-05-28"/>
+    <cosponsor thomas_id="02110" joined="2014-06-23"/>
+    <cosponsor thomas_id="01664" joined="2014-05-21"/>
+    <cosponsor thomas_id="01942" joined="2014-05-28"/>
+    <cosponsor thomas_id="02105" joined="2014-05-28"/>
+    <cosponsor thomas_id="02004" joined="2014-06-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-09" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="4435"/>
+    <bill type="s" session="113" relation="unknown" number="2333"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Child health"/>
+    <term name="Coast guard"/>
+    <term name="Department of Commerce"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Hereditary and development disorders"/>
+    <term name="Mental health"/>
+    <term name="Military medicine"/>
+    <term name="Military personnel and dependents"/>
+  </subjects>
+  <amendments/>
+  <summary>5/9/2014--Introduced.
+Caring for Military Children with Developmental Disabilities Act of 2014 - Includes in the treatment of military dependents' developmental disabilities under the Department of Defense (DOD) TRICARE program behavioral health treatment, including applied behavior analysis, that is prescribed by a physician or psychologist.
+
+Makes such behavioral health treatment available to retired members of the Coast Guard, the Commissioned Corps of the National Oceanic and Atmospheric Administration (NOAA), the Commissioned Corps of Public Health Service, or their dependents only to the extent that amounts are specifically appropriated to the Defense Health Program Account for their coverage.
+
+Expresses the sense of Congress that amounts should be appropriated for the behavioral health treatment of TRICARE beneficiaries in a manner that ensures that all beneficiaries receive appropriate and equitable access to such treatment.</summary>
+</bill>

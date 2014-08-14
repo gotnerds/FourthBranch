@@ -1,0 +1,63 @@
+<bill session="113" type="h" number="2150" updated="2014-08-14T13:09:38-04:00">
+  <state datetime="2013-05-23">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-23"/>
+  </status>
+  <introduced datetime="2013-05-23"/>
+  <titles>
+    <title type="short" as="introduced">Homeless Veterans' Reintegration Programs Reauthorization Act of 2013</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to provide for a five-year extension to the homeless veterans reintegration programs.</title>
+  </titles>
+  <sponsor thomas_id="02103"/>
+  <cosponsors>
+    <cosponsor thomas_id="00165" joined="2013-05-23"/>
+    <cosponsor thomas_id="01774" joined="2013-06-17"/>
+    <cosponsor thomas_id="01995" joined="2013-05-23"/>
+    <cosponsor thomas_id="02065" joined="2013-05-23"/>
+    <cosponsor thomas_id="01909" joined="2013-05-23"/>
+    <cosponsor thomas_id="02046" joined="2013-06-25"/>
+    <cosponsor thomas_id="02108" joined="2013-05-23"/>
+    <cosponsor thomas_id="02162" joined="2013-06-17"/>
+    <cosponsor thomas_id="02171" joined="2013-06-17"/>
+    <cosponsor thomas_id="02109" joined="2013-06-25"/>
+    <cosponsor thomas_id="02099" joined="2013-07-24"/>
+    <cosponsor thomas_id="02104" joined="2013-06-17"/>
+    <cosponsor thomas_id="02110" joined="2013-05-23"/>
+    <cosponsor thomas_id="02105" joined="2013-06-17"/>
+    <cosponsor thomas_id="02152" joined="2013-06-25"/>
+    <cosponsor thomas_id="02165" joined="2013-05-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-23" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-06-26">
+      <text>Referred to the Subcommittee on Economic Opportunity.</text>
+    </action>
+    <action datetime="2013-06-26">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2013-07-18">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="2013-07-18">
+      <text>Forwarded by Subcommittee to Full Committee by Voice Vote .</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee subcommittee="Economic Opportunity" code="HSVR10" name="House Veterans' Affairs" activity="Referral, Hearings, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="825"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Homelessness and emergency shelter"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Veterans' loans, housing, homeless programs"/>
+  </subjects>
+  <amendments/>
+  <summary>5/23/2013--Introduced.
+Homeless Veterans' Reintegration Programs Reauthorization Act of 2013 - Extends through FY2018 Department of Veterans Affairs (VA) homeless veterans reintegration programs (job training, counseling, and placement services to expedite the reintegration of homeless veterans into the labor force).</summary>
+</bill>

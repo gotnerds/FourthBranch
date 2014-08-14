@@ -1,0 +1,57 @@
+<bill session="113" type="hr" number="248" updated="2014-08-14T12:46:44-04:00">
+  <state datetime="2013-06-04">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-04"/>
+  </status>
+  <introduced datetime="2013-06-04"/>
+  <titles>
+    <title type="official" as="introduced">Recognizing the significance of National Caribbean American Heritage Month.</title>
+  </titles>
+  <sponsor thomas_id="01501"/>
+  <cosponsors>
+    <cosponsor thomas_id="01723" joined="2013-06-04"/>
+    <cosponsor thomas_id="00132" joined="2013-06-04"/>
+    <cosponsor thomas_id="01474" joined="2013-06-04"/>
+    <cosponsor thomas_id="01864" joined="2013-06-04"/>
+    <cosponsor thomas_id="01654" joined="2013-06-04"/>
+    <cosponsor thomas_id="01878" joined="2013-06-04"/>
+    <cosponsor thomas_id="00229" joined="2013-06-04"/>
+    <cosponsor thomas_id="01976" joined="2013-06-04"/>
+    <cosponsor thomas_id="00344" joined="2013-06-04"/>
+    <cosponsor thomas_id="00367" joined="2013-06-04"/>
+    <cosponsor thomas_id="02119" joined="2013-06-04"/>
+    <cosponsor thomas_id="01708" joined="2013-06-04"/>
+    <cosponsor thomas_id="00511" joined="2013-06-04"/>
+    <cosponsor thomas_id="00588" joined="2013-06-17"/>
+    <cosponsor thomas_id="00688" joined="2013-06-04"/>
+    <cosponsor thomas_id="01811" joined="2013-06-04"/>
+    <cosponsor thomas_id="00944" joined="2013-06-04"/>
+    <cosponsor thomas_id="01962" joined="2013-06-04"/>
+    <cosponsor thomas_id="01777" joined="2013-06-04"/>
+    <cosponsor thomas_id="01205" joined="2013-06-04"/>
+    <cosponsor thomas_id="02004" joined="2013-06-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-04" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="113" relation="identical" number="610"/>
+  </relatedbills>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Caribbean area"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="U.S. history"/>
+  </subjects>
+  <amendments/>
+  <summary>6/4/2013--Introduced.
+Supports the goals and ideals of Caribbean-American Heritage Month (in the month of June).
+
+Affirms that: (1) the contributions of Caribbean-Americans are a significant part of the history, progress, and heritage of the United States; and (2) the ethnic and racial diversity of the United States enriches and strengthens the nation.</summary>
+</bill>

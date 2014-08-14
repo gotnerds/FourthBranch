@@ -1,0 +1,63 @@
+<bill session="113" type="h" number="4308" updated="2014-08-14T13:28:09-04:00">
+  <state datetime="2014-03-26">REFERRED</state>
+  <status>
+    <introduced datetime="2014-03-26"/>
+  </status>
+  <introduced datetime="2014-03-26"/>
+  <titles>
+    <title type="short" as="introduced">Interstate Milk Freedom Act of 2014</title>
+    <title type="official" as="introduced">To prohibit Federal interference with the interstate traffic of unpasteurized milk and milk products that are packaged for direct human consumption.</title>
+  </titles>
+  <sponsor thomas_id="02094"/>
+  <cosponsors>
+    <cosponsor thomas_id="02135" joined="2014-04-29"/>
+    <cosponsor thomas_id="00099" joined="2014-07-31"/>
+    <cosponsor thomas_id="01882" joined="2014-03-26"/>
+    <cosponsor thomas_id="02116" joined="2014-04-10"/>
+    <cosponsor thomas_id="01801" joined="2014-03-26"/>
+    <cosponsor thomas_id="02070" joined="2014-03-26"/>
+    <cosponsor thomas_id="02026" joined="2014-03-26"/>
+    <cosponsor thomas_id="00612" joined="2014-03-26"/>
+    <cosponsor thomas_id="02011" joined="2014-03-26"/>
+    <cosponsor thomas_id="00701" joined="2014-03-26"/>
+    <cosponsor thomas_id="01960" joined="2014-03-26"/>
+    <cosponsor thomas_id="01908" joined="2014-03-26"/>
+    <cosponsor thomas_id="02142" joined="2014-04-02"/>
+    <cosponsor thomas_id="02059" joined="2014-03-26"/>
+    <cosponsor thomas_id="02001" joined="2014-04-28"/>
+    <cosponsor thomas_id="02157" joined="2014-03-26"/>
+    <cosponsor thomas_id="01927" joined="2014-03-26"/>
+    <cosponsor thomas_id="01802" joined="2014-03-26"/>
+    <cosponsor thomas_id="01910" joined="2014-03-26"/>
+    <cosponsor thomas_id="02068" joined="2014-03-26"/>
+    <cosponsor thomas_id="00979" joined="2014-03-26"/>
+    <cosponsor thomas_id="01114" joined="2014-03-26"/>
+    <cosponsor thomas_id="01981" joined="2014-03-26"/>
+    <cosponsor thomas_id="01886" joined="2014-04-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-03-26" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2014-03-28">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="4307"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Agricultural marketing and promotion"/>
+    <term name="Civil actions and liability"/>
+    <term name="Food supply, safety, and labeling"/>
+  </subjects>
+  <amendments/>
+  <summary>3/26/2014--Introduced.
+Interstate Milk Freedom Act of 2014 - Prohibits a federal department, agency, or court from taking any action that would prohibit, regulate, or otherwise restrict the interstate traffic of milk or a milk product that is unpasteurized and packaged for direct human consumption if: (1) such action is based solely upon a determination that because the milk or milk product is unpasteurized it is adulterated, misbranded, or otherwise in violation of federal law; (2) the milk or milk product's state of origin allows unpasteurized milk or unpasteurized milk products to be distributed for direct human consumption by any means; (3) the milk or milk product is produced, packaged, and moved in compliance with the laws of such state of origin; and (4) the milk or milk product is moved from the state of origin for transport to another state which allows the distribution of unpasteurized milk or unpasteurized milk products for direct human consumption.</summary>
+</bill>

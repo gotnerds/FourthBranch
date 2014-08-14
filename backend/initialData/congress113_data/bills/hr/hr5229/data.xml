@@ -1,0 +1,29 @@
+<bill session="113" type="h" number="5229" updated="2014-08-14T13:36:06-04:00">
+  <state datetime="2014-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-29"/>
+  </status>
+  <introduced datetime="2014-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Wounded Warriors Federal Leave Act of 2014</title>
+    <title type="official" as="introduced">To amend title 5, United States Code, to provide leave to any new Federal employee who is a veteran with a service-connected disability rated at 30 percent or more for purposes of undergoing medical treatment for such disability, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01686"/>
+  <cosponsors>
+    <cosponsor thomas_id="01761" joined="2014-07-29"/>
+    <cosponsor thomas_id="00256" joined="2014-07-29"/>
+    <cosponsor thomas_id="02067" joined="2014-07-29"/>
+    <cosponsor thomas_id="00612" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

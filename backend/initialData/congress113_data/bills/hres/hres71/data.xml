@@ -1,0 +1,83 @@
+<bill session="113" type="hr" number="71" updated="2014-08-14T12:45:15-04:00">
+  <state datetime="2013-02-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-14"/>
+  </status>
+  <introduced datetime="2013-02-14"/>
+  <titles>
+    <title type="official" as="introduced">Opposing the International Olympic Committee's decision to eliminate wrestling from the Summer Olympic Games beginning in 2020.</title>
+  </titles>
+  <sponsor thomas_id="01846"/>
+  <cosponsors>
+    <cosponsor thomas_id="01838" joined="2013-02-28"/>
+    <cosponsor thomas_id="00099" joined="2013-03-04"/>
+    <cosponsor thomas_id="01845" joined="2013-02-14"/>
+    <cosponsor thomas_id="02155" joined="2013-02-28"/>
+    <cosponsor thomas_id="02127" joined="2013-02-26"/>
+    <cosponsor thomas_id="01761" joined="2013-03-12"/>
+    <cosponsor thomas_id="01999" joined="2013-02-28"/>
+    <cosponsor thomas_id="01742" joined="2013-03-05"/>
+    <cosponsor thomas_id="00229" joined="2013-03-12"/>
+    <cosponsor thomas_id="01836" joined="2013-03-12"/>
+    <cosponsor thomas_id="01477" joined="2013-03-12"/>
+    <cosponsor thomas_id="00279" joined="2013-02-25"/>
+    <cosponsor thomas_id="01857" joined="2013-03-12"/>
+    <cosponsor thomas_id="01973" joined="2013-02-25"/>
+    <cosponsor thomas_id="01743" joined="2013-03-12"/>
+    <cosponsor thomas_id="01708" joined="2013-04-09"/>
+    <cosponsor thomas_id="01580" joined="2013-04-09"/>
+    <cosponsor thomas_id="02028" joined="2013-02-26"/>
+    <cosponsor thomas_id="01868" joined="2013-02-14"/>
+    <cosponsor thomas_id="01724" joined="2013-02-14"/>
+    <cosponsor thomas_id="01834" joined="2013-05-21"/>
+    <cosponsor thomas_id="00666" joined="2013-02-14"/>
+    <cosponsor thomas_id="01781" joined="2013-02-28"/>
+    <cosponsor thomas_id="00711" joined="2013-03-05"/>
+    <cosponsor thomas_id="01943" joined="2013-03-12"/>
+    <cosponsor thomas_id="00729" joined="2013-03-19"/>
+    <cosponsor thomas_id="01653" joined="2013-02-25"/>
+    <cosponsor thomas_id="01832" joined="2013-03-12"/>
+    <cosponsor thomas_id="00808" joined="2013-03-12"/>
+    <cosponsor thomas_id="00832" joined="2013-03-04"/>
+    <cosponsor thomas_id="02156" joined="2013-02-28"/>
+    <cosponsor thomas_id="01602" joined="2013-02-28"/>
+    <cosponsor thomas_id="02060" joined="2013-03-04"/>
+    <cosponsor thomas_id="00867" joined="2013-07-23"/>
+    <cosponsor thomas_id="01510" joined="2013-03-12"/>
+    <cosponsor thomas_id="01953" joined="2013-02-25"/>
+    <cosponsor thomas_id="02171" joined="2013-02-28"/>
+    <cosponsor thomas_id="02003" joined="2013-02-25"/>
+    <cosponsor thomas_id="01756" joined="2013-03-12"/>
+    <cosponsor thomas_id="01854" joined="2013-02-25"/>
+    <cosponsor thomas_id="01861" joined="2013-03-06"/>
+    <cosponsor thomas_id="02047" joined="2013-03-12"/>
+    <cosponsor thomas_id="01566" joined="2013-02-26"/>
+    <cosponsor thomas_id="01952" joined="2013-03-04"/>
+    <cosponsor thomas_id="01535" joined="2013-03-12"/>
+    <cosponsor thomas_id="01856" joined="2013-02-14"/>
+    <cosponsor thomas_id="01256" joined="2013-04-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-14" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="sr" session="113" relation="unknown" number="37"/>
+  </relatedbills>
+  <subjects>
+    <term name="Sports and recreation"/>
+    <term name="Athletes"/>
+    <term name="Olympic games"/>
+  </subjects>
+  <amendments/>
+  <summary>2/14/2013--Introduced.
+Opposes the International Olympic Committee's (IOC's) decision to eliminate wrestling from the Summer Olympic Games beginning in 2020.
+
+Thanks the United States Olympic Committee for&#160;its continued support of wrestling and encourages&#160;it to work actively to reverse the IOC's decision.
+
+Urges&#160;the&#160;IOC to reinstate wrestling as a core sport of the Games.</summary>
+</bill>

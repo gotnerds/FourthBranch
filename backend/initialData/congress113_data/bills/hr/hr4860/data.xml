@@ -1,0 +1,38 @@
+<bill session="113" type="h" number="4860" updated="2014-08-14T13:32:55-04:00">
+  <state datetime="2014-06-12">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-12"/>
+  </status>
+  <introduced datetime="2014-06-12"/>
+  <titles>
+    <title type="short" as="introduced">Protecting Students from Failing Institutions Act</title>
+    <title type="official" as="introduced">To clarify that a closure of a branch or campus of an institution of higher education may qualify a borrower for loan discharge under the Higher Education Act of 1965, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02089"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-06-12">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E979-980"/>
+    </action>
+    <action datetime="2014-06-12" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2014-06-25">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H5735"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Educational facilities and institutions"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Higher education"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+</bill>

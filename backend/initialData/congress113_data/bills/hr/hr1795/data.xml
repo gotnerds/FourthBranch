@@ -1,0 +1,170 @@
+<bill session="113" type="h" number="1795" updated="2014-08-14T13:06:01-04:00">
+  <state datetime="2013-04-26">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-26"/>
+  </status>
+  <introduced datetime="2013-04-26"/>
+  <titles>
+    <title type="short" as="introduced">Social Security Fairness Act of 2013</title>
+    <title type="official" as="introduced">To amend title II of the Social Security Act to repeal the Government pension offset and windfall elimination provisions.</title>
+  </titles>
+  <sponsor thomas_id="02126"/>
+  <cosponsors>
+    <cosponsor thomas_id="01780" joined="2014-07-15"/>
+    <cosponsor thomas_id="02153" joined="2013-10-28"/>
+    <cosponsor thomas_id="02102" joined="2014-05-23"/>
+    <cosponsor thomas_id="01787" joined="2013-09-10"/>
+    <cosponsor thomas_id="02106" joined="2013-05-20"/>
+    <cosponsor thomas_id="01751" joined="2013-06-14"/>
+    <cosponsor thomas_id="02127" joined="2013-10-22"/>
+    <cosponsor thomas_id="00165" joined="2014-07-31"/>
+    <cosponsor thomas_id="01471" joined="2013-05-20"/>
+    <cosponsor thomas_id="01564" joined="2013-06-14"/>
+    <cosponsor thomas_id="02107" joined="2013-06-06"/>
+    <cosponsor thomas_id="01889" joined="2014-07-14"/>
+    <cosponsor thomas_id="02159" joined="2013-12-23"/>
+    <cosponsor thomas_id="01970" joined="2013-05-08"/>
+    <cosponsor thomas_id="02055" joined="2013-06-06"/>
+    <cosponsor thomas_id="02196" joined="2014-02-25"/>
+    <cosponsor thomas_id="01654" joined="2014-07-22"/>
+    <cosponsor thomas_id="01878" joined="2013-12-11"/>
+    <cosponsor thomas_id="01959" joined="2013-06-14"/>
+    <cosponsor thomas_id="01774" joined="2013-07-17"/>
+    <cosponsor thomas_id="01836" joined="2013-05-20"/>
+    <cosponsor thomas_id="00256" joined="2013-05-20"/>
+    <cosponsor thomas_id="00279" joined="2014-03-26"/>
+    <cosponsor thomas_id="00281" joined="2013-05-15"/>
+    <cosponsor thomas_id="02096" joined="2013-06-19"/>
+    <cosponsor thomas_id="01976" joined="2014-01-15"/>
+    <cosponsor thomas_id="01717" joined="2014-01-07"/>
+    <cosponsor thomas_id="00316" joined="2013-12-03"/>
+    <cosponsor thomas_id="00322" joined="2013-07-09"/>
+    <cosponsor thomas_id="02125" joined="2013-06-19"/>
+    <cosponsor thomas_id="00355" joined="2013-05-15"/>
+    <cosponsor thomas_id="02114" joined="2013-05-23"/>
+    <cosponsor thomas_id="00368" joined="2013-05-15"/>
+    <cosponsor thomas_id="01797" joined="2014-02-25"/>
+    <cosponsor thomas_id="01888" joined="2013-07-09"/>
+    <cosponsor thomas_id="02119" joined="2013-12-12"/>
+    <cosponsor thomas_id="01895" joined="2014-06-12"/>
+    <cosponsor thomas_id="01973" joined="2013-05-23"/>
+    <cosponsor thomas_id="01743" joined="2013-12-12"/>
+    <cosponsor thomas_id="01656" joined="2013-12-12"/>
+    <cosponsor thomas_id="01803" joined="2014-01-08"/>
+    <cosponsor thomas_id="00462" joined="2013-06-14"/>
+    <cosponsor thomas_id="01708" joined="2013-05-15"/>
+    <cosponsor thomas_id="02041" joined="2013-06-14"/>
+    <cosponsor thomas_id="01922" joined="2014-02-25"/>
+    <cosponsor thomas_id="02089" joined="2013-05-06"/>
+    <cosponsor thomas_id="00484" joined="2013-11-18"/>
+    <cosponsor thomas_id="02044" joined="2013-05-06"/>
+    <cosponsor thomas_id="00511" joined="2013-06-06"/>
+    <cosponsor thomas_id="01794" joined="2014-07-11"/>
+    <cosponsor thomas_id="01913" joined="2013-06-14"/>
+    <cosponsor thomas_id="01634" joined="2013-05-15"/>
+    <cosponsor thomas_id="02101" joined="2013-05-08"/>
+    <cosponsor thomas_id="01909" joined="2013-05-15"/>
+    <cosponsor thomas_id="00588" joined="2013-06-14"/>
+    <cosponsor thomas_id="02154" joined="2013-05-08"/>
+    <cosponsor thomas_id="00616" joined="2014-02-28"/>
+    <cosponsor thomas_id="02025" joined="2013-05-15"/>
+    <cosponsor thomas_id="02172" joined="2013-06-19"/>
+    <cosponsor thomas_id="00635" joined="2013-06-06"/>
+    <cosponsor thomas_id="02014" joined="2013-07-09"/>
+    <cosponsor thomas_id="01936" joined="2014-06-25"/>
+    <cosponsor thomas_id="01668" joined="2013-05-15"/>
+    <cosponsor thomas_id="01675" joined="2013-05-06"/>
+    <cosponsor thomas_id="01583" joined="2013-05-15"/>
+    <cosponsor thomas_id="01501" joined="2013-09-10"/>
+    <cosponsor thomas_id="00688" joined="2013-06-14"/>
+    <cosponsor thomas_id="01781" joined="2013-05-15"/>
+    <cosponsor thomas_id="00699" joined="2014-02-25"/>
+    <cosponsor thomas_id="01846" joined="2013-05-06"/>
+    <cosponsor thomas_id="00701" joined="2013-05-08"/>
+    <cosponsor thomas_id="02033" joined="2013-05-15"/>
+    <cosponsor thomas_id="02111" joined="2013-07-22"/>
+    <cosponsor thomas_id="01939" joined="2013-05-08"/>
+    <cosponsor thomas_id="01686" joined="2013-12-11"/>
+    <cosponsor thomas_id="00729" joined="2013-08-02"/>
+    <cosponsor thomas_id="02150" joined="2014-07-16"/>
+    <cosponsor thomas_id="02094" joined="2013-09-10"/>
+    <cosponsor thomas_id="01814" joined="2014-04-29"/>
+    <cosponsor thomas_id="01653" joined="2014-04-07"/>
+    <cosponsor thomas_id="01504" joined="2013-05-20"/>
+    <cosponsor thomas_id="01832" joined="2013-05-23"/>
+    <cosponsor thomas_id="02052" joined="2013-05-15"/>
+    <cosponsor thomas_id="01730" joined="2013-05-06"/>
+    <cosponsor thomas_id="01584" joined="2013-06-06"/>
+    <cosponsor thomas_id="01744" joined="2013-05-23"/>
+    <cosponsor thomas_id="00850" joined="2013-06-14"/>
+    <cosponsor thomas_id="01758" joined="2013-07-09"/>
+    <cosponsor thomas_id="00868" joined="2013-12-03"/>
+    <cosponsor thomas_id="02162" joined="2013-11-18"/>
+    <cosponsor thomas_id="00887" joined="2013-08-01"/>
+    <cosponsor thomas_id="01927" joined="2013-05-06"/>
+    <cosponsor thomas_id="01802" joined="2013-06-19"/>
+    <cosponsor thomas_id="00930" joined="2013-05-15"/>
+    <cosponsor thomas_id="00998" joined="2013-05-15"/>
+    <cosponsor thomas_id="02109" joined="2013-07-09"/>
+    <cosponsor thomas_id="02039" joined="2013-05-08"/>
+    <cosponsor thomas_id="01728" joined="2013-05-08"/>
+    <cosponsor thomas_id="01756" joined="2013-06-14"/>
+    <cosponsor thomas_id="01757" joined="2013-08-01"/>
+    <cosponsor thomas_id="01854" joined="2013-06-06"/>
+    <cosponsor thomas_id="01588" joined="2013-05-15"/>
+    <cosponsor thomas_id="01635" joined="2013-04-26"/>
+    <cosponsor thomas_id="02124" joined="2013-05-23"/>
+    <cosponsor thomas_id="01920" joined="2013-05-20"/>
+    <cosponsor thomas_id="01861" joined="2013-05-06"/>
+    <cosponsor thomas_id="01526" joined="2013-11-20"/>
+    <cosponsor thomas_id="01527" joined="2014-07-08"/>
+    <cosponsor thomas_id="01681" joined="2013-09-12"/>
+    <cosponsor thomas_id="01818" joined="2013-05-08"/>
+    <cosponsor thomas_id="02104" joined="2013-05-08"/>
+    <cosponsor thomas_id="02110" joined="2013-05-15"/>
+    <cosponsor thomas_id="01952" joined="2013-05-06"/>
+    <cosponsor thomas_id="01593" joined="2014-04-07"/>
+    <cosponsor thomas_id="01535" joined="2013-05-20"/>
+    <cosponsor thomas_id="01940" joined="2013-05-08"/>
+    <cosponsor thomas_id="01884" joined="2013-05-06"/>
+    <cosponsor thomas_id="01741" joined="2013-06-19"/>
+    <cosponsor thomas_id="02105" joined="2013-10-30"/>
+    <cosponsor thomas_id="02112" joined="2013-05-06"/>
+    <cosponsor thomas_id="02166" joined="2014-07-31"/>
+    <cosponsor thomas_id="01188" joined="2013-06-14"/>
+    <cosponsor thomas_id="01596" joined="2014-07-14"/>
+    <cosponsor thomas_id="01209" joined="2013-05-23"/>
+    <cosponsor thomas_id="01879" joined="2013-05-20"/>
+    <cosponsor thomas_id="01222" joined="2013-05-15"/>
+    <cosponsor thomas_id="01886" joined="2013-05-23"/>
+    <cosponsor thomas_id="01853" joined="2013-06-06"/>
+    <cosponsor thomas_id="02115" joined="2014-05-07"/>
+    <cosponsor thomas_id="01255" joined="2013-06-19"/>
+    <cosponsor thomas_id="01256" joined="2013-06-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-26" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2013-06-03">
+      <text>Referred to the Subcommittee on Social Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee subcommittee="Social Security" code="HSWM01" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="896"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Social security and elderly assistance"/>
+  </subjects>
+  <amendments/>
+  <summary>4/26/2013--Introduced.
+Social Security Fairness Act of 2013 - Amends title II (Old Age, Survivors and Disability Insurance) (OASDI) of the Social Security Act to repeal the government pension offset requirement applicable to and reducing husband's and wife's insurance benefits, widow's and widower's insurance benefits, and divorced mother's and divorced father's insurance benefits with respect to federal, state, or local government employees who receive a government pension and did not pay Social Security taxes during their years of government service, and so did not earn entitlement to Social Security benefits for those years.
+
+Repeals also the windfall elimination requirement with respect to computation of an individual's primary insurance amount under which OASDI retirement or disability benefits are reduced if the individual receives a federal, state, or local government pension, did not pay Social Security taxes during the years of government service, and so did not earn entitlement to Social Security benefits for those years.</summary>
+</bill>

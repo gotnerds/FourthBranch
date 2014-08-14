@@ -1,0 +1,94 @@
+<bill session="113" type="h" number="3687" updated="2014-08-14T13:22:56-04:00">
+  <state datetime="2014-05-08">REPORTED</state>
+  <status>
+    <unknown datetime="2014-05-08"/>
+  </status>
+  <introduced datetime="2013-12-10"/>
+  <titles>
+    <title type="short" as="introduced">Military LAND Act</title>
+    <title type="short" as="introduced">Military Land and National Defense Act</title>
+    <title type="short" as="reported to house">Military LAND Act</title>
+    <title type="short" as="reported to house">Military Land and National Defense Act</title>
+    <title type="official" as="introduced">To amend the National Historic Preservation Act to provide that if the head of the agency managing Federal property objects to the inclusion of certain property on the National Register or its designation as a National Historic Landmark for reasons of national security, the Federal property shall be neither included nor designated until the objection is withdraw, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01640"/>
+  <cosponsors>
+    <cosponsor thomas_id="01858" joined="2013-12-10"/>
+    <cosponsor thomas_id="02135" joined="2013-12-10"/>
+    <cosponsor thomas_id="01748" joined="2013-12-10"/>
+    <cosponsor thomas_id="01882" joined="2013-12-10"/>
+    <cosponsor thomas_id="00165" joined="2013-12-10"/>
+    <cosponsor thomas_id="01912" joined="2013-12-10"/>
+    <cosponsor thomas_id="01805" joined="2013-12-10"/>
+    <cosponsor thomas_id="02036" joined="2014-02-26"/>
+    <cosponsor thomas_id="01924" joined="2013-12-10"/>
+    <cosponsor thomas_id="02065" joined="2014-02-26"/>
+    <cosponsor thomas_id="01707" joined="2013-12-10"/>
+    <cosponsor thomas_id="01801" joined="2013-12-10"/>
+    <cosponsor thomas_id="02026" joined="2014-02-26"/>
+    <cosponsor thomas_id="02032" joined="2014-02-26"/>
+    <cosponsor thomas_id="01724" joined="2013-12-10"/>
+    <cosponsor thomas_id="02100" joined="2013-12-10"/>
+    <cosponsor thomas_id="01806" joined="2014-02-26"/>
+    <cosponsor thomas_id="02034" joined="2013-12-10"/>
+    <cosponsor thomas_id="01915" joined="2013-12-10"/>
+    <cosponsor thomas_id="00998" joined="2014-02-26"/>
+    <cosponsor thomas_id="01009" joined="2014-02-26"/>
+    <cosponsor thomas_id="02009" joined="2014-02-26"/>
+    <cosponsor thomas_id="02168" joined="2014-02-26"/>
+    <cosponsor thomas_id="01155" joined="2013-12-10"/>
+    <cosponsor thomas_id="02161" joined="2013-12-10"/>
+    <cosponsor thomas_id="02152" joined="2014-02-26"/>
+    <cosponsor thomas_id="02115" joined="2013-12-10"/>
+    <cosponsor thomas_id="01256" joined="2014-02-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-12-10" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-12-13">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+    </action>
+    <action datetime="2014-04-29">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2014-05-08">
+      <text>Subcommittee on Public Lands and Environmental Regulation Discharged.</text>
+    </action>
+    <action datetime="2014-05-08">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-05-08" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 20 - 12.</text>
+    </calendar>
+    <action datetime="2014-06-30T12:17:00-04:00">
+      <text>Reported by the Committee on Natural Resources. H. Rept. 113-503.</text>
+    </action>
+    <calendar datetime="2014-06-30T12:18:00-04:00" calendar="Union" number="376">
+      <text>Placed on the Union Calendar, Calendar No. 376.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee subcommittee="Public Lands and Environmental Regulation" code="HSII10" name="House Natural Resources" activity="Referral, Hearings, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="4435"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Administrative remedies"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of the Interior"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Military education and training"/>
+    <term name="Military facilities and property"/>
+    <term name="Military readiness"/>
+  </subjects>
+  <amendments/>
+  <summary>6/30/2014--Reported to House without amendment.
+Military Land and National Defense Act or the Military LAND Act - Amends the National Historic Preservation Act to require the Secretary of the Interior to notify the House Committee on Natural Resources and the Senate Committee on Energy and Natural Resources if a property owned by the federal government is being considered for inclusion on the National Register of Historic Places, for designation as a National Historic Landmark, or for nomination to the World Heritage List. Prohibits&#160;such inclusion or designation of federal property if the head of any federal agency managing such property objects to such inclusion or designation for national security reasons, such as any impact the inclusion or designation of such property&#160;would have on use of the property for military training or readiness.
+
+Requires the Secretary to promulgate regulations to allow for expedited removal of&#160;a federal property listed on the National Register of Historic Places if the managing agency of such property submits a written request to remove the property for national security reasons.</summary>
+</bill>

@@ -1,0 +1,26 @@
+<bill session="113" type="h" number="5124" updated="2014-08-14T13:35:12-04:00">
+  <state datetime="2014-07-16">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-16"/>
+  </status>
+  <introduced datetime="2014-07-16"/>
+  <titles>
+    <title type="short" as="introduced">Sickle Cell Disease Research, Surveillance, Prevention, and Treatment Act of 2014</title>
+    <title type="official" as="introduced">To amend the Public Health Service Act to reauthorize a sickle cell disease prevention and treatment demonstration program and to provide for sickle cell disease research, surveillance, prevention, and treatment.</title>
+  </titles>
+  <sponsor thomas_id="01477"/>
+  <cosponsors>
+    <cosponsor thomas_id="01751" joined="2014-07-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-16" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

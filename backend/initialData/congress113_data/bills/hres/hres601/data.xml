@@ -1,0 +1,151 @@
+<bill session="113" type="hr" number="601" updated="2014-08-14T12:49:43-04:00">
+  <state datetime="2014-05-28">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-28"/>
+  </status>
+  <introduced datetime="2014-05-28"/>
+  <titles>
+    <title type="official" as="introduced">Condemning the death sentence against Meriam Yahia Ibrahim Ishag, a Sudanese Christian woman accused of apostasy.</title>
+  </titles>
+  <sponsor thomas_id="01707"/>
+  <cosponsors>
+    <cosponsor thomas_id="01460" joined="2014-05-28"/>
+    <cosponsor thomas_id="01858" joined="2014-05-28"/>
+    <cosponsor thomas_id="00038" joined="2014-06-19"/>
+    <cosponsor thomas_id="02135" joined="2014-05-28"/>
+    <cosponsor thomas_id="01838" joined="2014-06-05"/>
+    <cosponsor thomas_id="00091" joined="2014-06-05"/>
+    <cosponsor thomas_id="01740" joined="2014-06-24"/>
+    <cosponsor thomas_id="02063" joined="2014-06-05"/>
+    <cosponsor thomas_id="01748" joined="2014-06-05"/>
+    <cosponsor thomas_id="02155" joined="2014-05-30"/>
+    <cosponsor thomas_id="02129" joined="2014-06-19"/>
+    <cosponsor thomas_id="01882" joined="2014-05-30"/>
+    <cosponsor thomas_id="01676" joined="2014-06-12"/>
+    <cosponsor thomas_id="00186" joined="2014-06-05"/>
+    <cosponsor thomas_id="02098" joined="2014-05-28"/>
+    <cosponsor thomas_id="02144" joined="2014-05-30"/>
+    <cosponsor thomas_id="02126" joined="2014-06-05"/>
+    <cosponsor thomas_id="02072" joined="2014-06-19"/>
+    <cosponsor thomas_id="02057" joined="2014-05-28"/>
+    <cosponsor thomas_id="02064" joined="2014-06-05"/>
+    <cosponsor thomas_id="01683" joined="2014-05-30"/>
+    <cosponsor thomas_id="01793" joined="2014-06-05"/>
+    <cosponsor thomas_id="02043" joined="2014-06-05"/>
+    <cosponsor thomas_id="01720" joined="2014-05-28"/>
+    <cosponsor thomas_id="01801" joined="2014-06-19"/>
+    <cosponsor thomas_id="02058" joined="2014-06-05"/>
+    <cosponsor thomas_id="00462" joined="2014-06-12"/>
+    <cosponsor thomas_id="01990" joined="2014-06-05"/>
+    <cosponsor thomas_id="02070" joined="2014-05-30"/>
+    <cosponsor thomas_id="02041" joined="2014-05-30"/>
+    <cosponsor thomas_id="01933" joined="2014-05-30"/>
+    <cosponsor thomas_id="02032" joined="2014-05-28"/>
+    <cosponsor thomas_id="01913" joined="2014-06-24"/>
+    <cosponsor thomas_id="02140" joined="2014-05-30"/>
+    <cosponsor thomas_id="02020" joined="2014-05-28"/>
+    <cosponsor thomas_id="02028" joined="2014-05-30"/>
+    <cosponsor thomas_id="02015" joined="2014-05-30"/>
+    <cosponsor thomas_id="01921" joined="2014-06-05"/>
+    <cosponsor thomas_id="02154" joined="2014-06-24"/>
+    <cosponsor thomas_id="02051" joined="2014-05-30"/>
+    <cosponsor thomas_id="01724" joined="2014-07-31"/>
+    <cosponsor thomas_id="00636" joined="2014-06-12"/>
+    <cosponsor thomas_id="01733" joined="2014-06-12"/>
+    <cosponsor thomas_id="02145" joined="2014-06-12"/>
+    <cosponsor thomas_id="02100" joined="2014-06-19"/>
+    <cosponsor thomas_id="01885" joined="2014-05-30"/>
+    <cosponsor thomas_id="01960" joined="2014-06-05"/>
+    <cosponsor thomas_id="02053" joined="2014-05-30"/>
+    <cosponsor thomas_id="02195" joined="2014-07-16"/>
+    <cosponsor thomas_id="01908" joined="2014-05-30"/>
+    <cosponsor thomas_id="01505" joined="2014-06-12"/>
+    <cosponsor thomas_id="02142" joined="2014-05-30"/>
+    <cosponsor thomas_id="02060" joined="2014-06-24"/>
+    <cosponsor thomas_id="00868" joined="2014-07-31"/>
+    <cosponsor thomas_id="02001" joined="2014-07-09"/>
+    <cosponsor thomas_id="02034" joined="2014-06-12"/>
+    <cosponsor thomas_id="01738" joined="2014-05-30"/>
+    <cosponsor thomas_id="02157" joined="2014-06-25"/>
+    <cosponsor thomas_id="00910" joined="2014-06-12"/>
+    <cosponsor thomas_id="02141" joined="2014-06-05"/>
+    <cosponsor thomas_id="02171" joined="2014-07-09"/>
+    <cosponsor thomas_id="01802" joined="2014-06-25"/>
+    <cosponsor thomas_id="02022" joined="2014-06-05"/>
+    <cosponsor thomas_id="00944" joined="2014-05-30"/>
+    <cosponsor thomas_id="01704" joined="2014-06-24"/>
+    <cosponsor thomas_id="02017" joined="2014-07-16"/>
+    <cosponsor thomas_id="01916" joined="2014-05-30"/>
+    <cosponsor thomas_id="02003" joined="2014-06-05"/>
+    <cosponsor thomas_id="02158" joined="2014-05-28"/>
+    <cosponsor thomas_id="01041" joined="2014-06-12"/>
+    <cosponsor thomas_id="01525" joined="2014-06-12"/>
+    <cosponsor thomas_id="01861" joined="2014-06-05"/>
+    <cosponsor thomas_id="02047" joined="2014-07-09"/>
+    <cosponsor thomas_id="01566" joined="2014-06-05"/>
+    <cosponsor thomas_id="01535" joined="2014-06-12"/>
+    <cosponsor thomas_id="01855" joined="2014-06-12"/>
+    <cosponsor thomas_id="02128" joined="2014-05-28"/>
+    <cosponsor thomas_id="02002" joined="2014-07-09"/>
+    <cosponsor thomas_id="01222" joined="2014-06-05"/>
+    <cosponsor thomas_id="01238" joined="2014-05-28"/>
+    <cosponsor thomas_id="01256" joined="2014-06-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-28" state="REFERRED">
+      <text>Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-05-28">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+    <action datetime="2014-05-28">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2014-06-10">
+      <text>Referred to the Subcommittee on Africa, Global Health, Global Human Rights and International Organizations.</text>
+    </action>
+    <action datetime="2014-07-21">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+    <action datetime="2014-07-21">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee subcommittee="Africa, Global Health, Global Human Rights and International Organizations" code="HSFA16" name="House Foreign Affairs" activity="Referral"/>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Immigration and Border Security" code="HSJU01" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Constitution and Civil Justice" code="HSJU10" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="sr" session="113" relation="unknown" number="453"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Africa"/>
+    <term name="Detention of persons"/>
+    <term name="Foreign aid and international relief"/>
+    <term name="Human rights"/>
+    <term name="Refugees, asylum, displaced persons"/>
+    <term name="Religion"/>
+    <term name="Sanctions"/>
+    <term name="Sudan"/>
+    <term name="Women's rights"/>
+  </subjects>
+  <amendments/>
+  <summary>5/28/2014--Introduced.
+Condemns the charge of apostasy and adultery of Meriam Yahia Ibrahim Ishag in Sudan and her sentence of 100 lashes and the death penalty.
+
+ Calls for the release from prison of Ibrahim, her 20-month-old son, and newborn daughter.
+
+ Urges the Department of State and the Department of Homeland Security (DHS) to prioritize granting Ibrahim asylum or refugee status.
+
+ Encourages U.S. efforts to support religious freedom within Sudan, including by requiring before normalizing relations or lifting certain sanctions that Sudan abide by international standards of freedom of religion or belief.
+
+Recognizes that every individual should have the opportunity to practice his or her religion without fear of discrimination.
+
+Reaffirms the commitment of the United State to end religious discrimination and to pursue policies that guarantee the basic human rights of all individuals.
+
+Encourages the Department of State and the U.S. Agency for International Development (USAID) to continue their support for religious freedom initiatives.</summary>
+</bill>

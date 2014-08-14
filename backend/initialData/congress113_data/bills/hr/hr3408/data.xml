@@ -1,0 +1,87 @@
+<bill session="113" type="h" number="3408" updated="2014-08-14T13:20:30-04:00">
+  <state datetime="2013-10-30">REFERRED</state>
+  <status>
+    <introduced datetime="2013-10-30"/>
+  </status>
+  <introduced datetime="2013-10-30"/>
+  <titles>
+    <title type="short" as="introduced">Injured and Amputee Veterans Bill of Rights</title>
+    <title type="official" as="introduced">To direct the Secretary of Veterans Affairs to educate certain staff of the Department of Veterans Affairs and to inform veterans about the Injured and Amputee Veterans Bill of Rights, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02036"/>
+  <cosponsors>
+    <cosponsor thomas_id="02131" joined="2014-05-07"/>
+    <cosponsor thomas_id="01787" joined="2013-12-09"/>
+    <cosponsor thomas_id="02106" joined="2013-10-30"/>
+    <cosponsor thomas_id="01840" joined="2013-11-13"/>
+    <cosponsor thomas_id="01761" joined="2014-01-16"/>
+    <cosponsor thomas_id="01752" joined="2014-03-11"/>
+    <cosponsor thomas_id="00211" joined="2013-10-30"/>
+    <cosponsor thomas_id="02125" joined="2013-11-20"/>
+    <cosponsor thomas_id="01990" joined="2014-02-26"/>
+    <cosponsor thomas_id="02041" joined="2013-11-14"/>
+    <cosponsor thomas_id="02143" joined="2014-03-25"/>
+    <cosponsor thomas_id="01634" joined="2014-04-03"/>
+    <cosponsor thomas_id="02140" joined="2013-12-19"/>
+    <cosponsor thomas_id="02046" joined="2013-11-20"/>
+    <cosponsor thomas_id="00612" joined="2013-11-13"/>
+    <cosponsor thomas_id="02014" joined="2014-01-14"/>
+    <cosponsor thomas_id="02100" joined="2013-11-13"/>
+    <cosponsor thomas_id="01885" joined="2014-02-03"/>
+    <cosponsor thomas_id="00709" joined="2014-04-08"/>
+    <cosponsor thomas_id="02150" joined="2014-02-26"/>
+    <cosponsor thomas_id="01505" joined="2013-10-30"/>
+    <cosponsor thomas_id="02142" joined="2013-11-20"/>
+    <cosponsor thomas_id="02001" joined="2013-12-09"/>
+    <cosponsor thomas_id="01710" joined="2013-11-15"/>
+    <cosponsor thomas_id="02157" joined="2013-11-20"/>
+    <cosponsor thomas_id="02141" joined="2013-10-30"/>
+    <cosponsor thomas_id="01802" joined="2013-11-20"/>
+    <cosponsor thomas_id="00930" joined="2013-10-30"/>
+    <cosponsor thomas_id="02068" joined="2013-11-14"/>
+    <cosponsor thomas_id="01986" joined="2013-12-19"/>
+    <cosponsor thomas_id="01954" joined="2013-10-30"/>
+    <cosponsor thomas_id="02109" joined="2013-10-30"/>
+    <cosponsor thomas_id="02000" joined="2013-12-09"/>
+    <cosponsor thomas_id="02047" joined="2013-11-15"/>
+    <cosponsor thomas_id="01855" joined="2014-05-01"/>
+    <cosponsor thomas_id="02128" joined="2013-11-14"/>
+    <cosponsor thomas_id="02002" joined="2014-02-03"/>
+    <cosponsor thomas_id="01688" joined="2013-11-13"/>
+    <cosponsor thomas_id="02021" joined="2014-01-14"/>
+    <cosponsor thomas_id="02115" joined="2013-12-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-10-30" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-11-18">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Health" code="HSVR03" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Disability and paralysis"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health care quality"/>
+    <term name="Health information and medical records"/>
+    <term name="Health personnel"/>
+    <term name="Veterans' education, employment, rehabilitation"/>
+    <term name="Veterans' loans, housing, homeless programs"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>10/30/2013--Introduced.
+Injured and Amputee Veterans Bill of Rights - Directs the Secretary of Veterans Affairs to ensure that an Injured and Amputee Veterans Bill of Rights is printed on signage in accessible formats and displayed prominently and conspicuously in each Department of Veterans Affairs (VA) prosthetics and orthotics clinic. Requires VA employees who work at such clinics, as well as patient advocates of veterans who receive care there, to receive training on such Bill of Rights. Directs the Secretary to conduct outreach to inform veterans of such Bill of Rights.
+
+Includes in the Bill of Rights the right to: (1) access the highest quality prosthetic and orthotic care; (2) select the practitioner that best meets their prosthetic and orthotic needs; (3) timely and efficient prosthetic and orthotic care; and (4) transition and readjust to civilian life in an honorable manner, including by having ample access to vocational rehabilitation, employment programs, and housing assistance.
+
+Directs: (1) the Secretary to collect information relating to the alleged mistreatment of injured and amputee veterans, (2) the veteran liaison at each VA medical center to submit quarterly to the VA's Chief Consultant of Prosthetics and Sensory Aids a report on such information, and (3) the Chief Consultant to investigate and address such information.</summary>
+</bill>

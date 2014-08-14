@@ -1,0 +1,54 @@
+<bill session="113" type="s" number="2258" updated="2014-08-14T14:04:06-04:00">
+  <state datetime="2014-04-28">REFERRED</state>
+  <status>
+    <introduced datetime="2014-04-28"/>
+  </status>
+  <introduced datetime="2014-04-28"/>
+  <titles>
+    <title type="short" as="introduced">Veterans' Compensation Cost-of-Living Adjustment Act of 2014</title>
+    <title type="official" as="introduced">A bill to provide for an increase, effective December 1, 2014, in the rates of compensation for veterans with service-connected disabilities and the rates of dependency and indemnity compensation for the survivors of certain disabled veterans, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01898"/>
+  <cosponsors>
+    <cosponsor thomas_id="02076" joined="2014-04-28"/>
+    <cosponsor thomas_id="01687" joined="2014-04-28"/>
+    <cosponsor thomas_id="00136" joined="2014-04-28"/>
+    <cosponsor thomas_id="00153" joined="2014-04-28"/>
+    <cosponsor thomas_id="01863" joined="2014-04-28"/>
+    <cosponsor thomas_id="01844" joined="2014-04-28"/>
+    <cosponsor thomas_id="01608" joined="2014-04-28"/>
+    <cosponsor thomas_id="01899" joined="2014-04-28"/>
+    <cosponsor thomas_id="01507" joined="2014-04-28"/>
+    <cosponsor thomas_id="01409" joined="2014-04-28"/>
+    <cosponsor thomas_id="01424" joined="2014-04-28"/>
+    <cosponsor thomas_id="01010" joined="2014-04-28"/>
+    <cosponsor thomas_id="01829" joined="2014-04-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-04-28" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSVA" name="Senate Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="357"/>
+    <bill type="h" session="113" relation="unknown" number="569"/>
+    <bill type="h" session="113" relation="unknown" number="570"/>
+    <bill type="h" session="113" relation="unknown" number="4095"/>
+    <bill type="h" session="113" relation="unknown" number="4096"/>
+    <bill type="s" session="113" relation="unknown" number="893"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Disability assistance"/>
+    <term name="Inflation and prices"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>4/28/2014--Introduced.
+Veterans' Compensation Cost-of-Living Adjustment Act of 2014 - Directs the Secretary of Veterans Affairs (VA) to increase, as of December 1, 2014, the rates of veterans' disability compensation, additional compensation for dependents, the clothing allowance for certain disabled veterans, and dependency and indemnity compensation for surviving spouses and children.
+
+Requires each such increase to be the same percentage as the increase in benefits provided under title II (Old Age, Survivors and Disability Insurance) of the Social Security Act, on the same effective date.</summary>
+</bill>

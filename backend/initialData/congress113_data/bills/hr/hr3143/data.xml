@@ -1,0 +1,61 @@
+<bill session="113" type="h" number="3143" updated="2014-08-14T13:18:15-04:00">
+  <state datetime="2013-09-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-09-19"/>
+  </status>
+  <introduced datetime="2013-09-19"/>
+  <titles>
+    <title type="short" as="introduced">Justice Against Sponsors of Terrorism Act</title>
+    <title type="official" as="introduced">To deter terrorism, provide justice for victims, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00635"/>
+  <cosponsors>
+    <cosponsor thomas_id="01840" joined="2013-10-16"/>
+    <cosponsor thomas_id="01878" joined="2013-12-09"/>
+    <cosponsor thomas_id="02067" joined="2013-10-30"/>
+    <cosponsor thomas_id="01797" joined="2013-10-22"/>
+    <cosponsor thomas_id="00414" joined="2013-09-19"/>
+    <cosponsor thomas_id="02041" joined="2013-09-19"/>
+    <cosponsor thomas_id="01663" joined="2013-11-19"/>
+    <cosponsor thomas_id="00612" joined="2013-12-09"/>
+    <cosponsor thomas_id="00699" joined="2013-09-27"/>
+    <cosponsor thomas_id="00729" joined="2013-09-19"/>
+    <cosponsor thomas_id="01503" joined="2013-10-28"/>
+    <cosponsor thomas_id="02052" joined="2013-09-19"/>
+    <cosponsor thomas_id="00850" joined="2013-09-19"/>
+    <cosponsor thomas_id="01802" joined="2013-09-19"/>
+    <cosponsor thomas_id="02104" joined="2013-09-19"/>
+    <cosponsor thomas_id="01942" joined="2013-10-23"/>
+    <cosponsor thomas_id="01879" joined="2013-10-07"/>
+    <cosponsor thomas_id="01238" joined="2013-10-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-19" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2014-01-09">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Constitution and Civil Justice" code="HSJU10" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="1535"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Civil actions and liability"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Federal district courts"/>
+    <term name="Government liability"/>
+    <term name="Jurisdiction and venue"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+  <summary>9/19/2013--Introduced.
+Justice Against Sponsors of Terrorism Act - Amends the federal judicial code to include among the exceptions to U.S. jurisdictional immunity of foreign states any statutory or common law tort claim arising out of an act of extrajudicial killing, aircraft sabotage, hostage taking, terrorism, or the provision of material support or resources for such an act, or any claim for contribution or indemnity relating to a claim arising out of such an act.
+
+Amends the federal criminal code to: (1) impose liability on, and grant U.S. district courts personal jurisdiction over, any person who commits, or aids, abets, or conspires with a person who commits, an act of international terrorism that injures a U.S. national; and (2) repeal provisions prohibiting civil actions against foreign states or foreign officials for damages related to acts of terrorism.</summary>
+</bill>

@@ -1,0 +1,77 @@
+<bill session="113" type="h" number="2920" updated="2014-08-14T13:16:22-04:00">
+  <state datetime="2013-08-01">REFERRED</state>
+  <status>
+    <introduced datetime="2013-08-01"/>
+  </status>
+  <introduced datetime="2013-08-01"/>
+  <titles>
+    <title type="short" as="introduced">Financial Literacy for Students Act</title>
+    <title type="official" as="introduced">To improve the financial literacy of students.</title>
+  </titles>
+  <sponsor thomas_id="02159"/>
+  <cosponsors>
+    <cosponsor thomas_id="02092" joined="2013-10-22"/>
+    <cosponsor thomas_id="02107" joined="2013-09-25"/>
+    <cosponsor thomas_id="01864" joined="2013-08-01"/>
+    <cosponsor thomas_id="01654" joined="2013-08-01"/>
+    <cosponsor thomas_id="01878" joined="2013-08-01"/>
+    <cosponsor thomas_id="01959" joined="2013-10-22"/>
+    <cosponsor thomas_id="01894" joined="2013-12-05"/>
+    <cosponsor thomas_id="01857" joined="2013-08-01"/>
+    <cosponsor thomas_id="01895" joined="2013-12-11"/>
+    <cosponsor thomas_id="01913" joined="2013-08-01"/>
+    <cosponsor thomas_id="01490" joined="2013-08-01"/>
+    <cosponsor thomas_id="01634" joined="2013-08-01"/>
+    <cosponsor thomas_id="00588" joined="2013-08-01"/>
+    <cosponsor thomas_id="00599" joined="2013-08-01"/>
+    <cosponsor thomas_id="00616" joined="2013-08-01"/>
+    <cosponsor thomas_id="02190" joined="2013-10-08"/>
+    <cosponsor thomas_id="01668" joined="2013-08-01"/>
+    <cosponsor thomas_id="01501" joined="2014-07-09"/>
+    <cosponsor thomas_id="00688" joined="2013-08-01"/>
+    <cosponsor thomas_id="00701" joined="2014-02-25"/>
+    <cosponsor thomas_id="00729" joined="2013-10-22"/>
+    <cosponsor thomas_id="01653" joined="2013-12-12"/>
+    <cosponsor thomas_id="01506" joined="2013-08-01"/>
+    <cosponsor thomas_id="01510" joined="2013-08-01"/>
+    <cosponsor thomas_id="01835" joined="2013-08-01"/>
+    <cosponsor thomas_id="00944" joined="2013-08-01"/>
+    <cosponsor thomas_id="01003" joined="2013-08-01"/>
+    <cosponsor thomas_id="01756" joined="2013-08-01"/>
+    <cosponsor thomas_id="01588" joined="2013-08-01"/>
+    <cosponsor thomas_id="01037" joined="2013-11-12"/>
+    <cosponsor thomas_id="01988" joined="2013-08-01"/>
+    <cosponsor thomas_id="02110" joined="2013-08-01"/>
+    <cosponsor thomas_id="01151" joined="2013-08-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-08-01" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2013-09-13">
+      <text>Referred to the Subcommittee on Early Childhood, Elementary, and Secondary Education.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+    <committee subcommittee="Early Childhood, Elementary, and Secondary Education" code="HSED14" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="829"/>
+    <bill type="s" session="113" relation="unknown" number="1094"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Consumer affairs"/>
+    <term name="Economic theory"/>
+    <term name="Education programs funding"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Financial literacy"/>
+    <term name="Teaching, teachers, curricula"/>
+  </subjects>
+  <amendments/>
+  <summary>8/1/2013--Introduced.
+Financial Literacy for Students Act - Amends the Elementary and Secondary Education of 1965 (ESEA) to authorize the Secretary of Education to award matching grants to states to: (1) integrate financial literacy education into each of their public elementary and secondary schools that are eligible for school improvement funds under title I of the ESEA, and (2) train their secondary school financial literacy or entrepreneurship teachers to teach financial literacy in core academic subjects.
+
+Prohibits states from using over 20% of their grant funds to train those teachers, develop curricula, and evaluate the impact of financial literacy or personal finance education.</summary>
+</bill>

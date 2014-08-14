@@ -1,0 +1,54 @@
+<bill session="113" type="h" number="3620" updated="2014-08-14T13:22:22-04:00">
+  <state datetime="2013-11-22">REFERRED</state>
+  <status>
+    <introduced datetime="2013-11-22"/>
+  </status>
+  <introduced datetime="2013-11-22"/>
+  <titles>
+    <title type="short" as="introduced">Local Hire Act</title>
+    <title type="official" as="introduced">To amend titles 23 and 49, United States Code, to allow local hiring for transportation projects.</title>
+  </titles>
+  <sponsor thomas_id="01996"/>
+  <cosponsors>
+    <cosponsor thomas_id="01740" joined="2013-11-22"/>
+    <cosponsor thomas_id="02107" joined="2014-02-27"/>
+    <cosponsor thomas_id="02159" joined="2014-06-24"/>
+    <cosponsor thomas_id="02125" joined="2014-03-06"/>
+    <cosponsor thomas_id="02089" joined="2013-11-22"/>
+    <cosponsor thomas_id="01501" joined="2014-03-06"/>
+    <cosponsor thomas_id="01602" joined="2014-01-08"/>
+    <cosponsor thomas_id="02108" joined="2014-03-24"/>
+    <cosponsor thomas_id="01929" joined="2014-03-11"/>
+    <cosponsor thomas_id="00997" joined="2013-11-22"/>
+    <cosponsor thomas_id="01205" joined="2014-02-03"/>
+    <cosponsor thomas_id="01209" joined="2013-11-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-11-22" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2013-11-25">
+      <text>Referred to the Subcommittee on Highways and Transit.</text>
+    </action>
+    <action datetime="2013-11-25">
+      <text>Referred to the Subcommittee on Railroads, Pipelines, and Hazardous Materials.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Highways and Transit" code="HSPW12" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Railroads, Pipelines, and Hazardous Materials" code="HSPW14" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Employee hiring"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Public transit"/>
+    <term name="Roads and highways"/>
+    <term name="Transportation programs funding"/>
+  </subjects>
+  <amendments/>
+  <summary>11/22/2013--Introduced.
+Local Hire Act - Authorizes a state to establish local hiring bid specifications or consider the hiring of local workers in the evaluation of bids and proposals for federal-aid highway projects. Authorizes recipients of federal assistance likewise to establish such specifications or consider local hiring in the evaluation of bids and proposals for public transportation projects.</summary>
+</bill>

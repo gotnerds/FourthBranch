@@ -1,0 +1,72 @@
+<bill session="113" type="h" number="1125" updated="2014-08-14T13:00:17-04:00">
+  <state datetime="2013-03-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-13"/>
+  </status>
+  <introduced datetime="2013-03-13"/>
+  <titles>
+    <title type="short" as="introduced">Veterinary Medicine Loan Repayment Program Enhancement Act</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide for an exclusion for assistance provided to participants in certain veterinary student loan repayment or forgiveness programs.</title>
+  </titles>
+  <sponsor thomas_id="01950"/>
+  <cosponsors>
+    <cosponsor thomas_id="00091" joined="2014-03-25"/>
+    <cosponsor thomas_id="01740" joined="2014-07-31"/>
+    <cosponsor thomas_id="02127" joined="2014-02-11"/>
+    <cosponsor thomas_id="02159" joined="2013-10-16"/>
+    <cosponsor thomas_id="02196" joined="2014-06-12"/>
+    <cosponsor thomas_id="01654" joined="2013-07-30"/>
+    <cosponsor thomas_id="01836" joined="2014-06-19"/>
+    <cosponsor thomas_id="02126" joined="2013-05-17"/>
+    <cosponsor thomas_id="00279" joined="2013-11-15"/>
+    <cosponsor thomas_id="00281" joined="2014-04-29"/>
+    <cosponsor thomas_id="02096" joined="2013-12-05"/>
+    <cosponsor thomas_id="02123" joined="2013-10-02"/>
+    <cosponsor thomas_id="02125" joined="2013-12-03"/>
+    <cosponsor thomas_id="00368" joined="2013-04-16"/>
+    <cosponsor thomas_id="00371" joined="2014-07-23"/>
+    <cosponsor thomas_id="02043" joined="2014-05-01"/>
+    <cosponsor thomas_id="01933" joined="2014-05-21"/>
+    <cosponsor thomas_id="02101" joined="2013-11-13"/>
+    <cosponsor thomas_id="01907" joined="2013-12-03"/>
+    <cosponsor thomas_id="00666" joined="2013-09-17"/>
+    <cosponsor thomas_id="01501" joined="2014-07-08"/>
+    <cosponsor thomas_id="01846" joined="2014-07-08"/>
+    <cosponsor thomas_id="01943" joined="2014-06-12"/>
+    <cosponsor thomas_id="01653" joined="2013-03-20"/>
+    <cosponsor thomas_id="01504" joined="2013-12-05"/>
+    <cosponsor thomas_id="01505" joined="2013-12-05"/>
+    <cosponsor thomas_id="02108" joined="2013-11-21"/>
+    <cosponsor thomas_id="01974" joined="2013-08-02"/>
+    <cosponsor thomas_id="01953" joined="2014-06-18"/>
+    <cosponsor thomas_id="02171" joined="2014-02-21"/>
+    <cosponsor thomas_id="01704" joined="2013-04-09"/>
+    <cosponsor thomas_id="01522" joined="2014-03-25"/>
+    <cosponsor thomas_id="02105" joined="2013-07-10"/>
+    <cosponsor thomas_id="02021" joined="2013-05-21"/>
+    <cosponsor thomas_id="02115" joined="2013-03-20"/>
+    <cosponsor thomas_id="01256" joined="2013-06-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-13" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="553"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Health care coverage and access"/>
+    <term name="Income tax exclusion"/>
+    <term name="Medical education"/>
+    <term name="Student aid and college costs"/>
+    <term name="Veterinary medicine and animal diseases"/>
+  </subjects>
+  <amendments/>
+  <summary>3/13/2013--Introduced.
+Veterinary Medicine Loan Repayment Program Enhancement Act - Amends the Internal Revenue Code to exclude from gross income payments under the federal veterinary medicine loan repayment program or any other state loan repayment or forgiveness program that is intended to provide for increased access to veterinary services in such state.</summary>
+</bill>

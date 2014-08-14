@@ -1,0 +1,66 @@
+<bill session="113" type="h" number="2484" updated="2014-08-14T13:12:38-04:00">
+  <state datetime="2013-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-25"/>
+  </status>
+  <introduced datetime="2013-06-25"/>
+  <titles>
+    <title type="short" as="introduced">Conrad State 30 and Physician Access Act</title>
+    <title type="official" as="introduced">To provide incentives to physicians to practice in rural and medically underserved communities, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02102"/>
+  <cosponsors>
+    <cosponsor thomas_id="02159" joined="2013-12-04"/>
+    <cosponsor thomas_id="01925" joined="2013-12-09"/>
+    <cosponsor thomas_id="02133" joined="2013-12-12"/>
+    <cosponsor thomas_id="01663" joined="2014-02-03"/>
+    <cosponsor thomas_id="01843" joined="2014-02-03"/>
+    <cosponsor thomas_id="02142" joined="2013-06-25"/>
+    <cosponsor thomas_id="01929" joined="2013-12-04"/>
+    <cosponsor thomas_id="00940" joined="2013-12-04"/>
+    <cosponsor thomas_id="02099" joined="2013-06-28"/>
+    <cosponsor thomas_id="02166" joined="2014-05-08"/>
+    <cosponsor thomas_id="02115" joined="2013-07-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-25" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-07-15">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Immigration and Border Security" code="HSJU01" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="4951"/>
+    <bill type="s" session="113" relation="identical" number="616"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Foreign labor"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health personnel"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Medical education"/>
+    <term name="Rural conditions and development"/>
+    <term name="Visas and passports"/>
+  </subjects>
+  <amendments/>
+  <summary>6/25/2013--Introduced.
+Conrad State 30 and Physician Access Act - Amends the Immigration and Nationality Technical Corrections Act of 1994 to make the J-1 visa waiver (Conrad state 30/medical services in underserved areas) program permanent.
+
+Excludes from numerical immigration limitations alien physicians who have completed national interest waiver requirements by working in a health care shortage area (including alien physicians who completed such service before the date of enactment of this Act and any spouses or children of such alien physicians).
+
+Sets forth specified employment protections and contract requirements for alien physicians working in underserved areas.
+
+Increases the number of alien physicians that a state may be allocated from 30 to 35 per fiscal year in specified circumstances. Provides for additional increases or decreases based upon demand.
+
+Provides up to three visa waivers per fiscal year per state for physicians in academic medical centers.
+
+Permits dual intent for an alien coming to the United States to receive graduate medical education or training, or to take examinations required for graduate medical education or training.
+
+Exempts H-1B nonimmigrant aliens seeking to enter the United States to pursue graduate medical education or training from specified entry limitations.</summary>
+</bill>

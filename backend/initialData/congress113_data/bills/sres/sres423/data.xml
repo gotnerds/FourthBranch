@@ -1,0 +1,53 @@
+<bill session="113" type="sr" number="423" updated="2014-08-14T13:43:25-04:00">
+  <state datetime="2014-04-11">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2014-04-11"/>
+  </status>
+  <introduced datetime="2014-04-11"/>
+  <titles>
+    <title type="official" as="introduced">A resolution designating April 2014 as "Financial Literacy Month".</title>
+  </titles>
+  <sponsor thomas_id="00949"/>
+  <cosponsors>
+    <cosponsor thomas_id="01881" joined="2014-04-11"/>
+    <cosponsor thomas_id="01898" joined="2014-04-11"/>
+    <cosponsor thomas_id="01464" joined="2014-04-11"/>
+    <cosponsor thomas_id="00174" joined="2014-04-11"/>
+    <cosponsor thomas_id="00179" joined="2014-04-11"/>
+    <cosponsor thomas_id="00213" joined="2014-04-11"/>
+    <cosponsor thomas_id="01984" joined="2014-04-11"/>
+    <cosponsor thomas_id="00250" joined="2014-04-11"/>
+    <cosponsor thomas_id="00326" joined="2014-04-11"/>
+    <cosponsor thomas_id="01542" joined="2014-04-11"/>
+    <cosponsor thomas_id="01902" joined="2014-04-11"/>
+    <cosponsor thomas_id="02174" joined="2014-04-11"/>
+    <cosponsor thomas_id="02086" joined="2014-04-11"/>
+    <cosponsor thomas_id="02185" joined="2014-04-11"/>
+    <cosponsor thomas_id="01900" joined="2014-04-11"/>
+    <cosponsor thomas_id="01409" joined="2014-04-11"/>
+    <cosponsor thomas_id="02173" joined="2014-04-29"/>
+    <cosponsor thomas_id="01897" joined="2014-04-11"/>
+    <cosponsor thomas_id="01226" joined="2014-04-11"/>
+  </cosponsors>
+  <actions>
+    <vote how="by Unanimous Consent" type="vote" datetime="2014-04-11" where="s" result="pass" state="PASSED:SIMPLERES">
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S2408" label="consideration"/>
+      <reference ref="CR S2406-2407" label="text as passed Senate"/>
+    </vote>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill type="hr" session="113" relation="unknown" number="172"/>
+    <bill type="hr" session="113" relation="unknown" number="535"/>
+    <bill type="sr" session="113" relation="unknown" number="105"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Financial literacy"/>
+  </subjects>
+  <amendments/>
+  <summary>4/11/2014--Passed Senate without amendment.
+Designates April 2014 as Financial Literacy Month to raise public awareness about the importance of personal financial education in the United States and the serious consequences that may result from a lack of understanding about personal finances.</summary>
+</bill>

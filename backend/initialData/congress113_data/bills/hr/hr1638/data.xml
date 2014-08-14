@@ -1,0 +1,70 @@
+<bill session="113" type="h" number="1638" updated="2014-08-14T13:04:37-04:00">
+  <state datetime="2013-04-18">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-18"/>
+  </status>
+  <introduced datetime="2013-04-18"/>
+  <titles>
+    <title type="short" as="introduced">Census Reform Act of 2013</title>
+    <title type="official" as="introduced">To repeal the authority to conduct certain censuses, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02057"/>
+  <cosponsors>
+    <cosponsor thomas_id="02029" joined="2014-01-07"/>
+    <cosponsor thomas_id="02155" joined="2013-05-14"/>
+    <cosponsor thomas_id="01956" joined="2013-04-18"/>
+    <cosponsor thomas_id="00211" joined="2013-05-07"/>
+    <cosponsor thomas_id="00446" joined="2014-07-31"/>
+    <cosponsor thomas_id="02026" joined="2013-04-18"/>
+    <cosponsor thomas_id="02020" joined="2013-07-16"/>
+    <cosponsor thomas_id="00612" joined="2013-04-18"/>
+    <cosponsor thomas_id="02011" joined="2013-04-24"/>
+    <cosponsor thomas_id="02094" joined="2013-04-24"/>
+    <cosponsor thomas_id="01738" joined="2013-04-18"/>
+    <cosponsor thomas_id="01915" joined="2013-04-24"/>
+    <cosponsor thomas_id="02073" joined="2013-04-18"/>
+    <cosponsor thomas_id="02017" joined="2013-05-08"/>
+    <cosponsor thomas_id="02009" joined="2013-05-22"/>
+    <cosponsor thomas_id="02000" joined="2013-04-18"/>
+    <cosponsor thomas_id="01114" joined="2013-04-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-18" state="REFERRED">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Agriculture, and Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-04-18">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2013-04-18">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2013-04-18">
+      <text>Referred to House Appropriations</text>
+    </action>
+    <action datetime="2013-05-03">
+      <text>Referred to the Subcommittee on Department Operations, Oversight, and Nutrition.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+    <committee subcommittee="" code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee subcommittee="Department Operations, Oversight, and Nutrition" code="HSAG22" name="House Agriculture" activity="Referral"/>
+    <committee subcommittee="" code="HSAP" name="House Appropriations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Appropriations"/>
+    <term name="Census and government statistics"/>
+    <term name="Economic performance and conditions"/>
+    <term name="General agriculture matters"/>
+    <term name="Government information and archives"/>
+    <term name="State and local finance"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>4/18/2013--Introduced.
+Census Reform Act of 2013 - Repeals various census programs of the Department of Commerce, including: (1) the collection and publication of agricultural statistics; (2) the census of manufactures, mineral industries, and other businesses; (3) the mid-decade census, and (4) the census of governments. Repeals the authority of the Secretary of Commerce to conduct any surveys, sampling, or questionnaires other than those necessary to conduct the decennial census of population.
+
+Repeals the Census of Agriculture Act of 1997. Prohibits the Secretary of Agriculture from carrying out any activities required to be conducted in 2013 under such Act.</summary>
+</bill>

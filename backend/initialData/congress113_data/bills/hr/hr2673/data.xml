@@ -1,0 +1,84 @@
+<bill session="113" type="h" number="2673" updated="2014-08-14T13:14:15-04:00">
+  <state datetime="2014-05-22">REPORTED</state>
+  <status>
+    <unknown datetime="2014-05-22"/>
+  </status>
+  <introduced datetime="2013-07-11"/>
+  <titles>
+    <title type="short" as="introduced">Portfolio Lending and Mortgage Access Act</title>
+    <title type="official" as="introduced">To amend the Truth in Lending Act to provide that residential mortgage loans held on portfolio qualify as qualified mortgages for purposes of the presumption of the ability to repay requirements under such Act.</title>
+  </titles>
+  <sponsor thomas_id="02131"/>
+  <cosponsors>
+    <cosponsor thomas_id="01753" joined="2014-07-17"/>
+    <cosponsor thomas_id="02063" joined="2014-07-03"/>
+    <cosponsor thomas_id="01787" joined="2014-07-24"/>
+    <cosponsor thomas_id="02155" joined="2014-06-23"/>
+    <cosponsor thomas_id="01956" joined="2014-07-24"/>
+    <cosponsor thomas_id="01742" joined="2014-07-08"/>
+    <cosponsor thomas_id="02144" joined="2014-06-24"/>
+    <cosponsor thomas_id="02138" joined="2014-07-08"/>
+    <cosponsor thomas_id="02072" joined="2014-06-19"/>
+    <cosponsor thomas_id="00322" joined="2014-07-24"/>
+    <cosponsor thomas_id="02036" joined="2014-07-08"/>
+    <cosponsor thomas_id="02067" joined="2014-06-18"/>
+    <cosponsor thomas_id="02064" joined="2014-07-17"/>
+    <cosponsor thomas_id="02061" joined="2014-07-09"/>
+    <cosponsor thomas_id="01924" joined="2014-07-30"/>
+    <cosponsor thomas_id="01990" joined="2014-05-21"/>
+    <cosponsor thomas_id="01933" joined="2014-07-15"/>
+    <cosponsor thomas_id="02020" joined="2014-07-22"/>
+    <cosponsor thomas_id="02015" joined="2014-05-20"/>
+    <cosponsor thomas_id="01921" joined="2014-06-05"/>
+    <cosponsor thomas_id="02046" joined="2014-06-19"/>
+    <cosponsor thomas_id="00612" joined="2014-07-15"/>
+    <cosponsor thomas_id="02051" joined="2014-07-29"/>
+    <cosponsor thomas_id="02050" joined="2014-07-09"/>
+    <cosponsor thomas_id="00666" joined="2014-07-24"/>
+    <cosponsor thomas_id="01885" joined="2014-07-29"/>
+    <cosponsor thomas_id="02033" joined="2014-06-23"/>
+    <cosponsor thomas_id="00711" joined="2014-06-24"/>
+    <cosponsor thomas_id="01931" joined="2014-05-06"/>
+    <cosponsor thomas_id="02195" joined="2014-06-10"/>
+    <cosponsor thomas_id="02142" joined="2014-07-15"/>
+    <cosponsor thomas_id="01584" joined="2014-05-07"/>
+    <cosponsor thomas_id="02156" joined="2014-07-09"/>
+    <cosponsor thomas_id="02001" joined="2014-07-25"/>
+    <cosponsor thomas_id="02034" joined="2014-07-29"/>
+    <cosponsor thomas_id="02035" joined="2014-07-22"/>
+    <cosponsor thomas_id="02158" joined="2014-07-31"/>
+    <cosponsor thomas_id="01892" joined="2014-07-23"/>
+    <cosponsor thomas_id="01525" joined="2014-07-24"/>
+    <cosponsor thomas_id="02168" joined="2014-07-16"/>
+    <cosponsor thomas_id="01997" joined="2014-07-31"/>
+    <cosponsor thomas_id="02152" joined="2014-07-30"/>
+    <cosponsor thomas_id="01991" joined="2014-05-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-11" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+    <action datetime="2014-05-22">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-05-22" state="REPORTED">
+      <text>Ordered to be Reported by the Yeas and Nays: 36 - 23.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2641"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Consumer credit"/>
+    <term name="Housing finance and home ownership"/>
+  </subjects>
+  <amendments/>
+  <summary>7/11/2013--Introduced.
+Portfolio Lending and Mortgage Access Act - Amends the Truth in Lending Act with respect to the permission that a creditor may presume that a residential mortgage loan has met the requirement that, at the time the loan is consummated, the consumer has a reasonable ability to repay it, if the loan is a qualified mortgage.
+
+Treats as a qualified mortgage any residential mortgage loan made by a creditor so long as it appears on the creditor's balance sheet (held on portfolio).</summary>
+</bill>

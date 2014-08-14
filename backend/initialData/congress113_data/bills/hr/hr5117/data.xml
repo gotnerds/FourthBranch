@@ -1,0 +1,32 @@
+<bill session="113" type="h" number="5117" updated="2014-08-14T13:35:09-04:00">
+  <state datetime="2014-07-15">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-15"/>
+  </status>
+  <introduced datetime="2014-07-15"/>
+  <titles>
+    <title type="short" as="introduced">Estuary Urgent Needs Priority Program Act</title>
+    <title type="official" as="introduced">To make competitive awards to national estuary programs, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01915"/>
+  <cosponsors>
+    <cosponsor thomas_id="02117" joined="2014-07-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-15" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2014-07-16">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Water Resources and Environment" code="HSPW02" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="5266"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+</bill>

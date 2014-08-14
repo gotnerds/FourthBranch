@@ -1,0 +1,110 @@
+<bill session="113" type="h" number="1440" updated="2014-08-14T13:02:58-04:00">
+  <state datetime="2013-04-09">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-09"/>
+  </status>
+  <introduced datetime="2013-04-09"/>
+  <titles>
+    <title type="short" as="introduced">Enforcing Orders and Reducing Customs Evasion Act of 2013</title>
+    <title type="official" as="introduced">To prevent the evasion of antidumping and countervailing duty orders, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02033"/>
+  <cosponsors>
+    <cosponsor thomas_id="00038" joined="2013-04-09"/>
+    <cosponsor thomas_id="00132" joined="2013-04-09"/>
+    <cosponsor thomas_id="01878" joined="2013-05-16"/>
+    <cosponsor thomas_id="00229" joined="2013-04-09"/>
+    <cosponsor thomas_id="00231" joined="2013-04-09"/>
+    <cosponsor thomas_id="02144" joined="2013-04-09"/>
+    <cosponsor thomas_id="01989" joined="2013-05-23"/>
+    <cosponsor thomas_id="02072" joined="2013-07-22"/>
+    <cosponsor thomas_id="02036" joined="2013-04-09"/>
+    <cosponsor thomas_id="02125" joined="2013-04-09"/>
+    <cosponsor thomas_id="01888" joined="2013-04-09"/>
+    <cosponsor thomas_id="01973" joined="2013-05-09"/>
+    <cosponsor thomas_id="01656" joined="2013-04-09"/>
+    <cosponsor thomas_id="00462" joined="2013-04-09"/>
+    <cosponsor thomas_id="01708" joined="2013-04-09"/>
+    <cosponsor thomas_id="02032" joined="2013-04-09"/>
+    <cosponsor thomas_id="02046" joined="2013-05-08"/>
+    <cosponsor thomas_id="01843" joined="2013-04-09"/>
+    <cosponsor thomas_id="00612" joined="2013-04-09"/>
+    <cosponsor thomas_id="02154" joined="2013-05-08"/>
+    <cosponsor thomas_id="00616" joined="2013-04-09"/>
+    <cosponsor thomas_id="02014" joined="2013-04-09"/>
+    <cosponsor thomas_id="01885" joined="2013-09-17"/>
+    <cosponsor thomas_id="01501" joined="2014-06-10"/>
+    <cosponsor thomas_id="01781" joined="2013-04-09"/>
+    <cosponsor thomas_id="01846" joined="2013-05-23"/>
+    <cosponsor thomas_id="02111" joined="2013-04-09"/>
+    <cosponsor thomas_id="01931" joined="2013-04-09"/>
+    <cosponsor thomas_id="01504" joined="2013-04-09"/>
+    <cosponsor thomas_id="01730" joined="2013-04-09"/>
+    <cosponsor thomas_id="02059" joined="2013-09-20"/>
+    <cosponsor thomas_id="01602" joined="2013-04-09"/>
+    <cosponsor thomas_id="02108" joined="2013-09-30"/>
+    <cosponsor thomas_id="02034" joined="2013-04-09"/>
+    <cosponsor thomas_id="01974" joined="2013-04-09"/>
+    <cosponsor thomas_id="01510" joined="2013-04-09"/>
+    <cosponsor thomas_id="00944" joined="2013-04-09"/>
+    <cosponsor thomas_id="02160" joined="2013-09-30"/>
+    <cosponsor thomas_id="00997" joined="2013-04-09"/>
+    <cosponsor thomas_id="01756" joined="2013-04-09"/>
+    <cosponsor thomas_id="01757" joined="2013-04-09"/>
+    <cosponsor thomas_id="01798" joined="2013-04-09"/>
+    <cosponsor thomas_id="01861" joined="2013-04-09"/>
+    <cosponsor thomas_id="02191" joined="2013-06-27"/>
+    <cosponsor thomas_id="02047" joined="2013-04-09"/>
+    <cosponsor thomas_id="01741" joined="2013-04-09"/>
+    <cosponsor thomas_id="01188" joined="2013-04-09"/>
+    <cosponsor thomas_id="01779" joined="2013-04-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-09" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="2013-04-22">
+      <text>Referred to the Subcommittee on Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee subcommittee="Trade" code="HSWM04" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Administrative remedies"/>
+    <term name="Business records"/>
+    <term name="Canada"/>
+    <term name="Congressional oversight"/>
+    <term name="Customs enforcement"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Free trade and trade barriers"/>
+    <term name="Government studies and investigations"/>
+    <term name="Latin America"/>
+    <term name="Law enforcement officers"/>
+    <term name="Mexico"/>
+    <term name="Tariffs"/>
+    <term name="Trade agreements and negotiations"/>
+    <term name="Trade restrictions"/>
+  </subjects>
+  <amendments/>
+  <summary>4/9/2013--Introduced.
+Enforcing Orders and Reducing Customs Evasion Act of 2013 - Amends the Tariff Act of 1930 to require the Commissioner responsible for U.S. Customs and Border Protection (CBP) to initiate, upon petition or a referral from another federal agency, an investigation into claims of evasion of antidumping or countervailing duties (including any cash deposits or other security) with respect to covered merchandise entered into the United States.
+
+Requires the Commissioner, in the case of an affirmative preliminary determination, to: (1) suspend liquidation of each unliquidated entry of the covered merchandise and extend the liquidation of covered merchandise entered before such determination, (2) review and reassess the amount of bond or other security required to be posted for each entry of covered merchandise, (3) require the posting of a cash deposit for each entry, and (4) take other appropriate measures to ensure the collection of any duties that may be owed on covered merchandise.
+
+Requires the Commissioner, in the case of an affirmative final determination, to: (1) suspend or continue to suspend liquidation of each entry of covered merchandise and extend the liquidation of covered merchandise entered before such determination, (2) notify the administering authority (Secretary of Commerce or other responsible U.S. officer) of the determination and request identification of the applicable antidumping or countervailing duties or cash deposit rate for such entries, (3) require the posting of cash deposits and assess duties, (4) review and reassess the amount of bond or other security required to be posted for covered merchandise entered on or after the date of such determination, and (5) take appropriate additional enforcement measures.
+
+Requires the administering authority to apply the highest applicable cash deposit or antidumping or countervailing duty in cases where the producer or exporter of covered merchandise is unknown.
+
+Applies the amendments made by this Act to goods from Canada and Mexico.
+
+Requires the Commissioner, to the maximum extent practicable, to ensure that CBP employs and assigns sufficient personnel to prevent the entry of covered merchandise in a manner that evades antidumping and countervailing duty orders or findings.
+
+Requires the Secretary of Homeland Security (DHS), the Commissioner, and the Assistant Secretary for U.S. Immigration and Customs Enforcement (ICE) to assess and properly allocate the resources of CBP and ICE to improve efforts to investigate and combat evasion.
+
+Directs the Comptroller General to report on: (1) efforts to prevent the entry of covered merchandise into the U.S. customs territory through evasion, and (2) the estimated amount of duties that could not be collected on covered merchandise that entered U.S. customs territory through evasion during FY2011-FY2012 because the Commissioner did not have the authority to reliquidate the entries of such merchandise.</summary>
+</bill>

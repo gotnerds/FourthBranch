@@ -1,0 +1,51 @@
+<bill session="113" type="hr" number="375" updated="2014-08-14T12:47:49-04:00">
+  <state datetime="2013-10-10">REFERRED</state>
+  <status>
+    <introduced datetime="2013-10-10"/>
+  </status>
+  <introduced datetime="2013-10-10"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the House of Representatives that Congress should refrain from conditioning the resolution of fiscal and budgetary disputes on the taking of action relating to non-germane legislative matters.</title>
+  </titles>
+  <sponsor thomas_id="00588"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2013-10-10"/>
+    <cosponsor thomas_id="00132" joined="2013-10-10"/>
+    <cosponsor thomas_id="02159" joined="2013-10-10"/>
+    <cosponsor thomas_id="01474" joined="2013-10-10"/>
+    <cosponsor thomas_id="00208" joined="2013-10-10"/>
+    <cosponsor thomas_id="00229" joined="2013-10-11"/>
+    <cosponsor thomas_id="02125" joined="2013-10-10"/>
+    <cosponsor thomas_id="00462" joined="2013-10-10"/>
+    <cosponsor thomas_id="01708" joined="2013-10-10"/>
+    <cosponsor thomas_id="01634" joined="2013-10-10"/>
+    <cosponsor thomas_id="01843" joined="2013-10-10"/>
+    <cosponsor thomas_id="01501" joined="2013-10-10"/>
+    <cosponsor thomas_id="02162" joined="2013-10-10"/>
+    <cosponsor thomas_id="01184" joined="2013-10-10"/>
+    <cosponsor thomas_id="02004" joined="2013-10-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-10-10">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H6462"/>
+    </action>
+    <action datetime="2013-10-10" state="REFERRED">
+      <text>Referred to the House Committee on the Budget.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBU" name="House Budget" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Appropriations"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Budget process"/>
+    <term name="Legislative rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>10/10/2013--Introduced.
+Expresses the sense of the House of Representatives that Congress should refrain from conditioning the resolution of fiscal and budgetary disputes on the taking of action relating to non-germane legislative matters, including the repeal or modification of a duly enacted law.</summary>
+</bill>

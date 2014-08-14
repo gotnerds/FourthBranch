@@ -1,0 +1,45 @@
+<bill session="113" type="h" number="4975" updated="2014-08-14T13:33:56-04:00">
+  <state datetime="2014-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-25"/>
+  </status>
+  <introduced datetime="2014-06-25"/>
+  <titles>
+    <title type="short" as="introduced">SALTS Act</title>
+    <title type="short" as="introduced">Synthetic Abuse and Labeling of Toxic Substances Act of 2014</title>
+    <title type="official" as="introduced">To amend the Controlled Substances Act relating to controlled substance analogues.</title>
+  </titles>
+  <sponsor thomas_id="01155"/>
+  <cosponsors>
+    <cosponsor thomas_id="01075" joined="2014-06-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-25" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-06-25">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2014-06-25">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2014-07-21">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1322"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Drug trafficking and controlled substances"/>
+    <term name="Drug, alcohol, tobacco use"/>
+    <term name="Marketing and advertising"/>
+  </subjects>
+  <amendments/>
+</bill>

@@ -1,0 +1,61 @@
+<bill session="113" type="h" number="4008" updated="2014-08-14T13:25:36-04:00">
+  <state datetime="2014-02-06">REFERRED</state>
+  <status>
+    <introduced datetime="2014-02-06"/>
+  </status>
+  <introduced datetime="2014-02-06"/>
+  <titles>
+    <title type="short" as="introduced">Educational Freedom Act of 2014</title>
+    <title type="official" as="introduced">To amend the Elementary and Secondary Education Act of 1965 to prohibit Federal mandates, direction, or control of specific instructional content, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01720"/>
+  <cosponsors>
+    <cosponsor thomas_id="01858" joined="2014-05-08"/>
+    <cosponsor thomas_id="02135" joined="2014-02-26"/>
+    <cosponsor thomas_id="01753" joined="2014-02-27"/>
+    <cosponsor thomas_id="02155" joined="2014-03-11"/>
+    <cosponsor thomas_id="01882" joined="2014-02-27"/>
+    <cosponsor thomas_id="02062" joined="2014-06-17"/>
+    <cosponsor thomas_id="02057" joined="2014-02-11"/>
+    <cosponsor thomas_id="01707" joined="2014-03-26"/>
+    <cosponsor thomas_id="01801" joined="2014-02-18"/>
+    <cosponsor thomas_id="02020" joined="2014-02-21"/>
+    <cosponsor thomas_id="00612" joined="2014-02-14"/>
+    <cosponsor thomas_id="02050" joined="2014-02-21"/>
+    <cosponsor thomas_id="01885" joined="2014-02-11"/>
+    <cosponsor thomas_id="01955" joined="2014-02-27"/>
+    <cosponsor thomas_id="00912" joined="2014-04-10"/>
+    <cosponsor thomas_id="02115" joined="2014-02-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-02-06" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1974"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Academic performance and assessments"/>
+    <term name="Education programs funding"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Intergovernmental relations"/>
+    <term name="State and local government operations"/>
+    <term name="Teaching, teachers, curricula"/>
+  </subjects>
+  <amendments/>
+  <summary>2/6/2014--Introduced.
+Educational Freedom Act of 2014 - Amends the Elementary and Secondary Education Act of 1965 (ESEA) to prohibit any federal officer or employee from directly or indirectly mandating, directing, incentivizing, or controlling, through grants, contracts, or other cooperative agreements, a state's, local educational agency's (LEA's), or school's specific instructional content, academic standards and assessments, curriculum, or program of instruction.
+
+Prohibits any provision of the ESEA from being construed to authorize such an officer or employee to do so.
+
+Prohibits any federal officer or employee from directly or indirectly conditioning, through grants, contracts, or other cooperative agreements, the availability of financial support on a state's, LEA's, or school's adoption of any specific instructional content, academic standards and assessments, curriculum, or program of instruction, even if such conditions are specified under any other Act.
+
+Prohibits any provision of the ESEA from being construed to authorize such an officer or employee to do so.
+
+Includes, within these prohibitions, requirements and incentives to adopt the Common Core State Standards or any other academic standards common to a significant number of states.</summary>
+</bill>

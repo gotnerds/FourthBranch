@@ -1,0 +1,49 @@
+<bill session="113" type="sr" number="269" updated="2014-08-14T13:42:07-04:00">
+  <state datetime="2013-10-16">REFERRED</state>
+  <status>
+    <introduced datetime="2013-10-16"/>
+  </status>
+  <introduced datetime="2013-10-16"/>
+  <titles>
+    <title type="official" as="introduced">A resolution expressing the sense of the Senate on United States policy regarding possession of enrichment and reprocessing capabilities by the Islamic Republic of Iran.</title>
+  </titles>
+  <sponsor thomas_id="02084"/>
+  <cosponsors>
+    <cosponsor thomas_id="01464" joined="2013-11-04"/>
+    <cosponsor thomas_id="01692" joined="2013-11-04"/>
+    <cosponsor thomas_id="02175" joined="2013-11-18"/>
+    <cosponsor thomas_id="01542" joined="2013-11-04"/>
+    <cosponsor thomas_id="00457" joined="2013-11-04"/>
+    <cosponsor thomas_id="01351" joined="2013-11-04"/>
+    <cosponsor thomas_id="00583" joined="2013-10-28"/>
+    <cosponsor thomas_id="01647" joined="2013-11-04"/>
+    <cosponsor thomas_id="01395" joined="2013-11-04"/>
+    <cosponsor thomas_id="01896" joined="2013-10-16"/>
+    <cosponsor thomas_id="00968" joined="2013-11-04"/>
+    <cosponsor thomas_id="01609" joined="2013-11-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-10-16" state="REFERRED">
+      <text>Referred to the Committee on Foreign Relations.</text>
+      <reference ref="CR S7536-7537" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Arms control and nonproliferation"/>
+    <term name="International law and treaties"/>
+    <term name="Iran"/>
+    <term name="Middle East"/>
+    <term name="Nuclear power"/>
+    <term name="Nuclear weapons"/>
+    <term name="Sanctions"/>
+    <term name="Trade restrictions"/>
+  </subjects>
+  <amendments/>
+  <summary>10/16/2013--Introduced.
+Expresses the sense of the Senate that: (1) it shall be U.S. policy to prevent Iran from developing a nuclear weapon; (2) Iran does not have an inherent right to enrichment and reprocessing technologies under the Treaty on the Non-Proliferation of Nuclear Weapons; (3) relief from U.S. sanctions should only be provided once Iran has abandoned its nuclear weapons program, including any enrichment or reprocessing capability, and has provided complete transparency to the International Atomic Energy Agency; and (4) Congress should move to pass a new round of additional sanctions until Iran has taken such actions.</summary>
+</bill>

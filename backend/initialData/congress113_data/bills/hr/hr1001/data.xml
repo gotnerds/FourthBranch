@@ -1,0 +1,57 @@
+<bill session="113" type="h" number="1001" updated="2014-08-14T12:59:15-04:00">
+  <state datetime="2013-03-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-06"/>
+  </status>
+  <introduced datetime="2013-03-06"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Fair Labor Standards Act of 1938 to provide a specific limited exemption from the overtime pay requirements of such Act for work related to disaster or catastrophe claims adjustment after a major disaster.</title>
+  </titles>
+  <sponsor thomas_id="01703"/>
+  <cosponsors>
+    <cosponsor thomas_id="00021" joined="2013-06-27"/>
+    <cosponsor thomas_id="00038" joined="2013-04-11"/>
+    <cosponsor thomas_id="01740" joined="2013-08-01"/>
+    <cosponsor thomas_id="01742" joined="2013-08-01"/>
+    <cosponsor thomas_id="02125" joined="2013-06-04"/>
+    <cosponsor thomas_id="02120" joined="2013-04-11"/>
+    <cosponsor thomas_id="00511" joined="2013-03-06"/>
+    <cosponsor thomas_id="02140" joined="2013-07-24"/>
+    <cosponsor thomas_id="01909" joined="2013-06-19"/>
+    <cosponsor thomas_id="01505" joined="2013-03-18"/>
+    <cosponsor thomas_id="00778" joined="2013-03-15"/>
+    <cosponsor thomas_id="02097" joined="2013-03-06"/>
+    <cosponsor thomas_id="02023" joined="2013-09-17"/>
+    <cosponsor thomas_id="01916" joined="2013-06-19"/>
+    <cosponsor thomas_id="01009" joined="2013-06-27"/>
+    <cosponsor thomas_id="01777" joined="2013-06-19"/>
+    <cosponsor thomas_id="02004" joined="2013-06-04"/>
+    <cosponsor thomas_id="01688" joined="2013-06-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-06" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+    <action datetime="2013-04-23">
+      <text>Referred to the Subcommittee on Workforce Protections.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral, In Committee"/>
+    <committee subcommittee="Workforce Protections" code="HSED10" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="3179"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Insurance industry and regulation"/>
+    <term name="Labor standards"/>
+    <term name="Life, casualty, property insurance"/>
+    <term name="Natural disasters"/>
+  </subjects>
+  <amendments/>
+  <summary>3/6/2013--Introduced.
+Amends the Fair Labor Standards Act of 1938 to exempt from maximum hours requirements any employee who: (1) adjusts or evaluates claims resulting from or relating to a major disaster for at least $591 per week (or any minimum weekly amount established by the Secretary of Labor, whichever is greater) during the 2-year period after the disaster; and (2) is employed as an adjuster or evaluator by an employer not itself engaged, directly or through an affiliate, in underwriting, selling, or marketing property, casualty, or liability insurance policies or contracts.</summary>
+</bill>

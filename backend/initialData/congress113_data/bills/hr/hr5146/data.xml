@@ -1,0 +1,45 @@
+<bill session="113" type="h" number="5146" updated="2014-08-14T13:35:23-04:00">
+  <state datetime="2014-07-17">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-17"/>
+  </status>
+  <introduced datetime="2014-07-17"/>
+  <titles>
+    <title type="official" as="introduced">To designate the United States courthouse located at 700 Grant Street in Pittsburgh, Pennsylvania, as the "Joseph F. Weis Jr. United States Courthouse".</title>
+  </titles>
+  <sponsor thomas_id="00316"/>
+  <cosponsors>
+    <cosponsor thomas_id="02054" joined="2014-07-30"/>
+    <cosponsor thomas_id="01469" joined="2014-07-30"/>
+    <cosponsor thomas_id="02159" joined="2014-07-30"/>
+    <cosponsor thomas_id="01799" joined="2014-07-30"/>
+    <cosponsor thomas_id="00371" joined="2014-07-30"/>
+    <cosponsor thomas_id="01797" joined="2014-07-30"/>
+    <cosponsor thomas_id="01743" joined="2014-07-30"/>
+    <cosponsor thomas_id="02051" joined="2014-07-30"/>
+    <cosponsor thomas_id="02053" joined="2014-07-30"/>
+    <cosponsor thomas_id="02052" joined="2014-07-30"/>
+    <cosponsor thomas_id="01744" joined="2014-07-17"/>
+    <cosponsor thomas_id="02157" joined="2014-07-30"/>
+    <cosponsor thomas_id="01514" joined="2014-07-30"/>
+    <cosponsor thomas_id="02158" joined="2014-07-30"/>
+    <cosponsor thomas_id="01798" joined="2014-07-30"/>
+    <cosponsor thomas_id="01681" joined="2014-07-30"/>
+    <cosponsor thomas_id="01952" joined="2014-07-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-17" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2014-07-18">
+      <text>Referred to the Subcommittee on Economic Development, Public Buildings and Emergency Management.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral"/>
+    <committee subcommittee="Economic Development, Public Buildings and Emergency Management" code="HSPW13" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

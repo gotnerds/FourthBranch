@@ -1,0 +1,44 @@
+<bill session="113" type="hr" number="674" updated="2014-08-14T12:50:22-04:00">
+  <state datetime="2014-07-17">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-17"/>
+  </status>
+  <introduced datetime="2014-07-17"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the House of Representatives that sedentary lifestyles are a public health issue and supporting the designation of a National Get Vertical Day to recognize the importance of preventing physical inactivity and encouraging adults to live physically active lifestyles.</title>
+  </titles>
+  <sponsor thomas_id="00091"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2014-07-17"/>
+    <cosponsor thomas_id="02153" joined="2014-07-17"/>
+    <cosponsor thomas_id="01761" joined="2014-07-17"/>
+    <cosponsor thomas_id="01889" joined="2014-07-17"/>
+    <cosponsor thomas_id="01864" joined="2014-07-17"/>
+    <cosponsor thomas_id="01654" joined="2014-07-17"/>
+    <cosponsor thomas_id="01790" joined="2014-07-17"/>
+    <cosponsor thomas_id="00208" joined="2014-07-17"/>
+    <cosponsor thomas_id="01895" joined="2014-07-17"/>
+    <cosponsor thomas_id="00511" joined="2014-07-17"/>
+    <cosponsor thomas_id="02149" joined="2014-07-17"/>
+    <cosponsor thomas_id="01843" joined="2014-07-17"/>
+    <cosponsor thomas_id="02190" joined="2014-07-17"/>
+    <cosponsor thomas_id="00688" joined="2014-07-17"/>
+    <cosponsor thomas_id="00868" joined="2014-07-17"/>
+    <cosponsor thomas_id="00944" joined="2014-07-17"/>
+    <cosponsor thomas_id="01988" joined="2014-07-17"/>
+    <cosponsor thomas_id="01151" joined="2014-07-17"/>
+    <cosponsor thomas_id="01777" joined="2014-07-17"/>
+    <cosponsor thomas_id="01205" joined="2014-07-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-17" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

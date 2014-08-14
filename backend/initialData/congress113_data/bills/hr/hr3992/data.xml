@@ -1,0 +1,198 @@
+<bill session="113" type="h" number="3992" updated="2014-08-14T13:25:28-04:00">
+  <state datetime="2014-02-05">REFERRED</state>
+  <status>
+    <introduced datetime="2014-02-05"/>
+  </status>
+  <introduced datetime="2014-02-05"/>
+  <titles>
+    <title type="short" as="introduced">Wildfire Disaster Funding Act of 2014</title>
+    <title type="official" as="introduced">To provide for wildfire suppression operations, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01590"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2014-03-12"/>
+    <cosponsor thomas_id="02093" joined="2014-07-24"/>
+    <cosponsor thomas_id="02153" joined="2014-07-16"/>
+    <cosponsor thomas_id="02027" joined="2014-07-03"/>
+    <cosponsor thomas_id="02102" joined="2014-07-14"/>
+    <cosponsor thomas_id="01753" joined="2014-02-26"/>
+    <cosponsor thomas_id="00099" joined="2014-03-28"/>
+    <cosponsor thomas_id="02092" joined="2014-03-13"/>
+    <cosponsor thomas_id="02106" joined="2014-05-28"/>
+    <cosponsor thomas_id="01761" joined="2014-07-17"/>
+    <cosponsor thomas_id="02197" joined="2014-06-02"/>
+    <cosponsor thomas_id="00165" joined="2014-02-26"/>
+    <cosponsor thomas_id="01471" joined="2014-07-16"/>
+    <cosponsor thomas_id="02107" joined="2014-07-03"/>
+    <cosponsor thomas_id="01752" joined="2014-06-05"/>
+    <cosponsor thomas_id="01956" joined="2014-04-28"/>
+    <cosponsor thomas_id="01970" joined="2014-07-16"/>
+    <cosponsor thomas_id="01790" joined="2014-07-22"/>
+    <cosponsor thomas_id="00211" joined="2014-04-28"/>
+    <cosponsor thomas_id="01912" joined="2014-04-28"/>
+    <cosponsor thomas_id="01878" joined="2014-07-30"/>
+    <cosponsor thomas_id="01742" joined="2014-03-05"/>
+    <cosponsor thomas_id="01959" joined="2014-06-23"/>
+    <cosponsor thomas_id="02103" joined="2014-04-07"/>
+    <cosponsor thomas_id="01774" joined="2014-05-01"/>
+    <cosponsor thomas_id="01836" joined="2014-04-09"/>
+    <cosponsor thomas_id="01989" joined="2014-06-25"/>
+    <cosponsor thomas_id="01643" joined="2014-05-28"/>
+    <cosponsor thomas_id="01670" joined="2014-06-05"/>
+    <cosponsor thomas_id="02138" joined="2014-04-28"/>
+    <cosponsor thomas_id="00279" joined="2014-02-06"/>
+    <cosponsor thomas_id="00281" joined="2014-06-02"/>
+    <cosponsor thomas_id="02096" joined="2014-04-28"/>
+    <cosponsor thomas_id="01995" joined="2014-07-24"/>
+    <cosponsor thomas_id="01717" joined="2014-06-05"/>
+    <cosponsor thomas_id="01857" joined="2014-07-28"/>
+    <cosponsor thomas_id="02036" joined="2014-07-08"/>
+    <cosponsor thomas_id="02125" joined="2014-06-25"/>
+    <cosponsor thomas_id="00371" joined="2014-05-15"/>
+    <cosponsor thomas_id="02061" joined="2014-06-05"/>
+    <cosponsor thomas_id="01793" joined="2014-06-05"/>
+    <cosponsor thomas_id="01973" joined="2014-02-26"/>
+    <cosponsor thomas_id="01998" joined="2014-04-04"/>
+    <cosponsor thomas_id="02043" joined="2014-07-29"/>
+    <cosponsor thomas_id="01487" joined="2014-06-10"/>
+    <cosponsor thomas_id="00462" joined="2014-06-30"/>
+    <cosponsor thomas_id="01708" joined="2014-06-18"/>
+    <cosponsor thomas_id="02170" joined="2014-05-15"/>
+    <cosponsor thomas_id="02071" joined="2014-03-05"/>
+    <cosponsor thomas_id="02147" joined="2014-07-14"/>
+    <cosponsor thomas_id="02101" joined="2014-02-26"/>
+    <cosponsor thomas_id="01909" joined="2014-07-30"/>
+    <cosponsor thomas_id="01640" joined="2014-05-28"/>
+    <cosponsor thomas_id="02154" joined="2014-04-04"/>
+    <cosponsor thomas_id="00616" joined="2014-07-30"/>
+    <cosponsor thomas_id="02134" joined="2014-07-16"/>
+    <cosponsor thomas_id="02169" joined="2014-05-15"/>
+    <cosponsor thomas_id="01498" joined="2014-05-01"/>
+    <cosponsor thomas_id="01907" joined="2014-06-11"/>
+    <cosponsor thomas_id="01733" joined="2014-05-01"/>
+    <cosponsor thomas_id="02011" joined="2014-02-06"/>
+    <cosponsor thomas_id="02100" joined="2014-04-04"/>
+    <cosponsor thomas_id="01834" joined="2014-07-24"/>
+    <cosponsor thomas_id="00666" joined="2014-05-22"/>
+    <cosponsor thomas_id="00699" joined="2014-07-30"/>
+    <cosponsor thomas_id="02146" joined="2014-05-22"/>
+    <cosponsor thomas_id="01939" joined="2014-03-26"/>
+    <cosponsor thomas_id="01671" joined="2014-06-24"/>
+    <cosponsor thomas_id="01908" joined="2014-05-29"/>
+    <cosponsor thomas_id="01653" joined="2014-03-05"/>
+    <cosponsor thomas_id="01504" joined="2014-06-30"/>
+    <cosponsor thomas_id="00778" joined="2014-05-28"/>
+    <cosponsor thomas_id="01809" joined="2014-02-26"/>
+    <cosponsor thomas_id="01730" joined="2014-07-17"/>
+    <cosponsor thomas_id="00808" joined="2014-07-22"/>
+    <cosponsor thomas_id="00832" joined="2014-02-26"/>
+    <cosponsor thomas_id="01602" joined="2014-07-30"/>
+    <cosponsor thomas_id="02060" joined="2014-07-08"/>
+    <cosponsor thomas_id="00867" joined="2014-05-01"/>
+    <cosponsor thomas_id="00868" joined="2014-06-19"/>
+    <cosponsor thomas_id="01710" joined="2014-04-09"/>
+    <cosponsor thomas_id="02034" joined="2014-06-10"/>
+    <cosponsor thomas_id="00893" joined="2014-07-10"/>
+    <cosponsor thomas_id="01738" joined="2014-02-26"/>
+    <cosponsor thomas_id="01835" joined="2014-05-15"/>
+    <cosponsor thomas_id="02113" joined="2014-03-26"/>
+    <cosponsor thomas_id="00910" joined="2014-02-26"/>
+    <cosponsor thomas_id="01953" joined="2014-07-09"/>
+    <cosponsor thomas_id="01927" joined="2014-04-07"/>
+    <cosponsor thomas_id="02171" joined="2014-06-20"/>
+    <cosponsor thomas_id="01910" joined="2014-04-28"/>
+    <cosponsor thomas_id="01915" joined="2014-06-12"/>
+    <cosponsor thomas_id="00930" joined="2014-07-14"/>
+    <cosponsor thomas_id="01967" joined="2014-06-25"/>
+    <cosponsor thomas_id="01810" joined="2014-05-22"/>
+    <cosponsor thomas_id="02073" joined="2014-02-11"/>
+    <cosponsor thomas_id="02160" joined="2014-05-29"/>
+    <cosponsor thomas_id="00979" joined="2014-04-09"/>
+    <cosponsor thomas_id="01916" joined="2014-06-05"/>
+    <cosponsor thomas_id="00997" joined="2014-06-30"/>
+    <cosponsor thomas_id="00998" joined="2014-05-29"/>
+    <cosponsor thomas_id="02109" joined="2014-06-23"/>
+    <cosponsor thomas_id="01756" joined="2014-05-22"/>
+    <cosponsor thomas_id="01962" joined="2014-06-02"/>
+    <cosponsor thomas_id="01009" joined="2014-06-11"/>
+    <cosponsor thomas_id="01635" joined="2014-06-02"/>
+    <cosponsor thomas_id="01950" joined="2014-02-05"/>
+    <cosponsor thomas_id="02009" joined="2014-06-10"/>
+    <cosponsor thomas_id="01037" joined="2014-07-18"/>
+    <cosponsor thomas_id="01042" joined="2014-04-09"/>
+    <cosponsor thomas_id="01861" joined="2014-05-07"/>
+    <cosponsor thomas_id="02099" joined="2014-07-09"/>
+    <cosponsor thomas_id="01528" joined="2014-07-16"/>
+    <cosponsor thomas_id="02168" joined="2014-03-12"/>
+    <cosponsor thomas_id="02047" joined="2014-07-23"/>
+    <cosponsor thomas_id="01952" joined="2014-02-26"/>
+    <cosponsor thomas_id="01593" joined="2014-06-10"/>
+    <cosponsor thomas_id="01664" joined="2014-07-23"/>
+    <cosponsor thomas_id="01997" joined="2014-02-26"/>
+    <cosponsor thomas_id="01940" joined="2014-06-20"/>
+    <cosponsor thomas_id="01884" joined="2014-07-14"/>
+    <cosponsor thomas_id="02105" joined="2014-03-28"/>
+    <cosponsor thomas_id="01184" joined="2014-04-09"/>
+    <cosponsor thomas_id="01596" joined="2014-02-26"/>
+    <cosponsor thomas_id="01856" joined="2014-05-29"/>
+    <cosponsor thomas_id="01777" joined="2014-04-28"/>
+    <cosponsor thomas_id="01879" joined="2014-06-18"/>
+    <cosponsor thomas_id="01222" joined="2014-07-24"/>
+    <cosponsor thomas_id="01991" joined="2014-05-15"/>
+    <cosponsor thomas_id="02021" joined="2014-06-09"/>
+    <cosponsor thomas_id="01256" joined="2014-05-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-02-05" state="REFERRED">
+      <text>Referred to the Committee on the Budget, and in addition to the Committees on Agriculture, and Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-02-05">
+      <text>Referred to House Budget</text>
+    </action>
+    <action datetime="2014-02-05">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2014-02-05">
+      <text>Referred to House Natural Resources</text>
+    </action>
+    <action datetime="2014-02-06">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+    </action>
+    <action datetime="2014-02-12">
+      <text>Referred to the Subcommittee on Conservation, Energy, and Forestry.</text>
+    </action>
+    <action datetime="2014-07-11T09:28:00-04:00">
+      <text>Motion to Discharge Committee filed by Mr. Peters (CA). Petition No: 113-10.</text>
+      <reference ref="Discharge petition text with signatures."/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBU" name="House Budget" activity="Referral"/>
+    <committee subcommittee="" code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee subcommittee="Conservation, Energy, and Forestry" code="HSAG15" name="House Agriculture" activity="Referral"/>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Public Lands and Environmental Regulation" code="HSII10" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1875"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Appropriations"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Agriculture"/>
+    <term name="Department of the Interior"/>
+    <term name="Disaster relief and insurance"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Fires"/>
+    <term name="Forests, forestry, trees"/>
+  </subjects>
+  <amendments/>
+  <summary>2/5/2014--Introduced.
+Wildfire Disaster Funding Act of 2014 - Amends the Balanced Budget and Emergency Deficit Control Act of 1985 (Gramm-Rudman-Hollings Act), with regard to sequestration adjustments, to require any adjustments in enacted appropriations for wildfire suppression operations in the Wildland Fire Management accounts at the Department of Agriculture (USDA) or the Department of the Interior for a fiscal year, to be the amount of additional new budget authority provided for wildfire suppression operations in the appropriations Act, but not to exceed $2.689 billion in such authority in each of FY2014-FY2021.
+
+Defines "additional new budget authority" as the amount specified in an appropriations Act for a fiscal year to pay for wildfire suppression operations, but only to the extent such authority exceeds 70% of the average costs for wildfire suppression operations over the previous 10 years.
+
+Prescribes requirements for any request by the Secretary of the Interior or the Secretary of Agriculture for supplemental appropriations necessary for wildfire suppression operations.</summary>
+</bill>

@@ -1,0 +1,76 @@
+<bill session="113" type="hr" number="665" updated="2014-08-14T12:50:17-04:00">
+  <state datetime="2014-07-10">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-10"/>
+  </status>
+  <introduced datetime="2014-07-10"/>
+  <titles>
+    <title type="official" as="introduced">Condemning the murder of Israeli and Palestinian children in Israel and the ongoing and escalating violence in that country.</title>
+  </titles>
+  <sponsor thomas_id="02074"/>
+  <cosponsors>
+    <cosponsor thomas_id="02027" joined="2014-07-24"/>
+    <cosponsor thomas_id="01838" joined="2014-07-22"/>
+    <cosponsor thomas_id="02063" joined="2014-07-23"/>
+    <cosponsor thomas_id="01676" joined="2014-07-24"/>
+    <cosponsor thomas_id="02200" joined="2014-07-15"/>
+    <cosponsor thomas_id="01742" joined="2014-07-15"/>
+    <cosponsor thomas_id="02103" joined="2014-07-22"/>
+    <cosponsor thomas_id="02098" joined="2014-07-24"/>
+    <cosponsor thomas_id="01799" joined="2014-07-10"/>
+    <cosponsor thomas_id="02067" joined="2014-07-10"/>
+    <cosponsor thomas_id="01797" joined="2014-07-10"/>
+    <cosponsor thomas_id="01707" joined="2014-07-23"/>
+    <cosponsor thomas_id="01992" joined="2014-07-24"/>
+    <cosponsor thomas_id="01990" joined="2014-07-10"/>
+    <cosponsor thomas_id="02041" joined="2014-07-10"/>
+    <cosponsor thomas_id="02046" joined="2014-07-10"/>
+    <cosponsor thomas_id="02014" joined="2014-07-24"/>
+    <cosponsor thomas_id="02100" joined="2014-07-17"/>
+    <cosponsor thomas_id="01834" joined="2014-07-10"/>
+    <cosponsor thomas_id="01936" joined="2014-07-14"/>
+    <cosponsor thomas_id="01885" joined="2014-07-22"/>
+    <cosponsor thomas_id="02033" joined="2014-07-15"/>
+    <cosponsor thomas_id="01908" joined="2014-07-10"/>
+    <cosponsor thomas_id="02142" joined="2014-07-22"/>
+    <cosponsor thomas_id="02034" joined="2014-07-24"/>
+    <cosponsor thomas_id="01802" joined="2014-07-24"/>
+    <cosponsor thomas_id="02022" joined="2014-08-01"/>
+    <cosponsor thomas_id="01848" joined="2014-07-10"/>
+    <cosponsor thomas_id="01071" joined="2014-07-10"/>
+    <cosponsor thomas_id="01114" joined="2014-07-23"/>
+    <cosponsor thomas_id="01566" joined="2014-07-24"/>
+    <cosponsor thomas_id="02112" joined="2014-07-10"/>
+    <cosponsor thomas_id="02137" joined="2014-07-15"/>
+    <cosponsor thomas_id="02161" joined="2014-07-15"/>
+    <cosponsor thomas_id="01688" joined="2014-07-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-10" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2014-07-25">
+      <text>Referred to the Subcommittee on Middle East and North Africa.</text>
+    </action>
+    <action datetime="2014-07-25">
+      <text>Forwarded by Subcommittee to Full Committee (Amended) by Unanimous Consent .</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee subcommittee="Middle East and North Africa" code="HSFA13" name="House Foreign Affairs" activity="Referral, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>7/10/2014--Introduced.
+Condemns the kidnapping and murder of Naftali Frenkel, Gilad Shaer, and Eyal Yifrach by terrorists associated with Hamas and the murder of Mohammed Abu Khdeir by extremists.
+
+ Commends Israeli authorities for acting swiftly to apprehend the killers of Mohammed Abu Khdeir and expects that the murderers will be punished to the full extent of the law.
+
+ Calls on the Hamas-backed Palestinian Authority (PA) to cooperate with the Israeli government to apprehend the murderers of Naftali Frenkel, Gilad Shaer, and Eyal Yifrach and bring them to justice.
+
+ Calls on Hamas to halt its attacks on Israel and stop provoking Israel into a conflict.
+
+ Urges the PA to sever ties with Hamas until it recognizes Israel's right to exist and renounces terrorism.</summary>
+</bill>

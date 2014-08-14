@@ -1,0 +1,59 @@
+<bill session="113" type="s" number="419" updated="2014-08-14T13:48:18-04:00">
+  <state datetime="2013-02-28">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-28"/>
+  </status>
+  <introduced datetime="2013-02-28"/>
+  <titles>
+    <title type="short" as="introduced">Cluster Munitions Civilian Protection Act of 2013</title>
+    <title type="official" as="introduced">A bill to limit the use of cluster munitions.</title>
+  </titles>
+  <sponsor thomas_id="01332"/>
+  <cosponsors>
+    <cosponsor thomas_id="00116" joined="2013-02-28"/>
+    <cosponsor thomas_id="00136" joined="2013-02-28"/>
+    <cosponsor thomas_id="00172" joined="2013-02-28"/>
+    <cosponsor thomas_id="00174" joined="2013-02-28"/>
+    <cosponsor thomas_id="00326" joined="2013-02-28"/>
+    <cosponsor thomas_id="01969" joined="2013-02-28"/>
+    <cosponsor thomas_id="00501" joined="2013-02-28"/>
+    <cosponsor thomas_id="00604" joined="2013-02-28"/>
+    <cosponsor thomas_id="01826" joined="2013-02-28"/>
+    <cosponsor thomas_id="01383" joined="2013-02-28"/>
+    <cosponsor thomas_id="01900" joined="2013-03-19"/>
+    <cosponsor thomas_id="01409" joined="2013-02-28"/>
+    <cosponsor thomas_id="01424" joined="2013-02-28"/>
+    <cosponsor thomas_id="01010" joined="2013-02-28"/>
+    <cosponsor thomas_id="01567" joined="2013-02-28"/>
+    <cosponsor thomas_id="01823" joined="2013-02-28"/>
+    <cosponsor thomas_id="01247" joined="2013-02-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-28">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S1026-1028"/>
+    </action>
+    <action datetime="2013-02-28" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="881"/>
+    <bill type="h" session="113" relation="unknown" number="2438"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Arms control and nonproliferation"/>
+    <term name="Congressional oversight"/>
+    <term name="Defense spending"/>
+    <term name="Military operations and strategy"/>
+  </subjects>
+  <amendments/>
+  <summary>2/28/2013--Introduced.
+Cluster Munitions Civilian Protection Act of 2013 - Places specified restrictions on the use of cluster munitions.
+
+Directs the President, within 90 days after the use of such munitions, to submit to the congressional defense, appropriations, and foreign relations committees a plan for cleaning up any such munitions or submunitions which fail to explode and continue to pose a hazard to civilians.</summary>
+</bill>

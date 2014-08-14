@@ -1,0 +1,54 @@
+<bill session="113" type="h" number="843" updated="2014-08-14T12:57:53-04:00">
+  <state datetime="2013-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-26"/>
+  </status>
+  <introduced datetime="2013-02-26"/>
+  <titles>
+    <title type="short" as="introduced">San Francisco Bay Restoration Act</title>
+    <title type="official" as="introduced">To amend the Federal Water Pollution Control Act to establish a grant program to support the restoration of San Francisco Bay.</title>
+  </titles>
+  <sponsor thomas_id="01890"/>
+  <cosponsors>
+    <cosponsor thomas_id="00355" joined="2013-02-26"/>
+    <cosponsor thomas_id="01973" joined="2013-02-26"/>
+    <cosponsor thomas_id="01634" joined="2013-02-26"/>
+    <cosponsor thomas_id="02101" joined="2013-02-26"/>
+    <cosponsor thomas_id="01501" joined="2013-02-26"/>
+    <cosponsor thomas_id="00701" joined="2013-02-26"/>
+    <cosponsor thomas_id="01832" joined="2013-02-26"/>
+    <cosponsor thomas_id="00808" joined="2013-02-26"/>
+    <cosponsor thomas_id="00905" joined="2013-02-26"/>
+    <cosponsor thomas_id="02104" joined="2013-02-26"/>
+    <cosponsor thomas_id="01593" joined="2013-02-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-26" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2013-02-27">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral, In Committee"/>
+    <committee subcommittee="Water Resources and Environment" code="HSPW02" name="House Transportation and Infrastructure" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="224"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="California"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Water quality"/>
+    <term name="Watersheds"/>
+    <term name="Wetlands"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/2013--Introduced.
+San Francisco Bay Restoration Act - Amends the Federal Water Pollution Control Act (commonly known as the Clean Water Act) to authorize the Administrator of the Environmental Protection Agency (EPA) to provide funding to state and local agencies, special districts, and public or nonprofit agencies, institutions, and organizations for activities, studies, or projects identified in an annual priority list, including restoration projects and habitat improvement for fish, waterfowl, and wildlife, that advance the goals and objectives of the comprehensive management plan for the San Francisco estuary. Limits funding amounts to 75% of the total cost of eligible activities to be carried out using those amounts.
+
+Authorizes appropriations to the Administrator to carry out this Act for each of FY2013-FY20. Prohibits such amounts from being used by a management conference under the National Estuary Program.</summary>
+</bill>

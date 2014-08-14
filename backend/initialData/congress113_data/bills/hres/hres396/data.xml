@@ -1,0 +1,41 @@
+<bill session="113" type="hr" number="396" updated="2014-08-14T12:48:00-04:00">
+  <state datetime="2013-10-30">REFERRED</state>
+  <status>
+    <introduced datetime="2013-10-30"/>
+  </status>
+  <introduced datetime="2013-10-30"/>
+  <titles>
+    <title type="official" as="introduced">Supporting the goals and ideals of November as National Alzheimer's Disease Awareness Month.</title>
+  </titles>
+  <sponsor thomas_id="00371"/>
+  <cosponsors>
+    <cosponsor thomas_id="02154" joined="2013-11-20"/>
+    <cosponsor thomas_id="01952" joined="2013-10-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-10-30" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-11-01">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="113" relation="unknown" number="364"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Medical research"/>
+    <term name="Neurological disorders"/>
+  </subjects>
+  <amendments/>
+  <summary>10/30/2013--Introduced.
+Expresses support for the goals and ideals of National Alzheimer's Disease Awareness Month.
+
+Acknowledges: (1) the tragic impact Alzheimer's disease has on the lives of individuals in the United States, and (2) the progress and improvements neurological research has made in the diagnosis and treatment of Alzheimer's disease.</summary>
+</bill>

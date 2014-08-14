@@ -1,0 +1,55 @@
+<bill session="113" type="h" number="1099" updated="2014-08-14T13:00:04-04:00">
+  <state datetime="2013-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-12"/>
+  </status>
+  <introduced datetime="2013-03-12"/>
+  <titles>
+    <title type="official" as="introduced">To repeal the Prevention and Public Health Fund.</title>
+  </titles>
+  <sponsor thomas_id="01514"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2013-07-22"/>
+    <cosponsor thomas_id="01748" joined="2013-03-18"/>
+    <cosponsor thomas_id="01703" joined="2013-03-18"/>
+    <cosponsor thomas_id="01787" joined="2013-03-18"/>
+    <cosponsor thomas_id="01751" joined="2013-03-18"/>
+    <cosponsor thomas_id="01933" joined="2013-03-18"/>
+    <cosponsor thomas_id="02046" joined="2013-04-12"/>
+    <cosponsor thomas_id="00612" joined="2013-03-18"/>
+    <cosponsor thomas_id="00636" joined="2013-04-09"/>
+    <cosponsor thomas_id="02011" joined="2013-04-16"/>
+    <cosponsor thomas_id="02050" joined="2013-03-25"/>
+    <cosponsor thomas_id="01908" joined="2013-04-09"/>
+    <cosponsor thomas_id="02034" joined="2013-07-23"/>
+    <cosponsor thomas_id="01955" joined="2013-04-09"/>
+    <cosponsor thomas_id="02017" joined="2013-03-25"/>
+    <cosponsor thomas_id="01892" joined="2013-03-18"/>
+    <cosponsor thomas_id="01525" joined="2013-03-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-12" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-03-15">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Appropriations"/>
+    <term name="Government trust funds"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Health promotion and preventive care"/>
+  </subjects>
+  <amendments/>
+  <summary>3/12/2013--Introduced.
+Amends the Patient Protection and Affordable Care Act to repeal the establishment of, and appropriation of funds to, the Prevention and Public Health Fund (a Fund to provide for expanded and sustained national investment in prevention and public health programs to improve health and help restrain the rate of growth in private and public sector health care costs). Rescinds any unobligated balances appropriated to such Fund.
+
+Directs the Secretary of Health and Human Services (HHS) to&#160;post a notice of such rescission and the amounts of funds rescinded on the public HHS website&#160;within 10 days of enactment of this Act.</summary>
+</bill>

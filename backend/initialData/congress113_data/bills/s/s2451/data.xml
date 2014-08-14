@@ -1,0 +1,43 @@
+<bill session="113" type="s" number="2451" updated="2014-08-14T14:05:43-04:00">
+  <state datetime="2014-06-10">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-10"/>
+  </status>
+  <introduced datetime="2014-06-10"/>
+  <titles>
+    <title type="short" as="introduced">Local School Board Governance and Flexibility Act</title>
+    <title type="official" as="introduced">A bill to support the local decisionmaking functions of local educational agencies by limiting the authority of the Secretary of Education to issue regulations, rules, grant conditions, and guidance materials, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00583"/>
+  <cosponsors>
+    <cosponsor thomas_id="00250" joined="2014-06-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-10">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S3545-3546"/>
+    </action>
+    <action datetime="2014-06-10" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="1386"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Administrative remedies"/>
+    <term name="Department of Education"/>
+    <term name="Education programs funding"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Government information and archives"/>
+    <term name="Intergovernmental relations"/>
+    <term name="School administration"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+</bill>

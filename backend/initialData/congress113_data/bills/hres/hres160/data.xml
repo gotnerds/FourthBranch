@@ -1,0 +1,58 @@
+<bill session="113" type="hr" number="160" updated="2014-08-14T12:46:00-04:00">
+  <state datetime="2013-04-15">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-15"/>
+  </status>
+  <introduced datetime="2013-04-15"/>
+  <titles>
+    <title type="short" as="introduced">Congressional Oversight to Start Taxpayer Savings Resolution</title>
+    <title type="short" as="introduced">COST Savings Resolution</title>
+    <title type="official" as="introduced">Amending the Rules of the House of Representatives to require authorizing committees to hold annual hearings on GAO investigative reports on the identification, consolidation, and elimination of duplicative Government programs.</title>
+  </titles>
+  <sponsor thomas_id="01998"/>
+  <cosponsors>
+    <cosponsor thomas_id="02093" joined="2013-04-15"/>
+    <cosponsor thomas_id="02027" joined="2013-04-15"/>
+    <cosponsor thomas_id="00165" joined="2013-04-16"/>
+    <cosponsor thomas_id="01999" joined="2013-04-15"/>
+    <cosponsor thomas_id="01912" joined="2013-04-15"/>
+    <cosponsor thomas_id="02133" joined="2013-04-15"/>
+    <cosponsor thomas_id="02065" joined="2013-04-15"/>
+    <cosponsor thomas_id="01743" joined="2013-04-15"/>
+    <cosponsor thomas_id="02044" joined="2013-04-15"/>
+    <cosponsor thomas_id="02032" joined="2013-04-15"/>
+    <cosponsor thomas_id="01913" joined="2013-04-15"/>
+    <cosponsor thomas_id="01936" joined="2013-04-15"/>
+    <cosponsor thomas_id="02050" joined="2013-04-15"/>
+    <cosponsor thomas_id="01960" joined="2013-05-15"/>
+    <cosponsor thomas_id="02074" joined="2013-04-24"/>
+    <cosponsor thomas_id="02034" joined="2013-06-06"/>
+    <cosponsor thomas_id="01929" joined="2013-04-15"/>
+    <cosponsor thomas_id="01910" joined="2013-04-15"/>
+    <cosponsor thomas_id="02048" joined="2013-04-15"/>
+    <cosponsor thomas_id="02017" joined="2013-05-08"/>
+    <cosponsor thomas_id="01566" joined="2013-04-15"/>
+    <cosponsor thomas_id="02021" joined="2013-04-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-15" state="REFERRED">
+      <text>Referred to the House Committee on Rules.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSRU" name="House Rules" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional committees"/>
+    <term name="Congressional oversight"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government studies and investigations"/>
+    <term name="House of Representatives"/>
+    <term name="Legislative rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>4/15/2013--Introduced.
+Congressional Oversight to Start Taxpayer Savings Resolution or COST Savings Resolution - Amends Rule X (Organization of Committees) of the Rules of the House of Representatives to require each standing committee (except the Committee on Appropriations) with the proper jurisdiction, after the Comptroller General reports annually to Congress on federal programs, agencies, offices, and initiatives with duplicative goals and activities, to conduct hearings on the report's recommendations for consolidation and elimination of the program or agency.</summary>
+</bill>

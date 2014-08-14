@@ -1,0 +1,50 @@
+<bill session="113" type="h" number="2831" updated="2014-08-14T13:15:37-04:00">
+  <state datetime="2013-07-25">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-25"/>
+  </status>
+  <introduced datetime="2013-07-25"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to deny any deduction for marketing directed at children to promote the consumption of food of poor nutritional quality.</title>
+  </titles>
+  <sponsor thomas_id="00281"/>
+  <cosponsors>
+    <cosponsor thomas_id="01970" joined="2013-12-04"/>
+    <cosponsor thomas_id="01654" joined="2013-07-25"/>
+    <cosponsor thomas_id="00229" joined="2013-09-30"/>
+    <cosponsor thomas_id="00279" joined="2013-07-25"/>
+    <cosponsor thomas_id="01708" joined="2013-07-25"/>
+    <cosponsor thomas_id="00511" joined="2013-09-25"/>
+    <cosponsor thomas_id="00599" joined="2013-12-09"/>
+    <cosponsor thomas_id="01501" joined="2013-07-25"/>
+    <cosponsor thomas_id="00808" joined="2014-05-19"/>
+    <cosponsor thomas_id="00868" joined="2013-12-16"/>
+    <cosponsor thomas_id="00944" joined="2013-09-25"/>
+    <cosponsor thomas_id="01757" joined="2014-02-06"/>
+    <cosponsor thomas_id="01588" joined="2013-09-30"/>
+    <cosponsor thomas_id="01069" joined="2013-12-09"/>
+    <cosponsor thomas_id="02110" joined="2014-07-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-25" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2342"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Child health"/>
+    <term name="Food industry and services"/>
+    <term name="Income tax deductions"/>
+    <term name="Marketing and advertising"/>
+    <term name="Nutrition and diet"/>
+  </subjects>
+  <amendments/>
+  <summary>7/25/2013--Introduced.
+Amends the Internal Revenue Code to deny a tax deduction for any business expenses for marketing directed at children (age 17 or younger) to promote the consumption of food of poor nutritional quality and for related expenses, including for travel, goods or services constituting entertainment, amusement, or recreation, gifts, or other promotion expenses. Defines "food of poor nutritional quality" to mean food and beverages that are determined by the Secretary of the Treasury, in consultation with the Secretary of Health and Human Services (HHS) and the Federal Trade Commission (FTC), to be inconsistent with the most recent government dietary guidelines.</summary>
+</bill>

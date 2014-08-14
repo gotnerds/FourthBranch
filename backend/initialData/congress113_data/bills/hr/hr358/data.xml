@@ -1,0 +1,70 @@
+<bill session="113" type="h" number="358" updated="2014-08-14T12:53:46-04:00">
+  <state datetime="2013-01-23">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-23"/>
+  </status>
+  <introduced datetime="2013-01-23"/>
+  <titles>
+    <title type="short" as="introduced">Strategic Response to Asian Carp Invasion Act</title>
+    <title type="official" as="introduced">To direct the United States Fish and Wildlife Service, in coordination with the Army Corps of Engineers, the National Park Service, and the United States Geological Survey, to lead a multiagency effort to slow the spread of Asian Carp in the Upper Mississippi and Ohio River basins and tributaries, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01653"/>
+  <cosponsors>
+    <cosponsor thomas_id="01858" joined="2013-01-23"/>
+    <cosponsor thomas_id="02018" joined="2013-04-25"/>
+    <cosponsor thomas_id="01999" joined="2013-05-16"/>
+    <cosponsor thomas_id="02159" joined="2013-03-25"/>
+    <cosponsor thomas_id="01654" joined="2013-05-16"/>
+    <cosponsor thomas_id="00229" joined="2013-01-23"/>
+    <cosponsor thomas_id="01857" joined="2013-04-11"/>
+    <cosponsor thomas_id="01794" joined="2013-01-23"/>
+    <cosponsor thomas_id="02154" joined="2013-02-25"/>
+    <cosponsor thomas_id="02051" joined="2013-01-23"/>
+    <cosponsor thomas_id="01498" joined="2013-02-25"/>
+    <cosponsor thomas_id="01733" joined="2013-02-25"/>
+    <cosponsor thomas_id="01885" joined="2013-01-23"/>
+    <cosponsor thomas_id="01846" joined="2013-03-13"/>
+    <cosponsor thomas_id="01731" joined="2013-06-14"/>
+    <cosponsor thomas_id="00867" joined="2013-01-23"/>
+    <cosponsor thomas_id="01974" joined="2013-05-21"/>
+    <cosponsor thomas_id="01930" joined="2013-01-23"/>
+    <cosponsor thomas_id="01929" joined="2013-05-16"/>
+    <cosponsor thomas_id="00910" joined="2013-01-23"/>
+    <cosponsor thomas_id="02048" joined="2013-05-21"/>
+    <cosponsor thomas_id="02158" joined="2013-09-18"/>
+    <cosponsor thomas_id="01798" joined="2013-04-09"/>
+    <cosponsor thomas_id="01069" joined="2013-01-23"/>
+    <cosponsor thomas_id="01952" joined="2013-05-14"/>
+    <cosponsor thomas_id="01856" joined="2013-01-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-23" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-02-01">
+      <text>Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.</text>
+    </action>
+    <action datetime="2013-07-25">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral, In Committee"/>
+    <committee subcommittee="Fisheries, Wildlife, Oceans, and Insular Affairs" code="HSII22" name="House Natural Resources" activity="Referral, Hearings"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="125"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Aquatic ecology"/>
+    <term name="Congressional oversight"/>
+    <term name="Fishes"/>
+    <term name="Lakes and rivers"/>
+    <term name="Mississippi River"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+  <summary>1/23/2013--Introduced.
+Strategic Response to Asian Carp Invasion Act - Requires the Director of the U.S. Fish and Wildlife Service (USFWS), in coordination with the Army Corps of Engineers, the National Park Service (NPS), and the U.S. Geological Survey (USGS), to lead a multiagency effort to slow the spread of Asian Carp in the Upper Mississippi and Ohio River basins and tributaries by providing high-level technical assistance, coordination, best practices, and support to state and local government strategies, to slow, and eventually eliminate, the threat posed by such carp.</summary>
+</bill>

@@ -1,0 +1,40 @@
+<bill session="113" type="hr" number="25" updated="2014-08-14T12:44:52-04:00">
+  <state datetime="2013-01-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-14"/>
+  </status>
+  <introduced datetime="2013-01-14"/>
+  <titles>
+    <title type="official" as="introduced">Recognizing Linemen, the profession of Linemen, and the contributions of these brave men and women to protect public safety, and expressing support for designation of April 18, 2013, as National Lineman Appreciation Day.</title>
+  </titles>
+  <sponsor thomas_id="01720"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-01-14" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-01-18">
+      <text>Referred to the Subcommittee on Energy and Power.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Energy and Power" code="HSIF03" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="113" relation="identical" number="512"/>
+    <bill type="hr" session="113" relation="identical" number="553"/>
+    <bill type="sr" session="113" relation="unknown" number="95"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Electric power generation and transmission"/>
+  </subjects>
+  <amendments/>
+  <summary>1/14/2013--Introduced.
+Recognizes the efforts of linemen in keeping the electrical power on and protecting public safety.
+
+ Expresses support for the designation of National Linemen Appreciation Day.</summary>
+</bill>

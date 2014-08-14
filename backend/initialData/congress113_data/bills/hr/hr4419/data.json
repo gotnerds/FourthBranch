@@ -1,0 +1,174 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-04-08", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Referred to the Committee on Natural Resources, and in addition to the Committees on Agriculture, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-04-08", 
+      "committees": [
+        "HSII"
+      ], 
+      "references": [], 
+      "text": "Referred to House Natural Resources", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-04-08", 
+      "committees": [
+        "HSAG"
+      ], 
+      "references": [], 
+      "text": "Referred to House Agriculture", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-04-08", 
+      "committees": [
+        "HSJU"
+      ], 
+      "references": [], 
+      "text": "Referred to House Judiciary", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-04-22", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Conservation, Energy, and Forestry.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-06-09", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on the Constitution and Civil Justice.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "hr4419-113", 
+  "bill_type": "hr", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Natural Resources", 
+      "committee_id": "HSII"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Agriculture", 
+      "committee_id": "HSAG", 
+      "subcommittee": "Subcommittee on Conservation, Energy, and Forestry", 
+      "subcommittee_id": "15"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Judiciary", 
+      "committee_id": "HSJU", 
+      "subcommittee": "Subcommittee on Constitution and Civil Justice", 
+      "subcommittee_id": "10"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": "8", 
+      "name": "Cook, Paul", 
+      "sponsored_at": "2014-05-06", 
+      "state": "CA", 
+      "thomas_id": "02103", 
+      "title": "Rep", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-04-08", 
+  "number": "4419", 
+  "official_title": "To amend the Endangered Species Act of 1973 to require periodic review of listings of endangered species and threatened species under that Act, to support protection and conservation measures for endangered or threatened species under that Act and to alleviate the need to list a species as an endangered or threatened species, to convey small parcels of National Forest System land and Department of the Interior land to generate revenues for such protection and conservation measures, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Sage-Grouse and Endangered Species Conservation and Protection Act", 
+  "sponsor": {
+    "district": "2", 
+    "name": "Amodei, Mark E.", 
+    "state": "NV", 
+    "thomas_id": "02090", 
+    "title": "Rep", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-04-08", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Animals", 
+    "Department of Agriculture", 
+    "Department of the Interior", 
+    "Endangered and threatened species", 
+    "Environmental assessment, monitoring, research", 
+    "Forests, forestry, trees", 
+    "General public lands matters", 
+    "Government information and archives", 
+    "Government studies and investigations", 
+    "Government trust funds", 
+    "Historical and cultural resources", 
+    "Intergovernmental relations", 
+    "Land transfers", 
+    "Land use and conservation", 
+    "Pest management", 
+    "Property rights", 
+    "State and local finance", 
+    "State and local government operations", 
+    "Wildlife conservation and habitat protection"
+  ], 
+  "subjects_top_term": "Animals", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Sage-Grouse and Endangered Species Conservation and Protection Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "To amend the Endangered Species Act of 1973 to require periodic review of listings of endangered species and threatened species under that Act, to support protection and conservation measures for endangered or threatened species under that Act and to alleviate the need to list a species as an endangered or threatened species, to convey small parcels of National Forest System land and Department of the Interior land to generate revenues for such protection and conservation measures, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T13:29:05-04:00"
+}

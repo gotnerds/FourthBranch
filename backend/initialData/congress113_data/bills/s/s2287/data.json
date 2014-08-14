@@ -1,0 +1,110 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-05-05", 
+      "references": [
+        {
+          "reference": "CR S2648-2649", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-05-05", 
+      "committees": [
+        "SSFI"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Finance.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2287-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Finance", 
+      "committee_id": "SSFI"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Walsh, John E.", 
+      "sponsored_at": "2014-05-05", 
+      "state": "MT", 
+      "thomas_id": "02198", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-05-05", 
+  "number": "2287", 
+  "official_title": "A bill to facilitate the development and commercial deployment of carbon capture and sequestration technologies, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Carbon Capture and Sequestration Deployment Act of 2014", 
+  "sponsor": {
+    "district": null, 
+    "name": "Rockefeller, John D., IV", 
+    "state": "WV", 
+    "thomas_id": "01424", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-05-05", 
+  "subjects": [
+    "Administrative law and regulatory procedures", 
+    "Advanced technology and technological innovations", 
+    "Air quality", 
+    "Climate change and greenhouse gases", 
+    "Congressional oversight", 
+    "Department of Energy", 
+    "Department of the Treasury", 
+    "Electric power generation and transmission", 
+    "Energy", 
+    "Energy research", 
+    "Environmental assessment, monitoring, research", 
+    "Environmental technology", 
+    "Executive agency funding and structure", 
+    "Government lending and loan guarantees", 
+    "Income tax credits", 
+    "Public-private cooperation", 
+    "Research administration and funding", 
+    "Research and development"
+  ], 
+  "subjects_top_term": "Energy", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Carbon Capture and Sequestration Deployment Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to facilitate the development and commercial deployment of carbon capture and sequestration technologies, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T14:04:21-04:00"
+}

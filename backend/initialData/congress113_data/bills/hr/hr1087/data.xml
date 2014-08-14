@@ -1,0 +1,49 @@
+<bill session="113" type="h" number="1087" updated="2014-08-14T12:59:58-04:00">
+  <state datetime="2013-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-12"/>
+  </status>
+  <introduced datetime="2013-03-12"/>
+  <titles>
+    <title type="short" as="introduced">Liberian Refugee Immigration Fairness Act of 2013</title>
+    <title type="official" as="introduced">To provide for the adjustment of status of certain nationals of Liberia to that of lawful permanent residents.</title>
+  </titles>
+  <sponsor thomas_id="01857"/>
+  <cosponsors>
+    <cosponsor thomas_id="02055" joined="2013-03-12"/>
+    <cosponsor thomas_id="01708" joined="2013-03-12"/>
+    <cosponsor thomas_id="00478" joined="2013-03-12"/>
+    <cosponsor thomas_id="01668" joined="2013-04-10"/>
+    <cosponsor thomas_id="01653" joined="2013-03-12"/>
+    <cosponsor thomas_id="01504" joined="2013-03-12"/>
+    <cosponsor thomas_id="00832" joined="2013-04-10"/>
+    <cosponsor thomas_id="02097" joined="2013-04-10"/>
+    <cosponsor thomas_id="01910" joined="2013-04-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-12" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-04-08">
+      <text>Referred to the Subcommittee on Immigration And Border Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee subcommittee="Immigration and Border Security" code="HSJU01" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="527"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Africa"/>
+    <term name="Immigration status and procedures"/>
+    <term name="Liberia"/>
+  </subjects>
+  <amendments/>
+  <summary>3/12/2013--Introduced.
+Liberian Refugee Immigration Fairness Act of 2013 - Adjusts to permanent resident status a qualifying Liberian national who: (1) has been continuously present in the United States between January 1, 2013, through the date of status adjustment application; or (2) is the spouse, child, or unmarried son or daughter of such an alien.
+
+Requires adjustment applications to be filed not later than one year after the date of enactment of this Act.</summary>
+</bill>

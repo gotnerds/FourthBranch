@@ -1,0 +1,62 @@
+<bill session="113" type="h" number="4346" updated="2014-08-14T13:28:29-04:00">
+  <state datetime="2014-03-27">REFERRED</state>
+  <status>
+    <introduced datetime="2014-03-27"/>
+  </status>
+  <introduced datetime="2014-03-27"/>
+  <titles>
+    <title type="short" as="introduced">NATO Alliance Recognition and Promotion Act</title>
+    <title type="official" as="introduced">To encourage continued enlargement of the North Atlantic Treaty Organization.</title>
+  </titles>
+  <sponsor thomas_id="01741"/>
+  <cosponsors>
+    <cosponsor thomas_id="02098" joined="2014-04-28"/>
+    <cosponsor thomas_id="01717" joined="2014-03-27"/>
+    <cosponsor thomas_id="02125" joined="2014-04-02"/>
+    <cosponsor thomas_id="01922" joined="2014-03-27"/>
+    <cosponsor thomas_id="00778" joined="2014-03-27"/>
+    <cosponsor thomas_id="00800" joined="2014-03-27"/>
+    <cosponsor thomas_id="01731" joined="2014-03-27"/>
+    <cosponsor thomas_id="01802" joined="2014-03-27"/>
+    <cosponsor thomas_id="00944" joined="2014-03-27"/>
+    <cosponsor thomas_id="02009" joined="2014-03-27"/>
+    <cosponsor thomas_id="01527" joined="2014-03-27"/>
+    <cosponsor thomas_id="01071" joined="2014-04-10"/>
+    <cosponsor thomas_id="02128" joined="2014-03-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-03-27" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2283"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Albania"/>
+    <term name="Alliances"/>
+    <term name="Bulgaria"/>
+    <term name="Collective security"/>
+    <term name="Croatia"/>
+    <term name="Czech Republic"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Estonia"/>
+    <term name="Europe"/>
+    <term name="Hungary"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Latvia"/>
+    <term name="Lithuania"/>
+    <term name="Poland"/>
+    <term name="Romania"/>
+    <term name="Slovakia"/>
+    <term name="Slovenia"/>
+    <term name="United Kingdom"/>
+  </subjects>
+  <amendments/>
+  <summary>3/27/2014--Introduced.
+NATO Alliance Recognition and Promotion Act - Expresses the sense of Congress that: (1) the United States should remain committed to maintaining a military presence in Europe to promote allied interoperability and provide assurance to North American Treaty Alliance (NATO) allies in the region; and (2) at the September 2014 NATO Summit in Wales, the United States, along with NATO allies, should continue to pursue enlargement initiatives for the aspirant countries.</summary>
+</bill>

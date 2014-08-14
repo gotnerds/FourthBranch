@@ -1,0 +1,68 @@
+<bill session="113" type="h" number="1473" updated="2014-08-14T13:03:14-04:00">
+  <state datetime="2013-04-10">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-10"/>
+  </status>
+  <introduced datetime="2013-04-10"/>
+  <titles>
+    <title type="short" as="introduced">Standard of Care Protection Act of 2013</title>
+    <title type="official" as="introduced">To prevent certain Federal health care laws from establishing health care provider standards of care in medical malpractice cases, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01720"/>
+  <cosponsors>
+    <cosponsor thomas_id="01748" joined="2013-07-10"/>
+    <cosponsor thomas_id="01787" joined="2013-11-21"/>
+    <cosponsor thomas_id="01751" joined="2013-06-13"/>
+    <cosponsor thomas_id="01676" joined="2013-06-19"/>
+    <cosponsor thomas_id="01807" joined="2013-04-10"/>
+    <cosponsor thomas_id="02061" joined="2013-07-25"/>
+    <cosponsor thomas_id="02164" joined="2013-11-21"/>
+    <cosponsor thomas_id="02040" joined="2013-10-28"/>
+    <cosponsor thomas_id="01781" joined="2013-07-25"/>
+    <cosponsor thomas_id="02108" joined="2013-10-16"/>
+    <cosponsor thomas_id="02162" joined="2013-06-19"/>
+    <cosponsor thomas_id="01955" joined="2014-02-27"/>
+    <cosponsor thomas_id="02109" joined="2013-07-09"/>
+    <cosponsor thomas_id="01722" joined="2013-06-13"/>
+    <cosponsor thomas_id="02047" joined="2013-07-09"/>
+    <cosponsor thomas_id="01593" joined="2013-10-28"/>
+    <cosponsor thomas_id="02112" joined="2013-08-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-10" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-04-10">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-04-10">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2013-04-12">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+    <action datetime="2013-04-30">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee subcommittee="Constitution and Civil Justice" code="HSJU10" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Civil actions and liability"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Evidence and witnesses"/>
+    <term name="Health care quality"/>
+  </subjects>
+  <amendments/>
+  <summary>4/10/2013--Introduced.
+Standard of Care Protection Act of 2013 - Declares that the development, recognition, or implementation of any guideline or other standard under any provision of the Patient Protection and Affordable Care Act (PPACA) or titles XVIII (Medicare) or XIX (Medicaid) of the Social Security Act shall not be construed to establish the standard of care or duty of care owed by a health care provider to a patient in any medical malpractice case.
+
+Declares also that no provision of PPACA or amendments made by it shall be construed to preempt any state law governing medical professional liability cases.</summary>
+</bill>

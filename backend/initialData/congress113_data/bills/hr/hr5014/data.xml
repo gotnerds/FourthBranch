@@ -1,0 +1,54 @@
+<bill session="113" type="h" number="5014" updated="2014-08-14T13:34:16-04:00">
+  <state datetime="2014-06-30">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-30"/>
+  </status>
+  <introduced datetime="2014-06-30"/>
+  <titles>
+    <title type="short" as="introduced">Illegal Entry Accountability Act of 2014</title>
+    <title type="official" as="introduced">To suspend foreign assistance to certain countries related to unlawful migration.</title>
+  </titles>
+  <sponsor thomas_id="02161"/>
+  <cosponsors>
+    <cosponsor thomas_id="02135" joined="2014-07-14"/>
+    <cosponsor thomas_id="01787" joined="2014-07-09"/>
+    <cosponsor thomas_id="01987" joined="2014-07-09"/>
+    <cosponsor thomas_id="01882" joined="2014-07-16"/>
+    <cosponsor thomas_id="01751" joined="2014-07-09"/>
+    <cosponsor thomas_id="02197" joined="2014-07-09"/>
+    <cosponsor thomas_id="00186" joined="2014-06-30"/>
+    <cosponsor thomas_id="02200" joined="2014-07-10"/>
+    <cosponsor thomas_id="02062" joined="2014-07-29"/>
+    <cosponsor thomas_id="00484" joined="2014-07-29"/>
+    <cosponsor thomas_id="00603" joined="2014-07-09"/>
+    <cosponsor thomas_id="01806" joined="2014-07-09"/>
+    <cosponsor thomas_id="01908" joined="2014-07-16"/>
+    <cosponsor thomas_id="02130" joined="2014-07-29"/>
+    <cosponsor thomas_id="01758" joined="2014-06-30"/>
+    <cosponsor thomas_id="01955" joined="2014-07-10"/>
+    <cosponsor thomas_id="02160" joined="2014-07-10"/>
+    <cosponsor thomas_id="02017" joined="2014-07-30"/>
+    <cosponsor thomas_id="01525" joined="2014-06-30"/>
+    <cosponsor thomas_id="01075" joined="2014-07-10"/>
+    <cosponsor thomas_id="02047" joined="2014-07-10"/>
+    <cosponsor thomas_id="01114" joined="2014-06-30"/>
+    <cosponsor thomas_id="01222" joined="2014-07-14"/>
+    <cosponsor thomas_id="02165" joined="2014-07-23"/>
+    <cosponsor thomas_id="02115" joined="2014-06-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-30" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>6/30/2014--Introduced.
+Illegal Entry Accountability Act of 2014 - Directs the Secretary of State to suspend all U.S. foreign assistance to Mexico, Honduras, Guatemala, and El Salvador, except for assistance under the international narcotic control law enforcement program.
+
+Allows reinstatement of assistance only if Congress determines that Mexico, Honduras, Guatemala, and El Salvador have taken sufficient action to mitigate unlawful U.S.-Mexico border crossings by their respective citizens.</summary>
+</bill>

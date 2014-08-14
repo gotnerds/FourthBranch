@@ -1,0 +1,52 @@
+<bill session="113" type="s" number="738" updated="2014-08-14T13:51:02-04:00">
+  <state datetime="2013-04-16">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-16"/>
+  </status>
+  <introduced datetime="2013-04-16"/>
+  <titles>
+    <title type="short" as="introduced">Permanent Electronic Duck Stamp Act of 2013</title>
+    <title type="official" as="introduced">A bill to grant the Secretary of the Interior permanent authority to authorize States to issue electronic duck stamps, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01226"/>
+  <cosponsors>
+    <cosponsor thomas_id="00066" joined="2013-04-16"/>
+    <cosponsor thomas_id="01687" joined="2014-01-28"/>
+    <cosponsor thomas_id="00213" joined="2013-04-16"/>
+    <cosponsor thomas_id="01541" joined="2014-03-25"/>
+    <cosponsor thomas_id="01984" joined="2014-07-08"/>
+    <cosponsor thomas_id="00583" joined="2014-01-29"/>
+    <cosponsor thomas_id="01701" joined="2013-04-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="1206"/>
+    <bill type="h" session="113" relation="unknown" number="3197"/>
+    <bill type="h" session="113" relation="unknown" number="3590"/>
+    <bill type="h" session="113" relation="unknown" number="3590"/>
+    <bill type="s" session="113" relation="unknown" number="1335"/>
+    <bill type="s" session="113" relation="unknown" number="1660"/>
+    <bill type="s" session="113" relation="unknown" number="1996"/>
+    <bill type="s" session="113" relation="unknown" number="2363"/>
+  </relatedbills>
+  <subjects>
+    <term name="Animals"/>
+    <term name="Art, artists, authorship"/>
+    <term name="Birds"/>
+    <term name="Hunting and fishing"/>
+    <term name="Licensing and registrations"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+  <summary>4/16/2013--Introduced.
+Permanent Electronic Duck Stamp Act of 2013 - Grants the Secretary of the Interior permanent authority to authorize any state to issue electronic duck stamps.
+
+Sets forth state electronic duck stamp application requirements.</summary>
+</bill>

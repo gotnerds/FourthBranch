@@ -1,0 +1,162 @@
+<bill session="113" type="h" number="436" updated="2014-08-14T12:54:28-04:00">
+  <state datetime="2013-01-29">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-29"/>
+  </status>
+  <introduced datetime="2013-01-29"/>
+  <titles>
+    <title type="short" as="introduced">Government Neutrality in Contracting Act</title>
+    <title type="official" as="introduced">To preserve open competition and Federal Government neutrality towards the labor relations of Federal Government contractors on Federal and federally funded construction projects.</title>
+  </titles>
+  <sponsor thomas_id="02026"/>
+  <cosponsors>
+    <cosponsor thomas_id="01460" joined="2013-01-29"/>
+    <cosponsor thomas_id="01727" joined="2013-01-29"/>
+    <cosponsor thomas_id="02029" joined="2013-01-29"/>
+    <cosponsor thomas_id="02090" joined="2013-01-29"/>
+    <cosponsor thomas_id="01858" joined="2013-01-29"/>
+    <cosponsor thomas_id="00038" joined="2013-01-29"/>
+    <cosponsor thomas_id="02131" joined="2013-02-25"/>
+    <cosponsor thomas_id="00062" joined="2013-01-29"/>
+    <cosponsor thomas_id="02027" joined="2013-02-06"/>
+    <cosponsor thomas_id="02135" joined="2013-05-16"/>
+    <cosponsor thomas_id="01838" joined="2013-02-06"/>
+    <cosponsor thomas_id="01753" joined="2013-02-06"/>
+    <cosponsor thomas_id="02063" joined="2013-01-29"/>
+    <cosponsor thomas_id="01748" joined="2013-01-29"/>
+    <cosponsor thomas_id="01787" joined="2013-07-23"/>
+    <cosponsor thomas_id="01987" joined="2013-01-29"/>
+    <cosponsor thomas_id="01882" joined="2013-01-29"/>
+    <cosponsor thomas_id="02018" joined="2013-01-29"/>
+    <cosponsor thomas_id="01751" joined="2013-01-29"/>
+    <cosponsor thomas_id="00165" joined="2013-01-29"/>
+    <cosponsor thomas_id="00166" joined="2013-02-06"/>
+    <cosponsor thomas_id="01752" joined="2013-09-10"/>
+    <cosponsor thomas_id="01925" joined="2013-07-31"/>
+    <cosponsor thomas_id="00186" joined="2013-08-02"/>
+    <cosponsor thomas_id="01956" joined="2013-08-02"/>
+    <cosponsor thomas_id="00211" joined="2013-06-05"/>
+    <cosponsor thomas_id="01912" joined="2013-01-29"/>
+    <cosponsor thomas_id="01742" joined="2013-02-06"/>
+    <cosponsor thomas_id="02098" joined="2013-02-06"/>
+    <cosponsor thomas_id="02144" joined="2013-05-16"/>
+    <cosponsor thomas_id="01989" joined="2013-07-31"/>
+    <cosponsor thomas_id="01643" joined="2013-02-06"/>
+    <cosponsor thomas_id="01670" joined="2013-07-23"/>
+    <cosponsor thomas_id="02116" joined="2013-07-31"/>
+    <cosponsor thomas_id="02062" joined="2013-01-29"/>
+    <cosponsor thomas_id="02057" joined="2013-01-29"/>
+    <cosponsor thomas_id="00322" joined="2013-01-29"/>
+    <cosponsor thomas_id="02036" joined="2013-08-02"/>
+    <cosponsor thomas_id="02067" joined="2013-02-06"/>
+    <cosponsor thomas_id="02064" joined="2013-01-29"/>
+    <cosponsor thomas_id="02061" joined="2013-01-29"/>
+    <cosponsor thomas_id="02065" joined="2013-07-31"/>
+    <cosponsor thomas_id="01683" joined="2013-02-25"/>
+    <cosponsor thomas_id="01793" joined="2013-01-29"/>
+    <cosponsor thomas_id="01707" joined="2013-02-06"/>
+    <cosponsor thomas_id="01998" joined="2013-02-25"/>
+    <cosponsor thomas_id="01737" joined="2013-01-29"/>
+    <cosponsor thomas_id="01720" joined="2013-07-31"/>
+    <cosponsor thomas_id="01801" joined="2013-08-02"/>
+    <cosponsor thomas_id="00446" joined="2013-02-25"/>
+    <cosponsor thomas_id="01992" joined="2013-01-29"/>
+    <cosponsor thomas_id="01656" joined="2013-05-16"/>
+    <cosponsor thomas_id="01979" joined="2013-07-31"/>
+    <cosponsor thomas_id="01990" joined="2013-05-16"/>
+    <cosponsor thomas_id="00484" joined="2013-07-23"/>
+    <cosponsor thomas_id="02044" joined="2013-06-26"/>
+    <cosponsor thomas_id="01933" joined="2013-01-29"/>
+    <cosponsor thomas_id="02032" joined="2013-06-05"/>
+    <cosponsor thomas_id="02040" joined="2013-06-26"/>
+    <cosponsor thomas_id="01749" joined="2013-06-26"/>
+    <cosponsor thomas_id="02143" joined="2013-04-12"/>
+    <cosponsor thomas_id="02020" joined="2013-01-29"/>
+    <cosponsor thomas_id="02028" joined="2013-01-29"/>
+    <cosponsor thomas_id="01909" joined="2013-06-26"/>
+    <cosponsor thomas_id="02069" joined="2013-01-29"/>
+    <cosponsor thomas_id="01921" joined="2013-07-23"/>
+    <cosponsor thomas_id="00612" joined="2013-05-16"/>
+    <cosponsor thomas_id="01868" joined="2013-01-29"/>
+    <cosponsor thomas_id="01724" joined="2013-01-29"/>
+    <cosponsor thomas_id="00636" joined="2013-02-06"/>
+    <cosponsor thomas_id="01834" joined="2013-06-26"/>
+    <cosponsor thomas_id="02050" joined="2013-06-05"/>
+    <cosponsor thomas_id="01885" joined="2013-01-29"/>
+    <cosponsor thomas_id="01931" joined="2013-04-12"/>
+    <cosponsor thomas_id="01960" joined="2013-05-16"/>
+    <cosponsor thomas_id="01806" joined="2013-05-16"/>
+    <cosponsor thomas_id="01804" joined="2013-07-31"/>
+    <cosponsor thomas_id="01792" joined="2014-01-28"/>
+    <cosponsor thomas_id="02142" joined="2013-02-25"/>
+    <cosponsor thomas_id="01584" joined="2013-01-29"/>
+    <cosponsor thomas_id="01685" joined="2013-01-29"/>
+    <cosponsor thomas_id="02156" joined="2013-02-06"/>
+    <cosponsor thomas_id="02059" joined="2013-01-29"/>
+    <cosponsor thomas_id="01758" joined="2013-01-29"/>
+    <cosponsor thomas_id="02034" joined="2013-01-29"/>
+    <cosponsor thomas_id="01955" joined="2013-09-10"/>
+    <cosponsor thomas_id="02035" joined="2013-01-29"/>
+    <cosponsor thomas_id="01930" joined="2013-08-02"/>
+    <cosponsor thomas_id="01738" joined="2013-01-29"/>
+    <cosponsor thomas_id="02157" joined="2013-02-25"/>
+    <cosponsor thomas_id="02141" joined="2013-02-25"/>
+    <cosponsor thomas_id="01514" joined="2013-08-02"/>
+    <cosponsor thomas_id="01802" joined="2013-01-29"/>
+    <cosponsor thomas_id="02022" joined="2013-07-23"/>
+    <cosponsor thomas_id="01778" joined="2013-04-12"/>
+    <cosponsor thomas_id="02118" joined="2013-05-16"/>
+    <cosponsor thomas_id="02073" joined="2013-01-29"/>
+    <cosponsor thomas_id="01954" joined="2013-01-29"/>
+    <cosponsor thomas_id="01651" joined="2013-07-31"/>
+    <cosponsor thomas_id="00979" joined="2013-08-02"/>
+    <cosponsor thomas_id="01916" joined="2013-04-12"/>
+    <cosponsor thomas_id="02003" joined="2013-01-29"/>
+    <cosponsor thomas_id="01892" joined="2013-01-29"/>
+    <cosponsor thomas_id="01994" joined="2013-09-10"/>
+    <cosponsor thomas_id="02009" joined="2013-07-31"/>
+    <cosponsor thomas_id="01041" joined="2013-01-29"/>
+    <cosponsor thomas_id="01525" joined="2013-01-29"/>
+    <cosponsor thomas_id="01590" joined="2013-02-06"/>
+    <cosponsor thomas_id="01860" joined="2013-04-12"/>
+    <cosponsor thomas_id="02191" joined="2013-06-26"/>
+    <cosponsor thomas_id="01075" joined="2013-01-29"/>
+    <cosponsor thomas_id="02168" joined="2013-07-31"/>
+    <cosponsor thomas_id="02047" joined="2013-01-29"/>
+    <cosponsor thomas_id="01114" joined="2013-04-12"/>
+    <cosponsor thomas_id="01981" joined="2013-01-29"/>
+    <cosponsor thomas_id="01952" joined="2013-01-29"/>
+    <cosponsor thomas_id="01155" joined="2013-01-29"/>
+    <cosponsor thomas_id="01855" joined="2013-02-06"/>
+    <cosponsor thomas_id="02002" joined="2013-01-29"/>
+    <cosponsor thomas_id="01779" joined="2013-01-29"/>
+    <cosponsor thomas_id="01688" joined="2013-01-29"/>
+    <cosponsor thomas_id="01886" joined="2013-05-16"/>
+    <cosponsor thomas_id="01238" joined="2013-01-29"/>
+    <cosponsor thomas_id="01991" joined="2013-01-29"/>
+    <cosponsor thomas_id="01255" joined="2013-02-06"/>
+    <cosponsor thomas_id="02019" joined="2013-01-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-29" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="109"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Labor-management relations"/>
+    <term name="Public contracts and procurement"/>
+  </subjects>
+  <amendments/>
+  <summary>1/29/2013--Introduced.
+Government Neutrality in Contracting Act - Directs the head of any federal agency that awards or obligates funds for any construction contract, or that awards grants, provides financial assistance, or enters into cooperative agreements for construction projects, to ensure that bid specifications, project agreements, or other controlling documents do not: (1) require or prohibit a bidder, offeror, contractor, or subcontractor from entering into, or adhering to, agreements with a labor organization, with respect to that construction project or another related construction project; or (2) otherwise discriminate against or give preference to such a party because it did or did not become a signatory or otherwise adhere to such an agreement.
+
+Allows exemptions to avert an imminent threat to public health or safety or to serve national security. Allows additional exemptions for certain projects. Directs the Federal Acquisition Regulatory Council to amend the Federal Acquisition Regulation to implement this Act with respect to the applicable federal contracts.</summary>
+</bill>

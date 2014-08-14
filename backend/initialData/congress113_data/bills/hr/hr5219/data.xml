@@ -1,0 +1,40 @@
+<bill session="113" type="h" number="5219" updated="2014-08-14T13:36:01-04:00">
+  <state datetime="2014-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-28"/>
+  </status>
+  <introduced datetime="2014-07-28"/>
+  <titles>
+    <title type="short" as="introduced">English Learning and Innovation Act</title>
+    <title type="official" as="introduced">To promote innovative practices for the education of English learners and to help States and local educational agencies with English learner populations build capacity to ensure that English learners receive high-quality instruction that enables them to become proficient in English, access the academic content knowledge needed to meet State challenging academic content standards, and be prepared for postsecondary education and careers.</title>
+  </titles>
+  <sponsor thomas_id="02120"/>
+  <cosponsors>
+    <cosponsor thomas_id="02107" joined="2014-07-28"/>
+    <cosponsor thomas_id="01634" joined="2014-07-30"/>
+    <cosponsor thomas_id="01501" joined="2014-07-30"/>
+    <cosponsor thomas_id="02111" joined="2014-08-01"/>
+    <cosponsor thomas_id="01939" joined="2014-07-31"/>
+    <cosponsor thomas_id="00832" joined="2014-07-31"/>
+    <cosponsor thomas_id="01602" joined="2014-07-30"/>
+    <cosponsor thomas_id="01910" joined="2014-07-28"/>
+    <cosponsor thomas_id="00997" joined="2014-07-31"/>
+    <cosponsor thomas_id="01522" joined="2014-07-30"/>
+    <cosponsor thomas_id="02112" joined="2014-07-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-28">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H6940"/>
+    </action>
+    <action datetime="2014-07-28" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

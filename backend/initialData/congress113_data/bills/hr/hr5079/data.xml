@@ -1,0 +1,58 @@
+<bill session="113" type="h" number="5079" updated="2014-08-14T13:34:50-04:00">
+  <state datetime="2014-07-11">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-11"/>
+  </status>
+  <introduced datetime="2014-07-11"/>
+  <titles>
+    <title type="official" as="introduced">To amend the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008 to provide for the repatriation of unaccompanied alien children, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00165"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2014-07-17"/>
+    <cosponsor thomas_id="01816" joined="2014-07-11"/>
+    <cosponsor thomas_id="01742" joined="2014-07-11"/>
+    <cosponsor thomas_id="02103" joined="2014-07-11"/>
+    <cosponsor thomas_id="02067" joined="2014-07-11"/>
+    <cosponsor thomas_id="02040" joined="2014-07-11"/>
+    <cosponsor thomas_id="01909" joined="2014-07-11"/>
+    <cosponsor thomas_id="01640" joined="2014-07-11"/>
+    <cosponsor thomas_id="02154" joined="2014-07-11"/>
+    <cosponsor thomas_id="02100" joined="2014-07-11"/>
+    <cosponsor thomas_id="01908" joined="2014-07-11"/>
+    <cosponsor thomas_id="00778" joined="2014-07-11"/>
+    <cosponsor thomas_id="02052" joined="2014-07-17"/>
+    <cosponsor thomas_id="01584" joined="2014-07-11"/>
+    <cosponsor thomas_id="01710" joined="2014-07-11"/>
+    <cosponsor thomas_id="02068" joined="2014-07-11"/>
+    <cosponsor thomas_id="00979" joined="2014-07-11"/>
+    <cosponsor thomas_id="00998" joined="2014-07-11"/>
+    <cosponsor thomas_id="02047" joined="2014-07-11"/>
+    <cosponsor thomas_id="01256" joined="2014-07-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-11" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2014-07-11">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2014-07-11">
+      <text>Referred to House Foreign Affairs</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="5053"/>
+    <bill type="s" session="113" relation="unknown" number="2666"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+  <summary>7/11/2014--Introduced.
+Amends the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008 to declare that any unaccompanied alien child who has not been a victim of a severe form of trafficking in persons or does not have a credible fear of persecution on returning to his or her country of nationality or of last habitual residence shall be: (1) placed in removal proceedings, (2) eligible for voluntary departure at no cost to the child, and (3) provided with access to counsel. (Currently such expedited removal requirements apply only to unaccompanied children from countries that are contiguous to the United States.)
+
+Directs the Secretary of State to negotiate agreements with any appropriate country regarding the repatriation of children.</summary>
+</bill>

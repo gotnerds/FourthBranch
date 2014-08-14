@@ -1,0 +1,93 @@
+<bill session="113" type="h" number="2116" updated="2014-08-14T13:09:20-04:00">
+  <state datetime="2013-05-22">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-22"/>
+  </status>
+  <introduced datetime="2013-05-22"/>
+  <titles>
+    <title type="short" as="introduced">Earned Income Tax Credit Improvement and Simplification Act 2013</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to make improvements in the earned income tax credit.</title>
+  </titles>
+  <sponsor thomas_id="00854"/>
+  <cosponsors>
+    <cosponsor thomas_id="02153" joined="2013-08-01"/>
+    <cosponsor thomas_id="00070" joined="2013-05-22"/>
+    <cosponsor thomas_id="00099" joined="2013-05-22"/>
+    <cosponsor thomas_id="02092" joined="2013-07-31"/>
+    <cosponsor thomas_id="01845" joined="2014-07-31"/>
+    <cosponsor thomas_id="00132" joined="2013-07-16"/>
+    <cosponsor thomas_id="02106" joined="2013-07-30"/>
+    <cosponsor thomas_id="02055" joined="2013-07-24"/>
+    <cosponsor thomas_id="01878" joined="2013-08-02"/>
+    <cosponsor thomas_id="00229" joined="2013-06-03"/>
+    <cosponsor thomas_id="01836" joined="2014-07-22"/>
+    <cosponsor thomas_id="01604" joined="2013-05-22"/>
+    <cosponsor thomas_id="00256" joined="2014-07-08"/>
+    <cosponsor thomas_id="01477" joined="2013-05-22"/>
+    <cosponsor thomas_id="00281" joined="2013-05-22"/>
+    <cosponsor thomas_id="00299" joined="2013-07-16"/>
+    <cosponsor thomas_id="00303" joined="2013-05-22"/>
+    <cosponsor thomas_id="00355" joined="2013-07-16"/>
+    <cosponsor thomas_id="02114" joined="2014-07-30"/>
+    <cosponsor thomas_id="01895" joined="2013-07-25"/>
+    <cosponsor thomas_id="01973" joined="2014-01-10"/>
+    <cosponsor thomas_id="01634" joined="2013-07-24"/>
+    <cosponsor thomas_id="02149" joined="2014-03-11"/>
+    <cosponsor thomas_id="02134" joined="2013-09-17"/>
+    <cosponsor thomas_id="02169" joined="2014-07-15"/>
+    <cosponsor thomas_id="01498" joined="2013-05-22"/>
+    <cosponsor thomas_id="01668" joined="2013-07-24"/>
+    <cosponsor thomas_id="01583" joined="2013-05-22"/>
+    <cosponsor thomas_id="01501" joined="2013-07-10"/>
+    <cosponsor thomas_id="00683" joined="2013-05-22"/>
+    <cosponsor thomas_id="00688" joined="2013-05-22"/>
+    <cosponsor thomas_id="02111" joined="2013-09-17"/>
+    <cosponsor thomas_id="01939" joined="2013-07-16"/>
+    <cosponsor thomas_id="01653" joined="2013-07-30"/>
+    <cosponsor thomas_id="00766" joined="2013-05-22"/>
+    <cosponsor thomas_id="01730" joined="2013-08-02"/>
+    <cosponsor thomas_id="00808" joined="2013-08-01"/>
+    <cosponsor thomas_id="01811" joined="2013-06-03"/>
+    <cosponsor thomas_id="00850" joined="2013-07-16"/>
+    <cosponsor thomas_id="00868" joined="2013-08-01"/>
+    <cosponsor thomas_id="01510" joined="2013-05-22"/>
+    <cosponsor thomas_id="01927" joined="2013-07-18"/>
+    <cosponsor thomas_id="02171" joined="2013-07-24"/>
+    <cosponsor thomas_id="00944" joined="2013-05-22"/>
+    <cosponsor thomas_id="00997" joined="2013-09-17"/>
+    <cosponsor thomas_id="01003" joined="2013-06-05"/>
+    <cosponsor thomas_id="01756" joined="2013-07-25"/>
+    <cosponsor thomas_id="01757" joined="2013-05-22"/>
+    <cosponsor thomas_id="01798" joined="2013-05-22"/>
+    <cosponsor thomas_id="01037" joined="2013-07-25"/>
+    <cosponsor thomas_id="01861" joined="2014-06-09"/>
+    <cosponsor thomas_id="02110" joined="2013-07-18"/>
+    <cosponsor thomas_id="01593" joined="2013-05-22"/>
+    <cosponsor thomas_id="01940" joined="2013-07-24"/>
+    <cosponsor thomas_id="02004" joined="2013-07-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-22" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="836"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Income tax credits"/>
+    <term name="Inflation and prices"/>
+    <term name="Marriage and family status"/>
+    <term name="Poverty and welfare assistance"/>
+    <term name="Separation, divorce, custody, support"/>
+    <term name="Tax treatment of families"/>
+    <term name="Wages and earnings"/>
+  </subjects>
+  <amendments/>
+  <summary>5/22/2013--Introduced.
+Earned Income Tax Credit Improvement and Simplification Act 2013 - Amends the Internal Revenue Code, with respect to the earned income tax credit, to: (1) make permanent the increase in the rate of such credit for taxpayers with three or more qualifying children and the reduction in the amount of the marriage penalty for such credit; (2) allow such credit for an individual with no qualifying children who has attained the age of 21 but not 25 and is not a full-time student, and whose qualifying children do not have valid social security numbers; (3) revise eligibility rules relating to married individuals living apart and qualifying children claimed by another family member; and (4) repeal the denial of such credit for taxpayers with excess investment income.</summary>
+</bill>

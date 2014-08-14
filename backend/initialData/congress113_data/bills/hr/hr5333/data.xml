@@ -1,0 +1,24 @@
+<bill session="113" type="h" number="5333" updated="2014-08-14T13:37:00-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="short" as="introduced">Expanding Access for Veterans' Service Animals Act</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to ensure that a service animal of a patient receiving inpatient medical care at a medical facility of the Department of Veterans Affairs is able to access the room of the patient.</title>
+  </titles>
+  <sponsor thomas_id="02138"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

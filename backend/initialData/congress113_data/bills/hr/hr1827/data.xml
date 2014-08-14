@@ -1,0 +1,94 @@
+<bill session="113" type="h" number="1827" updated="2014-08-14T13:06:17-04:00">
+  <state datetime="2013-05-06">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-06"/>
+  </status>
+  <introduced datetime="2013-05-06"/>
+  <titles>
+    <title type="short" as="introduced">Pediatric Subspecialty and Mental Health Workforce Reauthorization Act of 2013</title>
+    <title type="official" as="introduced">To amend the Public Health Service Act to extend through fiscal year 2018 the authorization for certain health care workforce loan repayment programs.</title>
+  </titles>
+  <sponsor thomas_id="01836"/>
+  <cosponsors>
+    <cosponsor thomas_id="02093" joined="2013-12-05"/>
+    <cosponsor thomas_id="02131" joined="2014-08-01"/>
+    <cosponsor thomas_id="01996" joined="2014-04-28"/>
+    <cosponsor thomas_id="02153" joined="2014-06-10"/>
+    <cosponsor thomas_id="00091" joined="2013-07-30"/>
+    <cosponsor thomas_id="01740" joined="2014-07-29"/>
+    <cosponsor thomas_id="00099" joined="2013-07-24"/>
+    <cosponsor thomas_id="01471" joined="2013-07-09"/>
+    <cosponsor thomas_id="01564" joined="2013-09-11"/>
+    <cosponsor thomas_id="01839" joined="2013-06-11"/>
+    <cosponsor thomas_id="02055" joined="2013-07-11"/>
+    <cosponsor thomas_id="02196" joined="2014-05-28"/>
+    <cosponsor thomas_id="01654" joined="2014-07-22"/>
+    <cosponsor thomas_id="01959" joined="2014-07-16"/>
+    <cosponsor thomas_id="00279" joined="2013-07-09"/>
+    <cosponsor thomas_id="00316" joined="2014-03-25"/>
+    <cosponsor thomas_id="00355" joined="2013-07-30"/>
+    <cosponsor thomas_id="00371" joined="2014-07-22"/>
+    <cosponsor thomas_id="02043" joined="2014-05-06"/>
+    <cosponsor thomas_id="00511" joined="2013-07-31"/>
+    <cosponsor thomas_id="02170" joined="2013-10-29"/>
+    <cosponsor thomas_id="02101" joined="2014-07-31"/>
+    <cosponsor thomas_id="01663" joined="2013-08-02"/>
+    <cosponsor thomas_id="01843" joined="2014-04-28"/>
+    <cosponsor thomas_id="02199" joined="2014-07-08"/>
+    <cosponsor thomas_id="01668" joined="2013-06-03"/>
+    <cosponsor thomas_id="01583" joined="2013-06-14"/>
+    <cosponsor thomas_id="01501" joined="2013-07-16"/>
+    <cosponsor thomas_id="00688" joined="2013-06-05"/>
+    <cosponsor thomas_id="01781" joined="2013-12-05"/>
+    <cosponsor thomas_id="01846" joined="2013-09-26"/>
+    <cosponsor thomas_id="00701" joined="2014-04-02"/>
+    <cosponsor thomas_id="01814" joined="2013-07-24"/>
+    <cosponsor thomas_id="00766" joined="2013-05-06"/>
+    <cosponsor thomas_id="01832" joined="2013-09-19"/>
+    <cosponsor thomas_id="00868" joined="2014-05-09"/>
+    <cosponsor thomas_id="01510" joined="2014-01-13"/>
+    <cosponsor thomas_id="00893" joined="2014-04-04"/>
+    <cosponsor thomas_id="02097" joined="2013-06-14"/>
+    <cosponsor thomas_id="01835" joined="2013-07-09"/>
+    <cosponsor thomas_id="02171" joined="2013-10-11"/>
+    <cosponsor thomas_id="01910" joined="2013-07-16"/>
+    <cosponsor thomas_id="01967" joined="2013-06-03"/>
+    <cosponsor thomas_id="01728" joined="2013-06-25"/>
+    <cosponsor thomas_id="01003" joined="2014-05-20"/>
+    <cosponsor thomas_id="01756" joined="2014-05-20"/>
+    <cosponsor thomas_id="01588" joined="2013-05-20"/>
+    <cosponsor thomas_id="02124" joined="2014-04-04"/>
+    <cosponsor thomas_id="01798" joined="2014-01-27"/>
+    <cosponsor thomas_id="01722" joined="2013-06-28"/>
+    <cosponsor thomas_id="01861" joined="2014-05-20"/>
+    <cosponsor thomas_id="01890" joined="2013-07-24"/>
+    <cosponsor thomas_id="01942" joined="2013-05-06"/>
+    <cosponsor thomas_id="01879" joined="2013-06-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-06" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-05-10">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Child health"/>
+    <term name="Education programs funding"/>
+    <term name="Health personnel"/>
+    <term name="Health programs administration and funding"/>
+    <term name="Medical education"/>
+    <term name="Mental health"/>
+    <term name="Student aid and college costs"/>
+  </subjects>
+  <amendments/>
+  <summary>5/6/2013--Introduced.
+Pediatric Subspecialty and Mental Health Workforce Reauthorization Act of 2013 - Reauthorizes through FY2018 a pediatric specialty educational loan repayment program for health professionals providing pediatric medical subspecialty, pediatric surgical specialty, or child and adolescent mental and behavioral health care in an area with a shortage of the specified pediatric subspecialty that has a sufficient pediatric population to support the subspecialty.</summary>
+</bill>

@@ -1,0 +1,85 @@
+<bill session="113" type="hr" number="388" updated="2014-08-14T12:47:56-04:00">
+  <state datetime="2013-10-22">REFERRED</state>
+  <status>
+    <introduced datetime="2013-10-22"/>
+  </status>
+  <introduced datetime="2013-10-22"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the House of Representatives supporting Federal employees.</title>
+  </titles>
+  <sponsor thomas_id="01895"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2013-10-22"/>
+    <cosponsor thomas_id="02153" joined="2013-10-22"/>
+    <cosponsor thomas_id="01469" joined="2013-10-22"/>
+    <cosponsor thomas_id="00132" joined="2013-10-22"/>
+    <cosponsor thomas_id="02159" joined="2013-10-22"/>
+    <cosponsor thomas_id="01864" joined="2013-10-22"/>
+    <cosponsor thomas_id="00229" joined="2013-10-22"/>
+    <cosponsor thomas_id="00256" joined="2013-10-22"/>
+    <cosponsor thomas_id="01477" joined="2013-10-22"/>
+    <cosponsor thomas_id="02125" joined="2013-10-22"/>
+    <cosponsor thomas_id="00368" joined="2013-10-22"/>
+    <cosponsor thomas_id="01708" joined="2013-10-22"/>
+    <cosponsor thomas_id="00478" joined="2013-10-22"/>
+    <cosponsor thomas_id="00511" joined="2013-10-22"/>
+    <cosponsor thomas_id="01580" joined="2013-10-22"/>
+    <cosponsor thomas_id="00588" joined="2013-10-22"/>
+    <cosponsor thomas_id="02149" joined="2013-10-22"/>
+    <cosponsor thomas_id="00599" joined="2013-10-22"/>
+    <cosponsor thomas_id="01843" joined="2013-10-22"/>
+    <cosponsor thomas_id="00616" joined="2013-10-22"/>
+    <cosponsor thomas_id="01501" joined="2013-10-22"/>
+    <cosponsor thomas_id="02146" joined="2013-10-28"/>
+    <cosponsor thomas_id="01686" joined="2013-10-22"/>
+    <cosponsor thomas_id="01504" joined="2013-10-22"/>
+    <cosponsor thomas_id="01506" joined="2013-10-22"/>
+    <cosponsor thomas_id="00850" joined="2013-10-22"/>
+    <cosponsor thomas_id="00868" joined="2013-10-22"/>
+    <cosponsor thomas_id="02097" joined="2013-10-22"/>
+    <cosponsor thomas_id="00910" joined="2013-10-22"/>
+    <cosponsor thomas_id="01927" joined="2013-10-22"/>
+    <cosponsor thomas_id="02171" joined="2013-10-22"/>
+    <cosponsor thomas_id="00944" joined="2013-10-28"/>
+    <cosponsor thomas_id="01003" joined="2013-10-22"/>
+    <cosponsor thomas_id="01854" joined="2013-10-22"/>
+    <cosponsor thomas_id="01588" joined="2013-10-22"/>
+    <cosponsor thomas_id="01861" joined="2013-10-22"/>
+    <cosponsor thomas_id="01069" joined="2013-10-22"/>
+    <cosponsor thomas_id="01151" joined="2013-10-28"/>
+    <cosponsor thomas_id="01942" joined="2013-10-22"/>
+    <cosponsor thomas_id="02166" joined="2013-10-22"/>
+    <cosponsor thomas_id="01207" joined="2013-10-22"/>
+    <cosponsor thomas_id="02004" joined="2013-10-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-10-22" state="REFERRED">
+      <text>Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-10-22">
+      <text>Referred to House Oversight and Government Reform</text>
+    </action>
+    <action datetime="2013-10-22">
+      <text>Referred to House Ways and Means</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Employment taxes"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Inflation and prices"/>
+    <term name="Social security and elderly assistance"/>
+    <term name="Tax administration and collection, taxpayers"/>
+    <term name="Unemployment"/>
+  </subjects>
+  <amendments/>
+  <summary>10/22/2013--Introduced.
+Expresses the sense of the House of Representatives, with respect to federal employees, that:
+
+ Congress and the President should end the pay freeze and prevent any further cuts to pensions or benefits; employee contributions to their retirement system should not be increased; the annuity multiplier used to determine retirement benefits should not be decreased; the Federal Employees Retirement System (FERS) annuity supplement should not be eliminated and employees who are eligible to retire should be able to do so; plans for Social Security reform should not include using a Chained Consumer Price Index, which would reduce federal annuities; the number of employees hired should not be arbitrarily limited; neither current nor future employees should be subject to automatic termination as a result of delinquent taxes; federal agencies should be allowed to determine the hiring strategies that best meet their needs, rather than operating under an arbitrary, across-the-board hiring policy; the Federal Employees Health Benefits Program (FEHB) should not be turned into a voucher program that shifts the costs of health insurance to employees and retirees; the tax increase on new employees that funds part of the extension of the unemployment insurance program administered by the Department of Labor should be repealed; the work that federal employees perform on behalf of the American people should be honored and respected; and Congress should recognize that efforts to reduce the compensation and support provided to federal employees undermine our government's ability to meet its obligations to its citizens and hurt federal agencies' ability to recruit and retain a high-quality workforce.</summary>
+</bill>

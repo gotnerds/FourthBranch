@@ -1,0 +1,54 @@
+<bill session="113" type="hr" number="697" updated="2014-08-14T12:50:33-04:00">
+  <state datetime="2014-07-30">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-30"/>
+  </status>
+  <introduced datetime="2014-07-30"/>
+  <titles>
+    <title type="official" as="introduced">Expressing support for the designation of September 2014 as National Ovarian Cancer Awareness Month.</title>
+  </titles>
+  <sponsor thomas_id="00281"/>
+  <cosponsors>
+    <cosponsor thomas_id="02131" joined="2014-07-30"/>
+    <cosponsor thomas_id="02092" joined="2014-07-31"/>
+    <cosponsor thomas_id="01987" joined="2014-07-30"/>
+    <cosponsor thomas_id="02106" joined="2014-07-31"/>
+    <cosponsor thomas_id="02127" joined="2014-07-30"/>
+    <cosponsor thomas_id="01912" joined="2014-07-30"/>
+    <cosponsor thomas_id="02144" joined="2014-07-30"/>
+    <cosponsor thomas_id="01479" joined="2014-07-30"/>
+    <cosponsor thomas_id="01797" joined="2014-07-30"/>
+    <cosponsor thomas_id="02071" joined="2014-07-30"/>
+    <cosponsor thomas_id="01794" joined="2014-07-31"/>
+    <cosponsor thomas_id="01580" joined="2014-07-30"/>
+    <cosponsor thomas_id="01663" joined="2014-07-30"/>
+    <cosponsor thomas_id="01640" joined="2014-07-30"/>
+    <cosponsor thomas_id="02025" joined="2014-07-31"/>
+    <cosponsor thomas_id="01846" joined="2014-07-30"/>
+    <cosponsor thomas_id="01929" joined="2014-07-31"/>
+    <cosponsor thomas_id="02141" joined="2014-07-31"/>
+    <cosponsor thomas_id="01967" joined="2014-07-30"/>
+    <cosponsor thomas_id="01728" joined="2014-07-30"/>
+    <cosponsor thomas_id="01037" joined="2014-07-31"/>
+    <cosponsor thomas_id="02099" joined="2014-07-30"/>
+    <cosponsor thomas_id="01069" joined="2014-07-30"/>
+    <cosponsor thomas_id="02167" joined="2014-07-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-30" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="113" relation="unknown" number="301"/>
+    <bill type="sr" session="113" relation="unknown" number="205"/>
+    <bill type="sr" session="113" relation="unknown" number="536"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+  <summary>7/30/2014--Introduced.
+Expresses support for the goals and ideals of National Ovarian Cancer Awareness Month.</summary>
+</bill>

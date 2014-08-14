@@ -1,0 +1,65 @@
+<bill session="113" type="s" number="46" updated="2014-08-14T13:45:09-04:00">
+  <state datetime="2013-01-22">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-22"/>
+  </status>
+  <introduced datetime="2013-01-22"/>
+  <titles>
+    <title type="short" as="introduced">Ensuring the Full Faith and Credit of the United States and Protecting America's Soldiers and Seniors Act</title>
+    <title type="official" as="introduced">A bill to protect Social Security benefits and military pay and require that the United States Government prioritize all obligations on the debt held by the public in the event that the debt limit is reached.</title>
+  </titles>
+  <sponsor thomas_id="02085"/>
+  <cosponsors>
+    <cosponsor thomas_id="02075" joined="2013-01-22"/>
+    <cosponsor thomas_id="01881" joined="2013-01-22"/>
+    <cosponsor thomas_id="01464" joined="2013-01-22"/>
+    <cosponsor thomas_id="01687" joined="2013-01-24"/>
+    <cosponsor thomas_id="00153" joined="2013-01-28"/>
+    <cosponsor thomas_id="00188" joined="2013-01-22"/>
+    <cosponsor thomas_id="00212" joined="2013-01-29"/>
+    <cosponsor thomas_id="01692" joined="2013-01-24"/>
+    <cosponsor thomas_id="00250" joined="2013-01-29"/>
+    <cosponsor thomas_id="02175" joined="2013-01-22"/>
+    <cosponsor thomas_id="01542" joined="2013-01-22"/>
+    <cosponsor thomas_id="01633" joined="2013-01-22"/>
+    <cosponsor thomas_id="00452" joined="2013-02-07"/>
+    <cosponsor thomas_id="00457" joined="2013-01-22"/>
+    <cosponsor thomas_id="01351" joined="2013-01-24"/>
+    <cosponsor thomas_id="01863" joined="2013-01-22"/>
+    <cosponsor thomas_id="02079" joined="2013-01-24"/>
+    <cosponsor thomas_id="00583" joined="2013-01-22"/>
+    <cosponsor thomas_id="01608" joined="2013-01-22"/>
+    <cosponsor thomas_id="02086" joined="2013-01-22"/>
+    <cosponsor thomas_id="02080" joined="2013-01-22"/>
+    <cosponsor thomas_id="01896" joined="2013-01-22"/>
+    <cosponsor thomas_id="00968" joined="2013-01-24"/>
+    <cosponsor thomas_id="02084" joined="2013-01-22"/>
+    <cosponsor thomas_id="02056" joined="2013-01-30"/>
+    <cosponsor thomas_id="01534" joined="2013-01-24"/>
+    <cosponsor thomas_id="01609" joined="2013-01-22"/>
+    <cosponsor thomas_id="01226" joined="2013-01-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Budget deficits and national debt"/>
+    <term name="Congressional oversight"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Social security and elderly assistance"/>
+  </subjects>
+  <amendments/>
+  <summary>1/22/2013--Introduced.
+Ensuring the Full Faith and Credit of the United States and Protecting America's Soldiers and Seniors Act - Requires the following to take equal priority over all other federally incurred obligations in the event that the public debt reaches the statutory limit: (1) the authority of the Department of the Treasury to pay with legal tender the principal and interest on debt held by the public; (2) the authority of the Commissioner of Social Security to pay monthly Old Age, Survivors and Disability Insurance benefits under title II of the Social Security Act; and (3) the payment of pay and allowances for members of the Armed Forces on active duty.
+
+Requires the Secretary of the Treasury, if the Secretary determines that incoming revenue will not be sufficient to finance the priorities described in this Act over the following two weeks, to: (1) notify Congress of the expected revenue shortfall, and (2) raise the debt limit by the amount necessary to cover the difference between incoming revenue and the revenue needed to finance such priorities on a two-week basis.
+
+Prohibits such a debt limit increase from exceeding the difference between expected outlays for the listed priorities and expected revenue. Places in reserve and applies to the following two-week period any amount of incoming revenue in excess of the amount projected by the Secretary as necessary to finance such priorities.</summary>
+</bill>

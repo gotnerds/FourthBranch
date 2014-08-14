@@ -1,0 +1,86 @@
+<bill session="113" type="s" number="1503" updated="2014-08-14T13:57:43-04:00">
+  <state datetime="2013-09-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-09-12"/>
+  </status>
+  <introduced datetime="2013-09-12"/>
+  <titles>
+    <title type="short" as="introduced">School Access to Emergency Epinephrine Act</title>
+    <title type="official" as="introduced">A bill to amend the Public Health Service Act to increase the preference given, in awarding certain asthma-related grants, to certain States (those allowing trained school personnel to administer epinephrine and meeting other related requirements).</title>
+  </titles>
+  <sponsor thomas_id="00326"/>
+  <cosponsors>
+    <cosponsor thomas_id="01558" joined="2013-10-09"/>
+    <cosponsor thomas_id="00066" joined="2013-09-12"/>
+    <cosponsor thomas_id="01898" joined="2013-10-30"/>
+    <cosponsor thomas_id="01965" joined="2013-09-12"/>
+    <cosponsor thomas_id="02076" joined="2013-09-12"/>
+    <cosponsor thomas_id="01464" joined="2013-09-12"/>
+    <cosponsor thomas_id="00116" joined="2013-09-19"/>
+    <cosponsor thomas_id="00136" joined="2013-09-23"/>
+    <cosponsor thomas_id="00153" joined="2013-10-01"/>
+    <cosponsor thomas_id="00172" joined="2013-09-12"/>
+    <cosponsor thomas_id="00174" joined="2013-09-12"/>
+    <cosponsor thomas_id="01828" joined="2013-09-17"/>
+    <cosponsor thomas_id="00213" joined="2013-09-12"/>
+    <cosponsor thomas_id="01332" joined="2013-10-28"/>
+    <cosponsor thomas_id="01969" joined="2013-09-12"/>
+    <cosponsor thomas_id="01866" joined="2013-09-17"/>
+    <cosponsor thomas_id="01902" joined="2013-09-12"/>
+    <cosponsor thomas_id="00583" joined="2013-09-17"/>
+    <cosponsor thomas_id="01608" joined="2013-09-19"/>
+    <cosponsor thomas_id="00604" joined="2013-09-12"/>
+    <cosponsor thomas_id="01647" joined="2013-09-12"/>
+    <cosponsor thomas_id="01826" joined="2013-09-17"/>
+    <cosponsor thomas_id="01546" joined="2013-09-12"/>
+    <cosponsor thomas_id="00735" joined="2013-09-12"/>
+    <cosponsor thomas_id="01395" joined="2013-10-04"/>
+    <cosponsor thomas_id="01900" joined="2013-09-24"/>
+    <cosponsor thomas_id="00802" joined="2013-09-12"/>
+    <cosponsor thomas_id="01694" joined="2013-09-17"/>
+    <cosponsor thomas_id="02084" joined="2013-09-12"/>
+    <cosponsor thomas_id="01010" joined="2013-09-12"/>
+    <cosponsor thomas_id="01036" joined="2013-10-01"/>
+    <cosponsor thomas_id="02056" joined="2013-09-24"/>
+    <cosponsor thomas_id="01901" joined="2013-09-12"/>
+    <cosponsor thomas_id="01829" joined="2013-09-12"/>
+    <cosponsor thomas_id="01567" joined="2013-09-23"/>
+    <cosponsor thomas_id="01897" joined="2013-09-12"/>
+    <cosponsor thomas_id="02182" joined="2013-09-30"/>
+    <cosponsor thomas_id="01823" joined="2013-09-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-12">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S6448-6449"/>
+    </action>
+    <action datetime="2013-09-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <reference ref="CR S6449" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="2094"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Allergies"/>
+    <term name="Cardiovascular and respiratory health"/>
+    <term name="Child health"/>
+    <term name="Civil actions and liability"/>
+    <term name="Drug and radiation therapy"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Emergency medical services and trauma care"/>
+    <term name="Health programs administration and funding"/>
+    <term name="School administration"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>9/12/2013--Introduced.
+School Access to Emergency Epinephrine Act - Amends the Public Health Service Act, with respect to asthma-related grants for child health services, to give an additional preference to a state that allows self-administration of asthma and anaphylaxis medication and makes a certification concerning the adequacy of the state's civil liability protection law to protect trained school personnel who may administer epinephrine to a student reasonably believed to be having an anaphylactic reaction.
+
+Requires elementary and secondary schools in such a state to: (1) permit trained personnel to administer epinephrine to a student reasonably believed to be having such a reaction, (2) maintain a supply of epinephrine in a secure location that is easily accessible to trained personnel for such treatment, and (3) have in place a plan for having on the school premises during operating hours one or more designated personnel trained in administration of epinephrine.</summary>
+</bill>

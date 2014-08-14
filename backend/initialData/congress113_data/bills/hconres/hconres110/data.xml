@@ -1,0 +1,89 @@
+<bill session="113" type="hc" number="110" updated="2014-08-14T13:39:31-04:00">
+  <state datetime="2014-07-24">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-24"/>
+  </status>
+  <introduced datetime="2014-07-24"/>
+  <titles>
+    <title type="official" as="introduced">Calling for urgent international intervention on behalf of Iraqi civilians facing a dire humanitarian crisis and severe persecution in the Nineveh Plain region of Iraq.</title>
+  </titles>
+  <sponsor thomas_id="01793"/>
+  <cosponsors>
+    <cosponsor thomas_id="01460" joined="2014-07-30"/>
+    <cosponsor thomas_id="01858" joined="2014-07-30"/>
+    <cosponsor thomas_id="01838" joined="2014-07-29"/>
+    <cosponsor thomas_id="01787" joined="2014-07-31"/>
+    <cosponsor thomas_id="01970" joined="2014-07-31"/>
+    <cosponsor thomas_id="02200" joined="2014-07-30"/>
+    <cosponsor thomas_id="02126" joined="2014-07-29"/>
+    <cosponsor thomas_id="00281" joined="2014-07-31"/>
+    <cosponsor thomas_id="01799" joined="2014-07-29"/>
+    <cosponsor thomas_id="00355" joined="2014-07-24"/>
+    <cosponsor thomas_id="01707" joined="2014-07-30"/>
+    <cosponsor thomas_id="01743" joined="2014-07-29"/>
+    <cosponsor thomas_id="01992" joined="2014-07-31"/>
+    <cosponsor thomas_id="02032" joined="2014-07-29"/>
+    <cosponsor thomas_id="01634" joined="2014-07-31"/>
+    <cosponsor thomas_id="00588" joined="2014-07-30"/>
+    <cosponsor thomas_id="02046" joined="2014-07-29"/>
+    <cosponsor thomas_id="01834" joined="2014-07-31"/>
+    <cosponsor thomas_id="01936" joined="2014-07-29"/>
+    <cosponsor thomas_id="01583" joined="2014-07-31"/>
+    <cosponsor thomas_id="01885" joined="2014-07-31"/>
+    <cosponsor thomas_id="01501" joined="2014-07-30"/>
+    <cosponsor thomas_id="00683" joined="2014-07-30"/>
+    <cosponsor thomas_id="01781" joined="2014-07-29"/>
+    <cosponsor thomas_id="00701" joined="2014-07-30"/>
+    <cosponsor thomas_id="01814" joined="2014-07-31"/>
+    <cosponsor thomas_id="01653" joined="2014-07-31"/>
+    <cosponsor thomas_id="01504" joined="2014-07-29"/>
+    <cosponsor thomas_id="01792" joined="2014-07-30"/>
+    <cosponsor thomas_id="02074" joined="2014-07-30"/>
+    <cosponsor thomas_id="02142" joined="2014-07-29"/>
+    <cosponsor thomas_id="01731" joined="2014-07-31"/>
+    <cosponsor thomas_id="00832" joined="2014-07-31"/>
+    <cosponsor thomas_id="01929" joined="2014-07-31"/>
+    <cosponsor thomas_id="01514" joined="2014-07-30"/>
+    <cosponsor thomas_id="01910" joined="2014-07-31"/>
+    <cosponsor thomas_id="01915" joined="2014-07-31"/>
+    <cosponsor thomas_id="00944" joined="2014-07-30"/>
+    <cosponsor thomas_id="02158" joined="2014-07-29"/>
+    <cosponsor thomas_id="01003" joined="2014-07-31"/>
+    <cosponsor thomas_id="01892" joined="2014-07-30"/>
+    <cosponsor thomas_id="01588" joined="2014-07-31"/>
+    <cosponsor thomas_id="01635" joined="2014-07-30"/>
+    <cosponsor thomas_id="01526" joined="2014-07-31"/>
+    <cosponsor thomas_id="01890" joined="2014-07-30"/>
+    <cosponsor thomas_id="02047" joined="2014-07-31"/>
+    <cosponsor thomas_id="02104" joined="2014-07-31"/>
+    <cosponsor thomas_id="01593" joined="2014-07-30"/>
+    <cosponsor thomas_id="01664" joined="2014-07-29"/>
+    <cosponsor thomas_id="01729" joined="2014-07-24"/>
+    <cosponsor thomas_id="02112" joined="2014-07-31"/>
+    <cosponsor thomas_id="01855" joined="2014-07-30"/>
+    <cosponsor thomas_id="02152" joined="2014-07-31"/>
+    <cosponsor thomas_id="01238" joined="2014-07-24"/>
+    <cosponsor thomas_id="02021" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-24" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>7/24/2014--Introduced.
+Condemns the religious bigotry, property destruction, and violent attacks on, and intimidation of, Iraqi civilians by armed extremists.
+
+ Calls upon the government of Iraq to protect the safety and constitutional rights of all Iraqi citizens.
+
+ Calls on the President, Secretary of State, and the U.S. Permanent Representative to the United Nations (U.N.) to implement a humanitarian intervention to protect civilians, stabilize the security situation in the Nineveh Plain region of Iraq, and facilitate humanitarian assistance in the Kurdistan region to help absorb the influx of refugees.
+
+Calls on the U.S. Permanent Representative to the United Nations to work with the United Nations High Commissioner for Refugees to document human rights abuses against Iraqi civilians and develop a plan to facilitate access to potable water, health care, fuel, electricity, and basic security for the most vulnerable civilian populations.
+
+Calls on the United Nations High Commissioner for Refugees to coordinate with international humanitarian organizations working in Iraq to develop an effective strategy for resettlement assistance and mechanisms to ensure that assistance reaches the intended recipients.</summary>
+</bill>

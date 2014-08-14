@@ -1,0 +1,106 @@
+<bill session="113" type="h" number="5230" updated="2014-08-14T13:36:06-04:00">
+  <state datetime="2014-08-01T20:38:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-08-01T20:38:00-04:00"/>
+  </status>
+  <introduced datetime="2014-07-29"/>
+  <titles>
+    <title type="short" as="introduced" partial="1">Secure the Southwest Border Act of 2014</title>
+    <title type="short" as="introduced" partial="1">Secure the Southwest Border Supplemental Appropriations Act, 2014</title>
+    <title type="short" as="passed house" partial="1">Secure the Southwest Border Act of 2014</title>
+    <title type="short" as="passed house" partial="1">Secure the Southwest Border Supplemental Appropriations Act, 2014</title>
+    <title type="official" as="introduced">Making supplemental appropriations for the fiscal year ending September 30, 2014, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00977"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-29" state="REFERRED">
+      <text>Referred to the House Committee on Appropriations.</text>
+    </action>
+    <action datetime="2014-07-30T23:48:00-04:00">
+      <text>Rules Committee Resolution H. Res. 696 Reported to House. The rule makes in order one hour of debate each for H.R. 5230 and H.R. 5272. The rule also makes in order for one hour debate on a motion that the House disagree to the Senate amendment to H.R. 5021. Any motion pursuant to clause 4 of rule XXII relating to H.R. 5021 may be offered only by the Majority Leader or his designee. It shall be in order at any time on the legislative day of July 31, 2014 for the Speaker to entertain motions to suspend the rules.</text>
+    </action>
+    <action datetime="2014-07-31T11:57:00-04:00">
+      <text>Considered under the provisions of rule H. Res. 696.</text>
+      <reference ref="CR H7153-7169" label="consideration"/>
+      <reference ref="CR H7153-7158" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2014-07-31T11:57:00-04:00">
+      <text>The rule makes in order one hour of debate each for H.R. 5230 and H.R. 5272. The rule also makes in order for one hour debate on a motion that the House disagree to the Senate amendment to H.R. 5021. Any motion pursuant to clause 4 of rule XXII relating to H.R. 5021 may be offered only by the Majority Leader or his designee. It shall be in order at any time on the legislative day of July 31, 2014 for the Speaker to entertain motions to suspend the rules.</text>
+    </action>
+    <action datetime="2014-07-31T11:57:00-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 5230.</text>
+    </action>
+    <action datetime="2014-07-31T13:22:00-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H7169" label="consideration"/>
+    </action>
+    <action datetime="2014-07-31T13:22:00-04:00">
+      <text>POSTPONED PROCEEDINGS - The Chair announced that pursuant to clause 1(c) of rule XIX, further proceedings on H.R. 5230 would be postponed.</text>
+    </action>
+    <action datetime="2014-08-01T17:40:00-04:00">
+      <text>Rules Committee Resolution H. Res. 710 Reported to House. Provides for further consideration of H.R. 5230 and for consideration of H.R. 5272. Both bills are debatable for 1 hour. The amendments to H.R. 5230printed in part A of the report shall be considered as adopted. The amendment to H.R. 5272 printed in Part B of the report shall be considered as adopted. The rule provides for one motion to recommit with or without instructions for each measure. The rule amends section 2 of H.Res. 700 to allow for motions to suspend the rules with respect to a measure addressing missile defense of Israel.</text>
+    </action>
+    <action datetime="2014-08-01T19:09:00-04:00">
+      <text>Pursuant to clause 1(c) of Rule XIX, the Speaker announced that further proceedings were resumed on H.R. 5230.</text>
+    </action>
+    <action datetime="2014-08-01T19:09:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H7213-7228" label="consideration"/>
+    </action>
+    <action datetime="2014-08-01T19:11:00-04:00">
+      <text>DEBATE - Pursuant to the provisions of H.Res. 710 the House proceeded with one hour of debate on H.R. 5230.</text>
+    </action>
+    <action datetime="2014-08-01T20:13:00-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H7228" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="478" datetime="2014-08-01T20:38:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by the Yeas and Nays: 223 - 189 (Roll no. 478).</text>
+      <reference ref="CR H7213-7216" label="text"/>
+    </vote>
+    <action datetime="2014-08-01T20:38:00-04:00">
+      <text>Motion to reconsider laid on the table. Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-08-05">
+      <text>Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAP" name="House Appropriations" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="113" relation="unknown" number="696"/>
+    <bill type="hr" session="113" relation="rule" number="696"/>
+    <bill type="hr" session="113" relation="ruled-by" number="696"/>
+    <bill type="hr" session="113" relation="unknown" number="710"/>
+    <bill type="hr" session="113" relation="rule" number="710"/>
+    <bill type="s" session="113" relation="unknown" number="2666"/>
+    <bill type="s" session="113" relation="unknown" number="2772"/>
+    <bill type="s" session="113" relation="unknown" number="2772"/>
+    <bill type="s" session="113" relation="unknown" number="2773"/>
+    <bill type="s" session="113" relation="unknown" number="2773"/>
+  </relatedbills>
+  <subjects/>
+  <amendments>
+    <amendment number="h1132"/>
+  </amendments>
+  <summary>7/29/2014--Introduced.
+Secure the Southwest Border Supplemental Appropriations Act, 2014 - Provides supplemental FY2014 appropriations for the Department of Homeland Security (DHS), including U.S. Customs and Border Protection (CBP) and U.S. Immigration and Customs Enforcement (ICE); the Department of Defense (DOD); the Department of Justice (DOJ); and the Department of Health and Human Services (HHS) for expenses related to the rise in unaccompanied alien children and alien adults accompanied by an alien minor at the southwest border.
+
+Permits funds previously appropriated for the Department of State, foreign operations, and related programs for assistance to the countries in Central America to be used for repatriation and reintegration activities.
+
+Specifies other authorized, restricted, and prohibited uses of appropriated funds.
+
+Includes rescissions of funds previously appropriated to various federal agencies.
+
+Secure the Southwest Border Act of 2014 - Amends the William Wilberforce Trafficking Victims Protection Authorization Act of 2008 to change the procedures for screening and processing unaccompanied alien children who arrive at the border from certain countries.
+
+Amends the Immigration and Nationality Act to include the commission of certain drug-related offenses as grounds for per se ineligibility for asylum.
+
+Permits appropriations provided to DOD under this Act to be used for the National Guard to provide support for operations on the southern border.
+
+Prohibits the Secretary of the Interior and the Secretary of Agriculture (USDA) from impeding, prohibiting, or restricting certain CBP activities on federal lands.
+
+Expresses the sense of Congress that the Secretary of Defense should not allow the placement of unauthorized aliens at military installations unless certain conditions are met.</summary>
+</bill>

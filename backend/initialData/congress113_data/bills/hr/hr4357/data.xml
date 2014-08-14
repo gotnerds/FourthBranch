@@ -1,0 +1,92 @@
+<bill session="113" type="h" number="4357" updated="2014-08-14T13:28:34-04:00">
+  <state datetime="2014-04-01">REFERRED</state>
+  <status>
+    <introduced datetime="2014-04-01"/>
+  </status>
+  <introduced datetime="2014-04-01"/>
+  <titles>
+    <title type="official" as="introduced">To deny admission to the United States to any representative to the United Nations who has engaged in espionage activities against the United States, poses a threat to United States national security interests, or has engaged in a terrorist activity against the United States.</title>
+  </titles>
+  <sponsor thomas_id="01834"/>
+  <cosponsors>
+    <cosponsor thomas_id="01753" joined="2014-04-10"/>
+    <cosponsor thomas_id="01468" joined="2014-04-09"/>
+    <cosponsor thomas_id="02155" joined="2014-04-01"/>
+    <cosponsor thomas_id="01882" joined="2014-04-10"/>
+    <cosponsor thomas_id="01840" joined="2014-04-08"/>
+    <cosponsor thomas_id="01816" joined="2014-04-10"/>
+    <cosponsor thomas_id="01742" joined="2014-04-07"/>
+    <cosponsor thomas_id="02103" joined="2014-04-07"/>
+    <cosponsor thomas_id="02098" joined="2014-04-09"/>
+    <cosponsor thomas_id="02144" joined="2014-04-03"/>
+    <cosponsor thomas_id="02116" joined="2014-04-03"/>
+    <cosponsor thomas_id="02062" joined="2014-04-08"/>
+    <cosponsor thomas_id="02072" joined="2014-04-07"/>
+    <cosponsor thomas_id="02057" joined="2014-04-03"/>
+    <cosponsor thomas_id="02067" joined="2014-04-03"/>
+    <cosponsor thomas_id="01924" joined="2014-04-03"/>
+    <cosponsor thomas_id="01707" joined="2014-04-03"/>
+    <cosponsor thomas_id="01737" joined="2014-04-07"/>
+    <cosponsor thomas_id="01801" joined="2014-04-09"/>
+    <cosponsor thomas_id="01990" joined="2014-04-10"/>
+    <cosponsor thomas_id="02041" joined="2014-04-07"/>
+    <cosponsor thomas_id="02026" joined="2014-04-03"/>
+    <cosponsor thomas_id="02028" joined="2014-04-03"/>
+    <cosponsor thomas_id="02046" joined="2014-04-09"/>
+    <cosponsor thomas_id="00612" joined="2014-04-07"/>
+    <cosponsor thomas_id="02154" joined="2014-04-10"/>
+    <cosponsor thomas_id="01724" joined="2014-04-03"/>
+    <cosponsor thomas_id="01733" joined="2014-04-03"/>
+    <cosponsor thomas_id="02100" joined="2014-04-07"/>
+    <cosponsor thomas_id="01936" joined="2014-04-07"/>
+    <cosponsor thomas_id="01885" joined="2014-04-07"/>
+    <cosponsor thomas_id="01960" joined="2014-04-03"/>
+    <cosponsor thomas_id="01792" joined="2014-04-07"/>
+    <cosponsor thomas_id="02034" joined="2014-04-10"/>
+    <cosponsor thomas_id="02035" joined="2014-06-11"/>
+    <cosponsor thomas_id="01738" joined="2014-04-03"/>
+    <cosponsor thomas_id="02141" joined="2014-04-03"/>
+    <cosponsor thomas_id="01915" joined="2014-04-03"/>
+    <cosponsor thomas_id="01954" joined="2014-04-03"/>
+    <cosponsor thomas_id="01704" joined="2014-04-08"/>
+    <cosponsor thomas_id="01848" joined="2014-04-08"/>
+    <cosponsor thomas_id="01009" joined="2014-04-03"/>
+    <cosponsor thomas_id="02009" joined="2014-04-03"/>
+    <cosponsor thomas_id="01114" joined="2014-04-07"/>
+    <cosponsor thomas_id="02128" joined="2014-04-03"/>
+    <cosponsor thomas_id="02161" joined="2014-04-03"/>
+    <cosponsor thomas_id="01779" joined="2014-04-03"/>
+    <cosponsor thomas_id="01688" joined="2014-04-03"/>
+    <cosponsor thomas_id="02115" joined="2014-04-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-04-01" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2014-04-10">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H3184"/>
+    </action>
+    <action datetime="2014-04-16">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Immigration and Border Security" code="HSJU01" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="2195"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Intelligence activities, surveillance, classified information"/>
+    <term name="Terrorism"/>
+    <term name="United Nations"/>
+    <term name="Visas and passports"/>
+  </subjects>
+  <amendments/>
+  <summary>4/1/2014--Introduced.
+Amends the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991 to direct the President to deny U.S. admission to any representative of the United Nations (U.N.) who: (1) has engaged in espionage activities or a terrorist activity against the United States or its allies, and (2) may pose a threat to U.S. national security interests.</summary>
+</bill>

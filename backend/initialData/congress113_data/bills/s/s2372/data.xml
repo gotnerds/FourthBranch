@@ -1,0 +1,34 @@
+<bill session="113" type="s" number="2372" updated="2014-08-14T14:05:03-04:00">
+  <state datetime="2014-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-21"/>
+  </status>
+  <introduced datetime="2014-05-21"/>
+  <titles>
+    <title type="short" as="introduced">Federal Cybersecurity Workforce Assessment Act</title>
+    <title type="official" as="introduced">A bill to provide additional oversight and guidance to the Department of Homeland Security.</title>
+  </titles>
+  <sponsor thomas_id="01965"/>
+  <cosponsors>
+    <cosponsor thomas_id="00924" joined="2014-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2354"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Computer security and identity theft"/>
+    <term name="Congressional oversight"/>
+    <term name="Government employee pay, benefits, personnel management"/>
+    <term name="Government studies and investigations"/>
+  </subjects>
+  <amendments/>
+</bill>

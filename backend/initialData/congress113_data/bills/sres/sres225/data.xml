@@ -1,0 +1,63 @@
+<bill session="113" type="sr" number="225" updated="2014-08-14T13:41:45-04:00">
+  <state datetime="2013-09-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-09-12"/>
+  </status>
+  <introduced datetime="2013-09-12"/>
+  <titles>
+    <title type="official" as="introduced">A resolution to express the sense of the Senate that Congress should establish a joint select committee to investigate and report on the attack on the United States diplomatic facility and American personnel in Benghazi, Libya, on September 11, 2012.</title>
+  </titles>
+  <sponsor thomas_id="02175"/>
+  <cosponsors>
+    <cosponsor thomas_id="02075" joined="2013-09-12"/>
+    <cosponsor thomas_id="01881" joined="2013-09-12"/>
+    <cosponsor thomas_id="01464" joined="2013-09-12"/>
+    <cosponsor thomas_id="00153" joined="2013-09-12"/>
+    <cosponsor thomas_id="00212" joined="2013-09-12"/>
+    <cosponsor thomas_id="00213" joined="2013-09-12"/>
+    <cosponsor thomas_id="01692" joined="2013-09-23"/>
+    <cosponsor thomas_id="00250" joined="2013-09-12"/>
+    <cosponsor thomas_id="01542" joined="2013-09-12"/>
+    <cosponsor thomas_id="00452" joined="2013-09-12"/>
+    <cosponsor thomas_id="00457" joined="2013-09-12"/>
+    <cosponsor thomas_id="01863" joined="2013-09-12"/>
+    <cosponsor thomas_id="00583" joined="2013-09-12"/>
+    <cosponsor thomas_id="01608" joined="2013-09-12"/>
+    <cosponsor thomas_id="02086" joined="2013-09-12"/>
+    <cosponsor thomas_id="02080" joined="2013-09-12"/>
+    <cosponsor thomas_id="01507" joined="2013-09-19"/>
+    <cosponsor thomas_id="02082" joined="2013-09-12"/>
+    <cosponsor thomas_id="00924" joined="2013-09-12"/>
+    <cosponsor thomas_id="01896" joined="2013-09-12"/>
+    <cosponsor thomas_id="00968" joined="2013-09-12"/>
+    <cosponsor thomas_id="02084" joined="2014-05-06"/>
+    <cosponsor thomas_id="02056" joined="2013-09-12"/>
+    <cosponsor thomas_id="02085" joined="2013-09-12"/>
+    <cosponsor thomas_id="01609" joined="2013-09-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-09-12" state="REFERRED">
+      <text>Referred to the Committee on Rules and Administration.</text>
+      <reference ref="CR S6450" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSRA" name="Senate Rules and Administration" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Africa"/>
+    <term name="Congressional committees"/>
+    <term name="Congressional operations and organization"/>
+    <term name="Congressional oversight"/>
+    <term name="Diplomacy, foreign officials, Americans abroad"/>
+    <term name="Libya"/>
+    <term name="Middle East"/>
+    <term name="Senate"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+  <summary>9/12/2013--Introduced.
+Expresses the sense of the Senate that Congress should establish a joint select committee to investigate and report on the attack on the U.S. diplomatic facility and American personnel in Benghazi, Libya on September 11, 2012.</summary>
+</bill>

@@ -1,0 +1,68 @@
+<bill session="113" type="h" number="506" updated="2014-08-14T12:55:04-04:00">
+  <state datetime="2013-02-05">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-05"/>
+  </status>
+  <introduced datetime="2013-02-05"/>
+  <titles>
+    <title type="short" as="introduced">Jane's Law</title>
+    <title type="official" as="introduced">To amend title 18, United States Code, to strengthen enforcement of spousal court-ordered property distributions, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01878"/>
+  <cosponsors>
+    <cosponsor thomas_id="00091" joined="2013-03-20"/>
+    <cosponsor thomas_id="01723" joined="2013-02-05"/>
+    <cosponsor thomas_id="00132" joined="2013-08-02"/>
+    <cosponsor thomas_id="01889" joined="2013-06-20"/>
+    <cosponsor thomas_id="02159" joined="2014-02-11"/>
+    <cosponsor thomas_id="01474" joined="2013-03-20"/>
+    <cosponsor thomas_id="01774" joined="2013-02-05"/>
+    <cosponsor thomas_id="01976" joined="2013-02-05"/>
+    <cosponsor thomas_id="00316" joined="2013-03-20"/>
+    <cosponsor thomas_id="01894" joined="2014-03-12"/>
+    <cosponsor thomas_id="01803" joined="2014-02-11"/>
+    <cosponsor thomas_id="01708" joined="2013-03-20"/>
+    <cosponsor thomas_id="00511" joined="2013-07-24"/>
+    <cosponsor thomas_id="01580" joined="2013-06-20"/>
+    <cosponsor thomas_id="00588" joined="2013-05-09"/>
+    <cosponsor thomas_id="01668" joined="2013-04-18"/>
+    <cosponsor thomas_id="01501" joined="2013-03-20"/>
+    <cosponsor thomas_id="00688" joined="2013-04-09"/>
+    <cosponsor thomas_id="00709" joined="2013-06-20"/>
+    <cosponsor thomas_id="00729" joined="2013-04-09"/>
+    <cosponsor thomas_id="01814" joined="2013-05-09"/>
+    <cosponsor thomas_id="00808" joined="2013-06-20"/>
+    <cosponsor thomas_id="00850" joined="2013-03-20"/>
+    <cosponsor thomas_id="01802" joined="2013-02-05"/>
+    <cosponsor thomas_id="00944" joined="2013-06-20"/>
+    <cosponsor thomas_id="01757" joined="2013-07-11"/>
+    <cosponsor thomas_id="01522" joined="2013-03-20"/>
+    <cosponsor thomas_id="01588" joined="2014-07-24"/>
+    <cosponsor thomas_id="01861" joined="2013-02-28"/>
+    <cosponsor thomas_id="01069" joined="2013-03-12"/>
+    <cosponsor thomas_id="02104" joined="2013-07-24"/>
+    <cosponsor thomas_id="01942" joined="2013-05-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-05" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-02-28">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, And Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Crimes against property"/>
+    <term name="Criminal procedure and sentencing"/>
+    <term name="Separation, divorce, custody, support"/>
+  </subjects>
+  <amendments/>
+  <summary>2/5/2013--Introduced.
+Jane's Law - Amends the federal criminal code to impose a fine and/or a prison term of up to two years on any person who travels in interstate or foreign commerce to evade compliance with a court-ordered property distribution in a divorce proceeding involving more than $5,000. Requires payment of restitution equal to the total unpaid property distribution from any person convicted of evading payment.</summary>
+</bill>

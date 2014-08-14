@@ -1,0 +1,57 @@
+<bill session="113" type="s" number="2188" updated="2014-08-14T14:03:31-04:00">
+  <state datetime="2014-06-11">REPORTED</state>
+  <status>
+    <unknown datetime="2014-06-11"/>
+  </status>
+  <introduced datetime="2014-03-31"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Act of June 18, 1934, to reaffirm the authority of the Secretary of the Interior to take land into trust for Indian tribes.</title>
+  </titles>
+  <sponsor thomas_id="01829"/>
+  <cosponsors>
+    <cosponsor thomas_id="01898" joined="2014-03-31"/>
+    <cosponsor thomas_id="01965" joined="2014-07-22"/>
+    <cosponsor thomas_id="01969" joined="2014-07-15"/>
+    <cosponsor thomas_id="01937" joined="2014-03-31"/>
+    <cosponsor thomas_id="02174" joined="2014-03-31"/>
+    <cosponsor thomas_id="01844" joined="2014-06-11"/>
+    <cosponsor thomas_id="01507" joined="2014-03-31"/>
+    <cosponsor thomas_id="01409" joined="2014-03-31"/>
+    <cosponsor thomas_id="02173" joined="2014-04-08"/>
+    <cosponsor thomas_id="01531" joined="2014-06-24"/>
+    <cosponsor thomas_id="01567" joined="2014-03-31"/>
+    <cosponsor thomas_id="02198" joined="2014-03-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-03-31">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S1872-1873"/>
+    </action>
+    <action datetime="2014-03-31" state="REFERRED">
+      <text>Read twice and referred to the Committee on Indian Affairs.</text>
+      <reference ref="CR S1873" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2014-05-07">
+      <text>Committee on Indian Affairs. Hearings held.</text>
+    </action>
+    <calendar datetime="2014-06-11" state="REPORTED">
+      <text>Committee on Indian Affairs. Ordered to be reported with an amendment favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SLIA" name="Senate Indian Affairs" activity="Referral, Hearings, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="666"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Federal-Indian relations"/>
+    <term name="Indian lands and resources rights"/>
+  </subjects>
+  <amendments/>
+  <summary>3/31/2014--Introduced.
+Amends the Indian Reorganization Act to apply the Act to all federally recognized Indian tribes, regardless of when any tribe became recognized. (This effectively overrules the Supreme Court's decision in Carcieri v. Salazar, which held that the Secretary of the Interior could not take land into trust for a specified tribe because that tribe had not been under federal jurisdiction when the Act was enacted.)
+
+Ratifies and confirms any action taken by the Secretary pursuant to such Act for any Indian tribe that was federally recognized on the date of that action.</summary>
+</bill>

@@ -1,0 +1,41 @@
+<bill session="113" type="s" number="2386" updated="2014-08-14T14:05:11-04:00">
+  <state datetime="2014-05-22">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-22"/>
+  </status>
+  <introduced datetime="2014-05-22"/>
+  <titles>
+    <title type="short" as="introduced">Avonte's Law Act of 2014</title>
+    <title type="official" as="introduced">A bill to establish a grant program to help State and local law enforcement agencies reduce the risk of injury and death relating to the wandering characteristics of some children with autism and other disabilities.</title>
+  </titles>
+  <sponsor thomas_id="01036"/>
+  <cosponsors>
+    <cosponsor thomas_id="01850" joined="2014-05-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSJU" name="Senate Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="5209"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Child safety and welfare"/>
+    <term name="Disability and paralysis"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Emergency communications systems"/>
+    <term name="First responders and emergency personnel"/>
+    <term name="Health information and medical records"/>
+    <term name="Hearing, speech, and vision care"/>
+    <term name="Hereditary and development disorders"/>
+    <term name="Law enforcement administration and funding"/>
+    <term name="Neurological disorders"/>
+    <term name="School administration"/>
+  </subjects>
+  <amendments/>
+</bill>

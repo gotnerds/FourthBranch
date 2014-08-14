@@ -1,0 +1,25 @@
+<bill session="113" type="s" number="2568" updated="2014-08-14T14:06:42-04:00">
+  <state datetime="2014-07-08">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-08"/>
+  </status>
+  <introduced datetime="2014-07-08"/>
+  <titles>
+    <title type="short" as="introduced">ACE Act</title>
+    <title type="short" as="introduced">Allocating for Children's Education Act</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to increase the contribution limit for Coverdell education savings accounts from $2,000 to $5,000, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02179"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-08" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

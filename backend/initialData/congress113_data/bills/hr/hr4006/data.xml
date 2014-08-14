@@ -1,0 +1,60 @@
+<bill session="113" type="h" number="4006" updated="2014-08-14T13:25:35-04:00">
+  <state datetime="2014-02-06">REFERRED</state>
+  <status>
+    <introduced datetime="2014-02-06"/>
+  </status>
+  <introduced datetime="2014-02-06"/>
+  <titles>
+    <title type="short" as="introduced">SNAP Verify Act of 2014</title>
+    <title type="official" as="introduced">To amend the Food and Nutrition Act of 2008 to require households that receive supplemental nutrition assistance benefits to present photographic verification at the time food is purchased with such benefits.</title>
+  </titles>
+  <sponsor thomas_id="01009"/>
+  <cosponsors>
+    <cosponsor thomas_id="02155" joined="2014-03-04"/>
+    <cosponsor thomas_id="01882" joined="2014-02-27"/>
+    <cosponsor thomas_id="02144" joined="2014-02-06"/>
+    <cosponsor thomas_id="02116" joined="2014-02-06"/>
+    <cosponsor thomas_id="02057" joined="2014-02-26"/>
+    <cosponsor thomas_id="01924" joined="2014-02-06"/>
+    <cosponsor thomas_id="01793" joined="2014-02-06"/>
+    <cosponsor thomas_id="01707" joined="2014-02-06"/>
+    <cosponsor thomas_id="01720" joined="2014-02-06"/>
+    <cosponsor thomas_id="01801" joined="2014-02-11"/>
+    <cosponsor thomas_id="01992" joined="2014-02-06"/>
+    <cosponsor thomas_id="00636" joined="2014-02-06"/>
+    <cosponsor thomas_id="02100" joined="2014-02-11"/>
+    <cosponsor thomas_id="02033" joined="2014-04-04"/>
+    <cosponsor thomas_id="01960" joined="2014-02-11"/>
+    <cosponsor thomas_id="02059" joined="2014-02-11"/>
+    <cosponsor thomas_id="02001" joined="2014-04-09"/>
+    <cosponsor thomas_id="01802" joined="2014-02-25"/>
+    <cosponsor thomas_id="01915" joined="2014-02-06"/>
+    <cosponsor thomas_id="01994" joined="2014-02-06"/>
+    <cosponsor thomas_id="02009" joined="2014-04-29"/>
+    <cosponsor thomas_id="02191" joined="2014-02-06"/>
+    <cosponsor thomas_id="02161" joined="2014-02-11"/>
+    <cosponsor thomas_id="02115" joined="2014-02-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-02-06" state="REFERRED">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2014-02-12">
+      <text>Referred to the Subcommittee on Department Operations, Oversight, and Nutrition.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee subcommittee="Department Operations, Oversight, and Nutrition" code="HSAG22" name="House Agriculture" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Food assistance and relief"/>
+    <term name="Photography and imaging"/>
+    <term name="Poverty and welfare assistance"/>
+  </subjects>
+  <amendments/>
+  <summary>2/6/2014--Introduced.
+SNAP Verify Act of 2014 - Amends the Food and Nutrition Act of 2008 to require a member or representative of a household that receives supplemental nutrition assistance program benefits (SNAP, formerly known as the food stamp program) to present photographic verification when using an electronic benefit card for a SNAP purchase.</summary>
+</bill>

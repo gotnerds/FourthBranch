@@ -1,0 +1,73 @@
+<bill session="113" type="hr" number="412" updated="2014-08-14T12:48:08-04:00">
+  <state datetime="2013-11-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-11-14"/>
+  </status>
+  <introduced datetime="2013-11-14"/>
+  <titles>
+    <title type="official" as="introduced">Amending the Rules of the House of Representatives to require a reading of the names of members of the Armed Forces who died in the previous month as a result of combat operations.</title>
+  </titles>
+  <sponsor thomas_id="02159"/>
+  <cosponsors>
+    <cosponsor thomas_id="02093" joined="2013-11-14"/>
+    <cosponsor thomas_id="02054" joined="2013-11-14"/>
+    <cosponsor thomas_id="02131" joined="2013-11-18"/>
+    <cosponsor thomas_id="02135" joined="2013-11-14"/>
+    <cosponsor thomas_id="02129" joined="2013-11-15"/>
+    <cosponsor thomas_id="01882" joined="2014-07-11"/>
+    <cosponsor thomas_id="02127" joined="2013-11-14"/>
+    <cosponsor thomas_id="01676" joined="2014-05-09"/>
+    <cosponsor thomas_id="01889" joined="2014-01-07"/>
+    <cosponsor thomas_id="02151" joined="2013-11-14"/>
+    <cosponsor thomas_id="00229" joined="2013-11-14"/>
+    <cosponsor thomas_id="02144" joined="2013-11-14"/>
+    <cosponsor thomas_id="01989" joined="2013-11-14"/>
+    <cosponsor thomas_id="02125" joined="2013-11-14"/>
+    <cosponsor thomas_id="02067" joined="2014-03-14"/>
+    <cosponsor thomas_id="01888" joined="2013-11-14"/>
+    <cosponsor thomas_id="01990" joined="2014-06-18"/>
+    <cosponsor thomas_id="01634" joined="2014-04-03"/>
+    <cosponsor thomas_id="00612" joined="2013-11-14"/>
+    <cosponsor thomas_id="02100" joined="2013-11-14"/>
+    <cosponsor thomas_id="02150" joined="2013-11-15"/>
+    <cosponsor thomas_id="02053" joined="2013-11-14"/>
+    <cosponsor thomas_id="00766" joined="2014-05-09"/>
+    <cosponsor thomas_id="01504" joined="2014-03-14"/>
+    <cosponsor thomas_id="02156" joined="2013-11-18"/>
+    <cosponsor thomas_id="01602" joined="2013-11-14"/>
+    <cosponsor thomas_id="00868" joined="2013-11-14"/>
+    <cosponsor thomas_id="02162" joined="2013-11-18"/>
+    <cosponsor thomas_id="01510" joined="2013-11-14"/>
+    <cosponsor thomas_id="02113" joined="2013-11-14"/>
+    <cosponsor thomas_id="01802" joined="2013-11-14"/>
+    <cosponsor thomas_id="00985" joined="2013-11-14"/>
+    <cosponsor thomas_id="02158" joined="2013-11-14"/>
+    <cosponsor thomas_id="02099" joined="2013-11-14"/>
+    <cosponsor thomas_id="02168" joined="2014-05-20"/>
+    <cosponsor thomas_id="02047" joined="2014-04-28"/>
+    <cosponsor thomas_id="01884" joined="2014-03-27"/>
+    <cosponsor thomas_id="02166" joined="2013-11-18"/>
+    <cosponsor thomas_id="01238" joined="2013-11-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-11-14" state="REFERRED">
+      <text>Referred to the House Committee on Rules.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSRU" name="House Rules" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional tributes"/>
+    <term name="House of Representatives"/>
+    <term name="Legislative rules and procedure"/>
+    <term name="Military personnel and dependents"/>
+  </subjects>
+  <amendments/>
+  <summary>11/14/2013--Introduced.
+Amends Rule XIV (Order and Priority of Business) of the Rules of the House of Representatives to require (on the first legislative day of each month) a reading of the names of members of the Armed Forces who died in the previous month as a result of combat operations.
+
+Prohibits the Speaker of the House from reading the name of any such member if any family member informs the Speaker that they do not wish to have the name of that individual read.</summary>
+</bill>

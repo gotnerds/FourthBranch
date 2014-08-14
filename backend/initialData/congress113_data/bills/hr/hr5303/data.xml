@@ -1,0 +1,24 @@
+<bill session="113" type="h" number="5303" updated="2014-08-14T13:36:45-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="short" as="introduced">21st Century Classroom Innovation Act</title>
+    <title type="official" as="introduced">To promote the use of blended learning in classrooms across America.</title>
+  </titles>
+  <sponsor thomas_id="01809"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

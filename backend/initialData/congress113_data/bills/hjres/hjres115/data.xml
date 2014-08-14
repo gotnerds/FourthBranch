@@ -1,0 +1,58 @@
+<bill session="113" type="hj" number="115" updated="2014-08-14T13:38:32-04:00">
+  <state datetime="2014-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="2014-05-21"/>
+  </status>
+  <introduced datetime="2014-05-21"/>
+  <titles>
+    <title type="official" as="introduced">Proposing an amendment to the Constitution of the United States to give States the right to repeal Federal laws and regulations when ratified by the legislatures of two-thirds of the several States.</title>
+  </titles>
+  <sponsor thomas_id="01753"/>
+  <cosponsors>
+    <cosponsor thomas_id="01748" joined="2014-05-21"/>
+    <cosponsor thomas_id="01882" joined="2014-05-21"/>
+    <cosponsor thomas_id="01816" joined="2014-05-21"/>
+    <cosponsor thomas_id="01956" joined="2014-05-21"/>
+    <cosponsor thomas_id="02057" joined="2014-05-21"/>
+    <cosponsor thomas_id="01801" joined="2014-05-21"/>
+    <cosponsor thomas_id="01979" joined="2014-05-21"/>
+    <cosponsor thomas_id="02070" joined="2014-05-21"/>
+    <cosponsor thomas_id="02028" joined="2014-05-21"/>
+    <cosponsor thomas_id="01868" joined="2014-05-21"/>
+    <cosponsor thomas_id="01834" joined="2014-05-21"/>
+    <cosponsor thomas_id="01960" joined="2014-05-21"/>
+    <cosponsor thomas_id="01908" joined="2014-05-21"/>
+    <cosponsor thomas_id="02059" joined="2014-05-21"/>
+    <cosponsor thomas_id="01009" joined="2014-05-21"/>
+    <cosponsor thomas_id="01994" joined="2014-05-21"/>
+    <cosponsor thomas_id="02168" joined="2014-05-21"/>
+    <cosponsor thomas_id="01855" joined="2014-05-21"/>
+    <cosponsor thomas_id="02161" joined="2014-05-21"/>
+    <cosponsor thomas_id="02115" joined="2014-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-05-21" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2014-07-21">
+      <text>Referred to the Subcommittee on the Constitution and Civil Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Constitution and Civil Justice" code="HSJU10" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="sj" session="113" relation="identical" number="34"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Constitution and constitutional amendments"/>
+    <term name="Intergovernmental relations"/>
+    <term name="State and local government operations"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/2014--Introduced.
+Constitutional Amendment - Authorizes the repeal of any federal law or regulation when the legislatures of two-thirds of the states approve resolutions for this purpose that particularly describe the provisions to be repealed.</summary>
+</bill>

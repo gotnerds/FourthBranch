@@ -1,0 +1,52 @@
+<bill session="113" type="hr" number="467" updated="2014-08-14T12:48:36-04:00">
+  <state datetime="2014-01-29">REFERRED</state>
+  <status>
+    <introduced datetime="2014-01-29"/>
+  </status>
+  <introduced datetime="2014-01-29"/>
+  <titles>
+    <title type="official" as="introduced">Expressing support for designation of February 12, 2014, as "Darwin Day" and recognizing the importance of science in the betterment of humanity.</title>
+  </titles>
+  <sponsor thomas_id="01580"/>
+  <cosponsors>
+    <cosponsor thomas_id="01564" joined="2014-05-23"/>
+    <cosponsor thomas_id="02159" joined="2014-02-10"/>
+    <cosponsor thomas_id="01878" joined="2014-05-23"/>
+    <cosponsor thomas_id="01914" joined="2014-05-23"/>
+    <cosponsor thomas_id="01913" joined="2014-01-29"/>
+    <cosponsor thomas_id="01634" joined="2014-01-29"/>
+    <cosponsor thomas_id="01843" joined="2014-05-23"/>
+    <cosponsor thomas_id="00701" joined="2014-02-05"/>
+    <cosponsor thomas_id="02111" joined="2014-02-05"/>
+    <cosponsor thomas_id="01504" joined="2014-02-11"/>
+    <cosponsor thomas_id="00868" joined="2014-02-05"/>
+    <cosponsor thomas_id="00944" joined="2014-02-05"/>
+    <cosponsor thomas_id="01069" joined="2014-02-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-01-29" state="REFERRED">
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="2014-02-11">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H1760"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="113" relation="unknown" number="467"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Genetics"/>
+  </subjects>
+  <amendments/>
+  <summary>1/29/2014--Introduced.
+Supports the designation of Darwin Day (February 12, 2014, the anniversary of the birth of Charles Darwin in 1809).
+
+Recognizes Charles Darwin as a worthy symbol on which to celebrate the achievements of reason, science, and the advancement of human knowledge.</summary>
+</bill>

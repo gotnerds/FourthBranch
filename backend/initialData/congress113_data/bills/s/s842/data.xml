@@ -1,0 +1,63 @@
+<bill session="113" type="s" number="842" updated="2014-08-14T13:51:57-04:00">
+  <state datetime="2013-04-25">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-25"/>
+  </status>
+  <introduced datetime="2013-04-25"/>
+  <titles>
+    <title type="short" as="introduced">Rural Hospital Access Act of 2013</title>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to provide for an extension of the Medicare-dependent hospital (MDH) program and the increased payments under the Medicare low-volume hospital program.</title>
+  </titles>
+  <sponsor thomas_id="01036"/>
+  <cosponsors>
+    <cosponsor thomas_id="01558" joined="2013-06-11"/>
+    <cosponsor thomas_id="02076" joined="2013-06-18"/>
+    <cosponsor thomas_id="01464" joined="2013-06-11"/>
+    <cosponsor thomas_id="00213" joined="2014-03-13"/>
+    <cosponsor thomas_id="01541" joined="2013-06-20"/>
+    <cosponsor thomas_id="00326" joined="2013-06-12"/>
+    <cosponsor thomas_id="01969" joined="2013-06-04"/>
+    <cosponsor thomas_id="01866" joined="2013-06-20"/>
+    <cosponsor thomas_id="00457" joined="2013-04-25"/>
+    <cosponsor thomas_id="01902" joined="2013-06-12"/>
+    <cosponsor thomas_id="00501" joined="2013-06-12"/>
+    <cosponsor thomas_id="01937" joined="2013-10-16"/>
+    <cosponsor thomas_id="02185" joined="2013-11-06"/>
+    <cosponsor thomas_id="01647" joined="2013-11-20"/>
+    <cosponsor thomas_id="01826" joined="2013-05-22"/>
+    <cosponsor thomas_id="01546" joined="2013-06-11"/>
+    <cosponsor thomas_id="01383" joined="2013-06-03"/>
+    <cosponsor thomas_id="01820" joined="2013-06-17"/>
+    <cosponsor thomas_id="01507" joined="2013-05-23"/>
+    <cosponsor thomas_id="01837" joined="2013-06-12"/>
+    <cosponsor thomas_id="00968" joined="2013-11-06"/>
+    <cosponsor thomas_id="01424" joined="2013-06-04"/>
+    <cosponsor thomas_id="01010" joined="2013-06-25"/>
+    <cosponsor thomas_id="02173" joined="2013-05-09"/>
+    <cosponsor thomas_id="01901" joined="2013-07-15"/>
+    <cosponsor thomas_id="01531" joined="2013-10-28"/>
+    <cosponsor thomas_id="02182" joined="2013-11-12"/>
+    <cosponsor thomas_id="01226" joined="2013-09-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-25" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="1787"/>
+    <bill type="h" session="113" relation="unknown" number="4302"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Hospital care"/>
+    <term name="Medicare"/>
+    <term name="Rural conditions and development"/>
+  </subjects>
+  <amendments/>
+  <summary>4/25/2013--Introduced.
+Rural Hospital Access Act of 2013 - Amends title XVIII (Medicare) of the Social Security Act to extend through FY2014: (1) the Medicare-dependent hospital program, and (2) increased payments under the Medicare low-volume hospital program.</summary>
+</bill>

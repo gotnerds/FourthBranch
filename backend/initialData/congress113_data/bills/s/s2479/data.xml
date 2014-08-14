@@ -1,0 +1,42 @@
+<bill session="113" type="s" number="2479" updated="2014-08-14T14:05:57-04:00">
+  <state datetime="2014-07-30">REPORTED</state>
+  <status>
+    <unknown datetime="2014-07-30"/>
+  </status>
+  <introduced datetime="2014-06-17"/>
+  <titles>
+    <title type="short" as="introduced">Moapa Band of Paiutes Land Conveyance Act</title>
+    <title type="official" as="introduced">A bill to provide for a land conveyance in the State of Nevada.</title>
+  </titles>
+  <sponsor thomas_id="00952"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-06-17" state="REFERRED">
+      <text>Read twice and referred to the Committee on Indian Affairs.</text>
+      <reference ref="CR S3722" label="text of measure as introduced"/>
+    </action>
+    <action datetime="2014-07-09">
+      <text>Committee on Indian Affairs. Hearings held.</text>
+    </action>
+    <action datetime="2014-07-10">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S4394-4395"/>
+    </action>
+    <calendar datetime="2014-07-30" state="REPORTED">
+      <text>Committee on Indian Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SLIA" name="Senate Indian Affairs" activity="Referral, Hearings, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="4890"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="Land transfers"/>
+    <term name="Nevada"/>
+  </subjects>
+  <amendments/>
+</bill>

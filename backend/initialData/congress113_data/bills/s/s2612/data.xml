@@ -1,0 +1,26 @@
+<bill session="113" type="s" number="2612" updated="2014-08-14T14:07:04-04:00">
+  <state datetime="2014-07-16">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-16"/>
+  </status>
+  <introduced datetime="2014-07-16"/>
+  <titles>
+    <title type="short" as="introduced">Dynamic Repayment Act of 2014</title>
+    <title type="official" as="introduced">A bill to simplify and improve the Federal student loan program through income-contingent repayment to provide strong protections for borrowers, encourage responsible borrowing, and save money for taxpayers.</title>
+  </titles>
+  <sponsor thomas_id="01897"/>
+  <cosponsors>
+    <cosponsor thomas_id="02084" joined="2014-07-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

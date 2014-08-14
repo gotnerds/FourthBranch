@@ -1,0 +1,18 @@
+<amendment session="113" chamber="s" number="619" updated="2014-08-14T13:04:46-04:00">
+  <amends type="sc" number="8" sequence=""/>
+  <status datetime="2013-03-23">pass</status>
+  <sponsor thomas_id="00791"/>
+  <offered datetime="2013-03-22"/>
+  <description>To establish a deficit-neutral reserve fund relating to helping homeowners and small businesses mitigate against flood loss.</description>
+  <actions>
+    <action datetime="2013-03-22">
+      <text>Amendment SA 619 proposed by Senator Murray for Senator Menendez.</text>
+      <reference ref="CR S2296-2301" label="consideration"/>
+      <reference ref="text"/>
+      <reference ref="CR S2297"/>
+    </action>
+    <vote datetime="2013-03-23" how="Voice Vote" result="pass">
+      <text>Amendment SA 619 agreed to in Senate by Voice Vote.</text>
+    </vote>
+  </actions>
+</amendment>

@@ -1,0 +1,163 @@
+<bill session="113" type="h" number="688" updated="2014-08-14T12:56:36-04:00">
+  <state datetime="2013-02-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-14"/>
+  </status>
+  <introduced datetime="2013-02-14"/>
+  <titles>
+    <title type="short" as="introduced">Credit Union Small Business Jobs Creation Act</title>
+    <title type="official" as="introduced">To amend the Federal Credit Union Act to provide certain credit unions with the authority to make additional member business loans, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00998"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2013-03-13"/>
+    <cosponsor thomas_id="00021" joined="2013-03-13"/>
+    <cosponsor thomas_id="02093" joined="2013-04-26"/>
+    <cosponsor thomas_id="01996" joined="2013-03-21"/>
+    <cosponsor thomas_id="02153" joined="2013-05-15"/>
+    <cosponsor thomas_id="02135" joined="2013-02-28"/>
+    <cosponsor thomas_id="02102" joined="2013-03-25"/>
+    <cosponsor thomas_id="00091" joined="2013-02-14"/>
+    <cosponsor thomas_id="01740" joined="2013-02-14"/>
+    <cosponsor thomas_id="00099" joined="2013-02-14"/>
+    <cosponsor thomas_id="02092" joined="2013-02-14"/>
+    <cosponsor thomas_id="01845" joined="2013-02-27"/>
+    <cosponsor thomas_id="00132" joined="2013-03-13"/>
+    <cosponsor thomas_id="02106" joined="2013-05-15"/>
+    <cosponsor thomas_id="02127" joined="2013-05-15"/>
+    <cosponsor thomas_id="00165" joined="2013-02-14"/>
+    <cosponsor thomas_id="02107" joined="2013-03-04"/>
+    <cosponsor thomas_id="01889" joined="2013-03-19"/>
+    <cosponsor thomas_id="02159" joined="2013-04-26"/>
+    <cosponsor thomas_id="01839" joined="2013-07-16"/>
+    <cosponsor thomas_id="00186" joined="2013-02-14"/>
+    <cosponsor thomas_id="01970" joined="2013-04-09"/>
+    <cosponsor thomas_id="02055" joined="2013-02-14"/>
+    <cosponsor thomas_id="01654" joined="2013-03-14"/>
+    <cosponsor thomas_id="00211" joined="2013-02-14"/>
+    <cosponsor thomas_id="02151" joined="2013-03-13"/>
+    <cosponsor thomas_id="01959" joined="2013-02-14"/>
+    <cosponsor thomas_id="00229" joined="2013-08-02"/>
+    <cosponsor thomas_id="02103" joined="2013-02-14"/>
+    <cosponsor thomas_id="01670" joined="2013-05-15"/>
+    <cosponsor thomas_id="01641" joined="2013-03-25"/>
+    <cosponsor thomas_id="02096" joined="2013-09-09"/>
+    <cosponsor thomas_id="01995" joined="2013-02-27"/>
+    <cosponsor thomas_id="00299" joined="2013-02-27"/>
+    <cosponsor thomas_id="00355" joined="2013-03-12"/>
+    <cosponsor thomas_id="00368" joined="2013-03-04"/>
+    <cosponsor thomas_id="01914" joined="2013-03-19"/>
+    <cosponsor thomas_id="00462" joined="2013-03-13"/>
+    <cosponsor thomas_id="01708" joined="2013-03-13"/>
+    <cosponsor thomas_id="02089" joined="2013-02-14"/>
+    <cosponsor thomas_id="02044" joined="2013-02-26"/>
+    <cosponsor thomas_id="00511" joined="2013-02-27"/>
+    <cosponsor thomas_id="02040" joined="2013-02-14"/>
+    <cosponsor thomas_id="02071" joined="2013-03-19"/>
+    <cosponsor thomas_id="01794" joined="2013-03-13"/>
+    <cosponsor thomas_id="01634" joined="2013-04-26"/>
+    <cosponsor thomas_id="02147" joined="2013-03-14"/>
+    <cosponsor thomas_id="02101" joined="2013-02-14"/>
+    <cosponsor thomas_id="02028" joined="2013-02-27"/>
+    <cosponsor thomas_id="01909" joined="2013-02-26"/>
+    <cosponsor thomas_id="01663" joined="2013-05-15"/>
+    <cosponsor thomas_id="01640" joined="2013-03-14"/>
+    <cosponsor thomas_id="00599" joined="2013-03-04"/>
+    <cosponsor thomas_id="01843" joined="2013-02-14"/>
+    <cosponsor thomas_id="00612" joined="2013-02-14"/>
+    <cosponsor thomas_id="02154" joined="2013-04-26"/>
+    <cosponsor thomas_id="00616" joined="2013-02-15"/>
+    <cosponsor thomas_id="02134" joined="2014-03-06"/>
+    <cosponsor thomas_id="01907" joined="2013-06-20"/>
+    <cosponsor thomas_id="02100" joined="2013-07-30"/>
+    <cosponsor thomas_id="01668" joined="2013-03-25"/>
+    <cosponsor thomas_id="01583" joined="2013-02-14"/>
+    <cosponsor thomas_id="01501" joined="2013-09-09"/>
+    <cosponsor thomas_id="00683" joined="2013-10-07"/>
+    <cosponsor thomas_id="00688" joined="2013-02-14"/>
+    <cosponsor thomas_id="01781" joined="2013-03-14"/>
+    <cosponsor thomas_id="00701" joined="2013-03-25"/>
+    <cosponsor thomas_id="02111" joined="2013-03-04"/>
+    <cosponsor thomas_id="02146" joined="2013-07-16"/>
+    <cosponsor thomas_id="01943" joined="2013-02-27"/>
+    <cosponsor thomas_id="01503" joined="2013-02-14"/>
+    <cosponsor thomas_id="01908" joined="2013-02-14"/>
+    <cosponsor thomas_id="01832" joined="2013-12-19"/>
+    <cosponsor thomas_id="01506" joined="2013-02-14"/>
+    <cosponsor thomas_id="02148" joined="2013-03-19"/>
+    <cosponsor thomas_id="01730" joined="2013-02-14"/>
+    <cosponsor thomas_id="01731" joined="2013-02-28"/>
+    <cosponsor thomas_id="01685" joined="2013-02-27"/>
+    <cosponsor thomas_id="01602" joined="2013-02-14"/>
+    <cosponsor thomas_id="02108" joined="2013-06-11"/>
+    <cosponsor thomas_id="00867" joined="2013-04-26"/>
+    <cosponsor thomas_id="00868" joined="2013-02-14"/>
+    <cosponsor thomas_id="01510" joined="2013-06-20"/>
+    <cosponsor thomas_id="02097" joined="2013-03-21"/>
+    <cosponsor thomas_id="01835" joined="2014-06-24"/>
+    <cosponsor thomas_id="01929" joined="2013-02-14"/>
+    <cosponsor thomas_id="02113" joined="2013-06-27"/>
+    <cosponsor thomas_id="00912" joined="2013-03-19"/>
+    <cosponsor thomas_id="01927" joined="2013-02-14"/>
+    <cosponsor thomas_id="01802" joined="2013-02-14"/>
+    <cosponsor thomas_id="01910" joined="2013-02-15"/>
+    <cosponsor thomas_id="01915" joined="2013-02-14"/>
+    <cosponsor thomas_id="00944" joined="2013-06-20"/>
+    <cosponsor thomas_id="01982" joined="2014-02-25"/>
+    <cosponsor thomas_id="00979" joined="2013-02-27"/>
+    <cosponsor thomas_id="00997" joined="2013-02-14"/>
+    <cosponsor thomas_id="02109" joined="2014-03-06"/>
+    <cosponsor thomas_id="01003" joined="2013-09-11"/>
+    <cosponsor thomas_id="01756" joined="2013-06-11"/>
+    <cosponsor thomas_id="01757" joined="2013-02-26"/>
+    <cosponsor thomas_id="01522" joined="2013-04-09"/>
+    <cosponsor thomas_id="01635" joined="2013-02-14"/>
+    <cosponsor thomas_id="01950" joined="2013-02-14"/>
+    <cosponsor thomas_id="01042" joined="2013-02-27"/>
+    <cosponsor thomas_id="01861" joined="2013-03-25"/>
+    <cosponsor thomas_id="01526" joined="2013-02-14"/>
+    <cosponsor thomas_id="01890" joined="2013-02-15"/>
+    <cosponsor thomas_id="02047" joined="2013-02-14"/>
+    <cosponsor thomas_id="02104" joined="2013-03-12"/>
+    <cosponsor thomas_id="02110" joined="2013-03-06"/>
+    <cosponsor thomas_id="01593" joined="2013-02-14"/>
+    <cosponsor thomas_id="01940" joined="2013-03-13"/>
+    <cosponsor thomas_id="01942" joined="2013-02-15"/>
+    <cosponsor thomas_id="01177" joined="2013-02-14"/>
+    <cosponsor thomas_id="02105" joined="2013-09-10"/>
+    <cosponsor thomas_id="01205" joined="2013-02-14"/>
+    <cosponsor thomas_id="02004" joined="2013-05-20"/>
+    <cosponsor thomas_id="02008" joined="2013-06-20"/>
+    <cosponsor thomas_id="01853" joined="2013-02-14"/>
+    <cosponsor thomas_id="01255" joined="2013-03-04"/>
+    <cosponsor thomas_id="01256" joined="2013-02-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-14" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="968"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Congressional oversight"/>
+    <term name="Credit and credit markets"/>
+    <term name="National Credit Union Administration"/>
+  </subjects>
+  <amendments/>
+  <summary>2/14/2013--Introduced.
+Credit Union Small Business Jobs Creation Act - Amends the Federal Credit Union Act to prohibit an insured credit union from making any member business loan that would result in the total amount of such loans outstanding at that credit union at any one time exceeding either: (1) 1.75 times the actual net worth of the credit union, or (2) 12.25% of the total assets of the credit union.
+
+Authorizes the National Credit Union Administration Board to approve an application by an insured credit union to make one or more member business loans that would result in a total amount of such loans outstanding at any one time of up to 27.5 % of the total assets of the credit union, if the credit union meets specified safety and soundness criteria. Prohibits an insured credit union that has made such a member business loan but that is not well capitalized from making any new member business loans until it becomes well capitalized and obtains Board approval.
+
+Directs the Board to develop a tiered approval process, including lending standards, under which an insured credit union gradually increases the amount of member business lending in a manner consistent with safe and sound operations.
+
+Directs the Comptroller General to study the status of member business lending by insured credit unions.</summary>
+</bill>

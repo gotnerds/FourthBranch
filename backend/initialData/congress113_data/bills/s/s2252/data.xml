@@ -1,0 +1,43 @@
+<bill session="113" type="s" number="2252" updated="2014-08-14T14:04:03-04:00">
+  <state datetime="2014-04-10">REFERRED</state>
+  <status>
+    <introduced datetime="2014-04-10"/>
+  </status>
+  <introduced datetime="2014-04-10"/>
+  <titles>
+    <title type="short" as="introduced">Community Bank Preservation Act of 2014</title>
+    <title type="official" as="introduced">A bill to reaffirm the importance of community banking and community banking regulatory experience on the Federal Reserve Board of Governors, to ensure that the Federal Reserve Board of Governors has a member who has previous experience in community banking or community banking supervision, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01609"/>
+  <cosponsors>
+    <cosponsor thomas_id="01881" joined="2014-05-01"/>
+    <cosponsor thomas_id="01464" joined="2014-04-29"/>
+    <cosponsor thomas_id="00209" joined="2014-05-01"/>
+    <cosponsor thomas_id="00212" joined="2014-04-30"/>
+    <cosponsor thomas_id="01542" joined="2014-06-09"/>
+    <cosponsor thomas_id="02174" joined="2014-04-10"/>
+    <cosponsor thomas_id="01647" joined="2014-04-10"/>
+    <cosponsor thomas_id="01546" joined="2014-04-11"/>
+    <cosponsor thomas_id="01534" joined="2014-07-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-04-10" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Banking and financial institutions regulation"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Federal Reserve System"/>
+    <term name="Federal officials"/>
+    <term name="Monetary policy"/>
+  </subjects>
+  <amendments/>
+  <summary>4/10/2014--Introduced.
+Community Bank Preservation Act of 2014 - Amends the Federal Reserve Act to require that membership on the Board of Governors of the Federal Reserve include at least one person with demonstrated experience working in or supervising community banks having less than $10 billion total assets.</summary>
+</bill>

@@ -1,0 +1,25 @@
+<bill session="113" type="s" number="2722" updated="2014-08-14T14:07:59-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="short" as="introduced">Protecting Our Infants Act of 2014</title>
+    <title type="official" as="introduced">A bill to facilitate identification and dissemination of evidence-informed recommendations for addressing maternal addiction and neonatal abstinence syndrome and to provide for studies with respect to neonatal abstinence syndrome.</title>
+  </titles>
+  <sponsor thomas_id="01395"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+      <reference ref="CR S5221-5222" label="text of measure as introduced"/>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

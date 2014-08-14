@@ -1,0 +1,56 @@
+<bill session="113" type="h" number="2539" updated="2014-08-14T13:13:08-04:00">
+  <state datetime="2013-06-27">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-27"/>
+  </status>
+  <introduced datetime="2013-06-27"/>
+  <titles>
+    <title type="short" as="introduced">Prioritizing Energy Efficient Renewables Act of 2013</title>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to extend certain provisions of the renewable energy credit, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01588"/>
+  <cosponsors>
+    <cosponsor thomas_id="01845" joined="2013-06-27"/>
+    <cosponsor thomas_id="02159" joined="2013-06-27"/>
+    <cosponsor thomas_id="01970" joined="2013-10-01"/>
+    <cosponsor thomas_id="01878" joined="2013-07-25"/>
+    <cosponsor thomas_id="02133" joined="2013-06-27"/>
+    <cosponsor thomas_id="01857" joined="2013-06-27"/>
+    <cosponsor thomas_id="01708" joined="2013-06-27"/>
+    <cosponsor thomas_id="00511" joined="2013-06-27"/>
+    <cosponsor thomas_id="01580" joined="2013-06-27"/>
+    <cosponsor thomas_id="02101" joined="2013-06-27"/>
+    <cosponsor thomas_id="01501" joined="2013-06-27"/>
+    <cosponsor thomas_id="01846" joined="2013-06-27"/>
+    <cosponsor thomas_id="00701" joined="2013-06-27"/>
+    <cosponsor thomas_id="01653" joined="2013-06-27"/>
+    <cosponsor thomas_id="00808" joined="2013-06-27"/>
+    <cosponsor thomas_id="00832" joined="2013-06-27"/>
+    <cosponsor thomas_id="02117" joined="2013-08-01"/>
+    <cosponsor thomas_id="00850" joined="2013-07-16"/>
+    <cosponsor thomas_id="02171" joined="2013-06-27"/>
+    <cosponsor thomas_id="01890" joined="2014-01-10"/>
+    <cosponsor thomas_id="02110" joined="2013-06-27"/>
+    <cosponsor thomas_id="01942" joined="2013-07-08"/>
+    <cosponsor thomas_id="02004" joined="2013-06-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-27" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Alternative and renewable resources"/>
+    <term name="Income tax credits"/>
+    <term name="Income tax deductions"/>
+    <term name="Oil and gas"/>
+  </subjects>
+  <amendments/>
+  <summary>6/27/2013--Introduced.
+Prioritizing Energy Efficient Renewables Act of 2013 - Amends the Internal Revenue Code to: (1) make permanent the tax credit for producing electricity from wind, geothermal and solar energy, hydropower, and marine and hydrokinetic renewable energy facilities; (2) repeal the tax deduction for intangible drilling and development costs for oil and gas wells; (3) repeal the tax deduction for income attributable to the production, refining, transportation, or distribution of oil, natural gas, or any primary product thereof; and (4) repeal the percentage depletion allowance for oil and gas wells.</summary>
+</bill>

@@ -1,0 +1,31 @@
+<bill session="113" type="s" number="2758" updated="2014-08-14T14:08:17-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize the Secretary of the Air Force to modernize C-130 aircraft using alternative communication, navigation, surveillance, and air traffic management program kits and to ensure that such aircraft meet applicable regulations of the Federal Aviation Administration.</title>
+  </titles>
+  <sponsor thomas_id="01829"/>
+  <cosponsors>
+    <cosponsor thomas_id="01898" joined="2014-07-31"/>
+    <cosponsor thomas_id="00179" joined="2014-07-31"/>
+    <cosponsor thomas_id="01542" joined="2014-07-31"/>
+    <cosponsor thomas_id="01866" joined="2014-07-31"/>
+    <cosponsor thomas_id="01701" joined="2014-07-31"/>
+    <cosponsor thomas_id="01036" joined="2014-07-31"/>
+    <cosponsor thomas_id="02198" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSAS" name="Senate Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

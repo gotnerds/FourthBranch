@@ -1,0 +1,66 @@
+<bill session="113" type="h" number="4430" updated="2014-08-14T13:29:10-04:00">
+  <state datetime="2014-04-08">REFERRED</state>
+  <status>
+    <introduced datetime="2014-04-08"/>
+  </status>
+  <introduced datetime="2014-04-08"/>
+  <titles>
+    <title type="short" as="introduced">Protecting the Sustainable Use of Spent Grains Act of 2014</title>
+    <title type="official" as="introduced">To amend the FDA Food Safety Modernization Act to ensure that certain facilities continue to be treated as alcohol-related facilities, notwithstanding the distribution of spent grains resulting from the production of alcoholic beverages.</title>
+  </titles>
+  <sponsor thomas_id="01991"/>
+  <cosponsors>
+    <cosponsor thomas_id="02131" joined="2014-06-10"/>
+    <cosponsor thomas_id="02055" joined="2014-07-25"/>
+    <cosponsor thomas_id="01912" joined="2014-04-29"/>
+    <cosponsor thomas_id="02144" joined="2014-05-21"/>
+    <cosponsor thomas_id="01989" joined="2014-04-29"/>
+    <cosponsor thomas_id="02057" joined="2014-05-08"/>
+    <cosponsor thomas_id="02125" joined="2014-05-21"/>
+    <cosponsor thomas_id="02064" joined="2014-06-17"/>
+    <cosponsor thomas_id="01998" joined="2014-04-08"/>
+    <cosponsor thomas_id="02049" joined="2014-04-29"/>
+    <cosponsor thomas_id="01990" joined="2014-04-29"/>
+    <cosponsor thomas_id="02044" joined="2014-04-29"/>
+    <cosponsor thomas_id="00612" joined="2014-04-29"/>
+    <cosponsor thomas_id="02014" joined="2014-05-08"/>
+    <cosponsor thomas_id="02011" joined="2014-07-22"/>
+    <cosponsor thomas_id="01834" joined="2014-04-29"/>
+    <cosponsor thomas_id="01668" joined="2014-07-11"/>
+    <cosponsor thomas_id="02033" joined="2014-05-08"/>
+    <cosponsor thomas_id="02094" joined="2014-04-29"/>
+    <cosponsor thomas_id="01671" joined="2014-05-08"/>
+    <cosponsor thomas_id="01809" joined="2014-05-08"/>
+    <cosponsor thomas_id="02142" joined="2014-04-29"/>
+    <cosponsor thomas_id="00910" joined="2014-04-29"/>
+    <cosponsor thomas_id="01927" joined="2014-04-08"/>
+    <cosponsor thomas_id="01892" joined="2014-05-23"/>
+    <cosponsor thomas_id="01997" joined="2014-04-29"/>
+    <cosponsor thomas_id="01596" joined="2014-04-29"/>
+    <cosponsor thomas_id="01879" joined="2014-04-08"/>
+    <cosponsor thomas_id="01853" joined="2014-04-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-04-08" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2014-04-11">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Agricultural practices and innovations"/>
+    <term name="Alcoholic beverages"/>
+    <term name="Food supply, safety, and labeling"/>
+    <term name="Livestock"/>
+  </subjects>
+  <amendments/>
+  <summary>4/8/2014--Introduced.
+Protecting the Sustainable Use of Spent Grains Act of 2014 - Amends the FDA Food Safety Modernization Act to permit the continued exemption from the Act, as an alcohol-related facility, of a facility that distributes, for use as food for animals, spent grains resulting from the production of alcoholic beverages.</summary>
+</bill>

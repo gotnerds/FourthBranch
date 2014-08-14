@@ -1,0 +1,61 @@
+<bill session="113" type="h" number="2452" updated="2014-08-14T13:12:17-04:00">
+  <state datetime="2014-03-05">REPORTED</state>
+  <status>
+    <unknown datetime="2014-03-05"/>
+  </status>
+  <introduced datetime="2013-06-20"/>
+  <titles>
+    <title type="short" as="introduced">Women's Procurement Program Equalization Act of 2013</title>
+    <title type="official" as="introduced">To amend the Small Business Act with respect to the procurement program for women-owned small business concerns, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01184"/>
+  <cosponsors>
+    <cosponsor thomas_id="02093" joined="2013-06-20"/>
+    <cosponsor thomas_id="01471" joined="2014-04-29"/>
+    <cosponsor thomas_id="01970" joined="2013-06-20"/>
+    <cosponsor thomas_id="01864" joined="2013-06-20"/>
+    <cosponsor thomas_id="01959" joined="2013-09-11"/>
+    <cosponsor thomas_id="01641" joined="2014-04-09"/>
+    <cosponsor thomas_id="00279" joined="2014-04-29"/>
+    <cosponsor thomas_id="00281" joined="2014-04-29"/>
+    <cosponsor thomas_id="01894" joined="2014-04-09"/>
+    <cosponsor thomas_id="02089" joined="2014-03-27"/>
+    <cosponsor thomas_id="01634" joined="2014-04-29"/>
+    <cosponsor thomas_id="02150" joined="2014-02-11"/>
+    <cosponsor thomas_id="02148" joined="2013-06-20"/>
+    <cosponsor thomas_id="00832" joined="2013-10-28"/>
+    <cosponsor thomas_id="02117" joined="2014-03-04"/>
+    <cosponsor thomas_id="02097" joined="2013-06-20"/>
+    <cosponsor thomas_id="02113" joined="2014-03-06"/>
+    <cosponsor thomas_id="01522" joined="2014-04-04"/>
+    <cosponsor thomas_id="02112" joined="2014-04-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-20" state="REFERRED">
+      <text>Referred to the House Committee on Small Business.</text>
+    </action>
+    <action datetime="2014-03-05">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-03-05" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSSM" name="House Small Business" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Public contracts and procurement"/>
+    <term name="Small business"/>
+    <term name="Women in business"/>
+  </subjects>
+  <amendments/>
+  <summary>6/20/2013--Introduced.
+Women's Procurement Program Equalization Act of 2013 - Amends the Small Business Act with respect to the procurement program for women-owned small businesses (providing a federal procurement contracting preference to such businesses) to condition a government contracting officer's authority to restrict competition for any such federal contract upon the Administrator of the Small Business Administration (SBA) certifying each of the businesses as a small business concern owned and controlled by women. (Currently, the small business concerns themselves certify to the contracting officer that they are such a business according to SBA standards.)
+
+Allows a contracting officer to award a sole source contract to any economically disadvantaged women-owned small business if: (1) the small business is determined to be responsible and the contracting officer does not expect two or more of such businesses to submit offers; (2) the anticipated contract price will not exceed $6.5 million in the case of a manufacturing contract, or $4 million in the case of all other contracts; and (3) the contract can be made at a fair and reasonable price. Provides identical contracting authority for women-owned small businesses in substantially underrepresented industries.
+
+Expands the reporting requirements with respect to small business procurement contracts to require federal agencies to submit annual reports to the Administrator regarding such sole source contracts as well as the industries within which various contracts were awarded.</summary>
+</bill>

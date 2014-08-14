@@ -1,0 +1,57 @@
+<bill session="113" type="h" number="4208" updated="2014-08-14T13:27:18-04:00">
+  <state datetime="2014-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="2014-03-12"/>
+  </status>
+  <introduced datetime="2014-03-12"/>
+  <titles>
+    <title type="short" as="introduced">Stabilizing FHA Loan Limit Calculations Act of 2014</title>
+    <title type="official" as="introduced">To ensure stability in FHA maximum mortgage amount limitations for areas experiencing decreases in median home prices.</title>
+  </titles>
+  <sponsor thomas_id="01584"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2014-05-09"/>
+    <cosponsor thomas_id="01996" joined="2014-04-28"/>
+    <cosponsor thomas_id="02102" joined="2014-03-25"/>
+    <cosponsor thomas_id="02106" joined="2014-03-25"/>
+    <cosponsor thomas_id="00165" joined="2014-03-12"/>
+    <cosponsor thomas_id="01774" joined="2014-06-09"/>
+    <cosponsor thomas_id="02122" joined="2014-07-08"/>
+    <cosponsor thomas_id="02040" joined="2014-06-11"/>
+    <cosponsor thomas_id="01634" joined="2014-03-25"/>
+    <cosponsor thomas_id="02147" joined="2014-05-07"/>
+    <cosponsor thomas_id="02101" joined="2014-04-01"/>
+    <cosponsor thomas_id="00635" joined="2014-03-12"/>
+    <cosponsor thomas_id="00729" joined="2014-03-12"/>
+    <cosponsor thomas_id="01832" joined="2014-03-12"/>
+    <cosponsor thomas_id="02108" joined="2014-03-24"/>
+    <cosponsor thomas_id="01526" joined="2014-03-12"/>
+    <cosponsor thomas_id="02104" joined="2014-03-24"/>
+    <cosponsor thomas_id="02110" joined="2014-04-28"/>
+    <cosponsor thomas_id="01593" joined="2014-03-24"/>
+    <cosponsor thomas_id="02105" joined="2014-03-25"/>
+    <cosponsor thomas_id="02112" joined="2014-05-29"/>
+    <cosponsor thomas_id="01205" joined="2014-03-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-03-12" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Government lending and loan guarantees"/>
+    <term name="Housing finance and home ownership"/>
+  </subjects>
+  <amendments/>
+  <summary>3/12/2014--Introduced.
+Stabilizing FHA Loan Limit Calculations Act of 2014 - Amends the National Housing Act, with respect to the mortgage insurance eligibility of a 1-family or a 2-, 3-, or 4-family residence, to revise the formula for determining the median house price in the larger formula for determining the principal obligation of a mortgage.
+
+Declares that, for 2014 and each succeeding year, the median house price for any size residence for an area shall be considered to be the greatest median house price for such size residence for that area used by the Secretary of Housing and Urban Development (HUD) to determine the dollar amount limitation on the principal obligation for 2013, or for any succeeding year before the assignment of the Federal Housing Administration (FHA) case number for the mortgage involved.
+
+Allows the Secretary, however, to increase the maximum dollar limitation on the principal obligation of an eligible mortgage otherwise in effect for a particular size or sizes of residence in any geographic area smaller than an area for which dollar amount limitations are ordinarily determined, if a higher maximum dollar amount limitation is warranted by higher median home prices in that smaller area.</summary>
+</bill>

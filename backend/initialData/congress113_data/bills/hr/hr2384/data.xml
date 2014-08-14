@@ -1,0 +1,93 @@
+<bill session="113" type="h" number="2384" updated="2014-08-14T13:11:42-04:00">
+  <state datetime="2013-06-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-14"/>
+  </status>
+  <introduced datetime="2013-06-14"/>
+  <titles>
+    <title type="short" as="introduced">Food Security Improvement Act of 2013</title>
+    <title type="official" as="introduced">To amend the Food and Nutrition Act of 2008 to require that supplemental nutrition assistance program benefits be calculated with reference to the cost of the low-cost food plan as determined by the Secretary of Agriculture, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01976"/>
+  <cosponsors>
+    <cosponsor thomas_id="02092" joined="2013-06-18"/>
+    <cosponsor thomas_id="00132" joined="2013-06-14"/>
+    <cosponsor thomas_id="01564" joined="2014-07-31"/>
+    <cosponsor thomas_id="02107" joined="2013-06-14"/>
+    <cosponsor thomas_id="02159" joined="2013-12-16"/>
+    <cosponsor thomas_id="02055" joined="2013-06-18"/>
+    <cosponsor thomas_id="01864" joined="2013-06-14"/>
+    <cosponsor thomas_id="01654" joined="2013-06-18"/>
+    <cosponsor thomas_id="00229" joined="2013-06-14"/>
+    <cosponsor thomas_id="01477" joined="2013-06-14"/>
+    <cosponsor thomas_id="02133" joined="2013-06-18"/>
+    <cosponsor thomas_id="00281" joined="2013-06-14"/>
+    <cosponsor thomas_id="00303" joined="2014-06-17"/>
+    <cosponsor thomas_id="02164" joined="2013-06-14"/>
+    <cosponsor thomas_id="01803" joined="2013-06-18"/>
+    <cosponsor thomas_id="00462" joined="2013-06-14"/>
+    <cosponsor thomas_id="02089" joined="2013-12-05"/>
+    <cosponsor thomas_id="00511" joined="2013-06-14"/>
+    <cosponsor thomas_id="02147" joined="2013-06-14"/>
+    <cosponsor thomas_id="02101" joined="2014-01-08"/>
+    <cosponsor thomas_id="00588" joined="2014-05-06"/>
+    <cosponsor thomas_id="00599" joined="2013-06-20"/>
+    <cosponsor thomas_id="01668" joined="2013-06-14"/>
+    <cosponsor thomas_id="01501" joined="2013-06-14"/>
+    <cosponsor thomas_id="00688" joined="2013-06-14"/>
+    <cosponsor thomas_id="01653" joined="2013-06-14"/>
+    <cosponsor thomas_id="01504" joined="2013-06-14"/>
+    <cosponsor thomas_id="01506" joined="2013-06-14"/>
+    <cosponsor thomas_id="01811" joined="2013-06-14"/>
+    <cosponsor thomas_id="00850" joined="2013-06-14"/>
+    <cosponsor thomas_id="00854" joined="2014-06-23"/>
+    <cosponsor thomas_id="00868" joined="2013-06-18"/>
+    <cosponsor thomas_id="02097" joined="2013-06-20"/>
+    <cosponsor thomas_id="02171" joined="2013-06-14"/>
+    <cosponsor thomas_id="01967" joined="2014-07-31"/>
+    <cosponsor thomas_id="00944" joined="2014-05-06"/>
+    <cosponsor thomas_id="01003" joined="2013-06-14"/>
+    <cosponsor thomas_id="01962" joined="2013-06-28"/>
+    <cosponsor thomas_id="01588" joined="2013-06-14"/>
+    <cosponsor thomas_id="01069" joined="2014-05-13"/>
+    <cosponsor thomas_id="01535" joined="2014-06-10"/>
+    <cosponsor thomas_id="01940" joined="2013-06-14"/>
+    <cosponsor thomas_id="02167" joined="2013-06-14"/>
+    <cosponsor thomas_id="01205" joined="2013-06-14"/>
+    <cosponsor thomas_id="01209" joined="2013-06-18"/>
+    <cosponsor thomas_id="02004" joined="2013-06-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-14" state="REFERRED">
+      <text>Referred to the House Committee on Agriculture.</text>
+    </action>
+    <action datetime="2013-06-25">
+      <text>Referred to the Subcommittee on Department Operations, Oversight, and Nutrition.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee subcommittee="Department Operations, Oversight, and Nutrition" code="HSAG22" name="House Agriculture" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Alaska"/>
+    <term name="Caribbean area"/>
+    <term name="Food assistance and relief"/>
+    <term name="Guam"/>
+    <term name="Hawaii"/>
+    <term name="Poverty and welfare assistance"/>
+    <term name="U.S. territories and protectorates"/>
+    <term name="Virgin Islands"/>
+  </subjects>
+  <amendments/>
+  <summary>6/14/2013--Introduced.
+Food Security Improvement Act of 2013 - Amends the Food and Nutrition Act of 2008 to require that supplemental nutrition assistance program (SNAP, formerly known as the food stamp program) benefits be calculated with reference to the cost of the low-cost food plan. Sets forth required adjustments.
+
+Authorizes SNAP appropriations through FY2015.
+
+Revises funding provisions for consolidated block grants for Puerto Rico and American Samoa.
+
+Extends the availability of commodities for the emergency food assistance program through FY2015.</summary>
+</bill>

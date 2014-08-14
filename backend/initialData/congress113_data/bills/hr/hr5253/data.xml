@@ -1,0 +1,42 @@
+<bill session="113" type="h" number="5253" updated="2014-08-14T13:36:20-04:00">
+  <state datetime="2014-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-29"/>
+  </status>
+  <introduced datetime="2014-07-29"/>
+  <titles>
+    <title type="short" as="introduced">UAC State Authority Act of 2014</title>
+    <title type="official" as="introduced">To amend the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008 to require consultation with States before awarding grants or contracts for housing facilities for unaccompanied alien children.</title>
+  </titles>
+  <sponsor thomas_id="01041"/>
+  <cosponsors>
+    <cosponsor thomas_id="02063" joined="2014-07-29"/>
+    <cosponsor thomas_id="00211" joined="2014-07-29"/>
+    <cosponsor thomas_id="01742" joined="2014-07-29"/>
+    <cosponsor thomas_id="02121" joined="2014-07-29"/>
+    <cosponsor thomas_id="01670" joined="2014-07-31"/>
+    <cosponsor thomas_id="02049" joined="2014-07-29"/>
+    <cosponsor thomas_id="01990" joined="2014-07-31"/>
+    <cosponsor thomas_id="01908" joined="2014-07-29"/>
+    <cosponsor thomas_id="01731" joined="2014-07-29"/>
+    <cosponsor thomas_id="01916" joined="2014-07-29"/>
+    <cosponsor thomas_id="01012" joined="2014-07-30"/>
+    <cosponsor thomas_id="01741" joined="2014-07-29"/>
+    <cosponsor thomas_id="01991" joined="2014-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-29" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="5138"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+  <summary>7/29/2014--Introduced.
+UAC State Authority Act of 2014 - Amends the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008 to require the Secretary of Health and Human Services (HHS), before awarding grants or contracts to provide housing facilities for unaccompanied alien children, to: (1) consult with state elected officials and agencies; (2) hold a public hearing; and (3) provide for a period during which the governor of the state in which the facility would be located may submit to the Secretary an objection to the contract, which, if timely submitted, shall preclude the Secretary from awarding the grant or contract.</summary>
+</bill>

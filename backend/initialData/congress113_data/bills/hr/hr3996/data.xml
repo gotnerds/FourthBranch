@@ -1,0 +1,50 @@
+<bill session="113" type="h" number="3996" updated="2014-08-14T13:25:30-04:00">
+  <state datetime="2014-02-05">REFERRED</state>
+  <status>
+    <introduced datetime="2014-02-05"/>
+  </status>
+  <introduced datetime="2014-02-05"/>
+  <titles>
+    <title type="short" as="introduced">Save our Military Shopping Benefits Act</title>
+    <title type="official" as="introduced">To prohibit the closure or reduced operation of military commissary stores and exchange stores before January 1, 2017.</title>
+  </titles>
+  <sponsor thomas_id="01990"/>
+  <cosponsors>
+    <cosponsor thomas_id="01748" joined="2014-04-07"/>
+    <cosponsor thomas_id="01989" joined="2014-02-11"/>
+    <cosponsor thomas_id="01643" joined="2014-02-05"/>
+    <cosponsor thomas_id="02064" joined="2014-03-26"/>
+    <cosponsor thomas_id="01973" joined="2014-02-05"/>
+    <cosponsor thomas_id="02020" joined="2014-02-05"/>
+    <cosponsor thomas_id="02028" joined="2014-02-05"/>
+    <cosponsor thomas_id="00612" joined="2014-02-11"/>
+    <cosponsor thomas_id="02033" joined="2014-02-05"/>
+    <cosponsor thomas_id="01931" joined="2014-02-05"/>
+    <cosponsor thomas_id="01731" joined="2014-02-05"/>
+    <cosponsor thomas_id="02039" joined="2014-02-25"/>
+    <cosponsor thomas_id="02191" joined="2014-02-11"/>
+    <cosponsor thomas_id="01222" joined="2014-02-05"/>
+    <cosponsor thomas_id="02021" joined="2014-02-05"/>
+    <cosponsor thomas_id="02115" joined="2014-02-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-02-05" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Military facilities and property"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Retail and wholesale trades"/>
+  </subjects>
+  <amendments/>
+  <summary>2/5/2014--Introduced.
+Save our Military Shopping Benefits Act - Prohibits, until January 1, 2017, the Secretary of Defense (DOD) from: (1) closing any commissary or exchange store located within the United States, or (2) developing or implementing any plan that would result in the closure of all commissaries in the United States as part of a cost-saving effort.
+
+Defines "close" to include any action that has the effect of: (1) reducing the operating hours or size of a commissary or exchange store below FY2014 levels, or (2) changing the location of such a store. Excepts a change in the size or location of such a store if the Secretary determines that the change is required for upgrading or modifying an existing structure for safety or health reasons.</summary>
+</bill>

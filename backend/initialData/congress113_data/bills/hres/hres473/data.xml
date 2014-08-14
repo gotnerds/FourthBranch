@@ -1,0 +1,57 @@
+<bill session="113" type="hr" number="473" updated="2014-08-14T12:48:39-04:00">
+  <state datetime="2014-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="2014-02-04"/>
+  </status>
+  <introduced datetime="2014-02-04"/>
+  <titles>
+    <title type="official" as="introduced">Expressing support for designation of February 4, 2014, as National Cancer Prevention Day.</title>
+  </titles>
+  <sponsor thomas_id="01663"/>
+  <cosponsors>
+    <cosponsor thomas_id="01723" joined="2014-02-04"/>
+    <cosponsor thomas_id="02159" joined="2014-02-04"/>
+    <cosponsor thomas_id="02055" joined="2014-02-04"/>
+    <cosponsor thomas_id="01959" joined="2014-02-04"/>
+    <cosponsor thomas_id="00231" joined="2014-02-04"/>
+    <cosponsor thomas_id="01774" joined="2014-02-04"/>
+    <cosponsor thomas_id="01799" joined="2014-02-04"/>
+    <cosponsor thomas_id="01708" joined="2014-02-04"/>
+    <cosponsor thomas_id="02044" joined="2014-02-04"/>
+    <cosponsor thomas_id="01794" joined="2014-02-04"/>
+    <cosponsor thomas_id="01501" joined="2014-02-04"/>
+    <cosponsor thomas_id="00683" joined="2014-02-04"/>
+    <cosponsor thomas_id="01653" joined="2014-02-04"/>
+    <cosponsor thomas_id="01504" joined="2014-02-04"/>
+    <cosponsor thomas_id="01910" joined="2014-02-04"/>
+    <cosponsor thomas_id="00944" joined="2014-02-04"/>
+    <cosponsor thomas_id="01982" joined="2014-02-04"/>
+    <cosponsor thomas_id="01757" joined="2014-02-04"/>
+    <cosponsor thomas_id="01069" joined="2014-02-04"/>
+    <cosponsor thomas_id="01890" joined="2014-02-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-02-04" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2014-02-07">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="113" relation="identical" number="50"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Cancer"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Health promotion and preventive care"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/2014--Introduced.
+Expresses support for the designation of National Cancer Prevention Day.</summary>
+</bill>

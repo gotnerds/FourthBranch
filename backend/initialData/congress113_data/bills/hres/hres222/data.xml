@@ -1,0 +1,111 @@
+<bill session="113" type="hr" number="222" updated="2014-08-14T12:46:31-04:00">
+  <state datetime="2013-08-02T10:33:00-04:00">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2013-08-02T10:33:00-04:00"/>
+  </status>
+  <introduced datetime="2013-05-17"/>
+  <titles>
+    <title type="official" as="introduced">Recognizing the long-term partnership and friendship between the United States and the Hashemite Kingdom of Jordan, working together towards peace and security in the Middle East.</title>
+  </titles>
+  <sponsor thomas_id="01506"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2013-06-25"/>
+    <cosponsor thomas_id="02135" joined="2013-06-14"/>
+    <cosponsor thomas_id="01787" joined="2013-05-17"/>
+    <cosponsor thomas_id="01889" joined="2013-06-27"/>
+    <cosponsor thomas_id="02055" joined="2013-07-09"/>
+    <cosponsor thomas_id="01790" joined="2013-05-17"/>
+    <cosponsor thomas_id="02098" joined="2013-06-14"/>
+    <cosponsor thomas_id="01643" joined="2013-07-22"/>
+    <cosponsor thomas_id="01604" joined="2013-06-25"/>
+    <cosponsor thomas_id="01976" joined="2013-05-17"/>
+    <cosponsor thomas_id="01857" joined="2013-07-09"/>
+    <cosponsor thomas_id="00344" joined="2013-05-17"/>
+    <cosponsor thomas_id="02125" joined="2013-07-09"/>
+    <cosponsor thomas_id="00367" joined="2013-05-17"/>
+    <cosponsor thomas_id="01793" joined="2013-05-17"/>
+    <cosponsor thomas_id="02119" joined="2013-06-14"/>
+    <cosponsor thomas_id="01487" joined="2013-06-25"/>
+    <cosponsor thomas_id="02041" joined="2013-05-17"/>
+    <cosponsor thomas_id="00511" joined="2013-05-17"/>
+    <cosponsor thomas_id="01794" joined="2013-06-25"/>
+    <cosponsor thomas_id="00635" joined="2013-06-27"/>
+    <cosponsor thomas_id="02014" joined="2013-06-25"/>
+    <cosponsor thomas_id="01834" joined="2013-06-27"/>
+    <cosponsor thomas_id="01668" joined="2013-06-27"/>
+    <cosponsor thomas_id="02111" joined="2013-06-27"/>
+    <cosponsor thomas_id="00709" joined="2013-05-17"/>
+    <cosponsor thomas_id="01653" joined="2013-06-25"/>
+    <cosponsor thomas_id="01504" joined="2013-06-27"/>
+    <cosponsor thomas_id="02142" joined="2013-06-14"/>
+    <cosponsor thomas_id="02148" joined="2013-06-25"/>
+    <cosponsor thomas_id="00832" joined="2013-05-17"/>
+    <cosponsor thomas_id="02034" joined="2013-06-14"/>
+    <cosponsor thomas_id="02118" joined="2013-06-14"/>
+    <cosponsor thomas_id="00979" joined="2013-07-09"/>
+    <cosponsor thomas_id="00985" joined="2013-07-30"/>
+    <cosponsor thomas_id="00998" joined="2013-06-27"/>
+    <cosponsor thomas_id="01635" joined="2013-05-17"/>
+    <cosponsor thomas_id="02124" joined="2013-06-25"/>
+    <cosponsor thomas_id="01526" joined="2013-06-25"/>
+    <cosponsor thomas_id="01114" joined="2013-07-09"/>
+    <cosponsor thomas_id="01151" joined="2013-06-25"/>
+    <cosponsor thomas_id="01729" joined="2013-07-09"/>
+    <cosponsor thomas_id="02161" joined="2013-05-17"/>
+    <cosponsor thomas_id="02165" joined="2013-06-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-17" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2013-06-07">
+      <text>Referred to the Subcommittee on Middle East and North Africa.</text>
+    </action>
+    <action datetime="2013-06-27">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2013-06-27" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+    </calendar>
+    <action datetime="2013-08-02T10:33:00-04:00">
+      <text>Mr. Royce asked unanimous consent to discharge from committee and consider.</text>
+    </action>
+    <action datetime="2013-08-02T10:33:00-04:00">
+      <text>Committee on Foreign Affairs discharged.</text>
+    </action>
+    <action datetime="2013-08-02T10:33:00-04:00">
+      <text>Considered by unanimous consent.</text>
+      <reference ref="CR H5361-5362" label="consideration"/>
+      <reference ref="CR H5361" label="text of measure as introduced"/>
+    </action>
+    <vote how="without objection" type="vote" datetime="2013-08-02T10:33:00-04:00" where="h" result="pass" state="PASSED:SIMPLERES">
+      <text>On agreeing to the resolution Agreed to without objection.</text>
+    </vote>
+    <action datetime="2013-08-02T10:34:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral, Markup, Discharged, In Committee"/>
+    <committee subcommittee="Middle East and North Africa" code="HSFA13" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Conflicts and wars"/>
+    <term name="Congressional tributes"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Jordan"/>
+    <term name="Middle East"/>
+    <term name="Refugees, asylum, displaced persons"/>
+    <term name="Syria"/>
+  </subjects>
+  <amendments>
+    <amendment number="h460"/>
+    <amendment number="h461"/>
+  </amendments>
+  <summary>8/2/2013--Passed House amended.
+Commends: (1) the people and government of the Hashemite Kingdom of Jordan for their friendship with the United States and commitment to peace, security, and stability in the Middle East; and (2) Jordan for its response to the Syrian humanitarian crisis.
+
+ Supports Jordan as it faces regional challenges and works toward a more peaceful Middle East.</summary>
+</bill>

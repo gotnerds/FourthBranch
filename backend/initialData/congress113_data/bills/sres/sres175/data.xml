@@ -1,0 +1,71 @@
+<bill session="113" type="sr" number="175" updated="2014-08-14T13:41:20-04:00">
+  <state datetime="2013-06-19">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="2013-06-19"/>
+  </status>
+  <introduced datetime="2013-06-19"/>
+  <titles>
+    <title type="official" as="introduced">A resolution observing Juneteenth Independence Day, June 19, 1865, the day on which slavery finally came to an end in the United States.</title>
+  </titles>
+  <sponsor thomas_id="01384"/>
+  <cosponsors>
+    <cosponsor thomas_id="01558" joined="2013-06-19"/>
+    <cosponsor thomas_id="01898" joined="2013-06-19"/>
+    <cosponsor thomas_id="00116" joined="2013-06-19"/>
+    <cosponsor thomas_id="00136" joined="2013-06-19"/>
+    <cosponsor thomas_id="00174" joined="2013-06-19"/>
+    <cosponsor thomas_id="01828" joined="2013-06-19"/>
+    <cosponsor thomas_id="00213" joined="2013-06-19"/>
+    <cosponsor thomas_id="01984" joined="2013-06-19"/>
+    <cosponsor thomas_id="01692" joined="2013-06-19"/>
+    <cosponsor thomas_id="02189" joined="2013-06-19"/>
+    <cosponsor thomas_id="02175" joined="2013-06-19"/>
+    <cosponsor thomas_id="00326" joined="2013-06-19"/>
+    <cosponsor thomas_id="01866" joined="2013-06-19"/>
+    <cosponsor thomas_id="01902" joined="2013-06-19"/>
+    <cosponsor thomas_id="00501" joined="2013-06-19"/>
+    <cosponsor thomas_id="02176" joined="2013-06-19"/>
+    <cosponsor thomas_id="01546" joined="2013-06-19"/>
+    <cosponsor thomas_id="01383" joined="2013-06-19"/>
+    <cosponsor thomas_id="00802" joined="2013-06-19"/>
+    <cosponsor thomas_id="01409" joined="2013-06-19"/>
+    <cosponsor thomas_id="00859" joined="2013-06-19"/>
+    <cosponsor thomas_id="01701" joined="2013-06-19"/>
+    <cosponsor thomas_id="01896" joined="2013-06-19"/>
+    <cosponsor thomas_id="02084" joined="2013-06-19"/>
+    <cosponsor thomas_id="01036" joined="2013-06-19"/>
+    <cosponsor thomas_id="01548" joined="2013-06-19"/>
+    <cosponsor thomas_id="01901" joined="2013-06-19"/>
+    <cosponsor thomas_id="01531" joined="2013-06-19"/>
+    <cosponsor thomas_id="01595" joined="2013-06-19"/>
+    <cosponsor thomas_id="01567" joined="2013-06-19"/>
+    <cosponsor thomas_id="01897" joined="2013-06-19"/>
+    <cosponsor thomas_id="02182" joined="2013-06-19"/>
+    <cosponsor thomas_id="01823" joined="2013-06-19"/>
+    <cosponsor thomas_id="01226" joined="2013-06-19"/>
+  </cosponsors>
+  <actions>
+    <vote how="by Unanimous Consent" type="vote" datetime="2013-06-19" where="s" result="pass" state="PASSED:SIMPLERES">
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.</text>
+      <reference ref="CR S4725" label="consideration"/>
+      <reference ref="CR S4675-4676" label="text as passed Senate"/>
+    </vote>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill type="hr" session="113" relation="unknown" number="268"/>
+    <bill type="hr" session="113" relation="unknown" number="632"/>
+    <bill type="sr" session="113" relation="unknown" number="474"/>
+  </relatedbills>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Racial and ethnic relations"/>
+    <term name="U.S. history"/>
+  </subjects>
+  <amendments/>
+  <summary>6/19/2013--Passed Senate without amendment.
+Recognizes the historical significance of Juneteenth Independence Day (June 19, 1865, the day Union soldiers arrived in Galveston, Texas, with news that the Civil War had ended and that the enslaved African Americans were free) and supports the continued nationwide celebration of such Day to learn more about the past and to better understand the experiences that have shaped the United States.
+
+Recognizes that the observance of the end of slavery is a part of the history and heritage of the United States.</summary>
+</bill>

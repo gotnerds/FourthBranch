@@ -1,0 +1,51 @@
+<bill session="113" type="h" number="2141" updated="2014-08-14T13:09:33-04:00">
+  <state datetime="2013-05-23">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-23"/>
+  </status>
+  <introduced datetime="2013-05-23"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to allow Head Start teachers the same above-the-line deduction for supplies as is allowed to elementary and secondary school teachers.</title>
+  </titles>
+  <sponsor thomas_id="02153"/>
+  <cosponsors>
+    <cosponsor thomas_id="01996" joined="2013-07-23"/>
+    <cosponsor thomas_id="00132" joined="2013-06-04"/>
+    <cosponsor thomas_id="02159" joined="2013-07-11"/>
+    <cosponsor thomas_id="01839" joined="2013-06-06"/>
+    <cosponsor thomas_id="01654" joined="2013-07-16"/>
+    <cosponsor thomas_id="01490" joined="2013-06-04"/>
+    <cosponsor thomas_id="02149" joined="2013-06-04"/>
+    <cosponsor thomas_id="01907" joined="2013-06-04"/>
+    <cosponsor thomas_id="01501" joined="2013-07-18"/>
+    <cosponsor thomas_id="00867" joined="2013-06-04"/>
+    <cosponsor thomas_id="00868" joined="2013-05-23"/>
+    <cosponsor thomas_id="02097" joined="2013-07-16"/>
+    <cosponsor thomas_id="01929" joined="2013-06-04"/>
+    <cosponsor thomas_id="01910" joined="2013-05-23"/>
+    <cosponsor thomas_id="02110" joined="2014-07-07"/>
+    <cosponsor thomas_id="02112" joined="2013-05-23"/>
+    <cosponsor thomas_id="02167" joined="2013-06-04"/>
+    <cosponsor thomas_id="01207" joined="2013-06-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-23" state="REFERRED">
+      <text>Referred to the House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Child health"/>
+    <term name="Family services"/>
+    <term name="Income tax deductions"/>
+    <term name="Preschool education"/>
+    <term name="Teaching, teachers, curricula"/>
+  </subjects>
+  <amendments/>
+  <summary>5/23/2013--Introduced.
+Amends the Internal Revenue Code to define a teacher who works in a Head Start program for at least 700 hours during a school year as an eligible educator for purposes of the tax deduction for educational supplies (books, computer equipment, and other equipment and supplementary materials used in the classroom).</summary>
+</bill>

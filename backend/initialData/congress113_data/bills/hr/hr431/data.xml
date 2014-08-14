@@ -1,0 +1,77 @@
+<bill session="113" type="h" number="431" updated="2014-08-14T12:54:25-04:00">
+  <state datetime="2013-01-25">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-25"/>
+  </status>
+  <introduced datetime="2013-01-25"/>
+  <titles>
+    <title type="short" as="introduced">Gun Transparency and Accountability (Gun TRAC) Act of 2013</title>
+    <title type="official" as="introduced">To restore certain authorities of the Bureau of Alcohol, Tobacco, Firearms, and Explosives to administer the firearms laws, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01890"/>
+  <cosponsors>
+    <cosponsor thomas_id="01740" joined="2013-01-25"/>
+    <cosponsor thomas_id="00099" joined="2013-05-07"/>
+    <cosponsor thomas_id="02092" joined="2013-01-25"/>
+    <cosponsor thomas_id="02055" joined="2013-01-25"/>
+    <cosponsor thomas_id="01864" joined="2013-01-25"/>
+    <cosponsor thomas_id="00229" joined="2013-01-25"/>
+    <cosponsor thomas_id="01857" joined="2013-01-25"/>
+    <cosponsor thomas_id="02114" joined="2013-03-11"/>
+    <cosponsor thomas_id="00368" joined="2013-01-25"/>
+    <cosponsor thomas_id="01708" joined="2013-01-25"/>
+    <cosponsor thomas_id="01913" joined="2013-04-18"/>
+    <cosponsor thomas_id="01580" joined="2013-01-25"/>
+    <cosponsor thomas_id="00729" joined="2013-02-05"/>
+    <cosponsor thomas_id="01814" joined="2013-01-25"/>
+    <cosponsor thomas_id="01653" joined="2013-02-05"/>
+    <cosponsor thomas_id="01504" joined="2013-02-05"/>
+    <cosponsor thomas_id="01506" joined="2013-01-25"/>
+    <cosponsor thomas_id="01602" joined="2013-04-18"/>
+    <cosponsor thomas_id="00868" joined="2013-01-25"/>
+    <cosponsor thomas_id="01927" joined="2013-01-25"/>
+    <cosponsor thomas_id="00944" joined="2013-02-05"/>
+    <cosponsor thomas_id="01588" joined="2013-01-25"/>
+    <cosponsor thomas_id="01798" joined="2013-01-25"/>
+    <cosponsor thomas_id="01069" joined="2013-01-25"/>
+    <cosponsor thomas_id="02104" joined="2013-02-05"/>
+    <cosponsor thomas_id="01535" joined="2013-02-05"/>
+    <cosponsor thomas_id="01884" joined="2013-03-11"/>
+    <cosponsor thomas_id="01729" joined="2013-01-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-25" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-02-28">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, And Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="427"/>
+    <bill type="h" session="113" relation="unknown" number="661"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Business records"/>
+    <term name="Civil actions and liability"/>
+    <term name="Criminal justice information and records"/>
+    <term name="Evidence and witnesses"/>
+    <term name="Firearms and explosives"/>
+    <term name="Government information and archives"/>
+    <term name="Judicial procedure and administration"/>
+    <term name="Licensing and registrations"/>
+    <term name="Retail and wholesale trades"/>
+  </subjects>
+  <amendments/>
+  <summary>1/25/2013--Introduced.
+Gun Transparency and Accountability (Gun TRAC) Act of 2013 - Declares that the contents of the Firearms Trace System database maintained by the National Trace Center of the Bureau of Alcohol, Tobacco, Firearms, and Explosives (ATF) shall not be immune from legal process, shall be subject to subpoena or other discovery, shall be admissible as evidence, and may be used, relied on, or disclosed on the same basis as other information in a civil action in any state or federal court or in an administrative proceeding.
+
+Amends the federal criminal code to: (1) prohibit national instant criminal background check system records from being destroyed until after 90 days after the system assigns and provides a firearms licensee with a unique identification number for the transfer, (2) set forth penalties for the willful violation of an inventory reporting order by a firearms licensee, and (3) prohibit the Attorney General from accepting an application for a federal firearms license from a person whose license has been revoked.
+
+Amends the Consolidated and Further Continuing Appropriations Act, 2012, to repeal provisions that prohibit appropriated funds from being used: (1) for any background check system that does not require the destruction of any identifying information submitted for a transferee within 24 hours after the system advises a licensee that the transferee's receipt of a firearm is not prohibited; or (2) to promulgate or implement any rule requiring a physical inventory of any firearms business.</summary>
+</bill>

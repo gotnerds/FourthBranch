@@ -1,0 +1,135 @@
+<bill session="113" type="h" number="1910" updated="2014-08-14T13:07:00-04:00">
+  <state datetime="2013-05-09">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-09"/>
+  </status>
+  <introduced datetime="2013-05-09"/>
+  <titles>
+    <title type="short" as="introduced">Foreign Manufacturers Legal Accountability Act of 2013</title>
+    <title type="official" as="introduced">To require foreign manufacturers of products imported into the United States to establish registered agents in the United States who are authorized to accept service of process against such manufacturers.</title>
+  </titles>
+  <sponsor thomas_id="02159"/>
+  <cosponsors>
+    <cosponsor thomas_id="00021" joined="2013-05-09"/>
+    <cosponsor thomas_id="02092" joined="2013-05-09"/>
+    <cosponsor thomas_id="01469" joined="2013-05-09"/>
+    <cosponsor thomas_id="01845" joined="2013-05-09"/>
+    <cosponsor thomas_id="02106" joined="2013-06-04"/>
+    <cosponsor thomas_id="01564" joined="2014-07-30"/>
+    <cosponsor thomas_id="01889" joined="2013-05-14"/>
+    <cosponsor thomas_id="01878" joined="2013-05-09"/>
+    <cosponsor thomas_id="00229" joined="2013-05-09"/>
+    <cosponsor thomas_id="01836" joined="2013-05-09"/>
+    <cosponsor thomas_id="00279" joined="2013-06-04"/>
+    <cosponsor thomas_id="00303" joined="2013-05-09"/>
+    <cosponsor thomas_id="01894" joined="2013-05-09"/>
+    <cosponsor thomas_id="01857" joined="2013-05-09"/>
+    <cosponsor thomas_id="02125" joined="2013-05-09"/>
+    <cosponsor thomas_id="00355" joined="2014-05-19"/>
+    <cosponsor thomas_id="01914" joined="2013-05-09"/>
+    <cosponsor thomas_id="00462" joined="2013-05-09"/>
+    <cosponsor thomas_id="00511" joined="2013-05-09"/>
+    <cosponsor thomas_id="01794" joined="2013-07-18"/>
+    <cosponsor thomas_id="00588" joined="2013-05-23"/>
+    <cosponsor thomas_id="00599" joined="2013-05-23"/>
+    <cosponsor thomas_id="01843" joined="2013-05-09"/>
+    <cosponsor thomas_id="00612" joined="2013-05-09"/>
+    <cosponsor thomas_id="02154" joined="2013-05-09"/>
+    <cosponsor thomas_id="00616" joined="2013-11-14"/>
+    <cosponsor thomas_id="02025" joined="2013-05-09"/>
+    <cosponsor thomas_id="02190" joined="2014-01-07"/>
+    <cosponsor thomas_id="02145" joined="2013-05-09"/>
+    <cosponsor thomas_id="01501" joined="2013-06-04"/>
+    <cosponsor thomas_id="01686" joined="2013-09-25"/>
+    <cosponsor thomas_id="01503" joined="2013-05-09"/>
+    <cosponsor thomas_id="01653" joined="2013-06-04"/>
+    <cosponsor thomas_id="01504" joined="2013-06-04"/>
+    <cosponsor thomas_id="01730" joined="2013-05-09"/>
+    <cosponsor thomas_id="02117" joined="2013-06-05"/>
+    <cosponsor thomas_id="00868" joined="2013-05-09"/>
+    <cosponsor thomas_id="02097" joined="2013-05-21"/>
+    <cosponsor thomas_id="01835" joined="2013-05-09"/>
+    <cosponsor thomas_id="01929" joined="2013-05-09"/>
+    <cosponsor thomas_id="00910" joined="2013-10-22"/>
+    <cosponsor thomas_id="02171" joined="2013-05-09"/>
+    <cosponsor thomas_id="01915" joined="2013-08-02"/>
+    <cosponsor thomas_id="01756" joined="2013-05-09"/>
+    <cosponsor thomas_id="01757" joined="2013-05-09"/>
+    <cosponsor thomas_id="01861" joined="2013-05-09"/>
+    <cosponsor thomas_id="02104" joined="2013-07-17"/>
+    <cosponsor thomas_id="01535" joined="2013-05-09"/>
+    <cosponsor thomas_id="01741" joined="2013-05-09"/>
+    <cosponsor thomas_id="02167" joined="2013-05-09"/>
+    <cosponsor thomas_id="01777" joined="2013-06-04"/>
+    <cosponsor thomas_id="02004" joined="2013-06-04"/>
+    <cosponsor thomas_id="01853" joined="2013-05-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-09" state="REFERRED">
+      <text>Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, and Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-05-09">
+      <text>Referred to House Energy and Commerce</text>
+    </action>
+    <action datetime="2013-05-09">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-05-09">
+      <text>Referred to House Agriculture</text>
+    </action>
+    <action datetime="2013-05-10">
+      <text>Referred to the Subcommittee on Commerce, Manufacturing, and Trade.</text>
+    </action>
+    <action datetime="2013-05-22">
+      <text>Referred to the Subcommittee on Horticulture, Research, Biotechnology, and Foreign Agriculture.</text>
+    </action>
+    <action datetime="2013-05-23">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H2916-2917"/>
+    </action>
+    <action datetime="2013-06-03">
+      <text>Referred to the Subcommittee on Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Commerce, Manufacturing, and Trade" code="HSIF17" name="House Energy and Commerce" activity="Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee subcommittee="Trade" code="HSWM04" name="House Ways and Means" activity="Referral"/>
+    <committee subcommittee="" code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee subcommittee="Horticulture, Research, Biotechnology, and Foreign Agriculture" code="HSAG14" name="House Agriculture" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Agricultural trade"/>
+    <term name="Civil actions and liability"/>
+    <term name="Consumer Product Safety Commission"/>
+    <term name="Department of Commerce"/>
+    <term name="Department of Homeland Security"/>
+    <term name="Drug safety, medical device, and laboratory regulation"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Food supply, safety, and labeling"/>
+    <term name="Government information and archives"/>
+    <term name="Government studies and investigations"/>
+    <term name="Hazardous wastes and toxic substances"/>
+    <term name="Jurisdiction and venue"/>
+    <term name="Manufacturing"/>
+    <term name="Product safety and quality"/>
+    <term name="Trade restrictions"/>
+  </subjects>
+  <amendments/>
+  <summary>5/9/2013--Introduced.
+Foreign Manufacturers Legal Accountability Act of 2013 - Expresses the sense of Congress with respect to jurisdiction of courts in the United States over foreign manufacturers that import products into the United States.
+
+Directs the Food and Drug Administration (FDA) (with respect to drugs, devices, cosmetics, and biological products), the Consumer Product Safety Commission (CPSC) (with respect to consumer products), and the Environmental Protection Agency (EPA) (with respect to chemical substances, new chemical substances, and pesticides) to require foreign manufacturers and producers of such products (or components used to manufacture them), in excess of a minimum value or quantity, to establish a registered agent in the United States authorized to accept service of process on their behalf for the purpose of any state or federal regulatory proceeding or civil action in state or federal court.
+
+Deems a foreign manufacturer or producer of products covered under this Act that registers an agent to consent to the personal jurisdiction of the state or federal courts of the state in which the agent is located for the purpose of any civil or regulatory proceeding.
+
+Requires any person who imports into the United States a covered product manufactured or produced outside the United States to provide to the U.S. Customs and Border Protection (CBP) a declaration that to the best of the person's knowledge, with respect to the importation of each covered product, the foreign manufacturer or producer of the product has registered an agent in the United States. Directs the CBP Commissioner to prescribe related regulations.
+
+Subjects an importer who fails to provide or files a false declaration to certain penalties. Requires the Secretary of Agriculture and the Commissioner of Food and Drugs jointly to study the feasibility and advisability of requiring foreign producers of food distributed in commerce to establish a registered agent in the United States who is authorized to accept service of process on behalf of such producers for the purpose of all civil and regulatory actions in state and federal courts.
+
+Requires the head of each agency cited in this Act similarly to study feasible and advisable methods of requiring foreign manufacturers or producers of component parts of covered products distributed in U.S. commerce to establish registered agents in the United States for purposes of such service of process.</summary>
+</bill>

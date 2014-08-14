@@ -1,0 +1,71 @@
+<bill session="113" type="h" number="1824" updated="2014-08-14T13:06:16-04:00">
+  <state datetime="2013-04-30">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-30"/>
+  </status>
+  <introduced datetime="2013-04-30"/>
+  <titles>
+    <title type="short" as="introduced">VA Regional Office Accountability Act</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to require the Secretary of Veterans Affairs to submit to Congress an annual report on the performance of the regional offices of the Department of Veterans Affairs.</title>
+  </titles>
+  <sponsor thomas_id="02148"/>
+  <cosponsors>
+    <cosponsor thomas_id="02093" joined="2013-04-30"/>
+    <cosponsor thomas_id="02106" joined="2013-05-09"/>
+    <cosponsor thomas_id="02107" joined="2013-04-30"/>
+    <cosponsor thomas_id="01889" joined="2013-05-15"/>
+    <cosponsor thomas_id="02055" joined="2013-05-24"/>
+    <cosponsor thomas_id="01878" joined="2013-05-24"/>
+    <cosponsor thomas_id="00229" joined="2013-04-30"/>
+    <cosponsor thomas_id="00279" joined="2013-04-30"/>
+    <cosponsor thomas_id="02122" joined="2013-04-30"/>
+    <cosponsor thomas_id="01708" joined="2013-07-09"/>
+    <cosponsor thomas_id="02010" joined="2013-05-09"/>
+    <cosponsor thomas_id="01794" joined="2013-04-30"/>
+    <cosponsor thomas_id="02147" joined="2013-04-30"/>
+    <cosponsor thomas_id="00612" joined="2013-04-30"/>
+    <cosponsor thomas_id="02190" joined="2013-08-02"/>
+    <cosponsor thomas_id="01907" joined="2013-04-30"/>
+    <cosponsor thomas_id="02145" joined="2013-04-30"/>
+    <cosponsor thomas_id="01936" joined="2013-04-30"/>
+    <cosponsor thomas_id="01501" joined="2013-05-15"/>
+    <cosponsor thomas_id="00701" joined="2013-05-09"/>
+    <cosponsor thomas_id="01943" joined="2013-04-30"/>
+    <cosponsor thomas_id="01503" joined="2013-05-09"/>
+    <cosponsor thomas_id="01504" joined="2013-05-09"/>
+    <cosponsor thomas_id="01505" joined="2013-04-30"/>
+    <cosponsor thomas_id="02162" joined="2013-04-30"/>
+    <cosponsor thomas_id="02109" joined="2013-05-24"/>
+    <cosponsor thomas_id="01861" joined="2013-05-24"/>
+    <cosponsor thomas_id="02099" joined="2013-04-30"/>
+    <cosponsor thomas_id="01069" joined="2013-04-30"/>
+    <cosponsor thomas_id="02104" joined="2013-05-24"/>
+    <cosponsor thomas_id="01209" joined="2013-05-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-30" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-05-08">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee subcommittee="Disability Assistance and Memorial Affairs" code="HSVR09" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="4435"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Administrative remedies"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Performance measurement"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>4/30/2013--Introduced.
+VA Regional Office Accountability Act - Directs the Secretary of Veterans Affairs to include in a required annual report on Department of Veterans Affairs (VA) expenditures and activities a report on each VA regional office that failed to reach administrative goals concerning the timeliness and accuracy of veterans' claims adjudication.</summary>
+</bill>

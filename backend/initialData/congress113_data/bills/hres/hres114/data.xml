@@ -1,0 +1,70 @@
+<bill session="113" type="hr" number="114" updated="2014-08-14T12:45:37-04:00">
+  <state datetime="2013-03-13">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-13"/>
+  </status>
+  <introduced datetime="2013-03-13"/>
+  <titles>
+    <title type="official" as="introduced">Recognizing the Sabin Vaccine Institute on the 20th anniversary of its founding.</title>
+  </titles>
+  <sponsor thomas_id="01803"/>
+  <cosponsors>
+    <cosponsor thomas_id="00062" joined="2013-03-13"/>
+    <cosponsor thomas_id="01468" joined="2013-03-13"/>
+    <cosponsor thomas_id="01751" joined="2013-03-13"/>
+    <cosponsor thomas_id="01752" joined="2013-03-13"/>
+    <cosponsor thomas_id="02163" joined="2013-03-13"/>
+    <cosponsor thomas_id="01805" joined="2013-03-13"/>
+    <cosponsor thomas_id="01807" joined="2013-03-13"/>
+    <cosponsor thomas_id="00303" joined="2013-03-13"/>
+    <cosponsor thomas_id="02067" joined="2013-03-13"/>
+    <cosponsor thomas_id="02065" joined="2013-03-13"/>
+    <cosponsor thomas_id="02164" joined="2013-03-13"/>
+    <cosponsor thomas_id="00462" joined="2013-03-13"/>
+    <cosponsor thomas_id="00484" joined="2013-03-14"/>
+    <cosponsor thomas_id="01749" joined="2013-06-04"/>
+    <cosponsor thomas_id="01490" joined="2013-03-13"/>
+    <cosponsor thomas_id="00588" joined="2013-03-13"/>
+    <cosponsor thomas_id="00599" joined="2013-03-13"/>
+    <cosponsor thomas_id="00603" joined="2013-03-13"/>
+    <cosponsor thomas_id="01804" joined="2013-03-13"/>
+    <cosponsor thomas_id="01758" joined="2013-03-13"/>
+    <cosponsor thomas_id="02162" joined="2013-03-13"/>
+    <cosponsor thomas_id="01955" joined="2013-03-13"/>
+    <cosponsor thomas_id="01802" joined="2013-03-13"/>
+    <cosponsor thomas_id="01525" joined="2013-03-13"/>
+    <cosponsor thomas_id="01075" joined="2013-03-13"/>
+    <cosponsor thomas_id="02166" joined="2013-03-13"/>
+    <cosponsor thomas_id="02167" joined="2013-03-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-13" state="REFERRED">
+      <text>Referred to the House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="2013-03-22">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee subcommittee="Health" code="HSIF14" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Congressional tributes"/>
+    <term name="Health care coverage and access"/>
+    <term name="Health facilities and institutions"/>
+    <term name="Health promotion and preventive care"/>
+    <term name="Infectious and parasitic diseases"/>
+    <term name="Medical research"/>
+    <term name="Prescription drugs"/>
+    <term name="Texas"/>
+  </subjects>
+  <amendments/>
+  <summary>3/13/2013--Introduced.
+Recognizes the Sabin Vaccine Institute on 20 years of success.
+
+Expresses support for the efforts of the Institute, Texas Children's Hospital, and Baylor College of Medicine to reduce the prevalence of neglected tropical diseases by developing new vaccines, advocating for increased use of existing vaccines, and expanding access to affordable medicine for the world's poorest people.</summary>
+</bill>

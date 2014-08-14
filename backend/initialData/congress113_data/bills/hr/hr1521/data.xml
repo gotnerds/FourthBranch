@@ -1,0 +1,66 @@
+<bill session="113" type="h" number="1521" updated="2014-08-14T13:03:38-04:00">
+  <state datetime="2013-04-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-12"/>
+  </status>
+  <introduced datetime="2013-04-12"/>
+  <titles>
+    <title type="short" as="introduced">Disabled Veterans Red Tape Reduction Act</title>
+    <title type="official" as="introduced">To provide for a five-year extension of the authority of the Secretary of Veterans Affairs to provide for the conduct of medical disability examinations by contract physicians.</title>
+  </titles>
+  <sponsor thomas_id="02150"/>
+  <cosponsors>
+    <cosponsor thomas_id="02093" joined="2013-10-22"/>
+    <cosponsor thomas_id="01740" joined="2013-05-22"/>
+    <cosponsor thomas_id="02106" joined="2013-05-08"/>
+    <cosponsor thomas_id="02055" joined="2013-04-26"/>
+    <cosponsor thomas_id="01976" joined="2013-07-09"/>
+    <cosponsor thomas_id="02119" joined="2013-05-17"/>
+    <cosponsor thomas_id="02145" joined="2013-04-26"/>
+    <cosponsor thomas_id="01501" joined="2013-05-17"/>
+    <cosponsor thomas_id="00701" joined="2013-06-11"/>
+    <cosponsor thomas_id="01503" joined="2013-05-08"/>
+    <cosponsor thomas_id="01505" joined="2013-04-26"/>
+    <cosponsor thomas_id="02162" joined="2013-05-08"/>
+    <cosponsor thomas_id="01835" joined="2013-06-03"/>
+    <cosponsor thomas_id="00940" joined="2013-05-08"/>
+    <cosponsor thomas_id="01798" joined="2013-05-17"/>
+    <cosponsor thomas_id="01861" joined="2013-05-22"/>
+    <cosponsor thomas_id="01069" joined="2013-05-22"/>
+    <cosponsor thomas_id="02104" joined="2013-06-03"/>
+    <cosponsor thomas_id="01535" joined="2013-09-11"/>
+    <cosponsor thomas_id="01209" joined="2013-05-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-12" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-04-18">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H2148"/>
+    </action>
+    <action datetime="2013-04-26">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee subcommittee="Disability Assistance and Memorial Affairs" code="HSVR09" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="2079"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Department of Veterans Affairs"/>
+    <term name="Disability and paralysis"/>
+    <term name="Disability assistance"/>
+    <term name="Health personnel"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Veterans' medical care"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>4/12/2013--Introduced.
+Disabled Veterans Red Tape Reduction Act - Amends the Veterans Benefits Act of 2003 to extend through 2018 Department of Veterans Affairs (VA) authority for the performance of medical disability evaluations by contract physicians.</summary>
+</bill>

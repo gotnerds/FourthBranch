@@ -1,0 +1,67 @@
+<bill session="113" type="h" number="5272" updated="2014-08-14T13:36:30-04:00">
+  <state datetime="2014-08-01T21:56:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-08-01T21:56:00-04:00"/>
+  </status>
+  <introduced datetime="2014-07-30"/>
+  <titles>
+    <title type="official" as="introduced">To prohibit certain actions with respect to deferred action for aliens not lawfully present in the United States, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01748"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-30" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2014-07-30T23:48:00-04:00">
+      <text>Rules Committee Resolution H. Res. 696 Reported to House. The rule makes in order one hour of debate each for H.R. 5230 and H.R. 5272. The rule also makes in order for one hour debate on a motion that the House disagree to the Senate amendment to H.R. 5021. Any motion pursuant to clause 4 of rule XXII relating to H.R. 5021 may be offered only by the Majority Leader or his designee. It shall be in order at any time on the legislative day of July 31, 2014 for the Speaker to entertain motions to suspend the rules.</text>
+    </action>
+    <action datetime="2014-08-01T17:40:00-04:00">
+      <text>Rules Committee Resolution H. Res. 710 Reported to House. Provides for further consideration of H.R. 5230 and for consideration of H.R. 5272. Both bills are debatable for 1 hour. The amendments to H.R. 5230printed in part A of the report shall be considered as adopted. The amendment to H.R. 5272 printed in Part B of the report shall be considered as adopted. The rule provides for one motion to recommit with or without instructions for each measure. The rule amends section 2 of H.Res. 700 to allow for motions to suspend the rules with respect to a measure addressing missile defense of Israel.</text>
+    </action>
+    <action datetime="2014-08-01T19:08:00-04:00">
+      <text>Rule H. Res. 710 passed House.</text>
+    </action>
+    <action datetime="2014-08-01T20:41:00-04:00">
+      <text>Considered under the provisions of rule H. Res. 710.</text>
+      <reference ref="CR H7228-7236" label="consideration"/>
+    </action>
+    <action datetime="2014-08-01T20:41:00-04:00">
+      <text>Provides for further consideration of H.R. 5230 and for consideration of H.R. 5272. Both bills are debatable for 1 hour. The amendments to H.R. 5230printed in part A of the report shall be considered as adopted. The amendment to H.R. 5272 printed in Part B of the report shall be considered as adopted. The rule provides for one motion to recommit with or without instructions for each measure. The rule amends section 2 of H.Res. 700 to allow for motions to suspend the rules with respect to a measure addressing missile defense of Israel.</text>
+    </action>
+    <action datetime="2014-08-01T20:42:00-04:00">
+      <text>DEBATE - The House proceeded with one hour of debate on H.R. 5272.</text>
+    </action>
+    <action datetime="2014-08-01T21:32:00-04:00">
+      <text>The previous question was ordered pursuant to the rule.</text>
+      <reference ref="CR H7235" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="479" datetime="2014-08-01T21:56:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On passage Passed by recorded vote: 216 - 192, 1 Present (Roll no. 479).</text>
+      <reference ref="CR H7228-7229" label="text"/>
+    </vote>
+    <action datetime="2014-08-01T21:56:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-08-05">
+      <text>Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="hr" session="113" relation="unknown" number="696"/>
+    <bill type="hr" session="113" relation="rule" number="696"/>
+    <bill type="hr" session="113" relation="ruled-by" number="696"/>
+    <bill type="hr" session="113" relation="rule" number="710"/>
+  </relatedbills>
+  <subjects/>
+  <amendments>
+    <amendment number="h1133"/>
+  </amendments>
+  <summary>7/30/2014--Introduced.
+Prohibits a federal agency or instrumentality from issuing after July 30, 2014, guidance, memorandums, regulations, policies, or other similar instruments the effect of which is to:
+
+ modify the June 15, 2012 executive memorandum concerning deferred action for childhood arrivals in any manner that would expand the number of aliens eligible for deferred action; newly authorize deferred action for any class of aliens not in lawful immigration status in the United States; or newly authorize any alien (except a parolee or a crewman permitted to land temporarily) to work in the United States who was not lawfully admitted into, and not lawfully present in, the United States.</summary>
+</bill>

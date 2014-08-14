@@ -1,0 +1,26 @@
+<bill session="113" type="s" number="2727" updated="2014-08-14T14:08:02-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="short" as="introduced">Klamath Basin Water Recovery and Economic Restoration Act of 2014</title>
+    <title type="official" as="introduced">A bill to approve and implement the Klamath Basin agreements, to improve natural resource management, support economic development, and sustain agricultural production in the Klamath River Basin in the public interest and the interest of the United States, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01247"/>
+  <cosponsors>
+    <cosponsor thomas_id="01900" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

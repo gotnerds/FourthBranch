@@ -1,0 +1,164 @@
+<bill session="113" type="h" number="2996" updated="2014-08-14T13:17:00-04:00">
+  <state datetime="2014-07-25">REPORTED</state>
+  <status>
+    <unknown datetime="2014-07-25"/>
+  </status>
+  <introduced datetime="2013-08-02"/>
+  <titles>
+    <title type="short" as="introduced">Revitalize American Manufacturing and Innovation Act of 2013</title>
+    <title type="official" as="introduced">To require the Secretary of Commerce to establish the Network for Manufacturing Innovation and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01982"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2013-12-12"/>
+    <cosponsor thomas_id="02135" joined="2014-03-24"/>
+    <cosponsor thomas_id="02063" joined="2014-03-04"/>
+    <cosponsor thomas_id="01787" joined="2014-07-23"/>
+    <cosponsor thomas_id="02129" joined="2014-01-07"/>
+    <cosponsor thomas_id="02127" joined="2014-06-23"/>
+    <cosponsor thomas_id="01564" joined="2014-02-26"/>
+    <cosponsor thomas_id="02107" joined="2014-04-04"/>
+    <cosponsor thomas_id="01999" joined="2014-02-26"/>
+    <cosponsor thomas_id="00186" joined="2014-04-28"/>
+    <cosponsor thomas_id="02055" joined="2013-12-19"/>
+    <cosponsor thomas_id="02196" joined="2014-05-06"/>
+    <cosponsor thomas_id="01742" joined="2014-02-25"/>
+    <cosponsor thomas_id="02151" joined="2013-12-11"/>
+    <cosponsor thomas_id="01959" joined="2014-02-26"/>
+    <cosponsor thomas_id="02103" joined="2014-04-10"/>
+    <cosponsor thomas_id="01604" joined="2014-02-26"/>
+    <cosponsor thomas_id="02126" joined="2014-03-05"/>
+    <cosponsor thomas_id="00281" joined="2014-06-10"/>
+    <cosponsor thomas_id="00299" joined="2013-12-12"/>
+    <cosponsor thomas_id="02123" joined="2014-02-06"/>
+    <cosponsor thomas_id="02125" joined="2014-07-24"/>
+    <cosponsor thomas_id="02114" joined="2013-12-19"/>
+    <cosponsor thomas_id="02065" joined="2014-07-25"/>
+    <cosponsor thomas_id="01888" joined="2014-04-08"/>
+    <cosponsor thomas_id="02049" joined="2014-07-24"/>
+    <cosponsor thomas_id="02043" joined="2013-12-12"/>
+    <cosponsor thomas_id="01656" joined="2014-01-27"/>
+    <cosponsor thomas_id="00462" joined="2014-04-08"/>
+    <cosponsor thomas_id="01990" joined="2014-03-05"/>
+    <cosponsor thomas_id="02032" joined="2014-04-30"/>
+    <cosponsor thomas_id="01634" joined="2014-02-06"/>
+    <cosponsor thomas_id="02015" joined="2014-06-10"/>
+    <cosponsor thomas_id="01909" joined="2013-12-12"/>
+    <cosponsor thomas_id="02046" joined="2014-01-07"/>
+    <cosponsor thomas_id="00599" joined="2013-12-12"/>
+    <cosponsor thomas_id="00612" joined="2014-04-28"/>
+    <cosponsor thomas_id="02154" joined="2014-02-25"/>
+    <cosponsor thomas_id="02025" joined="2014-02-26"/>
+    <cosponsor thomas_id="02051" joined="2014-03-05"/>
+    <cosponsor thomas_id="02190" joined="2013-12-19"/>
+    <cosponsor thomas_id="02172" joined="2013-08-02"/>
+    <cosponsor thomas_id="02134" joined="2014-02-25"/>
+    <cosponsor thomas_id="02169" joined="2014-04-28"/>
+    <cosponsor thomas_id="01498" joined="2014-02-06"/>
+    <cosponsor thomas_id="00635" joined="2014-04-08"/>
+    <cosponsor thomas_id="02014" joined="2014-05-06"/>
+    <cosponsor thomas_id="02145" joined="2014-07-23"/>
+    <cosponsor thomas_id="01668" joined="2014-04-04"/>
+    <cosponsor thomas_id="01583" joined="2014-02-26"/>
+    <cosponsor thomas_id="01885" joined="2014-03-25"/>
+    <cosponsor thomas_id="00683" joined="2014-04-02"/>
+    <cosponsor thomas_id="01781" joined="2013-12-11"/>
+    <cosponsor thomas_id="01846" joined="2014-04-30"/>
+    <cosponsor thomas_id="02033" joined="2014-02-10"/>
+    <cosponsor thomas_id="01931" joined="2014-03-14"/>
+    <cosponsor thomas_id="02146" joined="2014-07-25"/>
+    <cosponsor thomas_id="01686" joined="2014-07-24"/>
+    <cosponsor thomas_id="01943" joined="2014-07-31"/>
+    <cosponsor thomas_id="01806" joined="2014-03-13"/>
+    <cosponsor thomas_id="01504" joined="2013-12-19"/>
+    <cosponsor thomas_id="01809" joined="2014-07-25"/>
+    <cosponsor thomas_id="02130" joined="2014-03-06"/>
+    <cosponsor thomas_id="01730" joined="2014-02-06"/>
+    <cosponsor thomas_id="01584" joined="2014-07-31"/>
+    <cosponsor thomas_id="02156" joined="2014-07-25"/>
+    <cosponsor thomas_id="02117" joined="2014-07-25"/>
+    <cosponsor thomas_id="00854" joined="2014-02-26"/>
+    <cosponsor thomas_id="00867" joined="2013-12-19"/>
+    <cosponsor thomas_id="02162" joined="2014-04-28"/>
+    <cosponsor thomas_id="02113" joined="2014-07-25"/>
+    <cosponsor thomas_id="00944" joined="2014-04-10"/>
+    <cosponsor thomas_id="02048" joined="2014-03-05"/>
+    <cosponsor thomas_id="01916" joined="2014-02-11"/>
+    <cosponsor thomas_id="01756" joined="2013-12-12"/>
+    <cosponsor thomas_id="02124" joined="2014-02-06"/>
+    <cosponsor thomas_id="01920" joined="2014-07-24"/>
+    <cosponsor thomas_id="01988" joined="2014-02-25"/>
+    <cosponsor thomas_id="02191" joined="2014-04-02"/>
+    <cosponsor thomas_id="02000" joined="2014-02-27"/>
+    <cosponsor thomas_id="02047" joined="2014-02-27"/>
+    <cosponsor thomas_id="01114" joined="2014-04-28"/>
+    <cosponsor thomas_id="01981" joined="2014-02-11"/>
+    <cosponsor thomas_id="02104" joined="2014-05-06"/>
+    <cosponsor thomas_id="01952" joined="2014-06-23"/>
+    <cosponsor thomas_id="01664" joined="2014-02-27"/>
+    <cosponsor thomas_id="01535" joined="2014-02-26"/>
+    <cosponsor thomas_id="01942" joined="2014-07-31"/>
+    <cosponsor thomas_id="01884" joined="2014-02-25"/>
+    <cosponsor thomas_id="01741" joined="2014-04-08"/>
+    <cosponsor thomas_id="02112" joined="2014-02-26"/>
+    <cosponsor thomas_id="02167" joined="2014-02-25"/>
+    <cosponsor thomas_id="02137" joined="2014-03-24"/>
+    <cosponsor thomas_id="02152" joined="2014-04-04"/>
+    <cosponsor thomas_id="01222" joined="2014-04-04"/>
+    <cosponsor thomas_id="01238" joined="2014-05-06"/>
+    <cosponsor thomas_id="01853" joined="2014-04-28"/>
+    <cosponsor thomas_id="02115" joined="2014-02-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-08-02" state="REFERRED">
+      <text>Referred to the Committee on Science, Space, and Technology, and in addition to the Committee on Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-08-02">
+      <text>Referred to House Science, Space, and Technology</text>
+    </action>
+    <action datetime="2013-08-02">
+      <text>Referred to House Appropriations</text>
+    </action>
+    <action datetime="2013-09-24">
+      <text>Referred to the Subcommittee on Research and Technology.</text>
+    </action>
+    <action datetime="2014-07-22">
+      <text>Subcommittee on Research and Technology Discharged.</text>
+    </action>
+    <action datetime="2014-07-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-07-25" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Voice Vote.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSSY" name="House Science, Space, and Technology" activity="Referral, Markup"/>
+    <committee subcommittee="Research and Technology" code="HSSY15" name="House Science, Space, and Technology" activity="Referral, Discharged"/>
+    <committee subcommittee="" code="HSAP" name="House Appropriations" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1468"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Advanced technology and technological innovations"/>
+    <term name="Competitiveness, trade promotion, trade deficits"/>
+    <term name="Department of Commerce"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Government trust funds"/>
+    <term name="Manufacturing"/>
+    <term name="Technology transfer and commercialization"/>
+  </subjects>
+  <amendments/>
+  <summary>8/2/2013--Introduced.
+Revitalize American Manufacturing and Innovation Act of 2013 - Amends the National Institute of Standards and Technology Act to direct the Secretary of Commerce to establish within the Institute (NIST) a Network for Manufacturing Innovation Program. Includes among Program purposes to: (1) improve the competitiveness of U.S. manufacturing and increase domestic production; (2) stimulate U.S. leadership in advanced manufacturing research, innovation, and technology; and (3) accelerate the development of an advanced manufacturing workforce.
+
+Requires the Secretary to: (1) establish a network of centers for manufacturing innovation, to be known as the Network for Manufacturing Innovation; and (2) award financial assistance to assist in planning, establishing, or supporting such centers.
+
+Directs the Secretary to establish within NIST the National Office of the Network for Manufacturing Innovation Program to: (1) oversee the Program, (2) enter into memorandums of understanding with federal agencies whose missions contribute to or are affected by advanced manufacturing, (3) develop and periodically update a strategic plan for the Program, (4) establish procedures to maximize cooperation and coordinate Program activities with those of other federal agencies, (5) establish a clearinghouse of public information related to Program activities, and (6) act as a convener of the Network.
+
+Requires the Secretary to ensure that the Office incorporates the Hollings Manufacturing Extension Partnership into Program planning to ensure that the results of the Program reach small- and medium-sized entities.
+
+Establishes in the Treasury a Network for Manufacturing Innovation Fund for carrying out the Program.</summary>
+</bill>

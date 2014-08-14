@@ -1,0 +1,32 @@
+<bill session="113" type="h" number="5133" updated="2014-08-14T13:35:17-04:00">
+  <state datetime="2014-07-17">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-17"/>
+  </status>
+  <introduced datetime="2014-07-17"/>
+  <titles>
+    <title type="short" as="introduced">Protecting Employees and Retirees in Municipal Bankruptcies Act of 2014</title>
+    <title type="official" as="introduced">To amend chapter 9 of title 11 of the United States Code to improve protections for employees and retirees in municipal bankruptcies.</title>
+  </titles>
+  <sponsor thomas_id="00229"/>
+  <cosponsors>
+    <cosponsor thomas_id="01878" joined="2014-07-17"/>
+    <cosponsor thomas_id="00588" joined="2014-07-17"/>
+    <cosponsor thomas_id="01843" joined="2014-07-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-17">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1187-1188"/>
+    </action>
+    <action datetime="2014-07-17" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

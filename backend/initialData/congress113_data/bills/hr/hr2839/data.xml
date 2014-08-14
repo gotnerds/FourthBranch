@@ -1,0 +1,199 @@
+<bill session="113" type="h" number="2839" updated="2014-08-14T13:15:41-04:00">
+  <state datetime="2013-07-25">REFERRED</state>
+  <status>
+    <introduced datetime="2013-07-25"/>
+  </status>
+  <introduced datetime="2013-07-25"/>
+  <titles>
+    <title type="short" as="introduced">Restore Honor to Service Members Act</title>
+    <title type="official" as="introduced">To direct the Secretary of Defense to review the discharge characterization of former members of the Armed Forces who were discharged by reason of the sexual orientation of the member, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02171"/>
+  <cosponsors>
+    <cosponsor thomas_id="00021" joined="2013-07-25"/>
+    <cosponsor thomas_id="01996" joined="2013-11-12"/>
+    <cosponsor thomas_id="00091" joined="2013-07-25"/>
+    <cosponsor thomas_id="01740" joined="2013-07-25"/>
+    <cosponsor thomas_id="00099" joined="2013-10-22"/>
+    <cosponsor thomas_id="02092" joined="2013-10-22"/>
+    <cosponsor thomas_id="01469" joined="2013-10-04"/>
+    <cosponsor thomas_id="02106" joined="2013-07-25"/>
+    <cosponsor thomas_id="02127" joined="2013-07-25"/>
+    <cosponsor thomas_id="01471" joined="2013-07-25"/>
+    <cosponsor thomas_id="02107" joined="2013-07-25"/>
+    <cosponsor thomas_id="01889" joined="2013-07-25"/>
+    <cosponsor thomas_id="02159" joined="2013-07-25"/>
+    <cosponsor thomas_id="01839" joined="2013-07-25"/>
+    <cosponsor thomas_id="01474" joined="2013-07-25"/>
+    <cosponsor thomas_id="01970" joined="2013-10-02"/>
+    <cosponsor thomas_id="02055" joined="2013-07-25"/>
+    <cosponsor thomas_id="01864" joined="2013-07-25"/>
+    <cosponsor thomas_id="01654" joined="2013-07-25"/>
+    <cosponsor thomas_id="01878" joined="2013-07-25"/>
+    <cosponsor thomas_id="01959" joined="2013-07-25"/>
+    <cosponsor thomas_id="00229" joined="2013-07-25"/>
+    <cosponsor thomas_id="01604" joined="2013-07-25"/>
+    <cosponsor thomas_id="00256" joined="2013-07-25"/>
+    <cosponsor thomas_id="00279" joined="2013-10-09"/>
+    <cosponsor thomas_id="02133" joined="2014-01-16"/>
+    <cosponsor thomas_id="00281" joined="2013-07-25"/>
+    <cosponsor thomas_id="02096" joined="2013-07-25"/>
+    <cosponsor thomas_id="01976" joined="2013-07-25"/>
+    <cosponsor thomas_id="00299" joined="2013-07-25"/>
+    <cosponsor thomas_id="02123" joined="2013-07-30"/>
+    <cosponsor thomas_id="01857" joined="2013-07-25"/>
+    <cosponsor thomas_id="00344" joined="2013-07-25"/>
+    <cosponsor thomas_id="02125" joined="2013-10-28"/>
+    <cosponsor thomas_id="00355" joined="2013-09-26"/>
+    <cosponsor thomas_id="02114" joined="2013-07-25"/>
+    <cosponsor thomas_id="00368" joined="2013-07-25"/>
+    <cosponsor thomas_id="00371" joined="2013-07-25"/>
+    <cosponsor thomas_id="01888" joined="2013-08-02"/>
+    <cosponsor thomas_id="02119" joined="2013-07-25"/>
+    <cosponsor thomas_id="02122" joined="2013-07-25"/>
+    <cosponsor thomas_id="01914" joined="2014-02-11"/>
+    <cosponsor thomas_id="01803" joined="2013-10-23"/>
+    <cosponsor thomas_id="01708" joined="2013-07-25"/>
+    <cosponsor thomas_id="00478" joined="2013-07-25"/>
+    <cosponsor thomas_id="02089" joined="2013-07-25"/>
+    <cosponsor thomas_id="02010" joined="2014-01-08"/>
+    <cosponsor thomas_id="00511" joined="2013-07-25"/>
+    <cosponsor thomas_id="02170" joined="2013-09-27"/>
+    <cosponsor thomas_id="01794" joined="2013-07-25"/>
+    <cosponsor thomas_id="01913" joined="2013-07-25"/>
+    <cosponsor thomas_id="01580" joined="2013-07-25"/>
+    <cosponsor thomas_id="01634" joined="2013-09-26"/>
+    <cosponsor thomas_id="02147" joined="2013-07-25"/>
+    <cosponsor thomas_id="02101" joined="2013-08-02"/>
+    <cosponsor thomas_id="01663" joined="2013-07-25"/>
+    <cosponsor thomas_id="00588" joined="2013-07-25"/>
+    <cosponsor thomas_id="00599" joined="2013-11-15"/>
+    <cosponsor thomas_id="01843" joined="2013-07-25"/>
+    <cosponsor thomas_id="00616" joined="2013-07-25"/>
+    <cosponsor thomas_id="02025" joined="2014-01-08"/>
+    <cosponsor thomas_id="02190" joined="2013-10-28"/>
+    <cosponsor thomas_id="02172" joined="2013-07-25"/>
+    <cosponsor thomas_id="02134" joined="2013-07-25"/>
+    <cosponsor thomas_id="02169" joined="2013-07-25"/>
+    <cosponsor thomas_id="01498" joined="2013-07-25"/>
+    <cosponsor thomas_id="01907" joined="2013-09-20"/>
+    <cosponsor thomas_id="02145" joined="2013-07-25"/>
+    <cosponsor thomas_id="01668" joined="2013-07-25"/>
+    <cosponsor thomas_id="01675" joined="2013-07-25"/>
+    <cosponsor thomas_id="01583" joined="2013-09-19"/>
+    <cosponsor thomas_id="01501" joined="2013-07-25"/>
+    <cosponsor thomas_id="00688" joined="2013-07-25"/>
+    <cosponsor thomas_id="00701" joined="2013-07-25"/>
+    <cosponsor thomas_id="02111" joined="2013-07-25"/>
+    <cosponsor thomas_id="00709" joined="2013-07-25"/>
+    <cosponsor thomas_id="02146" joined="2013-07-25"/>
+    <cosponsor thomas_id="01939" joined="2013-07-25"/>
+    <cosponsor thomas_id="01686" joined="2013-09-26"/>
+    <cosponsor thomas_id="01943" joined="2013-07-25"/>
+    <cosponsor thomas_id="00729" joined="2013-07-25"/>
+    <cosponsor thomas_id="02150" joined="2013-07-25"/>
+    <cosponsor thomas_id="01503" joined="2013-10-22"/>
+    <cosponsor thomas_id="01653" joined="2013-07-25"/>
+    <cosponsor thomas_id="00766" joined="2013-07-25"/>
+    <cosponsor thomas_id="01504" joined="2013-07-25"/>
+    <cosponsor thomas_id="01506" joined="2013-07-30"/>
+    <cosponsor thomas_id="02148" joined="2013-10-02"/>
+    <cosponsor thomas_id="01730" joined="2013-07-25"/>
+    <cosponsor thomas_id="00808" joined="2013-08-01"/>
+    <cosponsor thomas_id="01811" joined="2013-07-25"/>
+    <cosponsor thomas_id="00832" joined="2013-07-25"/>
+    <cosponsor thomas_id="02117" joined="2013-07-25"/>
+    <cosponsor thomas_id="01602" joined="2013-07-25"/>
+    <cosponsor thomas_id="02108" joined="2013-07-30"/>
+    <cosponsor thomas_id="00867" joined="2013-07-25"/>
+    <cosponsor thomas_id="00868" joined="2013-07-25"/>
+    <cosponsor thomas_id="02162" joined="2013-07-25"/>
+    <cosponsor thomas_id="01974" joined="2013-07-30"/>
+    <cosponsor thomas_id="00893" joined="2013-07-25"/>
+    <cosponsor thomas_id="02097" joined="2013-07-25"/>
+    <cosponsor thomas_id="01835" joined="2014-01-08"/>
+    <cosponsor thomas_id="01929" joined="2013-10-22"/>
+    <cosponsor thomas_id="02113" joined="2013-07-25"/>
+    <cosponsor thomas_id="00910" joined="2013-10-22"/>
+    <cosponsor thomas_id="01927" joined="2013-07-25"/>
+    <cosponsor thomas_id="01910" joined="2013-07-25"/>
+    <cosponsor thomas_id="00930" joined="2013-10-09"/>
+    <cosponsor thomas_id="01967" joined="2013-07-25"/>
+    <cosponsor thomas_id="00944" joined="2013-07-25"/>
+    <cosponsor thomas_id="00985" joined="2013-07-25"/>
+    <cosponsor thomas_id="00997" joined="2013-08-01"/>
+    <cosponsor thomas_id="02109" joined="2013-09-10"/>
+    <cosponsor thomas_id="01003" joined="2013-07-25"/>
+    <cosponsor thomas_id="01756" joined="2013-07-25"/>
+    <cosponsor thomas_id="01757" joined="2013-07-25"/>
+    <cosponsor thomas_id="01854" joined="2013-07-25"/>
+    <cosponsor thomas_id="01588" joined="2013-07-25"/>
+    <cosponsor thomas_id="01635" joined="2013-07-25"/>
+    <cosponsor thomas_id="02124" joined="2013-07-25"/>
+    <cosponsor thomas_id="01798" joined="2013-07-25"/>
+    <cosponsor thomas_id="01037" joined="2014-01-16"/>
+    <cosponsor thomas_id="01042" joined="2013-10-09"/>
+    <cosponsor thomas_id="01861" joined="2013-07-25"/>
+    <cosponsor thomas_id="02099" joined="2013-07-25"/>
+    <cosponsor thomas_id="01818" joined="2013-07-30"/>
+    <cosponsor thomas_id="01069" joined="2013-07-25"/>
+    <cosponsor thomas_id="01890" joined="2013-07-25"/>
+    <cosponsor thomas_id="02104" joined="2013-08-01"/>
+    <cosponsor thomas_id="02110" joined="2013-07-25"/>
+    <cosponsor thomas_id="01535" joined="2014-03-25"/>
+    <cosponsor thomas_id="01940" joined="2013-07-25"/>
+    <cosponsor thomas_id="01942" joined="2013-07-25"/>
+    <cosponsor thomas_id="01884" joined="2013-07-25"/>
+    <cosponsor thomas_id="01729" joined="2013-07-25"/>
+    <cosponsor thomas_id="02112" joined="2013-07-25"/>
+    <cosponsor thomas_id="02166" joined="2013-07-25"/>
+    <cosponsor thomas_id="01184" joined="2013-07-25"/>
+    <cosponsor thomas_id="01856" joined="2013-10-11"/>
+    <cosponsor thomas_id="01777" joined="2013-10-10"/>
+    <cosponsor thomas_id="01205" joined="2013-08-02"/>
+    <cosponsor thomas_id="01209" joined="2013-07-25"/>
+    <cosponsor thomas_id="01879" joined="2013-07-25"/>
+    <cosponsor thomas_id="02004" joined="2013-07-25"/>
+    <cosponsor thomas_id="01853" joined="2013-10-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-07-25" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2013-08-29">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee subcommittee="Military Personnel" code="HSAS02" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1956"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Administrative remedies"/>
+    <term name="Department of Defense"/>
+    <term name="Evidence and witnesses"/>
+    <term name="Government information and archives"/>
+    <term name="Military history"/>
+    <term name="Military law"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Personnel records"/>
+    <term name="Sex, gender, sexual orientation discrimination"/>
+  </subjects>
+  <amendments/>
+  <summary>7/25/2013--Introduced.
+Restore Honor to Service Members Act - Requires appropriate military record correction boards or discharge review boards to review the discharge characterization of any former members of the Armed Forces requesting a review who were discharged because of their sexual orientation. Permits such boards to change a characterization to honorable if such characterization is any characterization except honorable.
+
+Directs the Secretary of Defense (DOD) to ensure that any such changes are carried out consistently and uniformly across the military departments using specified criteria, including that: (1) the original discharge was based on the policy of Don't Ask Don't Tell (as in effect before it was repealed pursuant to the Don't Ask, Don't Tell Repeal Act of 2010) or a similar earlier policy; and (2) the discharge characterization will be changed if, with respect to the original discharge, there were no aggravating circumstances, such as misconduct, that would have independently led to any discharge characterization except honorable.
+
+Prohibits "aggravating circumstances" from including: (1) an offense of sodomy committed by the member against a consenting person of the same sex; or (2) statements, consensual sexual conduct, or consensual acts relating to sexual orientation or identity, or the disclosure of such statements, conduct, or acts, that were prohibited at the time of discharge but that became permitted after such discharge.
+
+Directs the Secretary of each military department to ensure that oral historians of the department: (1) review discharges between World War II and September 2011 based on sexual orientation, and (2) receive oral testimony of individuals who personally experienced discrimination and discharge because of actual or perceived sexual orientation so that such testimony may serve as an official record of such discriminatory policies and their impact on American lives.
+
+Requires the reissuance of specified military personnel records and discharge forms in a manner that shall not reflect the sexual orientation of the member.
+
+Amends the Uniform Code of Military Justice to remove from the offense of sodomy specified activity referred to as unnatural carnal copulation with another person of the same or opposite sex.</summary>
+</bill>

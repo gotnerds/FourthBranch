@@ -1,0 +1,76 @@
+<bill session="113" type="s" number="191" updated="2014-08-14T13:46:23-04:00">
+  <state datetime="2013-01-31">REFERRED</state>
+  <status>
+    <introduced datetime="2013-01-31"/>
+  </status>
+  <introduced datetime="2013-01-31"/>
+  <titles>
+    <title type="short" as="introduced">Regulatory Responsibility for our Economy Act of 2013</title>
+    <title type="official" as="introduced">A bill to codify and modify regulatory requirements of Federal agencies.</title>
+  </titles>
+  <sponsor thomas_id="00968"/>
+  <cosponsors>
+    <cosponsor thomas_id="01695" joined="2013-01-31"/>
+    <cosponsor thomas_id="02075" joined="2013-01-31"/>
+    <cosponsor thomas_id="01881" joined="2013-01-31"/>
+    <cosponsor thomas_id="01464" joined="2013-01-31"/>
+    <cosponsor thomas_id="01687" joined="2013-01-31"/>
+    <cosponsor thomas_id="00153" joined="2013-01-31"/>
+    <cosponsor thomas_id="00188" joined="2013-01-31"/>
+    <cosponsor thomas_id="00209" joined="2013-01-31"/>
+    <cosponsor thomas_id="00213" joined="2013-01-31"/>
+    <cosponsor thomas_id="01541" joined="2013-01-31"/>
+    <cosponsor thomas_id="01825" joined="2013-01-31"/>
+    <cosponsor thomas_id="00250" joined="2013-01-31"/>
+    <cosponsor thomas_id="01542" joined="2013-01-31"/>
+    <cosponsor thomas_id="02179" joined="2013-01-31"/>
+    <cosponsor thomas_id="01633" joined="2013-01-31"/>
+    <cosponsor thomas_id="00452" joined="2013-01-31"/>
+    <cosponsor thomas_id="00457" joined="2013-01-31"/>
+    <cosponsor thomas_id="01351" joined="2013-01-31"/>
+    <cosponsor thomas_id="02079" joined="2013-01-31"/>
+    <cosponsor thomas_id="00583" joined="2013-01-31"/>
+    <cosponsor thomas_id="01608" joined="2013-01-31"/>
+    <cosponsor thomas_id="01899" joined="2013-01-31"/>
+    <cosponsor thomas_id="02086" joined="2013-01-31"/>
+    <cosponsor thomas_id="00754" joined="2013-01-31"/>
+    <cosponsor thomas_id="01395" joined="2013-01-31"/>
+    <cosponsor thomas_id="01507" joined="2013-01-31"/>
+    <cosponsor thomas_id="01694" joined="2013-02-07"/>
+    <cosponsor thomas_id="02082" joined="2013-01-31"/>
+    <cosponsor thomas_id="00924" joined="2013-01-31"/>
+    <cosponsor thomas_id="01896" joined="2013-01-31"/>
+    <cosponsor thomas_id="02084" joined="2013-01-31"/>
+    <cosponsor thomas_id="01548" joined="2013-01-31"/>
+    <cosponsor thomas_id="01534" joined="2013-01-31"/>
+    <cosponsor thomas_id="02085" joined="2013-01-31"/>
+    <cosponsor thomas_id="01226" joined="2013-01-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-31" state="REFERRED">
+      <text>Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSGA" name="Senate Homeland Security and Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="786"/>
+    <bill type="s" session="113" relation="unknown" number="787"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Congressional oversight"/>
+    <term name="Economic performance and conditions"/>
+    <term name="Judicial review and appeals"/>
+    <term name="Public participation and lobbying"/>
+  </subjects>
+  <amendments/>
+  <summary>1/31/2013--Introduced.
+Regulatory Responsibility for our Economy Act of 2013 - Sets forth general requirements for the federal regulatory system, including the protection of public health, welfare, safety, and the environment, the promotion of predictability in the regulatory process, and the consideration of benefits and costs of regulations.
+
+Requires federal agencies to: (1) propose or adopt regulations only upon a reasoned determination that the benefits of such regulations justify their costs; (2) tailor regulations to impose the least burden on society and to maximize economic and other benefits; (3) involve the public and parties affected by regulations in the regulatory process; (4) develop regulatory actions that promote innovation, flexibility, and objectivity; and (5) consider methods to promote retrospective analysis of rules that may be outmoded, ineffective, insufficient, or excessively burdensome, and develop plans for reviewing on a periodic basis significant regulation actions (i.e., those having an annual effect on the economy of $100 million or more or otherwise adversely affecting the economy).
+
+Provides for judicial review of any agency action required under this Act.</summary>
+</bill>

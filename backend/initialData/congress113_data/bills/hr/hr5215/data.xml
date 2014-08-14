@@ -1,0 +1,24 @@
+<bill session="113" type="h" number="5215" updated="2014-08-14T13:35:59-04:00">
+  <state datetime="2014-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-28"/>
+  </status>
+  <introduced datetime="2014-07-28"/>
+  <titles>
+    <title type="short" as="introduced">Clatsop-Nehalem Restoration Act</title>
+    <title type="official" as="introduced">To provide for the restoration of Federal recognition to the Clatsop-Nehalem Confederated Tribes of Oregon, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02092"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2014-07-28" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

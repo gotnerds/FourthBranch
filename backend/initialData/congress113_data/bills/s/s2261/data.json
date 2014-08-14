@@ -1,0 +1,89 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-04-28", 
+      "committees": [
+        "SSFI"
+      ], 
+      "references": [], 
+      "text": "Committee on Finance. Original measure reported to Senate by Senator Wyden. With written report No. 113-155.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-04-28", 
+      "calendar": "Senate Legislative", 
+      "number": "367", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 367.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2261-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "origin", 
+        "reporting"
+      ], 
+      "committee": "Senate Finance", 
+      "committee_id": "SSFI"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-04-28", 
+  "number": "2261", 
+  "official_title": "An original bill to amend the Internal Revenue Code of 1986 to make technical corrections, to remove provisions that are no longer applicable, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Tax Technical Corrections Act of 2014", 
+  "sponsor": {
+    "district": null, 
+    "name": "Wyden, Ron", 
+    "state": "OR", 
+    "thomas_id": "01247", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2014-04-28", 
+  "subjects": [
+    "General taxation matters", 
+    "Taxation"
+  ], 
+  "subjects_top_term": "Taxation", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Tax Technical Corrections Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "Tax Technical Corrections Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "An original bill to amend the Internal Revenue Code of 1986 to make technical corrections, to remove provisions that are no longer applicable, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T14:04:08-04:00"
+}

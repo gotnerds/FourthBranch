@@ -1,0 +1,49 @@
+<bill session="113" type="s" number="1654" updated="2014-08-14T13:58:58-04:00">
+  <state datetime="2013-11-05">REFERRED</state>
+  <status>
+    <introduced datetime="2013-11-05"/>
+  </status>
+  <introduced datetime="2013-11-05"/>
+  <titles>
+    <title type="short" as="introduced">Government Settlement Transparency and Reform Act</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to deny tax deductions for corporate regulatory violations.</title>
+  </titles>
+  <sponsor thomas_id="00949"/>
+  <cosponsors>
+    <cosponsor thomas_id="00457" joined="2013-11-05"/>
+    <cosponsor thomas_id="01383" joined="2014-02-26"/>
+    <cosponsor thomas_id="00754" joined="2013-11-19"/>
+    <cosponsor thomas_id="01694" joined="2013-11-21"/>
+    <cosponsor thomas_id="00859" joined="2013-11-21"/>
+    <cosponsor thomas_id="01010" joined="2014-01-30"/>
+    <cosponsor thomas_id="01901" joined="2014-01-30"/>
+    <cosponsor thomas_id="01829" joined="2014-01-30"/>
+    <cosponsor thomas_id="02182" joined="2013-11-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-11-05">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR S7831"/>
+    </action>
+    <action datetime="2013-11-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Business expenses"/>
+    <term name="Civil actions and liability"/>
+    <term name="Commodities markets"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Income tax deductions"/>
+    <term name="Securities"/>
+    <term name="Tax administration and collection, taxpayers"/>
+  </subjects>
+  <amendments/>
+  <summary>11/5/2013--Introduced.
+Government Settlement Transparency and Reform Act - Amends the Internal Revenue Code to expand provisions relating to the nondeductibility of fines and penalties, to prohibit a tax deduction for any amount paid or incurred to any governmental entity relating to the violation of any law or the investigation or inquiry into a potential violation of law. Exempts from such prohibition: (1) restitution or amounts paid to come into compliance with any law that was violated or otherwise involved in the investigation or inquiry, (2) amounts paid pursuant to a court order in a suit in which the governmental entity was not a party, and (3) amounts paid or incurred as taxes due. Imposes new reporting requirements on governmental entities relating to amounts paid as fines or for restitution.</summary>
+</bill>

@@ -1,0 +1,113 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-02-27", 
+      "committees": [
+        "SSGA"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.", 
+      "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-06-25", 
+      "committees": [
+        "SSGA"
+      ], 
+      "in_committee": null, 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.", 
+      "type": "calendar"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2061-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral", 
+        "markup"
+      ], 
+      "committee": "Senate Homeland Security and Governmental Affairs", 
+      "committee_id": "SSGA"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Begich, Mark", 
+      "sponsored_at": "2014-02-27", 
+      "state": "AK", 
+      "thomas_id": "01898", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "McCaskill, Claire", 
+      "sponsored_at": "2014-02-27", 
+      "state": "MO", 
+      "thomas_id": "01820", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-02-27", 
+  "number": "2061", 
+  "official_title": "A bill to prevent conflicts of interest relating to contractors providing background investigation fieldwork services and investigative support services.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Preventing Conflicts of Interest with Contractors Act", 
+  "sponsor": {
+    "district": null, 
+    "name": "Tester, Jon", 
+    "state": "MT", 
+    "thomas_id": "01829", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2014-06-25", 
+  "subjects": [
+    "Government employee pay, benefits, personnel management", 
+    "Government ethics and transparency, public corruption", 
+    "Government operations and politics", 
+    "Office of Personnel Management (OPM)", 
+    "Performance measurement", 
+    "Personnel records", 
+    "Public contracts and procurement"
+  ], 
+  "subjects_top_term": "Government operations and politics", 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-02-27", 
+    "text": "Preventing Conflicts of Interest with Contractors Act - Prohibits the Director of the Office of Personnel Management (OPM) from awarding a contract to an entity to conduct quality review processes for background investigation fieldwork services or background investigation support services that are being conducted by such entity as of the date of the contract."
+  }, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Preventing Conflicts of Interest with Contractors Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to prevent conflicts of interest relating to contractors providing background investigation fieldwork services and investigative support services.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T14:02:28-04:00"
+}

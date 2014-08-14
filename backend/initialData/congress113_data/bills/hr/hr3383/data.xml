@@ -1,0 +1,69 @@
+<bill session="113" type="h" number="3383" updated="2014-08-14T13:20:17-04:00">
+  <state datetime="2013-10-30">REFERRED</state>
+  <status>
+    <introduced datetime="2013-10-30"/>
+  </status>
+  <introduced datetime="2013-10-30"/>
+  <titles>
+    <title type="short" as="introduced">Caregivers Expansion and Improvement Act of 2013</title>
+    <title type="official" as="introduced">To amend title 38, United States Code, to extend to all veterans with a serious service-connected injury eligibility to participate in the family caregiver services program.</title>
+  </titles>
+  <sponsor thomas_id="02114"/>
+  <cosponsors>
+    <cosponsor thomas_id="02153" joined="2014-04-08"/>
+    <cosponsor thomas_id="00099" joined="2014-03-14"/>
+    <cosponsor thomas_id="02106" joined="2014-03-05"/>
+    <cosponsor thomas_id="02127" joined="2014-07-10"/>
+    <cosponsor thomas_id="02159" joined="2014-06-26"/>
+    <cosponsor thomas_id="02055" joined="2014-03-24"/>
+    <cosponsor thomas_id="01878" joined="2014-03-05"/>
+    <cosponsor thomas_id="00279" joined="2014-02-25"/>
+    <cosponsor thomas_id="00281" joined="2014-05-01"/>
+    <cosponsor thomas_id="00355" joined="2014-07-31"/>
+    <cosponsor thomas_id="01634" joined="2014-05-19"/>
+    <cosponsor thomas_id="00588" joined="2014-02-25"/>
+    <cosponsor thomas_id="00612" joined="2014-03-10"/>
+    <cosponsor thomas_id="02025" joined="2014-05-09"/>
+    <cosponsor thomas_id="02190" joined="2014-03-10"/>
+    <cosponsor thomas_id="01498" joined="2014-07-31"/>
+    <cosponsor thomas_id="02145" joined="2014-07-10"/>
+    <cosponsor thomas_id="01668" joined="2014-06-09"/>
+    <cosponsor thomas_id="01583" joined="2014-05-29"/>
+    <cosponsor thomas_id="00709" joined="2014-06-02"/>
+    <cosponsor thomas_id="01504" joined="2014-05-01"/>
+    <cosponsor thomas_id="00867" joined="2014-07-17"/>
+    <cosponsor thomas_id="02113" joined="2014-03-14"/>
+    <cosponsor thomas_id="00910" joined="2014-07-10"/>
+    <cosponsor thomas_id="00940" joined="2014-03-28"/>
+    <cosponsor thomas_id="02109" joined="2013-12-03"/>
+    <cosponsor thomas_id="01798" joined="2014-06-18"/>
+    <cosponsor thomas_id="01861" joined="2014-02-10"/>
+    <cosponsor thomas_id="01593" joined="2014-07-11"/>
+    <cosponsor thomas_id="01940" joined="2014-08-01"/>
+    <cosponsor thomas_id="01884" joined="2014-08-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-10-30" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="2013-11-12">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Health" code="HSVR03" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="851"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Disability and paralysis"/>
+    <term name="Long-term, rehabilitative, and terminal care"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>10/30/2013--Introduced.
+Caregivers Expansion and Improvement Act of 2013 - Extends to all veterans with a serious service-connected injury the eligibility to participate in the Department of Veterans Affairs (VA) program of comprehensive assistance to family caregivers of such veterans. (Under current law, such eligibility is limited to those veterans who incurred such an injury on or after September 11, 2001.)</summary>
+</bill>

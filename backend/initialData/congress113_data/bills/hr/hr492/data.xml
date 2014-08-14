@@ -1,0 +1,62 @@
+<bill session="113" type="h" number="492" updated="2014-08-14T12:54:57-04:00">
+  <state datetime="2013-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-04"/>
+  </status>
+  <introduced datetime="2013-02-04"/>
+  <titles>
+    <title type="short" as="introduced">FFOCUS Act of 2013</title>
+    <title type="short" as="introduced">Focusing the Fed on the Currency of the United States Act of 2013</title>
+    <title type="official" as="introduced">To amend the Federal Reserve Act to remove the mandate on the Board of Governors of the Federal Reserve System and the Federal Open Market Committee to focus on maximum employment.</title>
+  </titles>
+  <sponsor thomas_id="01981"/>
+  <cosponsors>
+    <cosponsor thomas_id="02027" joined="2013-02-14"/>
+    <cosponsor thomas_id="02135" joined="2013-02-14"/>
+    <cosponsor thomas_id="02018" joined="2013-02-13"/>
+    <cosponsor thomas_id="01956" joined="2013-02-06"/>
+    <cosponsor thomas_id="01742" joined="2013-02-06"/>
+    <cosponsor thomas_id="02098" joined="2013-02-06"/>
+    <cosponsor thomas_id="02144" joined="2013-03-04"/>
+    <cosponsor thomas_id="02116" joined="2013-02-14"/>
+    <cosponsor thomas_id="01924" joined="2013-02-06"/>
+    <cosponsor thomas_id="01801" joined="2013-02-06"/>
+    <cosponsor thomas_id="01992" joined="2013-02-13"/>
+    <cosponsor thomas_id="01979" joined="2013-02-13"/>
+    <cosponsor thomas_id="02028" joined="2013-02-12"/>
+    <cosponsor thomas_id="00612" joined="2013-02-14"/>
+    <cosponsor thomas_id="01868" joined="2013-02-06"/>
+    <cosponsor thomas_id="02100" joined="2013-02-14"/>
+    <cosponsor thomas_id="01834" joined="2013-02-06"/>
+    <cosponsor thomas_id="01908" joined="2013-02-04"/>
+    <cosponsor thomas_id="02130" joined="2013-02-14"/>
+    <cosponsor thomas_id="02059" joined="2013-02-04"/>
+    <cosponsor thomas_id="02001" joined="2013-02-04"/>
+    <cosponsor thomas_id="01738" joined="2013-02-04"/>
+    <cosponsor thomas_id="02157" joined="2013-02-06"/>
+    <cosponsor thomas_id="02017" joined="2013-02-06"/>
+    <cosponsor thomas_id="01994" joined="2013-02-14"/>
+    <cosponsor thomas_id="01155" joined="2013-02-04"/>
+    <cosponsor thomas_id="01779" joined="2013-02-04"/>
+    <cosponsor thomas_id="02008" joined="2013-02-04"/>
+    <cosponsor thomas_id="02019" joined="2013-02-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-04" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Inflation and prices"/>
+    <term name="Monetary policy"/>
+    <term name="Unemployment"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/2013--Introduced.
+Focusing the Fed on the Currency of the United States Act of 2013, or FFOCUS Act of 2013 - Amends the Federal Reserve Act to repeal the joint mandate on the Board of Governors of the Federal Reserve System and the Federal Open Market Committee to make maximum employment one of the goals of their duty to maintain long run growth of the monetary and credit aggregates commensurate with the U.S. economy's long run potential to increase production.</summary>
+</bill>

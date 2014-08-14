@@ -1,0 +1,47 @@
+<bill session="113" type="hr" number="444" updated="2014-08-14T12:48:24-04:00">
+  <state datetime="2013-12-12">REFERRED</state>
+  <status>
+    <introduced datetime="2013-12-12"/>
+  </status>
+  <introduced datetime="2013-12-12"/>
+  <titles>
+    <title type="official" as="introduced">Honoring the accomplishments of Nicarsia "Nikki" Mayes, a Capitol Hill trailblazer and the first African-American woman to serve as a Doorkeeper of the House of Representatives.</title>
+  </titles>
+  <sponsor thomas_id="00588"/>
+  <cosponsors>
+    <cosponsor thomas_id="01469" joined="2013-12-12"/>
+    <cosponsor thomas_id="01474" joined="2013-12-12"/>
+    <cosponsor thomas_id="01790" joined="2013-12-12"/>
+    <cosponsor thomas_id="00208" joined="2013-12-12"/>
+    <cosponsor thomas_id="01895" joined="2013-12-12"/>
+    <cosponsor thomas_id="01803" joined="2013-12-12"/>
+    <cosponsor thomas_id="00462" joined="2013-12-12"/>
+    <cosponsor thomas_id="00511" joined="2013-12-12"/>
+    <cosponsor thomas_id="00599" joined="2013-12-12"/>
+    <cosponsor thomas_id="00616" joined="2013-12-12"/>
+    <cosponsor thomas_id="01583" joined="2013-12-12"/>
+    <cosponsor thomas_id="00688" joined="2013-12-12"/>
+    <cosponsor thomas_id="01510" joined="2013-12-12"/>
+    <cosponsor thomas_id="01722" joined="2013-12-12"/>
+    <cosponsor thomas_id="01151" joined="2013-12-12"/>
+    <cosponsor thomas_id="02004" joined="2013-12-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-12-12" state="REFERRED">
+      <text>Referred to the House Committee on House Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSHA" name="House Administration" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional officers and employees"/>
+    <term name="Congressional tributes"/>
+    <term name="House of Representatives"/>
+  </subjects>
+  <amendments/>
+  <summary>12/12/2013--Introduced.
+Commends Nicarsia "Nikki" Mayes for her distinguished career of service to the House of Representatives and the people of the United States.</summary>
+</bill>

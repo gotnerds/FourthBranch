@@ -1,0 +1,208 @@
+<bill session="113" type="h" number="1593" updated="2014-08-14T13:04:15-04:00">
+  <state datetime="2013-04-17">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-17"/>
+  </status>
+  <introduced datetime="2013-04-17"/>
+  <titles>
+    <title type="short" as="introduced">Sexual Assault Training Oversight and Prevention Act</title>
+    <title type="short" as="introduced">STOP Act</title>
+    <title type="official" as="introduced">To amend title 10, United States Code, to improve the prevention of and response to sexual assault in the Armed Forces by establishing a Sexual Assault Oversight and Response Council and an enhanced Sexual Assault Oversight and Response Office and by requiring the appointment of a Director of Military Prosecutions for sexual-related offenses committed by a member of the Armed Forces, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01890"/>
+  <cosponsors>
+    <cosponsor thomas_id="00021" joined="2013-04-17"/>
+    <cosponsor thomas_id="02093" joined="2013-05-21"/>
+    <cosponsor thomas_id="01996" joined="2013-04-17"/>
+    <cosponsor thomas_id="02153" joined="2013-05-17"/>
+    <cosponsor thomas_id="00070" joined="2013-04-17"/>
+    <cosponsor thomas_id="02102" joined="2013-04-17"/>
+    <cosponsor thomas_id="01740" joined="2013-05-21"/>
+    <cosponsor thomas_id="00099" joined="2013-04-17"/>
+    <cosponsor thomas_id="02092" joined="2013-04-17"/>
+    <cosponsor thomas_id="01469" joined="2013-04-17"/>
+    <cosponsor thomas_id="01845" joined="2013-04-17"/>
+    <cosponsor thomas_id="00132" joined="2013-04-17"/>
+    <cosponsor thomas_id="02106" joined="2013-04-24"/>
+    <cosponsor thomas_id="02127" joined="2013-05-17"/>
+    <cosponsor thomas_id="01761" joined="2013-04-17"/>
+    <cosponsor thomas_id="01564" joined="2013-04-17"/>
+    <cosponsor thomas_id="02107" joined="2013-04-24"/>
+    <cosponsor thomas_id="01999" joined="2013-05-21"/>
+    <cosponsor thomas_id="01889" joined="2013-04-17"/>
+    <cosponsor thomas_id="02159" joined="2013-04-17"/>
+    <cosponsor thomas_id="01839" joined="2013-04-17"/>
+    <cosponsor thomas_id="02163" joined="2014-03-26"/>
+    <cosponsor thomas_id="01970" joined="2013-04-17"/>
+    <cosponsor thomas_id="02055" joined="2013-04-17"/>
+    <cosponsor thomas_id="01864" joined="2013-04-17"/>
+    <cosponsor thomas_id="01654" joined="2013-04-17"/>
+    <cosponsor thomas_id="01790" joined="2013-04-17"/>
+    <cosponsor thomas_id="01878" joined="2013-04-17"/>
+    <cosponsor thomas_id="01959" joined="2013-04-17"/>
+    <cosponsor thomas_id="00229" joined="2013-04-17"/>
+    <cosponsor thomas_id="01774" joined="2013-05-09"/>
+    <cosponsor thomas_id="01836" joined="2013-05-17"/>
+    <cosponsor thomas_id="01604" joined="2013-04-17"/>
+    <cosponsor thomas_id="00256" joined="2013-04-17"/>
+    <cosponsor thomas_id="01477" joined="2013-04-17"/>
+    <cosponsor thomas_id="00279" joined="2013-04-17"/>
+    <cosponsor thomas_id="01479" joined="2013-04-17"/>
+    <cosponsor thomas_id="02133" joined="2013-04-17"/>
+    <cosponsor thomas_id="00281" joined="2013-04-17"/>
+    <cosponsor thomas_id="01976" joined="2013-04-24"/>
+    <cosponsor thomas_id="00303" joined="2013-04-17"/>
+    <cosponsor thomas_id="01894" joined="2013-04-17"/>
+    <cosponsor thomas_id="01857" joined="2013-04-17"/>
+    <cosponsor thomas_id="00344" joined="2014-03-26"/>
+    <cosponsor thomas_id="00355" joined="2013-04-17"/>
+    <cosponsor thomas_id="02114" joined="2013-06-04"/>
+    <cosponsor thomas_id="00368" joined="2013-04-17"/>
+    <cosponsor thomas_id="00371" joined="2013-04-17"/>
+    <cosponsor thomas_id="01888" joined="2014-02-27"/>
+    <cosponsor thomas_id="02119" joined="2013-04-17"/>
+    <cosponsor thomas_id="01895" joined="2013-05-09"/>
+    <cosponsor thomas_id="01973" joined="2013-04-17"/>
+    <cosponsor thomas_id="02120" joined="2014-03-26"/>
+    <cosponsor thomas_id="01914" joined="2013-05-09"/>
+    <cosponsor thomas_id="01803" joined="2013-04-17"/>
+    <cosponsor thomas_id="00462" joined="2013-08-01"/>
+    <cosponsor thomas_id="01708" joined="2013-04-17"/>
+    <cosponsor thomas_id="00478" joined="2013-04-17"/>
+    <cosponsor thomas_id="02089" joined="2013-04-17"/>
+    <cosponsor thomas_id="02010" joined="2013-04-24"/>
+    <cosponsor thomas_id="00511" joined="2013-04-17"/>
+    <cosponsor thomas_id="01490" joined="2013-05-21"/>
+    <cosponsor thomas_id="01580" joined="2013-04-17"/>
+    <cosponsor thomas_id="01634" joined="2013-04-17"/>
+    <cosponsor thomas_id="02147" joined="2013-05-21"/>
+    <cosponsor thomas_id="02101" joined="2013-04-17"/>
+    <cosponsor thomas_id="00588" joined="2013-04-17"/>
+    <cosponsor thomas_id="00599" joined="2013-04-24"/>
+    <cosponsor thomas_id="01843" joined="2013-04-17"/>
+    <cosponsor thomas_id="00612" joined="2013-04-17"/>
+    <cosponsor thomas_id="00616" joined="2013-04-17"/>
+    <cosponsor thomas_id="02025" joined="2013-04-17"/>
+    <cosponsor thomas_id="02190" joined="2013-05-17"/>
+    <cosponsor thomas_id="02172" joined="2013-06-04"/>
+    <cosponsor thomas_id="02134" joined="2014-03-26"/>
+    <cosponsor thomas_id="01498" joined="2013-04-17"/>
+    <cosponsor thomas_id="01907" joined="2013-05-09"/>
+    <cosponsor thomas_id="02145" joined="2013-04-24"/>
+    <cosponsor thomas_id="01583" joined="2013-04-17"/>
+    <cosponsor thomas_id="01501" joined="2013-04-17"/>
+    <cosponsor thomas_id="00683" joined="2013-04-17"/>
+    <cosponsor thomas_id="00688" joined="2013-04-17"/>
+    <cosponsor thomas_id="01781" joined="2013-05-09"/>
+    <cosponsor thomas_id="01846" joined="2013-04-24"/>
+    <cosponsor thomas_id="00701" joined="2013-05-09"/>
+    <cosponsor thomas_id="02111" joined="2013-04-24"/>
+    <cosponsor thomas_id="00709" joined="2013-04-24"/>
+    <cosponsor thomas_id="02146" joined="2013-05-21"/>
+    <cosponsor thomas_id="01939" joined="2013-04-17"/>
+    <cosponsor thomas_id="01943" joined="2013-05-17"/>
+    <cosponsor thomas_id="00729" joined="2013-04-17"/>
+    <cosponsor thomas_id="00735" joined="2013-04-17"/>
+    <cosponsor thomas_id="01671" joined="2014-03-26"/>
+    <cosponsor thomas_id="01814" joined="2013-04-17"/>
+    <cosponsor thomas_id="01503" joined="2013-04-17"/>
+    <cosponsor thomas_id="01653" joined="2013-04-17"/>
+    <cosponsor thomas_id="00766" joined="2013-04-24"/>
+    <cosponsor thomas_id="01504" joined="2013-04-17"/>
+    <cosponsor thomas_id="01832" joined="2013-04-17"/>
+    <cosponsor thomas_id="01506" joined="2013-08-01"/>
+    <cosponsor thomas_id="02148" joined="2013-04-24"/>
+    <cosponsor thomas_id="01730" joined="2013-04-24"/>
+    <cosponsor thomas_id="00808" joined="2013-04-17"/>
+    <cosponsor thomas_id="01811" joined="2013-04-17"/>
+    <cosponsor thomas_id="00832" joined="2013-05-09"/>
+    <cosponsor thomas_id="02117" joined="2013-05-22"/>
+    <cosponsor thomas_id="00850" joined="2013-05-09"/>
+    <cosponsor thomas_id="01602" joined="2013-04-17"/>
+    <cosponsor thomas_id="00854" joined="2013-05-09"/>
+    <cosponsor thomas_id="02108" joined="2013-04-24"/>
+    <cosponsor thomas_id="00867" joined="2014-03-26"/>
+    <cosponsor thomas_id="00868" joined="2013-04-17"/>
+    <cosponsor thomas_id="02162" joined="2013-05-09"/>
+    <cosponsor thomas_id="00887" joined="2013-04-24"/>
+    <cosponsor thomas_id="01510" joined="2013-05-17"/>
+    <cosponsor thomas_id="00893" joined="2013-04-24"/>
+    <cosponsor thomas_id="02097" joined="2013-04-17"/>
+    <cosponsor thomas_id="01835" joined="2013-04-17"/>
+    <cosponsor thomas_id="01929" joined="2013-05-21"/>
+    <cosponsor thomas_id="01953" joined="2014-02-27"/>
+    <cosponsor thomas_id="01927" joined="2013-04-17"/>
+    <cosponsor thomas_id="02171" joined="2013-06-27"/>
+    <cosponsor thomas_id="01910" joined="2013-04-17"/>
+    <cosponsor thomas_id="00930" joined="2013-05-22"/>
+    <cosponsor thomas_id="01967" joined="2013-04-17"/>
+    <cosponsor thomas_id="00940" joined="2013-04-17"/>
+    <cosponsor thomas_id="00944" joined="2013-04-17"/>
+    <cosponsor thomas_id="00997" joined="2013-04-17"/>
+    <cosponsor thomas_id="02109" joined="2013-05-17"/>
+    <cosponsor thomas_id="01003" joined="2013-04-24"/>
+    <cosponsor thomas_id="01962" joined="2013-05-22"/>
+    <cosponsor thomas_id="01757" joined="2013-04-24"/>
+    <cosponsor thomas_id="01854" joined="2013-05-09"/>
+    <cosponsor thomas_id="01588" joined="2013-04-17"/>
+    <cosponsor thomas_id="01635" joined="2014-03-26"/>
+    <cosponsor thomas_id="01950" joined="2013-04-17"/>
+    <cosponsor thomas_id="01798" joined="2013-04-17"/>
+    <cosponsor thomas_id="01037" joined="2013-04-24"/>
+    <cosponsor thomas_id="01042" joined="2013-04-24"/>
+    <cosponsor thomas_id="01861" joined="2013-05-09"/>
+    <cosponsor thomas_id="02099" joined="2014-02-27"/>
+    <cosponsor thomas_id="01818" joined="2013-05-22"/>
+    <cosponsor thomas_id="01069" joined="2013-05-21"/>
+    <cosponsor thomas_id="02104" joined="2013-04-24"/>
+    <cosponsor thomas_id="01151" joined="2013-04-17"/>
+    <cosponsor thomas_id="01593" joined="2013-04-17"/>
+    <cosponsor thomas_id="01535" joined="2013-04-17"/>
+    <cosponsor thomas_id="01940" joined="2013-04-17"/>
+    <cosponsor thomas_id="01942" joined="2013-04-17"/>
+    <cosponsor thomas_id="01729" joined="2013-05-21"/>
+    <cosponsor thomas_id="02112" joined="2013-05-09"/>
+    <cosponsor thomas_id="02166" joined="2014-01-29"/>
+    <cosponsor thomas_id="01184" joined="2013-05-09"/>
+    <cosponsor thomas_id="01856" joined="2013-04-17"/>
+    <cosponsor thomas_id="01205" joined="2013-04-17"/>
+    <cosponsor thomas_id="01209" joined="2013-04-24"/>
+    <cosponsor thomas_id="01879" joined="2013-04-17"/>
+    <cosponsor thomas_id="02004" joined="2013-04-17"/>
+    <cosponsor thomas_id="01853" joined="2013-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-17" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2013-05-06">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee subcommittee="Military Personnel" code="HSAS02" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Crime prevention"/>
+    <term name="Crime victims"/>
+    <term name="Crimes against women"/>
+    <term name="Criminal investigation, prosecution, interrogation"/>
+    <term name="Department of Defense"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Military law"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Sex offenses"/>
+  </subjects>
+  <amendments/>
+  <summary>4/17/2013--Introduced.
+Sexual Assault Training Oversight and Prevention Act or STOP Act - Establishes a Sexual Assault Oversight and Response Council, composed mainly of civilians, as an independent entity from the chain of command of the Department of Defense (DOD).
+
+Directs the Council to: (1) appoint personnel to the Sexual Assault Oversight and Response Office, and advise such Office; (2) appoint the Director of Military Prosecutions (Director); (3) review each request of the Director with respect to a case stemming from a sexual-related offense that has been referred to a military appellate court or to the Department of Justice (DOJ); and (4) submit to the Secretary of Defense, Congress, and the Attorney General a report on each Director request for referral to a higher court. Requires the Council to advise on the development of sexual assault reporting protocols, risk-reduction and response training, and policy.
+
+Establishes within DOD the Sexual Assault Oversight and Response Office, headed by an Executive Director, to undertake specified duties and responsibilities relating to the investigation, prevention, and reduction of sexual assault incidents within the Armed Forces. Requires the Office to establish protocols to ensure that all reports of sexual assault are taken out of the chain of command and reported directly to the Office.
+
+Establishes the position of Director of Military Prosecutions, appointed by the Council, to have independent and final authority to oversee the prosecution of all sexual-related offenses committed by a member of the Armed Forces, and to refer such cases to trial by courts-martial.</summary>
+</bill>

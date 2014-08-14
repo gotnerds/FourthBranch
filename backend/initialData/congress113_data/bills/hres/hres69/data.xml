@@ -1,0 +1,121 @@
+<bill session="113" type="hr" number="69" updated="2014-08-14T12:45:14-04:00">
+  <state datetime="2013-02-14">REFERRED</state>
+  <status>
+    <introduced datetime="2013-02-14"/>
+  </status>
+  <introduced datetime="2013-02-14"/>
+  <titles>
+    <title type="official" as="introduced">Supporting the designation of March 2013, as National Colorectal Cancer Awareness Month.</title>
+  </titles>
+  <sponsor thomas_id="02097"/>
+  <cosponsors>
+    <cosponsor thomas_id="00021" joined="2013-02-14"/>
+    <cosponsor thomas_id="02153" joined="2013-02-14"/>
+    <cosponsor thomas_id="02027" joined="2013-03-13"/>
+    <cosponsor thomas_id="00091" joined="2013-02-14"/>
+    <cosponsor thomas_id="00099" joined="2013-05-07"/>
+    <cosponsor thomas_id="01723" joined="2013-02-14"/>
+    <cosponsor thomas_id="00132" joined="2013-02-14"/>
+    <cosponsor thomas_id="01840" joined="2013-02-28"/>
+    <cosponsor thomas_id="01761" joined="2013-02-14"/>
+    <cosponsor thomas_id="01889" joined="2013-02-14"/>
+    <cosponsor thomas_id="01474" joined="2013-02-14"/>
+    <cosponsor thomas_id="01864" joined="2013-02-14"/>
+    <cosponsor thomas_id="01790" joined="2013-02-14"/>
+    <cosponsor thomas_id="00208" joined="2013-02-14"/>
+    <cosponsor thomas_id="00211" joined="2013-02-14"/>
+    <cosponsor thomas_id="01912" joined="2013-03-20"/>
+    <cosponsor thomas_id="01959" joined="2013-02-14"/>
+    <cosponsor thomas_id="00229" joined="2013-02-14"/>
+    <cosponsor thomas_id="00231" joined="2013-02-14"/>
+    <cosponsor thomas_id="01643" joined="2013-03-11"/>
+    <cosponsor thomas_id="00256" joined="2013-02-14"/>
+    <cosponsor thomas_id="01477" joined="2013-02-14"/>
+    <cosponsor thomas_id="01641" joined="2013-04-10"/>
+    <cosponsor thomas_id="01799" joined="2013-02-14"/>
+    <cosponsor thomas_id="00316" joined="2013-02-14"/>
+    <cosponsor thomas_id="01894" joined="2013-02-14"/>
+    <cosponsor thomas_id="01857" joined="2013-02-14"/>
+    <cosponsor thomas_id="00344" joined="2013-03-20"/>
+    <cosponsor thomas_id="00368" joined="2013-02-14"/>
+    <cosponsor thomas_id="00371" joined="2013-03-18"/>
+    <cosponsor thomas_id="01797" joined="2013-02-14"/>
+    <cosponsor thomas_id="00414" joined="2013-02-14"/>
+    <cosponsor thomas_id="01895" joined="2013-02-14"/>
+    <cosponsor thomas_id="01737" joined="2013-02-14"/>
+    <cosponsor thomas_id="01656" joined="2013-02-26"/>
+    <cosponsor thomas_id="01803" joined="2013-02-14"/>
+    <cosponsor thomas_id="01708" joined="2013-03-15"/>
+    <cosponsor thomas_id="00511" joined="2013-02-14"/>
+    <cosponsor thomas_id="01580" joined="2013-02-14"/>
+    <cosponsor thomas_id="02147" joined="2013-02-14"/>
+    <cosponsor thomas_id="01663" joined="2013-03-11"/>
+    <cosponsor thomas_id="02149" joined="2013-02-14"/>
+    <cosponsor thomas_id="00599" joined="2013-02-14"/>
+    <cosponsor thomas_id="00635" joined="2013-02-14"/>
+    <cosponsor thomas_id="01936" joined="2013-02-14"/>
+    <cosponsor thomas_id="01501" joined="2013-02-14"/>
+    <cosponsor thomas_id="00683" joined="2013-02-14"/>
+    <cosponsor thomas_id="00688" joined="2013-02-14"/>
+    <cosponsor thomas_id="00699" joined="2013-02-14"/>
+    <cosponsor thomas_id="00701" joined="2013-03-13"/>
+    <cosponsor thomas_id="01653" joined="2013-02-14"/>
+    <cosponsor thomas_id="01504" joined="2013-02-14"/>
+    <cosponsor thomas_id="01506" joined="2013-02-14"/>
+    <cosponsor thomas_id="00808" joined="2013-02-14"/>
+    <cosponsor thomas_id="01811" joined="2013-02-14"/>
+    <cosponsor thomas_id="00832" joined="2013-02-14"/>
+    <cosponsor thomas_id="01602" joined="2013-02-14"/>
+    <cosponsor thomas_id="02108" joined="2013-02-14"/>
+    <cosponsor thomas_id="00868" joined="2013-02-14"/>
+    <cosponsor thomas_id="00887" joined="2013-02-14"/>
+    <cosponsor thomas_id="01510" joined="2013-02-14"/>
+    <cosponsor thomas_id="02113" joined="2013-02-26"/>
+    <cosponsor thomas_id="01915" joined="2013-03-11"/>
+    <cosponsor thomas_id="00930" joined="2013-03-11"/>
+    <cosponsor thomas_id="00940" joined="2013-02-26"/>
+    <cosponsor thomas_id="00944" joined="2013-02-14"/>
+    <cosponsor thomas_id="02023" joined="2013-02-14"/>
+    <cosponsor thomas_id="02039" joined="2013-02-14"/>
+    <cosponsor thomas_id="01003" joined="2013-02-14"/>
+    <cosponsor thomas_id="01588" joined="2013-03-11"/>
+    <cosponsor thomas_id="01635" joined="2013-04-10"/>
+    <cosponsor thomas_id="01722" joined="2013-02-14"/>
+    <cosponsor thomas_id="01041" joined="2013-03-11"/>
+    <cosponsor thomas_id="01988" joined="2013-02-14"/>
+    <cosponsor thomas_id="01818" joined="2013-02-14"/>
+    <cosponsor thomas_id="01071" joined="2013-02-14"/>
+    <cosponsor thomas_id="02110" joined="2013-02-14"/>
+    <cosponsor thomas_id="01151" joined="2013-02-14"/>
+    <cosponsor thomas_id="01952" joined="2013-02-14"/>
+    <cosponsor thomas_id="02166" joined="2013-02-14"/>
+    <cosponsor thomas_id="01777" joined="2013-02-26"/>
+    <cosponsor thomas_id="01205" joined="2013-02-14"/>
+    <cosponsor thomas_id="02004" joined="2013-02-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-02-14">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR H571"/>
+    </action>
+    <action datetime="2013-02-14" state="REFERRED">
+      <text>Referred to the House Committee on Oversight and Government Reform.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="sr" session="113" relation="unknown" number="41"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Cancer"/>
+    <term name="Commemorative events and holidays"/>
+    <term name="Digestive and metabolic diseases"/>
+    <term name="Health promotion and preventive care"/>
+  </subjects>
+  <amendments/>
+  <summary>2/14/2013--Introduced.
+Expresses support for the goals and ideals of National Colorectal Cancer Awareness Month.</summary>
+</bill>

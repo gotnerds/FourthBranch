@@ -1,0 +1,155 @@
+<bill session="113" type="h" number="311" updated="2014-08-14T12:53:22-04:00">
+  <state datetime="2014-03-11T15:41:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-03-11T15:41:00-04:00"/>
+  </status>
+  <introduced datetime="2013-01-18"/>
+  <titles>
+    <title type="short" as="introduced">Farmers Undertake Environmental Land Stewardship Act</title>
+    <title type="short" as="introduced">FUELS Act</title>
+    <title type="short" as="reported to house">Farmers Undertake Environmental Land Stewardship</title>
+    <title type="short" as="reported to house">FUELS Act</title>
+    <title type="short" as="passed house">Farmers Undertake Environmental Land Stewardship</title>
+    <title type="short" as="passed house">FUELS Act</title>
+    <title type="official" as="introduced">To direct the Administrator of the Environmental Protection Agency to change the Spill Prevention, Control, and Countermeasure rule with respect to certain farms.</title>
+  </titles>
+  <sponsor thomas_id="01989"/>
+  <cosponsors>
+    <cosponsor thomas_id="01727" joined="2013-03-05"/>
+    <cosponsor thomas_id="02054" joined="2013-01-18"/>
+    <cosponsor thomas_id="02135" joined="2013-01-29"/>
+    <cosponsor thomas_id="01787" joined="2013-02-26"/>
+    <cosponsor thomas_id="02018" joined="2013-01-18"/>
+    <cosponsor thomas_id="01752" joined="2013-01-18"/>
+    <cosponsor thomas_id="01925" joined="2013-01-18"/>
+    <cosponsor thomas_id="01742" joined="2013-01-18"/>
+    <cosponsor thomas_id="01805" joined="2013-02-26"/>
+    <cosponsor thomas_id="02098" joined="2013-01-29"/>
+    <cosponsor thomas_id="02144" joined="2013-01-18"/>
+    <cosponsor thomas_id="02138" joined="2013-02-08"/>
+    <cosponsor thomas_id="01995" joined="2013-01-18"/>
+    <cosponsor thomas_id="02062" joined="2013-01-18"/>
+    <cosponsor thomas_id="02057" joined="2013-01-18"/>
+    <cosponsor thomas_id="02036" joined="2013-01-29"/>
+    <cosponsor thomas_id="02064" joined="2013-01-18"/>
+    <cosponsor thomas_id="01683" joined="2013-10-30"/>
+    <cosponsor thomas_id="01793" joined="2013-05-17"/>
+    <cosponsor thomas_id="01707" joined="2013-01-18"/>
+    <cosponsor thomas_id="01998" joined="2013-03-25"/>
+    <cosponsor thomas_id="02049" joined="2013-01-18"/>
+    <cosponsor thomas_id="01656" joined="2013-01-18"/>
+    <cosponsor thomas_id="01979" joined="2013-03-04"/>
+    <cosponsor thomas_id="01990" joined="2013-01-18"/>
+    <cosponsor thomas_id="02032" joined="2013-03-25"/>
+    <cosponsor thomas_id="01749" joined="2013-06-04"/>
+    <cosponsor thomas_id="02020" joined="2013-01-29"/>
+    <cosponsor thomas_id="02028" joined="2013-01-22"/>
+    <cosponsor thomas_id="02015" joined="2013-01-18"/>
+    <cosponsor thomas_id="01921" joined="2013-03-15"/>
+    <cosponsor thomas_id="02046" joined="2013-01-18"/>
+    <cosponsor thomas_id="00612" joined="2013-01-18"/>
+    <cosponsor thomas_id="01724" joined="2013-01-18"/>
+    <cosponsor thomas_id="00636" joined="2013-02-26"/>
+    <cosponsor thomas_id="01733" joined="2013-02-04"/>
+    <cosponsor thomas_id="02050" joined="2013-03-15"/>
+    <cosponsor thomas_id="00666" joined="2013-03-19"/>
+    <cosponsor thomas_id="01885" joined="2013-01-18"/>
+    <cosponsor thomas_id="01846" joined="2013-04-10"/>
+    <cosponsor thomas_id="02033" joined="2013-02-06"/>
+    <cosponsor thomas_id="00711" joined="2013-01-18"/>
+    <cosponsor thomas_id="01931" joined="2013-01-18"/>
+    <cosponsor thomas_id="01505" joined="2013-01-18"/>
+    <cosponsor thomas_id="01730" joined="2013-01-18"/>
+    <cosponsor thomas_id="02156" joined="2013-01-29"/>
+    <cosponsor thomas_id="02059" joined="2013-03-13"/>
+    <cosponsor thomas_id="01758" joined="2013-03-04"/>
+    <cosponsor thomas_id="02034" joined="2013-02-04"/>
+    <cosponsor thomas_id="02035" joined="2013-01-23"/>
+    <cosponsor thomas_id="00910" joined="2013-01-18"/>
+    <cosponsor thomas_id="01802" joined="2013-01-18"/>
+    <cosponsor thomas_id="02022" joined="2013-02-25"/>
+    <cosponsor thomas_id="01982" joined="2013-03-04"/>
+    <cosponsor thomas_id="02073" joined="2013-01-18"/>
+    <cosponsor thomas_id="01986" joined="2013-03-21"/>
+    <cosponsor thomas_id="02017" joined="2013-03-13"/>
+    <cosponsor thomas_id="01916" joined="2013-02-06"/>
+    <cosponsor thomas_id="02009" joined="2013-01-18"/>
+    <cosponsor thomas_id="01860" joined="2013-01-18"/>
+    <cosponsor thomas_id="02168" joined="2013-01-29"/>
+    <cosponsor thomas_id="01114" joined="2013-01-18"/>
+    <cosponsor thomas_id="01566" joined="2013-01-18"/>
+    <cosponsor thomas_id="01151" joined="2013-01-18"/>
+    <cosponsor thomas_id="01952" joined="2013-01-18"/>
+    <cosponsor thomas_id="01155" joined="2013-03-13"/>
+    <cosponsor thomas_id="02105" joined="2013-02-06"/>
+    <cosponsor thomas_id="02137" joined="2013-03-15"/>
+    <cosponsor thomas_id="01596" joined="2014-02-04"/>
+    <cosponsor thomas_id="02152" joined="2013-05-08"/>
+    <cosponsor thomas_id="01779" joined="2013-01-18"/>
+    <cosponsor thomas_id="01991" joined="2013-01-18"/>
+    <cosponsor thomas_id="02115" joined="2013-02-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-01-18" state="REFERRED">
+      <text>Referred to the House Committee on Transportation and Infrastructure.</text>
+    </action>
+    <action datetime="2013-01-21">
+      <text>Referred to the Subcommittee on Water Resources and Environment.</text>
+    </action>
+    <action datetime="2013-10-29">
+      <text>Subcommittee on Water Resources and Environment Discharged.</text>
+    </action>
+    <action datetime="2013-10-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2013-10-29" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+    <action datetime="2014-03-06T09:33:00-05:00">
+      <text>Reported by the Committee on Transportation and Infrastructure. H. Rept. 113-375.</text>
+    </action>
+    <calendar datetime="2014-03-06T09:33:00-05:00" calendar="Union" number="279">
+      <text>Placed on the Union Calendar, Calendar No. 279.</text>
+    </calendar>
+    <action datetime="2014-03-11T15:31:00-04:00">
+      <text>Mr. Crawford moved to suspend the rules and pass the bill.</text>
+      <reference ref="CR H2264" label="consideration"/>
+    </action>
+    <action datetime="2014-03-11T15:31:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H2264-2266" label="consideration"/>
+    </action>
+    <action datetime="2014-03-11T15:31:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 311.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-03-11T15:41:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H2264-2265" label="text"/>
+    </vote>
+    <action datetime="2014-03-12">
+      <text>Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSPW" name="House Transportation and Infrastructure" activity="Referral, Markup, Reporting, In Committee"/>
+    <committee subcommittee="Water Resources and Environment" code="HSPW02" name="House Transportation and Infrastructure" activity="Referral, Discharged"/>
+    <committee subcommittee="" code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="496"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Agricultural conservation and pollution"/>
+    <term name="Environmental Protection Agency (EPA)"/>
+    <term name="Environmental regulatory procedures"/>
+    <term name="Oil and gas"/>
+    <term name="Water quality"/>
+  </subjects>
+  <amendments/>
+  <summary>3/11/2014--Passed House without amendment.
+Farmers Undertake Environmental Land Stewardship Act or the FUELS Act - Requires the Administrator of the Environmental Protection Agency (EPA), in implementing the Spill Prevention, Control, and Countermeasure rule with respect to any farm, to require certification of compliance with such rule by: (1) a professional engineer for a farm with an individual tank with an aboveground storage capacity greater than 10,000 gallons, an aggregate aboveground storage capacity of at least 42,000 gallons, or a history that includes a spill, as determined by the Administrator; or (2) the owner or operator of the farm (via self-certification) for a farm with an aggregate aboveground storage capacity greater than 10,000 gallons but less than 42,000 gallons and no history of spills. Directs the Administrator to exempt from all requirements of such rule any farm with an aggregate aboveground storage capacity of 10,000 gallons or less and no history of spills.
+
+Excludes from the aggregate storage capacity of a farm all containers on separate parcels that have a capacity that is less than 1,320 gallons.</summary>
+</bill>

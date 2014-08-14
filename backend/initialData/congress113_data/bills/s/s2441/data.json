@@ -1,0 +1,145 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-05", 
+      "references": [
+        {
+          "reference": "CR S3477", 
+          "type": null
+        }
+      ], 
+      "text": "Sponsor introductory remarks on measure.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-05", 
+      "committees": [
+        "SSJU"
+      ], 
+      "references": [], 
+      "status": "REFERRED", 
+      "text": "Read twice and referred to the Committee on the Judiciary.", 
+      "type": "referral"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2441-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "Senate Judiciary", 
+      "committee_id": "SSJU"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [
+    {
+      "district": null, 
+      "name": "Ayotte, Kelly", 
+      "sponsored_at": "2014-06-05", 
+      "state": "NH", 
+      "thomas_id": "02075", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Coons, Christopher A.", 
+      "sponsored_at": "2014-07-22", 
+      "state": "DE", 
+      "thomas_id": "01984", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Leahy, Patrick J.", 
+      "sponsored_at": "2014-06-05", 
+      "state": "VT", 
+      "thomas_id": "01383", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Markey, Edward J.", 
+      "sponsored_at": "2014-06-05", 
+      "state": "MA", 
+      "thomas_id": "00735", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Shaheen, Jeanne", 
+      "sponsored_at": "2014-06-10", 
+      "state": "NH", 
+      "thomas_id": "01901", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }, 
+    {
+      "district": null, 
+      "name": "Whitehouse, Sheldon", 
+      "sponsored_at": "2014-06-05", 
+      "state": "RI", 
+      "thomas_id": "01823", 
+      "title": "Sen", 
+      "withdrawn_at": null
+    }
+  ], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-06-05", 
+  "number": "2441", 
+  "official_title": "A bill to extend the same Federal benefits to law enforcement officers serving private institutions of higher education and rail carriers that apply to law enforcement officers serving units of State and local government.", 
+  "popular_title": null, 
+  "related_bills": [], 
+  "short_title": "Equity in Law Enforcement Act of 2014", 
+  "sponsor": {
+    "district": null, 
+    "name": "Reed, Jack", 
+    "state": "RI", 
+    "thomas_id": "00949", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REFERRED", 
+  "status_at": "2014-06-05", 
+  "subjects": [
+    "Crime and law enforcement", 
+    "Disability assistance", 
+    "Employee benefits and pensions", 
+    "Higher education", 
+    "Law enforcement administration and funding", 
+    "Law enforcement officers", 
+    "Railroads", 
+    "Transportation employees"
+  ], 
+  "subjects_top_term": "Crime and law enforcement", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Equity in Law Enforcement Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "A bill to extend the same Federal benefits to law enforcement officers serving private institutions of higher education and rail carriers that apply to law enforcement officers serving units of State and local government.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T14:05:38-04:00"
+}

@@ -1,0 +1,64 @@
+<bill session="113" type="hr" number="675" updated="2014-08-14T12:50:22-04:00">
+  <state datetime="2014-07-17">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-17"/>
+  </status>
+  <introduced datetime="2014-07-17"/>
+  <titles>
+    <title type="official" as="introduced">Supporting the Constitutional authority of the Governors of the States of Texas, New Mexico, Arizona, and California to take action to secure the international border of the United States within their States.</title>
+  </titles>
+  <sponsor thomas_id="01724"/>
+  <cosponsors>
+    <cosponsor thomas_id="01858" joined="2014-07-17"/>
+    <cosponsor thomas_id="01753" joined="2014-07-17"/>
+    <cosponsor thomas_id="01748" joined="2014-07-24"/>
+    <cosponsor thomas_id="01751" joined="2014-07-17"/>
+    <cosponsor thomas_id="02200" joined="2014-07-24"/>
+    <cosponsor thomas_id="00211" joined="2014-07-22"/>
+    <cosponsor thomas_id="02057" joined="2014-07-17"/>
+    <cosponsor thomas_id="00322" joined="2014-07-17"/>
+    <cosponsor thomas_id="01924" joined="2014-07-17"/>
+    <cosponsor thomas_id="01707" joined="2014-07-17"/>
+    <cosponsor thomas_id="02049" joined="2014-07-17"/>
+    <cosponsor thomas_id="01720" joined="2014-07-17"/>
+    <cosponsor thomas_id="01801" joined="2014-07-17"/>
+    <cosponsor thomas_id="01992" joined="2014-07-22"/>
+    <cosponsor thomas_id="02026" joined="2014-07-24"/>
+    <cosponsor thomas_id="00612" joined="2014-07-17"/>
+    <cosponsor thomas_id="02100" joined="2014-07-17"/>
+    <cosponsor thomas_id="01834" joined="2014-07-17"/>
+    <cosponsor thomas_id="01960" joined="2014-07-24"/>
+    <cosponsor thomas_id="01806" joined="2014-07-17"/>
+    <cosponsor thomas_id="02094" joined="2014-07-17"/>
+    <cosponsor thomas_id="01908" joined="2014-07-17"/>
+    <cosponsor thomas_id="02074" joined="2014-07-24"/>
+    <cosponsor thomas_id="02142" joined="2014-07-17"/>
+    <cosponsor thomas_id="02035" joined="2014-07-17"/>
+    <cosponsor thomas_id="01915" joined="2014-07-17"/>
+    <cosponsor thomas_id="01778" joined="2014-07-24"/>
+    <cosponsor thomas_id="02160" joined="2014-07-17"/>
+    <cosponsor thomas_id="00979" joined="2014-07-17"/>
+    <cosponsor thomas_id="02017" joined="2014-07-24"/>
+    <cosponsor thomas_id="01009" joined="2014-07-24"/>
+    <cosponsor thomas_id="01012" joined="2014-07-24"/>
+    <cosponsor thomas_id="01075" joined="2014-07-17"/>
+    <cosponsor thomas_id="02000" joined="2014-07-24"/>
+    <cosponsor thomas_id="01114" joined="2014-07-17"/>
+    <cosponsor thomas_id="02161" joined="2014-07-17"/>
+    <cosponsor thomas_id="01779" joined="2014-07-22"/>
+    <cosponsor thomas_id="02165" joined="2014-07-24"/>
+    <cosponsor thomas_id="01688" joined="2014-07-17"/>
+    <cosponsor thomas_id="02115" joined="2014-07-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-17" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

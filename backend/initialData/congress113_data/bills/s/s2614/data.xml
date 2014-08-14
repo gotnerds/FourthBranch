@@ -1,0 +1,25 @@
+<bill session="113" type="s" number="2614" updated="2014-08-14T14:07:05-04:00">
+  <state datetime="2014-07-16">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-16"/>
+  </status>
+  <introduced datetime="2014-07-16"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend certain provisions of the FAA Modernization and Reform Act of 2012.</title>
+  </titles>
+  <sponsor thomas_id="00583"/>
+  <cosponsors>
+    <cosponsor thomas_id="00136" joined="2014-07-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

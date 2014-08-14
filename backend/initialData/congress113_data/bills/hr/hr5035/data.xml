@@ -1,0 +1,49 @@
+<bill session="113" type="h" number="5035" updated="2014-08-14T13:34:28-04:00">
+  <state datetime="2014-07-22T15:58:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2014-07-22T15:58:00-04:00"/>
+  </status>
+  <introduced datetime="2014-07-09"/>
+  <titles>
+    <title type="short" as="introduced">NIST Reauthorization Act of 2014</title>
+    <title type="short" as="passed house">NIST Reauthorization Act of 2014</title>
+    <title type="official" as="introduced">To reauthorize the National Institute of Standards and Technology, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02018"/>
+  <cosponsors>
+    <cosponsor thomas_id="02151" joined="2014-07-09"/>
+    <cosponsor thomas_id="01075" joined="2014-07-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-09" state="REFERRED">
+      <text>Referred to the House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="2014-07-22T15:51:00-04:00">
+      <text>Mr. Bucshon moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2014-07-22T15:51:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H6597-6601" label="consideration"/>
+    </action>
+    <action datetime="2014-07-22T15:51:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 5035.</text>
+    </action>
+    <vote how="by voice vote" type="vote" datetime="2014-07-22T15:58:00-04:00" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by voice vote.</text>
+      <reference ref="CR H6597-6599" label="text"/>
+    </vote>
+    <action datetime="2014-07-22T15:58:00-04:00">
+      <text>Motion to reconsider laid on the table Agreed to without objection.</text>
+    </action>
+    <action datetime="2014-07-23">
+      <text>Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSSY" name="House Science, Space, and Technology" activity="Referral"/>
+    <committee subcommittee="" code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

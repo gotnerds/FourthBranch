@@ -1,0 +1,26 @@
+<bill session="113" type="h" number="5288" updated="2014-08-14T13:36:38-04:00">
+  <state datetime="2014-07-30">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-30"/>
+  </status>
+  <introduced datetime="2014-07-30"/>
+  <titles>
+    <title type="short" as="introduced">National Care Corps Act of 2014</title>
+    <title type="official" as="introduced">To establish a National Care Corps through which qualified volunteers provide care, companionship, and other services to seniors and individuals with disabilities.</title>
+  </titles>
+  <sponsor thomas_id="02146"/>
+  <cosponsors>
+    <cosponsor thomas_id="00511" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-30" state="REFERRED">
+      <text>Referred to the House Committee on Education and the Workforce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

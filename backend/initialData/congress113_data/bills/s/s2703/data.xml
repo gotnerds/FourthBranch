@@ -1,0 +1,27 @@
+<bill session="113" type="s" number="2703" updated="2014-08-14T14:07:50-04:00">
+  <state datetime="2014-07-30">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-30"/>
+  </status>
+  <introduced datetime="2014-07-30"/>
+  <titles>
+    <title type="short" as="introduced">Military SAFE Standards Act</title>
+    <title type="official" as="introduced">A bill to establish eligibility, assignment, training, and certification requirements for sexual assault forensic examiners for the Armed Forces, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="00116"/>
+  <cosponsors>
+    <cosponsor thomas_id="01898" joined="2014-07-31"/>
+    <cosponsor thomas_id="01541" joined="2014-07-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-30" state="REFERRED">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSAS" name="Senate Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

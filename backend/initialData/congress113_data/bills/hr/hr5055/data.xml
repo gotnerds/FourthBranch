@@ -1,0 +1,37 @@
+<bill session="113" type="h" number="5055" updated="2014-08-14T13:34:38-04:00">
+  <state datetime="2014-07-10">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-10"/>
+  </status>
+  <introduced datetime="2014-07-10"/>
+  <titles>
+    <title type="short" as="introduced">Partnership to Strengthen Homeownership Act of 2014</title>
+    <title type="official" as="introduced">To reform the housing finance system of the United States, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02133"/>
+  <cosponsors>
+    <cosponsor thomas_id="01999" joined="2014-07-10"/>
+    <cosponsor thomas_id="01888" joined="2014-07-10"/>
+    <cosponsor thomas_id="02170" joined="2014-07-10"/>
+    <cosponsor thomas_id="01913" joined="2014-07-10"/>
+    <cosponsor thomas_id="01506" joined="2014-07-10"/>
+    <cosponsor thomas_id="02117" joined="2014-07-10"/>
+    <cosponsor thomas_id="01974" joined="2014-07-10"/>
+    <cosponsor thomas_id="01910" joined="2014-07-10"/>
+    <cosponsor thomas_id="01967" joined="2014-07-10"/>
+    <cosponsor thomas_id="01722" joined="2014-07-10"/>
+    <cosponsor thomas_id="02099" joined="2014-07-10"/>
+    <cosponsor thomas_id="01879" joined="2014-07-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-10" state="REFERRED">
+      <text>Referred to the House Committee on Financial Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

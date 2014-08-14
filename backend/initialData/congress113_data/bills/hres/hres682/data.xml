@@ -1,0 +1,41 @@
+<bill session="113" type="hr" number="682" updated="2014-08-14T12:50:26-04:00">
+  <state datetime="2014-07-24">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-24"/>
+  </status>
+  <introduced datetime="2014-07-24"/>
+  <titles>
+    <title type="official" as="introduced">Expressing the sense of the House of Representatives regarding worker protections in Qatar and the 2022 Federation Internationale de Football Association (FIFA) World Cup.</title>
+  </titles>
+  <sponsor thomas_id="00808"/>
+  <cosponsors>
+    <cosponsor thomas_id="01469" joined="2014-07-24"/>
+    <cosponsor thomas_id="02196" joined="2014-07-24"/>
+    <cosponsor thomas_id="00229" joined="2014-07-24"/>
+    <cosponsor thomas_id="00281" joined="2014-07-24"/>
+    <cosponsor thomas_id="01708" joined="2014-07-24"/>
+    <cosponsor thomas_id="02172" joined="2014-07-24"/>
+    <cosponsor thomas_id="00688" joined="2014-07-24"/>
+    <cosponsor thomas_id="01653" joined="2014-07-24"/>
+    <cosponsor thomas_id="00766" joined="2014-07-24"/>
+    <cosponsor thomas_id="01504" joined="2014-07-24"/>
+    <cosponsor thomas_id="00868" joined="2014-07-24"/>
+    <cosponsor thomas_id="01510" joined="2014-07-24"/>
+    <cosponsor thomas_id="02171" joined="2014-07-24"/>
+    <cosponsor thomas_id="00944" joined="2014-07-24"/>
+    <cosponsor thomas_id="01588" joined="2014-07-24"/>
+    <cosponsor thomas_id="02104" joined="2014-07-24"/>
+    <cosponsor thomas_id="01729" joined="2014-07-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-24" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

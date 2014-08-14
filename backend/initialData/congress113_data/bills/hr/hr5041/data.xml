@@ -1,0 +1,42 @@
+<bill session="113" type="h" number="5041" updated="2014-08-14T13:34:31-04:00">
+  <state datetime="2014-07-30">REPORTED</state>
+  <status>
+    <unknown datetime="2014-07-30"/>
+  </status>
+  <introduced datetime="2014-07-09"/>
+  <titles>
+    <title type="official" as="introduced">To require the Secretary of State to offer rewards totaling up to $5,000,000 for information on the kidnapping and murder of Naftali Fraenkel, a dual United States-Israeli citizen, that began on June 12, 2014.</title>
+  </titles>
+  <sponsor thomas_id="01834"/>
+  <cosponsors>
+    <cosponsor thomas_id="01858" joined="2014-07-25"/>
+    <cosponsor thomas_id="01742" joined="2014-07-17"/>
+    <cosponsor thomas_id="02103" joined="2014-07-17"/>
+    <cosponsor thomas_id="01707" joined="2014-07-31"/>
+    <cosponsor thomas_id="01801" joined="2014-07-25"/>
+    <cosponsor thomas_id="01526" joined="2014-07-09"/>
+    <cosponsor thomas_id="02128" joined="2014-07-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-09" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2014-07-30">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-07-30" state="REPORTED">
+      <text>Ordered to be Reported (Amended) by Unanimous Consent.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="2577"/>
+    <bill type="s" session="113" relation="identical" number="2579"/>
+  </relatedbills>
+  <subjects/>
+  <amendments/>
+  <summary>7/9/2014--Introduced.
+Directs the Secretary of State, in accordance with the Rewards for Justice program authorized under the State Department Basic Authorities Act of 1956, to offer a reward of up to $5 million to any individual who furnishes information leading to the arrest or conviction in any country of any individual for committing, conspiring or attempting to commit, or aiding or abetting in the commission of the kidnapping and murder of Naftali Fraenkel.</summary>
+</bill>

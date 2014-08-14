@@ -1,0 +1,73 @@
+<bill session="113" type="h" number="3045" updated="2014-08-14T13:17:26-04:00">
+  <state datetime="2013-08-02">REFERRED</state>
+  <status>
+    <introduced datetime="2013-08-02"/>
+  </status>
+  <introduced datetime="2013-08-02"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 10, United States Code, to ensure that the Secretary of Defense provides each member of the Armed Forces, before the member separates from the Armed Forces, with an electronic copy of the medical records of the member and a physical examination.</title>
+  </titles>
+  <sponsor thomas_id="02162"/>
+  <cosponsors>
+    <cosponsor thomas_id="00099" joined="2013-08-02"/>
+    <cosponsor thomas_id="01912" joined="2013-08-02"/>
+    <cosponsor thomas_id="01878" joined="2014-06-12"/>
+    <cosponsor thomas_id="00229" joined="2013-08-02"/>
+    <cosponsor thomas_id="02103" joined="2013-09-16"/>
+    <cosponsor thomas_id="02125" joined="2013-08-02"/>
+    <cosponsor thomas_id="02114" joined="2013-09-26"/>
+    <cosponsor thomas_id="02119" joined="2013-09-10"/>
+    <cosponsor thomas_id="02122" joined="2013-08-02"/>
+    <cosponsor thomas_id="02164" joined="2013-08-02"/>
+    <cosponsor thomas_id="00511" joined="2013-09-10"/>
+    <cosponsor thomas_id="02040" joined="2013-09-19"/>
+    <cosponsor thomas_id="02046" joined="2013-09-19"/>
+    <cosponsor thomas_id="00612" joined="2013-09-06"/>
+    <cosponsor thomas_id="01907" joined="2013-09-16"/>
+    <cosponsor thomas_id="02100" joined="2013-09-10"/>
+    <cosponsor thomas_id="02111" joined="2013-09-19"/>
+    <cosponsor thomas_id="01730" joined="2013-08-02"/>
+    <cosponsor thomas_id="01916" joined="2013-08-02"/>
+    <cosponsor thomas_id="02109" joined="2013-08-02"/>
+    <cosponsor thomas_id="01003" joined="2013-09-16"/>
+    <cosponsor thomas_id="01962" joined="2013-08-02"/>
+    <cosponsor thomas_id="02168" joined="2013-08-02"/>
+    <cosponsor thomas_id="02047" joined="2013-09-20"/>
+    <cosponsor thomas_id="02110" joined="2013-09-20"/>
+    <cosponsor thomas_id="01593" joined="2013-09-06"/>
+    <cosponsor thomas_id="02112" joined="2013-09-25"/>
+    <cosponsor thomas_id="01856" joined="2013-08-02"/>
+    <cosponsor thomas_id="02152" joined="2013-09-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-08-02">
+      <text>Sponsor introductory remarks on measure.</text>
+      <reference ref="CR E1233"/>
+    </action>
+    <action datetime="2013-08-02" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2013-08-29">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee subcommittee="Military Personnel" code="HSAS02" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Health information and medical records"/>
+    <term name="Medical tests and diagnostic methods"/>
+    <term name="Military medicine"/>
+    <term name="Military personnel and dependents"/>
+  </subjects>
+  <amendments/>
+  <summary>8/2/2013--Introduced.
+Directs the Secretary of the military department concerned to provide to each member of the Armed Forces who is scheduled to be separated from service a copy of such member's medical records in an electronic format.
+
+Requires such records to include any medical records that, in connection with service in the National Guard, are maintained by the governor of the appropriate state, commonwealth, territory, or possession or the Commanding General of the National Guard of the District of Columbia.
+
+Directs the Secretary concerned to provide to a member who is scheduled to be separated a comprehensive physical examination immediately before that separation. Repeals provisions authorizing the waiver of such examination if the member has otherwise undergone an examination within 12 months before the scheduled date of separation. Prohibits a member from being entitled to health care benefits solely by reason of being provided such examination.</summary>
+</bill>

@@ -1,0 +1,135 @@
+{
+  "actions": [
+    {
+      "acted_at": "2014-06-26", 
+      "committees": [
+        "SSAP"
+      ], 
+      "references": [], 
+      "text": "Committee on Appropriations. Original measure reported to Senate by Senator Landrieu. With written report No. 113-198.", 
+      "type": "action"
+    }, 
+    {
+      "acted_at": "2014-06-26", 
+      "calendar": "Senate Legislative", 
+      "number": "443", 
+      "references": [], 
+      "status": "REPORTED", 
+      "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 443.", 
+      "type": "calendar", 
+      "under": "General Orders"
+    }
+  ], 
+  "amendments": [], 
+  "bill_id": "s2534-113", 
+  "bill_type": "s", 
+  "by_request": false, 
+  "committees": [
+    {
+      "activity": [
+        "origin", 
+        "reporting"
+      ], 
+      "committee": "Senate Appropriations", 
+      "committee_id": "SSAP"
+    }
+  ], 
+  "congress": "113", 
+  "cosponsors": [], 
+  "enacted_as": null, 
+  "history": {
+    "active": false, 
+    "awaiting_signature": false, 
+    "enacted": false, 
+    "vetoed": false
+  }, 
+  "introduced_at": "2014-06-26", 
+  "number": "2534", 
+  "official_title": "An original bill making appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2015, and for other purposes.", 
+  "popular_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr933-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr2217-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr3547-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "hr4903-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Department of Homeland Security Appropriations Act, 2015", 
+  "sponsor": {
+    "district": null, 
+    "name": "Landrieu, Mary L.", 
+    "state": "LA", 
+    "thomas_id": "01546", 
+    "title": "Sen", 
+    "type": "person"
+  }, 
+  "status": "REPORTED", 
+  "status_at": "2014-06-26", 
+  "subjects": [
+    "Appropriations", 
+    "Aviation and airports", 
+    "Border security and unlawful immigration", 
+    "Chemical and biological weapons", 
+    "Child safety and welfare", 
+    "Citizenship and naturalization", 
+    "Coast guard", 
+    "Computer security and identity theft", 
+    "Customs enforcement", 
+    "Department of Homeland Security", 
+    "Disaster relief and insurance", 
+    "Economics and public finance", 
+    "Emergency planning and evacuation", 
+    "Executive agency funding and structure", 
+    "Federal Emergency Management Agency (FEMA)", 
+    "Fires", 
+    "Floods and storm protection", 
+    "Government buildings, facilities, and property", 
+    "Homelessness and emergency shelter", 
+    "Immigration status and procedures", 
+    "Law enforcement administration and funding", 
+    "Law enforcement officers", 
+    "Nuclear weapons", 
+    "Research administration and funding", 
+    "Research and development", 
+    "Smuggling and trafficking", 
+    "Transportation safety and security"
+  ], 
+  "subjects_top_term": "Economics and public finance", 
+  "summary": null, 
+  "titles": [
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Department of Homeland Security Appropriations Act, 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "Department of Homeland Security Appropriations Act, 2015", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "An original bill making appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2015, and for other purposes.", 
+      "type": "official"
+    }
+  ], 
+  "updated_at": "2014-08-14T14:06:25-04:00"
+}

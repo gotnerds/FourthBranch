@@ -1,0 +1,112 @@
+<bill session="113" type="h" number="2449" updated="2014-08-14T13:12:16-04:00">
+  <state datetime="2013-09-17T19:04:00-04:00">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="2013-09-17T19:04:00-04:00"/>
+  </status>
+  <introduced datetime="2013-06-20"/>
+  <titles>
+    <title type="official" as="introduced">To authorize the President to extend the term of the Agreement for Cooperation between the Government of the United States of America and the Government of the Republic of Korea Concerning Civil Uses of Nuclear Energy for a period not to exceed March 19, 2016.</title>
+  </titles>
+  <sponsor thomas_id="00998"/>
+  <cosponsors>
+    <cosponsor thomas_id="00062" joined="2013-07-22"/>
+    <cosponsor thomas_id="01996" joined="2013-07-18"/>
+    <cosponsor thomas_id="02135" joined="2013-07-23"/>
+    <cosponsor thomas_id="02102" joined="2013-07-17"/>
+    <cosponsor thomas_id="02163" joined="2013-07-18"/>
+    <cosponsor thomas_id="00186" joined="2013-06-20"/>
+    <cosponsor thomas_id="02055" joined="2013-07-18"/>
+    <cosponsor thomas_id="02121" joined="2013-06-20"/>
+    <cosponsor thomas_id="01959" joined="2013-07-17"/>
+    <cosponsor thomas_id="02103" joined="2013-07-11"/>
+    <cosponsor thomas_id="02098" joined="2013-07-19"/>
+    <cosponsor thomas_id="02116" joined="2013-07-23"/>
+    <cosponsor thomas_id="00344" joined="2013-06-20"/>
+    <cosponsor thomas_id="00367" joined="2013-06-20"/>
+    <cosponsor thomas_id="01707" joined="2013-07-16"/>
+    <cosponsor thomas_id="02122" joined="2013-06-26"/>
+    <cosponsor thomas_id="01794" joined="2013-07-18"/>
+    <cosponsor thomas_id="02143" joined="2013-07-22"/>
+    <cosponsor thomas_id="02051" joined="2013-07-10"/>
+    <cosponsor thomas_id="00635" joined="2013-07-18"/>
+    <cosponsor thomas_id="02014" joined="2013-06-20"/>
+    <cosponsor thomas_id="01675" joined="2013-07-22"/>
+    <cosponsor thomas_id="01804" joined="2013-07-16"/>
+    <cosponsor thomas_id="00766" joined="2013-07-16"/>
+    <cosponsor thomas_id="02142" joined="2013-07-16"/>
+    <cosponsor thomas_id="01506" joined="2013-07-15"/>
+    <cosponsor thomas_id="02148" joined="2013-07-08"/>
+    <cosponsor thomas_id="02130" joined="2013-07-18"/>
+    <cosponsor thomas_id="01738" joined="2013-07-24"/>
+    <cosponsor thomas_id="02157" joined="2013-07-16"/>
+    <cosponsor thomas_id="01953" joined="2013-07-10"/>
+    <cosponsor thomas_id="01802" joined="2013-06-20"/>
+    <cosponsor thomas_id="02118" joined="2013-06-25"/>
+    <cosponsor thomas_id="00979" joined="2013-07-15"/>
+    <cosponsor thomas_id="00985" joined="2013-07-23"/>
+    <cosponsor thomas_id="01848" joined="2013-06-25"/>
+    <cosponsor thomas_id="01009" joined="2013-07-18"/>
+    <cosponsor thomas_id="01114" joined="2013-07-22"/>
+    <cosponsor thomas_id="02112" joined="2013-07-18"/>
+    <cosponsor thomas_id="02161" joined="2013-07-09"/>
+    <cosponsor thomas_id="01688" joined="2013-06-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-20" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="2013-07-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2013-07-24" state="REPORTED">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+    </calendar>
+    <action datetime="2013-09-17T12:12:00-04:00">
+      <text>Reported by the Committee on Foreign Affairs. H. Rept. 113-209.</text>
+    </action>
+    <calendar datetime="2013-09-17T12:12:00-04:00" calendar="Union" number="153">
+      <text>Placed on the Union Calendar, Calendar No. 153.</text>
+    </calendar>
+    <action datetime="2013-09-17T16:40:00-04:00">
+      <text>Mr. Royce moved to suspend the rules and pass the bill.</text>
+    </action>
+    <action datetime="2013-09-17T16:40:00-04:00">
+      <text>Considered under suspension of the rules.</text>
+      <reference ref="CR H5562-5564" label="consideration"/>
+    </action>
+    <action datetime="2013-09-17T16:40:00-04:00">
+      <text>DEBATE - The House proceeded with forty minutes of debate on H.R. 2449.</text>
+    </action>
+    <action datetime="2013-09-17T16:59:00-04:00">
+      <text>At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.</text>
+    </action>
+    <action datetime="2013-09-17T18:57:00-04:00">
+      <text>Considered as unfinished business.</text>
+      <reference ref="CR H5573-5574" label="consideration"/>
+    </action>
+    <vote how="roll" type="vote" roll="461" datetime="2013-09-17T19:04:00-04:00" where="h" result="pass" suspension="1" state="PASS_OVER:HOUSE">
+      <text>On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 407 - 0 (Roll no. 461).</text>
+      <reference ref="CR H5562" label="text"/>
+    </vote>
+    <action datetime="2013-09-18">
+      <text>Received in the Senate and Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral, Markup, Reporting"/>
+    <committee subcommittee="" code="SSFR" name="Senate Foreign Relations" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Arms control and nonproliferation"/>
+    <term name="Asia"/>
+    <term name="International law and treaties"/>
+    <term name="Nuclear power"/>
+    <term name="Nuclear weapons"/>
+    <term name="South Korea"/>
+  </subjects>
+  <amendments/>
+  <summary>9/17/2013--Passed House without amendment.
+Authorizes the President to extend the term of the Agreement for Cooperation between the Government of the United States of America and the Government of the Republic of Korea Concerning Civil Uses of Nuclear Energy for a period not to exceed March 19, 2016.</summary>
+</bill>

@@ -1,0 +1,51 @@
+<bill session="113" type="h" number="3109" updated="2014-08-14T13:17:57-04:00">
+  <state datetime="2014-07-30">REPORTED</state>
+  <status>
+    <unknown datetime="2014-07-30"/>
+  </status>
+  <introduced datetime="2013-09-17"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Migratory Bird Treaty Act to exempt certain Alaskan Native articles from prohibitions against sale of items containing nonedible migratory bird parts, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="01256"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="2013-09-17" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2013-09-20">
+      <text>Referred to the Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs.</text>
+    </action>
+    <action datetime="2014-07-23">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="2014-07-30">
+      <text>Subcommittee on Fisheries, Wildlife, Oceans, and Insular Affairs Discharged.</text>
+    </action>
+    <action datetime="2014-07-30">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="2014-07-30" state="REPORTED">
+      <text>Ordered to be Reported by Unanimous Consent.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral, Markup"/>
+    <committee subcommittee="Fisheries, Wildlife, Oceans, and Insular Affairs" code="HSII22" name="House Natural Resources" activity="Referral, Hearings, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1650"/>
+  </relatedbills>
+  <subjects>
+    <term name="Animals"/>
+    <term name="Alaska Natives and Hawaiians"/>
+    <term name="Birds"/>
+    <term name="Indian lands and resources rights"/>
+    <term name="Wildlife conservation and habitat protection"/>
+  </subjects>
+  <amendments/>
+  <summary>9/17/2013--Introduced.
+Amends the Migratory Bird Treaty Act to provide that nothing in such Act prohibits possessing, selling, bartering, purchasing, shipping, and transporting any authentic Alaskan Native article of handicraft or clothing on the basis that it contains a nonedible migratory bird part. Makes such exemption inapplicable with respect to any handicraft or clothing containing any part of a migratory bird that was taken in a wasteful manner.
+
+Defines "authentic Alaskan Native article of handicraft or clothing" to mean any item that is composed of natural materials and produced, decorated, or fashioned by an Alaskan Native (Indian, Aleut, or Eskimo who resides in Alaska), in the exercise of traditional Alaskan Native handicrafts, without the use of any pantograph or other mass copying device, including any weaving, carving, stitching, sewing, lacing, beading, drawing, or painting.</summary>
+</bill>

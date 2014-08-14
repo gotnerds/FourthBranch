@@ -1,0 +1,59 @@
+<bill session="113" type="h" number="1886" updated="2014-08-14T13:06:47-04:00">
+  <state datetime="2013-05-08">REFERRED</state>
+  <status>
+    <introduced datetime="2013-05-08"/>
+  </status>
+  <introduced datetime="2013-05-08"/>
+  <titles>
+    <title type="short" as="introduced">Promoting Border Commerce and Travel Act</title>
+    <title type="official" as="introduced">To prohibit land border crossing fees.</title>
+  </titles>
+  <sponsor thomas_id="02096"/>
+  <cosponsors>
+    <cosponsor thomas_id="02144" joined="2013-05-08"/>
+    <cosponsor thomas_id="02044" joined="2013-05-08"/>
+    <cosponsor thomas_id="01794" joined="2013-05-08"/>
+    <cosponsor thomas_id="02028" joined="2013-05-08"/>
+    <cosponsor thomas_id="01943" joined="2013-05-13"/>
+    <cosponsor thomas_id="00867" joined="2013-06-26"/>
+    <cosponsor thomas_id="01974" joined="2013-05-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-05-08" state="REFERRED">
+      <text>Referred to the Committee on the Judiciary, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</text>
+    </action>
+    <action datetime="2013-05-08">
+      <text>Referred to House Judiciary</text>
+    </action>
+    <action datetime="2013-05-08">
+      <text>Referred to House Ways and Means</text>
+    </action>
+    <action datetime="2013-06-03">
+      <text>Referred to the Subcommittee on Trade.</text>
+    </action>
+    <action datetime="2013-06-14">
+      <text>Referred to the Subcommittee on Immigration and Border Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee subcommittee="Immigration and Border Security" code="HSJU01" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee subcommittee="Trade" code="HSWM04" name="House Ways and Means" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Border security and unlawful immigration"/>
+    <term name="Canada"/>
+    <term name="Government studies and investigations"/>
+    <term name="Mexico"/>
+    <term name="Motor vehicles"/>
+    <term name="Pedestrians and bicycling"/>
+    <term name="Travel and tourism"/>
+    <term name="User charges and fees"/>
+  </subjects>
+  <amendments/>
+  <summary>5/8/2013--Introduced.
+Promoting Border Commerce and Travel Act - Prohibits the Secretary of Homeland Security (DHS) from: (1) establishing, collecting, or otherwise imposing a border crossing fee for pedestrians or passenger vehicles at land ports of entry along the southern or northern border of the United States; or (2) conducting any study relating to such fee's imposition.</summary>
+</bill>

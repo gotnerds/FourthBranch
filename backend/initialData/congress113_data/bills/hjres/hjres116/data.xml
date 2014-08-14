@@ -1,0 +1,37 @@
+<bill session="113" type="hj" number="116" updated="2014-08-14T13:38:32-04:00">
+  <state datetime="2014-06-09">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-09"/>
+  </status>
+  <introduced datetime="2014-06-09"/>
+  <titles>
+    <title type="official" as="introduced">Providing for the approval of the Congress of the proposed Agreement for Cooperation Between the Government of the United States of America and the Government of the Socialist Republic of Vietnam Concerning Peaceful Uses of Nuclear Energy transmitted on May 8, 2014.</title>
+  </titles>
+  <sponsor thomas_id="02014"/>
+  <cosponsors>
+    <cosponsor thomas_id="00344" joined="2014-06-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-09" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="sj" session="113" relation="identical" number="39"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Asia"/>
+    <term name="Congressional oversight"/>
+    <term name="International law and treaties"/>
+    <term name="International organizations and cooperation"/>
+    <term name="Nuclear power"/>
+    <term name="Vietnam"/>
+  </subjects>
+  <amendments/>
+  <summary>6/9/2014--Introduced.
+States that Congress favors the proposed Agreement for Cooperation Between the Government of the United States of America and the Government of the Socialist Republic of Vietnam Concerning Peaceful Uses of Nuclear Energy, transmitted on May 8, 2014.</summary>
+</bill>

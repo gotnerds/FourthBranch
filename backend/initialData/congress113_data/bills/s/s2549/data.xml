@@ -1,0 +1,35 @@
+<bill session="113" type="s" number="2549" updated="2014-08-14T14:06:32-04:00">
+  <state datetime="2014-06-26">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-26"/>
+  </status>
+  <introduced datetime="2014-06-26"/>
+  <titles>
+    <title type="short" as="introduced">Safe and Affordable Drugs from Canada Act of 2014</title>
+    <title type="official" as="introduced">A bill to amend the Federal Food, Drug, and Cosmetic Act to allow for the personal importation of safe and affordable drugs from approved pharmacies in Canada.</title>
+  </titles>
+  <sponsor thomas_id="01826"/>
+  <cosponsors>
+    <cosponsor thomas_id="00754" joined="2014-06-26"/>
+    <cosponsor thomas_id="01901" joined="2014-07-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-26" state="REFERRED">
+      <text>Read twice and referred to the Committee on Health, Education, Labor, and Pensions.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSHR" name="Senate Health, Education, Labor, and Pensions" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Administrative law and regulatory procedures"/>
+    <term name="Canada"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Drug safety, medical device, and laboratory regulation"/>
+    <term name="Prescription drugs"/>
+    <term name="Trade restrictions"/>
+  </subjects>
+  <amendments/>
+</bill>

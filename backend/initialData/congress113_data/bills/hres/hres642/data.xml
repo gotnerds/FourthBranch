@@ -1,0 +1,36 @@
+<bill session="113" type="hr" number="642" updated="2014-08-14T12:50:04-04:00">
+  <state datetime="2014-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="2014-06-25"/>
+  </status>
+  <introduced datetime="2014-06-25"/>
+  <titles>
+    <title type="official" as="introduced">Calling for the immediate and unconditional release of the three kidnapped teenagers held captive in the West Bank, and for other purposes.</title>
+  </titles>
+  <sponsor thomas_id="02124"/>
+  <cosponsors>
+    <cosponsor thomas_id="02196" joined="2014-07-11"/>
+    <cosponsor thomas_id="01913" joined="2014-07-11"/>
+    <cosponsor thomas_id="02172" joined="2014-07-11"/>
+    <cosponsor thomas_id="00850" joined="2014-07-11"/>
+    <cosponsor thomas_id="01940" joined="2014-07-11"/>
+    <cosponsor thomas_id="02161" joined="2014-06-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-06-25" state="REFERRED">
+      <text>Referred to the House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+  <summary>6/25/2014--Introduced.
+Demands the release of the three captives, Eyal Yifrach, Gil-ad Sha'er and Naftali Frankel.
+
+ Expresses: (1) support for Israel as a Jewish and democratic state, with secure borders, living in peace alongside an independent Palestinian state; (2) concern and sympathy for the families of Eyal Yifrach, Gil-ad Sha'er, and Naftali Frankel; and (3) a commitment to seek the captives' release.
+
+Reiterates the commitment of the House of Representatives to uphold the conditions in U.S. law regarding U.S. assistance to the Palestinian Authority (PA).</summary>
+</bill>

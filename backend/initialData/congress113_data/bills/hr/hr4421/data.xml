@@ -1,0 +1,43 @@
+<bill session="113" type="h" number="4421" updated="2014-08-14T13:29:06-04:00">
+  <state datetime="2014-04-08">REFERRED</state>
+  <status>
+    <introduced datetime="2014-04-08"/>
+  </status>
+  <introduced datetime="2014-04-08"/>
+  <titles>
+    <title type="short" as="introduced">MotorCities National Heritage Area Extension Act</title>
+    <title type="official" as="introduced">To extend the authorization for the Automobile National Heritage Area in Michigan.</title>
+  </titles>
+  <sponsor thomas_id="00299"/>
+  <cosponsors>
+    <cosponsor thomas_id="00229" joined="2014-05-21"/>
+    <cosponsor thomas_id="02134" joined="2014-05-19"/>
+    <cosponsor thomas_id="00683" joined="2014-05-07"/>
+    <cosponsor thomas_id="01929" joined="2014-05-20"/>
+    <cosponsor thomas_id="01177" joined="2014-07-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-04-08" state="REFERRED">
+      <text>Referred to the House Committee on Natural Resources.</text>
+    </action>
+    <action datetime="2014-04-15">
+      <text>Referred to the Subcommittee on Public Lands and Environmental Regulation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral"/>
+    <committee subcommittee="Public Lands and Environmental Regulation" code="HSII10" name="House Natural Resources" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="2221"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Historic sites and heritage areas"/>
+    <term name="Michigan"/>
+    <term name="Motor vehicles"/>
+  </subjects>
+  <amendments/>
+  <summary>4/8/2014--Introduced.
+MotorCities National Heritage Area Extension Act - Amends the Automobile National Heritage Area Act to extend through FY2030 the authority of the Secretary of the Interior to make grants or provide assistance for the Automobile National Heritage Area in Michigan.</summary>
+</bill>

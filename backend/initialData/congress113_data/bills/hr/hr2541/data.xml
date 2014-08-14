@@ -1,0 +1,75 @@
+<bill session="113" type="h" number="2541" updated="2014-08-14T13:13:09-04:00">
+  <state datetime="2013-06-27">REFERRED</state>
+  <status>
+    <introduced datetime="2013-06-27"/>
+  </status>
+  <introduced datetime="2013-06-27"/>
+  <titles>
+    <title type="short" as="introduced">Police Officers Protecting Children Act</title>
+    <title type="official" as="introduced">To allow certain off-duty law enforcement officers and retired law enforcement officers to carry a concealed firearm to protect children in a school zone.</title>
+  </titles>
+  <sponsor thomas_id="02032"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2013-07-11"/>
+    <cosponsor thomas_id="02027" joined="2013-06-27"/>
+    <cosponsor thomas_id="01748" joined="2013-06-27"/>
+    <cosponsor thomas_id="02129" joined="2013-09-20"/>
+    <cosponsor thomas_id="01882" joined="2013-06-27"/>
+    <cosponsor thomas_id="01751" joined="2013-07-09"/>
+    <cosponsor thomas_id="01752" joined="2013-06-27"/>
+    <cosponsor thomas_id="01925" joined="2013-06-27"/>
+    <cosponsor thomas_id="00186" joined="2013-06-27"/>
+    <cosponsor thomas_id="01742" joined="2013-06-27"/>
+    <cosponsor thomas_id="02144" joined="2013-07-09"/>
+    <cosponsor thomas_id="02116" joined="2013-06-27"/>
+    <cosponsor thomas_id="02062" joined="2013-06-27"/>
+    <cosponsor thomas_id="00322" joined="2013-07-09"/>
+    <cosponsor thomas_id="02036" joined="2013-10-10"/>
+    <cosponsor thomas_id="02067" joined="2013-07-11"/>
+    <cosponsor thomas_id="02064" joined="2013-06-27"/>
+    <cosponsor thomas_id="01707" joined="2013-07-11"/>
+    <cosponsor thomas_id="02140" joined="2013-07-19"/>
+    <cosponsor thomas_id="02046" joined="2013-06-27"/>
+    <cosponsor thomas_id="01724" joined="2013-06-27"/>
+    <cosponsor thomas_id="02033" joined="2013-06-27"/>
+    <cosponsor thomas_id="01931" joined="2013-06-27"/>
+    <cosponsor thomas_id="02142" joined="2013-06-27"/>
+    <cosponsor thomas_id="01685" joined="2013-06-27"/>
+    <cosponsor thomas_id="02059" joined="2013-06-27"/>
+    <cosponsor thomas_id="02060" joined="2013-06-27"/>
+    <cosponsor thomas_id="02035" joined="2013-06-27"/>
+    <cosponsor thomas_id="02118" joined="2013-06-27"/>
+    <cosponsor thomas_id="01954" joined="2013-06-27"/>
+    <cosponsor thomas_id="01994" joined="2013-06-27"/>
+    <cosponsor thomas_id="02191" joined="2013-06-27"/>
+    <cosponsor thomas_id="01075" joined="2013-07-25"/>
+    <cosponsor thomas_id="01981" joined="2013-11-21"/>
+    <cosponsor thomas_id="01855" joined="2013-07-19"/>
+    <cosponsor thomas_id="01779" joined="2013-07-19"/>
+    <cosponsor thomas_id="01688" joined="2013-07-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-06-27" state="REFERRED">
+      <text>Referred to the House Committee on the Judiciary.</text>
+    </action>
+    <action datetime="2013-07-15">
+      <text>Referred to the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee subcommittee="Crime, Terrorism, Homeland Security, and Investigations" code="HSJU08" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Child safety and welfare"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Firearms and explosives"/>
+    <term name="Law enforcement officers"/>
+    <term name="School administration"/>
+  </subjects>
+  <amendments/>
+  <summary>6/27/2013--Introduced.
+Police Officers Protecting Children Act - Amends the Brady Handgun Violence Prevention Act to provide that the prohibitions against possessing or discharging a firearm in a school zone shall not apply to off-duty or retired law enforcement officers who are authorized to carry a concealed firearm.</summary>
+</bill>

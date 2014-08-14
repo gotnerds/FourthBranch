@@ -1,0 +1,48 @@
+<bill session="113" type="h" number="1770" updated="2014-08-14T13:05:48-04:00">
+  <state datetime="2013-04-26">REFERRED</state>
+  <status>
+    <introduced datetime="2013-04-26"/>
+  </status>
+  <introduced datetime="2013-04-26"/>
+  <titles>
+    <title type="official" as="introduced">To amend title 10, United States Code, to eliminate the different treatment under the Survivor Benefit Plan accorded members of the reserve components who die from an injury or illness incurred or aggravated in the line of duty during inactive-duty training compared to members of the Armed Forces who die in the line of duty while on active duty.</title>
+  </titles>
+  <sponsor thomas_id="01956"/>
+  <cosponsors>
+    <cosponsor thomas_id="02093" joined="2013-04-26"/>
+    <cosponsor thomas_id="01753" joined="2013-04-26"/>
+    <cosponsor thomas_id="01723" joined="2013-10-10"/>
+    <cosponsor thomas_id="02144" joined="2013-10-10"/>
+    <cosponsor thomas_id="00303" joined="2014-02-11"/>
+    <cosponsor thomas_id="02164" joined="2013-10-29"/>
+    <cosponsor thomas_id="00666" joined="2013-10-10"/>
+    <cosponsor thomas_id="02160" joined="2013-04-26"/>
+    <cosponsor thomas_id="01861" joined="2014-07-29"/>
+    <cosponsor thomas_id="02168" joined="2013-04-26"/>
+    <cosponsor thomas_id="02161" joined="2013-10-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-04-26" state="REFERRED">
+      <text>Referred to the House Committee on Armed Services.</text>
+    </action>
+    <action datetime="2013-05-06">
+      <text>Referred to the Subcommittee on Military Personnel.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee subcommittee="Military Personnel" code="HSAS02" name="House Armed Services" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Military education and training"/>
+    <term name="Military personnel and dependents"/>
+    <term name="Veterans' pensions and compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>4/26/2013--Introduced.
+Makes the Survivor Benefit Plan (SBP) annuity for survivors of members of the reserves who die from an injury or illness incurred or aggravated in the line of duty during inactive-duty training the same as such annuity for survivors of members of the regular Armed Forces who die in the line of duty while on active duty. Provides the same increase with respect to the payment of an SBP annuity to a dependent child or children when there is no eligible surviving spouse.
+
+Directs the Secretary of Defense (DOD) to adjust SBP payment amounts to reflect such changes.</summary>
+</bill>

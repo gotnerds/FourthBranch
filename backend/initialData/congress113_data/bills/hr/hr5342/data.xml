@@ -1,0 +1,31 @@
+<bill session="113" type="h" number="5342" updated="2014-08-14T13:37:05-04:00">
+  <state datetime="2014-07-31">REFERRED</state>
+  <status>
+    <introduced datetime="2014-07-31"/>
+  </status>
+  <introduced datetime="2014-07-31"/>
+  <titles>
+    <title type="short" as="introduced">VA Credentialing and Privileging Improvement Act</title>
+    <title type="official" as="introduced">To direct the Secretary of Veterans Affairs to expeditiously grant privileges to members of the Armed Forces who are health care providers to provide hospital care and medical services in medical facilities of the Department of Veterans Affairs.</title>
+  </titles>
+  <sponsor thomas_id="02040"/>
+  <cosponsors>
+    <cosponsor thomas_id="02090" joined="2014-07-31"/>
+    <cosponsor thomas_id="01987" joined="2014-07-31"/>
+    <cosponsor thomas_id="01742" joined="2014-07-31"/>
+    <cosponsor thomas_id="00635" joined="2014-07-31"/>
+    <cosponsor thomas_id="02073" joined="2014-07-31"/>
+    <cosponsor thomas_id="01997" joined="2014-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2014-07-31" state="REFERRED">
+      <text>Referred to the House Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects/>
+  <amendments/>
+</bill>

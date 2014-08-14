@@ -1,0 +1,53 @@
+<bill session="113" type="s" number="610" updated="2014-08-14T13:49:55-04:00">
+  <state datetime="2013-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="2013-03-19"/>
+  </status>
+  <introduced datetime="2013-03-19"/>
+  <titles>
+    <title type="short" as="introduced">Family Health Care Flexibility Act</title>
+    <title type="official" as="introduced">A bill to amend the Patient Protection and Affordable Care Act to repeal certain limitations on health care benefits.</title>
+  </titles>
+  <sponsor thomas_id="01899"/>
+  <cosponsors>
+    <cosponsor thomas_id="02075" joined="2013-10-11"/>
+    <cosponsor thomas_id="01881" joined="2013-03-19"/>
+    <cosponsor thomas_id="01464" joined="2013-03-19"/>
+    <cosponsor thomas_id="01687" joined="2013-03-19"/>
+    <cosponsor thomas_id="00153" joined="2013-03-19"/>
+    <cosponsor thomas_id="00188" joined="2013-03-19"/>
+    <cosponsor thomas_id="00212" joined="2013-03-19"/>
+    <cosponsor thomas_id="00213" joined="2013-03-19"/>
+    <cosponsor thomas_id="01541" joined="2013-03-19"/>
+    <cosponsor thomas_id="01633" joined="2013-04-17"/>
+    <cosponsor thomas_id="00583" joined="2013-03-19"/>
+    <cosponsor thomas_id="01608" joined="2013-03-19"/>
+    <cosponsor thomas_id="01507" joined="2013-11-13"/>
+    <cosponsor thomas_id="00924" joined="2013-03-19"/>
+    <cosponsor thomas_id="01896" joined="2013-03-20"/>
+    <cosponsor thomas_id="00968" joined="2013-03-19"/>
+    <cosponsor thomas_id="01226" joined="2013-03-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="2013-03-19" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="1248"/>
+    <bill type="h" session="113" relation="unknown" number="1558"/>
+    <bill type="s" session="113" relation="unknown" number="1647"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Employee benefits and pensions"/>
+    <term name="Health care costs and insurance"/>
+    <term name="Prescription drugs"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/2013--Introduced.
+Family Health Care Flexibility Act - Repeals provisions of the Patient Protection and Affordable Care Act and the Health Care and Education Reconciliation Act of 2010 that: (1) restrict payments from health savings accounts, medical savings accounts, and health flexible spending arrangements for medications to prescription drugs and insulin only (thus allowing payments for over-the-counter medications); and (2) impose a $2,500 limitation on salary reduction contributions to a health flexible spending arrangement under a cafeteria plan.</summary>
+</bill>
