@@ -20,5 +20,40 @@ $VERSION     = 1.00;
 @EXPORT_OK   = qw();
 %EXPORT_TAGS = ( DEFAULT => [qw()]);
 
-
-my $url = "https://sunlightlabs.github.io/congress/";
+#########################################################
+# sunlight labs api
+my $baseUrl = "https://sunlightlabs.github.io/congress/";
+my $legislatorLookUp = "legislators";
+my $representativeSearch = "legislators/locate";
+my $districtSearch = "districts/locate";
+my $committeeLookup = "committees";
+my $billLookup = "bills";
+my $billSearch = "bills/search";
+my $amendmentLookup = "amendments";
+my $nominationLookup = "nominations";
+my $voteLookup = "votes";
+my $floorUpdates = "floor_updates";
+my $hearingLookup = "hearings";
+my $upcomingBillsLookup = "upcoming_bills";
+my $apiStatusCheck = "https://congress.api.sunlightfoundation.com";
+my $apiKey = "apikey=ab7c0a8225a9414dbd2eae25af5f9a31";
+my $startParam = "?";
+my $appendParam = "&";
+my $fieldParam = "fields=";
+my $greaterThan = "__gt=";
+my $greaterThanOrEqual = "__gte=";
+my $lessThan = "__lt=";
+my $lessThanOrEqual = "__lte=";
+my $not = "__not=";
+my $all = "__all=";
+my $in = "__in=";
+my $notIn = "__nin=";
+my $exists = "__exists=";
+my $page = "page=";
+my $resultOrder = "order";
+my $ascending = "__asc";
+my $descending = "__desc";
+my $search = "query=";
+my $explain = "explain=true";
+##########################################################
+my $mech = WWW::Mechanize->new( 'ssl_opts' => { 'verify_hostname' => 0 } );

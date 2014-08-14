@@ -8,6 +8,6 @@ frontend/cgi-bin/#*
 backend/#*
 backend/.#*
 backend/*~
-backend/tmp.pl
+backend/tmp*
 documents/.~*
 documents/Resources.docx
