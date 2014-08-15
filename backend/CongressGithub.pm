@@ -78,7 +78,7 @@ sub generateInsertString{
     return $insertString;
 }
 
-sub loadBills{
+sub loadCongressGithubBills{
     my $debug = 0;
     my $dbh = $_[0];
     my $tableName = "congress_github_bills";

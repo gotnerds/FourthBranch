@@ -202,7 +202,8 @@ sub install{
     my $dbh = $_[0];
     &dropBackendTables($dbh);
     &createBackendTables($dbh);
-    #&loadTestData();
+    # Load External Apis
+    CongressGithub::loadCongressGithubBills();
 }
 
 sub createBackendTables{
