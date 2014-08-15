@@ -12,17 +12,19 @@ html, body {
     border:0;
     font-family: 'Open Sans', sans-serif;
 }
+
 body a {
     text-decoration:none;
 }
+
 section {
+    margin-top:40px;
 }
 #container {
     width:1000px;
     left:50%;
     margin-left:-500px;
     position:absolute;
-    top:250px;
     background-color: #F8F8F8;
     padding: 15px 30px 30px 30px;
     border:1px #E0E0E0 solid;
@@ -38,37 +40,96 @@ div.right {
 }
 
 /* Header */
+
+
+
+#logo {
+    float:left;
+    margin-top:25px;
+    padding-right:50px;
+    font-size:1.5em;
+}
+
 #header-bar {
-    height: 200px;
-    width:100%;
-    background: black;
-    color:white;
-    position:absolute;
+    position:relative;
+}
+
+#header-bar .left {
+    position: absolute;
+    top: -23px;
+    border: 1px #E0E0E0 solid;
+}
+
+#header-bar .right {
+    position: absolute;
+    bottom: -32px;
+    border: 1px #E0E0E0 solid;
+}
+#header-bar .left {
+    left:0;
+}
+#header-bar .right {
+    right:0;
+}
+
+#header-bar a {
+    padding: 1px 25px 0 25px;
+}
+
+#header-bar .left a, #header-bar .right a:first-of-type {
+    border-right: 1px #E0E0E0 solid;
+}
+
+#header {
+    display:block;
+    height:80px;
+    background-color:white;
+    padding:0 0 0 20px;
+    border: 1px #E0E0E0 solid;
+}
+#nav {
+    display:inline-block;
+    position:relative;
+    padding-top:10px;
+}
+#nav a {
+    border-left:1px #DFDFDF solid;
+    height:50px;
+    font-size: 1.3em;
+    padding: 15px 25px 0 15px;
+    color:black;
+    display:inline-block;
+    line-height:.8em;
+}
+#nav a::after {
+    content:"\a >>";
+    color:red;
+    font-size:.8em;
+    white-space:pre;
+}
+#search {
+    float: right;
+    position: relative;
+    margin-top: 25px;
+    padding-right: 15px;
+}
+
+#search input {
+    margin-right:0;
+}
+
+#search span {
+    color: white;
+    background-color: blue;
+    top: 1px;
+    position: relative;
+    padding: 0 5px;
 }
 #login {
     float:right;
     margin: 5px 10px 0 0;
 }
-#logo {
-    background-color:#446992;
-    padding:5px 10px;
-    border: 1px white solid;
-    text-align: center;
-    width: 250px;
-    left:50%;
-    margin-left: -125px;
-    position:relative;
-    font-size:1.5em;
-}
-#nav {
-    text-align:center;
-    bottom:0;
-    color:white;
-    border-top:1px white solid;
-}
-#nav a {
-    padding: 0 10px;
-}
+
 /* signup forms */
 #lightbox {
     width:100%;
@@ -109,7 +170,7 @@ tbody tr td div form {
     margin-bottom:4px;
 }
 form .left {
-    width:35%;
+    width:250px;
     text-align:right;
 }
 form .full {
@@ -122,6 +183,9 @@ form .full {
 form .full i {
  font-size:.8em;  
  vertical-align:top;
+}
+.right textarea {
+    max-height:200px;
 }
 /* General Element Styling */
 .button {
