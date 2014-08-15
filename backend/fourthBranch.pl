@@ -11,12 +11,11 @@ use strict;
 use HouseDotGov qw(:DEFAULT);
 use Databases qw(:DEFAULT);
 use Data::Dump qw(pp);
-
+use DBI;
 #pp(\%INC);
 
 # TODO District Search
  
-use DBI;
 ###########################
 # Main
 my $VERSION_NUMBER = 1.0;
@@ -689,7 +688,7 @@ sub getIndividualExistsByEmail{
     my $columns = "first_name";
     my $sql = "SELECT ".$columns." FROM individuals where email=?;";
     my $sth = $dbh->prepare($sql);
-    $sth->execute($id) or die "SQL Error: $DBI::errstr\n";
+    $sth->execute($email) or die "SQL Error: $DBI::errstr\n";
     my $rows_retrieved = $sth->rows;
     if ($rows_retrieved > 0){
 	return 1;

@@ -12,6 +12,7 @@ use lib dirname(abs_path $0);
 use Data::Dump qw(pp);
 use Exporter;
 use vars qw($VERSION @ISA @EXPORT @EXPORT_OK %EXPORT_TAGS);
+use CongressGithub qw(:DEFAULT);
 
 $VERSION     = 1.00;
 @ISA         = qw(Exporter);
