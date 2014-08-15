@@ -41,7 +41,7 @@ sub generateCreateString{
     return $createString;
 }
 
-sub generateInsertString{
+sub generateInsertStringFromHash{
     my $debug = 0;
     my $tableName = $_[0];
     my @columns = @{$_[1]};
@@ -70,6 +70,38 @@ sub generateInsertString{
 	else {
 	    $insertString .= " NULL ";
 	}
+	if($index+1 != $columnSize){
+	    $insertString .= ",";
+	}
+    }
+    $insertString .= ");";
+    return $insertString;
+}
+
+sub generateInsertStringFromArray{
+    my $debug = 0;
+    my $tableName = $_[0];
+    my @columns = @{$_[1]};
+    my $columnSize = @columns;
+    my @array = @{$_[2]};
+
+    my $insertString = " INSERT INTO $tableName (";
+    for(my $index = 0; $index < $columnSize; $index++){
+       	$insertString .= $columns[$index];
+	if($index+1 != $columnSize){
+	    $insertString .= ",";
+	}
+    }
+    $insertString .= ") VALUES (";
+    
+    for(my $index=0; $index < $columnSize; $index++){
+	if($debug == 1){
+	    $insertString .="\n$index :";
+	}
+	my $santized = $array[$index];
+
+	$santized =~ s/"/\\"/g;
+	$insertString .= " \"${santized}\" ";
 	if($index+1 != $columnSize){
 	    $insertString .= ",";
 	}
@@ -135,7 +167,7 @@ sub loadCongressGithubBills{
 	my $inputFile = join("",@inputFile);
 	my $hashRef = decode_json($inputFile);
 	my %bill = %$hashRef;
-	my $insertString = &generateInsertString($tableName,\@columns,\%bill);
+	my $insertString = &generateInsertStringFromHash($tableName,\@columns,\%bill);
 	if($debug == 1){
 	    print "Execute -->$insertString\n\n";
 	}
@@ -158,6 +190,73 @@ sub loadVotes{
     while(my $voteType = readdir(VOTES_FOLDER)){
 	if($voteType ne "." && $voteType ne ".." && $voteType ne ".DS_Store"){
 	    push(@voteTypes,$voteType);
+	}
+    }
+}
+
+sub loadLegislatorsCsv{
+    my $debug = 0;
+    my $dbh = $_[0];
+    my $tableName = "congress-legislators-github-csv";
+    open(LEGISLATORS, $CURRENT_DIRECTORY."/initialData/congress-legislators/legislators.csv") || die "Couldn't open the legislators file. $!";
+    
+    my @columnTypes = ("VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)");
+    
+    # Drop table
+    my $sql = "DROP TABLE IF EXISTS ".$tableName.";";
+    if($debug == 1){
+	print "Execute -->$sql\n\n";
+    }    
+    my $sth = $dbh->prepare($sql);
+    $sth->execute or die "Drop Backend Tables: SQL Error: $DBI::errstr\n";
+    
+    
+
+    my $rowIndex = 0;
+    my @columns;
+    while(<LEGISLATORS>){
+	if($rowIndex == 0){
+	    # Read columns line and create table
+	    my $columnString = $_;
+	    chomp($columnString);
+	    @columns = split(",",$columnString);
+	    my $columnsSize = @columns;
+	    my $typesSize = @columnTypes;
+	    
+	    # Create Table
+	    $sql = &generateCreateString($tableName,\@columns,\@columnTypes);
+	    if($debug == 1){
+		print "Execute -->$sql\n\n";
+	    }
+	    $sth = $dbh->prepare($sql);
+	    $sth->execute or die "Failed to create table; $DBI::errstr\n";
+    
+	    $rowIndex++;
+	}
+	else{
+	    # Load into created table the data
+	    my $insertRow = $_;
+	    chomp($insertRow);
+	    while($insertRow =~ /.*,,.*/){
+		$insertRow =~ s/,,/,NULL,/g;
+	    }
+	    $insertRow =~ s/,$/,NULL/;
+	    $insertRow =~ s/"(.*),(.*)"/"$1--COMMA--$2"/g;
+
+	    my @columnData = split(",",$insertRow);
+	    if(@columns != @columnData){
+		print "Read bad line: ($_) <$insertRow>\n";
+		exit();
+	    }
+	    for(my $index=0; $index < @columnData; $index++){
+		$columnData[$index] =~ s/--COMMA--/,/g;
+	    }
+	    my $insertString = &generateInsertStringFromArray($tableName,\@columns, \@columnData);
+
+	    if($debug == 1){
+		print "Execute --> $insertRow";
+	    }
+	    $rowIndex++;
 	}
     }
 }
