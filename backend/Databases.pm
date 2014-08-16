@@ -61,6 +61,7 @@ create table organizations
   email VARCHAR(40), 
   password VARCHAR(30), 
   verified VARCHAR(5), 
+  signup_date DATE,
   PRIMARY KEY (id)
 );
 END_ORGANIZATION_USERS_TABLE

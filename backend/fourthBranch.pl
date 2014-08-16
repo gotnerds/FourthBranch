@@ -10,6 +10,7 @@ use lib dirname(abs_path $0);
 use strict;
 use HouseDotGov qw(:DEFAULT);
 use Databases qw(:DEFAULT);
+use GenerateDocs qw(:DEFAULT);
 use Data::Dump qw(pp);
 use DBI;
 #pp(\%INC);
@@ -58,6 +59,12 @@ if(defined($function)){
 	else{
 	    &paramCheck($email,$password);
 	}
+    }
+    elsif($function eq 'getUnverifiedOrganizations'){
+	&getUnverifiedOrganizations();
+    }
+    elsif($function eq 'generateDocs'){
+	GenerateDocs::generateDocs();
     }
     elsif($function eq 'findUserRepresentative'){
 	my $street = param('street');
@@ -298,10 +305,11 @@ if(defined($function)){
 	my $personal_phone = param('personalphone');
 	my $email = param('email');
 	my $password = param('password');
-	if(defined($name) && defined($address) && defined($city) && defined($state) && defined($zip) && defined($phone) && defined($legal_status) && defined($cause_concerns) && defined($join_reason) && defined($individual_name) && defined($title_in_organization) && defined($personal_phone) && defined($email) && defined($password)){
+	my $signupDate = param('signupdate');
+	if(defined($name) && defined($address) && defined($city) && defined($state) && defined($zip) && defined($phone) && defined($legal_status) && defined($cause_concerns) && defined($join_reason) && defined($individual_name) && defined($title_in_organization) && defined($personal_phone) && defined($email) && defined($password) && defined($signupDate)){
 	    my $organizationExists = &getOrganizationNameExists($name);
 	    if($organizationExists == 0){
-		my $result = &addOrganization($name,$address,$city,$state,$zip,$phone,$legal_status,$cause_concerns, $join_reason,$individual_name,$title_in_organization,$personal_phone,$email,$password);
+		my $result = &addOrganization($name,$address,$city,$state,$zip,$phone,$legal_status,$cause_concerns, $join_reason,$individual_name,$title_in_organization,$personal_phone,$email,$password,$signupDate);
 		my %resultOut = ('successful' => 'false');
 		if($result == 1){
 		    $resultOut{'successful'} = 'true';
@@ -316,7 +324,7 @@ if(defined($function)){
 	    
 	}
 	else{
-	    &paramCheck($name,$address,$city,$state,$zip,$phone,$legal_status,$cause_concerns,$join_reason, $individual_name,$title_in_organization,$personal_phone,$email,$password);
+	    &paramCheck($name,$address,$city,$state,$zip,$phone,$legal_status,$cause_concerns,$join_reason, $individual_name,$title_in_organization,$personal_phone,$email,$password,$signupDate);
 	}
     }
     elsif($function eq 'addIndividual'){	
@@ -403,10 +411,11 @@ sub addOrganization{
     my $personal_phone = $_[11];
     my $email = $_[12];
     my $password = $_[13];
+    my $signupDate = $_[14];
     my $verified = 'false';
-    my $sql = "INSERT INTO organizations (name, address, city, state, zip,phone,legal_status, cause_concerns,join_reason,individual_name,title_in_organization, personal_phone, email,password,verified) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?);";
+    my $sql = "INSERT INTO organizations (name, address, city, state, zip,phone,legal_status, cause_concerns,join_reason,individual_name,title_in_organization, personal_phone, email,password,verified,signup_date) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?);";
     my $sth = $dbh->prepare($sql);
-    $sth->execute($name,$address,$city,$state,$zip,$phone,$legal_status,$cause_concerns,$join_reason,$individual_name,$title_in_organization,$personal_phone,$email,$password,$verified) or  warn "SQL Error: $DBI::errstr\n" && return 'false';
+    $sth->execute($name,$address,$city,$state,$zip,$phone,$legal_status,$cause_concerns,$join_reason,$individual_name,$title_in_organization,$personal_phone,$email,$password,$verified,$signupDate) or  warn "SQL Error: $DBI::errstr\n" && return 'false';
     return 'true';
 }
 
@@ -490,7 +499,25 @@ sub addIndividual{
     return 1;
 }
 
-
+sub getUnverifiedOrganizations{
+    my $columns = "id,name";
+    my $sql = "SELECT ".$columns." FROM organizations where verified=false;";
+    my $sth = $dbh->prepare($sql);
+    $sth->execute() or die "SQL Error: $DBI::errstr\n";
+    my $rows_retrieved = $sth->rows;
+    my $outputString = "";
+    my $printRowBreak = 0;
+    while(my @row = $sth->fetchrow_array){
+	if($printRowBreak == 1){
+	    print ","
+	}
+	$printRowBreak = 1;
+	my ($id,$name) = @row;
+	my %result = ('name' => $name,
+		   'id' => $id);
+	print &encode_json(\%result);
+    }
+}
 sub getOrganizationNameExists{
     my $name = $_[0];
     my $columns = "address";
@@ -524,7 +551,7 @@ sub getUserNameExists{
 
 sub getOrganizationById{
     my $id = $_[0];
-    my $columns = "name, address, city, state, zip,phone,legal_status, cause_concerns,join_reason";
+    my $columns = "name, address, city, state, zip,phone,legal_status, cause_concerns,join_reason,individual_name,title_in_organization, personal_phone, email,password,verified,signup_date";
     my $sql = "SELECT ".$columns." FROM organizations where id=?;";
     my $sth = $dbh->prepare($sql);
     $sth->execute($id) or die "SQL Error: $DBI::errstr\n";
@@ -535,7 +562,7 @@ sub getOrganizationById{
 	    print ","
 	}
 	$printRowBreak = 1;
-	my ($name, $address, $city, $state, $zip,$phone,$legal_status, $cause_concerns,$join_reason) = @row;
+	my ($name, $address, $city, $state, $zip,$phone,$legal_status, $cause_concerns,$join_reason,$individual_name,$title_in_organization, $personal_phone, $email,$password,$verified,$signup_date) = @row;
 	my %result = ('name' => $name,
 		   'address' => $address,
 		   'city' => $city,
@@ -544,8 +571,15 @@ sub getOrganizationById{
 	           'phone' => $phone,
 	           'legalstatus' => $legal_status,
 	           'cause_concerns' => $cause_concerns,
-	           'join_reason' => $join_reason);
-	#print &encode_json(\%result);
+	           'join_reason' => $join_reason,
+		   'individual_name' => $individual_name,
+		   'title_in_organization' => $title_in_organization, 
+		   'personal_phone' => $personal_phone,
+		   'email' => $email,
+		   'password' => $password,
+		   'verified' => $verified,
+		   'signup_date' => $signup_date);
+	print &encode_json(\%result);
     }   
 }
 
