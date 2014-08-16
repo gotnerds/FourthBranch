@@ -1,10 +1,13 @@
 #!/usr/bin/perl 
+package CongressGithub;
 use strict;
 use warnings; 
 use Cwd qw(cwd abs_path);
 use JSON::PP qw(decode_json encode_json);
 use DBI;
 use CGI::Carp 'fatalsToBrowser';
+use vars qw($VERSION @ISA @EXPORT @EXPORT_OK %EXPORT_TAGS);
+
 
 
 $VERSION     = 1.00;
@@ -111,8 +114,13 @@ sub generateInsertStringFromArray{
 }
 
 sub loadCongressGithubBills{
+    print "Installing Congress github bills. This can take like 10 minutes\n";
     my $debug = 0;
     my $dbh = $_[0];
+    if(!defined($dbh)){
+	print "Undefined DBH !!!\n";
+	exit();
+    }
     my $tableName = "congress_github_bills";
     my @columns = ("official_title","bill_type","status","updated_at","status_at","bill_id","subjects_top_term","enacted_as","number","short_title","introduced_at","congress","by_request","popular_title");
 

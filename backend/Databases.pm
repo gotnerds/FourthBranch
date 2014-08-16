@@ -13,6 +13,7 @@ use Data::Dump qw(pp);
 use Exporter;
 use vars qw($VERSION @ISA @EXPORT @EXPORT_OK %EXPORT_TAGS);
 use CongressGithub qw(:DEFAULT);
+use CurrentLegislatorsCsv qw(:DEFAULT);
 
 $VERSION     = 1.00;
 @ISA         = qw(Exporter);
@@ -204,11 +205,16 @@ sub install{
     &dropBackendTables($dbh);
     &createBackendTables($dbh);
     # Load External Apis
-    CongressGithub::loadCongressGithubBills();
+    CurrentLegislatorsCsv::loadLegislatorsCsv($dbh);
+    CongressGithub::loadCongressGithubBills($dbh);
 }
 
 sub createBackendTables{
     my $dbh = $_[0];
+    if(!defined($dbh)){
+	print "Undefined DBH !!!\n";
+	exit();
+    }
     for my $index (@tables){
 	my $sql = $index; 
 	print "Execute -->$sql\n\n";
@@ -219,6 +225,10 @@ sub createBackendTables{
 
 sub dropBackendTables{
     my $dbh = $_[0];
+    if(!defined($dbh)){
+	print "Undefined DBH !!!\n";
+	exit();
+    }
     for my $table (@table_names){
 	my $sql = "DROP TABLE IF EXISTS ".$table.";";
 	print "Execute -->$sql\n\n";
