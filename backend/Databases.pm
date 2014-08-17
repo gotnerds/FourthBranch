@@ -207,8 +207,8 @@ sub install{
     # Load External Api Buffers
     CurrentLegislatorsCsv::loadLegislatorsCsv($dbh);
     CongressGithub::loadCongressGithubBills($dbh);
-    # load votes
-    # load amendments
+    CongressGithub::loadCongressGithubVotes($dbh)
+    # CongressGithub::loadCongressGithubAmendments($dbh)
 }
 
 sub createBackendTables{

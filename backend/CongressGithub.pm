@@ -184,7 +184,7 @@ sub loadCongressGithubBills{
     }
 }
 sub loadCongressGithubVotes{
-    print "Installing Congress github votes.\n";
+    print "Installing Congress github votes. This can take 4 minutes.\n";
     my $debug = 0;
     my $dbh = $_[0];
     if(!defined($dbh)){
@@ -192,9 +192,9 @@ sub loadCongressGithubVotes{
 	exit();
     }
     my $tableName = "congress_github_votes";
-    my @columns = ("vote_id","bill","date","votes","question","result");
+    my @columns = ("vote_id","bill","date","question","result","votes");
 
-    my @columnTypes = ("VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)");
+    my @columnTypes = ("VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","LONGTEXT");
 
     my $columnsSize = @columns;
     my $typesSize = @columnTypes;
@@ -228,25 +228,40 @@ sub loadCongressGithubVotes{
 	    push(@voteTypes,$voteType);
 	}
     }
-    my @voteTypeNumbers;
+    my @individualVotes;
     for my $voteType (@voteTypes){
 	opendir(VOTE_TYPE_FOLDER, $CURRENT_DIRECTORY."/initialData/congress113_data/votes/$voteType") || die "Couldn't open the votes directory. $!";
-	while(my $voteTypeNumber = readdir(VOTE_TYPE_FOLDER)){
-	    if($voteTypeNumber ne "." && $voteTypeNumber ne ".." && $voteTypeNumber ne ".DS_Store"){
-		push(@voteTypeNumbers,$CURRENT_DIRECTORY."/initialData/congress113_data/votes/$voteType/".$voteTypeNumber);
+	while(my $individualVote = readdir(VOTE_TYPE_FOLDER)){
+	    if($individualVote ne "." && $individualVote ne ".." && $individualVote ne ".DS_Store"){
+		if($individualVote =~ /\.json$/){
+		    #print "adding vote $CURRENT_DIRECTORY/initialData/congress113_data/votes/$voteType/$individualVote\n";
+		    push(@individualVotes,$CURRENT_DIRECTORY."/initialData/congress113_data/votes/$voteType/".$individualVote);
+		}
 	    }
 	}
     }
-
-    for my $individualVote (@voteTypeNumbers){
-	open(VOTE, $individualVote."/data.json") || die "Couldn't open the votes directory. $!";
+    
+    for my $individualVote (@individualVotes){
+	open(VOTE, $individualVote) || die "Couldn't open the votes directory (${individualVote}). $!";
 	my @inputFile = <VOTE>;
 	my $inputFile = join("",@inputFile);
 	my $hashRef = decode_json($inputFile);
 	my %vote = %$hashRef;
+	my %bill;
+	if(exists $vote{'bill'}){
+	    my $billRef = $vote{'bill'};
+	    %bill = %$billRef;
+	    $vote{"bill"} = encode_json(\%bill);
+	}
+	if(exists $vote{'votes'}){
+	    my $voteRef = $vote{'votes'};
+	    my %votesInfo = %$voteRef;
+	    $vote{'votes'} = encode_json(\%votesInfo);
+	}
 	my $insertString = &generateInsertStringFromHash($tableName,\@columns,\%vote);
 	if($debug == 1){
 	    print "Execute -->$insertString\n\n";
+	    <STDIN>;
 	}
 	$sth = $dbh->prepare($insertString);
 	$sth->execute or warn "Failed to insert Vote($sql) $DBI::errstr\n";
