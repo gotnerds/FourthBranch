@@ -269,7 +269,7 @@ sub loadCongressGithubVotes{
 }
 
 sub loadCongressGithubAmendments{
-    print "Installing Congress github amendments.\n";
+    print "Installing Congress github amendments. This can take 4 minutes\n";
     my $debug = 0;
     my $dbh = $_[0];
     if(!defined($dbh)){
@@ -279,7 +279,7 @@ sub loadCongressGithubAmendments{
     my $tableName = "congress_github_amendments";
     my @columns = ("actions","status","introduced_at","description","sponsor","amends_bill","amends_amendment","amendment_id");
 
-    my @columnTypes = ("VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)");
+    my @columnTypes = ("TEXT","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","TEXT","TEXT","VARCHAR(4000)","VARCHAR(4000)");
 
     my $columnsSize = @columns;
     my $typesSize = @columnTypes;
@@ -329,31 +329,60 @@ sub loadCongressGithubAmendments{
 	my $inputFile = join("",@inputFile);
 	my $hashRef = decode_json($inputFile);
 	my %amendment = %$hashRef;
-	my $insertString = &generateInsertStringFromHash($tableName,\@columns,\%amendment);
-	if($debug == 1){
-	    print "Execute -->$insertString\n\n";
+	if (exists ($amendment{'actions'})){
+	    $amendment{'actions'} = encode_json($amendment{'actions'});
 	}
-	$sth = $dbh->prepare($insertString);
-	$sth->execute or warn "Failed to insert Vote($sql) $DBI::errstr\n";
-    }
-}
+	if (exists ($amendment{'amends_bill'})){
+	    $amendment{'amends_bill'} = encode_json($amendment{'amends_bill'});
+	}
+	if (exists ($amendment{'sponsor'})){
+	    $amendment{'sponsor'} = encode_json($amendment{'sponsor'});
+	}
+	if(defined($amendment{'amends_amendment'})){
+	    $amendment{'amends_amendment'} = encode_json($amendment{'amends_amendment'});
+	    while($amendment{'amends_amendment'} =~ /.*\\"/){
+		$amendment{'amends_amendment'} =~ s/\\"(.*)\\"/<$1>/g;
+		if($debug == 1){
+		    print $amendment{'amends_amendment'};
+		    <STDIN>;
+		}
+	    }
+	}
 
-sub loadAmendments{
-    opendir(AMENDMENTS_FOLDER, $CURRENT_DIRECTORY."/initialData/congress113_data/amendments") || die "Couldn't open the amendments directory. $!";
-    my @amendmentTypes;
-    while(my $amendmentType = readdir(AMENDMENTS_FOLDER)){
-	if($amendmentType  ne "." && $amendmentType ne ".." && $amendmentType ne ".DS_Store"){
-	    push(@amendmentTypes,$amendmentType);
+
+
+	while($amendment{'sponsor'} =~ /.*\\"/){
+	    $amendment{'sponsor'} =~ s/\\"(.*)\\"/<$1>/g;
+	   if($debug == 1){
+	       print $amendment{'sponsor'};
+	       <STDIN>;
+	   }
 	}
-    }
-}
-sub loadVotes{
-    opendir(VOTES_FOLDER, $CURRENT_DIRECTORY."/initialData/congress113_data/votes/2014") || die "Couldn't open the votes directory. $!";
-    my @voteTypes;
-    while(my $voteType = readdir(VOTES_FOLDER)){
-	if($voteType ne "." && $voteType ne ".." && $voteType ne ".DS_Store"){
-	    push(@voteTypes,$voteType);
+	while($amendment{'amends_bill'} =~ /.*\\"/){
+	    $amendment{'amends_bill'} =~ s/\\"(.*)\\"/<$1>/g;
+	    
+	    if($debug == 1){
+		print $amendment{'amends_bill'};
+		<STDIN>;
+	    }
 	}
+	while($amendment{'actions'} =~ /.*\\"/){
+	    $amendment{'actions'} =~ s/\\"(.*?)\\"/<$1>/g;
+	    if($debug == 1){
+		print $amendment{'actions'};
+		<STDIN>;
+	    }
+	}
+
+	$sql = &generateInsertStringFromHash($tableName,\@columns,\%amendment);
+	# Remove occurrences of \\"
+	
+	if($debug == 1){
+	    print "Execute -->$sql\n\n";
+	    <STDIN>;
+	}
+	$sth = $dbh->prepare($sql);
+	$sth->execute or die "Failed to insert Amendment($sql) $DBI::errstr\n";
     }
 }
 

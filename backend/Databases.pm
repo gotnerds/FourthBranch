@@ -207,37 +207,46 @@ sub install{
     # Load External Api Buffers
     CurrentLegislatorsCsv::loadLegislatorsCsv($dbh);
     CongressGithub::loadCongressGithubBills($dbh);
-    CongressGithub::loadCongressGithubVotes($dbh)
-    # CongressGithub::loadCongressGithubAmendments($dbh)
+    CongressGithub::loadCongressGithubVotes($dbh);
+    CongressGithub::loadCongressGithubAmendments($dbh);
+
 }
 
 sub createBackendTables{
+    my $debug = 0;
     my $dbh = $_[0];
     if(!defined($dbh)){
 	print "Undefined DBH !!!\n";
 	exit();
     }
+    print "Creating FourthBranch Tables\n";
     for my $index (@tables){
 	my $sql = $index; 
-	print "Execute -->$sql\n\n";
+	
+	if($debug == 1){
+	    print "Execute -->$sql\n\n";
+	}
 	my $sth = $dbh->prepare($sql);
 	$sth->execute or die "Create Backend Tables: SQL Error: $DBI::errstr\n";
     }
 }
 
 sub dropBackendTables{
+    my $debug = 0;
     my $dbh = $_[0];
     if(!defined($dbh)){
 	print "Undefined DBH !!!\n";
 	exit();
     }
+    print "Dropping fourth branch tables\n";
     for my $table (@table_names){
 	my $sql = "DROP TABLE IF EXISTS ".$table.";";
-	print "Execute -->$sql\n\n";
+	if($debug ==1 ){
+	    print "Execute -->$sql\n\n";
+	}
 	my $sth = $dbh->prepare($sql);
 	$sth->execute or die "Drop Backend Tables: SQL Error: $DBI::errstr\n"; 
     }
-    print "Tables dropped\n";
 }
 
 sub loadTestData{
