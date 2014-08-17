@@ -183,6 +183,146 @@ sub loadCongressGithubBills{
 	$sth->execute or warn "Failed to insert Bill($sql) $DBI::errstr\n";
     }
 }
+sub loadCongressGithubVotes{
+    print "Installing Congress github votes.\n";
+    my $debug = 0;
+    my $dbh = $_[0];
+    if(!defined($dbh)){
+	print "Undefined DBH !!!\n";
+	exit();
+    }
+    my $tableName = "congress_github_votes";
+    my @columns = ("vote_id","bill","date","votes","question","result");
+
+    my @columnTypes = ("VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)");
+
+    my $columnsSize = @columns;
+    my $typesSize = @columnTypes;
+    
+    if($columnsSize != $typesSize){
+	warn("Size mismatch in loadVotes");
+	exit();
+    }
+
+    # Drop table
+    my $sql = "DROP TABLE IF EXISTS ".$tableName.";";
+    if($debug == 1){
+	print "Execute -->$sql\n\n";
+    }
+    my $sth = $dbh->prepare($sql);
+    $sth->execute or die "Drop Backend Tables: SQL Error: $DBI::errstr\n";
+    
+    # Create Table
+    $sql = &generateCreateString($tableName,\@columns,\@columnTypes);
+    if($debug == 1){
+	print "Execute -->$sql\n\n";
+    }
+    $sth = $dbh->prepare($sql);
+    $sth->execute or die "Failed to create table; $DBI::errstr\n";
+
+    # Populate Tables
+    opendir(VOTES_FOLDER, $CURRENT_DIRECTORY."/initialData/congress113_data/votes") || die "Couldn't open the votes directory. $!";
+    my @voteTypes;
+    while(my $voteType = readdir(VOTES_FOLDER)){
+	if($voteType ne "." && $voteType ne ".." && $voteType ne ".DS_Store"){
+	    push(@voteTypes,$voteType);
+	}
+    }
+    my @voteTypeNumbers;
+    for my $voteType (@voteTypes){
+	opendir(VOTE_TYPE_FOLDER, $CURRENT_DIRECTORY."/initialData/congress113_data/votes/$voteType") || die "Couldn't open the votes directory. $!";
+	while(my $voteTypeNumber = readdir(VOTE_TYPE_FOLDER)){
+	    if($voteTypeNumber ne "." && $voteTypeNumber ne ".." && $voteTypeNumber ne ".DS_Store"){
+		push(@voteTypeNumbers,$CURRENT_DIRECTORY."/initialData/congress113_data/votes/$voteType/".$voteTypeNumber);
+	    }
+	}
+    }
+
+    for my $individualVote (@voteTypeNumbers){
+	open(VOTE, $individualVote."/data.json") || die "Couldn't open the votes directory. $!";
+	my @inputFile = <VOTE>;
+	my $inputFile = join("",@inputFile);
+	my $hashRef = decode_json($inputFile);
+	my %vote = %$hashRef;
+	my $insertString = &generateInsertStringFromHash($tableName,\@columns,\%vote);
+	if($debug == 1){
+	    print "Execute -->$insertString\n\n";
+	}
+	$sth = $dbh->prepare($insertString);
+	$sth->execute or warn "Failed to insert Vote($sql) $DBI::errstr\n";
+    }
+}
+
+sub loadCongressGithubAmendments{
+    print "Installing Congress github amendments.\n";
+    my $debug = 0;
+    my $dbh = $_[0];
+    if(!defined($dbh)){
+	print "Undefined DBH !!!\n";
+	exit();
+    }
+    my $tableName = "congress_github_amendments";
+    my @columns = ("actions","status","introduced_at","description","sponsor","amends_bill","amends_amendment","amendment_id");
+
+    my @columnTypes = ("VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)");
+
+    my $columnsSize = @columns;
+    my $typesSize = @columnTypes;
+    
+    if($columnsSize != $typesSize){
+	warn("Size mismatch in loadVotes");
+	exit();
+    }
+
+    # Drop table
+    my $sql = "DROP TABLE IF EXISTS ".$tableName.";";
+    if($debug == 1){
+	print "Execute -->$sql\n\n";
+    }
+    my $sth = $dbh->prepare($sql);
+    $sth->execute or die "Drop Backend Tables: SQL Error: $DBI::errstr\n";
+    
+    # Create Table
+    $sql = &generateCreateString($tableName,\@columns,\@columnTypes);
+    if($debug == 1){
+	print "Execute -->$sql\n\n";
+    }
+    $sth = $dbh->prepare($sql);
+    $sth->execute or die "Failed to create table; $DBI::errstr\n";
+
+    # Populate Tables
+    opendir(AMENDMENTS_FOLDER, $CURRENT_DIRECTORY."/initialData/congress113_data/amendments") || die "Couldn't open the amendments directory. $!";
+    my @amendmentTypes;
+    while(my $amendmentType = readdir(AMENDMENTS_FOLDER)){
+	if($amendmentType ne "." && $amendmentType ne ".." && $amendmentType ne ".DS_Store"){
+	    push(@amendmentTypes,$amendmentType);
+	}
+    }
+    my @amendmentTypeNumbers;
+    for my $amendmentType (@amendmentTypes){
+	opendir(AMENDMENT_TYPE_FOLDER, $CURRENT_DIRECTORY."/initialData/congress113_data/amendments/$amendmentType") || die "Couldn't open the amendments directory. $!";
+	while(my $amendmentTypeNumber = readdir(AMENDMENT_TYPE_FOLDER)){
+	    if($amendmentTypeNumber ne "." && $amendmentTypeNumber ne ".." && $amendmentTypeNumber ne ".DS_Store"){
+		push(@amendmentTypeNumbers,$CURRENT_DIRECTORY."/initialData/congress113_data/amendments/$amendmentType/".$amendmentTypeNumber);
+	    }
+	}
+    }
+
+    for my $individualAmendment (@amendmentTypeNumbers){
+	open(AMENDMENT, $individualAmendment."/data.json") || die "Couldn't open the amendments directory. $!";
+	my @inputFile = <AMENDMENT>;
+	my $inputFile = join("",@inputFile);
+	my $hashRef = decode_json($inputFile);
+	my %amendment = %$hashRef;
+	my $insertString = &generateInsertStringFromHash($tableName,\@columns,\%amendment);
+	if($debug == 1){
+	    print "Execute -->$insertString\n\n";
+	}
+	$sth = $dbh->prepare($insertString);
+	$sth->execute or warn "Failed to insert Vote($sql) $DBI::errstr\n";
+    }
+}
+
 sub loadAmendments{
     opendir(AMENDMENTS_FOLDER, $CURRENT_DIRECTORY."/initialData/congress113_data/amendments") || die "Couldn't open the amendments directory. $!";
     my @amendmentTypes;

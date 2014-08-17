@@ -17,7 +17,7 @@ use CurrentLegislatorsCsv qw(:DEFAULT);
 
 $VERSION     = 1.00;
 @ISA         = qw(Exporter);
-@EXPORT      = ();
+@EXPORT      = qw(install);
 @EXPORT_OK   = qw(install createBackendTables dropBackendTables);
 %EXPORT_TAGS = ( DEFAULT => [qw(&install &createBackendTables &dropBackendTables)]);
 
@@ -204,9 +204,11 @@ sub install{
     my $dbh = $_[0];
     &dropBackendTables($dbh);
     &createBackendTables($dbh);
-    # Load External Apis
+    # Load External Api Buffers
     CurrentLegislatorsCsv::loadLegislatorsCsv($dbh);
     CongressGithub::loadCongressGithubBills($dbh);
+    # load votes
+    # load amendments
 }
 
 sub createBackendTables{
