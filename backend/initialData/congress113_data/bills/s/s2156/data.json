@@ -152,7 +152,11 @@
     "Water quality"
   ], 
   "subjects_top_term": "Environmental protection", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-03-25", 
+    "text": "Regulatory Fairness Act of 2014 - Amends the Federal Water Pollution Control Act (commonly known as the Clean Water Act) to define the period of time in which the Administrator of the Environmental Protection Agency (EPA) is authorized to restrict or deny a permit for the discharge of dredged or fill materials into navigable waters as the period that:\n\n begins on the date that the Secretary of the Army, acting through the Chief of Engineers, provides notice to the Administrator that the Secretary has completed all procedures for processing an application for a permit for dredged or fill material and is ready to determine whether the permit should be issued; and ends on the date that the Secretary issues the permit. Requires the Administrator to consult with the Secretary before restricting or denying a permit.\n\nDirects the Administrator to make publicly available the basis of and reasons for making a determination to restrict or deny such a permit and information reviewed in making the determination.\n\nProhibits previous action by the Administrator that occurred outside of this period to deny or restrict a permit or to prohibit the specification of any defined area as a disposal site for dredged or fill materials from being valid or otherwise enforceable."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -167,5 +171,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-08-14T14:03:15-04:00"
+  "updated_at": "2014-08-18T03:35:21-04:00"
 }

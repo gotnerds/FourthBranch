@@ -196,6 +196,11 @@
       "bill_id": "s743-113", 
       "reason": "related", 
       "type": "bill"
+    }, 
+    {
+      "bill_id": "s2735-113", 
+      "reason": "related", 
+      "type": "bill"
     }
   ], 
   "short_title": "Marketplace and Internet Tax Fairness Act", 
@@ -230,5 +235,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-08-14T14:07:02-04:00"
+  "updated_at": "2014-08-18T03:51:12-04:00"
 }

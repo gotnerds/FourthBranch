@@ -68,7 +68,11 @@
     "Science, technology, communications"
   ], 
   "subjects_top_term": "Science, technology, communications", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-06-19", 
+    "text": "American Digital Security and Commerce Act of 2014 - Requires the Director of the Office of Management and Budget (OMB), in coordinating standards and guidelines under the National Institute of Standards and Technology Act with agencies and offices operating or exercising control of national security systems (including the National Security Agency [NSA]), to assure that such agencies or offices do not intentionally weaken, circumvent, undermine, or create any mechanism through which a federal agency may bypass the privacy, security, or encryption protections included in any standard or guideline.\n\nProhibits agencies and offices that consult with the National Institute of Standards and Technology (NIST) on information security policies from undermining such protective mechanisms.\n\nProhibits federal agencies from intercepting shipments of computer or electronic products for the purpose of intentionally introducing into the products a mechanism or device that would allow a federal agency to circumvent a product's privacy, security, or encryption protections.\n\nBars elements of the intelligence community from requiring, or contracting with, a manufacturer or developer of such products to place such a mechanism or device into its products.\n\nExempts from such mechanism placement prohibitions certain lawful surveillance activities pursuant to a court order under specified provisions of the federal criminal code or the Foreign Intelligence Surveillance Act of 1978 (except with respect to procedures for targeting persons outside the United States other than U.S. persons).\n\nPermits persons (including certain associations and corporations, but excluding foreign powers) who suffer an injury relating to a mechanism placed into product to bring a civil action against the United States to recover money damages."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -83,5 +87,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-08-14T14:06:08-04:00"
+  "updated_at": "2014-08-18T03:47:27-04:00"
 }

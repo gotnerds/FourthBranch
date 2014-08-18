@@ -400,9 +400,9 @@
   ], 
   "subjects_top_term": "Public lands and natural resources", 
   "summary": {
-    "as": "Passed House without amendment", 
-    "date": "2013-04-09", 
-    "text": "American Battlefield Protection Program Amendments Act of 2013 - Amends the Omnibus Public Land Management Act of 2009, with respect to the Battlefield Acquisition Grant Program, to: (1) expand the current definition of \"battlefield report\" to include the report entitled \"Report to Congress on the Historic Preservation of Revolutionary War and War of 1812 Sites in the United States\"; and (2) expand the Program to permit the acquisition not only of an \"interest in an eligible site,\" but also an \"eligible site.\"\n\nRequires acquisitions of lands or interests under the Act to be from willing sellers only.\n\nRequires the Secretary of the Interior to submit to Congress a report on activities carried out under this Act.\n\nProhibits the use of any acquisition grant program funds for purposes of lobbying.\n\nExtends the authorization of appropriations to provide grants through FY2018."
+    "as": "Reported to Senate amended", 
+    "date": "2014-05-22", 
+    "text": "American Battlefield Protection Program Amendments Act of 2013 - Amends the Omnibus Public Land Management Act of 2009 to reauthorize through FY2018 and expand the Battlefield Acquisition Grant Program to: (1) include the preservation of Revolutionary War and War of 1812 sites in the United States; and (2) permit the acquisition not only of an interest in an eligible site, but also an eligible site.\n\nRequires acquisitions of lands or interests under the Act to be from willing sellers only.\n\nRequires the Program to submit to Congress a report on activities carried out under this Act. Prohibits any of the funds provided pursuant to this Act from being used to influence congressional action on any legislation or appropriation matters pending before Congress."
   }, 
   "titles": [
     {
@@ -425,7 +425,7 @@
     }, 
     {
       "as": "reported to senate", 
-      "is_for_portion": true, 
+      "is_for_portion": false, 
       "title": "American Battlefield Protection Program Amendments Act of 2013", 
       "type": "short"
     }, 
@@ -436,5 +436,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-08-14T12:59:31-04:00"
+  "updated_at": "2014-08-17T23:17:46-04:00"
 }

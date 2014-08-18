@@ -1,4 +1,4 @@
-<bill session="113" type="s" number="2727" updated="2014-08-14T14:08:02-04:00">
+<bill session="113" type="s" number="2727" updated="2014-08-18T03:55:19-04:00">
   <state datetime="2014-07-31">REFERRED</state>
   <status>
     <introduced datetime="2014-07-31"/>
@@ -20,7 +20,9 @@
   <committees>
     <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2379"/>
+  </relatedbills>
   <subjects/>
   <amendments/>
 </bill>

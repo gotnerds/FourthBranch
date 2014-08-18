@@ -200,7 +200,11 @@
     "Sex, gender, sexual orientation discrimination"
   ], 
   "subjects_top_term": "Congress", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-17", 
+    "text": "Congratulates the Gay, Lesbian, and Allies Senate Staff (GLASS) Caucus association on its 10th anniversary.\n\nCommends the late Senator Frank Raleigh Lautenberg of New Jersey for his role in the formation of the association and his support for equality.\n\n Recognizes inaugural GLASS Caucus Steering Committee members Lynden Armstrong, Brett Bearce, Jeffrey Levensaler, Josh Brekenfeld, Jason Knapp, John Fossum, Kelsey Phipps, and Mat Young for their vision and work in establishing the association."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -209,5 +213,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-08-14T13:44:06-04:00"
+  "updated_at": "2014-08-18T02:16:35-04:00"
 }

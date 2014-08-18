@@ -127,7 +127,7 @@
   "official_title": "To direct the Secretary of State to develop a strategy to address the factors driving large numbers of unaccompanied alien children from El Salvador, Honduras, and Guatemala to seek admission to the United States, and for other purposes.", 
   "popular_title": null, 
   "related_bills": [], 
-  "short_title": null, 
+  "short_title": "Security and Opportunity for Vulnerable Migrant Children Act of 2014", 
   "sponsor": {
     "district": "40", 
     "name": "Roybal-Allard, Lucille", 
@@ -145,9 +145,15 @@
     {
       "as": "introduced", 
       "is_for_portion": false, 
+      "title": "Security and Opportunity for Vulnerable Migrant Children Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
       "title": "To direct the Secretary of State to develop a strategy to address the factors driving large numbers of unaccompanied alien children from El Salvador, Honduras, and Guatemala to seek admission to the United States, and for other purposes.", 
       "type": "official"
     }
   ], 
-  "updated_at": "2014-08-14T13:37:18-04:00"
+  "updated_at": "2014-08-18T01:48:25-04:00"
 }

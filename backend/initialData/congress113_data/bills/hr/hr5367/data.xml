@@ -1,10 +1,12 @@
-<bill session="113" type="h" number="5367" updated="2014-08-14T13:37:17-04:00">
+<bill session="113" type="h" number="5367" updated="2014-08-18T01:48:23-04:00">
   <state datetime="2014-07-31">REFERRED</state>
   <status>
     <introduced datetime="2014-07-31"/>
   </status>
   <introduced datetime="2014-07-31"/>
   <titles>
+    <title type="short" as="introduced">Bank Account Seizure of Terrorist Assets Act</title>
+    <title type="short" as="introduced">BASTA Act</title>
     <title type="official" as="introduced">To amend the Terrorism Risk Insurance Act of 2002 to allow for the use of certain assets of foreign entities to satisfy certain judgments against terrorist parties, and for other purposes.</title>
   </titles>
   <sponsor thomas_id="01915"/>

@@ -72,8 +72,14 @@
   "number": "5324", 
   "official_title": "To promote youth athletic safety and for other purposes.", 
   "popular_title": null, 
-  "related_bills": [], 
-  "short_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2718-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "SAFE PLAY Act", 
   "sponsor": {
     "district": "24", 
     "name": "Capps, Lois", 
@@ -91,9 +97,21 @@
     {
       "as": "introduced", 
       "is_for_portion": false, 
+      "title": "SAFE PLAY Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Supporting Athletes, Families and Educators to Protect the Lives of Athletic Youth Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
       "title": "To promote youth athletic safety and for other purposes.", 
       "type": "official"
     }
   ], 
-  "updated_at": "2014-08-14T13:36:56-04:00"
+  "updated_at": "2014-08-18T01:46:57-04:00"
 }

@@ -57,7 +57,7 @@
   "official_title": "A bill to establish in the Department of Veterans Affairs a national center for research on the diagnosis and treatment of health conditions of the descendants of veterans exposed to toxic substances during service in the Armed Forces, to establish an advisory board on exposure to toxic substances, and for other purposes.", 
   "popular_title": null, 
   "related_bills": [], 
-  "short_title": null, 
+  "short_title": "Toxic Exposure Research Act of 2014", 
   "sponsor": {
     "district": null, 
     "name": "Blumenthal, Richard", 
@@ -75,9 +75,15 @@
     {
       "as": "introduced", 
       "is_for_portion": false, 
+      "title": "Toxic Exposure Research Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
       "title": "A bill to establish in the Department of Veterans Affairs a national center for research on the diagnosis and treatment of health conditions of the descendants of veterans exposed to toxic substances during service in the Armed Forces, to establish an advisory board on exposure to toxic substances, and for other purposes.", 
       "type": "official"
     }
   ], 
-  "updated_at": "2014-08-14T14:08:07-04:00"
+  "updated_at": "2014-08-18T03:55:43-04:00"
 }

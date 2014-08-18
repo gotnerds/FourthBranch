@@ -258,7 +258,7 @@
   "official_title": "To establish a WaterSense program, and for other purposes.", 
   "popular_title": null, 
   "related_bills": [], 
-  "short_title": null, 
+  "short_title": "W21", 
   "sponsor": {
     "district": "32", 
     "name": "Napolitano, Grace F.", 
@@ -276,9 +276,21 @@
     {
       "as": "introduced", 
       "is_for_portion": false, 
+      "title": "W21", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "Water in the 21st Century Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
       "title": "To establish a WaterSense program, and for other purposes.", 
       "type": "official"
     }
   ], 
-  "updated_at": "2014-08-14T13:37:15-04:00"
+  "updated_at": "2014-08-18T01:48:15-04:00"
 }

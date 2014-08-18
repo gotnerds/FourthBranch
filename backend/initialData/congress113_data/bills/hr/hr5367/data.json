@@ -66,7 +66,7 @@
   "official_title": "To amend the Terrorism Risk Insurance Act of 2002 to allow for the use of certain assets of foreign entities to satisfy certain judgments against terrorist parties, and for other purposes.", 
   "popular_title": null, 
   "related_bills": [], 
-  "short_title": null, 
+  "short_title": "Bank Account Seizure of Terrorist Assets Act", 
   "sponsor": {
     "district": "8", 
     "name": "Posey, Bill", 
@@ -84,9 +84,21 @@
     {
       "as": "introduced", 
       "is_for_portion": false, 
+      "title": "Bank Account Seizure of Terrorist Assets Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
+      "title": "BASTA Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
       "title": "To amend the Terrorism Risk Insurance Act of 2002 to allow for the use of certain assets of foreign entities to satisfy certain judgments against terrorist parties, and for other purposes.", 
       "type": "official"
     }
   ], 
-  "updated_at": "2014-08-14T13:37:17-04:00"
+  "updated_at": "2014-08-18T01:48:23-04:00"
 }

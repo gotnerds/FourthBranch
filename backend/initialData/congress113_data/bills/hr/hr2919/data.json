@@ -219,7 +219,13 @@
   "number": "2919", 
   "official_title": "To amend titles 5 and 28, United States Code, to require annual reports to Congress on, and the maintenance of databases on, awards of fees and other expenses to prevailing parties in certain administrative proceedings and court cases to which the United States is a party, and for other purposes.", 
   "popular_title": null, 
-  "related_bills": [], 
+  "related_bills": [
+    {
+      "bill_id": "s2770-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
   "short_title": "Open Book on Equal Access to Justice Act", 
   "sponsor": {
     "district": null, 
@@ -271,5 +277,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-08-14T13:16:21-04:00"
+  "updated_at": "2014-08-18T00:23:44-04:00"
 }

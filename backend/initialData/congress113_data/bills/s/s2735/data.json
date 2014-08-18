@@ -47,7 +47,13 @@
   "number": "2735", 
   "official_title": "A bill to provide for an extension of the Internet Tax Freedom Act.", 
   "popular_title": null, 
-  "related_bills": [], 
+  "related_bills": [
+    {
+      "bill_id": "s2609-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
   "short_title": null, 
   "sponsor": {
     "district": null, 
@@ -70,5 +76,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-08-14T14:08:06-04:00"
+  "updated_at": "2014-08-18T03:55:37-04:00"
 }

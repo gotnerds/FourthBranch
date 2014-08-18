@@ -186,7 +186,11 @@
     "Refugees, asylum, displaced persons"
   ], 
   "subjects_top_term": "Law", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-06-26", 
+    "text": "Justice for Children Now Act of 2014 - Authorizes the Attorney General (DOJ) to appoint 70 immigration judges in addition to the those serving as of the date of enactment of this Act."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -201,5 +205,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-08-14T13:34:04-04:00"
+  "updated_at": "2014-08-18T01:35:25-04:00"
 }

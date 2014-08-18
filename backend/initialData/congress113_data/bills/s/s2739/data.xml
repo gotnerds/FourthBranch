@@ -1,10 +1,11 @@
-<bill session="113" type="s" number="2739" updated="2014-08-14T14:08:08-04:00">
+<bill session="113" type="s" number="2739" updated="2014-08-18T03:55:45-04:00">
   <state datetime="2014-07-31">REFERRED</state>
   <status>
     <introduced datetime="2014-07-31"/>
   </status>
   <introduced datetime="2014-07-31"/>
   <titles>
+    <title type="short" as="introduced">Biogas Investment Tax Credit Act of 2014</title>
     <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to make qualified biogas property eligible for the energy credit and to permit new clean renewable energy bonds to finance qualified biogas property.</title>
   </titles>
   <sponsor thomas_id="01036"/>
@@ -17,7 +18,9 @@
   <committees>
     <committee subcommittee="" code="SSFI" name="Senate Finance" activity="Referral"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="860"/>
+  </relatedbills>
   <subjects/>
   <amendments/>
 </bill>

@@ -47,7 +47,13 @@
   "number": "2727", 
   "official_title": "A bill to approve and implement the Klamath Basin agreements, to improve natural resource management, support economic development, and sustain agricultural production in the Klamath River Basin in the public interest and the interest of the United States, and for other purposes.", 
   "popular_title": null, 
-  "related_bills": [], 
+  "related_bills": [
+    {
+      "bill_id": "s2379-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
   "short_title": "Klamath Basin Water Recovery and Economic Restoration Act of 2014", 
   "sponsor": {
     "district": null, 
@@ -76,5 +82,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-08-14T14:08:02-04:00"
+  "updated_at": "2014-08-18T03:55:19-04:00"
 }

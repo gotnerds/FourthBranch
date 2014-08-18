@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="4969" updated="2014-08-14T13:33:53-04:00">
+<bill session="113" type="h" number="4969" updated="2014-08-18T01:34:41-04:00">
   <state datetime="2014-06-25">REFERRED</state>
   <status>
     <introduced datetime="2014-06-25"/>
@@ -48,4 +48,6 @@
     <term name="Telephone and wireless communication"/>
   </subjects>
   <amendments/>
+  <summary>6/25/2014--Introduced.
+Amateur Radio Parity Act of 2014 - Directs the Federal Communications Commission (FCC) to amend regulations concerning the height and dimensions of station antenna structures to prohibit a private land use restriction from applying to amateur service communications if the restriction precludes such communications, fails to accommodate such communications, or does not constitute the minimum practicable restriction on such communications to accomplish the legitimate purpose of the private entity seeking to enforce such restriction.</summary>
 </bill>

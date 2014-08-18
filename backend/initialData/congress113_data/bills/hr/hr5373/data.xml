@@ -1,10 +1,11 @@
-<bill session="113" type="h" number="5373" updated="2014-08-14T13:37:20-04:00">
+<bill session="113" type="h" number="5373" updated="2014-08-18T01:48:36-04:00">
   <state datetime="2014-07-31">REFERRED</state>
   <status>
     <introduced datetime="2014-07-31"/>
   </status>
   <introduced datetime="2014-07-31"/>
   <titles>
+    <title type="short" as="introduced">Put a Registered Nurse in the Nursing Home Act of 2014</title>
     <title type="official" as="introduced">To amend titles XVIII and XIX of the Social Security Act to establish a minimum direct care registered nurse staffing requirement at nursing facilities and skilled nursing facilities under Medicare and Medicaid and for other purposes.</title>
   </titles>
   <sponsor thomas_id="01588"/>

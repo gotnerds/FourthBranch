@@ -143,7 +143,7 @@
   "official_title": "To amend title 38, United States Code, to improve the enforcement of employment and reemployment rights of members of the uniformed services, and for other purposes.", 
   "popular_title": null, 
   "related_bills": [], 
-  "short_title": null, 
+  "short_title": "Servicemembers Access to Justice Act of 2014", 
   "sponsor": {
     "district": "13", 
     "name": "Schwartz, Allyson Y.", 
@@ -161,9 +161,15 @@
     {
       "as": "introduced", 
       "is_for_portion": false, 
+      "title": "Servicemembers Access to Justice Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
       "title": "To amend title 38, United States Code, to improve the enforcement of employment and reemployment rights of members of the uniformed services, and for other purposes.", 
       "type": "official"
     }
   ], 
-  "updated_at": "2014-08-14T13:37:21-04:00"
+  "updated_at": "2014-08-18T01:48:40-04:00"
 }

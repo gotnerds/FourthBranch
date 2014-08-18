@@ -169,7 +169,11 @@
   "status_at": "2014-06-26", 
   "subjects": [], 
   "subjects_top_term": null, 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-06-26", 
+    "text": "Recognizes the importance of experienced and accredited wildlife rehabilitation centers and their contributions to the humane treatment of animals."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -178,5 +182,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-08-14T12:50:10-04:00"
+  "updated_at": "2014-08-17T22:38:56-04:00"
 }

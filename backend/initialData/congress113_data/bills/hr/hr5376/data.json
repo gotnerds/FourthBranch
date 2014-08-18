@@ -37,8 +37,19 @@
   "number": "5376", 
   "official_title": "To prohibit universal service support of commercial mobile service and commercial mobile data service through the Lifeline program.", 
   "popular_title": null, 
-  "related_bills": [], 
-  "short_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "hr176-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s874-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Stop Taxpayer Funded Cell Phones Act of 2014", 
   "sponsor": {
     "district": "8", 
     "name": "Scott, Austin", 
@@ -56,9 +67,15 @@
     {
       "as": "introduced", 
       "is_for_portion": false, 
+      "title": "Stop Taxpayer Funded Cell Phones Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
       "title": "To prohibit universal service support of commercial mobile service and commercial mobile data service through the Lifeline program.", 
       "type": "official"
     }
   ], 
-  "updated_at": "2014-08-14T13:37:22-04:00"
+  "updated_at": "2014-08-18T01:48:42-04:00"
 }

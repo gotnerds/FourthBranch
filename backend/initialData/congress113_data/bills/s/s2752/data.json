@@ -37,7 +37,13 @@
   "number": "2752", 
   "official_title": "A bill to amend the Endangered Species Act of 1973 to improve the disclosure of certain expenditures under that Act, and for other purposes.", 
   "popular_title": null, 
-  "related_bills": [], 
+  "related_bills": [
+    {
+      "bill_id": "hr4316-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
   "short_title": "Endangered Species Recovery Transparency Act", 
   "sponsor": {
     "district": null, 
@@ -66,5 +72,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-08-14T14:08:14-04:00"
+  "updated_at": "2014-08-18T03:56:12-04:00"
 }

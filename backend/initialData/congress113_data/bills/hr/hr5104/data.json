@@ -92,7 +92,23 @@
   "number": "5104", 
   "official_title": "To authorize the Secretary of Housing and Urban Development to carry out a demonstration program to enter into budget-neutral, performance-based contracts for energy and water conservation improvements for multifamily residential units.", 
   "popular_title": null, 
-  "related_bills": [], 
+  "related_bills": [
+    {
+      "bill_id": "s2074-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2262-113", 
+      "reason": "related", 
+      "type": "bill"
+    }, 
+    {
+      "bill_id": "s2438-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
   "short_title": "Pay For Success Affordable Housing Energy Modernization Act of 2014", 
   "sponsor": {
     "district": "15", 
@@ -121,5 +137,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-08-14T13:35:02-04:00"
+  "updated_at": "2014-08-18T01:39:20-04:00"
 }

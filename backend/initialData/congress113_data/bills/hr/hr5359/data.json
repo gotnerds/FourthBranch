@@ -48,7 +48,7 @@
   "official_title": "To provide for the designation of, and the award of grant with respect to, air and health quality empowerment zones.", 
   "popular_title": null, 
   "related_bills": [], 
-  "short_title": null, 
+  "short_title": "Air and Health Quality Empowerment Zone Designation Act of 2013", 
   "sponsor": {
     "district": "9", 
     "name": "McNerney, Jerry", 
@@ -66,9 +66,15 @@
     {
       "as": "introduced", 
       "is_for_portion": false, 
+      "title": "Air and Health Quality Empowerment Zone Designation Act of 2013", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
       "title": "To provide for the designation of, and the award of grant with respect to, air and health quality empowerment zones.", 
       "type": "official"
     }
   ], 
-  "updated_at": "2014-08-14T13:37:13-04:00"
+  "updated_at": "2014-08-18T01:48:08-04:00"
 }

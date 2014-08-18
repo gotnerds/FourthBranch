@@ -1,4 +1,4 @@
-<bill session="113" type="s" number="2748" updated="2014-08-14T14:08:12-04:00">
+<bill session="113" type="s" number="2748" updated="2014-08-18T03:56:04-04:00">
   <state datetime="2014-07-31">REFERRED</state>
   <status>
     <introduced datetime="2014-07-31"/>
@@ -18,7 +18,11 @@
   <committees>
     <committee subcommittee="" code="SSEV" name="Senate Environment and Public Works" activity="Referral"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill type="h" session="113" relation="identical" number="4318"/>
+  </relatedbills>
   <subjects/>
   <amendments/>
+  <summary>7/31/2014--Introduced.
+Endangered Species Litigation Reasonableness Act - Amends the Endangered Species Act of 1973 to replace the current standard for awarding court costs, including attorney fees, in citizen suits with the federal judicial code standard for awarding costs to a prevailing party.</summary>
 </bill>

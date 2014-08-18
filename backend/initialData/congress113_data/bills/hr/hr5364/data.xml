@@ -1,10 +1,11 @@
-<bill session="113" type="h" number="5364" updated="2014-08-14T13:37:16-04:00">
+<bill session="113" type="h" number="5364" updated="2014-08-18T01:48:17-04:00">
   <state datetime="2014-07-31">REFERRED</state>
   <status>
     <introduced datetime="2014-07-31"/>
   </status>
   <introduced datetime="2014-07-31"/>
   <titles>
+    <title type="short" as="introduced">CHIP Extension and Improvement Act of 2014</title>
     <title type="official" as="introduced">To amend title XXI of the Social Security Act to extend and improve the Children's Health Insurance Program, and for other purposes.</title>
   </titles>
   <sponsor thomas_id="00887"/>

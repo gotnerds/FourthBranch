@@ -1,10 +1,11 @@
-<bill session="113" type="s" number="2740" updated="2014-08-14T14:08:08-04:00">
+<bill session="113" type="s" number="2740" updated="2014-08-18T03:55:47-04:00">
   <state datetime="2014-07-31">REFERRED</state>
   <status>
     <introduced datetime="2014-07-31"/>
   </status>
   <introduced datetime="2014-07-31"/>
   <titles>
+    <title type="short" as="introduced">Connect with Veterans Act of 2014</title>
     <title type="official" as="introduced">A bill to require the Secretary of Veterans Affairs to establish a voluntary national directory of veterans to support outreach to veterans, and for other purposes.</title>
   </titles>
   <sponsor thomas_id="02174"/>

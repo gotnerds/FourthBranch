@@ -100,7 +100,7 @@
   "official_title": "To amend titles XVIII and XIX of the Social Security Act to establish a minimum direct care registered nurse staffing requirement at nursing facilities and skilled nursing facilities under Medicare and Medicaid and for other purposes.", 
   "popular_title": null, 
   "related_bills": [], 
-  "short_title": null, 
+  "short_title": "Put a Registered Nurse in the Nursing Home Act of 2014", 
   "sponsor": {
     "district": "9", 
     "name": "Schakowsky, Janice D.", 
@@ -118,9 +118,15 @@
     {
       "as": "introduced", 
       "is_for_portion": false, 
+      "title": "Put a Registered Nurse in the Nursing Home Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
       "title": "To amend titles XVIII and XIX of the Social Security Act to establish a minimum direct care registered nurse staffing requirement at nursing facilities and skilled nursing facilities under Medicare and Medicaid and for other purposes.", 
       "type": "official"
     }
   ], 
-  "updated_at": "2014-08-14T13:37:20-04:00"
+  "updated_at": "2014-08-18T01:48:36-04:00"
 }

@@ -52,7 +52,13 @@
   "number": "2736", 
   "official_title": "A bill to amend the Internal Revenue Code of 1986 to prevent identity theft related tax refund fraud, and for other purposes.", 
   "popular_title": null, 
-  "related_bills": [], 
+  "related_bills": [
+    {
+      "bill_id": "hr4910-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
   "short_title": "Tax Refund Theft Prevention Act of 2014", 
   "sponsor": {
     "district": null, 
@@ -81,5 +87,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-08-14T14:08:06-04:00"
+  "updated_at": "2014-08-18T03:55:39-04:00"
 }

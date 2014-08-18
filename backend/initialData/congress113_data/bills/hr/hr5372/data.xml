@@ -1,10 +1,11 @@
-<bill session="113" type="h" number="5372" updated="2014-08-14T13:37:20-04:00">
+<bill session="113" type="h" number="5372" updated="2014-08-18T01:48:34-04:00">
   <state datetime="2014-07-31">REFERRED</state>
   <status>
     <introduced datetime="2014-07-31"/>
   </status>
   <introduced datetime="2014-07-31"/>
   <titles>
+    <title type="short" as="introduced">Patriot Employer Tax Credit Act</title>
     <title type="official" as="introduced">To amend the Internal Revenue Code of 1986 to provide a tax credit to Patriot employers, and for other purposes.</title>
   </titles>
   <sponsor thomas_id="01588"/>
@@ -22,7 +23,9 @@
   <committees>
     <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill type="s" session="113" relation="identical" number="2540"/>
+  </relatedbills>
   <subjects/>
   <amendments/>
 </bill>

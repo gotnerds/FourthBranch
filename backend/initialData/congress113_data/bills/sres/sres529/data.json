@@ -61,7 +61,11 @@
     "Veterans' organizations and recognition"
   ], 
   "subjects_top_term": "Armed forces and national security", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-30", 
+    "text": "Congratulates the Veterans of Foreign Wars of the United States (VFW) on its 100th anniversary.\n\nCommends VFW members for their courage and sacrifice in service to the United States.\n\nEncourages individuals to express their appreciation for the honor, courage, and bravery of our veterans and for the service of the VFW."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -70,5 +74,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-08-14T13:44:18-04:00"
+  "updated_at": "2014-08-18T02:17:26-04:00"
 }

@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="4648" updated="2014-08-14T13:31:01-04:00">
+<bill session="113" type="h" number="4648" updated="2014-08-18T01:23:42-04:00">
   <state datetime="2014-05-09">REFERRED</state>
   <status>
     <introduced datetime="2014-05-09"/>
@@ -65,4 +65,10 @@
     <term name="Vocational education"/>
   </subjects>
   <amendments/>
+  <summary>5/9/2014--Introduced.
+Renewable Energy Jobs Act - Requires the Secretary of Labor to carry out a pilot program to train individuals for careers in the renewable energy and energy efficiency industries and award grants under the program to the five states with the highest installed alternative energy power capacity.
+
+Defines "renewable energy and energy efficiency industries" as the following industries:
+
+ the energy-efficient building, construction, or retrofits industry; the renewable electric power industry, including the wind, solar, and geothermal energy industries; and the energy efficiency assessment industry that serves the residential, commercial, or industrial sectors.</summary>
 </bill>

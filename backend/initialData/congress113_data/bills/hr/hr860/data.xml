@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="860" updated="2014-08-14T12:58:02-04:00">
+<bill session="113" type="h" number="860" updated="2014-08-17T23:11:43-04:00">
   <state datetime="2013-02-27">REFERRED</state>
   <status>
     <introduced datetime="2013-02-27"/>
@@ -33,7 +33,9 @@
     <committee subcommittee="" code="HSSY" name="House Science, Space, and Technology" activity="Referral, In Committee"/>
     <committee subcommittee="Energy" code="HSSY20" name="House Science, Space, and Technology" activity="Referral"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2739"/>
+  </relatedbills>
   <subjects>
     <term name="Taxation"/>
     <term name="Alternative and renewable resources"/>

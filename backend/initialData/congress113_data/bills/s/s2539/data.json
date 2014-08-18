@@ -148,11 +148,17 @@
       "type": "short"
     }, 
     {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "Traumatic Brain Injury Reauthorization Act of 2014", 
+      "type": "short"
+    }, 
+    {
       "as": "introduced", 
       "is_for_portion": false, 
       "title": "A bill to amend the Public Health Service Act to reauthorize certain programs relating to traumatic brain injury and to trauma research.", 
       "type": "official"
     }
   ], 
-  "updated_at": "2014-08-14T14:06:27-04:00"
+  "updated_at": "2014-08-18T03:48:48-04:00"
 }

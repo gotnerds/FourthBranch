@@ -47,8 +47,14 @@
   "number": "5361", 
   "official_title": "To encourage, enhance, and integrate Silver Alert plans throughout the United States, and for other purposes.", 
   "popular_title": null, 
-  "related_bills": [], 
-  "short_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s1814-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "National Silver Alert Act of 2014", 
   "sponsor": {
     "district": "18", 
     "name": "Murphy, Patrick", 
@@ -66,9 +72,15 @@
     {
       "as": "introduced", 
       "is_for_portion": false, 
+      "title": "National Silver Alert Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
       "title": "To encourage, enhance, and integrate Silver Alert plans throughout the United States, and for other purposes.", 
       "type": "official"
     }
   ], 
-  "updated_at": "2014-08-14T13:37:14-04:00"
+  "updated_at": "2014-08-18T01:48:11-04:00"
 }

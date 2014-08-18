@@ -37,7 +37,13 @@
   "number": "2770", 
   "official_title": "A bill to amend titles 5 and 28, United States Code, to require annual reports to Congress on, and the maintenance of databases on, awards of fees and other expenses to prevailing parties in certain administrative proceedings and court cases to which the United States is a party, and for other purposes.", 
   "popular_title": null, 
-  "related_bills": [], 
+  "related_bills": [
+    {
+      "bill_id": "hr2919-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
   "short_title": null, 
   "sponsor": {
     "district": null, 
@@ -60,5 +66,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-08-14T14:08:23-04:00"
+  "updated_at": "2014-08-18T03:56:48-04:00"
 }

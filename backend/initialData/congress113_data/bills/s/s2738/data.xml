@@ -1,10 +1,11 @@
-<bill session="113" type="s" number="2738" updated="2014-08-14T14:08:07-04:00">
+<bill session="113" type="s" number="2738" updated="2014-08-18T03:55:43-04:00">
   <state datetime="2014-07-31">REFERRED</state>
   <status>
     <introduced datetime="2014-07-31"/>
   </status>
   <introduced datetime="2014-07-31"/>
   <titles>
+    <title type="short" as="introduced">Toxic Exposure Research Act of 2014</title>
     <title type="official" as="introduced">A bill to establish in the Department of Veterans Affairs a national center for research on the diagnosis and treatment of health conditions of the descendants of veterans exposed to toxic substances during service in the Armed Forces, to establish an advisory board on exposure to toxic substances, and for other purposes.</title>
   </titles>
   <sponsor thomas_id="02076"/>

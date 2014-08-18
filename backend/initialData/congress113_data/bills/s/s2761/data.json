@@ -49,7 +49,7 @@
   "official_title": "A bill to amend title 23, United States Code, to permit the consolidation of metropolitan planning organizations, and for other purposes.", 
   "popular_title": null, 
   "related_bills": [], 
-  "short_title": null, 
+  "short_title": "Local Empowerment Act", 
   "sponsor": {
     "district": null, 
     "name": "Booker, Cory A.", 
@@ -67,9 +67,15 @@
     {
       "as": "introduced", 
       "is_for_portion": false, 
+      "title": "Local Empowerment Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
       "title": "A bill to amend title 23, United States Code, to permit the consolidation of metropolitan planning organizations, and for other purposes.", 
       "type": "official"
     }
   ], 
-  "updated_at": "2014-08-14T14:08:19-04:00"
+  "updated_at": "2014-08-18T03:56:30-04:00"
 }

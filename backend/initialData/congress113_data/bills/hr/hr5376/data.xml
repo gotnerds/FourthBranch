@@ -1,10 +1,11 @@
-<bill session="113" type="h" number="5376" updated="2014-08-14T13:37:22-04:00">
+<bill session="113" type="h" number="5376" updated="2014-08-18T01:48:42-04:00">
   <state datetime="2014-07-31">REFERRED</state>
   <status>
     <introduced datetime="2014-07-31"/>
   </status>
   <introduced datetime="2014-07-31"/>
   <titles>
+    <title type="short" as="introduced">Stop Taxpayer Funded Cell Phones Act of 2014</title>
     <title type="official" as="introduced">To prohibit universal service support of commercial mobile service and commercial mobile data service through the Lifeline program.</title>
   </titles>
   <sponsor thomas_id="02009"/>
@@ -17,7 +18,10 @@
   <committees>
     <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="176"/>
+    <bill type="s" session="113" relation="unknown" number="874"/>
+  </relatedbills>
   <subjects/>
   <amendments/>
 </bill>

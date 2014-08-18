@@ -48,7 +48,7 @@
   "official_title": "A bill to amend the Investment Advisers Act of 1940 to prevent duplicative regulation of advisers of small business investment companies.", 
   "popular_title": null, 
   "related_bills": [], 
-  "short_title": null, 
+  "short_title": "SBIC Advisers Relief Act of 2014", 
   "sponsor": {
     "district": null, 
     "name": "Kirk, Mark Steven", 
@@ -66,9 +66,15 @@
     {
       "as": "introduced", 
       "is_for_portion": false, 
+      "title": "SBIC Advisers Relief Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
       "title": "A bill to amend the Investment Advisers Act of 1940 to prevent duplicative regulation of advisers of small business investment companies.", 
       "type": "official"
     }
   ], 
-  "updated_at": "2014-08-14T14:08:21-04:00"
+  "updated_at": "2014-08-18T03:56:38-04:00"
 }

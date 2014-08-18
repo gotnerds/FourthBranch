@@ -108,7 +108,13 @@
   "number": "860", 
   "official_title": "To amend the Internal Revenue Code of 1986 to make qualified biogas property eligible for the energy credit and to permit new clean renewable energy bonds to finance qualified biogas property.", 
   "popular_title": null, 
-  "related_bills": [], 
+  "related_bills": [
+    {
+      "bill_id": "s2739-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
   "short_title": "Biogas Investment Tax Credit Act of 2013", 
   "sponsor": {
     "district": "3", 
@@ -148,5 +154,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-08-14T12:58:02-04:00"
+  "updated_at": "2014-08-17T23:11:43-04:00"
 }

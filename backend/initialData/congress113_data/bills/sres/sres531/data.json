@@ -66,7 +66,11 @@
   "status_at": "2014-07-31", 
   "subjects": [], 
   "subjects_top_term": null, 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-31", 
+    "text": "Honors the life and accomplishments of Louis Zamperini and requests the President to identify a U.S. government program to honor his legacy."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -75,5 +79,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-08-14T13:44:19-04:00"
+  "updated_at": "2014-08-18T02:17:29-04:00"
 }

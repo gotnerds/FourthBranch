@@ -223,7 +223,11 @@
   "status_at": "2014-07-24", 
   "subjects": [], 
   "subjects_top_term": null, 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-24", 
+    "text": "Expresses the sense of the House of Representatives that the Secretary of Defense (DOD) should review exceptions to citizenship, residency, and disqualification standards for enlistment in the Armed Forces to make a determination regarding the enlistment of aliens who possess an employment authorization document issued under the Deferred Action for Childhood Arrivals program of the Department of Homeland Security (DHS) established pursuant to the DHS Secretary's memorandum dated June 15, 2012."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -232,5 +236,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-08-14T12:50:27-04:00"
+  "updated_at": "2014-08-17T22:40:05-04:00"
 }

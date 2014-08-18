@@ -1,4 +1,4 @@
-<bill session="113" type="s" number="2643" updated="2014-08-14T14:07:20-04:00">
+<bill session="113" type="s" number="2643" updated="2014-08-18T03:52:22-04:00">
   <state datetime="2014-07-22">REFERRED</state>
   <status>
     <introduced datetime="2014-07-22"/>
@@ -26,4 +26,8 @@
   <relatedbills/>
   <subjects/>
   <amendments/>
+  <summary>7/22/2014--Introduced.
+Directs the Federal Communications Commission (FCC) to submit to Congress a report containing an analysis of: (1) the extent to which consumers in each local market have access to broadcast programming from television broadcast stations located outside their local market; (2) whether there are alternatives to the use of designated market areas to define markets that would provide consumers with more local programming options; and (3) the potential impact that such alternatives could have on localism and on broadcast television locally, regionally, and nationally.
+
+Requires such report to include recommendations on how to foster increased localism in states served by out-of-state designated market areas.</summary>
 </bill>

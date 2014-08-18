@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="4316" updated="2014-08-14T13:28:13-04:00">
+<bill session="113" type="h" number="4316" updated="2014-08-18T01:12:19-04:00">
   <state datetime="2014-04-30">REPORTED</state>
   <status>
     <unknown datetime="2014-04-30"/>
@@ -61,7 +61,9 @@
   <committees>
     <committee subcommittee="" code="HSII" name="House Natural Resources" activity="Referral, Hearings, Markup, Reporting"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2752"/>
+  </relatedbills>
   <subjects>
     <term name="Animals"/>
     <term name="Civil actions and liability"/>

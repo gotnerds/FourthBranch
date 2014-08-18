@@ -1,10 +1,12 @@
-<bill session="113" type="h" number="5324" updated="2014-08-14T13:36:56-04:00">
+<bill session="113" type="h" number="5324" updated="2014-08-18T01:46:57-04:00">
   <state datetime="2014-07-31">REFERRED</state>
   <status>
     <introduced datetime="2014-07-31"/>
   </status>
   <introduced datetime="2014-07-31"/>
   <titles>
+    <title type="short" as="introduced">SAFE PLAY Act</title>
+    <title type="short" as="introduced">Supporting Athletes, Families and Educators to Protect the Lives of Athletic Youth Act</title>
     <title type="official" as="introduced">To promote youth athletic safety and for other purposes.</title>
   </titles>
   <sponsor thomas_id="01471"/>
@@ -26,7 +28,9 @@
     <committee subcommittee="" code="HSIF" name="House Energy and Commerce" activity="Referral"/>
     <committee subcommittee="" code="HSED" name="House Education and the Workforce" activity="Referral"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2718"/>
+  </relatedbills>
   <subjects/>
   <amendments/>
 </bill>

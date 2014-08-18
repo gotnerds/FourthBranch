@@ -37,7 +37,13 @@
   "number": "5353", 
   "official_title": "To amend title XIX of the Social Security Act to extend for 5 years payment parity with Medicare for primary care services furnished under the Medicaid program, and for other purposes.", 
   "popular_title": null, 
-  "related_bills": [], 
+  "related_bills": [
+    {
+      "bill_id": "s2229-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
   "short_title": "Medicaid Parity Act of 2014", 
   "sponsor": {
     "district": "5", 
@@ -66,5 +72,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-08-14T13:37:10-04:00"
+  "updated_at": "2014-08-18T01:47:56-04:00"
 }

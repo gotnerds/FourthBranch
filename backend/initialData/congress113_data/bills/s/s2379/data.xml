@@ -1,4 +1,4 @@
-<bill session="113" type="s" number="2379" updated="2014-08-14T14:05:07-04:00">
+<bill session="113" type="s" number="2379" updated="2014-08-18T03:43:12-04:00">
   <state datetime="2014-05-21">REFERRED</state>
   <status>
     <introduced datetime="2014-05-21"/>
@@ -30,7 +30,9 @@
     <committee subcommittee="" code="SSEG" name="Senate Energy and Natural Resources" activity="Referral"/>
     <committee subcommittee="Water and Power" code="SSEG07" name="Senate Energy and Natural Resources" activity="Hearings"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2727"/>
+  </relatedbills>
   <subjects>
     <term name="Water resources development"/>
     <term name="Alternative and renewable resources"/>

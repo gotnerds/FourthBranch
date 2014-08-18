@@ -178,7 +178,11 @@
   "status_at": "2014-06-18", 
   "subjects": [], 
   "subjects_top_term": null, 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-06-18", 
+    "text": "Supports the designation of Make Music Day (the Summer Solstice, June 21, 2014) to celebrate the national commitment to making music and the importance of access to music education for all children.\n\nRecognizes Make Music Day organizers and volunteers across the United States for promoting such Day and for their efforts in promoting awareness of the benefits of making music and the importance of access to music education."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -187,5 +191,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-08-14T12:49:58-04:00"
+  "updated_at": "2014-08-17T22:38:14-04:00"
 }

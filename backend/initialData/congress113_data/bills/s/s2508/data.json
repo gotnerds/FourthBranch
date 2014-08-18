@@ -268,11 +268,17 @@
       "type": "short"
     }, 
     {
+      "as": "reported to senate", 
+      "is_for_portion": false, 
+      "title": "Energize Africa Act of 2014", 
+      "type": "short"
+    }, 
+    {
       "as": "introduced", 
       "is_for_portion": false, 
       "title": "A bill to establish a comprehensive United States Government policy to assist countries in sub-Saharan Africa to improve access to and the affordability, reliability, and sustainability of power, and for other purposes.", 
       "type": "official"
     }
   ], 
-  "updated_at": "2014-08-14T14:06:12-04:00"
+  "updated_at": "2014-08-18T03:47:44-04:00"
 }

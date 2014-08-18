@@ -1,4 +1,4 @@
-<bill session="113" type="s" number="2521" updated="2014-08-14T14:06:18-04:00">
+<bill session="113" type="s" number="2521" updated="2014-08-18T03:48:11-04:00">
   <state datetime="2014-06-25">REPORTED</state>
   <status>
     <unknown datetime="2014-06-25"/>
@@ -40,4 +40,28 @@
     <term name="Performance measurement"/>
   </subjects>
   <amendments/>
+  <summary>6/24/2014--Introduced.
+Federal Information Security Modernization Act of 2014 - Amends the Federal Information Security Management Act of 2002 (FISMA) to: (1) reestablish the oversight authority of the Director of the Office of Management and Budget (OMB) with respect to agency information security policies, and (2) set forth authority for the Secretary of Homeland Security (DHS) to carry out the operational aspects of such policies for information systems.
+
+Requires the Secretary to develop and oversee implementation of operational directives to agencies to implement the Director's standards and guidelines, as well as the requirements of this Act. Authorizes the Director to repeal operational directives that are not in accordance with the Director's policies.
+
+Requires the Secretary (currently, the Director) to ensure the operation of the federal information security incident center (FISIC).
+
+Provides for OMB's information security authorities to be delegated to the Director of National Intelligence (DNI) for certain systems operated by an element of the intelligence community.
+
+Directs agency heads to ensure that: (1) senior agency officials, including chief information officers, carry out their information security responsibilities; and (2) all personnel are held accountable for complying with the agency-wide information security program.
+
+Requires agencies to notify Congress of discovered security incidents within seven days.
+
+Directs agencies to submit an annual report regarding major incidents to OMB, DHS, Congress, and the Comptroller General (GAO).
+
+Authorizes GAO to provide technical assistance to agencies and inspectors general, including by testing information security controls and procedures.
+
+Directs FISIC to provide agencies with intelligence about cyber threats, vulnerabilities, and incidents for risk assessments.
+
+Requires OMB to revise OMB Circular A-130 to eliminate inefficient and wasteful reporting.
+
+Directs the Information Security and Privacy Advisory Board to advise and provide annual reports to DHS.
+
+Requires OMB to establish procedures for agencies to follow in the event of a breach involving disclosure of personally identifiable information, including requirements for notice to affected individuals, FISIC, and Congress.</summary>
 </bill>

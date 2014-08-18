@@ -385,7 +385,13 @@
   "number": "4318", 
   "official_title": "To amend the Endangered Species Act of 1973 to conform citizen suits under that Act with other existing law, and for other purposes.", 
   "popular_title": null, 
-  "related_bills": [], 
+  "related_bills": [
+    {
+      "bill_id": "s2748-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
   "short_title": "Endangered Species Litigation Reasonableness Act", 
   "sponsor": {
     "district": "2", 
@@ -430,5 +436,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-08-14T13:28:14-04:00"
+  "updated_at": "2014-08-18T01:12:23-04:00"
 }

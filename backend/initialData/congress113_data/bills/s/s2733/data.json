@@ -48,7 +48,7 @@
   "official_title": "A bill to establish a certification process for opting out of the individual health insurance mandate.", 
   "popular_title": null, 
   "related_bills": [], 
-  "short_title": null, 
+  "short_title": "Obamacare Opt-Out Act of 2014", 
   "sponsor": {
     "district": null, 
     "name": "McCain, John", 
@@ -66,9 +66,15 @@
     {
       "as": "introduced", 
       "is_for_portion": false, 
+      "title": "Obamacare Opt-Out Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
       "title": "A bill to establish a certification process for opting out of the individual health insurance mandate.", 
       "type": "official"
     }
   ], 
-  "updated_at": "2014-08-14T14:08:05-04:00"
+  "updated_at": "2014-08-18T03:55:32-04:00"
 }

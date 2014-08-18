@@ -1,10 +1,11 @@
-<bill session="113" type="h" number="5361" updated="2014-08-14T13:37:14-04:00">
+<bill session="113" type="h" number="5361" updated="2014-08-18T01:48:11-04:00">
   <state datetime="2014-07-31">REFERRED</state>
   <status>
     <introduced datetime="2014-07-31"/>
   </status>
   <introduced datetime="2014-07-31"/>
   <titles>
+    <title type="short" as="introduced">National Silver Alert Act of 2014</title>
     <title type="official" as="introduced">To encourage, enhance, and integrate Silver Alert plans throughout the United States, and for other purposes.</title>
   </titles>
   <sponsor thomas_id="02117"/>
@@ -19,7 +20,9 @@
   <committees>
     <committee subcommittee="" code="HSJU" name="House Judiciary" activity="Referral"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="1814"/>
+  </relatedbills>
   <subjects/>
   <amendments/>
 </bill>

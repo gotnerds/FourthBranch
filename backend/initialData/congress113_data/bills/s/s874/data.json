@@ -62,6 +62,11 @@
       "bill_id": "hr176-113", 
       "reason": "related", 
       "type": "bill"
+    }, 
+    {
+      "bill_id": "hr5376-113", 
+      "reason": "related", 
+      "type": "bill"
     }
   ], 
   "short_title": "Ending Mobile Phone Welfare Act of 2013", 
@@ -100,5 +105,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-08-14T13:52:13-04:00"
+  "updated_at": "2014-08-18T02:50:01-04:00"
 }

@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="5088" updated="2014-08-14T13:34:54-04:00">
+<bill session="113" type="h" number="5088" updated="2014-08-18T01:38:47-04:00">
   <state datetime="2014-07-11">REFERRED</state>
   <status>
     <introduced datetime="2014-07-11"/>
@@ -39,9 +39,13 @@
     <action datetime="2014-07-11" state="REFERRED">
       <text>Referred to the House Committee on Veterans' Affairs.</text>
     </action>
+    <action datetime="2014-08-15">
+      <text>Referred to the Subcommittee on Disability Assistance and Memorial Affairs.</text>
+    </action>
   </actions>
   <committees>
     <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Disability Assistance and Memorial Affairs" code="HSVR09" name="House Veterans' Affairs" activity="Referral"/>
   </committees>
   <relatedbills/>
   <subjects/>

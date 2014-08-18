@@ -1,0 +1,13 @@
+Download the initial data
+
+Under congress-github download bills,votes,amendments
+https://github.com/unitedstates/congress#setting-up
+All downloaded data must be copied to backend/initialData/congres#_data folders
+amendments -> backend/initialData/congres#_data/amendments/
+biils -> backend/initialData/congres#_data/bills
+votes -> backend/initialData/congres#_data/votes
+
+Under congress-legislators download current yaml files and copy legislators-current to
+backend/inital_data
+
+execute fourthBranch.pl run=install

@@ -1,4 +1,4 @@
-<bill session="113" type="s" number="2508" updated="2014-08-14T14:06:12-04:00">
+<bill session="113" type="s" number="2508" updated="2014-08-18T03:47:44-04:00">
   <state datetime="2014-06-24">REPORTED</state>
   <status>
     <unknown datetime="2014-06-24"/>
@@ -6,6 +6,7 @@
   <introduced datetime="2014-06-19"/>
   <titles>
     <title type="short" as="introduced">Energize Africa Act of 2014</title>
+    <title type="short" as="reported to senate">Energize Africa Act of 2014</title>
     <title type="official" as="introduced">A bill to establish a comprehensive United States Government policy to assist countries in sub-Saharan Africa to improve access to and the affordability, reliability, and sustainability of power, and for other purposes.</title>
   </titles>
   <sponsor thomas_id="00791"/>

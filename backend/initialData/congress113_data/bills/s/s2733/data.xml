@@ -1,10 +1,11 @@
-<bill session="113" type="s" number="2733" updated="2014-08-14T14:08:05-04:00">
+<bill session="113" type="s" number="2733" updated="2014-08-18T03:55:32-04:00">
   <state datetime="2014-07-31">REFERRED</state>
   <status>
     <introduced datetime="2014-07-31"/>
   </status>
   <introduced datetime="2014-07-31"/>
   <titles>
+    <title type="short" as="introduced">Obamacare Opt-Out Act of 2014</title>
     <title type="official" as="introduced">A bill to establish a certification process for opting out of the individual health insurance mandate.</title>
   </titles>
   <sponsor thomas_id="00754"/>

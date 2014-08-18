@@ -83,7 +83,13 @@
   "number": "5309", 
   "official_title": "To authorize and strengthen the tsunami detection, forecast, warning, research, and mitigation program of the National Oceanic and Atmospheric Administration, and for other purposes.", 
   "popular_title": null, 
-  "related_bills": [], 
+  "related_bills": [
+    {
+      "bill_id": "s2181-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
   "short_title": "Tsunami Warning, Education, and Research Act of 2014", 
   "sponsor": {
     "district": "1", 
@@ -112,5 +118,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-08-14T13:36:48-04:00"
+  "updated_at": "2014-08-18T01:46:26-04:00"
 }

@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="697" updated="2014-08-14T12:56:40-04:00">
+<bill session="113" type="h" number="697" updated="2014-08-17T23:06:03-04:00">
   <state datetime="2014-07-25">ENACTED:SIGNED</state>
   <status>
     <unknown datetime="2014-07-25"/>
@@ -10,6 +10,7 @@
     <title type="short" as="passed house">Three Kids Mine Remediation and Reclamation Act</title>
     <title type="short" as="reported to senate">Three Kids Mine Remediation and Reclamation Act</title>
     <title type="short" as="passed senate">Three Kids Mine Remediation and Reclamation Act</title>
+    <title type="short" as="enacted">Three Kids Mine Remediation and Reclamation Act</title>
     <title type="official" as="introduced">To provide for the conveyance of certain Federal land in Clark County, Nevada, for the environmental remediation and reclamation of the Three Kids Mine Project Site, and for other purposes.</title>
   </titles>
   <sponsor thomas_id="02040"/>
@@ -113,7 +114,7 @@
     <term name="Nevada"/>
   </subjects>
   <amendments/>
-  <summary>4/8/2014--Reported to Senate without amendment.
+  <summary>7/25/2014--Public Law.
 Three Kids Mine Remediation and Reclamation Act - (Sec. 3) Directs the Secretary of the Interior to convey to the Henderson Redevelopment Agency of the city of Henderson, Nevada, all right, title, and interest of the United States of the approximately 948 identified acres of Bureau of Reclamation and Bureau of Land Management (BLM) land within the Three Kids Mine Project Site (the federal land).
 
 Requires the Henderson Redevelopment Agency to pay the fair market value, if any, for the federal land.

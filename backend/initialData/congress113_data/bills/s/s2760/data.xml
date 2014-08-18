@@ -1,10 +1,12 @@
-<bill session="113" type="s" number="2760" updated="2014-08-14T14:08:18-04:00">
+<bill session="113" type="s" number="2760" updated="2014-08-18T03:56:28-04:00">
   <state datetime="2014-07-31">REFERRED</state>
   <status>
     <introduced datetime="2014-07-31"/>
   </status>
   <introduced datetime="2014-07-31"/>
   <titles>
+    <title type="short" as="introduced">Motor Vehicle and Highway Safety Enhancement Act of 2014</title>
+    <title type="short" as="introduced" partial="1">Raechel and Jacqueline Houck Safe Rental Car Act of 2014</title>
     <title type="official" as="introduced">A bill to extend National Highway Traffic Safety Administration authorizations, and for other purposes.</title>
   </titles>
   <sponsor thomas_id="01820"/>

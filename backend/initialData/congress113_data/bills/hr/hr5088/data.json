@@ -9,6 +9,13 @@
       "status": "REFERRED", 
       "text": "Referred to the House Committee on Veterans' Affairs.", 
       "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-08-15", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Disability Assistance and Memorial Affairs.", 
+      "type": "referral"
     }
   ], 
   "amendments": [], 
@@ -22,6 +29,15 @@
       ], 
       "committee": "House Veterans' Affairs", 
       "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Disability Assistance and Memorial Affairs", 
+      "subcommittee_id": "09"
     }
   ], 
   "congress": "113", 
@@ -283,5 +299,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-08-14T13:34:54-04:00"
+  "updated_at": "2014-08-18T01:38:47-04:00"
 }

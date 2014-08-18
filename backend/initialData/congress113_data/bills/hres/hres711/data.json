@@ -81,7 +81,11 @@
   "status_at": "2014-08-01", 
   "subjects": [], 
   "subjects_top_term": null, 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-08-01", 
+    "text": "Expresses the sense of the House of Representatives that the U.S. Postal Service (USPS) should take all appropriate measures to ensure the continuation of door delivery for all businesses and residential customers."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -90,5 +94,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-08-14T12:50:40-04:00"
+  "updated_at": "2014-08-17T22:40:59-04:00"
 }

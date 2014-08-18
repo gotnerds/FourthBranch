@@ -38,7 +38,7 @@
   "official_title": "A bill to support country-of-origin labeling, ban imports of fresh meat and meat food products from countries with foot-and-mouth disease, reform certain livestock programs, and for other purposes.", 
   "popular_title": null, 
   "related_bills": [], 
-  "short_title": null, 
+  "short_title": "American Livestock Protection and Ranching Opportunity Act of 2014", 
   "sponsor": {
     "district": null, 
     "name": "Walsh, John E.", 
@@ -56,9 +56,15 @@
     {
       "as": "introduced", 
       "is_for_portion": false, 
+      "title": "American Livestock Protection and Ranching Opportunity Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
       "title": "A bill to support country-of-origin labeling, ban imports of fresh meat and meat food products from countries with foot-and-mouth disease, reform certain livestock programs, and for other purposes.", 
       "type": "official"
     }
   ], 
-  "updated_at": "2014-08-14T14:08:20-04:00"
+  "updated_at": "2014-08-18T03:56:36-04:00"
 }

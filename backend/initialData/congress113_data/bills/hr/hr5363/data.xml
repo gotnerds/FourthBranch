@@ -1,10 +1,12 @@
-<bill session="113" type="h" number="5363" updated="2014-08-14T13:37:15-04:00">
+<bill session="113" type="h" number="5363" updated="2014-08-18T01:48:15-04:00">
   <state datetime="2014-07-31">REFERRED</state>
   <status>
     <introduced datetime="2014-07-31"/>
   </status>
   <introduced datetime="2014-07-31"/>
   <titles>
+    <title type="short" as="introduced">W21</title>
+    <title type="short" as="introduced">Water in the 21st Century Act</title>
     <title type="official" as="introduced">To establish a WaterSense program, and for other purposes.</title>
   </titles>
   <sponsor thomas_id="01602"/>

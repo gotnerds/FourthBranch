@@ -122,9 +122,9 @@ sub loadCongressGithubBills{
 	exit();
     }
     my $tableName = "congress_github_bills";
-    my @columns = ("official_title","bill_type","status","updated_at","status_at","bill_id","subjects_top_term","enacted_as","number","short_title","introduced_at","congress","by_request","popular_title");
+    my @columns = ("official_title","bill_type","status","updated_at","status_at","bill_id","subjects_top_term","enacted_as","number","short_title","introduced_at","congress","by_request","popular_title","bill_html");
 
-    my @columnTypes = ("VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)");
+    my @columnTypes = ("VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)");
 
     my $columnsSize = @columns;
     my $typesSize = @columnTypes;
@@ -175,6 +175,10 @@ sub loadCongressGithubBills{
 	my $inputFile = join("",@inputFile);
 	my $hashRef = decode_json($inputFile);
 	my %bill = %$hashRef;
+	# Verify location of bill html
+	if(-e $individualBill."/data.html"){
+	    $bill{'bill_html'} = $individualBill."/data.html";
+	}
 	my $insertString = &generateInsertStringFromHash($tableName,\@columns,\%bill);
 	if($debug == 1){
 	    print "Execute -->$insertString\n\n";

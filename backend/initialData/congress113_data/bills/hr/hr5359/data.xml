@@ -1,10 +1,11 @@
-<bill session="113" type="h" number="5359" updated="2014-08-14T13:37:13-04:00">
+<bill session="113" type="h" number="5359" updated="2014-08-18T01:48:08-04:00">
   <state datetime="2014-07-31">REFERRED</state>
   <status>
     <introduced datetime="2014-07-31"/>
   </status>
   <introduced datetime="2014-07-31"/>
   <titles>
+    <title type="short" as="introduced">Air and Health Quality Empowerment Zone Designation Act of 2013</title>
     <title type="official" as="introduced">To provide for the designation of, and the award of grant with respect to, air and health quality empowerment zones.</title>
   </titles>
   <sponsor thomas_id="01832"/>

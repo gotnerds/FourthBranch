@@ -48,7 +48,7 @@
   "official_title": "To amend title 38, United States Code, to ensure that the Secretary of Veterans Affairs is informed of the interment of deceased veterans, and for other purposes.", 
   "popular_title": null, 
   "related_bills": [], 
-  "short_title": null, 
+  "short_title": "Veterans Dignified Burial Act", 
   "sponsor": {
     "district": "39", 
     "name": "Royce, Edward R.", 
@@ -66,9 +66,15 @@
     {
       "as": "introduced", 
       "is_for_portion": false, 
+      "title": "Veterans Dignified Burial Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
       "title": "To amend title 38, United States Code, to ensure that the Secretary of Veterans Affairs is informed of the interment of deceased veterans, and for other purposes.", 
       "type": "official"
     }
   ], 
-  "updated_at": "2014-08-14T13:37:18-04:00"
+  "updated_at": "2014-08-18T01:48:27-04:00"
 }

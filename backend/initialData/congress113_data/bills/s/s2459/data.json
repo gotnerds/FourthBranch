@@ -68,7 +68,11 @@
     "Student aid and college costs"
   ], 
   "subjects_top_term": "Education", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-06-10", 
+    "text": "Know Before You Owe Federal Student Loan Act of 2014 - Amends title IV (Student Assistance) of the Higher Education Act of 1965 to require institutions of higher education (IHEs) to provide pre-loan counseling at or prior to the first disbursement of a new loan to a student borrower under the William D. Ford Federal Direct Loan program. (Currently, such counseling is limited to students who are first-time borrowers of such loans.)\n\nAdds to the information to be provided to students as part of such counseling:\n\n an estimate of their projected loan debt-to-income ratio upon graduation and their estimated total student loan debt, calculated for their particular program of study; a statement that they should borrow the minimum amount necessary to cover expenses; information about the default risk of having a projected loan debt-to-income ratio greater than 12%; options for reducing borrowing through scholarships, reduced expenses, work-study, or other work opportunities; and an explanation of the importance of graduating on time and of how adding an additional year of study impacts total indebtedness. Requires each IHE, prior to certifying a Federal Direct Loan for disbursement to a student borrower, to ensure that the student manually enters, either in writing or through electronic means, the exact dollar amount of such loan that the student desires to borrow."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -83,5 +87,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-08-14T14:05:47-04:00"
+  "updated_at": "2014-08-18T03:46:00-04:00"
 }

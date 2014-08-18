@@ -101,6 +101,13 @@
       "references": [], 
       "text": "Referred to House Natural Resources", 
       "type": "referral"
+    }, 
+    {
+      "acted_at": "2014-08-15", 
+      "in_committee": null, 
+      "references": [], 
+      "text": "Referred to the Subcommittee on Health.", 
+      "type": "referral"
     }
   ], 
   "amendments": [], 
@@ -149,6 +156,15 @@
       ], 
       "committee": "House Veterans' Affairs", 
       "committee_id": "HSVR"
+    }, 
+    {
+      "activity": [
+        "referral"
+      ], 
+      "committee": "House Veterans' Affairs", 
+      "committee_id": "HSVR", 
+      "subcommittee": "Subcommittee on Health", 
+      "subcommittee_id": "03"
     }, 
     {
       "activity": [
@@ -893,5 +909,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-08-14T13:36:41-04:00"
+  "updated_at": "2014-08-18T01:45:54-04:00"
 }

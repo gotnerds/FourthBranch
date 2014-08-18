@@ -74,8 +74,14 @@
   "number": "5372", 
   "official_title": "To amend the Internal Revenue Code of 1986 to provide a tax credit to Patriot employers, and for other purposes.", 
   "popular_title": null, 
-  "related_bills": [], 
-  "short_title": null, 
+  "related_bills": [
+    {
+      "bill_id": "s2540-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
+  "short_title": "Patriot Employer Tax Credit Act", 
   "sponsor": {
     "district": "9", 
     "name": "Schakowsky, Janice D.", 
@@ -93,9 +99,15 @@
     {
       "as": "introduced", 
       "is_for_portion": false, 
+      "title": "Patriot Employer Tax Credit Act", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
       "title": "To amend the Internal Revenue Code of 1986 to provide a tax credit to Patriot employers, and for other purposes.", 
       "type": "official"
     }
   ], 
-  "updated_at": "2014-08-14T13:37:20-04:00"
+  "updated_at": "2014-08-18T01:48:34-04:00"
 }

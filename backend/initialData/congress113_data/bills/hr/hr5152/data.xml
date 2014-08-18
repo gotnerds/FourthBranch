@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="5152" updated="2014-08-14T13:35:26-04:00">
+<bill session="113" type="h" number="5152" updated="2014-08-18T01:40:58-04:00">
   <state datetime="2014-07-17">REFERRED</state>
   <status>
     <introduced datetime="2014-07-17"/>
@@ -41,6 +41,9 @@
     <action datetime="2014-07-17">
       <text>Referred to House Veterans' Affairs</text>
     </action>
+    <action datetime="2014-08-15">
+      <text>Referred to the Subcommittee on Health.</text>
+    </action>
   </actions>
   <committees>
     <committee subcommittee="" code="HSGO" name="House Oversight and Government Reform" activity="Referral"/>
@@ -48,6 +51,7 @@
     <committee subcommittee="" code="HSAS" name="House Armed Services" activity="Referral"/>
     <committee subcommittee="" code="HSWM" name="House Ways and Means" activity="Referral"/>
     <committee subcommittee="" code="HSVR" name="House Veterans' Affairs" activity="Referral"/>
+    <committee subcommittee="Health" code="HSVR03" name="House Veterans' Affairs" activity="Referral"/>
   </committees>
   <relatedbills>
     <bill type="h" session="113" relation="unknown" number="2689"/>

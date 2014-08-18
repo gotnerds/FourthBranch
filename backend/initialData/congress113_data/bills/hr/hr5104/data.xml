@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="5104" updated="2014-08-14T13:35:02-04:00">
+<bill session="113" type="h" number="5104" updated="2014-08-18T01:39:20-04:00">
   <state datetime="2014-07-14">REFERRED</state>
   <status>
     <introduced datetime="2014-07-14"/>
@@ -25,7 +25,11 @@
   <committees>
     <committee subcommittee="" code="HSBA" name="House Financial Services" activity="Referral"/>
   </committees>
-  <relatedbills/>
+  <relatedbills>
+    <bill type="s" session="113" relation="unknown" number="2074"/>
+    <bill type="s" session="113" relation="unknown" number="2262"/>
+    <bill type="s" session="113" relation="unknown" number="2438"/>
+  </relatedbills>
   <subjects/>
   <amendments/>
 </bill>

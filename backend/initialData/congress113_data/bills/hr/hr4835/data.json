@@ -91,7 +91,11 @@
     "Student aid and college costs"
   ], 
   "subjects_top_term": "Finance and financial sector", 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-06-11", 
+    "text": "Stopping Abusive Student Loan Collection Practices in Bankruptcy Act of 2014 - Amends federal bankruptcy law to allow an individual whose student loan debt is discharged due to undue hardship to recover the costs of, and a reasonable attorney's fee for, the discharge proceeding if the court finds that the position of the creditor was not substantially justified."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -106,5 +110,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-08-14T13:32:41-04:00"
+  "updated_at": "2014-08-18T01:30:05-04:00"
 }

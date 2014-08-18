@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="176" updated="2014-08-14T12:52:12-04:00">
+<bill session="113" type="h" number="176" updated="2014-08-17T22:47:25-04:00">
   <state datetime="2013-01-04">REFERRED</state>
   <status>
     <introduced datetime="2013-01-04"/>
@@ -90,6 +90,7 @@
     <committee subcommittee="Communications and Technology" code="HSIF16" name="House Energy and Commerce" activity="Referral"/>
   </committees>
   <relatedbills>
+    <bill type="h" session="113" relation="unknown" number="5376"/>
     <bill type="s" session="113" relation="unknown" number="874"/>
   </relatedbills>
   <subjects>

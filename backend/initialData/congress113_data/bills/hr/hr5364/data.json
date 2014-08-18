@@ -163,7 +163,7 @@
   "official_title": "To amend title XXI of the Social Security Act to extend and improve the Children's Health Insurance Program, and for other purposes.", 
   "popular_title": null, 
   "related_bills": [], 
-  "short_title": null, 
+  "short_title": "CHIP Extension and Improvement Act of 2014", 
   "sponsor": {
     "district": "6", 
     "name": "Pallone, Frank, Jr.", 
@@ -181,9 +181,15 @@
     {
       "as": "introduced", 
       "is_for_portion": false, 
+      "title": "CHIP Extension and Improvement Act of 2014", 
+      "type": "short"
+    }, 
+    {
+      "as": "introduced", 
+      "is_for_portion": false, 
       "title": "To amend title XXI of the Social Security Act to extend and improve the Children's Health Insurance Program, and for other purposes.", 
       "type": "official"
     }
   ], 
-  "updated_at": "2014-08-14T13:37:16-04:00"
+  "updated_at": "2014-08-18T01:48:17-04:00"
 }

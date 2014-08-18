@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="4608" updated="2014-08-14T13:30:40-04:00">
+<bill session="113" type="h" number="4608" updated="2014-08-18T01:22:20-04:00">
   <state datetime="2014-05-08">REFERRED</state>
   <status>
     <introduced datetime="2014-05-08"/>
@@ -56,4 +56,8 @@
     <term name="War and emergency powers"/>
   </subjects>
   <amendments/>
+  <summary>5/8/2014--Introduced.
+War Authorization Review and Determination Act or WARD Act - Directs the President: (1) to submit to Congress a report setting forth each operation or other action that is being carried out pursuant to the Authorization for Use of Military Force; and (2) within 60 days after such a report is submitted, to terminate each operation or action described in the report unless a joint resolution approving such operation or action has been enacted.
+
+Repeals the Authorization for Use of Military Force 240 days after enactment of this Act and provides that such repeal shall apply to each operation or other action being carried out pursuant to such Authorization initiated before such date.</summary>
 </bill>

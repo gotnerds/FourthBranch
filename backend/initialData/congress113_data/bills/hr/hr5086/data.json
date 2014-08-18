@@ -73,7 +73,13 @@
   "number": "5086", 
   "official_title": "To amend the National Trails System Act to direct the Secretary of the Interior to conduct a study on the feasibility of designating the Chief Standing Bear National Historic Trail, and for other purposes.", 
   "popular_title": null, 
-  "related_bills": [], 
+  "related_bills": [
+    {
+      "bill_id": "s2745-113", 
+      "reason": "related", 
+      "type": "bill"
+    }
+  ], 
   "short_title": null, 
   "sponsor": {
     "district": "1", 
@@ -96,5 +102,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-08-14T13:34:53-04:00"
+  "updated_at": "2014-08-18T01:38:43-04:00"
 }

@@ -1,4 +1,4 @@
-<bill session="113" type="h" number="4835" updated="2014-08-14T13:32:41-04:00">
+<bill session="113" type="h" number="4835" updated="2014-08-18T01:30:05-04:00">
   <state datetime="2014-06-11">REFERRED</state>
   <status>
     <introduced datetime="2014-06-11"/>
@@ -33,4 +33,6 @@
     <term name="Student aid and college costs"/>
   </subjects>
   <amendments/>
+  <summary>6/11/2014--Introduced.
+Stopping Abusive Student Loan Collection Practices in Bankruptcy Act of 2014 - Amends federal bankruptcy law to allow an individual whose student loan debt is discharged due to undue hardship to recover the costs of, and a reasonable attorney's fee for, the discharge proceeding if the court finds that the position of the creditor was not substantially justified.</summary>
 </bill>

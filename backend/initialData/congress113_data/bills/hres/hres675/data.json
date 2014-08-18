@@ -412,7 +412,11 @@
   "status_at": "2014-07-17", 
   "subjects": [], 
   "subjects_top_term": null, 
-  "summary": null, 
+  "summary": {
+    "as": "Introduced", 
+    "date": "2014-07-17", 
+    "text": "Recognizes, supports, and defends the constitutional authority of the governors of Texas, New Mexico, Arizona, and California to deploy units of the National Guard to secure the international border of the United States within their states.\n\n Urges such governors to immediately deploy units of the National Guard to: (1) gain effective control of the southern border of the United States, and (2) prevent anyone without legal immigration status from entering the United States.\n\nDeclares a commitment to appropriating the necessary monies to effectively support any such deployments."
+  }, 
   "titles": [
     {
       "as": "introduced", 
@@ -421,5 +425,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-08-14T12:50:22-04:00"
+  "updated_at": "2014-08-17T22:39:45-04:00"
 }

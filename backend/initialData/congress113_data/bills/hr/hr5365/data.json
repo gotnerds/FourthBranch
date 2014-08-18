@@ -74,7 +74,13 @@
   "number": "5365", 
   "official_title": "To amend the Internal Revenue Code of 1986 to provide an above-the-line deduction for child care expenses, and for other purposes.", 
   "popular_title": null, 
-  "related_bills": [], 
+  "related_bills": [
+    {
+      "bill_id": "s1975-113", 
+      "reason": "identical", 
+      "type": "bill"
+    }
+  ], 
   "short_title": null, 
   "sponsor": {
     "district": "9", 
@@ -97,5 +103,5 @@
       "type": "official"
     }
   ], 
-  "updated_at": "2014-08-14T13:37:16-04:00"
+  "updated_at": "2014-08-18T01:48:19-04:00"
 }
