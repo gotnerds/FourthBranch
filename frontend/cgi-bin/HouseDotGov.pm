@@ -1,5 +1,5 @@
-#!/usr/bin/perl -w
-###!C:/xampp/perl/bin/perl.exe
+#!C:/ampps/perl/bin/perl.exe
+###!/usr/bin/perl -w
 package HouseDotGov;
 
 use warnings;

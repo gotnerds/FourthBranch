@@ -1,5 +1,5 @@
-#!/usr/bin/perl -w
-###!C:/xampp/perl/bin/perl.exe
+#!C:/ampps/perl/bin/perl.exe
+###!/usr/bin/perl -w
 package Databases;
 
 use strict;
@@ -12,10 +12,12 @@ use lib dirname(abs_path $0);
 use Data::Dump qw(pp);
 use Exporter;
 use vars qw($VERSION @ISA @EXPORT @EXPORT_OK %EXPORT_TAGS);
+use CongressGithub qw(:DEFAULT);
+use CurrentLegislatorsCsv qw(:DEFAULT);
 
 $VERSION     = 1.00;
 @ISA         = qw(Exporter);
-@EXPORT      = ();
+@EXPORT      = qw(install);
 @EXPORT_OK   = qw(install createBackendTables dropBackendTables);
 %EXPORT_TAGS = ( DEFAULT => [qw(&install &createBackendTables &dropBackendTables)]);
 
@@ -60,6 +62,7 @@ create table organizations
   email VARCHAR(40), 
   password VARCHAR(30), 
   verified VARCHAR(5), 
+  signup_date DATE,
   PRIMARY KEY (id)
 );
 END_ORGANIZATION_USERS_TABLE
@@ -201,28 +204,49 @@ sub install{
     my $dbh = $_[0];
     &dropBackendTables($dbh);
     &createBackendTables($dbh);
-    #&loadTestData();
+    # Load External Api Buffers
+    CurrentLegislatorsCsv::loadLegislatorsCsv($dbh);
+    CongressGithub::loadCongressGithubBills($dbh);
+    CongressGithub::loadCongressGithubVotes($dbh);
+    CongressGithub::loadCongressGithubAmendments($dbh);
+
 }
 
 sub createBackendTables{
+    my $debug = 0;
     my $dbh = $_[0];
+    if(!defined($dbh)){
+	print "Undefined DBH !!!\n";
+	exit();
+    }
+    print "Creating FourthBranch Tables\n";
     for my $index (@tables){
 	my $sql = $index; 
-	print "Execute -->$sql\n\n";
+	
+	if($debug == 1){
+	    print "Execute -->$sql\n\n";
+	}
 	my $sth = $dbh->prepare($sql);
 	$sth->execute or die "Create Backend Tables: SQL Error: $DBI::errstr\n";
     }
 }
 
 sub dropBackendTables{
+    my $debug = 0;
     my $dbh = $_[0];
+    if(!defined($dbh)){
+	print "Undefined DBH !!!\n";
+	exit();
+    }
+    print "Dropping fourth branch tables\n";
     for my $table (@table_names){
 	my $sql = "DROP TABLE IF EXISTS ".$table.";";
-	print "Execute -->$sql\n\n";
+	if($debug ==1 ){
+	    print "Execute -->$sql\n\n";
+	}
 	my $sth = $dbh->prepare($sql);
 	$sth->execute or die "Drop Backend Tables: SQL Error: $DBI::errstr\n"; 
     }
-    print "Tables dropped\n";
 }
 
 sub loadTestData{

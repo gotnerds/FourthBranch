@@ -1,0 +1,328 @@
+
+	function='input'
+
+	./fourthBranch.pl run= function='input'
+
+        if (isset($_POST['-button'])){
+            $output = shell_exec("perl ./cgi-bin/fourthBranch.pl run= function=".$_POST['function'] );
+            $jsonj = jsonarray($output);
+        }
+
+
+*************************************
+function: version
+
+	./fourthBranch.pl run=version
+
+        if (isset($_POST['version-button'])){
+            $output = shell_exec("perl ./cgi-bin/fourthBranch.pl run=version  );
+            $jsonj = jsonarray($output);
+        }
+
+
+*************************************
+function: loginOrganization
+	email='input'
+	password='input'
+
+	./fourthBranch.pl run=loginOrganization email='input' password='input'
+
+        if (isset($_POST['loginOrganization-button'])){
+            $output = shell_exec("perl ./cgi-bin/fourthBranch.pl run=loginOrganization email=".$_POST['email']." password=".$_POST['password'] );
+            $jsonj = jsonarray($output);
+        }
+
+
+*************************************
+function: getUnverifiedOrganizations
+
+	./fourthBranch.pl run=getUnverifiedOrganizations
+
+        if (isset($_POST['getUnverifiedOrganizations-button'])){
+            $output = shell_exec("perl ./cgi-bin/fourthBranch.pl run=getUnverifiedOrganizations  );
+            $jsonj = jsonarray($output);
+        }
+
+
+*************************************
+function: generateDocs
+
+	./fourthBranch.pl run=generateDocs
+
+        if (isset($_POST['generateDocs-button'])){
+            $output = shell_exec("perl ./cgi-bin/fourthBranch.pl run=generateDocs  );
+            $jsonj = jsonarray($output);
+        }
+
+
+*************************************
+function: findUserRepresentative
+	street='input'
+	city='input'
+	state='input'
+	zip='input'
+
+	./fourthBranch.pl run=findUserRepresentative street='input' city='input' state='input' zip='input'
+
+        if (isset($_POST['findUserRepresentative-button'])){
+            $output = shell_exec("perl ./cgi-bin/fourthBranch.pl run=findUserRepresentative street=".$_POST['street']." city=".$_POST['city']." state=".$_POST['state']." zip=".$_POST['zip'] );
+            $jsonj = jsonarray($output);
+        }
+
+
+*************************************
+function: loginIndividual
+	email='input'
+	password='input'
+
+	./fourthBranch.pl run=loginIndividual email='input' password='input'
+
+        if (isset($_POST['loginIndividual-button'])){
+            $output = shell_exec("perl ./cgi-bin/fourthBranch.pl run=loginIndividual email=".$_POST['email']." password=".$_POST['password'] );
+            $jsonj = jsonarray($output);
+        }
+
+
+*************************************
+function: addAdminUser
+	email='input'
+	password='input'
+
+	./fourthBranch.pl run=addAdminUser email='input' password='input'
+
+        if (isset($_POST['addAdminUser-button'])){
+            $output = shell_exec("perl ./cgi-bin/fourthBranch.pl run=addAdminUser email=".$_POST['email']." password=".$_POST['password'] );
+            $jsonj = jsonarray($output);
+        }
+
+
+*************************************
+function: removeAdminUser
+	email='input'
+
+	./fourthBranch.pl run=removeAdminUser email='input'
+
+        if (isset($_POST['removeAdminUser-button'])){
+            $output = shell_exec("perl ./cgi-bin/fourthBranch.pl run=removeAdminUser email=".$_POST['email'] );
+            $jsonj = jsonarray($output);
+        }
+
+
+*************************************
+function: addRepresentative
+	name='input'
+	state='input'
+	url='input'
+	email='input'
+	phone='input'
+	chamber='input'
+
+	./fourthBranch.pl run=addRepresentative name='input' state='input' url='input' email='input' phone='input' chamber='input'
+
+        if (isset($_POST['addRepresentative-button'])){
+            $output = shell_exec("perl ./cgi-bin/fourthBranch.pl run=addRepresentative name=".$_POST['name']." state=".$_POST['state']." url=".$_POST['url']." email=".$_POST['email']." phone=".$_POST['phone']." chamber=".$_POST['chamber'] );
+            $jsonj = jsonarray($output);
+        }
+
+
+*************************************
+function: removeRepresentative
+	email='input'
+
+	./fourthBranch.pl run=removeRepresentative email='input'
+
+        if (isset($_POST['removeRepresentative-button'])){
+            $output = shell_exec("perl ./cgi-bin/fourthBranch.pl run=removeRepresentative email=".$_POST['email'] );
+            $jsonj = jsonarray($output);
+        }
+
+
+*************************************
+function: addBill
+	title='input'
+	state='input'
+	url='input'
+	code='input'
+
+	./fourthBranch.pl run=addBill title='input' state='input' url='input' code='input'
+
+        if (isset($_POST['addBill-button'])){
+            $output = shell_exec("perl ./cgi-bin/fourthBranch.pl run=addBill title=".$_POST['title']." state=".$_POST['state']." url=".$_POST['url']." code=".$_POST['code'] );
+            $jsonj = jsonarray($output);
+        }
+
+
+*************************************
+function: closeBill
+	code='input'
+	open='input'
+
+	./fourthBranch.pl run=closeBill code='input' open='input'
+
+        if (isset($_POST['closeBill-button'])){
+            $output = shell_exec("perl ./cgi-bin/fourthBranch.pl run=closeBill code=".$_POST['code']." open=".$_POST['open'] );
+            $jsonj = jsonarray($output);
+        }
+
+
+*************************************
+function: loginAdmin
+	email='input'
+	password='input'
+
+	./fourthBranch.pl run=loginAdmin email='input' password='input'
+
+        if (isset($_POST['loginAdmin-button'])){
+            $output = shell_exec("perl ./cgi-bin/fourthBranch.pl run=loginAdmin email=".$_POST['email']." password=".$_POST['password'] );
+            $jsonj = jsonarray($output);
+        }
+
+
+*************************************
+function: setActivatedIndividual
+	email='input'
+	activate='input'
+
+	./fourthBranch.pl run=setActivatedIndividual email='input' activate='input'
+
+        if (isset($_POST['setActivatedIndividual-button'])){
+            $output = shell_exec("perl ./cgi-bin/fourthBranch.pl run=setActivatedIndividual email=".$_POST['email']." activate=".$_POST['activate'] );
+            $jsonj = jsonarray($output);
+        }
+
+
+*************************************
+function: getActivatedIndividual
+	email='input'
+
+	./fourthBranch.pl run=getActivatedIndividual email='input'
+
+        if (isset($_POST['getActivatedIndividual-button'])){
+            $output = shell_exec("perl ./cgi-bin/fourthBranch.pl run=getActivatedIndividual email=".$_POST['email'] );
+            $jsonj = jsonarray($output);
+        }
+
+
+*************************************
+function: setVerifiedOrganization
+	email='input'
+	verified='input'
+
+	./fourthBranch.pl run=setVerifiedOrganization email='input' verified='input'
+
+        if (isset($_POST['setVerifiedOrganization-button'])){
+            $output = shell_exec("perl ./cgi-bin/fourthBranch.pl run=setVerifiedOrganization email=".$_POST['email']." verified=".$_POST['verified'] );
+            $jsonj = jsonarray($output);
+        }
+
+
+*************************************
+function: getVerifiedOrganization
+	email='input'
+
+	./fourthBranch.pl run=getVerifiedOrganization email='input'
+
+        if (isset($_POST['getVerifiedOrganization-button'])){
+            $output = shell_exec("perl ./cgi-bin/fourthBranch.pl run=getVerifiedOrganization email=".$_POST['email'] );
+            $jsonj = jsonarray($output);
+        }
+
+
+*************************************
+function: addOrganization
+	name='input'
+	address='input'
+	city='input'
+	state='input'
+	zip='input'
+	phone='input'
+	legal_status='input'
+	cause_concerns='input'
+	join_reason='input'
+	individual_name='input'
+	title_in_organization='input'
+	personal_phone='input'
+	email='input'
+	password='input'
+	signupDate='input'
+
+	./fourthBranch.pl run=addOrganization name='input' address='input' city='input' state='input' zip='input' phone='input' legal_status='input' cause_concerns='input' join_reason='input' individual_name='input' title_in_organization='input' personal_phone='input' email='input' password='input' signupDate='input'
+
+        if (isset($_POST['addOrganization-button'])){
+            $output = shell_exec("perl ./cgi-bin/fourthBranch.pl run=addOrganization name=".$_POST['name']." address=".$_POST['address']." city=".$_POST['city']." state=".$_POST['state']." zip=".$_POST['zip']." phone=".$_POST['phone']." legal_status=".$_POST['legal_status']." cause_concerns=".$_POST['cause_concerns']." join_reason=".$_POST['join_reason']." individual_name=".$_POST['individual_name']." title_in_organization=".$_POST['title_in_organization']." personal_phone=".$_POST['personal_phone']." email=".$_POST['email']." password=".$_POST['password']." signupDate=".$_POST['signupDate'] );
+            $jsonj = jsonarray($output);
+        }
+
+
+*************************************
+function: addIndividual
+	first='input'
+	last='input'
+	username='input'
+	birthDate='input'
+	gender='input'
+	address='input'
+	city='input'
+	state='input'
+	zip='input'
+	email='input'
+	password='input'
+	affiliation='input'
+
+	./fourthBranch.pl run=addIndividual first='input' last='input' username='input' birthDate='input' gender='input' address='input' city='input' state='input' zip='input' email='input' password='input' affiliation='input'
+
+        if (isset($_POST['addIndividual-button'])){
+            $output = shell_exec("perl ./cgi-bin/fourthBranch.pl run=addIndividual first=".$_POST['first']." last=".$_POST['last']." username=".$_POST['username']." birthDate=".$_POST['birthDate']." gender=".$_POST['gender']." address=".$_POST['address']." city=".$_POST['city']." state=".$_POST['state']." zip=".$_POST['zip']." email=".$_POST['email']." password=".$_POST['password']." affiliation=".$_POST['affiliation'] );
+            $jsonj = jsonarray($output);
+        }
+
+
+*************************************
+function: getIndividualNameExists
+	userName='input'
+
+	./fourthBranch.pl run=getIndividualNameExists userName='input'
+
+        if (isset($_POST['getIndividualNameExists-button'])){
+            $output = shell_exec("perl ./cgi-bin/fourthBranch.pl run=getIndividualNameExists userName=".$_POST['userName'] );
+            $jsonj = jsonarray($output);
+        }
+
+
+*************************************
+function: getIndividualById
+	userId='input'
+
+	./fourthBranch.pl run=getIndividualById userId='input'
+
+        if (isset($_POST['getIndividualById-button'])){
+            $output = shell_exec("perl ./cgi-bin/fourthBranch.pl run=getIndividualById userId=".$_POST['userId'] );
+            $jsonj = jsonarray($output);
+        }
+
+
+*************************************
+function: getOrganizationNameExists
+	userName='input'
+
+	./fourthBranch.pl run=getOrganizationNameExists userName='input'
+
+        if (isset($_POST['getOrganizationNameExists-button'])){
+            $output = shell_exec("perl ./cgi-bin/fourthBranch.pl run=getOrganizationNameExists userName=".$_POST['userName'] );
+            $jsonj = jsonarray($output);
+        }
+
+
+*************************************
+function: getOrganizationById
+	userId='input'
+
+	./fourthBranch.pl run=getOrganizationById userId='input'
+
+        if (isset($_POST['getOrganizationById-button'])){
+            $output = shell_exec("perl ./cgi-bin/fourthBranch.pl run=getOrganizationById userId=".$_POST['userId'] );
+            $jsonj = jsonarray($output);
+        }
+
+
+*************************************

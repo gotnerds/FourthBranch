@@ -1,3 +1,9 @@
+<?php
+include "./inc/jsonencode.php";
+if (isset($_POST)) {
+    include "./inc/functions.php";
+}
+?>
 <!doctype html>
 <html lang="en">
 <head>
@@ -15,9 +21,9 @@
   <![endif]-->
 <!-- authentication info -->
 <?php
-include "./inc/jsonencode.php";
+
 if (isset($_POST)) {
-    include "./inc/functions.php";
+    include "./inc/functionsthen.php";
     print_r($_POST);
 }
 ?>
@@ -33,6 +39,13 @@ if (isset($_POST)) {
             </div>
             <div class="right">
                 <div id="login">
+                <?php 
+                if(isset($_SESSION['login_user'])) {
+                    ?>Welcome <?php echo $_SESSION['login_user']; ?>
+                    <a id="logout-button" href="inc/logout.php">Logout</a>
+                    <?php
+                } else {
+                 ?>
                     <form action="" name="llLogin" id="llLogin" method="post" style="display:inline-block;">
                         <input type="email" id="username" name="username" placeholder="Email" size="20" /> 
                         <input type="password" placeholder="Password" id="password" name="password" size="20" />
@@ -40,6 +53,9 @@ if (isset($_POST)) {
                         <a id="login-button" style="cursor: pointer;" onclick="loginbutton();">Login</a> | 
                     </form>
                     <a id="signup-button" onclick="introduction();" style="cursor:pointer;">Signup</a>
+                    <?php 
+                    }
+                    ?>
                 </div>
             </div>
             <div id="header">
@@ -562,7 +578,7 @@ function toggleOverlay_new(){
 								  	 	   </br><input type='file' id="imgInp" name='pic' size='5' accept='image/*' style="display:none;float:left;" />
                                           </div><div class="right">
                                           <label for="reason">Reasons for Joining:</label></br>
-									  			<textarea id='reason' name='reason' form="textarea" cols='35' rows='7' style='background-color: #E6E6E6; color:black;'></textarea>
+									  			<textarea id='reason' name='reasons' cols='35' rows='7' style='background-color: #E6E6E6; color:black;'></textarea>
 									  	</div>
 									  	<script type="text/javascript" >
 											function readURL(input) {
@@ -655,12 +671,11 @@ function toggleOverlay_new(){
     											</a>
     											 and that you had read our 
     											<a href="policy.php" target="_newtab" onclick="window.open('policy.php','_newtab');" style="color:red;">
-    												Privacy Policy
-    											</a>.
+    												Privacy Policy</a>.
                                                 </p>
     										</div>
 											<div style="overflow:hidden;float:right">	
-                                            <button class='button' type="button" onclick="mergeForms('signupOrganization2', 'signupOrganization', 'signupOrganization3');" name='addOrganization-button' id='addOrganization-button' style='cursor: pointer;float: right; width: 100px; margin-left: 25px;'>
+                                            <button class='button' type="button" onclick="mergeForms('signupOrganization', 'signupOrganization3', 'signupOrganization2');" name='addOrganization-button' id='addOrganization-button' style='cursor: pointer;float: right; width: 100px; margin-left: 25px;'>
 													Sign Up
 												</button>
 												<button class='button' type="button" onclick='organization2();' style='cursor: pointer;float: right; width: 100px;'>
@@ -686,7 +701,7 @@ function toggleOverlay_new(){
                                             <?php 
                                             $jsonj = jsonarray($output);
                                             if ($jsonj->name_taken == 'true'){ ?>
-                                            Sorry, something went wrong. Please try again.         
+                                            Sorry, this Organization already exists. Please try again.         
                                             <?php } else { ?>
 												Thank you for your submission, our team will review your application at this time and if approved will notify you via email.
 											<?php } ?>
@@ -694,9 +709,6 @@ function toggleOverlay_new(){
 											<div style="float:right;overflow:hidden;">
 												<button class='button' onclick='toggleOverlay_new();' style='cursor: pointer;position:relative; float: right; width: 50px; margin-left: 25px;'>
 													OK
-												</button>
-												<button class="button" style="cursor: pointer;float:right;width: 50px;" onclick='a();' id="button">
-													Login
 												</button>
 											</div>
 											<div style="clear:both;"></div>
@@ -717,7 +729,7 @@ function mergeForms() {
     var targetForm = forms[0];
     $.each(forms, function(i, f) {
         if (i != 0) {
-            $(f).find('input, select, textarea')
+            $(f).find('input, select, textarea, #reason')
                 .hide()
                 .appendTo($(targetForm));
         }
