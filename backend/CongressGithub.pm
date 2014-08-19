@@ -1,4 +1,5 @@
 #!/usr/bin/perl 
+###!C:/xampp/perl/bin/perl.exe
 package CongressGithub;
 use strict;
 use warnings; 
@@ -7,111 +8,17 @@ use JSON::PP qw(decode_json encode_json);
 use DBI;
 use CGI::Carp 'fatalsToBrowser';
 use vars qw($VERSION @ISA @EXPORT @EXPORT_OK %EXPORT_TAGS);
-
+use MysqlUtils qw(:DEFAULT);
 
 
 $VERSION     = 1.00;
 @ISA         = qw(Exporter);
-@EXPORT      = qw(loadBills);
-@EXPORT_OK   = qw(loadBills);
-%EXPORT_TAGS = ( DEFAULT => [qw(&loadBills)]);
+@EXPORT      = qw();
+@EXPORT_OK   = qw();
+%EXPORT_TAGS = ( DEFAULT => [qw()]);
 
 my $CURRENT_DIRECTORY = cwd();
 
-sub generateCreateString{
-    my $tableName = $_[0];
-    my @columns = @{$_[1]};
-    my @types = @{$_[2]};
-    my $columnsSize = @columns;
-    my $typesSize = @types;
-    if($columnsSize != $typesSize){
-	print "size mismatch in generate create string\n";
-	exit();
-    }
-    my $createString = "";
-    for(my $index=0; $index<$columnsSize; $index++){
-	my $append = $columns[$index]." ";
-	$append .= $types[$index];
-	if($index+1 != $columnsSize){
-	    $append .= ",";
-	}
-	$createString .= $append;
-    }
-    $createString = "create table $tableName".
-	            "( id MEDIUMINT NOT NULL ".
-		    "UNIQUE AUTO_INCREMENT, ".
-		    "$createString,PRIMARY KEY (id));";
-    return $createString;
-}
-
-sub generateInsertStringFromHash{
-    my $debug = 0;
-    my $tableName = $_[0];
-    my @columns = @{$_[1]};
-    my $columnSize = @columns;
-    my %hash = %{$_[2]};
-
-    my $insertString = " INSERT INTO $tableName (";
-    for(my $index = 0; $index < $columnSize; $index++){
-       	$insertString .= $columns[$index];
-	if($index+1 != $columnSize){
-	    $insertString .= ",";
-	}
-    }
-    $insertString .= ") VALUES (";
-    
-    for(my $index=0; $index < $columnSize; $index++){
-	my $key = $columns[$index];
-	if($debug == 1){
-	    $insertString .="\n$index :";
-	}
-	if(defined($hash{$key})){
-	    my $santized = $hash{$key};
-	    $santized =~ s/"/\\"/g;
-	    $insertString .= " \"${santized}\" ";
-	}
-	else {
-	    $insertString .= " NULL ";
-	}
-	if($index+1 != $columnSize){
-	    $insertString .= ",";
-	}
-    }
-    $insertString .= ");";
-    return $insertString;
-}
-
-sub generateInsertStringFromArray{
-    my $debug = 0;
-    my $tableName = $_[0];
-    my @columns = @{$_[1]};
-    my $columnSize = @columns;
-    my @array = @{$_[2]};
-
-    my $insertString = " INSERT INTO $tableName (";
-    for(my $index = 0; $index < $columnSize; $index++){
-       	$insertString .= $columns[$index];
-	if($index+1 != $columnSize){
-	    $insertString .= ",";
-	}
-    }
-    $insertString .= ") VALUES (";
-    
-    for(my $index=0; $index < $columnSize; $index++){
-	if($debug == 1){
-	    $insertString .="\n$index :";
-	}
-	my $santized = $array[$index];
-
-	$santized =~ s/"/\\"/g;
-	$insertString .= " \"${santized}\" ";
-	if($index+1 != $columnSize){
-	    $insertString .= ",";
-	}
-    }
-    $insertString .= ");";
-    return $insertString;
-}
 
 sub loadCongressGithubBills{
     print "Installing Congress github bills. This can take like 10 minutes\n";
@@ -122,16 +29,15 @@ sub loadCongressGithubBills{
 	exit();
     }
     my $tableName = "congress_github_bills";
-    my @columns = ("official_title","bill_type","status","updated_at","status_at","bill_id","subjects_top_term","enacted_as","number","short_title","introduced_at","congress","by_request","popular_title","bill_html");
+    my @columns = ("official_title","bill_type","status","updated_at","status_at","bill_id","subjects_top_term","enacted_as","number","short_title","introduced_at","congress","by_request","popular_title","bill_html","history","related_bills");
 
-    my @columnTypes = ("VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)");
+    my @columnTypes = ("TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT");
 
     my $columnsSize = @columns;
     my $typesSize = @columnTypes;
     
     if($columnsSize != $typesSize){
-	warn("Size mismatch in loadBills");
-	return;
+	die("Size mismatch in loadBills");
     }
 
     # Drop table
@@ -152,7 +58,7 @@ sub loadCongressGithubBills{
     $sth->execute or die "Failed to create table; $DBI::errstr\n";
 
     # Populate Tables
-    opendir(BILLS_FOLDER, $CURRENT_DIRECTORY."/initialData/congress113_data/bills") || die "Couldn't open the bills directory. $!";
+    opendir(BILLS_FOLDER, $CURRENT_DIRECTORY."/initialData/congress113_data/bills") || die "Couldn't open ${CURRENT_DIRECTORY}/initialData/congress113_data/billsdirectory. $!";
     my @billTypes;
     while(my $billType = readdir(BILLS_FOLDER)){
 	if($billType ne "." && $billType ne ".." && $billType ne ".DS_Store"){
@@ -161,7 +67,7 @@ sub loadCongressGithubBills{
     }
     my @billTypeNumbers;
     for my $billType (@billTypes){
-	opendir(BILL_TYPE_FOLDER, $CURRENT_DIRECTORY."/initialData/congress113_data/bills/$billType") || die "Couldn't open the bills directory. $!";
+	opendir(BILL_TYPE_FOLDER, $CURRENT_DIRECTORY."/initialData/congress113_data/bills/$billType") || die "Couldn't open ${CURRENT_DIRECTORY}/initialData/congress113_data/bills/$billType directory. $!";
 	while(my $billTypeNumber = readdir(BILL_TYPE_FOLDER)){
 	    if($billTypeNumber ne "." && $billTypeNumber ne ".." && $billTypeNumber ne ".DS_Store"){
 		push(@billTypeNumbers,$CURRENT_DIRECTORY."/initialData/congress113_data/bills/$billType/".$billTypeNumber);
@@ -170,7 +76,7 @@ sub loadCongressGithubBills{
     }
 
     for my $individualBill (@billTypeNumbers){
-	open(BILL, $individualBill."/data.json") || die "Couldn't open the bills directory. $!";
+	open(BILL, $individualBill."/data.json") || die "Couldn't open  ${individualBill}/data.json the bills directory. $!";
 	my @inputFile = <BILL>;
 	my $inputFile = join("",@inputFile);
 	my $hashRef = decode_json($inputFile);
@@ -178,6 +84,15 @@ sub loadCongressGithubBills{
 	# Verify location of bill html
 	if(-e $individualBill."/data.html"){
 	    $bill{'bill_html'} = $individualBill."/data.html";
+	}
+	if( defined $bill{'enacted_as'}){
+	    $bill{'enacted_as'} = encode_json($bill{'enacted_as'});
+	}
+	if( exists $bill{'history'}){
+	    $bill{'history'} = encode_json($bill{'history'});
+	}
+	if( exists $bill{'related_bills'}){
+	    $bill{'related_bills'} = encode_json($bill{'related_bills'});
 	}
 	my $insertString = &generateInsertStringFromHash($tableName,\@columns,\%bill);
 	if($debug == 1){
@@ -198,7 +113,7 @@ sub loadCongressGithubVotes{
     my $tableName = "congress_github_votes";
     my @columns = ("vote_id","bill","date","question","result","votes");
 
-    my @columnTypes = ("VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","LONGTEXT");
+    my @columnTypes = ("TEXT","TEXT","TEXT","TEXT","TEXT","LONGTEXT");
 
     my $columnsSize = @columns;
     my $typesSize = @columnTypes;
@@ -225,7 +140,7 @@ sub loadCongressGithubVotes{
     $sth->execute or die "Failed to create table; $DBI::errstr\n";
 
     # Populate Tables
-    opendir(VOTES_FOLDER, $CURRENT_DIRECTORY."/initialData/congress113_data/votes") || die "Couldn't open the votes directory. $!";
+    opendir(VOTES_FOLDER, $CURRENT_DIRECTORY."/initialData/congress113_data/votes") || die "Couldn't open ${CURRENT_DIRECTORY}/initialData/congress113_data/votes directory. $!";
     my @voteTypes;
     while(my $voteType = readdir(VOTES_FOLDER)){
 	if($voteType ne "." && $voteType ne ".." && $voteType ne ".DS_Store"){
@@ -234,7 +149,7 @@ sub loadCongressGithubVotes{
     }
     my @individualVotes;
     for my $voteType (@voteTypes){
-	opendir(VOTE_TYPE_FOLDER, $CURRENT_DIRECTORY."/initialData/congress113_data/votes/$voteType") || die "Couldn't open the votes directory. $!";
+	opendir(VOTE_TYPE_FOLDER, $CURRENT_DIRECTORY."/initialData/congress113_data/votes/$voteType") || die "Couldn't open ${CURRENT_DIRECTORY}/initialData/congress113_data/votes/$voteType directory. $!";
 	while(my $individualVote = readdir(VOTE_TYPE_FOLDER)){
 	    if($individualVote ne "." && $individualVote ne ".." && $individualVote ne ".DS_Store"){
 		if($individualVote =~ /\.json$/){
@@ -246,7 +161,7 @@ sub loadCongressGithubVotes{
     }
     
     for my $individualVote (@individualVotes){
-	open(VOTE, $individualVote) || die "Couldn't open the votes directory (${individualVote}). $!";
+	open(VOTE, $individualVote) || die "Couldn't open $individualVote directory (${individualVote}). $!";
 	my @inputFile = <VOTE>;
 	my $inputFile = join("",@inputFile);
 	my $hashRef = decode_json($inputFile);
@@ -283,7 +198,7 @@ sub loadCongressGithubAmendments{
     my $tableName = "congress_github_amendments";
     my @columns = ("actions","status","introduced_at","description","sponsor","amends_bill","amends_amendment","amendment_id");
 
-    my @columnTypes = ("TEXT","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","TEXT","TEXT","VARCHAR(4000)","VARCHAR(4000)");
+    my @columnTypes = ("TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT");
 
     my $columnsSize = @columns;
     my $typesSize = @columnTypes;
@@ -310,7 +225,7 @@ sub loadCongressGithubAmendments{
     $sth->execute or die "Failed to create table; $DBI::errstr\n";
 
     # Populate Tables
-    opendir(AMENDMENTS_FOLDER, $CURRENT_DIRECTORY."/initialData/congress113_data/amendments") || die "Couldn't open the amendments directory. $!";
+    opendir(AMENDMENTS_FOLDER, $CURRENT_DIRECTORY."/initialData/congress113_data/amendments") || die "Couldn't open ${CURRENT_DIRECTORY}/initialData/congress113_data/amendments directory. $!";
     my @amendmentTypes;
     while(my $amendmentType = readdir(AMENDMENTS_FOLDER)){
 	if($amendmentType ne "." && $amendmentType ne ".." && $amendmentType ne ".DS_Store"){
@@ -319,7 +234,7 @@ sub loadCongressGithubAmendments{
     }
     my @amendmentTypeNumbers;
     for my $amendmentType (@amendmentTypes){
-	opendir(AMENDMENT_TYPE_FOLDER, $CURRENT_DIRECTORY."/initialData/congress113_data/amendments/$amendmentType") || die "Couldn't open the amendments directory. $!";
+	opendir(AMENDMENT_TYPE_FOLDER, $CURRENT_DIRECTORY."/initialData/congress113_data/amendments/$amendmentType") || die "Couldn't open ${CURRENT_DIRECTORY}/initialData/congress113_data/amendments/$amendmentType directory. $!";
 	while(my $amendmentTypeNumber = readdir(AMENDMENT_TYPE_FOLDER)){
 	    if($amendmentTypeNumber ne "." && $amendmentTypeNumber ne ".." && $amendmentTypeNumber ne ".DS_Store"){
 		push(@amendmentTypeNumbers,$CURRENT_DIRECTORY."/initialData/congress113_data/amendments/$amendmentType/".$amendmentTypeNumber);
@@ -328,7 +243,7 @@ sub loadCongressGithubAmendments{
     }
 
     for my $individualAmendment (@amendmentTypeNumbers){
-	open(AMENDMENT, $individualAmendment."/data.json") || die "Couldn't open the amendments directory. $!";
+	open(AMENDMENT, $individualAmendment."/data.json") || die "Couldn't open $individualAmendment/data.json directory. $!";
 	my @inputFile = <AMENDMENT>;
 	my $inputFile = join("",@inputFile);
 	my $hashRef = decode_json($inputFile);
@@ -394,9 +309,9 @@ sub loadLegislatorsCsv{
     my $debug = 0;
     my $dbh = $_[0];
     my $tableName = "congress-legislators-github-csv";
-    open(LEGISLATORS, $CURRENT_DIRECTORY."/initialData/congress-legislators/legislators.csv") || die "Couldn't open the legislators file. $!";
+    open(LEGISLATORS, $CURRENT_DIRECTORY."/initialData/congress-legislators/legislators.csv") || die "Couldn't open ${CURRENT_DIRECTORY}/initialData/congress-legislators/legislators.csv file. $!";
     
-    my @columnTypes = ("VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)","VARCHAR(4000)");
+    my @columnTypes = ("TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT");
     
     # Drop table
     my $sql = "DROP TABLE IF EXISTS ".$tableName.";";

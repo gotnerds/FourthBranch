@@ -14,6 +14,7 @@ use Exporter;
 use vars qw($VERSION @ISA @EXPORT @EXPORT_OK %EXPORT_TAGS);
 use CongressGithub qw(:DEFAULT);
 use CurrentLegislatorsCsv qw(:DEFAULT);
+use LegislatorPhotos;
 
 $VERSION     = 1.00;
 @ISA         = qw(Exporter);
@@ -202,6 +203,7 @@ my @table_names = ("individuals", "organizations","admins","bills","representati
 
 sub install{
     my $dbh = $_[0];
+    LegislatorPhotos::loadImages($dbh); exit;
     &dropBackendTables($dbh);
     &createBackendTables($dbh);
     # Load External Api Buffers
