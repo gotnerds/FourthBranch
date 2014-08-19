@@ -203,7 +203,6 @@ my @table_names = ("individuals", "organizations","admins","bills","representati
 
 sub install{
     my $dbh = $_[0];
-    LegislatorPhotos::loadImages($dbh); exit;
     &dropBackendTables($dbh);
     &createBackendTables($dbh);
     # Load External Api Buffers
@@ -211,6 +210,7 @@ sub install{
     CongressGithub::loadCongressGithubBills($dbh);
     CongressGithub::loadCongressGithubVotes($dbh);
     CongressGithub::loadCongressGithubAmendments($dbh);
+    LegislatorPhotos::loadImages($dbh);
 
 }
 
