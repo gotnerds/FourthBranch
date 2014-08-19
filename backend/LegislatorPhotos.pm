@@ -23,9 +23,8 @@ my $CURRENT_DIRECTORY = cwd();
 
 
 sub loadImages{
-    my $debug = 0;
+    my $debug = 1;
     my $dbh = $_[0];
-    print "Installing congress github images\n";
     my $tableName = "congress_github_images";
     my @columns = ("bioguide_id","original","225x275","450x550");
 
@@ -81,7 +80,7 @@ sub loadImages{
 	    push(@imagesSmall,$image);
 	}
     }
-    my $sqlTemplate = 'INSERT INTO #tableName# (bioguide_id,#size#) VALUES("#bioguide#","#file#") ON DUPLICATE KEY UPDATE #size#="#file#";';
+    my $sqlTemplate = 'INSERT INTO #tableName# (bioguide_id,#size#) VALUES(#bioguide#,#file#) ON DUPLICATE KEY UPDATE #size#=VALUES(#file#)';
     $sqlTemplate =~ s/#tableName#/$tableName/g;
     
     # Insert original
@@ -101,9 +100,6 @@ sub loadImages{
 	if ($debug == 1){
 	    print "--> Execute $sql\n";
 	}
-	my $sth = $dbh->prepare($sql);
-	$sth->execute or die "Insert Original Tables: SQL Error: $DBI::errstr\n";
-
     }
 
     # Insert 225x275
@@ -123,9 +119,6 @@ sub loadImages{
 	if ($debug == 1){
 	    print "--> Execute $sql\n";
 	}
-	my $sth = $dbh->prepare($sql);
-	$sth->execute or die "Insert Small Tables: SQL Error: $DBI::errstr\n";
-
     }
 
     # Insert 450x550
@@ -145,8 +138,5 @@ sub loadImages{
 	if ($debug == 1){
 	    print "--> Execute $sql\n";
 	}
-	my $sth = $dbh->prepare($sql);
-	$sth->execute or die "Insert Medium Tables: SQL Error: $DBI::errstr\n";
-
     }
 }
