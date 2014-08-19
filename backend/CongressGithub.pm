@@ -50,7 +50,7 @@ sub loadCongressGithubBills{
     $sth->execute or die "Drop Backend Tables: SQL Error: $DBI::errstr\n";
     
     # Create Table
-    $sql = &generateCreateString($tableName,\@columns,\@columnTypes);
+    $sql = MysqlUtils::generateCreateString($tableName,\@columns,\@columnTypes);
     if($debug == 1){
 	print "Execute -->$sql\n\n";
     }
@@ -94,7 +94,7 @@ sub loadCongressGithubBills{
 	if( exists $bill{'related_bills'}){
 	    $bill{'related_bills'} = encode_json($bill{'related_bills'});
 	}
-	my $insertString = &generateInsertStringFromHash($tableName,\@columns,\%bill);
+	my $insertString = MysqlUtils::generateInsertStringFromHash($tableName,\@columns,\%bill);
 	if($debug == 1){
 	    print "Execute -->$insertString\n\n";
 	}
@@ -132,7 +132,7 @@ sub loadCongressGithubVotes{
     $sth->execute or die "Drop Backend Tables: SQL Error: $DBI::errstr\n";
     
     # Create Table
-    $sql = &generateCreateString($tableName,\@columns,\@columnTypes);
+    $sql = MysqlUtils::generateCreateString($tableName,\@columns,\@columnTypes);
     if($debug == 1){
 	print "Execute -->$sql\n\n";
     }
@@ -177,7 +177,7 @@ sub loadCongressGithubVotes{
 	    my %votesInfo = %$voteRef;
 	    $vote{'votes'} = encode_json(\%votesInfo);
 	}
-	my $insertString = &generateInsertStringFromHash($tableName,\@columns,\%vote);
+	my $insertString = MysqlUtils::generateInsertStringFromHash($tableName,\@columns,\%vote);
 	if($debug == 1){
 	    print "Execute -->$insertString\n\n";
 	    <STDIN>;
@@ -217,7 +217,7 @@ sub loadCongressGithubAmendments{
     $sth->execute or die "Drop Backend Tables: SQL Error: $DBI::errstr\n";
     
     # Create Table
-    $sql = &generateCreateString($tableName,\@columns,\@columnTypes);
+    $sql = MysqlUtils::generateCreateString($tableName,\@columns,\@columnTypes);
     if($debug == 1){
 	print "Execute -->$sql\n\n";
     }
@@ -293,7 +293,7 @@ sub loadCongressGithubAmendments{
 	    }
 	}
 
-	$sql = &generateInsertStringFromHash($tableName,\@columns,\%amendment);
+	$sql = MysqlUtils::generateInsertStringFromHash($tableName,\@columns,\%amendment);
 	# Remove occurrences of \\"
 	
 	if($debug == 1){
@@ -335,7 +335,7 @@ sub loadLegislatorsCsv{
 	    my $typesSize = @columnTypes;
 	    
 	    # Create Table
-	    $sql = &generateCreateString($tableName,\@columns,\@columnTypes);
+	    $sql = MysqlUtils::generateCreateString($tableName,\@columns,\@columnTypes);
 	    if($debug == 1){
 		print "Execute -->$sql\n\n";
 	    }
@@ -362,7 +362,7 @@ sub loadLegislatorsCsv{
 	    for(my $index=0; $index < @columnData; $index++){
 		$columnData[$index] =~ s/--COMMA--/,/g;
 	    }
-	    my $insertString = &generateInsertStringFromArray($tableName,\@columns, \@columnData);
+	    my $insertString = MysqlUtils::generateInsertStringFromArray($tableName,\@columns, \@columnData);
 
 	    if($debug == 1){
 		print "Execute --> $insertRow";

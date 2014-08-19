@@ -23,7 +23,7 @@ my $CURRENT_DIRECTORY = cwd();
 
 
 sub loadImages{
-    my $debug = 1;
+    my $debug = 0;
     my $dbh = $_[0];
     my $tableName = "congress_github_images";
     my @columns = ("bioguide_id","original","225x275","450x550");
@@ -32,7 +32,9 @@ sub loadImages{
 
     my $columnsSize = @columns;
     my $typesSize = @columnTypes;
-    
+
+    print "Installing Legislator Photos\n";
+
     if($columnsSize != $typesSize){
 	die("Size mismatch in loadBills");
     }

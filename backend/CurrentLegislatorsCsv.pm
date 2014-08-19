@@ -32,7 +32,7 @@ sub loadLegislatorsCsv{
     chomp($columnLine);
     my @columns = split(',',$columnLine);
     for my $column (@columns){
-	push(@types,"VARCHAR(2000)");
+	push(@types,"TEXT");
     }
     my $sql = "DROP TABLE IF EXISTS ".$tableName.";";
     if($debug == 1){

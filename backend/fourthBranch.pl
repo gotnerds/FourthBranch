@@ -15,8 +15,6 @@ use Data::Dump qw(pp);
 use DBI;
 #pp(\%INC);
 
-# TODO District Search
- 
 ###########################
 # Main
 my $VERSION_NUMBER = 1.0;
@@ -31,7 +29,7 @@ elsif($^O =~ /MSWin32/){
      $dbh = DBI->connect('dbi:mysql:database=fourthbranch;host=127.0.0.1:3306;'."mysql_read_default_file=$curDir/mysql.conf",'root','') or die "Connection Error: $DBI::errstr\n";   
 }
 else{
-    $dbh = DBI->connect('DBI:mysql:database=fourthbranch;host=fourthbranch.db.9192271.hostedresource.com;' ."mysql_read_default_file=$curDir/mysql.conf",'fourthbranch','G0tnerds!') or die "Connection Error: $DBI::errstr\n";
+    $dbh = DBI->connect('DBI:mysql:database=fourthbranch;' ."mysql_read_default_file=$curDir/mysql.conf",'root','root') or die "Connection Error: $DBI::errstr\n";
 }
 
 #print header('text/html');
