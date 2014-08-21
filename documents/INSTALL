@@ -1,13 +1,28 @@
 Download the initial data
 
-Under congress-github download bills,votes,amendments
-https://github.com/unitedstates/congress#setting-up
-All downloaded data must be copied to backend/initialData/congres#_data folders
-amendments -> backend/initialData/congres#_data/amendments/
-biils -> backend/initialData/congres#_data/bills
-votes -> backend/initialData/congres#_data/votes
+	From congress-github download bills,votes,amendments
+	https://github.com/unitedstates/congress#setting-up
 
-Under congress-legislators download current yaml files and copy legislators-current to
-backend/inital_data
+	All downloaded data must be copied to backend/initialData/congres#_data folders
+	amendments -> backend/initialData/congress#_data/amendments/
+	biils -> backend/initialData/congress#_data/bills
+	votes -> backend/initialData/congress#_data/votes
 
-execute fourthBranch.pl run=install
+	Checkout congress-legislators. Copy legislators-current to backend/inital_data
+
+	Checkout unitedstates/images. Rename congress folder to images, and move images to backend/intial_data
+
+Load internet data into buffer databases
+	
+	In the fourth branch website there are buffer databases that represents the raw data from outside sources. This data is then santized and checked for inconsitencies before being copied into the production databases.
+ 
+	execute fourthBranch.pl run=install
+
+Sanitize buffer data and load into production
+	Sanitize the buffer databases, and output a database image that can be loaded into production.
+
+	execute fourthBranch.pl run=sanitize output=sanitized.database
+	
+	Load the database into production
+
+	execute fourthBranch.pl run=loadProduction input=sanitized.database

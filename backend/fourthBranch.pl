@@ -32,9 +32,6 @@ else{
     $dbh = DBI->connect('DBI:mysql:database=fourthbranch;' ."mysql_read_default_file=$curDir/mysql.conf",'root','root') or die "Connection Error: $DBI::errstr\n";
 }
 
-#print header('text/html');
-#print start_html('goball_api');
-#&printEnvironmentVariables();
 
 &commandLineToHtmlEncoded();
 print "[";# Start the json array
@@ -283,12 +280,29 @@ if(defined($function)){
 	    &paramCheck($email);
 	}
     }
-
+    elsif($function eq 'sanitize'){
+	my $outFile = param('output');
+	if(defined($outFile)){
+	    Databases::sanitize($outFile);
+	}
+	else{
+	    &paramCheck($outFile);
+	}
+    }
+    elsif($function eq 'loadProduction'){
+	my $inFile = param('input');
+	if(defined($input)){
+	    Databases::loadProduction($input);
+	}
+	else{
+	    &paramCheck($input);
+	}
+    }
     elsif($function eq 'addOrganization'){
-# Organization Users
-# --- Legal Status
-# --- cause_concerns
-# --- join_reason
+	# Organization Users
+	# --- Legal Status
+	# --- cause_concerns
+	# --- join_reason
 	my $name = param('name');
 	my $address = param('address');
 	my $city = param('city');

@@ -250,17 +250,34 @@ sub dropBackendTables{
 	$sth->execute or die "Drop Backend Tables: SQL Error: $DBI::errstr\n"; 
     }
 }
+sub loadProduction{
+    my $inputFile = $_[0];
+}
+
+sub sanitize{
+    my $outputFile = $_[0];
+    # congress_github_bills
+    # -Generate the related bills table from congress_github_bills:related_bills
+    # -Generate bill history table
+    # -Insert Bills
+    # congress_github_amendments
+    # - Generate Actions table
+    # - Generate sponsor table
+    # - Generate Amends Bill table
+    # - Insert Amendments
+    # Output database data for production tables into file
+}
 
 sub loadTestData{
     my $dbh = $_[0];
     my $curDir = cwd();
     my @tableFiles = (
-	[$curDir."/testData/.csv","parks"],
-	[$curDir."/testData/.csv","users"],
-	[$curDir."/testData/.csv","forum"],
-	[$curDir."/testData/.csv","friends"],
-	[$curDir."/testData/.csv","games"],
-	[$curDir."/testData/.csv","reviews"]
+	[$curDir."/testData/.csv","dsd"],
+	[$curDir."/testData/.csv","ud"],
+	[$curDir."/testData/.csv","fs"],
+	[$curDir."/testData/.csv","ef"],
+	[$curDir."/testData/.csv","g"],
+	[$curDir."/testData/.csv","r"]
 	);
     for(my $index = 0; $index < @tableFiles;$index++){
 	my $fileName = $tableFiles[$index][0];
