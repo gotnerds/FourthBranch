@@ -1,5 +1,4 @@
-#!/usr/bin/perl 
-###!C:/xampp/perl/bin/perl.exe
+#!/usr/bin/perl
 package CongressGithub;
 use strict;
 use warnings; 

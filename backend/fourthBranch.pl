@@ -1,6 +1,4 @@
-#!/usr/bin/perl -w
-###!C:/xampp/perl/bin/perl.exe
-
+#!/usr/bin/perl
 use warnings;
 use CGI::Carp 'fatalsToBrowser';
 use CGI qw/:standard/;

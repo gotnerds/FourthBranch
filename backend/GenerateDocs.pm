@@ -1,5 +1,4 @@
-#!/usr/bin/perl -w
-###!C:/xampp/perl/bin/perl.exe
+#!/usr/bin/perl
 package GenerateDocs;
 
 use strict;
