@@ -293,7 +293,7 @@ if(defined($function)){
 	    Databases::loadProduction($inFile);
 	}
 	else{
-	    &paramCheck($input);
+	    &paramCheck($inFile);
 	}
     }
     elsif($function eq 'addOrganization'){
