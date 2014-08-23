@@ -289,8 +289,8 @@ if(defined($function)){
     }
     elsif($function eq 'loadProduction'){
 	my $inFile = param('input');
-	if(defined($input)){
-	    Databases::loadProduction($input);
+	if(defined($inFile)){
+	    Databases::loadProduction($inFile);
 	}
 	else{
 	    &paramCheck($input);

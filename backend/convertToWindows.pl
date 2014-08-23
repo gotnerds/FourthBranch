@@ -1,5 +1,4 @@
 #!/usr/bin/perl
-###!C:/xampp/perl/bin/perl.exe
 use Cwd qw(cwd abs_path);
 use strict;
 use warnings;
@@ -14,17 +13,19 @@ while(my $file = readdir(INPUT)){
 	my $shabang = <INFILE>;
 	chomp($shabang);
 	if($shabang =~ m@^#!/usr/bin/perl@){
-	    print ' fixed ';
-	   	print OUTPUT '#!C:/xampp/perl/bin/perl.exe'."\n";
+	    print ' Outputting windows ';
+	   	print OUTPUT '#!C:/ampps/perl/bin/perl.exe'."\n";
 	}
 	else {
-	    print "-->$shabang<--";
+	    print " Outputing linux -->$shabang<--";
 	    print OUTPUT '#!/usr/bin/perl'."\n";
+        ##<STDIN>
 	}
 	while(my $inLine = <INFILE>){
 	    print OUTPUT $inLine;
 	}
 	close(OUTPUT);
+	close(INFILE);
 	rename('__tmp_out__',$file);
 	print "\n";
     }

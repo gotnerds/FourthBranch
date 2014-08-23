@@ -193,10 +193,24 @@ create table wall_of_america
 );
 END_WALL_OF_AMERICA
     ;
-####################################
-my @tables = ( $CREATE_INDIVIDUAL_USERS_TABLE, $CREATE_ORGANIZATION_USERS_TABLE, $CREATE_ADMIN_USERS_TABLE,$CREATE_BILL_TABLE,$CREATE_REPRESENTATIVES_TABLE,$CREATE_WALL_OF_AMERICA_TABLE,$CREATE_BILL_VOTE_TABLE,$CREATE_USER_VOTES_TABLE,$CREATE_LARGE_BILL_TABLE,$CREATE_APPROPRIATION_BILL_TABLE);
 
-my @table_names = ("individuals", "organizations","admins","bills","representatives","bill_votes","user_votes","wall_of_america","large_bills","appropriation_bills");
+# Comments
+my $CREATE_COMMENT_TABLE = <<'END_COMMENT';
+create table comments_bills 
+(id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT,  
+ user MEDIUMINT , 
+ comment VARCHAR(200),
+ sub_comment VARCHAR(200), 
+ comment_post_date DATE,
+ sub_comment_post_date DATE,
+ PRIMARY KEY(id)
+);
+END_COMMENT
+    ;
+####################################
+my @tables = ( $CREATE_INDIVIDUAL_USERS_TABLE, $CREATE_ORGANIZATION_USERS_TABLE, $CREATE_ADMIN_USERS_TABLE,$CREATE_BILL_TABLE,$CREATE_REPRESENTATIVES_TABLE,$CREATE_WALL_OF_AMERICA_TABLE,$CREATE_BILL_VOTE_TABLE,$CREATE_USER_VOTES_TABLE,$CREATE_LARGE_BILL_TABLE,$CREATE_APPROPRIATION_BILL_TABLE,$CREATE_COMMENT_TABLE);
+
+my @table_names = ("individuals", "organizations","admins","bills","representatives","bill_votes","user_votes","wall_of_america","large_bills","appropriation_bills","comments_bills");
 
 ####################################
 
