@@ -6,6 +6,14 @@ Ubuntu 14.04 LTS:
 
 Windows 8: 
 ****************************************************
+Setup Frontend environment
+      The frontend environment consists of an ajax and php webpage backed by a MySql database.
+      
+
+****************************************************
+Setup Backend Development environment
+      The backend development environment scrapes public congress data to generate the inital database image for the frontend.
+
 Download the initial data
 
 	From congress-github download bills,votes,amendments
