@@ -217,17 +217,25 @@ my @table_names = ("individuals", "organizations","admins","bills","representati
 
 sub install{
     my $dbh = $_[0];
-    &dropBackendTables($dbh);
-    &createBackendTables($dbh);
     # Load External Api Buffers
     CurrentLegislatorsCsv::loadLegislatorsCsv($dbh);
     CongressGithub::loadCongressGithubBills($dbh);
     CongressGithub::loadCongressGithubVotes($dbh);
     CongressGithub::loadCongressGithubAmendments($dbh);
     LegislatorPhotos::loadImages($dbh);
-
+   
 }
 
+sub loadProductionDatabase{
+    my $dbh = $_[0];
+    if(!defined($dbh)){
+	print "Undefined DBH !!!\n";
+	exit();
+    }
+
+    &dropBackendTables($dbh);
+    &createBackendTables($dbh);
+}
 sub createBackendTables{
     my $debug = 0;
     my $dbh = $_[0];
@@ -270,7 +278,7 @@ sub loadProduction{
     my $inputFile = $_[1];
 }
 sub extractRelatedBills{
-    my $debug = 1;
+    my $debug = 0;
     my $dbh = $_[0];
     my $outputFile = $_[1];
 
@@ -293,7 +301,7 @@ sub extractRelatedBills{
     }
     my $sth = $dbh->prepare($sql);
     $sth->execute or die "SQL Error: $DBI::errstr\n"; 
-    while(my @row = $sth->fetchrow_array){
+   while(my @row = $sth->fetchrow_array){
 	my ($id, $official_title, $bill_type, $status, $updated_at, $status_at, $bill_id, $subjects_top_term, $enacted_as, $number, $short_title, $introduced_at, $congress, $by_request, $popular_title, $bill_html, $history, $related_bills) = @row;
 	# Find the related bills in productions bills database
 	my $related_ref = decode_json($related_bills); 
@@ -321,7 +329,7 @@ sub extractRelatedBills{
 		    print "Found Related Bill --> $id\n";
 		    my $insert = MysqlUtils::generateInsertStringFromArray($relatedTableName,\@relatedColumns,\@relatedData);
 		    print "Writing -->$insert\n";
-		    print OUTPUT "$insert did it\n";
+		    print OUTPUT "$insert\n";
 		}
 		
 	    }
@@ -334,7 +342,7 @@ sub extractRelatedBills{
 }
 
 sub extractBills{
-    my $debug = 1;
+    my $debug = 0;
     my $dbh = $_[0];
     my $outputFile = $_[1];
 
@@ -359,14 +367,14 @@ sub extractBills{
 	my $insertBillQuery = MysqlUtils::generateInsertStringFromArray($insertTableName,\@insertBillColumns,\@insertBillData);
 	if($debug == 1){
 	    print "Writing -->$insertBillQuery\n";
-	    print OUTPUT "$insertBillQuery\n";
 	}
+	print OUTPUT "$insertBillQuery\n";
     }
 
 }
 
 sub extractRepresentatives{
-    my $debug = 1;
+    my $debug = 0;
     my $dbh = $_[0];
     my $outputFile = $_[1];
 
@@ -390,11 +398,35 @@ sub extractRepresentatives{
 	my $insertBillQuery = MysqlUtils::generateInsertStringFromArray($insertTableName,\@insertRepresentativesColumns,\@insertRepresentativesData);
 	if($debug == 1){
 	    print "Writing -->$insertBillQuery\n";
-	    print OUTPUT "$insertBillQuery\n";
 	}
+	print OUTPUT "$insertBillQuery\n";
     }
 }
-sub sanitize{
+sub writeCreateTables{
+    my $debug = 0;
+    my $outputFile = $_[0];
+    open(OUTPUT,">>$outputFile") || die "Couldn't open $outputFile. SQL Error $DBI::errstr\n";
+    for my $table (@table_names){
+	my $sql = "DROP TABLE IF EXISTS ".$table.";";
+	if($debug ==1 ){
+	    print "Writing -->$sql\n";
+	}
+	print OUTPUT "$sql\n";
+    }
+
+    for my $index (@tables){
+	my $sql = $index; 
+	
+	if($debug == 1){
+	    print "Writing -->$sql\n";
+	}
+	print OUTPUT "$sql";
+
+    }  
+}
+
+
+sub generateProductionDatabase{
     my $dbh = $_[0];
     my $outputFile = $_[1];
     if(-e $outputFile){
@@ -403,6 +435,7 @@ sub sanitize{
      open(OUTPUT,">>$outputFile") || die "Couldn't open $outputFile. SQL Error $DBI::errstr\n";
     print OUTPUT "use fourthbranch;\n";
 
+    &writeCreateTables($outputFile);
     &extractBills($dbh,$outputFile);
     &extractRelatedBills($dbh,$outputFile);
     &extractRepresentatives($dbh,$outputFile);

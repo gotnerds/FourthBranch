@@ -27,7 +27,7 @@ elsif($^O =~ /MSWin32/){
      $dbh = DBI->connect('dbi:mysql:database=fourthbranch;host=127.0.0.1:3306;'."mysql_read_default_file=$curDir/mysql.conf",'root','mysql') or die "Connection Error: $DBI::errstr\n";   
 }
 else{
-    $dbh = DBI->connect('DBI:mysql:database=fourthbranch;' ."mysql_read_default_file=$curDir/mysql.conf",'root','root') or die "Connection Error: $DBI::errstr\n";
+    $dbh = DBI->connect('dbi:mysql:database=fourthbranch;' ."mysql_read_default_file=$curDir/mysql.conf",'root','root') or die "Connection Error: $DBI::errstr\n";
 }
 
 
@@ -278,10 +278,10 @@ if(defined($function)){
 	    &paramCheck($email);
 	}
     }
-    elsif($function eq 'sanitize'){
+    elsif($function eq 'generateProductionDatabase'){
 	my $outFile = param('output');
 	if(defined($outFile)){
-	    Databases::sanitize($dbh,$outFile);
+	    Databases::generateProductionDatabase($dbh,$outFile);
 	}
 	else{
 	    &paramCheck($outFile);

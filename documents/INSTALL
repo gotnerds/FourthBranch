@@ -29,8 +29,10 @@ Load internet data into buffer databases
 Sanitize buffer data and load into production
 	Sanitize the buffer databases, and output a database image that can be loaded into production.
 
-	execute fourthBranch.pl run=sanitize output=sanitized.database
+	execute fourthBranch.pl run=generateProductionDatabase output=production.db
 	
 	Load the database into production
+	
+	The production.db file is just a sequence of mysql commands which after running, will generate the database the frontend uses. MySql can load this file directly or the perl script can do it for you.
 
-	execute fourthBranch.pl run=loadProduction input=sanitized.database
+	execute fourthBranch.pl run=loadProduction input=production.db
