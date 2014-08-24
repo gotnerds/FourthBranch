@@ -1,3 +1,11 @@
+****************************************************
+Execution Requirements:	
+Ubuntu 14.04 LTS:
+- Mysql 5.5.38-0ubuntu0.14.04.1 (Ubuntu)
+- Perl v5.18.2
+
+Windows 8: 
+****************************************************
 Download the initial data
 
 	From congress-github download bills,votes,amendments
@@ -14,7 +22,7 @@ Download the initial data
 
 Load internet data into buffer databases
 	
-	In the fourth branch website there are buffer databases that represents the raw data from outside sources. This data is then santized and checked for inconsitencies before being copied into the production databases.
+	In the fourth branch website there are buffer databases that represent the raw data from outside sources. This data is then santized and checked for inconsitencies before being copied into the production databases.
  
 	execute fourthBranch.pl run=install
 

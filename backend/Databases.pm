@@ -6,6 +6,7 @@ use warnings;
 use CGI::Carp 'fatalsToBrowser';
 use CGI qw/:standard/;
 use Cwd qw(cwd abs_path);
+use JSON::PP qw(decode_json encode_json);
 use File::Basename 'dirname';
 use lib dirname(abs_path $0);
 use Data::Dump qw(pp);
@@ -86,7 +87,7 @@ my $CREATE_BILL_TABLE = <<'END_BILL_TABLE';
 create table bills 
 (id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT, 
  title VARCHAR(100) NOT NULL UNIQUE, 
- state VARCHAR(50), 
+ status VARCHAR(50), 
  url TEXT, 
  code VARCHAR(50),
  open VARCHAR(5),
@@ -264,13 +265,147 @@ sub dropBackendTables{
     }
 }
 sub loadProduction{
-    my $inputFile = $_[0];
+    my $debug = 1;
+    my $dbh = $_[0];
+    my $inputFile = $_[1];
+}
+sub extractRelatedBills{
+    my $debug = 1;
+    my $dbh = $_[0];
+    my $outputFile = $_[1];
+
+    open(OUTPUT,">>$outputFile") || die "Couldn't open $outputFile. SQL Error $DBI::errstr\n";
+
+    # Write create Related Bills command
+    my $relatedTableName = "related_bills";
+    my @columns = ("bill1","bill2","reason");
+    my @columnTypes = ("VARCHAR(40)","VARCHAR(40)","VARCHAR(40)");
+    my $createRelatedBillsTable = MysqlUtils::generateCreateString($relatedTableName,\@columns,\@columnTypes);
+    if($debug == 1){
+	print "Writing -->$createRelatedBillsTable\n";
+	print OUTPUT $createRelatedBillsTable."\n";
+    }
+    
+    my $billBufferColumns = "id, official_title, bill_type, status, updated_at, status_at, bill_id, subjects_top_term, enacted_as, number, short_title, introduced_at, congress, by_request, popular_title, bill_html, history, related_bills";
+    my $sql = "SELECT $billBufferColumns from congress_github_bills;";
+    if($debug == 1){
+	print "Execute -->$sql\n";
+    }
+    my $sth = $dbh->prepare($sql);
+    $sth->execute or die "SQL Error: $DBI::errstr\n"; 
+    while(my @row = $sth->fetchrow_array){
+	my ($id, $official_title, $bill_type, $status, $updated_at, $status_at, $bill_id, $subjects_top_term, $enacted_as, $number, $short_title, $introduced_at, $congress, $by_request, $popular_title, $bill_html, $history, $related_bills) = @row;
+	# Find the related bills in productions bills database
+	my $related_ref = decode_json($related_bills); 
+	my @relatedBills = @$related_ref; 
+	for my $hash_ref (@relatedBills){
+	    my %hash = %$hash_ref;
+	    my $bill_id = $hash{'bill_id'};
+	    my $type = $hash{'type'};
+	    my $reason = $hash{'reason'};
+	    if($debug == 1){
+		print "Looking for Related Bill -> billId: $bill_id\ttype: $type\treason: $reason\n";
+	    }
+	    $sql = "SELECT id FROM congress_github_bills where (bill_id=\"$bill_id\");";
+	    if($debug == 1){
+		print "Execute -->$sql\n";
+	    }
+	    my $sth2 = $dbh->prepare($sql);
+	    $sth2->execute or die "SQL Error: $DBI::errstr\n"; 
+	    while(my @row = $sth2->fetchrow_array){
+		# Add entry to related bills table
+		my @relatedColumns = ("bill1","bill2");
+		my $id = $row[0];
+		my @relatedData = ($bill_id,$id);
+		if($debug == 1){
+		    print "Found Related Bill --> $id\n";
+		    my $insert = MysqlUtils::generateInsertStringFromArray($relatedTableName,\@relatedColumns,\@relatedData);
+		    print "Writing -->$insert\n";
+		    print OUTPUT "$insert did it\n";
+		}
+		
+	    }
+	    
+	}
+	#my %related = %$related_ref;
+	#print %related;
+	
+    }
 }
 
+sub extractBills{
+    my $debug = 1;
+    my $dbh = $_[0];
+    my $outputFile = $_[1];
+
+    open(OUTPUT,">>$outputFile") || die "Couldn't open $outputFile. SQL Error $DBI::errstr\n";
+
+    my $tableName = "bills";
+    my @columns = ("title","state","url","code","open");
+    my @columnTypes = ("VARCHAR(100)","VARCHAR(50)","TEXT","VARCHAR(50)","VARCHAR(5)");
+
+    my $billBufferColumns = "id, official_title, bill_type, status, updated_at, status_at, bill_id, subjects_top_term, enacted_as, number, short_title, introduced_at, congress, by_request, popular_title, bill_html, history, related_bills";
+    my $sql = "SELECT $billBufferColumns from congress_github_bills;";
+    if($debug == 1){
+	print "Execute -->$sql\n";
+    }
+    my $sth = $dbh->prepare($sql);
+    $sth->execute or die "SQL Error: $DBI::errstr\n"; 
+    while(my @row = $sth->fetchrow_array){
+	my ($id, $official_title, $bill_type, $status, $updated_at, $status_at, $bill_id, $subjects_top_term, $enacted_as, $number, $short_title, $introduced_at, $congress, $by_request, $popular_title, $bill_html, $history, $related_bills) = @row;
+	my @insertBillColumns = ("title","status","url","code","open");
+	my @insertBillData = ($official_title,$status,"NULL",$bill_id,"NULL");
+	my $insertTableName = "bills";
+	my $insertBillQuery = MysqlUtils::generateInsertStringFromArray($insertTableName,\@insertBillColumns,\@insertBillData);
+	if($debug == 1){
+	    print "Writing -->$insertBillQuery\n";
+	    print OUTPUT "$insertBillQuery\n";
+	}
+    }
+
+}
+
+sub extractRepresentatives{
+    my $debug = 1;
+    my $dbh = $_[0];
+    my $outputFile = $_[1];
+
+    open(OUTPUT,">>$outputFile") || die "Couldn't open $outputFile. SQL Error $DBI::errstr\n";
+
+    my $tableName = "legislators_csv_buffer";
+    my $bufferColumns = "id, title, firstname,middlename,lastname,name_suffix,nickname, party, state, district, in_office, gender, phone, fax, website, webform, congress_office, bioguide_id, votesmart_id, fec_id, govtrack_id, crp_id, twitter_id, congresspedia_url, youtube_url, facebook_id, senate_class, birthdate,oc_email";
+
+
+    my $sql = "SELECT $bufferColumns from $tableName;";
+    if($debug == 1){
+	print "Execute -->$sql\n";
+    }
+    my $sth = $dbh->prepare($sql);
+    $sth->execute or die "SQL Error: $DBI::errstr\n"; 
+    while(my @row = $sth->fetchrow_array){
+	my ($id, $title, $firstname,$middlename,$lastname,$name_suffix,$nickname,$party, $state, $district, $in_office, $gender, $phone, $fax, $website, $webform, $congress_office, $bioguide_id, $votesmart_id, $fec_id, $govtrack_id, $crp_id, $twitter_id, $congresspedia_url, $youtube_url, $facebook_id, $senate_class, $birthdate, $oc_email) = @row;
+	my @insertRepresentativesColumns = ("name","state","url","email","phone","photo","chamber");
+	my @insertRepresentativesData = ($firstname . " ".$lastname,$state,$website,$oc_email,$phone,"NULL",$congress_office);
+	my $insertTableName = "representatives";
+	my $insertBillQuery = MysqlUtils::generateInsertStringFromArray($insertTableName,\@insertRepresentativesColumns,\@insertRepresentativesData);
+	if($debug == 1){
+	    print "Writing -->$insertBillQuery\n";
+	    print OUTPUT "$insertBillQuery\n";
+	}
+    }
+}
 sub sanitize{
-    my $outputFile = $_[0];
-    # congress_github_bills
-    # -Generate the related bills table from congress_github_bills:related_bills
+    my $dbh = $_[0];
+    my $outputFile = $_[1];
+    if(-e $outputFile){
+	unlink $outputFile || die "Couldn't remove $outputFile $!\n";
+    }
+     open(OUTPUT,">>$outputFile") || die "Couldn't open $outputFile. SQL Error $DBI::errstr\n";
+    print OUTPUT "use fourthbranch;\n";
+
+    &extractBills($dbh,$outputFile);
+    &extractRelatedBills($dbh,$outputFile);
+    &extractRepresentatives($dbh,$outputFile);
     # -Generate bill history table
     # -Insert Bills
     # congress_github_amendments
@@ -281,28 +416,4 @@ sub sanitize{
     # Output database data for production tables into file
 }
 
-sub loadTestData{
-    my $dbh = $_[0];
-    my $curDir = cwd();
-    my @tableFiles = (
-	[$curDir."/testData/.csv","dsd"],
-	[$curDir."/testData/.csv","ud"],
-	[$curDir."/testData/.csv","fs"],
-	[$curDir."/testData/.csv","ef"],
-	[$curDir."/testData/.csv","g"],
-	[$curDir."/testData/.csv","r"]
-	);
-    for(my $index = 0; $index < @tableFiles;$index++){
-	my $fileName = $tableFiles[$index][0];
-	my $tableName = $tableFiles[$index][1];
-	my $sql = "LOAD DATA LOCAL INFILE '".$fileName."' INTO TABLE ".$tableName.
-	    " FIELDS TERMINATED BY ',' LINES TERMINATED BY '\\n' ".
-	    "IGNORE 1 LINES;";
-	print $sql."\n";
-	my $sth = $dbh->prepare($sql);
-	$sth->execute or die "Get Load Test Data: SQL Error: $DBI::errstr\n";
-    }
-
-    
-}
 1;

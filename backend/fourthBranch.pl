@@ -281,7 +281,7 @@ if(defined($function)){
     elsif($function eq 'sanitize'){
 	my $outFile = param('output');
 	if(defined($outFile)){
-	    Databases::sanitize($outFile);
+	    Databases::sanitize($dbh,$outFile);
 	}
 	else{
 	    &paramCheck($outFile);
@@ -290,7 +290,7 @@ if(defined($function)){
     elsif($function eq 'loadProduction'){
 	my $inFile = param('input');
 	if(defined($inFile)){
-	    Databases::loadProduction($inFile);
+	    Databases::loadProduction($dbh,$inFile);
 	}
 	else{
 	    &paramCheck($inFile);
