@@ -221,6 +221,17 @@ create table comments_bills
 );
 END_COMMENT
     ;
+
+# Stored Procedure Template
+my $STORED_PROCEDURE_TEMPLATE = <<'END_STORED_PROCEDURE_TEMPLATE';
+DELIMITER // 
+CREATE PROCEDURE #PROCEDURE_NAME#(#PARAMETERS#) 
+BEGIN 
+SELECT number;
+END // 
+DELIMITER ; 
+END_STORED_PROCEDURE_TEMPLATE
+    ;
 ####################################
 my @tables = ( $CREATE_INDIVIDUAL_USERS_TABLE, $CREATE_ORGANIZATION_USERS_TABLE, $CREATE_ADMIN_USERS_TABLE,$CREATE_BILL_TABLE,$CREATE_REPRESENTATIVES_TABLE,$CREATE_WALL_OF_AMERICA_TABLE,$CREATE_BILL_VOTE_TABLE,$CREATE_USER_VOTES_TABLE,$CREATE_LARGE_BILL_TABLE,$CREATE_APPROPRIATION_BILL_TABLE,$CREATE_COMMENT_TABLE,$CREATE_CONGRESS_VOTES_TABLE);
 
@@ -239,8 +250,7 @@ sub install{
    
 }
 
-sub loadProductionDatabase{
-}
+
 
 sub createBackendTables{
     my $debug = 0;
@@ -277,6 +287,21 @@ sub dropBackendTables{
 	my $sth = $dbh->prepare($sql);
 	$sth->execute or die "Drop Backend Tables: SQL Error: $DBI::errstr\n"; 
     }
+}
+sub writeStoredProcedures{
+    my $debug = 1;
+    my $outputFile = $_[1];
+
+    open(OUTPUT,">>$outputFile") || die "Couldn't open $outputFile. SQL Error $DBI::errstr\n";
+
+    my $procedureName = "addBill";
+    my @columns = ("title","status","url","code", "open");
+    my @columnTypes = ("VARCHAR(100)","VARCHAR(50)","TEXT","VARCHAR(50)","VARCHAR(5)");
+    my $addBillProcedure = MysqlUtils::generateStoredProcedureFromArray($procedureName,\@columns,\@columnTypes);
+    if($debug == 1){
+	print "Writing -->$addBillProcedure\n";
+    }
+    print OUTPUT "$addBillProcedure\n";
 }
 
 sub extractRelatedBills{

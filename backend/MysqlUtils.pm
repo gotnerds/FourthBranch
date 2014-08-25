@@ -118,3 +118,20 @@ sub generateInsertStringFromArray{
     }
     return $insertString;
 }
+
+sub generateStoredProcedureFromArray{
+    my $debug = 0;
+    my $procedureName = $_[0];
+    my @columns = @{$_[1]};
+    my $columnSize = @columns;
+    my @array = @{$_[2]};
+    my $arraySize = @array;
+
+    if($arraySize != $columnSize){
+	print "Size Mismatch in generate stored procedure from array. ArraySize: $arraySize  ColumnSize: $columnSize\n";
+    }
+    if($debug == 1){
+	print "Generated stored procedure:\n";           ;
+    }
+    
+}
