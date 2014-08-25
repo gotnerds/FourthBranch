@@ -9,6 +9,8 @@ Windows 8:
 Setup Frontend environment
       The frontend environment consists of an ajax and php webpage backed by a MySql database.
       
+Install the production database
+	Launch mysql and run the source command with backend/production.db as input.
 
 ****************************************************
 Setup Backend Development environment
