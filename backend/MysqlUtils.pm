@@ -65,9 +65,9 @@ sub generateInsertStringFromHash{
 	    $insertString .="\n$index :";
 	}
 	if(defined($hash{$key})){
-	    my $santized = $hash{$key};
-	    $santized =~ s/"/\\"/g;
-	    $insertString .= " \"${santized}\" ";
+	    my $sanitized = $hash{$key};
+	    $sanitized =~ s/"/\\"/g;
+	    $insertString .= " \"${sanitized}\" ";
 	}
 	else {
 	    $insertString .= " NULL ";
@@ -86,7 +86,11 @@ sub generateInsertStringFromArray{
     my @columns = @{$_[1]};
     my $columnSize = @columns;
     my @array = @{$_[2]};
+    my $arraySize = @array;
 
+    if($arraySize != $columnSize){
+	print "Size Mismatch in generate insert String from array. ArraySize: $arraySize  ColumnSize: $columnSize\n";
+    }
     my $insertString = " INSERT INTO $tableName (";
     for(my $index = 0; $index < $columnSize; $index++){
        	$insertString .= $columns[$index];
@@ -97,17 +101,20 @@ sub generateInsertStringFromArray{
     $insertString .= ") VALUES (";
     
     for(my $index=0; $index < $columnSize; $index++){
-	if($debug == 1){
-	    $insertString .="\n$index :";
+	
+	my $sanitized = $array[$index];
+	if(!defined($sanitized)){
+	    $sanitized = "NULL";
 	}
-	my $santized = $array[$index];
-
-	$santized =~ s/"/\\"/g;
-	$insertString .= " \"${santized}\" ";
+	$sanitized =~ s/"/\\"/g;
+	$insertString .= " \"${sanitized}\" ";
 	if($index+1 != $columnSize){
 	    $insertString .= ",";
 	}
     }
     $insertString .= ");";
+    if($debug == 1){
+	print "Generated insert string: $insertString\n";           ;
+    }
     return $insertString;
 }

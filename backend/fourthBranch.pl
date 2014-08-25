@@ -287,15 +287,6 @@ if(defined($function)){
 	    &paramCheck($outFile);
 	}
     }
-    elsif($function eq 'loadProduction'){
-	my $inFile = param('input');
-	if(defined($inFile)){
-	    Databases::loadProduction($dbh,$inFile);
-	}
-	else{
-	    &paramCheck($inFile);
-	}
-    }
     elsif($function eq 'addOrganization'){
 	# Organization Users
 	# --- Legal Status
@@ -769,7 +760,7 @@ sub paramCheck{
     my $index = 0;
     foreach my $param (@_){
 	if(!defined($param)){
-	    print "$index is not defined";
+	    print "Parameter: $index is not defined";
 	}
 	$index++;
     }

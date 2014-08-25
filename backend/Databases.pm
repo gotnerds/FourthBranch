@@ -44,6 +44,19 @@ create table individuals
 END_INDIVIDUAL_USERS_TABLE
     ;
 
+# Congress votes
+my $CREATE_CONGRESS_VOTES_TABLE = <<'END_CONGRESS_VOTES_TABLE';
+create table congress_votes 
+( id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT, 
+  vote_id VARCHAR(50),
+  bill VARCHAR(100),
+  date DATE,
+  question TEXT,
+  result VARCHAR(50),
+  PRIMARY KEY (id)
+);
+END_CONGRESS_VOTES_TABLE
+    ;
 # Organization Users
 my $CREATE_ORGANIZATION_USERS_TABLE = <<'END_ORGANIZATION_USERS_TABLE';
 create table organizations 
@@ -86,7 +99,7 @@ END_ADMIN_USERS_TABLE
 my $CREATE_BILL_TABLE = <<'END_BILL_TABLE';
 create table bills 
 (id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT, 
- title VARCHAR(100) NOT NULL UNIQUE, 
+ title VARCHAR(100) NOT NULL, 
  status VARCHAR(50), 
  url TEXT, 
  code VARCHAR(50),
@@ -100,7 +113,7 @@ END_BILL_TABLE
 my $CREATE_LARGE_BILL_TABLE = <<'END_LARGE_BILL_TABLE';
 create table large_bills 
 (id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT,
- title VARCHAR(100) NOT NULL UNIQUE, 
+ title VARCHAR(100) NOT NULL, 
  state VARCHAR(50), 
  url TEXT, 
  code VARCHAR(50),
@@ -121,7 +134,7 @@ END_LARGE_BILL_TABLE
 my $CREATE_APPROPRIATION_BILL_TABLE = <<'END_APPROPRIATION_BILL_TABLE';
 create table appropriation_bills 
 (id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT,
- title VARCHAR(100) NOT NULL UNIQUE, 
+ title VARCHAR(100) NOT NULL, 
  state VARCHAR(50), 
  url TEXT, 
  code VARCHAR(50),
@@ -209,9 +222,9 @@ create table comments_bills
 END_COMMENT
     ;
 ####################################
-my @tables = ( $CREATE_INDIVIDUAL_USERS_TABLE, $CREATE_ORGANIZATION_USERS_TABLE, $CREATE_ADMIN_USERS_TABLE,$CREATE_BILL_TABLE,$CREATE_REPRESENTATIVES_TABLE,$CREATE_WALL_OF_AMERICA_TABLE,$CREATE_BILL_VOTE_TABLE,$CREATE_USER_VOTES_TABLE,$CREATE_LARGE_BILL_TABLE,$CREATE_APPROPRIATION_BILL_TABLE,$CREATE_COMMENT_TABLE);
+my @tables = ( $CREATE_INDIVIDUAL_USERS_TABLE, $CREATE_ORGANIZATION_USERS_TABLE, $CREATE_ADMIN_USERS_TABLE,$CREATE_BILL_TABLE,$CREATE_REPRESENTATIVES_TABLE,$CREATE_WALL_OF_AMERICA_TABLE,$CREATE_BILL_VOTE_TABLE,$CREATE_USER_VOTES_TABLE,$CREATE_LARGE_BILL_TABLE,$CREATE_APPROPRIATION_BILL_TABLE,$CREATE_COMMENT_TABLE,$CREATE_CONGRESS_VOTES_TABLE);
 
-my @table_names = ("individuals", "organizations","admins","bills","representatives","bill_votes","user_votes","wall_of_america","large_bills","appropriation_bills","comments_bills");
+my @table_names = ("individuals", "organizations","admins","bills","representatives","bill_votes","user_votes","wall_of_america","large_bills","appropriation_bills","comments_bills","congress_votes");
 
 ####################################
 
@@ -227,15 +240,8 @@ sub install{
 }
 
 sub loadProductionDatabase{
-    my $dbh = $_[0];
-    if(!defined($dbh)){
-	print "Undefined DBH !!!\n";
-	exit();
-    }
-
-    &dropBackendTables($dbh);
-    &createBackendTables($dbh);
 }
+
 sub createBackendTables{
     my $debug = 0;
     my $dbh = $_[0];
@@ -272,11 +278,7 @@ sub dropBackendTables{
 	$sth->execute or die "Drop Backend Tables: SQL Error: $DBI::errstr\n"; 
     }
 }
-sub loadProduction{
-    my $debug = 1;
-    my $dbh = $_[0];
-    my $inputFile = $_[1];
-}
+
 sub extractRelatedBills{
     my $debug = 0;
     my $dbh = $_[0];
@@ -425,6 +427,36 @@ sub writeCreateTables{
     }  
 }
 
+sub extractBillVotes{
+    my $debug = 0;
+    my $dbh = $_[0];
+    my $outputFile = $_[1];
+
+    open(OUTPUT,">>$outputFile") || die "Couldn't open $outputFile. SQL Error $DBI::errstr\n";
+    # TODO identify and attach foreign keys for bill and votes
+    my $voteBufferColumns =  "id, vote_id, bill, date, question, result,votes";
+;
+    my $sql = "SELECT $voteBufferColumns from congress_github_votes;";
+    if($debug == 1){
+	print "Execute -->$sql\n";
+    }
+    my $sth = $dbh->prepare($sql);
+    $sth->execute or die "SQL Error: $DBI::errstr\n"; 
+   while(my @row = $sth->fetchrow_array){
+       # Add each read vote to congress_votes table
+       my ($id, $vote_id, $bill, $date, $question, $result, $votes) = @row;
+       # TODO Find the related bills in productions bills database
+       # TODO Add individual results generated from votes
+       my @voteColumns = ("vote_id","bill","date","question","result");
+       my @voteData = ($vote_id,$bill,$date,$question,$result);
+       my $insertVoteQuery = MysqlUtils::generateInsertStringFromArray("congress_votes",\@voteColumns,\@voteData);
+	if ($debug == 1){
+	    print "Writing -->$insertVoteQuery\n";
+	}
+	print OUTPUT "$insertVoteQuery\n";
+   }
+    
+}
 
 sub generateProductionDatabase{
     my $dbh = $_[0];
@@ -433,12 +465,14 @@ sub generateProductionDatabase{
 	unlink $outputFile || die "Couldn't remove $outputFile $!\n";
     }
      open(OUTPUT,">>$outputFile") || die "Couldn't open $outputFile. SQL Error $DBI::errstr\n";
+    print OUTPUT "tee loadProduction.log;\n";
     print OUTPUT "use fourthbranch;\n";
-
     &writeCreateTables($outputFile);
     &extractBills($dbh,$outputFile);
     &extractRelatedBills($dbh,$outputFile);
+    &extractBillVotes($dbh,$outputFile);
     &extractRepresentatives($dbh,$outputFile);
+    print OUTPUT "notee;\n";
     # -Generate bill history table
     # -Insert Bills
     # congress_github_amendments

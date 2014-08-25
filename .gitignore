@@ -2,6 +2,7 @@
 documents/WebsiteDesign.docx
 documents/technicalSpecifications.docx
 ~*
+backend/loadProduction.log
 documents/*~
 documents/.~lock.backendLookup.docx#
 documents/.~lock.clarification_needed.docx#

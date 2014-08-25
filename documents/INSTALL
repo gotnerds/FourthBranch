@@ -41,6 +41,4 @@ Sanitize buffer data and load into production
 	
 	Load the database into production
 	
-	The production.db file is just a sequence of mysql commands which after running, will generate the database the frontend uses. MySql can load this file directly or the perl script can do it for you.
-
-	execute fourthBranch.pl run=loadProduction input=production.db
+	The production.db file is just a sequence of mysql commands which after running, will generate the database the frontend uses. MySql can load this file directly using the source command, and output is written to loadProduction.log.
