@@ -1,0 +1,199 @@
+/* General Styling */
+body, html {
+  padding: 0;
+  font-family: Verdana, Geneva, sans-serif;
+  margin: 0; }
+
+h1 {
+  font-size: 48px;
+  font-size: 3rem;
+  color: #C20000;
+  font-weight: bold; }
+
+h2 {
+  font-size: 36px;
+  font-size: 2.25rem;
+  color: white;
+  font-weight: bold; }
+
+h3 {
+  font-size: 30px;
+  font-size: 1.875rem;
+  color: #C20000;
+  font-weight: bold; }
+
+h4 {
+  font-size: 18px;
+  font-size: 1.125rem;
+  color: black;
+  font-weight: bold; }
+
+h5 {
+  font-size: 16px;
+  font-size: 1rem;
+  color: black;
+  font-weight: bold; }
+
+h6 {
+  font-size: 12px;
+  font-size: 0.75rem;
+  font-weight: bold; }
+
+a {
+  color: white;
+  text-decoration: none;
+  border: none; }
+
+ul {
+  list-style-type: none;
+  overflow: hidden;
+  margin: 0;
+  padding: 0; }
+  ul li {
+    display: block;
+    text-decoration: none;
+    width: 120px;
+    padding-right: 5px; }
+    ul li label, ul li input, ul li button, ul li a {
+      float: left;
+      display: inline-block; }
+
+.clearfix {
+  zoom: 1; }
+
+.clearfix:after {
+  clear: both;
+  content: ".";
+  display: block;
+  font-size: 0;
+  height: 0;
+  line-height: 0;
+  visibility: hidden; }
+
+button {
+  background: none !important;
+  border: none;
+  padding: 0 !important;
+  cursor: pointer;
+  color: white;
+  outline: none; }
+
+/* table login settings */
+table {
+  padding-right: 10px; }
+  table tr {
+    vertical-align: top;
+    font-size: 11px; }
+    table tr td {
+      padding: 0 0 0 14px;
+      text-align: left;
+      vertical-align: middle; }
+      table tr td label {
+        padding-left: 1px; }
+
+.inputtext {
+  border: 1px solid #bdc7d8;
+  margin: 0;
+  padding: 3px;
+  -webkit-appearance: none;
+  -webkit-border-radius: 0;
+  border-color: #1d2a5b;
+  margin: 0;
+  width: 142px;
+  padding-bottom: 4px; }
+
+.uiInputLabel {
+  position: relative; }
+
+.uiInputLabelInput {
+  margin: 0;
+  padding: 0;
+  position: absolute; }
+
+.uiInputLabel .uiInputLabelLabel {
+  display: inline-block;
+  margin-left: 17px;
+  vertical-align: baseline; }
+
+.html7magic {
+  padding-bottom: 4px; }
+
+/* Header */
+#siteHeader {
+  height: 183px;
+  background: #0a2b95;
+  -webkit-box-shadow: 0 0 5px black;
+  -moz-box-shadow: 0 0 5px black;
+  box-shadow: 0 0 5px black; }
+
+#extraNav {
+  height: 19px;
+  height: 1.2rem;
+  padding: 1px 7px;
+  float: left;
+  margin: 0;
+  color: white;
+  background-color: #2976cb;
+  text-align: center; }
+  #extraNav a {
+    font-size: 14px;
+    font-size: 0.875rem;
+    color: white;
+    text-decoration: none; }
+
+.headerLogin {
+  padding-top: 5px;
+  display: inline-block;
+  color: white;
+  font-size: 14px;
+  font-size: 0.875rem;
+  float: right; }
+
+#logo {
+  max-width: 100%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px; }
+  #logo img {
+    padding-top: 10px; }
+
+#mainNav {
+  background-color: #C20000;
+  -webkit-box-shadow: 0 0 5px black;
+  -moz-box-shadow: 0 0 5px black;
+  box-shadow: 0 0 5px black;
+  line-height: 30px;
+  margin-top: 20px;
+  text-align: center; }
+  #mainNav a {
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.5), 0 1px 0 rgba(255, 255, 255, 0.35);
+    padding: 0 15px;
+    font-size: 16px;
+    font-size: 1rem;
+    text-transform: uppercase;
+    font-weight: bold;
+    transition: text-shadow 0.2s ease-out;
+    moz-transition: text-shadow 0.2s ease-out;
+    o-transition: text-shadow 0.2s ease-out;
+    webkit-transition: text-shadow 0.2s ease-out; }
+    #mainNav a:hover {
+      text-shadow: 0 2px 0 black; }
+
+/* News Of The Day */
+#newsOfTheDay {
+  display: inline-block;
+  float: right;
+  margin-right: 2%;
+  text-align: center;
+  border-bottom: black 1px solid;
+  padding-bottom: 20px; }
+  #newsOfTheDay h4 {
+    text-transform: uppercase;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+    border-bottom: black 1px solid; }
+  #newsOfTheDay p {
+    margin-bottom: .5rem; }
+
+/*# sourceMappingURL=css.css.map */

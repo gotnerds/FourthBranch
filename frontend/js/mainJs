@@ -1,0 +1,15 @@
+$(function() {
+	$('.overlay').click(removeOverlaid());
+})
+function introduction(){
+	if ($('body').hasClass('overlaid')) {
+	} else {
+	$('body').toggleClass('overlaid');
+}
+function forgotPassword(){
+	$('#forgot').show();
+	#('#a').hide();
+}
+function removeOverlaid(){
+	$('body').removeClass('overlaid');
+}

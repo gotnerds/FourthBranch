@@ -1,0 +1,247 @@
+$font-stack: Verdana, Geneva, sans-serif;
+$blue: #2976cb;
+$darkBlue: #0a2b95;
+$red: #C20000;
+@mixin link($color:white) {
+    color: $color;
+    text-decoration: none;
+}
+@function calculateRem($size) {
+  $remSize: $size / 16px;
+  @return $remSize * 1rem;
+}
+
+@mixin font-size($size) {
+  font-size: $size;
+  font-size: calculateRem($size);
+}
+
+@mixin transition($type){
+	transition: $type .2s ease-out;
+	moz-transition: $type .2s ease-out;
+	o-transition: $type .2s ease-out;
+	webkit-transition: $type .2s ease-out;
+}
+
+@mixin box-shadow($top:0, $left:0, $blur:5px, $color:black, $inset: false) {
+  @if $inset {
+    -webkit-box-shadow:inset $top $left $blur $color;
+    -moz-box-shadow:inset $top $left $blur $color;
+    box-shadow:inset $top $left $blur $color;
+  } @else {
+    -webkit-box-shadow: $top $left $blur $color;
+    -moz-box-shadow: $top $left $blur $color;
+    box-shadow: $top $left $blur $color;
+  }
+}
+
+@mixin letterpress($innerOpacity:.7, $outerOpacity: .35) {
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, $innerOpacity), 0 1px 0 rgba(255, 255, 255, $outerOpacity);
+}
+@mixin box-emboss($outerOpacity, $innerOpacity) {
+  box-shadow:
+    rgba(white, $outerOpacity) 0 1px 0, 
+    rgba(black, $innerOpacity) 0 1px 0 inset;
+}
+
+/* General Styling */
+
+body, html {
+	padding:0;
+	font-family: $font-stack;
+	margin:0;
+}
+h1 {
+	@include font-size(48px);
+	color: $red;
+	font-weight: bold;
+}
+h2 {
+	@include font-size(36px);
+	color:white;
+	font-weight: bold;
+}
+h3 {	
+	@include font-size(30px);
+	color: $red;
+	font-weight: bold;
+}
+h4 {
+	@include font-size(18px);
+	color: black;
+	font-weight:bold;
+}
+h5 {
+	@include font-size(16px);
+	color:black;
+	font-weight: bold;
+}
+h6 {
+	@include font-size(12px);
+	font-weight: bold;
+}
+a {
+	@include link;
+	border:none;
+}
+ul {
+	list-style-type: none;
+	overflow:hidden;
+	margin:0;
+	padding:0;
+	li {
+		display:block;
+		text-decoration:none;
+		width:120px;
+		padding-right:5px;
+		label, input, button, a {
+			float:left;
+			display:inline-block;
+		}
+	}
+}
+.clearfix {
+zoom: 1;
+}
+.clearfix:after {
+clear: both;
+content: ".";
+display: block;
+font-size: 0;
+height: 0;
+line-height: 0;
+visibility: hidden;
+}
+button {
+    background:none!important;
+     border:none; 
+     padding:0!important;
+     cursor: pointer;
+     color:white;
+     outline: none;
+}
+
+/* table login settings */
+table {
+	padding-right:10px;
+	tr {
+	vertical-align: top;
+	font-size:11px;
+		 td {
+			padding: 0 0 0 14px;
+			text-align:left;
+			vertical-align:middle;
+			label {
+				padding-left:1px;
+			}
+		}
+	}
+}
+.inputtext {
+border: 1px solid #bdc7d8;
+margin: 0;
+padding: 3px;
+-webkit-appearance: none;
+-webkit-border-radius: 0;
+border-color: #1d2a5b;
+margin: 0;
+width: 142px;
+padding-bottom:4px;
+}
+.uiInputLabel {
+position: relative;
+}
+.uiInputLabelInput {
+margin: 0;
+padding: 0;
+position: absolute;
+}
+.uiInputLabel .uiInputLabelLabel {
+display: inline-block;
+margin-left: 17px;
+vertical-align: baseline;
+}
+.html7magic {
+	padding-bottom:4px;
+}
+.linkbutton {
+
+}
+
+/* Header */
+
+#siteHeader {
+	height: 183px;
+	background: $darkBlue;
+	@include box-shadow();
+}
+#extraNav {
+	height: 19px;
+	height:1.2rem;
+	padding: 1px 7px;
+	float:left;
+	margin:0;
+	color:white;
+	background-color:$blue;
+	text-align:center;
+	a {
+		@include font-size(14px);
+		@include link(white);
+
+	}
+}
+.headerLogin {
+	padding-top:5px;
+	display:inline-block;
+	color:white;
+	@include font-size(14px);
+	float:right;
+}
+#logo {
+	max-width:100%;
+	height:auto;
+	margin-left:auto;
+	margin-right:auto;
+	width:600px;
+	img {
+		padding-top:10px;
+	}
+}
+#mainNav {
+	background-color:$red;
+	@include box-shadow;
+	line-height: 30px;
+	margin-top:20px;
+	text-align:center;
+	a {
+		@include letterpress(.5);
+		padding: 0 15px;
+		@include font-size(16px);
+		text-transform: uppercase;
+		font-weight:bold;
+		@include transition(text-shadow);
+		&:hover {
+			text-shadow: 0 2px 0 rgba(0,0,0,1);
+		}
+	}
+}
+
+/* News Of The Day */
+
+#newsOfTheDay {
+	display: inline-block;
+	float: right;
+	margin-right: 2%;
+	text-align: center;
+	border-bottom: black 1px solid;
+	padding-bottom:20px;
+	h4 {
+		text-transform: uppercase;
+		padding-bottom:5px;
+		margin-bottom:10px;
+		border-bottom: black 1px solid;
+	}
+	p {
+		margin-bottom:.5rem;
+	}
+}
