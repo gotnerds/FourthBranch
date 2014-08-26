@@ -44,6 +44,10 @@
             echo $jsonj->successful;        
         }
     }
+    if (isset($_POST['voteUser'])){
+        $_SESSION['voteUser']= $_POST['voteUser'];
+        echo $_SESSION['voteUser'];
+    }
 //var_dump($jsonj);
 //print_r($output);
 ?>

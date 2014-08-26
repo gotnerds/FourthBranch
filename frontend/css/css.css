@@ -5,8 +5,8 @@ body, html {
   margin: 0; }
 
 h1 {
-  font-size: 48px;
-  font-size: 3rem;
+  font-size: 40px;
+  font-size: 2.5rem;
   color: #C20000;
   font-weight: bold; }
 
@@ -58,6 +58,27 @@ ul {
       float: left;
       display: inline-block; }
 
+table {
+  color: inherit; }
+
+#bodyWrap {
+  width: 90%;
+  max-width: 1080px;
+  margin-right: auto;
+  margin-left: auto; }
+
+.clearLeft {
+  zoom: 1; }
+
+.clearLeft:after {
+  clear: left;
+  content: ".";
+  display: block;
+  font-size: 0;
+  height: 0;
+  line-height: 0;
+  visibility: hidden; }
+
 .clearfix {
   zoom: 1; }
 
@@ -77,6 +98,10 @@ button {
   cursor: pointer;
   color: white;
   outline: none; }
+
+.seal:before {
+  content: url("../images/seal.png");
+  margin-right: 5px; }
 
 /* table login settings */
 table {
@@ -187,7 +212,11 @@ table {
   margin-right: 2%;
   text-align: center;
   border-bottom: black 1px solid;
-  padding-bottom: 20px; }
+  padding-bottom: 20px;
+  width: 14.7%; }
+  #newsOfTheDay img {
+    max-width: 100%;
+    height: auto; }
   #newsOfTheDay h4 {
     text-transform: uppercase;
     padding-bottom: 5px;
@@ -195,5 +224,94 @@ table {
     border-bottom: black 1px solid; }
   #newsOfTheDay p {
     margin-bottom: .5rem; }
+
+/* Bill of the Day */
+.billOfTheDay {
+  width: 74%; }
+  .billOfTheDay h1 {
+    margin: 3% 0; }
+  .billOfTheDay .bill {
+    margin-left: 7%;
+    width: 77%;
+    border-radius: 10px;
+    padding: 1%; }
+  .billOfTheDay .billTitle h4 {
+    margin-bottom: 0;
+    position: relative;
+    padding-bottom: 5px;
+    float: left;
+    border-bottom: 1px solid black; }
+  .billOfTheDay .billTitle span {
+    color: #0a2b95;
+    font-size: 14px;
+    font-size: 0.875rem;
+    clear: left;
+    display: block; }
+  .billOfTheDay .billTitle .billDescription {
+    margin: 1%; }
+  .billOfTheDay .postNavigation {
+    text-align: right;
+    font-size: 12px;
+    font-size: 0.75rem;
+    transform: color;
+    cursor: pointer; }
+    .billOfTheDay .postNavigation a {
+      color: #2976cb; }
+      .billOfTheDay .postNavigation a:hover {
+        color: #0a2b95; }
+  .billOfTheDay .postInfo {
+    text-align: right;
+    color: gray;
+    font-size: 14px;
+    font-size: 0.875rem;
+    margin-bottom: 1%; }
+    .billOfTheDay .postInfo .postAuthor, .billOfTheDay .postInfo .timeStamp {
+      display: block; }
+
+.voteUser {
+  position: relative;
+  border-left: 1px solid #2976cb;
+  border-right: 1px solid #C20000;
+  font-weight: bold;
+  display: inline-block;
+  left: 60%;
+  padding: 1%;
+  -webkit-box-shadow: 0 0 5px black;
+  -moz-box-shadow: 0 0 5px black;
+  box-shadow: 0 0 5px black;
+  font-size: 18px;
+  font-size: 1.125rem; }
+  .voteUser:before, .voteUser:after {
+    content: "";
+    position: absolute;
+    right: -1px;
+    left: -1px;
+    height: 1px;
+    background-image: -webkit-gradient(linear, 0 0, 100% 0, from(#2976cb), to(#C20000));
+    background-image: -webkit-linear-gradient(left, #2976cb, #C20000);
+    background-image: -moz-linear-gradient(left, #2976cb, #C20000);
+    background-image: -o-linear-gradient(left, #2976cb, #C20000); }
+  .voteUser:before {
+    top: -1px; }
+  .voteUser:after {
+    bottom: -1px; }
+  .voteUser input[type="radio"] {
+    display: none; }
+  .voteUser label span {
+    display: inline-block;
+    background: url("../images/checkboxBlue.png") left top no-repeat;
+    width: 17px;
+    height: 17px;
+    margin: -1px 0 0 4px;
+    vertical-align: middle;
+    cursor: pointer; }
+  .voteUser .votePass:checked + label span {
+    background: url("../images/checkboxBlue.png") 0 -18px no-repeat;
+    width: 22px;
+    height: 22px; }
+  .voteUser .voteReject:checked + label span {
+    background: url("../images/checkboxRed.png") 0 -18px no-repeat;
+    height: 22px;
+    width: 22px; }
 
 /*# sourceMappingURL=css.css.map */

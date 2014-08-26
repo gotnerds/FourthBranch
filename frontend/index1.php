@@ -1,27 +1,46 @@
-<?php include("header1.php");
+<?php include("header1.php"); ?>
+<div id="bodyWrap">
+<?php
 include("./inc/notd.php");
 ?>
 <section class="billOfTheDay">
-    <header class="seal">BILL OF THE DAY</header>
+    <h1 class="seal">BILL OF THE DAY</h1>
     <article class="bill">
         <div class="billTitle">
             <h4>H.R. 4315:</br>
             21st Century Endangered Species Transparency Act</h4>
-            <span>Section 3 of 9</span>
+            <span>(Section 3 of 9)</span>
         </div>
-        <p>Amends the Endangered Species Act of 1973 to require the Secretary of the Interior or the Secretary of Commerce, as appropriate, to make publicly available on the Internet the best scientific and commercial data available that are the basis for the determination of whether a species is an endangered species or a threatened species, including each proposed regulation for the listing of a species.</p>
-        <span class="postNavigation">
-            PREVIOUS | NEXT
-        </span>
+        <p class="billDescription">Amends MAP-21 to extend for the same period the authorization of appropriations for National Highway Safety Administration (NHTSA) safety programs, including: (1) highway safety research and development, (2) national priority safety programs, (3) the National Driver Register, (4) the High Visibility Enforcement Program, and (5) NHTSA administrative expenses.
+
+        Amends SAFETEA-LU to extend for the same period high-visibility traffic safety law enforcement campaigns under the High Visibility Enforcement Program.</p>
+        <p class="postNavigation">
+            <span><a>PREVIOUS</a> | <a>NEXT</a></span>
+        </p>
         <div class="postInfo">
             <span class="postAuthor">Submitted by <u>The Fourth Branch Team</u></span>
             <span class="timeStamp">11:30pm 01/07/2013</span>
         </div>
+        <?php if(isset($_SESSION['voteUser'])) {?>
+        <script>
+            $(function() {
+                var $radios = $('input:radio[name=voteUser]');
+                if($radios.is(':checked') === false) {
+                    $radios.filter('[value=<?php echo $_SESSION['voteUser']; ?>]').prop('checked', true);
+                }
+            });
+        </script>
+        <?php } ?>
         <form class="voteUser" action="" method="POST">
-            <label for="votePass">PASS</label>
-            <input type="checkbox" name="voteUser[]" value="pass" onChange="this.form.submit()" />
-            <label for="votePass">REJECT</label>
-            <input type="checkbox" name="voteUser[]" value="reject" onChange="this.form.submit()" />
+            <input type="radio" class="votePass" name="voteUser" id="pass" value="pass" onChange="this.form.submit()" />
+            <label for="pass">PASS<span></span></label>
+            <input type="radio" name="voteUser" class="voteReject" id="reject" value="reject" onChange=<?php 
+            if(isset($_SESSION)){
+                if(isset($_SESSION['voteUser'])) {
+                    ?>"preventDefault()"<?php
+                } else {
+                ?>"this.form.submit()"<?php } } else { ?>"a()"<?php } ?> />
+            <label for="reject">REJECT<span></span></label>
         </form>
         <div class="share-buttons">
             <button class="reddit shareButton">Reddit</button>

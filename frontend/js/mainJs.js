@@ -8,6 +8,14 @@ function introduction(){
 	$('#introduction').show();
 	$('#a, #individual, #organization').hide();
 }
+function a(){
+	if ($('body').hasClass('overlaid')) {
+	} else {
+	$('body').addClass('overlaid');
+	}
+	$('#a').show();
+	$('#individual, #organization').hide();
+}
 function forgotPassword(){
 	if ($('body').hasClass('overlaid')) {
 	} else {

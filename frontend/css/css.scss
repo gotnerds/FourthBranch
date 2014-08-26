@@ -44,6 +44,31 @@ $red: #C20000;
     rgba(black, $innerOpacity) 0 1px 0 inset;
 }
 
+@mixin colorBorder {
+  position: relative;
+  border-left: 1px solid $blue;
+  border-right: 1px solid $red;
+	&:before, &:after {
+	  content: "";
+	  position: absolute;
+	  right: -1px;
+	  left: -1px;
+	  height: 1px;
+	  background-image: -webkit-gradient(linear, 0 0, 100% 0, from($blue), to($red));
+	  background-image: -webkit-linear-gradient(left, $blue, $red);
+	  background-image: -moz-linear-gradient(left, $blue, $red);
+	  background-image: -o-linear-gradient(left, $blue, $red);
+	
+	  
+	}
+	&:before {
+	  	top:-1px;
+	}
+	&:after {
+		bottom:-1px;
+	}
+}
+
 /* General Styling */
 
 body, html {
@@ -52,7 +77,7 @@ body, html {
 	margin:0;
 }
 h1 {
-	@include font-size(48px);
+	@include font-size(40px);
 	color: $red;
 	font-weight: bold;
 }
@@ -100,6 +125,29 @@ ul {
 		}
 	}
 }
+table {
+	color: inherit;
+}
+
+#bodyWrap {
+	width:90%;
+	max-width:1080px;
+	margin-right:auto;
+	margin-left:auto;
+}
+.clearLeft {
+zoom: 1;
+}
+.clearLeft:after {	
+clear: left;
+content: ".";
+display: block;
+font-size: 0;
+height: 0;
+line-height: 0;
+visibility: hidden;
+}
+
 .clearfix {
 zoom: 1;
 }
@@ -119,6 +167,11 @@ button {
      cursor: pointer;
      color:white;
      outline: none;
+}
+
+.seal:before {
+	content: url('../images/seal.png');
+	margin-right:5px;
 }
 
 /* table login settings */
@@ -164,10 +217,6 @@ vertical-align: baseline;
 .html7magic {
 	padding-bottom:4px;
 }
-.linkbutton {
-
-}
-
 /* Header */
 
 #siteHeader {
@@ -235,6 +284,11 @@ vertical-align: baseline;
 	text-align: center;
 	border-bottom: black 1px solid;
 	padding-bottom:20px;
+	width: 14.7%;
+	img {
+		max-width:100%;
+		height:auto;
+	}
 	h4 {
 		text-transform: uppercase;
 		padding-bottom:5px;
@@ -243,5 +297,90 @@ vertical-align: baseline;
 	}
 	p {
 		margin-bottom:.5rem;
+	}
+}
+
+/* Bill of the Day */
+
+.billOfTheDay {
+	width:74%;
+	h1 {
+		margin:3% 0;
+	}
+	.bill {
+		margin-left:7%;
+		width: 77%;
+		border-radius: 10px;
+		padding: 1%;
+	}
+	.billTitle {
+		h4 {
+			margin-bottom:0;
+			position:relative;
+			padding-bottom : 5px;
+			float:left;
+			border-bottom:1px solid black;
+		}
+		span {
+			color: $darkBlue;
+			@include font-size(14px);
+			clear:left;
+			display:block;
+		}
+		.billDescription {
+			margin:1%;
+		}
+	}
+	.postNavigation {
+		text-align:right;
+		@include font-size(12px);
+		transform:color;
+		cursor:pointer;
+			a{
+			color:$blue;
+			&:hover {
+				color: $darkBlue;
+			}
+		}
+	}
+	.postInfo {
+		text-align: right;
+		color: lighten(black, 50%);
+		@include font-size(14px);
+		margin-bottom:1%;
+		.postAuthor, .timeStamp {
+			display:block;
+		}
+	}
+}
+.voteUser {
+	@include colorBorder;
+	font-weight:bold;
+	display:inline-block;
+	left:60%;
+	padding:1%;
+	@include box-shadow;
+	@include font-size(18px);
+	input[type="radio"] {
+    display:none;
+	}
+	label span {
+	    display:inline-block;
+	    background:url('../images/checkboxBlue.png') left top no-repeat;
+	    width:17px;
+	    height:17px;
+	    margin:-1px 0 0 4px;
+	    vertical-align:middle;
+	    cursor:pointer;
+	}
+	.votePass:checked + label span {
+	    background: url("../images/checkboxBlue.png") 0 -18px no-repeat;
+		width: 22px;
+		height: 22px;
+	}
+	.voteReject:checked + label span {
+	    background:url('../images/checkboxRed.png') 0 -18px no-repeat;
+		height:22px;
+		width:22px;
 	}
 }
