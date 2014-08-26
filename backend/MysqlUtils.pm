@@ -17,6 +17,19 @@ $VERSION     = 1.00;
 
 my $CURRENT_DIRECTORY = cwd();
 
+
+# Stored Procedure Template
+my $STORED_PROCEDURE_TEMPLATE = <<'END_STORED_PROCEDURE_TEMPLATE';
+DELIMITER // 
+CREATE PROCEDURE #PROCEDURE_NAME# (#PARAMETER_LIST#) 
+BEGIN 
+SELECT #SELECT_COLUMNS# FROM #TABLE_NAME#
+#WHERE_QUERY#;
+END // 
+DELIMITER ; 
+END_STORED_PROCEDURE_TEMPLATE
+    ;
+
 sub generateCreateString{
     my $tableName = $_[0];
     my @columns = @{$_[1]};
@@ -119,19 +132,48 @@ sub generateInsertStringFromArray{
     return $insertString;
 }
 
-sub generateStoredProcedureFromArray{
+sub generateReadProcedureFromHash{
     my $debug = 0;
-    my $procedureName = $_[0];
-    my @columns = @{$_[1]};
-    my $columnSize = @columns;
-    my @array = @{$_[2]};
-    my $arraySize = @array;
-
-    if($arraySize != $columnSize){
-	print "Size Mismatch in generate stored procedure from array. ArraySize: $arraySize  ColumnSize: $columnSize\n";
-    }
-    if($debug == 1){
-	print "Generated stored procedure:\n";           ;
-    }
+    my $tableName = $_[0];
+    my $procedureName = $_[1];
+    my @selectColumns = @{$_[2]};
+    my %whereHash = %{$_[3]};
+    my @parameters = @{$_[4]};
     
+    
+    my $selectColumnsString = "";
+
+    my $parameterList = "";
+    for my $param (@parameters){
+	$parameterList .= "IN $param";
+    }
+    my $addComma = 0;
+    for my $column (@selectColumns){
+	if($addComma == 1){
+	    $selectColumnsString .= ",";
+	}
+	$addComma = 1;
+	$selectColumnsString .= $column;
+    }
+
+    my $whereQuery = "";
+    if(keys(%whereHash) >= 1){
+	$whereQuery = "WHERE ";
+	my $addAnd = 0;
+	for my $key (keys(%whereHash)){
+	    if($addAnd == 1){
+		$whereQuery .= " AND ";
+	    }
+	    $addAnd = 1;
+	    $whereQuery .= "$key = $whereHash{$key}";
+	    
+	}
+    }
+    my $procedure = $STORED_PROCEDURE_TEMPLATE;
+    $procedure =~ s/#PROCEDURE_NAME#/$procedureName/;
+    $procedure =~ s/#SELECT_COLUMNS#/$selectColumnsString/;
+    $procedure =~ s/#TABLE_NAME#/$tableName/;
+    $procedure =~ s/#WHERE_QUERY#/$whereQuery/;
+    $procedure =~ s/#PARAMETER_LIST#/$parameterList/;
+    return $procedure;
 }

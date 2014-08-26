@@ -222,16 +222,6 @@ create table comments_bills
 END_COMMENT
     ;
 
-# Stored Procedure Template
-my $STORED_PROCEDURE_TEMPLATE = <<'END_STORED_PROCEDURE_TEMPLATE';
-DELIMITER // 
-CREATE PROCEDURE #PROCEDURE_NAME#(#PARAMETERS#) 
-BEGIN 
-SELECT number;
-END // 
-DELIMITER ; 
-END_STORED_PROCEDURE_TEMPLATE
-    ;
 ####################################
 my @tables = ( $CREATE_INDIVIDUAL_USERS_TABLE, $CREATE_ORGANIZATION_USERS_TABLE, $CREATE_ADMIN_USERS_TABLE,$CREATE_BILL_TABLE,$CREATE_REPRESENTATIVES_TABLE,$CREATE_WALL_OF_AMERICA_TABLE,$CREATE_BILL_VOTE_TABLE,$CREATE_USER_VOTES_TABLE,$CREATE_LARGE_BILL_TABLE,$CREATE_APPROPRIATION_BILL_TABLE,$CREATE_COMMENT_TABLE,$CREATE_CONGRESS_VOTES_TABLE);
 
@@ -290,18 +280,52 @@ sub dropBackendTables{
 }
 sub writeStoredProcedures{
     my $debug = 1;
-    my $outputFile = $_[1];
+    my $outputFile = $_[0];
 
-    open(OUTPUT,">>$outputFile") || die "Couldn't open $outputFile. SQL Error $DBI::errstr\n";
+    open(OUTPUT,">>$outputFile") || die "Couldn't open $outputFile. $!\n";
 
-    my $procedureName = "addBill";
+    my $tableName = "bills";
+    my $procedureName = "getBillByCode";
     my @columns = ("title","status","url","code", "open");
-    my @columnTypes = ("VARCHAR(100)","VARCHAR(50)","TEXT","VARCHAR(50)","VARCHAR(5)");
-    my $addBillProcedure = MysqlUtils::generateStoredProcedureFromArray($procedureName,\@columns,\@columnTypes);
+    my %whereHash = ("code"=>"bill_code");
+    my @parameterList = ("code CHAR(40)");
+    my $addBillProcedure = MysqlUtils::generateReadProcedureFromHash($tableName,$procedureName,\@columns,\%whereHash,\@parameterList);
     if($debug == 1){
 	print "Writing -->$addBillProcedure\n";
     }
     print OUTPUT "$addBillProcedure\n";
+
+    # Remove Bill
+    # Update Bill info
+    # Add Admin
+    # Remove Admin
+    # Update Admin Password
+    # Add Bill Vote
+    # Add reddit vote
+    # Add google vote
+    # add facebook vote
+    # add twitter vote
+    # add Bill comment
+    # add bill comment sub-comment
+    # Add Individual
+    # Update individual personal info
+    # update individual address
+    # update individual password
+    # update individual activated
+    # Add organization
+    # update organization personal info
+    # update organization address
+    # update organization auxilary info
+    # add related bill
+    # remove related bill
+    # add representative
+    # remove representative
+    # update representative info
+    # add user vote
+    # remove user vote
+    # Add wall of america
+    # remove wall of america
+    # update wall of america
 }
 
 sub extractRelatedBills{
@@ -493,6 +517,7 @@ sub generateProductionDatabase{
     print OUTPUT "tee loadProduction.log;\n";
     print OUTPUT "use fourthbranch;\n";
     &writeCreateTables($outputFile);
+    &writeStoredProcedures($outputFile);
     &extractBills($dbh,$outputFile);
     &extractRelatedBills($dbh,$outputFile);
     &extractBillVotes($dbh,$outputFile);
