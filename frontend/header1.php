@@ -12,7 +12,7 @@ if (isset($_POST)) {
   <meta name="description" content="Keeping you updated and involved in the ongoing political process." />
   <meta name="author" content="The Fourth branch" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link href="css/css.css" rel="stylesheet" media="screen, projection">
+  <link href="css/css.css" type="text/css" rel="stylesheet" media="screen, projection">
 <!-- for online access
   <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 -->
