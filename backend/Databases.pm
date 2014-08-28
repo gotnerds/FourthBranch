@@ -283,7 +283,7 @@ sub writeStoredProcedures{
     my $outputFile = $_[0];
 
     open(OUTPUT,">>$outputFile") || die "Couldn't open $outputFile. $!\n";
-
+    ####################################################
     my $tableName = "bills";
     my $procedureName = "getBillByCode";
     my @columns = ("title","status","url","code", "open");
@@ -294,6 +294,39 @@ sub writeStoredProcedures{
 	print "Writing -->$addBillProcedure\n";
     }
     print OUTPUT "$addBillProcedure\n";
+    ###################################################
+    $tableName = "bills";
+    $procedureName = "updateBillStatus";
+    my %updateHash = ("updatedStatus"=>"status");
+    %whereHash = ("code"=>"bill_code");
+    @parameterList = ("updatedStatus CHAR(50)");
+    my $updateBillStatus = MysqlUtils::generateWriteProcedureFromHash($tableName,$procedureName,\%updateHash,\%whereHash,\@parameterList);
+    if($debug == 1){
+	print "Writing -->$updateBillStatus\n";
+    }
+    print OUTPUT "$updateBillStatus\n";
+    #####################################################
+    $tableName = "bills";
+    $procedureName = "insertBill";
+    my %insertHash = ("newStatus"=>"status","oldStatus"=>"stuff");
+    my $modifierString = "ON DUPLICATE update status=closed";
+    @parameterList = ("newStatus CHAR(50)");
+    my $insertBill = MysqlUtils::generateInsertProcedureFromHash($tableName,$procedureName,\%insertHash,$modifierString,\@parameterList);
+    if($debug == 1){
+	print "Writing -->$insertBill\n";
+    }
+    print OUTPUT "$insertBill\n";
+    #####################################################
+    $tableName = "bills";
+    $procedureName = "deleteBillByCode";
+    my %whereHash = ("code"=>"deleteCode");
+    my @parameterList = ("deleteCode CHAR(40)");
+    my $deleteBillProcedure = MysqlUtils::generateDeleteProcedureFromHash($tableName,$procedureName,\%whereHash,\@parameterList);
+    if($debug == 1){
+	print "Writing -->$deleteBillProcedure\n";
+    }
+    print OUTPUT "$deleteBillProcedure\n";
+    ###################################################
 
     # Remove Bill
     # Update Bill info
@@ -516,12 +549,12 @@ sub generateProductionDatabase{
      open(OUTPUT,">>$outputFile") || die "Couldn't open $outputFile. SQL Error $DBI::errstr\n";
     print OUTPUT "tee loadProduction.log;\n";
     print OUTPUT "use fourthbranch;\n";
-    &writeCreateTables($outputFile);
+#    &writeCreateTables($outputFile);
     &writeStoredProcedures($outputFile);
-    &extractBills($dbh,$outputFile);
-    &extractRelatedBills($dbh,$outputFile);
-    &extractBillVotes($dbh,$outputFile);
-    &extractRepresentatives($dbh,$outputFile);
+#    &extractBills($dbh,$outputFile);
+#    &extractRelatedBills($dbh,$outputFile);
+#    &extractBillVotes($dbh,$outputFile);
+#    &extractRepresentatives($dbh,$outputFile);
     print OUTPUT "notee;\n";
     # -Generate bill history table
     # -Insert Bills

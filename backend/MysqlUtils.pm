@@ -18,8 +18,8 @@ $VERSION     = 1.00;
 my $CURRENT_DIRECTORY = cwd();
 
 
-# Stored Procedure Template
-my $STORED_PROCEDURE_TEMPLATE = <<'END_STORED_PROCEDURE_TEMPLATE';
+# Stored Procedure TemplateS
+my $SELECT_PROCEDURE_TEMPLATE = <<'END_SELECT_PROCEDURE_TEMPLATE';
 DELIMITER // 
 CREATE PROCEDURE #PROCEDURE_NAME# (#PARAMETER_LIST#) 
 BEGIN 
@@ -27,8 +27,41 @@ SELECT #SELECT_COLUMNS# FROM #TABLE_NAME#
 #WHERE_QUERY#;
 END // 
 DELIMITER ; 
-END_STORED_PROCEDURE_TEMPLATE
+END_SELECT_PROCEDURE_TEMPLATE
     ;
+
+my $DELETE_PROCEDURE_TEMPLATE = <<'END_DELETE_PROCEDURE_TEMPLATE';
+DELIMITER // 
+CREATE PROCEDURE #PROCEDURE_NAME# (#PARAMETER_LIST#) 
+BEGIN 
+DELETE FROM #TABLE_NAME#
+#WHERE_QUERY#;
+END // 
+DELIMITER ; 
+END_DELETE_PROCEDURE_TEMPLATE
+    ;
+
+my $WRITE_PROCEDURE_TEMPLATE = <<'END_WRITE_PROCEDURE_TEMPLATE';
+DELIMITER // 
+CREATE PROCEDURE #PROCEDURE_NAME# (#PARAMETER_LIST#) 
+BEGIN 
+UPDATE #TABLE_NAME# SET #UPDATE_STRING# 
+#WHERE_QUERY#;
+END // 
+DELIMITER ; 
+END_WRITE_PROCEDURE_TEMPLATE
+    ;
+
+my $INSERT_PROCEDURE_TEMPLATE = <<'END_INSERT_PROCEDURE_TEMPLATE';
+DELIMITER // 
+CREATE PROCEDURE #PROCEDURE_NAME# (#PARAMETER_LIST#) 
+BEGIN 
+INSERT INTO #TABLE_NAME# #COLUMNS# VALUES #INSERT_STRING# 
+END // 
+DELIMITER ; 
+END_INSERT_PROCEDURE_TEMPLATE
+    ;
+
 
 sub generateCreateString{
     my $tableName = $_[0];
@@ -132,6 +165,52 @@ sub generateInsertStringFromArray{
     return $insertString;
 }
 
+sub generateInsertProcedureFromHash{
+    my $debug = 0;
+    my $tableName = $_[0];
+    my $procedureName = $_[1];
+    my %insertHash = %{$_[2]};
+    my $modifierString = $_[3];
+    my @parameters = @{$_[4]};
+    
+    my $selectColumnsString = "";
+
+    my $parameterList = "";
+    for my $param (@parameters){
+	$parameterList .= "IN $param";
+    }
+    
+    my $columns = "";
+    my $insertString = "";
+    if(keys(%insertHash) >= 1){
+	$columns = "(";
+	$insertString = "(";
+	my $addComma = 0;
+	for my $key (keys(%insertHash)){
+	    if($addComma == 1){
+		$insertString .= " , ";
+		$columns .= ",";
+	    }
+	    $addComma = 1;
+	    $insertString .= "$insertHash{$key}";
+	    $columns .= "$key";
+	    
+	}
+	$insertString .= ")";
+	$columns .= ")";
+    }
+    
+    $insertString .= " $modifierString";
+
+    my $procedure = $INSERT_PROCEDURE_TEMPLATE;
+    $procedure =~ s/#PROCEDURE_NAME#/$procedureName/;
+    $procedure =~ s/#COLUMNS#/$columns/;
+    $procedure =~ s/#INSERT_STRING#/$insertString/;
+    $procedure =~ s/#TABLE_NAME#/$tableName/;
+    $procedure =~ s/#PARAMETER_LIST#/$parameterList/;
+    return $procedure;
+}
+
 sub generateReadProcedureFromHash{
     my $debug = 0;
     my $tableName = $_[0];
@@ -139,7 +218,6 @@ sub generateReadProcedureFromHash{
     my @selectColumns = @{$_[2]};
     my %whereHash = %{$_[3]};
     my @parameters = @{$_[4]};
-    
     
     my $selectColumnsString = "";
 
@@ -169,9 +247,94 @@ sub generateReadProcedureFromHash{
 	    
 	}
     }
-    my $procedure = $STORED_PROCEDURE_TEMPLATE;
+    my $procedure = $SELECT_PROCEDURE_TEMPLATE;
     $procedure =~ s/#PROCEDURE_NAME#/$procedureName/;
     $procedure =~ s/#SELECT_COLUMNS#/$selectColumnsString/;
+    $procedure =~ s/#TABLE_NAME#/$tableName/;
+    $procedure =~ s/#WHERE_QUERY#/$whereQuery/;
+    $procedure =~ s/#PARAMETER_LIST#/$parameterList/;
+    return $procedure;
+}
+
+sub generateWriteProcedureFromHash{
+    my $debug = 0;
+    my $tableName = $_[0];
+    my $procedureName = $_[1];
+    my %updateHash = %{$_[2]};
+    my %whereHash = %{$_[3]};
+    my @parameters = @{$_[4]};
+    
+    my $selectColumnsString = "";
+
+    my $parameterList = "";
+    for my $param (@parameters){
+	$parameterList .= "IN $param";
+    }
+
+    my $updateString = "";
+    if(keys(%updateHash) >= 1){
+	my $addComma = 0;
+	for my $key (keys(%updateHash)){
+	    if($addComma == 1){
+		$updateString .= " , ";
+	    }
+	    $addComma = 1;
+	    $updateString .= "$key = $updateHash{$key}";
+	    
+	}
+    }
+    my $whereQuery = "";
+    if(keys(%whereHash) >= 1){
+	$whereQuery = "WHERE ";
+	my $addAnd = 0;
+	for my $key (keys(%whereHash)){
+	    if($addAnd == 1){
+		$whereQuery .= " AND ";
+	    }
+	    $addAnd = 1;
+	    $whereQuery .= "$key = $whereHash{$key}";
+	    
+	}
+    }
+    my $procedure = $WRITE_PROCEDURE_TEMPLATE;
+    $procedure =~ s/#PROCEDURE_NAME#/$procedureName/;
+    $procedure =~ s/#UPDAT_STRING#/$updateString/;
+    $procedure =~ s/#UPDATE_STRING#/$updateString/;
+    $procedure =~ s/#TABLE_NAME#/$tableName/;
+    $procedure =~ s/#WHERE_QUERY#/$whereQuery/;
+    $procedure =~ s/#PARAMETER_LIST#/$parameterList/;
+    return $procedure;
+}
+
+sub generateDeleteProcedureFromHash{
+    my $debug = 0;
+    my $tableName = $_[0];
+    my $procedureName = $_[1];
+    my %whereHash = %{$_[2]};
+    my @parameters = @{$_[3]};
+    
+    my $selectColumnsString = "";
+
+    my $parameterList = "";
+    for my $param (@parameters){
+	$parameterList .= "IN $param";
+    }
+
+    my $whereQuery = "";
+    if(keys(%whereHash) >= 1){
+	$whereQuery = "WHERE ";
+	my $addAnd = 0;
+	for my $key (keys(%whereHash)){
+	    if($addAnd == 1){
+		$whereQuery .= " AND ";
+	    }
+	    $addAnd = 1;
+	    $whereQuery .= "$key = $whereHash{$key}";
+	    
+	}
+    }
+    my $procedure = $DELETE_PROCEDURE_TEMPLATE;
+    $procedure =~ s/#PROCEDURE_NAME#/$procedureName/;
     $procedure =~ s/#TABLE_NAME#/$tableName/;
     $procedure =~ s/#WHERE_QUERY#/$whereQuery/;
     $procedure =~ s/#PARAMETER_LIST#/$parameterList/;
