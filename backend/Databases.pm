@@ -49,7 +49,7 @@ my $CREATE_CONGRESS_VOTES_TABLE = <<'END_CONGRESS_VOTES_TABLE';
 create table congress_votes 
 ( id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT, 
   vote_id VARCHAR(50),
-  bill VARCHAR(100),
+  bill TEXT,
   date DATE,
   question TEXT,
   result VARCHAR(50),
@@ -99,7 +99,7 @@ END_ADMIN_USERS_TABLE
 my $CREATE_BILL_TABLE = <<'END_BILL_TABLE';
 create table bills 
 (id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT, 
- title VARCHAR(100) NOT NULL, 
+ title TEXT NOT NULL, 
  status VARCHAR(50), 
  url TEXT, 
  code VARCHAR(50),
@@ -160,9 +160,9 @@ create table representatives
  state VARCHAR(50), 
  url TEXT, 
  email VARCHAR(50),
- phone VARCHAR(5),
+ phone VARCHAR(20),
  photo VARCHAR(60),
- chamber VARCHAR(10), 
+ chamber VARCHAR(50), 
  PRIMARY KEY(id)
 );
 END_REPRESENTATIVES_TABLE
@@ -279,7 +279,7 @@ sub dropBackendTables{
     }
 }
 sub writeStoredProcedures{
-    my $debug = 1;
+    my $debug = 0;
     my $outputFile = $_[0];
 
     open(OUTPUT,">>$outputFile") || die "Couldn't open $outputFile. $!\n";
@@ -293,6 +293,7 @@ sub writeStoredProcedures{
     if($debug == 1){
 	print "Writing -->$addBillProcedure\n";
     }
+    print OUTPUT "DROP PROCEDURE IF EXISTS `$procedureName`;\n";
     print OUTPUT "$addBillProcedure\n";
     ###################################################
     $tableName = "bills";
@@ -304,27 +305,30 @@ sub writeStoredProcedures{
     if($debug == 1){
 	print "Writing -->$updateBillStatus\n";
     }
+    print OUTPUT "DROP PROCEDURE IF EXISTS `$procedureName`;\n";
     print OUTPUT "$updateBillStatus\n";
     #####################################################
     $tableName = "bills";
     $procedureName = "insertBill";
     my %insertHash = ("newStatus"=>"status","oldStatus"=>"stuff");
-    my $modifierString = "ON DUPLICATE update status=closed";
+    my $modifierString = "";
     @parameterList = ("newStatus CHAR(50)");
     my $insertBill = MysqlUtils::generateInsertProcedureFromHash($tableName,$procedureName,\%insertHash,$modifierString,\@parameterList);
     if($debug == 1){
 	print "Writing -->$insertBill\n";
     }
+    print OUTPUT "DROP PROCEDURE IF EXISTS `$procedureName`;\n";
     print OUTPUT "$insertBill\n";
     #####################################################
     $tableName = "bills";
     $procedureName = "deleteBillByCode";
-    my %whereHash = ("code"=>"deleteCode");
-    my @parameterList = ("deleteCode CHAR(40)");
+    %whereHash = ("code"=>"deleteCode");
+    @parameterList = ("deleteCode CHAR(40)");
     my $deleteBillProcedure = MysqlUtils::generateDeleteProcedureFromHash($tableName,$procedureName,\%whereHash,\@parameterList);
     if($debug == 1){
 	print "Writing -->$deleteBillProcedure\n";
     }
+    print OUTPUT "DROP PROCEDURE IF EXISTS `$procedureName`;\n";
     print OUTPUT "$deleteBillProcedure\n";
     ###################################################
 
@@ -447,6 +451,8 @@ sub extractBills{
 	my ($id, $official_title, $bill_type, $status, $updated_at, $status_at, $bill_id, $subjects_top_term, $enacted_as, $number, $short_title, $introduced_at, $congress, $by_request, $popular_title, $bill_html, $history, $related_bills) = @row;
 	my @insertBillColumns = ("title","status","url","code","open");
 	my @insertBillData = ($official_title,$status,"NULL",$bill_id,"NULL");
+	$official_title =~ s/\(/\(/g;
+	$official_title =~ s/\)/\)/g;
 	my $insertTableName = "bills";
 	my $insertBillQuery = MysqlUtils::generateInsertStringFromArray($insertTableName,\@insertBillColumns,\@insertBillData);
 	if($debug == 1){
@@ -529,6 +535,8 @@ sub extractBillVotes{
        my ($id, $vote_id, $bill, $date, $question, $result, $votes) = @row;
        # TODO Find the related bills in productions bills database
        # TODO Add individual results generated from votes
+       $date =~ /(\d{4})-(\d{2})-(\d{2}).*/;
+       $date = "$1-$2-$3";
        my @voteColumns = ("vote_id","bill","date","question","result");
        my @voteData = ($vote_id,$bill,$date,$question,$result);
        my $insertVoteQuery = MysqlUtils::generateInsertStringFromArray("congress_votes",\@voteColumns,\@voteData);
@@ -546,16 +554,21 @@ sub generateProductionDatabase{
     if(-e $outputFile){
 	unlink $outputFile || die "Couldn't remove $outputFile $!\n";
     }
-     open(OUTPUT,">>$outputFile") || die "Couldn't open $outputFile. SQL Error $DBI::errstr\n";
-    print OUTPUT "tee loadProduction.log;\n";
+    if(-e "loadProduction.log"){
+	unlink "loadProduction.log" || die "Couldn't remove loadProduction.log $!\n";
+    }
+    open(OUTPUT,">>$outputFile") || die "Couldn't open $outputFile. SQL Error $DBI::errstr\n";
+    #print OUTPUT "\\W\n";
+    #print OUTPUT "tee loadProduction.log;\n";
     print OUTPUT "use fourthbranch;\n";
-#    &writeCreateTables($outputFile);
+    &writeCreateTables($outputFile);
     &writeStoredProcedures($outputFile);
-#    &extractBills($dbh,$outputFile);
-#    &extractRelatedBills($dbh,$outputFile);
-#    &extractBillVotes($dbh,$outputFile);
-#    &extractRepresentatives($dbh,$outputFile);
-    print OUTPUT "notee;\n";
+    &extractBills($dbh,$outputFile);
+    &extractRelatedBills($dbh,$outputFile);
+    &extractBillVotes($dbh,$outputFile);
+    &extractRepresentatives($dbh,$outputFile);
+    #print OUTPUT "notee;\n";
+    #print OUTPUT "\\w\n";
     # -Generate bill history table
     # -Insert Bills
     # congress_github_amendments
