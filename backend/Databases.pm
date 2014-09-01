@@ -103,6 +103,7 @@ create table bills
  status VARCHAR(50), 
  url TEXT, 
  code VARCHAR(50),
+ local_html TEXT,
  open VARCHAR(5),
  PRIMARY KEY(id)
 );
@@ -156,7 +157,7 @@ END_APPROPRIATION_BILL_TABLE
 my $CREATE_REPRESENTATIVES_TABLE = <<'END_REPRESENTATIVES_TABLE';
 create table representatives 
 (id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT, 
- name VARCHAR(50) NOT NULL UNIQUE, 
+ name VARCHAR(50) NOT NULL, 
  state VARCHAR(50), 
  url TEXT, 
  email VARCHAR(50),
@@ -231,6 +232,13 @@ my @table_names = ("individuals", "organizations","admins","bills","representati
 
 sub install{
     my $dbh = $_[0];
+    my $currentDir = cwd();
+    my $initialData = $currentDir.'/initialData';
+    if(! -e $initialData){
+	print "Initial Data folder not found\n";
+	exit();
+    }
+    LegislatorPhotos::loadImages($dbh);exit();
     # Load External Api Buffers
     CurrentLegislatorsCsv::loadLegislatorsCsv($dbh);
     CongressGithub::loadCongressGithubBills($dbh);
@@ -293,7 +301,7 @@ sub writeStoredProcedures{
     if($debug == 1){
 	print "Writing -->$addBillProcedure\n";
     }
-    print OUTPUT "DROP PROCEDURE IF EXISTS `$procedureName`;\n";
+    print OUTPUT "DROP PROCEDURE `$procedureName`;\n";
     print OUTPUT "$addBillProcedure\n";
     ###################################################
     $tableName = "bills";
@@ -305,7 +313,7 @@ sub writeStoredProcedures{
     if($debug == 1){
 	print "Writing -->$updateBillStatus\n";
     }
-    print OUTPUT "DROP PROCEDURE IF EXISTS `$procedureName`;\n";
+    print OUTPUT "DROP PROCEDURE `$procedureName`;\n";
     print OUTPUT "$updateBillStatus\n";
     #####################################################
     $tableName = "bills";
@@ -317,7 +325,7 @@ sub writeStoredProcedures{
     if($debug == 1){
 	print "Writing -->$insertBill\n";
     }
-    print OUTPUT "DROP PROCEDURE IF EXISTS `$procedureName`;\n";
+    print OUTPUT "DROP PROCEDURE `$procedureName`;\n";
     print OUTPUT "$insertBill\n";
     #####################################################
     $tableName = "bills";
@@ -328,7 +336,7 @@ sub writeStoredProcedures{
     if($debug == 1){
 	print "Writing -->$deleteBillProcedure\n";
     }
-    print OUTPUT "DROP PROCEDURE IF EXISTS `$procedureName`;\n";
+    print OUTPUT "DROP PROCEDURE `$procedureName`;\n";
     print OUTPUT "$deleteBillProcedure\n";
     ###################################################
 
@@ -437,8 +445,8 @@ sub extractBills{
     open(OUTPUT,">>$outputFile") || die "Couldn't open $outputFile. SQL Error $DBI::errstr\n";
 
     my $tableName = "bills";
-    my @columns = ("title","state","url","code","open");
-    my @columnTypes = ("VARCHAR(100)","VARCHAR(50)","TEXT","VARCHAR(50)","VARCHAR(5)");
+    my @columns = ("title","state","url","code","open","local_html");
+    my @columnTypes = ("VARCHAR(100)","VARCHAR(50)","TEXT","VARCHAR(50)","VARCHAR(5)","TEXT");
 
     my $billBufferColumns = "id, official_title, bill_type, status, updated_at, status_at, bill_id, subjects_top_term, enacted_as, number, short_title, introduced_at, congress, by_request, popular_title, bill_html, history, related_bills";
     my $sql = "SELECT $billBufferColumns from congress_github_bills;";
@@ -448,9 +456,12 @@ sub extractBills{
     my $sth = $dbh->prepare($sql);
     $sth->execute or die "SQL Error: $DBI::errstr\n"; 
     while(my @row = $sth->fetchrow_array){
-	my ($id, $official_title, $bill_type, $status, $updated_at, $status_at, $bill_id, $subjects_top_term, $enacted_as, $number, $short_title, $introduced_at, $congress, $by_request, $popular_title, $bill_html, $history, $related_bills) = @row;
-	my @insertBillColumns = ("title","status","url","code","open");
-	my @insertBillData = ($official_title,$status,"NULL",$bill_id,"NULL");
+	my ($id, $official_title, $bill_type, $status, $updated_at, $status_at, $bill_id, $subjects_top_term, $enacted_as, $number, $short_title, $introduced_at, $congress, $by_request, $popular_title, $localHtml, $history, $related_bills) = @row;
+	if (defined($localHtml)){
+	    $localHtml =~ s/.*(initialData.*)$/$1/;
+	}
+	my @insertBillColumns = ("title","status","url","code","open","local_html");
+	my @insertBillData = ($official_title,$status,"NULL",$bill_id,"NULL",$localHtml);
 	$official_title =~ s/\(/\(/g;
 	$official_title =~ s/\)/\)/g;
 	my $insertTableName = "bills";
@@ -515,6 +526,14 @@ sub writeCreateTables{
     }  
 }
 
+sub extractRepresentativePhotos{
+    my $debug = 0;
+    my $dbh = $_[0];
+    my $outputFile = $_[1];
+
+    open(OUTPUT,">>$outputFile") || die "Couldn't open $outputFile. SQL Error $DBI::errstr\n";
+}
+
 sub extractBillVotes{
     my $debug = 0;
     my $dbh = $_[0];
@@ -558,8 +577,8 @@ sub generateProductionDatabase{
 	unlink "loadProduction.log" || die "Couldn't remove loadProduction.log $!\n";
     }
     open(OUTPUT,">>$outputFile") || die "Couldn't open $outputFile. SQL Error $DBI::errstr\n";
-    #print OUTPUT "\\W\n";
-    #print OUTPUT "tee loadProduction.log;\n";
+    print OUTPUT "\\W\n";
+    print OUTPUT "tee loadProduction.log;\n";
     print OUTPUT "use fourthbranch;\n";
     &writeCreateTables($outputFile);
     &writeStoredProcedures($outputFile);
@@ -567,8 +586,9 @@ sub generateProductionDatabase{
     &extractRelatedBills($dbh,$outputFile);
     &extractBillVotes($dbh,$outputFile);
     &extractRepresentatives($dbh,$outputFile);
-    #print OUTPUT "notee;\n";
-    #print OUTPUT "\\w\n";
+    &extractRepresentativePhotos($dbh,$outputFile);
+    print OUTPUT "notee;\n";
+    print OUTPUT "\\w\n";
     # -Generate bill history table
     # -Insert Bills
     # congress_github_amendments

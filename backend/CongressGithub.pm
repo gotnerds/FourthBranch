@@ -46,7 +46,7 @@ sub loadCongressGithubBills{
     }
     
     my $sth = $dbh->prepare($sql);
-    $sth->execute or die "Drop Backend Tables: SQL Error: $DBI::errstr\n";
+    $sth->execute or die "SQL Error: $DBI::errstr\n";
     
     # Create Table
     $sql = MysqlUtils::generateCreateString($tableName,\@columns,\@columnTypes);

@@ -25,7 +25,7 @@ sub loadLegislatorsCsv{
 	print "Undefined DBH !!!\n";
 	exit();
     }
-    open(INPUT,$CURRENT_DIRECTORY.'/initialData/legislators-current.csv') || die "Couldn't open input $!\n";
+    open(INPUT,$CURRENT_DIRECTORY.'/initialData/legislators-current.csv') || die "Couldn't open $CURRENT_DIRECTORY/initialData/legislators-current.csv $!\n";
 
     my $index = 0;
     my $columnLine = <INPUT>;
