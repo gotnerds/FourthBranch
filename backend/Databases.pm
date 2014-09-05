@@ -238,7 +238,6 @@ sub install{
 	print "Initial Data folder not found\n";
 	exit();
     }
-    LegislatorPhotos::loadImages($dbh);exit();
     # Load External Api Buffers
     CurrentLegislatorsCsv::loadLegislatorsCsv($dbh);
     CongressGithub::loadCongressGithubBills($dbh);
@@ -301,7 +300,6 @@ sub writeStoredProcedures{
     if($debug == 1){
 	print "Writing -->$addBillProcedure\n";
     }
-    print OUTPUT "DROP PROCEDURE `$procedureName`;\n";
     print OUTPUT "$addBillProcedure\n";
     ###################################################
     $tableName = "bills";
@@ -313,7 +311,6 @@ sub writeStoredProcedures{
     if($debug == 1){
 	print "Writing -->$updateBillStatus\n";
     }
-    print OUTPUT "DROP PROCEDURE `$procedureName`;\n";
     print OUTPUT "$updateBillStatus\n";
     #####################################################
     $tableName = "bills";
@@ -325,7 +322,6 @@ sub writeStoredProcedures{
     if($debug == 1){
 	print "Writing -->$insertBill\n";
     }
-    print OUTPUT "DROP PROCEDURE `$procedureName`;\n";
     print OUTPUT "$insertBill\n";
     #####################################################
     $tableName = "bills";
@@ -336,7 +332,6 @@ sub writeStoredProcedures{
     if($debug == 1){
 	print "Writing -->$deleteBillProcedure\n";
     }
-    print OUTPUT "DROP PROCEDURE `$procedureName`;\n";
     print OUTPUT "$deleteBillProcedure\n";
     ###################################################
 
@@ -494,7 +489,7 @@ sub extractRepresentatives{
     while(my @row = $sth->fetchrow_array){
 	my ($id, $title, $firstname,$middlename,$lastname,$name_suffix,$nickname,$party, $state, $district, $in_office, $gender, $phone, $fax, $website, $webform, $congress_office, $bioguide_id, $votesmart_id, $fec_id, $govtrack_id, $crp_id, $twitter_id, $congresspedia_url, $youtube_url, $facebook_id, $senate_class, $birthdate, $oc_email) = @row;
 	my @insertRepresentativesColumns = ("name","state","url","email","phone","photo","chamber");
-	my @insertRepresentativesData = ($firstname . " ".$lastname,$state,$website,$oc_email,$phone,"NULL",$congress_office);
+	my @insertRepresentativesData = ($firstname . " ".$lastname,$state,$website,$oc_email,$phone,$bioguide_id,$congress_office);
 	my $insertTableName = "representatives";
 	my $insertBillQuery = MysqlUtils::generateInsertStringFromArray($insertTableName,\@insertRepresentativesColumns,\@insertRepresentativesData);
 	if($debug == 1){
@@ -524,14 +519,6 @@ sub writeCreateTables{
 	print OUTPUT "$sql";
 
     }  
-}
-
-sub extractRepresentativePhotos{
-    my $debug = 0;
-    my $dbh = $_[0];
-    my $outputFile = $_[1];
-
-    open(OUTPUT,">>$outputFile") || die "Couldn't open $outputFile. SQL Error $DBI::errstr\n";
 }
 
 sub extractBillVotes{
@@ -568,6 +555,7 @@ sub extractBillVotes{
 }
 
 sub generateProductionDatabase{
+    my $enableLogging = 0;
     my $dbh = $_[0];
     my $outputFile = $_[1];
     if(-e $outputFile){
@@ -576,9 +564,11 @@ sub generateProductionDatabase{
     if(-e "loadProduction.log"){
 	unlink "loadProduction.log" || die "Couldn't remove loadProduction.log $!\n";
     }
-    open(OUTPUT,">>$outputFile") || die "Couldn't open $outputFile. SQL Error $DBI::errstr\n";
-    print OUTPUT "\\W\n";
-    print OUTPUT "tee loadProduction.log;\n";
+    open(OUTPUT,">>$outputFile") || die "Couldn't open $outputFile. SQL Error $DBI::errstr\n"; 
+    if($enableLogging == 1){
+	print OUTPUT "\\W\n";
+	print OUTPUT "tee loadProduction.log;\n";
+    }
     print OUTPUT "use fourthbranch;\n";
     &writeCreateTables($outputFile);
     &writeStoredProcedures($outputFile);
@@ -586,9 +576,10 @@ sub generateProductionDatabase{
     &extractRelatedBills($dbh,$outputFile);
     &extractBillVotes($dbh,$outputFile);
     &extractRepresentatives($dbh,$outputFile);
-    &extractRepresentativePhotos($dbh,$outputFile);
-    print OUTPUT "notee;\n";
-    print OUTPUT "\\w\n";
+    if($enableLogging == 1){
+	print OUTPUT "notee;\n";
+	print OUTPUT "\\w\n";
+    }
     # -Generate bill history table
     # -Insert Bills
     # congress_github_amendments

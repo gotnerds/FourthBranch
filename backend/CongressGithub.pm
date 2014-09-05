@@ -101,6 +101,98 @@ sub loadCongressGithubBills{
 	$sth->execute or warn "Failed to insert Bill($sql) $DBI::errstr\n";
     }
 }
+
+sub unusedloadRepresentativePhotos{
+    my $debug = 0;
+    my $dbh = $_[0];
+    my $outputFile = $_[1];
+
+    my $insertTemplate = "INSERT INTO congress_github_images (bioguide_id,#column#) VALUES('#bioguide#','#column_data#') ON DUPLICATE KEY UPDATE #column#='#column_data#';";
+    #open(OUTPUT,">>$outputFile") || die "Couldn't open $outputFile. SQL Error $DBI::errstr\n";
+    my $currentDirectory = cwd();
+    my @directories;
+    my $found225 = 0;
+    my $found450 = 0;
+    if(-e $currentDirectory."/initialData/images/225x275"){
+	$found225 = 1;
+    }
+    if(-e $currentDirectory."/initialData/images/450x550"){
+	$found450 = 1;
+    }
+    if(! -e $currentDirectory."/initialData/images/original"){
+	print "Couldn't find original image directory\n";
+	exit();
+    }
+    print "Parsing original directory\n";
+    opendir(INPUT,$currentDirectory."/initialData/images/original" ) || die "Couldn't open original directory. $!";
+   
+    while(my $photo = readdir(INPUT)){ 
+	
+	if($photo eq "." || $photo eq ".."){
+	    next;
+	}
+	my $sql = $insertTemplate;
+	$sql =~ s/#column#/original/g;
+	$photo =~ m@(.*)\..*$@;
+	my $id = $1;
+	$sql =~ s/#bioguide#/$id/g;
+	my $fileName = $currentDirectory."/initialData/images/original/".$photo;
+	$sql =~ s/#column_data#/$fileName/g;
+	if($debug == 1){
+	    print "Writing -->$sql\n";
+	}
+	my $sth = $dbh->prepare($sql);
+	$sth->execute or die "SQL Error: $DBI::errstr\n";
+    }
+
+    if($found225 == 1){
+	print "Parsing 225 directory\n";
+	opendir(INPUT,$currentDirectory."/initialData/images/225x275" ) || die "Couldn't open 225 directory. $!";
+	
+	while(my $photo = readdir(INPUT)){
+	    if($photo eq "." || $photo eq ".."){
+		next;
+	    }
+	    my $sql = $insertTemplate;
+	    $sql =~ s/#column#/225x275/g;
+	    $photo =~ m@(.*)\..*$@;
+	    my $id = $1;
+	    $sql =~ s/#bioguide#/$id/g;
+	    my $fileName = $currentDirectory."/initialData/images/225x275/".$photo;
+	    $sql =~ s/#column_data#/$fileName/g;
+	    if($debug == 1){
+		print "Writing -->$sql\n";
+	    }
+	    my $sth = $dbh->prepare($sql);
+	    $sth->execute or die "SQL Error: $DBI::errstr\n";
+	}
+    }
+
+    if($found450 == 1){
+	print "Parsing 450 directory\n";
+	opendir(INPUT,$currentDirectory."/initialData/images/450x550" ) || die "Couldn't open 450 directory. $!";
+	
+	while(my $photo = readdir(INPUT)){
+	    if($photo eq "." || $photo eq ".."){
+		next;
+	    }
+	    my $sql = $insertTemplate;
+	    $sql =~ s/#column#/450x550/g;
+	    $photo =~ m@(.*)\..*$@;
+	    my $id = $1;
+	    $sql =~ s/#bioguide#/$id/g;
+	    my $fileName = $currentDirectory."/initialData/images/450x550/".$photo;
+	    $sql =~ s/#column_data#/$fileName/g;
+	    if($debug == 1){
+		print "Writing -->$sql\n";
+	    }
+	    my $sth = $dbh->prepare($sql);
+	    $sth->execute or die "SQL Error: $DBI::errstr\n";
+	}
+
+    }
+}
+
 sub loadCongressGithubVotes{
     print "Installing Congress github votes. This can take 4 minutes.\n";
     my $debug = 0;
