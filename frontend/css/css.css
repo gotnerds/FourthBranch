@@ -23,7 +23,9 @@ ul li label, ul li input, ul li button, ul li a { float: left; display: inline-b
 
 table { color: inherit; }
 
-#bodyWrap { width: 90%; max-width: 1080px; margin-right: auto; margin-left: auto; }
+.bodyWrap { width: 90%; max-width: 1080px; margin-right: auto; margin-left: auto; }
+
+.right { float: right; }
 
 .clearLeft { zoom: 1; }
 
@@ -43,10 +45,67 @@ table { color: inherit; }
 .clearblock { display: block; }
 
 /* End hide from IE-mac */
-button { border: none; padding: 0 !important; cursor: pointer; color: white; outline: none; }
+button { border: none; padding: 0; cursor: pointer; color: white; outline: none; }
 
 .seal:before { content: url("../images/seal.png"); margin-right: 5px; }
 
+.fullWidth { width: 100%; border-top: 1px solid black; -webkit-box-shadow: 0 0 5px black; -moz-box-shadow: 0 0 5px black; box-shadow: 0 0 5px black; padding-bottom: 20px; }
+
+.blue { background-color: #2976cb; }
+
+/*  SECTIONS  */
+.section { clear: both; padding: 0px; margin: 0px; }
+
+/*  COLUMN SETUP  */
+.col { display: block; float: left; margin: 1% 0 1% 4%; }
+
+.first-child { margin-left: 0; }
+
+/*  GROUPING  */
+.group:before, .group:after { content: ""; display: table; }
+
+.group:after { clear: both; }
+
+.group { zoom: 1; /* For IE 6/7 */ }
+
+/*  GRID OF FOUR  */
+.span_5_of_5 { width: 100%; }
+
+.span_4_of_5 { width: 79.68%; }
+
+.span_3_of_5 { width: 59.36%; }
+
+.span_2_of_5 { width: 39.04%; }
+
+.span_1_of_5 { width: 18.72%; }
+
+.span_4_of_4 { width: 100%; }
+
+.span_3_of_4 { width: 74%; }
+
+.span_2_of_4 { width: 48%; }
+
+.span_1_of_4 { width: 22%; }
+
+.span_1_of_3 { width: 32%; }
+
+.span_2_of_3 { width: 64%; }
+
+.span_3_of_3 { width: 100%; }
+
+/*  GO FULL WIDTH AT LESS THAN 480 PIXELS */
+@media only screen and (max-width: 480px) { .col { margin: 1% 0 1% 0%; } }
+@media only screen and (max-width: 480px) { .span_4_of_4 { width: 100%; }
+  .span_3_of_4 { width: 100%; }
+  .span_2_of_4 { width: 100%; }
+  .span_1_of_4 { width: 50%; }
+  .span_1_of_3 { width: 100%; }
+  .span_2_of_3 { width: 100%; }
+  .span_5_of_5 { width: 100%; }
+  .span_4_of_5 { width: 100%; }
+  .span_3_of_5 { width: 100%; }
+  .span_2_of_5 { width: 100%; }
+  .span_1_of_5 { width: 100%; } }
 /* table login settings */
 table { padding-right: 10px; }
 table tr { vertical-align: top; font-size: 11px; }
@@ -64,6 +123,34 @@ table tr td label { padding-left: 1px; }
 .html7magic { padding-bottom: 4px; }
 
 .linkButton { background-color: transparent; }
+
+/* LOGIN MODAL */
+.double-border { background-color: white; border: 4px solid #CC0000; position: relative; }
+.double-border .button { background-color: #2F68D1; color: #FFFFFF; padding-top: 5px; padding-bottom: 5px; text-align: center; }
+
+.double-border:before { background: none; border: 4px solid #2F68D1; content: ""; display: block; position: absolute; top: 2px; left: 2px; right: 2px; bottom: 2px; pointer-events: none; }
+
+body.overlaid { -ms-user-select: none; -webkit-user-select: none; -moz-user-select: none; user-select: none; }
+
+body.overlaid div.overlay { -o-transform: translateY(0); -webkit-transform: translateY(0); -moz-transform: translateY(0); -ms-transform: translateY(0); transform: translateY(0); }
+
+div.overlay { -o-transform: translateY(-50000px); -webkit-transform: translateY(-50000px); -moz-transform: translateY(-50000px); -ms-transform: translateY(-50000px); transform: translateY(-50000px); z-index: 9999; position: fixed; width: 100%; height: 100%; top: 0; left: 0; background: rgba(0, 0, 0, 0.8); -webkit-user-select: auto; -ms-user-select: auto; -moz-user-select: auto; user-select: auto; }
+
+div.overlay > div.wrap-outer { position: relative; width: 100%; height: 100%; display: -ms-box; display: -webkit-box; display: -moz-box; display: box; -ms-box-orient: horizontal; -webkit-box-orient: horizontal; -moz-box-orient: horizontal; box-orient: horizontal; -ms-box-align: stretch; -webkit-box-align: stretch; -moz-box-align: stretch; box-align: stretch; -ms-box-pack: center; -webkit-box-pack: center; -moz-box-pack: center; box-pack: center; }
+
+div.overlay > div.wrap-outer > div.wrap { display: -ms-box; display: -webkit-box; display: -moz-box; display: box; -ms-box-orient: vertical; -webkit-box-orient: vertical; -moz-box-orient: vertical; box-orient: vertical; -ms-box-align: stretch; -webkit-box-align: stretch; -moz-box-align: stretch; box-align: stretch; -ms-box-pack: center; -webkit-box-pack: center; -moz-box-pack: center; box-pack: center; margin-left: -650px; margin-top: 50px; }
+
+div.overlay > div.wrap-outer > div.wrap > * { -ms-box-flex: 0; -webkit-box-flex: 0; -moz-box-flex: 0; box-flex: 0; display: block; }
+
+tbody tr td div form { margin-bottom: 4px; }
+
+form div { display: inline-block; font-size: 14px; font-size: 0.875rem; }
+form div p { font-size: 16px; font-size: 1rem; }
+form .left { width: 250px; text-align: right; }
+form .full { width: 100%; text-align: right; clear: both; display: inline-block; vertical-align: top; }
+form .full i { font-size: .8em; vertical-align: top; }
+
+textarea#reason { resize: none; background-color: white; }
 
 /* Header */
 #siteHeader { height: 183px; background: #0a2b95; -webkit-box-shadow: 0 0 5px black; -moz-box-shadow: 0 0 5px black; box-shadow: 0 0 5px black; }
@@ -87,7 +174,7 @@ table tr td label { padding-left: 1px; }
 #newsOfTheDay p { margin-bottom: .5rem; }
 
 /* Bill of the Day */
-.billOfTheDay { width: 74%; }
+.billOfTheDay { width: 74%; margin-bottom: 30px; }
 .billOfTheDay h1 { margin: 3% 0; }
 .billOfTheDay .bill { margin-left: 7%; width: 77%; border-radius: 10px; padding: 1%; }
 .billOfTheDay .billTitle h4 { margin-bottom: 0; position: relative; padding-bottom: 5px; float: left; border-bottom: 1px solid black; }
@@ -96,7 +183,7 @@ table tr td label { padding-left: 1px; }
 .billOfTheDay .postNavigation { text-align: right; font-size: 12px; font-size: 0.75rem; transform: color; cursor: pointer; }
 .billOfTheDay .postNavigation a { color: #2976cb; }
 .billOfTheDay .postNavigation a:hover { color: #0a2b95; }
-.billOfTheDay .postInfo { text-align: right; color: gray; font-size: 14px; font-size: 0.875rem; margin-bottom: 1%; }
+.billOfTheDay .postInfo { text-align: right; color: gray; font-size: 14px; font-size: 0.875rem; margin-bottom: 20px; }
 .billOfTheDay .postInfo .postAuthor, .billOfTheDay .postInfo .timeStamp { display: block; }
 
 .voteUser { position: relative; border-left: 1px solid #2976cb; border-right: 1px solid #c20000; font-weight: bold; display: inline-block; left: 60%; padding: 1%; -webkit-box-shadow: 0 0 5px black; -moz-box-shadow: 0 0 5px black; box-shadow: 0 0 5px black; font-size: 18px; font-size: 1.125rem; }
@@ -111,18 +198,19 @@ table tr td label { padding-left: 1px; }
 .share-buttons { display: block; margin-left: auto; margin-right: auto; width: 78.9%; padding-bottom: 30px; }
 
 .shareButton { width: 100px; height: 30px; font-size: 14px; font-size: 0.875rem; }
+.shareButton:hover { -webkit-box-shadow: inset 0 0 5px white; -moz-box-shadow: inset 0 0 5px white; box-shadow: inset 0 0 5px white; }
 
-.linkedin { background-color: #336699; box-shadow: rgba(255, 255, 255, 0.3) 0 1px 0, rgba(0, 0, 0, 0.6) 0 1px 0 inset; }
+.linkedin { background-color: #336699; -webkit-box-shadow: inset 0 0 2px black; -moz-box-shadow: inset 0 0 2px black; box-shadow: inset 0 0 2px black; }
 
-.twitter { background-color: #0099ff; box-shadow: rgba(255, 255, 255, 0.3) 0 1px 0, rgba(0, 0, 0, 0.6) 0 1px 0 inset; }
+.twitter { background-color: #0099ff; -webkit-box-shadow: inset 0 0 2px black; -moz-box-shadow: inset 0 0 2px black; box-shadow: inset 0 0 2px black; }
 
-.google { background-color: #ff3333; box-shadow: rgba(255, 255, 255, 0.3) 0 1px 0, rgba(0, 0, 0, 0.6) 0 1px 0 inset; }
+.google { background-color: #ff3333; -webkit-box-shadow: inset 0 0 2px black; -moz-box-shadow: inset 0 0 2px black; box-shadow: inset 0 0 2px black; }
 
-.facebook { background-color: #003399; box-shadow: rgba(255, 255, 255, 0.3) 0 1px 0, rgba(0, 0, 0, 0.6) 0 1px 0 inset; }
+.facebook { background-color: #003399; -webkit-box-shadow: inset 0 0 2px black; -moz-box-shadow: inset 0 0 2px black; box-shadow: inset 0 0 2px black; }
 
-.reddit { background-color: #ff9900; box-shadow: rgba(255, 255, 255, 0.3) 0 1px 0, rgba(0, 0, 0, 0.6) 0 1px 0 inset; }
+.reddit { background-color: #ff9900; -webkit-box-shadow: inset 0 0 2px black; -moz-box-shadow: inset 0 0 2px black; box-shadow: inset 0 0 2px black; }
 
-.comment { background-color: black; box-shadow: rgba(255, 255, 255, 0.3) 0 1px 0, rgba(0, 0, 0, 0.6) 0 1px 0 inset; }
+.comment { background-color: black; -webkit-box-shadow: inset 0 0 2px black; -moz-box-shadow: inset 0 0 2px black; box-shadow: inset 0 0 2px black; }
 
 .billDetails { padding-top: 20px; }
 
@@ -130,10 +218,44 @@ table tr td label { padding-left: 1px; }
 .billMapContainer h3 { margin-bottom: 20px; float: left; width: 37%; text-align: center; }
 .billMapContainer .billMap { position: relative; float: right; width: 58%; margin: 20px 0.5% 0 1.5%; max-height: 100%; }
 .billMapContainer .billMap img { max-height: 100%; max-width: 100%; }
-.billMapContainer .billMap .passRejectBar { background: #2976cb; /* Old browsers */ background: -moz-linear-gradient(left, #2976cb 0%, #c20000 100%); /* FF3.6+ */ background: -webkit-gradient(linear, left top, right top, color-stop(0%, #2976cb), color-stop(100%, #c20000)); /* Chrome,Safari4+ */ background: -webkit-linear-gradient(left, #2976cb 0%, #c20000 100%); /* Chrome10+,Safari5.1+ */ background: -o-linear-gradient(left, #2976cb 0%, #c20000 100%); /* Opera 11.10+ */ background: -ms-linear-gradient(left, #2976cb 0%, #c20000 100%); /* IE10+ */ background: linear-gradient(to right, #2976cb 0%, #c20000 100%); /* W3C */ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#2976cb', endColorstr='#c20000',GradientType=1 ); /* IE6-9 */ }
+.billMapContainer .billMap .passRejectSection { right: 5%; position: absolute; bottom: 0; width: 50%; }
+.billMapContainer .billMap .passRejectSection .passRejectBar { background: #2976cb; /* Old browsers */ background: -moz-linear-gradient(left, #2976cb 0%, #c20000 100%); /* FF3.6+ */ background: -webkit-gradient(linear, left top, right top, color-stop(0%, #2976cb), color-stop(100%, #c20000)); /* Chrome,Safari4+ */ background: -webkit-linear-gradient(left, #2976cb 0%, #c20000 100%); /* Chrome10+,Safari5.1+ */ background: -o-linear-gradient(left, #2976cb 0%, #c20000 100%); /* Opera 11.10+ */ background: -ms-linear-gradient(left, #2976cb 0%, #c20000 100%); /* IE10+ */ background: linear-gradient(to right, #2976cb 0%, #c20000 100%); /* W3C */ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#2976cb', endColorstr='#c20000',GradientType=1 ); /* IE6-9 */ right: 5%; color: white; border: 2px solid black; padding: 0px 3px; }
+.billMapContainer .billMap .passRejectSection .percentages { font-size: 14px; font-size: 0.875rem; }
 .billMapContainer .billMapStatistics { width: 40%; float: right; }
-.billMapContainer .billMapStatistics li { color: white; font-weight: bold; text-align: center; padding: 5px; width: 50%; margin: 0 0 5px 20%; cursor: pointer; transition: color 1.7s; transition: background-color .3s; background-color: black; box-shadow: rgba(255, 255, 255, 0.3) 0 1px 0, rgba(0, 0, 0, 0.6) 0 1px 0 inset; box-shadow: none; }
+.billMapContainer .billMapStatistics li { color: white; font-weight: bold; text-align: center; padding: 5px; width: 50%; margin: 0 0 5px 20%; cursor: pointer; transition: color 1.7s; transition: background-color .3s; background-color: black; -webkit-box-shadow: inset 0 0 2px black; -moz-box-shadow: inset 0 0 2px black; box-shadow: inset 0 0 2px black; box-shadow: none; }
 .billMapContainer .billMapStatistics li:hover { color: black; background-color: white; }
 .billMapContainer .billMapStatistics #stateMap { width: 53%; margin: 15px 0 5px 20%; }
 
-/* Media Queries */
+/* Trending Comments */
+.trendingComments { display: block; margin-left: auto; margin-right: auto; }
+
+.trendingCommentsBox { box-shadow: inset 0 0 1px black; transition: box-shadow; }
+.trendingCommentsBox .trendingCommentsBoxDesc { height: 230px; position: relative; overflow: hidden; }
+.trendingCommentsBox .trendingCommentsBoxDesc:hover { box-shadow: inset 0 0 5px black; cursor: pointer; }
+.trendingCommentsBox .trendingCommentsBoxDesc .trendingCommentsBoxText { position: absolute; top: 0; left: 0; }
+.trendingCommentsBox .trendingCommentsBoxDesc .trendingCommentsBoxImage { position: absolute; z-index: 2; top: 230px; width: 100%; max-height: 100%; }
+.trendingCommentsBox .trendingCommentsBoxDesc .trendingCommentsBoxImage img { max-height: 100%; }
+.trendingCommentsBox span { font-size: 12px; font-size: 0.75rem; text-indent: 5px; display: inline-block; padding: 5px; }
+.trendingCommentsBox .trendingCommentsBoxUser { font-size: 14px; font-size: 0.875rem; text-align: center; box-shadow: inset 0 0 1px black; width: 100%; display: block; padding: 5px 0; }
+.trendingCommentsBox .trendingCommentsBoxUser:hover { cursor: pointer; }
+
+.addComment { box-shadow: inset 0 0 1px black; margin-bottom: 0; }
+.addComment textarea { resize: none; height: 230px; text-align: left; max-width: 100%; margin: 0; padding: 0; border: none; background: transparent; }
+.addComment .submit { text-align: center; box-shadow: inset 0 0 1px black; width: 100%; display: block; padding: 5px 0; }
+
+/* TOMORROW'S BILL */
+.tomorrowsBill .tomorrowsBillBox, .tomorrowsBill .tomorrowsBillParticipateBox { background-color: white; -webkit-box-shadow: 0 0 5px black; -moz-box-shadow: 0 0 5px black; box-shadow: 0 0 5px black; }
+.tomorrowsBill .tomorrowsBillTitle h4 { margin: 15px; border-bottom: black solid 1px; padding-bottom: 2px; }
+.tomorrowsBill .tomorrowsBillBox p { margin: 15px; }
+.tomorrowsBill .tomorrowsBillParticipateBox { transition: box-shadow 0.2s ease-out; moz-transition: box-shadow 0.2s ease-out; o-transition: box-shadow 0.2s ease-out; webkit-transition: box-shadow 0.2s ease-out; }
+.tomorrowsBill .tomorrowsBillParticipateBox:hover { -webkit-box-shadow: 0 0 15px black; -moz-box-shadow: 0 0 15px black; box-shadow: 0 0 15px black; cursor: pointer; }
+.tomorrowsBill .tomorrowsBillParticipateBox .tomorrowsBillParticipateTitle { height: 61px; border-bottom: 1px solid black; }
+.tomorrowsBill .tomorrowsBillParticipateBox .tomorrowsBillParticipateTitle h4 { font-size: 24px; font-size: 1.5rem; margin: 0; text-align: center; line-height: 61px; }
+.tomorrowsBill .tomorrowsBillParticipateBox p { margin: 15px; text-align: center; }
+
+/* FOOTER */
+footer { background-color: #e65341; -webkit-box-shadow: 0 0 5px black; -moz-box-shadow: 0 0 5px black; box-shadow: 0 0 5px black; }
+footer a { color: black; transition: text-shadow 0.2s ease-out; moz-transition: text-shadow 0.2s ease-out; o-transition: text-shadow 0.2s ease-out; webkit-transition: text-shadow 0.2s ease-out; }
+footer a:hover { text-shadow: 0 1px 0 black; cursor: pointer; }
+footer p { display: inline-block; margin-left: 5%; margin-right: 5%; font-size: 12px; font-size: 0.75rem; }
+footer .slogan { float: right; }

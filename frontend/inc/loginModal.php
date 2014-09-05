@@ -5,17 +5,17 @@
 				<div style='margin: 15px 15px 15px 15px'>
 					<div style="cursor: pointer;float:right;background-image: url(http://thefourthbranch.co/TheFourthBranch/image/x.png);height:24px;width:24px;" class="xbut">
 					</div>
-					<h2 style='text-align:center;clear:both;'>
+					<h4 style='text-align:center;clear:both;'>
 						Login or Sign Up
-					</h2>																				
+					</h4>																				
 					<form action="" name="llLogin" id="llLogin" method="post">
 						<input type='email' id="username" name="username" size='20' placeholder='Email' />
 						<input type='password' size='20' id="password" name="password" placeholder='Password' />
-						<div style='overflow:hidden;'>
+						<div style='display:block;overflow:hidden;'>
 							<button class='button' name='login-button' type="submit" style='cursor: pointer;width:100px;float:left;margin-left:15px;font-size:larger;'>
 								Login
 							</button>
-							<button class='button' onclick='introduction();' style='cursor: pointer;width:100px;float:right;margin-right:20px;font-size:larger;'>
+							<button class='button' onclick='event.preventDefault(); introduction();' style='cursor: pointer;width:100px;float:right;margin-right:20px;font-size:larger;'>
 								Sign Up
 							</button>
 						</div>
@@ -29,21 +29,21 @@
 				<div style='margin: 15px 15px 15px 15px'>
 					<div style="cursor: pointer;float:right;background-image: url(http://thefourthbranch.co/TheFourthBranch/image/x.png);height:24px;width:24px;" class="xbut"></div>
 					<br style="clear:both;" />
-					<h3>
+					<h4 style="text-align:center;">
 						Generate a temporary log in password
-					</h3>
-					<form id="forgotpass" name="forgotten" onsubmit=''>
-					<p align="center" >
+					</h4>
+					<form id="forgotpass" name="forgotten" action="" method='post'>
+					<label for="forgottenEmail" align="center">
 						Step 1: Enter Your Email Address
-					</p>
-					<input type='text'  style="width:100%;" id="forgot" name="forgot">
+					</label>
+					<input type='text'  style="width:100%;" id="forgottenEmail" name="forgottenEmail">
 					<br />
 					<br />
-					<button class='button' name='forgot-button' type="submit"  style="float:left;">
+					<button class='button' name='forgot-button' type="submit"  style="float:left;padding:5px;">
 						Generate Temporary Log In Password
 					</button>  											
 					</form>
-						<button class="button" style="cursor: pointer;float:right;" onclick='closeOverlaid();' id="button">
+						<button class="button" style="cursor:pointer;float:right;padding:5px;" onclick='closeOverlaid();' id="button">
 							Exit
 						</button>
 					<br style="clear:both;" />  											
@@ -52,9 +52,9 @@
 			<div class="double-border" id='forgot2' style='position:fixed; top: 50%; left: 50%;margin-top:-100px;margin-left:-200px;'>
 				<div style="margin: 15px 15px 15px 15px">
 				<div style="cursor: pointer;float:right;background-image: url(http://thefourthbranch.co/TheFourthBranch/image/x.png);height:24px;width:24px;" class="xbut"></div>
-				<h3 style="clear:both;"align="center">
+				<h4 style="clear:both;"align="center">
 					Step 2:
-				</h3>
+				</h4>
 				<p>
 					Check your email inbox in a few minutes.
 				</p>
@@ -72,9 +72,9 @@
 				<div style="margin: 15px 15px 15px 15px">
 					<div style="cursor: pointer;float:right;background-image: url(http://thefourthbranch.co/TheFourthBranch/image/x.png);height:24px;width:24px;" class="xbut"></div>
 					<br style="clear:both;" />
-					<h3 align='center' >
+					<h4 align='center' >
 						Are you an Individual or Organization?
-					</h3>
+					</h4>
 					<button class='button' 
 							  onclick='individual();' 
 							  style='font-size:larger;position:relative; float: left; width: 120px; margin-left: 25px;'
@@ -182,8 +182,8 @@
 								    <input type='text' style="width:150px;display:none;" name='otherBox' id='otherBox' placeholder='If other, please enter here' /> 
 								</div>
 						</div>
-						<div class="left" style="margin:15px;text-align:center;">
-							<p>
+						<div class="full" style="margin:15px;text-align:center;">
+							<p style="margin:0;">
 							By clicking sign up you agree to our 
 								<a href="policy.php" target="_newtab" onclick="window.open('policy.php','_newtab');" style="color:red;">
 									The Fourth Branch Terms
@@ -342,7 +342,7 @@
                   	<div class="right">
               			<label for="reason">Reasons for Joining:</label>
               			</br>
-		  				<textarea id='reason' name='reasons' cols='35' rows='7' style='background-color: #E6E6E6; color:black;'></textarea>
+		  				<textarea id='reason' name='reasons' cols='35' rows='7' style='color:black;'></textarea>
 		  			</div>
 				  	<script type="text/javascript" >
 						function readURL(input) {
@@ -359,7 +359,7 @@
 						});	
 					</script>
 				  	<div style="clear:both;"></div>
-				  	<div style="clear:right;overflow:hidden;">
+				  	<div style="clear:right;overflow:hidden;display:block;">
 				  		<button type="button" onclick='organization2();' class='button' style='cursor: pointer;width: 100px; float:right; margin-left: 25px;'>
 				  			Next
 				  		</button>
@@ -401,7 +401,7 @@
 							<input type='email' name='emailO' id='emailO' size='25' />
 						</div>
 						<div style="height:15px;"></div>
-						<div style="clear:both;overflow:hidden">
+						<div style="clear:both;overflow:hidden;display:block;">
 							<button class='button' type="button" onclick='organization3();' style='cursor: pointer;float: right; width: 100px; margin-left: 25px;'>
 								Next
 							</button>
@@ -412,7 +412,7 @@
                     </form>
                 </div>
             </div>
-			<div id='organization3' class="double-border" style='position:fixed; top: 50%; left: 50%;width:520px;margin-top:-150px;margin-left:-260px;'>
+			<div id='organization3' class="double-border" style='padding:15px;position:fixed; top: 50%; left: 50%;width:520px;margin-top:-150px;margin-left:-260px;'>
 				<div style="margin: 15px 15px 15px 15px;">
 					<div style="float:right;overflow:hidden;">
 						<div style="cursor: pointer;float:right;background-image: url(http://thefourthbranch.co/TheFourthBranch/image/x.png);height:24px;width:24px;" class="xbut"></div>											
@@ -448,7 +448,7 @@
 								Privacy Policy</a>.
                             </p>
 						</div>
-						<div style="overflow:hidden;float:right">	
+						<div style="overflow:hidden;float:right;">	
                         	<button class='button' type="button" onclick="mergeForms('signupOrganization', 'signupOrganization3', 'signupOrganization2');" name='addOrganization-button' id='addOrganization-button' style='cursor: pointer;float: right; width: 100px; margin-left: 25px;'>
 								Sign Up
 							</button>

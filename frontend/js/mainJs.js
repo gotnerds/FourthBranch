@@ -9,6 +9,7 @@ function introduction(){
 	$('#a, #individual, #organization').hide();
 }
 function a(){
+	$("input[name='voteUser']").prop('checked',false);
 	if ($('body').hasClass('overlaid')) {
 	} else {
 	$('body').addClass('overlaid');
@@ -59,8 +60,39 @@ function mergeForms() {
     });
     $(targetForm).submit();
 }
+function trendingCommentsBoxUser() {
+	$('.trendingCommentsBoxUser').mouseover(function() {
+	$(this.id).parent().find('span').html('<img src="../images/user.jpg" class="boxUserImage">');
+	});
+}
+$.fn.equalizeHeights = function(){
+  return this.height( Math.max.apply(this, $(this).map(function(i,e){ return $(e).height() }).get() ) )
+}
 
 $(document).ready(function(){
-	$('.xbut').click(closeOverlaid());
+	$('.tomorrowsBillParticipateBox, .tomorrowsBillBox').equalizeHeights();
+	$('.double-border').find('.xbut').click(function(){
+		closeOverlaid();
+	});
 	$('#a, #forgot, #forgot2, #introduction, #individual, #confirm, #confirm2, #organization, #organization2, #organization3').hide();
+    var height = $('tomorrowsBillBox').find('p').height();
+    $('.tomorrowsBillParticipateBox').find('p').height(height)
+    $('.trendingCommentsBoxUser').hover(
+    function () {
+        $(this).siblings('.trendingCommentsBoxDesc').children('.trendingCommentsBoxImage').animate({ "top": "-=230px" }, "slow" );
+    },
+    function () {
+        $(this).siblings('.trendingCommentsBoxDesc').children('.trendingCommentsBoxImage').animate({ "top": "+=230px" }, "slow" );
+    });
+
+});
+$(document).mouseup(function (e)
+{
+    var container = $(".double-border");
+
+    if (!container.is(e.target) // if the target of the click isn't the container...
+        && container.has(e.target).length === 0) // ... nor a descendant of the container
+    {
+    	closeOverlaid();
+    }
 });
