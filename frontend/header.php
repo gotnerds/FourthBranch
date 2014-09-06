@@ -1,7 +1,7 @@
 <?php
 include "./inc/jsonencode.php";
 if (isset($_POST)) {
-    include "./inc/functions.php";
+   // include "./inc/functions.php";
     include "./inc/db_conx.php";
 }
 ?>
@@ -12,6 +12,8 @@ if (isset($_POST)) {
   <title>The Fourth Branch</title>
   <meta name="description" content="Keeping you updated and involved in the ongoing political process." />
   <meta name="author" content="The Fourth branch" />
+  <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="images/favicon.ico" type="image/x-icon">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link href="css/css.css" type="text/css" rel="stylesheet" media="screen, projection">
 <!-- for online access
@@ -23,12 +25,14 @@ if (isset($_POST)) {
   <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
 <!-- authentication info -->
+<!-- HIDE POST
 <?php
 if (isset($_POST)) {
     include "./inc/functionsthen.php";
     print_r($_POST);
 }
 ?>
+-->
 </head>
 <body>
     <?php include "./inc/loginModal.php"; ?>

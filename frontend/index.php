@@ -2,18 +2,8 @@
 <div class="bodyWrap">
 <?php
 include("./inc/notd.php");
-$sql = mysqli_query($db_conx, "SELECT * FROM bills WHERE id = 1");
-$billOfTheDay = mysqli_fetch_array($sql);
-$billOfTheDayHtml = "C:\Ampps\www\FourthBranch\FourthBranch\outside_resources\\".str_replace("/", "\\", $billOfTheDay['local_html']);
-$billHtml = fopen($billOfTheDayHtml, "r");
-$billHtmlSnippit = fread($billHtml,"500");
-fclose($billHtml);
-$sql2 = mysqli_query($db_conx, "SELECT * FROM bills WHERE id = 2");
-$tomorrowsBill = mysqli_fetch_array($sql2);
-$tomorrowsBillHtml = "C:\Ampps\www\FourthBranch\FourthBranch\outside_resources\\".str_replace("/", "\\", $tomorrowsBill['local_html']);
-$TomorrowsBillHtml = fopen($tomorrowsBillHtml, "r");
-$tomorrowsBillHtmlSnippit = fread($TomorrowsBillHtml,"150");
-fclose($TomorrowsBillHtml); 
+include("./inc/getBillOfTheDay.php");
+include("./inc/getTomorrowsBill.php");
 ?>
 <section class="billOfTheDay">
     <h1 class="seal">BILL OF THE DAY</h1>
@@ -23,7 +13,7 @@ fclose($TomorrowsBillHtml);
             <?php echo $billOfTheDay["title"] ?></h4>
             <span>(Section 3 of 9)</span>
         </div>
-        <p class="billDescription"><?php echo $billHtmlSnippit; ?></pre></p>
+        <p class="billDescription"><?php $pos=strpos($billJsonSnippit, ' ', 417); echo substr($billJsonSnippit, strpos($billJsonSnippit, "- ") + 2, $pos - 1)."..."; ?></pre></p>
         <p class="postNavigation">
             <span><a>PREVIOUS</a> | <a>NEXT</a></span>
         </p>
@@ -41,7 +31,7 @@ fclose($TomorrowsBillHtml);
             });
         </script>
         <?php } ?>
-        <form class="voteUser" action="" method="POST">
+        <form class="voteUser hasRadio" action="" method="POST">
             <input type="radio" class="votePass" name="voteUser" id="pass" value="pass" onChange="<?php
                 if(isset($_SESSION)){
                     if(isset($_SESSION['voteUser'])) {
@@ -213,7 +203,7 @@ fclose($TomorrowsBillHtml);
                     <h4><?php echo strtoupper($tomorrowsBill['code']) ?>:</br>
                     <?php echo $tomorrowsBill['title'] ?></h4>
                 </div>
-                <p><?php echo $tomorrowsBillHtmlSnippit; ?></pre></p>
+                <p><?php $pos=strpos($tomorrowsBillJsonSnippit, ' ', 417); echo substr($tomorrowsBillJsonSnippit, strpos($tomorrowsBillJsonSnippit, "- ") + 2, $pos - 1)."..."; ?></pre></p>
             </div>
             <div class="tomorrowsBillParticipateBox col span_1_of_3">
                 <div class="tomorrowsBillParticipateTitle">
