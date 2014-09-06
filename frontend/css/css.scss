@@ -16,6 +16,14 @@ $red: #C20000;
   font-size: calculateRem($size);
 }
 
+@mixin flexCenter($direction:row, $wrap:wrap) {
+	display: flex;
+	flex-direction: $direction;
+	flex-wrap: $wrap;
+	justify-content: center;
+	align-items: center;	    
+}
+
 @mixin buttonBackground($color) {
 	background-color: $color;
 	@include box-shadow(0,0,2px,black,true);
@@ -259,7 +267,7 @@ button {
   	width: 39.04%;
 }
 .span_1_of_5 {
-  	width: 18.72%;
+  	width: 16.8%;
 }
 .span_4_of_4 {
 	width: 100%;
@@ -327,7 +335,11 @@ button {
 		width: 100%; 
 	}
 }
-
+.columnBottom {
+	display:flex;
+	flex-direction: column;
+	justify-content:flex-end;
+}
 /* table login settings */
 table {
 	padding-right:10px;
@@ -382,7 +394,7 @@ vertical-align: baseline;
     border: 4px solid #CC0000;
     position: relative;
     .button {
-    	background-color: #2F68D1;
+    	background-color: $blue;
 		color: #FFFFFF;
 		padding-top:5px;
 		padding-bottom:5px;	
@@ -590,9 +602,13 @@ textarea#reason {
 		padding-bottom:5px;
 		margin-bottom:10px;
 		border-bottom: black 1px solid;
+		color: $red;
 	}
 	p {
 		margin-bottom:.5rem;
+	}
+	.notdLinks {
+		padding-bottom:10px;
 	}
 }
 
@@ -604,50 +620,49 @@ textarea#reason {
 	h1 {
 		margin:3% 0;
 	}
-	.bill {
-		margin-left:7%;
-		width: 77%;
-		border-radius: 10px;
-		padding: 1%;
+}
+.bill {
+	margin-left:7%;
+	width: 77%;
+	padding: 1%;
+}
+.billTitle {
+	h4 {
+		margin-bottom:0;
+		position:relative;
+		padding-bottom : 5px;
+		float:left;
+		border-bottom:1px solid black;
 	}
-	.billTitle {
-		h4 {
-			margin-bottom:0;
-			position:relative;
-			padding-bottom : 5px;
-			float:left;
-			border-bottom:1px solid black;
-		}
-		span {
-			color: $darkBlue;
-			@include font-size(14px);
-			clear:left;
-			display:block;
-		}
-		.billDescription {
-			margin:1%;
-		}
-	}
-	.postNavigation {
-		text-align:right;
-		@include font-size(12px);
-		transform:color;
-		cursor:pointer;
-			a{
-			color:$blue;
-			&:hover {
-				color: $darkBlue;
-			}
-		}
-	}
-	.postInfo {
-		text-align: right;
-		color: lighten(black, 50%);
+	span {
+		color: $darkBlue;
 		@include font-size(14px);
-		margin-bottom:20px;
-		.postAuthor, .timeStamp {
-			display:block;
+		clear:left;
+		display:block;
+	}
+	.billDescription {
+		margin:1%;
+	}
+}
+.postNavigation {
+	text-align:right;
+	@include font-size(12px);
+	transform:color;
+	cursor:pointer;
+		a{
+		color:$blue;
+		&:hover {
+			color: $darkBlue;
 		}
+	}
+}
+.postInfo {
+	text-align: right;
+	color: lighten(black, 50%);
+	@include font-size(14px);
+	margin-bottom:20px;
+	.postAuthor, .timeStamp {
+		display:block;
 	}
 }
 .voteUser {
@@ -788,6 +803,7 @@ textarea#reason {
 	display:block;
 	margin-left:auto;
 	margin-right:auto;
+	padding-bottom:30px;	
 }
 .trendingCommentsBox {
 	box-shadow:inset 0 0 1px black;
@@ -880,6 +896,18 @@ textarea#reason {
 			@include box-shadow(0, 0, 15px);
 			cursor:pointer;
 		}
+		.button {
+			background-color: #2F68D1;
+			color: #FFFFFF;
+			padding-top: 10px;
+			padding-bottom: 10px;
+			text-align: center;
+			width: 120px;
+			position: relative;
+			left: 50%;
+			margin-left: -60px;
+			font-size: 1.2em;
+		}
 		.tomorrowsBillParticipateTitle {
 			height: 61px;
 			border-bottom: 1px solid black;
@@ -917,5 +945,77 @@ footer {
 	}
 	.slogan {
 		float:right;
+	}
+}
+.votePage {
+
+	.voteSearch {
+		width:100%;
+		.searchBox {
+			width:100%;
+			height:200px;
+			@include colorBorder;
+			@include flexCenter(column, nowrap);
+		}
+		input[type="radio"] {
+			display:none;
+		}
+		.searchKeywords {
+			text-align: center;
+			display:block;
+		}
+		.searchSortBy {
+			display:block;
+			h4 {
+				display:inline-block;
+			}
+			.button {
+				cursor:pointer;
+				&:hover {
+					@include box-shadow(0,0,5px,white,true);
+				}
+				&:active {
+					background-color: $red;
+				}
+			}
+		}
+	    .button {
+	    	background-color: $blue;
+			color: #FFFFFF;
+			padding:5px;
+			text-align: center;
+		}
+	}
+
+	.bill {
+		width:auto;
+		margin-left:0;
+		margin-bottom: 20px;
+		border-bottom: 1px solid black;
+		&:last-child {
+			border-bottom:none;
+		}
+		p {
+			font-size:.95em;
+			text-indent:20px;
+		}
+	}
+	.postInfo {
+		margin-bottom: 15px;
+	}
+	.voteUserBox {
+		@include flexCenter;
+		.voteUser {
+			left:auto;
+		}
+	}
+	.share-buttons {
+		text-align:center;
+		width:auto;
+	}
+}
+.proposalPage {
+	.introduction {
+		border: 1px solid black;
 	}
 }

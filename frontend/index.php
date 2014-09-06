@@ -2,18 +2,28 @@
 <div class="bodyWrap">
 <?php
 include("./inc/notd.php");
+$sql = mysqli_query($db_conx, "SELECT * FROM bills WHERE id = 1");
+$billOfTheDay = mysqli_fetch_array($sql);
+$billOfTheDayHtml = "C:\Ampps\www\FourthBranch\FourthBranch\outside_resources\\".str_replace("/", "\\", $billOfTheDay['local_html']);
+$billHtml = fopen($billOfTheDayHtml, "r");
+$billHtmlSnippit = fread($billHtml,"500");
+fclose($billHtml);
+$sql2 = mysqli_query($db_conx, "SELECT * FROM bills WHERE id = 2");
+$tomorrowsBill = mysqli_fetch_array($sql2);
+$tomorrowsBillHtml = "C:\Ampps\www\FourthBranch\FourthBranch\outside_resources\\".str_replace("/", "\\", $tomorrowsBill['local_html']);
+$TomorrowsBillHtml = fopen($tomorrowsBillHtml, "r");
+$tomorrowsBillHtmlSnippit = fread($TomorrowsBillHtml,"150");
+fclose($TomorrowsBillHtml); 
 ?>
 <section class="billOfTheDay">
     <h1 class="seal">BILL OF THE DAY</h1>
     <article class="bill">
         <div class="billTitle">
-            <h4>H.R. 4315:</br>
-            21st Century Endangered Species Transparency Act</h4>
+            <h4><?php echo strtoupper($billOfTheDay["code"]); ?>:</br>
+            <?php echo $billOfTheDay["title"] ?></h4>
             <span>(Section 3 of 9)</span>
         </div>
-        <p class="billDescription">Amends MAP-21 to extend for the same period the authorization of appropriations for National Highway Safety Administration (NHTSA) safety programs, including: (1) highway safety research and development, (2) national priority safety programs, (3) the National Driver Register, (4) the High Visibility Enforcement Program, and (5) NHTSA administrative expenses.
-
-        Amends SAFETEA-LU to extend for the same period high-visibility traffic safety law enforcement campaigns under the High Visibility Enforcement Program.</p>
+        <p class="billDescription"><?php echo $billHtmlSnippit; ?></pre></p>
         <p class="postNavigation">
             <span><a>PREVIOUS</a> | <a>NEXT</a></span>
         </p>
@@ -32,7 +42,12 @@ include("./inc/notd.php");
         </script>
         <?php } ?>
         <form class="voteUser" action="" method="POST">
-            <input type="radio" class="votePass" name="voteUser" id="pass" value="pass" onChange="this.form.submit()" />
+            <input type="radio" class="votePass" name="voteUser" id="pass" value="pass" onChange="<?php
+                if(isset($_SESSION)){
+                    if(isset($_SESSION['voteUser'])) {
+                        ?>"preventDefault()"<?php
+                    } else {
+                    ?>"this.form.submit()"<?php } } else { ?>"a()"<?php } ?> />
             <label for="pass">PASS<span></span></label>
             <input type="radio" name="voteUser" class="voteReject" id="reject" value="reject" onChange=<?php 
             if(isset($_SESSION)){
@@ -104,6 +119,8 @@ include("./inc/notd.php");
             </ul>
         </div>
     </article>
+</section>
+<section id="comments">
     <article>
         <h3>Trending Comments</h3>
         <!--
@@ -193,16 +210,17 @@ include("./inc/notd.php");
         <div class="section group">
             <div class="tomorrowsBillBox col span_2_of_3 first-child">
                 <div class="tomorrowsBillTitle">
-                    <h4>H.R. 4315:</br>
-                    21st Century Endangered Species Transparency Act</h4>
+                    <h4><?php echo strtoupper($tomorrowsBill['code']) ?>:</br>
+                    <?php echo $tomorrowsBill['title'] ?></h4>
                 </div>
-                <p>Amends MAP-21 to extend for the same period the authorization of appropriations for National Highway Safety Administration (NHTSA) safety programs, including: (1) highway safety research and development, (2) national priority safety programs, (3) the National Driver Register, (4) the High Visibility Enforcement Program, and (5) NHTSA administrative expenses. Amends SAFETEA-LU to extend for the same period high-visibility traffic safety law enforcement campaigns under the High Visibility Enforcement Program.</p>
+                <p><?php echo $tomorrowsBillHtmlSnippit; ?></pre></p>
             </div>
             <div class="tomorrowsBillParticipateBox col span_1_of_3">
                 <div class="tomorrowsBillParticipateTitle">
                     <h4>Participate</h4>
                 </div>
                 <p>Click here to submit a nonpartisan summary of tomorrow's bill of the day</p>
+                <button class="button" onclick="window.location.href='tomorrowsBill.php'">Participate</button>
             </div>
         </div>
     </article>

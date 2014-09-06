@@ -2,6 +2,7 @@
 include "./inc/jsonencode.php";
 if (isset($_POST)) {
     include "./inc/functions.php";
+    include "./inc/db_conx.php";
 }
 ?>
 <!DOCTYPE html>
@@ -94,7 +95,7 @@ if (isset($_POST)) {
         </section>
         <div id="logo" role="banner"><img src="images/logo.png" width="600" /></div>
         <nav id="mainNav" role="navigation">
-        	<a href="home.php">Home</a>
+        	<a href="index.php">Home</a>
         	<a href="vote.php">Vote</a>
         	<a href="proposal.php">Proposal</a>
         	<a href="news.php">News</a>

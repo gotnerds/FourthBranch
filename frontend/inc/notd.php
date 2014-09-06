@@ -2,26 +2,18 @@
     <h4>News of the Day</h4>
     <picture class="notdLinks">
         <p>Politics</p>
-        <source srcset="./images/notd1.jpg" media="(max-width: 768px)">
-        <source srcset="./images/notd1.jpg">
-        <img srcset="./images/notd1.jpg" alt="My default image">
+        <img src="./images/notd1.jpg" alt="Politics">
     </picture>
     <picture class="notdLinks">
-        <p>Politics</p>
-        <source srcset="./images/notd2.jpg" media="(max-width: 768px)">
-        <source srcset="./images/notd2.jpg">
-        <img srcset="./images/notd2.jpg" alt="My default image">
+        <p>Business</p>
+        <img src="./images/notd2.jpg" alt="Business">
     </picture>
     <picture class="notdLinks">
-        <p>Politics</p>
-        <source srcset="./images/notd3.jpg" media="(max-width: 768px)">
-        <source srcset="./images/notd3.jpg">
-        <img srcset="./images/notd3.jpg" alt="My default image">
+        <p>World</p>
+        <img src="./images/notd3.jpg" alt="World">
     </picture>
     <picture class="notdLinks">
-        <p>Politics</p>
-        <source srcset="./images/notd4.jpg" media="(max-width: 768px)">
-        <source srcset="./images/notd4.jpg">
-        <img srcset="./images/notd4.jpg" alt="My default image">
+        <p>News as Usual</p>
+        <img src="./images/notd4.jpg" alt="News as Usual">
     </picture>
 </aside>
