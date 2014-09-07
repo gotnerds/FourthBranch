@@ -13,7 +13,7 @@ include("./inc/getTomorrowsBill.php");
             <?php echo $billOfTheDay["title"] ?></h4>
             <span>(Section 3 of 9)</span>
         </div>
-        <p class="billDescription"><?php $pos=strpos($billJsonSnippit, ' ', 417); echo substr($billJsonSnippit, strpos($billJsonSnippit, "- ") + 2, $pos - 1)."..."; ?></pre></p>
+        <p class="billDescription"><?php $pos=strpos($billJsonSnippit, ' ', 417); echo substr($billJsonSnippit, strpos($billJsonSnippit, "- ") + 2, $pos - 1)."..."; ?></p>
         <p class="postNavigation">
             <span><a>PREVIOUS</a> | <a>NEXT</a></span>
         </p>
@@ -203,7 +203,7 @@ include("./inc/getTomorrowsBill.php");
                     <h4><?php echo strtoupper($tomorrowsBill['code']) ?>:</br>
                     <?php echo $tomorrowsBill['title'] ?></h4>
                 </div>
-                <p><?php $pos=strpos($tomorrowsBillJsonSnippit, ' ', 417); echo substr($tomorrowsBillJsonSnippit, strpos($tomorrowsBillJsonSnippit, "- ") + 2, $pos - 1)."..."; ?></pre></p>
+                <p><?php $pos=strpos($tomorrowsBillJsonSnippit, ' ', 417); echo substr($tomorrowsBillJsonSnippit, strpos($tomorrowsBillJsonSnippit, "- ") + 2, ($pos - strpos($tomorrowsBillJsonSnippit, "- ") - 2))."..."; ?></pre></p>
             </div>
             <div class="tomorrowsBillParticipateBox col span_1_of_3">
                 <div class="tomorrowsBillParticipateTitle">
