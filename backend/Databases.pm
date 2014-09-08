@@ -105,7 +105,9 @@ create table bills
  code VARCHAR(50),
  local_html TEXT,
  open VARCHAR(5),
- PRIMARY KEY(id)
+ local_json TEXT,
+ local_xml TEXT,
+PRIMARY KEY(id)
 );
 END_BILL_TABLE
     ;
@@ -443,7 +445,7 @@ sub extractBills{
     my @columns = ("title","state","url","code","open","local_html");
     my @columnTypes = ("VARCHAR(100)","VARCHAR(50)","TEXT","VARCHAR(50)","VARCHAR(5)","TEXT");
 
-    my $billBufferColumns = "id, official_title, bill_type, status, updated_at, status_at, bill_id, subjects_top_term, enacted_as, number, short_title, introduced_at, congress, by_request, popular_title, bill_html, history, related_bills";
+    my $billBufferColumns = "id, official_title, bill_type, status, updated_at, status_at, bill_id, subjects_top_term, enacted_as, number, short_title, introduced_at, congress, by_request, popular_title, bill_html, history, related_bills,bill_json,bill_xml";
     my $sql = "SELECT $billBufferColumns from congress_github_bills;";
     if($debug == 1){
 	print "Execute -->$sql\n";
@@ -451,12 +453,18 @@ sub extractBills{
     my $sth = $dbh->prepare($sql);
     $sth->execute or die "SQL Error: $DBI::errstr\n"; 
     while(my @row = $sth->fetchrow_array){
-	my ($id, $official_title, $bill_type, $status, $updated_at, $status_at, $bill_id, $subjects_top_term, $enacted_as, $number, $short_title, $introduced_at, $congress, $by_request, $popular_title, $localHtml, $history, $related_bills) = @row;
+	my ($id, $official_title, $bill_type, $status, $updated_at, $status_at, $bill_id, $subjects_top_term, $enacted_as, $number, $short_title, $introduced_at, $congress, $by_request, $popular_title, $localHtml, $history, $related_bills,$localJson,$localXml) = @row;
 	if (defined($localHtml)){
 	    $localHtml =~ s/.*(initialData.*)$/$1/;
 	}
-	my @insertBillColumns = ("title","status","url","code","open","local_html");
-	my @insertBillData = ($official_title,$status,"NULL",$bill_id,"NULL",$localHtml);
+	if (defined($localJson)){
+	    $localJson =~ s/.*(initialData.*)$/$1/;
+	}
+	if (defined($localXml)){
+	    $localXml =~ s/.*(initialData.*)$/$1/;
+	}
+	my @insertBillColumns = ("title","status","url","code","open","local_html","local_json","local_xml");
+	my @insertBillData = ($official_title,$status,"NULL",$bill_id,"NULL",$localHtml,$localJson,$localXml);
 	$official_title =~ s/\(/\(/g;
 	$official_title =~ s/\)/\)/g;
 	my $insertTableName = "bills";
@@ -569,9 +577,9 @@ sub generateProductionDatabase{
 	print OUTPUT "\\W\n";
 	print OUTPUT "tee loadProduction.log;\n";
     }
-    print OUTPUT "use fourthbranch;\n";
+    print OUTPUT "use fourthbranch;\n"; 
     &writeCreateTables($outputFile);
-    &writeStoredProcedures($outputFile);
+#    &writeStoredProcedures($outputFile);
     &extractBills($dbh,$outputFile);
     &extractRelatedBills($dbh,$outputFile);
     &extractBillVotes($dbh,$outputFile);
@@ -580,14 +588,11 @@ sub generateProductionDatabase{
 	print OUTPUT "notee;\n";
 	print OUTPUT "\\w\n";
     }
-    # -Generate bill history table
-    # -Insert Bills
-    # congress_github_amendments
+    # -Generate bill history tablefdxzzzd
     # - Generate Actions table
     # - Generate sponsor table
     # - Generate Amends Bill table
     # - Insert Amendments
-    # Output database data for production tables into file
 }
 
 1;

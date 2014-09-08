@@ -20,6 +20,7 @@ my $CURRENT_DIRECTORY = cwd();
 
 # Stored Procedure TemplateS
 my $SELECT_PROCEDURE_TEMPLATE = <<'END_SELECT_PROCEDURE_TEMPLATE';
+DROP PROCEDURE IF EXISTS #PROCEDURE_NAME#;
 DELIMITER // 
 CREATE PROCEDURE #PROCEDURE_NAME# (#PARAMETER_LIST#) 
 BEGIN 
@@ -31,7 +32,7 @@ END_SELECT_PROCEDURE_TEMPLATE
     ;
 
 my $DELETE_PROCEDURE_TEMPLATE = <<'END_DELETE_PROCEDURE_TEMPLATE';
-DROP PROCEDURE IF EXISTS #PROCEDURE_NAME#
+DROP PROCEDURE IF EXISTS #PROCEDURE_NAME#;
 DELIMITER // 
 CREATE PROCEDURE #PROCEDURE_NAME# (#PARAMETER_LIST#) 
 BEGIN 
@@ -43,7 +44,7 @@ END_DELETE_PROCEDURE_TEMPLATE
     ;
 
 my $WRITE_PROCEDURE_TEMPLATE = <<'END_WRITE_PROCEDURE_TEMPLATE';
-DROP PROCEDURE IF EXISTS #PROCEDURE_NAME#
+DROP PROCEDURE IF EXISTS #PROCEDURE_NAME#;
 DELIMITER // 
 CREATE PROCEDURE #PROCEDURE_NAME# (#PARAMETER_LIST#) 
 BEGIN 
@@ -55,7 +56,7 @@ END_WRITE_PROCEDURE_TEMPLATE
     ;
 
 my $INSERT_PROCEDURE_TEMPLATE = <<'END_INSERT_PROCEDURE_TEMPLATE';
-DROP PROCEDURE IF EXISTS #PROCEDURE_NAME#
+DROP PROCEDURE IF EXISTS #PROCEDURE_NAME#;
 DELIMITER // 
 CREATE PROCEDURE #PROCEDURE_NAME# (#PARAMETER_LIST#) 
 BEGIN 
@@ -206,7 +207,7 @@ sub generateInsertProcedureFromHash{
     $insertString .= " $modifierString";
 
     my $procedure = $INSERT_PROCEDURE_TEMPLATE;
-    $procedure =~ s/#PROCEDURE_NAME#/$procedureName/;
+    $procedure =~ s/#PROCEDURE_NAME#/$procedureName/g;
     $procedure =~ s/#COLUMNS#/$columns/;
     $procedure =~ s/#INSERT_STRING#/$insertString/;
     $procedure =~ s/#TABLE_NAME#/$tableName/;
@@ -251,7 +252,7 @@ sub generateReadProcedureFromHash{
 	}
     }
     my $procedure = $SELECT_PROCEDURE_TEMPLATE;
-    $procedure =~ s/#PROCEDURE_NAME#/$procedureName/;
+    $procedure =~ s/#PROCEDURE_NAME#/$procedureName/g;
     $procedure =~ s/#SELECT_COLUMNS#/$selectColumnsString/;
     $procedure =~ s/#TABLE_NAME#/$tableName/;
     $procedure =~ s/#WHERE_QUERY#/$whereQuery/;
@@ -300,7 +301,7 @@ sub generateWriteProcedureFromHash{
 	}
     }
     my $procedure = $WRITE_PROCEDURE_TEMPLATE;
-    $procedure =~ s/#PROCEDURE_NAME#/$procedureName/;
+    $procedure =~ s/#PROCEDURE_NAME#/$procedureName/g;
     $procedure =~ s/#UPDAT_STRING#/$updateString/;
     $procedure =~ s/#UPDATE_STRING#/$updateString/;
     $procedure =~ s/#TABLE_NAME#/$tableName/;
@@ -337,7 +338,7 @@ sub generateDeleteProcedureFromHash{
 	}
     }
     my $procedure = $DELETE_PROCEDURE_TEMPLATE;
-    $procedure =~ s/#PROCEDURE_NAME#/$procedureName/;
+    $procedure =~ s/#PROCEDURE_NAME#/$procedureName/g;
     $procedure =~ s/#TABLE_NAME#/$tableName/;
     $procedure =~ s/#WHERE_QUERY#/$whereQuery/;
     $procedure =~ s/#PARAMETER_LIST#/$parameterList/;

@@ -28,9 +28,9 @@ sub loadCongressGithubBills{
 	exit();
     }
     my $tableName = "congress_github_bills";
-    my @columns = ("official_title","bill_type","status","updated_at","status_at","bill_id","subjects_top_term","enacted_as","number","short_title","introduced_at","congress","by_request","popular_title","bill_html","history","related_bills");
+    my @columns = ("official_title","bill_type","status","updated_at","status_at","bill_id","subjects_top_term","enacted_as","number","short_title","introduced_at","congress","by_request","popular_title","bill_html","history","related_bills","bill_json","bill_xml");
 
-    my @columnTypes = ("TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT");
+    my @columnTypes = ("TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT","TEXT");
 
     my $columnsSize = @columns;
     my $typesSize = @columnTypes;
@@ -84,6 +84,12 @@ sub loadCongressGithubBills{
 	if(-e $individualBill."/data.html"){
 	    $bill{'bill_html'} = $individualBill."/data.html";
 	}
+	if(-e $individualBill."/data.json"){
+	    $bill{'bill_json'} = $individualBill."/data.json";
+	}
+	if(-e $individualBill."/data.xml"){
+	    $bill{'bill_xml'} = $individualBill."/data.xml";
+	}
 	if( defined $bill{'enacted_as'}){
 	    $bill{'enacted_as'} = encode_json($bill{'enacted_as'});
 	}
@@ -102,96 +108,6 @@ sub loadCongressGithubBills{
     }
 }
 
-sub unusedloadRepresentativePhotos{
-    my $debug = 0;
-    my $dbh = $_[0];
-    my $outputFile = $_[1];
-
-    my $insertTemplate = "INSERT INTO congress_github_images (bioguide_id,#column#) VALUES('#bioguide#','#column_data#') ON DUPLICATE KEY UPDATE #column#='#column_data#';";
-    #open(OUTPUT,">>$outputFile") || die "Couldn't open $outputFile. SQL Error $DBI::errstr\n";
-    my $currentDirectory = cwd();
-    my @directories;
-    my $found225 = 0;
-    my $found450 = 0;
-    if(-e $currentDirectory."/initialData/images/225x275"){
-	$found225 = 1;
-    }
-    if(-e $currentDirectory."/initialData/images/450x550"){
-	$found450 = 1;
-    }
-    if(! -e $currentDirectory."/initialData/images/original"){
-	print "Couldn't find original image directory\n";
-	exit();
-    }
-    print "Parsing original directory\n";
-    opendir(INPUT,$currentDirectory."/initialData/images/original" ) || die "Couldn't open original directory. $!";
-   
-    while(my $photo = readdir(INPUT)){ 
-	
-	if($photo eq "." || $photo eq ".."){
-	    next;
-	}
-	my $sql = $insertTemplate;
-	$sql =~ s/#column#/original/g;
-	$photo =~ m@(.*)\..*$@;
-	my $id = $1;
-	$sql =~ s/#bioguide#/$id/g;
-	my $fileName = $currentDirectory."/initialData/images/original/".$photo;
-	$sql =~ s/#column_data#/$fileName/g;
-	if($debug == 1){
-	    print "Writing -->$sql\n";
-	}
-	my $sth = $dbh->prepare($sql);
-	$sth->execute or die "SQL Error: $DBI::errstr\n";
-    }
-
-    if($found225 == 1){
-	print "Parsing 225 directory\n";
-	opendir(INPUT,$currentDirectory."/initialData/images/225x275" ) || die "Couldn't open 225 directory. $!";
-	
-	while(my $photo = readdir(INPUT)){
-	    if($photo eq "." || $photo eq ".."){
-		next;
-	    }
-	    my $sql = $insertTemplate;
-	    $sql =~ s/#column#/225x275/g;
-	    $photo =~ m@(.*)\..*$@;
-	    my $id = $1;
-	    $sql =~ s/#bioguide#/$id/g;
-	    my $fileName = $currentDirectory."/initialData/images/225x275/".$photo;
-	    $sql =~ s/#column_data#/$fileName/g;
-	    if($debug == 1){
-		print "Writing -->$sql\n";
-	    }
-	    my $sth = $dbh->prepare($sql);
-	    $sth->execute or die "SQL Error: $DBI::errstr\n";
-	}
-    }
-
-    if($found450 == 1){
-	print "Parsing 450 directory\n";
-	opendir(INPUT,$currentDirectory."/initialData/images/450x550" ) || die "Couldn't open 450 directory. $!";
-	
-	while(my $photo = readdir(INPUT)){
-	    if($photo eq "." || $photo eq ".."){
-		next;
-	    }
-	    my $sql = $insertTemplate;
-	    $sql =~ s/#column#/450x550/g;
-	    $photo =~ m@(.*)\..*$@;
-	    my $id = $1;
-	    $sql =~ s/#bioguide#/$id/g;
-	    my $fileName = $currentDirectory."/initialData/images/450x550/".$photo;
-	    $sql =~ s/#column_data#/$fileName/g;
-	    if($debug == 1){
-		print "Writing -->$sql\n";
-	    }
-	    my $sth = $dbh->prepare($sql);
-	    $sth->execute or die "SQL Error: $DBI::errstr\n";
-	}
-
-    }
-}
 
 sub loadCongressGithubVotes{
     print "Installing Congress github votes. This can take 4 minutes.\n";
