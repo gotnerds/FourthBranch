@@ -2,6 +2,7 @@ $font-stack: Verdana, Geneva, sans-serif;
 $blue: #2976cb;
 $darkBlue: #0a2b95;
 $red: #C20000;
+$third: (100/3)*1%;
 @mixin link($color:white) {
     color: $color;
     text-decoration: none;
@@ -14,6 +15,14 @@ $red: #C20000;
 @mixin font-size($size) {
   font-size: $size;
   font-size: calculateRem($size);
+}
+
+@mixin flexCenter($direction:row, $wrap:wrap) {
+	display: flex;
+	flex-direction: $direction;
+	flex-wrap: $wrap;
+	justify-content: center;
+	align-items: center;	    
 }
 
 @mixin buttonBackground($color) {
@@ -153,7 +162,12 @@ ul {
 table {
 	color: inherit;
 }
-
+.textLeft {
+	text-align: left;
+}
+.textRight {
+	text-align: right;
+}
 .bodyWrap {
 	width:90%;
 	max-width:1080px;
@@ -215,6 +229,16 @@ button {
 .blue {
 	background-color: $blue;
 }
+.blueButton {
+	background-color: $blue;
+	color: #FFFFFF;
+	padding:5px;
+	text-align: center;
+	@include font-size(14px);
+	&:hover {
+		@include box-shadow(0,0,5px,white,true);
+	}
+}
 /*  SECTIONS  */
 .section {
 	clear: both;
@@ -228,8 +252,15 @@ button {
 	float:left;
 	margin: 1% 0 1% 4%;
 }
+.col2 {
+	display: block;
+	float:left;
+	margin: 1% 0 1% 2%;
+}
 .first-child { margin-left: 0; }
-
+.floatRight {
+	float:right;
+}
 
 /*  GROUPING  */
 .group:before,
@@ -259,7 +290,7 @@ button {
   	width: 39.04%;
 }
 .span_1_of_5 {
-  	width: 18.72%;
+  	width: 16.8%;
 }
 .span_4_of_4 {
 	width: 100%;
@@ -282,7 +313,9 @@ button {
 .span_3_of_3 {
 	width: 100%;
 }
-
+.span_1_of_2 {
+	width: 48%;
+}
 /*  GO FULL WIDTH AT LESS THAN 480 PIXELS */
 
 @media only screen and (max-width: 480px) {
@@ -304,7 +337,6 @@ button {
 	.span_1_of_4 {
 		width: 50%;
 	}
-
 	.span_1_of_3 {
 		width: 100%;
 	}
@@ -326,8 +358,15 @@ button {
 	.span_1_of_5 {
 		width: 100%; 
 	}
+	.span_1_of_2 {
+		width:100%;
+	}
 }
-
+.columnBottom {
+	display:flex;
+	flex-direction: column;
+	justify-content:flex-end;
+}
 /* table login settings */
 table {
 	padding-right:10px;
@@ -382,7 +421,7 @@ vertical-align: baseline;
     border: 4px solid #CC0000;
     position: relative;
     .button {
-    	background-color: #2F68D1;
+    	background-color: $blue;
 		color: #FFFFFF;
 		padding-top:5px;
 		padding-bottom:5px;	
@@ -590,9 +629,13 @@ textarea#reason {
 		padding-bottom:5px;
 		margin-bottom:10px;
 		border-bottom: black 1px solid;
+		color: $red;
 	}
 	p {
 		margin-bottom:.5rem;
+	}
+	.notdLinks {
+		padding-bottom:10px;
 	}
 }
 
@@ -604,50 +647,49 @@ textarea#reason {
 	h1 {
 		margin:3% 0;
 	}
-	.bill {
-		margin-left:7%;
-		width: 77%;
-		border-radius: 10px;
-		padding: 1%;
+}
+.bill {
+	margin-left:7%;
+	width: 77%;
+	padding: 1%;
+}
+.billTitle {
+	h4 {
+		margin-bottom:0;
+		position:relative;
+		padding-bottom : 5px;
+		float:left;
+		border-bottom:1px solid black;
 	}
-	.billTitle {
-		h4 {
-			margin-bottom:0;
-			position:relative;
-			padding-bottom : 5px;
-			float:left;
-			border-bottom:1px solid black;
-		}
-		span {
-			color: $darkBlue;
-			@include font-size(14px);
-			clear:left;
-			display:block;
-		}
-		.billDescription {
-			margin:1%;
-		}
-	}
-	.postNavigation {
-		text-align:right;
-		@include font-size(12px);
-		transform:color;
-		cursor:pointer;
-			a{
-			color:$blue;
-			&:hover {
-				color: $darkBlue;
-			}
-		}
-	}
-	.postInfo {
-		text-align: right;
-		color: lighten(black, 50%);
+	span {
+		color: $darkBlue;
 		@include font-size(14px);
-		margin-bottom:20px;
-		.postAuthor, .timeStamp {
-			display:block;
+		clear:left;
+		display:block;
+	}
+	.billDescription {
+		margin:1%;
+	}
+}
+.postNavigation {
+	text-align:right;
+	@include font-size(12px);
+	transform:color;
+	cursor:pointer;
+		a{
+		color:$blue;
+		&:hover {
+			color: $darkBlue;
 		}
+	}
+}
+.postInfo {
+	text-align: right;
+	color: lighten(black, 50%);
+	@include font-size(14px);
+	margin-bottom:20px;
+	.postAuthor, .timeStamp {
+		display:block;
 	}
 }
 .voteUser {
@@ -662,25 +704,30 @@ textarea#reason {
     display:none;
     margin-top:15px;
 	}
-	label span {
-	    display:inline-block;
-	    background:url('../images/checkboxBlue.png') left top no-repeat;
-	    width:17px;
-	    height:17px;
-	    margin:-1px 0 0 4px;
-	    vertical-align:middle;
-	    cursor:pointer;
-	}
-	.votePass:checked + label span {
-	    background: url("../images/checkboxBlue.png") 0 -18px no-repeat;
-		width: 22px;
-		height: 22px;
-	}
-	.voteReject:checked + label span {
-	    background:url('../images/checkboxRed.png') 0 -18px no-repeat;
-		height:22px;
-		width:22px;
-	}
+}
+
+.hasRadio label span {
+    display:inline-block;
+    background:url('../images/checkboxBlue.png') left top no-repeat;
+    width:17px;
+    height:17px;
+    margin:-1px 0 0 4px;
+    vertical-align:middle;
+    cursor:pointer;
+}
+input[type="radio"] {
+display:none;
+margin-top:15px;
+}
+.votePass:checked + label span {
+    background: url("../images/checkboxBlue.png") 0 -18px no-repeat;
+	width: 22px;
+	height: 22px;
+}
+.voteReject:checked + label span {
+    background:url('../images/checkboxRed.png') 0 -18px no-repeat;
+	height:22px;
+	width:22px;
 }
 .share-buttons {
 	display:block;
@@ -788,6 +835,7 @@ textarea#reason {
 	display:block;
 	margin-left:auto;
 	margin-right:auto;
+	padding-bottom:30px;	
 }
 .trendingCommentsBox {
 	box-shadow:inset 0 0 1px black;
@@ -880,6 +928,18 @@ textarea#reason {
 			@include box-shadow(0, 0, 15px);
 			cursor:pointer;
 		}
+		.button {
+			background-color: #2F68D1;
+			color: #FFFFFF;
+			padding-top: 10px;
+			padding-bottom: 10px;
+			text-align: center;
+			width: 120px;
+			position: relative;
+			left: 50%;
+			margin-left: -60px;
+			font-size: 1.2em;
+		}
 		.tomorrowsBillParticipateTitle {
 			height: 61px;
 			border-bottom: 1px solid black;
@@ -917,5 +977,122 @@ footer {
 	}
 	.slogan {
 		float:right;
+	}
+}
+
+/* VOTE PAGE */
+.votePage {
+
+	.voteSearch {
+		width:100%;
+		.searchBox {
+			width:100%;
+			height:200px;
+			@include colorBorder;
+			@include flexCenter(column, nowrap);
+		}
+		input[type="radio"] {
+			display:none;
+		}
+		.searchKeywords {
+			text-align: center;
+			display:block;
+		}
+		.searchSortBy {
+			display:block;
+			h4 {
+				display:inline-block;
+			}
+			.button {
+				cursor:pointer;
+				&:hover {
+					@include box-shadow(0,0,5px,white,true);
+				}
+				&:active {
+					background-color: $red;
+				}
+			}
+		}
+	    .button {
+	    	background-color: $blue;
+			color: #FFFFFF;
+			padding:5px;
+			text-align: center;
+		}
+	}
+
+	.bill {
+		width:auto;
+		margin-left:0;
+		margin-bottom: 20px;
+		border-bottom: 1px solid black;
+		&:last-child {
+			border-bottom:none;
+		}
+		p {
+			font-size:.95em;
+			text-indent:20px;
+		}
+	}
+	.postInfo {
+		margin-bottom: 15px;
+	}
+	.voteUserBox {
+		@include flexCenter;
+		.voteUser {
+			left:auto;
+		}
+	}
+	.share-buttons {
+		text-align:center;
+		width:auto;
+	}
+}
+
+/* PROPOSAL PAGE */
+.proposalPage {
+	.introductionDesc {
+		position:relative;
+		.blueButton {
+			position:absolute;
+			bottom:0;
+			right:0;
+		}
+	}
+	hr {
+		margin-top:50px;
+	}
+	.proposalList {
+		text-align:center;
+		.proposalListItem {
+			@include box-shadow(0,0,1px);
+			cursor:pointer;
+			&:hover {
+				@include box-shadow;
+			}
+			.blueButton {
+				width:100%;
+				display:block;
+				clear:both;
+				margin-bottom:0;
+			}
+		}
+		.proposalListTitle {
+			@include flexCenter(column);
+			height:100px;
+			border-bottom:1px solid black;
+		}
+		.proposalListDetails {
+			@include font-size(14px);
+			div {
+				width: $third;
+				float:left;
+				margin:1% 0;
+			}
+		}
+	}
+	.proposalListMore {
+		margin:30px 0;
+		display:inline-block;
 	}
 }
