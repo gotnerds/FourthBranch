@@ -180,8 +180,13 @@ sub generateInsertProcedureFromHash{
     my $selectColumnsString = "";
 
     my $parameterList = "";
+    my $addComma = 0;
     for my $param (@parameters){
-	$parameterList .= "IN $param";
+	if( $addComma == 1){
+	    $parameterList .= ",";
+	}
+	$addComma = 1;
+	$parameterList .= " IN $param ";
     }
     
     my $columns = "";
@@ -226,10 +231,15 @@ sub generateReadProcedureFromHash{
     my $selectColumnsString = "";
 
     my $parameterList = "";
-    for my $param (@parameters){
-	$parameterList .= "IN $param";
-    }
     my $addComma = 0;
+    for my $param (@parameters){
+	if($addComma == 1){
+	    $parameterList .= ",";
+	}
+	$addComma = 1;
+	$parameterList .= " IN $param ";
+    }
+    $addComma = 0;
     for my $column (@selectColumns){
 	if($addComma == 1){
 	    $selectColumnsString .= ",";
@@ -271,8 +281,13 @@ sub generateWriteProcedureFromHash{
     my $selectColumnsString = "";
 
     my $parameterList = "";
+    my $addComma = 0;
     for my $param (@parameters){
-	$parameterList .= "IN $param";
+	if($addComma == 1){
+	    $parameterList .= ",";
+	}
+	$addComma = 1;
+	$parameterList .= " IN $param ";
     }
 
     my $updateString = "";
@@ -283,7 +298,7 @@ sub generateWriteProcedureFromHash{
 		$updateString .= " , ";
 	    }
 	    $addComma = 1;
-	    $updateString .= "$key = $updateHash{$key}";
+	    $updateString .= "$updateHash{$key} = $key";
 	    
 	}
     }
@@ -320,8 +335,13 @@ sub generateDeleteProcedureFromHash{
     my $selectColumnsString = "";
 
     my $parameterList = "";
+    my $addComma = 0;
     for my $param (@parameters){
-	$parameterList .= "IN $param";
+	if($addComma == 1){
+	    $parameterList .= ",";
+	}
+	$addComma = 1;
+	$parameterList .= " IN $param ";
     }
 
     my $whereQuery = "";

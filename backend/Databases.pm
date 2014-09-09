@@ -107,51 +107,11 @@ create table bills
  open VARCHAR(5),
  local_json TEXT,
  local_xml TEXT,
+ is_large_bill CHAR(1) NOT NULL,
+ is_appropiation_bill CHAR(1) NOT NULL,
 PRIMARY KEY(id)
 );
 END_BILL_TABLE
-    ;
-
-# Large Bills Table
-my $CREATE_LARGE_BILL_TABLE = <<'END_LARGE_BILL_TABLE';
-create table large_bills 
-(id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT,
- title VARCHAR(100) NOT NULL, 
- state VARCHAR(50), 
- url TEXT, 
- code VARCHAR(50),
- open VARCHAR(5),
- num_sections MEDIUMINT, 
- section_num MEDIUMINT, 
- section_name VARCHAR(40),
- section_content VARCHAR(40),
- voteCountYes MEDIUMINT,
- voteCountNo MEDIUMINT,
- individualVote MEDIUMINT,
- PRIMARY KEY(id)
-);
-END_LARGE_BILL_TABLE
-    ;
-
-# Appropriation Bills Table
-my $CREATE_APPROPRIATION_BILL_TABLE = <<'END_APPROPRIATION_BILL_TABLE';
-create table appropriation_bills 
-(id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT,
- title VARCHAR(100) NOT NULL, 
- state VARCHAR(50), 
- url TEXT, 
- code VARCHAR(50),
- open VARCHAR(5),
- num_sections MEDIUMINT,
- budget MEDIUMINT,
- section_name MEDIUMINT,
- section_allocation MEDIUMINT,
- num_objects MEDIUMINT,
- object_name MEDIUMINT,
- object_allocation MEDIUMINT,
- PRIMARY KEY(id)
-);
-END_APPROPRIATION_BILL_TABLE
     ;
  
 #
@@ -226,9 +186,9 @@ END_COMMENT
     ;
 
 ####################################
-my @tables = ( $CREATE_INDIVIDUAL_USERS_TABLE, $CREATE_ORGANIZATION_USERS_TABLE, $CREATE_ADMIN_USERS_TABLE,$CREATE_BILL_TABLE,$CREATE_REPRESENTATIVES_TABLE,$CREATE_WALL_OF_AMERICA_TABLE,$CREATE_BILL_VOTE_TABLE,$CREATE_USER_VOTES_TABLE,$CREATE_LARGE_BILL_TABLE,$CREATE_APPROPRIATION_BILL_TABLE,$CREATE_COMMENT_TABLE,$CREATE_CONGRESS_VOTES_TABLE);
+my @tables = ( $CREATE_INDIVIDUAL_USERS_TABLE, $CREATE_ORGANIZATION_USERS_TABLE, $CREATE_ADMIN_USERS_TABLE,$CREATE_BILL_TABLE,$CREATE_REPRESENTATIVES_TABLE,$CREATE_WALL_OF_AMERICA_TABLE,$CREATE_BILL_VOTE_TABLE,$CREATE_USER_VOTES_TABLE,$CREATE_COMMENT_TABLE,$CREATE_CONGRESS_VOTES_TABLE);
 
-my @table_names = ("individuals", "organizations","admins","bills","representatives","bill_votes","user_votes","wall_of_america","large_bills","appropriation_bills","comments_bills","congress_votes");
+my @table_names = ("individuals", "organizations","admins","bills","representatives","bill_votes","user_votes","wall_of_america","comments_bills","congress_votes");
 
 ####################################
 
@@ -298,11 +258,11 @@ sub writeStoredProcedures{
     my @columns = ("title","status","url","code", "open");
     my %whereHash = ("code"=>"bill_code");
     my @parameterList = ("code CHAR(40)");
-    my $addBillProcedure = MysqlUtils::generateReadProcedureFromHash($tableName,$procedureName,\@columns,\%whereHash,\@parameterList);
+    my $getBillByCodeProcedure = MysqlUtils::generateReadProcedureFromHash($tableName,$procedureName,\@columns,\%whereHash,\@parameterList);
     if($debug == 1){
-	print "Writing -->$addBillProcedure\n";
+	print "Writing -->$getBillByCodeProcedure\n";
     }
-    print OUTPUT "$addBillProcedure\n";
+    print OUTPUT "$getBillByCodeProcedure\n";
     ###################################################
     $tableName = "bills";
     $procedureName = "updateBillStatus";
@@ -317,9 +277,31 @@ sub writeStoredProcedures{
     #####################################################
     $tableName = "bills";
     $procedureName = "insertBill";
-    my %insertHash = ("newStatus"=>"status","oldStatus"=>"stuff");
+    my %insertHash = (
+	"title" => "title", 
+	"status" => "status", 
+	"url" => "url", 
+	"code" => "code",
+	"local_html" => "local_html",
+	"open" => "open",
+	"local_json" => "local_json",
+	"local_xml" => "local_xml",
+	"isLargeBill" => "is_large_bill",
+	"isAppropiationBill" => "is_appropiation_bill"	
+	);
     my $modifierString = "";
-    @parameterList = ("newStatus CHAR(50)");
+    @parameterList = (
+	"title TEXT", 
+	"status VARCHAR(50)", 
+	"url TEXT", 
+	"code VARCHAR(50)",
+	"local_html TEXT",
+	"open VARCHAR(5)",
+	"local_json TEXT",
+	"local_xml TEXT",
+	"isLargeBill CHAR(1) DEFAULT n",
+	"isAppropiationBill CHAR(1) DEFAULT n" 
+	);
     my $insertBill = MysqlUtils::generateInsertProcedureFromHash($tableName,$procedureName,\%insertHash,$modifierString,\@parameterList);
     if($debug == 1){
 	print "Writing -->$insertBill\n";
@@ -336,6 +318,29 @@ sub writeStoredProcedures{
     }
     print OUTPUT "$deleteBillProcedure\n";
     ###################################################
+    $tableName = "bills";
+    $procedureName = "makeBillLargeBill";
+    %updateHash = ("isLargeBill"=>"is_large_bill");
+    %whereHash = ("billid"=>"id");
+    @parameterList = ("isLargeBill CHAR(1)","billid MEDIUMINT");
+    my $makeBillLargeBill = MysqlUtils::generateWriteProcedureFromHash($tableName,$procedureName,\%updateHash,\%whereHash,\@parameterList);
+    if($debug == 1){
+	print "Writing -->$makeBillLargeBill\n";
+    }
+    print OUTPUT "$makeBillLargeBill\n";
+    ###################################################
+    $tableName = "bills";
+    $procedureName = "makeBillAppropiationBill";
+    %updateHash = ("isAppropiationBill"=>"is_appropiation_bill");
+    %whereHash = ("billid"=>"id");
+    @parameterList = ("isAppropiationBill CHAR(1)","billid MEDIUMINT");
+    my $makeBillAppropiationBill = MysqlUtils::generateWriteProcedureFromHash($tableName,$procedureName,\%updateHash,\%whereHash,\@parameterList);
+    if($debug == 1){
+	print "Writing -->$makeBillAppropiationBill\n";
+    }
+    print OUTPUT "$makeBillAppropiationBill\n";
+    ###################################################
+
 
     # Remove Bill
     # Update Bill info
@@ -463,8 +468,8 @@ sub extractBills{
 	if (defined($localXml)){
 	    $localXml =~ s/.*(initialData.*)$/$1/;
 	}
-	my @insertBillColumns = ("title","status","url","code","open","local_html","local_json","local_xml");
-	my @insertBillData = ($official_title,$status,"NULL",$bill_id,"NULL",$localHtml,$localJson,$localXml);
+	my @insertBillColumns = ("title","status","url","code","open","local_html","local_json","local_xml","is_appropiation_bill","is_large_bill");
+	my @insertBillData = ($official_title,$status,"NULL",$bill_id,"NULL",$localHtml,$localJson,$localXml,"n","n");
 	$official_title =~ s/\(/\(/g;
 	$official_title =~ s/\)/\)/g;
 	my $insertTableName = "bills";
