@@ -1,54 +1,41 @@
-use fourthbranch;
-DROP PROCEDURE IF EXISTS getBillByCode;
-DELIMITER // 
+DROP PROCEDURE IF EXISTS getBillByCode$$
 CREATE PROCEDURE getBillByCode ( IN code CHAR(40) ) 
 BEGIN 
 SELECT title,status,url,code,open FROM bills
 WHERE code = bill_code;
-END  
-DELIMITER ; 
+END  $$
 
-DROP PROCEDURE IF EXISTS updateBillStatus;
-DELIMITER // 
+DROP PROCEDURE IF EXISTS updateBillStatus$$ 
 CREATE PROCEDURE updateBillStatus ( IN updatedStatus CHAR(50) ) 
 BEGIN 
 UPDATE bills SET status = updatedStatus 
 WHERE code = bill_code;
-END  
-DELIMITER ; 
+END  $$
 
-DROP PROCEDURE IF EXISTS insertBill;
-DELIMITER // 
+DROP PROCEDURE IF EXISTS insertBill$$ 
 CREATE PROCEDURE insertBill ( IN title TEXT , IN status VARCHAR(50) , IN url TEXT , IN code VARCHAR(50) , IN local_html TEXT , IN open VARCHAR(5) , IN local_json TEXT , IN local_xml TEXT , IN isLargeBill CHAR(1) , IN isAppropiationBill CHAR(1) ) 
 BEGIN 
-INSERT INTO bills (local_xml,url,local_json,isAppropiationBill,open,code,isLargeBill,local_html,status,title) VALUES (local_xml , url , local_json , is_appropiation_bill , open , code , is_large_bill , local_html , status , title) ;
-END 
-DELIMITER ; 
+INSERT INTO bills (url,isAppropiationBill,open,code,status,isLargeBill,local_xml,local_html,title,local_json) VALUES (url , is_appropiation_bill , open , code , status , is_large_bill , local_xml , local_html , title , local_json) ;
+END $$
 
-DROP PROCEDURE IF EXISTS deleteBillByCode;
-DELIMITER // 
+DROP PROCEDURE IF EXISTS deleteBillByCode$$
 CREATE PROCEDURE deleteBillByCode ( IN deleteCode CHAR(40) ) 
 BEGIN 
 DELETE FROM bills
 WHERE code = deleteCode;
-END  
-DELIMITER ; 
+END  $$
 
-DROP PROCEDURE IF EXISTS makeBillLargeBill;
-DELIMITER // 
+DROP PROCEDURE IF EXISTS makeBillLargeBill$$ 
 CREATE PROCEDURE makeBillLargeBill ( IN isLargeBill CHAR(1) , IN billid MEDIUMINT ) 
 BEGIN 
 UPDATE bills SET is_large_bill = isLargeBill 
 WHERE billid = id;
-END  
-DELIMITER ; 
+END  $$
 
-DROP PROCEDURE IF EXISTS makeBillAppropiationBill;
-DELIMITER // 
+DROP PROCEDURE IF EXISTS makeBillAppropiationBill$$ 
 CREATE PROCEDURE makeBillAppropiationBill ( IN isAppropiationBill CHAR(1) , IN billid MEDIUMINT ) 
 BEGIN 
 UPDATE bills SET is_appropiation_bill = isAppropiationBill 
 WHERE billid = id;
-END  
-DELIMITER ; 
+END  $$
 

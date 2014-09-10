@@ -10,7 +10,10 @@ Setup Frontend environment
       The frontend environment consists of an ajax and php webpage backed by a MySql database.
       
 Install the production database
-	Launch mysql and run the source command with backend/production.db as input.
+	Launch mysql and run :
+	       source backend/production.db 
+	       source backend/stored_procedures.db
+	Web host providers usually require that stored procedures be added through a utility like phpMyAdmin. Just copy stored_procedures.db into a phpMyAdmin query window, remove the first line, and set the delimiter to $$.
 
 ****************************************************
 Setup Backend Development environment

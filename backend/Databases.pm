@@ -277,6 +277,7 @@ sub writeStoredProcedures{
     my $outputFile = $_[0];
 
     open(OUTPUT,">>$outputFile") || die "Couldn't open $outputFile. $!\n";
+    print OUTPUT "DELIMETER $$";
     ####################################################
     my $tableName = "bills";
     my $procedureName = "getBillByCode";
@@ -607,7 +608,6 @@ sub generateProductionDatabase{
 	unlink "loadProduction.log" || die "Couldn't remove loadProduction.log $!\n";
     }
     open(OUTPUT,">>$outputFile") || die "Couldn't open $outputFile. $!\n"; 
-    open(OUTPUT,">>$storedProceduresFile") || die "Couldn't open $storedProceduresFile $!";
     if($enableLogging == 1){
 	print OUTPUT "\\W\n";
 	print OUTPUT "tee loadProduction.log;\n";
