@@ -22,6 +22,31 @@ $VERSION     = 1.00;
 @EXPORT_OK   = qw(install createBackendTables dropBackendTables);
 %EXPORT_TAGS = ( DEFAULT => [qw(&install &createBackendTables &dropBackendTables)]);
 
+##############################################################
+# Tables from http://www.wikihow.com/Create-a-Secure-Login-Script-in-PHP-and-MySQL
+my $CREATE_MEMBERS_TABLE = <<'END_MEMBERS_TABLE';
+CREATE TABLE `members` (
+    `id` INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    `username` VARCHAR(30) NOT NULL,
+    `email` VARCHAR(50) NOT NULL,
+    `password` CHAR(128) NOT NULL,
+    `salt` CHAR(128) NOT NULL,
+    `individual_id` INT
+) ENGINE = InnoDB;
+
+END_MEMBERS_TABLE
+
+my $CREATE_LOGIN_ATTEMPTS_TABLE = <<'END_LOGIN_ATTEMPTS_TABLE';
+CREATE TABLE `login_attempts` (
+    `user_id` INT(11) NOT NULL,
+    `time` VARCHAR(30) NOT NULL
+    ) ENGINE=InnoDB;
+
+END_LOGIN_ATTEMPTS_TABLE
+
+
+# End  Tables from http://www.wikihow.com
+###################################################################
 # Individual Users
 my $CREATE_INDIVIDUAL_USERS_TABLE = <<'END_INDIVIDUAL_USERS_TABLE';
 create table individuals 
@@ -186,9 +211,9 @@ END_COMMENT
     ;
 
 ####################################
-my @tables = ( $CREATE_INDIVIDUAL_USERS_TABLE, $CREATE_ORGANIZATION_USERS_TABLE, $CREATE_ADMIN_USERS_TABLE,$CREATE_BILL_TABLE,$CREATE_REPRESENTATIVES_TABLE,$CREATE_WALL_OF_AMERICA_TABLE,$CREATE_BILL_VOTE_TABLE,$CREATE_USER_VOTES_TABLE,$CREATE_COMMENT_TABLE,$CREATE_CONGRESS_VOTES_TABLE);
+my @tables = ($CREATE_MEMBERS_TABLE,$CREATE_LOGIN_ATTEMPTS_TABLE, $CREATE_INDIVIDUAL_USERS_TABLE, $CREATE_ORGANIZATION_USERS_TABLE, $CREATE_ADMIN_USERS_TABLE,$CREATE_BILL_TABLE,$CREATE_REPRESENTATIVES_TABLE,$CREATE_WALL_OF_AMERICA_TABLE,$CREATE_BILL_VOTE_TABLE,$CREATE_USER_VOTES_TABLE,$CREATE_COMMENT_TABLE,$CREATE_CONGRESS_VOTES_TABLE);
 
-my @table_names = ("individuals", "organizations","admins","bills","representatives","bill_votes","user_votes","wall_of_america","comments_bills","congress_votes");
+my @table_names = ("members","login_attempts","individuals", "organizations","admins","bills","representatives","bill_votes","user_votes","wall_of_america","comments_bills","congress_votes");
 
 ####################################
 
@@ -299,8 +324,8 @@ sub writeStoredProcedures{
 	"open VARCHAR(5)",
 	"local_json TEXT",
 	"local_xml TEXT",
-	"isLargeBill CHAR(1) DEFAULT n",
-	"isAppropiationBill CHAR(1) DEFAULT n" 
+	"isLargeBill CHAR(1)",
+	"isAppropiationBill CHAR(1)" 
 	);
     my $insertBill = MysqlUtils::generateInsertProcedureFromHash($tableName,$procedureName,\%insertHash,$modifierString,\@parameterList);
     if($debug == 1){
@@ -571,20 +596,25 @@ sub generateProductionDatabase{
     my $enableLogging = 0;
     my $dbh = $_[0];
     my $outputFile = $_[1];
+    my $storedProceduresFile = "stored_procedures.db";
     if(-e $outputFile){
 	unlink $outputFile || die "Couldn't remove $outputFile $!\n";
+    }
+    if(-e $storedProceduresFile){
+	unlink $storedProceduresFile || die "Couldn't remove $storedProceduresFile $!\n";
     }
     if(-e "loadProduction.log"){
 	unlink "loadProduction.log" || die "Couldn't remove loadProduction.log $!\n";
     }
-    open(OUTPUT,">>$outputFile") || die "Couldn't open $outputFile. SQL Error $DBI::errstr\n"; 
+    open(OUTPUT,">>$outputFile") || die "Couldn't open $outputFile. $!\n"; 
+    open(OUTPUT,">>$storedProceduresFile") || die "Couldn't open $storedProceduresFile $!";
     if($enableLogging == 1){
 	print OUTPUT "\\W\n";
 	print OUTPUT "tee loadProduction.log;\n";
     }
     print OUTPUT "use fourthbranch;\n"; 
     &writeCreateTables($outputFile);
-#    &writeStoredProcedures($outputFile);
+    &writeStoredProcedures($storedProceduresFile);
     &extractBills($dbh,$outputFile);
     &extractRelatedBills($dbh,$outputFile);
     &extractBillVotes($dbh,$outputFile);
