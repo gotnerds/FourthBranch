@@ -1,5 +1,6 @@
 <?php 
 $mysqli = new mysqli("localhost", "root", "mysql", "fourthbranch"); 
+//$mysqli = new mysqli("fourthbranch.db.9192271.hostedresource.com", "fourthbranch", "f4ourthBranch@", "fourthbranch");
 # Number of entries to load per page. 
 $limit = 5;
 # Get the page number from GET, or set it to 0.

@@ -31,7 +31,7 @@ include("inc/getBills.php");
 			</div>
 		</article>
 		<div id="results">
-		<?php include("inc/postBills.php") ?>
+		<?php include("inc/postBills.php"); ?>
     </section>
 </div>
 <?php include("footer.php"); ?>

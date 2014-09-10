@@ -266,7 +266,7 @@ input[type="radio"] { display: none; margin-top: 15px; }
 .trendingCommentsBox .trendingCommentsBoxUser:hover { cursor: pointer; }
 
 .addComment { box-shadow: inset 0 0 1px black; margin-bottom: 0; }
-.addComment textarea { resize: none; height: 230px; text-align: left; max-width: 100%; margin: 0; padding: 0; border: none; background: transparent; }
+.addComment textarea { resize: none; height: 230px; text-align: left; width: 100%; margin: 0; padding: 0; border: none; background: transparent; outline: 0px !important; -webkit-appearance: none; }
 .addComment .submit { text-align: center; box-shadow: inset 0 0 1px black; width: 100%; display: block; padding: 5px 0; }
 
 /* TOMORROW'S BILL */
@@ -321,3 +321,27 @@ footer .slogan { float: right; }
 .proposalPage .proposalList .proposalListDetails { font-size: 14px; font-size: 0.875rem; }
 .proposalPage .proposalList .proposalListDetails div { width: 33.33333%; float: left; margin: 1% 0; }
 .proposalPage .proposalListMore { margin: 30px 0; display: inline-block; }
+
+.proposal1 { position: relative; border-left: 1px solid #2976cb; border-right: 1px solid #c20000; -webkit-box-shadow: 0 0 5px black; -moz-box-shadow: 0 0 5px black; box-shadow: 0 0 5px black; padding: 20px; margin: 0 10px 20px; }
+.proposal1:before, .proposal1:after { content: ""; position: absolute; right: -1px; left: -1px; height: 1px; background-image: -webkit-gradient(linear, 0 0, 100% 0, from(#2976cb), to(#c20000)); background-image: -webkit-linear-gradient(left, #2976cb, #c20000); background-image: -moz-linear-gradient(left, #2976cb, #c20000); background-image: -o-linear-gradient(left, #2976cb, #c20000); }
+.proposal1:before { top: -1px; }
+.proposal1:after { bottom: -1px; }
+.proposal1 label { float: left; }
+.proposal1 legend { clear: both; }
+.proposal1 .indent { margin: 0 20px; }
+.proposal1 .medText { font-size: 20px; font-size: 1.25rem; margin: 1em 0; }
+.proposal1 fieldset { border: 0; }
+.proposal1 fieldset label { float: none; }
+.proposal1 span { display: block; overflow: hidden; padding-right: 5px; padding-left: 10px; }
+.proposal1 .blueButton { position: absolute; right: 20px; bottom: 10px; }
+.proposal1 input[type="text"] { font-size: 20px; font-size: 1.25rem; }
+.proposal1 span > input { width: 100%; }
+.proposal1 .nofloat { float: none; }
+.proposal1 .largeText { font-size: 24px; font-size: 1.5rem; font-weight: bold; }
+
+.newsPage { text-align: center; margin-bottom: 40px; }
+.newsPage .newsItem { height: 250px; position: relative; text-align: center; cursor: pointer; background-size: cover; -webkit-filter: grayscale(100%); -moz-filter: grayscale(100%); -ms-filter: grayscale(100%); -o-filter: grayscale(100%); filter: grayscale(100%); filter: gray; /* IE 6-9 */ }
+.newsPage .newsItem:hover { -webkit-filter: grayscale(0%); -moz-filter: grayscale(0%); -ms-filter: grayscale(0%); -o-filter: grayscale(0%); filter: grayscale(0%); filter: color; }
+.newsPage .newsItem:after { content: "This is the Headline."; position: absolute; bottom: 0px; display: none; width: 100%; padding: 10px 0; background-color: rgba(0, 0, 0, 0.6); color: white; text-align: center; }
+.newsPage .newsItem:hover:after { display: block; }
+.newsPage h4 { margin-bottom: .5em; color: #2976cb; }

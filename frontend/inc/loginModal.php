@@ -370,7 +370,7 @@
 				  	<p style="color:red;text-align:center;" id='ostatus'></p>
                 </form>
 			</div>
-			<div id='organization2' class="double-border" style='position:fixed; width:420px; top: 50%; left: 50%;margin-top:-150px;margin-left:-210px;'>
+			<div id='organization2' class="double-border" style='position:fixed; width:440px; top: 50%; left: 50%;margin-top:-150px;margin-left:-220px;'>
 				<div style="margin: 15px 15px 15px 15px">
 					<div style="float:right;overflow:hidden;">
 						<div style="cursor: pointer;float:right;background-image: url(http://thefourthbranch.co/TheFourthBranch/image/x.png);height:24px;width:24px;" class="xbut"></div>											
