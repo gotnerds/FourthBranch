@@ -1,4 +1,4 @@
-DROP PROCEDURE IF EXISTS getBillByCode$$
+DELIMETER 7037DROP PROCEDURE IF EXISTS getBillByCode$$
 CREATE PROCEDURE getBillByCode ( IN code CHAR(40) ) 
 BEGIN 
 SELECT title,status,url,code,open FROM bills
@@ -15,7 +15,7 @@ END  $$
 DROP PROCEDURE IF EXISTS insertBill$$ 
 CREATE PROCEDURE insertBill ( IN title TEXT , IN status VARCHAR(50) , IN url TEXT , IN code VARCHAR(50) , IN local_html TEXT , IN open VARCHAR(5) , IN local_json TEXT , IN local_xml TEXT , IN isLargeBill CHAR(1) , IN isAppropiationBill CHAR(1) ) 
 BEGIN 
-INSERT INTO bills (url,isAppropiationBill,open,code,status,isLargeBill,local_xml,local_html,title,local_json) VALUES (url , is_appropiation_bill , open , code , status , is_large_bill , local_xml , local_html , title , local_json) ;
+INSERT INTO bills (code,status,isLargeBill,isAppropiationBill,open,title,local_html,local_xml,url,local_json) VALUES (code , status , is_large_bill , is_appropiation_bill , open , title , local_html , local_xml , url , local_json) ;
 END $$
 
 DROP PROCEDURE IF EXISTS deleteBillByCode$$

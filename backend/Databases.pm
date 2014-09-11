@@ -118,7 +118,17 @@ create table admins
 END_ADMIN_USERS_TABLE
     ;
 
-
+# News
+my $CREATE_NEWS_TABLE = <<'END_NEWS_TABLE';
+create table news 
+(id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT, 
+ title TEXT NOT NULL, 
+ news_url VARCHAR(100), 
+ photo VARCHAR(50),
+ PRIMARY KEY(id)
+);
+END_NEWS_TABLE
+    ;
 
 # Normal Bills
 my $CREATE_BILL_TABLE = <<'END_BILL_TABLE';
@@ -134,8 +144,10 @@ create table bills
  local_xml TEXT,
  is_large_bill CHAR(1) NOT NULL,
  is_appropiation_bill CHAR(1) NOT NULL,
-PRIMARY KEY(id)
+ subject VARCHAR(100),
+ PRIMARY KEY(id)
 );
+
 END_BILL_TABLE
     ;
  
@@ -211,9 +223,9 @@ END_COMMENT
     ;
 
 ####################################
-my @tables = ($CREATE_MEMBERS_TABLE,$CREATE_LOGIN_ATTEMPTS_TABLE, $CREATE_INDIVIDUAL_USERS_TABLE, $CREATE_ORGANIZATION_USERS_TABLE, $CREATE_ADMIN_USERS_TABLE,$CREATE_BILL_TABLE,$CREATE_REPRESENTATIVES_TABLE,$CREATE_WALL_OF_AMERICA_TABLE,$CREATE_BILL_VOTE_TABLE,$CREATE_USER_VOTES_TABLE,$CREATE_COMMENT_TABLE,$CREATE_CONGRESS_VOTES_TABLE);
+my @tables = ($CREATE_MEMBERS_TABLE,$CREATE_LOGIN_ATTEMPTS_TABLE, $CREATE_INDIVIDUAL_USERS_TABLE, $CREATE_ORGANIZATION_USERS_TABLE, $CREATE_ADMIN_USERS_TABLE,$CREATE_BILL_TABLE,$CREATE_REPRESENTATIVES_TABLE,$CREATE_WALL_OF_AMERICA_TABLE,$CREATE_BILL_VOTE_TABLE,$CREATE_USER_VOTES_TABLE,$CREATE_COMMENT_TABLE,$CREATE_CONGRESS_VOTES_TABLE,$CREATE_NEWS_TABLE);
 
-my @table_names = ("members","login_attempts","individuals", "organizations","admins","bills","representatives","bill_votes","user_votes","wall_of_america","comments_bills","congress_votes");
+my @table_names = ("members","login_attempts","individuals", "organizations","admins","bills","representatives","bill_votes","user_votes","wall_of_america","comments_bills","congress_votes","news");
 
 ####################################
 
@@ -476,7 +488,7 @@ sub extractBills{
     my @columns = ("title","state","url","code","open","local_html");
     my @columnTypes = ("VARCHAR(100)","VARCHAR(50)","TEXT","VARCHAR(50)","VARCHAR(5)","TEXT");
 
-    my $billBufferColumns = "id, official_title, bill_type, status, updated_at, status_at, bill_id, subjects_top_term, enacted_as, number, short_title, introduced_at, congress, by_request, popular_title, bill_html, history, related_bills,bill_json,bill_xml";
+    my $billBufferColumns = "id, official_title, bill_type, status, updated_at, status_at, bill_id, subjects_top_term, enacted_as, number, short_title, introduced_at, congress, by_request, popular_title, bill_html, history, related_bills,bill_json,bill_xml,subjects_top_term";
     my $sql = "SELECT $billBufferColumns from congress_github_bills;";
     if($debug == 1){
 	print "Execute -->$sql\n";
@@ -484,7 +496,7 @@ sub extractBills{
     my $sth = $dbh->prepare($sql);
     $sth->execute or die "SQL Error: $DBI::errstr\n"; 
     while(my @row = $sth->fetchrow_array){
-	my ($id, $official_title, $bill_type, $status, $updated_at, $status_at, $bill_id, $subjects_top_term, $enacted_as, $number, $short_title, $introduced_at, $congress, $by_request, $popular_title, $localHtml, $history, $related_bills,$localJson,$localXml) = @row;
+	my ($id, $official_title, $bill_type, $status, $updated_at, $status_at, $bill_id, $subjects_top_term, $enacted_as, $number, $short_title, $introduced_at, $congress, $by_request, $popular_title, $localHtml, $history, $related_bills,$localJson,$localXml,$subject) = @row;
 	if (defined($localHtml)){
 	    $localHtml =~ s/.*(initialData.*)$/$1/;
 	}
@@ -494,8 +506,8 @@ sub extractBills{
 	if (defined($localXml)){
 	    $localXml =~ s/.*(initialData.*)$/$1/;
 	}
-	my @insertBillColumns = ("title","status","url","code","open","local_html","local_json","local_xml","is_appropiation_bill","is_large_bill");
-	my @insertBillData = ($official_title,$status,"NULL",$bill_id,"NULL",$localHtml,$localJson,$localXml,"n","n");
+	my @insertBillColumns = ("title","status","url","code","open","local_html","local_json","local_xml","is_appropiation_bill","is_large_bill","subject");
+	my @insertBillData = ($official_title,$status,"NULL",$bill_id,"NULL",$localHtml,$localJson,$localXml,"n","n",$subject);
 	$official_title =~ s/\(/\(/g;
 	$official_title =~ s/\)/\)/g;
 	my $insertTableName = "bills";
