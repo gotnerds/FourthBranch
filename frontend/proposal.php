@@ -14,6 +14,8 @@
 		<div class="introductionVideo col span_1_of_2">
 			<video width="100%" height="auto" controls="controls">
 				<source src="video/video.mp4" type="video/mp4">
+				<source src="video/video.ogv" type="video/ogv">
+				<source src="video/video.webm" type="video/webm">
 				video is not supoorted.
 			</video>
 		</div>
