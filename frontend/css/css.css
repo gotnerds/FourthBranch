@@ -192,7 +192,7 @@ textarea#reason { resize: none; background-color: white; }
 
 /* Bill of the Day */
 .billOfTheDay { width: 74%; margin-bottom: 30px; }
-.billOfTheDay h1 { margin: 3% 0; }
+.billOfTheDay h1 { text-align: center; margin: 3% 0; }
 
 .bill { margin-left: 7%; width: 77%; padding: 1%; }
 
