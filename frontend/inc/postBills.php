@@ -1,17 +1,19 @@
 <?php
 if (!empty($term)) {
-$statement = $mysqli->prepare  ("SELECT * FROM bills WHERE title LIKE '%".$term."%' ORDER BY id DESC LIMIT ?, ?");
+$sql = "SELECT local_html, code, title FROM bills WHERE title LIKE '%".$term."%' ORDER BY id DESC LIMIT ?, ?";
 } else {
 		# Get the posts in that 'page'
-		$statement = $mysqli->prepare  ("SELECT * FROM bills ORDER BY id DESC LIMIT ?, ?");
+		#$statement = $mysqli->prepare  ("SELECT * FROM bills ORDER BY id DESC LIMIT ?, ?");
+    $sql = 'SELECT * FROM bills ORDER BY id DESC LIMIT ?, ?';
 }
-		$statement->bind_param('ss', $page, $limit);
-		$statement->execute();
-		$results = $statement->get_result();
-		 while ( $row = $results->fetch_array() ) {
+$stm = $pdo->prepare($sql);
+$stm->bindParam(1, $page, PDO::PARAM_INT);
+$stm->bindParam(2, $limit, PDO::PARAM_INT);
+$stm->execute();
+		 while ( $row = $stm->fetch() ) {
 		 # And output one .post per database row :) 
-			$voteBillConvert = str_replace("html", "json", $row["local_html"]);
-			$voteBillJson = file_get_contents("C:\Ampps\www\FourthBranch\FourthBranch\outside_resources\\".str_replace("/", "\\", $voteBillConvert));
+			$voteBillConvert = str_replace("html", "json", $row['local_html']);
+            $voteBillJson = file_get_contents("C:\Ampps\www\FourthBranch\FourthBranch\outside_resources\\".str_replace("/", "\\", $voteBillConvert));
 			//$voteBillJson = file_get_contents("./cgi-bin/".$voteBillConvert);
 			$voteBillJsonDecoded = json_decode($voteBillJson, true);
 			$voteBillJsonSnippit = $voteBillJsonDecoded['summary']['text'];
@@ -143,7 +145,6 @@ $statement = $mysqli->prepare  ("SELECT * FROM bills WHERE title LIKE '%".$term.
     </div>
     </article>';
 	}
-	$statement->close();
     echo '</div>';
 	echo '<div id="pages" style="margin-bottom:30px;">';
 	if ($page != 0) {
@@ -163,5 +164,4 @@ $statement = $mysqli->prepare  ("SELECT * FROM bills WHERE title LIKE '%".$term.
 			});
 		});
 	</script>";
-$mysqli->close();
  ?>

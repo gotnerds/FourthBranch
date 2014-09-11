@@ -890,11 +890,13 @@ margin-top:15px;
 		resize:none;
 		height: 230px;
 		text-align:left;
-		max-width:100%;
+		width:100%;
 		margin:0;
 		padding:0;
 		border:none;
 		background:transparent;
+	    outline:0px !important;
+    	-webkit-appearance:none;
 	}
 	.submit {
 		text-align:center;
@@ -1095,4 +1097,93 @@ footer {
 		margin:30px 0;
 		display:inline-block;
 	}
+}
+.proposal1 {
+	@include colorBorder;
+	@include box-shadow;
+	padding:20px;
+	margin: 0 10px 20px;
+    label{ float: left; }
+    legend {
+    	clear:both;
+    }
+    .indent {
+    	margin: 0 20px;
+    }
+    .medText{
+    	@include font-size(20px);
+    	margin: 1em 0;
+    }
+    fieldset {
+    	border:0;
+    	label {
+    		float:none;
+    	}
+    }
+    span
+    {
+        display: block;
+        overflow: hidden;
+        padding-right: 5px;
+        padding-left: 10px;
+    }
+    .blueButton {
+    	position:absolute;
+    	right:20px;
+    	bottom:10px;
+    }
+    input[type="text"] {
+    	@include font-size(20px);
+    }
+    span > input{ width: 100%; }
+    .nofloat {
+    	float:none;
+    }
+    .largeText {
+    	@include font-size(24px);
+    	font-weight: bold;
+    }
+}	
+.newsPage {
+	.newsItem {
+		height:250px;
+		position:relative;
+		text-align:center;
+		cursor:pointer;
+		background-size:cover;
+		-webkit-filter: grayscale(100%);
+		-moz-filter: grayscale(100%);
+		-ms-filter: grayscale(100%);
+		-o-filter: grayscale(100%);
+		filter: grayscale(100%);
+		filter: gray; /* IE 6-9 */;
+		&:hover {
+			-webkit-filter: grayscale(0%);
+			-moz-filter: grayscale(0%);
+			-ms-filter: grayscale(0%);
+			-o-filter: grayscale(0%);
+			filter: grayscale(0%);
+			filter: color;
+		}
+		&:after {
+			content:"This is the Headline.";
+			position:absolute;
+			bottom:0px;
+			display:none;
+			width:100%;
+			padding:10px 0;
+			background-color:rgba(0,0,0,.6);
+			color:white;
+			text-align:center;
+		}
+		&:hover:after {
+			display:block;
+		}
+	}
+	h4 {
+		margin-bottom:.5em;
+		color: $blue;
+	}
+	text-align:center;
+	margin-bottom:40px;
 }

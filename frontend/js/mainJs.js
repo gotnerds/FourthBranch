@@ -103,6 +103,13 @@ $(document).ready(function(){
     } else {
     equalizeHeight('.introductionVideo', '.introductionDesc');
    	}
+    var max = 3;
+    var checkboxes = $('.proposal1 input[type="checkbox"]');
+
+    checkboxes.change(function(){
+        var current = checkboxes.filter(':checked').length;
+        checkboxes.filter(':not(:checked)').prop('disabled', current >= max);
+});
 });
 $(document).mouseup(function (e)
 {
