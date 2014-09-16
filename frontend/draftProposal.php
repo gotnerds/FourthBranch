@@ -45,7 +45,6 @@
 		$page = $index * $limit;
 		if (isset($_POST['proposal-submit'])){
 		include ('./inc/searchBills.php');
-
 		$terms = $_POST['proposalName'];
 		$sql = search_perform($terms);
 		$stm = $pdo->prepare($sql);
@@ -93,7 +92,7 @@
 	<form class="proposal1 hasRadio" action="" method="POST" id="proposalDraft1" name="proposalDraft1"> 
 			<label for="proposalName" class="largeText">Name of Bill:</label>
 			<span>
-				<input type="text" name="proposalName" maxlength="150">
+				<input type="text" name="proposalName" maxlength="150" required>
 			</span>
 		<div class="medText">Does your proposal concern the Federal Government or your state?</div>
 		<span>

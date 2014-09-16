@@ -1,16 +1,16 @@
 <?php include("header.php"); ?>
 <div class="bodyWrap">
+    <h1 class="seal" style="text-align:center;">BILL OF THE DAY</h1>
 <?php
 include("./inc/notd.php");
 include("./inc/getBillOfTheDay.php");
 include("./inc/getTomorrowsBill.php");
 ?>
 <section class="billOfTheDay">
-    <h1 class="seal">BILL OF THE DAY</h1>
     <article class="bill">
         <div class="billTitle">
-            <h4><?php echo strtoupper($billOfTheDay["code"]); ?>:</br>
-            <?php echo $billOfTheDay["title"] ?></h4>
+            <a href="bill.php?code=<?php echo $billOfTheDay["code"]; ?>"> <h4><?php echo strtoupper($billOfTheDay["code"]); ?>:</br>
+            <?php echo $billOfTheDay["title"] ?></h4> </a>
             <span>(Section 3 of 9)</span>
         </div>
         <p class="billDescription"><?php $pos=strpos($billJsonSnippit, ' ', 417); echo substr($billJsonSnippit, strpos($billJsonSnippit, "- ") + 2, $pos - 1)."..."; ?></p>
@@ -200,8 +200,8 @@ include("./inc/getTomorrowsBill.php");
         <div class="section group">
             <div class="tomorrowsBillBox col span_2_of_3 first-child">
                 <div class="tomorrowsBillTitle">
-                    <h4><?php echo strtoupper($tomorrowsBill['code']) ?>:</br>
-                    <?php echo $tomorrowsBill['title'] ?></h4>
+                    <a href="bill.php?code=<?php echo $tomorrowsBill["code"]; ?>"> <h4><?php echo strtoupper($tomorrowsBill['code']) ?>:</br>
+                    <?php echo $tomorrowsBill['title'] ?></h4></a>
                 </div>
                 <p><?php $pos=strpos($tomorrowsBillJsonSnippit, ' ', 417); echo substr($tomorrowsBillJsonSnippit, strpos($tomorrowsBillJsonSnippit, "- ") + 2, ($pos - strpos($tomorrowsBillJsonSnippit, "- ") - 2))."..."; ?></pre></p>
             </div>

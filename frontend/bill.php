@@ -1,49 +1,37 @@
-<?php
-if (!empty($terms)) {
-    include('searchBills.php');
-$sql = search_perform($terms);
-} else {
-		# Get the posts in that 'page'
-		#$statement = $mysqli->prepare  ("SELECT * FROM bills ORDER BY id DESC LIMIT ?, ?");
-    $sql = 'SELECT * FROM bills ORDER BY id DESC LIMIT ?, ?';
-}
-$sqlOrder = str_replace("*", "COUNT(*)", $sql);
-$remove=strrchr($sqlOrder,'ORDER');
-//remove is now "- Name: bmackeyodonnell"
-$sqlOrder=str_replace(" $remove","",$sqlOrder);
-$statement = $pdo->prepare ($sqlOrder);
-$statement->execute();
-$count = $statement->fetchColumn();
-#The result is now in the $count variable.
+<?php 
+include('header.php');
+$billCode = htmlspecialchars($_GET["code"]);
+$sql = "SELECT * FROM bills WHERE code = '".$billCode."'";
 $stm = $pdo->prepare($sql);
-$stm->bindParam(1, $page, PDO::PARAM_INT);
-$stm->bindParam(2, $limit, PDO::PARAM_INT);
 $stm->execute();
-		 while ( $row = $stm->fetch() ) {
-		 # And output one .post per database row :) 
-			$voteBillConvert = str_replace("html", "json", $row['local_html']);
-            $voteBillJson = file_get_contents("C:\Ampps\www\FourthBranch\FourthBranch\outside_resources\\".str_replace("/", "\\", $voteBillConvert));
-			//$voteBillJson = file_get_contents("./cgi-bin/".$voteBillConvert);
-			$voteBillJsonDecoded = json_decode($voteBillJson, true);
-			$voteBillJsonSnippit = $voteBillJsonDecoded['summary']['text'];
-			if (strlen($voteBillJsonSnippit) >= 317) {
-				$pos = strpos($voteBillJsonSnippit, " ", 317);
-			} else {
-				$pos = 318;
-			}
-			if (strpos($voteBillJsonSnippit, "- ") == 0){
-				$strpos = -2;
-			} else {
-				$strpos = strpos($voteBillJsonSnippit, "- ");
-			}
-			$voteBillDescSnippit = substr($voteBillJsonSnippit, $strpos + 2, $pos - 1);
-		  echo '<article class="bill section group">
-
-        <div class="billTitle">
-            <a href="bill.php?code='.($row["code"]).'"> <h4>'.strtoupper($row["code"]).'</br>
-            '.$row["title"].'</h4></a>
-            <span>(Section 3 of 9)</span>
-        </div>
+$row = $stm->fetch();
+?>
+<div class="bodyWrap">
+<section class="votePage">
+<?php
+# And output one .post per database row :) 
+$voteBillConvert = str_replace("html", "json", $row['local_html']);
+$voteBillJson = file_get_contents("C:\Ampps\www\FourthBranch\FourthBranch\outside_resources\\".str_replace("/", "\\", $voteBillConvert));
+//$voteBillJson = file_get_contents("./cgi-bin/".$voteBillConvert);
+$voteBillJsonDecoded = json_decode($voteBillJson, true);
+$voteBillJsonSnippit = $voteBillJsonDecoded['summary']['text'];
+if (strlen($voteBillJsonSnippit) >= 317) {
+	$pos = strpos($voteBillJsonSnippit, " ", 317);
+} else {
+	$pos = 318;
+}
+if (strpos($voteBillJsonSnippit, "- ") == 0){
+	$strpos = -2;
+} else {
+	$strpos = strpos($voteBillJsonSnippit, "- ");
+}
+$voteBillDescSnippit = substr($voteBillJsonSnippit, $strpos + 2, $pos - 1);
+echo '<article class="bill section group">
+    <div class="billTitle">
+        <h4>'.strtoupper($row["code"]).'</br>
+        '.$row["title"].'</h4>
+        <span>(Section 3 of 9)</span>
+    </div>
     <div class="col span_1_of_3 first-child columnBottom">
         <p class="billDescription">'.$voteBillDescSnippit.'...</p>
         <p class="postNavigation">
@@ -63,7 +51,7 @@ $stm->execute();
             });
         </script>';
         }
-        echo '<div class="voteUserBox">
+    echo '<div class="voteUserBox">
 	        <form class="voteUser hasRadio" action="" method="POST">
 	            <input type="radio" class="votePass" name="voteUser" id="pass" value="pass" onChange=';
 	            if(isset($_SESSION)){
@@ -152,29 +140,7 @@ $stm->execute();
             <button class="comment shareButton">Comment</button>
         </div>
     </div>
-    </article>';
-	}
+    </article></section>';
     echo '</div>';
-	echo '<div id="pages" style="margin-bottom:30px;">';
-	if ($page != 0) {
-		echo '<a style="color:black;" href="?page=' . ($index-1) . '">Previous Page</a> ';
-	} if ($page + $limit < $count) { 
-        if (!empty($terms)) {
-        echo '<a id="next" style="color:black;float:right;" href="?page=' . ($index+1) . '">Next Page</a>';            
-        } else {
-		echo '<a id="next" style="color:black;float:right;" href="?page=' . ($index+1) . '">Next Page</a>';
-        }
-    }  echo "</div>";
-	# Output the JS too
-	echo "<script src='js/jquery.infinitescroll.min.js'></script>
-	<script type='text/javascript'>
-		$(document).ready(function() { 
-			$('#results').infinitescroll({ 
-				debug: true,
-				navSelector : '#pages',
-				nextSelector : '#next',
-				itemSelector : '.bill',
-			});
-		});
-	</script>";
- ?>
+   include ('footer.php');
+   ?>
