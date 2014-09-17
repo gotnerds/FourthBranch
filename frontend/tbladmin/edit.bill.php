@@ -1,29 +1,34 @@
 
 <?php
 
-include("include/dbcon.php");
+include("../inc/db_conx.php");
+$con = $db_conx;
 $id=$_GET['id'];
 
-$sql="select * from bill where id=$id";
+$sql="select * from bills where id=$id";
 $query=mysqli_query($con,$sql);
 while($res=mysqli_fetch_assoc($query)){
 
 
-
+   
 $billtype=$res['billType'];
-$bp=$res['b_or_p'];
-$proposal1=$res['proposalCategory1'];
-$proposal2=$res['proposalCategory2'];
-$proposal3=$res['proposalCategory3'];
+if ($res['is_large_bill'] == y){
+    $bp = 'Large Bill';
+} elseif ($res['is_appropriation_bill']) {
+    $bp = 'Appropriation Bill';
+} else {
+    $bp = 'Normal Bill';
+}
+$proposal1=$res['subject'];
 $title=$res['title'];
 $date1=$res['dateIssued'];
-$submit=$res['submittedBy'];
+$submitted=$res['submittedBy'];
 $status=$res['status'];
 $content=$res['content'];
 $summary=$res['summary'];
-$submittedBy=$res['summarySubmittedBY'];
-$billcode=$res['billcode'];
-$hyper=$res['hyperlinck'];
+$summarysubmit=$res['summarysubmit'];
+$billcode=$res['code'];
+$hyperlink=$res['hyperlinck'];
 $cause=$res['cause'];
 $legal=$res['legalStatus'];
 
@@ -50,7 +55,7 @@ $cause=$_POST['cause'];
 $legal=$_POST['legal'];
 
 
-$sql1="update bill set billType='$billtype',b_or_p='$bp',proposalCategory1='$proposal1',proposalCategory2='$proposal2',proposalCategory3='$proposal3',
+$sql1="update bills set billType='$billtype',b_or_p='$bp',proposalCategory1='$proposal1',proposalCategory2='$proposal2',proposalCategory3='$proposal3',
 title='$title',dateIssued='$date1',submittedBy='$submitted',status='$status',content='$content',summary='$summary',summarySubmittedBY='$summarysubmit',
 billcode='$billcode',hyperlinck='$hyperlink',cause='$cause',legalStatus='$legal' where id=$id
 ";
@@ -158,33 +163,11 @@ else{
 
 
                     <tr>
-                    <td style="font-weight:bold">Proposal Category 1</td>
+                    <td style="font-weight:bold">Category</td>
                     <td>
                          <input type="text" name="proposal1" value="<?php echo $proposal1;?>" class="input-medium">
 
                         
-                    </td>
-                    
-                    </tr>
-
-
-                    <tr>
-                    <td style="font-weight:bold">Proposal Category 2</td>
-                    <td>
-                        <input type="text" name="proposal2" value="<?php echo $proposal2;?>" class="input-medium">
-
-
-                    </td>
-                    
-                    </tr>
-
-
-                      <tr>
-                    <td style="font-weight:bold">Proposal Category 3</td>
-                    <td>
-                         <input type="text" name="proposal3" value="<?php echo $proposal3;?>" class="input-medium">
-
-
                     </td>
                     
                     </tr>

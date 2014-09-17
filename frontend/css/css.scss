@@ -645,6 +645,7 @@ textarea#reason {
 	width:74%;
 	margin-bottom:30px;
 	h1 {
+		text-align:center;
 		margin:3% 0;
 	}
 }
@@ -674,7 +675,7 @@ textarea#reason {
 .postNavigation {
 	text-align:right;
 	@include font-size(12px);
-	transform:color;
+	text-transformm:color;
 	cursor:pointer;
 		a{
 		color:$blue;
@@ -773,13 +774,13 @@ margin-top:15px;
 	h3 {
 		margin-bottom: 20px;
 		float: left;
-		width: 37%;
+		width: 32%;
 		text-align: center;
 	}
 	.billMap {
 		position:relative;
 		float:right;
-		width:58%;
+		width:65%;
 		margin: 20px 0.5% 0 1.5%;
 		max-height:100%;
 		img {
@@ -804,7 +805,7 @@ margin-top:15px;
 		}
 	}
 	.billMapStatistics {
-		width:40%;
+		width:32%;
 		float:right;
 		li{
 			color:white;
@@ -1064,39 +1065,39 @@ footer {
 	hr {
 		margin-top:50px;
 	}
-	.proposalList {
-		text-align:center;
-		.proposalListItem {
-			@include box-shadow(0,0,1px);
-			cursor:pointer;
-			&:hover {
-				@include box-shadow;
-			}
-			.blueButton {
-				width:100%;
-				display:block;
-				clear:both;
-				margin-bottom:0;
-			}
+}
+.proposalList {
+	text-align:center;
+	.proposalListItem {
+		@include box-shadow(0,0,1px);
+		cursor:pointer;
+		&:hover {
+			@include box-shadow;
 		}
-		.proposalListTitle {
-			@include flexCenter(column);
-			height:100px;
-			border-bottom:1px solid black;
-		}
-		.proposalListDetails {
-			@include font-size(14px);
-			div {
-				width: $third;
-				float:left;
-				margin:1% 0;
-			}
+		.blueButton {
+			width:100%;
+			display:block;
+			clear:both;
+			margin-bottom:0;
 		}
 	}
-	.proposalListMore {
-		margin:30px 0;
-		display:inline-block;
+	.proposalListTitle {
+		@include flexCenter(column);
+		height:100px;
+		border-bottom:1px solid black;
 	}
+	.proposalListDetails {
+		@include font-size(14px);
+		div {
+			width: $third;
+			float:left;
+			margin:1% 0;
+		}
+	}
+}
+.proposalListMore {
+	margin:30px 0;
+	display:inline-block;
 }
 .proposal1 {
 	@include colorBorder;

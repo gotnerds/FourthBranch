@@ -1,7 +1,7 @@
 
 <?php
-include("include/dbcon.php");
-
+include("../inc/db_conx.php");
+$con = $db_conx;
 $billid=$_GET['id'];
 
 if(isset($billid)){
@@ -23,15 +23,15 @@ if(isset($_POST['keyword'])){
     $q = $_POST['keyword'];
     if(is_numeric($q)){
         
-        $sql="select * from bill WHERE billcode = ".$q." order by id desc";
+        $sql="select * from bills WHERE code = ".$q." order by id desc";
         $query=mysqli_query($con,$sql);
     }else{
         
-        $sql="select * from bill WHERE title LIKE '".$q."' order by id desc";
+        $sql="SELECT * from bills WHERE title LIKE '%".$q."%' ORDER BY id DESC LIMIT 100";
         $query=mysqli_query($con,$sql);
     }
 }else{
-    $sql="select * from bill order by id desc";
+    $sql="select * from bills order by id desc limit 100";
     $query=mysqli_query($con,$sql);
 }
 ?>
@@ -118,13 +118,12 @@ if(isset($_POST['keyword'])){
                         		<table class="table">
                         		<tr>
                         			<th> Bill Code </th>
-                        			<th> Bill Type </th>
+                        			<th> Bill Subject </th>
                         			<th> Bill Title </th>
                         			
                         			<th> View </th>
                         			<th> Status </th>
 									<th>Bill Of The Day</th>
-                                    <th>Senators and <br/> Representative</th>
                         		</tr>
                         		
                         			
@@ -132,8 +131,9 @@ if(isset($_POST['keyword'])){
                                             if (isset($query) && !empty($query)) {
                         					   while($res=mysqli_fetch_assoc($query)){
                                                 $id=$res['id'];
-                        						$billcode=$res['billcode'];
+                        						$billcode=$res['code'];
                         						$billtype=$res['billType'];
+                                                $billsubject=$res['subject'];
                         						$title=$res['title'];
                         						$status = $res['status'];
 
@@ -143,7 +143,7 @@ if(isset($_POST['keyword'])){
                         							$billcode
                         						</td>
                         						<td>
-                        							$billtype
+                        							$billsubject
                         						</td>
                         						<td>
                         							$title
@@ -160,11 +160,6 @@ if(isset($_POST['keyword'])){
 										<td>
                         							<a href='bill.php?id=$id' id='bod' title='Bill Of The Day' >BOD</a>
                         						</td>
-												<td>";
-                        							if( ($status=='Close') || ($status=='close')){
-													echo "<a href='rep.php?id=$id' id='rep'  >Add</a>";
-													}
-                        						"</td>
 
                         					</tr>";
                         					}

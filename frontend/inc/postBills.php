@@ -1,11 +1,20 @@
 <?php
-if (!empty($term)) {
-$sql = "SELECT local_html, code, title FROM bills WHERE title LIKE '%".$term."%' ORDER BY id DESC LIMIT ?, ?";
+if (!empty($terms)) {
+    include('searchBills.php');
+$sql = search_perform($terms);
 } else {
 		# Get the posts in that 'page'
 		#$statement = $mysqli->prepare  ("SELECT * FROM bills ORDER BY id DESC LIMIT ?, ?");
     $sql = 'SELECT * FROM bills ORDER BY id DESC LIMIT ?, ?';
 }
+$sqlOrder = str_replace("*", "COUNT(*)", $sql);
+$remove=strrchr($sqlOrder,'ORDER');
+//remove is now "- Name: bmackeyodonnell"
+$sqlOrder=str_replace(" $remove","",$sqlOrder);
+$statement = $pdo->prepare ($sqlOrder);
+$statement->execute();
+$count = $statement->fetchColumn();
+#The result is now in the $count variable.
 $stm = $pdo->prepare($sql);
 $stm->bindParam(1, $page, PDO::PARAM_INT);
 $stm->bindParam(2, $limit, PDO::PARAM_INT);
@@ -150,8 +159,12 @@ $stm->execute();
 	if ($page != 0) {
 		echo '<a style="color:black;" href="?page=' . ($index-1) . '">Previous Page</a> ';
 	} if ($page + $limit < $count) { 
+        if (!empty($terms)) {
+        echo '<a id="next" style="color:black;float:right;" href="?page=' . ($index+1) . '">Next Page</a>';            
+        } else {
 		echo '<a id="next" style="color:black;float:right;" href="?page=' . ($index+1) . '">Next Page</a>';
-	}  echo "</div>";
+        }
+    }  echo "</div>";
 	# Output the JS too
 	echo "<script src='js/jquery.infinitescroll.min.js'></script>
 	<script type='text/javascript'>

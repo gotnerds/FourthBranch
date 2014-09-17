@@ -11,7 +11,7 @@ include("inc/getBills.php");
 				<div class="searchKeywords">
 					<input type="search" name="term" size="40" placeholder=
 					<?php if (!empty($_REQUEST['term'])) {
-						?>"<?php echo $term; ?>" <?php
+						?>"<?php echo $terms; ?>" <?php
 					 } else { ?>
 					"Enter Keywords..."<?php } ?> autofocus>
 					<button class="button" type="submit" name="search-button">Search</button>

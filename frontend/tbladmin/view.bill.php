@@ -1,17 +1,22 @@
 
 <?php
 
-include("include/dbcon.php");
-
+include("../inc/db_conx.php");
+$con = $db_conx;
 $id=$_GET['id'];
-$sql="select * from bill where id=$id";
+$sql="select * from bills where id=$id";
 $query=mysqli_query($con,$sql);
 while($res=mysqli_fetch_assoc($query)){
+    
 $billtype=$res['billType'];
-$bp=$res['b_or_p'];
-$proposal1=$res['proposalCategory1'];
-$proposal2=$res['proposalCategory2'];
-$proposal3=$res['proposalCategory3'];
+if ($res['is_large_bill'] == y){
+    $bp = 'Large Bill';
+} elseif ($res['is_appropriation_bill']) {
+    $bp = 'Appropriation Bill';
+} else {
+    $bp = 'Normal Bill';
+}
+$proposal1=$res['subject'];
 $title=$res['title'];
 $date1=$res['dateIssued'];
 $submitted=$res['submittedBy'];
@@ -19,7 +24,7 @@ $status=$res['status'];
 $content=$res['content'];
 $summary=$res['summary'];
 $summarysubmit=$res['summarysubmit'];
-$billcode=$res['billcode'];
+$billcode=$res['code'];
 $hyperlink=$res['hyperlinck'];
 $cause=$res['cause'];
 $legal=$res['legalStatus'];
@@ -126,32 +131,11 @@ $legal=$res['legalStatus'];
 
 
                     <tr>
-                    <td style="font-weight:bold">Proposal Category 1</td>
+                    <td style="font-weight:bold">Bill / Proposal Category</td>
                     <td>
                         
                         <?php echo $proposal1;?>
                     </td>
-                    
-                    </tr>
-
-
-                    <tr>
-                    <td style="font-weight:bold">Proposal Category 2</td>
-                    <td>
-                       
-                        <?php echo $proposal2;?>
-                    </td>
-                    
-                    </tr>
-
-
-                      <tr>
-                    <td style="font-weight:bold">Proposal Category 3</td>
-                    <td>
-                         <?php echo $proposal3;?>
-
-                    </td>
-                    
                     </tr>
 
 

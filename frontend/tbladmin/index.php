@@ -1,11 +1,11 @@
 <?php ob_start(); ?>
 <?php
 session_start();
-	include("include/dbcon.php");
+	include("../inc/db_conx.php");
 
 
 
-
+$con = $db_conx;
 $sql="select * from users where userType='o'";
 $query=mysqli_query($con,$sql);
 
