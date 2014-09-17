@@ -319,7 +319,7 @@ sub writeStoredProcedures{
     my $outputFile = $_[0];
 
     open(OUTPUT,">>$outputFile") || die "Couldn't open $outputFile. $!\n";
-    print OUTPUT "DELIMETER $$";
+    print OUTPUT 'DELIMETER $$';
     ####################################################
     my $tableName = "bills";
     my $procedureName = "getBillByCode";
