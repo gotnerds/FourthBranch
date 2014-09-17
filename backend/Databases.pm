@@ -43,7 +43,19 @@ CREATE TABLE `login_attempts` (
     ) ENGINE=InnoDB;
 
 END_LOGIN_ATTEMPTS_TABLE
+    ;
 
+my $CREATE_REPORTED_COMMENTS_TABLE = <<'END_REPORTED_COMMENTS_TABLE';
+create table reported_comments
+( id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT, 
+  submitted_by VARCHAR(100) NOT NULL , 
+  date DATE NOT NULL,
+  relevant_bill MEDIUMINT NOT NULL, 
+  status VARCHAR(20) NOT NULL,
+  PRIMARY KEY (id)
+);
+END_REPORTED_COMMENTS_TABLE
+    ;
 
 # End  Tables from http://www.wikihow.com
 ###################################################################
@@ -105,6 +117,24 @@ create table organizations
   PRIMARY KEY (id)
 );
 END_ORGANIZATION_USERS_TABLE
+    ;
+
+
+my $CREATE_PROPOSAL_TABLE = <<'END_PROPOSAL_TABLE';
+create table proposals 
+( id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT, 
+  individual_id MEDIUMINT NOT NULL,
+  name VARCHAR(50) NOT NULL, 
+  concern VARCHAR(200), 
+  category1 VARCHAR(100),
+  category2 VARCHAR(100), 
+  category3 VARCHAR(100),
+  created DATE,
+  verified VARCHAR(1), 
+  description TEXT,
+  PRIMARY KEY (id)
+);
+END_PROPOSAL_TABLE
     ;
 
 # Admin Users
@@ -223,9 +253,9 @@ END_COMMENT
     ;
 
 ####################################
-my @tables = ($CREATE_MEMBERS_TABLE,$CREATE_LOGIN_ATTEMPTS_TABLE, $CREATE_INDIVIDUAL_USERS_TABLE, $CREATE_ORGANIZATION_USERS_TABLE, $CREATE_ADMIN_USERS_TABLE,$CREATE_BILL_TABLE,$CREATE_REPRESENTATIVES_TABLE,$CREATE_WALL_OF_AMERICA_TABLE,$CREATE_BILL_VOTE_TABLE,$CREATE_USER_VOTES_TABLE,$CREATE_COMMENT_TABLE,$CREATE_CONGRESS_VOTES_TABLE,$CREATE_NEWS_TABLE);
+my @tables = ($CREATE_MEMBERS_TABLE,$CREATE_LOGIN_ATTEMPTS_TABLE, $CREATE_INDIVIDUAL_USERS_TABLE, $CREATE_ORGANIZATION_USERS_TABLE, $CREATE_ADMIN_USERS_TABLE,$CREATE_BILL_TABLE,$CREATE_REPRESENTATIVES_TABLE,$CREATE_WALL_OF_AMERICA_TABLE,$CREATE_BILL_VOTE_TABLE,$CREATE_USER_VOTES_TABLE,$CREATE_COMMENT_TABLE,$CREATE_CONGRESS_VOTES_TABLE,$CREATE_NEWS_TABLE,$CREATE_REPORTED_COMMENTS_TABLE,$CREATE_PROPOSAL_TABLE);
 
-my @table_names = ("members","login_attempts","individuals", "organizations","admins","bills","representatives","bill_votes","user_votes","wall_of_america","comments_bills","congress_votes","news");
+my @table_names = ("members","login_attempts","individuals", "organizations","admins","bills","representatives","bill_votes","user_votes","wall_of_america","comments_bills","congress_votes","news","reported_comments","proposals");
 
 ####################################
 
@@ -377,6 +407,37 @@ sub writeStoredProcedures{
 	print "Writing -->$makeBillAppropiationBill\n";
     }
     print OUTPUT "$makeBillAppropiationBill\n";
+    ###################################################
+    $tableName = "proposals";
+    $procedureName = "insertProposal";
+    %insertHash = (
+	"individual_id" => "individual_id", 
+	"name" => "name", 
+	"concern" => "concern", 
+	"category1" => "category1",
+	"category2" => "category2",
+	"category3" => "category3",
+	"created" => "created",
+	"verified" => "verified",
+	"description" => "description",
+	);
+    $modifierString = "";
+    @parameterList = (
+	"individual_id MEDIUMINT",
+	"name VARCHAR(50)", 
+	"concern VARCHAR(200)",
+	"category1 VARCHAR(100)",
+	"category2 VARCHAR(100)", 
+	"category3 VARCHAR(100)",
+	"created DATE",
+	"verified VARCHAR(1)", 
+	"description TEXT"
+	);
+    my $insertProposal = MysqlUtils::generateInsertProcedureFromHash($tableName,$procedureName,\%insertHash,$modifierString,\@parameterList);
+    if($debug == 1){
+	print "Writing -->$insertProposal\n";
+    }
+    print OUTPUT "$insertProposal\n";
     ###################################################
 
 

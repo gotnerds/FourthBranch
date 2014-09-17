@@ -1,4 +1,4 @@
-DELIMETER 7037DROP PROCEDURE IF EXISTS getBillByCode$$
+DELIMETER 15048DROP PROCEDURE IF EXISTS getBillByCode$$
 CREATE PROCEDURE getBillByCode ( IN code CHAR(40) ) 
 BEGIN 
 SELECT title,status,url,code,open FROM bills
@@ -15,7 +15,7 @@ END  $$
 DROP PROCEDURE IF EXISTS insertBill$$ 
 CREATE PROCEDURE insertBill ( IN title TEXT , IN status VARCHAR(50) , IN url TEXT , IN code VARCHAR(50) , IN local_html TEXT , IN open VARCHAR(5) , IN local_json TEXT , IN local_xml TEXT , IN isLargeBill CHAR(1) , IN isAppropiationBill CHAR(1) ) 
 BEGIN 
-INSERT INTO bills (code,status,isLargeBill,isAppropiationBill,open,title,local_html,local_xml,url,local_json) VALUES (code , status , is_large_bill , is_appropiation_bill , open , title , local_html , local_xml , url , local_json) ;
+INSERT INTO bills (local_json,open,code,isLargeBill,title,url,local_html,status,isAppropiationBill,local_xml) VALUES (local_json , open , code , is_large_bill , title , url , local_html , status , is_appropiation_bill , local_xml) ;
 END $$
 
 DROP PROCEDURE IF EXISTS deleteBillByCode$$
@@ -38,4 +38,10 @@ BEGIN
 UPDATE bills SET is_appropiation_bill = isAppropiationBill 
 WHERE billid = id;
 END  $$
+
+DROP PROCEDURE IF EXISTS insertProposal$$ 
+CREATE PROCEDURE insertProposal ( IN individual_id MEDIUMINT , IN name VARCHAR(50) , IN concern VARCHAR(200) , IN category1 VARCHAR(100) , IN category2 VARCHAR(100) , IN category3 VARCHAR(100) , IN created DATE , IN verified VARCHAR(1) , IN description TEXT ) 
+BEGIN 
+INSERT INTO proposals (category3,concern,individual_id,description,category2,name,created,category1,verified) VALUES (category3 , concern , individual_id , description , category2 , name , created , category1 , verified) ;
+END $$
 
