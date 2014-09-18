@@ -19,36 +19,35 @@ $stm = $pdo->prepare($sql);
 $stm->bindParam(1, $page, PDO::PARAM_INT);
 $stm->bindParam(2, $limit, PDO::PARAM_INT);
 $stm->execute();
-		 while ( $row = $stm->fetch() ) {
+ while ( $row = $stm->fetch() ) {
 		 # And output one .post per database row :) 
-			$voteBillConvert = str_replace("html", "json", $row['local_html']);
-            $voteBillJson = file_get_contents("C:\Ampps\www\FourthBranch\FourthBranch\outside_resources\\".str_replace("/", "\\", $voteBillConvert));
-			//$voteBillJson = file_get_contents("./cgi-bin/".$voteBillConvert);
-			$voteBillJsonDecoded = json_decode($voteBillJson, true);
-			$voteBillJsonSnippit = $voteBillJsonDecoded['summary']['text'];
-			if (strlen($voteBillJsonSnippit) >= 317) {
-				$pos = strpos($voteBillJsonSnippit, " ", 317);
-			} else {
-				$pos = 318;
-			}
-			if (strpos($voteBillJsonSnippit, "- ") == 0){
-				$strpos = -2;
-			} else {
-				$strpos = strpos($voteBillJsonSnippit, "- ");
-			}
-			$voteBillDescSnippit = substr($voteBillJsonSnippit, $strpos + 2, $pos - 1);
-		  echo '<article class="bill section group">
-
+		$voteBillConvert = str_replace("html", "json", $row['local_html']);
+        $voteBillJson = file_get_contents("C:\Ampps\www\FourthBranch\FourthBranch\outside_resources\\".str_replace("/", "\\", $voteBillConvert));
+		//$voteBillJson = file_get_contents("./cgi-bin/".$voteBillConvert);
+		$voteBillJsonDecoded = json_decode($voteBillJson, true);
+		$voteBillJsonSnippit = $voteBillJsonDecoded['summary']['text'];
+		if (strlen($voteBillJsonSnippit) >= 317) {
+			$pos = strpos($voteBillJsonSnippit, " ", 317);
+		} else {
+			$pos = 318;
+		}
+		if (strpos($voteBillJsonSnippit, "- ") == 0){
+			$strpos = -2;
+		} else {
+			$strpos = strpos($voteBillJsonSnippit, "- ");
+		}
+		$voteBillDescSnippit = substr($voteBillJsonSnippit, $strpos + 2, $pos - 1);
+	    echo '<article class="bill section group">
         <div class="billTitle">
             <a href="bill.php?code='.($row["code"]).'"> <h4>'.strtoupper($row["code"]).'</br>
             '.$row["title"].'</h4></a>
             <span>(Section 3 of 9)</span>
         </div>
-    <div class="col span_1_of_3 first-child columnBottom">
-        <p class="billDescription">'.$voteBillDescSnippit.'...</p>
-        <p class="postNavigation">
-            <span><a>PREVIOUS</a> | <a>NEXT</a></span>
-        </p>
+        <div class="col span_1_of_3 first-child columnBottom">
+            <p class="billDescription">'.$voteBillDescSnippit.'...</p>
+            <p class="postNavigation">
+                <span><a>PREVIOUS</a> | <a>NEXT</a></span>
+            </p>
         <div class="postInfo">
             <span class="postAuthor">Submitted by <u>The Fourth Branch Team</u></span>
             <span class="timeStamp">11:30pm 01/07/2013</span>
@@ -153,7 +152,7 @@ $stm->execute();
         </div>
     </div>
     </article>';
-	}
+    }
     echo '</div>';
 	echo '<div id="pages" style="margin-bottom:30px;">';
 	if ($page != 0) {
