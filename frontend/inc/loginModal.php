@@ -1,3 +1,4 @@
+
 <div class='overlay'>
 	<div class='wrap-outer'>
 		<div class='wrap' style="position:relative;float:left;">
@@ -8,11 +9,11 @@
 					<h4 style='text-align:center;clear:both;'>
 						Login or Sign Up
 					</h4>																				
-					<form action="" name="llLogin" id="llLogin" method="post">
-						<input type='email' id="username" name="username" size='20' placeholder='Email' />
+					<form action="inc/process_login.php" name="llLogin" id="llLogin" method="post">
+						<input type='email' id="email" name="email" size='20' placeholder='Email' />
 						<input type='password' size='20' id="password" name="password" placeholder='Password' />
 						<div style='display:block;overflow:hidden;'>
-							<button class='button' name='login-button' type="submit" style='cursor: pointer;width:100px;float:left;margin-left:15px;font-size:larger;'>
+							<button class='button' name='login-button' type="button" onclick="formhash(this.form, this.form.password);" style='cursor: pointer;width:100px;float:left;margin-left:15px;font-size:larger;'>
 								Login
 							</button>
 							<button class='button' onclick='event.preventDefault(); introduction();' style='cursor: pointer;width:100px;float:right;margin-right:20px;font-size:larger;'>
@@ -95,7 +96,7 @@
 							Individual &nbsp; &nbsp; | &nbsp; &nbsp; <span style='color:grey;'>Organization</span>
 						</p>												
 					</div>
-                    <form name="addIndividual"  action="" id="addIndividual" method="post">
+                    <form name="addIndividual"  action="<?php echo esc_url($_SERVER['PHP_SELF']); ?>" id="addIndividual" method="post">
                     	<div style="margin: 15px;">
                              <div class="left"><label for="fname">First Name:</label>
 					     		<input type='text' style="width:150px;" name='fname' id='fname' maxlength='20'>
@@ -110,7 +111,7 @@
 							   <input type='date' style="width:150px;" name='dob' id='dob' placeholder="mm/dd/yyyy">
 							</div>	
                             <div class="left"><label for="emailI">Email:</label>
-								<input type='email' name='emailI' id='emalI' style="width:150px;" />	
+								<input type='email' name='email' id='email' style="width:150px;" />	
 							</div>	
                             <div class="right">
 								<label for="emailI2">Confirm Email:</label>
@@ -118,11 +119,11 @@
 							</div>		
                             <div class="left">
 								<label for="passI">Password:</label>
-								<input type='password' name='passI' id='passI' style="width:150px;" />
+								<input type='password' name='password' id='password' style="width:150px;" />
 							</div>
                              <div class="right">
 								<label for="passI2">Confirm Password:</label>
-								<input type='password' name='passI2' id='passI2' style="width:150px;" />
+								<input type='password' name='confirmpwd' id='confirmpwd' style="width:150px;" />
 							</div>	
                             <div class="left">
 								<label for="g[]">Gender:</label>
@@ -193,7 +194,11 @@
 							 </p>
                         </div>
 						<div style="float:right;overflow:hidden;margin:15px">
-							<button id='isignup'  class='button' name='addIndividual-button' type="submit"
+							<button id='isignup' type="button" class='button' name='addIndividual-button' onclick="return regformhash(this.form,
+                                   this.form.pseudonym,
+                                   this.form.email,
+                                   this.form.password,
+                                   this.form.confirmpwd);"
 									   style='cursor: pointer;
 									  			background-color: #2F68D1; 
 									  			color: #FFFFFF; 
