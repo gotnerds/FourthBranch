@@ -74,7 +74,7 @@ END_REPORTED_COMMENTS_TABLE
 my $CREATE_INDIVIDUAL_USERS_TABLE = <<'END_INDIVIDUAL_USERS_TABLE';
 create table individuals 
 ( id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT, 
-  first_name VARCHAR(50) NOT NULL UNIQUE , 
+  first_name VARCHAR(50) NOT NULL, 
   last_name VARCHAR(50) NOT NULL,
   username VARCHAR(30) NOT NULL, 
   birthdate DATE NOT NULL,
@@ -350,9 +350,9 @@ sub dropBackendTables{
 sub writeStoredProcedures{
     my $debug = 0;
     my $outputFile = $_[0];
-
+    
     open(OUTPUT,">>$outputFile") || die "Couldn't open $outputFile. $!\n";
-    print OUTPUT 'DELIMITER $$';
+    print OUTPUT 'DELIMITER $$'."\n";
     ####################################################
     my $tableName = "bills";
     my $procedureName = "getBillByCode";
@@ -515,7 +515,7 @@ sub writeStoredProcedures{
     print OUTPUT "$insertWallOfAmerica\n";
     ###################################################
     $tableName = "news";
-    $procedureName = "deleteNewsLink";
+    $procedureName = "deleteNewsItem";
     %whereHash = ("title"=>"title");
     @parameterList = ("title TEXT");
     my $deleteNewsLink = MysqlUtils::generateDeleteProcedureFromHash($tableName,$procedureName,\%whereHash,\@parameterList);
@@ -523,6 +523,29 @@ sub writeStoredProcedures{
 	print "Writing -->$deleteNewsLink\n";
     }
     print OUTPUT "$deleteNewsLink\n";
+    ###################################################
+    $tableName = "news";
+    $procedureName = "insertNewsItem";
+    %insertHash = (
+	"title" => "title", 
+	"news_url" => "news_url", 
+	"photo" => "photo", 
+	"category" => "category",
+	"category_index" => "category_index"
+	);
+    $modifierString = "";
+    @parameterList = (
+	"title TEXT",
+	"news_url VARCHAR(100)", 
+	"photo VARCHAR(50)",
+	"category VARCHAR(50)",
+	"category_index MEDIUMINT(9)"
+	);
+    my $insertNewsItem = MysqlUtils::generateInsertProcedureFromHash($tableName,$procedureName,\%insertHash,$modifierString,\@parameterList);
+    if($debug == 1){
+	print "Writing -->$insertNewsItem\n";
+    }
+    print OUTPUT "$insertNewsItem\n";
     ###################################################
     $tableName = "unapproved_profiles";
     $procedureName = "setUnapprovedOrganizationStatus";
@@ -566,37 +589,171 @@ sub writeStoredProcedures{
     }
     print OUTPUT "$deleteUnapprovedIndividual\n";
     ###################################################
-# Remove Bill
-    # Update Bill info
-    # Add Admin
-    # Remove Admin
-    # Update Admin Password
-    # Add Bill Vote
-    # Add reddit vote
-    # Add google vote
-    # add facebook vote
-    # add twitter vote
-    # add Bill comment
-    # add bill comment sub-comment
-    # Add Individual
-    # Update individual personal info
-    # update individual address
-    # update individual password
-    # update individual activated
-    # Add organization
-    # update organization personal info
-    # update organization address
-    # update organization auxilary info
-    # add related bill
-    # remove related bill
-    # add representative
-    # remove representative
-    # update representative info
-    # add user vote
-    # remove user vote
-    # Add wall of america
-    # remove wall of america
-    # update wall of america
+    $tableName = "admins";
+    $procedureName = "deleteAdmin";
+    %whereHash = ("email"=>"email");
+    @parameterList = ("email VARCHAR(50)");
+    my $deleteAdmin = MysqlUtils::generateDeleteProcedureFromHash($tableName,$procedureName,\%whereHash,\@parameterList);
+    if($debug == 1){
+	print "Writing -->$deleteAdmin\n";
+    }
+    print OUTPUT "$deleteAdmin\n";
+    ###################################################
+    $tableName = "admins";
+    $procedureName = "insertAdmin";
+    %insertHash = (
+	"email" => "email", 
+	"password" => "password",
+	"salt" => "salt"
+	);
+    $modifierString = "";
+    @parameterList = (
+	"email VARCHAR(50)",
+	"password VARCHAR(128)",
+	"salt VARCHAR(128)"
+	);
+    my $insertAdmin = MysqlUtils::generateInsertProcedureFromHash($tableName,$procedureName,\%insertHash,$modifierString,\@parameterList);
+    if($debug == 1){
+	print "Writing -->$insertAdmin\n";
+    }
+    print OUTPUT "$insertAdmin\n";
+    ###################################################
+    $tableName = "bill_votes";
+    $procedureName = "updateBillVote";
+    %updateHash = ("reddit"=>"reddit",
+	           "google"=>"google",
+	           "facebook"=>"facebook",
+	           "twitter"=>"twitter");
+    %whereHash = ("billId"=>"billId");
+    @parameterList = ("billId MEDIUMINT(9)","reddit MEDIUMINT(9)","google MEDIUMINT(9)","facebook MEDIUMINT(9)","twitter MEDIUMINT(9)");
+    my $updateBillVote = MysqlUtils::generateWriteProcedureFromHash($tableName,$procedureName,\%updateHash,\%whereHash,\@parameterList);
+    if($debug == 1){
+	print "Writing -->$updateBillVote\n";
+    }
+    print OUTPUT "$updateBillVote\n";
+    ###################################################
+    $tableName = "bill_votes";
+    $procedureName = "insertBillVote";
+    %insertHash = (
+	"billId"=>"billId",
+	"reddit"=>"reddit",
+	"google"=>"google",
+	"facebook"=>"facebook",
+	"twitter"=>"twitter"
+	);
+    $modifierString = "";
+    @parameterList = (
+	"billId MEDIUMINT(9)",
+	"reddit MEDIUMINT(9)",
+	"google MEDIUMINT(9)",
+	"facebook MEDIUMINT(9)",
+	"twitter MEDIUMINT(9)"
+	);
+    my $insertBillVote = MysqlUtils::generateInsertProcedureFromHash($tableName,$procedureName,\%insertHash,$modifierString,\@parameterList);
+    if($debug == 1){
+	print "Writing -->$insertBillVote\n";
+    }
+    print OUTPUT "$insertBillVote\n";
+    ###################################################
+    $tableName = "comments_bills";
+    $procedureName = "updateBillComment";
+    %updateHash = ( "user" => "user",
+		    "comment"=>"comment",
+		    "sub_comment"=>"sub_comment",
+		    "comment_post_date"=>"comment_post_date",
+		    "sub_comment_post_date"=>"sub_comment_post_date");
+    %whereHash = ("id"=>"id");
+    @parameterList = ("user MEDIUMINT(9)",
+		      "comment VARCHAR(200)",
+		      "sub_comment VARCHAR(200)",
+		      "comment_post_date DATE",
+		      "sub_comment_post_date DATE");
+    my $updateBillComment = MysqlUtils::generateWriteProcedureFromHash($tableName,$procedureName,\%updateHash,\%whereHash,\@parameterList);
+    if($debug == 1){
+	print "Writing -->$updateBillComment\n";
+    }
+    print OUTPUT "$updateBillComment\n";
+    ###################################################
+    $tableName = "comments_bills";
+    $procedureName = "insertBillComment";
+    %insertHash = ("user" => "user",
+		   "comment"=>"comment",
+		   "sub_comment"=>"sub_comment",
+		   "comment_post_date"=>"comment_post_date",
+		   "sub_comment_post_date"=>"sub_comment_post_date");
+    $modifierString = "";
+    @parameterList = ("user MEDIUMINT(9)",
+		      "comment VARCHAR(200)",
+		      "sub_comment VARCHAR(200)",
+		      "comment_post_date DATE",
+		      "sub_comment_post_date DATE");
+    my $insertBillComment = MysqlUtils::generateInsertProcedureFromHash($tableName,$procedureName,\%insertHash,$modifierString,\@parameterList);
+    if($debug == 1){
+	print "Writing -->$insertBillComment\n";
+    }
+    print OUTPUT "$insertBillComment\n";
+    ###################################################
+    $tableName = "comments_bill";
+    $procedureName = "deleteBillComment";
+    %whereHash = ("id"=>"id");
+    @parameterList = ("id MEDIUMINT(9)");
+    my $deleteBillComment = MysqlUtils::generateDeleteProcedureFromHash($tableName,$procedureName,\%whereHash,\@parameterList);
+    if($debug == 1){
+	print "Writing -->$deleteBillComment\n";
+    }
+    print OUTPUT "$deleteBillComment\n";
+    ###################################################
+    $tableName = "individuals";
+    $procedureName = "insertIndividual";
+    %insertHash = (
+	"first_name" => "first_name", 
+	"last_name" => "last_name", 
+	"username" => "username", 
+	"birthdate" => "birthdate",
+	"gender" => "gender",
+	"address" => "address",
+	"city" => "city",
+	"state" => "state",
+	"zip" => "zip",
+	"email" => "email",
+	"password" => "password",
+	"political_affiliation" => "political_affiliation",
+	"activated" => "activated",
+	"salt" => "salt"
+	);
+    $modifierString = "";
+    @parameterList = (
+	"first_name VARCHAR(50)", 
+	"last_name VARCHAR(50)",
+	"username VARCHAR(30)", 
+	"birthdate DATE",
+	"gender CHAR(1)", 
+	"address VARCHAR(200)", 
+	"city VARCHAR(200)", 
+	"state VARCHAR(100)", 
+	"zip MEDIUMINT",
+	"email VARCHAR(128)",
+	"password VARCHAR(100)", 
+	"political_affiliation VARCHAR(30)", 
+	"activated VARCHAR(5)", 
+	"salt VARCHAR(128)"
+	);
+    my $insertIndividual = MysqlUtils::generateInsertProcedureFromHash($tableName,$procedureName,\%insertHash,$modifierString,\@parameterList);
+    if($debug == 1){
+	print "Writing -->$insertIndividual\n";
+    }
+    print OUTPUT "$insertIndividual\n";
+    #####################################################
+    $tableName = "individuals";
+    $procedureName = "deleteIndividual";
+    %whereHash = ("id"=>"id");
+    @parameterList = ("id MEDIUMINT(9)");
+    my $deleteIndividual = MysqlUtils::generateDeleteProcedureFromHash($tableName,$procedureName,\%whereHash,\@parameterList);
+    if($debug == 1){
+	print "Writing -->$deleteIndividual\n";
+    }
+    print OUTPUT "$deleteIndividual\n";
+    ###################################################
 }
 
 sub extractRelatedBills{
@@ -713,7 +870,14 @@ sub writeTestData{
     }
     open(OUTPUT,">$outputFile") || die "Couldn't open $outputFile. SQL Error $DBI::errstr\n";
 
-    print OUTPUT "CALL makeBillAppropiationBill('y',1);";
+    print OUTPUT "CALL insertAdmin('test_email','test_password','test_salt');";
+    print OUTPUT "CALL insertBillComment (1,'test_comment','test_sub_comment',NOW(),NOW());"; 	
+    print OUTPUT "CALL insertBillVote (1,2,3,4,5);"; 	
+    print OUTPUT "CALL insertIndividual ('test_first','test_last','test_name',NOW(),'m','test_address','test_city','test_state',1,'test_email','test_pass','test_affiliation','test','test_salt');"; 	 	
+    print OUTPUT "CALL insertNewsItem ('test_title','test_url','test_photo','test_category',1); "; 	
+    print OUTPUT "insertProposal ";
+    print OUTPUT "CALL insertReportedComment('test_submitter',CURDATE(),-1,'test_status');\n"; 	
+    print OUTPUT "CALL insertWallOfAmerica ('1',CURDATE(),'test_dream','test_wish');"; 	
 }
 
 sub extractRepresentatives{

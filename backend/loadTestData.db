@@ -1,1 +1,2 @@
-CALL makeBillAppropiationBill('y',1);
+CALL insertAdmin('test_email','test_password','test_salt');CALL insertBillComment (1,'test_comment','test_sub_comment',NOW(),NOW());CALL insertBillVote (1,2,3,4,5);CALL insertIndividual ('test_first','test_last','test_name',NOW(),'m','test_address','test_city','test_state',1,'test_email','test_pass','test_affiliation','test','test_salt');CALL insertNewsItem ('test_title','test_url','test_photo','test_category',1); insertProposal CALL insertReportedComment('test_submitter',CURDATE(),-1,'test_status');
+CALL insertWallOfAmerica ('1',CURDATE(),'test_dream','test_wish');
