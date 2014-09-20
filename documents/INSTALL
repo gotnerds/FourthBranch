@@ -13,8 +13,8 @@ Install the production database
 	Launch mysql and run :
 	       source backend/production.db 
 	       source backend/stored_procedures.db
-	Web host providers usually require that stored procedures be added through a utility like phpMyAdmin. Just copy stored_procedures.db into a phpMyAdmin query window, remove the first line, and set the delimiter to $$.
-
+	OR
+	You can import the files through a utility like phpMyAdmin
 ****************************************************
 Setup Backend Development environment
       The backend development environment scrapes public congress data to generate the inital database image for the frontend.

@@ -1,0 +1,1 @@
+CALL makeBillAppropiationBill('y',1);

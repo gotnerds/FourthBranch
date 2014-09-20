@@ -1,4 +1,4 @@
-DELIMETER 15048DROP PROCEDURE IF EXISTS getBillByCode$$
+DELIMITER $$DROP PROCEDURE IF EXISTS getBillByCode$$
 CREATE PROCEDURE getBillByCode ( IN code CHAR(40) ) 
 BEGIN 
 SELECT title,status,url,code,open FROM bills
@@ -15,7 +15,7 @@ END  $$
 DROP PROCEDURE IF EXISTS insertBill$$ 
 CREATE PROCEDURE insertBill ( IN title TEXT , IN status VARCHAR(50) , IN url TEXT , IN code VARCHAR(50) , IN local_html TEXT , IN open VARCHAR(5) , IN local_json TEXT , IN local_xml TEXT , IN isLargeBill CHAR(1) , IN isAppropiationBill CHAR(1) ) 
 BEGIN 
-INSERT INTO bills (local_json,open,code,isLargeBill,title,url,local_html,status,isAppropiationBill,local_xml) VALUES (local_json , open , code , is_large_bill , title , url , local_html , status , is_appropiation_bill , local_xml) ;
+INSERT INTO bills (local_xml,local_json,status,url,code,title,isLargeBill,open,local_html,isAppropiationBill) VALUES (local_xml , local_json , status , url , code , title , is_large_bill , open , local_html , is_appropiation_bill) ;
 END $$
 
 DROP PROCEDURE IF EXISTS deleteBillByCode$$
@@ -42,6 +42,53 @@ END  $$
 DROP PROCEDURE IF EXISTS insertProposal$$ 
 CREATE PROCEDURE insertProposal ( IN individual_id MEDIUMINT , IN name VARCHAR(50) , IN concern VARCHAR(200) , IN category1 VARCHAR(100) , IN category2 VARCHAR(100) , IN category3 VARCHAR(100) , IN created DATE , IN verified VARCHAR(1) , IN description TEXT ) 
 BEGIN 
-INSERT INTO proposals (category3,concern,individual_id,description,category2,name,created,category1,verified) VALUES (category3 , concern , individual_id , description , category2 , name , created , category1 , verified) ;
+INSERT INTO proposals (verified,name,category2,individual_id,category1,description,category3,created,concern) VALUES (verified , name , category2 , individual_id , category1 , description , category3 , created , concern) ;
 END $$
+
+DROP PROCEDURE IF EXISTS insertReportedComment$$ 
+CREATE PROCEDURE insertReportedComment ( IN submitted_by VARCHAR(100) , IN date DATE , IN relevant_bill MEDIUMINT , IN status VARCHAR(20) ) 
+BEGIN 
+INSERT INTO reported_comments (relevant_bill,submitted_by,date,status) VALUES (relevant_bill , submitted_by , date , status) ;
+END $$
+
+DROP PROCEDURE IF EXISTS insertWallOfAmerica$$ 
+CREATE PROCEDURE insertWallOfAmerica ( IN user MEDIUMINT , IN date DATE , IN dream VARCHAR(200) , IN wish VARCHAR(200) ) 
+BEGIN 
+INSERT INTO wall_of_america (dream,user,wish,date) VALUES (dream , user , wish , date) ;
+END $$
+
+DROP PROCEDURE IF EXISTS deleteNewsLink$$
+CREATE PROCEDURE deleteNewsLink ( IN title TEXT ) 
+BEGIN 
+DELETE FROM news
+WHERE title = title;
+END  $$
+
+DROP PROCEDURE IF EXISTS setUnapprovedOrganizationStatus$$ 
+CREATE PROCEDURE setUnapprovedOrganizationStatus ( IN organization_id MEDIUMINT , IN status VARCHAR(20) ) 
+BEGIN 
+UPDATE unapproved_profiles SET status = status 
+WHERE organization_id = organization_id;
+END  $$
+
+DROP PROCEDURE IF EXISTS setUnapprovedIndividualStatus$$ 
+CREATE PROCEDURE setUnapprovedIndividualStatus ( IN individual_id MEDIUMINT , IN status VARCHAR(20) ) 
+BEGIN 
+UPDATE unapproved_profiles SET status = status 
+WHERE individual_id = individual_id;
+END  $$
+
+DROP PROCEDURE IF EXISTS deleteUnapprovedOrganization$$
+CREATE PROCEDURE deleteUnapprovedOrganization ( IN organization_id MEDIUMINT ) 
+BEGIN 
+DELETE FROM unapproved_profiles
+WHERE organization_id = organization_id;
+END  $$
+
+DROP PROCEDURE IF EXISTS deleteUnapprovedIndividual$$
+CREATE PROCEDURE deleteUnapprovedIndividual ( IN individual_id MEDIUMINT ) 
+BEGIN 
+DELETE FROM unapproved_profiles
+WHERE individual_id = individual_id;
+END  $$
 

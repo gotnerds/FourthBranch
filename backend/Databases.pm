@@ -45,6 +45,17 @@ CREATE TABLE `login_attempts` (
 END_LOGIN_ATTEMPTS_TABLE
     ;
 
+my $CREATE_UNAPPROVED_PROFILES_TABLE = <<'END_UNAPPROVED_PROFILES_TABLE';
+create table unapproved_profiles
+( id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT, 
+  organization_id MEDIUMINT , 
+  individual_id MEDIUMINT,
+  status VARCHAR(20) NOT NULL,
+  PRIMARY KEY (id)
+);
+END_UNAPPROVED_PROFILES_TABLE
+    ;
+
 my $CREATE_REPORTED_COMMENTS_TABLE = <<'END_REPORTED_COMMENTS_TABLE';
 create table reported_comments
 ( id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT, 
@@ -72,10 +83,11 @@ create table individuals
   city VARCHAR(200), 
   state VARCHAR(100), 
   zip MEDIUMINT,
-  email VARCHAR(100),
+  email VARCHAR(128),
   password VARCHAR(100), 
   political_affiliation VARCHAR(30), 
   activated VARCHAR(5), 
+  salt VARCHAR(128),
   PRIMARY KEY (id)
 );
 END_INDIVIDUAL_USERS_TABLE
@@ -111,7 +123,8 @@ create table organizations
   title_in_organization VARCHAR(300), 
   personal_phone VARCHAR(20), 
   email VARCHAR(40), 
-  password VARCHAR(30), 
+  password VARCHAR(128), 
+  salt VARCHAR(128),
   verified VARCHAR(5), 
   signup_date DATE,
   PRIMARY KEY (id)
@@ -142,7 +155,8 @@ my $CREATE_ADMIN_USERS_TABLE = <<'END_ADMIN_USERS_TABLE';
 create table admins 
 ( id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT,
   email VARCHAR(50) NOT NULL UNIQUE, 
-  password VARCHAR(200), 
+  password VARCHAR(128),
+  salt VARCHAR(128),
   PRIMARY KEY (id)
 );
 END_ADMIN_USERS_TABLE
@@ -155,11 +169,30 @@ create table news
  title TEXT NOT NULL, 
  news_url VARCHAR(100), 
  photo VARCHAR(50),
+ category VARCHAR(50),
+ category_index MEDIUMINT,
  PRIMARY KEY(id)
 );
 END_NEWS_TABLE
     ;
 
+# Static webpages
+my $CREATE_STATIC_PAGES_TABLE = <<'END_STATIC_PAGES_TABLE';
+create table static_pages 
+(id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT, 
+ page_title TEXT NOT NULL, 
+ text_blob1 TEXT, 
+ text_blob2 TEXT,
+ text_blob3 TEXT,
+ text_blob4 TEXT,
+ picture1 VARCHAR(200),
+ picture2 VARCHAR(200),
+ picture3 VARCHAR(200),
+ picture4 VARCHAR(200),
+ PRIMARY KEY(id)
+);
+END_STATIC_PAGES_TABLE
+    ;
 # Normal Bills
 my $CREATE_BILL_TABLE = <<'END_BILL_TABLE';
 create table bills 
@@ -253,9 +286,9 @@ END_COMMENT
     ;
 
 ####################################
-my @tables = ($CREATE_MEMBERS_TABLE,$CREATE_LOGIN_ATTEMPTS_TABLE, $CREATE_INDIVIDUAL_USERS_TABLE, $CREATE_ORGANIZATION_USERS_TABLE, $CREATE_ADMIN_USERS_TABLE,$CREATE_BILL_TABLE,$CREATE_REPRESENTATIVES_TABLE,$CREATE_WALL_OF_AMERICA_TABLE,$CREATE_BILL_VOTE_TABLE,$CREATE_USER_VOTES_TABLE,$CREATE_COMMENT_TABLE,$CREATE_CONGRESS_VOTES_TABLE,$CREATE_NEWS_TABLE,$CREATE_REPORTED_COMMENTS_TABLE,$CREATE_PROPOSAL_TABLE);
+my @tables = ($CREATE_MEMBERS_TABLE,$CREATE_LOGIN_ATTEMPTS_TABLE, $CREATE_INDIVIDUAL_USERS_TABLE, $CREATE_ORGANIZATION_USERS_TABLE, $CREATE_ADMIN_USERS_TABLE,$CREATE_BILL_TABLE,$CREATE_REPRESENTATIVES_TABLE,$CREATE_WALL_OF_AMERICA_TABLE,$CREATE_BILL_VOTE_TABLE,$CREATE_USER_VOTES_TABLE,$CREATE_COMMENT_TABLE,$CREATE_CONGRESS_VOTES_TABLE,$CREATE_NEWS_TABLE,$CREATE_REPORTED_COMMENTS_TABLE,$CREATE_PROPOSAL_TABLE,$CREATE_STATIC_PAGES_TABLE);
 
-my @table_names = ("members","login_attempts","individuals", "organizations","admins","bills","representatives","bill_votes","user_votes","wall_of_america","comments_bills","congress_votes","news","reported_comments","proposals");
+my @table_names = ("members","login_attempts","individuals", "organizations","admins","bills","representatives","bill_votes","user_votes","wall_of_america","comments_bills","congress_votes","news","reported_comments","proposals","static_pages");
 
 ####################################
 
@@ -319,7 +352,7 @@ sub writeStoredProcedures{
     my $outputFile = $_[0];
 
     open(OUTPUT,">>$outputFile") || die "Couldn't open $outputFile. $!\n";
-    print OUTPUT 'DELIMETER $$';
+    print OUTPUT 'DELIMITER $$';
     ####################################################
     my $tableName = "bills";
     my $procedureName = "getBillByCode";
@@ -419,7 +452,7 @@ sub writeStoredProcedures{
 	"category3" => "category3",
 	"created" => "created",
 	"verified" => "verified",
-	"description" => "description",
+	"description" => "description"
 	);
     $modifierString = "";
     @parameterList = (
@@ -439,9 +472,101 @@ sub writeStoredProcedures{
     }
     print OUTPUT "$insertProposal\n";
     ###################################################
-
-
-    # Remove Bill
+    $tableName = "reported_comments";
+    $procedureName = "insertReportedComment";
+    %insertHash = (
+	"submitted_by" => "submitted_by", 
+	"date" => "date", 
+	"relevant_bill" => "relevant_bill", 
+	"status" => "status"
+	);
+    $modifierString = "";
+    @parameterList = (
+	"submitted_by VARCHAR(100)",
+	"date DATE", 
+	"relevant_bill MEDIUMINT",
+	"status VARCHAR(20)"
+	);
+    my $insertReportedComment = MysqlUtils::generateInsertProcedureFromHash($tableName,$procedureName,\%insertHash,$modifierString,\@parameterList);
+    if($debug == 1){
+	print "Writing -->$insertReportedComment\n";
+    }
+    print OUTPUT "$insertReportedComment\n";
+    ###################################################
+    $tableName = "wall_of_america";
+    $procedureName = "insertWallOfAmerica";
+    %insertHash = (
+	"user" => "user", 
+	"dream" => "dream", 
+	"wish" => "wish", 
+	"date" => "date"
+	);
+    $modifierString = "";
+    @parameterList = (
+	"user MEDIUMINT",
+	"date DATE", 
+	"dream VARCHAR(200)",
+	"wish VARCHAR(200)"
+	);
+    my $insertWallOfAmerica = MysqlUtils::generateInsertProcedureFromHash($tableName,$procedureName,\%insertHash,$modifierString,\@parameterList);
+    if($debug == 1){
+	print "Writing -->$insertWallOfAmerica\n";
+    }
+    print OUTPUT "$insertWallOfAmerica\n";
+    ###################################################
+    $tableName = "news";
+    $procedureName = "deleteNewsLink";
+    %whereHash = ("title"=>"title");
+    @parameterList = ("title TEXT");
+    my $deleteNewsLink = MysqlUtils::generateDeleteProcedureFromHash($tableName,$procedureName,\%whereHash,\@parameterList);
+    if($debug == 1){
+	print "Writing -->$deleteNewsLink\n";
+    }
+    print OUTPUT "$deleteNewsLink\n";
+    ###################################################
+    $tableName = "unapproved_profiles";
+    $procedureName = "setUnapprovedOrganizationStatus";
+    %updateHash = ("status"=>"status");
+    %whereHash = ("organization_id"=>"organization_id");
+    @parameterList = ("organization_id MEDIUMINT","status VARCHAR(20)");
+    my $updateUnapprovedOrganization = MysqlUtils::generateWriteProcedureFromHash($tableName,$procedureName,\%updateHash,\%whereHash,\@parameterList);
+    if($debug == 1){
+	print "Writing -->$updateUnapprovedOrganization\n";
+    }
+    print OUTPUT "$updateUnapprovedOrganization\n";
+    ###################################################
+    $tableName = "unapproved_profiles";
+    $procedureName = "setUnapprovedIndividualStatus";
+    %updateHash = ("status"=>"status");
+    %whereHash = ("individual_id"=>"individual_id");
+    @parameterList = ("individual_id MEDIUMINT","status VARCHAR(20)");
+    my $setUnapprovedIndividualStatus = MysqlUtils::generateWriteProcedureFromHash($tableName,$procedureName,\%updateHash,\%whereHash,\@parameterList);
+    if($debug == 1){
+	print "Writing -->$setUnapprovedIndividualStatus\n";
+    }
+    print OUTPUT "$setUnapprovedIndividualStatus\n";
+    ###################################################
+    $tableName = "unapproved_profiles";
+    $procedureName = "deleteUnapprovedOrganization";
+    %whereHash = ("organization_id"=>"organization_id");
+    @parameterList = ("organization_id MEDIUMINT");
+    my $deleteUnapprovedOrganization = MysqlUtils::generateDeleteProcedureFromHash($tableName,$procedureName,\%whereHash,\@parameterList);
+    if($debug == 1){
+	print "Writing -->$deleteUnapprovedOrganization\n";
+    }
+    print OUTPUT "$deleteUnapprovedOrganization\n";
+    ###################################################
+    $tableName = "unapproved_profiles";
+    $procedureName = "deleteUnapprovedIndividual";
+    %whereHash = ("individual_id"=>"individual_id");
+    @parameterList = ("individual_id MEDIUMINT");
+    my $deleteUnapprovedIndividual = MysqlUtils::generateDeleteProcedureFromHash($tableName,$procedureName,\%whereHash,\@parameterList);
+    if($debug == 1){
+	print "Writing -->$deleteUnapprovedIndividual\n";
+    }
+    print OUTPUT "$deleteUnapprovedIndividual\n";
+    ###################################################
+# Remove Bill
     # Update Bill info
     # Add Admin
     # Remove Admin
@@ -581,6 +706,16 @@ sub extractBills{
 
 }
 
+sub writeTestData{
+    my $outputFile = "loadTestData.db";
+    if(-e $outputFile){
+	unlink $outputFile || die "Couldn't delete $outputFile $!\n";
+    }
+    open(OUTPUT,">$outputFile") || die "Couldn't open $outputFile. SQL Error $DBI::errstr\n";
+
+    print OUTPUT "CALL makeBillAppropiationBill('y',1);";
+}
+
 sub extractRepresentatives{
     my $debug = 0;
     my $dbh = $_[0];
@@ -692,6 +827,7 @@ sub generateProductionDatabase{
     &extractRelatedBills($dbh,$outputFile);
     &extractBillVotes($dbh,$outputFile);
     &extractRepresentatives($dbh,$outputFile);
+    &writeTestData();
     if($enableLogging == 1){
 	print OUTPUT "notee;\n";
 	print OUTPUT "\\w\n";
