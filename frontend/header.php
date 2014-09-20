@@ -1,8 +1,20 @@
 <?php
 include "./inc/jsonencode.php";
+include_once './inc/register.inc.php';
+include_once './inc/functions.php';
 if (isset($_POST)) {
    // include "./inc/functions.php";
+}
     include "./inc/db_conx.php";
+include_once './inc/db_connect.php';
+sec_session_start();
+if (login_check($mysqli) == true) {
+    $logged = 'in';
+} else {
+    $logged = 'out';
+}
+if (!empty($error_msg)) {
+    echo $error_msg;
 }
 ?>
 <!DOCTYPE html>
@@ -21,6 +33,7 @@ if (isset($_POST)) {
 -->
   <script src="js/jquery.js" type="text/javascript"></script>
   <script src="js/html5shiv.min.js"></script>
+  <script src="js/sha512.js"></script>
   <!--[if lt IE 9]>
   <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
@@ -44,16 +57,16 @@ if (isset($_POST)) {
 		</nav>
 		<section class="headerLogin">
 			<?php 
-                if(isset($_SESSION['login_user'])) {
+                if($logged == 'in') {
             ?>
-            User 
-            <?php echo $_SESSION['login_user']; ?>
-            <a id="logout-button" href="inc/logout.php">Logout</a>
+            Welcome 
+            <?php echo $_SESSION['username']; ?> | 
+            <a id="logout-button" href="inc/logout.php">Logout  </a>
             <?php
             } else {
             ?>
 			<table cellspacing="0">
-			    <form action="" name="Login" id="login" method="post">
+			    <form action="inc/process_login.php" name="Login" id="login" method="post">
 					<tbody>
 						<tr>
 							<td class="html7magic">
@@ -65,13 +78,13 @@ if (isset($_POST)) {
 						</tr>
 						<tr>
 							<td>
-								<input type="text" class="inputtext" name="username" id="username" size="14" value="" tabindex="1">
+								<input type="text" class="inputtext" name="email" id="email" size="14" value="" tabindex="1">
 							</td>
 							<td>
 								<input type="password" class="inputtext" name="password" id="password" size="14" tabindex="2">
 							</td>
 							<td>
-								<button type="submit" name="login-button" class="linkButton">Login</button> |  
+								<button type="button" onclick="formhash(this.form, this.form.password);" name="login-button" class="linkButton">Login</button> |  
 
 							</td>
 							<td>

@@ -341,6 +341,11 @@ footer .slogan { float: right; }
 .proposal1 .nofloat { float: none; }
 .proposal1 .largeText { font-size: 24px; font-size: 1.5rem; font-weight: bold; }
 
+.proposal3 { position: relative; }
+.proposal3 .proposal1 { margin: 0; width: 95%; resize: none; }
+.proposal3 .step3 { margin: 0 0 10px; width: 100%; }
+.proposal3 .blueButton { float: right; }
+
 .newsPage { text-align: center; margin-bottom: 40px; }
 .newsPage .newsItem { height: 250px; position: relative; text-align: center; cursor: pointer; background-size: cover; -webkit-filter: grayscale(100%); -moz-filter: grayscale(100%); -ms-filter: grayscale(100%); -o-filter: grayscale(100%); filter: grayscale(100%); filter: gray; /* IE 6-9 */ }
 .newsPage .newsItem:hover { -webkit-filter: grayscale(0%); -moz-filter: grayscale(0%); -ms-filter: grayscale(0%); -o-filter: grayscale(0%); filter: grayscale(0%); filter: color; }

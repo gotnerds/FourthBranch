@@ -1145,6 +1145,21 @@ footer {
     	font-weight: bold;
     }
 }	
+.proposal3 {
+	position:relative;
+	.proposal1 {
+		margin:0;
+		width:95%;
+		resize:none;
+	}
+	.step3 {
+		margin:0 0 10px;
+		width:100%;
+	}
+	.blueButton {
+		float:right;
+	}
+}
 .newsPage {
 	.newsItem {
 		height:250px;

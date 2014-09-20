@@ -37,7 +37,7 @@ function search_db_escape_terms($terms){
 
 function search_db_escape_category($terms){
 	$out = array();
-	foreach($terms as $term){
+	foreach((array) $terms as $term){
 		$out[] = AddSlashes(search_escape_rlike($term));
 	}
 	return $out;

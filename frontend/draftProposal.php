@@ -43,9 +43,54 @@
 		# Get the page number from GET, or set it to 0.
 		$index = isset ( $_GET['page'] ) && $_GET['page'] ? (int) $_GET['page'] : 0;
 		$page = $index * $limit;
-		if (isset($_POST['proposal-submit'])){
-		include ('./inc/searchBills.php');
+		if (isset($_POST['proposal-submit3'])) {
+			$proposalCategory = unserialize($_POST['proposalCategory']);
+			$proposalName = $_POST['proposalName'];
+			$proposalConcern = $_POST['proposalConcern'];
+			$proposalDescription = $_POST['proposalDescription'];
+			$currentDate = date("Y-m-d");
+			$individual_id = 5;
+			$verified = 0;
 
+#SET @p0='1'; SET @p1='The bill to start them all'; SET @p2='federal'; SET @p3='arts'; SET @p4='science'; SET @p5='business'; SET @p6='2014-09-09'; SET @p7='0'; SET @p8='the bill will begin soon'; CALL `insertProposal`(@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8);
+
+			$stmt = $pdo->prepare('CALL insertProposal(:individual_id, :name, :concern, :category1, :category2, :category3, :created, :verified, :description)');
+			    $stmt->bindValue(':individual_id', $individual_id, PDO::PARAM_INT);
+			    $stmt->bindParam(':name', $proposalName, PDO::PARAM_STR);
+			    $stmt->bindParam(':concern', $proposalConcern, PDO::PARAM_STR);	
+			    $stmt->bindParam(':category1', $proposalCategory[0], PDO::PARAM_STR);
+			    $stmt->bindParam(':category2', $proposalCategory[1], PDO::PARAM_STR);
+			    $stmt->bindParam(':category3', $proposalCategory[2], PDO::PARAM_STR);
+			    $stmt->bindParam(':created', $currentDate, PDO::PARAM_STR);
+			    $stmt->bindValue(':verified', 0, PDO::PARAM_STR);
+			    $stmt->bindParam(':description', $proposalDescription, PDO::PARAM_STR);
+			#$stmt->execute();
+			if ($stmt->execute() ) {
+			echo '<h4>Thank you for adding your Proposal. We will post it within 24 hours.</h4>';
+			} else {
+				echo '<h4>Something went wrong. The developers have been notified.</h4>';
+			}
+		} elseif (isset($_POST['proposal-submit2'])){
+			$proposalCategory = $_POST['proposalCategories'];
+			$proposalName = $_POST['proposalName'];
+			$proposalConcern = $_POST['proposalConcern'];
+			echo '
+				<h4 >Enter the description for: '.$proposalName.'</h4>
+				<form class="proposal3" action="" method="post">
+					<TEXTAREA class="proposal1" required name="proposalDescription" maxlength="1000" id="proposalDescription" ROWS=8></textarea>
+					<input type="hidden" name="proposalCategory" value=\''.$proposalCategory.'\'>
+					<input type="hidden" name="proposalName" value="'.$proposalName.'">
+					<input type="hidden" name="proposalConcern" value="'.$proposalConcern.'"> 
+					<hr style="width:100%;margin-bottom:10px;margin-top:20px;">
+					<div class="step3">
+						<span style="padding-left:0;margin-bottom:30px;">Step 3 of 3</span>
+						<button class="blueButton" name="proposal-submit3" type="submit">Propose</button>
+					</div>
+					</form>
+				';
+
+		} elseif (isset($_POST['proposal-submit'])){
+		include ('./inc/searchBills.php');
 		$terms = $_POST['proposalName'];
 		$sql = search_perform($terms);
 		$stm = $pdo->prepare($sql);
@@ -76,7 +121,7 @@
 					<div>30 Agree</div>
 					<div>10 Disaree</div>
 				</div>
-				<button class="blueButton">Read More</button>
+				<a href="bill.php?code='.$row["code"].'"><button class="blueButton">Read More</button></a>
 			</article>';
 				$count++;
 		}
@@ -85,7 +130,14 @@
 		<div style="position:relative;margin-bottom:30px;">
 			<hr style="width:100%;margin-bottom:10px;margin-top:20px;">
 			<span style="padding-left:0;">Step 2 of 3</span>
-			<button class="blueButton right" name="proposal-submit2" type="submit">Next</button>
+			<form action="" method="post">
+				<?php $data=serialize($_POST['category']); 
+ 				$encoded=htmlentities($data);?>
+				<input type="hidden" value="<?php echo ($terms); ?>" name="proposalName">
+				<input type="hidden" value="<?php echo ($_POST['proposalConcern']); ?>" name="proposalConcern">
+				<input type="hidden" value="<?php echo $encoded; ?>" name="proposalCategories">
+				<button class="blueButton right" name="proposal-submit2" type="submit">Next</button>
+			</form>
 		</div>
 	<?php
 		} else {
@@ -93,7 +145,7 @@
 	<form class="proposal1 hasRadio" action="" method="POST" id="proposalDraft1" name="proposalDraft1"> 
 			<label for="proposalName" class="largeText">Name of Bill:</label>
 			<span>
-				<input type="text" name="proposalName" maxlength="150">
+				<input type="text" name="proposalName" maxlength="150" required>
 			</span>
 		<div class="medText">Does your proposal concern the Federal Government or your state?</div>
 		<span>
