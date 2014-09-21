@@ -958,6 +958,28 @@ sub writeStoredProcedures{
     }
     print OUTPUT "$deleteWallOfAmericaEntry\n";
     ###################################################
+    $tableName = "user_votes";
+    $procedureName = "getUserVote";
+    @columns = ("billId","user_id","organization_id","vote", "date");
+    %whereHash = ("userId"=>"user_id");
+    @parameterList = ("userId MEDIUMINT(9)");
+    my $getUserVote = MysqlUtils::generateReadProcedureFromHash($tableName,$procedureName,\@columns,\%whereHash,\@parameterList);
+    if($debug == 1){
+	print "Writing -->$getUserVote\n";
+    }
+    print OUTPUT "$getUserVote\n";
+    ###################################################
+    $tableName = "user_votes";
+    $procedureName = "getOrganizationVote";
+    @columns = ("billId","user_id","organization_id","vote", "date");
+    %whereHash = ("organizationId"=>"organization_id");
+    @parameterList = ("organizationId MEDIUMINT(9)");
+    my $getOrganizationVote = MysqlUtils::generateReadProcedureFromHash($tableName,$procedureName,\@columns,\%whereHash,\@parameterList);
+    if($debug == 1){
+	print "Writing -->$getOrganizationVote\n";
+    }
+    print OUTPUT "$getOrganizationVote\n";
+    ###################################################
     print OUTPUT 'DELIMITER ;'."\n";
 
     
