@@ -897,7 +897,6 @@ sub writeStoredProcedures{
     %insertHash = (
 	"billId" => "billId",
 	"user_id" => "user_id",
-	"picture1" => "picture1",
 	"organization_id" => "organization_id",
 	"vote" => "vote",
 	"date" => "date"
@@ -1100,14 +1099,30 @@ sub writeTestData{
     }
     open(OUTPUT,">$outputFile") || die "Couldn't open $outputFile. SQL Error $DBI::errstr\n";
 
-    print OUTPUT "CALL insertAdmin('test_email','test_password','test_salt');";
-    print OUTPUT "CALL insertBillComment (1,'test_comment','test_sub_comment',NOW(),NOW());"; 	
-    print OUTPUT "CALL insertBillVote (1,2,3,4,5);"; 	
-    print OUTPUT "CALL insertIndividual ('test_first','test_last','test_name',NOW(),'m','test_address','test_city','test_state',1,'test_email','test_pass','test_affiliation','test','test_salt');"; 	 	
-    print OUTPUT "CALL insertNewsItem ('test_title','test_url','test_photo','test_category',1); "; 	
-    print OUTPUT "insertProposal ";
+    print OUTPUT "use fourthbranch;\n"; 
+    print OUTPUT "DELETE FROM admins WHERE email='test_email';\n";
+    print OUTPUT "CALL insertAdmin('test_email','test_password','test_salt');\n";
+    print OUTPUT "DELETE FROM comments_bills WHERE comment='test_comment';\n";
+    print OUTPUT "CALL insertBillComment (1,'test_comment','test_sub_comment',NOW(),NOW());\n"; 	
+    print OUTPUT "DELETE FROM bill_votes WHERE billId=-1;\n";
+    print OUTPUT "CALL insertBillVote (-1,-2,-3,-4,-5);\n";
+    print OUTPUT "DELETE FROM individuals WHERE first_name='test_first';\n";
+    print OUTPUT "CALL insertIndividual ('test_first','test_last','test_name',NOW(),'m','test_address','test_city','test_state',1,'test_email','test_pass','test_affiliation','test','test_salt');\n";
+    print OUTPUT "DELETE FROM news WHERE title='test_title';\n";
+    print OUTPUT "CALL insertNewsItem ('test_title','test_url','test_photo','test_category',1);\n";
+    print OUTPUT "DELETE FROM proposals WHERE name='test_name';\n";
+    print OUTPUT "CALL insertProposal (1,'test_name','test_concern','test_category1','test_category2','test_category3',NOW(),'t','test description');\n";
+    print OUTPUT "DELETE FROM reported_comments WHERE submitted_by='test_submitter';\n";
     print OUTPUT "CALL insertReportedComment('test_submitter',CURDATE(),-1,'test_status');\n"; 	
-    print OUTPUT "CALL insertWallOfAmerica ('1',CURDATE(),'test_dream','test_wish');"; 	
+    print OUTPUT "DELETE FROM wall_of_america WHERE dream='test_dream';\n";
+    print OUTPUT "CALL insertWallOfAmerica ('1',CURDATE(),'test_dream','test_wish');\n"; 	
+    print OUTPUT "DELETE FROM organizations WHERE name='test_organization';\n";
+    print OUTPUT "CALL insertOrganization ('test_organization','test_address','test_city','test_state',1,'test_phone','test_legal','test_cause','test_join_reason','test_name','test_title','test_phone','test_email','test_password','test_salt','test',NOW());\n";
+    print OUTPUT "DELETE FROM user_votes WHERE billId=-1;\n";
+    print OUTPUT "CALL insertUserVote (-1,-1,-1,'test_vote',NOW());\n";
+    print OUTPUT "CALL insertStaticPage ('test_title','test_text1','test_text2','test_text3','test_text4','test_pic1','test_pic2','test_pic3','test_pic4');\n";
+
+
 }
 
 sub extractRepresentatives{
