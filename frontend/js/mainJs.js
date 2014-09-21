@@ -30,7 +30,7 @@ function regformhash(form, uid, email, password, conf) {
     // Check the username
  
     re = /^\w+$/; 
-    if(!re.test(form.pseudonym.value)) { 
+    if(!re.test(uid.value)) { 
         alert("Username must contain only letters, numbers and underscores. Please try again"); 
         form.username.focus();
         return false; 
@@ -137,7 +137,12 @@ function mergeForms() {
                 .appendTo($(targetForm));
         }
     });
-    $(targetForm).submit();
+    return regformhash(targetForm,
+                       'Fakeuser1',
+                       (targetForm).emailS,
+                       targetForm.passS,
+                       targetForm.passS2);
+    //$(targetForm).submit();
 }
 //Bill Functions
 function trendingCommentsBoxUser() {

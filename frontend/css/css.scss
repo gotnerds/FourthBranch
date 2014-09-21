@@ -189,7 +189,17 @@ height: 0;
 line-height: 0;
 visibility: hidden;
 }
-
+.full {
+    width:100%;
+    clear:both;
+    display:inline-block;
+}
+.mapSize {
+	@include flexCenter(column);
+	.mapCenter {
+		width:74%;
+	}
+}
 .clearfix {
 zoom: 1;
 }
@@ -656,7 +666,7 @@ textarea#reason {
 }
 .billTitle {
 	h4 {
-		margin-bottom:0;
+		margin-bottom:15px;
 		position:relative;
 		padding-bottom : 5px;
 		float:left;

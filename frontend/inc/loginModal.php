@@ -247,7 +247,7 @@
 						</p>												
 					</div>
 				</div>
-                <form name="signupOrganization" id="signupOrganization" action='' method="POST" style="margin: 15px;">
+                <form name="signupOrganization" id="signupOrganization" action="<?php echo esc_url($_SERVER['PHP_SELF']); ?>" method="POST" style="margin: 15px;">
 					<div class="full"><label for="nameOrganization">Name of Organization:</label>
 						<input type='text' style="width:400px;" name='nameOrganization' id='nameOrganization' />
 					</div>
@@ -466,8 +466,6 @@
 					</form>
                 </div>
             </div>
-            <form name="toSubmit" id="toSubmit" action="" method="post">
-            </form>
 			<table cellpadding='2' bgcolor='#CC0000' id='confirm2' style='position:fixed; top: 50%; left: 50%;margin-top:-200px;margin-left:-290px;'>
 				<td>
 					<table cellpadding='2' bgcolor='#2F68D1'>
@@ -478,13 +476,7 @@
 										<div style="cursor: pointer;float:right;background-image: url(http://thefourthbranch.co/TheFourthBranch/image/x.png);height:24px;width:24px;" class="xbut"></div>
 										<br style="clear:both" />
 										<p align='center'>
-	                                    <?php 
-	                                    $jsonj = jsonarray($output);
-	                                    if ($jsonj->name_taken == 'true'){ ?>
-	                                    Sorry, this Organization already exists. Please try again.         
-	                                    <?php } else { ?>
-											Thank you for your submission, our team will review your application at this time and if approved will notify you via email.
-										<?php } ?>
+		                                    This will verify.
 	                                    </p>
 										<div style="float:right;overflow:hidden;">
 											<button class='button' onclick='closeOverlaid();' style='cursor: pointer;position:relative; float: right; width: 50px; margin-left: 25px;'>

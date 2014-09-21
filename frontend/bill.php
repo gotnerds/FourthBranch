@@ -10,6 +10,7 @@ $row = $stm->fetch();
 <section class="votePage">
 <?php
 # And output one .post per database row :) 
+$billId = $row['id'];
 $voteBillConvert = str_replace("html", "json", $row['local_html']);
 $voteBillJson = file_get_contents("C:\Ampps\www\FourthBranch\FourthBranch\outside_resources\\".str_replace("/", "\\", $voteBillConvert));
 //$voteBillJson = file_get_contents("./cgi-bin/".$voteBillConvert);
@@ -27,16 +28,16 @@ if (strpos($voteBillJsonSnippit, "- ") == 0){
 }
 $voteBillDescSnippit = substr($voteBillJsonSnippit, $strpos + 2, $pos - 1);
 echo '<article class="bill section group">
-    <div class="billTitle">
+    <div class="billTitle full">
         <h4>'.strtoupper($row["code"]).'</br>
-        '.$row["title"].'</h4>
-        <span>(Section 3 of 9)</span>
-    </div>
-    <div class="col span_1_of_3 first-child columnBottom">
-        <p class="billDescription">'.$voteBillDescSnippit.'...</p>
-        <p class="postNavigation">
-            <span><a>PREVIOUS</a> | <a>NEXT</a></span>
-        </p>
+        '.$row["title"].'</h4>';
+        //<span>(Section 3 of 9)</span>
+    echo '</div>
+    <div class="full">
+        <p class="billDescription">'.$voteBillJsonSnippit.'</p>
+        <p class="postNavigation">';
+            //<span><a>PREVIOUS</a> | <a>NEXT</a></span>
+        echo '</p>
         <div class="postInfo">
             <span class="postAuthor">Submitted by <u>The Fourth Branch Team</u></span>
             <span class="timeStamp">11:30pm 01/07/2013</span>
@@ -51,6 +52,7 @@ echo '<article class="bill section group">
             });
         </script>';
         }
+
     echo '<div class="voteUserBox">
 	        <form class="voteUser hasRadio" action="" method="POST">
 	            <input type="radio" class="votePass" name="voteUser" id="pass" value="pass" onChange=';
@@ -80,7 +82,8 @@ echo '<article class="bill section group">
 	        </form>
 	    </div>
     </div>
-    <div class="billDetails col span_2_of_3 columnBottom">
+    <div class="billDetails mapSize">
+    <div class="mapCenter">
         <div class="billMapContainer clearblock">
             <h3>Statistics</h3>
             <div class="billMap">
@@ -130,6 +133,7 @@ echo '<article class="bill section group">
                     <option value='Wisconsin'>WI</option><option value='Wyoming'>WY</option>
                 </select>
             </ul>
+        </div>
         </div>";
         echo '<div class="share-buttons" style="padding-top:20px;">
             <button class="reddit shareButton">Reddit</button>
@@ -140,7 +144,9 @@ echo '<article class="bill section group">
             <button class="comment shareButton">Comment</button>
         </div>
     </div>
-    </article></section>';
-    echo '</div>';
+    </article>';
+    //include '.inc/comments.php'
+    echo '</section>
+    </div>';
    include ('footer.php');
    ?>

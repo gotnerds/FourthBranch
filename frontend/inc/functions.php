@@ -29,11 +29,12 @@ function login($email, $password, $mysqli) {
     if ($stmt = $mysqli->prepare("SELECT id, username, password, salt 
         FROM individuals
        WHERE email = ?
-        LIMIT 1")) {
-        $stmt->bind_param('s', $email);  // Bind "$email" to parameter.
+        LIMIT 1 UNION ALL 
+        SELECT id, name, password, salt 
+        FROM organizations WHERE email = ? LIMIT 1")) {
+        $stmt->bind_param('ss', $email, $email);  // Bind "$email" to parameter.
         $stmt->execute();    // Execute the prepared query.
         $stmt->store_result();
- 
         // get variables from result.
         $stmt->bind_result($user_id, $username, $db_password, $salt);
         $stmt->fetch();
@@ -93,7 +94,7 @@ function checkbrute($user_id, $mysqli) {
                              FROM login_attempts 
                              WHERE user_id = ? 
                             AND time > '$valid_attempts'")) {
-        $stmt->bind_param('i', $user_id);
+        $stmt->bind_param('s', $user_id);
  
         // Execute the prepared query. 
         $stmt->execute();
@@ -110,28 +111,30 @@ function checkbrute($user_id, $mysqli) {
 function login_check($mysqli) {
     // Check if all session variables are set 
     if (isset($_SESSION['user_id'], 
-                        $_SESSION['username'], 
-                        $_SESSION['login_string'])) {
- 
-        $user_id = $_SESSION['user_id'];
-        $login_string = $_SESSION['login_string'];
-        $username = $_SESSION['username'];
-        // Get the user-agent string of the user.
-        $user_browser = $_SERVER['HTTP_USER_AGENT'];
- 
+        $_SESSION['username'], 
+        $_SESSION['login_string'])) {
+            $user_id = $_SESSION['user_id'];
+            $login_string = $_SESSION['login_string'];
+            $username = $_SESSION['username'];
+            // Get the user-agent string of the user.
+            $user_browser = $_SERVER['HTTP_USER_AGENT'];
         if ($stmt = $mysqli->prepare("SELECT password 
                                       FROM individuals 
+                                      WHERE id = ? LIMIT 1 
+                                      UNION ALL 
+                                      SELECT password 
+                                      FROM organizations 
                                       WHERE id = ? LIMIT 1")) {
             // Bind "$user_id" to parameter. 
-            $stmt->bind_param('i', $user_id);
+            $stmt->bind_param('ii', $user_id, $user_id);
             $stmt->execute();   // Execute the prepared query.
             $stmt->store_result();
- 
             if ($stmt->num_rows == 1) {
                 // If the user exists get variables from result.
                 $stmt->bind_result($password);
                 $stmt->fetch();
                 $login_check = hash('sha512', $password . $user_browser);
+//                echo $login_string."BREAK".$login_check;
                 if ($login_check == $login_string) {
                     // Logged In!!!! 
                     return true;
@@ -140,6 +143,7 @@ function login_check($mysqli) {
                     return false;
                 }
             } else {
+                echo "not in registry";
                 // Not logged in 
                 return false;
             }
@@ -150,6 +154,30 @@ function login_check($mysqli) {
     } else {
         // Not logged in 
         return false;
+    }
+}
+function checkUserVote($user_id, $billId) {
+     if (isset($_SESSION['user_id'])) {
+            $user_id = $_SESSION['user_id'];
+            // Get the user-agent string of the user.
+            $user_browser = $_SERVER['HTTP_USER_AGENT'];
+        if ($stmt = $mysqli->prepare("SELECT vote 
+                                      FROM user_votes 
+                                      WHERE user = ? LIMIT 1")) {
+            // Bind "$user_id" to parameter. 
+            $stmt->bind_param('i', $user_id);
+            $stmt->execute();   // Execute the prepared query.
+            $stmt->store_result();
+            if ($stmt->num_rows == 1) {
+                $stmt->bind_result($userVote);
+                $stmt->fetch();
+                    return $userVote;
+            } else {
+                echo "not in registry";
+                // Not logged in 
+                return false;
+            }
+        }
     }
 }
 
@@ -183,55 +211,9 @@ function esc_url($url) {
         return $url;
     }
 }
-    if (isset($_POST['login-button'])) {
-        $output = shell_exec("perl ./cgi-bin/fourthBranch.pl run=loginIndividual email=".$_POST['username']." password=".$_POST['password']);
-        $jsonj = jsonarray($output);
-        //echo "individual: ";
-        //var_dump($jsonj);
-        //statement to test for successful.
-        if ($jsonj->successful == 'true'){
-          session_start();
-          $_SESSION['login_user']= $_POST['username']; //Initializing Session with value of PHP Variable
-        } else {
-        $output = shell_exec("perl ./cgi-bin/fourthBranch.pl run=loginOrganization email=".$_POST['username']." password=".$_POST['password']);
-        $jsonj = jsonarray($output);
-            //create php user session for organization
-          session_start();
-          $_SESSION['login_user']= $_POST['username']; //Initializing Session with value of PHP Variable
-          echo $_SESSION['login_user'];
-        }
-    }
-    if (isset($_POST['addIndividual-button'])){
-        $output = shell_exec("perl ./cgi-bin/fourthBranch.pl run=addIndividual first=".$_POST['fname']." last=".$_POST['lname']." username=".$_POST['pseudonym']." birthdate=".$_POST['dob']." gender=".$_POST['g']." address=".$_POST['address']." city=".$_POST['city']." state=".$_POST['state']." zip=".$_POST['zip']." email=".$_POST['emailI']." password=".$_POST['passI']." affiliation=".$_POST['party']);
-        $jsonj = jsonarray($output);
-        if ($jsonj->successful == 'true'){
-        // send email to verify account (then sign in that account)
-        //individual sign up worked
-            echo $jsonj->successful;
-    } else {
-            echo $jsonj->successful;        
-        }
-    }
-    if (isset($_POST['nameOrganization'])){
-        $currentDate = htmlspecialchars(date('m-d-Y'));
-        $output = shell_exec("perl ./cgi-bin/fourthBranch.pl run=addOrganization name=".$_POST['nameOrganization']." address=".$_POST['addressOrganization']." city=".$_POST['cityOrganization']." state=".$_POST['stateOrganization']." zip=".$_POST['zipOrganization']." phone=".$_POST['phoneOrganization']." legalstatus=".$_POST['legal']." cause=".$_POST['cause']." joinreason=".$_POST['reasons']." individualname=".$_POST['nameI']." titleorganization=".$_POST['titleI']." personalphone=".$_POST['phoneP']." email=".$_POST['emailO']." password=".$_POST['passS']." signupdate=".$currentDate);
-        echo "Reason: ".$_POST['reasons']." & ";
-        echo "Organization: ".$_POST['nameOrganization'];
-        echo " & Date: ".date("m-d-Y");
-        var_dump($jsonj);
-        print_r($output);
-        $jsonj = jsonarray($output);
-        if ($jsonj->successful == 'true'){
-        //organization sign up worked
-            echo $jsonj->successful;
-    } else {
-            echo $jsonj->successful;        
-        }
-    }
+
     if (isset($_POST['voteUser'])){
         $_SESSION['voteUser']= $_POST['voteUser'];
         echo $_SESSION['voteUser'];
     }
-//var_dump($jsonj);
-//print_r($output);
 ?>

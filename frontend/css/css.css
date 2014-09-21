@@ -35,6 +35,11 @@ table { color: inherit; }
 
 .clearLeft:after { clear: left; content: "."; display: block; font-size: 0; height: 0; line-height: 0; visibility: hidden; }
 
+.full { width: 100%; clear: both; display: inline-block; }
+
+.mapSize { display: flex; flex-direction: column; flex-wrap: wrap; justify-content: center; align-items: center; }
+.mapSize .mapCenter { width: 74%; }
+
 .clearfix { zoom: 1; }
 
 .clearfix:after { clear: both; content: "."; display: block; font-size: 0; height: 0; line-height: 0; visibility: hidden; }
@@ -196,7 +201,7 @@ textarea#reason { resize: none; background-color: white; }
 
 .bill { margin-left: 7%; width: 77%; padding: 1%; }
 
-.billTitle h4 { margin-bottom: 0; position: relative; padding-bottom: 5px; float: left; border-bottom: 1px solid black; }
+.billTitle h4 { margin-bottom: 15px; position: relative; padding-bottom: 5px; float: left; border-bottom: 1px solid black; }
 .billTitle span { color: #0a2b95; font-size: 14px; font-size: 0.875rem; clear: left; display: block; }
 .billTitle .billDescription { margin: 1%; }
 

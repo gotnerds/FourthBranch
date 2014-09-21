@@ -1,17 +1,18 @@
 <?php
-include "./inc/jsonencode.php";
 include_once './inc/register.inc.php';
 include_once './inc/functions.php';
 if (isset($_POST)) {
-   // include "./inc/functions.php";
+	//var_dump($_POST);
 }
     include "./inc/db_conx.php";
 include_once './inc/db_connect.php';
 sec_session_start();
 if (login_check($mysqli) == true) {
     $logged = 'in';
+    //echo $logged;
 } else {
     $logged = 'out';
+    //echo $logged;
 }
 if (!empty($error_msg)) {
     echo $error_msg;
@@ -33,19 +34,11 @@ if (!empty($error_msg)) {
 -->
   <script src="js/jquery.js" type="text/javascript"></script>
   <script src="js/html5shiv.min.js"></script>
-  <script src="js/sha512.js"></script>
+  <script src="js/sha512.js" type="text/javascript"></script>
   <!--[if lt IE 9]>
   <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
 <!-- authentication info -->
-<!-- HIDE POST
-<?php
-if (isset($_POST)) {
-    include "./inc/functionsthen.php";
-    print_r($_POST);
-}
-?>
--->
 </head>
 <body>
     <?php include "./inc/loginModal.php"; ?>
@@ -55,16 +48,18 @@ if (isset($_POST)) {
 			<a href="">Contact</a> | 
 			<a href="">Contribute</a>
 		</nav>
-		<section class="headerLogin">
 			<?php 
                 if($logged == 'in') {
             ?>
+
+			<section class="headerLogin" style="width: 50%;text-align: right;margin-right: 10px;height: 50px;">
             Welcome 
             <?php echo $_SESSION['username']; ?> | 
             <a id="logout-button" href="inc/logout.php">Logout  </a>
             <?php
             } else {
             ?>
+		<section class="headerLogin">
 			<table cellspacing="0">
 			    <form action="inc/process_login.php" name="Login" id="login" method="post">
 					<tbody>

@@ -11,11 +11,11 @@ include("./inc/getTomorrowsBill.php");
         <div class="billTitle">
             <a href="bill.php?code=<?php echo $billOfTheDay["code"]; ?>"> <h4><?php echo strtoupper($billOfTheDay["code"]); ?>:</br>
             <?php echo $billOfTheDay["title"] ?></h4> </a>
-            <span>(Section 3 of 9)</span>
+            <!-- <span>(Section 3 of 9)</span> -->
         </div>
         <p class="billDescription"><?php $pos=strpos($billJsonSnippit, ' ', 417); echo substr($billJsonSnippit, strpos($billJsonSnippit, "- ") + 2, $pos - 1)."..."; ?></p>
         <p class="postNavigation">
-            <span><a>PREVIOUS</a> | <a>NEXT</a></span>
+            <!-- <span><a>PREVIOUS</a> | <a>NEXT</a></span> -->
         </p>
         <div class="postInfo">
             <span class="postAuthor">Submitted by <u>The Fourth Branch Team</u></span>

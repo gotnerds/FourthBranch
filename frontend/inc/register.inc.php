@@ -1,10 +1,10 @@
 <?php
 include_once 'db_connect.php';
-include_once 'psl-config.php';
  
 $error_msg = "";
- 
-if (isset($_POST['pseudonym'], $_POST['email'], $_POST['p'])) {
+
+if (isset($_POST['p'])) {
+
     // Sanitize and validate the data passed in
     $first_name = filter_input(INPUT_POST, 'fname', FILTER_SANITIZE_STRING);
     $last_name = filter_input(INPUT_POST, 'lname', FILTER_SANITIZE_STRING);
@@ -21,6 +21,60 @@ if (isset($_POST['pseudonym'], $_POST['email'], $_POST['p'])) {
     $activated = 0;
     $email = filter_input(INPUT_POST, 'email', FILTER_SANITIZE_EMAIL);
     $email = filter_var($email, FILTER_VALIDATE_EMAIL);
+
+    if (isset($_POST['nameOrganization'])) {
+        $allowedExts = array("gif", "jpeg", "jpg", "png");
+        $temp = explode(".", $_FILES["pic"]["name"]);
+        $extension = end($temp);
+        if ((($_FILES["pic"]["type"] == "image/gif")
+        || ($_FILES["pic"]["type"] == "image/jpeg")
+        || ($_FILES["pic"]["type"] == "image/jpg")
+        || ($_FILES["pic"]["type"] == "image/pjpeg")
+        || ($_FILES["pic"]["type"] == "image/x-png")
+        || ($_FILES["pic"]["type"] == "image/png"))
+        && ($_FILES["pic"]["size"] < 100000)
+        && in_array($extension, $allowedExts)) {
+          if ($_FILES["pic"]["error"] > 0) {
+            echo "Return Code: " . $_FILES["pic"]["error"] . "<br>";
+          } else {
+            echo "Upload: " . $_FILES["pic"]["name"] . "<br>";
+            echo "Type: " . $_FILES["pic"]["type"] . "<br>";
+            echo "Size: " . ($_FILES["pic"]["size"] / 1024) . " kB<br>";
+            echo "Temp file: " . $_FILES["pic"]["tmp_name"] . "<br>";
+            if (file_exists("upload/" . $_FILES["pic"]["name"])) {
+              echo $_FILES["pic"]["name"] . " already exists. ";
+            } else {
+              move_uploaded_file($_FILES["pic"]["tmp_name"],
+              "userImage/" . $_FILES["pic"]["name"]);
+              echo "Stored in: " . "userImage/" . $_FILES["pic"]["name"];
+            }
+          }
+        } else {
+         // echo "Invalid file";
+        }
+        $name = filter_input(INPUT_POST, 'nameOrganization', FILTER_SANITIZE_STRING);
+        $addressOrganization = filter_input(INPUT_POST, 'addressOrganization', FILTER_SANITIZE_STRING);
+        $cityOrganization = filter_input(INPUT_POST, 'cityOrganization', FILTER_SANITIZE_STRING);
+        $stateOrganization = filter_input(INPUT_POST, 'stateOrganization', FILTER_SANITIZE_STRING);
+        $phoneOrganization = filter_input(INPUT_POST, 'phoneOrganization', FILTER_SANITIZE_STRING);
+        $zipOrganization = filter_input(INPUT_POST, 'zipOrganization', FILTER_SANITIZE_STRING);
+        $legal_status = $_POST['legal'][0];
+        $legal_status = filter_var($legal_status, FILTER_SANITIZE_STRING);
+        $cause_concerns = $_POST['cause'][0];
+        $cause_concerns = filter_var($cause_concerns, FILTER_SANITIZE_STRING);
+        $imgURL = "userImage/" . $_FILES["pic"]["name"];
+        $join_reason = filter_input(INPUT_POST, 'reasons', FILTER_SANITIZE_STRING);
+        $individual_name = filter_input(INPUT_POST, 'nameI', FILTER_SANITIZE_STRING);
+        $title_in_organization = filter_input(INPUT_POST, 'titleI', FILTER_SANITIZE_STRING);
+        $personal_phone = filter_input(INPUT_POST, 'phoneP', FILTER_SANITIZE_STRING);
+        $verified = 0;
+        if (isset($_POST[emailS])) {
+            $email = filter_input(INPUT_POST, 'emailS', FILTER_SANITIZE_STRING);
+            $email = filter_var($email, FILTER_VALIDATE_EMAIL);
+        }
+        $personal_email = filter_input(INPUT_POST, 'emailO', FILTER_SANITIZE_STRING);
+        $signup_date = date("Y-m-d");
+    }
     if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
         // Not a valid email
         $error_msg .= '<p class="error">The email address you entered is not valid</p>';
@@ -37,7 +91,6 @@ if (isset($_POST['pseudonym'], $_POST['email'], $_POST['p'])) {
     // This should should be adequate as nobody gains any advantage from
     // breaking these rules.
     //
- 
     $prep_stmt = "SELECT id FROM individuals WHERE email = ? LIMIT 1 union all SELECT id FROM organizations WHERE email = ? LIMIT 1";
     $stmt = $mysqli->prepare($prep_stmt);
  
@@ -83,7 +136,6 @@ if (isset($_POST['pseudonym'], $_POST['email'], $_POST['p'])) {
         // Create a random salt
         //$random_salt = hash('sha512', uniqid(openssl_random_pseudo_bytes(16), TRUE)); // Did not work
         $random_salt = hash('sha512', uniqid(mt_rand(1, mt_getrandmax()), true));
- 
         // Create salted password 
         $password = hash('sha512', $password . $random_salt);
         if (isset($_POST['pseudonym'])) {
@@ -98,8 +150,18 @@ if (isset($_POST['pseudonym'], $_POST['email'], $_POST['p'])) {
                 }
             }
             #header('Location: ./index.php');
-        } elseif (isset($_POST['addOrganization-button'])) {
-            # code...
+        } elseif (isset($_POST['nameOrganization'])) {
+            echo "hello!";
+            // Insert the new organization into the database 
+            if ($insert_stmt = $mysqli->prepare("INSERT INTO organizations (name, address, city, state, zip, phone, legal_status, cause_concerns, imgURL, join_reason, individual_name, title_in_organization, personal_phone, personal_email, email, password, verified, signup_date, salt) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)")) {
+                $insert_stmt->bind_param('sssssssssssssssssss', $name, $addressOrganization, $cityOrganization, $stateOrganization, $zipOrganization, $phoneOrganization, $legal_status, $cause_concerns, $imgURL, $join_reason, $individual_name, $title_in_organization, $personal_phone, $personal_email, $email, $password, $verified, $signup_date, $random_salt);
+                // Execute the prepared query.
+                if (! $insert_stmt->execute()) {
+                    echo $gender;
+                    echo "error inserting individual";
+                    #header('Location: ../error.php?err=Registration failure: INSERT');
+                }
+            }
         }
     }
 }
