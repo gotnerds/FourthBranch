@@ -1,0 +1,21 @@
+               Vote Search - infinite scroll fix!           
+               Vote Search - Add functionality to sort by
+               Pass Reject Vote Functionality
+		- DONE
+               Map Functionality
+               Share Functionality
+               Auto Bill Summary Timestamp
+               Tomorrow's Bill Page
+               Trending Comments Functionality
+               Proposals as proposals functionality
+               Proposal sort by functionality
+               News auto change functionality
+               Wall of America Page
+               About Page
+               Contact Page
+               Terms of Use
+               Privacy Policy
+               Social Media Links
+               Seal for H1 larger
+               Comments for bills and proposals!
+               Update Admin Panel

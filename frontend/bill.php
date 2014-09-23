@@ -42,45 +42,9 @@ echo '<article class="bill section group">
             <span class="postAuthor">Submitted by <u>The Fourth Branch Team</u></span>
             <span class="timeStamp">11:30pm 01/07/2013</span>
         </div>';
-		if(isset($_SESSION['voteUser'])) {
-		echo '<script>
-            $(function() {
-                var $radios = $("input:radio[name=voteUser]");
-                if($radios.is(":checked") === false) {
-                    $radios.filter("[value='.$_SESSION['voteUser'].']").prop("checked", true);
-                }
-            });
-        </script>';
-        }
-
-    echo '<div class="voteUserBox">
-	        <form class="voteUser hasRadio" action="" method="POST">
-	            <input type="radio" class="votePass" name="voteUser" id="pass" value="pass" onChange=';
-	            if(isset($_SESSION)){
-                	if(isset($_SESSION['voteUser'])) {
-                    	echo 'preventDefault()';
-                	} else {
-                	echo 'this.form.submit()';
-                	}
-                } else {
-                	echo 'a()';
-                }
-                echo '/>
-	            <label for="pass">PASS<span></span></label>
-	            <input type="radio" name="voteUser" class="voteReject" id="reject" value="reject" onChange=';
-	            if(isset($_SESSION)){
-	                if(isset($_SESSION['voteUser'])) {
-	                    echo "preventDefault()";
-	                } else {
-	                echo "this.form.submit()";
-	                }
-	            } else {
-	            	echo "a()";
-	            }
-	            echo '/>
-	            <label for="reject">REJECT<span></span></label>
-	        </form>
-	    </div>
+    echo '<div class="voteUserBox">';
+        include('./inc/userVote.php');
+    echo '</div>
     </div>
     <div class="billDetails mapSize">
     <div class="mapCenter">
