@@ -1,5 +1,6 @@
 <?php
 include_once 'db_connect.php';
+include_once'db_conx.php';
  
 $error_msg = "";
 
@@ -151,17 +152,34 @@ if (isset($_POST['p'])) {
             }
             #header('Location: ./index.php');
         } elseif (isset($_POST['nameOrganization'])) {
-            echo "hello!";
             // Insert the new organization into the database 
-            if ($insert_stmt = $mysqli->prepare("INSERT INTO organizations (name, address, city, state, zip, phone, legal_status, cause_concerns, imgURL, join_reason, individual_name, title_in_organization, personal_phone, personal_email, email, password, verified, signup_date, salt) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)")) {
-                $insert_stmt->bind_param('sssssssssssssssssss', $name, $addressOrganization, $cityOrganization, $stateOrganization, $zipOrganization, $phoneOrganization, $legal_status, $cause_concerns, $imgURL, $join_reason, $individual_name, $title_in_organization, $personal_phone, $personal_email, $email, $password, $verified, $signup_date, $random_salt);
+            echo $nameOrganization;
+            $stmt = $pdo->prepare('CALL insertOrganization(:name, :address, :city, :state, :zip, :phone, :legal_status, :cause_concerns, :join_reason, :individual_name, :title_in_organization, :personal_phone, :email, :password, :salt, :verified, :signup_date)');
+            $stmt->bindParam(':name', $name, PDO::PARAM_STR);
+            $stmt->bindParam(':address', $addressOrganization, PDO::PARAM_STR);
+            $stmt->bindParam(':city', $cityOrganization, PDO::PARAM_STR);
+            $stmt->bindParam(':state', $stateOrganization, PDO::PARAM_STR);
+            $stmt->bindParam(':zip', $zipOrganization, PDO::PARAM_INT);
+            $stmt->bindParam(':phone', $phoneOrganization, PDO::PARAM_STR);
+            $stmt->bindParam(':legal_status', $legal_status, PDO::PARAM_STR);
+            $stmt->bindParam(':cause_concerns', $cause_concerns, PDO::PARAM_STR);
+            $stmt->bindParam(':join_reason', $join_reason, PDO::PARAM_STR);
+            $stmt->bindParam(':individual_name', $individual_name, PDO::PARAM_STR);
+            $stmt->bindParam(':title_in_organization', $title_in_organization, PDO::PARAM_STR);
+            $stmt->bindParam(':personal_phone', $personal_phone, PDO::PARAM_STR);
+            $stmt->bindParam(':email', $email, PDO::PARAM_STR);
+            $stmt->bindParam(':password', $password, PDO::PARAM_STR);
+            $stmt->bindParam(':salt', $random_salt, PDO::PARAM_STR);
+            $stmt->bindValue(':verified', $verified, PDO::PARAM_INT);
+            $stmt->bindParam(':signup_date', $signup_date, PDO::PARAM_STR);
                 // Execute the prepared query.
-                if (! $insert_stmt->execute()) {
-                    echo $gender;
-                    echo "error inserting individual";
+                if ($stmt->execute()) {
                     #header('Location: ../error.php?err=Registration failure: INSERT');
+                } else {
+                    echo $gender;
+                    echo "error inserting organization";
                 }
-            }
+            
         }
     }
 }

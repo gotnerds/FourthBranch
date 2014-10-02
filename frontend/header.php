@@ -44,8 +44,8 @@ if (!empty($error_msg)) {
     <?php include "./inc/loginModal.php"; ?>
 	<header id="siteHeader">
 		<nav id="extraNav" role="navigation">
-			<a href="">About</a> | 
-			<a href="">Contact</a> | 
+			<a href="about.php">About</a> | 
+			<a href="contact.php">Contact</a> | 
 			<a href="">Contribute</a>
 		</nav>
 			<?php 
@@ -111,6 +111,6 @@ if (!empty($error_msg)) {
         	<a href="vote.php">Vote</a>
         	<a href="proposal.php">Proposal</a>
         	<a href="news.php">News</a>
-        	<a href="wallofamerica">Wall of America</a>
+        	<a href="wallofamerica.php">Wall of America</a>
         </nav>
     </header>

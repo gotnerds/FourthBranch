@@ -1,3 +1,9 @@
+//User Vote
+function userVote() {
+	$.POST( "userVote.php, $(this).serialize() );");
+
+}
+
 //Login Functions
 function formhash(form, password) {
     // Create a new element input, this will be our hashed password field. 
@@ -15,7 +21,16 @@ function formhash(form, password) {
     // Finally submit the form. 
     form.submit();
 }
- 
+function shareButton(){
+  $.ajax({
+    type: "POST",
+    url: "addToShareCount.php",
+    data: { name: $("select[name='players']").val()},
+    success:function( msg ) {
+     alert( "Data Saved: " + msg );
+    }
+   });
+}
 function regformhash(form, uid, email, password, conf) {
      // Check each field has a value
     if (uid.value == ''         || 
@@ -164,13 +179,20 @@ function equalizeNotdHeight(){
 	var marginCalc = ((billDetailsHeight - notdHeight) / 4);
 	$('#newsOfTheDay img').css('margin-bottom', marginCalc);
 }
-
-$(document).ready(function(){
-	$(".headerLogin input[name='password']").keypress(function(event) {
-    if (event.which == 13) {
-    	formhash(this.form, this.form.password);
-    }
+jQuery(function($) {
+    $('#dreamAndWish').bind('scroll', function() {
+        if($(this).scrollTop() + $(this).innerHeight() >= this.scrollHeight) {
+            alert('end reached');
+        }
+    })
 });
+$(document).ready(function(){
+
+    $(".headerLogin input[name='password']").keypress(function(event) {
+	    if (event.which == 13) {
+	    	formhash(this.form, this.form.password);
+	    }
+	});
 	$('.tomorrowsBillParticipateBox, .tomorrowsBillBox').equalizeHeights();
 	$('.double-border').find('.xbut').click(function(){
 		closeOverlaid();

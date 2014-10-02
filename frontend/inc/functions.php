@@ -26,22 +26,19 @@ function sec_session_start() {
 
 function login($email, $password, $mysqli) {
     // Using prepared statements means that SQL injection is not possible. 
-    if ($stmt = $mysqli->prepare("SELECT id, username, password, salt 
+    if ($stmt = $mysqli->prepare("SELECT id, username, password, salt
         FROM individuals
        WHERE email = ?
-        LIMIT 1 UNION ALL 
-        SELECT id, name, password, salt 
-        FROM organizations WHERE email = ? LIMIT 1")) {
-        $stmt->bind_param('ss', $email, $email);  // Bind "$email" to parameter.
+        LIMIT 1")) {
+        $stmt->bind_param('s', $email);  // Bind "$email" to parameter.
         $stmt->execute();    // Execute the prepared query.
         $stmt->store_result();
         // get variables from result.
         $stmt->bind_result($user_id, $username, $db_password, $salt);
         $stmt->fetch();
- 
         // hash the password with the unique salt.
-        $password = hash('sha512', $password . $salt);
         if ($stmt->num_rows == 1) {
+            $password = hash('sha512', $password . $salt);
             // If the user exists we check if the account is locked
             // from too many login attempts 
             if (checkbrute($user_id, $mysqli) == true) {
@@ -63,11 +60,55 @@ function login($email, $password, $mysqli) {
                                                                 "", 
                                                                 $username);
                     $_SESSION['username'] = $username;
+                    $_SESSION['userType'] = 'individual';
+                    $_SESSION['login_string'] = hash('sha512', 
+                              $password . $user_browser);
+                    // Login successful.
+                    return true;
+                }
+            }
+        }
+    }
+    if ($stmt = $mysqli->prepare("SELECT id, name, password, salt 
+        FROM organizations WHERE email = ? LIMIT 1")) {
+        $stmt->bind_param('s', $email);  // Bind "$email" to parameter.   
+        $stmt->execute();    // Execute the prepared query.
+        $stmt->store_result();
+        // get variables from result.
+        $stmt->bind_result($user_id, $username, $db_password, $salt);
+        $stmt->fetch();
+        // hash the password with the unique salt.
+        if ($stmt->num_rows == 1) {
+            $password = hash('sha512', $password . $salt);
+            // If the user exists we check if the account is locked
+            // from too many login attempts 
+            if (checkbrute($user_id, $mysqli) == true) {
+                // Account is locked 
+                // Send an email to user saying their account is locked
+                return false;
+            } else {
+        echo "then".$db_password;
+                // Check if the password in the database matches
+                // the password the user submitted.
+                if ($db_password == $password) {
+                    // Password is correct!
+                    // Get the user-agent string of the user.
+                    $user_browser = $_SERVER['HTTP_USER_AGENT'];
+                    // XSS protection as we might print this value
+                    $user_id = preg_replace("/[^0-9]+/", "", $user_id);
+                    $_SESSION['user_id'] = $user_id;
+                    // XSS protection as we might print this value
+                    $username = preg_replace("/[^a-zA-Z0-9_\-]+/", 
+                                                                "", 
+                                                                $username);
+                    $_SESSION['username'] = $username;
+                    $_SESSION['userType'] = 'organization';
                     $_SESSION['login_string'] = hash('sha512', 
                               $password . $user_browser);
                     // Login successful.
                     return true;
                 } else {
+
                     // Password is not correct
                     // We record this attempt in the database
                     $now = time();
@@ -137,19 +178,13 @@ function login_check($mysqli) {
 //                echo $login_string."BREAK".$login_check;
                 if ($login_check == $login_string) {
                     // Logged In!!!! 
+                    $userType = 'individual';
                     return true;
                 } else {
                     // Not logged in 
                     return false;
                 }
-            } else {
-                echo "not in registry";
-                // Not logged in 
-                return false;
             }
-        } else {
-            // Not logged in 
-            return false;
         }
     } else {
         // Not logged in 
@@ -212,8 +247,11 @@ function esc_url($url) {
     }
 }
 
-    if (isset($_POST['voteUser'])){
-        $_SESSION['voteUser']= $_POST['voteUser'];
-        echo $_SESSION['voteUser'];
-    }
+function url(){
+  return sprintf(
+    "%s://%s",
+    isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] != 'off' ? 'https' : 'http',
+    $_SERVER['SERVER_NAME']
+  );
+}
 ?>

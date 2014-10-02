@@ -24,14 +24,7 @@ include("./inc/getTomorrowsBill.php");
         <?php include ('./inc/userVote.php'); ?>
     </article>
     <article class="billDetails">
-        <div class="share-buttons">
-            <button class="reddit shareButton">Reddit</button>
-            <button class="google shareButton">Google</button>
-            <button class="facebook shareButton">Facebook</button>
-            <button class="linkedin shareButton">LinkedIn</button>
-            <button class="twitter shareButton">Twitter</button>
-            <button class="comment shareButton">Comment</button>
-        </div>
+    <?php include ('./inc/shareButtons.php') ?>
         <hr />
         <div class="billMapContainer clearblock">
             <h3>Statistics</h3>

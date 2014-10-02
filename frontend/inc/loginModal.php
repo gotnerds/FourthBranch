@@ -427,21 +427,21 @@
 					</div>
                     <form name="signupOrganization3" id="signupOrganization3" action="" method="post">
 						<div class="full">
-							<span style="color:#FFFFFF;">Confirm </span><label for="emailS">Sign in Email:</label><input type='email' size='25' name='emailS' id='emailS' />
+							<span style="color:#FFFFFF;">Confirm </span><label for="emailS">Sign in Email:</label><input type='email' size='25' name='emailS' id='emailS' required/>
 						</div>
 						<div class="full">
 							<label for="emailS2">
 							Confirm Sign in Email:</label>
-							<input type='email' size='25' name='emailS2' id='emailS2' />
+							<input type='email' size='25' name='emailS2' id='emailS2' required/>
 					  	</div>
 						<div class="full">
 							<span style="color:#FFFFFF;">Confirm </span>
 							<label for="passS">Password:</label>
-							<input type='password' size='25' name='passS' id='passS' />
+							<input type='password' size='25' name='passS' id='passS' required/>
 						</div>
 						<div class="full">
 							<label for="passS2">
-								Confirm Password:</label><input type='password' name='passS2' id='passS2' size='25' />
+								Confirm Password:</label><input type='password' name='passS2' id='passS2' size='25' required/>
 						</div>
 						<div class="full" style="text-align:center;"><p>
 							By clicking sign up you agree to our 

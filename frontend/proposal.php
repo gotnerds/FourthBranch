@@ -33,105 +33,42 @@
 				<button class="blueButton">Most Discussed</button>
 			</div>
 		</div>
-		<article class="proposalListItem clearfix col2 span_1_of_3 first-child">
+		<?php 
+			$limit = 9;
+			$firstChild = 1;
+			# Get the page number from GET, or set it to 0.
+			$index = isset ( $_GET['page'] ) && $_GET['page'] ? (int) $_GET['page'] : 0;
+			$page = $index * $limit;
+			$sql = 'SELECT * FROM proposals ORDER BY id DESC LIMIT ?, ?';
+			$sqlOrder = str_replace("*", "COUNT(*)", $sql);
+			$remove=strrchr($sqlOrder,'ORDER');
+			//remove is now "- Name: bmackeyodonnell"
+			$sqlOrder=str_replace(" $remove","",$sqlOrder);
+			$statement = $pdo->prepare ($sqlOrder);
+			$statement->execute();
+			$count = $statement->fetchColumn();
+			#The result is now in the $count variable.
+			$stm = $pdo->prepare($sql);
+			$stm->bindParam(1, $page, PDO::PARAM_INT);
+			$stm->bindParam(2, $limit, PDO::PARAM_INT);
+			$stm->execute();
+			while ( $row = $stm->fetch() ) {
+				if($firstChild %3 == 1) { ?>
+					<article class="proposalListItem clearfix col2 span_1_of_3 first-child">
+				<?php } else { ?>
+					<article class="proposalListItem clearfix col2 span_1_of_3">
+				<?php } ?>
 			<div class="proposalListTitle">
-				<h5>Improve Highways Act</h5>
+				<a href="proposalPage.php?code=<?php echo $row['id']; ?>"><h5><?php echo $row['name']; ?></h5></a>
 			</div>
 			<div class="proposalListDetails">
-				<div>1:30pm 9.14.2014</div>
+				<div><?php echo $row['created']; ?></div>
 				<div>30 Agree</div>
 				<div>10 Disaree</div>
 			</div>
-			<button class="blueButton">Read More</button>
+			<button class="blueButton" onclick="window.location.href='proposalPage.php?code=<?php echo $row['id']; ?>'">Read More</button>
 		</article>
-		<article class="proposalListItem clearfix col2 span_1_of_3">
-			<div class="proposalListTitle">
-				<h5>Improve Highways Act</h5>
-			</div>
-			<div class="proposalListDetails">
-				<div>1:30pm 9.14.2014</div>
-				<div>30 Agree</div>
-				<div>10 Disaree</div>
-			</div>
-			<button class="blueButton">Read More</button>
-		</article>
-		<article class="proposalListItem clearfix col2 span_1_of_3">
-			<div class="proposalListTitle">
-				<h5>Improve Highways Act</h5>
-			</div>
-			<div class="proposalListDetails">
-				<div>1:30pm 9.14.2014</div>
-				<div>30 Agree</div>
-				<div>10 Disaree</div>
-			</div>
-			<button class="blueButton">Read More</button>
-		</article>
-		<article class="proposalListItem clearfix col2 span_1_of_3 first-child">
-			<div class="proposalListTitle">
-				<h5>Improve Highways Act</h5>
-			</div>
-			<div class="proposalListDetails">
-				<div>1:30pm 9.14.2014</div>
-				<div>30 Agree</div>
-				<div>10 Disaree</div>
-			</div>
-			<button class="blueButton">Read More</button>
-		</article>
-		<article class="proposalListItem clearfix col2 span_1_of_3">
-			<div class="proposalListTitle">
-				<h5>Improve Highways Act</h5>
-			</div>
-			<div class="proposalListDetails">
-				<div>1:30pm 9.14.2014</div>
-				<div>30 Agree</div>
-				<div>10 Disaree</div>
-			</div>
-			<button class="blueButton">Read More</button>
-		</article>
-		<article class="proposalListItem clearfix col2 span_1_of_3">
-			<div class="proposalListTitle">
-				<h5>Improve Highways Act</h5>
-			</div>
-			<div class="proposalListDetails">
-				<div>1:30pm 9.14.2014</div>
-				<div>30 Agree</div>
-				<div>10 Disaree</div>
-			</div>
-			<button class="blueButton">Read More</button>
-		</article>
-		<article class="proposalListItem clearfix col2 span_1_of_3 first-child">
-			<div class="proposalListTitle">
-				<h5>Improve Highways Act</h5>
-			</div>
-			<div class="proposalListDetails">
-				<div>1:30pm 9.14.2014</div>
-				<div>30 Agree</div>
-				<div>10 Disaree</div>
-			</div>
-			<button class="blueButton">Read More</button>
-		</article>
-		<article class="proposalListItem clearfix col2 span_1_of_3">
-			<div class="proposalListTitle">
-				<h5>Improve Highways Act</h5>
-			</div>
-			<div class="proposalListDetails">
-				<div>1:30pm 9.14.2014</div>
-				<div>30 Agree</div>
-				<div>10 Disaree</div>
-			</div>
-			<button class="blueButton">Read More</button>
-		</article>
-		<article class="proposalListItem clearfix col2 span_1_of_3">
-			<div class="proposalListTitle">
-				<h5>Improve Highways Act</h5>
-			</div>
-			<div class="proposalListDetails">
-				<div>1:30pm 9.14.2014</div>
-				<div>30 Agree</div>
-				<div>10 Disaree</div>
-			</div>
-			<button class="blueButton">Read More</button>
-		</article>
+		<?php $firstChild++; } ?>
 		<div class="proposalListMore">
 			<button class="blueButton">View More Proposals</button>
 		</div>

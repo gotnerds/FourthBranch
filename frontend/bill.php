@@ -99,17 +99,10 @@ echo '<article class="bill section group">
             </ul>
         </div>
         </div>";
-        echo '<div class="share-buttons" style="padding-top:20px;">
-            <button class="reddit shareButton">Reddit</button>
-            <button class="google shareButton">Google</button>
-            <button class="facebook shareButton">Facebook</button>
-            <button class="linkedin shareButton">LinkedIn</button>
-            <button class="twitter shareButton">Twitter</button>
-            <button class="comment shareButton">Comment</button>
-        </div>
-    </div>
+        include ('./inc/shareButtons.php');
+    echo '</div>
     </article>';
-    //include '.inc/comments.php'
+    include './inc/comments.php';
     echo '</section>
     </div>';
    include ('footer.php');

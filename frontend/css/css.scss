@@ -297,7 +297,7 @@ button {
   	width: 59.36%; 
 }
 .span_2_of_5 {
-  	width: 39.04%;
+  	width: 36.8%;
 }
 .span_1_of_5 {
   	width: 16.8%;
@@ -376,6 +376,13 @@ button {
 	display:flex;
 	flex-direction: column;
 	justify-content:flex-end;
+}
+.centered {
+	@include flexCenter(column);
+	.blueButton {
+		padding: 10px 20px;
+		@include font-size(16px);
+	}
 }
 /* table login settings */
 table {
@@ -746,6 +753,9 @@ margin-top:15px;
 	margin-right:auto;
 	width:78.9%;
 	padding-bottom: 30px;
+	form {
+		display:inline-block;
+	}
 }
 .shareButton {
 	width:100px;
@@ -776,6 +786,9 @@ margin-top:15px;
 
 .billDetails {
 	padding-top:20px;
+	.share-buttons {
+		padding-top:20px;
+	}
 }
 .billMapContainer {
 	@include box-shadow;

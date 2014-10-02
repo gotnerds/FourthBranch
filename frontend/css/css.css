@@ -91,7 +91,7 @@ button { border: none; padding: 0; cursor: pointer; color: white; outline: none;
 
 .span_3_of_5 { width: 59.36%; }
 
-.span_2_of_5 { width: 39.04%; }
+.span_2_of_5 { width: 36.8%; }
 
 .span_1_of_5 { width: 16.8%; }
 
@@ -126,6 +126,9 @@ button { border: none; padding: 0; cursor: pointer; color: white; outline: none;
   .span_1_of_5 { width: 100%; }
   .span_1_of_2 { width: 100%; } }
 .columnBottom { display: flex; flex-direction: column; justify-content: flex-end; }
+
+.centered { display: flex; flex-direction: column; flex-wrap: wrap; justify-content: center; align-items: center; }
+.centered .blueButton { padding: 10px 20px; font-size: 16px; font-size: 1rem; }
 
 /* table login settings */
 table { padding-right: 10px; }
@@ -227,6 +230,7 @@ input[type="radio"] { display: none; margin-top: 15px; }
 .voteReject:checked + label span { background: url("../images/checkboxRed.png") 0 -18px no-repeat; height: 22px; width: 22px; }
 
 .share-buttons { display: block; margin-left: auto; margin-right: auto; width: 78.9%; padding-bottom: 30px; }
+.share-buttons form { display: inline-block; }
 
 .shareButton { width: 100px; height: 30px; font-size: 14px; font-size: 0.875rem; }
 .shareButton:hover { -webkit-box-shadow: inset 0 0 5px white; -moz-box-shadow: inset 0 0 5px white; box-shadow: inset 0 0 5px white; }
@@ -244,6 +248,7 @@ input[type="radio"] { display: none; margin-top: 15px; }
 .comment { background-color: black; -webkit-box-shadow: inset 0 0 2px black; -moz-box-shadow: inset 0 0 2px black; box-shadow: inset 0 0 2px black; }
 
 .billDetails { padding-top: 20px; }
+.billDetails .share-buttons { padding-top: 20px; }
 
 .billMapContainer { -webkit-box-shadow: 0 0 5px black; -moz-box-shadow: 0 0 5px black; box-shadow: 0 0 5px black; width: 100%; position: relative; }
 .billMapContainer h3 { margin-bottom: 20px; float: left; width: 32%; text-align: center; }

@@ -6,7 +6,7 @@ session_start();
 
 
 $con = $db_conx;
-$sql="select * from users where userType='o'";
+$sql="select * from individuals";
 $query=mysqli_query($con,$sql);
 
 $st=$_GET['status'];

@@ -4,7 +4,7 @@ $billOfTheDay = mysqli_fetch_array($sql);
 $row = $billOfTheDay;
 $billOfTheDayConvert = str_replace("html", "json", $row['local_html']);
 $billOfTheDayJson = file_get_contents("C:\Ampps\www\FourthBranch\FourthBranch\outside_resources\\".str_replace("/", "\\", $billOfTheDayConvert));
-//$billOfTheDayHtml = file_get_contents("./cgi-bin/".$billOfTheDayConvert);
+//$billOfTheDayJson = file_get_contents("./cgi-bin/".$billOfTheDayConvert);
 $billOfTheDayJsonDecoded = json_decode($billOfTheDayJson, true);
 $billJsonSnippit = $billOfTheDayJsonDecoded['summary']['text'];
 ?>
