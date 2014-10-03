@@ -359,6 +359,12 @@ footer .slogan { float: right; }
 .newsPage { text-align: center; margin-bottom: 40px; }
 .newsPage .newsItem { height: 250px; position: relative; text-align: center; cursor: pointer; background-size: cover; -webkit-filter: grayscale(100%); -moz-filter: grayscale(100%); -ms-filter: grayscale(100%); -o-filter: grayscale(100%); filter: grayscale(100%); filter: gray; /* IE 6-9 */ }
 .newsPage .newsItem:hover { -webkit-filter: grayscale(0%); -moz-filter: grayscale(0%); -ms-filter: grayscale(0%); -o-filter: grayscale(0%); filter: grayscale(0%); filter: color; }
-.newsPage .newsItem:after { content: "This is the Headline."; position: absolute; bottom: 0px; display: none; width: 100%; padding: 10px 0; background-color: rgba(0, 0, 0, 0.6); color: white; text-align: center; }
+.newsPage .newsItem:after { content: attr(headline); position: absolute; bottom: 0px; display: none; width: 100%; padding: 10px 0; background-color: rgba(0, 0, 0, 0.6); color: white; text-align: center; }
 .newsPage .newsItem:hover:after { display: block; }
+.newsPage .newsItem a { display: flex; flex-direction: column; flex-wrap: wrap; justify-content: center; align-items: center; }
 .newsPage h4 { margin-bottom: .5em; color: #2976cb; }
+
+.newsPage .newsItem { height: 300px; width: 100%; overflow: hidden; }
+.newsPage .newsItem img { display: block; }
+.newsPage .portrait img { width: 100%; }
+.newsPage .landscape img { height: 300px; }

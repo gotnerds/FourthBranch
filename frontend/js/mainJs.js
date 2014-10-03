@@ -179,6 +179,36 @@ function equalizeNotdHeight(){
 	var marginCalc = ((billDetailsHeight - notdHeight) / 4);
 	$('#newsOfTheDay img').css('margin-bottom', marginCalc);
 }
+function imageCycle() {
+	console.log($(this));
+
+
+}
+
+function imageClicked()
+{
+  //get images in the set
+  var imageSrcs = this.getAttribute('data-altsrc');
+
+  //var urlSet = $(this).closest('.linkerrr').getAttribute('data-alturl').split(',');
+  //var headlineSet = $(this).closest('.newsItem').getAttribute('headline').split(',');
+
+  //Use a closure to wrap the counter variable
+  //so each image element has their own unique counter
+  var counter = 0;
+  return function(event)
+  {
+    //Increment counter
+    counter++;
+    //The context of "this" is the image element
+    //Use a modulus
+    this.src = imageSet[counter % imageSet.length];
+    this.src = imageSet[counter % imageSet.length];
+    //this.parent().href = urlSet[counter % urlSet.length];
+    //this.parent().href = urlSet[counter % urlSet.length];
+  
+  }
+}
 jQuery(function($) {
     $('#dreamAndWish').bind('scroll', function() {
         if($(this).scrollTop() + $(this).innerHeight() >= this.scrollHeight) {
@@ -186,8 +216,46 @@ jQuery(function($) {
         }
     })
 });
-$(document).ready(function(){
+//Select all elements on the page with the name attribute equal to VCRImage
 
+$(document).ready(function(){
+	var counter = 0;
+
+	$('.newsItem a').click(function() {
+		var urlHrefs = $(this).attr('data-alturl');
+		var urlSet = urlHrefs.split(',');
+		var headlines = $(this).closest('.newsItem').attr('headliners');
+		var headlineSet = headlines.split('/');
+		var imageSrcs = $(this).children('.newsImage').attr('data-altsrc');
+		var imageSet = imageSrcs.split(',');
+		$(this).attr("href", urlSet[counter]);
+		if ((counter+1) == imageSet.length) {
+			counter = 0;
+		} else {
+			counter++;
+		}
+		$(this).children('.newsImage').attr("src", imageSet[counter]);
+		$(this).closest('.newsItem').attr("headline", headlineSet[counter]);
+    
+	});
+	$(".newsItem").each(function(){
+    // Uncomment the following if you need to make this dynamic
+    var refH = $(this).height();
+    var refW = $(this).width();
+    var refRatio = refW/refH;
+
+    // Hard coded value...
+    var refRatio = 240/300;
+
+    var imgH = $(this).children("img").height();
+    var imgW = $(this).children("img").width();
+
+    if ( (imgW/imgH) < refRatio ) { 
+        $(this).addClass("portrait");
+	    } else {
+	        $(this).addClass("landscape");
+	    }
+	})
     $(".headerLogin input[name='password']").keypress(function(event) {
 	    if (event.which == 13) {
 	    	formhash(this.form, this.form.password);

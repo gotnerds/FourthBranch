@@ -1,14 +1,13 @@
 <?php 
 if($logged == 'in') {
     $billId = $row['id'];
-    echo $billId;
     $user_id = $_SESSION['user_id'];
     $postVote = 'voteUser'.$billId;
     $stmt = $pdo->prepare("CALL getUserVote(?, ?)");
     $stmt->bindParam(1, $user_id, PDO::PARAM_STR);
     $stmt->bindParam(2, $billId, PDO::PARAM_STR);
     $rs = $stmt->execute();
-    var_dump($_POST);
+    #var_dump($_POST);
 
     if ($result = $stmt->fetchAll(PDO::FETCH_ASSOC)) {
         $vote = $result[0]['vote'];

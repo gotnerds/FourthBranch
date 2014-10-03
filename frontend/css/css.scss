@@ -1205,7 +1205,7 @@ footer {
 			filter: color;
 		}
 		&:after {
-			content:"This is the Headline.";
+			content:attr(headline);
 			position:absolute;
 			bottom:0px;
 			display:none;
@@ -1218,6 +1218,9 @@ footer {
 		&:hover:after {
 			display:block;
 		}
+		a {
+			@include flexCenter(column);
+		}
 	}
 	h4 {
 		margin-bottom:.5em;
@@ -1225,4 +1228,20 @@ footer {
 	}
 	text-align:center;
 	margin-bottom:40px;
+}
+.newsPage {
+	.newsItem {
+    height: 300px;
+    width: 100%;
+    overflow: hidden;
+    	img {
+	    display: block;
+		}
+	}
+	.portrait img {
+	    width: 100%;
+	}
+	.landscape img {
+	    height: 300px;
+	}
 }

@@ -18,6 +18,10 @@
 					$stmt->execute();
 					if ( $stmt->rowCount() >= 1) {
 						while ($row = $stmt->fetch()){
+							$sqlu = "SELECT `username`, `state` FROM `individuals` WHERE id =".$user_id;
+							$stmt = $pdo->prepare($sqlu);
+							$stmt->execute();
+							$user = $stmt->fetch();
 							echo '
 							<div style="float:left;display:inline-block;">
 								<h5>Your Dream And Wish</h5>
@@ -31,6 +35,9 @@
 								</div>
 								<div class="col span_1_of_5">
 									<div style="max-width:100%;height:60px;border:1px black solid;text-align:center;">PICTURE</div>
+									<p style="text-align:center;">'.$user['username'].'</br>
+									'.$user['state'].'</br>
+									'.$row['date'].'</p>
 								</div>
 								<div class="col span_2_of_5">
 									<p style="text-align:right;">'.$row['wish'].'</p>
@@ -62,6 +69,10 @@
 			$stm->bindParam(2, $limit, PDO::PARAM_INT);
 			$stm->execute();
 			while ( $row = $stm->fetch() ) {
+				$sqlu = "SELECT `username`, `state` FROM `individuals` WHERE id =".$row['user'];
+				$stmt = $pdo->prepare($sqlu);
+				$stmt->execute();
+				$user = $stmt->fetch();
 				echo '
 				<div class="singleDream">
 					<div style="float:left;display:inline-block;">
@@ -73,6 +84,10 @@
 					</div>
 					<div class="col span_1_of_5">
 						<div style="max-width:100%;height:60px;border:1px solid black;text-align:center;">PICTURE</div>
+						<p style="text-align:center;">'.$user['username'].'</br>
+						'.$user['state'].'</br>
+						'.$row['date'].'</p>
+
 					</div>
 					<div class="col span_2_of_5">
 						<p style="text-align:right;">'.$row['wish'].'</p>
