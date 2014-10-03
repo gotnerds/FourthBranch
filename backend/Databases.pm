@@ -1,4 +1,14 @@
 #!/usr/bin/perl
+##### todo
+# comments_bill isn't built right
+# need a sub comments database for both bills and comments.
+#####
+
+##### todo
+# stored_procedures 
+# add a linkedIn column for insertBillVote
+# updateBillVote - do the same
+####
 package Databases;
 
 use strict;
@@ -45,6 +55,53 @@ CREATE TABLE `login_attempts` (
 END_LOGIN_ATTEMPTS_TABLE
     ;
 
+my $CREATE_BILL_OF_THE_DAY_TABLE = <<'END_BILL_OF_THE_DAY_TABLE';
+create table bill_of_the_day
+( id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT, 
+  alive_date DATE , 
+  selected_summary MEDIUMINT,
+  bill_id MEDIUMINT NOT NULL,
+  PRIMARY KEY (id)
+);
+END_BILL_OF_THE_DAY_TABLE
+    ;
+
+my $CREATE_SUMMARIES_BILL_OF_THE_DAY_TABLE = <<'END_SUMMARIES_BILL_OF_THE_DAY_TABLE';
+create table summaries_bill_of_the_day
+( id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT, 
+  bill_of_the_day MEDIUMINT , 
+  submitted_summary TEXT,
+  user MEDIUMINT NOT NULL,
+  date DATE NOT NULL,
+  PRIMARY KEY (id)
+);
+END_SUMMARIES_BILL_OF_THE_DAY_TABLE
+    ;
+
+my $CREATE_SUBCOMMENTS_BILLS_TABLE = <<'END_SUBCOMMENTS_BILLS_TABLE';
+create table subcomments_bills
+( id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT, 
+  bill MEDIUMINT , 
+  subcomment TEXT,
+  user MEDIUMINT NOT NULL,
+  date DATE NOT NULL,
+  PRIMARY KEY (id)
+);
+END_SUBCOMMENTS_BILLS_TABLE
+    ;
+
+my $CREATE_SUBCOMMENTS_PROPOSALS_TABLE = <<'END_SUBCOMMENTS_PROPOSALS_TABLE';
+create table subcomments_proposals
+( id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT, 
+  proposal MEDIUMINT , 
+  subcomment TEXT,
+  user MEDIUMINT NOT NULL,
+  date DATE NOT NULL,
+  PRIMARY KEY (id)
+);
+END_SUBCOMMENTS_PROPOSALS_TABLE
+    ;
+
 my $CREATE_UNAPPROVED_PROFILES_TABLE = <<'END_UNAPPROVED_PROFILES_TABLE';
 create table unapproved_profiles
 ( id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT, 
@@ -83,11 +140,12 @@ create table individuals
   city VARCHAR(200), 
   state VARCHAR(100), 
   zip MEDIUMINT,
-  email VARCHAR(128),
-  password VARCHAR(100), 
+  email VARCHAR(200),
+  password VARCHAR(128), 
   political_affiliation VARCHAR(30), 
   activated VARCHAR(5), 
   salt VARCHAR(128),
+  photo VARCHAR(200),
   PRIMARY KEY (id)
 );
 END_INDIVIDUAL_USERS_TABLE
@@ -127,11 +185,35 @@ create table organizations
   salt VARCHAR(128),
   verified VARCHAR(5), 
   signup_date DATE,
+  photo VARCHAR(200),
   PRIMARY KEY (id)
 );
 END_ORGANIZATION_USERS_TABLE
     ;
 
+my $CREATE_COMMENTS_PROPOSALS_TABLE = <<'END_COMMENTS_PROPOSALS_TABLE';
+create table comments_proposals 
+( id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT, 
+  name VARCHAR(50) NOT NULL UNIQUE, 
+  up_votes MEDIUMINT NOT NULL,
+  down_votes MEDIUMINT NOT NULL,
+  date DATE,
+  PRIMARY KEY (id)
+);
+END_COMMENTS_PROPOSALS_TABLE
+    ;
+
+my $CREATE_COMMENTS_BILLS_TABLE = <<'END_COMMENTS_BILLS_TABLE';
+create table comments_bills 
+( id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT, 
+  name VARCHAR(50) NOT NULL UNIQUE, 
+  up_votes MEDIUMINT NOT NULL,
+  down_votes MEDIUMINT NOT NULL,
+  date DATE,
+  PRIMARY KEY (id)
+);
+END_COMMENTS_BILLS_TABLE
+    ;
 
 my $CREATE_PROPOSAL_TABLE = <<'END_PROPOSAL_TABLE';
 create table proposals 
@@ -240,6 +322,7 @@ create table bill_votes
  google MEDIUMINT, 
  facebook MEDIUMINT,
  twitter MEDIUMINT,
+ linkedin MEDIUMINT,
  PRIMARY KEY(id)
 );
 END_BILL_VOTE_TABLE
@@ -287,9 +370,9 @@ END_COMMENT
     ;
 
 ####################################
-my @tables = ($CREATE_MEMBERS_TABLE,$CREATE_LOGIN_ATTEMPTS_TABLE, $CREATE_INDIVIDUAL_USERS_TABLE, $CREATE_ORGANIZATION_USERS_TABLE, $CREATE_ADMIN_USERS_TABLE,$CREATE_BILL_TABLE,$CREATE_REPRESENTATIVES_TABLE,$CREATE_WALL_OF_AMERICA_TABLE,$CREATE_BILL_VOTE_TABLE,$CREATE_USER_VOTES_TABLE,$CREATE_COMMENT_TABLE,$CREATE_CONGRESS_VOTES_TABLE,$CREATE_NEWS_TABLE,$CREATE_REPORTED_COMMENTS_TABLE,$CREATE_PROPOSAL_TABLE,$CREATE_STATIC_PAGES_TABLE);
+my @tables = ($CREATE_MEMBERS_TABLE,$CREATE_LOGIN_ATTEMPTS_TABLE, $CREATE_INDIVIDUAL_USERS_TABLE, $CREATE_ORGANIZATION_USERS_TABLE, $CREATE_ADMIN_USERS_TABLE,$CREATE_BILL_TABLE,$CREATE_REPRESENTATIVES_TABLE,$CREATE_WALL_OF_AMERICA_TABLE,$CREATE_BILL_VOTE_TABLE,$CREATE_USER_VOTES_TABLE,$CREATE_COMMENT_TABLE,$CREATE_CONGRESS_VOTES_TABLE,$CREATE_NEWS_TABLE,$CREATE_REPORTED_COMMENTS_TABLE,$CREATE_PROPOSAL_TABLE,$CREATE_STATIC_PAGES_TABLE,$CREATE_COMMENTS_BILLS_TABLE,$CREATE_COMMENTS_PROPOSALS_TABLE,$CREATE_SUMMARIES_BILL_OF_THE_DAY_TABLE,$CREATE_BILL_OF_THE_DAY_TABLE,$CREATE_SUBCOMMENTS_PROPOSALS_TABLE,$CREATE_SUBCOMMENTS_BILLS_TABLE);
 
-my @table_names = ("members","login_attempts","individuals", "organizations","admins","bills","representatives","bill_votes","user_votes","wall_of_america","comments_bills","congress_votes","news","reported_comments","proposals","static_pages");
+my @table_names = ("members","login_attempts","individuals", "organizations","admins","bills","representatives","bill_votes","user_votes","wall_of_america","comments_bills","congress_votes","news","reported_comments","proposals","static_pages","comments_bills","comments_proposals","summaries_bill_of_the_day","bill_of_the_day","subcomments_proposals","subcomments_bills");
 
 ####################################
 
