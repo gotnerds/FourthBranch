@@ -7,15 +7,15 @@ if($logged == 'in') {
     $stmt->bindParam(1, $user_id, PDO::PARAM_STR);
     $stmt->bindParam(2, $billId, PDO::PARAM_STR);
     $rs = $stmt->execute();
-    #var_dump($_POST);
+    var_dump($_POST);
 
     if ($result = $stmt->fetchAll(PDO::FETCH_ASSOC)) {
         $vote = $result[0]['vote'];
     } else {
         // no vote yet    
-        if (isset($_POST['userVote'])) {
+        if (isset($_POST['voteUser'])) {
             $date = date("Y-m-d");
-            $userVote = $_POST[$postVote];
+            $userVote = $_POST['voteUser'];
             $stmt = $pdo->prepare("CALL insertUserVote(?, ?, ?, ?, ?)");
             $stmt->bindParam(1, $billId, PDO::PARAM_STR);
             $stmt->bindParam(2, $user_id, PDO::PARAM_STR);
@@ -37,16 +37,17 @@ if($logged == 'in') {
     // logged out
 }
     ?>
-    <form class="voteUser hasRadio" action='' method="POST">
+    <form class="voteUser hasRadio" action='' method="POST" id="postVote">
             <?php 
             if($logged == 'in'){
                 if(isset($vote)) {
                     if ($vote == 'pass') { ?>
                         <input type="radio" class="votePass" name="voteUser" id="pass<?php echo $billId; ?>" value="pass" checked />
                     <?php } elseif ($vote == 'reject') {
-                    } } else { ?>
-                        <input type="radio" class="votePass" name="voteUser" id="pass<?php echo $billId; ?>" value="pass" onChange="userVote();" />
-                    <?php } 
+                    } 
+                } else { ?>
+                    <input type="radio" class="votePass" name="voteUser" id="pass<?php echo $billId; ?>" value="pass" onChange="userVote();" />
+                <?php } 
                 } else { ?>
                     <input type="radio" class="votePass" name="voteUser" id="pass<?php echo $billId; ?>" value="pass" onChange="a()" /> <?php } ?>
         <label for="pass<?php echo $billId; ?>">PASS<span></span></label>

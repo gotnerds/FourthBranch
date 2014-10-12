@@ -1,0 +1,48 @@
+UserVote functionality
+HomePage
+	news of the day auto height problems
+		dissappear after certain width
+Trending Comments
+	most activity for botd comment
+infinite scroll 
+	search function
+	keep footer at bottom
+Search: Sort By (across site)
+	better search functionality (hits)
+About
+	style & content
+Contact
+	content
+Login Issues
+	Organizations Images
+	required fields
+	email
+	verification
+	check if verified/reviewed
+	set check between individual and organization
+Contribute
+	PayPal page
+	Store Layout
+News Page
+	Built out
+	News Of The Day
+Bill Of The Day & Tommorrow's Bill
+	Automated based on BOTD date
+Wall of America 
+	Style!
+Profile Page
+	NEWSFEED
+	FOLLOW
+	PRIVACY
+COMMENTS
+	organize by
+	Like or dislike
+	Report
+ADMIN PANEL
+	Update all code to our database
+Open Bills Vs Closed Bills
+	functionality
+	Build a closed bill
+Organizations vs Users roles
+Scalability - mobile and tablet
+Map - quick implementation
