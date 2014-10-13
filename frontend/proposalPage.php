@@ -5,7 +5,7 @@ $sql = "SELECT * FROM proposals WHERE id = '".$proposalId."'";
 $stm = $pdo->prepare($sql);
 $stm->execute();
 $row = $stm->fetch();
-$sqlu = "SELECT * FROM individuals WHERE id = '".$row['individual_id']."'";
+$sqlu = "SELECT 'username' FROM individuals WHERE id = '".$row['individual_id']."'";
 $stmt = $pdo->prepare($sqlu);
 $stmt->execute();
 $user = $stmt->fetch();

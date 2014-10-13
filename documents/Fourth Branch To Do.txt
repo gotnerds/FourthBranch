@@ -1,10 +1,10 @@
 *_* UserVote
-	functionality
+	remove organization functionality
 Login Issues
-	Organizations Images
-	required fields
-	email
-	verification
+	Organizations Images Upload
+	*_* Organization login problem
+	required fields - organizations
+	email verification
 	check if verified/reviewed
 	set check between individual and organization
 HomePage
@@ -22,6 +22,7 @@ About
 	style & content
 Contact
 	content
+Terms of Service & Privacy Policy
 Contribute
 	PayPal page
 	Store Layout

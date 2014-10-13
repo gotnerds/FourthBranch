@@ -2,11 +2,19 @@
 if($logged == 'in') {
     unset($vote);
     $billId = $row['id'];
-    $user_id = $_SESSION['user_id'];
-    $stmt = $pdo->prepare("CALL getUserVote(?, ?)");
-    $stmt->bindParam(1, $user_id, PDO::PARAM_STR);
-    $stmt->bindParam(2, $billId, PDO::PARAM_STR);
-    $rs = $stmt->execute();
+    if ($_SESSION['userType'] == "organization") {
+            $organization_id = $_SESSION['user_id'];
+            $stmt = $pdo->prepare("CALL getOrganizationVote(?, ?)");
+            $stmt->bindParam(1, $organization_id, PDO::PARAM_STR);
+            $stmt->bindParam(2, $billId, PDO::PARAM_STR);
+            $rs = $stmt->execute();
+    } elseif ($_SESSION['userType'] == "individual") {
+        $user_id = $_SESSION['user_id'];
+        $stmt = $pdo->prepare("CALL getUserVote(?, ?)");
+        $stmt->bindParam(1, $user_id, PDO::PARAM_STR);
+        $stmt->bindParam(2, $billId, PDO::PARAM_STR);
+        $rs = $stmt->execute();
+    }
     if ($result = $stmt->fetchAll(PDO::FETCH_ASSOC)) {
         $vote = $result[0]['vote'];
     } else {
@@ -44,8 +52,8 @@ if($logged == 'in') {
                     <?php 
                     if(isset($user_id)) { ?>
                     <input type="hidden" name="user_id" value="<?php echo $user_id; ?>" />
-                    <?php } elseif (isset($org_id)) { ?>
-                    <input type="hidden" name="org_id" value="<?php echo $org_id; ?>" />
+                    <?php } elseif (isset($organization_id)) { ?>
+                    <input type="hidden" name="organization_id" value="<?php echo $organization_id; ?>" />
                     <?php }
                 } 
             } else { ?>
