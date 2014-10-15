@@ -49,7 +49,7 @@
 			$proposalConcern = $_POST['proposalConcern'];
 			$proposalDescription = $_POST['proposalDescription'];
 			$currentDate = date("Y-m-d");
-			$individual_id = 5;
+			$individual_id = $_SESSION['user_id'];
 			$verified = 0;
 
 #SET @p0='1'; SET @p1='The bill to start them all'; SET @p2='federal'; SET @p3='arts'; SET @p4='science'; SET @p5='business'; SET @p6='2014-09-09'; SET @p7='0'; SET @p8='the bill will begin soon'; CALL `insertProposal`(@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8);

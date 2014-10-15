@@ -1,33 +1,30 @@
-//User Vote
-$("#postVote").submit(function(e)
-{
-    var postData = $(this).serializeArray();
-    var formURL = $(this).attr("action");
-    $.ajax(
-    {
-        url : formURL,
-        type: "POST",
-        data : postData,
-        success:function(data, textStatus, jqXHR) 
-        {
-            //data: return data from server
-        },
-        error: function(jqXHR, textStatus, errorThrown) 
-        {
-            //if fails      
-        }
-    });
-    e.preventDefault(); //STOP default action
-    e.unbind(); //unbind. to stop multiple form submit.
-});
- 
-$("#ajaxform").submit();
-function userVote() {
-console.log($(this));
-	$.post( "./inc/postVote.php" );
 
-}
-
+//userVote
+   function userVote(e) {
+        console.log(e);
+        var postData = $(e).serializeArray();
+        console.log(postData);
+        $.ajax(
+        {
+            url : 'inc/postVote.php',
+            type: "POST",
+            data : postData,
+            success:function(data) 
+            {
+                console.log(data);
+                $(e).html(data);
+                //data: return data from server
+            },
+            error: function(jqXHR, textStatus, errorThrown) 
+            {
+                console.log("NO!");
+                //if fails      
+            }
+        });
+        e.preventDefault(); //STOP default action
+        e.unbind(); //unbind. to stop multiple form submit.
+    }
+    
 //Login Functions
 function formhash(form, password) {
     // Create a new element input, this will be our hashed password field. 

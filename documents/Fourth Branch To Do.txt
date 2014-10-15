@@ -1,4 +1,12 @@
-UserVote functionality
+*_* UserVote
+	remove organization functionality
+Login Issues
+	Organizations Images Upload
+	*_* Organization login problem
+	required fields - organizations
+	email verification
+	check if verified/reviewed
+	set check between individual and organization
 HomePage
 	news of the day auto height problems
 		dissappear after certain width
@@ -7,19 +15,14 @@ Trending Comments
 infinite scroll 
 	search function
 	keep footer at bottom
-Search: Sort By (across site)
+Search
+	Sort By (across site)
 	better search functionality (hits)
 About
 	style & content
 Contact
 	content
-Login Issues
-	Organizations Images
-	required fields
-	email
-	verification
-	check if verified/reviewed
-	set check between individual and organization
+Terms of Service & Privacy Policy
 Contribute
 	PayPal page
 	Store Layout
@@ -46,3 +49,4 @@ Open Bills Vs Closed Bills
 Organizations vs Users roles
 Scalability - mobile and tablet
 Map - quick implementation
+	Money for Map
