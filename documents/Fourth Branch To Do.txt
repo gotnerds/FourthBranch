@@ -1,7 +1,8 @@
 *_* UserVote
 	remove organization functionality
 Login Issues
-	Organizations Images Upload
+	*_* Organizations Images Upload
+		Add to database and do error checking
 	*_* Organization login problem
 	required fields - organizations
 	email verification
@@ -23,6 +24,9 @@ About
 Contact
 	content
 Terms of Service & Privacy Policy
+Share Button 
+	*_* AJAX submit
+		UPDATE PROCEDURE to: WHERE billId = bill_Id
 Contribute
 	PayPal page
 	Store Layout
@@ -43,10 +47,10 @@ COMMENTS
 	Report
 ADMIN PANEL
 	Update all code to our database
+		or use CRUD from email
 Open Bills Vs Closed Bills
 	functionality
 	Build a closed bill
 Organizations vs Users roles
-Scalability - mobile and tablet
+UI Scalability - mobile and tablet
 Map - quick implementation
-	Money for Map

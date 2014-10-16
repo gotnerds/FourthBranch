@@ -247,7 +247,7 @@
 						</p>												
 					</div>
 				</div>
-                <form name="signupOrganization" id="signupOrganization" action="<?php echo esc_url($_SERVER['PHP_SELF']); ?>" method="POST" style="margin: 15px;">
+                <form name="signupOrganization" id="signupOrganization" action="<?php echo esc_url($_SERVER['PHP_SELF']); ?>" method="POST" style="margin: 15px;" enctype="multipart/form-data">
 					<div class="full"><label for="nameOrganization">Name of Organization:</label>
 						<input type='text' style="width:400px;" name='nameOrganization' id='nameOrganization' />
 					</div>

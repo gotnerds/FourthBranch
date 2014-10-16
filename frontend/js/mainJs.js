@@ -24,7 +24,57 @@
         e.preventDefault(); //STOP default action
         e.unbind(); //unbind. to stop multiple form submit.
     }
-    
+//userShare
+   function userShare(e) {
+        console.log(e);
+        var postData = $(e).serializeArray();
+        console.log(postData);
+        $.ajax(
+        {
+            url : 'inc/shareActions.php',
+            type: "POST",
+            data : postData,
+            success:function(data) 
+            {
+                console.log(data);
+                $(e).append(data);
+                //data: return data from server
+            },
+            error: function(jqXHR, textStatus, errorThrown) 
+            {
+                console.log("NO!");
+                //if fails      
+            }
+        });
+        e.preventDefault(); //STOP default action
+        e.unbind(); //unbind. to stop multiple form submit.
+    }
+
+   function userCart(e) {
+        console.log(e);
+        var postData = $(e).serializeArray();
+        console.log(postData);
+        $.ajax(
+        {
+            url : 'inc/cartUpdate.php',
+            type: "POST",
+            data : postData,
+            success:function(data) 
+            {
+                console.log(data);
+                $(e).append(data);
+                //data: return data from server
+            },
+            error: function(jqXHR, textStatus, errorThrown) 
+            {
+                console.log("NO!");
+                //if fails      
+            }
+        });
+        e.preventDefault(); //STOP default action
+        e.unbind(); //unbind. to stop multiple form submit.
+    }
+
 //Login Functions
 function formhash(form, password) {
     // Create a new element input, this will be our hashed password field. 

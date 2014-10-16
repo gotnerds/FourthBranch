@@ -4,7 +4,7 @@ include_once './inc/functions.php';
 if (isset($_POST)) {
 	//var_dump($_POST);
 }
-    include "./inc/db_conx.php";
+include "./inc/db_conx.php";
 include_once './inc/db_connect.php';
 sec_session_start();
 if (login_check($mysqli) == true) {
@@ -46,7 +46,7 @@ if (!empty($error_msg)) {
 		<nav id="extraNav" role="navigation">
 			<a href="about.php">About</a> | 
 			<a href="contact.php">Contact</a> | 
-			<a href="">Contribute</a>
+			<a href="contribute.php">Contribute</a>
 		</nav>
 			<?php 
                 if($logged == 'in') {
@@ -54,7 +54,7 @@ if (!empty($error_msg)) {
 
 			<section class="headerLogin" style="width: 50%;text-align: right;margin-right: 10px;height: 50px;">
             Welcome 
-            <?php echo $_SESSION['username']; ?> | 
+            <a href="profile.php?id=<?php echo $_SESSION['user_id']; ?>"><?php echo $_SESSION['username']; ?></a> | 
             <a id="logout-button" href="inc/logout.php">Logout  </a>
             <?php
             } else {
