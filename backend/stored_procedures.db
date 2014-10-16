@@ -16,7 +16,7 @@ END  $$
 DROP PROCEDURE IF EXISTS insertBill$$ 
 CREATE PROCEDURE insertBill ( IN title TEXT , IN status VARCHAR(50) , IN url TEXT , IN code VARCHAR(50) , IN local_html TEXT , IN open VARCHAR(5) , IN local_json TEXT , IN local_xml TEXT , IN isLargeBill CHAR(1) , IN isAppropiationBill CHAR(1) ) 
 BEGIN 
-INSERT INTO bills (local_json,title,code,local_xml,local_html,status,url,isAppropiationBill,open,isLargeBill) VALUES (local_json , title , code , local_xml , local_html , status , url , is_appropiation_bill , open , is_large_bill) ;
+INSERT INTO bills (isAppropiationBill,local_json,open,title,status,isLargeBill,code,local_xml,url,local_html) VALUES (is_appropiation_bill , local_json , open , title , status , is_large_bill , code , local_xml , url , local_html) ;
 END $$
 
 DROP PROCEDURE IF EXISTS deleteBillByCode$$
@@ -78,33 +78,33 @@ END  $$
 DROP PROCEDURE IF EXISTS insertAdmin$$ 
 CREATE PROCEDURE insertAdmin ( IN email VARCHAR(50) , IN password VARCHAR(128) , IN salt VARCHAR(128) ) 
 BEGIN 
-INSERT INTO admins (salt,email,password) VALUES (salt , email , password) ;
+INSERT INTO admins (email,salt,password) VALUES (email , salt , password) ;
 END $$
 
 DROP PROCEDURE IF EXISTS updateBillVote$$ 
-CREATE PROCEDURE updateBillVote ( IN billId MEDIUMINT(9) , IN reddit MEDIUMINT(9) , IN google MEDIUMINT(9) , IN facebook MEDIUMINT(9) , IN twitter MEDIUMINT(9) ) 
+CREATE PROCEDURE updateBillVote ( IN billId MEDIUMINT(9) , IN reddit MEDIUMINT(9) , IN google MEDIUMINT(9) , IN facebook MEDIUMINT(9) , IN twitter MEDIUMINT(9) , IN linkedin MEDIUMINT(9) ) 
 BEGIN 
-UPDATE bill_votes SET twitter = twitter , facebook = facebook , google = google , reddit = reddit 
+UPDATE bill_votes SET reddit = reddit , twitter = twitter , google = google , facebook = facebook , linkedin = linkedin 
 WHERE billId = billId;
 END  $$
 
 DROP PROCEDURE IF EXISTS insertBillVote$$ 
-CREATE PROCEDURE insertBillVote ( IN billId MEDIUMINT(9) , IN reddit MEDIUMINT(9) , IN google MEDIUMINT(9) , IN facebook MEDIUMINT(9) , IN twitter MEDIUMINT(9) ) 
+CREATE PROCEDURE insertBillVote ( IN billId MEDIUMINT(9) , IN reddit MEDIUMINT(9) , IN google MEDIUMINT(9) , IN facebook MEDIUMINT(9) , IN twitter MEDIUMINT(9) , IN linkedin MEDIUMINT(9) ) 
 BEGIN 
-INSERT INTO bill_votes (reddit,facebook,twitter,billId,google) VALUES (reddit , facebook , twitter , billId , google) ;
+INSERT INTO bill_votes (twitter,billId,reddit,facebook,google,linkedin) VALUES (twitter , billId , reddit , facebook , google , linkedin) ;
 END $$
 
 DROP PROCEDURE IF EXISTS updateBillComment$$ 
 CREATE PROCEDURE updateBillComment ( IN user MEDIUMINT(9) , IN comment VARCHAR(200) , IN sub_comment VARCHAR(200) , IN comment_post_date DATE , IN sub_comment_post_date DATE ) 
 BEGIN 
-UPDATE comments_bills SET comment = comment , sub_comment = sub_comment , sub_comment_post_date = sub_comment_post_date , comment_post_date = comment_post_date , user = user 
+UPDATE comments_bills SET comment_post_date = comment_post_date , comment = comment , sub_comment = sub_comment , sub_comment_post_date = sub_comment_post_date , user = user 
 WHERE id = id;
 END  $$
 
 DROP PROCEDURE IF EXISTS insertBillComment$$ 
 CREATE PROCEDURE insertBillComment ( IN user MEDIUMINT(9) , IN comment VARCHAR(200) , IN sub_comment VARCHAR(200) , IN comment_post_date DATE , IN sub_comment_post_date DATE ) 
 BEGIN 
-INSERT INTO comments_bills (user,comment_post_date,comment,sub_comment,sub_comment_post_date) VALUES (user , comment_post_date , comment , sub_comment , sub_comment_post_date) ;
+INSERT INTO comments_bills (sub_comment,comment_post_date,user,comment,sub_comment_post_date) VALUES (sub_comment , comment_post_date , user , comment , sub_comment_post_date) ;
 END $$
 
 DROP PROCEDURE IF EXISTS deleteBillComment$$
@@ -117,7 +117,7 @@ END  $$
 DROP PROCEDURE IF EXISTS insertIndividual$$ 
 CREATE PROCEDURE insertIndividual ( IN first_name VARCHAR(50) , IN last_name VARCHAR(50) , IN username VARCHAR(30) , IN birthdate DATE , IN gender CHAR(1) , IN address VARCHAR(200) , IN city VARCHAR(200) , IN state VARCHAR(100) , IN zip MEDIUMINT , IN email VARCHAR(128) , IN password VARCHAR(100) , IN political_affiliation VARCHAR(30) , IN activated VARCHAR(5) , IN salt VARCHAR(128) ) 
 BEGIN 
-INSERT INTO individuals (zip,city,state,password,last_name,gender,first_name,email,address,username,birthdate,salt,political_affiliation,activated) VALUES (zip , city , state , password , last_name , gender , first_name , email , address , username , birthdate , salt , political_affiliation , activated) ;
+INSERT INTO individuals (activated,political_affiliation,state,salt,birthdate,last_name,email,zip,first_name,username,address,city,gender,password) VALUES (activated , political_affiliation , state , salt , birthdate , last_name , email , zip , first_name , username , address , city , gender , password) ;
 END $$
 
 DROP PROCEDURE IF EXISTS deleteIndividual$$
@@ -135,15 +135,15 @@ WHERE title = title;
 END  $$
 
 DROP PROCEDURE IF EXISTS insertNewsItem$$ 
-CREATE PROCEDURE insertNewsItem ( IN title TEXT , IN news_url VARCHAR(100) , IN photo VARCHAR(50) , IN category VARCHAR(50) , IN category_index MEDIUMINT(9) ) 
+CREATE PROCEDURE insertNewsItem ( IN title TEXT , IN news_url TEXT , IN photo TEXT , IN category TEXT , IN category_index MEDIUMINT(9) ) 
 BEGIN 
-INSERT INTO news (photo,category,category_index,news_url,title) VALUES (photo , category , category_index , news_url , title) ;
+INSERT INTO news (photo,news_url,category_index,category,title) VALUES (photo , news_url , category_index , category , title) ;
 END $$
 
 DROP PROCEDURE IF EXISTS insertOrganization$$ 
 CREATE PROCEDURE insertOrganization ( IN name VARCHAR(50) , IN address VARCHAR(200) , IN city VARCHAR(200) , IN state VARCHAR(100) , IN zip MEDIUMINT , IN phone VARCHAR(100) , IN legal_status VARCHAR(100) , IN cause_concerns VARCHAR(30) , IN join_reason VARCHAR(500) , IN individual_name VARCHAR(300) , IN title_in_organization VARCHAR(300) , IN personal_phone VARCHAR(20) , IN email VARCHAR(40) , IN password VARCHAR(128) , IN salt VARCHAR(128) , IN verified VARCHAR(5) , IN signup_date DATE ) 
 BEGIN 
-INSERT INTO organizations (zip,password,title_in_organization,join_reason,personal_phone,individual_name,email,verified,signup_date,city,cause_concerns,state,phone,name,address,legal_status,salt) VALUES (zip , password , title_in_organization , join_reason , personal_phone , individual_name , email , verified , signup_date , city , cause_concerns , state , phone , name , address , legal_status , salt) ;
+INSERT INTO organizations (legal_status,title_in_organization,join_reason,zip,address,cause_concerns,signup_date,individual_name,verified,name,password,city,state,personal_phone,salt,phone,email) VALUES (legal_status , title_in_organization , join_reason , zip , address , cause_concerns , signup_date , individual_name , verified , name , password , city , state , personal_phone , salt , phone , email) ;
 END $$
 
 DROP PROCEDURE IF EXISTS deleteOrganization$$
@@ -156,7 +156,7 @@ END  $$
 DROP PROCEDURE IF EXISTS insertProposal$$ 
 CREATE PROCEDURE insertProposal ( IN individual_id MEDIUMINT , IN name VARCHAR(50) , IN concern VARCHAR(200) , IN category1 VARCHAR(100) , IN category2 VARCHAR(100) , IN category3 VARCHAR(100) , IN created DATE , IN verified VARCHAR(1) , IN description TEXT ) 
 BEGIN 
-INSERT INTO proposals (category2,category1,created,category3,individual_id,name,description,concern,verified) VALUES (category2 , category1 , created , category3 , individual_id , name , description , concern , verified) ;
+INSERT INTO proposals (verified,created,category2,category3,concern,name,category1,individual_id,description) VALUES (verified , created , category2 , category3 , concern , name , category1 , individual_id , description) ;
 END $$
 
 DROP PROCEDURE IF EXISTS deleteProposal$$
@@ -169,7 +169,7 @@ END  $$
 DROP PROCEDURE IF EXISTS insertReportedComment$$ 
 CREATE PROCEDURE insertReportedComment ( IN submitted_by VARCHAR(100) , IN date DATE , IN relevant_bill MEDIUMINT , IN status VARCHAR(20) ) 
 BEGIN 
-INSERT INTO reported_comments (relevant_bill,status,submitted_by,date) VALUES (relevant_bill , status , submitted_by , date) ;
+INSERT INTO reported_comments (date,relevant_bill,status,submitted_by) VALUES (date , relevant_bill , status , submitted_by) ;
 END $$
 
 DROP PROCEDURE IF EXISTS deleteReportedComment$$
@@ -182,7 +182,7 @@ END  $$
 DROP PROCEDURE IF EXISTS insertRepresentative$$ 
 CREATE PROCEDURE insertRepresentative ( IN name 	varchar(50) , IN state 	varchar(50) , IN url 	text , IN email 	varchar(50) , IN phone 	varchar(20) , IN photo 	varchar(60) , IN chamber varchar(50) ) 
 BEGIN 
-INSERT INTO representatives (chamber,url,state,phone,name,photo,email) VALUES (chamber , url , state , phone , name , photo , email) ;
+INSERT INTO representatives (email,state,url,phone,name,photo,chamber) VALUES (email , state , url , phone , name , photo , chamber) ;
 END $$
 
 DROP PROCEDURE IF EXISTS deleteRepresentative$$
@@ -193,9 +193,9 @@ WHERE id = id;
 END  $$
 
 DROP PROCEDURE IF EXISTS insertStaticPage$$ 
-CREATE PROCEDURE insertStaticPage ( IN page_title text , IN text_blob1 text , IN text_blob2 text , IN text_blob3 text , IN text_blob4 text , IN picture1 varchar(200) , IN picture2 varchar(200) , IN picture3 varchar(200) , IN picture4 varchar(200) ) 
+CREATE PROCEDURE insertStaticPage ( IN page_title text , IN text_blob1 text , IN text_blob2 text , IN text_blob3 text , IN text_blob4 text , IN picture1 text , IN picture2 text , IN picture3 text , IN picture4 text ) 
 BEGIN 
-INSERT INTO static_pages (text_blob2,picture2,text_blob4,picture4,picture3,page_title,picture1,text_blob1,text_blob3) VALUES (text_blob2 , picture2 , text_blob4 , picture4 , picture3 , page_title , picture1 , text_blob1 , text_blob3) ;
+INSERT INTO static_pages (picture4,text_blob1,text_blob4,text_blob2,picture1,page_title,text_blob3,picture2,picture3) VALUES (picture4 , text_blob1 , text_blob4 , text_blob2 , picture1 , page_title , text_blob3 , picture2 , picture3) ;
 END $$
 
 DROP PROCEDURE IF EXISTS deleteStaticPage$$
@@ -208,7 +208,7 @@ END  $$
 DROP PROCEDURE IF EXISTS insertUserVote$$ 
 CREATE PROCEDURE insertUserVote ( IN billId MEDIUMINT(9) , IN user_id MEDIUMINT(9) , IN organization_id MEDIUMINT(9) , IN vote varchar(200) , IN date DATE ) 
 BEGIN 
-INSERT INTO user_votes (vote,user_id,date,billId,organization_id) VALUES (vote , user_id , date , billId , organization_id) ;
+INSERT INTO user_votes (date,user_id,billId,vote,organization_id) VALUES (date , user_id , billId , vote , organization_id) ;
 END $$
 
 DROP PROCEDURE IF EXISTS deleteUserVote$$
@@ -221,7 +221,7 @@ END  $$
 DROP PROCEDURE IF EXISTS insertWallOfAmerica$$ 
 CREATE PROCEDURE insertWallOfAmerica ( IN user MEDIUMINT , IN date DATE , IN dream VARCHAR(200) , IN wish VARCHAR(200) ) 
 BEGIN 
-INSERT INTO wall_of_america (date,dream,user,wish) VALUES (date , dream , user , wish) ;
+INSERT INTO wall_of_america (dream,user,wish,date) VALUES (dream , user , wish , date) ;
 END $$
 
 DROP PROCEDURE IF EXISTS deleteWallOfAmericaEntry$$

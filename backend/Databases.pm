@@ -2,13 +2,15 @@
 ##### todo
 # comments_bill isn't built right
 # need a sub comments database for both bills and comments.
+# comments on proposals
+# sub comments on proposals
 #####
-
-##### todo
-# stored_procedures 
-# add a linkedIn column for insertBillVote
-# updateBillVote - do the same
-####
+# priotize sorting functionality of user votes on bills
+# todo database updates
+# trending comments
+# profile database 
+# following database
+# newsfeed functionality
 package Databases;
 
 use strict;
@@ -146,6 +148,7 @@ create table individuals
   activated VARCHAR(5), 
   salt VARCHAR(128),
   photo VARCHAR(200),
+  contributed MEDIUMINT,
   PRIMARY KEY (id)
 );
 END_INDIVIDUAL_USERS_TABLE
@@ -186,6 +189,7 @@ create table organizations
   verified VARCHAR(5), 
   signup_date DATE,
   photo VARCHAR(200),
+  contributed MEDIUMINT,
   PRIMARY KEY (id)
 );
 END_ORGANIZATION_USERS_TABLE
@@ -249,9 +253,9 @@ my $CREATE_NEWS_TABLE = <<'END_NEWS_TABLE';
 create table news 
 (id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT, 
  title TEXT NOT NULL, 
- news_url VARCHAR(100), 
- photo VARCHAR(50),
- category VARCHAR(50),
+ news_url TEXT, 
+ photo TEXT,
+ category TEXT,
  category_index MEDIUMINT,
  PRIMARY KEY(id)
 );
@@ -267,10 +271,10 @@ create table static_pages
  text_blob2 TEXT,
  text_blob3 TEXT,
  text_blob4 TEXT,
- picture1 VARCHAR(200),
- picture2 VARCHAR(200),
- picture3 VARCHAR(200),
- picture4 VARCHAR(200),
+ picture1 TEXT,
+ picture2 TEXT,
+ picture3 TEXT,
+ picture4 TEXT,
  PRIMARY KEY(id)
 );
 END_STATIC_PAGES_TABLE
@@ -601,9 +605,10 @@ sub writeStoredProcedures{
     %updateHash = ("reddit"=>"reddit",
 	           "google"=>"google",
 	           "facebook"=>"facebook",
-	           "twitter"=>"twitter");
+	           "twitter"=>"twitter",
+	           "linkedin"=>"linkedin");
     %whereHash = ("billId"=>"billId");
-    @parameterList = ("billId MEDIUMINT(9)","reddit MEDIUMINT(9)","google MEDIUMINT(9)","facebook MEDIUMINT(9)","twitter MEDIUMINT(9)");
+    @parameterList = ("billId MEDIUMINT(9)","reddit MEDIUMINT(9)","google MEDIUMINT(9)","facebook MEDIUMINT(9)","twitter MEDIUMINT(9)","linkedin MEDIUMINT(9)");
     my $updateBillVote = MysqlUtils::generateWriteProcedureFromHash($tableName,$procedureName,\%updateHash,\%whereHash,\@parameterList);
     if($debug == 1){
 	print "Writing -->$updateBillVote\n";
@@ -617,7 +622,8 @@ sub writeStoredProcedures{
 	"reddit"=>"reddit",
 	"google"=>"google",
 	"facebook"=>"facebook",
-	"twitter"=>"twitter"
+	"twitter"=>"twitter",
+	"linkedin"=>"linkedin"
 	);
     $modifierString = "";
     @parameterList = (
@@ -625,7 +631,8 @@ sub writeStoredProcedures{
 	"reddit MEDIUMINT(9)",
 	"google MEDIUMINT(9)",
 	"facebook MEDIUMINT(9)",
-	"twitter MEDIUMINT(9)"
+	"twitter MEDIUMINT(9)",
+	"linkedin MEDIUMINT(9)"
 	);
     my $insertBillVote = MysqlUtils::generateInsertProcedureFromHash($tableName,$procedureName,\%insertHash,$modifierString,\@parameterList);
     if($debug == 1){
@@ -754,9 +761,9 @@ sub writeStoredProcedures{
     $modifierString = "";
     @parameterList = (
 	"title TEXT",
-	"news_url VARCHAR(100)", 
-	"photo VARCHAR(50)",
-	"category VARCHAR(50)",
+	"news_url TEXT", 
+	"photo TEXT",
+	"category TEXT",
 	"category_index MEDIUMINT(9)"
 	);
     my $insertNewsItem = MysqlUtils::generateInsertProcedureFromHash($tableName,$procedureName,\%insertHash,$modifierString,\@parameterList);
@@ -953,10 +960,10 @@ sub writeStoredProcedures{
 	"text_blob2 text",
 	"text_blob3 text",
 	"text_blob4 text",
-	"picture1 varchar(200)",
-	"picture2 varchar(200)",
-	"picture3 varchar(200)",
-	"picture4 varchar(200)"
+	"picture1 text",
+	"picture2 text",
+	"picture3 text",
+	"picture4 text"
 	);
     my $insertStaticPage = MysqlUtils::generateInsertProcedureFromHash($tableName,$procedureName,\%insertHash,$modifierString,\@parameterList);
     if($debug == 1){
@@ -1176,7 +1183,7 @@ sub extractBills{
 }
 
 sub writeTestData{
-    my $outputFile = "loadTestData.db";
+    my $outputFile = $_[0];
     if(-e $outputFile){
 	unlink $outputFile || die "Couldn't delete $outputFile $!\n";
     }
@@ -1188,7 +1195,6 @@ sub writeTestData{
     print OUTPUT "DELETE FROM comments_bills WHERE comment='test_comment';\n";
     print OUTPUT "CALL insertBillComment (1,'test_comment','test_sub_comment',NOW(),NOW());\n"; 	
     print OUTPUT "DELETE FROM bill_votes WHERE billId=-1;\n";
-    print OUTPUT "CALL insertBillVote (-1,-2,-3,-4,-5);\n";
     print OUTPUT "DELETE FROM individuals WHERE first_name='test_first';\n";
     print OUTPUT "CALL insertIndividual ('test_first','test_last','test_name',NOW(),'m','test_address','test_city','test_state',1,'test_email','test_pass','test_affiliation','test','test_salt');\n";
     print OUTPUT "DELETE FROM news WHERE title='test_title';\n";
@@ -1298,6 +1304,7 @@ sub generateProductionDatabase{
     my $dbh = $_[0];
     my $outputFile = $_[1];
     my $storedProceduresFile = "stored_procedures.db";
+    my $testDataFile = "loadTestData.db";
     if(-e $outputFile){
 	unlink $outputFile || die "Couldn't remove $outputFile $!\n";
     }
@@ -1319,11 +1326,13 @@ sub generateProductionDatabase{
     &extractRelatedBills($dbh,$outputFile);
     &extractBillVotes($dbh,$outputFile);
     &extractRepresentatives($dbh,$outputFile);
-    &writeTestData();
+    &writeTestData($testDataFile);
+    &loadDefaultDataFolder($testDataFile);
     if($enableLogging == 1){
 	print OUTPUT "notee;\n";
 	print OUTPUT "\\w\n";
     }
+    print "outputted: $storedProceduresFile , $outputFile, $testDataFile";
     # -Generate bill history tablefdxzzzd
     # - Generate Actions table
     # - Generate sponsor table
@@ -1331,4 +1340,31 @@ sub generateProductionDatabase{
     # - Insert Amendments
 }
 
+sub loadDefaultDataFolder {
+    my $outputFile = $_[0];
+    open(OUTPUT,">>$outputFile") || die "Couldn't open $outputFile.";
+    open(NEWS_INPUT,"default_data/news.csv") || die "Couldn't open news.csv\n";
+    open(ABOUT_INPUT,"default_data/about.csv") || die "Couldn't open about.csv.\n";
+
+    my $category_index = -1;
+    while(<NEWS_INPUT>){
+	my $lineRead = $_;
+	chomp($lineRead);
+	my ($title,$category,$news_url,$photo) = split(/,/,$lineRead);
+       	$category_index++;
+	print OUTPUT "CALL insertNewsItem('$title','$news_url', '$photo','$category',$category_index);\n";
+    }
+
+    while(<ABOUT_INPUT>){
+	my $lineRead = $_;
+	$lineRead =~ s/,/*COMMA*/g;
+	$lineRead =~ s/'/*APOSTROPHE*/g;
+	my ($pageTitle,$text1,$text2,$text3,$text4,$picture1,$picture2,$picture3,$picture4) = split(/,/,$lineRead);
+	my @inputList = ($pageTitle,$text1,$text2,$text3,$text4,$picture1,$picture2,$picture3,$picture4);
+	for(my $index=0; $index < @inputList;$index++){
+	    $inputList[$index] =~ s/\s//g;
+	}
+	print OUTPUT "CALL insertStaticPage('$pageTitle','$text1','$text2','$text3','$text4','$picture1','$picture2','$picture3','$picture4');\n";
+     }
+}
 1;
