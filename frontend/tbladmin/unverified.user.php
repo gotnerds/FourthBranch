@@ -2,24 +2,23 @@
 <?php
     include("../inc/db_conx.php");
 $con = $db_conx;
-if(isset($_POST['sbt'])){
-$filename=$_FILES['newurl']['name'];
-$tmp=$_FILES['newurl']['tmp_name'];
-$fullpath="video/".$filename;
-$sql="update admin set video='$fullpath'";
+
+$st=$_GET['status'];
+$id=$_GET['id'];
+		if($st=="Active"){
+			$sql1="update organizations set verified='1' where id=$id";
+			$query1=mysqli_query($con,$sql1);
+			echo"<script>window.location='index.php'</script>";
+			
+		}
+	 if($st=="Inactive"){
+			$sql1="update organizations set verified='1' where id=$id";
+			$query1=mysqli_query($con,$sql1);
+			echo"<script>window.location='index.php'</script>";
+			
+		}
+$sql="select * from organizations where verified='0'";
 $query=mysqli_query($con,$sql);
-if($query){
-move_uploaded_file($tmp,$fullpath);
-echo "Done !";
-}
-
-else{
-	echo"error !";
-}
-
-
-}
-
 ?>
 
 
@@ -51,11 +50,13 @@ else{
 <body>
 
 <div id="mainwrapper" class="mainwrapper">
- <?php
-        include("header.php");
-        include("leftbar.php")
+    
+    <?php
+    	include("header.php");
+    	include("leftbar.php")
     ?>
     
+ 
     
     <div class="rightpanel">
         
@@ -81,39 +82,60 @@ else{
         <div class="maincontent">
             <div class="maincontentinner">
                 <div class="row-fluid">
-                <center>
-               <h2>Add News</h2>
-               <form action="" method="post" enctype= multipart/form-data>
-                    <table  class="table" style="width:50%" >
-                    <tr>
-                    <th></th>
-                    <th></th>
-                    </tr>
-                    <tr>
-                    <td style="font-weight:bold">Add Video To Proposal Page</td>
-                    <td>
-                        <input type="file" name="newurl" class="input-medium">
-
-                    </td>
+                    <div id="dashboard">
+                        <h4 class="widgettitle"><span class="icon-comment icon-white"></span>Active Users</h4>
+                        <div class="widgetcontent nopadding">
+                        </div>
+                        <div class="row-fluid">
+                    		<table class="table">
+            				<?php
+        					while($res=mysqli_fetch_assoc($query)){
+                                $info = array();
+                                $info['id'] = $res['id'];
+                                $info['name']=$res['name'];
+                                $info['state']=$res['state'];
+                                $info['phone']=$res['phone'];
+                                $info['cause_concerns']=$res['cause_concerns'];
+                                $info['individual_name']=$res['individual_name'];
+                                $info['title_in_organization']=$res['title_in_organization'];
+                                $info['email']=$res['email'];
+                                $info['view_profile'] = "View Profile";
+                                $info['verified']=$res['verified'];
+                                if($info['verified']=="0"){
+                                        $status="Inactive";
+                                }
+                                else if($info['verified']=="1"){
+                                        $status="Active";
+                                }
+                                foreach ($info as $key => $value) {
+                                    echo '<th style="font-weight:bold">'.str_replace("_", " ", ucwords($key)).'</th>';
+                                }
+            					echo "<tr>";
+                                foreach ($info as $key => $value) {
+                                    echo "<td>";
+                                    switch ($key) {
+                                        case 'view_profile':
+                                            echo "<a href='view.organization.profile.php?id=".$info['id']."' >".$value."</a>";
+                                            break;
+                                        case 'verified':
+                                                echo "<a href='unverified.user.php?status=".$status."&id=".$info['id']."' >".$status."</a>";
+                                                break;
+                                        default:
+                                            echo $value;
+                                            break;
+                                    }
+                                    echo "</td>";
+            					}
+                                echo "</tr>";
+                            }
+                            ?>
+                        	</table>
+                        </div>
+                        <br />
+                        
+                        
+                    </div><!--span8-->
                     
-                    </tr>
-
-				
-                   
-                    <td colspan=2 >
-                       
-            <center><input type="submit" name="sbt" class="btn btn-info alertinfo" value="Add Video"></center>
-
-                    </td>
-                    
-                    </tr>
-
-
-
-
-                    </table>
-                    </form>
-                 </center>   
                     <!--span4-->
                 </div><!--row-fluid-->
                 
@@ -207,4 +229,5 @@ else{
 </script>
 </body>
 
+<!-- Mirrored from demo.themepixels.com/webpage/shamcey/dashboard.html by HTTrack Website Copier/3.x [XR&CO'2013], Sat, 25 Jan 2014 06:34:07 GMT -->
 </html>

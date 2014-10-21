@@ -1,4 +1,5 @@
 <?php
+error_reporting(~0); ini_set('display_errors', 1);
 include "db_conx.php";
 include_once 'db_connect.php';
 include_once 'functions.php';
@@ -82,18 +83,26 @@ if (login_check($mysqli) == true) {
         $returnUrl     = base64_decode($_GET["returnUrl"]); //get return url
 
         
-        foreach ($_SESSION["products"] as $cartItm) //loop through session array var
+        foreach ($_SESSION["products"] as $key => $cartItm) //loop through session array var
         {
-            if($cartItm["code"]!=$productCode){ //item does,t exist in the list
+            if($cartItm["code"]!=$productCode){ //item does't exist in the list
                 $product[] = array('name'=>$cartItm["name"], 'code'=>$cartItm["code"], 'qty'=>$cartItm["qty"], 'price'=>$cartItm["price"]);
+            } else {
+                echo $key;
+                unset ($_SESSION["products"][$key]);
+                array_filter($_SESSION["products"]);
+                if (empty($_SESSION["products"])) {
+                    unset ($_SESSION["products"]);
+                    array_filter($_SESSION);
+                }
             }
             
             //create a new product list for cart
-            $_SESSION["products"] = $product;
+            //$_SESSION["products"] = $product;
         }
         
         //redirect back to original page
-        //header('Location:'.$return_url);
+        header('Location:'.$returnUrl);
     }
 } else {
     $logged = 'out';

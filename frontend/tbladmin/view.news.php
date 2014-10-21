@@ -1,6 +1,6 @@
 <?php
-include("include/dbcon.php");
-
+include("../inc/db_conx.php");
+$con = $db_conx;
 if( isset($_GET['status']) && (!empty($_GET['status'])) ){
 	
 	
@@ -109,7 +109,7 @@ echo"<script>window.location='comment.php'</script>";
 
                         		<table class="table">
                         		<tr>
-                        			<th> Serial No. </th>
+                        			<th> ID </th>
                                     <th> News Title </th>
                         			<th> News URL </th>
                                     <th> Photo  </th>
@@ -121,7 +121,7 @@ echo"<script>window.location='comment.php'</script>";
 										$cnt = 0;
                         					while($res=mysqli_fetch_assoc($query)){
                                                 $id = $res['id'];
-												$url=$res['url'];
+												$url=$res['news_url'];
                         						$title=$res['title'];
 												$photo=$res['photo'];
                         						
@@ -133,7 +133,7 @@ echo"<script>window.location='comment.php'</script>";
 												<td>
                         							$title
                         						</td>
-												<td>
+												<td style='max-width:50%'>
                         							$url
                         						</td>
 												<td>

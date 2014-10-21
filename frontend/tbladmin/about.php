@@ -1,13 +1,23 @@
 
 <?php
 
-include("include/dbcon.php");
+include("../inc/db_conx.php");
+$con = $db_conx;
+function issetor(&$var, $default = false) {
+    return isset($var) ? $var : $default;
+}
 if(isset($_POST['sbt'])){
-$about=$_POST['about'];
-		$sqlbod="update admin set about='$about'";
+        $about = array();
+    for ($i = 1; $i < 5; $i++) {
+        if(!empty($_POST['about'.$i])){
+            array_push($about, "text_blob".$i." = '".$_POST['about'.$i]."'");
+        }
+    }
+    $setVars = implode(", ", $about);
+		$sqlbod="UPDATE static_pages SET ".$setVars." WHERE page_title = 'About'";
 $query12=mysqli_query($con,$sqlbod);
 if(!$query12){
-	echo "NOt Working".mysqli_error($con);
+	echo "Not Working".mysqli_error($con);
 
 }
 else{
@@ -79,25 +89,39 @@ echo " <script>alert('About Page Updated !'); </script>";
             <div class="maincontentinner">
                 <div class="row-fluid">
                 <center>
-               <h2>About Page</h2>
+               <h2 style="padding-bottom:20px;">About Page</h2>
                <form action="" method="post">
                     <table  class="table" style="width:50%" align=center >
                     <tr>
+                    <th></th>
+                    <th></th>
                     <th></th>
                     <th></th>
                    
 
                     <tr>
                     <td>
-                     <center><textarea name="about"  rows=10 cols=200>
-                        </textarea> </center>
+                     <center><label for="about1">The Problem</label>
+                        <textarea name="about1"  rows=10 cols=200></textarea> </center>
+                    </td>
+                    <td>
+                     <center><label for="about2">Our Solution</label>
+                        <textarea name="about2"  rows=10 cols=200></textarea> </center>
+                    </td>
+                    <td>
+                     <center><label for="about3">Our Solution Pt. 2</label>
+                        <textarea name="about3"  rows=10 cols=200></textarea> </center>
+                    </td>
+                    <td>
+                     <center><label for="about4">Our Mission</label>
+                        <textarea name="about4"  rows=10 cols=200></textarea> </center>
                     </td>
                     </tr>
 
 
                     <tr>
                    
-                    <td colspan=2 >
+                    <td colspan=4 >
                        
             <center><input type="submit" name="sbt" class="btn btn-info alertinfo"></center>
 

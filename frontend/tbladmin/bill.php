@@ -5,16 +5,34 @@ $con = $db_conx;
 $billid=$_GET['id'];
 
 if(isset($billid)){
-	
-	$sqlbod="update admin set billoftheday=$billid";
-$query12=mysqli_query($con,$sqlbod);
-if(!$query12){
-	echo "NOt Working".mysqli_error($con);
 
 }
-else{
-echo " <script>alert('Updated Bill Of The Day !'); </script>";
-}
+if(isset($_POST['billId'])){
+    #var_dump($_POST);
+    $alive_date = "'".$_POST['alive_date']."'";
+    $sql="SELECT * FROM summaries_bill_of_the_day";
+    $result=mysqli_query($con,$sql);
+    $selected_summary_id = mysqli_num_rows($result);
+    $selected_summary_id++;
+    $billid = $_POST['billId'];
+    $sql="SELECT * FROM bill_of_the_day";
+    $results=mysqli_query($con,$sql);
+    $bill_of_the_day_id = mysqli_num_rows($results);
+    $bill_of_the_day_id++;
+    $submitted_summary = "'".$_POST['submitted_summary']."'";
+    $user = 1;
+    $date = "'".date("Y-m-d")."'";
+    #print_r($alive_date.", ".$selected_summary_id.", ".$billid.", ".$bill_of_the_day_id.", ".$submitted_summary.", ".$user.", ".$date);
+	$sqlbod = "INSERT INTO bill_of_the_day (`alive_date`, `selected_summary`, `bill_id`) values($alive_date, $selected_summary_id, $billid)";
+    $sqlsummary = "INSERT INTO summaries_bill_of_the_day (`bill_of_the_day`, `submitted_summary`, `user`, `date`) VALUES ($bill_of_the_day_id, $submitted_summary, $user, $date)";
+    $query13 = mysqli_query($con,$sqlbod);
+    $query12= mysqli_query($con,$sqlsummary);
+    if(!$query12 && !$query13){
+    	echo "NOt Working".mysqli_error($con);
+
+    } else{
+    echo " <script>alert('Updated Bill Of The Day !'); </script>";
+    }
 }
 
 # Search function of the Bill
@@ -48,7 +66,7 @@ if(isset($_POST['keyword'])){
 
 <link rel="stylesheet" href="css/responsive-tables.css">
 <script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>
-<script type="text/javascript" src="js/jquery-migrate-1.1.1.min.js"></script>
+<!--<script type="text/javascript" src="js/jquery-migrate-1.1.1.min.js"></script>-->
 <script type="text/javascript" src="js/jquery-ui-1.10.3.min.js"></script>
 <script type="text/javascript" src="js/modernizr.min.js"></script>
 <script type="text/javascript" src="js/bootstrap.min.js"></script>
@@ -148,7 +166,6 @@ if(isset($_POST['keyword'])){
                         						<td>
                         							$title
                         						</td>
-                        						
 
                         							<td>
                         							<a href='view.bill.php?id=$id' >View </a>
@@ -157,9 +174,10 @@ if(isset($_POST['keyword'])){
                         						<td>
                         							<a href='edit.bill.php?id=$id' >Edit</a>
                         						</td>
-										<td>
-                        							<a href='bill.php?id=$id' id='bod' title='Bill Of The Day' >BOD</a>
-                        						</td>
+										        <td>
+                                                    <a href='#myModal".$id."' class='modalLink' data-toggle='modal' style='display:none;'>bod</a>
+                                                    <span class='btn btn-primary bodModal' data-billId='".$id."'>BOD</span>  
+                                                </td>
 
                         					</tr>";
                         					}
@@ -194,6 +212,8 @@ if(isset($_POST['keyword'])){
     </div><!--rightpanel-->
     
 </div><!--mainwrapper-->
+<a href='bill.php?id=$id' id='bod' title='Bill Of The Day' >BOD</a>
+
 <script type="text/javascript">
     jQuery(document).ready(function() {
         
@@ -259,13 +279,14 @@ if(isset($_POST['keyword'])){
         
         //datepicker
         jQuery('#datepicker').datepicker();
-        
+
         // tabbed widget
         jQuery('.tabbedwidget').tabs();
         
         
     
     });
+
 </script>
 </body>
 

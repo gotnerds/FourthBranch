@@ -38,16 +38,17 @@ if (isset($_POST['p'])) {
           if ($_FILES["pic"]["error"] > 0) {
             echo "Return Code: " . $_FILES["pic"]["error"] . "<br>";
           } else {
-            echo "Upload: " . $_FILES["pic"]["name"] . "<br>";
-            echo "Type: " . $_FILES["pic"]["type"] . "<br>";
-            echo "Size: " . ($_FILES["pic"]["size"] / 1024) . " kB<br>";
-            echo "Temp file: " . $_FILES["pic"]["tmp_name"] . "<br>";
+            #echo "Upload: " . $_FILES["pic"]["name"] . "<br>";
+            #echo "Type: " . $_FILES["pic"]["type"] . "<br>";
+            #echo "Size: " . ($_FILES["pic"]["size"] / 1024) . " kB<br>";
+            #echo "Temp file: " . $_FILES["pic"]["tmp_name"] . "<br>";
             if (file_exists("upload/" . $_FILES["pic"]["name"])) {
               echo $_FILES["pic"]["name"] . " already exists. ";
             } else {
               move_uploaded_file($_FILES["pic"]["tmp_name"],
               "userImage/" . $_FILES["pic"]["name"]);
-              echo "Stored in: " . "userImage/" . $_FILES["pic"]["name"];
+              #echo "Stored in: " . "userImage/" . $_FILES["pic"]["name"];
+              $photo = "userImage/".$_FILES["pic"]["name"];
             }
           }
         } else {

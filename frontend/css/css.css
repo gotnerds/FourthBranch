@@ -370,4 +370,4 @@ footer .slogan { float: right; }
 .newsPage .landscape img { height: 300px; }
 
 .contributePage .user { text-align: center; }
-.contributePage a { color: black; }
+.contributePage a, .contributePage h4 { color: black; }

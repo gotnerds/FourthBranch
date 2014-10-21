@@ -2,9 +2,6 @@
 <?php
 session_start();
 	include("../inc/db_conx.php");
-
-
-
 $con = $db_conx;
 $sql="select * from individuals";
 $query=mysqli_query($con,$sql);

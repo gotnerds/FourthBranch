@@ -1,6 +1,8 @@
 <?php 
+error_reporting(~0);
+ini_set('display_errors', 1);
 include_once('header.php');
-//print_r($_SESSION);
+print_r($_SESSION);
 ?>
 <section class="fullWidth contributePage">
 	<article class="bodyWrap">
@@ -8,30 +10,39 @@ include_once('header.php');
 		<div class="group section clearfix">
 			<div class="col span_1_of_3 first-child">
 			<!-- Shopping Cart -->
-				<p class="user full"><b>Voter: </b><?php echo $_SESSION['username']; ?></p>
+				<p class="user full"><b>Voter: </b><?php echo $username; ?></p>
 				<hr>
 				<div class="shopping-cart">
 					<h5 class="user">Your Cart:</h5>
 					<?php
-					if(isset($_SESSION["products"])) {
+					$currentUrl = base64_encode("http://".$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI']);
+					if(!empty($_SESSION["products"])) {
 						//print_r($_SESSION["products"]);
 					    $total = 0;
+					    $currency = "$";
 					    echo '<ol>';
 					    foreach ($_SESSION["products"] as $cartItm)
 					    {
 					        echo '<li class="cart-itm">';
-					        echo '<span class="remove-itm"><a href="./inc/cartUpdate.php?removep='.$cartItm["code"].'&returnUrl='.$currentUrl.'">&times;</a></span>';
-					        echo '<h3>'.$cartItm["name"].'</h3>';
-					        echo '<div class="p-code">P code : '.$cartItm["code"].'</div>';
-					        echo '<div class="p-qty">Qty : '.$cartItm["qty"].'</div>';
+					        echo '<h4>'.$cartItm["name"].'</h4>';
 					        echo '<div class="p-price">Price :'.$currency.$cartItm["price"].'</div>';
+					        echo '<form action="./inc/cartUpdate.php?removep='.$cartItm["code"].'&returnUrl='.$currentUrl.'" method="POST"> <button class="blueButton remove-itm">remove</button></form>';
 					        echo '</li>';
 					        $subtotal = ($cartItm["price"]*$cartItm["qty"]);
 					        $total = ($total + $subtotal);
 					    }
 					    echo '</ol>';
-					    echo '<span class="check-out-txt"><strong>Total : '.$currency.$total.'</strong> <a href="viewCart.php">Check-out!</a></span>';
+					    echo '<span class="check-out-txt"><strong>Total : '.$currency.$total.'</strong></span>';
+					    echo '<form method="POST" action="./inc/paypalProcess.php">';
+					    foreach ($_SESSION["products"] as $key =>$cartItm) {
+				    		echo '<input type="hidden" name="item_name['.$key.']" value="'.$cartItm["name"].'">';
+				    		echo '<input type="hidden" name="item_code['.$key.']" value="'.$cartItm["code"].'">';
+				    		echo '<input type="hidden" name="item_price['.$key.']" value="'.$cartItm["price"].'">';
+				    		echo '<input type="hidden" name="item_qty['.$key.']" value="1">';
+				    	}
+					    	echo '<button type="submit" class="blueButton" value="Pay Now">Contribute Now!</button></form>';
 					    echo '<span class="empty-cart"><a href="./inc/cartUpdate.php?emptycart=1&returnUrl='.$currentUrl.'">Empty Cart</a></span>';
+						
 					}else{
 						echo 'Your Cart is empty';
 					}
@@ -43,21 +54,40 @@ include_once('header.php');
 				<div class="products">
 				<?php
 				//current URL of the Page. cart_update.php redirects back to this URL
-				$currentUrl = base64_encode("http://".$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI']);
 				    ?>
 				    <div class="product">
 				    	<form method="post" action="" id="product1">
 					    	<div class="productContent"><h4>Support the cause!</h4>
 						    	<div class="productDesc">This is the description for the above product</div>
 						    	<div class="productInfo">$5
+						    		<?php
+						    		$thisProduct=0;
+						    		if (!empty($_SESSION["products"])) {
+						    			foreach ($_SESSION["products"] as $cartItm) {
+						    				if ($cartItm['code'] == '1') {
+						    					$thisProduct = 1;
+						    				}
+						    			}
+						    		}
+						    		?>
 						    		<button class="add_to_cart blueButton" onclick="
 						    		<?php
 						    			if ($logged == 'in') {
-						    		echo "userCart(document.getElementById('product1'));";
+							    				if ($thisProduct == '1') {
+							    					echo "return false;";
+							    				} else {
+						    					echo "userCart(document.getElementById('product1'));";
+						    				} 
 						    			} else {
 						    				echo 'a(); return false; ';
 						    			}
-						    		?>">Add To Cart</button>
+						    		?>"><?php 
+					    				if ($thisProduct == '1') { 
+					    					echo "Added"; 
+					    				} else { 
+					    					echo "Add to Cart"; 
+					    				}
+					    				?></button>
 						    	</div>
 						    </div>
 						    <input type="hidden" name="productName" value="SupportTheCause" />

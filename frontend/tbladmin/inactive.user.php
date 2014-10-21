@@ -1,27 +1,20 @@
-<?php ob_start(); ?>
-<?php
-
-	include("include/dbcon.php");
-$sql="select * from users where activated='0'";
-$query=mysqli_query($con,$sql);
+<?php ob_start();
+    include("../inc/db_conx.php");
+$con = $db_conx;
 
 $st=$_GET['status'];
 $id=$_GET['id'];
 		if($st=="Active"){
-			$sql1="update users set activated='0' where id=$id";
+			$sql1="update individuals set activated='0' where id=$id";
 			$query1=mysqli_query($con,$sql1);
-			echo"<script>window.location='index.php'</script>";
-			
 		}
 	 if($st=="Inactive"){
-			$sql1="update users set activated='1' where id=$id";
+			$sql1="update individuals set activated='1' where id=$id";
 			$query1=mysqli_query($con,$sql1);
-			echo"<script>window.location='index.php'</script>";
-			
 		}
+$sql="select * from individuals where activated='0'";
+$query=mysqli_query($con,$sql);
 ?>
-
-
 <html>
 
 <!-- Mirrored from demo.themepixels.com/webpage/shamcey/dashboard.html by HTTrack Website Copier/3.x [XR&CO'2013], Sat, 25 Jan 2014 06:34:05 GMT -->
@@ -50,116 +43,99 @@ $id=$_GET['id'];
 <body>
 
 <div id="mainwrapper" class="mainwrapper">
-    
-    <?php
-    	include("header.php");
-    	include("leftbar.php")
-    ?>
-    
- 
-    
+<?php
+	include("header.php");
+	include("leftbar.php")
+?>
     <div class="rightpanel">
-        
         <ul class="breadcrumbs">
             <li><a href="dashboard.html"><i class="iconfa-home"></i></a> <span class="separator"></span></li>
             <li>Dashboard</li>
-            <li class="right">
-                  
-            </li>
+            <li class="right"></li>
         </ul>
-        
         <div class="pageheader">
             <form action="http://demo.themepixels.com/webpage/shamcey/results.html" method="post" class="searchbar">
                 <input type="text" name="keyword" placeholder="To search type and hit enter..." />
             </form>
             <div class="pageicon"><span class="iconfa-laptop"></span></div>
-            <div class="pagetitle">
-                
+            <div class="pagetitle">   
                 <h1>Dashboard</h1>
             </div>
         </div><!--pageheader-->
-        
         <div class="maincontent">
             <div class="maincontentinner">
                 <div class="row-fluid">
                     <div id="dashboard">
-                        
-                        
-                        <h4 class="widgettitle"><span class="icon-comment icon-white"></span>Blocked Users</h4>
+                        <h4 class="widgettitle"><span class="icon-comment icon-white"></span>Inactive Users</h4>
                         <div class="widgetcontent nopadding">
-                          
                         </div>
                         <div class="row-fluid">
-
                         		<table class="table">
-                        		<tr>
-                        			<th> Username </th>
-                        			<th> Email </th>
-                        			<th> First Name </th>
-                        			<th> Last Name </th>
-                        			<th> Type </th>
-                        			<th> View </th>
-                        			<th> Status </th>
-                        		</tr>
-                        		
-                        			
-                        				<?php
-                        					while($res=mysqli_fetch_assoc($query)){
-                        						$username=$res['username'];
-                        						$email=$res['email'];
-                        						$firstname=$res['firstName'];
-                        						$lastname=$res['lastName'];
-                        						$type=$res['userType'];
-                        						$id=$res['id'];
-                        						$activate=$res['activated'];
-                        						if($type=="i"){
-                        							$typefull="Individual";
-                        						}
-                        						else if($type=="o"){
-                        							$typefull="Organization";
-                        						}
+                				<?php
+            					while($res=mysqli_fetch_assoc($query)){
+            						$info = array();
+                                    $info['id'] = $res['id'];
+                                    $info['username']=$res['username'];
+                                    $info['birthdate']=$res['birthdate'];
+                                    $info['gender']=$res['gender'];
+                                    $info['state']=$res['state'];
+                                    $info['email']=$res['email'];
+                                    $info['political_affiliation']=$res['political_affiliation'];
+                                    $info['view_profile']='View Profile';
+                                    $info['activated']=$res['activated'];
+                                    if($info['activated']=="0"){
+                                            $status="Inactive";
+                                    }
+                                    else if($info['activated']=="1"){
+                                            $status="Active";
+                                    }
+                                    echo '<tr>';
+                                foreach ($info as $key => $value) {
+                                    echo '<th style="font-weight:bold">'.str_replace("_", " ", ucwords($key)).':</th>';
+                                }
+                                    echo "</tr><tr>";
+                                foreach ($info as $key => $value) {
 
-                        						if($activate=="0"){
-                        								$status="Inactive";
-                        						}
-                        						else if($activate=="1"){
-                        								$status="Active";
-                        						}
-                        					echo "<tr>
-                        						<td>
-                        							$username
-                        						</td>
-                        						<td>
-                        							$email
-                        						</td>
-                        						<td>
-                        							$firstname
-                        						</td>
-                        						<td>
-                        							$lastname
-                        						</td>
-                        						<td>
-                        							$typefull
-                        						</td>
-
-                        							<td>
-                        							<a href='view.profile.php?id=$id' >View Profile</a>
-                        						</td>
-
-                        						<td>
-                        							<a href='index.php?status=$status&id=$id' >$status</a>
-                        						</td>
-
-                        					</tr>";
-                        					}
-                        				?>
-
-                        		</table>
-
+                                    echo '<td>';
+                                    switch ($key) {
+                                        case 'view_profile':
+                                            echo "<a href='view.profile.php?id=".$info['id']."' >".$value."</a>";
+                                            break;
+                                        case 'activated':
+                                            echo "<a href='inactive.user.php?status=".$status."&id=".$info['id']."' >".$status."</a>";
+                                            break;
+                                        case'political_affiliation':
+                                            switch ($value) {
+                                                 case 'r':
+                                                     $politics = 'republican';
+                                                     break;
+                                                 case 'd':
+                                                     $politics = 'democrat';
+                                                     break;
+                                                 case 'l':
+                                                     $politics = 'libertarian';
+                                                     break;
+                                                case 'i':
+                                                    $politics = 'independent';
+                                                    break;
+                                                 default:
+                                                     $politics = 'other';
+                                                     break;
+                                             } 
+                                            echo ucwords($politics);
+                                            break;
+                                        default:
+                                        echo $value;
+                                            break;
+                                    }
+                                    echo "</td>";
+                                }
+            					echo "</tr>";
+            					}
+                				?>
+                    		</table>
                         </div>
                         <br />
-                        
-                        
                     </div><!--span8-->
                     
                     <!--span4-->

@@ -24,15 +24,21 @@ About
 Contact
 	content
 Terms of Service & Privacy Policy
+INFINITE SCROLL FIX
+	Vote
+	Proposal
+	Wall of America
+Appropriations!
 Share Button 
 	*_* AJAX submit
-		UPDATE PROCEDURE to: WHERE billId = bill_Id
+		//UPDATE PROCEDURE to: WHERE billId = bill_Id
+		UPDATE getUserVote to: AND billId = bill_id;
 Contribute
 	PayPal page
-	Store Layout
+	*_* Store Layout
 News Page
 	Built out
-	News Of The Day
+	News Of The Day Sidebar
 Bill Of The Day & Tommorrow's Bill
 	Automated based on BOTD date
 Wall of America 
@@ -46,11 +52,46 @@ COMMENTS
 	Like or dislike
 	Report
 ADMIN PANEL
-	Update all code to our database
-		or use CRUD from email
+	still needed (amongst others but these were skipped):
+		videos to proposal page (add.vdo)
+		add bill section and database setup
+		bod.comment
+		admin authorization
+		admin users
+		admin change password
+		comment
+		contact	
+	need personal email param in add organization database
+	need photo param in add organization database & contributed
+		**or use CRUD from email**
+			I don't know how to implement this.
 Open Bills Vs Closed Bills
 	functionality
 	Build a closed bill
 Organizations vs Users roles
 UI Scalability - mobile and tablet
 Map - quick implementation
+
+
+NOTES:
+Organization role:
+no vote
+'page' like on fb
+can make proposals
+can comment
+can do wall of america
+can post statuses
+no follow
+
+talk about:
+ADMIN PANEL
+	videos to proposal page (add.vdo)
+	add bill section and database setup
+	bod.comment
+	admin authorization
+	admin users
+	admin change password
+	comment
+	contact	
+	need personal email param in add organization database
+	need photo param in add organization database & contributed

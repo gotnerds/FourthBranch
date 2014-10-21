@@ -1,7 +1,6 @@
 <?php
-
-include("include/dbcon.php");
-
+include("../inc/db_conx.php");
+$con = $db_conx;
 $id=$_GET['id'];
 $sql="select * from bill where id=$id";
 $query=mysqli_query($con,$sql);

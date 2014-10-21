@@ -4,44 +4,48 @@
 include("include/dbcon.php");
 
 $id=$_GET['id'];
-if (isset($_GET['status'])){
-    $st=$_GET['status'];
-    $id=$_GET['id'];
-    if($st=="Active"){
-        $sql1="update individuals set activated='0' where id=$id";
-        $query1=mysqli_query($con,$sql1);
-        
-    }
-     if($st=="Inactive"){
-        $sql1="update individuals set activated='1' where id=$id";
-        $query1=mysqli_query($con,$sql1);
-        
-    }
-}
-
-$sql="select * from individuals where id=$id";
+$sql="select * from organizations where id=$id";
 $query=mysqli_query($con,$sql);
+
+$st=$_GET['status'];
+$id=$_GET['id'];
+        if($st=="Active"){
+            $sql1="update organizations set verified='0' where id=$id";
+            $query1=mysqli_query($con,$sql1);
+            echo"<script>window.location='index.php'</script>";
+            
+        }
+     if($st=="Inactive"){
+            $sql1="update organizations set verified='1' where id=$id";
+            $query1=mysqli_query($con,$sql1);
+            echo"<script>window.location='index.php'</script>";
+            
+        }
+
 while($res=mysqli_fetch_assoc($query)){
     $info = array();
     $info['id'] = $res['id'];
-    $info['first_name']=$res['first_name'];
-    $info['last_name']=$res['last_name'];
-    $info['username']=$res['username'];
-    $info['birthdate']=$res['birthdate'];
-    $info['gender']=$res['gender'];
+    $info['name']=$res['name'];
     $info['address']=$res['address'];
     $info['city']=$res['city'];
     $info['state']=$res['state'];
     $info['zip']=$res['zip'];
+    $info['phone']=$res['phone'];
+    $info['legal_status']=$res['legal_status'];
+    $info['cause_concerns']=$res['cause_concerns'];
+    $info['join_reason']=$res['join_reason'];
+    $info['individual_name']=$res['individual_name'];
+    $info['title_in_organization']=$res['title_in_organization'];
+    $info['personal_phone']=$res['personal_phone'];
     $info['email']=$res['email'];
-    $info['political_affiliation']=$res['political_affiliation'];
-    $info['activated']=$res['activated'];
+    $info['verified']=$res['verified'];
+    $info['sign_up_date']=$res['signup_date'];
     $info['photo']=$res['photo'];
     $info['contributed']=$res['contributed'];
-    if($info['activated']=="0"){
+    if($verified=="0"){
             $status="Inactive";
     }
-    else if($info['activated']=="1"){
+    else if($verified=="1"){
             $status="Active";
     }
     /*
@@ -123,46 +127,24 @@ while($res=mysqli_fetch_assoc($query)){
             <div class="maincontentinner">
                 <div class="row-fluid">
                 <center>
-               <h2><?php echo $info['username'];?>'s Profile</h2><br>
-                    <table  class="table" style="width:50%" >
+               <h2><?php echo $info['name'];?>'s Profile</h2><br>
+                    <table  clas    s="table" style="width:50%" >
                     <tr>
                     <th></th>
                     <th></th>
                     </tr>
                     <?php
                     foreach ($info as $key => $value) {
-                        echo '<tr><td style="font-weight:bold">'.str_replace("_", " ", ucwords($key)).':</td>';
                         if ($key == 'photo'){
-                            if ($value == ''){
-                                echo "<td>No Image Set</td>";
-                            } else {
-                            echo "<td><img src='../".$value."' /></td>";
-                            }
-                        }elseif ($key == 'activated') {
-                            echo "<td><a href='view.profile.php?status=".$status."&id=".$info['id']."' >".$status."</a></td>";
-                        } elseif ($key =='political_affiliation') {
-                            switch ($value) {
-                                 case 'r':
-                                     $politics = 'republican';
-                                     break;
-                                 case 'd':
-                                     $politics = 'democrat';
-                                     break;
-                                 case 'l':
-                                     $politics = 'libertarian';
-                                     break;
-                                case 'i':
-                                    $politics = 'independent';
-                                    break;
-                                 default:
-                                     $politics = 'other';
-                                     break;
-                             } 
-                            echo '<td>'.ucwords($politics).'</td>';
-                        } else {
-                            echo '<td>'.$value.'</td>';
+                            echo "<img src='../".$value."' />";
+                        }elseif ($key == 'verified') {
+                            echo "<a href='index.php?status=$status&id=$id' >$status</a>";
                         }
-                        echo '</tr>';
+                        echo '<tr>
+                    <td style="font-weight:bold">'.str_replace("_", " ", ucwords($key)).':</td>
+                    <td>'.$value.'</td>
+                    
+                    </tr>';
                     }
                     ?>
                     

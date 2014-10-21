@@ -1,10 +1,14 @@
 <?php include("header.php"); 
 $userID = htmlspecialchars($_GET["id"]);
+if ($currentUserId == $userID) {
+	$myProfile = true;
+}
 ?>
 <section class="fullWidth">
     <article class="bodyWrap">
     	<div class="group section clearfix">
     		<div class="col span_1_of_4 first-child">
+    			<p><?php echo ($myProfile) ? "This is your profile ".$username : "This is not your profile" ?></p>
     			<form action="" method="POST">
     				<label for="imgInp">
 			           		<img id="blah" style="padding-left: 20px;" src="http://thefourthbranch.co/TheFourthBranch/fourth/image/avitar.png" alt="your image" width="103" height="125" style='width: 103px; height: 125px; float:left;' />

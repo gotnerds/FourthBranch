@@ -1,15 +1,15 @@
 <?php
-include("include/dbcon.php");
-
+include("../inc/db_conx.php");
+$con = $db_conx;
 if( isset($_GET['status']) && (!empty($_GET['status'])) ){
-	
-	$u_sql="Update proposal set active = '".$_GET['status']."' where pId = ". $_GET['id'];
+	var_dump($_GET);
+	$u_sql="Update proposals set verified = '".$_GET['status']."' where id = ". $_GET['id'];
 	$u_query=mysqli_query($con,$u_sql);	
 	
 }
 
 
-$sql="select * from proposal";
+$sql="select * from proposals";
 $query=mysqli_query($con,$sql);
 
 
@@ -104,10 +104,13 @@ echo"<script>window.location='comment.php'</script>";
                         		<table class="table">
                         		<tr>
                         			<th> Serial No. </th>
-                                    <th> Customer </th>
-                        			<th> Bill </th>
-                                    <th> Category  </th>
-                        			<th> Faderal </th>
+                                    <th> Individual ID </th>
+                        			<th> Proposal Name </th>
+                                    <th> Proposal Desc </th>
+                                    <th> Category 1  </th>
+                                    <th> Category 2  </th>
+                                    <th> Category 3  </th>
+                        			<th> Concern </th>
                         			<th> Status </th>
                         		</tr>
                         		
@@ -115,25 +118,27 @@ echo"<script>window.location='comment.php'</script>";
                         				<?php
 										$cnt = 0;
                         					while($res=mysqli_fetch_assoc($query)){
-                                                $pId = $res['pId'];
-												$customer_id=$res['customer_id'];
-                        						$category=$res['category'];
-												$faderal=$res['faderal'];
-                        						$bill=$res['bill'];
-                        						$summary=$res['summary'];
-                        						$active=$res['active'];
-                                                if($active=="Y"){
+                                                $pId = $res['id'];
+												$customer_id=$res['individual_id'];
+                        						$category1=$res['category1'];
+                                                $category2=$res['category2'];
+                                                $category3=$res['category3'];
+												$faderal=$res['concern'];
+                        						$bill=$res['name'];
+                        						$summary=$res['description'];
+                        						$active=$res['verified'];
+                                                if($active=="t"){
                                                     $status="Active";
-													$sdo = 'N';
+													$sdo = 'f';
                                                 }
-                                                else if($active=="N"){
+                                                else if($active=="f"){
                                                         $status="InActive";
-														$sdo = 'Y';
+														$sdo = 't';
                                                 }
                         						$cnt++;
                         					echo "<tr>
                         						<td>
-                        							$cnt
+                        							$pId
                         						</td>
 												<td>
                         							$customer_id
@@ -141,9 +146,19 @@ echo"<script>window.location='comment.php'</script>";
 												<td>
                         							$bill
                         						</td>
+                                                </td>
+                                                <td>
+                                                    $summary
+                                                </td>
 												<td>
-                        							$category
+                        							$category1
                         						</td>
+                                                <td>
+                                                    $category2
+                                                </td>
+                                                <td>
+                                                    $category3
+                                                </td>
                         						<td>
                         							$faderal
                         						</td>

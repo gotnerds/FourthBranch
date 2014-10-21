@@ -1,32 +1,33 @@
 <?php
-
-include("include/dbcon.php");
-
+    include("../inc/db_conx.php");
+$con = $db_conx;
 if(isset($_POST['sbt'])){
 
     $url = $_POST['newurl'];
+    $newsCat = $_POST['newCat'];
     $title = $_POST['title'];
-    $timestamp = time();
-    if(isset($_FILES['photo1']['name'])){
+    if(!empty($_FILES['photo1']['name'])){
         $file = $_FILES['photo1']['name'];
         $temp = $_FILES['photo1']['tmp_name'];    
-        $fullpath = "photos/".$file;
+        $fullpath = "tbladmin/photos/".$file;
     }else{
-        $fullpath = '';
+        $fullpath = $_POST['photourl'];
     }
-
-
-    $photourl = $_POST['photourl'];
  
- $sqlphoto="insert into news (url,title,photo,photourl,timestamp) values('$url','$title','$fullpath','$photourl','$timestamp')";
+ $sqlphoto="INSERT INTO news (title,news_url,photo,category) VALUES('$title','$url','$fullpath','$newsCat')";
  $query=mysqli_query($con,$sqlphoto) or die(mysqli_error($con));
- if($query && !empty($fullpath)){
-     $moveResult = move_uploaded_file($temp, $fullpath);
-     if ($moveResult == true) {
-    echo"<script>alert('Done !');</script>";
-} else {
-   echo"<script>alert('Data Not Updated !');</script>";
-}
+ if($query){
+    if (isset($file)){
+        $fullpath = "../".$fullpath;
+         $moveResult = move_uploaded_file($temp, $fullpath);
+         if ($moveResult == true) {
+        echo"<script>alert('Done !');</script>";
+        } else {
+           echo"<script>alert('Data Not Updated !');</script>";
+        }
+    } else {
+        echo"<script>alert('News item added.');</script>";
+    }
  }
 
 
@@ -110,8 +111,24 @@ if(isset($_POST['sbt'])){
                     
                     </tr>
                     <tr>
+                    <td style="font-weight:bold">News Category</td>
+                    <td>
+                        <input type="text" name="newCat" id="newCat" class="input-medium">
+
+                    </td>
+                    
+                    </tr>
+                    <tr>
                         <td style="font-weight:bold">News Title</td>
                         <td><input type="text" name="title" id="title" class="input-medium"></td>
+                    </tr>
+                    <tr>
+                    <td style="font-weight:bold">Photo URL</td>
+                    <td>
+                        <input type="url" name="photourl" id="photourl" class="input-medium" >
+
+                    </td>
+                    
                     </tr>
                     <tr>
                     <td style="font-weight:bold">Photo</td>
@@ -120,14 +137,6 @@ if(isset($_POST['sbt'])){
                     </td>
                     
                     </tr>
-					<!--<tr>
-                    <td style="font-weight:bold">Photo URL</td>
-                    <td>
-                        <input type="url" name="photourl" id="photourl" class="input-medium" >
-
-                    </td>
-                    
-                    </tr>-->
 
                     <tr>
                    

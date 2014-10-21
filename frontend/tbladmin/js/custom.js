@@ -1,7 +1,28 @@
 jQuery.noConflict();
 
+//userVote
+   function bod(e) {
+        console.log(e);
+        var postData = jQuery(e).attr("data-billid");
+        console.log(postData);
+        jQuery.post("include/bod.php", 
+        {
+        	id: postData
+        },
+        function(data){
+        	console.log(data);
+        	jQuery(e).after(data);
+            jQuery(e).prev('.modalLink').click();
+
+        });
+        e.preventDefault(); //STOP default action
+        e.unbind(); //unbind. to stop multiple form submit.
+    }
 jQuery(document).ready(function(){
-	
+
+	jQuery('.bodModal').click(function(){
+		bod(jQuery(this));
+	});
 	// dropdown in leftmenu
 	jQuery('.leftmenu .dropdown > a').click(function(){
 		if(!jQuery(this).next().is(':visible'))
@@ -167,7 +188,7 @@ jQuery(document).ready(function(){
 			if(/^(http:\/\/www\.|https:\/\/www\.|http:\/\/|https:\/\/)[a-z0-9]+([\-\.]{1}[a-z0-9]+)*\.[a-z]{2,5}(:[0-9]{1,5})?(\/.*)?$/.test(newurl)){
         			    
         	} else {
-        		alert("In-Correct url, Please check the Url");
+        		alert("Incorrect url, Please check the Url");
         		return false;
         	}
 		}

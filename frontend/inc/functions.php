@@ -287,4 +287,32 @@ function url(){
     $_SERVER['SERVER_NAME']
   );
 }
+    function sortList($arrayToSort) {
+
+        $collections = array();   
+        $i = 0; 
+        foreach($arrayToSort as $product){
+            if(!isset($collections[$product['grouped_cat']])){
+                $collections[$product['grouped_cat']] = array(
+                    array(
+                        'title' => $product['title'],
+                        'news_url' => $product['news_url'],
+                        'photo' => $product['photo'],
+                        'category' => $product['category']
+                    )                                             
+                ); 
+            }else{
+                array_push($collections[$product['grouped_cat']],
+                    array(
+                        'title' => $product["title"],
+                        'news_url' => $product["news_url"],
+                        'photo' => $product['photo'],
+                        'category' => $product['category']
+                    )            
+                );       
+            }
+            $i++;
+        }
+    return $collections;
+    }
 ?>

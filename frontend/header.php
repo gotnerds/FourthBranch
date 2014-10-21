@@ -6,13 +6,16 @@ if (isset($_POST)) {
 }
 include "./inc/db_conx.php";
 include_once './inc/db_connect.php';
+#include "./inc/userRoles.php"
 sec_session_start();
 if (login_check($mysqli) == true) {
     $logged = 'in';
     //echo $logged;
+    $username = $_SESSION['username'];
+    $currentUserId = $_SESSION['user_id'];
 } else {
     $logged = 'out';
-    //echo $logged;
+    $username = "please sign in";
 }
 if (!empty($error_msg)) {
     echo $error_msg;

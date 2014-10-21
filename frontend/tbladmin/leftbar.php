@@ -10,8 +10,10 @@
                 <li class="dropdown"><a href="#"><span class="iconfa-th-list"></span>Users</a>
                 	<ul>
                     	<li><a href="index.php">All Users</a></li>
-                            <li><a href="active.user.php">Activate Users</a></li>
-                                <li><a href="inactive.user.php">Blocked Users</a></li>
+                            <li><a href="active.user.php">Activate Individuals</a></li>
+                            <li><a href="verified.user.php">Verified Organizations</a></li>
+                            <li><a href="inactive.user.php">Inactive Individuals</a></li>
+                            <li><a href="unverified.user.php">Unverified Organizations</a></li>
                        
                     </ul>
                 </li>

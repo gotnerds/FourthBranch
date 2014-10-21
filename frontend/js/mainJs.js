@@ -62,7 +62,7 @@
             success:function(data) 
             {
                 console.log(data);
-                $(e).append(data);
+                location.reload();
                 //data: return data from server
             },
             error: function(jqXHR, textStatus, errorThrown) 
@@ -71,7 +71,7 @@
                 //if fails      
             }
         });
-        e.preventDefault(); //STOP default action
+        event.preventDefault(); //STOP default action
         e.unbind(); //unbind. to stop multiple form submit.
     }
 
@@ -347,7 +347,7 @@ $(document).ready(function(){
     });
     if ($('#newsOfTheDay:visible').length == 0) {
     } else {
-    equalizeNotdHeight();
+    //equalizeNotdHeight();
 	}
 	if ($('.introduction:visible').length == 0) {
     } else {
