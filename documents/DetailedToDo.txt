@@ -1,0 +1,76 @@
+FOURTH BRANCH DETAILED TO DO
+
+FRONT END:
+	Basic Responsive CSS setup
+	Login Fixes:
+		Make all fields required
+		Add validation scripts
+		Send email for individuals who sign up with verification link
+			create verification hash
+		Check that user is verified before allowing them to login
+		Set up forgot password functionality using verification hash
+	Homepage:
+		Trending comments functionality (based on backend procedure not created yet)
+	Infinite Scroll Issues (On Vote, Wall of America, and Proposals):
+		Search terms DO NOT STAY when new items are loaded
+			fix by using pagination and procedure (not created yet)
+		When the bottom of the page is reached, infinite scroll pushes the footer away (making it unreachable) 
+			fix by making the footer static until the user scrolls again
+	Search Funtionality:
+		Sort by (across site)
+	About & Contact Page:
+		Get info and create static pages
+	Terms of Service & Privacy Policy:
+		Get info and create modal pages
+	Create appropriations bill page
+	Create closed bill
+		implement user's address to compare with local congressmen
+	Tidy and ensure Individuals & Organizations fall within their roles
+		Organizations:
+			no voting
+			can make proposal
+			can comment
+			can contribute and write on wall of america
+			can post statuses
+			cannot follow others
+		Individuals:
+			can vote
+			can make proposals
+			can comment
+			can contribute and write on wall of america
+			cannot post statuses
+			can follow others
+	Update store:
+		include all items when they're in the database
+		add css to beautify
+	Automate bill of the day and tomorrow's day based on BOTD date
+	Profile Page:
+		Style as directed
+		Create newsfeed area
+		create individuals & organizations search area
+		create privacy settings area
+		add follow functionality
+	Comments:
+		Create comments for individual bills & proposals
+		Two tiers of comments and no more. 
+	Admin Panel (thefourthbranch.gotnerds.com/tbladmin)
+		All that is not set up correctly..
+
+BACKEND:
+	Login Fixes:
+		Add to organization procedure: image
+		verification hash
+	Comments tables & procedures
+		including trending comments
+	Search procedures with sort by functionality
+		search by hits and ignore "it", "a" etc...
+	Trending comments 
+	Appropriations bill database and procedures
+	Add store items to database
+	Update getUserVote procedure to AND billId = bill_id
+	Profile:
+		privacy table
+		newsfeeed 
+		follow
+		search users
+		all procedures for above
