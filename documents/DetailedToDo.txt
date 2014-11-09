@@ -58,19 +58,18 @@ FRONT END:
 
 BACKEND:
 	Login Fixes:
-		Add to organization procedure: image
 		verification hash
-	Comments tables & procedures
-		including trending comments
+	Comments and Subcomments bills & proposals
 	Search procedures with sort by functionality
 		search by hits and ignore "it", "a" etc...
-	Trending comments 
+	Trending Comments Procedure
 	Appropriations bill database and procedures
 	Add store items to database
-	Update getUserVote procedure to AND billId = bill_id
-	Profile:
+	Following Table Procedures
+	Profile Database:
 		privacy table
 		newsfeeed 
-		follow
 		search users
 		all procedures for above
+
+

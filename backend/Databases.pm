@@ -1,16 +1,5 @@
 #!/usr/bin/perl
-##### todo
-# comments_bill isn't built right
-# need a sub comments database for both bills and comments.
-# comments on proposals
-# sub comments on proposals
-#####
-# priotize sorting functionality of user votes on bills
-# todo database updates
-# trending comments
-# profile database 
-# following database
-# newsfeed functionality
+
 package Databases;
 
 use strict;
@@ -129,6 +118,31 @@ END_REPORTED_COMMENTS_TABLE
 
 # End  Tables from http://www.wikihow.com
 ###################################################################
+# Following
+my $CREATE_FOLLOWING_TABLE = <<'END_FOLLOWING_TABLE';
+create table following 
+( id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT, 
+  individual_id MEDIUMINT NOT NULL, 
+  following_id MEDIUMINT NOT NULL,
+  PRIMARY KEY (id)
+);
+END_FOLLOWING_TABLE
+    ;
+
+# Trending Comments 
+my $CREATE_TRENDING_COMMENTS_TABLE = <<'END_TRENDING_COMMENTS_TABLE';
+create table trending_comments 
+( id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT, 
+  individual_id MEDIUMINT NOT NULL, 
+  comment_id MEDIUMINT NOT NULL,
+  bill_of_day_id MEDIUMINT NOT NULL, 
+  on_click_action TEXT,
+  PRIMARY KEY (id)
+);
+END_TRENDING_COMMENTS_TABLE
+    ;
+
+
 # Individual Users
 my $CREATE_INDIVIDUAL_USERS_TABLE = <<'END_INDIVIDUAL_USERS_TABLE';
 create table individuals 
@@ -374,9 +388,9 @@ END_COMMENT
     ;
 
 ####################################
-my @tables = ($CREATE_MEMBERS_TABLE,$CREATE_LOGIN_ATTEMPTS_TABLE, $CREATE_INDIVIDUAL_USERS_TABLE, $CREATE_ORGANIZATION_USERS_TABLE, $CREATE_ADMIN_USERS_TABLE,$CREATE_BILL_TABLE,$CREATE_REPRESENTATIVES_TABLE,$CREATE_WALL_OF_AMERICA_TABLE,$CREATE_BILL_VOTE_TABLE,$CREATE_USER_VOTES_TABLE,$CREATE_COMMENT_TABLE,$CREATE_CONGRESS_VOTES_TABLE,$CREATE_NEWS_TABLE,$CREATE_REPORTED_COMMENTS_TABLE,$CREATE_PROPOSAL_TABLE,$CREATE_STATIC_PAGES_TABLE,$CREATE_COMMENTS_BILLS_TABLE,$CREATE_COMMENTS_PROPOSALS_TABLE,$CREATE_SUMMARIES_BILL_OF_THE_DAY_TABLE,$CREATE_BILL_OF_THE_DAY_TABLE,$CREATE_SUBCOMMENTS_PROPOSALS_TABLE,$CREATE_SUBCOMMENTS_BILLS_TABLE);
+my @tables = ($CREATE_MEMBERS_TABLE,$CREATE_LOGIN_ATTEMPTS_TABLE, $CREATE_INDIVIDUAL_USERS_TABLE, $CREATE_ORGANIZATION_USERS_TABLE, $CREATE_ADMIN_USERS_TABLE,$CREATE_BILL_TABLE,$CREATE_REPRESENTATIVES_TABLE,$CREATE_WALL_OF_AMERICA_TABLE,$CREATE_BILL_VOTE_TABLE,$CREATE_USER_VOTES_TABLE,$CREATE_COMMENT_TABLE,$CREATE_CONGRESS_VOTES_TABLE,$CREATE_NEWS_TABLE,$CREATE_REPORTED_COMMENTS_TABLE,$CREATE_PROPOSAL_TABLE,$CREATE_STATIC_PAGES_TABLE,$CREATE_COMMENTS_BILLS_TABLE,$CREATE_COMMENTS_PROPOSALS_TABLE,$CREATE_SUMMARIES_BILL_OF_THE_DAY_TABLE,$CREATE_BILL_OF_THE_DAY_TABLE,$CREATE_SUBCOMMENTS_PROPOSALS_TABLE,$CREATE_SUBCOMMENTS_BILLS_TABLE,$CREATE_TRENDING_COMMENTS_TABLE,$CREATE_FOLLOWING_TABLE);
 
-my @table_names = ("members","login_attempts","individuals", "organizations","admins","bills","representatives","bill_votes","user_votes","wall_of_america","comments_bills","congress_votes","news","reported_comments","proposals","static_pages","comments_bills","comments_proposals","summaries_bill_of_the_day","bill_of_the_day","subcomments_proposals","subcomments_bills");
+my @table_names = ("members","login_attempts","individuals", "organizations","admins","bills","representatives","bill_votes","user_votes","wall_of_america","comments_bills","congress_votes","news","reported_comments","proposals","static_pages","comments_bills","comments_proposals","summaries_bill_of_the_day","bill_of_the_day","subcomments_proposals","subcomments_bills","trending_comments","following");
 
 ####################################
 
@@ -792,6 +806,7 @@ sub writeStoredProcedures{
  	"salt" => "salt",
 	"verified" => "verified",
 	"signup_date" => "signup_date",
+	"photo" => "photo",
 	);
     $modifierString = "";
     @parameterList = (
@@ -811,7 +826,8 @@ sub writeStoredProcedures{
 	"password VARCHAR(128)", 
 	"salt VARCHAR(128)",
 	"verified VARCHAR(5)", 
-	"signup_date DATE"
+	"signup_date DATE",
+	"image TEXT",
 	);
     my $insertOrganization = MysqlUtils::generateInsertProcedureFromHash($tableName,$procedureName,\%insertHash,$modifierString,\@parameterList);
     if($debug == 1){
@@ -1050,8 +1066,11 @@ sub writeStoredProcedures{
     $tableName = "user_votes";
     $procedureName = "getUserVote";
     @columns = ("billId","user_id","organization_id","vote", "date");
-    %whereHash = ("userId"=>"user_id");
-    @parameterList = ("userId MEDIUMINT(9)");
+    %whereHash = ("userId"=>"user_id", "billId"=>"billId");
+    @parameterList = (
+	"userId MEDIUMINT(9)",
+	"billId MEDIUMINT(9)"
+	);
     my $getUserVote = MysqlUtils::generateReadProcedureFromHash($tableName,$procedureName,\@columns,\%whereHash,\@parameterList);
     if($debug == 1){
 	print "Writing -->$getUserVote\n";
