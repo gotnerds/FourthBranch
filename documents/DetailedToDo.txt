@@ -18,10 +18,6 @@ FRONT END:
 			fix by making the footer static until the user scrolls again
 	Search Funtionality:
 		Sort by (across site)
-	About & Contact Page:
-		Get info and create static pages
-	Terms of Service & Privacy Policy:
-		Get info and create modal pages
 	Create appropriations bill page
 	Create closed bill
 		implement user's address to compare with local congressmen
@@ -55,21 +51,24 @@ FRONT END:
 		Two tiers of comments and no more. 
 	Admin Panel (thefourthbranch.gotnerds.com/tbladmin)
 		All that is not set up correctly..
-
 BACKEND:
 	Login Fixes:
 		verification hash
+		procedure to check if param hash = verification hash in database
 	Comments and Subcomments bills & proposals
-	Search procedures with sort by functionality
+		procedure: sort comments by time, most agreed, most discussed
+		procedure: get total up and down votes for comment
+		procedure: get 10 comments w/pagination + 3 subcomments
+	Search bill & proposal procedures with sort by functionality
 		search by hits and ignore "it", "a" etc...
 	Trending Comments Procedure
+	Get closed bill info
+		user's local congressmen voting info
 	Appropriations bill database and procedures
-	Add store items to database
+	Add contribute items to database
 	Following Table Procedures
 	Profile Database:
 		privacy table
 		newsfeeed 
 		search users
 		all procedures for above
-
-

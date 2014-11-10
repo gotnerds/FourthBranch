@@ -43,8 +43,9 @@ if (!empty($error_msg)) {
 </head>
 <body>
 <div id="summary"></div>
-    <?php include "./inc/loginModal.php"; 
-if ($_GET['error'] == 1) {
+<?php 
+include "./inc/loginModal.php"; 
+if (isset($_GET['error']) && $_GET['error'] == 1) {
 	echo '<script>
 	alert("Incorrect Username or Password");
 	</script>';
