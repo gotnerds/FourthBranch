@@ -30,21 +30,25 @@ if (!empty($error_msg)) {
   <meta name="author" content="The Fourth branch" />
   <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
   <link rel="icon" href="images/favicon.ico" type="image/x-icon">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
   <link href="css/css.css" type="text/css" rel="stylesheet" media="screen, projection">
 <!-- for online access
   <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 -->
-  <script src="js/jquery.js" type="text/javascript"></script>
-  <script src="js/html5shiv.min.js"></script>
-  <script src="js/sha512.js" type="text/javascript"></script>
   <!--[if lt IE 9]>
   <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
 <!-- authentication info -->
+<script src="js/jquery.js" type="text/javascript"></script>
 </head>
 <body>
-    <?php include "./inc/loginModal.php"; ?>
+<div id="summary"></div>
+    <?php include "./inc/loginModal.php"; 
+if ($_GET['error'] == 1) {
+	echo '<script>
+	alert("Incorrect Username or Password");
+	</script>';
+}?>
 	<header id="siteHeader">
 		<nav id="extraNav" role="navigation">
 			<a href="about.php">About</a> | 
@@ -64,7 +68,7 @@ if (!empty($error_msg)) {
             ?>
 		<section class="headerLogin">
 			<table cellspacing="0">
-			    <form action="inc/process_login.php" name="Login" id="login" method="post">
+			    <form name="Login" action="inc/process_login.php" id="login" method="post">
 					<tbody>
 						<tr>
 							<td class="html7magic">
@@ -82,7 +86,7 @@ if (!empty($error_msg)) {
 								<input type="password" class="inputtext" name="password" id="password" size="14" tabindex="2">
 							</td>
 							<td>
-								<button type="button" onclick="formhash(this.form, this.form.password);" name="login-button" class="linkButton">Login</button> |  
+								<button type="button" onclick="formhash(this.form, this.form.password);" name="login-button" class="login linkButton">Login</button> |  
 
 							</td>
 							<td>
@@ -109,11 +113,15 @@ if (!empty($error_msg)) {
             <?php } ?>
         </section>
         <div id="logo" role="banner"><img src="images/logo.png" width="600" /></div>
-        <nav id="mainNav" role="navigation">
-        	<a href="index.php">Home</a>
-        	<a href="vote.php">Vote</a>
-        	<a href="proposal.php">Proposal</a>
-        	<a href="news.php">News</a>
-        	<a href="wallofamerica.php">Wall of America</a>
-        </nav>
+		<div class="menucheckbox">
+			<label for="show-menu" class="show-menu"><span>Menu</span></label>
+			<input type="checkbox" id="show-menu" role="button">
+	        <nav id="mainNav" role="navigation">
+	        	<a href="index.php">Home</a>
+	        	<a href="vote.php">Vote</a>
+	        	<a href="proposal.php">Proposal</a>
+	        	<a href="news.php">News</a>
+	        	<a href="wallofamerica.php">Wall of America</a>
+	        </nav>
+  		<div class="menucheckbox">
     </header>

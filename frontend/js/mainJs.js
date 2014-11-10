@@ -359,7 +359,158 @@ $(document).ready(function(){
     checkboxes.change(function(){
         var current = checkboxes.filter(':checked').length;
         checkboxes.filter(':not(:checked)').prop('disabled', current >= max);
-});
+    });
+    //validation rules\
+    $("#signupOrganization").validate({
+        rules: {
+            nameOrganization: "required",
+            addressOrganization: "required",
+            cityOrganization: "required",
+            stateOrganization: "required",
+            zipOrganization: {
+                required: true,
+                minlength: 5,
+                maxlength: 5
+            },
+            phoneOrganization: {
+                required: true,
+            },
+            imgInp: "required",
+            reason: "required",
+        },
+        errorElement: "div",
+        errorPlacement: function(error, element) {
+            error.appendTo("element");
+        }, 
+        showErrors: function(errorMap, errorList) {
+            $("#summary").html("Your form contains "
+              + this.numberOfInvalids()
+              + " errors, see details below.");
+            this.defaultShowErrors();
+        }
+
+    });
+    $("#goToOrganization2").click(function(){
+        if ($('#signupOrganization').valid()) {
+            organization2();
+        } else {
+            alert ("Please fill in all fields correctly.");
+        }
+    });
+    $("#signupOrganization2").validate({
+        rules: {
+            nameI: "required",
+            titleI: "required",
+            phonePersonal: "required",
+            emailO: {
+                required: true,
+                email: true
+            }
+        },
+        errorElement: "div",
+        errorPlacement: function(error, element) {
+            error.appendTo("element");
+        }, 
+        showErrors: function(errorMap, errorList) {
+            $("#summary").html("Your form contains "
+              + this.numberOfInvalids()
+              + " errors, see details below.");
+            this.defaultShowErrors();
+        }
+    });
+    $("#goToOrganization3").click(function(){
+        if ($('#signupOrganization2').valid()) {
+            organization3();
+        } else {
+            alert ("Please fill in all fields correctly.");
+        }
+    });
+    $("#signupOrganization3").validate({
+        rules: {
+            emailS: {
+                required: true,
+                email: true
+            },
+            emailS2: {
+                required: true,
+                email: true
+            },
+            passS: {
+                required: true,
+                minlength: 6
+            },
+            passS2: {
+                required: true,
+                minlength: 6
+            }
+        },
+        errorElement: "div",
+        errorPlacement: function(error, element) {
+            error.appendTo("element");
+        }, 
+        showErrors: function(errorMap, errorList) {
+            $("#summary").html("Your form contains "
+              + this.numberOfInvalids()
+              + " errors, see details below.");
+            this.defaultShowErrors();
+        }
+    });
+
+    $("#addOrganization-button").click(function(){
+        if ($('#signupOrganization').valid()) {
+            mergeForms('signupOrganization', 'signupOrganization3', 'signupOrganization2');
+        } else {
+            alert ("Please fill in all fields correctly.");
+        }
+    });
+    $("#addIndividual").validate({
+        rules: {
+            fname: "required",
+            lname: "requred",
+            pseudonym: "required",
+            dob: "required",
+            emailI: {
+                required: true,
+                email: true
+            }, 
+            emailI2: {
+                required: true,
+                email: true,
+            },
+            password: {
+                required: true,
+                minlength: 5
+            },
+            confirmpwd: {
+                required: true,
+                minlength: 5
+            },
+            address: "required",
+            city: "required",
+            state: "required",
+            zip: {
+                minlength: 5,
+                required: true,
+                maxlength: 5
+            }
+        },
+        messages: {
+            emailI: {
+                required: "Please enter an email",
+                email: "Please enter a valid email"
+            }
+        },
+        errorElement: "div",
+        errorPlacement: function(error, element) {
+            error.appendTo("element");
+        }, 
+        showErrors: function(errorMap, errorList) {
+            $("#summary").html("Your form contains "
+              + this.numberOfInvalids()
+              + " errors, see details below.");
+            this.defaultShowErrors();
+        }
+    });
 });
 $(document).mouseup(function (e)
 {

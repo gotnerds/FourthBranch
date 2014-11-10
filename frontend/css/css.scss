@@ -162,6 +162,9 @@ ul {
 table {
 	color: inherit;
 }
+.indent {
+	margin: 0 20px;
+}
 .textLeft {
 	text-align: left;
 }
@@ -291,7 +294,7 @@ button {
 	width: 100%;
 }
 .span_4_of_5 {
-  	width: 79.68%; 
+  	width: 79.2%; 
 }
 .span_3_of_5 {
   	width: 59.36%; 
@@ -540,6 +543,7 @@ div.overlay > div.wrap-outer {
 tbody tr td div form {
     margin-bottom:4px;
 }
+
 form {
 	div {
 		display:inline-block;
@@ -547,10 +551,23 @@ form {
 		p {
 			@include font-size(16px);
 		}
+
+		input, input[type="password" i], input[type="search" i] {
+			border: 1px dotted grey;
+			border-radius: 3px;
+		}
+		.error {
+			color: $red;
+			display:inline-block;
+			border-color:$red;
+			border-style:solid;
+			border-width:1px;
+		}
 	}
 	.left {
 	    width:250px;
 	    text-align:right;
+		padding-bottom:7px;
 	}
 	.full {
 	    width:100%;
@@ -558,6 +575,7 @@ form {
 	    clear:both;
 	    display:inline-block;
 	    vertical-align:top;
+		padding-bottom:7px;
 		i {
 		 font-size:.8em;  
 		 vertical-align:top;
@@ -625,6 +643,29 @@ textarea#reason {
 			text-shadow: 0 2px 0 rgba(0,0,0,1);
 		}
 	}
+}
+/*Style 'show menu' label button and hide it by default*/
+.show-menu {
+	text-decoration: none;
+	color: #fff;
+	background-color: $red;
+	text-align: center;
+	padding: 10px 0;
+	display: none;
+	font-size: 16px;
+	font-size: 1rem;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+/*Hide checkbox*/
+.menucheckbox input[type=checkbox] {
+    display: none;
+}
+
+/*Show menu when invisible checkbox is checked*/
+.menucheckbox input[type=checkbox]:checked ~ #mainNav {
+    display: block;
 }
 
 /* News Of The Day */
@@ -754,7 +795,7 @@ margin-top:15px;
 	width:78.9%;
 	padding-bottom: 30px;
 	form {
-		display:inline-block;
+		display:inline;
 	}
 }
 .shareButton {
@@ -1131,9 +1172,6 @@ footer {
     legend {
     	clear:both;
     }
-    .indent {
-    	margin: 0 20px;
-    }
     .medText{
     	@include font-size(20px);
     	margin: 1em 0;
@@ -1254,5 +1292,49 @@ footer {
 	}
 	.span_1_of_3 {
 
+	}
+}
+.comments {
+	li {
+		display:inline-block;
+	}
+	.commentSingle {
+		width:80%;
+		.first-child img {
+			max-width:100%;
+		}
+	}
+}
+@media only screen and (max-width: 960px) {
+	#newsOfTheDay {
+		display:none;
+	}
+	.billOfTheDay {
+		width: auto;
+	}
+}
+@media only screen and (max-width: 688px) {
+	#logo img {
+		max-width:100%;
+	}
+	/*Display 'show menu' link*/
+	.show-menu {
+		display:block;
+	}
+	#siteHeader {
+		height:auto;
+	}
+	#mainNav {
+		display:none;
+		margin-top: 0px;
+		box-shadow: none;
+		-webkit-box-shadow: none;
+	}
+	/*Make all menu links full width*/
+	#mainNav a {
+		width: 100%;
+		margin-bottom: 1px;
+		display: block;
+		padding: 0;
 	}
 }

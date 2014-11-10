@@ -15,7 +15,7 @@ $user = $stmt->fetch();
 <?php
 $billId = $row['id'];
 echo '<article class="bill section group">
-    <div class="billTitle full">
+    <div class="proposalTitle full">
         <h4>'.$row["name"].'</h4>';
         //<span>(Section 3 of 9)</span>
     echo '</div>

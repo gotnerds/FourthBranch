@@ -138,7 +138,7 @@
 								<label for="city">City:</label>
 								<input type='text' style="width:150px;" name='city' id='city' />  
 							</div>
-                            <div style="float:left;padding-left:70px;">
+                            <div style="padding-left:70px;">
 								<label for="state">State:</label>
 								<select id='state' name="state">
 									<option value=''>--Select State--</option><option value='Alabama'>AL</option>
@@ -183,14 +183,14 @@
 								    <input type='text' style="width:150px;display:none;" name='otherBox' id='otherBox' placeholder='If other, please enter here' /> 
 								</div>
 						</div>
-						<div class="full" style="margin:15px;text-align:center;">
+						<div class="full" style="text-align:center;">
 							<p style="margin:0;">
 							By clicking sign up you agree to our 
-								<a href="policy.php" target="_newtab" onclick="window.open('policy.php','_newtab');" style="color:red;">
+								<a href="termsOfService.php" target="_newtab" onclick="window.open('policy.php','_newtab');" style="color:red;">
 									The Fourth Branch Terms
 								</a>
 							 and that you had read our 
-							 	<a href="policy.php" target="_newtab" onclick="window.open('policy.php','_newtab');" style="color:red;">Privacy Policy</a>.
+							 	<a href="policy.php" target="_newtab" onclick="window.open('policy.php','_newtab');" style="color:red;">Privacy Policy</a> and <a href="cookieUse.php" target="_newtab" onclick="window.open('cookieUse.php','_newtab');" style="color:red;">Cookie Use</a>.
 							 </p>
                         </div>
 						<div style="float:right;overflow:hidden;margin:15px">
@@ -349,7 +349,7 @@
               			</br>
 		  				<textarea id='reason' name='reasons' cols='35' rows='7' style='color:black;'></textarea>
 		  			</div>
-				  	<script type="text/javascript" >
+				  	<script type="text/javascript">
 						function readURL(input) {
 							if (input.files && input.files[0]) {
 							var reader = new FileReader();            
@@ -359,13 +359,13 @@
 							reader.readAsDataURL(input.files[0]);
 							}
 						}    
-						$("#imgInp").change(function(){
+						$('#imgInp').change(function(){
 							readURL(this);
 						});	
 					</script>
 				  	<div style="clear:both;"></div>
 				  	<div style="clear:right;overflow:hidden;display:block;">
-				  		<button type="button" onclick='organization2();' class='button' style='cursor: pointer;width: 100px; float:right; margin-left: 25px;'>
+				  		<button type="button" id="goToOrganization2" class='button' style='cursor: pointer;width: 100px; float:right; margin-left: 25px;'>
 				  			Next
 				  		</button>
 				  		<button type="button" class='button' onclick='introduction();' style='cursor: pointer;float: right;width: 100px;'>
@@ -407,7 +407,7 @@
 						</div>
 						<div style="height:15px;"></div>
 						<div style="clear:both;overflow:hidden;display:block;">
-							<button class='button' type="button" onclick='organization3();' style='cursor: pointer;float: right; width: 100px; margin-left: 25px;'>
+							<button class='button' type="button" id="goToOrganization3" style='cursor: pointer;float: right; width: 100px; margin-left: 25px;'>
 								Next
 							</button>
 							<button class='button' type="button" onclick='organization();' style='cursor: pointer;float: right; width: 100px;'>
@@ -443,18 +443,18 @@
 							<label for="passS2">
 								Confirm Password:</label><input type='password' name='passS2' id='passS2' size='25' required/>
 						</div>
-						<div class="full" style="text-align:center;"><p>
+						<div class="full" style="text-align:center;">
+							<p style="margin:0;">
 							By clicking sign up you agree to our 
-							<a href="policy.php" target="_newtab" onclick="window.open('policy.php','_newtab');" style="color:red;">
-								The Fourth Branch Terms
-							</a>
+								<a href="termsOfService.php" target="_newtab" onclick="window.open('policy.php','_newtab');" style="color:red;">
+									The Fourth Branch Terms
+								</a>
 							 and that you had read our 
-							<a href="policy.php" target="_newtab" onclick="window.open('policy.php','_newtab');" style="color:red;">
-								Privacy Policy</a>.
-                            </p>
+							 	<a href="policy.php" target="_newtab" onclick="window.open('policy.php','_newtab');" style="color:red;">Privacy Policy</a> and <a href="cookieUse.php" target="_newtab" onclick="window.open('cookieUse.php','_newtab');" style="color:red;">Cookie Use</a>.
+							 </p>
 						</div>
 						<div style="overflow:hidden;float:right;">	
-                        	<button class='button' type="button" onclick="mergeForms('signupOrganization', 'signupOrganization3', 'signupOrganization2');" name='addOrganization-button' id='addOrganization-button' style='cursor: pointer;float: right; width: 100px; margin-left: 25px;'>
+                        	<button class='button' type="button" name='addOrganization-button' id='addOrganization-button' style='cursor: pointer;float: right; width: 100px; margin-left: 25px;'>
 								Sign Up
 							</button>
 							<button class='button' type="button" onclick='organization2();' style='cursor: pointer;float: right; width: 100px;'>

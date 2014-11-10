@@ -1,30 +1,33 @@
 <?php 
-if($logged == 'in') {
-    unset($vote);
-    $billId = $row['id'];
-    if ($_SESSION['userType'] == "organization") {
-            $organization_id = $_SESSION['user_id'];
-            $stmt = $pdo->prepare("CALL getOrganizationVote(?, ?)");
-            $stmt->bindParam(1, $organization_id, PDO::PARAM_STR);
+if ($_SESSION['userType'] == 'organization') {
+} else {
+    if($logged == 'in') {
+        unset($vote);
+        $billId = $row['id'];
+        if ($_SESSION['userType'] == "organization") {
+                $organization_id = $_SESSION['user_id'];
+                $stmt = $pdo->prepare("CALL getOrganizationVote(?, ?)");
+                $stmt->bindParam(1, $organization_id, PDO::PARAM_STR);
+                $stmt->bindParam(2, $billId, PDO::PARAM_STR);
+                $rs = $stmt->execute();
+        } elseif ($_SESSION['userType'] == "individual") {
+            $user_id = $_SESSION['user_id'];
+            $stmt = $pdo->prepare("CALL getUserVote(?, ?)");
+            $stmt->bindParam(1, $user_id, PDO::PARAM_STR);
             $stmt->bindParam(2, $billId, PDO::PARAM_STR);
             $rs = $stmt->execute();
-    } elseif ($_SESSION['userType'] == "individual") {
-        $user_id = $_SESSION['user_id'];
-        $stmt = $pdo->prepare("CALL getUserVote(?, ?)");
-        $stmt->bindParam(1, $user_id, PDO::PARAM_STR);
-        $stmt->bindParam(2, $billId, PDO::PARAM_STR);
-        $rs = $stmt->execute();
-    }
-    if ($result = $stmt->fetchAll(PDO::FETCH_ASSOC)) {
-        $vote = $result[0]['vote'];
+        }
+        if ($result = $stmt->fetchAll(PDO::FETCH_ASSOC)) {
+            $vote = $result[0]['vote'];
+        } else {
+            // no vote yet    
+            
+        }
     } else {
-        // no vote yet    
-        
+        // logged out
     }
-} else {
-    // logged out
 }
-    ?>
+?>
     <form class="voteUser hasRadio" action='inc/postVote.php' method="POST" id="postVote<?php echo $billId; ?>">
             <?php 
             if($logged == 'in'){
