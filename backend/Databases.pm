@@ -163,6 +163,7 @@ create table individuals
   salt VARCHAR(128),
   photo VARCHAR(200),
   contributed MEDIUMINT,
+  verification TEXT,
   PRIMARY KEY (id)
 );
 END_INDIVIDUAL_USERS_TABLE
@@ -204,6 +205,7 @@ create table organizations
   signup_date DATE,
   photo VARCHAR(200),
   contributed MEDIUMINT,
+  verification TEXT,
   PRIMARY KEY (id)
 );
 END_ORGANIZATION_USERS_TABLE
@@ -346,6 +348,18 @@ create table bill_votes
 END_BILL_VOTE_TABLE
     ;
 
+# Store items
+my $CREATE_STORE_ITEMS_TABLE = <<'END_STORE_ITEMS_TABLE';
+create table store_items 
+(id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT, 
+ title TEXT NOT NULL, 
+ price TEXT , 
+ reward TEXT,
+ description TEXT, 
+ PRIMARY KEY(id)
+);
+END_STORE_ITEMS_TABLE
+    ;
 # User Votes 
 my $CREATE_USER_VOTES_TABLE = <<'END_USER_VOTES_TABLE';
 create table user_votes 
@@ -387,10 +401,26 @@ create table comments_bills
 END_COMMENT
     ;
 
-####################################
-my @tables = ($CREATE_MEMBERS_TABLE,$CREATE_LOGIN_ATTEMPTS_TABLE, $CREATE_INDIVIDUAL_USERS_TABLE, $CREATE_ORGANIZATION_USERS_TABLE, $CREATE_ADMIN_USERS_TABLE,$CREATE_BILL_TABLE,$CREATE_REPRESENTATIVES_TABLE,$CREATE_WALL_OF_AMERICA_TABLE,$CREATE_BILL_VOTE_TABLE,$CREATE_USER_VOTES_TABLE,$CREATE_COMMENT_TABLE,$CREATE_CONGRESS_VOTES_TABLE,$CREATE_NEWS_TABLE,$CREATE_REPORTED_COMMENTS_TABLE,$CREATE_PROPOSAL_TABLE,$CREATE_STATIC_PAGES_TABLE,$CREATE_COMMENTS_BILLS_TABLE,$CREATE_COMMENTS_PROPOSALS_TABLE,$CREATE_SUMMARIES_BILL_OF_THE_DAY_TABLE,$CREATE_BILL_OF_THE_DAY_TABLE,$CREATE_SUBCOMMENTS_PROPOSALS_TABLE,$CREATE_SUBCOMMENTS_BILLS_TABLE,$CREATE_TRENDING_COMMENTS_TABLE,$CREATE_FOLLOWING_TABLE);
+my $CREATE_INDIVIDUAL_PRIVACY_TABLE = <<'END_INDIVIDUAL_PRIVACY_TABLE';
+create table individual_privacy 
+(id MEDIUMINT NOT NULL UNIQUE AUTO_INCREMENT,  
+ user_id MEDIUMINT NOT NULL , 
+ display_full_name VARCHAR(1),
+ email VARCHAR(1),
+ date_of_birth VARCHAR(1), 
+ sex VARCHAR(1),
+ state VARCHAR(1),
+ city VARCHAR(1),
+ zip_code VARCHAR(1),
+ PRIMARY KEY(id)
+);
+END_INDIVIDUAL_PRIVACY_TABLE
+    ;
 
-my @table_names = ("members","login_attempts","individuals", "organizations","admins","bills","representatives","bill_votes","user_votes","wall_of_america","comments_bills","congress_votes","news","reported_comments","proposals","static_pages","comments_bills","comments_proposals","summaries_bill_of_the_day","bill_of_the_day","subcomments_proposals","subcomments_bills","trending_comments","following");
+####################################
+my @tables = ($CREATE_INDIVIDUAL_PRIVACY_TABLE,$CREATE_MEMBERS_TABLE,$CREATE_LOGIN_ATTEMPTS_TABLE, $CREATE_INDIVIDUAL_USERS_TABLE, $CREATE_ORGANIZATION_USERS_TABLE, $CREATE_ADMIN_USERS_TABLE,$CREATE_BILL_TABLE,$CREATE_REPRESENTATIVES_TABLE,$CREATE_WALL_OF_AMERICA_TABLE,$CREATE_BILL_VOTE_TABLE,$CREATE_USER_VOTES_TABLE,$CREATE_COMMENT_TABLE,$CREATE_CONGRESS_VOTES_TABLE,$CREATE_NEWS_TABLE,$CREATE_REPORTED_COMMENTS_TABLE,$CREATE_PROPOSAL_TABLE,$CREATE_STATIC_PAGES_TABLE,$CREATE_COMMENTS_BILLS_TABLE,$CREATE_COMMENTS_PROPOSALS_TABLE,$CREATE_SUMMARIES_BILL_OF_THE_DAY_TABLE,$CREATE_BILL_OF_THE_DAY_TABLE,$CREATE_SUBCOMMENTS_PROPOSALS_TABLE,$CREATE_SUBCOMMENTS_BILLS_TABLE,$CREATE_TRENDING_COMMENTS_TABLE,$CREATE_FOLLOWING_TABLE,$CREATE_STORE_ITEMS_TABLE);
+
+my @table_names = ("members","login_attempts","individuals", "organizations","admins","bills","representatives","bill_votes","user_votes","wall_of_america","comments_bills","congress_votes","news","reported_comments","proposals","static_pages","comments_bills","comments_proposals","summaries_bill_of_the_day","bill_of_the_day","subcomments_proposals","subcomments_bills","trending_comments","following","store_items","individual_privacy");
 
 ####################################
 
@@ -718,7 +748,8 @@ sub writeStoredProcedures{
 	"password" => "password",
 	"political_affiliation" => "political_affiliation",
 	"activated" => "activated",
-	"salt" => "salt"
+	"salt" => "salt",
+	"verification" => "verification"
 	);
     $modifierString = "";
     @parameterList = (
@@ -735,7 +766,8 @@ sub writeStoredProcedures{
 	"password VARCHAR(100)", 
 	"political_affiliation VARCHAR(30)", 
 	"activated VARCHAR(5)", 
-	"salt VARCHAR(128)"
+	"salt VARCHAR(128)",
+	"verification TEXT"
 	);
     my $insertIndividual = MysqlUtils::generateInsertProcedureFromHash($tableName,$procedureName,\%insertHash,$modifierString,\@parameterList);
     if($debug == 1){
@@ -807,6 +839,7 @@ sub writeStoredProcedures{
 	"verified" => "verified",
 	"signup_date" => "signup_date",
 	"photo" => "photo",
+	"verification" => "verification"
 	);
     $modifierString = "";
     @parameterList = (
@@ -828,6 +861,7 @@ sub writeStoredProcedures{
 	"verified VARCHAR(5)", 
 	"signup_date DATE",
 	"image TEXT",
+	"verification TEXT"
 	);
     my $insertOrganization = MysqlUtils::generateInsertProcedureFromHash($tableName,$procedureName,\%insertHash,$modifierString,\@parameterList);
     if($debug == 1){
@@ -1379,9 +1413,39 @@ sub loadDefaultDataFolder {
 	$lineRead =~ s/,/*COMMA*/g;
 	$lineRead =~ s/'/*APOSTROPHE*/g;
 	my ($pageTitle,$text1,$text2,$text3,$text4,$picture1,$picture2,$picture3,$picture4) = split(/,/,$lineRead);
+	if(!defined($text1)){
+	    $text1 = "";
+	}
+	if(!defined($text2)){
+	    $text2 = "";
+	}
+	if(!defined($text3)){
+	    $text3 = "";
+	}
+	if(!defined($text4)){
+	    $text4 = "";
+	}
+	if(!defined($picture1)){
+	    $picture1 = "";
+	}
+	if(!defined($picture2)){
+	    $picture2 = "";
+	}
+	if(!defined($picture3)){
+	    $picture3 = "";
+	}
+	
+	if(!defined($picture4)){
+	    $picture4 = "";
+	}
 	my @inputList = ($pageTitle,$text1,$text2,$text3,$text4,$picture1,$picture2,$picture3,$picture4);
 	for(my $index=0; $index < @inputList;$index++){
-	    $inputList[$index] =~ s/\s//g;
+	    if(defined($inputList[$index])){
+		$inputList[$index] =~ s/\s//g;
+	    }
+	    else{
+		$inputList[$index] = "";
+	    }
 	}
 	print OUTPUT "CALL insertStaticPage('$pageTitle','$text1','$text2','$text3','$text4','$picture1','$picture2','$picture3','$picture4');\n";
      }

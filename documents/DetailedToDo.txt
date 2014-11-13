@@ -53,7 +53,6 @@ FRONT END:
 		All that is not set up correctly..
 BACKEND:
 	Login Fixes:
-		verification hash
 		procedure to check if param hash = verification hash in database
 	Comments and Subcomments bills & proposals
 		procedure: sort comments by time, most agreed, most discussed
@@ -67,8 +66,9 @@ BACKEND:
 	Appropriations bill database and procedures
 	Add contribute items to database
 	Following Table Procedures
+	Privacy Table Procedures
+	Store Item Procedures
 	Profile Database:
-		privacy table
-		newsfeeed 
+		newsfeed 
 		search users
 		all procedures for above
