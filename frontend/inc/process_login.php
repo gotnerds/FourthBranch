@@ -15,7 +15,7 @@ if (isset($_POST['email'], $_POST['p'])) {
     } else {
         // Login failed 
         echo 'login failed!';
-       header('Location: ../index.php?error=1');
+       header('Location: ../index.php');
     }
 } else {
     // The correct POST variables were not sent to this page. 

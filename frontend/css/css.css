@@ -29,6 +29,8 @@ table { color: inherit; }
 
 .textRight { text-align: right; }
 
+.smallSite { display: none; }
+
 .bodyWrap { width: 90%; max-width: 1080px; margin-right: auto; margin-left: auto; }
 
 .right { float: right; }
@@ -396,4 +398,7 @@ footer .slogan { float: right; }
   #siteHeader { height: auto; }
   #mainNav { display: none; margin-top: 0px; box-shadow: none; -webkit-box-shadow: none; }
   /*Make all menu links full width*/
-  #mainNav a { width: 100%; margin-bottom: 1px; display: block; padding: 0; } }
+  #mainNav a { width: 100%; margin-bottom: 1px; display: block; padding: 0; }
+  .smallSite { display: inline; }
+  #extraNav { width: 100%; background-color: #0a2b95; }
+  .headerTableLogin { display: none; } }

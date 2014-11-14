@@ -22,6 +22,7 @@ if (isset($_POST['p'])) {
     $activated = 0;
     $email = filter_input(INPUT_POST, 'email', FILTER_SANITIZE_EMAIL);
     $email = filter_var($email, FILTER_VALIDATE_EMAIL);
+    $verification = md5( rand(0,1000) );
 
     if (isset($_POST['nameOrganization'])) {
         $allowedExts = array("gif", "jpeg", "jpg", "png");
@@ -79,14 +80,14 @@ if (isset($_POST['p'])) {
     }
     if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
         // Not a valid email
-        $error_msg .= '<p class="error">The email address you entered is not valid</p>';
+        $error_msg .= 'The email address you entered is not valid';
     }
  
     $password = filter_input(INPUT_POST, 'p', FILTER_SANITIZE_STRING);
     if (strlen($password) != 128) {
         // The hashed pwd should be 128 characters long.
         // If it's not, something really odd has happened
-        $error_msg .= '<p class="error">Invalid password configuration.</p>';
+        $error_msg .= 'Invalid password configuration.';
     }
  
     // Username validity and password validity have been checked client side.
@@ -104,11 +105,11 @@ if (isset($_POST['p'])) {
  
         if ($stmt->num_rows == 1) {
             // A user with this email address already exists
-            $error_msg .= '<p class="error">A user with this email address already exists.</p>';
+            $error_msg .= 'A user with this email address already exists.';
         }
                 $stmt->close();
     } else {
-        $error_msg .= '<p class="error">Database error Line 39</p>';
+        $error_msg .= 'Database error Line 39';
                 $stmt->close();
     }
  
@@ -122,11 +123,11 @@ if (isset($_POST['p'])) {
  
                 if ($stmt->num_rows == 1) {
                         // A user with this username already exists
-                        $error_msg .= '<p class="error">A user with this username already exists</p>';
+                        $error_msg .= 'A user with this username already exists';
                 }
                 $stmt->close();
         } else {
-                $error_msg .= '<p class="error">Database error line 55</p>';
+                $error_msg .= 'Database error line 55';
                 $stmt->close();
         }
  
@@ -142,20 +143,55 @@ if (isset($_POST['p'])) {
         $password = hash('sha512', $password . $random_salt);
         if (isset($_POST['pseudonym'])) {
             // Insert the new user into the database 
-            if ($insert_stmt = $mysqli->prepare("INSERT INTO individuals (first_name, last_name, username, birthdate, gender, address, city, state, zip, email, password, political_affiliation, activated, salt) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)")) {
-                $insert_stmt->bind_param('ssssssssssssss', $first_name, $last_name, $username, $birthdate, $gender, $address, $city, $state, $zip, $email, $password, $political_affiliation, $activated, $random_salt);
-                // Execute the prepared query.
-                if (! $insert_stmt->execute()) {
-                    echo $gender;
-                    echo "error inserting individual";
+            $stmt = $pdo->prepare('CALL insertIndividual(:first_name, :last_name, :username, :birthdate, :gender, :address, :city, :state, :zip, :email, :password, :political_affiliation, :activated, :salt, :verification)');
+            $stmt->bindParam(':first_name', $first_name, PDO::PARAM_STR);
+            $stmt->bindParam(':last_name', $last_name, PDO::PARAM_STR);
+            $stmt->bindParam(':username', $username, PDO::PARAM_STR);
+            $stmt->bindParam(':birthdate', $birthdate, PDO::PARAM_STR);
+            $stmt->bindParam(':gender', $gender, PDO::PARAM_STR);
+            $stmt->bindParam(':address', $address, PDO::PARAM_STR);
+            $stmt->bindParam(':city', $city, PDO::PARAM_STR);
+            $stmt->bindParam(':state', $state, PDO::PARAM_STR);
+            $stmt->bindParam(':zip', $zip, PDO::PARAM_INT);
+            $stmt->bindParam(':email', $email, PDO::PARAM_STR);
+            $stmt->bindParam(':password', $password, PDO::PARAM_STR);
+            $stmt->bindParam(':political_affiliation', $political_affiliation, PDO::PARAM_STR);
+            $stmt->bindParam(':activated', $activated, PDO::PARAM_INT);
+            $stmt->bindParam(':salt', $random_salt, PDO::PARAM_STR);
+            $stmt->bindParam(':verification', $verification, PDO::PARAM_STR);
+            // Execute the prepared query.
+                if ($stmt->execute()) {
+                    echo url().'
+                    /FourthBranch/FourthBranch/frontend
+                    /verify.php?email='.$email.'&hash='.$verification;
+                    $to      = $email; // Send email to our user
+                    $subject = 'The Fourth Branch Signup | Verification'; // Give the email a subject 
+                    $message = '
+                     
+                    Thanks for signing up!
+                    Your account has been created, you can login with your credentials after you have activated your account by pressing the url below.
+                     
+                    Please click this link to activate your account:
+                    '.url().'
+                    /FourthBranch/FourthBranch/frontend
+                    /verify.php?email='.$email.'&hash='.$verification.'
+                     
+                    '; // Our message above including the link
+                                         
+                    $headers = 'From:noreply@yourwebsite.com' . "\r\n"; // Set from headers
+                    #mail($to, $subject, $message, $headers); // Send our email
+
+                    $error_msg = 'Thank you for signing up. The activation email has been sent.';
                     #header('Location: ../error.php?err=Registration failure: INSERT');
+                } else {
+                    echo "There was an error signing up. Please try again or contact us.";
                 }
-            }
+            
             #header('Location: ./index.php');
         } elseif (isset($_POST['nameOrganization'])) {
             // Insert the new organization into the database 
             echo $nameOrganization;
-            $stmt = $pdo->prepare('CALL insertOrganization(:name, :address, :city, :state, :zip, :phone, :legal_status, :cause_concerns, :join_reason, :individual_name, :title_in_organization, :personal_phone, :email, :password, :salt, :verified, :signup_date)');
+            $stmt = $pdo->prepare('CALL insertOrganization(:name, :address, :city, :state, :zip, :phone, :legal_status, :cause_concerns, :join_reason, :individual_name, :title_in_organization, :personal_phone, :email, :password, :salt, :verified, :signup_date, :image, :verification)');
             $stmt->bindParam(':name', $name, PDO::PARAM_STR);
             $stmt->bindParam(':address', $addressOrganization, PDO::PARAM_STR);
             $stmt->bindParam(':city', $cityOrganization, PDO::PARAM_STR);
@@ -173,8 +209,11 @@ if (isset($_POST['p'])) {
             $stmt->bindParam(':salt', $random_salt, PDO::PARAM_STR);
             $stmt->bindValue(':verified', $verified, PDO::PARAM_INT);
             $stmt->bindParam(':signup_date', $signup_date, PDO::PARAM_STR);
+            $stmt->bindValue(':image', $photo, PDO::PARAM_STR);
+            $stmt->bindParam(':verification', $verification, PDO::PARAM_STR);
                 // Execute the prepared query.
                 if ($stmt->execute()) {
+                    $error_msg = 'Thank you for signing up. The Fourth Branch Team will verify your account soon.';
                     #header('Location: ../error.php?err=Registration failure: INSERT');
                 } else {
                     echo $gender;

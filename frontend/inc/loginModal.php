@@ -466,31 +466,27 @@
 					</form>
                 </div>
             </div>
-			<table cellpadding='2' bgcolor='#CC0000' id='confirm2' style='position:fixed; top: 50%; left: 50%;margin-top:-200px;margin-left:-290px;'>
-				<td>
-					<table cellpadding='2' bgcolor='#2F68D1'>
-						<td>
-							<table cellpadding='2' bgcolor='#FFFFFF'>
-								<td width="580">
-									<div style="margin: 15px 15px 15px 15px;">
-										<div style="cursor: pointer;float:right;background-image: url(http://thefourthbranch.co/TheFourthBranch/image/x.png);height:24px;width:24px;" class="xbut"></div>
-										<br style="clear:both" />
-										<p align='center'>
-		                                    This will verify.
-	                                    </p>
-										<div style="float:right;overflow:hidden;">
-											<button class='button' onclick='closeOverlaid();' style='cursor: pointer;position:relative; float: right; width: 50px; margin-left: 25px;'>
-												OK
-											</button>
-										</div>
-										<div style="clear:both;"></div>
-									</div>
-								</td>
-							</table>
-						</td>
-					</table>
-				</td>
-			</table>
+			<?php
+			if (!empty($error_msg)) {
+			?>
+			<div id='confirmVerified' class="double-border" style='padding:15px;position:fixed; top: 50%; left: 50%;width:520px;margin-top:-150px;margin-left:-260px;'>
+				<div style="margin: 15px 15px 15px 15px;">
+					<div style="cursor: pointer;float:right;background-image: url(http://thefourthbranch.co/TheFourthBranch/image/x.png);height:24px;width:24px;" class="xbut"></div>
+					<br style="clear:both" />
+					<p align='center'>
+					<?php  
+ 					   echo $error_msg;
+	                ?>
+	                </p>
+					<div style="float:right;overflow:hidden;">
+						<button class='button' onclick='closeOverlaid();' style='cursor: pointer;position:relative; float: right; width: 50px; margin-left: 25px;'>
+							OK
+						</button>
+					</div>
+					<div style="clear:both;"></div>
+				</div>
+			</div>
+			<?php echo '<script type="text/javascript">confirmVerified();</script>'; $error_msg = '';} ?>
 		</div>
 	</div>
 </div>

@@ -171,6 +171,9 @@ table {
 .textRight {
 	text-align: right;
 }
+.smallSite {
+	display:none;
+}
 .bodyWrap {
 	width:90%;
 	max-width:1080px;
@@ -1336,5 +1339,15 @@ footer {
 		margin-bottom: 1px;
 		display: block;
 		padding: 0;
+	}
+	.smallSite {
+		display: inline;
+	}
+	#extraNav {
+		width:100%;
+		background-color: $darkBlue;
+	}
+	.headerTableLogin {
+		display: none;
 	}
 }

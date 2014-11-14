@@ -1,6 +1,6 @@
 <?php
-include_once './inc/register.inc.php';
 include_once './inc/functions.php';
+include_once './inc/register.inc.php';
 if (isset($_POST)) {
 	//var_dump($_POST);
 }
@@ -17,8 +17,9 @@ if (login_check($mysqli) == true) {
     $logged = 'out';
     $username = "please sign in";
 }
-if (!empty($error_msg)) {
-    echo $error_msg;
+if (isset($_SESSION['error_msg'])) {
+    $error_msg = $_SESSION['error_msg'];
+    unset($_SESSION['error_msg']);
 }
 ?>
 <!DOCTYPE html>
@@ -40,6 +41,10 @@ if (!empty($error_msg)) {
   <![endif]-->
 <!-- authentication info -->
 <script src="js/jquery.js" type="text/javascript"></script>
+<script src="js/html5shiv.min.js"></script>
+<script src="js/sha512.js" type="text/javascript"></script>
+<script src="js/validate.min.js"></script>
+<script src="js/mainJs.js"></script>
 </head>
 <body>
 <div id="summary"></div>
@@ -49,12 +54,18 @@ if (isset($_GET['error']) && $_GET['error'] == 1) {
 	echo '<script>
 	alert("Incorrect Username or Password");
 	</script>';
-}?>
+}
+
+?>
 	<header id="siteHeader">
 		<nav id="extraNav" role="navigation">
 			<a href="about.php">About</a> | 
 			<a href="contact.php">Contact</a> | 
 			<a href="contribute.php">Contribute</a>
+			<div class="smallSite">
+			| <a onclick="a();" style="cursor:pointer;">Login</a> | 
+			<a id="signup-button" onclick="introduction();" style="cursor:pointer;">Signup</a>
+			</div>
 		</nav>
 			<?php 
                 if($logged == 'in') {
@@ -67,7 +78,7 @@ if (isset($_GET['error']) && $_GET['error'] == 1) {
             <?php
             } else {
             ?>
-		<section class="headerLogin">
+		<section class="headerLogin headerTableLogin">
 			<table cellspacing="0">
 			    <form name="Login" action="inc/process_login.php" id="login" method="post">
 					<tbody>

@@ -66,15 +66,17 @@ function login($email, $password, $mysqli) {
                               $password2 . $user_browser);
                     // Login successful.
                     return true;
+                } else {
+                    $_SESSION['error_msg'] = 'Sorry. The provided password and username don\'t match';
                 }
             }
-        } elseif ($stmt = $mysqli->prepare("SELECT id, name, password, salt 
+        } elseif ($stmt = $mysqli->prepare("SELECT id, name, password, salt, verified 
         FROM organizations WHERE email = ? LIMIT 1")) {
             $stmt->bind_param('s', $email);  // Bind "$email" to parameter.   
             $stmt->execute();    // Execute the prepared query.
             $stmt->store_result();
             // get variables from result.
-            $stmt->bind_result($user_id, $username, $db_password, $salt);
+            $stmt->bind_result($user_id, $username, $db_password, $salt, $verified);
             $stmt->fetch();
             // hash the password with the unique salt.
             if ($stmt->num_rows == 1) {
@@ -89,29 +91,34 @@ function login($email, $password, $mysqli) {
                     // Check if the password in the database matches
                     // the password the user submitted.
                     if ($db_password == $password3) {
-                        // Password is correct!
-                        // Get the user-agent string of the user.
-                        $user_browser = $_SERVER['HTTP_USER_AGENT'];
-                        // XSS protection as we might print this value
-                        $user_id = preg_replace("/[^0-9]+/", "", $user_id);
-                        $_SESSION['user_id'] = $user_id;
-                        // XSS protection as we might print this value
-                        $username = preg_replace("/[^a-zA-Z0-9_\-]+/", 
-                                                                    "", 
-                                                                    $username);
-                        $_SESSION['username'] = $username;
-                        $_SESSION['userType'] = 'organization';
-                        $_SESSION['login_string'] = hash('sha512', 
-                                  $password3 . $user_browser);
-                        // Login successful.
-                        return true;
+                        if ($verified == '1') {
+                            // Password is correct!
+                            // Get the user-agent string of the user.
+                            $user_browser = $_SERVER['HTTP_USER_AGENT'];
+                            // XSS protection as we might print this value
+                            $user_id = preg_replace("/[^0-9]+/", "", $user_id);
+                            $_SESSION['user_id'] = $user_id;
+                            // XSS protection as we might print this value
+                            $username = preg_replace("/[^a-zA-Z0-9_\-]+/", 
+                                                                        "", 
+                                                                        $username);
+                            $_SESSION['username'] = $username;
+                            $_SESSION['userType'] = 'organization';
+                            $_SESSION['login_string'] = hash('sha512', 
+                                      $password3 . $user_browser);
+                            // Login successful.
+                            return true;
+                        } else {
+                            $_SESSION['error_msg'] = 'The Fourth Branch Team has not verified your account yet. Please wait or email us for more information.';
+                            return false;
+                        }
                     } else {
-
                         // Password is not correct
                         // We record this attempt in the database
                         $now = time();
                         $mysqli->query("INSERT INTO login_attempts(user_id, time)
                                         VALUES ('$user_id', '$now')");
+                        $_SESSION['error_msg'] = 'Sorry the username and password does not match.';
                         return false;
                     }
                 }

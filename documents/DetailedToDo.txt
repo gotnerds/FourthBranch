@@ -72,3 +72,4 @@ BACKEND:
 		newsfeed 
 		search users
 		all procedures for above
+	Add Static Page to database?

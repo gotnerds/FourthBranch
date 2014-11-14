@@ -165,14 +165,24 @@ function regformhash(form, uid, email, password, conf) {
     return true;
 }
 
-function introduction(){
+function confirmVerified(){
 	if ($('body').hasClass('overlaid')) {
 	} else {
 	$('body').addClass('overlaid');
 	}
-	$('#introduction').show();
-	$('#a, #individual, #organization').hide();
+	$('#confirmVerified').show();
+	$('#a, #individual, #organization, #introduction').hide();
 }
+
+function introduction(){
+    if ($('body').hasClass('overlaid')) {
+    } else {
+    $('body').addClass('overlaid');
+    }
+    $('#introduction').show();
+    $('#a, #individual, #organization,').hide();
+}
+
 function a(){
 	$("input[name='voteUser']").prop('checked',false);
 	if ($('body').hasClass('overlaid')) {
