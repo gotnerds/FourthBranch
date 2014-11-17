@@ -102,24 +102,69 @@ else{
                 <center>
                <h2>Add <?php echo $name;?> Bill</h2>
                <form action="" method="post">
+               <?php 
+                    switch ($name) {
+                        case 'Big':
+                            echo '<table class="table" style="width:80%">
+                                    <tr>
+                                        <th></th>
+                                        <th></th>
+                                    </tr>
+                                    <tr>
+                                        <td><b>Title</b></td>
+                                        <td>
+                                            <textarea name="title" rows=10 cols=45 >
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                    <tr>
+                                        <td><b>State</b></td>
+                                        <td>
+                                            <input type="text" name="state" class="input-medium">
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                    <tr>
+                                        <td><b>URL</b></td>
+                                        <td>
+                                            <input type="text" name="url" class="input-medium">
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                    <tr>
+                                        <td><b>Code</b></td>
+                                        <td>
+                                            <input type="text" name="code" class="input-medium">
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                    <tr>
+                                        <td><b>Open or Closed</b></td>
+                                        <td>
+                                            <input type="text" name="open" class="input-medium">
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                    <tr>
+                                        <td><b>Number of Sections</b></td>
+                                        <td>
+                                            <input type="text" name="num_sections" class="input-medium">
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        ';
+                            break;
+                        
+                        default:
+                            # code...
+                            break;
+                    }
+               ?>
                     <table  class="table" style="width:50%" >
                     <tr>
                     <th></th>
                     <th></th>
                     </tr>
-                    <!--<tr>
-                    <td style="font-weight:bold">Bill Type :</td>
-                    <td>
-                        <input type="text" name="billtype" class="input-medium">
-
-
-                    </td>
-                    
-                    </tr>-->
-
-
-
-
                     <tr>
                     <td style="font-weight:bold">Bill Category 1</td>
                     <td>

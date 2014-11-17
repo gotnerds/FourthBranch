@@ -2,7 +2,6 @@
 session_start();
 include_once("paypalConfig.php");
 include_once("paypal.class.php");
-print_r($_POST);
 
 $paypalmode = ($PayPalMode=='sandbox') ? '.sandbox' : '';
 

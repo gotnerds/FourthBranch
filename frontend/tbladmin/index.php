@@ -3,21 +3,23 @@
 session_start();
 	include("../inc/db_conx.php");
 $con = $db_conx;
-$sql="select * from individuals";
+$sql="SELECT * FROM individuals";
+$sql2 = "SELECT * FROM organizations";
+$queryo=mysqli_query($con,$sql2);
 $query=mysqli_query($con,$sql);
 
 $st=$_GET['status'];
 $id=$_GET['id'];
 $email=$_GET['email'];
 		if($st=="Inactive"){
-			$sql1="update users set activated='1' where id=$id";
+			$sql1="UPDATE individuals SET activated='1' WHERE id=$id";
 			$query1=mysqli_query($con,$sql1);
             emailsent($email);
 			echo"<script>window.location='index.php'</script>";
 			
 		}
 	 if($st=="Active"){
-			$sql1="update users set activated='0' where id=$id";
+			$sql1="UPDATE individuals SET activated='0' WHERE id=$id";
 			$query1=mysqli_query($con,$sql1);
 			echo"<script>window.location='denialemail.php?id=$id&email=$email'</script>";
 			
@@ -106,28 +108,34 @@ if(mail($eml,"Admin",$msg,"From : Info@thefourthbranch.co"))
                         			<th> Username </th>
                         			<th> Email </th>
                         			<th> First Name </th>
-                        			<th> Last Name </th>
+                        			<th> Last Name / Title </th>
                         			<th> Type </th>
 
                         			<th> View </th>
                         			<th> Status </th>
                         		</tr>
                         		
-                        			
                         				<?php
                         					while($res=mysqli_fetch_assoc($query)){
-                        						$username=$res['username'];
+                                                if (isset($res['name'])) {
+                                                  $username = $res['name'];
+                                                } else {
+                        						  $username=$res['username'];
+                                                }
                         						$email=$res['email'];
-                        						$firstname=$res['firstName'];
-                        						$lastname=$res['lastName'];
+                        						$firstname=$res['first_name'];
+                        						$lastname=$res['last_name'];
                         						$type=$res['userType'];
                         						$id=$res['id'];
-                        						$activate=$res['activated'];
-                        						if($type=="i"){
-                        							$typefull="Individual";
-                        						}
-                        						else if($type=="o"){
+                                                if (isset($res['verified'])) {
+                                                    $activate = $res['verified'];
+                                                } else {
+                        						  $activate=$res['activated'];
+                                                }
+                        						if(isset($res['name'])){
                         							$typefull="Organization";
+                        						} else {
+                                                    $typefull="Individual";
                         						}
 
                         						if($activate=="0"){
@@ -135,7 +143,9 @@ if(mail($eml,"Admin",$msg,"From : Info@thefourthbranch.co"))
                         						}
                         						else if($activate=="1"){
                         								$status="Active";
-                        						}
+                        						} else {
+                                                    $status = $activate;
+                                                }
                         					echo "<tr>
                         						<td>
                         							$username
@@ -163,6 +173,64 @@ if(mail($eml,"Admin",$msg,"From : Info@thefourthbranch.co"))
 
                         					</tr>";
                         					}
+
+                                            while($res=mysqli_fetch_assoc($queryo)){
+                                                if (isset($res['name'])) {
+                                                  $username = $res['name'];
+                                                } else {
+                                                  $username=$res['username'];
+                                                }
+                                                $email=$res['email'];
+                                                $firstname=$res['individual_name'];
+                                                $lastname=$res['title_in_organization'];
+                                                $type=$res['userType'];
+                                                $id=$res['id'];
+                                                if (isset($res['verified'])) {
+                                                    $activate = $res['verified'];
+                                                } else {
+                                                  $activate=$res['activated'];
+                                                }
+                                                if(isset($res['name'])){
+                                                    $typefull="Organization";
+                                                } else {
+                                                    $typefull="Individual";
+                                                }
+
+                                                if($activate=="0"){
+                                                        $status="Inactive";
+                                                }
+                                                else if($activate=="1"){
+                                                        $status="Active";
+                                                } else {
+                                                    $status = $activate;
+                                                }
+                                            echo "<tr>
+                                                <td>
+                                                    $username
+                                                </td>
+                                                <td>
+                                                    $email
+                                                </td>
+                                                <td>
+                                                    $firstname
+                                                </td>
+                                                <td>
+                                                    $lastname
+                                                </td>
+                                                <td>
+                                                    $typefull
+                                                </td>
+
+                                                    <td>
+                                                    <a href='view.organization.profile.php?id=$id' >View Profile</a>
+                                                </td>
+
+                                                <td>
+                                                    <a href='index.php?status=$status&id=$id&email=$email' >$status</a>
+                                                </td>
+
+                                            </tr>";
+                                            }
                         				?>
 
                         		</table>

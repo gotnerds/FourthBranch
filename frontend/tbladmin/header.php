@@ -13,7 +13,7 @@
                     
                 </li>
                 <li>
-                    <a  class="dropdown-toggle" data-toggle="dropdown" data-target="#">
+                    <a  class="dropdown-toggle" data-toggle="dropdown" data-target="index.php">
                     
                     <span class="head-icon head-users"></span>
                     <span class="headmenu-label">All Users</span>

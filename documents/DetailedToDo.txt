@@ -1,27 +1,30 @@
 FOURTH BRANCH DETAILED TO DO
 
 FRONT END:
-	Basic Responsive CSS setup
+*	16 - Basic Responsive CSS setup
+*-	2 - error on production session start
 	Login Fixes:
-		Make all fields required
-		Add validation scripts
-		Send email for individuals who sign up with verification link
+*-		8 - Send email for individuals who sign up with verification link
 			create verification hash
-		Check that user is verified before allowing them to login
-		Set up forgot password functionality using verification hash
+*-		8 - Set up forgot password functionality using verification hash
 	Homepage:
-		Trending comments functionality (based on backend procedure not created yet)
-	Infinite Scroll Issues (On Vote, Wall of America, and Proposals):
+		2 - Trending comments functionality (based on backend procedure not created yet)
+		2 - css3 for image
+*-		1 - date above pass/reject
+	8 - Infinite Scroll Issues (On Vote, Wall of America, and Proposals):
 		Search terms DO NOT STAY when new items are loaded
 			fix by using pagination and procedure (not created yet)
 		When the bottom of the page is reached, infinite scroll pushes the footer away (making it unreachable) 
 			fix by making the footer static until the user scrolls again
-	Search Funtionality:
+	2 - Search Funtionality:
 		Sort by (across site)
-	Create appropriations bill page
-	Create closed bill
+	Create big bill functionality
+		sections
+	16 - Create appropriations bill page
+		2 - admin connect
+	8 - Create closed bill
 		implement user's address to compare with local congressmen
-	Tidy and ensure Individuals & Organizations fall within their roles
+	8 - Tidy and ensure Individuals & Organizations fall within their roles
 		Organizations:
 			no voting
 			can make proposal
@@ -39,18 +42,19 @@ FRONT END:
 	Update store:
 		include all items when they're in the database
 		add css to beautify
-	Automate bill of the day and tomorrow's day based on BOTD date
-	Profile Page:
+	8 - Profile Page:
 		Style as directed
-		Create newsfeed area
+		4 - Create newsfeed area
 		create individuals & organizations search area
-		create privacy settings area
-		add follow functionality
+		4 - create privacy settings area
+		3 - add follow functionality
+	8 - All history
 	Comments:
-		Create comments for individual bills & proposals
-		Two tiers of comments and no more. 
+		4 - Create comments for individual bills & proposals
+*		Two tiers of comments and no more. 
 	Admin Panel (thefourthbranch.gotnerds.com/tbladmin)
-		All that is not set up correctly..
+		8 - All that is not set up correctly..
+	4 - proposal sort by
 BACKEND:
 	Login Fixes:
 		procedure to check if param hash = verification hash in database
@@ -63,7 +67,7 @@ BACKEND:
 	Trending Comments Procedure
 	Get closed bill info
 		user's local congressmen voting info
-	Appropriations bill database and procedures
+	Appropriations & Large bill database and procedures
 	Add contribute items to database
 	Following Table Procedures
 	Privacy Table Procedures

@@ -172,14 +172,12 @@ if (isset($_POST['p'])) {
                     Your account has been created, you can login with your credentials after you have activated your account by pressing the url below.
                      
                     Please click this link to activate your account:
-                    '.url().'
-                    /FourthBranch/FourthBranch/frontend
-                    /verify.php?email='.$email.'&hash='.$verification.'
+                    '.url().'/inc/verify.php?email='.$email.'&hash='.$verification.'
                      
                     '; // Our message above including the link
                                          
                     $headers = 'From:noreply@yourwebsite.com' . "\r\n"; // Set from headers
-                    #mail($to, $subject, $message, $headers); // Send our email
+                    mail($to, $subject, $message, $headers); // Send our email
 
                     $error_msg = 'Thank you for signing up. The activation email has been sent.';
                     #header('Location: ../error.php?err=Registration failure: INSERT');
